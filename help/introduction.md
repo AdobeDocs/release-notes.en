@@ -55,3 +55,16 @@ Fixes in Version 4.16.0
 
 + Added a new API that will return a string that contains Visitor ID Service-related URL variables . (iOS - AMSDK-6246 and Android - AMSDK-6247)
 + At privacy opt-out, a request is now sent to Audience Manager to remove the user from all activation and reporting. (iOS - AMSDK-6249 and Android - AMSDK-6252)
+
+## Analytics
+
+Important notifications, new features, updates, and fixes in Adobe Analytics.
+
+June 14, 2018
+
++ Analytics - New Features
++ Analytics - Fixes and Updates
++ Analytics - Administration, Implementation, Developer
++ Important Notices for Analytic Administrators
++ New Features in Adobe Analytics
++ Enhancements and new features released in Adobe Analytics.
