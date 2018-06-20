@@ -68,3 +68,20 @@ June 14, 2018
 + Important Notices for Analytic Administrators
 + New Features in Adobe Analytics
 + Enhancements and new features released in Adobe Analytics.
+
+### Analysis Workspace
+
+#### Dynamic Dimension Columns
+
+Previously, when a dimension was dropped on a column, we showed the top 5 values for non-time dimensions (and 15 for time dimensions) and kept those values static (i.e., the 5 values picked never changed).
+
+From now on, by default, we show dynamic values instead of static ones, with the option to turn them into static values. Other things to note:
+
++ Click (i) on dynamic dimension and you will see the ranking (top 1 of 5) and dimension type.
++ As your data updates, the dynamic dimension columns will update to show the current 5/15 dimension items.
++ A dynamic dimension column that is copied or moved will become static.
++ When hovering a static dimension column you will see a lock icon, indicating that the dimension is static.
+
+>[!VIDEO](https://youtu.be/3m0W-v_8VB8)
+
+### Adobe Analytics Admin
