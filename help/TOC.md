@@ -12,11 +12,13 @@ git-repo: https://git.corp.adobe.com/AdobeDocs/release-notes.en
 
 + [Latest Release Notes](release-notes.md)
 + 2018
-    + [May 2018]()
-    + [April 2018]()
-    + [March 2018]()
-    + [February 2018]()
-    + [January 2018]()
+    + [July 2018](2018/07192018.md)
+    + [June 2018](2018/06142018.md)
+    + [May 2018](2018/05102018.md)
+    + [April 2018](2018/04122018.md)
+    + [March 2018](2018/03082018.md)
+    + [February 2018](2018/02082018.md)
+    + [January 2018](2018/01182018.md)
 + 2017
     + [December 2017]()
     + [November 2017]()
