@@ -42,36 +42,36 @@ topic: Release notes
   <colspec colnum="3" colname="col2" colwidth="3.43*" />
   <thead> 
    <tr> 
-    <th colname="col1" class="entry">Use Case </th> 
-    <th colname="col02" class="entry">Date Published </th> 
-    <th colname="col2" class="entry">Description </th> 
+    <th colname="col1" class="entry">Use Case</th> 
+    <th colname="col02" class="entry">Date Published</th> 
+    <th colname="col2" class="entry">Description</th> 
    </tr>
   </thead> 
   <tbody> 
    <tr> 
-    <td colname="col1"> <p>First-time Setup </p> </td> 
-    <td colname="col02"> <p>October 18, 2017 </p> </td> 
-    <td colname="col2"> <p>The first-time setup recipe walks you through the steps to get started using Experience Cloud solutions. </p> </td> 
+    <td colname="col1"> <p>First-time Setup</p> </td> 
+    <td colname="col02"> <p>October 18, 2017</p> </td> 
+    <td colname="col2"> <p>The first-time setup recipe walks you through the steps to get started using Experience Cloud solutions.</p> </td> 
    </tr> 
    <tr> 
-    <td colname="col1"> <p>Email Optimization </p> </td> 
-    <td colname="col02"> <p>August 15, 2017 </p> </td> 
-    <td colname="col2"> <p>The email optimization use case shows you how to implement an integrated email strategy with analytics, optimization, and campaign management. </p> </td> 
+    <td colname="col1"> <p>Email Optimization</p> </td> 
+    <td colname="col02"> <p>August 15, 2017</p> </td> 
+    <td colname="col2"> <p>The email optimization use case shows you how to implement an integrated email strategy with analytics, optimization, and campaign management.</p> </td> 
    </tr> 
    <tr> 
-    <td colname="col1"> <p>Mobile App Engagement </p> </td> 
-    <td colname="col02"> <p>June 1, 2017 </p> </td> 
-    <td colname="col2"> <p> The mobile app engagement use case shows you how to integrate your mobile apps with the Adobe Experience Cloud to measure user engagement and deliver personalized experiences to your audiences. </p> </td> 
+    <td colname="col1"> <p>Mobile App Engagement</p> </td> 
+    <td colname="col02"> <p>June 1, 2017</p> </td> 
+    <td colname="col2"> <p>The mobile app engagement use case shows you how to integrate your mobile apps with the Adobe Experience Cloud to measure user engagement and deliver personalized experiences to your audiences.</p> </td> 
    </tr> 
    <tr> 
-    <td colname="col1"> <p>Digital Foundation </p> </td> 
-    <td colname="col02"> <p>May 2017 </p> </td> 
-    <td colname="col2"> <p> The Digital Foundation use case helps you implement a digital experience platform with Analytics, optimization, and campaign management. </p> </td> 
+    <td colname="col1"> <p>Digital Foundation</p> </td> 
+    <td colname="col02"> <p>May 2017</p> </td> 
+    <td colname="col2"> <p>The Digital Foundation use case helps you implement a digital experience platform with Analytics, optimization, and campaign management.</p> </td> 
    </tr> 
    <tr> 
-    <td colname="col1"> <p>Customer Intelligence </p> </td> 
-    <td colname="col02"> <p>April 2017 </p> </td> 
-    <td colname="col2"> <p> The Customer Intelligence use case shows you how to create a unified customer profile using multiple data sources, and how to use this profile to build actionable audiences. </p> </td> 
+    <td colname="col1"> <p>Customer Intelligence</p> </td> 
+    <td colname="col02"> <p>April 2017</p> </td> 
+    <td colname="col2"> <p>The Customer Intelligence use case shows you how to create a unified customer profile using multiple data sources, and how to use this profile to build actionable audiences.</p> </td> 
    </tr> 
   </tbody> 
  </tgroup> 
@@ -103,8 +103,8 @@ Release date: ****
   <colspec colnum="2" colname="col2" colwidth="1.75*" />
   <thead> 
    <tr> 
-    <th colname="col1" class="entry">Feature </th> 
-    <th colname="col2" class="entry">Description </th> 
+    <th colname="col1" class="entry">Feature</th> 
+    <th colname="col2" class="entry">Description</th> 
    </tr>
   </thead> 
   <tbody> 
@@ -147,8 +147,8 @@ Release date: ****
   <colspec colnum="2" colname="col2" colwidth="1.75*" />
   <thead> 
    <tr> 
-    <th colname="col1" class="entry">Feature </th> 
-    <th colname="col2" class="entry">Description </th> 
+    <th colname="col1" class="entry">Feature</th> 
+    <th colname="col2" class="entry">Description</th> 
    </tr>
   </thead> 
   <tbody> 
@@ -181,7 +181,7 @@ Release date: ****
 
 ## Experience Cloud ID Service {#mcvid}
 
-<!-- <p>https://wiki.corp.adobe.com/display/MCID/Visitor+API+Release+Log </p> -->
+<!-- <p>https://wiki.corp.adobe.com/display/MCID/Visitor+API+Release+Log</p> -->
 Improvements and fixes for the Experience Cloud ID service.
 
 * List Item
@@ -197,8 +197,8 @@ New features and fixes in the Device Co-op.
   <colspec colnum="2" colname="col2" colwidth="2.07*" /> 
   <thead> 
    <tr> 
-    <th colname="col1" class="entry">Feature </th> 
-    <th colname="col2" class="entry">Description </th> 
+    <th colname="col1" class="entry">Feature</th> 
+    <th colname="col2" class="entry">Description</th> 
    </tr> 
   </thead> 
   <tbody> 
@@ -227,8 +227,8 @@ Launch release notes are updated regularly at [https://docs.adobelaunch.com/gett
   <colspec colnum="2" colname="col2" colwidth="2.07*" /> 
   <thead> 
    <tr> 
-    <th colname="col1" class="entry">Feature </th> 
-    <th colname="col2" class="entry">Description </th> 
+    <th colname="col1" class="entry">Feature</th> 
+    <th colname="col2" class="entry">Description</th> 
    </tr> 
   </thead> 
   <tbody> 
@@ -256,8 +256,8 @@ New features, updates, and fixes to Mobile Services.
   <colspec colnum="2" colname="col2" colwidth="2.76*" />
   <thead> 
    <tr> 
-    <th colname="col1" class="entry">Feature </th> 
-    <th colname="col2" class="entry">Description </th> 
+    <th colname="col1" class="entry">Feature</th> 
+    <th colname="col2" class="entry">Description</th> 
    </tr>
   </thead> 
   <tbody> 
@@ -284,8 +284,8 @@ See [Adobe Mobile Services](https://marketing.adobe.com/resources/help/en_US/mob
   <colspec colnum="2" colname="col2" colwidth="2.76*" />
   <thead> 
    <tr> 
-    <th colname="col1" class="entry">Feature </th> 
-    <th colname="col2" class="entry">Description </th> 
+    <th colname="col1" class="entry">Feature</th> 
+    <th colname="col2" class="entry">Description</th> 
    </tr>
   </thead> 
   <tbody> 
@@ -310,8 +310,8 @@ See [Adobe Mobile Services](https://marketing.adobe.com/resources/help/en_US/mob
   <colspec colnum="2" colname="col2" colwidth="2.07*" /> 
   <thead> 
    <tr> 
-    <th colname="col1" class="entry">Feature </th> 
-    <th colname="col2" class="entry">Description </th> 
+    <th colname="col1" class="entry">Feature</th> 
+    <th colname="col2" class="entry">Description</th> 
    </tr> 
   </thead> 
   <tbody> 
@@ -341,14 +341,14 @@ See [Adobe Mobile Services](https://marketing.adobe.com/resources/help/en_US/mob
   <colspec colnum="3" colname="col2" colwidth="3.25*" />
   <thead> 
    <tr> 
-    <th colname="col1" class="entry">Notice </th> 
-    <th colname="col02" class="entry">Date Added or Updated </th> 
-    <th colname="col2" class="entry">Description </th> 
+    <th colname="col1" class="entry">Notice</th> 
+    <th colname="col02" class="entry">Date Added or Updated</th> 
+    <th colname="col2" class="entry">Description</th> 
    </tr>
   </thead> 
   <tbody> 
    <tr> 
-    <td colname="col1">get the latest from the current month (if applicable) </td> 
+    <td colname="col1">get the latest from the current month (if applicable)</td> 
     <td colname="col02"> </td> 
     <td colname="col2"> </td> 
    </tr> 
@@ -397,47 +397,47 @@ Enhancements and new features released in Adobe Analytics.
   <colspec colnum="3" colname="col2" colwidth="2.85*" /> 
   <thead> 
    <tr> 
-    <th colname="col01" class="entry">Product </th> 
-    <th colname="col1" class="entry">Feature Name </th> 
-    <th colname="col2" class="entry">Description </th> 
+    <th colname="col01" class="entry">Product</th> 
+    <th colname="col1" class="entry">Feature Name</th> 
+    <th colname="col2" class="entry">Description</th> 
    </tr> 
   </thead> 
   <tbody> 
    <tr> 
-    <td namest="col01" nameend="col2"> <p>Analysis Workspace </p> </td> 
+    <td namest="col01" nameend="col2"> <p>Analysis Workspace</p> </td> 
    </tr> 
    <tr> 
     <td colname="col01"> </td> 
-    <td colname="col1"> <p>Feature A </p> </td> 
-    <td colname="col2"> <p>Description A </p> </td> 
+    <td colname="col1"> <p>Feature A</p> </td> 
+    <td colname="col2"> <p>Description A</p> </td> 
    </tr> 
    <tr> 
     <td colname="col01"> </td> 
-    <td colname="col1"> <p>Feature B </p> </td> 
-    <td colname="col2"> <p>Description B </p> </td> 
+    <td colname="col1"> <p>Feature B</p> </td> 
+    <td colname="col2"> <p>Description B</p> </td> 
    </tr> 
    <tr> 
     <td colname="col01"> </td> 
-    <td colname="col1"> <p>Feature C </p> </td> 
-    <td colname="col2"> <p>Description C </p> </td> 
+    <td colname="col1"> <p>Feature C</p> </td> 
+    <td colname="col2"> <p>Description C</p> </td> 
    </tr> 
    <tr> 
-    <td namest="col01" nameend="col2"> <p>Reports &amp; Analytics </p> </td> 
-   </tr> 
-   <tr> 
-    <td colname="col01"> </td> 
-    <td colname="col1"> <p>Feature A </p> </td> 
-    <td colname="col2"> <p>Description A </p> </td> 
+    <td namest="col01" nameend="col2"> <p>Reports &amp; Analytics</p> </td> 
    </tr> 
    <tr> 
     <td colname="col01"> </td> 
-    <td colname="col1"> <p>Feature B </p> </td> 
-    <td colname="col2"> <p>Description B </p> </td> 
+    <td colname="col1"> <p>Feature A</p> </td> 
+    <td colname="col2"> <p>Description A</p> </td> 
    </tr> 
    <tr> 
     <td colname="col01"> </td> 
-    <td colname="col1"> <p>Feature C </p> </td> 
-    <td colname="col2"> <p>Description C </p> </td> 
+    <td colname="col1"> <p>Feature B</p> </td> 
+    <td colname="col2"> <p>Description B</p> </td> 
+   </tr> 
+   <tr> 
+    <td colname="col01"> </td> 
+    <td colname="col1"> <p>Feature C</p> </td> 
+    <td colname="col2"> <p>Description C</p> </td> 
    </tr> 
    <tr> 
     <td colname="col01"> <p> </p> </td> 
@@ -460,7 +460,7 @@ Enhancements and new features released in Adobe Analytics.
     <td colname="col2"> <p> </p> </td> 
    </tr> 
    <tr> 
-    <td namest="col01" nameend="col2"> <p>Video Analytics </p> </td> 
+    <td namest="col01" nameend="col2"> <p>Video Analytics</p> </td> 
    </tr> 
    <tr> 
     <td colname="col01"> <p> </p> </td> 
@@ -481,7 +481,7 @@ Enhancements and new features released in Adobe Analytics.
  </tgroup> 
 </table>
 
-<!-- <p>Include only new features for interfaces and reporting tools </p> -->
+<!-- <p>Include only new features for interfaces and reporting tools</p> -->
 ## Analytics - Fixes and Updates {#analytics-interface}
 
 Fixes and minor updates applied to Adobe Analytics interface tools and components (Analysis Workspace, Reports &amp; Analytics, Report Builder, and so on).
@@ -492,69 +492,68 @@ Fixes and minor updates applied to Adobe Analytics interface tools and component
   <colspec colnum="2" colname="col2" colwidth="2.43*" />
   <thead> 
    <tr> 
-    <th colname="col1" class="entry">Product </th> 
-    <th colname="col2" class="entry">Fix or Update </th> 
+    <th colname="col1" class="entry">Product</th> 
+    <th colname="col2" class="entry">Fix or Update</th> 
    </tr>
   </thead> 
   <tbody> 
    <tr> 
-    <td colname="col1"> <p>Analysis Workspace </p> </td> 
+    <td colname="col1"> <p>Analysis Workspace</p> </td> 
     <td colname="col2"> <p> 
       <ul id="ul_9DD79A9FD0014CA285E372FAD2BF9FE2"> 
-       <li id="li_BE8C3497AA9A4FCA855130A0C7157F12">List Item </li> 
+       <li id="li_BE8C3497AA9A4FCA855130A0C7157F12">List Item</li> 
       </ul> </p> </td> 
    </tr> 
    <tr> 
-    <td colname="col1"> <p>Reports &amp; Analytics </p> </td> 
+    <td colname="col1"> <p>Reports &amp; Analytics</p> </td> 
     <td colname="col2"> <p> 
       <ul id="ul_7CC12EBCEBD943B1B329594D13DCF66C"> 
-       <li id="li_294227DF6E1346F18F5FA38805A5C2C3">List Item </li> 
+       <li id="li_294227DF6E1346F18F5FA38805A5C2C3">List Item</li> 
       </ul> </p> </td> 
    </tr> 
    <tr> 
-    <td colname="col1"> <p>Ad Hoc Analysis </p> </td> 
+    <td colname="col1"> <p>Ad Hoc Analysis</p> </td> 
     <td colname="col2"> <p> 
       <ul id="ul_BB3A5CC8E3D84478B8358145E7CD7CF0"> 
-       <li id="li_50F784B717AA4B0EB56823BEE7BDB9F1">List Item </li> 
+       <li id="li_50F784B717AA4B0EB56823BEE7BDB9F1">List Item</li> 
       </ul> </p> </td> 
    </tr> 
    <tr> 
-    <td colname="col1"> <p>Report Builder </p> </td> 
+    <td colname="col1"> <p>Report Builder</p> </td> 
     <td colname="col2"> <p> 
       <ul id="ul_BCA85EDE14C2445C8C10BDD77ED342A6"> 
-       <li id="li_FD1E9A3A72564BE293BBAF1BD13A0339">List Item </li> 
+       <li id="li_FD1E9A3A72564BE293BBAF1BD13A0339">List Item</li> 
       </ul> </p> </td> 
    </tr> 
    <tr> 
-    <td colname="col1"> <p>Activity Map </p> </td> 
+    <td colname="col1"> <p>Activity Map</p> </td> 
     <td colname="col2"> <p> 
       <ul id="ul_0B70B5AEE69143D9A5FFA290478E845D"> 
-       <li id="li_4188BBF771B4437AA5FF3240C46FB1D3">List Item </li> 
+       <li id="li_4188BBF771B4437AA5FF3240C46FB1D3">List Item</li> 
       </ul> </p> </td> 
    </tr> 
    <tr> 
-    <td colname="col1"> <p>Video Analytics </p> </td> 
+    <td colname="col1"> <p>Video Analytics</p> </td> 
     <td colname="col2"> <p> 
       <ul id="ul_D26E3F16A12846FBB46033D57441E574"> 
-       <li id="li_0BB4508B0DF7457CABB407E555BB0FD8">List Item </li> 
+       <li id="li_0BB4508B0DF7457CABB407E555BB0FD8">List Item</li> 
       </ul> </p> </td> 
    </tr> 
    <tr> 
-    <td colname="col1"> <p>Data Workbench </p> </td> 
+    <td colname="col1"> <p>Data Workbench</p> </td> 
     <td colname="col2"> <p> 
       <ul id="ul_4F05E7897EAD432892D4FEB1E0B4BF9E"> 
-       <li id="li_D4F6ADFFDE93434789C01696EC161A1D">List Item </li> 
+       <li id="li_D4F6ADFFDE93434789C01696EC161A1D">List Item</li> 
       </ul> </p> <p>See <a href="https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/" format="https" scope="external">Data Workbench Release Notes</a>. </p> </td> 
    </tr> 
   </tbody> 
  </tgroup> 
 </table>
 
-<!-- <p>Include topics regarding Analytics &gt; Components or Tools and interfaces. </p> -->
+<!-- <p>Include topics regarding Analytics &gt; Components or Tools and interfaces.</p> -->
 [Top](00_template.md#recipes)
 
-## Analytics - Developer, Administration, Data Collection, and
-			 Implementation {#analytics-implement}
+## Analytics - Developer, Administration, Data Collection, and 			 Implementation {#analytics-implement}
 
 Fixes and updates applied to Analytics administration tools, including implementation and developer (Web Services and SDKs).
 
@@ -564,82 +563,82 @@ Fixes and updates applied to Analytics administration tools, including implement
   <colspec colnum="2" colname="col2" colwidth="2.43*" />
   <thead> 
    <tr> 
-    <th colname="col1" class="entry">Product / Feature </th> 
-    <th colname="col2" class="entry">Update </th> 
+    <th colname="col1" class="entry">Product / Feature</th> 
+    <th colname="col2" class="entry">Update</th> 
    </tr>
   </thead> 
   <tbody> 
    <tr> 
-    <td colname="col1"> <p>Data Feed </p> </td> 
+    <td colname="col1"> <p>Data Feed</p> </td> 
     <td colname="col2"> <p> 
       <ul id="ul_765E0222885F448CAB7FD85989FC3CFC"> 
-       <li id="li_6A0CE5F0867240D4B72733F0F4AC48C8">List Item </li> 
+       <li id="li_6A0CE5F0867240D4B72733F0F4AC48C8">List Item</li> 
       </ul> </p> </td> 
    </tr> 
    <tr> 
-    <td colname="col1"> <p>Data Warehouse </p> </td> 
+    <td colname="col1"> <p>Data Warehouse</p> </td> 
     <td colname="col2"> <p> 
       <ul id="ul_7FBF4B0EBC384CCBA1640F06FA379EAA"> 
-       <li id="li_EB0401D8344340209AF1AFEABE440A34">List Item </li> 
+       <li id="li_EB0401D8344340209AF1AFEABE440A34">List Item</li> 
       </ul> </p> </td> 
    </tr> 
    <tr> 
-    <td colname="col1"> <p>Data Sources </p> </td> 
+    <td colname="col1"> <p>Data Sources</p> </td> 
     <td colname="col2"> <p> 
       <ul id="ul_C0E26AFEDECF4B6BB104A0471D2B7C72"> 
-       <li id="li_721A910D9B794CA3B6ADD1E9D078F7E3">List Item </li> 
+       <li id="li_721A910D9B794CA3B6ADD1E9D078F7E3">List Item</li> 
       </ul> </p> </td> 
    </tr> 
    <tr> 
-    <td colname="col1"> <p>AppMeasurement (Legacy and Mobile SDKs) </p> </td> 
+    <td colname="col1"> <p>AppMeasurement (Legacy and Mobile SDKs)</p> </td> 
     <td colname="col2"> 
      <draft-comment> 
-      <p>https://wiki.corp.adobe.com/display/omtrcache/AppMeasurement+Change+Log </p> 
-      <p>https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/release/index.html </p> 
-     </draft-comment> <p> <b><span class="keyword">AppMeasurement</span> for JavaScript</b> </p> <p> <b>JavaScript H code (Legacy)</b> </p> <p><b>AppMeasurement for Flash</b> </p> <p>See </p> <p> <b> <span class="keyword">AppMeasurement</span> for Other Platforms</b> </p> <p>See <a href="https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/release/index.html" scope="external" format="https">AppMeasurement Release History</a> the following for a release history of <span class="keyword">AppMeasurement</span> on the following platforms: </p> 
+      <p>https://wiki.corp.adobe.com/display/omtrcache/AppMeasurement+Change+Log</p> 
+      <p>https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/release/index.html</p> 
+     </draft-comment> <p> <b><span class="keyword">AppMeasurement</span> for JavaScript</b> </p> <p> <b>JavaScript H code (Legacy)</b> </p> <p><b>AppMeasurement for Flash</b> </p> <p>See</p> <p> <b> <span class="keyword">AppMeasurement</span> for Other Platforms</b> </p> <p>See <a href="https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/release/index.html" scope="external" format="https">AppMeasurement Release History</a> the following for a release history of <span class="keyword">AppMeasurement</span> on the following platforms: </p> 
      <ul id="ul_C1B99FAA7DD94C83902A1148AC80E64C"> 
-      <li id="li_AE016ABC57964DFEAF625E425B4053C6">JavaScript </li> 
-      <li id="li_2DC09F748E0747568BBAFDB609DD0363">iOS </li> 
-      <li id="li_119E6E2E31144A7ABC2091378EC70B8D">Android </li> 
-      <li id="li_AB37D121BA35421D94435B402F3E6E81">Flash-Flex </li> 
-      <li id="li_B0A0790E7606490C9039A76ECC7D0591">OSX </li> 
-      <li id="li_50288BD8BDCD42739CF01F332B8C582B">Windows Phone, XBOX, Silverlight, and .NET </li> 
-      <li id="li_CA6AB124E5814E838D124DFE91A650BE">BlackBerry </li> 
-      <li id="li_1E05337ECB6645DEAEF25ABF15D1D708">Java </li> 
-      <li id="li_15AF207282644E1C9245F5DFFEE5A2AD">PHP </li> 
-      <li id="li_CC00A2D62E7F4C65AC990E0EF8662B7D">Symbian </li> 
+      <li id="li_AE016ABC57964DFEAF625E425B4053C6">JavaScript</li> 
+      <li id="li_2DC09F748E0747568BBAFDB609DD0363">iOS</li> 
+      <li id="li_119E6E2E31144A7ABC2091378EC70B8D">Android</li> 
+      <li id="li_AB37D121BA35421D94435B402F3E6E81">Flash-Flex</li> 
+      <li id="li_B0A0790E7606490C9039A76ECC7D0591">OSX</li> 
+      <li id="li_50288BD8BDCD42739CF01F332B8C582B">Windows Phone, XBOX, Silverlight, and .NET</li> 
+      <li id="li_CA6AB124E5814E838D124DFE91A650BE">BlackBerry</li> 
+      <li id="li_1E05337ECB6645DEAEF25ABF15D1D708">Java</li> 
+      <li id="li_15AF207282644E1C9245F5DFFEE5A2AD">PHP</li> 
+      <li id="li_CC00A2D62E7F4C65AC990E0EF8662B7D">Symbian</li> 
      </ul> 
      <draft-comment> 
-      <p>Writers: When these version numbers change, update the mobile-versions.php on the microsite with latest. Additionally, update https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/release/. </p> 
+      <p>Writers: When these version numbers change, update the mobile-versions.php on the microsite with latest. Additionally, update https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/release/.</p> 
      </draft-comment> </td> 
    </tr> 
    <tr> 
-    <td colname="col1"> <p>Export Release </p> </td> 
+    <td colname="col1"> <p>Export Release</p> </td> 
     <td colname="col2"> 
      <draft-comment> 
-      <p>https://wiki.corp.adobe.com/display/omtrcache/Export+Release+Log </p> 
+      <p>https://wiki.corp.adobe.com/display/omtrcache/Export+Release+Log</p> 
      </draft-comment> <p> </p> </td> 
    </tr> 
    <tr> 
-    <td colname="col1"> <p>Name Lookup Service </p> </td> 
+    <td colname="col1"> <p>Name Lookup Service</p> </td> 
     <td colname="col2"> 
      <draft-comment> 
-      <p>https://wiki.corp.adobe.com/display/omtrcache/Name+Lookup+Service+Release+Log </p> 
+      <p>https://wiki.corp.adobe.com/display/omtrcache/Name+Lookup+Service+Release+Log</p> 
      </draft-comment> <p> </p> </td> 
    </tr> 
   </tbody> 
  </tgroup> 
 </table>
 
-<!-- <p>Includes any topics under Analytics &gt; Admin and Implementation or data collection items. </p> -->
+<!-- <p>Includes any topics under Analytics &gt; Admin and Implementation or data collection items.</p> -->
 <table id="table_A6749BA62D5B40479B949EA1C64E4B7F"> 
  <tgroup cols="2">
   <colspec colnum="1" colname="col1" colwidth="*" />
   <colspec colnum="2" colname="col2" colwidth="*" />
   <thead> 
    <tr> 
-    <th colname="col1" class="entry">Feature </th> 
-    <th colname="col2" class="entry">Description </th> 
+    <th colname="col1" class="entry">Feature</th> 
+    <th colname="col2" class="entry">Description</th> 
    </tr>
   </thead> 
   <tbody> 
@@ -667,8 +666,8 @@ Fixes and updates applied to Analytics administration tools, including implement
   <colspec colnum="2" colname="col2" colwidth="2.79*" /> 
   <thead> 
    <tr> 
-    <th colname="col1" class="entry">Feature </th> 
-    <th colname="col2" class="entry">Description </th> 
+    <th colname="col1" class="entry">Feature</th> 
+    <th colname="col2" class="entry">Description</th> 
    </tr> 
   </thead> 
   <tbody> 
@@ -735,7 +734,7 @@ To learn more about Adobe Campaign, enable yourself at [Adobe Digital Library](h
 
 * [AEM release notes](04122018.md#experiencemanager/section_8CD42C5750254AA88D6ACA7DBFA0D9A1)
 * [Additional resources](04122018.md#experiencemanager/section_B1FAFE0975E74070812BC036D994FBE3)
-<!-- <p>Rick, please update monthly from latest release note file and Gilles edits. </p> -->
+<!-- <p>Rick, please update monthly from latest release note file and Gilles edits.</p> -->
 ## AEM release notes {#section_8CD42C5750254AA88D6ACA7DBFA0D9A1}
 
 Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
@@ -748,8 +747,8 @@ Adobe recommends customers with on-premise deployments to deploy the latest patc
   <thead> 
    <tr> 
     <th colname="col1" class="entry"> </th> 
-    <th colname="col2" class="entry"> Title </th> 
-    <th colname="col3" class="entry"> Description </th> 
+    <th colname="col2" class="entry">Title</th> 
+    <th colname="col3" class="entry">Description</th> 
    </tr>
   </thead> 
   <tbody> 
@@ -865,8 +864,8 @@ New features, fixes, and updates to `keyword Adobe Livefyre`. Livefyre offers a 
   <colspec colnum="2" colname="col2" colwidth="2.79*" /> 
   <thead> 
    <tr> 
-    <th colname="col1" class="entry">Feature </th> 
-    <th colname="col2" class="entry">Description </th> 
+    <th colname="col1" class="entry">Feature</th> 
+    <th colname="col2" class="entry">Description</th> 
    </tr> 
   </thead> 
   <tbody> 

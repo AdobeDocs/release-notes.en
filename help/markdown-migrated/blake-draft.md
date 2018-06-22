@@ -21,18 +21,18 @@ title: Blake RN Draft
   <colspec colnum="2" colname="col2" colwidth="2.58*" />
   <thead> 
    <tr> 
-    <th colname="col1" class="entry">Feature </th> 
-    <th colname="col2" class="entry">Description </th> 
+    <th colname="col1" class="entry">Feature</th> 
+    <th colname="col2" class="entry">Description</th> 
    </tr>
   </thead> 
   <tbody> 
    <tr> 
-    <td colname="col1"> <p>Fatigue Management </p> </td> 
-    <td colname="col2"> <p>Fatigue Management allows you to create fatigue rules to manage over communication with profiles. Fatigue rules are easily built, but are extremely flexible with capabilities such as counting messages across multiple channels (including transactional messages), only counting specific deliveries, or applying rules to specific profiles. </p> </td> 
+    <td colname="col1"> <p>Fatigue Management</p> </td> 
+    <td colname="col2"> <p>Fatigue Management allows you to create fatigue rules to manage over communication with profiles. Fatigue rules are easily built, but are extremely flexible with capabilities such as counting messages across multiple channels (including transactional messages), only counting specific deliveries, or applying rules to specific profiles.</p> </td> 
    </tr> 
    <tr> 
-    <td colname="col1"> <p>Import from a URL </p> </td> 
-    <td colname="col2"> <p>Import from a URL enables you to quickly retrieve your creative content from a website to build emails for any delivery. Additionally, you can streamline your creative process by enabling third parties to share content directly through a URL. Imported content can be flexibly used as part of a single delivery or at the template level ensuring brand consistency for all related campaigns whether they be workflow-based or transactional messages, and include A/B or multivariate testing. Import from a URL automatically converts and tracks all links to monitor email performance through Dynamic Reporting. </p> </td> 
+    <td colname="col1"> <p>Import from a URL</p> </td> 
+    <td colname="col2"> <p>Import from a URL enables you to quickly retrieve your creative content from a website to build emails for any delivery. Additionally, you can streamline your creative process by enabling third parties to share content directly through a URL. Imported content can be flexibly used as part of a single delivery or at the template level ensuring brand consistency for all related campaigns whether they be workflow-based or transactional messages, and include A/B or multivariate testing. Import from a URL automatically converts and tracks all links to monitor email performance through Dynamic Reporting.</p> </td> 
    </tr> 
   </tbody> 
  </tgroup> 
@@ -47,9 +47,9 @@ To learn more about Adobe Campaign, enable yourself at [Adobe Digital Library](h
 **Fixes**
 
 * List Item
-** Mobile Services**
+**Mobile Services**
 
-** Release Date: October 12, 2017**
+**Release Date: October 12, 2017**
 
 New features, updates, and fixes to Mobile Services:
 
@@ -77,9 +77,9 @@ For more information about scheduling recurring push messages, see [Schedule: Pu
 
 For more information about the updated signing in process, see [Signing In](https://marketing.adobe.com/resources/help/en_US/mobile/gs_signin.html).
 
-** Mobile Services SDKs**
+**Mobile Services SDKs**
 
-** Release Date: October 12, 2017**
+**Release Date: October 12, 2017**
 
 Version 4.14.0
 

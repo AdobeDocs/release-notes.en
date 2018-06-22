@@ -29,8 +29,8 @@ Adobe Systems welcome any suggestions or feedback regarding this solution. You c
 ## Legal {#section_A6E1844D4AC2485CADBF6D05116E3D59}
 
 <ul class="simplelist"> 
- <li>© 2016 Adobe Systems Incorporated. All Rights Reserved. </li> 
- <li>Published by Adobe Systems Incorporated. </li> 
+ <li>© 2016 Adobe Systems Incorporated. All Rights Reserved.</li> 
+ <li>Published by Adobe Systems Incorporated.</li> 
 </ul>
 
 [Terms of Use](http://www.adobe.com/go/marketingcloud_terms_of_use) | [Privacy Center](http://www.adobe.com/privacy/policy.html)

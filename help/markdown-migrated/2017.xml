@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<!-- Created with XMetaL (http://www.xmetal.com) -->
+<concept id="concept_6765B708D6554CF8A26196F20ECADCFA"> 
+  <title>2017</title> 
+  <shortdesc><?xm-replace_text Short Description?>
+  </shortdesc> 
+  <conbody>
+	 <p><?xm-replace_text Paragraph?>
+	 </p>
+  </conbody>
+</concept>
