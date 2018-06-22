@@ -1,0 +1,1263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept id="concept_BF160629ED5141AC86D9E3158324828F">
+  <title>Release Notes - March 13 2014</title>
+  <shortdesc>Maintenance release with Social moderation features; general fixes
+	 in Analytics, Marketing Cloud, Target, Media Optimizer. 
+  </shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>release notes</keyword>
+      </keywords>
+      <othermeta name="solution" content="Experience Cloud,Release Notes" />
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Updated: 
+		<b>March 13, 2014</b></p>
+    <ul id="ul_7F679FC5BA7F419D9E4AD0994F15FBF7">
+      <li id="li_274EA376FB214CF9953606ACF4C14556">
+        <xref href="03132014.xml#concept_8ABF3457CA104FB3926CF984A9642F69" format="dita" scope="local">Marketing Cloud and Shared Capabilities</xref>
+      </li>
+      <li id="li_DAB3CC2D37B042418CBE141796D3D03D">
+        <xref href="03132014.xml#concept_30A0CA30F9C14CCC88B819F4CE8A2F73" format="dita" scope="local">Adobe Analytics</xref>
+      </li>
+      <li id="li_A58E47A2113F4A7F89F8F2BFFF4BDB76">
+        <xref href="03132014.xml#concept_E8ECA0AE9197488BB1836CE21E36830A" format="dita" scope="local">Adobe Social</xref>
+      </li>
+      <li id="li_766DF14ED04C4FDC9BFE8FA397BEB31D">
+        <xref href="03132014.xml#concept_3BDAC918AAB24829989A95676C08730D" format="dita" scope="local">Adobe Target</xref>
+      </li>
+      <li id="li_D513EC0B72EC41D3AD404C4FAAC44CD3">
+        <xref href="03132014.xml#concept_5D473CC444A3439EAB5C8FCABBD5F781" format="dita" scope="local">Media Optimizer</xref>
+      </li>
+      <li id="li_F2DD70548558453294870278AF10373C">
+        <xref href="03132014.xml#concept_1786AA33061A495DA9CE4B97AF828683" format="dita" scope="local">Adobe Campaign</xref>
+      </li>
+      <li id="li_A82335C7660A4FFC8F0995F5EC543C19">
+        <xref href="03132014.xml#concept_BB636E487A584CBDAE3578BBA3E12116" format="dita" scope="local">Experience Manager</xref>
+      </li>
+    </ul>
+  </conbody>
+  <concept id="concept_8ABF3457CA104FB3926CF984A9642F69">
+    <title>Marketing Cloud and Shared Capabilities</title>
+    <shortdesc>New features and fixes in the 
+		<keyword>Adobe Marketing Cloud</keyword> and shared capabilities. 
+	 </shortdesc>
+    <conbody>
+      <ul id="ul_02BDBE0B69314C63873263B2B606F22C">
+        <li id="li_DCFCE35581CA4204BE67D2F8CD90FD36">
+          <xref href="03132014.xml#concept_8ABF3457CA104FB3926CF984A9642F69/section_5AD81B0737C843AFB4BE9C4420D70EB3" format="dita" scope="local">Collaboration and Sharing Interface</xref>
+        </li>
+        <li id="li_F18AD3F126F8461A8DF2D8C43FA8611A">
+          <xref href="03132014.xml#concept_8ABF3457CA104FB3926CF984A9642F69/section_6349293559DE4FBDB2BF0514E1C01482" format="dita" scope="local">Adobe Mobile Services</xref>
+        </li>
+        <li id="li_B26D09ADB47E4EFEAC484F793FBD434D">
+          <xref href="03132014.xml#concept_8ABF3457CA104FB3926CF984A9642F69/section_FFA1D17E376D475ABC73A41BB7591543" format="dita" scope="local"> Data Connectors</xref>
+        </li>
+        <li id="li_EA9CC979B3F6481A8E0E08EDA5024CF0">
+          <xref href="03132014.xml#concept_8ABF3457CA104FB3926CF984A9642F69/section_80F6D89166164A5180A302C10352576C" format="dita" scope="local">Dynamic Tag Management</xref>
+        </li>
+      </ul>
+      <section id="section_5AD81B0737C843AFB4BE9C4420D70EB3">
+        <title>Collaboration and Sharing Interface (Feeds and Boards)</title>
+        <p>Version 14.3.1 is a maintenance release that focuses on speed,
+			 stability and security. It does not include major new features. 
+		  </p>
+        <p>
+          <b>Fixes</b>
+        </p>
+        <ul id="ul_6374D4918D574E17BA361ED70F9804C8">
+          <li id="li_1F58CAA7F6DC4475949BEF49F4E57AB4">
+            <!--MAC-15424-->Added the ability to remove your avatar image. 
+			 </li>
+          <li id="li_39337498973E47E4AEBE6BAF53E52167">
+            <!--MAC-19006-->Fixed an issue preventing you from unlinking your 
+				<keyword>Adobe Media Optimizer</keyword> accounts. 
+			 </li>
+        </ul>
+        <p>
+          <b>Known Issues</b>
+        </p>
+        <ul id="ul_AFED54A8980D404191E816FA8D2A2532">
+          <li id="li_9E7D3D2BD02D47F7877B30BA01F23BDD">
+            <!--MAC-15618-->Deleting an image in Marketing Cloud Assets does
+				not warn if the image is used in Adobe Target Essentials. 
+			 </li>
+          <li id="li_60A9B9D855B54E6EB855E3CB06FD70C3">
+            <!--MAC-15069-->Refreshing a card from 
+				<keyword>Analytics</keyword> can sometimes lead to an empty chart
+				in the expanded card. 
+			 </li>
+          <li id="li_B791BF2E160143A5A438B7B169A067FE">
+            <!--MAC-18313-->Users must log out and log back in for all
+				permission and entitlement changes to take effect. 
+			 </li>
+          <li id="li_21134BAF40234D87A0B2FEED983D46A9">
+            <!--MAC-18832-->When 
+				<term>Remember me</term> is not selected during login, the user
+				will be logged out after 15 minutes. 
+			 </li>
+          <li id="li_ABA425281CC54D8588931D15533AA4A9">
+            <!--MAC-18681-->
+            <keyword>Analytics</keyword> solution landing page shows formatting
+				errors. 
+			 </li>
+          <li id="li_488E2FE9F75C478FBA301EC55B998FF4">
+            <!--MAC-5626-->The Comments link on asset card view is not
+				clickable. 
+			 </li>
+          <li id="li_521501AC043E44398ECDC1CC73581A53">
+            <!--MAC-1586-->Marketing Cloud interface can slow down when in
+				parallel use by many users 
+			 </li>
+          <li id="li_E3470E1153FD4EE3851AB7276CAD94A6">
+            <!--MAC-4307-->Marketing Cloud cannot be linked to 
+				<keyword>Adobe Target</keyword>, if the 
+				<keyword>Adobe Target</keyword> login can be used on multiple
+				Target servers. 
+			 </li>
+          <li id="li_21C5A62514C9421AA399541E20376408">
+            <!--MAC-4714-->Logging in to Marketing Cloud takes longer than a
+				second. 
+			 </li>
+          <li id="li_AB8DD8133CC64CA9AA818C8C743AFEA9">
+            <!--MAC-3546-->After adding a custom tag to an asset, no other
+				metadata changes can be persisted. 
+			 </li>
+          <li id="li_2762D0AA08D2460A82B83A5BE155FEB3">
+            <!--MAC-4660-->
+            <keyword>Adobe Media Optimizer</keyword> does not create users
+				automatically when user has been created in Marketing Cloud. 
+			 </li>
+          <li id="li_EFC72414B1C44FD9A1AE6FE0053469A6">
+            <!--MAC-5029-->Options in combo boxes for adding new users
+				temporarily disappear while typing. 
+			 </li>
+          <li id="li_1F48922DAA28404CA53AA857CC4F1ED7">
+            <!--MAC-4694-->Data shared from 
+				<keyword>Media Optimizer</keyword> is mis-represented in Marketing
+				Cloud. 
+			 </li>
+          <li id="li_2C29E3E27ABA4C758D0B53C7C3EEA74D">
+            <!--MAC-18659-->Sharing Flickr images fails. 
+			 </li>
+          <li id="li_8991085B5A9F4FF692394D31E51ED4D9">
+            <!--MAC-18250-->Filters applied to trended reports from 
+				<keyword>Analytics</keyword> are not applied to cards in Marketing
+				Cloud. 
+			 </li>
+          <li id="li_B9AFC4F5A4E74C16945EBDA129CE3AC8">
+            <!--MAC-15506-->Group and entitlement changes made in user
+				management only take effect after a new login. 
+			 </li>
+          <li id="li_ABFB1105447F4E40A8C70B4D8B87DC39">
+            <!--MAC-5273-->
+            <keyword>Search&amp;Promote</keyword> linking is not available from
+				
+				<wintitle>Organizations &amp; Product Access</wintitle>. 
+			 </li>
+          <li id="li_ABE8F8922D2D4488A08C9194CFDE3754">
+            <!--MAC-18996-->User have to refresh the board to make the deleted
+				cards disappear from view. 
+			 </li>
+          <li id="li_8B46CC8A05B841AB9F6E6DB067D0A777">
+            <!--MAC-18962-->Some Excel or CSV files cannot be uploaded to a
+				board. 
+			 </li>
+          <li id="li_DE4D299B76E34D7F8B4268A842EBCD57">
+            <!--MAC-18460-->
+            <keyword>Adobe Media Optimizer</keyword> simulation cards are not
+				rendering correctly. 
+			 </li>
+          <li id="li_72A1F43586CC43E3A7BA3CA61C8E160B">
+            <!--MAC-19014-->Some PNG files cannot be rendered on a card. 
+			 </li>
+          <li id="li_9DF33E870E014822903C0CC0EB5EC359">
+            <!--MAC-19084-->Beta feedback cannot be submitted. 
+			 </li>
+        </ul>
+        <p>See 
+			 <xref href="https://marketing.adobe.com/resources/help/en_US/mcloud/home.html" format="http" scope="external">Getting Started with Adobe Marketing
+				Cloud</xref> for product help. 
+		  </p>
+      </section>
+      <section id="section_6349293559DE4FBDB2BF0514E1C01482">
+        <title>Adobe Mobile services</title>
+        <p> Adobe Mobile services bring together mobile marketing capabilities
+			 for mobile applications from across the 
+			 <keyword>Adobe Marketing Cloud</keyword>. Initially, the Mobile
+			 service provides seamless integration of app analytics and targeting
+			 capabilities from the 
+			 <keyword>Adobe Analytics</keyword> and 
+			 <keyword>Adobe Target</keyword> solutions. Learn more at 
+			 <xref href="https://marketing.adobe.com/resources/help/en_US/mobile/" format="http" scope="external">Adobe Mobile services documentation</xref>. 
+		  </p>
+        <p>Fixes for the March 13, 2014 release: 
+		  </p>
+        <ul id="ul_8142291958A445C8A71AE4BBBC4F0BEA">
+          <li id="li_C1D1A673BC8A4E619388FD03CE02F0DC">
+            <!-- MOB-1693 -->Added support for 
+				<keyword>Target Standard</keyword> users. 
+			 </li>
+          <li id="li_644F945238BE41398ACC2515A7DE9507">
+            <!-- MOB-1657-->Fixed a 
+				<keyword>Target</keyword> issue that shifted the time zone for
+				start and end dates. 
+			 </li>
+          <li id="li_E39D5A0A43A94F7584AA487DC72329AE">
+            <!--MOB-1861-->Changed 
+				<term>Last 30 Days</term> to be 30 days before today. (Previously,
+				the setting included today.) 
+			 </li>
+          <li id="li_67217D20C98F45E19A81532F50C4923D">
+            <!--MOB-1893, MOB-1877-->Improved filtering performance on reports.
+				
+			 </li>
+          <li id="li_22FEB419ECE74F3CA28B198D8C740109">
+            <!--MOB-1897-->Improved the layout of UI elements that were
+				overlapping. 
+			 </li>
+          <li id="li_C8DE15E454844BF4985AB6E4A8B3DE26">
+            <!--MOB-1895, MOB-1881, MOB-1688-->Fixed display issues on 
+				<wintitle>Pathing</wintitle> reports. 
+			 </li>
+          <li id="li_6C47256940C24C798FCEE5A3322545D9">
+            <!--MOB-1711-->Fixed scrolling issues occurring on Line and Bar
+				charts. 
+			 </li>
+          <li id="li_57EB16E68D4E48458FFEE6DEC39CFC70">
+            <!--MOB-102-->Added validation for Target audience before returning
+				to Target activity screen. 
+			 </li>
+          <li id="li_5DD3D3B8A0E54E49A2C2CA462E43D6E9">
+            <!-- MOB-1778, MOB-1707-->Improved how small values display in
+				charts. 
+			 </li>
+          <li id="li_D86EA9346B5E43589715CA1C52861B8B">
+            <!--MOB-1765-->Fix 
+				<term>undefined</term> incorrectly showing as a heading on filtered
+				reports, rather than the variable name. 
+			 </li>
+          <li id="li_00710318FE9048B7AF33B1F91072F059">
+            <!-- MOB-1806-->Fixed a line chart display issue occurring when
+				Hourly granularity is selected and incomplete data is present. 
+			 </li>
+          <li id="li_2A4190495CE343E6A011AABE4CEE9839">
+            <!--MOB-1868-->Fixed an issue causing the View States menu item to
+				become unselected when you are customizing a chart. 
+			 </li>
+        </ul>
+        <p>
+          <xref href="03132014.xml#concept_8ABF3457CA104FB3926CF984A9642F69" format="dita" scope="local">Top</xref>
+        </p>
+      </section>
+      <section id="section_FFA1D17E376D475ABC73A41BB7591543">
+        <title>Data Connectors</title>
+        <p>Not updated in this release. 
+		  </p>
+      </section>
+      <!--<section id="section_234EA9BDE9AB4944A6D97D143E336793"> 
+		  <title>Web Services</title> 
+		  <p>New information for the March 13, 2014 release. 
+		  </p> 
+		  <p><xref href="03132014.xml#concept_8ABF3457CA104FB3926CF984A9642F69" format="dita" scope="local">Top</xref> 
+		  </p> 
+		</section>-->
+      <section id="section_80F6D89166164A5180A302C10352576C">
+        <title>Dynamic Tag Management</title>
+        <p>Features and fixes for dynamic tag management: 
+		  </p>
+        <p>
+          <b>March 11, 2014</b>
+        </p>
+        <ul id="ul_A9012012320B47F683340B3A853E4555">
+          <li id="li_DAED1C7F3A91415C90D5DFCE017134FF"> Fixed issue where test
+				files (<filepath>ftp_test.txt</filepath>) were being left on FTP/SFTP servers
+				after upload was complete. This file is now deleted once the upload is complete
+				as it is only used to test the ability to validate user credentials and is not
+				actually needed by DTM. 
+			 </li>
+          <li id="li_419BB396D2AE43C5844B185DE81BE01C">Fixed issue where custom
+				port for FTP/SFTP was not being saved. 
+			 </li>
+        </ul>
+        <p>
+          <b>March 6, 2014</b>
+        </p>
+        <table id="table_25F7951BC85D4A52B0BA129366795D31">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="col1" colwidth="1.00*" />
+            <colspec colnum="2" colname="col2" colwidth="1.32*" />
+            <thead>
+              <row>
+                <entry colname="col1">Feature 
+					 </entry>
+                <entry colname="col2">Description 
+					 </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry colname="col1">
+                  <p> Added support for SFTP. 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <p> DTM now supports transmitting published files to a
+						  client's server via secure FTP (SFTP). 
+						</p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <p> Added support for hierarchy delimiters. 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <p> A delimiter can now be specified when hierarchies are
+						  used in a rule that sends data to 
+						  <keyword>Adobe Analytics</keyword>. (Previously, the
+						  behavior was that all hierarchies were comma-delimited, and any other delimiter
+						  required use of custom code.) 
+						</p>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <p>Fixes: 
+		  </p>
+        <ul id="ul_7E5474AC7A67422FBD02F185BFADC4BB">
+          <li id="li_E574B294009A4942A7BE9861AFFCAC08"> Fixed issue with SVG
+				images in older IE browsers. SVG images that were clicked in older IE browsers
+				(prior to IE version 9) caused errors and would sometimes cause the browser to
+				crash. 
+			 </li>
+          <li id="li_9877BBC4ECEB4687A511F8DC28E0804D"> Fixed issue with custom
+				links in direct call rules. Using custom links in direct call rules would
+				generate a Javascript error in the browser. 
+			 </li>
+          <li id="li_C8BECEED256E4503B7615571E46B4FCF"> Fixed issue with data
+				element rule conditions referencing the wrong name. If a user renamed a data
+				element, and the data element was being referenced in a rule condition, the
+				rule would try to use the most recently specified name for that data element.
+				This issue occurred even if the name change had not yet been published. 
+			 </li>
+          <li id="li_9A88CB5EFD744D5E9127D2B58799D57F"> Fixed issue where
+				elements without an HREF attribute caused errors when clicked. This issue is
+				regarding the "linker link" functionality in the DTM engine, which attempts to
+				automatically track any clicked elements on the page. Elements without an HREF
+				were generating errors. The "linker link" code now checks that the element is
+				an anchor tag before attempting to track clicks on it. 
+			 </li>
+        </ul>
+        <p>Dynamic tag management releases weekly. See 
+			 <xref href="https://marketing.adobe.com/resources/help/en_US/dtm/whatsnew.html" format="http" scope="external">What's New in Dynamic Tag Management</xref> for
+			 cumulative release notes. 
+		  </p>
+      </section>
+    </conbody>
+  </concept>
+  <concept id="concept_30A0CA30F9C14CCC88B819F4CE8A2F73">
+    <title>Analytics</title>
+    <shortdesc>New features and fixes in 
+		<keyword>Analytics</keyword>. 
+	 </shortdesc>
+    <conbody>
+      <p>
+        <b>Yahoo no longer providing search keywords</b>
+      </p>
+      <p>Yahoo recently made a change to remove keywords from natural searches.
+		  As a result of this change, some searches from Yahoo are not currently being
+		  identified, which is causing a drop in the number of Yahoo searches being
+		  reported. 
+		</p>
+      <p>On March 20, 2014, Adobe Analytics will implement a change to
+		  correctly identify searches from Yahoo. After this date you'll see the number
+		  of searches from Yahoo return to prior levels, and an increase in the instances
+		  of "keyword unavailable" on the Traffic Sources reports as a result of the
+		  removal of keywords by Yahoo. Additionally, Yahoo no longer provides market or
+		  locale information in the referrer, so entries such as "Yahoo! - Japan",
+		  "Yahoo! - Brazil", and so on will no longer appear and their traffic will be
+		  aggregated with the "Yahoo!" item in reports. See 
+		  <xref href="https://marketing.adobe.com/resources/help/en_US/reference/#kb-analytics-keyword-unavailable" format="http" scope="external">Keyword Unavailable in Traffic Sources
+			 reports</xref> for more information. 
+		</p>
+      <p>
+        <b>Internet Explorer 8 Support in the Adobe Analytics web user
+			 interface</b>
+      </p>
+      <p>Beginning on April 17, 2014, Internet Explorer 8 will no longer be a
+		  supported web browser for users of the 
+		  <keyword>Adobe Analytics</keyword> web user interface. Taking this step
+		  allows Adobe to continue to add new functionality which relies upon modern web
+		  technologies and is not available in older browsers (such as IE 8 and earlier).
+		  This change does not impact the measurement of your IE 8 web users within 
+		  <keyword>Adobe Analytics</keyword>. Also, note that this change does
+		  not impact support for Firefox, Chrome, IE 9+, and other modern browsers. Adobe
+		  recommends installing one of these browsers for use with 
+		  <keyword>Adobe Analytics</keyword>. 
+		</p>
+      <p>
+        <b>Upcoming data feed column expansion</b>
+      </p>
+      <p>Adobe is currently evaluating an increase to the size of many data
+		  feed fields. Increasing the field size provides additional functionality in 
+		  <keyword>Adobe Analytics</keyword>. However, the larger fields could
+		  have an impact on customer ETL (extract, transform, load) processes that ingest
+		  data feed data. To prepare for this change, all customers should complete the
+		  changes explained in 
+		  <xref href="https://marketing.adobe.com/resources/help/en_US/sc/clickstream/?f=datafeeds_whatsnew" format="http" scope="external">Data Feed Column Expansion</xref>. Note that the
+		  column expansions that were previously scheduled for April 2014 have been
+		  postponed, and an announcement will be included in the release notes when these
+		  expansions are rescheduled. 
+		</p>
+      <ul id="ul_0B35C12DBB3A4E49BEF41EF488E9E847">
+        <li id="li_ECBD4C998EF44FD9B932E03C26174A3A">
+          <xref href="03132014.xml#concept_30A0CA30F9C14CCC88B819F4CE8A2F73/section_9493BB6A60CB4ACDA4FFDA7F005EC31A" format="dita" scope="local">Marketing Reports &amp; Analytics</xref>
+        </li>
+        <li id="li_30512D363FA546EB8785FD4B3795DB4A">
+          <xref href="03132014.xml#concept_30A0CA30F9C14CCC88B819F4CE8A2F73/section_DCEDAE09A2DC4FFA8C6EEBA5D6EB58C8" format="dita" scope="local">Report Builder</xref>
+        </li>
+        <li id="li_D86A1184D3B44BA7AF3C8BBAA6968A72">
+          <xref href="03132014.xml#concept_30A0CA30F9C14CCC88B819F4CE8A2F73/section_642A2BA2BA994BB8B6E0DCD1FE3F66E9" format="dita" scope="local">Ad Hoc Analysis</xref>
+        </li>
+        <li id="li_09185C415E7943FB8543C809CB047566">
+          <xref href="03132014.xml#concept_30A0CA30F9C14CCC88B819F4CE8A2F73/section_7BF8920CB7884C71A5703C6F14AF5597" format="dita" scope="local">Data Workbench (Analytics Premium)</xref>
+        </li>
+        <li id="li_9C1A7944CAED4B5484563C0FDFDAB9F8">
+          <xref href="03132014.xml#concept_30A0CA30F9C14CCC88B819F4CE8A2F73/section_23F16B5749A341BE84BD7E23875416D5" format="dita" scope="local">Data Warehouse</xref>
+        </li>
+        <li id="li_AD6659B4E05F49A885746C6A0A9DCDA8">
+          <xref href="03132014.xml#concept_30A0CA30F9C14CCC88B819F4CE8A2F73/section_B200909431004B2E86A45A829201C23C" format="dita" scope="local">Clickstream Data Feeds</xref>
+        </li>
+        <li id="li_33C3BD66B3094CDAB6D2BD94F282B9EE">
+          <xref href="03132014.xml#concept_30A0CA30F9C14CCC88B819F4CE8A2F73/section_A3814753948D412EB94AEFEDFB2100D0" format="dita" scope="local">AppMeasurement and Mobile SDKs</xref>
+        </li>
+      </ul>
+      <!--<section id="section_226154B1441C478387C5C49FC0BF8CC7"> 
+		  <title>New Features in Analytics</title> 
+		   
+		  <table id="table_91D1FD20C4C1411292252364328677AF"> 
+			 <tgroup cols="2"><colspec colnum="1" colname="col1" colwidth="1.00*"/><colspec colnum="2" colname="col2" colwidth="2.38*"/><thead> 
+				  <row> 
+					 <entry colname="col1">Feature 
+					 </entry> 
+					 <entry colname="col2">Description 
+					 </entry> 
+				  </row></thead> 
+				<tbody> 
+				  <row> 
+					 <entry colname="col1"> 
+						<p>Segment sharing to 
+						  <keyword>Adobe Target</keyword> 
+						</p> 
+					 </entry> 
+					 <entry colname="col2"> 
+						<p>The following feature is now available in the reports
+						  &amp; analytics 
+						  <wintitle>Segment Definition Builder</wintitle>: 
+						</p> 
+						<p><uicontrol>Make available to Marketing Cloud for Report
+							 Suite &lt;report suite name&gt;</uicontrol>: Enabling this option shares the 
+						  <keyword>Analytics</keyword> segment to the 
+						  <keyword>Marketing Cloud</keyword>, for use in 
+						  <keyword>Target</keyword>. 
+						</p> 
+						<p>In 
+						  <keyword>Target</keyword>, click 
+						  <uicontrol>Import Marketing Cloud Audiences</uicontrol> to
+						  import the segment on the 
+						  <wintitle>Segment</wintitle> page. 
+						</p> 
+					 </entry> 
+				  </row> 
+				</tbody> 
+			 </tgroup> 
+		  </table> 
+		   
+		</section>-->
+      <section id="section_9493BB6A60CB4ACDA4FFDA7F005EC31A">
+        <title>Marketing Reports &amp; Analytics</title>
+        <p>
+          <b>Fixes</b>
+        </p>
+        <p>Fixes for the March 13, 2014 release: 
+		  </p>
+        <ul id="ul_579020B7A3CA4E1E9CA6DC94004E5348">
+          <li id="li_3AE8D294EDCC42339C44DFEF972CDBC9">
+            <!--AN-52629-->When turning on normalization for commerce metrics,
+				the normalization factor was based on Visits and not on the specified metric.
+				Normalization factors are now calculated per metric, instead of using the
+				Visits factor for all commerce events. 
+			 </li>
+          <li id="li_90D4CBF797A54E48A31BC1B763DEB7EE">
+            <!--AN-56405-->Global calculated metrics like Bounce Rate were not
+				available in the<wintitle> Report Suite Total</wintitle> reportlet. Bounce Rate
+				is now available for selection in the 
+				<wintitle>Company Summary</wintitle>, 
+				<wintitle>Report Suite Summary</wintitle>, and 
+				<wintitle>Metric Gauge</wintitle> reportlet types. 
+			 </li>
+          <li id="li_92D40E91894B4CC8BD81E2447246332F">
+            <!--AN-62556-->Publishing Widgets were handling the reports &amp;
+				analytics calendar incorrectly. The fix applies the correct time zone to
+				deployed publishing widgets. 
+			 </li>
+          <li id="li_3BAB83D5C2F7450C856BEB6C9CF7D416">
+            <!--AN-62730-->Unnamed bookmarks and dashboard reportlets could not
+				be edited. The system now assigns the default name “Unnamed Report” to a report
+				without a name. This allows it to be edited. 
+			 </li>
+          <li id="li_882F922C0A3A4B3BA959856E827A316A">
+            <!--AN-62646-->Date format issues in Korean and Simplified Chinese
+				that occurred with using a 2-digit year were fixed by using a 4-digit year like
+				in other locales. 
+			 </li>
+          <li id="li_5908442EA3AA4C49979E0DB0AF1BD9AF">
+            <!--AN-63500-->Dashboard reportlets only showed 30 days in the
+				reporting range. They now show all 31 days of a month. 
+			 </li>
+          <li id="li_D2F43D9E71C74779B4D3362935531E67">
+            <!--AN-55249-->Garbled Japanese characters were displayed in the 
+				<wintitle>Correlation Filter</wintitle> window, and have now been
+				fixed. 
+			 </li>
+          <li id="li_8CDCDFDC97FA44BB9E06C927562C86B3">
+            <!--AN-65948-->Unlike the full report, the conversion funnel
+				reportlet did not display conversions on the dashboard. This fix allows you to
+				toggle summary data on and off in all funnel reportlets
+				(<uicontrol>Layout</uicontrol> &gt; wrench icon). 
+			 </li>
+          <li id="li_98F34889F8C14AFF9308D5C857E4E2DF">Custom currency event
+				values now show the decimal point on the 
+				<wintitle>Real Time Report</wintitle>. <!--AN-78572--></li>
+          <li id="li_031F7DC69BBE46A1819D0B5DCD7B67A7">Fixed an issues that
+				caused some non U.S. States to appear on the Geo &gt; U.S. States Report. <!--AN-78671--></li>
+          <li id="li_1B7C01A918FF4198AC2892A3522A9E37">Fixed an issue that
+				caused visitors to increase due to transaction ID data source uploads.
+				Transaction ID uploads no longer increase visitor counts.<!--AN-58864--></li>
+          <li id="li_6DC0D59754ED4774A7A1014800091638">The 
+				<wintitle>Next Pages</wintitle> and 
+				<wintitle>Previous Pages</wintitle> Reports no longer show
+				additional report pages beyond the final page of the report. <!--AN-78389--></li>
+          <li id="li_D1F4FEAD1F9045A0A3F09B77EC70CBC1">Current data was not
+				being returned for some lifecycle metrics collected by the mobile SDKs. <!--AN-81725--></li>
+          <li id="li_B6ABEE83CD8B4D308119001ABA5C4968">Fixed an issue that
+				prevented breaking down page names by browser width. <!--AN-79812--></li>
+        </ul>
+        <p>
+          <xref href="03132014.xml#concept_8ABF3457CA104FB3926CF984A9642F69" format="dita" scope="local">Top</xref>
+        </p>
+      </section>
+      <section id="section_DCEDAE09A2DC4FFA8C6EEBA5D6EB58C8">
+        <title>Report Builder</title>
+        <p>No fixes for this release. 
+		  </p>
+        <p>
+          <xref href="03132014.xml#concept_8ABF3457CA104FB3926CF984A9642F69" format="dita" scope="local">Top</xref>
+        </p>
+      </section>
+      <section id="section_91E56F69267A439484CF45807489E1BE">
+        <title>Ad Hoc Analysis Maintenance Release</title>
+        <p>Fixes for the March 13, 2014 release: 
+		  </p>
+        <ul id="ul_4FF31A084CAA4CD49946D376AEB59E32">
+          <li id="li_21C0AAA4433F4F3286A6C411C399067D">
+            <!--AN-80535-->Reports in ad hoc analysis displayed blank cells for
+				about 1% of the rows in reports, but when exported into MS Excel these blank
+				cells displayed as "n/a" or infinity characters. It was determined that these
+				blank cell values were not actual numbers. With this fix, ad hoc analysis now
+				reports non-number values as "N/A". This is similar to reports generated from
+				marketing reports &amp; analytics. 
+			 </li>
+          <li id="li_06845F793F3946E7A7A3E01794166339">
+            <!--AN-69054-->Fixed an issue where the "none" line item was
+				classified but would not display correctly. A classified "none" line item now
+				displays similar to reports generated from marketing reports &amp; analytics. 
+			 </li>
+        </ul>
+      </section>
+      <section id="section_7BF8920CB7884C71A5703C6F14AF5597">
+        <title>Data Workbench</title>
+        <p>No fixes for March release. 
+		  </p>
+        <p>
+          <xref href="03132014.xml#concept_8ABF3457CA104FB3926CF984A9642F69" format="dita" scope="local">Top</xref>
+        </p>
+      </section>
+      <section id="section_23F16B5749A341BE84BD7E23875416D5">
+        <title>Data Warehouse</title>
+        <p>Fixes for the March 13, 2014 release: 
+		  </p>
+        <ul id="ul_6DC88336928C44F8AC7530FF09EC92F8">
+          <li id="li_66B52F424C97466994222E1F21ADB7EA">
+            <!--https://issues.adobe.com/browse/AN-82622-->Fixed an issue
+				causing the audit log to show Complete, but no report was sent. 
+			 </li>
+          <li id="li_8A7B19C3DE754D0C91FE6AFC4666FF08">
+            <!--https://issues.adobe.com/browse/AN-81248-->Fixed an issue
+				causing the evaluator to not return data consistently between data warehouse
+				and ad hoc analysis. 
+			 </li>
+          <li id="li_9B4BED960585483F93B8E980B7A8B14D">
+            <!--https://issues.adobe.com/browse/AN-81184-->Fixed an issue
+				causing segment rules using 
+				<term>contains one or all of</term> to not correctly process. 
+			 </li>
+          <li id="li_A2F14C12C70F47E39B74DA6F44A76A9A">
+            <!--https://issues.adobe.com/browse/AN-80703-->Fixed a search
+				keyword issue causing 
+				<term>::empty::</term> to display instead of 
+				<term>keyword unavailable</term>. 
+			 </li>
+          <li id="li_4EB88806CD2C4B59B6314EB9A5EDFE75">
+            <!--https://issues.adobe.com/browse/AN-74926, https://issues.adobe.com/browse/AN-69800-->
+				Fixed data discrepancy issues between ad hoc analysis and data
+				warehouse requests. These issues occurred in participation revenue reporting
+				and in the 
+				<wintitle>Customer Loyalty</wintitle> report. 
+			 </li>
+        </ul>
+        <note>Data warehouse access from Version 14 will be removed in an
+			 upcoming release. 
+			 <xref href="https://marketing.adobe.com/resources/help/en_US/reference/?f=whatsnew_segments" format="http" scope="external">Learn more</xref></note>
+        <p>
+          <xref href="03132014.xml#concept_8ABF3457CA104FB3926CF984A9642F69" format="dita" scope="local">Top</xref>
+        </p>
+      </section>
+      <section id="section_B200909431004B2E86A45A829201C23C">
+        <title>Clickstream Data Feeds</title>
+        <note>
+          <b>Important note for all customers using data feeds:</b> Over the
+			 coming months, Adobe is increasing the size of many data feed fields. These
+			 changes provide additional functionality in 
+			 <wintitle>Adobe Analytics</wintitle>. However, the larger fields
+			 could have an impact on customer ETL (extract, transform, load) processes that
+			 ingest data feed data. To prepare for this change, all customers should
+			 complete the changes explained in 
+			 <xref href="https://marketing.adobe.com/resources/help/en_US/sc/clickstream/?f=datafeeds_whatsnew" format="http" scope="external">Data Feed Column Expansion</xref>. 
+		  </note>
+        <p>
+          <xref href="03132014.xml#concept_8ABF3457CA104FB3926CF984A9642F69" format="dita" scope="local">Top</xref>
+        </p>
+      </section>
+      <section id="section_A3814753948D412EB94AEFEDFB2100D0">
+        <title>AppMeasurement and Mobile SDKs</title>
+        <p>
+          <b>AppMeasurement for JavaScript</b>
+        </p>
+        <p>
+          <b>1.2.4</b>
+        </p>
+        <ul id="ul_51E10DC98D514D3D9BD044B5A211EE6C">
+          <li id="li_F3DDA4E0A485487CA49F3C0AF2089A4B">Fixes for video
+				heartbeat. 
+			 </li>
+        </ul>
+        <p>
+          <b>
+            <keyword>AppMeasurement</keyword> for Other Platforms</b>
+        </p>
+        <p>See 
+			 <xref href="https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/release/index.html" scope="external" format="html">AppMeasurement Release History</xref> the
+			 following for a release history of 
+			 <keyword>AppMeasurement</keyword> on the following platforms: 
+		  </p>
+        <ul id="ul_B20AE0B814074E7887113D26F71AF819">
+          <li id="li_0E5778051926414F8EF1310EE31C5279">JavaScript 
+			 </li>
+          <li id="li_D2B8E769EE444CBC9B06305DAE4B225D">iOS 
+			 </li>
+          <li id="li_B4882878F13E47A189CB24300F5E02E3">Android 
+			 </li>
+          <li id="li_30AFDC29D0494DCE9F5A5483DC1949DA">Flash-Flex 
+			 </li>
+          <li id="li_856331E040C54418B4E86248AB3DD709">OSX 
+			 </li>
+          <li id="li_24991A6893F24277BEBE304402188053">Windows Phone, XBOX,
+				Silverlight, and .NET 
+			 </li>
+          <li id="li_3DAEC196557B4DC980E65CC1063F2010">BlackBerry 
+			 </li>
+          <li id="li_0F692A16727E495AA441355F6E86BC9C">Java 
+			 </li>
+          <li id="li_F6CB5C9C1E384E2E8F61A0C169A65587">PHP 
+			 </li>
+          <li id="li_B495C8F3A90C4C7F9D9CF97C8EC548D6">Symbian 
+			 </li>
+        </ul>
+        <p>
+          <xref href="03132014.xml#concept_8ABF3457CA104FB3926CF984A9642F69" format="dita" scope="local">Top</xref>
+        </p>
+      </section>
+    </conbody>
+  </concept>
+  <concept id="concept_E8ECA0AE9197488BB1836CE21E36830A">
+    <title>Social 3.2.1</title>
+    <shortdesc>Features and fixes for the 
+		<keyword>Social</keyword> 3.2.1 release. 
+	 </shortdesc>
+    <conbody>
+      <p>
+        <b outputclass="head">New Features and Enhancements</b>
+      </p>
+      <table id="table_3CA51E873E324FD4B7CF14190F127A77">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1" colwidth="1.00*" />
+          <colspec colnum="2" colname="col2" colwidth="2.79*" />
+          <thead>
+            <row>
+              <entry colname="col1">Feature 
+				  </entry>
+              <entry colname="col2">Description 
+				  </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row valign="top">
+              <entry colname="col1">
+                <wintitle>Moderation Overview dashboard</wintitle>
+              </entry>
+              <entry colname="col2">
+                <p>The 
+						<wintitle>Moderation Overview</wintitle> dashboard provides a
+						complete view of your organization's moderation efforts. You can view
+						moderation statistics for individual members of your team, see how long it
+						takes your team to resolve escalated issues, determine which time of day most
+						issues are escalated, compare the number of unresolved issues to resolved
+						issues, and more. 
+					 </p>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry colname="col1">
+                <wintitle>Unified moderation 
+					 </wintitle>
+              </entry>
+              <entry colname="col2">
+                <p>The enhanced multi-platform moderation feature lets you
+						moderate inbound content from Facebook, Twitter, LinkedIn, and on-site social
+						communities powered by Adobe Experience Manager. The unified moderation feature
+						lets you create customized moderation feeds, side-by-side in one dashboard.
+						Using auto-delete rules, inappropriate content posted to your owned Facebook
+						pages can be automatically removed based on a fully configurable list of
+						keywords. 
+					 </p>
+                <p>
+                  <note>The legacy Twitter moderation tool has been deprecated.
+						  Use the unified moderation tool to moderate Twitter content. The legacy
+						  Facebook moderation tool is being deprecated, but you can still access it from
+						  the left navigation menu. After you are comfortable with the new workflows for
+						  Facebook moderation within unified moderation, contact your Social Account
+						  Manager to have the legacy Facebook moderation tool removed from your
+						  configuration. You should not use both moderation tools simultaneously. Your
+						  account admin should consult the 
+						  <xref href="https://marketing.adobe.com/resources/help/en_US/social/moderation_migration.pdf" format="http" scope="external">Moderation Tool Migration Guide</xref> to decide
+						  which tool to use. If you have further questions, contact your Social Account
+						  Manager. 
+						</note>
+                </p>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry colname="col1">
+                <wintitle>Social Buzz</wintitle> report enhancements 
+				  </entry>
+              <entry colname="col2">
+                <p>The 
+						<wintitle>Social Buzz</wintitle> report includes the
+						following enhancements: 
+					 </p>
+                <ul id="ul_A7027FB76FD843CE9695619BB593D7FB">
+                  <li id="li_EF3E0A3CDCB346D1B37286E410701618">
+                    <p>
+                      <b>Sentiment Tuning: 
+							 </b>Manually override the sentiment of a post from the 
+							 <wintitle>Social Buzz</wintitle> report. Adjusting
+							 sentiment feeds the sentiment algorithm for a specific report suite, making the
+							 algorithm smarter and more accurate to a specific client’s needs over time. 
+						  </p>
+                  </li>
+                  <li id="li_4D77BEA2987A473E8FAA47B4E4C96949">
+                    <p>
+                      <b>Authors Widget: 
+							 </b>The 
+							 <wintitle>Authors</wintitle> widget in the 
+							 <wintitle>Social Buzz</wintitle> report contains a list
+							 of your top authors. The widget respects currently set filters. This feature
+							 lets you see which authors are mentioning content captured by your listening
+							 rules the most. 
+						  </p>
+                  </li>
+                  <li id="li_04FB3B239E4045FB97967A18106D6EE9">
+                    <p>
+                      <b>Post Details: 
+							 </b>Expand a post to view more details and metadata about
+							 each post. 
+						  </p>
+                  </li>
+                  <li id="li_34B71681524047CE8F03F86FF0995960">
+                    <p>
+                      <b>New Filters: 
+							 </b>You can now filter the 
+							 <wintitle>Social Buzz</wintitle> report by 
+							 <wintitle>Emotion</wintitle>, 
+							 <wintitle>Klout Score</wintitle>, and 
+							 <wintitle>Country</wintitle>. 
+						  </p>
+                  </li>
+                </ul>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry colname="col1">Social user profiles 
+				  </entry>
+              <entry colname="col2">
+                <p>Obtain a cross-social network view of the people you are
+						engaging with using Social with moderation history and internal notes on each
+						profile. 
+					 </p>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry colname="col1">
+                <wintitle>Rule Builder</wintitle> enhancements 
+				  </entry>
+              <entry colname="col2">
+                <p>Enhancements to the 
+						<wintitle>Rule Builder</wintitle> make creating listening
+						rules more intuitive. The 
+						<wintitle>Platforms</wintitle> section now displays above the
+						
+						<wintitle>Collection Dates</wintitle> section to make the
+						workflow more efficient. In addition, the 
+						<wintitle>Basic</wintitle> tab (previously named 
+						<wintitle>Advanced</wintitle>) is now the default, which lets
+						you create listening rules using boolean logic. 
+					 </p>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry colname="col1">Quick-select 
+					 <wintitle>Social Properties</wintitle> selector 
+				  </entry>
+              <entry colname="col2">
+                <p>The 
+						<wintitle>Social Properties</wintitle> selection widget in
+						the 
+						<wintitle>Publisher</wintitle> displays the properties that
+						you have most frequently posted to in the last 30 days. This feature lets you
+						quickly find and publish content to those properties that are most important to
+						you. 
+					 </p>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry colname="col1">
+                <wintitle>Shorten URL</wintitle> feature for URLs 
+				  </entry>
+              <entry colname="col2">
+                <p>When Auto-Shorten is off, the 
+						<wintitle>Shorten URL</wintitle> feature lets publishers
+						shorten links easily from the 
+						<wintitle>Publisher</wintitle> and 
+						<wintitle>Content Calendar</wintitle>. The 
+						<wintitle>Shorten URL</wintitle> feature manually triggers
+						URL shortening for all links within the post and selects the last-used
+						shortener by default. The user can override the last-used shortener. 
+					 </p>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry colname="col1">
+                <b>Adobe Labs:</b>
+                <wintitle>Social Buzz</wintitle>
+                <wintitle>Emotion</wintitle> widget 
+				  </entry>
+              <entry colname="col2">
+                <p>Get a sneak peek at the new 
+						<wintitle>Emotion</wintitle> widget. The 
+						<wintitle>Emotion</wintitle> wheel in the 
+						<wintitle>Social Buzz</wintitle> report contains a wheel
+						graph that displays the percentage of captured posts in each emotion category. 
+					 </p>
+              </entry>
+            </row>
+            <row valign="top">
+              <entry colname="col1">Owned Social Insights 
+				  </entry>
+              <entry colname="col2">Owned Social Insights for LinkedIn and
+					 Google+ is available for select companies. Inquire with your Account Manager
+					 for more details. 
+				  </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>
+        <b>Fixes</b>
+      </p>
+      <p>In addition to the new features and enhancements described above,
+		  enhancements and fixes in 
+		  <keyword>Social</keyword> 3.2.1 focus on improved performance,
+		  scalability, usability, and reliability. More than 260 back-end fixes and
+		  enhancements address these areas. The fixes highlighted below describe
+		  resolutions for the more important customer-reported issues. 
+		</p>
+      <ul id="ul_2811C8B365B6401AA951BD2C89339AA2">
+        <li id="li_E30464DFF43749B5AA75BBA5793035FD">Fixed a display issue in
+			 the 
+			 <wintitle>Post Performance</wintitle> section of the 
+			 <wintitle>Marketing Overview</wintitle> dashboard. The labels in the
+			 column headers now display correctly. <!--AS-11769--></li>
+        <li id="li_F62E15ABA09648C598E1BB205EB32DAF">Fixed an issue that
+			 prevented the 
+			 <wintitle>Campaigns</wintitle> widget from loading on the 
+			 <wintitle>Marketing Overview</wintitle> dashboard. <!--AS-17394--></li>
+        <li id="li_A2129E92C00944378B6227F169575106">Fixed an issue that caused
+			 the 
+			 <wintitle>Posted By</wintitle> column to be missing from a downloaded
+			 
+			 <wintitle>Post Analytics</wintitle> report. <!--AS-16109--></li>
+        <li id="li_C5DF9734B77F49C2A4493EF44AFF4AA6">Fixed an issue that caused
+			 inconsistencies for posts containing links between the 
+			 <wintitle>Post Analytics</wintitle> and 
+			 <wintitle>Post Details</wintitle> reports. <!--AS-17916--></li>
+        <li id="li_999DD4DCDA1F431ABC49C6023D4477C0">Fixed an issue that caused
+			 inconsistent display issues for reach metrics between the 
+			 <wintitle>Post Analytics</wintitle> and 
+			 <wintitle>Post Details</wintitle> reports. <!--AS-17875--></li>
+        <li id="li_B02B0277FDA94DA7A67A7A4E1C440537">Fixed an issue that
+			 prevented data for some tweets to be included in the 
+			 <wintitle>Post Analytics</wintitle> report's exported file. <!--AS-17351--></li>
+        <li id="li_D02DB1DF88D148318473B64E7A9B28C4">Changed 
+			 <term>Reach</term> to 
+			 <term>Followers</term> for Google+ pages in the 
+			 <wintitle>Post Analytics</wintitle> and 
+			 <wintitle>Post Details</wintitle> reports and in their respective
+			 exported files. <!--AS-10214--></li>
+        <li id="li_BC12E039E48B4DDF9E253A6CC4D95B0C">Fixed an issue that caused
+			 inconsistencies between the Link Click and Link Click (Unique) values in the 
+			 <wintitle>Post Analytics</wintitle> report. <!--AS-17015--></li>
+        <li id="li_9FFC7D0552EC4BDFAE6A8D9E4380CC74">Fixed an issue that caused
+			 duplicate tweets to display in the 
+			 <wintitle>Post Analytics</wintitle> report and in its exported file.
+		  <!--AS-17504--></li>
+        <li id="li_06DF8EEBA711444C9E186943367D8E20">The first line of each
+			 post in the 
+			 <wintitle>Post Analytics</wintitle> report now contains the name of
+			 the property to which the content was posted. <!--AS-6035--></li>
+        <li id="li_041634121A7448578CD8B88C691F4887">Fixed an issue that caused
+			 the names of filtered properties to not display at the top of the 
+			 <wintitle>Post Analytics</wintitle> report. The names of individual
+			 properties now display properly and the appropriate platform's icon (Twitter,
+			 Facebook, etc.) now displays next to each property's name. <!--AS-3341--></li>
+        <li id="li_80592BF1288C43B693F224473A951CA4">Fixed an issue that caused
+			 empty rows to display in the 
+			 <wintitle>Post Analytics</wintitle> roll-up report for LinkedIn
+			 properties. <!--AS-17743--></li>
+        <li id="li_8C68089148D9401998C00306D54E0DE4">Fixed an issue in the 
+			 <wintitle>Post Details</wintitle> report that caused total engagement
+			 numbers for LinkedIn posts to not display. <!--AS-16973--></li>
+        <li id="li_EE9301A9E3254655B51BF23E9E249DE1">Fixed an issue that caused
+			 engagement number discrepancies between the 
+			 <wintitle>Post Analytics</wintitle> roll-up report and the 
+			 <wintitle>Post Details</wintitle> report. <!--AS-17453--></li>
+        <li id="li_66AEA568868D48A7899457A3A00E679A">Fixed a display issue on
+			 the 
+			 <wintitle>Property Details</wintitle> report for YouTube and LinkedIn
+			 properties if no posts were made to those platforms during the selected date
+			 range. The 
+			 <wintitle>Top Post</wintitle> widget now displays on the right side
+			 from which you can write a new post. <!--AS-17845--></li>
+        <li id="li_9368DC26D640432F939C3E1228C7CC5E">Fixed an issue where an
+			 error was thrown from the 
+			 <wintitle>Property Details</wintitle> page for a Twitter account if
+			 no posts were made to that account during the selected date range. <!--AS-17599--></li>
+        <li id="li_1DC20BA3D32A40F3A1E7368305AD7DBD">Fixed an issue in the 
+			 <wintitle>Post Details</wintitle> report that sometimes caused posts
+			 from different companies to display if users changed companies during the same
+			 browser session. <!--AS-170601--></li>
+        <li id="li_85AFC6D6EA2948CC9D6A718A73941D42">Reordered the filter items
+			 in the 
+			 <wintitle>Analytics</wintitle> and 
+			 <wintitle>Publish</wintitle> modules so they are consistent. <!--AS-1584--></li>
+        <li id="li_594C0F723B534490A41B90419DFA293C">Changed the chart label in
+			 the 
+			 <wintitle>Competitor Analytics</wintitle> report to match the
+			 selected metric name. For example, 
+			 <term>Post Engagements</term> now reads 
+			 <term>Post Engagements (Public)</term>, which also displays in the
+			 metric selector. <!--AS-13132--></li>
+        <li id="li_A1CE573C1D64444498E427BE8FAE56C3">Fixed an issue that
+			 prevented users from adding a new competitor (<uicontrol>Settings</uicontrol>
+			 &gt; 
+			 <uicontrol>Competitor Pages</uicontrol>). After entering information
+			 for a valid property, the 
+			 <wintitle>Save</wintitle> button is now enabled. <!--AS-17875--></li>
+        <li id="li_BF33B1EE3C2B4E049608CC43FB2C94B3">Fixed an issue that caused
+			 photos in a Facebook album to be ordered differently than shown in the 
+			 <keyword>Social</keyword> preview. <!--AS-15539--></li>
+        <li id="li_4EAD4E1D1D594D259B3F53BE335697B8">Fixed an issue that
+			 infrequently caused errors when users tried to upload images using URLs. <!--AS-218--></li>
+        <li id="li_28B7B26FE8574D96BA1C3442EBA71795">Fixed an issue when
+			 posting a link to a YouTube video that caused the Social preview and actual
+			 post on Google+ to differ. <!--AS-12627--></li>
+        <li id="li_5FCF28A94FB845C9B3B7F0205E975444">Fixed an issue that
+			 sometimes caused posts to fail with an "undefined method 'parse_v3_params' for
+			 #" message. <!--AS-9495--></li>
+        <li id="li_93EB82DFFE8B4B6A862651DB9A829390">Fixed an issue that caused
+			 the 
+			 <wintitle>Delete</wintitle> option to incorrectly display on the
+			 master post of content posted to multiple platforms that include LinkedIn. <!--AS-2641--></li>
+        <li id="li_86F9038351814D3398BE84FBCAA8F75A">Fixed an issue that caused
+			 tweets containing links to be unclassified and not display properly in the 
+			 <wintitle>Campaign Details</wintitle> report. <!--AS-1681--></li>
+        <li id="li_2F53DE2DB8564DA4B31A880111AADDB9">Reworded the message
+			 displayed when users create a template from a draft in the 
+			 <wintitle>Publisher</wintitle>. The new message more accurately
+			 describes the action taken. <!--AS-1675--></li>
+        <li id="li_0C56523CD26740D8A678BA2F3549598A">Fixed an issue that caused
+			 the 
+			 <wintitle>Google+ Pages</wintitle> menu item to not display in the
+			 left navigation under 
+			 <wintitle>Settings</wintitle>. <!--AS-13028--></li>
+        <li id="li_AA87B4176DD5419CBAEE1580DDE68942">Fixed an issue that caused
+			 some listening rule variables to be truncated and not work correctly. <!--AS-17549--></li>
+        <li id="li_0DD75C4DEFC3472D871E1AE722122EBF">Removed the number of
+			 followers for Twitter accounts from the 
+			 <wintitle>Twitter Accounts</wintitle> page
+			 (<wintitle>Settings</wintitle> &gt; 
+			 <wintitle>Twitter Accounts</wintitle>). You can view the number of
+			 followers for each owned Twitter account on the 
+			 <wintitle>Properties</wintitle> page (<wintitle>Settings</wintitle>
+			 &gt; 
+			 <wintitle>Properties</wintitle>). <!--AS-11943--></li>
+        <li id="li_B107EDFEE36946D1857476C1FAAB4CDF">Fixed an issue that
+			 prevented a user from removing a Facebook account from 
+			 <keyword>Social</keyword> if that user is the only admin linked to
+			 that account. <!--AS-16768--></li>
+        <li id="li_116B3FAF42774A6DBC85CFB50A58E805">Fixed an issue that caused
+			 an error when accessing Settings &gt; Facebook pages if the report suite does
+			 not have a name. <!--AS-16256--></li>
+        <li id="li_BF88335B0A82491A87FAA389E99E6E09">Changed the way ownership
+			 for a Google+ page works when a role is removed from an admin of that page.
+			 Admins are now shown as page owners and anyone who is an admin can then change
+			 the configuration for that page. <!--AS-11188--></li>
+        <li id="li_0982D2CCC3C74C49922996081FCAD71E">Fixed an issue that caused
+			 users problems when selecting 
+			 <wintitle>Owned</wintitle> or 
+			 <wintitle>All</wintitle> in the 
+			 <wintitle>Permission/Ownership</wintitle> section in 
+			 <keyword>Analytics</keyword><wintitle>Admin Tools</wintitle>. <!--AS-11989--></li>
+      </ul>
+      <p>
+        <xref href="03132014.xml#concept_8ABF3457CA104FB3926CF984A9642F69" format="dita" scope="local">Top</xref>
+      </p>
+    </conbody>
+  </concept>
+  <concept id="concept_3BDAC918AAB24829989A95676C08730D">
+    <title>Target</title>
+    <shortdesc>New features and fixes in 
+		<keyword>Target</keyword>. 
+	 </shortdesc>
+    <conbody>
+      <p>
+        <b>Target Advanced 3.9.1</b>
+      </p>
+      <p>New information for the March 13, 2014 release. 
+		</p>
+      <table id="table_5BC039E05FD84CDC8F3F74A9BDAFBBEE">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1" colwidth="*" />
+          <colspec colnum="2" colname="col2" colwidth="*" />
+          <thead>
+            <row>
+              <entry colname="col1">Enhancement 
+				  </entry>
+              <entry colname="col2">Description 
+				  </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">
+                <!--TGT-1346-->mbox.js improvement 
+				  </entry>
+              <entry colname="col2"> mbox.js now supports using a custom global
+					 mbox name for Target Standard 
+				  </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>
+        <b>Fixes</b>
+      </p>
+      <p>This release includes the following fixes: 
+		</p>
+      <p>
+        <ul id="ul_DBFCA4315BF14A05B6D319DDD1FF4E10">
+          <li id="li_1A5CDBA6A35D46D787A9471683A8EA9B">
+            <!--TNT-18669-->Fixed an error that caused mbox.js to fail on some
+			 product pages. 
+		  </li>
+        </ul>
+      </p>
+      <p>
+        <b>Target Standard 1.6</b>
+      </p>
+      <p>New information for the March 13, 2014 release: 
+		</p>
+      <table id="table_6299F83B85B54E13BC58C8337D5C5899">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1" colwidth="*" />
+          <colspec colnum="2" colname="col2" colwidth="*" />
+          <thead>
+            <row>
+              <entry colname="col1">Feature 
+				  </entry>
+              <entry colname="col2">Description 
+				  </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">
+                <!--TGT-45-->Localized versions available 
+				  </entry>
+              <entry colname="col2">
+                <keyword>Target Standard</keyword> has been localized in
+					 French, German, Japanese, and Spanish 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <!--TGT-38-->Simplified implementation 
+				  </entry>
+              <entry colname="col2">
+                <keyword>Target Standard</keyword> has been improved to make it
+					 easier to implement. 
+				  </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>
+        <b>Fixes</b>
+      </p>
+      <p>This release includes the following bug fixes: 
+		</p>
+      <p>
+        <ul id="ul_B4EFE4BB7BDD4343ACEB6734ED36D226">
+          <li id="li_D09A73FEA7744AF280F94C64FAE5F976">
+            <!--TGT-676-->Fixed an issue that caused Remove Item and Edit HTML
+			 to not work in certain cases. 
+		  </li>
+        </ul>
+      </p>
+      <p>
+        <b>Known Issues</b>
+      </p>
+      <p>This release includes the following known issues. This issue will be
+		  fixed in an upcoming update. 
+		</p>
+      <p>
+        <ul id="ul_5BF510AB83C542719EDA95A0007B0415">
+          <li id="li_1C943382F7EB411E9ACA1DA3385B0901">
+            <!--TGT-1975-->Winner works based on Goal only and does not change
+			 based on metrics selected. 
+		  </li>
+          <li id="li_EE49A62A25A84923893AC0028DC1B509">
+            <!--TGT-585-->Click tracking does not work on elements that have
+			 been rearranged using the 
+			 <wintitle>Visual Experience Composer</wintitle>. Avoid setting up
+			 click tracking on rearranged elements until this is bug is fixed. 
+		  </li>
+          <li id="li_50747E2E534247199597CD4034416ACA">
+            <!--TGT-2240-->A synchronization error occurs if Geo audiences are
+			 created in 
+			 <keyword>Target Standard</keyword> when geolocation is disabled in 
+			 <keyword>Target Advanced</keyword>. 
+		  </li>
+          <li id="li_D327AB7AAD6045C297BC0FF89838614F">
+            <!--TGT-670-->Unable to swap an image when the image is referenced
+			 in CSS. 
+		  </li>
+        </ul>
+      </p>
+      <p>
+        <xref href="03132014.xml#concept_8ABF3457CA104FB3926CF984A9642F69" format="dita" scope="local">Top</xref>
+      </p>
+    </conbody>
+  </concept>
+  <concept id="concept_5D473CC444A3439EAB5C8FCABBD5F781">
+    <title>Media Optimizer</title>
+    <shortdesc>New features and fixes in 
+		<keyword>Media Optimizer</keyword>. 
+	 </shortdesc>
+    <conbody>
+      <p>
+        <b>Audience Management DIL 4.8 
+		  </b>
+      </p>
+      <p>Updated February 6, 2014 
+		</p>
+      <ul id="ul_7C78DF25C3994F94AFEB10193FF72708">
+        <li id="li_74CD964740DB42AF9DAFFBCFA5AB97C8">Released DIL 4.8 to fix a
+			 compatibility issue with the AppMeasurement for JavaScript library. Analytics
+			 customers must also update to version 1.2.2 of AppMeasurement for JavaScript
+			 (this change does not impact customers on H code). 
+		  </li>
+      </ul>
+      <ul id="ul_FCDE1E27C9DB42CCBB444AD4DC32ACCC">
+        <li id="li_DA367E83428242E28D564B6DEA65DB65">
+          <xref href="https://marketing.adobe.com/resources/help/en_US/demdex/c_release_notes.html" format="http" scope="external">Audience management release notes</xref>. 
+		  </li>
+        <li id="li_AE153E00C0D84393946A9D4444C0ACB0">Advertising management –
+			 Help for advertising management is available in the product at 
+			 <menucascade><uicontrol>Help</uicontrol><uicontrol>Help
+				  Contents</uicontrol></menucascade>. 
+		  </li>
+      </ul>
+      <p>
+        <xref href="03132014.xml#concept_8ABF3457CA104FB3926CF984A9642F69" format="dita" scope="local">Top</xref>
+      </p>
+    </conbody>
+  </concept>
+  <concept id="concept_1786AA33061A495DA9CE4B97AF828683">
+    <title>Campaign</title>
+    <shortdesc> Campaign provides an intuitive, automated way to deliver
+		one-to-one messages across online and offline marketing channels. 
+	 </shortdesc>
+    <conbody>
+      <p>For help and support, sign in to the 
+		  <xref href="https://support.neolane.net/doc/AC6.1/en/home.html" format="https" scope="external">Adobe Campaign Extranet</xref>. 
+		</p>
+      <p>
+        <xref href="03132014.xml#concept_8ABF3457CA104FB3926CF984A9642F69" format="dita" scope="local">Top</xref>
+      </p>
+    </conbody>
+  </concept>
+  <concept id="concept_BB636E487A584CBDAE3578BBA3E12116">
+    <title>Experience Manager</title>
+    <shortdesc>For the latest release information, see: 
+	 </shortdesc>
+    <conbody>
+      <ul id="ul_F0D6F42D46B74A16BF65D23B4AC9D1B3">
+        <li id="li_59AF645C4EFC4C448FA183900669D296">
+          <xref href="http://dev.day.com/docs/en/cq/current/release_notes/overview.html" format="http" scope="external">Adobe Experience Manager</xref>
+        </li>
+        <li id="li_2FFAF2974DDF4187990F89C297B2824F">
+          <xref format="html" href="https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html" scope="external">Scene7 Publishing System Release Notes</xref>
+        </li>
+      </ul>
+      <p>
+        <xref href="03132014.xml#concept_8ABF3457CA104FB3926CF984A9642F69" format="dita" scope="local">Top</xref>
+      </p>
+    </conbody>
+  </concept>
+</concept>

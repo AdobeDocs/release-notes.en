@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "file:///../Program%20Files%20(x86)/XMetaL%206.0/Author/DITA/XACs/concept/concept_ditabase.dtd"[]>
+<concept id="concept_44CB6A19929C4B16B6B729C7EDD7816A">
+  <title>Release Notes - May 31 2012</title>
+  <shortdesc>Learn about the latest release and maintenance release (MR)
+	 information in the 
+	 <keyword>Digital Marketing Suite</keyword>. 
+  </shortdesc>
+  <prolog>
+    <metadata>
+      <othermeta name="solution" content="Release Notes,Marketing Cloud,Analytics,Social,Target,Media Optimizer" />
+      <othermeta name="topic" content="Release notes" />
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>
+      <b>May 31 2012</b>
+    </p>
+    <ul id="ul_023EADCAB81F496AAA39F78004410F82">
+      <li id="li_3DEC8C7980BE4F33AE1A5662AD3D3CF1">
+        <xref href="c_05312012.xml#concept_44CB6A19929C4B16B6B729C7EDD7816A/section_D39918803A7E48E490CBB47DB47489F3" type="section" format="dita" scope="local">
+          <?xm-replace_text SiteCatalyst 15.3 Maintenance Release?>
+        </xref>
+      </li>
+      <li id="li_DB2E701A010941DC932C5891EFEABC2B">
+        <xref href="c_05312012.xml#concept_44CB6A19929C4B16B6B729C7EDD7816A/section_7259A4690F884F88A5053B91C6FC2851" type="section" format="dita" scope="local">
+          <?xm-replace_text SiteCatalyst 14.9 Maintenance Release?>
+        </xref>
+      </li>
+      <li id="li_4C4A6C49C62C4300BD84822E0FA45A92">
+        <xref href="c_05312012.xml#concept_44CB6A19929C4B16B6B729C7EDD7816A/section_8E0C3561DBBA4A31A9948922852BE11E" type="section" format="dita" scope="local">
+          <?xm-replace_text Discover 3.0 Maintenance Release?>
+        </xref>
+      </li>
+      <li id="li_1A67A8CDF36A4AFCAB8812C0ED65BC7B">
+        <xref href="c_05312012.xml#concept_44CB6A19929C4B16B6B729C7EDD7816A/section_2B21678310CB486DBE48C387494EF5F6" type="section" format="dita" scope="local">
+          <?xm-replace_text SocialAnalytics 1.2 Maintenance Release?>
+        </xref>
+      </li>
+      <li id="li_12121244B3A84EDD85D17DCED6F7C42C">
+        <xref href="c_05312012.xml#concept_44CB6A19929C4B16B6B729C7EDD7816A/section_8BA0E57D29E246A89437BF6897B82F48" type="section" format="dita" scope="local">
+          <?xm-replace_text AppMeasurement?>
+        </xref>
+      </li>
+      <li id="li_6B6AAD0B66524A9BB0034FD3407BF79E">
+        <xref href="c_05312012.xml#concept_44CB6A19929C4B16B6B729C7EDD7816A/section_B9D31AE21C4A451D9ABD169A77845300" type="section" format="dita" scope="local">
+          <?xm-replace_text DataWarehouse?>
+        </xref>
+      </li>
+      <li id="li_19543293389341179EB948792F2FC025">
+        <xref href="c_05312012.xml#concept_44CB6A19929C4B16B6B729C7EDD7816A/section_66A6D07051CB4ED5B70220091CB519CA" type="section" format="dita" scope="local">
+          <?xm-replace_text ReportBuilder 4.3 Maintenance Release?>
+        </xref>
+      </li>
+      <li id="li_CB5A91F0A37B44D8A2BE393A2F64E9B0">
+        <xref scope="local" href="c_05312012.xml#concept_44CB6A19929C4B16B6B729C7EDD7816A/section_1060E5B5E4714818B79C61DBC4E0AD96" type="section" format="dita">
+          <?xm-replace_text AudienceResearch 2.2?>
+        </xref>
+      </li>
+      <li id="li_EE12E6D7B19D4CCA853B0DB85811DEE7">
+        <xref href="c_05312012.xml#concept_44CB6A19929C4B16B6B729C7EDD7816A/section_15E40AC4D49A4F538702BF79DEEE3424" type="section" format="dita" scope="local">
+          <?xm-replace_text AudienceManager 3.3 Maintenance Release?>
+        </xref>
+      </li>
+      <li id="li_ABE8BE220E614DD385627D5D8CA1A4E1">
+        <xref href="c_05312012.xml#concept_44CB6A19929C4B16B6B729C7EDD7816A/section_779CE02AA33A4457B1E2A61774F3B7A7" type="section" format="dita" scope="local">
+          <?xm-replace_text SearchCenter 4.3?>
+        </xref>
+      </li>
+      <li id="li_CABEF2015A06458CAE149DAB8CF7A7F7">
+        <xref href="c_05312012.xml#concept_44CB6A19929C4B16B6B729C7EDD7816A/section_67B8E13918BE4056BA7B91175C9BB96E" type="section" format="dita" scope="local">
+          <?xm-replace_text Test&Target?>
+        </xref>
+      </li>
+      <li id="li_F1D33D27715E43F891C3176DB8FF3902">
+        <xref scope="local" href="c_05312012.xml#concept_44CB6A19929C4B16B6B729C7EDD7816A/section_97298EF57395423299F2E8FEF64941F6" type="section" format="dita">
+          <?xm-replace_text Genesis 3 Maintenance Release?>
+        </xref>
+      </li>
+      <li id="li_251A4EAA74874739AA8BF6FAB15A8179">
+        <xref href="c_05312012.xml#concept_44CB6A19929C4B16B6B729C7EDD7816A/section_DE19BC92A3994081B0BC92D5A7B40767" type="section" format="dita" scope="local">
+          <?xm-replace_text Insight 5.5?>
+        </xref>
+      </li>
+      <li id="li_BF4113C127A34EC886EE4E5FF2273D9A">
+        <xref href="c_05312012.xml#concept_44CB6A19929C4B16B6B729C7EDD7816A/section_B55392A523294A00A38C6980804B0362" type="section" format="dita" scope="local">
+          <?xm-replace_text Search&Promote 8.8.1?>
+        </xref>
+      </li>
+      <li id="li_6AF6110009424CA2A9F61D4DE9D163CE">
+        <xref href="c_05312012.xml#concept_44CB6A19929C4B16B6B729C7EDD7816A/section_2BF8F569310C4BAFA2D90A7F0721E0FD" type="section" format="dita" scope="local">
+          <?xm-replace_text Survey 3.2 Maintenance Release?>
+        </xref>
+      </li>
+      <li id="li_C2DE335B0D3B46978C65E341BF6A9B6B">
+        <xref href="c_05312012.xml#concept_44CB6A19929C4B16B6B729C7EDD7816A/section_A388672077FF4714810FD7AB69D52383" type="section" format="dita" scope="local">
+          <?xm-replace_text Recommendations 2.10?>
+        </xref>
+      </li>
+      <li id="li_D38F701A1DB44766BA0086769DAA20B0">
+        <xref href="c_05312012.xml#concept_44CB6A19929C4B16B6B729C7EDD7816A/section_04065C367D324E6BBB0387002D2EC146" type="section" format="dita" scope="local">
+          <?xm-replace_text Scene7?>
+        </xref>
+      </li>
+      <li id="li_7EB79CC60FE940B0918F02EFF1334E7D">
+        <xref href="c_05312012.xml#concept_44CB6A19929C4B16B6B729C7EDD7816A/section_18B0D5DA442342A6AFEFDCCF88B4B71E" type="section" format="dita" scope="local">
+          <?xm-replace_text Publish?>
+        </xref>
+      </li>
+    </ul>
+    <section outputclass="bodyindent" id="section_D39918803A7E48E490CBB47DB47489F3">
+      <title>SiteCatalyst 15.3 Maintenance Release</title>
+      <p>The 
+		  <keyword>SiteCatalyst</keyword> 15.3 maintenance release (05/31/12)
+		  includes the following new features and fixes. 
+		</p>
+      <p>
+        <b>New Features</b>: 
+		</p>
+      <p>
+        <b>Bounce Rate</b>: The Bounces metric that is available on the 
+		  <wintitle>Pages Report</wintitle> in 
+		  <keyword>SiteCatalyst</keyword> 15 is now available on all commerce
+		  reports. A Bounce Rate metric based on Bounces is also available on all
+		  commerce reports. See 
+		  <xref href="https://marketing.adobe.com/resources/help/en_US/sc/user/index.html?f=c_metrics_standard" scope="external" format="html">Standard Metrics</xref> for a detailed
+		  explanation. If you have previously defined a custom Bounce Rate using a
+		  calculated metric, you can prevent the standard Bounce Rate metric from being
+		  displayed in the Add Metrics window. See 
+		  <xref href="https://marketing.adobe.com/resources/help/en_US/admin/index.html?f=t_user_report_access" scope="external" format="html">Manage Access to Metrics and Reports</xref>. 
+		</p>
+      <p>
+        <b>Entries and Exits</b>: Exits and Entries are now available on all
+		  commerce reports. 
+		</p>
+      <p>
+        <b>Total Time Spent</b>: Total Time Spent metric is now available on
+		  traffic and commerce reports. Total time spent displays the total number of
+		  seconds spent by all visitors on the selected page or app, or on a page or app
+		  that set the reported value. 
+		</p>
+      <p>
+        <b>"Uniques Exceeded" renamed to "(low-traffic)"</b>
+      </p>
+      <p>As a result of the change described in 
+		  <i>Improved Reporting Limits for Monthly Unique Values</i> in the 
+		  <xref href="https://marketing.adobe.com/resources/help/en_US/whatsnew/index.html?f=c_04262012" scope="external" format="html">April 26, 2012 release notes</xref>, the
+		  "Uniques Exceeded" line item is now replaced with a line item titled
+		  "(low-traffic)". If you have scheduled reports or other processes that filter
+		  "Uniques Exceeded", update them to filter "(low-traffic)" instead. 
+		</p>
+      <p>
+        <b>Reporting API</b>
+      </p>
+      <p>The following metrics are now available in the Report API. 
+		</p>
+      <p>Commerce Visits/Visitors: 
+		</p>
+      <ul id="ul_AFFCE3A213B84721A78AB2BF2D1D91AC">
+        <li id="li_AA4227594A2E4B4BA3114B43840B4E20">cVisits 
+		  </li>
+        <li id="li_F3025446E7204377B68D511CE286980D">cVisitors 
+		  </li>
+      </ul>
+      <p>Commerce Pathing Metrics: 
+		</p>
+      <ul id="ul_4D09DCCC9A5340DBB129CE0D3269463D">
+        <li id="li_CC2671BBA7624865A9C036647C510327">cEntries 
+		  </li>
+        <li id="li_138377BFEEFA45CBBDC2FC5D1913296B">cExits 
+		  </li>
+        <li id="li_E4CB3054DE404852A1D7AD5CFF4A3B12">bounces 
+		  </li>
+        <li id="li_E873A9E4964D4B81BB050A9D00C34C89">bounceRate 
+		  </li>
+        <li id="li_2F6DE522CC7E4CC79E5DBB70A501C05B">totalTimeSpent 
+		  </li>
+      </ul>
+      <p>Traffic: 
+		</p>
+      <ul id="ul_D019DE8893C14D8891E643E6454C4C4A">
+        <li id="li_C8CDBBA3B7D54F4399408C3C5199B82E">bots 
+		  </li>
+      </ul>
+      <p>
+        <b>Fixes</b>: 
+		</p>
+      <ul id="ul_0491F0E3ED27444E8F6EAADA3313D978">
+        <li id="li_87DDA8E5779D4015A48C4DC10932F94E">Added a new calendar
+			 preset of Last 13 Months.
+<!--46235--></li>
+        <li id="li_2A4BF3A570C84DC7B19895537DD9C71C"> Fixed an issue that
+			 caused 
+			 <keyword>SearchCenter</keyword> hierarchy reports to display
+			 incorrectly when added to a 
+			 <keyword>SiteCatalyst</keyword> 15 dashboard. <!--74385--></li>
+        <li id="li_AEBEF52BC97F4D10A560DB51E615759B">Fixed an issue that caused
+			 totals to display incorrectly when running a compare report with a filter
+			 applied. <!--69694--></li>
+        <li id="li_E8860689B41749C494350B80E6C271F7">Fixed an error that
+			 prevented some pages from being removed using the Remove Pages feature in Admin
+			 Console. <!--67453--></li>
+        <li id="li_20225AF0A75542F3B726BA17DBCBA103">The Prod View event is now
+			 displayed in Processing Rules.<!--74445--></li>
+        <li id="li_E20CF3F3CBE741E1BEEEFEAECECAC072">Fixed an issue in 
+			 <keyword>Segment Builder</keyword> that caused library components to
+			 not be saved. <!--65860 v15--></li>
+        <li id="li_C19FFBEB62E143A882B482BB21CE7970">Fixed an issue that caused
+			 unique visitor metrics in Hierarchy Reports to drop after the April MR. The
+			 values now display correctly. <!--77417--></li>
+        <li id="li_3D912179F78043828DE500A2F5D2CBB1">Fixed an issue that caused
+			 keyword filters (such as none and unspecified) to not remove line items that
+			 contain these keywords. <!--75278--></li>
+        <li id="li_AFE9544D75984D68A74B7CAE35C34368">Fixed an issue that caused
+			 revenue conversion to not match between a Ranked report and a Trended report.
+			 This occurred on report suites that use multiple currencies. <!--75431--></li>
+        <li id="li_3FEDEC4F19034D70A633D714A4F032AC">Fixed an issue that caused
+			 the mobile report to display the value of the unique visitors metric for page
+			 views, visits, or daily unique visitors. <!--77360--></li>
+        <li id="li_4395CA132D824E358338969406F6B8B0">Fixed an issue that caused
+			 campaign classifications that are updated in the Campaign Manager to be double
+			 URL encoded. Spaces in these values would appear with a + instead of a space. <!--57260--></li>
+        <li id="li_30985708FD824317AFEA3DCEA47D56F8">Fixed an issue in the
+			 Pages not Found report where clicking on the magnifying glass results in an
+			 empty screen. <!--77173--></li>
+        <li id="li_923C402342934315BE33A5D997CE6EFE ">Fixed an issue that caused the Unique Visitors reports to display an
+			 incorrect total when filtering by page. The Pages report displayed a correct
+			 value for the Unique Visitors metrics. The values on these reports now match. <!--77401--></li>
+      </ul>
+    </section>
+    <section id="section_7259A4690F884F88A5053B91C6FC2851">
+      <title>SiteCatalyst 14.9 Maintenance Release</title>
+      <p>The 
+		  <keyword>SiteCatalyst</keyword> 14.9 maintenance release (05/31/12)
+		  includes the following enhancements and fixes: 
+		</p>
+      <ul id="ul_D6D2A00898F64E36B252AB3F831EB7E7">
+        <li id="li_59F1A5ED5A36472AA970CC0C91F1FA0F">Added a new calendar
+			 preset of Last 13 Months.
+<!--46235--></li>
+        <li id="li_E1F1A90ECA644B4F81137C22FEDB9C2D">Fixed an issue that
+			 prevented non-admins from viewing some pathing reports when they were granted
+			 permissions. <!--58416--></li>
+        <li id="li_C76F793A6ED445C9B9DBFCF485836B68"> Updated dashboard and PDF
+			 rendering in v14 so that large values would no longer be truncated using
+			 scientific notation. <!--388121--></li>
+        <li id="li_329DFB32EB0241EFBE73C2FA238C67F4">Fixed an issue that caused
+			 the wrong Custom Insight variable to be displayed in the 
+			 <wintitle>Videos</wintitle> menu of 
+			 <keyword>SiteCatalyst</keyword>. The displayed variable now matches
+			 the variable selected in Edit Settings &gt; Video Management &gt; Video
+			 Reporting. 
+			 <!--74253--></li>
+        <li id="li_2EE24E20609E48F487F8E5BF3D92A2D6">
+          <wintitle> Names on Shared
+				Calendar Events</wintitle> are now truncated if they if it exceed 50 bytes, and
+			 a warning is displayed if the event name exceeds this limit. This fix prevents
+			 these names from displaying incorrectly after creation. If you have encountered
+			 this issue for an existing event, you need to update the name. <!--72018--></li>
+        <li id="li_797CC34BF8414B388EA775192B2E060A">Fixed an error that
+			 prevented some pages from being removed using the Remove Pages feature in Admin
+			 Console. <!--67453--></li>
+        <li id="li_69F4AC8261574E458C973F558C2DF893">Optimized downloading of
+			 Excel report suites to prevent timeouts. <!--59256--></li>
+      </ul>
+    </section>
+    <section id="section_8E0C3561DBBA4A31A9948922852BE11E">
+      <title>
+        <keyword>Discover</keyword> 3.0 Maintenance Release</title>
+      <p>The following fixes were made to 
+		  <keyword>Discover</keyword> 3.0, released on May 31 2012: 
+		</p>
+      <ul id="ul_C96F149021904C90884653445A688B54">
+        <li id="li_4842567A87D9440599291FC5E64D7CDB">
+          <!--77190-->Fixed an issue
+			 occurring when loading 
+			 <keyword>Discover</keyword> 2.9.6 projects into Discover 3.0. This
+			 issue caused workspaces to open empty. 
+		  </li>
+        <li id="li_240C3CB851C54137AE0BF5B2DB5FF532">
+          <!--77200-->Fixed issue in
+			 which 
+			 <keyword>Discover</keyword> was not reading certain segments. 
+			 <term>Or</term> logic was switching to 
+			 <term>And</term> logic. 
+		  </li>
+        <li id="li_2EC7B145BD944B46B2E18CAA555613F8">
+          <!--77369-->Fixed an
+			 issue causing 
+			 <keyword>Discover</keyword> to hang, related to article 12879 in the
+			 Knowledge Base regarding graphics card drivers. 
+		  </li>
+        <li id="li_DD3E2AFB1E9A4F5D995D71F6FA6A341E">
+          <!--77400-->Fixed an
+			 issue causing Flow reports to ignore the date range. 
+		  </li>
+        <li id="li_3924D15BD09C4F108D88514CFBE8B471">
+          <!--77660-->Improved date
+			 range handling in the UI when selecting a date range that crosses the boundary
+			 of historical data, and zeros were returned. 
+		  </li>
+        <li id="li_F57D7D23268A407DA771ED3BD7253D0E">
+          <!--71997-->Added a 
+			 <wintitle>Search Project</wintitle> feature to the 
+			 <wintitle>Most Recent Projects</wintitle> window on startup. 
+		  </li>
+        <li id="li_DF24FCF9C0D14969905C6C870AC9322D">
+          <!--74992-->In trended
+			 reports, we added the ability to change the time granularity in the Trend
+			 Inspector. 
+		  </li>
+        <li id="li_6DB60698B5114363950EC4D85378A51D">
+          <!--75736-->Increased the
+			 number of cells that you can select for trending. 
+		  </li>
+        <li id="li_B3EAA637DED34F2382271BAA7EE566CB">
+          <!--76256-->IFixed an
+			 issue with the date format when opening a saved project. 
+		  </li>
+        <li id="li_07DE73DFA5A14CC08D992A61102AF8C7">
+          <!--76514-->Changed how
+			 the Start Date field automatically selects date ranges in the calendar. This
+			 fix preserves the existing range of days or months, after you type a new start
+			 date. 
+		  </li>
+        <li id="li_B3D19C0AC0D64F56ADEDCEAEE8FE7813">
+          <!--77383-->Fixed an
+			 issue where version 2.9.6 custom report titles were not being located by
+			 version 3.0. 
+		  </li>
+        <li id="li_048157DF7A14423587558AC3C2C4E79A">
+          <!--77673-->Fixed an
+			 issue where searches in the detail table that contained extensive search
+			 filters caused interface components to stop functioning properly. 
+		  </li>
+        <li id="li_D6F2C38A8DF347D69C9268B6D80EEFE1">
+          <!--77710-->Fixed an
+			 issue causing the error 
+			 <term>100</term> to display in the Site Analysis report. The error
+			 displayed when adding a segment to a workspace before the report finished
+			 loading. 
+		  </li>
+        <li id="li_897275BF20344F92B076FC2647F9F961">
+          <!--77732-->Fixed an
+			 issue in the Message field in 
+			 <wintitle>Delivery Options</wintitle>. An error was issued if the
+			 message was long enough to cause the field to scroll, which collapsed the
+			 field. 
+		  </li>
+        <li id="li_F50103868F674B5AAB7F627C1B2ABBB2">
+          <!--77346-->Fixed a
+			 midnight time issue in the date selector, occurring in the UTC time zone (Sao
+			 Paulo, Brazil). 
+		  </li>
+        <li id="li_13BC78E3CC74491E9A562EDD2C0D1701">
+          <!--76952-->Fixed an
+			 issue causing incorrect day names to display in the calendar, if the first day
+			 of the week is not Sunday. 
+		  </li>
+        <li id="li_DD0EFA8A6BBD4A12827B607D64716312">
+          <!--76896-->Fixed a
+			 calculated metrics persistence issue in the 
+			 <wintitle>Site Analysis Report</wintitle>. 
+		  </li>
+      </ul>
+    </section>
+    <section id="section_2B21678310CB486DBE48C387494EF5F6">
+      <title>
+        <keyword>SocialAnalytics</keyword> 1.2 Maintenance Release</title>
+      <p>The 
+		  <keyword>SocialAnalytics</keyword> Maintenance Release (05/31/12)
+		  includes the following enhancements: 
+		</p>
+      <ul id="ul_8BD8B69DA1974BDA9CE141FEBF1E9C7A">
+        <li id="li_F9CD74836C044070993405F65B2FEA75">
+          <b>Term Log: 
+			 </b>The 
+			 <wintitle>Term Log</wintitle> lets you view details for each term
+			 that you have deactivated or archived. You can view the start and end dates of
+			 when each term was tracked. You can also reactivate or archive a term from the
+			 log list. 
+		  </li>
+        <li id="li_FBA2F6B899D9453F9C41C8D5CBDA7AB4">
+          <b>Reauthorize Facebook
+				Insights: 
+			 </b>If you change your Facebook Insights password, you can click the 
+			 <wintitle>Reauthorize Facebook Insights</wintitle> button on the 
+			 <wintitle>Social Properties</wintitle> page
+			 (<wintitle>Settings</wintitle> &gt; 
+			 <wintitle>Social Properties</wintitle>) to authorize 
+			 <keyword>SocialAnalytics</keyword> to continue collecting Insight
+			 information from Facebook. 
+		  </li>
+      </ul>
+      <p>For the latest SocialAnalytics information, see the 
+		  <xref format="html" href="https://marketing.adobe.com/resources/help/en_US/sa/index.html#Release%20Notes" scope="external">SocialAnalytics User Guide</xref>. 
+		</p>
+    </section>
+    <section id="section_8BA0E57D29E246A89437BF6897B82F48">
+      <title>AppMeasurement</title>
+      <p>See 
+		  <xref href="https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/release/index.html" scope="external" format="html">AppMeasurement Release History</xref> the
+		  following for a release history of 
+		  <keyword>AppMeasurement</keyword> on the following platforms: 
+		</p>
+      <ul id="ul_190A57CBEB6A45D1AE5C941AF81F740D">
+        <li id="li_CE13E8DFECBD441CB4B1F3030C0744F2">JavaScript 
+		  </li>
+        <li id="li_347C159908FC4071BE4ACF8C9714C052">iOS 
+		  </li>
+        <li id="li_FCB46B49E1924CCC8748149FCD181DB3">Android 
+		  </li>
+        <li id="li_D6A7A920AF964B0D8F94F562C301B5ED">Flash-Flex 
+		  </li>
+        <li id="li_FAA11844C5E44D668BC57788E04A4B9D">Windows Phone, XBOX,
+			 Sliverlight, and .NET 
+		  </li>
+        <li id="li_AB2F1CF652754167AFF6184CCC4199BA">BlackBerry 
+		  </li>
+        <li id="li_5676BDE49BE641E5A0FDDB7A25C8FD6C">Java 
+		  </li>
+        <li id="li_E8C520711D2748489F891027D4124B88">PHP 
+		  </li>
+        <li id="li_B8CE82A7DD5548E393D4BE407CED9711">Symbian 
+		  </li>
+      </ul>
+    </section>
+    <section id="section_B9D31AE21C4A451D9ABD169A77845300">
+      <title>DataWarehouse</title>
+      <p>Not updated in this maintenance release. 
+		</p>
+    </section>
+    <section id="section_66A6D07051CB4ED5B70220091CB519CA">
+      <title>
+        <keyword>ReportBuilder</keyword> 4.3 Maintenance Release</title>
+      <p>The 
+		  <keyword>ReportBuilder</keyword> maintenance release (05/31/12)
+		  includes the following enhancements and fixes: 
+		</p>
+      <ul id="ul_682B4A2B84564676861EE1715C7B2B82">
+        <li id="li_5970C172D9174956B9BFF9989D9A2397">
+          <!--77889-->Fixed an
+			 issue in Traffic Bots and Pages Bots reports, which generated an Invalid Metric
+			 error. 
+		  </li>
+        <li id="li_134E5F8ECA49401682B87776262C57EB">
+          <!--75558-->Added Bounce
+			 Rate, Bounces, Commerce Entries, Commerce Exists, and Total Time Spent metrics
+			 to 
+			 <keyword>ReportBuilder.</keyword></li>
+      </ul>
+      <p>For more information, see the 
+		  <xref format="html" href="https://marketing.adobe.com/resources/help/en_US/arb/index.html" scope="external">ReportBuilder Help System</xref>. 
+		</p>
+    </section>
+    <section id="section_1060E5B5E4714818B79C61DBC4E0AD96">
+      <title>AudienceResearch 2.2</title>
+      <p>The 
+		  <keyword>AudienceResearch</keyword> maintenance release (05/31/12)
+		  includes the following enhancements and fixes: 
+		</p>
+      <ul id="ul_78B05ECB98E0463B8E8C5330555C63AF">
+        <li id="li_E254B88978A94281B49478B0C5C4923C"> Metrics for Digital
+			 Publications are now in compliance with guidelines published by the Magazine
+			 Publisher's Association. 
+		  </li>
+        <li id="li_E3E030F9370C41098378B0CF7B6CEAC5"> Fixed a bug affecting the
+			 Total Page Views metric 
+		  </li>
+        <li id="li_E5B87F05518C459EA43AB989214F52EF"> Product stability
+			 improvements 
+		  </li>
+      </ul>
+      <p>Certification is available for sites, mobile applications, and digital
+		  publications built with Adobe's 
+		  <keyword>Digital Publishing Suite</keyword>. For more information,
+		  contact your Account Support Manager. 
+		</p>
+      <p>For more information, see 
+		  <xref format="html" href="http://audience.omniture.com/" scope="external">AudienceResearch</xref>. 
+		</p>
+    </section>
+    <section id="section_15E40AC4D49A4F538702BF79DEEE3424">
+      <title>AudienceManager 3.3 Maintenance Release</title>
+      <p>No updates in this maintenance release. 
+		</p>
+    </section>
+    <section id="section_779CE02AA33A4457B1E2A61774F3B7A7">
+      <title>
+        <keyword>SearchCenter</keyword> 4.3</title>
+      <p>This 
+		  <keyword>SearchCenter</keyword> 4.3 release includes the following new
+		  features and enhancements: 
+		</p>
+      <ul id="ul_4CBF7B67E95F48CF966C1E7A72B0F12B">
+        <li id="li_D0758C86317849A0A6354FE2509B2EF0">
+          <b>Default Custom Group
+				Assignments: 
+			 </b> You can specify default custom group assignments and labels at
+			 the campaign or group level. Any objects added to those containers
+			 automatically inherit those assignments and labels. 
+		  </li>
+        <li id="li_614DD95B385E4E20A5A073B6CAF396FA">
+          <b>Custom Date Ranges for
+				Metrics in Bulk Exports: 
+			 </b>While performing bulk exports, you can now select 
+			 <wintitle>Custom Date Range</wintitle> to choose the start and end
+			 dates. 
+		  </li>
+      </ul>
+      <p>This release of 
+		  <keyword>SearchCenter 
+		  </keyword>includes the following general fixes: 
+		</p>
+      <ul id="ul_01351B2B8BA047B6AAC6D750ECA5424D">
+        <li id="li_B7C5D74ED244494C8B9291F3A6B0EBFB">Fixed an issue that
+			 infrequently caused the 
+			 <wintitle>Automated Campaign Generation</wintitle> feature to return
+			 errors when importing 
+			 <filepath>.tsv</filepath> and 
+			 <filepath>.csv</filepath> files. <!--75089--></li>
+        <li id="li_32D921B9E363499782DB4ED00E9F48D6">Fixed an issue that caused
+			 custom group metric data to be reported differently at various 
+			 <wintitle>Management</wintitle> levels. <!--75089--></li>
+        <li id="li_00BDA99735574DC584E6A0BEB3B8A0AF">Fixed an issue that
+			 prevented 
+			 <wintitle>Standard</wintitle> metrics from displaying in 
+			 <wintitle>Management</wintitle> screens. <!--77409--></li>
+        <li id="li_0A0BA0EE927B400E93764F4729A82BB9">Fixed an issue that caused
+			 data in 
+			 <wintitle>Management</wintitle> screens for a calculated metric to
+			 display zeros. <!--63550--></li>
+        <li id="li_FDD403B6F2B248378153C284988F9255">Fixed an issue that
+			 prevented results from displaying after sorting a column in 
+			 <wintitle>Management</wintitle> screens by clicking the column
+			 header. <!--72012--></li>
+        <li id="li_7AE540C875694D18B8F5D12CE7AEB29C">Fixed an issue that
+			 prevented results from displaying when sorting in 
+			 <wintitle>Management</wintitle> or performing an 
+			 <wintitle>Advanced Search</wintitle> on metrics from an account that
+			 contains an apostrophe ('). <!--75830--></li>
+        <li id="li_529CE0228BED4ED29BDC6AF268026D29">Fixed an issue that caused
+			 changes made to a filtered list of campaigns (filtered using the 
+			 <wintitle>Advanced Filter</wintitle> feature) to be applied to
+			 campaigns not designated by the filter. <!--77249--></li>
+        <li id="li_91709547642E40ABB6DF588373225909">Fixed an issue that
+			 prevented sorting from working properly when users click the 
+			 <wintitle>Load More</wintitle> link to display more results. <!--76451--></li>
+        <li id="li_D061BD364318466DAE2F7437884E58C3">Fixed an issue that
+			 prevented the 
+			 <wintitle>Keyword Hierarchy</wintitle> and 
+			 <wintitle>Organic to Paid Keywords</wintitle> reports from loading in
+			 a timely manner. <!--54172, 66023--></li>
+        <li id="li_17000624B5B248F9A785A03AB7CFB834">Fixed an issue that
+			 prevented users from seeing log details for the 
+			 <wintitle>Event History</wintitle> report. <!--57841--></li>
+        <li id="li_2B03F6A860E148A7B466C52B75848ADC">Fixed an issue that caused
+			 the 
+			 <wintitle>Organic Search Queries</wintitle>, 
+			 <wintitle>Paid Search Queries</wintitle>, and 
+			 <wintitle>Internal Search Queries</wintitle> reports to display data
+			 from the previous instance of the report being generated. <!--77507--></li>
+        <li id="li_E866440C018843858125D23BD6817367">Fixed an issue that caused
+			 metric data to display incorrectly in the 
+			 <wintitle>Ads</wintitle> report because the column was too narrow. <!--67407--></li>
+        <li id="li_1B3174DE7313469B82A1ADA4629ACE1B">Fixed an issue that caused
+			 multiple keyword errors for a bulk import to be merged. <!--76105--></li>
+        <li id="li_B1576E48812C43099768D55B638231D1">Fixed an issue that caused
+			 keywords added from the 
+			 <wintitle>Keyword Suggestion</wintitle> feature to fail. <!--52952--></li>
+        <li id="li_FF4820236BCF4B209EA2FE5A2C6DE402">Fixed an issue that caused
+			 filtered 
+			 <keyword>SearchCenter</keyword> reportets to display incorrectly in 
+			 <keyword>SiteCatalyst</keyword> dashboards. <!--74635--></li>
+      </ul>
+      <p>This release of 
+		  <keyword> SearchCenter 
+		  </keyword>includes the following account-specific fixes: 
+		</p>
+      <p>
+        <b>Baidu</b>
+      </p>
+      <ul id="ul_4F009AE53D304C76992D7F4644DB6AD1">
+        <li id="li_D56FDACCA2774A6A91D40F298CDD616E">Fixed an issue that
+			 prevented synchronization of a newly added group from completing in a timely
+			 manner. <!--70371--></li>
+      </ul>
+      <p>
+        <b>Google</b>
+      </p>
+      <ul id="ul_651C57BCA1604FF594D291A26777CB70">
+        <li id="li_840FF41B88E44389B318B9C74D9932B3">Fixed an issue that caused
+			 delays when loading keywords into 
+			 <wintitle>Management</wintitle> screens, with a RateExceededError
+			 message. <!--75113--></li>
+        <li id="li_70DCCFCEDAD647139842EFACED4649A2">Fixed an issue that
+			 displayed false error messages (CANNOT_OPERATE_ON_DELETED_CAMPAIGN_ADEXTENSION)
+			 when a sitelink ad was deleted on the engine and then synchronized with 
+			 <keyword>SearchCenter</keyword>. <!--76142--></li>
+      </ul>
+      <p>
+        <b>Microsoft Bing</b>
+      </p>
+      <ul id="ul_9AFA93F030994A7CB91213313302E2E7">
+        <li id="li_2D380AD4385A4873AA0625CD5D3938E1">Fixed an issue that
+			 prevented synchronization from completing in a timely manner. <!--71950--></li>
+        <li id="li_0DD307DFE80A458F919A8AA163BF44E7">Fixed an issue that caused
+			 bulk exports to incorrectly change keyword match types. <!--64323--></li>
+      </ul>
+      <p>For more information, see the 
+		  <xref href="https://marketing.adobe.com/resources/help/en_US/scm/index.html" scope="external" format="http">SearchCenter User Guide</xref>. 
+		</p>
+    </section>
+    <section id="section_67B8E13918BE4056BA7B91175C9BB96E">
+      <title>
+        <keyword>Test&amp;Target</keyword>
+      </title>
+      <p>This maintenance release contains the following changes and bug fixes:
+		  
+		</p>
+      <p>
+        <ul id="ul_1AC941836F1B46F393BA8517270E9C75">
+          <li id="li_74A9CEDFB3E74DEB9313B2800C457BE4">
+            <!--18122-->Fixed an issue
+			 where characters had to be entered in their URL-encoded versions in targeting
+			 to work. Now, the unencoded characters must be entered in targeting conditions
+			 to match correctly. All existing campaign targeting criteria have been updated
+			 to use the unencoded characters. 
+		  </li>
+        </ul>
+      </p>
+      <p>For the latest information, see 
+		  <xref format="html" href="https://marketing.adobe.com/resources/help/en_US/tnt/help/index.html#Release%20Notes" scope="external">What's New in 
+			 <keyword>Test&amp;Target</keyword></xref>. 
+		</p>
+    </section>
+    <section id="section_97298EF57395423299F2E8FEF64941F6">
+      <title>
+        <keyword>Genesis</keyword> 3 Maintenance Release</title>
+      <p>The 
+		  <keyword>Genesis</keyword> 3 maintenance release (05/31/12) includes
+		  the following enhancements and fixes: 
+		</p>
+      <ul id="ul_9B423F8D3C77423F9665D185D43556B4">
+        <li id="li_BC4340D8EE30404A88D8E392033F62F9">
+          <!--76234-->Enhanced the
+			 ForeSee v2.0 custom wizard to help identify 
+			 <wintitle>Custom Questions</wintitle> in the wizard. 
+		  </li>
+        <li id="li_337FD4E4ACA443C89FF00B46E81C4AAB">
+          <!--74901-->Fixed PHP
+			 errors and ghosting in the drag-and-drop interface 
+		  </li>
+        <li id="li_640C3D7B617F4E5FA3C3DEA99ED10788">
+          <!--76501-->Fixed an
+			 issue preventing you from adding a dashboard to a product if the dashboard
+			 contained an HTML or text component. 
+		  </li>
+        <li id="li_9CBDE353DC7C4ADEBDA5D59874986CC5">
+          <!--75226-->Updated the
+			 HootSuite integration wizard with the VISTA rule option for setting an eVar. 
+		  </li>
+        <li id="li_BFDA3D37C7DB49B3A7846BC635FB5073">
+          <!--75908-->Fixed an
+			 issue causing variables to be renamed before the wizard is complete. 
+		  </li>
+        <li id="li_07638A4D7445440597B8BCBA51D40FEC">
+          <!--77329-->Added the
+			 ability to export the Visitor ID so that it can be requested programmatically. 
+		  </li>
+      </ul>
+      <p>For more information, see the 
+		  <xref format="html" href="https://marketing.adobe.com/resources/help/en_US/genesis/index.html" scope="external">Genesis Help</xref>. 
+		</p>
+    </section>
+    <section id="section_DE19BC92A3994081B0BC92D5A7B40767">
+      <title>
+        <keyword>Insight</keyword> 5.5</title>
+      <p>For the latest 
+		  <keyword>Insight</keyword> release notes and documentation, see 
+		  <xref format="html" href="https://marketing.adobe.com/resources/help/en_US/insight/insight_release_notes.pdf?cb=540" scope="external">Insight Product Documentation</xref>. 
+		</p>
+    </section>
+    <section id="section_B55392A523294A00A38C6980804B0362">
+      <title>
+        <keyword>Search&amp;Promote</keyword> 8.8.1</title>
+      <p>The 
+		  <keyword>Search&amp;Promote</keyword> 8.8.1 maintenance release
+		  (05/31/12) includes the following enhancements and fixes: 
+		</p>
+      <ul id="ul_1BF0AC13AC884F67ACD35C1A0977A4DE">
+        <li id="li_59E652D4AEB047979D142A99BAF06669">
+          <!--#3177652-->Pagination
+			 was missing the next link when there was more than 1000 results and the totals
+			 were comma separated. 
+		  </li>
+        <li id="li_7BD71885D83B449783478B35251A05A5">
+          <!-- #3176406-->Pagination
+			 was displaying GSPAGENAVPLACEHOLDER in the search results instead to the actual
+			 pagination. 
+		  </li>
+        <li id="li_C3078E2EEE174DBA976CE8DDA2C20DBA">
+          <!-- #3177568-->Removed
+			 footer from the Visual Rule Builder. 
+		  </li>
+        <li id="li_0897E6B3C4764621A0FB12498837226B">
+          <!-- #3177662-->Breadcrumbs
+			 now use facet slots display name instead of the abstract slot facet name. 
+		  </li>
+        <li id="li_DC6320C3D5CA4184843EF412C7EC336D">
+          <!--#3130640-->Adobe
+			 Scene7: You can now edit a parameter the second time around. 
+		  </li>
+        <li id="li_9F7DCAC52EC04353855AC3E4B1A63F1F">
+          <!-- #3189880-->Facet
+			 slots display name did not come back properly when the facet is a sticky facet
+			 (or multi-select) and is selected. 
+		  </li>
+        <li id="li_D462A62B1CA7487F840C36009708D4B1">
+          <!-- #3181594-->
+          <codeph>&lt;search-description&gt;</codeph>
+			 tag showed the body instead when the metatag for the description had empty
+			 content. 
+		  </li>
+        <li id="li_1F4A5EC6E05A43D39F1B3FC69782A449">
+          <!-- 
+		 #3151116-->Exposed Guided Search Requests under Reports &gt; Search
+			 Requests. 
+		  </li>
+      </ul>
+      <p>For the latest 
+		  <keyword>Search&amp;Promote</keyword> documentation, see 
+		  <xref format="html" href="https://marketing.adobe.com/resources/help/en_US/snp/index.html" scope="external">Search&amp;Promote Documentation Home</xref>. 
+		</p>
+    </section>
+    <section id="section_2BF8F569310C4BAFA2D90A7F0721E0FD">
+      <title>Survey 3.2 Maintenance Release</title>
+      <p>The Survey 3.2 maintenance release (05/31/12) includes the following
+		  fix: 
+		</p>
+      <ul id="ul_FDCD7687D2E349D4AD29F9BABCE51B2A">
+        <li id="li_8AAB4545BB8F4DED9EE20CB028EE00F9">Fixed an issue that caused
+			 a blank survey to display when a user exits a web page. 
+		  </li>
+      </ul>
+      <p>For more information, see the 
+		  <xref format="html" href="https://marketing.adobe.com/resources/help/en_US/survey/index.html?f=c_Release_Notes" scope="external">Survey User Guide</xref>. 
+		</p>
+    </section>
+    <section id="section_A388672077FF4714810FD7AB69D52383">
+      <title>
+        <keyword>Recommendations</keyword> 2.10</title>
+      <p>For the latest Recommendations documentation, see 
+		  <xref format="html" href="https://marketing.adobe.com/resources/help/en_US/rec/#Release Notes" scope="external">What's New in 
+			 <keyword>Recommendations</keyword></xref>. 
+		</p>
+    </section>
+    <section id="section_04065C367D324E6BBB0387002D2EC146">
+      <title>
+        <keyword>Scene7</keyword>
+      </title>
+      <p>For the latest 
+		  <keyword>Scene7</keyword> release information, 
+		  <xref format="html" href="https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html" scope="external">Scene7 Publishing System Release Notes</xref>. 
+		</p>
+    </section>
+    <section id="section_18B0D5DA442342A6AFEFDCCF88B4B71E">
+      <title>
+        <keyword>Publish</keyword>
+      </title>
+      <p>For the latest 
+		  <keyword>Publish</keyword> release information, see the 
+		  <xref format="html" href="https://marketing.adobe.com/resources/help/en_US/publish/publish_whatsnew.pdf" scope="external">Publish Release Notes</xref>. 
+		</p>
+    </section>
+  </conbody>
+</concept>

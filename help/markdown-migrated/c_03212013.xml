@@ -1,0 +1,1219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept id="concept_9A656ED7F5EE44908DEEE5643DA02B11">
+  <title> Release Notes - March 21 2013</title>
+  <shortdesc>Maintenance release information in the 
+	 <keyword>Marketing Cloud™</keyword>. 
+  </shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>release notes</keyword>
+      </keywords>
+      <othermeta name="solution" content="Experience Cloud,Release Notes" />
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Maintenance release date: 
+		<b>March 21 2013</b></p>
+    <ul id="ul_EDB5A4CAE2394A8984162A0636B385B4">
+      <li id="li_FCEA280C53E14505BDC127FBEC2153E9">
+        <xref href="c_03212013.xml#concept_9A656ED7F5EE44908DEEE5643DA02B11/section_B87C521AEBC242F5955D162D527A5DA3" format="dita" scope="local">
+          <?xm-replace_text SiteCatalyst 15.4 Maintenance Release?>
+        </xref>
+      </li>
+      <li id="li_EE3E25CB936141AA9F9D91291AD195BE">
+        <xref href="c_03212013.xml#concept_9A656ED7F5EE44908DEEE5643DA02B11/section_5D8134E70F1B421C93C3CA8ECDC7D998" format="dita" scope="local">
+          <?xm-replace_text SiteCatalyst 14.9 Maintenance Release?>
+        </xref>
+      </li>
+      <li id="li_0D75CE981F7B47C49EF728040B88C335">
+        <xref href="c_03212013.xml#concept_9A656ED7F5EE44908DEEE5643DA02B11/section_126AFA743F0B4FB68E82217E8EEEF52D" format="dita" scope="local">
+          <?xm-replace_text Social 2.4 Maintenance Release?>
+        </xref>
+      </li>
+      <li id="li_22720024A8834DE386E2FC24A6078C62">
+        <xref href="c_03212013.xml#concept_9A656ED7F5EE44908DEEE5643DA02B11/section_CBEBABE17B7147088A2FE134FE57A9CD" format="dita" scope="local">
+          <?xm-replace_text Discover 3.1 Maintenance Release?>
+        </xref>
+      </li>
+      <li id="li_4A3D087521AA4BD8A37183C452E601D2">
+        <xref href="c_03212013.xml#concept_9A656ED7F5EE44908DEEE5643DA02B11/section_6AA888F7F8634A599EC056D63D68E649" format="dita" scope="local">
+          <?xm-replace_text ReportBuilder 4.3 Maintenance Release?>
+        </xref>
+      </li>
+      <li id="li_07C9DC4B5B1B4082ADCEAF7AE079CACC">
+        <xref href="c_03212013.xml#concept_9A656ED7F5EE44908DEEE5643DA02B11/section_099E60930E184B72A3151E4BB98DD228" format="dita" scope="local">
+          <?xm-replace_text DataWarehouse?>
+        </xref>
+      </li>
+      <li id="li_0BA5B4C7B7C7434DBABA0B442AB74E03">
+        <xref href="c_03212013.xml#concept_9A656ED7F5EE44908DEEE5643DA02B11/webservices" format="dita" scope="local">
+          <?xm-replace_text Web Services API?>
+        </xref>
+      </li>
+      <li id="li_6360D0FB87824C14AE1E14D961C47279">
+        <xref href="c_03212013.xml#concept_9A656ED7F5EE44908DEEE5643DA02B11/section_D0633D8F6F214940BE3287B305BD760A" format="dita" scope="local">
+          <?xm-replace_text AppMeasurement & Mobile?>
+        </xref>
+      </li>
+      <li id="li_6A3F6C34681946E5923911400B19061D">
+        <xref href="c_03212013.xml#concept_9A656ED7F5EE44908DEEE5643DA02B11/section_DA3DE8FC441D41D1B65895196A3F1AD9" format="dita" scope="local">
+          <?xm-replace_text AudienceManager?>
+        </xref>
+      </li>
+      <li id="li_5BD1E7FAC95F4A67AEDDB41C223A3509">
+        <xref href="c_03212013.xml#concept_9A656ED7F5EE44908DEEE5643DA02B11/section_DC9222873727408EAC3051E090729FCE" format="dita" scope="local">
+          <?xm-replace_text Genesis 3.1 Maintenance Release?>
+        </xref>
+      </li>
+      <li id="li_A1F4153C560F40F6A7442DCAA017D7A4">
+        <xref href="c_03212013.xml#concept_9A656ED7F5EE44908DEEE5643DA02B11/section_708A2B94F3DC4850A1BAEB907200007F" format="dita" scope="local">
+          <?xm-replace_text Search&Promote 8.9.6?>
+        </xref>
+      </li>
+      <li id="li_C99B4CFF03754A9BB1D308F649E57FF1">
+        <xref href="c_03212013.xml#concept_9A656ED7F5EE44908DEEE5643DA02B11/section_3A1ABF27833047A883FB76E9B2B6CF1D" format="dita" scope="local">
+          <?xm-replace_text Recommendations 2.14?>
+        </xref>
+      </li>
+      <li id="li_7A8EE0B19B5244DD80D49807EC8BF7E1">
+        <xref href="c_03212013.xml#concept_9A656ED7F5EE44908DEEE5643DA02B11/insight" format="dita" scope="local">
+          <?xm-replace_text Insight 5.5?>
+        </xref>
+      </li>
+      <li id="li_EE818FB8980A4755B6C3D290AA1DD463">
+        <xref href="c_03212013.xml#concept_9A656ED7F5EE44908DEEE5643DA02B11/section_7A393A841D6A412CB1EFC20B58EC4538" format="dita" scope="local">
+          <?xm-replace_text Clickstream Data Feeds?>
+        </xref>
+      </li>
+      <li id="li_22D77340B35B4392BC7EDAAD53E7DBF5">
+        <xref href="c_03212013.xml#concept_9A656ED7F5EE44908DEEE5643DA02B11/section_570E76085F81420C924E0083D0C63672" format="dita" scope="local">
+          <?xm-replace_text ClickMap?>
+        </xref>
+      </li>
+      <li id="li_4445184CC397415EA121384608B72577">
+        <xref href="c_03212013.xml#concept_9A656ED7F5EE44908DEEE5643DA02B11/section_6185A0274C82423FB21A9C952DE42339" format="dita" scope="local">
+          <?xm-replace_text Survey 3.4?>
+        </xref>
+      </li>
+      <li id="li_4EB0A7176CDD44E9A7A2EAB4AF171F78">
+        <xref href="c_03212013.xml#concept_9A656ED7F5EE44908DEEE5643DA02B11/section_159F6937E11446A78A06AC5DBEB1DE0D" format="dita" scope="local">
+          <?xm-replace_text SearchCenter 4.4?>
+        </xref>
+      </li>
+    </ul>
+    <section id="section_B87C521AEBC242F5955D162D527A5DA3">
+      <title>
+        <keyword>SiteCatalyst</keyword> 15.4 Maintenance Release</title>
+      <p>The 
+		  <keyword>SiteCatalyst</keyword> 15.4 maintenance release (03/21/2013)
+		  includes the following changes: 
+		</p>
+      <table id="table_81E35C9AA53544EA8FAD069A40A6B9F6">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1" colwidth="1.00*" />
+          <colspec colnum="2" colname="col2" colwidth="2.37*" />
+          <thead>
+            <row>
+              <entry colname="col1">Feature 
+				  </entry>
+              <entry colname="col2">Description 
+				  </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">Correlations available for all traffic
+					 variables 
+				  </entry>
+              <entry colname="col2">
+                <p>Correlations are now available for all traffic variables,
+						which enables you to break down any traffic variable by any other in 
+						<keyword>SiteCatalyst</keyword> traffic reports. 
+					 </p>
+                <p>Historic data for correlations that were not previously
+						configured is available for all dates after the 
+						<keyword>SiteCatalyst</keyword> 15 upgrade date. 
+					 </p>
+                <p>Correlations that were configured before the 
+						<keyword>SiteCatalyst</keyword> 15 upgrade date continue to
+						have historical data from the date when the correlation was enabled. 
+					 </p>
+                <p>Bookmarks, dashboards, and other reports that currently use
+						correlations are not impacted and continue to work as expected. 
+					 </p>
+                <p>As part of this change, 
+						<wintitle>Correlation Manager</wintitle> was removed from 
+						<keyword>Admin Console</keyword>, as you no longer need to
+						manually configure correlations.<!--101704--></p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1">Numeric/Currency Events outside of the
+					 products list 
+				  </entry>
+              <entry colname="col2">
+                <p>You can now provide a decimal value for Numeric/Currency
+						Events in the events list. Previously, decimal values for these events were
+						supported only within the product list. Numeric/Currency Event values in the
+						events list apply to all products in the products list. 
+					 </p>
+                <p>This is useful to track order-wide discounts, shipping, and
+						similar values, without modifying the product price or by tracking it in the
+						product list separately. For example, if you configured 
+						<varname>event10</varname> to contain order-wide discounts, a
+						purchase with a 10% discount might appear similar to the following: 
+					 </p>
+                <codeblock>s.events="purchase,event10=9.95"
+s.products=";Shoes;1;69.95,;Socks;10;29.50"</codeblock>
+                <p>On the order-wide discounts (<varname>event10</varname>)
+						report, you would see the following: 
+					 </p>
+                <p>
+                  <table id="table_A11C217A721A4BF782DD90BFC2F4A295">
+                    <tgroup cols="2">
+                      <colspec colnum="1" colname="col1" colwidth="1.00*" />
+                      <colspec colnum="2" colname="col2" colwidth="3.34*" />
+                      <thead>
+                        <row>
+                          <entry colname="col1">Product 
+								</entry>
+                          <entry colname="col2">Event10 
+								</entry>
+                        </row>
+                      </thead>
+                      <tbody>
+                        <row>
+                          <entry colname="col1">Shoes 
+								</entry>
+                          <entry colname="col2">9.95 
+								</entry>
+                        </row>
+                        <row>
+                          <entry colname="col1">Socks 
+								</entry>
+                          <entry colname="col2">9.95 
+								</entry>
+                        </row>
+                        <row>
+                          <entry colname="col1">Total 
+								</entry>
+                          <entry colname="col2">
+                            <b>9.95</b>
+                          </entry>
+                        </row>
+                      </tbody>
+                    </tgroup>
+                  </table>
+                </p>
+                <p>The report total represents the de-duplicated event total
+						(the total amount of discounts during the reporting period), not the sum of the
+						event values for each product. 
+					 </p>
+                <p>If a value for a Numeric/Currency Event is specified in the
+						products string and in the event string, the value from the event string is
+						used. 
+					 </p>
+                <note>This feature can be used with your current AppMeasurement
+						library, it does not require an AppMeasurement upgrade. 
+					 </note>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <p>Changes to Visitor Migration 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p>If you are planning a migration from third-party to
+						first-party cookies (or any other cookie migration), the visitor migration
+						process has changed. 
+					 </p>
+                <p>For enhanced security, visitor migration is now configured
+						by ClientCare on the data collection server, rather than using data collection
+						variables in your data collection code. 
+					 </p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <p>Changes to Link Tracking Redirects 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p>In an upcoming release, restrictions are being enabled on
+						the mechanism that lets you redirect using the 
+						<codeph>url</codeph> query parameter after tracking a link.
+						For example: 
+					 </p>
+                <codeblock>&lt;a href="metrics.myco.com/b/ss/...&amp;url=http://somesite.com"</codeblock>
+                <p>For enhanced security, limitations are being placed on the
+						domains to which redirects are allowed. After this change, you must specify a
+						white list of domains where redirects are allowed. If a redirect is attempted
+						to a domain not on this list, a 403 forbidden error is returned to the browser.
+						
+					 </p>
+                <p>Adobe is currently auditing report suites that are using
+						this functionality to pre-populate the white list based on the redirect URLs
+						currently in use. To confirm and update the white list for your report suites,
+						contact ClientCare. 
+					 </p>
+                <p>Link tracking redirects will be disabled by default for all
+						other report suites. 
+					 </p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <p> International Geo Postal Codes 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p> Starting February 28th 2013, international postal codes
+						will appear on the 
+						<wintitle>Visitor Zip/Postal Code Report</wintitle> for
+						report suites that are configured to have the geo zip/postal code populated by
+						Adobe data collection servers. 
+					 </p>
+                <p>The IP-to-zip mapping mechanism was also upgraded to improve
+						accuracy. This upgrade might affect metrics associated with some zip codes. 
+					 </p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <p>Custom names for processing rules 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p>You can now provide a custom name for a processing rule.
+						Previously, the name was automatically generated based on the operation and the
+						selected variable. 
+					 </p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <p>Internet Explorer 6 is no longer tested for compatibility
+						with the SiteCatalyst UI 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p>Internet Explorer 6 is no longer tested for compatibility
+						with the SiteCatalyst UI. Data collection continues to work as expected for
+						customers using Internet Explorer 6. 
+					 </p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <p>SiteCatalyst 15 is the default version in the login drop
+						down 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p>The login menu defaults to SiteCatalyst 15 if you have not
+						previously selected a different version. 
+					 </p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <p>Added Social Analytics Menu 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p>Customers who have both Adobe Analytics and Adobe Social
+						will see a new Social menu in the SiteCatalyst left navigation menu. This menu
+						contains events and variables that have been deployed as part of your Social
+						measurement. 
+					 </p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>
+        <b>Fixes</b>
+      </p>
+      <ul id="ul_E2D4F09A88DF4994970D608263EF9EDB">
+        <li id="li_2B41B0285D724DE3B7BFB56E26B4E2A3">Fixed an issue when
+			 downloading CSV reports that caused column headers to be blank. <!--107368--></li>
+        <li id="li_DF02D80C961E4FE5A2DFD6DDB8789B79">Fixed an issue that caused
+			 data extracts to take longer than expected to process or sometimes time out. <!--108287--></li>
+        <li id="li_C30E3E1FA4A941049F12434DD49420B8">Fixed an issue that caused
+			 the date to shift one day forward on dashboards and reportlets.  <!--44835, 73975--></li>
+        <li id="li_E78B1EF968B644E8842CBE63812B6AEA">Fixed an issue that caused
+			 justification differences between images when viewed on a dashboard versus a
+			 downloaded report in PDF format. <!--107471--></li>
+        <li id="li_F7974459C80C44A8BC191568AD8A428B">Fixed an issue that
+			 prevented 
+			 <keyword>Test&amp;Target</keyword> campaigns from displaying in 
+			 <keyword>SiteCatalyst</keyword>. <!--108591--></li>
+        <li id="li_D71203107E794AA5BAC3E1786B284230">Fixed an issue that
+			 prevented calculated metrics that include 
+			 <wintitle>Unique Visitor</wintitle> from displaying in the 
+			 <wintitle>Calculated Metrics</wintitle> menu list in the 
+			 <wintitle>Favorites</wintitle> menu. <!--69254--></li>
+        <li id="li_A102063CFD27456897FE28C10E46C2DA">Fixed an issue that
+			 prevented users from editing conversion variables using the 
+			 <keyword>Admin Console</keyword>. <!--103475--></li>
+        <li id="li_D4860A66C0D046E1A3AF84E33C2F9484">Fixed an issue that
+			 prevented users from editing or removing members from a user group that
+			 contains a large number of members. <!--107877, 107956--></li>
+        <li id="li_A6648B142A294BD1B40AB77E44258118">Fixed an issue that
+			 prevented user groups with long names from displaying in the 
+			 <keyword>Admin Console</keyword>. A validation mechanism is now in
+			 place to prevent users from creating user groups longer than 255 bytes.<!--98921--></li>
+        <li id="li_F417E668676D4FF9A0020128AEDD6959">March 11th 2am data was
+			 missing (it appeared as 3am data) on trended reports (Page Views and Events)
+			 with hourly granularity for report suites that aren't configured for daylight
+			 savings time. 
+		  </li>
+      </ul>
+    </section>
+    <section id="section_5D8134E70F1B421C93C3CA8ECDC7D998">
+      <title>
+        <keyword>SiteCatalyst</keyword> 14.9 Maintenance Release</title>
+      <p>The 
+		  <keyword>SiteCatalyst</keyword> 14.9 maintenance release (03/21/2013)
+		  includes the following changes: 
+		</p>
+      <ul id="ul_9A3ACDADC4DE4E8FA43CBF8C16DEF479">
+        <li id="li_54D6436520554BC2A3D13895DB0E6457">
+          <!--102001-->The 
+			 <wintitle>Metric Selector</wintitle> on the 
+			 <wintitle>Report Suite Totals Report</wintitle> now displays only
+			 calculated metrics that are supported on that report (overtime metrics). 
+		  </li>
+        <li id="li_E119E58EEB5D4D148F00DB344742F480">Fixed an issue when
+			 downloading CSV reports that caused column headers to be blank. <!--107368--></li>
+        <li id="li_F7735878EA5749F3B9C407EC49926576">Fixed an issue that caused
+			 the date to shift one day forward on dashboards and reportlets.  <!--44835, 73975--></li>
+        <li id="li_C958213C744449CB88EA708EC89774A9">Fixed an issue that
+			 prevented 
+			 <keyword>Test&amp;Target</keyword> campaigns from displaying in 
+			 <keyword>SiteCatalyst</keyword>. <!--108591--></li>
+        <li id="li_01CAE3B9F6364CEF8DB9749A910FE3C9">Fixed an issue that
+			 prevented users from editing conversion variables using the 
+			 <keyword>Admin Console</keyword>. <!--103475--></li>
+        <li id="li_4D38CBF54BF54CACA4129ECA8C937DC3">Fixed an issue that
+			 prevented users from editing or removing members from a user group that
+			 contains a large number of members. <!--107877, 107956--></li>
+        <li id="li_0376FA82498D480CBB4FE8730B2F7EB5">Fixed an issue that
+			 prevented user groups with long names from displaying in the 
+			 <keyword>Admin Console</keyword>. A validation mechanism is now in
+			 place to prevent users from creating user groups longer than 255 bytes.<!--98921--></li>
+        <li id="li_FCFD0B02AB57499683E11E5D1F338A90">March 11th 2am data was
+			 missing (it appeared as 3am data) on trended reports (Page Views and Events)
+			 with hourly granularity for report suites that aren't configured for daylight
+			 savings time. 
+		  </li>
+      </ul>
+    </section>
+    <section id="section_126AFA743F0B4FB68E82217E8EEEF52D">
+      <title>Social 2.4 Maintenance Release</title>
+      <p>The 
+		  <keyword>Social</keyword> 2.4 maintenance release (03/21/2013) includes
+		  the following changes: 
+		</p>
+      <p>
+        <b>New Features</b>
+      </p>
+      <table id="table_4AFE196494A6408790ACDBB2D0F3FE5E">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1" colwidth="1.00*" />
+          <colspec colnum="2" colname="col2" colwidth="2.79*" />
+          <thead>
+            <row>
+              <entry colname="col1">Feature 
+				  </entry>
+              <entry colname="col2">Description 
+				  </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">Apps: Twitter template 
+				  </entry>
+              <entry colname="col2">
+                <p>Added a new Twitter template to help you quickly display a
+						Twitter feed from within an application. 
+					 </p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1">Twitter functionality 
+				  </entry>
+              <entry colname="col2">
+                <p>Updated Twitter functionality due to Twitter API changes.
+						Users will not see any changes in functionality other than the removal of the 
+						<wintitle>Display User Photo</wintitle> setting from the 
+						<wintitle>Twitter Feed</wintitle> element. 
+					 </p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1">Language support 
+				  </entry>
+              <entry colname="col2">
+                <p>The documentation has been localized and is available in the
+						Japanese language. 
+					 </p>
+                <p>
+                  <wintitle>Listening</wintitle>, 
+						<wintitle>Publishing</wintitle>, and 
+						<wintitle>Moderation</wintitle> capabilities are now
+						supported for the Hebrew and Arabic languages. 
+					 </p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <p>Added Social Analytics Menu 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p>Customers who have both Adobe Analytics and Adobe Social
+						will see a new Social menu in the SiteCatalyst left navigation menu. This menu
+						contains events and variables that have been deployed as part of your Social
+						measurement. 
+					 </p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>See the 
+		  <xref href="https://marketing.adobe.com/resources/help/en_US/social/index.html?f=c_rel_notes" format="html?f=c_release_notes">New Features in Social</xref> for more
+		  information. 
+		</p>
+      <p>
+        <b>Fixes</b>
+      </p>
+      <ul id="ul_EE1F71618DCA4831935ADE013E0F1F29">
+        <li id="li_1BC62923D9684346BD288661C9B01165">Fixed an issue that caused
+			 users to be prematurely logged out of 
+			 <keyword>Social</keyword>. <!--107032--></li>
+        <li id="li_DDD9BBAF9B174B3FB16A1E8899EBE2DF">Fixed an issue that caused
+			 
+			 <wintitle>Mentions</wintitle> in the 
+			 <wintitle>Key Metrics</wintitle> report to be lower than expected. <!--108609--></li>
+        <li id="li_ADFFDF3579AA4D2D975EC598DE32D797">Fixed an issue when
+			 re-authorizing a Twitter account that caused the account's owner to be reset
+			 and caused members of user groups to lose access to the account. <!--108774--></li>
+        <li id="li_97D4A4B6DFC24281A02AD4281B52828F">Fixed an issue that caused
+			 the 
+			 <wintitle>Upload Image</wintitle> button to not display when editing
+			 legacy applications. <!--108860--></li>
+      </ul>
+    </section>
+    <section id="section_CBEBABE17B7147088A2FE134FE57A9CD">
+      <title>Discover 3.1 Maintenance Release </title>
+      <p>The 
+		  <keyword>Discover</keyword> 3.1 maintenance release (03/21/2013)
+		  includes the following changes: 
+		</p>
+      <p>
+        <b>Fixes</b>
+      </p>
+      <p>
+        <ul id="ul_49B7AEB6BE454AB5B12F024503374880">
+          <li id="li_2F619ED085EF431CA66820C4CC860EB2">
+            <!--108833-->Users attempting to run reports but were not
+			 administrators or not in a group with explicit administrative access rights
+			 received a 310 error. This has been fixed to allow permissions based on
+			 individual rights and to allow these users access to the report's feature. 
+		  </li>
+          <li id="li_5262E2D5E59C4158B4E103D6F9F4FBD2">
+            <!--108592-->When scheduling a report in the 
+			 <wintitle>Schedule Manager</wintitle> and entering a date in the 
+			 <uicontrol>End after so many occurrences</uicontrol> field, the
+			 schedule would end after the current day regardless of the entered value. This
+			 has now been fixed. In addition, after clicking the 
+			 <uicontrol>Save</uicontrol> button a 
+			 <uicontrol>Calculate End Date</uicontrol> message now appears
+			 displaying when the scheduled action will expire. 
+		  </li>
+          <li id="li_61983720BD5249C3BDFE8BBA65542CB0">
+            <!--106309-->While running 
+			 <keyword>Discover</keyword> with international, non-English language
+			 settings, if you let 
+			 <keyword>Discover</keyword> sit for 30 minutes until the session
+			 timed out then the menus changed to English. This is now fixed to reset to the
+			 previously selected language after a session timeout. 
+		  </li>
+          <li id="li_66889547CA2143C4BFAEA8ADE3120F8A">
+            <!--107644-->Fixed an inconsistency in 
+			 <wintitle>Scheduled Reports</wintitle> that would display zeros if
+			 reporting across data boundaries after the new (<keyword>SiteCatalyst</keyword>
+			 15) data platform was introduced. This problem was a rare occurrence caused by
+			 updating versions and tracking across multiple datasets and incongruent time
+			 slices. 
+		  </li>
+          <li id="li_ED7C65910406454AAB202FD53CF38E22">
+            <!--101283-->Incorrect allocation of Orders for each country in a
+			 GeoCountries report rendered the sum of line items to be far less than the
+			 total Orders. After the fix, a country's data persists throughout the visit so
+			 orders can be allocated to the appropriate country in every visit with a
+			 purchase event. 
+		  </li>
+          <li id="li_F472115CF9CD458688A7B61784BA7CB8">
+            <!--107929--> Australian Capital Territory was displaying in USA
+			 report. This is now fixed. 
+		  </li>
+          <li id="li_3F7EC09EE07540659FE9B56CBB69409A">
+            <!--109048-->No data displayed beyond 2/21/2013 in the
+			 GeoSegmentation report for states in the USA. This fix will allow all
+			 historical data to return. A workaround is to run a Regions report with a
+			 segment that includes Visits where the Country setting is the United States. 
+		  </li>
+          <li id="li_E520F64C82F34B7389CCADD7CD46CF24">
+            <?xm-replace_text List Item?>
+          </li>
+        </ul>
+      </p>
+    </section>
+    <section id="section_6AA888F7F8634A599EC056D63D68E649">
+      <title>
+        <keyword>ReportBuilder</keyword> 4.3 Maintenance Release</title>
+      <p>The 
+		  <keyword>ReportBuilder</keyword> maintenance release (03/21/2013)
+		  includes the following changes: 
+		</p>
+      <p>
+        <b>New Features</b>
+      </p>
+      <table id="table_2DA7774AC12642439F27ADEC35DFFC16">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1" colwidth="1.00*" />
+          <colspec colnum="2" colname="col2" colwidth="3.87*" />
+          <thead>
+            <row>
+              <entry colname="col1">Feature 
+				  </entry>
+              <entry colname="col2">Description 
+				  </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">
+                <p>
+                  <wintitle>Manage ReportBuilder Scheduled Tasks 
+						</wintitle>
+                </p>
+              </entry>
+              <entry colname="col2">
+                <p> Click 
+						<uicontrol>Admin</uicontrol> &gt; 
+						<uicontrol>Company</uicontrol> &gt; 
+						<uicontrol>ReportBuilder Reports</uicontrol>. 
+					 </p>
+                <p> Administrators can now view all users with 
+						<keyword>ReportBuilder</keyword> access privileges and see
+						how many available scheduled tasks each users has. Each 
+						<keyword>ReportBuilder</keyword> user license automatically
+						allocates ten scheduled tasks. You can adjust or reallocate their scheduled
+						tasks as necessary. 
+					 </p>
+                <p>See 
+						<xref href="https://microsite.omniture.com/t2/help/en_US/reference/index.html?f=users" format="https" scope="external">Users</xref> in Admin Help for information
+						about granting a 
+						<keyword>SiteCatalyst</keyword> user access to 
+						<keyword>ReportBuilder</keyword>. <!--http://bugzilla.ut1.omniture.com/show_bug.cgi?id=104861--></p>
+                <p>
+                  <note>Scheduled tasks cannot exceed the number of available
+						  tasks per user. If you attempt to set the available amount lower than the total
+						  amount scheduled, a warning is issued, letting you delete scheduled reports. 
+						</note>
+                </p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <p>Refresh requests using a macro in Excel 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p>We added support for three 
+						<keyword>ReportBuilder</keyword> API methods that can be
+						invoked from VBA. <!--http://bugzilla.ut1.omniture.com/show_bug.cgi?id=53519--></p>
+                <p>Prerequisites: 
+					 </p>
+                <ul id="ul_A90FFBD8AB744D4CB4817E35C067A30D">
+                  <li id="li_0C454E36783642028D38686850CF5922">Install the
+						  latest 
+						  <keyword>ReportBuilder</keyword> client application to the
+						  computer on which you intend to run the macro. 
+						</li>
+                  <li id="li_16B99875F8A8495EBE457915244029B4">Log in to 
+						  <keyword>ReportBuilder</keyword> prior to running macros. 
+						</li>
+                </ul>
+                <p>For security reasons, a workbook that contains a macro
+						cannot be scheduled through the 
+						<keyword>ReportBuilder</keyword> scheduling interface. 
+					 </p>
+                <p>
+                  <b> RefreshAllReportBuilderRequests()</b>
+                </p>
+                <p>The following macro refreshes all 
+						<keyword>ReportBuilder</keyword> requests in the active
+						workbook: 
+					 </p>
+                <codeblock>Sub RefreshAllReportBuilderRequests()
+
+ Dim addIn As COMAddIn
+ Dim automationObject As Object
+ Dim success As Boolean
+ 
+ 'First step is to invoke the ReportBuilder COM Addin through its Product ID
+ Set addIn = Application.COMAddIns("ReportBuilderAddIn.Connect")
+ Set automationObject = addIn.Object
+ 
+ ' Once the Addin has been retrieved, invoke the RefreshAllRequests() API command
+ success = automationObject.RefreshAllRequests(ActiveWorkbook)
+
+End Sub
+</codeblock>
+                <p>
+                  <b> RefreshAllReportBuilderRequestsInActiveWorksheet() 
+						</b>
+                </p>
+                <p>The following macro refreshes all 
+						<keyword>ReportBuilder</keyword> requests in the active
+						worksheet: 
+					 </p>
+                <codeblock>Sub RefreshAllReportBuilderRequestsInActiveWorksheet()
+
+ Dim addIn As COMAddIn
+ Dim automationObject As Object
+ Dim success As Boolean
+ 
+ 'First step is to invoke the ReportBuilder COM Addin through its Product ID
+ Set addIn = Application.COMAddIns("ReportBuilderAddIn.Connect")
+ Set automationObject = addIn.Object
+ 
+ ' Once the Addin has been retrieved, invoke the RefreshWorksheetRequests() API command
+ success = automationObject.RefreshWorksheetRequests(ActiveWorkbook.ActiveSheet)
+ ' The RefreshWorksheetRequests() API call take a worksheet object as an argument.         
+ ' Thus you can call if for any worksheet that contains ARB requests.
+
+End Sub
+</codeblock>
+                <p>
+                  <b>RefreshAllReportBuilderRequestsInCellsRange() 
+						</b>
+                </p>
+                <p>The following macro refreshes all 
+						<keyword>ReportBuilder</keyword> requests whose cell outputs
+						intersect the a specified range of cells: 
+					 </p>
+                <codeblock>Sub RefreshAllReportBuilderRequestsInCellsRange()
+
+ Dim addIn As COMAddIn
+ Dim automationObject As Object
+ Dim success As Boolean
+ 
+ 'First step is to invoke the ReportBuilder COM Addin through its Product ID
+ Set addIn = Application.COMAddIns("ReportBuilderAddIn.Connect")
+ Set automationObject = addIn.Object
+ 
+ ' Once the Addin has been retrieved, invoke the RefreshRequestsInCellsRange() API command
+ ' The cell range specified below points to the range B1:B54 of the "Data" worksheet of the active workbook.
+ ' The range expression will support all supported Excel Range expression
+  success = automationObject.RefreshRequestsInCellsRange("'Data'!B1:B54")
+ 
+End Sub</codeblock>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>
+        <b>Fixes</b>
+      </p>
+      <ul id="ul_B2B57ED1AF7A47268982257DE8D0AF6F">
+        <li id="li_D1AA6430ED3D4AC196FC97FF846D992A">
+          <!--http://bugzilla.ut1.omniture.com/show_bug.cgi?id=102961 -->Updated
+			 
+			 <wintitle>Scheduled Reports</wintitle> to ensure that after
+			 scheduling and resetting reports, the report runs only once instead of multiple
+			 times. 
+		  </li>
+        <li id="li_53604EA1A7D847CCA4E2A468F53C97D1">
+          <!--http://bugzilla.ut1.omniture.com/show_bug.cgi?id=107575-->
+			 Fixed an issue causing carrot (<codeph>&lt;&gt;</codeph>) characters
+			 to incorrectly display in error messages. 
+		  </li>
+        <li id="li_3240E18BC3A649748C44213A22BD1986">
+          <!--http://bugzilla.ut1.omniture.com/show_bug.cgi?id=107801-->
+			 Fixed an issue causing the scheduled report failure message to show
+			 the incorrect filename and report name. 
+		  </li>
+        <li id="li_81EEABF308ED41B588DBC522E6108BE9">
+          <!--http://bugzilla.ut1.omniture.com/show_bug.cgi?id=107687-->
+			 Fixed an issue causing a permission error when using the 
+			 <wintitle>Fixed Date</wintitle> option. 
+		  </li>
+      </ul>
+    </section>
+    <section id="section_099E60930E184B72A3151E4BB98DD228">
+      <title>
+        <keyword>DataWarehouse</keyword>
+      </title>
+      <p>The 
+		  <keyword>DataWarehouse</keyword> 15.4 maintenance release (03/21/2013)
+		  includes the following changes: 
+		</p>
+      <p>
+        <b>New Features</b>
+      </p>
+      <table id="table_BC25FB3C520C46CD89F0C3E4524E10FA">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1" colwidth="1.00*" />
+          <colspec colnum="2" colname="col2" colwidth="2.79*" />
+          <thead>
+            <row>
+              <entry colname="col1">Feature 
+				  </entry>
+              <entry colname="col2">Description 
+				  </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">Page URL is now available in reports 
+				  </entry>
+              <entry colname="col2">
+                <p>The Page URL is available for current and historical
+						reports. 
+					 </p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>
+        <b>Fixes</b>
+      </p>
+      <ul id="ul_464A79C6F8AF4BEDA41A733D9D12605B">
+        <li id="li_7502EC8FCA1E4895A38A1131922C5143">
+          <!--109173-->Row limit changes to existing jobs in the 
+			 <keyword>DataWarehouse</keyword> UI were not being applied. If you
+			 recently changed a row limit for an existing job and the change was not
+			 applied, you can now apply the change and it will save correctly. 
+		  </li>
+        <li id="li_DBC3344B87394169A21019D566B9714C">
+          <!--108017-->Some large 
+			 <keyword>DataWarehouse</keyword> requests were failing with a
+			 "Breakdown application crashed" error message. 
+		  </li>
+        <li id="li_9C911EC05D404869AFB16D6089D4F67C">
+          <!--106612-->Now replace "<codeph>&amp;amp;</codeph>" with
+			 "<codeph>&amp;</codeph>" in segment rules. 
+		  </li>
+      </ul>
+    </section>
+    <section id="webservices">
+      <title>Web Services API</title>
+      <p>The 
+		  <keyword>Web Services</keyword> maintenance release (03/21/2013)
+		  includes the following changes: 
+		</p>
+      <ul id="ul_6BDF861C6FCD415691D6377895EE918A">
+        <li id="li_666AB08F665F4ECBB7820F85159FEC3F">
+          <wintitle>Anomaly Detection</wintitle> is now available for the
+			 reporting API. This feature lets you retrieve upper bounds, lower bounds, and
+			 forecast data. See 
+			 <xref href="https://developer.omniture.com/en_US/documentation/sitecatalyst-reporting/c-reporting-api" format="https" scope="external">SiteCatalyst Reporting API</xref>. 
+		  </li>
+        <li id="li_FC8AE39A59DD427E8FA77A12EB1150CA">The 
+			 <keyword>CodeManager</keyword> APIs that simulate the functionality
+			 of the Admin Console Code Manager were deprecated. Code archives remain
+			 available in Admin Console. 
+		  </li>
+      </ul>
+      <p>Visit 
+		  <xref href="http://developer.omniture.com" scope="external" format="html">developer.omniture.com</xref> to learn more about the Web
+		  Services API. 
+		</p>
+    </section>
+    <section id="section_D0633D8F6F214940BE3287B305BD760A">
+      <title>
+        <keyword>AppMeasurement</keyword> &amp; Mobile</title>
+      <p>
+        <keyword>AppMeasurement</keyword> libraries for all platforms except
+		  JavaScript are now hosted on 
+		  <xref href="http://developer.omniture.com" format="http" scope="external">Developer Connection</xref>. The latest JavaScript 
+		  <keyword>AppMeasurement</keyword> library and your saved code archives
+		  are still available in 
+		  <uicontrol>Admin</uicontrol> &gt; 
+		  <uicontrol>Code Manager</uicontrol>. 
+		</p>
+      <table id="table_CA62406F3418463D8DD9D62E61153559">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1" colwidth="1.00*" />
+          <colspec colnum="2" colname="col2" colwidth="2.47*" />
+          <thead>
+            <row>
+              <entry colname="col1"></entry>
+              <entry colname="col2"></entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">Format changes for custom timestamps 
+				  </entry>
+              <entry colname="col2">
+                <p>If you are specifying a custom timestamp (using the 
+						<codeph>s.timestamp</codeph> variable), some changes to the
+						ISO-8601 formats accepted are changing in this release: 
+					 </p>
+                <ul id="ul_E0638F46907645DC90DF2749DC51C3C4">
+                  <li id="li_A0CFC0BF981C4A70BCD877129026571C">Both date and
+						  time must be provided, separated by "T" 
+						</li>
+                  <li id="li_DDC66E76F4314D59B526B9306BB660BB">The date must be
+						  a calendar date with full precision (year, month, and day). Week dates and
+						  ordinal dates are not supported. 
+						</li>
+                  <li id="li_DA4257991D1545778AFFDBE72DFE0026">The date can be
+						  in standard or extended format (<codeph>YYYY-MM-DD</codeph> or 
+						  <codeph>YYYYMMDD</codeph>), but they must include the hour
+						  and minute. Seconds are optional (<codeph>HH:MM</codeph>, 
+						  <codeph>HH:MM:SS</codeph>, 
+						  <codeph>HHMM</codeph>, or 
+						  <codeph>HHMMSS</codeph>). Fractional minutes and seconds
+						  can be passed in, but the fractional part is ignored. 
+						</li>
+                  <li id="li_A2597FF32833443BA2E6CEC67CD47663">An optional time
+						  zone can be specified in standard or extended format (<codeph>±HH</codeph>, 
+						  <codeph>±HH:MM</codeph>, 
+						  <codeph>±HH</codeph>, 
+						  <codeph>±HHMM</codeph>, or Z) 
+						</li>
+                </ul>
+                <codeblock>2013-01-01T12:30:05+06:00
+2013-01-01T12:30:05Z
+2013-01-01T12:30:05
+2013-01-01T12:30</codeblock>
+                <p>UNIX time stamps continue to be supported (seconds since Jan
+						1st 1970). 
+					 </p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>
+        <b>
+          <keyword>AppMeasurement</keyword> for Other Platforms</b>
+      </p>
+      <p>See 
+		  <xref href="https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/release/index.html" scope="external" format="html">AppMeasurement Release History</xref> the
+		  following for a release history of 
+		  <keyword>AppMeasurement</keyword> on the following platforms: 
+		</p>
+      <ul id="ul_B20AE0B814074E7887113D26F71AF819">
+        <li id="li_0E5778051926414F8EF1310EE31C5279">JavaScript 
+		  </li>
+        <li id="li_D2B8E769EE444CBC9B06305DAE4B225D">iOS 
+		  </li>
+        <li id="li_B4882878F13E47A189CB24300F5E02E3">Android 
+		  </li>
+        <li id="li_30AFDC29D0494DCE9F5A5483DC1949DA">Flash-Flex 
+		  </li>
+        <li id="li_24991A6893F24277BEBE304402188053">Windows Phone, XBOX,
+			 Silverlight, and .NET 
+		  </li>
+        <li id="li_3DAEC196557B4DC980E65CC1063F2010">BlackBerry 
+		  </li>
+        <li id="li_0F692A16727E495AA441355F6E86BC9C">Java 
+		  </li>
+        <li id="li_F6CB5C9C1E384E2E8F61A0C169A65587">PHP 
+		  </li>
+        <li id="li_B495C8F3A90C4C7F9D9CF97C8EC548D6">Symbian 
+		  </li>
+      </ul>
+    </section>
+    <section id="section_DA3DE8FC441D41D1B65895196A3F1AD9">
+      <title>
+        <keyword>AudienceManager</keyword>
+      </title>
+      <p>The 
+		  <keyword>AudienceManager</keyword> maintenance release (February 2013)
+		  includes the following changes: 
+		</p>
+      <p>
+        <b>New Features</b>
+      </p>
+      <p>
+        <table id="table_99C7E33B4ED443BDB395DA4FBB8B752F">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="col1" colwidth="1.00*" />
+            <colspec colnum="2" colname="col2" colwidth="2.97*" />
+            <thead>
+              <row>
+                <entry colname="col1">Feature 
+				  </entry>
+                <entry colname="col2">Description 
+				  </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry colname="col1">Declared ID Targeting 
+				  </entry>
+                <entry colname="col2">Declared IDs help you exchange and
+					 synchronize user IDs with devices or browsers that do not use persistent
+					 storage mechanisms like third-party cookies. See 
+					 <xref href="https://marketing.adobe.com/resources/help/en_US/demdex/index.html?f=c_declared_id" format="http" scope="external">Declared IDs</xref>. 
+				  </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </p>
+    </section>
+    <section id="section_DC9222873727408EAC3051E090729FCE">
+      <title>
+        <keyword>Genesis</keyword> 3.1 Maintenance Release</title>
+      <p>The 
+		  <keyword>Genesis</keyword> maintenance release (03/21/2013) includes
+		  the following changes: 
+		</p>
+      <p>
+        <b>
+          <wintitle>Dev Center</wintitle> Fixes</b>
+      </p>
+      <ul id="ul_85DFA6BC55AC40E684C4DE779D568D35">
+        <li id="li_07CFFBA991D0414089A83FA6674A2320">Fixed an issue that
+			 incorrectly caused "An unknown error has occurred" message to display when
+			 saving a list variable. <!--http://bugzilla.ut1.omniture.com/show_bug.cgi?id=109528--></li>
+        <li id="li_AD92EDB2AAC040899B9B87FA2E034853"> Fixed the Locale menu on
+			 the 
+			 <wintitle>Add Resource</wintitle> page so that it displays all
+			 languages. <!--http://bugzilla.ut1.omniture.com/show_bug.cgi?id=104822--></li>
+      </ul>
+      <p>
+        <b>Fixes</b>
+      </p>
+      <ul id="ul_DB507108EC06451AB32CED4451F89448">
+        <li id="li_23F323400AF249A190C79092EDC4AF09">
+          <keyword>DFA</keyword> Integration: Fixed an issue preventing data
+			 from importing.<!--http://bugzilla.ut1.omniture.com/show_bug.cgi?id=109178--></li>
+        <li id="li_A6ED39EC984A405EAC5836F85CF392B4">
+          <keyword>DFA</keyword> plug-in: Fixed an integration issue with Adobe
+			 
+			 <keyword>CQ</keyword>. <!--http://bugzilla.ut1.omniture.com/show_bug.cgi?id=105177--></li>
+        <li id="li_702595B5DD274883985904763C500E4F">
+          <keyword>Salesforce</keyword> Integration: General back-end
+			 improvements to resolve data errors.<!-- http://bugzilla.ut1.omniture.com/show_bug.cgi?id=109033--></li>
+      </ul>
+    </section>
+    <section id="section_708A2B94F3DC4850A1BAEB907200007F">
+      <title>
+        <keyword>Search&amp;Promote</keyword> 8.9.6</title>
+      <p>
+        <keyword> Search&amp;Promote</keyword> 8.9.6 (03/21/2013) includes the
+		  following changes: 
+		</p>
+      <p>
+        <b>Fixes and enhancements</b>
+      </p>
+      <p>
+        <ul id="ul_7978F391BFEA44F9A627E3C441D61309">
+          <li id="li_39A5ECC79447420B92E4EDF471E580C1">
+            <p>
+              <!--3500584--> The value of 0 was not being removed from 
+				<uicontrol>Breadcrumbs</uicontrol>. 
+			 </p>
+          </li>
+          <li id="li_B7B5A0DB06954D5487E5EB14E005AF45">
+            <p>
+              <!--3516548--> When a large list of direct-hits was processed, an
+				error occurred. 
+			 </p>
+          </li>
+          <li id="li_3D47E5F05EFC478190EBAAF6BF4650F5">
+            <p>
+              <!--3363739--> Enhancements made when you push one or more 
+				<uicontrol>Business Rules</uicontrol> live. 
+			 </p>
+          </li>
+        </ul>
+      </p>
+      <p>See 
+		  <xref format="http" href="https://marketing.adobe.com/resources/help/en_US/snp/index.html" scope="external">Search&amp;Promote Documentation Home</xref> for the latest 
+		  <keyword>Adobe Search&amp;Promote</keyword> documentation. 
+		</p>
+    </section>
+    <section id="section_3A1ABF27833047A883FB76E9B2B6CF1D">
+      <title>Recommendations 2.14</title>
+      <p>This release of 
+		  <keyword>Recommendations</keyword> (03/21/2013) includes the following
+		  changes. 
+		</p>
+      <p>
+        <keyword>Recommendations</keyword> is now an integral capability within
+		  
+		  <keyword>Adobe</keyword><keyword>Target</keyword>. 
+		  <keyword>Adobe Target</keyword>, part of the 
+		  <keyword>Adobe Marketing Cloud</keyword>, is a solution that provides
+		  data-driven personalization for revenue impact by leveraging the integrated
+		  capabilities of 
+		  <keyword>Test&amp;Target</keyword>, 
+		  <keyword>Test&amp;Target 1:1</keyword> (Automated Behavioral
+		  Targeting), Geo-targeting, Analytics-Powered Targeting, 
+		  <keyword>Recommendations</keyword> and 
+		  <keyword>Search&amp;Promote</keyword>. Many of our upcoming upgrades
+		  within the tool will support new efficiencies in data/profile integration,
+		  extended algorithm options, and campaign creation / deployment within 
+		  <keyword>Recommendations</keyword>. Inherent benefits will include
+		  stronger collaboration with the other 
+		  <keyword>Adobe Target</keyword> capabilities, as well as across the 
+		  <keyword>Adobe Marketing Cloud</keyword>. 
+		</p>
+      <p>
+        <table id="table_EE462DB2F87E4E2B8CC314263A53B26B">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="col1" colwidth="1.00*" />
+            <colspec colnum="2" colname="col2" colwidth="1.65*" />
+            <thead>
+              <row>
+                <entry colname="col1">Feature 
+				  </entry>
+                <entry colname="col2">Description 
+				  </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry colname="col1">Mbox selection via dropdown 
+				  </entry>
+                <entry colname="col2"> All available mboxes are listed in a menu
+					 on the 
+					 <keyword>Recommendations</keyword> edit page. Browsing your
+					 site to find the mbox is no longer required. 
+				  </entry>
+              </row>
+              <row>
+                <entry colname="col1"> Mbox Delivery Targeting 
+				  </entry>
+                <entry colname="col2">
+                  <p>
+                    <keyword>Recommendations</keyword> can be limited to show
+						only in mboxes when certain conditions are met. These can include matching
+						particular URL values, mbox parameter values, or profile values. These rules
+						are reevaluated on every mbox request. With this new ability, multiple
+						recommendations can be set up on one mbox name but displayed in different
+						circumstances. 
+					 </p>
+                  <p>For example: one recommendation can display on women's
+						product pages by targeting the mbox to URL contains 
+						<codeph>/women/</codeph> and show on men's product pages when
+						the URL contains 
+						<codeph>/mens/</codeph>, even if the same mbox name is used
+						across all product pages. 
+					 </p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1"> Improved support for multiple client
+					 environments (host group management) 
+				  </entry>
+                <entry colname="col2">
+                  <p>The following improvements have been made to support
+						multiple host group environments: 
+					 </p>
+                  <p>
+                    <ul id="ul_4105EF4AA2A74CE4B4E04BB3C1A9CBD5">
+                      <li id="li_B5AE4AF436B24BD49B70A7CCE68450C4">Host groups can
+						  be selected for display in reports. 
+						  <p>The report for the host group that is set as the default
+							 displays unless a different host group is selected. 
+						  </p></li>
+                      <li id="li_9C02065130124DB98068A1AD1A67EBCF">The host group
+						  displays on the search details page. 
+						</li>
+                      <li id="li_A69A77710FD24C38B88719CCC9FD49A8">Multiple host
+						  groups can be set when uploading a CSV file and when setting up a feed. 
+						</li>
+                    </ul>
+                  </p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">The inclusion filter has been enhanced to
+					 include a "does not match" option. 
+				  </entry>
+                <entry colname="col2">Data can now be included when an attribute
+					 does not match the key's attribute. 
+				  </entry>
+              </row>
+              <row>
+                <entry colname="col1">Multiple filter inclusion rules 
+				  </entry>
+                <entry colname="col2">Multiple "Include Only When" filters can be
+					 used. When more than one filter is used, the filters are combined with an 
+					 <codeph>AND</codeph>. 
+				  </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </p>
+    </section>
+    <section id="insight">
+      <title>
+        <keyword>Insight</keyword> 5.5</title>
+      <p>See 
+		  <xref format="html" href="https://marketing.adobe.com/resources/help/en_US/insight/insight_release_notes.pdf?cb=540" scope="external">Insight Product Documentation</xref> for the latest 
+		  <keyword>Insight</keyword> release notes and documentation. 
+		</p>
+    </section>
+    <section id="section_7A393A841D6A412CB1EFC20B58EC4538">
+      <title>
+        <keyword>Clickstream</keyword> Data Feeds</title>
+      <p>Not updated in this maintenance release. 
+		</p>
+      <p>See the 
+		  <xref href="https://marketing.adobe.com/resources/help/en_US/whitepapers/clickstream/index.html" format="http" scope="external">Clickstream Data Feeds</xref> help for the
+		  latest information. 
+		</p>
+    </section>
+    <section id="section_570E76085F81420C924E0083D0C63672">
+      <title>
+        <keyword>ClickMap</keyword>
+      </title>
+      <p>Not updated in this maintenance release. 
+		</p>
+    </section>
+    <section id="section_6185A0274C82423FB21A9C952DE42339">
+      <title>
+        <keyword>Survey</keyword> 3.4</title>
+      <p>
+        <keyword>Survey</keyword> was not updated in this maintenance release. 
+		</p>
+      <p>For more information about 
+		  <keyword>Survey</keyword>, see the 
+		  <xref href="https://marketing.adobe.com/resources/help/en_US/survey/index.html?f=c_Release_Notes" format="html?f=c_Release_Notes">Survey User Guide</xref>. 
+		</p>
+    </section>
+    <section id="section_159F6937E11446A78A06AC5DBEB1DE0D">
+      <title>
+        <keyword>SearchCenter</keyword> 4.4</title>
+      <p>
+        <keyword>SearchCenter</keyword> was not updated in this maintenance
+		  release. 
+		</p>
+      <p>For more information about 
+		  <keyword>SearchCenter</keyword>, see the 
+		  <xref href="https://marketing.adobe.com/resources/help/en_US/scm/index.html?f=c_Release_Notes" format="html?f=c_Release_Notes">SearchCenter User Guide</xref>. 
+		</p>
+    </section>
+  </conbody>
+</concept>

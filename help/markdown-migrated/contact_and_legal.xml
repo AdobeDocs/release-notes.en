@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept id="concept_34A1CA16F2244D42930BB77846A5ABBB">
+  <title>Contact and Legal Information</title>
+  <shortdesc>Information to help you contact Adobe and understand the legal
+	 issues concerning your use of this product and documentation. 
+  </shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>dynamic tag management</keyword>
+        <keyword>release notes</keyword>
+      </keywords>
+      <othermeta name="solution" content="Experience Cloud,Release Notes" />
+    </metadata>
+  </prolog>
+  <conbody>
+    <section id="section_354AC2658BA84A2A96E64C5B2C43B73B">
+      <title> Help &amp; Technical Support</title>
+      <p> The Adobe Marketing Cloud Customer Care team is here to assist you
+		  and provides a number of mechanisms by which they can be engaged: 
+		</p>
+      <ul id="ul_44D041CBF70F4EC7AB0DC946279B48BB">
+        <li id="li_34FF19FE9E9B4FB4B5ACA5C14E032787">
+          <xref href="http://helpx.adobe.com/marketing-cloud.html" format="http" scope="external">Check the Marketing Cloud help pages for advice,
+				tips, and FAQs</xref>
+        </li>
+        <li id="li_59915E7BAC88481B8D3147E7DAF6BFF7">
+          <xref href="https://twitter.com/AdobeMktgCare" format="https" scope="external">Ask us a quick question on Twitter @AdobeMktgCare</xref>
+        </li>
+        <li id="li_66F95C4F63924C92A1F8EC6F0337202C">
+          <xref href="https://customers.omniture.com/login.php" format="https" scope="external">Log an incident in our customer portal</xref>
+        </li>
+        <li id="li_B6F332B933624D7086272F3D72BDBDB5">
+          <xref href="http://helpx.adobe.com/marketing-cloud/contact-support.html" format="http" scope="external">Contact the Customer Care team directly</xref>
+        </li>
+        <li id="li_F236ED51B76F4BB9A319ABF699601B0A">
+          <xref href="http://status.adobe.com/" format="http" scope="external">Check availability and status of Marketing Cloud
+				Solutions</xref>
+        </li>
+      </ul>
+    </section>
+    <section id="section_FA4F5274FDFE4DF7BB079E575877DFC2">
+      <title> Service, Capability, and Billing</title>
+      <p> Dependent on your solution configuration, some options described in
+		  this documentation might not be available to you. As each account is unique,
+		  see your contract for pricing, due dates, terms, and conditions. If you want to
+		  add to or otherwise change your service level, or if you have questions
+		  regarding your current service, contact your Account Manager. 
+		</p>
+    </section>
+    <section id="section_8154D6D712054220A90D85FA8E92933E">
+      <title>Feedback</title>
+      <p> Adobe Systems welcome any suggestions or feedback regarding this
+		  solution. You can add enhancement ideas and suggestions for the Analytics suite
+		  to our 
+		  <xref href="https://my.omniture.com/login/?r=%2Fp%2Fsuite%2Fcurrent%2Findex.html%3Fa%3DIdeasExchange.Redirect%26redirectreason%3Dnotregistered%26referer%3Dhttp%253A%252F%252Fideas.omniture.com%252Ft5%252FAdobe-Idea-Exchange-for-Omniture%252Fidb-p%252FIdeaExchange3" format="https" scope="external">Customer Idea Exchange</xref>. 
+		</p>
+    </section>
+    <section id="section_A6E1844D4AC2485CADBF6D05116E3D59">
+      <title> Legal</title>
+      <sl>
+        <sli>© 2016 Adobe Systems Incorporated. All Rights Reserved. 
+		  </sli>
+        <sli>Published by Adobe Systems Incorporated. 
+		  </sli>
+      </sl>
+      <p>
+        <xref href="http://www.adobe.com/go/marketingcloud_terms_of_use" format="http" scope="external">Terms of Use</xref> | 
+		  <xref href="http://www.adobe.com/privacy/policy.html" format="http" scope="external">Privacy Center</xref></p>
+      <p>Adobe and the Adobe logo are either registered trademarks or
+		  trademarks of Adobe Systems Incorporated in the United States and/or other
+		  countries. A trademark symbol (®, ™, etc.) denotes an Adobe trademark.
+		</p>
+      <p> All third-party trademarks are the property of their respective
+		  owners. Updated Information/Additional Third-Party Code Information available
+		  at 
+		  <xref href="http://www.adobe.com/products/eula/third_party/" format="http" scope="external">http://www.adobe.com/go/thirdparty</xref>. 
+		</p>
+    </section>
+  </conbody>
+</concept>

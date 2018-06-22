@@ -1,0 +1,18 @@
+One-time configuration
+
+Copy Release Notes.xml from the whatsnew project in SVN to C:\Program Files (x86)\XMetaL 6.0\Author\Template\General
+
+
+Each release
+
+1. 0pen the template file (C:\Program Files (x86)\XMetaL 6.0\Author\Template\General\Release Notes.xml). Update version numbers, add headings for new releases, and so on. Save the template and then commit the new template file to SVN.
+
+2. In Xmetal, click File > New. Select the General tab and then Release Notes.
+
+3. Save the Release Notes as c_mmddyyyy.xml.
+
+4. Find and replace all date references.
+
+5. Double-click each xref in the products list and re-select the heading to update the xref. Make sure you click Browse to select the new file that you just created, otherwise all of the headings reference an earlier version of the release notes.
+
+6. Save and commit to SVN.

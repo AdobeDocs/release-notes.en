@@ -1,0 +1,1673 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept id="concept_DB6530FA664644D3855A6A2BE913AD63">
+  <title> Release Notes - July 18 2013</title>
+  <shortdesc>Branding changes to the solutions, Learn about the latest release
+	 and maintenance release information in the 
+	 <keyword>Adobe Marketing Cloud™</keyword>. 
+  </shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>release notes</keyword>
+      </keywords>
+      <othermeta name="solution" content="Experience Cloud,Release Notes" />
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Release date: 
+		<b>July 18 2013</b></p>
+    <p>
+      <b>Branding information</b>: See 
+		<xref href="07182013.xml#concept_DB6530FA664644D3855A6A2BE913AD63/section_DFB1B4C9183641C5A59B6A816436A49B" format="dita" scope="local"><?xm-replace_text Branding Changes to the Adobe Marketing Cloud?></xref>
+		for important information about changes to the 
+		<keyword>Adobe Marketing Cloud</keyword> solutions. 
+	 </p>
+    <p>
+      <b outputclass="head">Announcements</b>
+    </p>
+    <ul id="ul_5CC9406E44F54B99BA86BBEBB2521215">
+      <li id="li_40D48B96F3D443BCB5D42227B3F2F65F">
+        <xref href="07182013.xml#concept_DB6530FA664644D3855A6A2BE913AD63/section_DFB1B4C9183641C5A59B6A816436A49B" format="dita" scope="local">
+          <?xm-replace_text Branding Changes in the Marketing Cloud?>
+        </xref>
+      </li>
+    </ul>
+    <p outputclass="head">
+      <b>
+        <keyword>Adobe Analytics</keyword>
+      </b>
+    </p>
+    <!--Add links to release notes for SiteCatalyst, Discover, Insight, ReportBuilder, Genesis, DataWarehouse, TagManager, Clickstream Data Feeds, AppMeasurement-->
+    <ul id="ul_1A426643F0AC465FAD46B9AC102D68C7">
+      <li id="li_2C87CD70F6934763BF30ADA4A3FFFF18">
+        <xref href="07182013.xml#concept_DB6530FA664644D3855A6A2BE913AD63/section_D7C278C30E3B4E81B05D036520708295" format="dita" scope="local">
+          <?xm-replace_text Marketing Reports and Analytics (formerly SiteCatalyst)?>
+        </xref>
+      </li>
+      <li id="li_5E6B36CD5A0241AF87DD4F3EA29483E1">
+        <xref href="07182013.xml#concept_DB6530FA664644D3855A6A2BE913AD63/section_B08C37A3BEE746BF97B0CF2AAD58F14A" format="dita" scope="local">
+          <?xm-replace_text SiteCatalyst 14.9?>
+        </xref>
+      </li>
+      <li id="li_0934CB18B2DF48A396A38EE97BB5ED2F">
+        <xref href="07182013.xml#concept_DB6530FA664644D3855A6A2BE913AD63/section_DB1D3282006D4A5FAFBE57414A3C39BA" format="dita" scope="local">
+          <?xm-replace_text SiteCatalyst 13.5 end of life announced for October 2013?>
+        </xref>
+      </li>
+      <li id="li_E05A7A838FFC47EC9D0925DD5916059B">
+        <xref href="07182013.xml#concept_DB6530FA664644D3855A6A2BE913AD63/section_5FC748F3AFB643C0B9BB54E4B73F887E" format="dita" scope="local">
+          <?xm-replace_text Ad Hoc Analysis (formerly Discover)?>
+        </xref>
+      </li>
+      <li id="li_E00D5B4EF76948A5ABDBE6EC3A0AEA3D">
+        <xref href="07182013.xml#concept_DB6530FA664644D3855A6A2BE913AD63/section_E330A125D98F4170BF63733E35EDA469" format="dita" scope="local">
+          <?xm-replace_text Report Builder 4.5?>
+        </xref>
+      </li>
+      <li id="li_DD9A856DFBD2433491FC6EEC11A8ED55">
+        <xref href="07182013.xml#concept_DB6530FA664644D3855A6A2BE913AD63/section_92E62B66CB844352942DBFCD3D16CA7A" format="dita" scope="local">
+          <?xm-replace_text Data Warehouse?>
+        </xref>
+      </li>
+      <li id="li_428DE4304B5E48F799EA6A43ED40A2D1">
+        <xref href="07182013.xml#concept_DB6530FA664644D3855A6A2BE913AD63/section_D10E043093D1481C9944B2C7F9A62E7D" format="dita" scope="local">
+          <?xm-replace_text AppMeasurement & Mobile?>
+        </xref>
+      </li>
+      <li id="li_C422D41D7CEC4E7CBE5B513BB422D75C">
+        <xref href="07182013.xml#concept_DB6530FA664644D3855A6A2BE913AD63/section_C73194A4FA27446089C3368F02D4FCB1" format="dita" scope="local">
+          <?xm-replace_text ClickStream Data Feeds?>
+        </xref>
+      </li>
+      <li id="li_6F9854A8956A4389BE4DD2E2A2F0F5FD">
+        <xref href="07182013.xml#concept_DB6530FA664644D3855A6A2BE913AD63/section_69EB5CB7036F43C59E7DEC583BF77A2A" format="dita" scope="local">
+          <?xm-replace_text Data Connectors (Genesis)?>
+        </xref>
+      </li>
+    </ul>
+    <p outputclass="head">
+      <b>
+        <keyword>Adobe Target</keyword>
+      </b>
+    </p>
+    <!--Add links to release notes for Test&Target, Recommendations, Search&Promote-->
+    <ul id="ul_2E041F950ABE4EB0893FCBD1F41F0EF0">
+      <li id="li_B0497219B64B4D97BEEBB5AD7E4925CA">
+        <xref href="07182013.xml#concept_DB6530FA664644D3855A6A2BE913AD63/section_05EBAF704B0E490C8EC6522F039845AC" format="dita" scope="local">
+          <?xm-replace_text Test&Target 3.41?>
+        </xref>
+      </li>
+      <li id="li_0C2F22B8A08D4A99A4BB667D9DC5EBEA">
+        <xref href="07182013.xml#concept_DB6530FA664644D3855A6A2BE913AD63/section_520AA9A624CA4972B9B0215D8F3683F2" format="dita" scope="local">
+          <?xm-replace_text Recommendations 2.15?>
+        </xref>
+      </li>
+      <li id="li_94B7B77F7AA14A949329899E682A992A">
+        <xref href="07182013.xml#concept_DB6530FA664644D3855A6A2BE913AD63/section_3F18C98BF09D4E10AD759C403F543162" format="dita" scope="local">
+          <?xm-replace_text Search&Promote?>
+        </xref>
+      </li>
+    </ul>
+    <p outputclass="head">
+      <b>
+        <keyword>Adobe Social</keyword>
+      </b>
+    </p>
+    <ul id="ul_9DFB221CB82B4FF8B45CDEA7CA90C9CC">
+      <li id="li_F04408A0313A4CA5808F1574FCE2E71C">
+        <xref href="07182013.xml#concept_DB6530FA664644D3855A6A2BE913AD63/section_E3BFEC86B9384A3AA32C16191C25CEB2" format="dita" scope="local">
+          <?xm-replace_text Social 3?>
+        </xref>
+      </li>
+    </ul>
+    <p outputclass="head">
+      <b>Adobe 
+		  <keyword>Media Optimizer</keyword></b>
+    </p>
+    <!--Add links to release notes for AdLens, SearchCenter, Audience Manager-->
+    <ul id="ul_67766D3EB490470EBD4D5A880BD38C43">
+      <li id="li_3114E618A2334EB4AD15D3AAC4418C10">
+        <xref href="07182013.xml#concept_DB6530FA664644D3855A6A2BE913AD63/section_6F3B7DF3FF4F4939B90FCF837BEF6372" format="dita" scope="local">
+          <?xm-replace_text Audience Manager?>
+        </xref>
+      </li>
+      <li id="li_F65F40936EA34E3580C9370C179F6919">AdLens 
+		  <p>In 
+			 <keyword>AdLens</keyword>, click 
+			 <uicontrol>Help</uicontrol> &gt; 
+			 <uicontrol>Help Contents</uicontrol> for the latest information. 
+		  </p></li>
+    </ul>
+    <p outputclass="head">
+      <b>
+        <keyword>Marketing Cloud</keyword> Services</b>
+    </p>
+    <ul id="ul_F3AD54611BA847149E6EDFE48A1A236E">
+      <li id="li_42BE403F73FE41DFB48D3BA3EB6D07AB">
+        <xref href="07182013.xml#concept_DB6530FA664644D3855A6A2BE913AD63/section_4489FA0BB29747C0B7876E76DEC1551F" format="dita" scope="local">
+          <?xm-replace_text Web Services API?>
+        </xref>
+      </li>
+      <li id="li_F239F7E2B3F44CAD8861934BC7CF20B7">
+        <xref href="07182013.xml#concept_DB6530FA664644D3855A6A2BE913AD63/section_3A660E6C82AD4DD391092034F1BA9DFE" format="dita" scope="local">
+          <?xm-replace_text Tag Management 2.0?>
+        </xref>
+      </li>
+    </ul>
+    <p outputclass="head">
+      <b>Adobe 
+		  <keyword>Experience Manager</keyword></b>
+    </p>
+    <!--Add links to release notes for CQ and Scene7-->
+    <ul id="ul_F520BAA72F7C4D57ADE77338F9BC6C13">
+      <li id="li_B8F4D3F0B4B142BDB151F11419CF4A9C">
+        <xref href="http://dev.day.com/docs/en/cq/current/release_notes/overview.html" format="http" scope="external">Adobe Experience Manager</xref>
+      </li>
+      <li id="li_389EC670EE4C464CB5FB77720A7066AB">
+        <xref format="html" href="https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html" scope="external">Scene7 Publishing System Release Notes</xref>
+      </li>
+    </ul>
+    <section id="section_B8D13E929B564AB58649DBE8987F392B">
+      <title>Marketing Cloud Communities</title>
+      <p> Share knowledge and talk with experts! Now available for customers
+		  are the new Marketing Cloud communities on Adobe.com. 
+		</p>
+      <p> Staffed by Adobe solution experts, customer care reps, and customers
+		  just like you, the Marketing Cloud communities let you find out about the
+		  latest on Adobe's solutions. You can get help, ask advice, and connect with
+		  other customer experts. 
+		</p>
+      <p>Communities are available for 
+		  <keyword>Analytics</keyword>, 
+		  <keyword>Social</keyword>, 
+		  <keyword>Target</keyword>, 
+		  <keyword>Experience Manager</keyword> and the 
+		  <keyword>Marketing Cloud</keyword> itself. 
+		</p>
+      <p> Visit the 
+		  <xref href="http://help-forums.adobe.com/content/adobeforums/en.html" format="http" scope="external">Adobe Marketing Cloud Community</xref> and sign
+		  in with your Adobe ID (SSO) account. 
+		</p>
+    </section>
+    <section id="section_DFB1B4C9183641C5A59B6A816436A49B">
+      <title>Branding Changes to the Marketing Cloud</title>
+      <p>The 
+		  <keyword>Adobe Marketing Cloud</keyword> is being designed to integrate
+		  product solutions with core capabilities. The following table provides the new
+		  capability names and how they map to product names. 
+		</p>
+      <p>As integration progress, we will refer to the capability names more
+		  often where appropriate. However, not all product names will change
+		  immediately. 
+		</p>
+      <table id="table_764055F3FB544A6681AA6E5C68C544AE">
+        <tgroup cols="4">
+          <colspec colname="col01" colnum="1" colwidth="1.30*" />
+          <colspec colnum="2" colname="col1" colwidth="3.84*" />
+          <colspec colnum="3" colname="col3" colwidth="1.00*" />
+          <colspec colnum="4" colname="col2" colwidth="2.95*" />
+          <thead>
+            <row>
+              <entry colname="col01">Logo 
+				  </entry>
+              <entry namest="col1" nameend="col2"> Solutions and Capabilities 
+				  </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col01">
+                <p>
+                  <image href="graphics/cloud_icon.png" id="image_1A6A6BD36F224590928551A98942CA48"></image>
+                </p>
+              </entry>
+              <entry namest="col1" nameend="col2">
+                <p>
+                  <b>Marketing Cloud</b>
+                </p>
+                <p> The 
+						<keyword>Adobe Marketing Cloud</keyword> is Adobe's new
+						service that brings Adobe's Digital Marketing solutions together. You can share
+						and collaborate in one virtual, private space dedicated to your projects. 
+					 </p>
+                <p> Currently, this feature is available in a phased rollout to
+						a select group of clients. 
+					 </p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col01">
+                <p>
+                  <image href="graphics/mc_analytics_32.png" id="image_ABB9E2FE3EC24FAF81E6F3EAD2767DBA"></image>
+                </p>
+              </entry>
+              <entry namest="col1" nameend="col2">
+                <p>
+                  <b>Analytics</b>
+                </p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <b>Retired Product Name</b>
+              </entry>
+              <entry namest="col3" nameend="col2">
+                <b> Capability Name</b>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword> SiteCatalyst</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Marketing reports and
+					 analytics 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword> Discover</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Ad hoc analysis 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword> Insight</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Data workbench 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword> Genesis</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Data connectors 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword> DataWarehouse</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Data warehouse 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword> TagManager</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Tag management 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword> ReportBuilder</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Report builder (for Excel) 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword> ClickMap</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Visitor click map 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01">
+                <p>
+                  <image href="graphics/mc_social_32.png" id="image_837862608D0040C49CDAF58EA2C47282">
+                    <?xm-replace_text Paragraph?>
+                  </image>
+                </p>
+              </entry>
+              <entry namest="col1" nameend="col2">
+                <p>
+                  <b>Social</b>
+                </p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <b>Retired Product Name</b>
+              </entry>
+              <entry namest="col3" nameend="col2">
+                <b> Capability Name</b>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword> Social</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Global page management and
+					 workflow 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword> Social</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Listening and moderation 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword> Social</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Targeting publishing 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword> Social</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Application builder 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword> AdLens/Social</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Integrated social ads 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword>SiteCatalyst</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Social analytics 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01">
+                <p>
+                  <image href="graphics/mc_optimize_32.png" id="image_63DC57F1740C408DA4BD3F4A17DCC70C">
+                    <?xm-replace_text Paragraph?>
+                  </image>
+                </p>
+              </entry>
+              <entry namest="col1" nameend="col2">
+                <p>
+                  <b>Media Optimizer</b>
+                </p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <b>Retired Product Name</b>
+              </entry>
+              <entry namest="col3" nameend="col2">
+                <b> Capability Name</b>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword> AdLens</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Advertising management and
+					 optimization 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword> AudienceManager</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Audience management 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword> Digital AdTargeting</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Audience targeted creative 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword> Digital AdTargeting</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Ad serving and tracking 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01">
+                <p>
+                  <image href="graphics/mc_target_32.png" id="image_AC92D24ED24243169D5D24C1BAABEF7C">
+                    <?xm-replace_text Paragraph?>
+                  </image>
+                </p>
+              </entry>
+              <entry namest="col1" nameend="col2">
+                <p>
+                  <b>Target</b>
+                </p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <b>Retired Product Name</b>
+              </entry>
+              <entry namest="col3" nameend="col2">
+                <b> Capability Name</b>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword> Test&amp;Target 
+					 </keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> A/B/N and multivariate
+					 testing 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword> Test&amp;Target 
+					 </keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Rules based targeting 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword> Test&amp;Target 
+					 </keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Geotargeting 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword> Recommendations</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Recommendations and
+					 cross-selling 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword> Search&amp;Promote</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Site search/merchandising 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword> Search&amp;Promote</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Dynamic navigation 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01">
+                <p>
+                  <image href="graphics/mc_experiencemanager_32.png" id="image_77F59508449D4344A2F4570830EB8D84">
+                    <?xm-replace_text Paragraph?>
+                  </image>
+                </p>
+              </entry>
+              <entry namest="col1" nameend="col2">
+                <p>
+                  <b>Experience Manager</b>
+                </p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <b>Retired Product Name</b>
+              </entry>
+              <entry namest="col3" nameend="col2">
+                <b> Capability Name</b>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword>Adobe CQ Web Management 
+					 </keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Web content management 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword> Scene7</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Dynamic media 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword> Scene7</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Personalized media 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword> Scene7</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Video 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword>Adobe Marketing Campaign Management 
+					 </keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Marketing campaign
+					 management 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword>Adobe Social Communities</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Social communities 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword>Adobe CQ Digital Asset Management</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Digital asset management 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword>Adobe CQ Cloud Manager</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Cloud management 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword>Adobe CQ Mobile</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Mobile 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col01"></entry>
+              <entry colname="col1">
+                <keyword>Adobe CQ eCommerce</keyword>
+              </entry>
+              <entry namest="col3" nameend="col2"> Commerce 
+				  </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </section>
+    <section id="section_D7C278C30E3B4E81B05D036520708295">
+      <title>Marketing Reports and Analytics (formerly SiteCatalyst)</title>
+      <p></p>
+      <p>The marketing report and analytics release (07/18/2013) includes the
+		  following changes: 
+		</p>
+      <table id="table_7E78D85C82DA4333B88AF24854235F99">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1" colwidth="1.00*" />
+          <colspec colnum="2" colname="col2" colwidth="2.23*" />
+          <thead>
+            <row>
+              <entry colname="col1">Feature 
+				  </entry>
+              <entry colname="col2">Description 
+				  </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">
+                <p>Updated interface 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p> In preparation for future platform enhancements and
+						capabilities, Adobe SiteCatalyst is being redesigned to join the integrated
+						Adobe Marketing Cloud. The redesigned interface will provide enhanced
+						navigation and superior functionality to deliver an improved user experience. 
+					 </p>
+                <p> This update is largely aesthetic and there will be no
+						disruption to key customer workflows. 
+					 </p>
+                <p>See 
+						<xref href="https://marketing.adobe.com/resources/help/en_US/whatsnew/rebrand/" format="http" scope="external">Upcoming Changes</xref> for details on what is
+						changing and for a preview of the new interface, or watch the video: 
+					 </p>
+                <xref href="http://s7d9.scene7.com/s7viewers/html5/VideoViewer.html?serverUrl=http://s7d9.scene7.com/is/image/&amp;config=Scene7SharedAssets/Universal%5FHTML5%5FVideo&amp;contentRoot=http://s7d9.scene7.com/skins/&amp;asset=Geometrixx/AnalyticsNewUI%2DAVS" format="http" scope="external">
+                  <image placement="break" align="center" href="graphics/analytics-rebrand-thumb.png" id="image_0A12996A3B6F46A0B744B683DF18F932"></image>
+                </xref>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <p>Historical trend lines on custom date ranges 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p>Historical trend lines are now displayed on more overtime
+						reports. 
+					 </p>
+                <ul id="ul_43D3F19716AB4FF4A0FD4310DDAB2794">
+                  <li id="li_99C513BA47284F9385F53B438C7C4BED">Historical trend
+						  lines are displayed regardless of whether you select a period (e.g. click on
+						  the current day, week, month or year) or a range period (e.g. you select a
+						  range of days). 
+						</li>
+                  <li id="li_D674E36431714C43998DE91168339C37">Historical
+						  trend-lines are displayed for custom calendars. 
+						</li>
+                  <li id="li_73B3618325E948DBA8CE97E7212E67B6">Special column
+						  headers such as "Selected Day", "Selected Week", "Selected Month", "Selected
+						  Year" are now displayed on custom calendars. 
+						</li>
+                  <li id="li_898C415AD6D44AC28339B747B13B437A">Smoothing will
+						  be available on all reports and will support historical trend lines. 
+						</li>
+                  <li id="li_CE6D4054FE544625A3E4EB962570F257">Historical trend
+						  lines are displayed when you select the day of week option. 
+						</li>
+                </ul>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <p>Segment using Social and Mobile App metrics 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p>Social and Mobile App metrics can now be included in
+						segments created in reports and analytics, ad hoc analysis, and data warehouse.
+						
+					 </p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <ul id="ul_8C6C5361EC9044649AE9DB031E95C4AA">
+        <li id="li_6590D7469CCA4A26BA6BAA4B743DF1C8">
+          <!--<b>116180</b> -->Classification rule builder was updating
+			 classifications for only the previous month, instead of the previous six
+			 months. 
+		  </li>
+        <li id="li_EC258A482A3E49B79CDF50F51F3DA16A">
+          <!--<b>114583</b> -->Renamed video events and metrics displayed the
+			 default name in the report navigation menu instead of the new name for some
+			 report suites. 
+		  </li>
+        <li id="li_44F028867F274DF7B99B8317890FAF62">
+          <!--<b>65049</b> -->Fields that contained data that is in a
+			 right-to-left language was incorrectly displayed in left-to-right order in
+			 downloaded or scheduled PDF reports. 
+		  </li>
+        <li id="li_B712021A757243A4BC0D50723F7C270E">
+          <!--<b>115877</b> -->A "You do not have enough ReportBuilder
+			 licenses" error was displayed when saving a user in the ARB group. This
+			 occurred if the maximum number of licenses was in use, even though the user was
+			 already licensed and the maximum was not exceeded. 
+		  </li>
+        <li id="li_AF17DA38C6BA44F2858960C5317DA5DF">
+          <!--<b>115464</b> -->Advanced filters on breakdown reports were not
+			 being saved in the advanced search dialog. This prevented the search from being
+			 viewed or edited again after it was applied. 
+		  </li>
+        <li id="li_1A778CCF3982421EA941F27641861764">When creating an advanced
+			 filter, pipe characters ( "|" ) were being improperly escaped, which prevented
+			 searching for pipe as a literal character. 
+		  </li>
+        <li id="li_E8723B11053748FCAEE6258AD254D73A"> On the 
+			 <wintitle>Mobile Device Type</wintitle> report, applying a breakdown
+			 after a classification hierarchy drill-down caused the report to not display
+			 data. 
+		  </li>
+        <li id="li_B2F03AC35B8249E1A79FABA0F1531FC0">
+          <!--<b>115370</b> -->Summary reportlets that do not have an
+			 associated report generated an "Unable to retrieve reportlet" error when they
+			 contained metrics for which current data was not supported. These reportlets
+			 now display finalized data. 
+		  </li>
+        <li id="li_A430193ED63E4088B8BB6C465939F500">
+          <!--<b>9. Fix for pagination
+				in clickmap raw data report for v15 data (cf. bug #75280)</b> -->The 
+			 <wintitle>ClickMap Report</wintitle> displayed the same data on each
+			 page of a multi-page report. 
+		  </li>
+        <li id="li_EEC4CBC9F51F446CAA18903C10E7AAC2">
+          <!--<b>113762, 7. Fix
+				searching for Other on certain mobile reports (cf. bug #113762)</b> -->
+          <wintitle>Mobile Device Type</wintitle> and Mobile 
+			 <wintitle>Operating System</wintitle> reports were not filtering
+			 "Other" line items even when the correct filter was applied.<!----></li>
+        <li id="li_6FBD3C61B87F469C83B5EEBC7AE34FFC">
+          <!--<b>115013, 3. Fix for Time
+				Spent on Page (pagetime) ranked reports when crossing the Axle swap date (cf.
+				bug #115013)</b> -->The ranked 
+			 <wintitle>Time Spent on Page</wintitle> report was not displaying
+			 data before the 
+			 <keyword>SiteCatalyst</keyword> 15 upgrade date.<!----></li>
+        <li id="li_BE4FE52A4E7C400D8B0C02599A6E9948">
+          <!--<b>116016</b> -->The trended 
+			 <wintitle>Key Metrics</wintitle> report was not displaying current
+			 data for revenue and carts metrics when current data was enabled. 
+		  </li>
+        <li id="li_3890FC4684034009A6780EF369CFA0E2">
+          <!--<b>102717</b> -->Compare dates on the 
+			 <wintitle>Full Paths</wintitle> report displayed 0 for all values for
+			 one of the two dates based on the sort order of the report. 
+		  </li>
+      </ul>
+    </section>
+    <section id="section_B08C37A3BEE746BF97B0CF2AAD58F14A">
+      <title>SiteCatalyst 14.9</title>
+      <p>The SiteCatalyst 14.9 release (07/18/2013) includes the following
+		  changes: 
+		</p>
+      <ul id="ul_2161049CDDA445A3AD127E8F164DCC70">
+        <li id="li_126ED8A2D20A4136A27CCC66AD0C1237">
+          <!--<b>116067</b> -->Scheduled reports that were delivered between
+			 May 23 2013 and July 19 2013 with advanced filters applied did not display any
+			 data when delivered. This issue affected only scheduled reports and did not
+			 impact reports viewed in SiteCatalyst. 
+		  </li>
+      </ul>
+    </section>
+    <section id="section_DB1D3282006D4A5FAFBE57414A3C39BA">
+      <title>SiteCatalyst 13.5 end of life announced for October 2013</title>
+      <p>In October 2013, SiteCatalyst 13.5 will no longer be accessible. If
+		  you are currently using 
+		  <keyword>SiteCatalyst</keyword> 13.5, the following information will
+		  help you plan your migration to a supported version. 
+		</p>
+      <ul id="ul_78CFA3BA9858444997B38F70356D04CA">
+        <li id="li_6CE3BCF4D8F94626823D2B145FDE737C">Notes on reports are not
+			 migrated. This information must be manually migrated to the same or equivalent
+			 report in a supported version. 
+		  </li>
+        <li id="li_1C4BA36D3A664753BE9321EA5B4431DA">Notes on alerts are no
+			 longer supported. 
+		  </li>
+        <li id="li_F58C7956DDDF47AF98B9860A76E71B41">Dashboards are viewable,
+			 but must be migrated before they can be edited. See 
+			 <xref href="https://marketing.adobe.com/resources/help/en_US/sc/user/index.html?f=t_dashboard_migrate_legacy" format="http" scope="external">Migrate a legacy dashboard</xref>. 
+		  </li>
+      </ul>
+      <p>The following items are available in a supported version with no
+		  action: 
+		</p>
+      <ul id="ul_B83CCE863F0346B0803CEFD0C5C02213">
+        <li id="li_C688BFEED8534326BFE55FAFC0DB2B90">Bookmarks 
+		  </li>
+        <li id="li_A2C565798F2E485699033C92D1A60ECD">Calendar Events 
+		  </li>
+        <li id="li_4C4D6108D0184D9C8FEC8AD8110EA993">Targets 
+		  </li>
+        <li id="li_FCEAB8C5140649A586D8DBDD85AE0C47">Alerts 
+		  </li>
+        <li id="li_9C4485EFC952457FB1DBD5594BE48A8E">Data warehouse requests 
+		  </li>
+        <li id="li_7D3C8BFEDB2844B89D2778574955BE29">Downloadable and scheduled
+			 reports 
+		  </li>
+      </ul>
+    </section>
+    <section id="section_5FC748F3AFB643C0B9BB54E4B73F887E">
+      <title>Ad Hoc Analysis (formerly Discover)</title>
+      <p>The ad hoc analysis release (07/18/2013) includes the following
+		  changes: 
+		</p>
+      <ul id="ul_3E532D06E28947EBBDABDCFD08300E69">
+        <li id="li_555EB20D0DAD424988DD74F51788BFC7">
+          <wintitle>Adobe Discover</wintitle> has been re-branded as a "ad hoc
+			 analysis" capability within the 
+			 <wintitle>Adobe Analytics</wintitle> suite of products. 
+		  </li>
+        <li id="li_16B572B1D9444520B4E7ADD6CC6F8CDC">Single-Sign On is now
+			 supported. 
+		  </li>
+        <li id="li_5F9F5CB731044C7898D670BC0B2B4D4C"> Social and Mobile App
+			 metrics can now be reported in ad hoc analysis (Discover), 
+			 <wintitle>ReportBuilder</wintitle>, and 
+			 <wintitle>Web Services APIs</wintitle>. 
+		  </li>
+        <li id="li_91C1A3B5810E41858383F2609C5C3DAF">Social and Mobile App
+			 metrics can now be included in segments created in ad hoc analysis (Discover),
+			 reports and analytics, and data warehouse. 
+		  </li>
+        <li id="li_C3877FCDBEDB4DC18539BDF85A4F9658">Starting with this
+			 maintenance release, ad hoc analysis (Discover) will be changing currency
+			 formats in custom events that will affect reports and segments in some cases.
+			 For example, ad hoc analysis uses a penny (.01) as the baseline value, but
+			 starting next month, all currency will be based on the dollar (1.00). This is
+			 the same for all currencies. 
+			 <p>In most cases, reports and segments previously built will remain
+				unchanged. Most existing reports and segments in the new format will see no
+				changes in values or functionality. The data values in the report will not
+				change but the values in the segment rules will change for currency operations.
+				For example, if you created a custom event that runs in segment with a 50 cent
+				value, then it will be changed to a .50 dollar value and return the same values
+				as it did previously. 
+			 </p><p>When converting formats is not possible, an error will display in
+				the 
+				<wintitle>Segment Builder</wintitle> stating that the variable is
+				obsolete. See the 
+				<xref href="https://marketing.adobe.com/resources/help/en_US/home/index.html#kb-dsc-important-changes-revenue-segment-logic" format="http" scope="external">KB article</xref> for additional information
+				about rebuilding your segments if needed. 
+			 </p></li>
+        <li id="li_0EA48A74831A44969BE4C4AFC2F7F081">
+          <!--116089-->
+          <!--116089-->Previously, when both rules and containers were embedded within
+			 the same parent container, they were joined using the AND operator by default.
+			 Joining these embedded entities worked when the AND operator was required, but
+			 presented problems when an OR operator was required. 
+			 <p>Now, for all parent containers that include both rules and
+				embedded containers, these rules are now put in their own container to apply
+				logic evenly to the embedded rules and child containers. 
+			 </p></li>
+        <li id="li_D9EFD7AC8AB64512B864F5DF37BFE760">
+          <!--64810-->The pre-configured segment, "Visits Referred by Microsoft
+			 Bing," was previously searching only across Live.com. Now, the segment logic
+			 has been corrected to include visits where: 
+			 <p>Search Engines = Microsoft Bing 
+			 </p><p> OR 
+			 </p><p>Search Engines = Live.com 
+			 </p><p>OR 
+			 </p><p>Search Engines = m.bing 
+			 </p><p><?xm-replace_text Paragraph?></p></li>
+        <li id="li_A7F0E0DE11BF47D48B1762BAF2F7DE3A">
+          <!--116088--> The Segment Builder window was opening larger than the
+			 laptop screen and hiding the Submit button from the user. This is fixed by
+			 making sure the Segment Builder window is the same size or smaller than the ad
+			 hoc analysis (Discover) window when opened. 
+		  </li>
+        <li id="li_37BEF29BBBD940F087BD78DAE9236255">
+          <!--116179--> If you had Bounce Rate identified and saved in a
+			 report, when you re-opened the report the Bounce Rate did not report as a
+			 percentage and instead displayed data as a 0 or 1 (for example 0.58 would be
+			 rounded off to 1.0). 
+			 <p>The fix will properly save new projects, but for previously saved
+				projects you will need to: 
+			 </p><ol id="ol_0ED301CA816C405A908376E3F52534D8"><li id="li_D4D3FACD0F05461A99FC40A3AE8363B5">Open the project. 
+				</li><li id="li_E7B5F9B5346147A89607BB369B1CD529">Drop in the Bounce
+				  Rate again. 
+				</li><li id="li_374620D2479247BAAA3B2AB1C21F6E56">Save the project. 
+				</li></ol></li>
+        <li id="li_2F4AC6B607F842F58245F2C0A816EA49">
+          <!--114828-->Within the 
+			 <wintitle>Browser Type</wintitle> report, multiple 
+			 <uicontrol>Other</uicontrol> line items were being displayed. Now,
+			 the 
+			 <uicontrol>Unspecified</uicontrol> line item has been added to
+			 display data based on input and to match the marketing reports and analytics
+			 (SiteCatalyst). 
+		  </li>
+        <li id="li_892A6E286187443CB7E18ADE422D09B8">In the 
+			 <uicontrol>Segment Builder</uicontrol>, you can now set visitor
+			 sequences based on 
+			 <uicontrol>Page Views</uicontrol> using the 
+			 <uicontrol>Within</uicontrol> operator. 
+		  </li>
+        <li id="li_16D9A1FDECDB47DCABB6BA0D34A49DA9">
+          <!--116493-->Running on
+			 Java 7 (update 25), some implementations were not rendering properly (such as
+			 not painting correctly in the user interface). This issue is fixed. 
+		  </li>
+      </ul>
+    </section>
+    <section id="section_7609465FD1644C929A1A3EFF5D3CEB22">
+      <title>Data Workbench (formerly Insight)</title>
+      <p>The data workbench release (Insight 5.54 patch) includes the following
+		  changes: 
+		</p>
+      <ul id="ul_039C23104B6A4E478261B55C9C0D508C">
+        <li id="li_35ECBCBDEE4F4B888EF4699FB3BB3203"> Fixed an SSL connectivity
+			 issue with the Query API. 
+		  </li>
+        <li id="li_8F89A907C7224AF59CDCD1E6A5A3125E"> Fixed a thread lock issue
+			 with Segment Export. 
+		  </li>
+        <li id="li_7994799D2239415A8728BF1A6EBA5CF3"> Added a throttling
+			 mechanism for managing very large Segment Export processes. 
+		  </li>
+        <li id="li_34819B1BE6A04B498878C87DF7917484"> Fixed an issue with
+			 long-running child processes spawned by the Insight Server. 
+		  </li>
+      </ul>
+      <p>For additional feature updates, see 
+		  <xref href="https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/index.html#Insight_Release_Notes" format="http" scope="external">data workbench release notes</xref>. 
+		</p>
+    </section>
+    <section id="section_E330A125D98F4170BF63733E35EDA469">
+      <title>Report Builder 4.5</title>
+      <p>The 
+		  <keyword>Report Builder</keyword> 4.5 release (07/18/2013) includes the
+		  following changes: 
+		</p>
+      <table id="table_53C4DC02518E4F4F952CCAF3D8361DCF">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1" colwidth="1.00*" />
+          <colspec colnum="2" colname="col2" colwidth="4.60*" />
+          <thead>
+            <row>
+              <entry colname="col1">Feature 
+				  </entry>
+              <entry colname="col2">Description 
+				  </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">
+                <p> Single sign on 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p>If you are using the new 
+						<keyword>Marketing Cloud</keyword> login (currently available
+						to selected clients), you can map your Adobe ID (email and password) to your
+						credentials for marketing reports and analytics (SiteCatalyst). After mapping
+						your credentials, signing in to the 
+						<keyword>Marketing Cloud</keyword> logs you in to report
+						builder automatically. 
+					 </p>
+                <p>Currently, the following login options are available when
+						you click 
+						<uicontrol>Sign In</uicontrol> in report builder: 
+					 </p>
+                <ul id="ul_B8AD14A10DAF4799BB20F1D471904F05">
+                  <li id="li_F62E0E16753A4ACE8346B4A022219FFB">
+                    <b>Marketing Cloud</b>: The Adobe ID email and password
+						  combination described above. Failure to login re-directs you to the Marketing
+						  Cloud login page, if you are set up to use the Marketing Cloud. 
+						</li>
+                  <li id="li_264AA4CBE34941C1A601EEF0D8411E77">
+                    <b>Single Sign-In</b>: The customer-provided single sign-on
+						  (company and user name). 
+						</li>
+                  <li id="li_F6C2BFBE982B46C894284EBB81F766A9">
+                    <b>Legacy</b>: The standard login using company, user name,
+						  and password. 
+						</li>
+                </ul>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <p> Advanced filtering 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p>The marketing reports and analytics
+						(<keyword>SiteCatalyst</keyword>) advanced filtering enhancement is available
+						in report builder. The following operators have been added to 
+						<uicontrol>Most Popular Filtering</uicontrol> &gt; 
+						<uicontrol>Define Filter</uicontrol> page: 
+					 </p>
+                <ul id="ul_57E70DF9C66B4F9F83912422156A4ABF">
+                  <li id="li_F1C0584F526A405E953AFCDE2CDF86B5">
+                    <b>Equals</b>: Returns an exact match. 
+						</li>
+                  <li id="li_10E16CEDD09642E1A274F703EBC669C2">
+                    <b>Starts with</b>: Returns results that start with a
+						  specific value. 
+						</li>
+                  <li id="li_64F93D43E6A94D70BDA0FC76D4280114">
+                    <b>Ends with</b>: Returns results that end with the
+						  specific value. 
+						</li>
+                  <li id="li_ECFD1C4C9C3048E982F1172E32833007">
+                    <b>Advanced (special characters)</b>: Lets you regex
+						  characters, including: 
+						  <p><codeph>"", ^, -, *, $, | 
+							 </codeph></p></li>
+                </ul>
+                <p>See 
+						<xref href="https://microsite.omniture.com/t2/help/en_US/arb/index.html?f=filter_dimensions" format="https" scope="external">Filter Dimensions</xref> in Report Builder
+						Help. 
+					 </p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>
+        <b>Fixes</b>
+      </p>
+      <ul id="ul_2AF64D7E936B4227926EAF7CAA3F16C1">
+        <li id="li_2C5B4F8258D54E79A159CA8335CA3C61">
+          <!--112067-->Fixed an issue in 
+			 <wintitle>Select Specific Filter</wintitle> that caused scheduled
+			 reports to return zeros. Case sensitivity caused this issue to occur. 
+		  </li>
+        <li id="li_FCB0BA4750264C9AA3D756BBB91CDA11">
+          <!--115686-->Fixed an issue that caused the 
+			 <wintitle>Save Date</wintitle> button and<wintitle> Apply
+				Granularity</wintitle> menu to disappear when specifying rolling dates. 
+		  </li>
+        <li id="li_1985DDD44BD443EAA992E9DD03D5EA83">
+          <!--115690-->Fixed an Unhandled Exception error occurring when
+			 inputting characters in the 
+			 <wintitle>Commonly Used Dates</wintitle> list, then clicking Next. 
+		  </li>
+        <li id="li_A3EDD142A3E3486CA90183B27017C572">
+          <!--115878-->Fixed an error caused when selecting 
+			 <uicontrol>Download</uicontrol> in the 
+			 <wintitle>Scheduled Task Manager</wintitle>. 
+		  </li>
+      </ul>
+    </section>
+    <section id="section_92E62B66CB844352942DBFCD3D16CA7A">
+      <title>Data Warehouse</title>
+      <table id="table_91476F9EFF0A416CB9A012F6A06EDA04">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1" colwidth="1.00*" />
+          <colspec colnum="2" colname="col2" colwidth="2.61*" />
+          <thead>
+            <row>
+              <entry colname="col1">Feature 
+				  </entry>
+              <entry colname="col2">Description 
+				  </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">Segment using Social and Mobile App metrics
+					 
+				  </entry>
+              <entry colname="col2">
+                <p>Social and Mobile App metrics can now be included in
+						segments created in reports and analytics, ad hoc analysis, and data warehouse.
+						
+					 </p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <ul id="ul_09FA40F908D940718E9D4EDF2B6C3A4D">
+        <li id="li_5978A0BBFB444D39B6E215594070F0C0">
+          <!--<b>115757</b> -->Data warehouse requests can now report hourly
+			 granularity for reporting periods longer than 14 days. 
+		  </li>
+        <li id="li_2A627E7477894481AE6AA5D5425B67FC">
+          <!--<b>112647</b> -->Report suites with custom calenders might see a
+			 change to the generation date for this reports with a preset of month or last
+			 month that are scheduled for a specific day of the month. On reports that use a
+			 preset of this or last month, previously the specific day of the month was
+			 calculated from the beginning of the calendar month. Now the day is calculated
+			 from the beginning of the custom calendar month. 
+		  </li>
+      </ul>
+    </section>
+    <section id="section_D10E043093D1481C9944B2C7F9A62E7D">
+      <title>AppMeasurement &amp; Mobile</title>
+      <p>
+        <b>AppMeasurement for JavaScript</b>
+      </p>
+      <p>
+        <b>1.0.2</b>
+      </p>
+      <ul id="ul_E642553B768E4D92BD11E1C742511CC8">
+        <li id="li_DB43793B3D744C77B20695C0620A36FF">
+          <p>The hash/fragment is now ignored by automatic link tracking.
+				Previously the following URL was automatically tracked since the entire 
+				<codeph>href</codeph> ended in 
+				<codeph>.pdf</codeph>: 
+			 </p>
+          <codeblock outputclass="syntax javascipt">&lt;a href="index.htm#anchor.pdf"&gt;Test Link&lt;/a&gt;</codeblock>
+          <p>Now the hash/fragment is ignored so the link is tracked only when
+				the filename ends in an extension that matches . 
+			 </p>
+        </li>
+      </ul>
+      <p>
+        <b>H.26.1</b>
+      </p>
+      <ul id="ul_AEA23CAD29B84C7C8DCE4E8375EBDD6D">
+        <li id="li_D2C368E2EAB34FD685E253BBCD8A94A5">
+          <p>The hash/fragment is now removed before automatic link tracking
+				checks. Previously the following URL was automatically tracked since the entire
+				
+				<codeph>href</codeph> ended in 
+				<codeph>.pdf</codeph>: 
+			 </p>
+          <codeblock outputclass="syntax javascipt">&lt;a href="index.htm#anchor.pdf"&gt;Test Link&lt;/a&gt;</codeblock>
+          <p>Now the hash/fragment is no longer considered when tracking links.
+				
+			 </p>
+        </li>
+      </ul>
+      <p>
+        <b>
+          <keyword>AppMeasurement</keyword> for Other Platforms</b>
+      </p>
+      <p>See 
+		  <xref href="https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/release/index.html" scope="external" format="html">AppMeasurement Release History</xref> the
+		  following for a release history of 
+		  <keyword>AppMeasurement</keyword> on the following platforms: 
+		</p>
+      <ul id="ul_B20AE0B814074E7887113D26F71AF819">
+        <li id="li_0E5778051926414F8EF1310EE31C5279">JavaScript 
+		  </li>
+        <li id="li_D2B8E769EE444CBC9B06305DAE4B225D">iOS 
+		  </li>
+        <li id="li_B4882878F13E47A189CB24300F5E02E3">Android 
+		  </li>
+        <li id="li_30AFDC29D0494DCE9F5A5483DC1949DA">Flash-Flex 
+		  </li>
+        <li id="li_856331E040C54418B4E86248AB3DD709">OSX 
+		  </li>
+        <li id="li_24991A6893F24277BEBE304402188053">Windows Phone, XBOX,
+			 Silverlight, and .NET 
+		  </li>
+        <li id="li_3DAEC196557B4DC980E65CC1063F2010">BlackBerry 
+		  </li>
+        <li id="li_0F692A16727E495AA441355F6E86BC9C">Java 
+		  </li>
+        <li id="li_F6CB5C9C1E384E2E8F61A0C169A65587">PHP 
+		  </li>
+        <li id="li_B495C8F3A90C4C7F9D9CF97C8EC548D6">Symbian 
+		  </li>
+      </ul>
+    </section>
+    <section id="section_C73194A4FA27446089C3368F02D4FCB1">
+      <title>ClickStream Data Feeds</title>
+      <p> Not updated in this maintenance release. 
+		</p>
+      <p>See the 
+		  <xref href="https://marketing.adobe.com/resources/help/en_US/whitepapers/clickstream/index.html" format="http" scope="external">Clickstream Data Feeds</xref> help for the
+		  latest information. 
+		</p>
+    </section>
+    <section id="section_4489FA0BB29747C0B7876E76DEC1551F">
+      <title>Web Services API</title>
+      <p>The 
+		  <keyword>Web Services</keyword> maintenance release (07/18/2013)
+		  includes the following changes: 
+		</p>
+      <table id="table_EC686FB0C9E345B2B45093C44E4018D1">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1" colwidth="1.00*" />
+          <colspec colnum="2" colname="col2" colwidth="3.08*" />
+          <thead>
+            <row>
+              <entry colname="col1">Feature 
+				  </entry>
+              <entry colname="col2">Description 
+				  </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">
+                <p>Manage List Variables 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p>You can now manage list variables similar to other variables
+						using the Admin API. 
+					 </p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <p>Save IP address exclusions supports 50 exclusions 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p>You can now exclude up to 50 IP addresses using 
+						<xref href="https://developer.omniture.com/en_US/documentation/omniture-administration/r-saveipaddressexclusions" format="https" scope="external">ReportSuite.SaveIPAddressExclusions</xref>. 
+					 </p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>Visit 
+		  <xref href="http://developer.omniture.com" scope="external" format="html">developer.omniture.com</xref> to learn more about the Web
+		  Services API. 
+		</p>
+    </section>
+    <section id="section_3A660E6C82AD4DD391092034F1BA9DFE">
+      <title>Tag Management 2.0</title>
+      <p>The 
+		  <keyword>Tag Management</keyword> maintenance release (07/18/2013)
+		  includes the following changes: 
+		</p>
+      <table id="table_0DD454795C0240D8AFA18980CE3A1395">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1" colwidth="1.00*" />
+          <colspec colnum="2" colname="col2" colwidth="3.08*" />
+          <thead>
+            <row>
+              <entry colname="col1">Feature 
+				  </entry>
+              <entry colname="col2">Description 
+				  </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">
+                <p>Rename and Delete Containers 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p>Tag containers can now be renamed and deleted. 
+					 </p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <p>Preview 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p>A preview option was added to see the content of the assets
+						generated for the current revision. 
+					 </p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <ul id="ul_92723476BCB14FF197C494A48289796E">
+        <li id="li_385F2DB4D0FD4FA5AB913631DD07CE30">Resolved an issue that
+			 caused errors when accessing revisions that had large pieces of javascript code
+			 copy/pasted. 
+		  </li>
+        <li id="li_3B9AD5A223AC4C4C90B4790C4DAB9839">Resolved an issue with the
+			 container name validation when creating a new container. 
+		  </li>
+      </ul>
+    </section>
+    <section id="section_69EB5CB7036F43C59E7DEC583BF77A2A">
+      <title>Data Connectors (Genesis)</title>
+      <p>This release (07/18/2013) includes the following changes: 
+		</p>
+      <ul id="ul_953CB30DE0EC40FEABE2D2A54AD185E3">
+        <li id="li_7675C326038A420D884642BA8C302D09">
+          <!--116314-->Fixed an issue causing VISTA rules for the DFA
+			 integration to not update properly after editing. 
+		  </li>
+        <li id="li_93186B62765D4B459F7339B68734EC67">
+          <!--114221-->Fixed an issue in 
+			 <wintitle>Data Settings</wintitle> that caused an error if a
+			 classification name in 
+			 <wintitle>Admin Tools</wintitle> is not matched with the settings in
+			 the 
+			 <wintitle>Dev Center</wintitle>. 
+		  </li>
+        <li id="li_D2D8F0B31FDC4F4599FE76384A6FC7F2">
+          <!--103731-->Fixed an issue causing garbled characters to display in
+			 the final step of the wizard after clicking 
+			 <uicontrol>Send Email</uicontrol>. 
+		  </li>
+        <li id="li_4E3D803D2D954AF499AD43203AF0F2EF">
+          <!--109769-->Improved the way warning errors are displayed on the 
+			 <wintitle>Configure</wintitle> tab, step 1 
+			 <wintitle>(Integration Settings</wintitle>), if an invalid WSDL URL
+			 is used. 
+		  </li>
+        <!--         <li id="li_C914FE3E0EBF4ADB80DCFF02A818B3D2">
+          116240 Distimo: Added the eVar's friendly name in the
+			 classification tree, where the root name is displayed in the wizard. 
+		  </li> -->
+        <!--         <li id="li_619C332A28524BEE892ACE0A4EC837B1">
+          116241 Distimo: Changed the metric names in the Menu and metric
+			 selector to match the friendly name in the wizard. 
+		  </li> -->
+        <!-- <li id="li_7317442295554D68BD6DDCF4C76A212F">
+          116317 Distimo: Simplified the integration wizard by hiding the
+			 variable mappings step and the data settings step. After the integration is
+			 activated, these steps are available. 
+		  </li> -->
+        <li id="li_077ACBA3BA6645AAA8EB7B4D41EA33BE">
+          <!--110002-->Added a 
+			 <wintitle>Take Over</wintitle> option in the first step of the
+			 wizard. This option lets an administrator take ownership of an integration from
+			 a deleted user that created the integration. Previously, deleting the owner of
+			 an integration caused the integration to fail. 
+		  </li>
+        <!--         <li id="li_285AA834B8604BE5A091DB6400104E25">
+          116525 Distimo: Added content-aware support for naming
+			 classifications. 
+		  </li> -->
+        <li id="li_39E999380C414C67B09A2A0FBB0DD293">
+          <!--103808-->Fixed an issue in Variable Mappings, in which a trailing
+			 space in a custom named variable prevented the ability to save changes. 
+		  </li>
+      </ul>
+    </section>
+    <section id="section_05EBAF704B0E490C8EC6522F039845AC">
+      <title>
+        <keyword>Test&amp;Target</keyword> 3.4.1</title>
+      <p>The 
+		  <keyword>Test&amp;Target</keyword> release (07/18/2013) includes the
+		  following changes: 
+		</p>
+      <p>
+        <b>Features</b>
+      </p>
+      <ul id="ul_10C41A4C965F492E93AA0A4C0C54E2AD">
+        <li id="li_A0F81B4171B948B580A01E3EC325F1A3">
+          <!--113096 -->Campaign Create API supports a read-only option. 
+		  </li>
+        <li id="li_9155C1929616496FA10A2EC73B5CEA47">
+          <!--97728 -->Campaign State API supports archiving a campaign. 
+		  </li>
+        <li id="li_8012C6532B6B45D8A97F930A4B073170">
+          <!--115537 -->Rest API supports OAuth/IMS Auth token. 
+		  </li>
+      </ul>
+      <p>
+        <b>Fixes</b>
+      </p>
+      <ul id="ul_4D335C9812DF473EBDF414C87F933F2C">
+        <li id="li_48EA7E01060D4097B38629624516B67D">
+          <!--113428 -->Campaign overview and report view showed different
+			 results for RPV, lift etc. 
+		  </li>
+        <li id="li_5C16D46DBE9A46E48A3892DF017B9648">
+          <!--114093 -->Increased performance of event logging. 
+		  </li>
+        <li id="li_B1690686C706428FA797FEDDBECE7A91">
+          <!--115604 -->Profile parameter values appeared in escaped form in
+			 the UI. This led to confusion on the right value to use in targeting 
+		  </li>
+        <li id="li_5A51573441134D3DB2ED6C64F51EC819">
+          <!--109277-->The Performance Report REST API call returned the wrong
+			 content type, 
+			 <codeph>Content-Type: &lt;?xml version="1.0" encoding="UTF-8"?&gt;
+				;charset=UTF-8</codeph> instead of 
+			 <codeph>Content-Type: text/xml; charset=UTF-8</codeph>. 
+		  </li>
+        <li id="li_562C5A2557874678A072648F6EDCA5D0">
+          <!--115695 -->The Marketing Cloud header no longer shows errors in
+			 the notification areas when a user has not logged in through the Marketing
+			 Cloud. 
+		  </li>
+        <li id="li_D44430146FA646C499152E7A76D92981"> Security-related fixes 
+		  </li>
+      </ul>
+    </section>
+    <section id="section_520AA9A624CA4972B9B0215D8F3683F2">
+      <title>
+        <keyword>Recommendations</keyword> 2.15</title>
+      <p>This release includes the following changes: 
+		</p>
+      <p>
+        <table id="table_B08A54147ABB4298B9331B18689437A2">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="col1" colwidth="1.00*" />
+            <colspec colnum="2" colname="col2" colwidth="1.59*" />
+            <thead>
+              <row>
+                <entry colname="col1">Feature 
+				  </entry>
+                <entry colname="col2">Description 
+				  </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry colname="col1">Recently Viewed Items algorithm 
+				  </entry>
+                <entry colname="col2">Shows items that have been viewed recently.
+					 
+				  <!--See <xref href="t_algo_select_recs.xml#task_2203616ABBE342B6ADAB08F278D794FA" format="dita" scope="local"><?xm-replace_text Selecting an Algorithm?></xref>--></entry>
+              </row>
+              <row>
+                <entry colname="col1">Dynamically Exclude Entity recommendations 
+				  </entry>
+                <entry colname="col2">Exclude certain items from being shown,
+					 such as items that are already in the cart. 
+				  <!--See <xref href="c_dynamically_excluding_an_entity.xml#concept_3CDCE863200A4EE191DA0668131C5858" format="dita" scope="local"><?xm-replace_text Dynamically Excluding an Entity?></xref>.--></entry>
+              </row>
+              <row>
+                <entry colname="col1">Support for host groups with custom
+					 algorithms 
+				  </entry>
+                <entry colname="col2">A "host group name" attribute has been
+					 added to custom algorithms. If no host group name is specified, the default
+					 host group is used. 
+				  <!--See <xref href="r_Uploading_Custom_Algorithm_Data.xml#reference_F905A439D6034D15AAE171CD69909742" format="dita" scope="local"><?xm-replace_text Uploading Custom Algorithm Data?></xref>.--></entry>
+              </row>
+              <row>
+                <entry colname="col1"> Support for multiple environments added to
+					 production back fill 
+				  </entry>
+                <entry colname="col2">Previously, the default Production host
+					 group was hard-coded as the source for backfill. Now you can choose the source
+					 for the backfill. This setting must be set by Adobe ClientCare. 
+				   <!--See <xref href="c_backfilling_environments_with_production_data.xml#concept_E479BA8C271842178D800577152B3231" format="dita" scope="local"><?xm-replace_text Backfilling Environments with Production Data?></xref>.--></entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </p>
+      <p>
+        <b>Fixes</b>
+      </p>
+      <p>
+        <ul id="ul_D1DF80C3E7D34B51BAA2BA1C84873343">
+          <li id="li_9BF7923A50594DCC985275724508E156">
+            <!--116386 -->Fixed an issue in the UI that was causing graphs to
+			 be duplicated. 
+		  </li>
+        </ul>
+      </p>
+    </section>
+    <section id="section_3F18C98BF09D4E10AD759C403F543162">
+      <title>Search&amp;Promote</title>
+      <p>
+        <keyword> Search&amp;Promote</keyword> 8.10 release (07/18/2013)
+		  includes the following changes: 
+		</p>
+      <p>
+        <b>New Features</b>
+        <ul id="ul_7E22B6401213456DA2D8E508301C9F54">
+          <li id="li_086158B9BD3045798A2635494A152C74">
+            <p>
+              <b>Dynamic facets</b> – <!--3487048-->Dynamic faceting is a new
+				performance enhancement that allows core search to return the set of N-most
+				relevant dynamic-facet-fields for a given search from among a pool of
+				dynamic-facet-fields. 
+			 </p>
+            <p> If you are interested in this new enhancement, contact
+				consulting. They will perform an assessment to see if you can leverage its
+				benefit. 
+			 </p>
+          </li>
+          <li id="li_17B72AA95E254B05A4D13CA3A8F98AE7">
+            <p>
+              <b>German de-compounder</b> – <!--3548135-->A de-compounder is now
+				available to support German. 
+			 </p>
+          </li>
+        </ul>
+      </p>
+      <p>
+        <b>Fixes and Enhancements</b>
+        <ul id="ul_E854198ADC7E4EE08C9B49C96128B0FA">
+          <li id="li_ADB6CB78BD3946D3BBB02FEAEE7351F6">
+            <p>
+              <!--3362608-->
+              <b>Business Rules</b> – Added the ability to assign more than one
+				schedule to a business rule. 
+			 </p>
+          </li>
+          <li id="li_2147FBBBF5E749C08E92DF40724DBAB8">
+            <p>
+              <!--3566251-->
+              <b>Guided Search</b> – Fixed an issue where falling back to the XML
+				parser was disabled. 
+			 </p>
+          </li>
+          <li id="li_2D359E35E6A240388BBE0A770B00BDA3">
+            <p>
+              <!--3563795-->
+              <b>Archive, compressed, and uncompressed files</b> – Added the
+				capability to download and extract information from the following archive,
+				compressed, and uncompressed file types: 
+				<filepath>.zip/tar/tar.gz/tar.bz2/gzip/bzip2</filepath></p>
+          </li>
+          <li id="li_8937042D982B4C088C11681B96167C10">
+            <p>
+              <!--3579003-->
+              <b>Remote control indexing</b> – Added regenerate ability to remote
+				control indexing actions. 
+			 </p>
+          </li>
+          <li id="li_5CC4AF5FBDAC46448465E78CD96FD21A">
+            <p>
+              <!--3579003-->
+              <b>Facet rail</b> – Added support for multiple facet rails. 
+			 </p>
+          </li>
+        </ul>
+      </p>
+      <p>See 
+		  <xref format="http" href="https://marketing.adobe.com/resources/help/en_US/snp/index.html" scope="external">Search&amp;Promote Documentation Home</xref>. 
+		</p>
+    </section>
+    <section id="section_E3BFEC86B9384A3AA32C16191C25CEB2">
+      <title>Social 3</title>
+      <p>
+        <keyword> Social</keyword> is completely redesigned with a new touch
+		  interface optimized for mobile devices, includes new interactive and actionable
+		  reports, provides new platform support, and adds new publishing, application,
+		  and moderation features. 
+		</p>
+      <p>Social 3 includes more than 100 new features. 
+		</p>
+      <p>Major features include the following: 
+		</p>
+      <ul id="ul_79BC465D8B5742DE9C89146568EBE085">
+        <li id="li_96CC026A3F554D73A6230DDC3F104654">
+          <b>Multi-Platform Publishing: 
+			 </b>Publish to multiple social platforms (Facebook, Twitter, Google+,
+			 and LinkedIn) simultaneously rather than creating individual posts for each
+			 platform. 
+		  </li>
+        <li id="li_6F645613D8994E47BD50F777AFB64977">
+          <b>Content Calendar: 
+			 </b>Use the 
+			 <wintitle>Content Calendar</wintitle> to create new content and to
+			 interact with existing content created by the Social 
+			 <wintitle>Publisher</wintitle> through a List View or a Calendar
+			 View. 
+		  </li>
+        <li id="li_E0ABCCD8BA3C49FD82476B3F14BE0A2E">
+          <b>Predictive Publishing and Recommendations: 
+			 </b>The 
+			 <wintitle>Post Predictions</wintitle> feature in the 
+			 <wintitle>Publisher</wintitle> dynamically updates as you add content
+			 to the post or change its schedule to display predictions of the number of
+			 Likes, Comments, and Shares the post will likely obtain after posting. This
+			 information helps you improve the post's content and to schedule the post at
+			 the optimal time to get maximum engagement. 
+		  </li>
+        <li id="li_D4331131323D4343941BFF72C261C081">
+          <b>LinkedIn Support: 
+			 </b>Publish content to LinkedIn company pages and groups. 
+		  </li>
+        <li id="li_E15784895151467983ABFA4B9C397A31">
+          <b>Mobile Application Optimization: 
+			 </b>Create a single application that is optimized for desktops,
+			 tablets, and smart phones. 
+		  </li>
+        <li id="li_E6E534D66C504BA18031876D4E49D3DD">
+          <b>Improved Adobe Analytics Integration: 
+			 </b>Effortlessly create applications with improved Analytics
+			 integration and richer data collection capabilities. 
+		  </li>
+        <li id="li_5B25E3A78CB44B048FFF894F68D30DCC">
+          <b>Twitter Moderation Feeds: 
+			 </b> Social 3 upgrades from a single stream of posts to a
+			 customizable, multiple feed view. You can create, save, and monitor feeds from
+			 your owned properties, conversations from the social web, trending hashtags,
+			 escalated content, and more, side by side. 
+		  </li>
+        <li id="li_973D80BB759F41CABBB16372D6127413">
+          <b>Adobe Marketing Cloud Integration: 
+			 </b>The Marketing Cloud brings Adobe's marketing solutions together
+			 into one virtual, private space. The Cloud is where your teams can access
+			 projects, collaborate, visualize, and socialize across solutions. 
+		  </li>
+      </ul>
+      <p>For a detailed list of new features and enhancements, see the 
+		  <xref href="https://marketing.adobe.com/resources/help/en_US/social/index.html?f=c_rel_notes.html" format="http" scope="external">Release Notes</xref> in 
+		  <xref href="https://marketing.adobe.com/resources/help/en_US/social/index.html?f=home.html" format="http" scope="external">Social Help</xref>. 
+		</p>
+    </section>
+    <section id="section_6F3B7DF3FF4F4939B90FCF837BEF6372">
+      <title>Audience Manager</title>
+      <p>The 
+		  <keyword>Audience Manager 
+		  </keyword> maintenance release (07/18/2013) includes the following
+		  changes: 
+		</p>
+      <ul id="ul_4AE467C2B9AA4B0BA0ED96F7A6C7E7ED">
+        <li id="li_07F28D9731F64B108826B1CC5EB0DA8A">
+          <b>New User Interface: 
+			 </b> The 
+			 <keyword>Audience Manager</keyword> user interface now has the look
+			 and feel of the new design standards followed by all the Adobe Marketing Cloud
+			 products. 
+		  </li>
+        <li id="li_EB5B689B4EBF4F448464D4F7CADAF6AF">
+          <b>Role-Based Access Controls: 
+			 </b>
+          <keyword>Audience Manager</keyword> lets your add fine-grained access
+			 controls and manage the access across different groups of an organization. All
+			 of the features are controllable through the user interface and you can also
+			 apply restricting access to user accounts through the API. 
+		  </li>
+      </ul>
+      <p>See 
+		  <xref href="https://marketing.adobe.com/resources/help/en_US/demdex/" format="http" scope="external">Audience Manager Help</xref>. 
+		</p>
+    </section>
+  </conbody>
+</concept>

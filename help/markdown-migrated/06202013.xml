@@ -1,0 +1,774 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept id="concept_FEA645C31D174060BB2D27725B3D3C36">
+  <title> Release Notes - June 20 2013</title>
+  <shortdesc>
+    <keyword>Analytics</keyword> maintenance releases, 
+	 <keyword>Target</keyword> 3.4. 
+  </shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>release notes</keyword>
+      </keywords>
+      <othermeta name="solution" content="Experience Cloud,Release Notes" />
+    </metadata>
+  </prolog>
+  <conbody>
+    <p>Release date: 
+		<b>June 20 2013</b></p>
+    <p>
+      <b>
+        <keyword>Adobe Analytics</keyword>
+      </b>
+    </p>
+    <!--Add links to release notes for SiteCatalyst, Discover, Insight, ReportBuilder, Genesis, DataWarehouse, TagManager, Clickstream Data Feeds, AppMeasurement-->
+    <ul id="ul_1A426643F0AC465FAD46B9AC102D68C7">
+      <li id="li_0934CB18B2DF48A396A38EE97BB5ED2F">
+        <xref href="06202013.xml#concept_FEA645C31D174060BB2D27725B3D3C36/section_925D2E4C6BF7459EA69FC7F3219CDBB6" format="dita" scope="local">
+          <?xm-replace_text SiteCatalyst 15.5 Maintenance Release?>
+        </xref>
+      </li>
+      <li id="li_F164F7AC88A34761A66CAA77B31B44F5">
+        <xref href="06202013.xml#concept_FEA645C31D174060BB2D27725B3D3C36/section_9E13EFA18B1A446E87299DE64B062129" format="dita" scope="local">
+          <?xm-replace_text SiteCatalyst 14.9 Maintenance Release?>
+        </xref>
+      </li>
+      <li id="li_E8057FF277AB4070B6C1C738DEBA2656">
+        <xref href="06202013.xml#concept_FEA645C31D174060BB2D27725B3D3C36/section_657454F058D645C69123910892DB3C5F" format="dita" scope="local">
+          <?xm-replace_text Discover 3.2 Maintenance Release?>
+        </xref>
+      </li>
+      <li id="li_191D611A854E47C38D99212F5BF22EF0">
+        <xref href="06202013.xml#concept_FEA645C31D174060BB2D27725B3D3C36/section_178051456D0847FAA6BF6B0B3E453D6B" format="dita" scope="local">
+          <?xm-replace_text DataWarehouse?>
+        </xref>
+      </li>
+      <li id="li_66CE2ED491E044AB9777D1C4825ABA34">
+        <xref href="06202013.xml#concept_FEA645C31D174060BB2D27725B3D3C36/section_4489FA0BB29747C0B7876E76DEC1551F" format="dita" scope="local">
+          <?xm-replace_text Web Services API?>
+        </xref>
+      </li>
+      <li id="li_F1E3C93B6B0D4057A2570BFD6F52A155">
+        <xref href="06202013.xml#concept_FEA645C31D174060BB2D27725B3D3C36/section_D10E043093D1481C9944B2C7F9A62E7D" format="dita" scope="local">
+          <?xm-replace_text AppMeasurement & Mobile?>
+        </xref>
+      </li>
+      <li id="li_8F1C8DEBCF4C43C6B0D14C539025FF6C">
+        <xref href="06202013.xml#concept_FEA645C31D174060BB2D27725B3D3C36/section_C73194A4FA27446089C3368F02D4FCB1" format="dita" scope="local">
+          <?xm-replace_text ClickStream Data Feeds?>
+        </xref>
+      </li>
+      <li id="li_A4D96FD5BBBB40A1A50CD448E9DFE86B">
+        <xref href="06202013.xml#concept_FEA645C31D174060BB2D27725B3D3C36/section_CCA68951DCF24D87949D51FFF30362CD" format="dita" scope="local">
+          <?xm-replace_text ReportBuilder 4.4 Maintenance Release?>
+        </xref>
+      </li>
+      <li id="li_7EF40224AFEC489D8FE5109389C4BB97">
+        <xref href="06202013.xml#concept_FEA645C31D174060BB2D27725B3D3C36/section_D15E5E6E2A90425FA0786DAE6FAF7BF9" format="dita" scope="local">
+          <?xm-replace_text Genesis 3.1 Maintenance Release?>
+        </xref>
+      </li>
+    </ul>
+    <p>
+      <b>
+        <keyword>Adobe Target</keyword>
+      </b>
+    </p>
+    <!--Add links to release notes for Test&Target, Recommendations, Search&Promote-->
+    <ul id="ul_EDF682D47EB546F5B31DA0D21E3B33FD">
+      <li id="li_3B4A3A95ADEA400CBFFD3F3459C9F904">
+        <xref href="06202013.xml#concept_FEA645C31D174060BB2D27725B3D3C36/section_9EAD66BDC3994A34AD9F2B625B222ABD" format="dita" scope="local">
+          <?xm-replace_text Test&Target 3.4?>
+        </xref>
+      </li>
+      <li id="li_FD6B070A5B94487382A479DA08B6AAE2">
+        <xref href="06202013.xml#concept_FEA645C31D174060BB2D27725B3D3C36/recommendations" format="dita" scope="local">
+          <?xm-replace_text Recommendations?>
+        </xref>
+      </li>
+      <li id="li_7E9649A4FF954F9C8988CA47209E185C">
+        <xref href="06202013.xml#concept_FEA645C31D174060BB2D27725B3D3C36/section_708A2B94F3DC4850A1BAEB907200007F" format="dita" scope="local">
+          <?xm-replace_text Search&Promote?>
+        </xref>
+      </li>
+    </ul>
+    <p>
+      <b>
+        <keyword>Adobe Social</keyword>
+      </b>
+    </p>
+    <ul id="ul_9DFB221CB82B4FF8B45CDEA7CA90C9CC">
+      <li id="li_38589483C3E246EFA07DDB050190B598">
+        <xref href="06202013.xml#concept_FEA645C31D174060BB2D27725B3D3C36/section_ED22C68BC74F48D8B254167AF96C2D0D" format="dita" scope="local">
+          <?xm-replace_text Social?>
+        </xref>
+      </li>
+    </ul>
+    <p>
+      <b>Adobe 
+		  <keyword>Experience Manager</keyword></b>
+    </p>
+    <!--Add links to release notes for CQ and Scene7-->
+    <ul id="ul_F520BAA72F7C4D57ADE77338F9BC6C13">
+      <li id="li_B8F4D3F0B4B142BDB151F11419CF4A9C">
+        <xref href="http://dev.day.com/docs/en/cq/current/release_notes/overview.html" format="http" scope="external">Adobe Experience Manager</xref>
+      </li>
+      <li id="li_879BC225865C4965BA12499ED0021D3C">
+        <xref href="06202013.xml#concept_FEA645C31D174060BB2D27725B3D3C36/scene7" format="dita" scope="local">
+          <?xm-replace_text Scene7?>
+        </xref>
+      </li>
+    </ul>
+    <p>
+      <b>Adobe 
+		  <keyword>Media Optimizer</keyword></b>
+    </p>
+    <!--Add links to release notes for AdLens, SearchCenter, Audience Manager-->
+    <ul id="ul_B8D1589DC5924E01BB5B4230E9E9E7E4">
+      <li id="li_D867BF4EFF5A4F7593951DAA6E7089B6">
+        <xref href="06202013.xml#concept_FEA645C31D174060BB2D27725B3D3C36/section_27040D9B48D04B20A9A73B8E5CD58250" format="dita" scope="local">
+          <?xm-replace_text AudienceManager?>
+        </xref>
+      </li>
+      <li id="li_369CA0FE3FAC47AEBD0D4DB0D7FCC249">
+        <xref href="06202013.xml#concept_FEA645C31D174060BB2D27725B3D3C36/section_8B5779104F2340BE87B4007C9E87B28C" format="dita" scope="local">
+          <?xm-replace_text AdLens?>
+        </xref>
+      </li>
+      <li id="li_EC247BA04B7546FEAC7B66D21FD83AE4">
+        <xref href="06202013.xml#concept_FEA645C31D174060BB2D27725B3D3C36/section_A874AA2D5F41487AA1E38F0C36B659C3" format="dita" scope="local">
+          <?xm-replace_text SearchCenter?>
+        </xref>
+      </li>
+    </ul>
+    <p>
+      <b>
+        <keyword>Marketing Cloud</keyword> Services</b>
+    </p>
+    <ul id="ul_F3AD54611BA847149E6EDFE48A1A236E">
+      <li id="li_42BE403F73FE41DFB48D3BA3EB6D07AB">
+        <xref href="05232013.xml#concept_0C2E2E59AF934F6C8B4322E92C0250FB/section_4489FA0BB29747C0B7876E76DEC1551F" format="dita" scope="local">
+          <?xm-replace_text Web Services API?>
+        </xref>
+      </li>
+    </ul>
+    <section id="section_925D2E4C6BF7459EA69FC7F3219CDBB6">
+      <title>SiteCatalyst 15.5 Maintenance Release</title>
+      <p>The 
+		  <keyword>SiteCatalyst</keyword> 15.5 release (06/20/2013) includes the
+		  following changes: 
+		</p>
+      <table id="table_7E78D85C82DA4333B88AF24854235F99">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1" colwidth="1.00*" />
+          <colspec colnum="2" colname="col2" colwidth="2.23*" />
+          <thead>
+            <row>
+              <entry colname="col1">Feature 
+				  </entry>
+              <entry colname="col2">Description 
+				  </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">
+                <p>Site metric correlations from the breakdown menu 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p>You can now view 
+						<wintitle>Time Spent on Site</wintitle> for traffic
+						variables, and 
+						<wintitle>Time Spent Per Visit</wintitle> and 
+						<wintitle>Time Prior to Event</wintitle> for commerce
+						variables and events from the breakdown menu in reports. 
+					 </p>
+              </entry>
+            </row>
+            <!-- 				<row> 
+				  <entry colname="col1"> 
+					 <p>Mobile App Store Data Integration Coming Soon 
+					 </p> 
+				  </entry> 
+				  <entry colname="col2"> 
+					 <p>Provides automated, daily syncing of App Store metrics
+						(downloads, revenue, rankings) and dimensions (app name, app store, app region)
+						to Adobe Analytics using a Genesis data connector with 
+						<xref href="http://www.distimo.com/" format="http"
+ 						 scope="external">Distimo</xref>. Supported app stores include Apple, Google
+						Play, Windows Phone, and many others. Existing Distimo customers can
+						automatically backfill up to 180 days of data. 
+					 </p> 
+					 <p>This integration will be available soon in the Laboratory
+						section of Genesis. 
+					 </p> 
+					 <p>See 
+						<xref
+ 						 href="https://marketing.adobe.com/resources/help/en_US/connectors/distimo/"
+ 						 scope="external">Adobe Genesis Integration for Distimo</xref>. 
+					 </p> 
+				  </entry> 
+				</row> -->
+            <row>
+              <entry colname="col1">
+                <p> Adobe Analytics for iOS App Coming Soon 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p>Adobe Analytics for iOS provides mobile access to
+						dashboards, bookmarked reports, and custom report generation with anomaly
+						detection. Look for it soon in the Apple App Store. 
+					 </p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>
+        <b>Notices</b>
+      </p>
+      <ul id="ul_5AF471CEBBD74D90A865DAEF56745B69">
+        <li id="li_67C702901D38429B8393338CF9D09BD9">
+          <p>Internet Explorer 7 is no longer tested for compatibility with the
+				
+				<keyword>SiteCatalyst</keyword> UI. Data collection continues to
+				work as expected for customers using Internet Explorer 7. 
+			 </p>
+        </li>
+        <li id="li_282C0CF8F5E4408CA25C03D5A3EA1379">In October 2013, the 
+			 <keyword>SiteCatalyst</keyword> 13.5 interface will no longer be
+			 accessible. All scheduled reports that were created in 
+			 <keyword>SiteCatalyst</keyword> 13.5 must be migrated to a supported
+			 version before this date. 
+		  </li>
+      </ul>
+      <p>
+        <b>Fixes</b>
+      </p>
+      <ul id="ul_8E1C738F73CC4462ABBCF9A4494E584A">
+        <li id="li_29571F05599F40F7A6B92D745229EEEA">When current data was
+			 enabled, revenue, orders, and other event reports were incorrectly duplicating
+			 values every other hour during the current day. <!--114582--></li>
+        <li id="li_8534A9374E204D3D8308D852A817370E">Compare reports did not
+			 support more than one level of subrelations in a classification hierarchy.
+			 Compare reports now provides a comparison through each level. <!--59573--></li>
+        <li id="li_0195041E8A8F45C0A5C8813535136247">Conversion reports with
+			 hourly granularity were incorrectly showing that current data is available.
+			 This caused the value for the current hour to be displayed for all future hours
+			 of the report. The current data option is now correctly disabled for these
+			 reports. <!--114934--></li>
+        <li id="li_E3BBA329E856466C832A958D39BB3F21">PDF downloads of text
+			 reportlets displayed an "HTML error on line 1: Malformed XHTML" error message.<!--113303--></li>
+        <li id="li_E54A90CC39C34835AB246B0E0FD9A3E6">Some Excel reports were
+			 not emailed after clicking 
+			 <wintitle>Send</wintitle>. <!--114184 - try these alter.--></li>
+        <li id="li_C818EEBE9FA044A5ACDD9751699AE224">In downloaded Excel
+			 reports, path length did not match the correct value that was displayed in 
+			 <keyword>SiteCatalyst</keyword>. <!--The UI was corect -  this was showing site sections pathing instead. 115117--></li>
+        <li id="li_2530FAED1E1D41A1973E061F70DD7FFA">When viewing multiple
+			 report suites in different browsers or tabs as the same user, processing rules
+			 were saved to the last selected report suite by that user. Rules are now saved
+			 to the report suite that is selected in that tab or window. <!--113749--></li>
+        <li id="li_4C266B68A6034B51A338144F0DEDBAE8">In the 
+			 <wintitle>Admin Console</wintitle>, changing some variable settings
+			 across multiple report suites caused a "Report not Available at this Time"
+			 error. These changes are now saved correctly across the selected report suites.
+			 <!--115098--></li>
+      </ul>
+      <p>See 
+		  <xref href="https://microsite.omniture.com/t2/help/en_US/sc/user/index.html?f=c_whatsnew" format="https" scope="external">SiteCatalyst 15 Help</xref> for more
+		  information. 
+		</p>
+    </section>
+    <section id="section_9E13EFA18B1A446E87299DE64B062129">
+      <title>SiteCatalyst 14.9 Maintenance Release</title>
+      <p>The 
+		  <keyword>SiteCatalyst</keyword> 14.9 maintenance release (06/20/2013)
+		  includes the following change: 
+		</p>
+      <ul id="ul_BE4950CEC9AA45C3ADBCA0F74A97E452">
+        <li id="li_1665125A50DF4FDEA6483915710AC383">The 
+			 <wintitle>Keyword Unavailable ASI</wintitle> segment definition was
+			 not displayed in 
+			 <keyword>SiteCatalyst</keyword> 14. <!--114801--></li>
+      </ul>
+    </section>
+    <section id="section_657454F058D645C69123910892DB3C5F">
+      <title>Discover 3.2 Maintenance Release</title>
+      <p>The Discover 3.2 maintenance release (06/20/2013) includes the
+		  following changes: 
+		</p>
+      <ul id="ul_76B36F3E62944FE0A3A98C93A5660081">
+        <li id="li_683F8D5E42DC444999C96DF90E9A8462">
+          <!--111052-->Excel and CSV reports would not list filenames that
+			 began with M or any filename that followed alphabetically. This has been fixed.
+			 
+		  </li>
+        <li id="li_2F9DF8198F704369AD160B1B1EEFD77E">
+          <!--114541--> Titles on classification reports in 
+			 <keyword>Discover</keyword> menus displayed their parent names
+			 instead of the proper subordinate classification titles. This feature now
+			 displays correctly. 
+		  </li>
+        <li id="li_6866687C13984C2EA55D9C4427BE3B95">
+          <!--114638--> Custom events in reports not enabled were improperly
+			 appearing in the 
+			 <keyword>Discover</keyword> menus, cluttering the menus and forcing
+			 them to scroll off the screen. These menus now display correctly. 
+		  </li>
+        <li id="li_A5DE59748AEC46C587F3139136059E80">In scheduled Excel
+			 reports, some columns were compressed (usually columns A and B) and hidden from
+			 view when opened. These columns now expand correctly when opening the Excel
+			 table. 
+		  </li>
+      </ul>
+      <note type="attention">Starting with the July maintenance release,
+		  Discover will be changing currency formats in custom events that will affect
+		  reports and segments in some cases. For example, Discover uses a penny (.01) as
+		  the baseline value, but starting next month, all currency will be based on the
+		  dollar (1.00). This is the same for all currencies. 
+		</note>
+      <p>In most cases, reports and segments previously built in Discover will
+		  remain unchanged. Most existing reports and segments in the new format will see
+		  no changes in values or functionality. The data values in the report will not
+		  change but the values in the segment rules will change for currency operations.
+		  For example, if you created a custom event that runs in segment with a 50 cent
+		  value, then it will be changed to a .50 dollar value and return the same values
+		  as it did previously. 
+		</p>
+      <p>When converting formats is not possible, an error will display in the
+		  Segment Builder stating that the variable is obsolete. See the 
+		  <xref href="https://marketing.adobe.com/resources/help/en_US/home/index.html#kb-dsc-important-changes-revenue-segment-logic" format="http" scope="external">KB article</xref> for additional information
+		  about rebuilding your segments if needed. 
+		</p>
+    </section>
+    <section id="section_178051456D0847FAA6BF6B0B3E453D6B">
+      <title>DataWarehouse</title>
+      <p>The 
+		  <keyword>DataWarehouse</keyword> maintenance release (06/20/2013)
+		  includes the following changes: 
+		</p>
+      <table id="table_91476F9EFF0A416CB9A012F6A06EDA04">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1" colwidth="1.00*" />
+          <colspec colnum="2" colname="col2" colwidth="2.61*" />
+          <thead>
+            <row>
+              <entry colname="col1">Feature 
+				  </entry>
+              <entry colname="col2">Description 
+				  </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">eVar Participation Metrics 
+				  </entry>
+              <entry colname="col2">You can now request 
+					 <xref href="https://marketing.adobe.com/resources/help/en_US/sc/user/index.html?f=c_metrics_participation" format="http" scope="external">Participation Metrics</xref> in DataWarehouse
+					 reports. These metrics are displayed in the Metrics list under the Custom
+					 Insight heading. 
+				  </entry>
+            </row>
+            <row>
+              <entry colname="col1"> Reports now contain Numeric/Currency
+					 Events set outside of the products list 
+				  </entry>
+              <entry colname="col2">In 
+					 <xref href="https://marketing.adobe.com/resources/help/en_US/whatsnew/index.html?f=c_03212013" format="http" scope="external">March 2013</xref>, implementation support was
+					 added Numeric/Currency Events set outside of the products list. These values
+					 can now be reported in DataWarehouse. 
+				  </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <ul id="ul_E0D2D4D6A8FF4838822BCF3CA2BB9E37">
+        <li id="li_6BF9CBF6696F4BA2AAD195B57A83DA92">Segments based on events
+			 51-100 were not returning data. Existing segments that are based on events in
+			 this range must be re-created in 
+			 <keyword>DataWarehouse</keyword>. <!--98968--></li>
+        <li id="li_436E1D1BC379442D9B2AB69D92AF12FB">When a DataWarehouse
+			 segment that contains Time Spent per Visit is displayed in Discover, it is
+			 displayed as Seconds Spent per Visit. <!-- 109428--></li>
+      </ul>
+    </section>
+    <section id="section_4489FA0BB29747C0B7876E76DEC1551F">
+      <title>Web Services API</title>
+      <p>The 
+		  <keyword>Web Services</keyword> maintenance release (06/20/2013)
+		  includes the following changes: 
+		</p>
+      <table id="table_EC686FB0C9E345B2B45093C44E4018D1">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1" colwidth="1.00*" />
+          <colspec colnum="2" colname="col2" colwidth="3.08*" />
+          <thead>
+            <row>
+              <entry colname="col1">Feature 
+				  </entry>
+              <entry colname="col2">Description 
+				  </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">
+                <p>Real Time Reporting API 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p>View orders, revenue, units, custom events, and instances
+						with up to three correlated dimensions to create granular, real time dashboards
+						with seconds of latency. See 
+						<xref href="https://developer.omniture.com/en_US/documentation/sitecatalyst-reporting/c-real-time" format="https" scope="external">Real Time Reports</xref>. 
+					 </p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>Visit 
+		  <xref href="http://developer.omniture.com" scope="external" format="html">developer.omniture.com</xref> to learn more about the Web
+		  Services API. 
+		</p>
+    </section>
+    <section id="section_D10E043093D1481C9944B2C7F9A62E7D">
+      <title>AppMeasurement &amp; Mobile</title>
+      <p>
+        <b>AppMeasurement for JavaScript</b>
+      </p>
+      <p> Not updated in this maintenance release. 
+		</p>
+      <p>
+        <b>
+          <keyword>AppMeasurement</keyword> for Other Platforms</b>
+      </p>
+      <p>See 
+		  <xref href="https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/release/index.html" scope="external" format="html">AppMeasurement Release History</xref> the
+		  following for a release history of 
+		  <keyword>AppMeasurement</keyword> on the following platforms: 
+		</p>
+      <ul id="ul_B20AE0B814074E7887113D26F71AF819">
+        <li id="li_0E5778051926414F8EF1310EE31C5279">JavaScript 
+		  </li>
+        <li id="li_D2B8E769EE444CBC9B06305DAE4B225D">iOS 
+		  </li>
+        <li id="li_B4882878F13E47A189CB24300F5E02E3">Android 
+		  </li>
+        <li id="li_30AFDC29D0494DCE9F5A5483DC1949DA">Flash-Flex 
+		  </li>
+        <li id="li_856331E040C54418B4E86248AB3DD709">OSX 
+		  </li>
+        <li id="li_24991A6893F24277BEBE304402188053">Windows Phone, XBOX,
+			 Silverlight, and .NET 
+		  </li>
+        <li id="li_3DAEC196557B4DC980E65CC1063F2010">BlackBerry 
+		  </li>
+        <li id="li_0F692A16727E495AA441355F6E86BC9C">Java 
+		  </li>
+        <li id="li_F6CB5C9C1E384E2E8F61A0C169A65587">PHP 
+		  </li>
+        <li id="li_B495C8F3A90C4C7F9D9CF97C8EC548D6">Symbian 
+		  </li>
+      </ul>
+    </section>
+    <section id="section_C73194A4FA27446089C3368F02D4FCB1">
+      <title>ClickStream Data Feeds</title>
+      <p> Not updated in this maintenance release. 
+		</p>
+      <p>See the 
+		  <xref href="https://marketing.adobe.com/resources/help/en_US/whitepapers/clickstream/index.html" format="http" scope="external">Clickstream Data Feeds</xref> help for the
+		  latest information. 
+		</p>
+    </section>
+    <section id="section_CCA68951DCF24D87949D51FFF30362CD">
+      <title>ReportBuilder 4.4 Maintenance Release</title>
+      <p>The 
+		  <keyword>ReportBuilder</keyword> 4.4 maintenance release (06/20/2013)
+		  includes the following changes: 
+		</p>
+      <p>
+        <b>New Features</b>
+      </p>
+      <table id="table_53C4DC02518E4F4F952CCAF3D8361DCF">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1" colwidth="1.00*" />
+          <colspec colnum="2" colname="col2" colwidth="4.60*" />
+          <thead>
+            <row>
+              <entry colname="col1">Feature 
+				  </entry>
+              <entry colname="col2">Description 
+				  </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">
+                <p>Select all available elements 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p>
+                  <!--111171-->On the 
+						<wintitle>Adobe Report Builder - Select From List</wintitle>
+						panel, you can select all items from the 
+						<wintitle>Available Elements</wintitle> list. 
+					 </p>
+                <p>To select all items, click the first item, scroll to the
+						end, then use 
+						<uicontrol>Shift + click</uicontrol> on the last item. 
+					 </p>
+                <p>To deselect items: 
+					 </p>
+                <p>
+                  <b>Windows</b>: Control + click 
+					 </p>
+                <p>
+                  <b>Windows VM on Mac</b>: Control + Command keys 
+					 </p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <p>Improved cell selection when clicking 
+						<uicontrol>Finish</uicontrol></p>
+              </entry>
+              <entry colname="col2">
+                <p>
+                  <!--114944--> If you click 
+						<uicontrol>Finish</uicontrol> (in the 
+						<wintitle>Pivot Layout</wintitle>) before selecting a cell
+						location, report builder now automatically finishes the request after prompting
+						you to select the cell. 
+					 </p>
+                <p>Previously, you were returned to the 
+						<wintitle>Request Wizard</wintitle> and had to click 
+						<uicontrol>Finish</uicontrol> again, after selecting the
+						cell. 
+					 </p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>
+        <b>Fixes</b>
+      </p>
+      <p>
+        <!--107701--> Fixed an issue preventing variables to sort properly in
+		  the 
+		  <wintitle>Dimensions</wintitle> tab, for classification reports. 
+		</p>
+    </section>
+    <section id="section_D15E5E6E2A90425FA0786DAE6FAF7BF9">
+      <title>Genesis 3.1 Maintenance Release</title>
+      <p>The 
+		  <keyword>Genesis</keyword> 3.1 maintenance release (06/20/2013)
+		  includes the following changes: 
+		</p>
+      <p>
+        <b>Fixes</b>
+      </p>
+      <ul id="ul_6615168E33AC4C3FA38D1D25A0EC4BA0">
+        <li id="li_B8ABD69004BE41578BCDD645E78314E7">
+          <!--113819--> Fixed an issue preventing classification names to save
+			 successfully in 
+			 <wintitle>Data Settings</wintitle> on the 
+			 <wintitle>Configure</wintitle> tab. 
+		  </li>
+        <li id="li_B0013DDB7F8C439586AB7C8B16CB0B2F">
+          <!--103813--> Fixed a character encoding issue in the 
+			 <keyword>BrightEdge</keyword> integration, occurring on the 
+			 <wintitle>Review Summary</wintitle> step in the 
+			 <wintitle>Name</wintitle> parameter. 
+		  </li>
+        <li id="li_E88BE389016C4375956318A3AA5E6DB9">
+          <!--111439--> Added a simplified integration wizard for 
+			 <keyword>Qualtrics</keyword>. 
+		  </li>
+        <!--<li id="li_461238218A114FE6BE980378190725F0">
+          113871 Added an integration for 
+			 <keyword>Distimo</keyword>, including a 
+			 <wintitle>Reserved</wintitle> variable type on the 
+			 <wintitle>Add Variable</wintitle> page. 
+		  </li>-->
+        <li id="li_07DD5FC006564718823ADB3086773875">
+          <!--115416--> Fixed an issue in 
+			 <keyword>Qualtrics</keyword> that prevented classification
+			 hierarchies from being created. 
+		  </li>
+        <li id="li_D4A9B0C889C742CC98EE64728FACB87D">
+          <!--105513--> Fixed an issue causing the 
+			 <wintitle>Calculated Metrics</wintitle> section to not display in the
+			 
+			 <wintitle>Data Setting</wintitle> steps for 
+			 <keyword>Email Marketing</keyword> integrations. 
+		  </li>
+        <li id="li_3CD7DF91B7BE4AADA9EEBAD6CB726CE8">
+          <!--115020-->
+          <b>Dev Center</b>: Fixed a "bad source ID" error occurring when
+			 trying to save a processing rule. 
+		  </li>
+      </ul>
+    </section>
+    <section id="section_9EAD66BDC3994A34AD9F2B625B222ABD">
+      <title> Test&amp;Target 3.4</title>
+      <p>The 
+		  <keyword>Test&amp;Target</keyword> 3.4 release (06/20/2013) includes
+		  the following changes: 
+		</p>
+      <p>
+        <b>New Features</b>
+      </p>
+      <p>
+        <table id="table_B593F7AEBF234956B57C62E419B365B5">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="col1" colwidth="1.00*" />
+            <colspec colnum="2" colname="col2" colwidth="3.30*" />
+            <thead>
+              <row>
+                <entry colname="col1">Feature 
+				  </entry>
+                <entry colname="col2">Description 
+				  </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry colname="col1">Batch profile update 
+				  </entry>
+                <entry colname="col2">You can upload profile updates in bulk via
+					 API.
+				   <!--See <xref href="https://beta-developer.omniture.com/en_US/documentation/test-target/r-batch-update" format="https" scope="external">Batch Profile Update</xref>.--></entry>
+              </row>
+              <row>
+                <entry colname="col1">Reset campaign data 
+				  </entry>
+                <entry colname="col2">You can reset all report data for a
+					 selected campaign. <!--See 
+					 <xref href="t_Reset_Campaign_Data.xml#task_8F3DF75BEC7D45AB85516859876C3967" format="dita" scope="local"><?xm-replace_text Reset Report Data?></xref>.
+				  --></entry>
+              </row>
+              <row>
+                <entry colname="col1">APIs 
+				  </entry>
+                <entry colname="col2">There have been several processing changes
+					 to improve performance and to prepare for future releases. No client changes
+					 are necessary. 
+				  </entry>
+              </row>
+              <row>
+                <entry colname="col1">Rebranding 
+				  </entry>
+                <entry colname="col2">
+                  <keyword>Test&amp;Target</keyword> has been rebranded as the
+					 major component of the integrated Adobe Target solution. 
+				  </entry>
+              </row>
+              <!-- <row>
+				  <entry colname="col1">Profile lifetime extended
+				  </entry>
+				  <entry colname="col2">The two-week profile lifetime has been
+					 extended.
+				  </entry>
+				</row> -->
+            </tbody>
+          </tgroup>
+        </table>
+      </p>
+      <p>See 
+		  <xref href="https://marketing.adobe.com/resources/help/en_US/tnt/help/index.html?f=c_Welcome_to_TestnTarget" format="http" scope="external">Welcome to Test&amp;Target</xref>. 
+		</p>
+      <p>
+        <b>Fixes</b>
+      </p>
+      <ul id="ul_C3E2EFE8044A43DB84DC326BDC91784D">
+        <li id="li_617EEE4B5FCD41B3A3F0523CA206FBCD">
+          <!--109453--> Resolved an issue with localization in Campaign
+			 Reporting. 
+		  </li>
+        <li id="li_F07070F74CB34812B00EB2141D1BB207">
+          <!--113267--> Resolved an issue where 
+			 <keyword>Test&amp;Target</keyword> campaign names were appearing as
+			 classification reports in the 
+			 <keyword>SiteCatalyst</keyword> menu. 
+		  </li>
+        <li id="li_36F865D1638F4C5CBC842602422CB633">
+          <!--111971--> Resolved an issue when moving copied offers to a
+			 folder. 
+		  </li>
+      </ul>
+    </section>
+    <section id="recommendations">
+      <title>
+        <keyword>Recommendations</keyword>
+      </title>
+      <p>Not updated in this release. 
+		</p>
+      <p>For the latest Recommendations documentation, see 
+		  <xref format="html" href="https://marketing.adobe.com/resources/help/en_US/rec/#Release Notes" scope="external">What's New in 
+			 <keyword>Recommendations</keyword></xref>. 
+		</p>
+    </section>
+    <section id="section_708A2B94F3DC4850A1BAEB907200007F">
+      <title>
+        <keyword>Search&amp;Promote</keyword>
+      </title>
+      <p>Not updated in this release. 
+		</p>
+      <p>See 
+		  <xref format="http" href="https://marketing.adobe.com/resources/help/en_US/snp/index.html" scope="external">Search&amp;Promote Documentation Home</xref> for the latest 
+		  <keyword>Adobe Search&amp;Promote</keyword> documentation. 
+		</p>
+    </section>
+    <section id="section_ED22C68BC74F48D8B254167AF96C2D0D">
+      <title>Social</title>
+      <p>The 
+		  <keyword>Social</keyword> 2.6 maintenance release (06/20/2013) includes
+		  back-end bug fixes to improve performance and stability. 
+		</p>
+      <p>See 
+		  <xref href="https://marketing.adobe.com/resources/help/en_US/social/index.html?f=home.html" format="http" scope="external">Social Help</xref> for the latest documentation.
+		  
+		</p>
+    </section>
+    <section id="scene7">
+      <title>
+        <keyword>Scene7</keyword>
+      </title>
+      <p>For the latest 
+		  <keyword>Scene7</keyword> release information, 
+		  <xref format="html" href="https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html" scope="external">Scene7 Publishing System Release Notes</xref>. 
+		</p>
+    </section>
+    <section id="section_27040D9B48D04B20A9A73B8E5CD58250">
+      <title>AudienceManager</title>
+      <p>Not updated in this release. 
+		</p>
+      <p>See 
+		  <xref keyref="https://microsite.omniture.com/t2/help/en_US/home/index.html#AudienceManager" scope="external">AudienceManager</xref> for the latest information. 
+		</p>
+    </section>
+    <section id="section_8B5779104F2340BE87B4007C9E87B28C">
+      <title>AdLens</title>
+      <p>In 
+		  <keyword>AdLens</keyword>, click 
+		  <uicontrol>Help</uicontrol> &gt; 
+		  <uicontrol>Help Contents</uicontrol> for the latest information. 
+		</p>
+    </section>
+    <section id="section_A874AA2D5F41487AA1E38F0C36B659C3">
+      <title>SearchCenter</title>
+      <p>Not updated in this release. 
+		</p>
+      <p>See 
+		  <xref href="https://marketing.adobe.com/resources/help/en_US/scm/index.html?f=c_Release_Notes" format="http" scope="external">SearchCenter Help</xref> for the latest
+		  information. 
+		</p>
+    </section>
+  </conbody>
+</concept>

@@ -1,0 +1,2272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd"[]>
+<concept id="concept_3DD490B0F7DD4157BD55519762B53B0C">
+  <title>Release Notes - October 2017</title>
+  <shortdesc>New features and fixes in the 
+	 <keyword>Adobe Experience Cloud</keyword>. 
+  </shortdesc>
+  <prolog>
+    <metadata>
+      <keywords>
+        <keyword>release notes</keyword>
+      </keywords>
+      <othermeta name="solution" content="Experience Cloud,Release Notes" />
+    </metadata>
+  </prolog>
+  <conbody>
+    <!--<p> 
+		<note type="important">This page contains pre-release content and is
+		  subject to change at the time of release. Release dates and content updates
+		  that occur after the Analytics release will marked with a date. 
+		</note> 
+	 </p>-->
+    <p>
+      <note>To receive release notes one week prior to the monthly product
+		  update, subscribe to the 
+		  <xref href="https://www.adobe.com/subscription/priority-product-update.html" format="https" scope="external">Adobe Priority Product Update</xref>. Release
+		  information in the Priority Product Update comes one week in advance of the
+		  release date. Please check back at release time for updates. 
+		</note>
+    </p>
+    <!--<p>No more publishing to beta. Production only. No specific dates (month only) until each area provides a "last updated" date post release. </p>-->
+    <draft-comment>
+      <p>
+        <b>Instructions:</b> This file is the template for the monthly RNs. To
+		  update links, open this file in notepad++, search for 
+		  <filepath>10262017</filepath> and replace all occurrences with the
+		  current file name, usually release date. When adding content, edit only the
+		  tables and Fixes ULs. Do not overwrite Concepts, Sections, or the topic maps
+		  ULs. 
+		</p>
+    </draft-comment>
+    <draft-comment>
+      <b>Contacts and assignments:</b>
+		https://wiki.corp.adobe.com/display/techpubs/Release+Notes 
+	 </draft-comment>
+    <p>
+      <b>October 2017 
+		</b>
+    </p>
+    <p>Latest update: 
+		<b>October 26, 2017</b></p>
+    <ul id="ul_7F679FC5BA7F419D9E4AD0994F15FBF7">
+      <li id="li_E60EBAF318B84D4D8FEEED028363571F">
+        <xref href="10262017.xml#recipes" format="dita" scope="local">Experience Cloud
+			 Recipes</xref>
+      </li>
+      <li id="li_274EA376FB214CF9953606ACF4C14556">
+        <xref href="10262017.xml#coreservices" format="dita" scope="local">Experience Cloud - Core Services</xref>
+      </li>
+      <li id="li_DAB3CC2D37B042418CBE141796D3D03D">
+        <xref href="10262017.xml#analytics" format="dita" scope="local">Analytics</xref>
+      </li>
+      <li id="li_F239F2E0D1914434AB9701C35EAC657D">
+        <xref href="10262017.xml#aam" format="dita" scope="local">Audience Manager</xref>
+      </li>
+      <li id="li_A58E47A2113F4A7F89F8F2BFFF4BDB76">
+        <xref href="10262017.xml#social" format="dita" scope="local">Social</xref>
+      </li>
+      <li id="li_766DF14ED04C4FDC9BFE8FA397BEB31D">
+        <xref href="10262017.xml#target" format="dita" scope="local">Target</xref>
+      </li>
+      <li id="li_AA99E1649D004AD99E984A1AF35A83D6">
+        <xref href="10262017.xml#primetime" format="dita" scope="local">Primetime</xref>
+      </li>
+      <li id="li_F2DD70548558453294870278AF10373C">
+        <xref href="10262017.xml#campaign" format="dita" scope="local">Campaign</xref>
+      </li>
+      <li id="li_A82335C7660A4FFC8F0995F5EC543C19">
+        <xref href="10262017.xml#experiencemanager" format="dita" scope="local">Experience Manager</xref> (Includes 
+		  <xref href="https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html" format="html" scope="external">Livefyre</xref>) 
+		</li>
+      <li id="li_D513EC0B72EC41D3AD404C4FAAC44CD3">
+        <xref href="10262017.xml#mediaoptimizer" format="dita" scope="local">Media Optimizer</xref>
+      </li>
+    </ul>
+  </conbody>
+  <concept id="recipes">
+    <title>Experience Cloud Recipes</title>
+    <shortdesc></shortdesc>
+    <conbody>
+      <p>
+        <xref href="https://helpx.adobe.com/marketing-cloud/how-to/use-cases.html" format="html" scope="external">Experience Cloud Recipes</xref> help you
+		  implement and deploy cross-solution workflows and integrations. 
+		</p>
+      <table id="table_558E0B0AECB84969825705EC62FA1BB2">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="col1" colwidth="1.09*" />
+          <colspec colname="col02" colnum="2" colwidth="1.00*" />
+          <colspec colnum="3" colname="col2" colwidth="3.43*" />
+          <thead>
+            <row>
+              <entry colname="col1">Recipe 
+				  </entry>
+              <entry colname="col02">Date Published 
+				  </entry>
+              <entry colname="col2">Description 
+				  </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">
+                <p>First-time Setup 
+					 </p>
+              </entry>
+              <entry colname="col02">
+                <p>October 18, 2017 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p>The first-time setup recipe walks you through the steps to
+						get started using Experience Cloud solutions. 
+					 </p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <p>Email Optimization 
+					 </p>
+              </entry>
+              <entry colname="col02">
+                <p>August 15, 2017 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p>The email marketing use case shows you how to implement an
+						integrated email strategy with analytics, optimization, and campaign
+						management. 
+					 </p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <p>Mobile App Engagement 
+					 </p>
+              </entry>
+              <entry colname="col02">
+                <p>June 1, 2017 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p> The mobile app engagement use case shows you how to
+						integrate your mobile apps with the Adobe Experience Cloud to measure user
+						engagement and deliver personalized experiences to your audiences. 
+					 </p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <p>Digital Foundation 
+					 </p>
+              </entry>
+              <entry colname="col02">
+                <p>May 2017 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p> The Digital Foundation use case helps you implement a
+						digital marketing platform with Analytics, optimization, and campaign
+						management. 
+					 </p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <p>Customer Intelligence 
+					 </p>
+              </entry>
+              <entry colname="col02">
+                <p>April 2017 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p> The Customer Intelligence use case shows you how to create
+						a unified customer profile using multiple data sources, and how to use this
+						profile to build actionable audiences. 
+					 </p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+    </conbody>
+  </concept>
+  <concept id="coreservices">
+    <title>Experience Cloud - Core Services</title>
+    <shortdesc></shortdesc>
+    <conbody>
+      <p>Release notes for the core services interface, including Assets, Feed,
+		  Notifications, Profiles &amp; Audiences, Mobile Services, and Dynamic Tag
+		  Management. Also includes release information for Experience Cloud ID Service
+		  (Visitor API). 
+		</p>
+      <ul id="ul_02BDBE0B69314C63873263B2B606F22C">
+        <li id="li_DCFCE35581CA4204BE67D2F8CD90FD36">
+          <xref href="10262017.xml#coreservices/experience_cloud_interface" format="dita" scope="local">Enterprise Cloud Interface</xref>
+        </li>
+        <!--<li id="li_7144DCB2A31C4E839C4AC5467B3CEC94"><xref href="10262017.xml#marketingcloud/mcvid" format="dita" scope="local">ID
+				Service</xref> 
+		  </li>-->
+        <!--<li id="li_CBD4214DB7B94F57B0AF2F6959F207EC"><xref href="10262017.xml#coreservices/device-co-op" format="dita" scope="local">Device Co-op</xref> 
+		  </li>-->
+        <!--<li id="li_EA9CC979B3F6481A8E0E08EDA5024CF0"> 
+			 <xref href="10262017.xml#marketingcloud/dtm" format="dita" scope="local">Dynamic Tag Management</xref> 
+		  </li>-->
+        <li id="li_F18AD3F126F8461A8DF2D8C43FA8611A">
+          <xref href="10262017.xml#coreservices/mobile" format="dita" scope="local">Mobile Services</xref>
+        </li>
+        <li id="li_A6D75DADBBCC4256A752305390DCD132">
+          <xref href="10262017.xml#coreservices/section_FD57C8A6E37244E6B3E2AEB0222230A6" format="dita" scope="local">Mobile Services SDK</xref>
+        </li>
+        <li id="li_B26D09ADB47E4EFEAC484F793FBD434D">
+          <xref href="10262017.xml#coreservices/dataconnectors" format="dita" scope="local">Data Connectors</xref>
+        </li>
+      </ul>
+      <section id="experience_cloud_interface">
+        <title>Experience Cloud Interface</title>
+        <table id="table_840AB5E91A6D4DDCB0712E8A843342EE">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="col1" colwidth="1.00*" />
+            <colspec colnum="2" colname="col2" colwidth="2.38*" />
+            <thead>
+              <row>
+                <entry colname="col1">Item 
+					 </entry>
+                <entry colname="col2">Description 
+					 </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry colname="col1">
+                  <p>Notifications 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <p> In notification settings, you can set time of day that
+						  you want to receive email notifications. 
+						</p>
+                  <p>Select the 
+						  <b>Daily Digest</b> option for 
+						  <b>Email Frequency</b>. <!--<xref href="https://jira.corp.adobe.com/browse/CORE-3924">https://jira.corp.adobe.com/browse/CORE-3924</xref>--></p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <p>Notifications 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <p> Settings for all web notifications will be enabled by
+						  default. <!--<xref href="https://jira.corp.adobe.com/browse/CORE-5583">https://jira.corp.adobe.com/browse/CORE-5583</xref>--></p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <p>Account Linking update 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <p>Analytics users no longer need to manually link their
+						  accounts between the Experience Cloud and Analytics. You can contact your
+						  administrator to request access to Analytics. <!--<xref href="https://jira.corp.adobe.com/browse/CORE-5526">https://jira.corp.adobe.com/browse/CORE-5526</xref>--></p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <p>Known Issue 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <p> When you enable 
+						  <b>Email</b> in 
+						  <xref href="https://marketing.adobe.com/resources/help/en_US/mcloud/notifications.html" format="html" scope="external">Maintenance Notifications</xref>, many of the
+						  notifications around scheduled maintenance/product updates are missing from the
+						  notifications email digest. We are working on a resolution. 
+						</p>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <p>See 
+			 <xref href="https://marketing.adobe.com/resources/help/en_US/mcloud/" format="https" scope="external">Experience Cloud Product Documentation</xref>
+			 for product help. 
+		  </p>
+        <p>
+          <xref href="10262017.xml#recipes" format="dita" scope="local">Top</xref>
+        </p>
+      </section>
+      <!--<section id="mcvid"> 
+		  <title>Experience Cloud ID Service</title> 
+		  <draft-comment> 
+			 <p>https://wiki.corp.adobe.com/display/MCID/Visitor+API+Release+Log 
+			 </p> 
+		  </draft-comment> 
+		  <p>The Experience Cloud ID service does not have any releases or code
+			 changes for October, 2017. 
+		  </p> 
+		  <p>See 
+			 <xref href="https://marketing.adobe.com/resources/help/en_US/mcvid/" format="https" scope="external">Marketing Cloud ID Services</xref> product
+			 documentation. 
+		  </p> 
+		</section>-->
+      <!--<section id="device-co-op"> 
+		  <title>Device Co-op</title> 
+		  <p>New features and fixes in the Device Co-op. 
+		  </p> 
+		  <table id="table_B0C18CA541B14684948B6209BB6B602C"> 
+			 <tgroup cols="2"> 
+				<colspec colnum="1" colname="col1" colwidth="1.00*"/> 
+				<colspec colnum="2" colname="col2" colwidth="2.07*"/> 
+				<thead> 
+				  <row> 
+					 <entry colname="col1">Feature 
+					 </entry> 
+					 <entry colname="col2">Description 
+					 </entry> 
+				  </row> 
+				</thead> 
+				<tbody> 
+				  <row> 
+					 <entry colname="col1"> 
+						<p><?xm-replace_text Paragraph?>
+						</p> 
+					 </entry> 
+					 <entry colname="col2"> 
+						<p><?xm-replace_text Paragraph?>
+						</p> 
+					 </entry> 
+				  </row> 
+				</tbody> 
+			 </tgroup> 
+		  </table> 
+		  <p> 
+			 <b>Fixes</b> 
+		  </p> 
+		  <ul id="ul_F93DE56A7CB240E59548A132E321F875"> 
+			 <li id="li_B439EAA7966244B99D6295F9EFE51869"><?xm-replace_text List Item?>
+			 </li> 
+		  </ul> 
+		  <p><xref href="https://marketing.adobe.com/resources/help/en_US/mcdc/" format="https" scope="external">Device Co-op</xref> product documentation. 
+		  </p> 
+		</section>-->
+      <!--<section id="dtm"> 
+		  <title>Dynamic Tag Management</title> 
+		  <table id="table_F710029AC6A4459796FBE37123BC5BB9"> 
+			 <tgroup cols="2"> 
+				<colspec colnum="1" colname="col1" colwidth="1.00*"/> 
+				<colspec colnum="2" colname="col2" colwidth="2.07*"/> 
+				<thead> 
+				  <row> 
+					 <entry colname="col1">Feature 
+					 </entry> 
+					 <entry colname="col2">Description 
+					 </entry> 
+				  </row> 
+				</thead> 
+				<tbody> 
+				  <row> 
+					 <entry colname="col1"> 
+						<p><?xm-replace_text Paragraph?>
+						</p> 
+					 </entry> 
+					 <entry colname="col2"> 
+						<p><?xm-replace_text Paragraph?>
+						</p> 
+					 </entry> 
+				  </row> 
+				</tbody> 
+			 </tgroup> 
+		  </table> 
+		  <p> 
+			 <b>Fixes</b> 
+		  </p> 
+		  <p>See 
+			 <xref href="https://marketing.adobe.com/resources/help/en_US/dtm/whatsnew.html" format="http" scope="external">What's New in Dynamic Tag Management</xref> for
+			 current and cumulative release notes, help, and documentation updates. 
+		  </p> 
+		  <p> 
+			 <xref href="10262017.xml#recipes" format="dita" scope="local">Top</xref> 
+		  </p> 
+		</section>-->
+      <section id="mobile">
+        <title> Mobile Services</title>
+        <p> Release date: 
+			 <b>October 12, 2017</b></p>
+        <table id="table_0A9D7FB898A44793B45732EAF002488A">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="col1" colwidth="1.00*" />
+            <colspec colnum="2" colname="col2" colwidth="2.37*" />
+            <thead>
+              <row>
+                <entry colname="col1">Feature 
+					 </entry>
+                <entry colname="col2">Description 
+					 </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry colname="col1">
+                  <p>Virtual Report Suites 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <p>Releasing 
+						  <b>October 26, 2017</b></p>
+                  <p>Added support for Analytics Virtual Report Suites. 
+						</p>
+                  <!--<p>For more information about virtual report
+suites, see <xref href="https://marketing.adobe.com/resources/help/en_US/mobile/c_mob_vrs.html" format="html" scope="external">Virtual Report Suites</xref>.
+</p>-->
+                  <p>See 
+						  <xref href="https://marketing.adobe.com/resources/help/en_US/mobile/c_mob_vrs.html" format="html" scope="external">Virtual Report Suites</xref> in for more
+						  information. 
+						</p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <p>Push Messaging 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <p>Added push messaging support for recurring scheduling. 
+						</p>
+                  <p> For more information about scheduling recurring push
+						  messages, see 
+						  <xref href="https://marketing.adobe.com/resources/help/en_US/mobile/c_schedule-push-message.html" format="html" scope="external">Schedule: Push Messages</xref>. 
+						</p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <p>Experience Cloud Login 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <p>You can now log in to Mobile using Experience Cloud
+						  authentication. 
+						</p>
+                  <p> For more information about the updated signing in
+						  process, see 
+						  <xref href="https://marketing.adobe.com/resources/help/en_US/mobile/gs_signin.html">Signing
+							 In</xref>. 
+						</p>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <p>
+          <xref href="10262017.xml#recipes" format="dita" scope="local">Top</xref>
+        </p>
+      </section>
+      <section id="section_FD57C8A6E37244E6B3E2AEB0222230A6">
+        <title>Mobile Services SDK</title>
+        <p>
+          <b> Version 4.14.0</b>
+        </p>
+        <p> Release Date: 
+			 <b>October 12, 2017 
+			 </b></p>
+        <table id="table_DFC86C0654594C8A9EFEA9A4DD38E171">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="col1" colwidth="1.00*" />
+            <colspec colnum="2" colname="col2" colwidth="2.37*" />
+            <thead>
+              <row>
+                <entry colname="col1">Android/iOS SDKs 
+					 </entry>
+                <entry colname="col2">Description 
+					 </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry colname="col1">
+                  <p>Target enhancement for previewing experiences 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <p> Use the mobile preview link to perform easy end-to-end QA
+						  for mobile app activities and enroll yourself into different experiences right
+						  on your device without any special test devices. 
+						</p>
+                  <p> See 
+						  <xref href="https://marketing.adobe.com/resources/help/en_US/target/target/target-mobile-preview.html" format="html" scope="external">Target Mobile Preview</xref>. 
+						</p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <p>Target enhancement for allowing pre-fetching of experience
+						  data. 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <p> The Adobe Target prefetch feature uses the Android Mobile
+						  SDKs to fetch offer content as few times as possible by caching the server
+						  responses. 
+						</p>
+                  <p>For more information, see 
+						  <xref href="https://marketing.adobe.com/resources/help/en_US/mobile/android/c_mob_target-prefetch_android.html" format="html" scope="external">Prefetch offer content in Android</xref> and 
+						  <xref href="https://marketing.adobe.com/resources/help/en_US/mobile/ios/c_mob_target-prefetch_ios.html" format="html" scope="external">Prefetch offer content in iOS</xref>. 
+						</p>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="table_6DB2F55C955943EB97DC25C96B6DF526">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="col1" colwidth="1.00*" />
+            <colspec colnum="2" colname="col2" colwidth="2.76*" />
+            <thead>
+              <row>
+                <entry colname="col1">Xamarin SDK plugin 
+					 </entry>
+                <entry colname="col2">Description 
+					 </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry colname="col1">
+                  <p>Version update 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <p>The Xamarin plugin for iOS and Android has been updated to
+						  version 4.13.8. 
+						</p>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <p>See 
+			 <xref href="https://marketing.adobe.com/resources/help/en_US/mobile/" format="https" scope="external">Adobe Mobile Services</xref> for product
+			 documentation. To see the release notes for previous releases, expand 
+			 <i>Previous Release Notes</i> in the left pane. 
+		  </p>
+        <p>
+          <xref href="10262017.xml#recipes" format="dita" scope="local">Top</xref>
+        </p>
+      </section>
+      <section id="dataconnectors">
+        <title>Data Connectors</title>
+        <table id="table_8C80B65BE3054C0B8A64593811E0F129">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="col1" colwidth="1.00*" />
+            <colspec colnum="2" colname="col2" colwidth="1.66*" />
+            <thead>
+              <row>
+                <entry colname="col1">Item 
+					 </entry>
+                <entry colname="col2">Description 
+					 </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry colname="col1">
+                  <p> ExactTarget Data Connector Integration with Adobe
+						  Analytics 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <p> Salesforce recently discontinued the ExactTarget Data
+						  Connector integration. Because of this decision, the ExactTarget wizard is no
+						  longer accessible in the Data Connectors interface for new implementations. 
+						</p>
+                  <p> The ExactTarget integration will continue to be visible
+						  for customers that have previously configured the integration. Existing
+						  implementations will continue to function for an unspecified length of time (to
+						  be determined by Salesforce). If your customers have questions, advise them to
+						  contact their Salesforce/ExactTarget representative. 
+						</p>
+                  <p>
+                    <b> Going forward</b>
+                  </p>
+                  <p> Analytics customers can implement custom integrations for
+						  ExactTarget using standard Analytics features and APIs, including
+						  Classifications, Data Sources, Processing Rules, and Data Warehouse exports.
+						  Engagements with the Adobe consulting team can be considered as needed. 
+						</p>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <p>
+          <xref href="10262017.xml#recipes" format="dita" scope="local">Top</xref>
+        </p>
+      </section>
+    </conbody>
+  </concept>
+  <concept id="analytics">
+    <title>
+      <keyword>Analytics</keyword>
+    </title>
+    <shortdesc>Important notifications, new features, updates, and fixes in 
+		<keyword>Adobe Analytics</keyword>. 
+	 </shortdesc>
+    <conbody>
+      <ul id="ul_B335BDD5F3C24D6AB852BC902DEFCA7D">
+        <li id="li_8E1A1CF3ADA64DD8A3C44D734973B114">
+          <xref href="10262017.xml#analytics/analytics_notices" format="dita" scope="local">Important Notices for Analytic Administrators</xref>
+        </li>
+        <li id="li_C9321B109525469EB173A5896D4A6582">
+          <xref href="10262017.xml#analytics/features_analytics" format="dita" scope="local">Analytics - New Features</xref>
+        </li>
+        <li id="li_4DF8003B64044FB1ABA253D2B7697676">
+          <xref href="10262017.xml#analytics/analytics-interface" format="dita" scope="local">Analytics - Fixes and Updates</xref>
+        </li>
+        <li id="li_D9409642FA554A6F9B0C498A43D2A578">
+          <xref href="10262017.xml#analytics/analytics-implement" format="dita" scope="local">Analytics - Administration, Implementation, Developer</xref>
+        </li>
+      </ul>
+      <section id="analytics_notices">
+        <title>Important Notices for Analytics Administrators</title>
+        <note type="important">Review the following table for important
+			 Analytics notices that may affect data collection, processing, APIs, product
+			 end-of-life, and so on. 
+		  </note>
+        <table id="table_1207853963C64C5E95E85E9B34B6FCFE">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="col1" colwidth="1.00*" />
+            <colspec colname="col02" colnum="2" colwidth="1.10*" />
+            <colspec colnum="3" colname="col2" colwidth="3.25*" />
+            <thead>
+              <row>
+                <entry colname="col1">Notice 
+					 </entry>
+                <entry colname="col02">Date Added or Updated 
+					 </entry>
+                <entry colname="col2">Description 
+					 </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry colname="col1">
+                  <p>User account linking 
+						</p>
+                </entry>
+                <entry colname="col02">
+                  <p>October 26, 2017 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <p>Analytics users no longer need to manually link their
+						  accounts between the Experience Cloud and Analytics. Users can contact their 
+						  <xref href="https://helpx.adobe.com/enterprise/help/aedash.html" format="html" scope="external">Admin Console</xref> administrator to request Analytics
+						  access. <!--<xref href="https://jira.corp.adobe.com/browse/CORE-5526">https://jira.corp.adobe.com/browse/CORE-5526</xref>--></p>
+                  <p>
+                    <xref href="https://marketing.adobe.com/resources/help/en_US/experience-cloud/admin-console/analytics-migration/" format="https" scope="external"> Learn more about the Analytics User ID
+							 Migration</xref>. 
+						</p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <p>User ID Migration to the Admin Console 
+						</p>
+                </entry>
+                <entry colname="col02">
+                  <p>September 21, 2017 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <p>The Analytics user ID migration enables administrators to
+						  easily migrate user accounts from Analytics User Management to the Adobe Admin
+						  Console. After your users are migrated, they will have access to the solutions
+						  and core services available in the Experience Cloud. The migration is being
+						  rolled out to customers in phases beginning later this month. 
+						</p>
+                  <p>
+                    <xref href="https://marketing.adobe.com/resources/help/en_US/experience-cloud/admin-console/analytics-migration/" format="https" scope="external"> Learn more about the Analytics User ID
+							 Migration</xref>. 
+						</p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <p> Notice for API Methods affected by the migration to the
+						  Admin Console. 
+						</p>
+                </entry>
+                <entry colname="col02">
+                  <p>September 21, 2017 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <p> Adobe will phase out the 
+						  <codeph>Permissions</codeph> and 
+						  <codeph>Company.GetLoginKey</codeph> API methods as part of
+						  our effort to migrate user access and management to the Admin Console. 
+						</p>
+                  <p> All Analytics companies that currently use these methods
+						  will receive a pre-migration notification beginning 
+						  <b>March 31, 2018</b>. After receiving this notification,
+						  administrators will have 30 days before their migration starts, and these
+						  methods will cease to work for your company. 
+						</p>
+                  <p> To prepare for this event, view the list of affected
+						  APIs, and learn what Adobe recommends, see 
+						  <xref href="https://marketing.adobe.com/developer/documentation/analytics-administration-1-4/admin-api" format="https" scope="external">Analytics Administration API 1.4</xref>. 
+						</p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <p>Ad Hoc Analysis 
+						</p>
+                </entry>
+                <entry colname="col02">
+                  <p>September 21, 2017 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <p>As of May 2018, Ad Hoc Analysis will support only Java 8
+						  or higher. If you choose to run Ad Hoc Analysis on Java 7 after the May 2018
+						  Maintenance Release, Adobe will no longer support your Ad Hoc Analysis
+						  implementation. 
+						</p>
+                  <p>Our .jar files are signed with a secure 256-bit encryption
+						  that is not supported by Java versions less than 1.7.0_76. This 256-bit
+						  certificate allows us to serve you with enhanced security. 
+						</p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <p>Bot Rules 
+						</p>
+                </entry>
+                <entry colname="col02">
+                  <p>Sept. 21, 2017 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <p>We recommend defining no more than 500 bot rules per
+						  report suite. 
+						</p>
+                  <p>The user interface allows for 500 rules to be manually
+						  defined. After this limit is reached, rules need to be managed in bulk through
+						  the 
+						  <xref href="https://marketing.adobe.com/resources/help/en_US/reference/t_upload_bot_rules.html" format="html" scope="external">Import File</xref> and Export Bot Rules options.
+						  
+						</p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <p>Calendar Events: Displaying top 20 most recent events 
+						</p>
+                </entry>
+                <entry colname="col02">
+                  <p>September 21, 2017 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <p>To ensure optimal reporting performance, the 20 most
+						  recent calendar events will be displayed on trended and overtime graphs. 
+						</p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <p>geo_zip 
+						</p>
+                </entry>
+                <entry colname="col02">
+                  <p> August 23, 2017 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <p> As of August 22, Adobe Analytics started determining
+						  geo_zip on all hits received during data collection. This update increases data
+						  accuracy, particularly for mobile devices. Previously, the geo_zip was set once
+						  per visit. Now, geo_zip can correctly change during the course of a visitor's
+						  visit. The geo_zip field is not used in reporting, but surfaces in Data Feeds. 
+						</p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <p>Geo Segmentation 
+						</p>
+                </entry>
+                <entry colname="col02">
+                  <p> August 21, 2017 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <p> On August 22, Adobe Analytics enabled 
+						  <xref href="https://marketing.adobe.com/resources/help/en_US/reference/reports_geosegmentation.html" format="html" scope="external">Geo Segmentation</xref> reports for all
+						  customers. This change is in anticipation of the upcoming removal of the geo
+						  segmentation settings in the Admin Console. 
+						</p>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="features_analytics">
+        <title>New Features in Adobe Analytics</title>
+        <p>New features released in Adobe Analytics. 
+		  </p>
+        <p>Release date: 
+			 <b>October 26, 2017</b></p>
+        <table id="table_0BD033AB0345499CB3A8758E7A3BC715">
+          <tgroup cols="3">
+            <colspec colnum="1" colname="col1" colwidth="1.00*" />
+            <colspec colnum="2" colname="col2" colwidth="1.43*" />
+            <colspec colnum="3" colname="col3" colwidth="3.33*" />
+            <thead>
+              <row>
+                <entry colname="col1">Product 
+					 </entry>
+                <entry colname="col2">Feature Name 
+					 </entry>
+                <entry colname="col3">Description 
+					 </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row valign="top">
+                <entry colname="col1">
+                  <p>Adobe Analytics 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <p>Audience Analytics 
+						</p>
+                </entry>
+                <entry colname="col3">
+                  <p>This enhanced integration between Audience Manager (AAM)
+						  and Analytics lets you bring your AAM segments into Analytics in real time. You
+						  can now combine your acquired and owned data sets in AAM with your user
+						  behavioral data in Analytics. 
+						</p>
+                  <p>
+                    <xref href="https://marketing.adobe.com/resources/help/en_US/analytics/audiences/index.html" format="html" scope="external">More...</xref>
+                  </p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1"></entry>
+                <entry colname="col2">
+                  <p>Server-Side Forwarding Improvements 
+						</p>
+                </entry>
+                <entry colname="col3">
+                  <p>This new Analytics Admin configuration lets you configure
+						  Server-Side Forwarding yourself, at the report suite level. You no longer need
+						  to call Adobe Customer Care to set it up. 
+						</p>
+                  <p>
+                    <xref href="https://marketing.adobe.com/resources/help/en_US/reference/ssf.html" format="html" scope="external">More... 
+						  </xref>
+                  </p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1"></entry>
+                <entry colname="col2">
+                  <p>VRS Context-Aware Sessions: Report Time Processing 
+						</p>
+                </entry>
+                <entry colname="col3">
+                  <p>Report Time Processing is a virtual report suite setting
+						  that allows data to be processed in a non-destructive, retroactive fashion.
+						  Available in Analysis Workspace only. 
+						</p>
+                  <p>
+                    <xref href="https://marketing.adobe.com/resources/help/en_US/reference/vrs-mobile-visit-processing.html" format="html" scope="external">More...</xref>
+                  </p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1"></entry>
+                <entry colname="col2">
+                  <p>VRS Context-Aware Sessions: Component Curation 
+						</p>
+                </entry>
+                <entry colname="col3">
+                  <p>Virtual Report Suites can be curated to include and
+						  exclude components.in Analysis Workspace. 
+						</p>
+                  <p>
+                    <note>If component customization is enabled, the Virtual
+							 Report Suite is accessible only in Analysis Workspace and is not accessible in
+							 the following: 
+						  </note>
+                  </p>
+                  <p>
+                    <ul id="ul_10EA2C4D95EE48E9B5D0B8F22C45567C">
+                      <li id="li_BB157305BB914654A5CD6B4E022BF1AF">Reports &amp;
+							 Analytics 
+						  </li>
+                      <li id="li_692654956CBF43DABD10BD302CE21CB7">Ad Hoc
+							 Analysis 
+						  </li>
+                      <li id="li_DD67DF74A33A46E696B5B535B5CA02A8">Data Warehouse
+							 
+						  </li>
+                      <li id="li_3A99F97A804246C8BAAF3A10383156F9">Report Builder
+							 
+						  </li>
+                      <li id="li_675B9AF70F5C41CD8EFF9CFAA7929B47">The reporting
+							 API 
+						  </li>
+                    </ul>
+                  </p>
+                  <p>
+                    <xref href="https://marketing.adobe.com/resources/help/en_US/reference/vrs-components.html" format="html" scope="external">More...</xref>
+                  </p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1"></entry>
+                <entry colname="col2">
+                  <p>Contribution Analysis Tokens 
+						</p>
+                </entry>
+                <entry colname="col3">
+                  <p>All customers with Analysis Workspace entitlement can now
+						  run full Contribution Analysis a limited number of times per month. Companies
+						  that did not previously have unlimited access to CA are no longer limited to
+						  three dimensions per run in Analysis Workspace. 
+						</p>
+                  <ul id="ul_E2F3CB33778140AFB1DCF8F043E31250">
+                    <li id="li_4947BBED7F7B4B9C9FF15870EE36EF21">The number of
+							 runs per company is limited by monthly tokens, granted based on the Analytics
+							 product your company purchased. 
+						  </li>
+                    <li id="li_03E7735DB5054EF9B6D05152E3129B12">You can
+							 restrict Contribution Analysis access to avoid token misuse. 
+						  </li>
+                  </ul>
+                  <p>
+                    <xref href="https://marketing.adobe.com/resources/help/en_US/analytics/contribution/ca_main.html" format="html" scope="external">More...</xref>
+                  </p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1"></entry>
+                <entry colname="col2">
+                  <p>Admin Group Permissions (September 21, 2017) 
+						</p>
+                </entry>
+                <entry colname="col3">
+                  <p>On September 21, 2017, the following permissions were
+						  consolidated into a single 'Classifications' permission in support of a new
+						  classification experience slated for next year: 'Traffic Classifications',
+						  'Video Classifications', 'Conversion Classifications', 'Classification
+						  Hierarchies', 'Classifications Manager' and 'Classifications Importer/Exporter
+						  &amp; Rule Builder'. Any user who had any of these permissions before the
+						  September Maintenance Release now has the new permission. 
+						</p>
+                  <p>More information will be forthcoming about the new
+						  Classifications experience once it is closer to release. 
+						</p>
+                  <p>
+                    <xref href="https://marketing.adobe.com/resources/help/en_US/reference/groups-report-suite-tools.html" format="html" scope="external">More...</xref>
+                  </p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <p>Analysis Workspace 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <p>Map Visualization 
+						</p>
+                </entry>
+                <entry colname="col3">
+                  <p>The new Map Visualization in Analysis Workspace lets you
+						  easily view your customer interactions within the context of their location.
+						  From a macro (global) view to a micro (city) view, you can easily zoom in and
+						  out of various hierarchy levels in the visualization to see clusters of users
+						  across regions. 
+						</p>
+                  <p>You can visualize location data via IP address (for
+						  non-mobile data sets) or you can bring latitude and longitude data (for
+						  customers using the Mobile SDK) to life in Analysis Workspace.  
+						</p>
+                  <p>
+                    <xref href="https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/map-visualization.html" format="html" scope="external">More... 
+						  </xref>
+                  </p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1"></entry>
+                <entry colname="col2">
+                  <p>Granularity selector for trended visualizations 
+						</p>
+                </entry>
+                <entry colname="col3">
+                  <p>You can now easily toggle between time granularities when
+						  the dimension in the data source is a time dimension. You can switch
+						  granularities from a drop-down in the visualization settings. 
+						</p>
+                  <p>
+                    <xref href="https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/line.html" format="html" scope="external">More... 
+						  </xref>
+                  </p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1"></entry>
+                <entry colname="col2">
+                  <p>Full dimensions &amp; events in segment drop zone 
+						</p>
+                </entry>
+                <entry colname="col3">
+                  <p>Previously, you could drop only dimension items, date
+						  ranges, or segments into segment drop zones. You can now drop a full dimension
+						  or event into the segment drop zone. In both cases, Analysis Workspace will
+						  create "exists" hit segments. 
+						</p>
+                  <p>Examples: "Hit where eVar1 exists" or "Hit where event1
+						  exists". 
+						</p>
+                  <note>You cannot drop calculated metrics into a segment zone.
+						  Only those dimensions/metrics that you can build segments for will qualify for
+						  the segment zone. 
+						</note>
+                  <p>
+                    <xref href="https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/t_freeform-project-segment.html" format="html" scope="external">More...</xref>
+                  </p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1"></entry>
+                <entry colname="col2">
+                  <p>Connected visualizations listed in Data Source Settings 
+						</p>
+                </entry>
+                <entry colname="col3">
+                  <p>If there are visualizations connected to a freeform or
+						  cohort table, the top left dot (Data Source Settings) will now list the
+						  connected visualizations. Hovering will highlight the linked visualization, and
+						  clicking it will take you to it. 
+						</p>
+                  <p>In addition, there is a "Show/Hide Data Table" checkbox
+						  that lets you show or hide the data table. 
+						</p>
+                  <p>
+                    <xref href="https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/t_sync_visualization.html" format="html" scope="external"> More... 
+						  </xref>
+                  </p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1"></entry>
+                <entry colname="col2">
+                  <p> Event# added to left-rail event names 
+						</p>
+                </entry>
+                <entry colname="col3">
+                  <p>Prior to October 2017, evar# and prop# were appended to
+						  the dimension names, and you could search on those numbers. The same
+						  functionality is now available for events. 
+						</p>
+                  <p>Example: "Subscriptions" now shows up in the left rail as
+						  "Subscriptions (event1)". 
+						</p>
+                  <p>Keep in mind: 
+						</p>
+                  <ul id="ul_5DF85C65F7004539949DDC4F23922296">
+                    <li id="li_A685834B4914460D87568583BB39C474">The event
+							 number does not show in the table (to keep the titles short). 
+						  </li>
+                    <li id="li_D742D04470244633900335B7F5A79FD9">For
+							 consistency, props and eVars no longer show their numbers within tables. 
+						  </li>
+                  </ul>
+                  <p>
+                    <xref href="https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/t_freeform_project.html" format="html" scope="external">More...</xref>
+                  </p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1"></entry>
+                <entry colname="col2">
+                  <p>Out-of-the-box dimensions sorted in logical order by
+						  default 
+						</p>
+                </entry>
+                <entry colname="col3">
+                  <p>The default sort order for some out-of-the-box dimensions
+						  has been updated in these cases: 
+						</p>
+                  <ul id="ul_B9C0C761F39E43A4977EC028F4D4525C">
+                    <li id="li_FE72ADDCD32A4FF7907462726D6E7758">When they are
+							 dragged into a freeform table. 
+						  </li>
+                    <li id="li_5D78DD0DCB7347AC85E260F53109010C">When they are
+							 viewed in the left rail. 
+						  </li>
+                  </ul>
+                  <p>For example, if "Hour of Day" is dropped into a table, it
+						  will be sorted from 12AM-11PM. You still have the option to sort by any metric
+						  column. 
+						</p>
+                  <p>
+                    <xref href="https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/t_freeform_project.html" format="html" scope="external">More... 
+						  </xref>
+                  </p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1"></entry>
+                <entry colname="col2">
+                  <p>Option to allow confidence interval from re-scaling a
+						  chart 
+						</p>
+                </entry>
+                <entry colname="col3">
+                  <p>The Anomaly Detection Confidence interval does not
+						  automatically scale the y-axis of a visualization to potentially make the chart
+						  more legible. 
+						</p>
+                  <p>You now have the option to allow the confidence interval
+						  to scale the chart. 
+						</p>
+                  <p>
+                    <xref href="https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/view-anomalies-line-chart.html" format="html" scope="external">More...</xref>
+                  </p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1"></entry>
+                <entry colname="col2">
+                  <p>Alerts: Added 
+						  <b>Renew</b> Option 
+						</p>
+                </entry>
+                <entry colname="col3">
+                  <p>In the Alert Manager, when one or more alerts are
+						  selected, they can be renewed by clicking 
+						  <uicontrol>Renew</uicontrol>. 
+						</p>
+                  <p>This extends their expiration dates to be 1 year from the
+						  day 
+						  <uicontrol>Renew</uicontrol> was clicked, regardless of
+						  their original expiration date. 
+						</p>
+                  <p>
+                    <xref href="https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/alert-manager.html" format="html" scope="external">More...</xref>
+                  </p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1"></entry>
+                <entry colname="col2">
+                  <p>UI Improvements 
+						</p>
+                </entry>
+                <entry colname="col3">
+                  <ul id="ul_645B43AC6F554353B887DD58F0AA86E8">
+                    <li id="li_05B16A84008E4DA3A5DE91AF3C942D55">Blank panel:
+							 We now start out by highlighting all the visualizations you can add to the
+							 panel, such as Map, Fallout, Flow, Histogram, Cohort, and Venn. You have the
+							 option to save this panel as your default project starting state. 
+						  </li>
+                    <li id="li_9F1ED138DB0E453DA6BD4B4A512492CC">New left rail
+							 styling make Panels, Visualizations, and Components on the left rail more
+							 visible and usable. 
+						  </li>
+                    <li id="li_5DF6177F0EFD4D4D9D432768DEA3F37D">Freeform
+							 table: Blank freeform tables will now show an animated GIF that demonstrates
+							 the drag-and-drop paradigm of Analysis Workspace. 
+						  </li>
+                  </ul>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">Report Builder 5.6 
+					 </entry>
+                <entry colname="col2"></entry>
+                <entry colname="col3"></entry>
+              </row>
+              <row>
+                <entry colname="col1"></entry>
+                <entry colname="col2">
+                  <p>
+                    <b>Edit Metrics Across Multiple Requests</b>
+                  </p>
+                </entry>
+                <entry colname="col3">
+                  <p>The Edit Metrics Across Multiple Requests feature lets you
+						  easily add, remove, or replace metrics in a pre-existing request or across a
+						  group of requests. 
+						</p>
+                  <p>
+                    <xref href="https://marketing.adobe.com/resources/help/en_US/arb/edit_multiple_metrics.html" format="html" scope="external">More...</xref>
+                  </p>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="analytics-interface">
+        <title>Analytics - Fixes and Updates</title>
+        <p>Fixes and minor updates applied to Adobe Analytics interface tools
+			 and components (Analysis Workspace, Reports &amp; Analytics, Report Builder,
+			 and so on). 
+		  </p>
+        <p>Release date: 
+			 <b>October 26, 2017</b></p>
+        <table id="table_9F68BA7B57C44C7B9A4D33DCF4F3E6D7">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="col1" colwidth="1.00*" />
+            <colspec colnum="2" colname="col2" colwidth="2.43*" />
+            <thead>
+              <row>
+                <entry colname="col1">Product 
+					 </entry>
+                <entry colname="col2">Fix or Update 
+					 </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry colname="col1">
+                  <p>Analysis Workspace 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <ul id="ul_1D06445881C64A6FA3CDB76684E24938">
+                    <li id="li_C14A3042C4924B1F9F8395619C2CDB1D">Fixed an issue
+							 with the Scatterplot visualization showing different data than the table from
+							 which it is created. (AN-151217, AN-150983, AN-150699, AN-150374) 
+						  </li>
+                    <li id="li_AA251C68D57F4DE5A092F31E58C67E6B">Fixed an issue
+							 that occurred when dropping a dimension on columns of a freeform table where
+							 panel segment(s) should have been applied. The segments were not applied to the
+							 table. (AN-150895) 
+						  </li>
+                    <li id="li_70D24B2BDD394D82B6BE19A691B300A3">Fixed an issue
+							 with incorrect Approximate Count Distinct values towards the end of a date
+							 range. (AN-150716, AN-149718, AN-149395, AN-149380, AN-148184) 
+						  </li>
+                    <li id="li_244E6EE439AC4797A35857D17212C122">Fixed an issue
+							 with the Histogram tool tip not updating after Histogram settings were changed.
+							 (AN-150369) 
+						  </li>
+                    <li id="li_38D7EC3CD9F442ADB01BD2FCF37A022D">Fixed a
+							 “Resource not found” issue that was traced to customer links with shortened
+							 URLs. (AN-150332) 
+						  </li>
+                    <li id="li_CAFFC2D4793345E0A8F3125DD8FE2B36">Fixed an issue
+							 with saved projects that have locked selections on breakdowns not showing data.
+							 (AN-149895) 
+						  </li>
+                    <li id="li_EA0F3BC55DEA450FB755D668870AF78D">Fixed an issue
+							 with the Y axis in Anomaly Detection not adjusting to show readable data. As a
+							 result, you now have the option to allow Anomaly Detection to scale the Y axis.
+							 (AN-149741, AN-145872) 
+						  </li>
+                    <li id="li_63989EAD8B2C42C79613A6ECF33ABEEC">Fixed an issue
+							 that prevented the editing of calculated metrics from the Workspace metric
+							 section in the left rail. (AN-149653) 
+						  </li>
+                    <li id="li_3CE0FCCA17E942FCA0A416DD73EDAE36">Fixed an issue
+							 that resulted in only the first page of a scheduled project getting delivered.
+							 The pages were not saved properly if a segment was applied to the panel.
+							 (AN-149430) 
+						  </li>
+                    <li id="li_E5243E8E4D65499583F7126BA60F27FC">Fixed an issue
+							 that resulted in repeated “Segment returning too many results” errors.
+							 (AN-148055) 
+						  </li>
+                    <li id="li_03827E7A84E7474CAD1823315186E76B">Fixed an
+							 “Incompatible report suites” error that occurred when the list of curated
+							 components for a project contained classification dimensions that had been
+							 deleted from the database. Going forward, we will show the error only if the
+							 dimension/metric is actually used in the project's reports/visualizations.
+							 (AN-146787) 
+						  </li>
+                    <li id="li_755A3D1BA83440B19D685F4A0C6BA143">Fixed an issue
+							 that caused a scheduled project to fail whenever a change was made to the
+							 schedule. (AN-143415) 
+						  </li>
+                    <li id="li_5225EB0CCD9249C6AFA68BA55B974B47">Fixed an issue
+							 with Flow visualizations not rendering properly in PDFs, in some cases.
+							 (AN-145061) 
+						  </li>
+                    <li id="li_2900B44213DA45D5B5CB0D791D401C33">Fixed an issue
+							 that, when entering text into the search bar, caused the screen to flicker and
+							 prevented users from using the scroll bar. (AN-151804) 
+						  </li>
+                    <li id="li_B39E68978715439AA61070FF5EE46BB9">Fixed an issue
+							 that caused characters in multi-byte .CSV reports (generated in Workspace) to
+							 be garbled in MS Excel. (AN-145981) 
+						  </li>
+                  </ul>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <p>Other Analytics Issues 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <ul id="ul_0D2C3AD0445849A2B152AA682FFBBB39">
+                    <li id="li_7100393A9F0D42529EA2A94BBD7AF4AA">
+                      <b>Alerts: 
+							 </b>Fixed an issue with alerts that resulted in a
+							 rewording of the alert-firing message to say that the values must be above<i>
+								or equal to</i> the value the customer entered. (AN-149299) 
+						  </li>
+                    <li id="li_328598A02FA8451AB3B68B73F3E610A1">
+                      <b>Alerts:</b>
+							 Fixed an issue that occurred when transferring alerts to a new owner; we now
+							 transfer the alert as well as the recipient list to that new owner. (AN-148934)
+							 
+						  </li>
+                    <li id="li_ADA8DCA899C24807B1AB4F40A5DEB073">
+                      <b>Alert
+								Builder</b>: Fixed an alert triggering issue that resulted in negative numbers
+							 no longer being allowed in the alert definition. (AN-148856) 
+						  </li>
+                    <li id="li_DD1356B406E94C40B8AC527AF1F086DA">
+                      <b>Reports
+								&amp; Analytics</b>: Fixed an issue that resulted in a redirect of the shortcut
+							 report link to the Analytics report when logging in via Marketing Cloud.
+							 (AN-144794) 
+						  </li>
+                    <li id="li_3555FC5E04D8489F9567A8364D262F58">
+                      <b>Reports
+								&amp; Analytics</b>: Fixed an issue that caused problems calculating the
+							 1-year-prior date when leap years were involved. (AN-143868) 
+						  </li>
+                    <li id="li_2734B9368E004FFAA056C905B48BDE6C">
+                      <b>Reports
+								&amp; Analytics</b>: Fixed an issue where expanding the number of line items in
+							 a breakdown report caused an error to be thrown. (AN-150527) 
+						  </li>
+                    <li id="li_572419ECB74946328891CDAF799E92C8">
+                      <b>Reports
+								&amp; Analytics</b>: Fixed an issue that prevented map data from being shown in
+							 the US States report. (AN-150636) 
+						  </li>
+                    <li id="li_C96E98052BE946E0862EB914D76641C0">
+                      <b>Reports
+								&amp; Analytics</b>: Fixed an issue with Calendar Date rendering in Safari and
+							 Chrome browsers on OSX. (AN-151099) 
+						  </li>
+                    <li id="li_9421C7ED67CC4E39AD78A7736695DDF2">
+                      <b>Virtual
+								Report Suites</b>: Fixed an issue with the Virtual Report Suite builder not
+							 correctly reflecting the parent Report Suite in component previews. (AN-134388)
+							 
+						  </li>
+                  </ul>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <p>
+          <xref href="10262017.xml#recipes" format="dita" scope="local">Top</xref>
+        </p>
+      </section>
+      <section id="analytics-implement">
+        <title>Analytics - Administration, Data Collection,
+			 Implementation</title>
+        <p>Fixes and updates applied to Analytics administration tools,
+			 including implementation and developer (Web Services and SDKs). 
+		  </p>
+        <p>Release date: 
+			 <b>October 26, 2017</b></p>
+        <table id="table_EB8261E817054C2F8B17C09D16DB3412">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="col1" colwidth="1.00*" />
+            <colspec colnum="2" colname="col2" colwidth="2.43*" />
+            <thead>
+              <row>
+                <entry colname="col1">Product / Feature 
+					 </entry>
+                <entry colname="col2">Update 
+					 </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry colname="col1">
+                  <p>Analytics administration 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <ul id="ul_676297EE646940C8A893F0A41621E303">
+                    <li id="li_C47ECE278A684A05AF56BBA5A5F9A22D"> Fixed an
+							 issue that occurred when users with Analytics accounts were invited to the
+							 Experience Cloud. Before users accepted the invite and provided their first and
+							 last names, these values displayed as UD (undefined) in Analytics. Now,
+							 Analytics will display their email address until they accept the invite.
+							 (AN-150866) 
+						  </li>
+                    <li id="li_0B5457EDECD0414E898D0C5FA46C5A5A"> Fixed an
+							 issue that prevented Admins from adding users to the Activity Map Reporting
+							 group, because the group had disappeared in the user interface.(AN-150587) 
+						  </li>
+                    <li id="li_8F67D7675E1B42EC8F7613C46DD102EE"> Fixed a
+							 permissions issue with correlations reports. All users now have access to
+							 correlation reports, so permissions no longer need to be set. (AN-150756) 
+						  </li>
+                  </ul>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <p>Web Services: Admin API 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <p>Fixed an issue that caused data to become corrupt due to
+						  multibyte character string encoding of authorization data. This issue prevented
+						  re-authentication. (AN-150296) 
+						</p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <p>Web Services: Reporting API 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <p>Fixed an issue that caused a Restricted Permission Error
+						  in Report Builder. (AN-147915) 
+						</p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <p>Web Services: 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <p>Fixed an issue where customers requesting only metrics for
+						  a single day returned error. (AN-149090) 
+						</p>
+                </entry>
+              </row>
+              <row>
+                <entry colname="col1">
+                  <p>Data Warehouse 
+						</p>
+                </entry>
+                <entry colname="col2">
+                  <p> Hourly Data Warehouse reports are no longer created for
+						  the wrong hour under certain daylight savings conditions. (AN-140128) 
+						</p>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </conbody>
+  </concept>
+  <concept id="aam">
+    <title>Audience Manager</title>
+    <shortdesc>New features and fixes in 
+		<keyword>Adobe Audience Manager</keyword>. 
+	 </shortdesc>
+    <conbody>
+      <p>
+        <table id="table_A6749BA62D5B40479B949EA1C64E4B7F">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="col1" colwidth="1.00*" />
+            <colspec colnum="2" colname="col2" colwidth="2.06*" />
+            <thead>
+              <row>
+                <entry colname="col1">Feature 
+				  </entry>
+                <entry colname="col2">Description 
+				  </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry colname="col1">
+                  <p>Audience Analytics 
+					 </p>
+                </entry>
+                <entry colname="col2">
+                  <p>Audience Analytics lets you send Audience Manager segments
+						to Analytics. To use this feature, you 
+						<xref href="https://marketing.adobe.com/resources/help/en_US/aam/create-analytics-destination.html" format="https" scope="external">create an Analytics destination</xref> and map
+						segments to it in Audience Manager. 
+					 </p>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </p>
+      <p>
+        <b>Fixes, Enhancements, and Deprecations</b>
+      </p>
+      <ul id="ul_05D01271A95C450691D85FE5B81B5E4A">
+        <li id="li_C12B8E410C6F4C46AD55179A52DA66FC">
+          <p>Fixed a bug in Algorithmic Modeling where, for multiple customers,
+				algorithmic traits created or modified after August 23rd weren't qualifying the
+				expected number of profiles for the trait. (AAM-32586) 
+			 </p>
+        </li>
+        <li id="li_CA845C4244544315AE740497AB83DFD7">
+          <p>Fixed a performance issue where parts of the UI were slow to
+				respond for companies with a large number of data sources. (AAM-32747) 
+			 </p>
+        </li>
+        <li id="li_8BB459D688D242FD8CD7869FC22909B6">
+          <p>Fixed a bug where a 3rd party traits folder was not being
+				automatically created for a company if the corresponding data source was
+				created before the company was marked as Data Provider. (AAM-32176) 
+			 </p>
+        </li>
+        <li id="li_421974FFC39B4EF29D3776C944C25FAF">
+          <p>Fixed a bug that appeared when creating or editing a cookie
+				destination. In the "Configuration" panel, the "Publish data to" field allows
+				you to type in a domain name and add it to a list of domains when either "Only
+				the selected domains" or "All of our domains except the selected domains" is
+				selected. The "Add" button next to this text field did not actually add the
+				typed-in domain to the list. (AAM-32679) 
+			 </p>
+        </li>
+      </ul>
+      <p>
+        <b>New Documentation</b>
+      </p>
+      <p>
+        <ul id="ul_79F33CFA04C848C0A5353749AFBB88E8">
+          <li id="li_4223E00ECB2A44BB9E2168665916DD5E">
+            <p> You can work with our DCS APIs by using GET or POST methods. 
+				<xref href="https://marketing.adobe.com/resources/help/en_US/aam/dcs-api-methods.html" format="https" scope="external">DCS API methods</xref> describes the syntax you
+				must use, in each case. 
+			 </p>
+          </li>
+        </ul>
+      </p>
+    </conbody>
+  </concept>
+  <!--<concept id="social"> 
+	 <title><keyword>Social</keyword></title> 
+	 <shortdesc>New features and fixes in the 
+		<keyword>Adobe Social</keyword>. 
+	 </shortdesc> 
+	 <conbody> 
+		<table id="table_3CA51E873E324FD4B7CF14190F127A77"> 
+		  <tgroup cols="2"> 
+			 <colspec colnum="1" colname="col1" colwidth="1.00*"/> 
+			 <colspec colnum="2" colname="col2" colwidth="2.79*"/> 
+			 <thead> 
+				<row> 
+				  <entry colname="col1">Feature 
+				  </entry> 
+				  <entry colname="col2">Description 
+				  </entry> 
+				</row> 
+			 </thead> 
+			 <tbody> 
+				<row valign="top"> 
+				  <entry colname="col1"> 
+				  </entry> 
+				  <entry colname="col2"> 
+				  </entry> 
+				</row> 
+				<row valign="top"> 
+				  <entry colname="col1"> 
+				  </entry> 
+				  <entry colname="col2"> 
+				  </entry> 
+				</row> 
+				<row valign="top"> 
+				  <entry colname="col1"> 
+				  </entry> 
+				  <entry colname="col2"> 
+				  </entry> 
+				</row> 
+				<row valign="top"> 
+				  <entry colname="col1"> 
+				  </entry> 
+				  <entry colname="col2"> 
+				  </entry> 
+				</row> 
+				<row valign="top"> 
+				  <entry colname="col1"> 
+				  </entry> 
+				  <entry colname="col2"> 
+				  </entry> 
+				</row> 
+			 </tbody> 
+		  </tgroup> 
+		</table> 
+		<p> 
+		  <b>Fixes, Enhancements, and Deprecations</b> 
+		</p> 
+		<ul id="ul_D45675F8F1E348F2ADF132A0373EA58C"> 
+		  <li id="li_4FC0E49A54F843738B2B7B654EAEFA34"><?xm-replace_text List Item?>
+		  </li> 
+		</ul> 
+		<p> 
+		  <xref href="10262017.xml#recipes" format="dita" scope="local">Top</xref> 
+		</p> 
+	 </conbody> 
+  </concept>-->
+  <concept id="target">
+    <title>
+      <keyword>Target</keyword>
+    </title>
+    <conbody>
+      <p>Refer to the 
+		  <xref href="https://marketing.adobe.com/resources/help/en_US/target/rn/" format="https" scope="external">Adobe Target Release Notes</xref> for the
+		  latest release information about the following products: 
+		</p>
+      <ul id="ul_E4874BF45DB34596A97456C8D72D89E5">
+        <li id="li_466298F8094945E6B86307C7F440BC96">Target Standard and
+			 Premium 
+		  </li>
+        <li id="li_FD54CDEBFE00493987DD4964E6201B02">Target Classic 
+		  </li>
+        <li id="li_8E8A071E51D840DE9F302FAD28ED56C9">Recommendations Classic 
+		  </li>
+      </ul>
+      <!--<section id="section_D28F5C0158D64702896CF29E3887E42A"> 
+		  <title><keyword>Search&amp;Promote</keyword></title> 
+		  <note>Links from Adobe Analytics to all Adobe point products, including
+			 Search &amp; Promote, have been removed from navigation. Users of these tools
+			 can log in either via Marketing Cloud (where supported) or directly. To log in
+			 to Search &amp; Promote, use this link: 
+			 <xref href="https://center.atomz.com/center/" format="https" scope="external">https://center.atomz.com/center/</xref>. 
+		  </note> 
+		  <p><b>Fixes</b> 
+		  </p> 
+		  <ul id="ul_225347EC67AF48309C052A8DF8FAB8AE"> 
+			 <li id="li_DF303724C0B44C7EB4C43E3C509F1492"><?xm-replace_text List Item?>
+			 </li> 
+		  </ul> 
+		  <p> 
+			 <xref href="10262017.xml#recipes" format="dita" scope="local">Top</xref> 
+		  </p> 
+		</section>-->
+    </conbody>
+  </concept>
+  <concept id="primetime">
+    <title>Primetime</title>
+    <shortdesc>
+      <?xm-replace_text Short Description?>
+    </shortdesc>
+    <conbody>
+      <p> Adobe Primetime is a multiscreen TV platform that helps media
+		  companies create and monetize engaging, personalized viewing experiences. 
+		</p>
+      <p>
+        <xref href="http://help.adobe.com/en_US/primetime/release_notes/index.html" format="html" scope="external">Primetime Release Notes</xref>
+      </p>
+      <p>
+        <xref href="http://help.adobe.com/en_US/primetime/" format="http" scope="external">Primetime Help Home</xref>
+      </p>
+    </conbody>
+  </concept>
+  <concept id="campaign">
+    <title>
+      <keyword>Campaign</keyword>
+    </title>
+    <shortdesc></shortdesc>
+    <conbody>
+      <p>
+        <keyword>Adobe Campaign</keyword> provides an intuitive, automated way
+		  to deliver one-to-one messages across online and offline marketing channels.
+		  You can now anticipate what your clients want using experiences determined by
+		  their habits and preferences. 
+		</p>
+      <p>
+        <b>Adobe Campaign Standard - Releasing October 30, 2017</b>
+      </p>
+      <table id="table_9442768B2D644605BBC7D24476C1A127">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1" colwidth="1.00*" />
+          <colspec colnum="2" colname="col2" colwidth="2.58*" />
+          <thead>
+            <row>
+              <entry colname="col1">Feature 
+				  </entry>
+              <entry colname="col2">Description 
+				  </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">
+                <p>Fatigue Management 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p>Fatigue Management allows you to create fatigue rules to
+						manage over communication with profiles. Fatigue rules are easily built, but
+						are extremely flexible with capabilities such as counting messages across
+						multiple channels (including transactional messages), only counting specific
+						deliveries, or applying rules to specific profiles. 
+					 </p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <p>Import from a URL 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p>Import from a URL enables you to quickly retrieve your
+						creative content from a website to build emails for any delivery. Additionally,
+						you can streamline your creative process by enabling third parties to share
+						content directly through a URL. Imported content can be flexibly used as part
+						of a single delivery or at the template level ensuring brand consistency for
+						all related campaigns whether they be workflow-based or transactional messages,
+						and include A/B or multivariate testing. Import from a URL automatically
+						converts and tracks all links to monitor email performance through Dynamic
+						Reporting. 
+					 </p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>Product documentation is available at 
+		  <xref href="https://docs.adobe.com/docs/en/campaign/ACS.html" format="html" scope="external">Adobe Campaign Standard Documentation</xref>. 
+		</p>
+      <ul id="ul_6839785A4978449ABE48FC1B6DD2A7E5">
+        <li id="li_20641120E1AB4AB68190706CCAFCFB9A">
+          <xref href="https://docs.campaign.adobe.com/doc/standard/en/RN.html" format="html" scope="external">Adobe Campaign Standard Release Notes</xref>
+        </li>
+        <li id="li_C482ECB0D30E4470B43E45A2D442B1F3">
+          <xref href="https://docs.adobe.com/docs/en/campaign/ACS.html" format="html" scope="external">Adobe Campaign Standard Documentation</xref>
+        </li>
+        <li id="li_2B914267A45E419E9B75A43FBC2B5874">
+          <xref href="http://docs.campaign.adobe.com/doc/AC/en/RN.html" format="html" scope="external">Adobe Campaign v7 Release Notes</xref>
+        </li>
+        <li id="li_C5A473269915476780EE68852FAFD007">
+          <xref href="https://docs.adobe.com/docs/en/campaign/AC.html" format="html" scope="external">Adobe Campaign v7 Documentation</xref>
+        </li>
+        <li id="li_7D8999FCC473499EA0540D78D3095D17">
+          <xref href="https://docs.adobe.com/docs/en/campaign/AC6.html" format="html" scope="external">Adobe Campaign v6 Documentation</xref>
+        </li>
+      </ul>
+      <p>To learn more about Adobe Campaign, enable yourself at 
+		  <xref href="https://digitalu.adobe.com/content/Enablement/en.html" format="html" scope="external">Adobe Digital Library</xref>. 
+		</p>
+      <p>
+        <xref href="10262017.xml#recipes" format="dita" scope="local">Top</xref>
+      </p>
+    </conbody>
+  </concept>
+  <concept id="experiencemanager">
+    <title>
+      <keyword>Experience Manager</keyword>
+    </title>
+    <shortdesc>New features and fixes in 
+		<keyword>Adobe Experience Manager</keyword> (AEM) and Scene7. 
+	 </shortdesc>
+    <conbody>
+      <ul id="ul_89DE7F25B2534741A1B45EF19816FD33">
+        <li id="li_A7917A659F004094AE6FFE985DC4BD62">
+          <xref href="10262017.xml#experiencemanager/section_B1FAFE0975E74070812BC036D994FBE3" format="dita" scope="local">
+            <?xm-replace_text Additional resources?>
+          </xref>
+        </li>
+      </ul>
+      <section id="section_8CD42C5750254AA88D6ACA7DBFA0D9A1">
+        <title>AEM release notes</title>
+        <p>Adobe recommends customers with on-premise deployments to deploy the
+			 latest patches to ensure higher stability, security, and performance. 
+		  </p>
+        <p>
+          <table id="table_F4E7F10923004BF1AD49BACE86D4982E">
+            <tgroup cols="3">
+              <colspec colnum="1" colname="col1" colwidth="1.00*" />
+              <colspec colnum="2" colname="col2" colwidth="1.37*" />
+              <colspec colnum="3" colname="col3" colwidth="4.08*" />
+              <thead>
+                <row>
+                  <entry colname="col1"></entry>
+                  <entry colname="col2"> Title 
+					 </entry>
+                  <entry colname="col3"> Description 
+					 </entry>
+                </row>
+              </thead>
+              <tbody>
+                <row>
+                  <entry colname="col1">
+                    <p>
+                      <b>Product releases</b>
+                    </p>
+                  </entry>
+                  <entry colname="col2">
+                    <p>AEM Desktop App 1.6 
+						</p>
+                  </entry>
+                  <entry colname="col3">
+                    <p>AEM Desktop App 1.6 focuses on improvements to the logon
+						  process and better support for various AEM security configurations; better
+						  information about background download and upload operations, and application
+						  stability and performance. 
+						</p>
+                    <p>
+                      <xref href="https://docs.adobe.com/docs/en/aem/6-3/release-notes/desktop-app-release-notes.html" format="https" scope="external">Release notes</xref>
+                    </p>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1"></entry>
+                  <entry colname="col2">
+                    <p>AEM 6.3 Content Fragment Updates and Content
+						  Services–Feature Packs 
+						</p>
+                  </entry>
+                  <entry colname="col3">
+                    <p>This set of Feature Packs delivers updates to Content
+						  Fragments, Core Components, and the JSON Exporter. 
+						</p>
+                    <p>The enhancements enable the definition of content
+						  fragments based on structured content models, and the delivery of AEM content
+						  in JSON format for consumption across channels and touch-points. 
+						</p>
+                    <p>
+                      <ul id="ul_E5AEAE2973244DC2856D5DFFDD3A782F">
+                        <li id="li_FC695C4B69D74413B9532C85707BCD57">
+                          <xref href="https://docs.adobe.com/docs/en/aem/6-3/release-notes/content-services-fragments-featurepack.html" format="https" scope="external">Release notes</xref>
+                        </li>
+                        <li id="li_6101C556043943A8914E2A3C21CFADAD">
+                          <xref href="https://helpx.adobe.com/experience-manager/kt/sites/using/structured-fragments-content-services-feature-video-use.html" format="https" scope="external">Feature video</xref>
+                        </li>
+                      </ul>
+                    </p>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1" morerows="2">
+                    <p>
+                      <b>Product maintenance</b>
+                    </p>
+                  </entry>
+                  <entry colname="col2">
+                    <p>AEM 6.3 Service Pack 1 
+						</p>
+                  </entry>
+                  <entry colname="col3">
+                    <p>AEM 6.3 Service Pack 1 (6.3.1.0), released October 13,
+						  2017, is an important update that includes performance, stability, security,
+						  and key customer fixes and enhancements released since the general availability
+						  of AEM 6.3 in April 2017. 
+						</p>
+                    <p>You can install AEM 6.3 Service Pack 1 on AEM 6.3 GA. 
+						</p>
+                    <p>Key highlights of this service pack include the following:
+						  
+						</p>
+                    <p>
+                      <ul id="ul_3788643CFC7943D8A6A9B056994E44E1">
+                        <li id="li_7558E408DE2B4C0CBB045505DA8DBA66"> Built-in
+							 repository (Apache Jackrabbit Oak) is updated to version 1.6.3. 
+						  </li>
+                        <li id="li_4082CEA11F1E46E9B351238D4A4319AE"> Support for
+							 enhanced desktop actions on multiple assets using Desktop App in Touch UI. 
+						  </li>
+                        <li id="li_08E070F5352C4C12B2702326088B5B32"> Support for
+							 user configurable connection timeout parameters for Marketing Cloud solutions
+							 (Adobe Analytics, Adobe Dynamic Tag Management, Adobe Target, and Adobe
+							 Search&amp;Promote). 
+						  </li>
+                        <li id="li_AEDEFA0BAA2F49EFA5BB85E3B014C8CD"> Enhanced
+							 ability of Manage Publications to publish complex site hierarchy. 
+						  </li>
+                        <li id="li_8D5DA7F735EE4AAA95118C105DCF7FA2"> Refined the
+							 Iparsys' capability to reflect text edits in pages. 
+						  </li>
+                        <li id="li_89E1267E82CE4E9D89179811A32BE579"> Improved
+							 version purging for assets. 
+						  </li>
+                        <li id="li_78D93719B55A4666A58961126C3031FE"> Optimized AEM
+							 performance when publishing assets to Brand Portal. 
+						  </li>
+                        <li id="li_B661FFB6C8524B678E98706FF8DB45AC"> Enabled
+							 management of flexible content models and JSON API. 
+						  </li>
+                        <li id="li_25A59F5BED514BE68D6A2F602BC21185"> Resolved
+							 translation issues with AEM Content Fragments. 
+						  </li>
+                        <li id="li_8E12880400CA449599755845EF6DAA93"> Improved
+							 Communities file library, spam detection, moderation user interface and
+							 enablement features. 
+						  </li>
+                        <li id="li_744C4C392A394B309E0327EFA3405F6C"> Added support
+							 to run AEM Forms on Oracle Linux 7.1 running on Oracle EXA Platform. 
+						  </li>
+                        <li id="li_19149E328CAE45ACBA15D556AA610EE0"> Added ability
+							 to list DAM Assets in Form Portal view and search. 
+						  </li>
+                        <li id="li_219935807B4F44BF9D59ABBD688F7818"> Ability to
+							 choose CRX asset dynamically for Process Management task. 
+						  </li>
+                      </ul>
+                    </p>
+                    <p>
+                      <xref href="https://docs.adobe.com/docs/en/aem//6-3/release-notes/sp1.html" format="https" scope="external">AEM 6.3 Service Pack 1 release notes</xref>. 
+						</p>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col2">
+                    <p>AEM 6.2 Service Pack 1–Cumulative Fix Pack 8 
+						</p>
+                  </entry>
+                  <entry colname="col3">
+                    <p> AEM 6.2 SP1–CFP8, released October 9, 2017, is an
+						  important update that includes key customer fixes released since the general
+						  availability AEM 6.2 SP1 in December, 2016. 
+						</p>
+                    <p>
+                      <ul id="ul_C343C5F826D443CD9818E1DB6BFFEE46">
+                        <li id="li_8A66EE6B49F94DA9A2B85A0528F7A47F">
+                          <xref href="https://helpx.adobe.com/experience-manager/release-notes--aem-6-2-cumulative-fix-pack.html" format="https" scope="external">Release notes</xref>
+                        </li>
+                        <li id="li_CEF7C480E0814AC9BBC1317B23A24261">
+                          <xref href="https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html" format="https" scope="external">AEM Forms Cumulative Fix Pack releases</xref>
+                        </li>
+                      </ul>
+                    </p>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col2">
+                    <p>AEM 6.1 Service Pack 2–Cumulative Fix Pack 12 
+						</p>
+                  </entry>
+                  <entry colname="col3">
+                    <p> AEM 6.1 SP2–CFP12, released October 6, 2017, is an
+						  important update that includes key customer fixes released since the general
+						  availability AEM 6.1 SP2 in August, 2016. 
+						</p>
+                    <p>
+                      <ul id="ul_EDE11CA48B2745E9AC3BF0D06D68F674">
+                        <li id="li_16D9845CE5A6455AA0DB09D606AAF8F2">
+                          <xref href="https://helpx.adobe.com/experience-manager/release-notes--aem-6-1-cumulative-fix-pack-.html" format="https" scope="external">Release notes</xref>
+                        </li>
+                        <li id="li_0961708FC14A406DB63EBE23DE56A647">
+                          <xref href="https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html" format="https" scope="external">AEM Forms Cumulative Fix Pack releases</xref>
+                        </li>
+                      </ul>
+                    </p>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1" morerows="3">
+                    <p>
+                      <b>Self-Help</b>
+                    </p>
+                  </entry>
+                  <entry colname="col2">
+                    <p>Adobe Experience Cloud Tutorials 
+						</p>
+                  </entry>
+                  <entry colname="col3">
+                    <p>Learn the basics or refine your skills with Adobe
+						  Experience Cloud tutorials. 
+						</p>
+                    <p>
+                      <xref href="https://helpx.adobe.com/experience-cloud/tutorials.html" format="https" scope="external">Adobe Experience Cloud tutorials</xref>
+                    </p>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col2">
+                    <p> AEM Repo Tool 
+						</p>
+                  </entry>
+                  <entry colname="col3">
+                    <p>Learn more about the AEM Repo Tool. This solution is
+						  available for simplified, FTP-like transfers between the file system and AEM,
+						  with minimal dependencies. It is a simple bash script and lets you integrate
+						  into IntelliJ and Eclipse. 
+						</p>
+                    <p>
+                      <xref href="https://docs.adobe.com/docs/en/aem/6-3/develop/dev-tools/aem-repo-tool.html" format="https" scope="external">AEM Repo Tool</xref>
+                    </p>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col2">
+                    <p> Upgrade to AEM 6.3 Forms 
+						</p>
+                  </entry>
+                  <entry colname="col3">
+                    <p>Added information about handling adaptive form rules that
+						  are not migrated automatically using the migration utility. 
+						</p>
+                    <p>
+                      <xref href="https://helpx.adobe.com/aem-forms/6-3/migration-utility.html" format="https" scope="external">Migrate AEM Forms assets and documents</xref>
+                    </p>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col2">
+                    <p> Change hostname for AEM Forms JEE 
+						</p>
+                  </entry>
+                  <entry colname="col3">
+                    <p>JBoss for AEM Forms service fails to start when the host
+						  name is changed. 
+						</p>
+                    <p>To resolve the issue, you must reset the Windows Registry
+						  key and add the name of the current host to the registry. 
+						</p>
+                    <p>
+                      <xref href="https://helpx.adobe.com/aem-forms/kb/JBoss-aem-forms-service-fails-to-start.html" scope="external" format="https">See the associated Help topic</xref>. 
+						</p>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col1" morerows="2">
+                    <p>
+                      <b>Community</b>
+                    </p>
+                  </entry>
+                  <entry colname="col2">
+                    <p>Featured October Community Article 
+						</p>
+                  </entry>
+                  <entry colname="col3">
+                    <p>Learn how to develop an AEM HTML Template Language (HTL)
+						  component that renders a repeating data set, including digital assets. 
+						</p>
+                    <p>
+                      <xref href="https://helpx.adobe.com/experience-manager/using/aem63_htl_repeat.html" format="https" scope="external">Creating a Repeating Data Set HTL Component for
+							 AEM 6.3</xref>. 
+						</p>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col2">
+                    <p>Ask the AEM Community Expert 
+						</p>
+                  </entry>
+                  <entry colname="col3">
+                    <p>The October session covers how to create custom components
+						  using HTL. 
+						</p>
+                    <p>Presented by Shivani Garg, an AEM Developer and Community
+						  member. Shivani will discuss the following: 
+						</p>
+                    <p>
+                      <ul id="ul_84CD72B5C32048E3B87AB33D53BB7A7D">
+                        <li id="li_8BE20B00BF8446EA997F4C7F4ED8EB2F">Working with
+							 Sling Models 
+						  </li>
+                        <li id="li_DBA3D2DDB558492A997DE6319FE3DB2A">The Java USE
+							 API 
+						  </li>
+                        <li id="li_8869D1AD6D034E8A8EE7627549002665">How to work
+							 with collections to build rich custom components meant for Experience Manager
+							 websites. 
+						  </li>
+                      </ul>
+                    </p>
+                    <p>RSVP for this event at 
+						  <xref href="https://www.meetup.com/AEM-Technologist-Group/events/243679377/" format="https" scope="external">https://www.meetup.com/AEM-Technologist-Group/events/243679377/</xref></p>
+                  </entry>
+                </row>
+                <row>
+                  <entry colname="col2">
+                    <p> AEM GEMS 
+						</p>
+                  </entry>
+                  <entry colname="col3">
+                    <p>October is a busy month for our AEM Experts with the
+						  following sessions: 
+						</p>
+                    <p>
+                      <ul id="ul_3797D00C44744BD09B31BF053D5254AC">
+                        <li id="li_DFC51922A22F46F5A2FBFEB947D3E868">October 11,
+							 2017 – 
+							 <b>Managing AEM DataStore</b></li>
+                        <li id="li_199CE9543E5A4EEDBDC7A3BB53ED5ABA">October 18,
+							 2017 – 
+							 <b>AEM Fluid Experiences for headless use cases</b></li>
+                        <li id="li_42981639C43449D4BF663D28521CF65F">October 25,
+							 2017 – 
+							 <b>AEM 6.3 Ready for the World–Translation Integration
+								and Best Practices</b></li>
+                      </ul>
+                    </p>
+                    <p>RSVP for these sessions and access links to past sessions
+						  at the following: 
+						</p>
+                    <p>
+                      <xref href="https://www.meetup.com/AEM-Technologist-Group/events/" format="https" scope="external">https://www.meetup.com/AEM-Technologist-Group/events/</xref>
+                    </p>
+                  </entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </p>
+      </section>
+      <section id="section_B1FAFE0975E74070812BC036D994FBE3">
+        <title>Additional resources</title>
+        <ul id="ul_205CEC77D92B48CFA93A046632A8FB7F">
+          <li id="li_63F392FFF4B247B7AB970B52E4A271DE">
+            <xref href="https://docs.adobe.com/docs/en/aem/6-3/release-notes.html" format="https" scope="external">AEM 6.3 Release Notes</xref>
+          </li>
+          <li id="li_07BDD68A42DB4FBF9B96C402549D0F5A">
+            <xref href="http://docs.adobe.com/docs/en/aem/6-2/release-notes.html" format="http" scope="external">AEM 6.2 Release Notes</xref>
+          </li>
+          <li id="li_A5B7C79A1D90420EAD94850C1CD2164A">
+            <xref href="http://docs.adobe.com/docs/en/aem/6-1/release-notes.html" format="http" scope="external">AEM 6.1 Release Notes</xref>
+          </li>
+          <li id="li_324C16A7230B4E5D9C915F264E18C11E">
+            <xref href="http://docs.adobe.com" format="http" scope="external">AEM Help
+				  Home</xref>
+          </li>
+          <li id="li_9C947D79AE134FEA96AF890EC4004327">
+            <xref format="https" href="https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html" scope="external">Scene7 Publishing System Release Notes</xref>
+          </li>
+          <li id="li_AC93516EC3E04B41B3B3FD8EDF25509D">
+            <xref href="http://docs.adobe.com/content/docs/en/aod/overview/release-notes.html" scope="external" format="http">AEM Assets on Demand Help Home</xref>
+          </li>
+          <li id="li_713DA3BAC101499C954B7DD711B3E345">
+            <xref href="https://marketing.adobe.com/resources/help/en_US/livefyre/" format="https" scope="external">Livefyre release notes</xref>
+          </li>
+        </ul>
+        <p>
+          <xref href="10262017.xml#recipes" format="dita" scope="local">Top</xref>
+        </p>
+      </section>
+      <section id="livefyre">
+        <title>Livefyre</title>
+        <p>New features, fixes, and updates to 
+			 <keyword>Adobe Livefyre</keyword>. Livefyre offers a complete
+			 user-generated content offering, including social curation capabilities and
+			 on-site engagement applications. 
+		  </p>
+        <p>See 
+			 <xref href="https://marketing.adobe.com/resources/help/en_US/livefyre/" format="https" scope="external">Livefyre Release Notes</xref> for the latest
+			 information. 
+		  </p>
+        <p>
+          <xref href="10262017.xml#recipes" format="dita" scope="local">Top</xref>
+        </p>
+      </section>
+    </conbody>
+  </concept>
+  <concept id="mediaoptimizer">
+    <title>
+      <keyword>Media Optimizer</keyword>
+    </title>
+    <shortdesc></shortdesc>
+    <conbody>
+      <p>Release date: 
+		  <b>October 16, 2017</b></p>
+      <table id="table_39E9A53B4A1A465589547638A29CB34C">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="col1" colwidth="1.00*" />
+          <colspec colnum="2" colname="col2" colwidth="2.41*" />
+          <thead>
+            <row>
+              <entry colname="col1">Feature 
+				  </entry>
+              <entry colname="col2">Description 
+				  </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry colname="col1">
+                <p> Search 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p> (Bing Ads campaigns with remarketing targets) Media
+						Optimizer supports the following: 
+					 </p>
+                <ul id="ul_A77BB0543BF54FD4B514AB25C84EA33D">
+                  <li id="li_D73008892A584B8AB0E333F3556D70EF"> Your existing
+						  Bing Ads audiences and remarketing list targets/exclusions are listed in the
+						  Audience Targets view in Campaigns and in the Audiences views in Campaigns
+						  Beta. 
+						</li>
+                  <li id="li_46876A78AEB5431B83696668A2E604F0"> Bulksheets now
+						  support creating and editing ad group-level audience targets (but not
+						  exclusions). In the Download Bulksheet dialog, selecting the "RLSA Target"
+						  section adds data about RLSA targets, including these columns: "Campaign Name,"
+						  "Ad Group Name," "Bid Adjustment" (optional), "Audience," and "RLSA Target
+						  Status." The "RLSA Target ID" column is added automatically for each RLSA
+						  target. 
+						</li>
+                </ul>
+                <p>
+                  <b>Notes:</b>
+                </p>
+                <ul id="ul_D338E2A01DA146EEA0BDDCEC82316E26">
+                  <li id="li_C51E98238768437087472333DC84C410"> Campaign-level
+						  audience targets are synced and visible in the Audiences views but aren't yet
+						  supported in bulksheets. 
+						</li>
+                  <li id="li_5FB5DFDBF01C4F45BB7F3E774BB37EA0"> In-market
+						  audiences aren't supported. 
+						</li>
+                  <li id="li_316984DDFC80419E903C8392999416E6">Bid adjustments
+						  for Bing audience targets aren't yet auto-adjusted via the portfolio setting to
+						  auto-optimize bid adjustments. 
+						</li>
+                </ul>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <p>Search Campaigns Beta 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p>You can now assign campaigns to portfolios from the beta
+						Campaigns view. 
+					 </p>
+              </entry>
+            </row>
+            <row>
+              <entry colname="col1">
+                <p>Reports 
+					 </p>
+              </entry>
+              <entry colname="col2">
+                <p>In the AdWords Audience Target Report, you can now include
+						columns for transaction properties tracked by Media Optimizer. 
+					 </p>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </table>
+      <p>More details are available in the product by clicking the help icon: 
+		  <menucascade><uicontrol>?</uicontrol><uicontrol>Help
+				Contents</uicontrol></menucascade>. 
+		</p>
+      <p>
+        <xref href="10262017.xml#recipes" format="dita" scope="local">Top</xref>
+      </p>
+    </conbody>
+  </concept>
+</concept>
