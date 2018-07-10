@@ -33,7 +33,7 @@ New features and fixes in the Adobe Experience Cloud interface, including Assets
 + Fixed an issue with deleting audiences from Audience Library. (CORE-12792)
 + Fixed an issue that resulted in a blank screen while accessing Workspace links using Federated IDs. (CORE-11620)
 
-[See Experience Cloud Product Documentation for product help]()
+[See Experience Cloud Product Documentation for product help](http://www.example.com/EMPTY)
 
 ## Experience Cloud ID Service
 
@@ -82,6 +82,8 @@ From now on, by default, we show dynamic values instead of static ones, with the
 + A dynamic dimension column that is copied or moved will become static.
 + When hovering a static dimension column you will see a lock icon, indicating that the dimension is static.
 
->[!VIDEO](https://youtu.be/3m0W-v_8VB8)
+<!-- >[!VIDEO](https://youtu.be/3m0W-v_8VB8) -->
 
 ### Adobe Analytics Admin
+
+nothing to see
