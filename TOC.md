@@ -11,5 +11,6 @@ git-repo: https://git.corp.adobe.com/AdobeDocs/release-notes.en
 # Table of Contents
 
 * [Overview](release-notes.md)
+* [Test](test.md)
 * 2018
     * [July 2018](2018/07192018.md)
