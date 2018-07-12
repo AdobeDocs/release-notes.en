@@ -105,5 +105,5 @@ This is a tables test
 
 | Use Case | Date Published| Description |
 | --- | --- | --- |
-| First-time Setup | October 18, 2017 | The first-time setup recipe walks you through the steps to get started using Experience Cloud solutions.<br/><br/>This is a second paragraph. |
+| First-time Setup | October 18, 2017 | The first-time setup recipe walks you through the steps to get started using Experience Cloud solutions.<br/>&nbsp;<br/>&nbsp;<br/>This is a second paragraph. |
 | Email Optimization | August 15, 2017 | The email marketing use case shows you how to implement an integrated email strategy with analytics, optimization, and campaign management. |
