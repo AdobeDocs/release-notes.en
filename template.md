@@ -26,7 +26,7 @@ New features and fixes in the Adobe Experience Cloud.
 + Marketing Cloud
 + Advertising Cloud
 
-#Adobe Cloud Platform
+# Adobe Cloud Platform
 
 Release notes for the Experience Cloud interface features and core services (accessed under the Platform group in the navigation menu). 
 		
@@ -40,16 +40,16 @@ Release notes for the Experience Cloud interface features and core services (acc
 + General Data Protection Regulation (GDPR) API
 + Data Connectors
 
-##Activation
+## Activation
 
-#Launch, by Adobe
+# Launch, by Adobe
 
-#Dynamic Tag Management
+# Dynamic Tag Management
 
-#Auditor
+# Auditor
 
-#Triggers
+# Triggers
 
-#Mobile Services
+# Mobile Services
 
-#Experience Cloud Mobile SDKs
+# Experience Cloud Mobile SDKs
