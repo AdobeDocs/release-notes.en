@@ -42,14 +42,14 @@ Release notes for the Experience Cloud interface features and core services (acc
 
 ## Activation
 
-# Launch, by Adobe
+### Launch, by Adobe
 
-# Dynamic Tag Management
+### Dynamic Tag Management
 
-# Auditor
+### Auditor
 
-# Triggers
+### Triggers
 
-# Mobile Services
+### Mobile Services
 
-# Experience Cloud Mobile SDKs
+### Experience Cloud Mobile SDKs
