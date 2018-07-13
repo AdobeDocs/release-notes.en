@@ -26,7 +26,7 @@ New features and fixes in the Adobe Experience Cloud
 + [Marketing Cloud](#mc)
 + [Advertising Cloud](#adc)
 
-<a name="acp"></a># Adobe Cloud Platform
+## Adobe Cloud Platform <a name="acp"></a>
 
 Release notes for the Experience Cloud interface features and core services (accessed under the Platform group in the navigation menu). 
 		
