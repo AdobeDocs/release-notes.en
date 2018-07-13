@@ -11,7 +11,7 @@ author: mfrei
 
 # Adobe Experience Cloud Release Notes
 
-New features and fixes in the Adobe Experience Cloud. 
+New features and fixes in the Adobe Experience Cloud
 
 >[!IMPORTANT]
 >This page contains pre-release content and is subject to change prior to the XXXX release.
@@ -21,12 +21,12 @@ New features and fixes in the Adobe Experience Cloud.
 
 ## Month 2018
 
-+ Adobe Cloud Platform
-+ Analytics Cloud
-+ Marketing Cloud
-+ Advertising Cloud
++ [Adobe Cloud Platform](#acp)
++ [Analytics Cloud](#ac)
++ [Marketing Cloud](#mc)
++ [Advertising Cloud](#adc)
 
-# Adobe Cloud Platform
+<a name="acp"></a># Adobe Cloud Platform
 
 Release notes for the Experience Cloud interface features and core services (accessed under the Platform group in the navigation menu). 
 		
@@ -42,11 +42,9 @@ Release notes for the Experience Cloud interface features and core services (acc
 
 ## Activation
 
-+ Launch, by Adobe
-
 ### Launch, by Adobe
 
-For product documentation, see [Launcy, by Adobe] (https://marketing.adobe.com/resources/help/en_US/experience-cloud/launch/)
+For product documentation, see [Launch, by Adobe] (https://marketing.adobe.com/resources/help/en_US/experience-cloud/launch/)
 
 ### Dynamic Tag Management
 
@@ -64,5 +62,7 @@ For product documentation, see [Mobile Services](https://marketing.adobe.com/res
 
 ### Experience Cloud Mobile SDKs
 
-For more information about the Mobile SDKs, see:[Android SDK 4.x for Experience Solutions] (https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud
+For more information about the Mobile SDKs, see:
++ [Android SDK 4.x for Experience Solutions] (https://marketing.adobe.com/resources/help/en_US/mobile/android/) 
++ [iOS SDK 4.x for Experience Cloud
 Solutions] (https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
