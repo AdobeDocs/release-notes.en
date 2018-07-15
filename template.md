@@ -46,17 +46,17 @@ Release notes for the Experience Cloud interface features and core services (acc
 
 ### Launch, by Adobe
 
-For product documentation, see [Launcy, by Adobe] (https://marketing.adobe.com/resources/help/en_US/experience-cloud/launch/)
+For product documentation, see [Launcy, by Adobe](https://marketing.adobe.com/resources/help/en_US/experience-cloud/launch/)
 
 ### Dynamic Tag Management
 
-For product documentation, see [Dynamic Tag Management] (https://marketing.adobe.com/resources/help/en_US/dtm/).
+For product documentation, see [Dynamic Tag Management](https://marketing.adobe.com/resources/help/en_US/dtm/).
 
 ### Auditor
 
 ### Triggers
 
-For product documentation, see [Triggers] (https://marketing.adobe.com/resources/help/en_US/mcloud/triggers.html).
+For product documentation, see [Triggers](https://marketing.adobe.com/resources/help/en_US/mcloud/triggers.html).
 
 ### Mobile Services
 
@@ -64,8 +64,8 @@ For product documentation, see [Mobile Services](https://marketing.adobe.com/res
 
 ### Experience Cloud Mobile SDKs
 
-For more information about the Mobile SDKs, see:[Android SDK 4.x for Experience Solutions] (https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud
-Solutions] (https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
+For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud
+Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
 
 ## Administration
 
