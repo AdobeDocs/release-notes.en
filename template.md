@@ -17,7 +17,7 @@ New features and fixes in the Adobe Experience Cloud.
 >This page contains pre-release content and is subject to change prior to the XXXX release.
 
 >[!NOTE]
->Subscribe to the [Adobe Priority Product Update] (https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date.
+>Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date.
 
 ## Month 2018
 
