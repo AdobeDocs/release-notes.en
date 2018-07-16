@@ -9,7 +9,7 @@ author: mfrei
 
 ---
 
-# Adobe Experience Cloud Release Notes
+# Adobe Experience Cloud release notes
 
 New features and fixes in the Adobe Experience Cloud. 
 
@@ -42,7 +42,6 @@ Release notes for the Experience Cloud interface features and core services (acc
 
 ## Activation
 
-+ Launch, by Adobe
 
 ### Launch, by Adobe
 
@@ -88,7 +87,7 @@ Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
 ## Experience Cloud ID Service
 
 
-## Device Co-op
+## Device co-op
 
 
 ## General Data Protection Regulation (GDPR) API
@@ -99,6 +98,28 @@ Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
 
 # Analytics Cloud
 
+## Analytics - new features
+
+
+
+### Analysis Workspace
+
+| Feature    | Description  |
+| -----------| :----------: |  
+| Feature A  | Text |  
+| Feature B  | Text | 
+| Feature C  | Text | 
+
+
+### Reports & Analytics
+
+### Video Analytics
+
+## Analytics - fixes and updates
+
+## Analytics - administration, implementation, and data collection
+
+## Audience Manager
 
 # Marketing Cloud
 
@@ -110,7 +131,6 @@ Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
 
 
 # Advertising Cloud
-
 
 MD tips:
 Here is an unordered list:
