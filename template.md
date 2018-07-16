@@ -383,7 +383,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 
 ### Data Workbench
 
-See [Data Workbench release notes]https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/ for the latest information.
+See [Data Workbench release notes](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/) for the latest information.
 
 ## Analytics administration, implementation, and data collection
 
@@ -611,5 +611,3 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 + Fix
-
-
