@@ -64,7 +64,7 @@ Release notes for the Experience Cloud interface features and core services (acc
 + Fix
 + Fix
 
-For product documentation, see [Launcy, by Adobe](http://docs.adobelaunch.com/)
+For product documentation, see [Launch, by Adobe](http://docs.adobelaunch.com/)
 
 ### Dynamic Tag Management
 
