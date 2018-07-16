@@ -152,9 +152,9 @@ For product documentation, see [Mobile Services](https://marketing.adobe.com/res
 For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud
 Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
 
-## Administration - product and user management
+## Administration - Admin Console product and user management
 
-New Experience Cloud features and fixes in the Admin Console.
+New features and fixes for Experience Cloud administrators.
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -203,6 +203,8 @@ New Experience Cloud features and fixes in the Admin Console.
 + Fix
 + Fix
 
+For product documentation, see [Assets](https://marketing.adobe.com/resources/help/en_US/mcloud/experience-cloud-assets.html).
+
 ## Feed
 
 | Feature    | Description  |
@@ -217,6 +219,8 @@ New Experience Cloud features and fixes in the Admin Console.
 + Fix
 + Fix
 + Fix
+
+For product documentation, see [Feed](https://marketing.adobe.com/resources/help/en_US/mcloud/feed.html).
 
 ## Experience Cloud ID Service
 
@@ -233,6 +237,8 @@ New Experience Cloud features and fixes in the Admin Console.
 + Fix
 + Fix
 
+For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
+
 ## Device co-op
 
 | Feature    | Description  |
@@ -248,6 +254,8 @@ New Experience Cloud features and fixes in the Admin Console.
 + Fix
 + Fix
 
+For product documentation, see [Device co-op](https://marketing.adobe.com/resources/help/en_US/mcdc/index.html).
+
 ## General Data Protection Regulation (GDPR) API
 
 | Feature    | Description  |
@@ -262,6 +270,8 @@ New Experience Cloud features and fixes in the Admin Console.
 + Fix
 + Fix
 + Fix
+
+For product documentation, see [GDPR API](https://www.adobe.io/apis/cloudplatform/gdpr/docs.html).
 
 ## Data Connectors
 
@@ -280,12 +290,21 @@ New Experience Cloud features and fixes in the Admin Console.
 
 # Analytics Cloud
 
-+ Analytics - new features, updates, and fixes
++ Analytics
 + Audience Manager
 
- ## Analytics - new features, updates, and fixes
+## Analytics - new features, updates, and fixes
 
 New features and fixes in Adobe Analytics:
+
++ Analysis Workspace
++ Reports & Analytics
++ Video Analytics
++ Report Builder
++ Activity Map
++ Data Workbench
+
+For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
 
 ### Analysis Workspace
 
@@ -368,6 +387,13 @@ See [Data Workbench release notes]https://marketing.adobe.com/resources/help/en_
 
 ## Analytics administration, implementation, and data collection
 
++ AppMeasurement
++ Data Feed
++ Data Warehouse
++ Data Sources
++ Export Release
++ Name Lookup Service
+
 ### AppMeasurement
 
 | Feature    | Description  |
@@ -383,7 +409,7 @@ See [Data Workbench release notes]https://marketing.adobe.com/resources/help/en_
 + Fix
 + Fix
 
-See [AppMeasurement release history]https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/release/index.html for a release history of AppMeasurement on the following platforms:
+See [AppMeasurement release history](https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/release/index.html) for a release history of AppMeasurement on the following platforms:
 
 + JavaScript
 + iOS
@@ -585,3 +611,5 @@ See [AppMeasurement release history]https://marketing.adobe.com/resources/help/e
 + Fix
 + Fix
 + Fix
+
+
