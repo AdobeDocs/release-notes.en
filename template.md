@@ -514,7 +514,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-# Marketing Cloud
+# Marketing Cloud {#mc}
 
 + Experience Manager (and Livefyre)
 + Social
