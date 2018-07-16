@@ -98,9 +98,9 @@ Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
 
 # Analytics Cloud
 
-## Analytics - new features
+## Analytics - new features, updates, and fixes
 
-
+New features and fixes in Adobe Analytics:
 
 ### Analysis Workspace
 
@@ -110,16 +110,198 @@ Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
 | Feature B  | Text | 
 | Feature C  | Text | 
 
+**Fixes**
+
++ Fix
++ Fix
++ Fix
++ Fix
 
 ### Reports & Analytics
 
+| Feature    | Description  |
+| -----------| :----------: |  
+| Feature A  | Text |  
+| Feature B  | Text | 
+| Feature C  | Text | 
+
+**Fixes**
+
++ Fix
++ Fix
++ Fix
++ Fix
+
 ### Video Analytics
 
-## Analytics - fixes and updates
+| Feature    | Description  |
+| -----------| :----------: |  
+| Feature A  | Text |  
+| Feature B  | Text | 
+| Feature C  | Text | 
 
-## Analytics - administration, implementation, and data collection
+**Fixes**
+
++ Fix
++ Fix
++ Fix
++ Fix
+
+### Report Builder
+
+| Feature    | Description  |
+| -----------| :----------: |  
+| Feature A  | Text |  
+| Feature B  | Text | 
+| Feature C  | Text | 
+
+**Fixes**
+
++ Fix
++ Fix
++ Fix
++ Fix
+
+### Activity Map
+
+| Feature    | Description  |
+| -----------| :----------: |  
+| Feature A  | Text |  
+| Feature B  | Text | 
+| Feature C  | Text | 
+
+**Fixes**
+
++ Fix
++ Fix
++ Fix
++ Fix
+
+### Data Workbench
+
+See [Data Workbench release notes]https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/ for the latest information.
+
+## Analytics administration, implementation, and data collection
+
+### AppMeasurement
+
+| Feature    | Description  |
+| -----------| :----------: |  
+| Feature A  | Text |  
+| Feature B  | Text | 
+| Feature C  | Text | 
+
+**Fixes**
+
++ Fix
++ Fix
++ Fix
++ Fix
+
+See [AppMeasurement release history]https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/release/index.html for a release history of AppMeasurement on the following platforms:
+
++ JavaScript
++ iOS
++ Android
++ Flash-Flex
++ OSX
++ Windows Phone, XBOX, Silverlight, and .NET
++ BlackBerry
++ Java
++ PHP
++ Symbian
+
+### Data Feed
+
+| Feature    | Description  |
+| -----------| :----------: |  
+| Feature A  | Text |  
+| Feature B  | Text | 
+| Feature C  | Text | 
+
+**Fixes**
+
++ Fix
++ Fix
++ Fix
++ Fix
+
+### Data Warehouse
+
+| Feature    | Description  |
+| -----------| :----------: |  
+| Feature A  | Text |  
+| Feature B  | Text | 
+| Feature C  | Text | 
+
+**Fixes**
+
++ Fix
++ Fix
++ Fix
++ Fix
+
+### Data Sources
+
+| Feature    | Description  |
+| -----------| :----------: |  
+| Feature A  | Text |  
+| Feature B  | Text | 
+| Feature C  | Text | 
+
+**Fixes**
+
++ Fix
++ Fix
++ Fix
++ Fix
+
+### Export Release
+
+| Feature    | Description  |
+| -----------| :----------: |  
+| Feature A  | Text |  
+| Feature B  | Text | 
+| Feature C  | Text | 
+
+**Fixes**
+
++ Fix
++ Fix
++ Fix
++ Fix
+<!--See [Export Release wiki]https://wiki.corp.adobe.com/display/omtrcache/Export+Release+Log for writer updates.-->
+
+### Name Lookup Service
+
+| Feature    | Description  |
+| -----------| :----------: |  
+| Feature A  | Text |  
+| Feature B  | Text | 
+| Feature C  | Text | 
+
+**Fixes**
+
++ Fix
++ Fix
++ Fix
++ Fix
+<!--See [Name Lookup wiki]https://wiki.corp.adobe.com/display/omtrcache/Name+Lookup+Service+Release+Log for writer updates.-->
 
 ## Audience Manager
+
+| Feature    | Description  |
+| -----------| :----------: |  
+| Feature A  | Text |  
+| Feature B  | Text | 
+| Feature C  | Text | 
+
+**Fixes**
+
++ Fix
++ Fix
++ Fix
++ Fix
 
 # Marketing Cloud
 
