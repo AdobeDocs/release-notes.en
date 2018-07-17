@@ -517,11 +517,11 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 
 # Marketing Cloud <a name="mc"></a>
 
-+ [Experience Manager (and Livefyre)]
-+ [Social]
-+ [Target]
-+ [Primetime]
-+ [Campaign]
++ [Experience Manager (and Livefyre)](aem)
++ [Social](soc)
++ [Target](target)
++ [Primetime](prime)
++ [Campaign](ac)
 
 ## Experience Manager (and Livefyre) <a name="aem"></a>
 
