@@ -32,23 +32,23 @@ New features and fixes in the Adobe Experience Cloud.
 Release notes for the Experience Cloud interface features and core services (accessed under the Platform group in the navigation menu). 
 		
 + [Activation](activation)
-+ Administration - user and product management
-+ People
-+ Experience Cloud Assets
-+ Feed
-+ Experience Cloud ID Service
-+ Device Co-op
-+ General Data Protection Regulation (GDPR) API
-+ Data Connectors
++ [Administration - user and product management](ac-admin)
++ [People](people)
++ [Experience Cloud Assets](ec-asset)
++ [Feed](feed)
++ [Experience Cloud ID Service](ecid)
++ [Device Co-op](coop)
++ [General Data Protection Regulation (GDPR) API](gdpr)
++ [Data Connectors](data-con)
 
 ## Activation <a name="activation"></a>
 
-+ [Launch, by Adobe]
-+ [Dynamic Tag Manager]
-+ [Auditor]
-+ [Triggers]
-+ [Mobile Services]
-+ [Experience Cloud Mobile SDKs]
++ [Launch, by Adobe](launch)
++ [Dynamic Tag Manager](dtm)
++ [Auditor](auditor)
++ [Triggers](triggers)
++ [Mobile Services](mobile)
++ [Experience Cloud Mobile SDKs](mobsdk)
 
 ### Launch, by Adobe <a name="launch"></a>
 
@@ -101,7 +101,7 @@ For product documentation, see [Dynamic Tag Management](https://marketing.adobe.
 
 For product documentation, see [Auditor](https://marketing.adobe.com/resources/help/en_US/auditor/).
 
-### Triggers
+### Triggers <a name="triggers"></a>
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -298,12 +298,12 @@ For product documentation, see [GDPR API](https://www.adobe.io/apis/cloudplatfor
 
 New features and fixes in Adobe Analytics:
 
-+ Analysis Workspace
-+ Reports & Analytics
-+ Video Analytics
-+ Report Builder
-+ Activity Map
-+ Data Workbench
++ [Analysis Workspace]()
++ [Reports & Analytics]()
++ [Video Analytics]()
++ [Report Builder]()
++ [Activity Map]()
++ [Data Workbench]()
 
 For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
 
@@ -388,12 +388,12 @@ See [Data Workbench release notes](https://marketing.adobe.com/resources/help/en
 
 ## Analytics administration, implementation, and data collection
 
-+ AppMeasurement
-+ Data Feed
-+ Data Warehouse
-+ Data Sources
-+ Export Release
-+ Name Lookup Service
++ [AppMeasurement]()
++ [Data Feed]()
++ [Data Warehouse]()
++ [Data Sources]()
++ [Export Release]()
++ [Name Lookup Service]()
 
 ### AppMeasurement <a name="appm"></a>
 
