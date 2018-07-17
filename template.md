@@ -31,24 +31,24 @@ New features and fixes in the Adobe Experience Cloud.
 
 Release notes for the Experience Cloud interface features and core services (accessed under the Platform group in the navigation menu). 
 		
-+ [Activation](activation)
-+ [Administration - user and product management](ac-admin)
-+ [People](people)
-+ [Experience Cloud Assets](ec-asset)
-+ [Feed](feed)
-+ [Experience Cloud ID Service](ecid)
-+ [Device Co-op](coop)
-+ [General Data Protection Regulation (GDPR) API](gdpr)
-+ [Data Connectors](data-con)
++ [Activation](#activation)
++ [Administration - user and product management](#ac-admin)
++ [People](#people)
++ [Experience Cloud Assets](#ec-asset)
++ [Feed](#feed)
++ [Experience Cloud ID Service](#ecid)
++ [Device Co-op](#coop)
++ [General Data Protection Regulation (GDPR) API](#gdpr)
++ [Data Connectors](#data-con)
 
 ## Activation <a name="activation"></a>
 
-+ [Launch, by Adobe](launch)
-+ [Dynamic Tag Manager](dtm)
-+ [Auditor](auditor)
-+ [Triggers](triggers)
-+ [Mobile Services](mobile)
-+ [Experience Cloud Mobile SDKs](mobsdk)
++ [Launch, by Adobe](#launch)
++ [Dynamic Tag Manager](#dtm)
++ [Auditor](#auditor)
++ [Triggers](#triggers)
++ [Mobile Services](#mobile)
++ [Experience Cloud Mobile SDKs](#mobsdk)
 
 ### Launch, by Adobe <a name="launch"></a>
 
@@ -291,19 +291,19 @@ For product documentation, see [GDPR API](https://www.adobe.io/apis/cloudplatfor
 
 # Analytics Cloud <a name="aacloud"></a>
 
-+ [Analytics](aaupdate)
-+ [Audience Manager](aam)
++ [Analytics](#aaupdate)
++ [Audience Manager](#aam)
 
 ## Analytics - new features, updates, and fixes <a name="aaupdate"></a>
 
 New features and fixes in Adobe Analytics:
 
-+ [Analysis Workspace]()
-+ [Reports & Analytics]()
-+ [Video Analytics]()
-+ [Report Builder]()
-+ [Activity Map]()
-+ [Data Workbench]()
++ [Analysis Workspace](#aa-wksp)
++ [Reports & Analytics](#aa-rep)
++ [Video Analytics](#aa-va)
++ [Report Builder](#aa-arb)
++ [Activity Map](#aa-map)
++ [Data Workbench](#aa-dwb)
 
 For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
 
@@ -388,12 +388,12 @@ See [Data Workbench release notes](https://marketing.adobe.com/resources/help/en
 
 ## Analytics administration, implementation, and data collection
 
-+ [AppMeasurement]()
-+ [Data Feed]()
-+ [Data Warehouse]()
-+ [Data Sources]()
-+ [Export Release]()
-+ [Name Lookup Service]()
++ [AppMeasurement](#appm)
++ [Data Feed](#aa-feed)
++ [Data Warehouse](#aa-dwh)
++ [Data Sources](#aa-dsrc)
++ [Export Release](#aa-exp)
++ [Name Lookup Service](#aa-name)
 
 ### AppMeasurement <a name="appm"></a>
 
@@ -517,11 +517,11 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 
 # Marketing Cloud <a name="mc"></a>
 
-+ [Experience Manager (and Livefyre)](aem)
-+ [Social](soc)
-+ [Target](target)
-+ [Primetime](prime)
-+ [Campaign](ac)
++ [Experience Manager (and Livefyre)](#aem)
++ [Social](#soc)
++ [Target](#target)
++ [Primetime](#prime)
++ [Campaign](#ac)
 
 ## Experience Manager (and Livefyre) <a name="aem"></a>
 
