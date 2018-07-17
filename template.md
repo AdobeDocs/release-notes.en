@@ -25,13 +25,13 @@ New features and fixes in the Adobe Experience Cloud.
 + [Adobe Cloud Platform](#acp)
 + [Analytics Cloud](#ac)
 + [Marketing Cloud](#mc)
-+ [Advertising Cloud](#adc)
++ [Advertising Cloud](#adcloud)
 
 ## Adobe Cloud Platform <a name="acp"></a>
 
 Release notes for the Experience Cloud interface features and core services (accessed under the Platform group in the navigation menu). 
 		
-+ Activation
++ [Activation](activation)
 + Administration - user and product management
 + People
 + Experience Cloud Assets
@@ -43,12 +43,12 @@ Release notes for the Experience Cloud interface features and core services (acc
 
 ## Activation <a name="activation"></a>
 
-+ Launch, by Adobe
-+ Dynamic Tag Manager
-+ Auditor
-+ Triggers
-+ Mobile Services
-+ Experience Cloud Mobile SDKs
++ [Launch, by Adobe]
++ [Dynamic Tag Manager]
++ [Auditor]
++ [Triggers]
++ [Mobile Services]
++ [Experience Cloud Mobile SDKs]
 
 ### Launch, by Adobe <a name="launch"></a>
 
@@ -291,8 +291,8 @@ For product documentation, see [GDPR API](https://www.adobe.io/apis/cloudplatfor
 
 # Analytics Cloud <a name="aacloud"></a>
 
-+ Analytics
-+ Audience Manager
++ [Analytics](aaupdate)
++ [Audience Manager](aam)
 
 ## Analytics - new features, updates, and fixes <a name="aaupdate"></a>
 
@@ -515,13 +515,13 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-# Marketing Cloud {#mc}
+# Marketing Cloud <a name="mc"></a>
 
-+ Experience Manager (and Livefyre)
-+ Social
-+ Target
-+ Primetime
-+ Campaign
++ [Experience Manager (and Livefyre)]
++ [Social]
++ [Target]
++ [Primetime]
++ [Campaign]
 
 ## Experience Manager (and Livefyre) <a name="aem"></a>
 
@@ -538,7 +538,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-## Social
+## Social <a name="soc"></a>
 
 | Feature    | Description  |
 | -----------| :----------: |  
