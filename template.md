@@ -22,35 +22,35 @@ New features and fixes in the Adobe Experience Cloud.
 
 **MONTH 2018**
 
-+ [Adobe Cloud Platform](#acp)
-+ [Analytics Cloud](#ac)
-+ [Marketing Cloud](#mc)
-+ [Advertising Cloud](#adcloud)
++ [Adobe Cloud Platform](#adobe-cloud-platform)
++ [Analytics Cloud](#analytics-cloud)
++ [Marketing Cloud](#marketing-cloud)
++ [Advertising Cloud](#advertising-cloud)
 
-## Adobe Cloud Platform <a name="acp"></a>
+## Adobe Cloud Platform
 
-Release notes for the Experience Cloud interface features and core services (accessed under the Platform group in the navigation menu). 
+Release notes for the Experience Cloud interface features and core services (accessed under the Platform group in the navigation menu).
 		
 + [Activation](#activation)
-+ [Administration - user and product management](#ac-admin)
++ [Administration - user and product management](#administration---admin-console-product-and-user-management)
 + [People](#people)
-+ [Experience Cloud Assets](#ec-asset)
++ [Experience Cloud Assets](#experience-cloud-assets)
 + [Feed](#feed)
-+ [Experience Cloud ID Service](#ecid)
-+ [Device Co-op](#coop)
-+ [General Data Protection Regulation (GDPR) API](#gdpr)
-+ [Data Connectors](#data-con)
++ [Experience Cloud ID Service](#experience-cloud-id-service)
++ [Device Co-op](#device-co-op)
++ [General Data Protection Regulation (GDPR) API](#general-data-protection-regulation-gdpr-api)
++ [Data Connectors](#data-connectors)
 
-## Activation <a name="activation"></a>
+## Activation
 
-+ [Launch, by Adobe](#launch)
-+ [Dynamic Tag Manager](#dtm)
++ [Launch, by Adobe](#launch-by-adobe)
++ [Dynamic Tag Manager](#dynamic-tag-management)
 + [Auditor](#auditor)
 + [Triggers](#triggers)
-+ [Mobile Services](#mobile)
-+ [Experience Cloud Mobile SDKs](#mobsdk)
++ [Mobile Services](#mobile-services)
++ [Experience Cloud Mobile SDKs](#experience-cloud-mobile-sdks)
 
-### Launch, by Adobe <a name="launch"></a>
+### Launch, by Adobe
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -67,7 +67,7 @@ Release notes for the Experience Cloud interface features and core services (acc
 
 For product documentation, see [Launch, by Adobe](http://docs.adobelaunch.com/)
 
-### Dynamic Tag Management <a name="dtm"></a>
+### Dynamic Tag Management
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -84,7 +84,7 @@ For product documentation, see [Launch, by Adobe](http://docs.adobelaunch.com/)
 
 For product documentation, see [Dynamic Tag Management](https://marketing.adobe.com/resources/help/en_US/dtm/).
 
-### Auditor <a name="auditor"></a>
+### Auditor
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -101,7 +101,7 @@ For product documentation, see [Dynamic Tag Management](https://marketing.adobe.
 
 For product documentation, see [Auditor](https://marketing.adobe.com/resources/help/en_US/auditor/).
 
-### Triggers <a name="triggers"></a>
+### Triggers
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -118,7 +118,7 @@ For product documentation, see [Auditor](https://marketing.adobe.com/resources/h
 
 For product documentation, see [Triggers](https://marketing.adobe.com/resources/help/en_US/mcloud/triggers.html).
 
-### Mobile Services <a name="mobile"></a>
+### Mobile Services
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -135,7 +135,7 @@ For product documentation, see [Triggers](https://marketing.adobe.com/resources/
 
 For product documentation, see [Mobile Services](https://marketing.adobe.com/resources/help/en_US/mobile/).
 
-### Experience Cloud Mobile SDKs <a name="mobsdk"></a>
+### Experience Cloud Mobile SDKs
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -153,7 +153,7 @@ For product documentation, see [Mobile Services](https://marketing.adobe.com/res
 For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud
 Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
 
-## Administration - Admin Console product and user management <a name="ac-admin"></a>
+## Administration - Admin Console product and user management
 
 New features and fixes for Experience Cloud administrators.
 
@@ -174,7 +174,7 @@ New features and fixes for Experience Cloud administrators.
 + [Manage Experience Cloud users and products](https://marketing.adobe.com/resources/help/en_US/mcloud/admin_getting_started.html)
 + [Enterprise Administration User Guide](https://helpx.adobe.com/enterprise/managing/user-guide.html)
 
-## People <a name="people"></a>
+## People
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -189,7 +189,7 @@ New features and fixes for Experience Cloud administrators.
 + Fix
 + Fix
 
-## Experience Cloud Assets <a name="ec-asset"></a>
+## Experience Cloud Assets
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -206,7 +206,7 @@ New features and fixes for Experience Cloud administrators.
 
 For product documentation, see [Assets](https://marketing.adobe.com/resources/help/en_US/mcloud/experience-cloud-assets.html).
 
-## Feed <a name="feed"></a>
+## Feed
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -223,7 +223,7 @@ For product documentation, see [Assets](https://marketing.adobe.com/resources/he
 
 For product documentation, see [Feed](https://marketing.adobe.com/resources/help/en_US/mcloud/feed.html).
 
-## Experience Cloud ID Service <a name="ecid"></a>
+## Experience Cloud ID Service
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -240,7 +240,7 @@ For product documentation, see [Feed](https://marketing.adobe.com/resources/help
 
 For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
 
-## Device co-op <a name="coop"></a>
+## Device co-op
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -257,7 +257,7 @@ For product documentation, see [Experience Cloud ID service](https://marketing.a
 
 For product documentation, see [Device co-op](https://marketing.adobe.com/resources/help/en_US/mcdc/index.html).
 
-## General Data Protection Regulation (GDPR) API <a name="gdpr"></a>
+## General Data Protection Regulation (GDPR) API
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -274,7 +274,7 @@ For product documentation, see [Device co-op](https://marketing.adobe.com/resour
 
 For product documentation, see [GDPR API](https://www.adobe.io/apis/cloudplatform/gdpr/docs.html).
 
-## Data Connectors <a name="data-con"></a>
+## Data Connectors
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -289,25 +289,25 @@ For product documentation, see [GDPR API](https://www.adobe.io/apis/cloudplatfor
 + Fix
 + Fix
 
-# Analytics Cloud <a name="aacloud"></a>
+# Analytics Cloud
 
-+ [Analytics](#aaupdate)
-+ [Audience Manager](#aam)
++ [Analytics](#analytics---new-features-updates-and-fixes)
++ [Audience Manager](#audience-manager)
 
-## Analytics - new features, updates, and fixes <a name="aaupdate"></a>
+## Analytics - new features, updates, and fixes
 
 New features and fixes in Adobe Analytics:
 
-+ [Analysis Workspace](#aa-wksp)
-+ [Reports & Analytics](#aa-rep)
-+ [Video Analytics](#aa-va)
-+ [Report Builder](#aa-arb)
-+ [Activity Map](#aa-map)
-+ [Data Workbench](#aa-dwb)
++ [Analysis Workspace](#analysis-workspace)
++ [Reports & Analytics](#reports--analytics)
++ [Video Analytics](#video-analytics)
++ [Report Builder](#report-builder)
++ [Activity Map](#activity-map)
++ [Data Workbench](#data-workbench)
 
 For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
 
-### Analysis Workspace <a name="aa-wksp"></a>
+### Analysis Workspace
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -322,7 +322,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 + Fix
 + Fix
 
-### Reports & Analytics <a name="aa-rep"></a>
+### Reports & Analytics
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -337,7 +337,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 + Fix
 + Fix
 
-### Video Analytics <a name="aa-va"></a>
+### Video Analytics
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -352,7 +352,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 + Fix
 + Fix
 
-### Report Builder <a name="aa-arb"></a>
+### Report Builder
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -367,7 +367,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 + Fix
 + Fix
 
-### Activity Map <a name="aa-map"></a>
+### Activity Map
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -382,20 +382,20 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 + Fix
 + Fix
 
-### Data Workbench <a name="aa-dwb"></a>
+### Data Workbench
 
 See [Data Workbench release notes](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/) for the latest information.
 
 ## Analytics administration, implementation, and data collection
 
-+ [AppMeasurement](#appm)
-+ [Data Feed](#aa-feed)
-+ [Data Warehouse](#aa-dwh)
-+ [Data Sources](#aa-dsrc)
-+ [Export Release](#aa-exp)
-+ [Name Lookup Service](#aa-name)
++ [AppMeasurement](#appmeasurement)
++ [Data Feed](#data-feed)
++ [Data Warehouse](#data-warehouse)
++ [Data Sources](#data-sources)
++ [Export Release](#export-release)
++ [Name Lookup Service](#name-lookup-service)
 
-### AppMeasurement <a name="appm"></a>
+### AppMeasurement
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -423,7 +423,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + PHP
 + Symbian
 
-### Data Feed <a name="aa-feed"></a>
+### Data Feed
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -438,7 +438,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-### Data Warehouse <a name="aa-dwh"></a>
+### Data Warehouse
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -453,7 +453,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-### Data Sources <a name="aa-dsrc"></a>
+### Data Sources
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -468,7 +468,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-### Export Release <a name="aa-exp"></a>
+### Export Release
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -484,7 +484,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 <!--See [Export Release wiki]https://wiki.corp.adobe.com/display/omtrcache/Export+Release+Log for writer updates.-->
 
-### Name Lookup Service <a name="aa-name"></a>
+### Name Lookup Service
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -500,7 +500,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 <!--See [Name Lookup wiki]https://wiki.corp.adobe.com/display/omtrcache/Name+Lookup+Service+Release+Log for writer updates.-->
 
-## Audience Manager <a name="aam"></a>
+## Audience Manager
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -515,30 +515,15 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-# Marketing Cloud <a name="mc"></a>
+# Marketing Cloud
 
-+ [Experience Manager (and Livefyre)](#aem)
-+ [Social](#soc)
++ [Experience Manager (and Livefyre)](#experience-manager-and-livefyre)
++ [Social](#social)
 + [Target](#target)
-+ [Primetime](#prime)
-+ [Campaign](#ac)
++ [Primetime](#primetime)
++ [Campaign](#campaign)
 
-## Experience Manager (and Livefyre) <a name="aem"></a>
-
-| Feature    | Description  |
-| -----------| :----------: |  
-| Feature A  | Text |  
-| Feature B  | Text | 
-| Feature C  | Text | 
-
-**Fixes**
-
-+ Fix
-+ Fix
-+ Fix
-+ Fix
-
-## Social <a name="soc"></a>
+## Experience Manager (and Livefyre)
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -553,7 +538,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-## Target <a name="target"></a>
+## Social
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -568,7 +553,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-## Primetime <a name="prime"></a>
+## Target
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -583,7 +568,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-## Campaign <a name="ac"></a>
+## Primetime
 
 | Feature    | Description  |
 | -----------| :----------: |  
@@ -598,7 +583,22 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-# Advertising Cloud <a name="adcloud"></a>
+## Campaign
+
+| Feature    | Description  |
+| -----------| :----------: |  
+| Feature A  | Text |  
+| Feature B  | Text | 
+| Feature C  | Text | 
+
+**Fixes**
+
++ Fix
++ Fix
++ Fix
++ Fix
+
+# Advertising Cloud
 
 | Feature    | Description  |
 | -----------| :----------: |  
