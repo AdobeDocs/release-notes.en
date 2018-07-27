@@ -1,37 +1,89 @@
 ---
-title: Core Services README
-seo-title: Adobe Experience Cloud Core Services README
-short-title: Core Services
-description: Internal document for learning how to use Markdown for documenting Core Services
-seo-description: Internal document for learning how to use Markdown for documenting Adobe Experience Cloud Core Services
+
+title: Experience Cloud Release Notes
+description: Release notes for solutions in the Experience Cloud
+seo-title: Adobe Experience Cloud Release Notes
+seo-description: Release notes for solutions in the Adobe Experience Cloud
+short-title: Release Notes
+
 ---
 
-# Core Services README
+# Experience Cloud Release Notes
 
-This is documentation for the Experience Cloud Core Services. Note that we're using one hash (#) to indicate the title, which is also specified in the metadata header above. The second level of headings (##) indicates the main headings that appear in the TOC.
-
-## Markdown Resources
-
-Key resources for using Markdown and GitHub:
-
-* [Markdown Syntax Guide](https://wiki.corp.adobe.com/display/SSE/Markdown+Syntax+Guidance)
-* [Markdown Information Architecture](https://wiki.corp.adobe.com/display/SSE/Markdown+Information+Architecture)
-* [Writer Tools](https://wiki.corp.adobe.com/display/SSE/Writer+Tools)
+New features and fixes in the Adobe Experience Cloud.
 
 >[!NOTE]
->This NOTE block is an extension of common Markdown. 
+> [Subscribe to the Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date.
 
-## Using Markdown
+## Experience Cloud and Core Services
 
-1. Create your structure in GitHub.
-   You can either migrate content or create it from scratch.
-1. Create a fork to work on files locally.
-1. Use Markdown to edit .md files.
-   Brackets and Oxygen are excellent editors.
-1. Check in the files.
+Release notes for the Experience Cloud interface and core services. Includes Mobile Services, Launch, by Adobe, Dynamic Tag Management, GDPR API, and Experience Cloud ID Service.
 
-## Celebration Dance
+Enterprise Cloud Interface
+Experience Cloud ID Service
+Launch, by Adobe
+Experience Cloud Mobile SDKs
+Experience Cloud Interface
+New features and fixes in the Adobe Experience Cloud interface, including Assets, Feed, Notifications, and the People core service.
 
-> [!VIDEO]{title="Happy Dance" description="This is a happy dance." url="https://www.youtube.com/watch?v=FVq0gVS96w0"}
+### Fixes
 
-That's all for now.
++ Enabled a link to GDPR access for Administrators. (CORE-11731)
++ Updated Beta Feedback feature to restrict file types that can be attached to feedback. (CORE-10474)
++ Fixed an issue with deleting audiences from Audience Library. (CORE-12792)
++ Fixed an issue that resulted in a blank screen while accessing Workspace links using Federated IDs. (CORE-11620)
+
+[See Experience Cloud Product Documentation for product help](http://www.example.com/EMPTY)
+
+## Experience Cloud ID Service
+
+>[!Note]
+>Visitor API 3.0 or higher is required for customers using the Experience Cloud ID Service. Adobe recommends upgrading to the latest Visitor API version whenever associated code libraries are updated (at.js, AppMeasurement.js, and so forth.)
+
+### Improvements and fixes
+
++ Fixed an issue whereby the AMCV cookie was not being set in iFrames. (CORE-14119)
++ See Experience Cloud ID Services product documentation.
+
+## Launch, by Adobe
+
++ Launch release notes are updated regularly at https://docs.adobelaunch.com/getting-started/release-notes.
+
+## Experience Cloud Mobile SDKs
+
+Fixes in Version 4.16.0
+
++ Added a new API that will return a string that contains Visitor ID Service-related URL variables . (iOS - AMSDK-6246 and Android - AMSDK-6247)
++ At privacy opt-out, a request is now sent to Audience Manager to remove the user from all activation and reporting. (iOS - AMSDK-6249 and Android - AMSDK-6252)
+
+## Analytics
+
+Important notifications, new features, updates, and fixes in Adobe Analytics.
+
+June 14, 2018
+
++ Analytics - New Features
++ Analytics - Fixes and Updates
++ Analytics - Administration, Implementation, Developer
++ Important Notices for Analytic Administrators
++ New Features in Adobe Analytics
++ Enhancements and new features released in Adobe Analytics.
+
+### Analysis Workspace
+
+#### Dynamic Dimension Columns
+
+Previously, when a dimension was dropped on a column, we showed the top 5 values for non-time dimensions (and 15 for time dimensions) and kept those values static (i.e., the 5 values picked never changed).
+
+From now on, by default, we show dynamic values instead of static ones, with the option to turn them into static values. Other things to note:
+
++ Click (i) on dynamic dimension and you will see the ranking (top 1 of 5) and dimension type.
++ As your data updates, the dynamic dimension columns will update to show the current 5/15 dimension items.
++ A dynamic dimension column that is copied or moved will become static.
++ When hovering a static dimension column you will see a lock icon, indicating that the dimension is static.
+
+<!-- >[!VIDEO](https://youtu.be/3m0W-v_8VB8) -->
+
+### Adobe Analytics Admin
+
+nothing to see
