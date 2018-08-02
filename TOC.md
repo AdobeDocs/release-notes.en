@@ -1,9 +1,9 @@
 ---
 
-product: Release Notes
+product: Experience Cloud
 cloud: Experience Cloud
 archetype: all
-user-guide: Experience Cloud Release Notes
+user-guide: Release Notes
 git-repo: https://git.corp.adobe.com/AdobeDocs/release-notes.en
 
 ---
