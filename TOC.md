@@ -1,15 +1,15 @@
 ---
 cloud: experience-cloud
-product: adobe
-archtype: end-user
-user-guide: null
+product: Experience Cloud
+user-guide: Experience Cloud Release Notes
+hub: https://helpx.adobe.com/support/experience-cloud.html
 ---
 
 # Table of Contents
 
 + [Adobe Experience Cloud Release Notes](08092018.md)
 + Previous Release Notes
-    + [2018](c_legacy_releases/2018/2018.md)
+    + 2018
         + [Release Notes - July 2018](c_legacy_releases/2018/07192018.md)
         + [Release Notes - June 2018](c_legacy_releases/2018/06142018.md)
         + [Release Notes - May 2018](c_legacy_releases/2018/05102018.md)
@@ -17,7 +17,7 @@ user-guide: null
         + [Release Notes - March 2018](c_legacy_releases/2018/03082018.md)
         + [Release Notes - February 2018](c_legacy_releases/2018/02082018.md)
         + [Release Notes - January 2018](c_legacy_releases/2018/01182018.md)
-    + [2017](c_legacy_releases/2017/2017.md)
+    + 2017
         + [Release Notes - November 2017](c_legacy_releases/2017/11092017.md)
         + [Release Notes - October 2017](c_legacy_releases/2017/10262017.md)
         + [Release Notes - September 2017](c_legacy_releases/2017/09212017.md)
@@ -29,7 +29,7 @@ user-guide: null
         + [Release Notes - March 2017](c_legacy_releases/2017/03092017.md)
         + [Release Notes - February 2017](c_legacy_releases/2017/02162017.md)
         + [Release Notes - January 2017](c_legacy_releases/2017/01192017.md)
-    + [2016](c_legacy_releases/2016/2016.md)
+    + 2016
         + [Release Notes - November 2016](c_legacy_releases/2016/11102016.md)
         + [Release Notes - October 2016](c_legacy_releases/2016/10202016.md)
         + [Release Notes - September 2016](c_legacy_releases/2016/09152016.md)
@@ -41,7 +41,7 @@ user-guide: null
         + [Release Notes - March 2016](c_legacy_releases/2016/03172016.md)
         + [Release Notes - February 2016](c_legacy_releases/2016/02182016.md)
         + [Release Notes - January 2016](c_legacy_releases/2016/01212016.md)
-    + [2015](c_legacy_releases/2015/2015.md)
+    + 2015
         + [Release Notes - November 2015](c_legacy_releases/2015/11052015.md)
         + [Release Notes - October 2015](c_legacy_releases/2015/10152015.md)
         + [Release Notes - September 2015](c_legacy_releases/2015/09172015.md)
