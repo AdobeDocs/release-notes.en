@@ -63,8 +63,6 @@ New features and fixes in the [!DNL  Adobe Experience Cloud] interface, includin
 * Fixed an issue that blocked folder sharing from the Marketing Cloud to the Creative Cloud. (CORE-16677)
 See [ Experience Cloud Product Documentation ](https://marketing.adobe.com/resources/help/en_US/mcloud/) for product help. 
 
-[ Top ](08092018.md#recipes) 
-
 ## Launch, by Adobe {#launch}
 
 Launch release notes are updated regularly at [ https://docs.adobelaunch.com/getting-started/release-notes ](https://docs.adobelaunch.com/getting-started/release-notes). 
@@ -94,7 +92,6 @@ Fixes and updates to iOS and Android.
  </tbody> 
 </table>
 
-[ Top ](08092018.md#recipes) 
 Release date: **August 9, 2018** 
 
 * [ Analytics - New Features ](08092018.md#features_analytics)
@@ -196,8 +193,6 @@ Fixes and minor updates applied to Adobe Analytics interface tools and component
   </tr> 
  </tbody> 
 </table>
-
-[ Top ](08092018.md#recipes) 
 
 ## Analytics - Developer, Administration, Data Collection, and Implementation {#analytics-implement}
 
@@ -385,7 +380,7 @@ Updated **August 21, 2018** (removed JavaScript 2.10 update, which occurs in Sep
 **Fixes, Enhancements, and Deprecations** 
 
 * The **Daily Trait Variation** report is now included in the **Other Reports** section.
-[ Top ](08092018.md#recipes) 
+
 Refer to the [ Adobe Target Release Notes ](https://marketing.adobe.com/resources/help/en_US/target/rn/) for the latest release information about the following products: 
 
 * Target Standard and Premium
@@ -400,15 +395,12 @@ For product documentation, see:
 * [ Adobe Campaign Standard Learn &amp;amp; Support ](https://helpx.adobe.com/support/campaign/standard.html)
 To learn more about Adobe Campaign, enable yourself at [ Adobe Digital Library ](https://digitalu.adobe.com/content/Enablement/en.html). 
 
-[ Top ](08092018.md#recipes) 
-
 * [ AEM release notes ](c_legacy_releases/2018/04122018.md#section_8CD42C5750254AA88D6ACA7DBFA0D9A1)
 * [ Additional resources ](c_legacy_releases/2018/04122018.md#section_B1FAFE0975E74070812BC036D994FBE3)
 
 ## AEM release notes {#section_8CD42C5750254AA88D6ACA7DBFA0D9A1}
 
 Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance. 
-
 
 
 <table id="table_F4E7F10923004BF1AD49BACE86D4982E"> 
@@ -488,7 +480,7 @@ Adobe recommends customers with on-premise deployments to deploy the latest patc
 * [ Older versions of AEM documentation ](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
 * [ Scene7 Publishing System release notes ](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [ Livefyre release notes ](https://marketing.adobe.com/resources/help/en_US/livefyre/)
-[ Top ](08092018.md#recipes) 
+
 Released July 21, 2018 
 
 <table id="table_A41D8C79DEE84AE59FE9C8D2D291FCD7"> 
@@ -536,7 +528,7 @@ Help for the Advertising Cloud is available in the product by clicking the Help 
 
 * [ Advertising Cloud Community ](https://forums.adobe.com/community/experience-cloud/advertising-cloud)
 * [ Experience Cloud Release Notes ](https://marketing.adobe.com/resources/help/en_US/whatsnew/)
-[ Top ](08092018.md#recipes) 
+
 Adobe Primetime is a multiscreen TV platform that helps media companies create and monetize engaging, personalized viewing experiences. 
 
 [ Primetime Release Notes ](http://help.adobe.com/en_US/primetime/release_notes/index.html) 
