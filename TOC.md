@@ -8,7 +8,7 @@ user-guide: null
 # Table of Contents
 
 + [Adobe Experience Cloud Release Notes](08092018.md)
-+ [Previous Release Notes](c_legacy_releases/c_legacy_releases.md)
++ Previous Release Notes
     + [2018](c_legacy_releases/2018/2018.md)
         + [Release Notes - July 2018](c_legacy_releases/2018/07192018.md)
         + [Release Notes - June 2018](c_legacy_releases/2018/06142018.md)
