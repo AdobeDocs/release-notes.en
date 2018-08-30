@@ -7,7 +7,7 @@ hub: https://helpx.adobe.com/support/experience-cloud.html
 
 # Table of Contents
 
-+ [Adobe Experience Cloud Release Notes](08092018.md)
++ [Adobe Experience Cloud Release Notes](current.md)
 + Previous Release Notes
     + 2018
         + [Release Notes - July 2018](c_legacy_releases/2018/07192018.md)
