@@ -41,6 +41,7 @@ Latest update: **Updated August 9, 2018**
 * [ Experience Manager ](current.md#experiencemanager) (and [ Livefyre ](current.md#livefyre))
 * [ Advertising Cloud ](current.md#adcoud)
 * [ Primetime ](current.md#primetime)
+
 Release notes for the Experience Cloud interface and core services. Includes Mobile Services, Launch, by Adobe, Dynamic Tag Management, GDPR API, and Experience Cloud ID Service. 
 
 <!-- Abhishek Shukla is the contact for this section. -->
@@ -393,10 +394,9 @@ For product documentation, see:
 * [ Adobe Campaign Classic Learn &amp;amp; Support ](https://helpx.adobe.com/support/campaign/classic.html)
 * [ Adobe Campaign Standard Release Notes ](https://helpx.adobe.com/campaign/standard/rn/rn.html)
 * [ Adobe Campaign Standard Learn &amp;amp; Support ](https://helpx.adobe.com/support/campaign/standard.html)
-To learn more about Adobe Campaign, enable yourself at [ Adobe Digital Library ](https://digitalu.adobe.com/content/Enablement/en.html). 
 
-* [ AEM release notes ](c_legacy_releases/2018/04122018.md#section_8CD42C5750254AA88D6ACA7DBFA0D9A1)
-* [ Additional resources ](c_legacy_releases/2018/04122018.md#section_B1FAFE0975E74070812BC036D994FBE3)
+<!-- To learn more about Adobe Campaign, enable yourself at [ Adobe Digital Library ](https://digitalu.adobe.com/content/Enablement/en.html). -->
+
 
 ## AEM release notes {#section_8CD42C5750254AA88D6ACA7DBFA0D9A1}
 
@@ -532,5 +532,4 @@ Help for the Advertising Cloud is available in the product by clicking the Help 
 Adobe Primetime is a multiscreen TV platform that helps media companies create and monetize engaging, personalized viewing experiences. 
 
 [ Primetime Release Notes ](http://help.adobe.com/en_US/primetime/release_notes/index.html) 
-
 [ Primetime Help Home ](http://help.adobe.com/en_US/primetime/) 
