@@ -33,23 +33,23 @@ New features and fixes in the Adobe Experience Cloud.
 
 Latest update: **Updated August 9, 2018** 
 
-* [ Experience Cloud and Core Services ](08092018.md#coreservices)
-* [ Analytics ](08092018.md#analytics) (**August 21, 2018**)
-* [ Audience Manager ](08092018.md#aam)
-* [ Target ](08092018.md#target)
-* [ Campaign ](08092018.md#campaign)
-* [ Experience Manager ](08092018.md#experiencemanager) (and [ Livefyre ](08092018.md#livefyre))
-* [ Advertising Cloud ](08092018.md#adcoud)
-* [ Primetime ](08092018.md#primetime)
+* [ Experience Cloud and Core Services ](current.md#coreservices)
+* [ Analytics ](current.md#analytics) (**August 21, 2018**)
+* [ Audience Manager ](current.md#aam)
+* [ Target ](current.md#target)
+* [ Campaign ](current.md#campaign)
+* [ Experience Manager ](current.md#experiencemanager) (and [ Livefyre ](current.md#livefyre))
+* [ Advertising Cloud ](current.md#adcoud)
+* [ Primetime ](current.md#primetime)
 Release notes for the Experience Cloud interface and core services. Includes Mobile Services, Launch, by Adobe, Dynamic Tag Management, GDPR API, and Experience Cloud ID Service. 
 
 <!-- Abhishek Shukla is the contact for this section. -->
 
-* [ Experience Cloud Interface ](08092018.md#li_DCFCE35581CA4204BE67D2F8CD90FD36)
-* [ General Data Protection Regulation (GDPR) API ](08092018.md#gdpr)
-* [ Launch, by Adobe ](08092018.md#launch)
-* [ Dynamic Tag Management ](08092018.md#dtm)
-* [ Experience Cloud Mobile SDKs ](08092018.md#section_FD57C8A6E37244E6B3E2AEB0222230A6)
+* [ Experience Cloud Interface ](current.md#li_DCFCE35581CA4204BE67D2F8CD90FD36)
+* [ General Data Protection Regulation (GDPR) API ](current.md#gdpr)
+* [ Launch, by Adobe ](current.md#launch)
+* [ Dynamic Tag Management ](current.md#dtm)
+* [ Experience Cloud Mobile SDKs ](current.md#section_FD57C8A6E37244E6B3E2AEB0222230A6)
 
 ## Experience Cloud Interface {#experience_cloud_interface}
 
@@ -94,10 +94,10 @@ Fixes and updates to iOS and Android.
 
 Release date: **August 9, 2018** 
 
-* [ Analytics - New Features ](08092018.md#features_analytics)
-* [ Analytics - Fixes and Updates ](08092018.md#analytics-interface) (**August 8, 2018**)
-* [ Analytics - Administration, Implementation, Developer ](08092018.md#analytics-implement) (**August 21, 2018**)
-* [ Important Notices for Analytic Administrators ](08092018.md#analytics_notices) (**August 9, 2018**)
+* [ Analytics - New Features ](current.md#features_analytics)
+* [ Analytics - Fixes and Updates ](current.md#analytics-interface) (**August 8, 2018**)
+* [ Analytics - Administration, Implementation, Developer ](current.md#analytics-implement) (**August 21, 2018**)
+* [ Important Notices for Analytic Administrators ](current.md#analytics_notices) (**August 9, 2018**)
 
 ## New Features in Adobe Analytics {#features_analytics}
 
