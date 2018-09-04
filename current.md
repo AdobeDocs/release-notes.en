@@ -27,30 +27,13 @@ New features and fixes in the Adobe Experience Cloud.
 >
 >Subscribe to the[ Adobe Priority Product Update ](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date. 
 
-
-
 **August 2018** 
 
 Latest update: **Updated August 9, 2018** 
 
-* [ Experience Cloud and Core Services ](current.md#coreservices)
-* [ Analytics ](current.md#analytics) (**August 21, 2018**)
-* [ Audience Manager ](current.md#aam)
-* [ Target ](current.md#target)
-* [ Campaign ](current.md#campaign)
-* [ Experience Manager ](current.md#experiencemanager) (and [ Livefyre ](current.md#livefyre))
-* [ Advertising Cloud ](current.md#adcoud)
-* [ Primetime ](current.md#primetime)
-
 Release notes for the Experience Cloud interface and core services. Includes Mobile Services, Launch, by Adobe, Dynamic Tag Management, GDPR API, and Experience Cloud ID Service. 
 
 <!-- Abhishek Shukla is the contact for this section. -->
-
-* [ Experience Cloud Interface ](current.md#li_DCFCE35581CA4204BE67D2F8CD90FD36)
-* [ General Data Protection Regulation (GDPR) API ](current.md#gdpr)
-* [ Launch, by Adobe ](current.md#launch)
-* [ Dynamic Tag Management ](current.md#dtm)
-* [ Experience Cloud Mobile SDKs ](current.md#section_FD57C8A6E37244E6B3E2AEB0222230A6)
 
 ## Experience Cloud Interface {#experience_cloud_interface}
 
@@ -62,11 +45,12 @@ New features and fixes in the [!DNL  Adobe Experience Cloud] interface, includin
 * Added a feature flag to control Experience Cloud-Creative Cloud asset sync. (CORE-15938)
 * Made improvements to Audience segments creation, including better search and listing experience. (CORE-5833, CORE-14278)
 * Fixed an issue that blocked folder sharing from the Marketing Cloud to the Creative Cloud. (CORE-16677)
-See [ Experience Cloud Product Documentation ](https://marketing.adobe.com/resources/help/en_US/mcloud/) for product help. 
+
+See [Experience Cloud Product Documentation](https://marketing.adobe.com/resources/help/en_US/mcloud/) for product help. 
 
 ## Launch, by Adobe {#launch}
 
-Launch release notes are updated regularly at [ https://docs.adobelaunch.com/getting-started/release-notes ](https://docs.adobelaunch.com/getting-started/release-notes). 
+Launch release notes are updated regularly at [https://docs.adobelaunch.com/getting-started/release-notes](https://docs.adobelaunch.com/getting-started/release-notes). 
 
 ## Experience Cloud Mobile SDKs {#section_FD57C8A6E37244E6B3E2AEB0222230A6}
 
@@ -95,10 +79,10 @@ Fixes and updates to iOS and Android.
 
 Release date: **August 9, 2018** 
 
-* [ Analytics - New Features ](current.md#features_analytics)
-* [ Analytics - Fixes and Updates ](current.md#analytics-interface) (**August 8, 2018**)
-* [ Analytics - Administration, Implementation, Developer ](current.md#analytics-implement) (**August 21, 2018**)
-* [ Important Notices for Analytic Administrators ](current.md#analytics_notices) (**August 9, 2018**)
+* [Analytics - New Features](current.md#features_analytics)
+* [Analytics - Fixes and Updates](current.md#analytics-interface) (**August 8, 2018**)
+* [Analytics - Administration, Implementation, Developer](current.md#analytics-implement) (**August 21, 2018**)
+* [Important Notices for Analytic Administrators](current.md#analytics_notices) (**August 9, 2018**)
 
 ## New Features in Adobe Analytics {#features_analytics}
 
@@ -393,10 +377,10 @@ Refer to the [ Adobe Target Release Notes ](https://marketing.adobe.com/resource
 
 For product documentation, see: 
 
-* [ Adobe Campaign Classic Release Notes ](http://docs.campaign.adobe.com/doc/AC/en/RN.html)
-* [ Adobe Campaign Classic Learn &amp;amp; Support ](https://helpx.adobe.com/support/campaign/classic.html)
-* [ Adobe Campaign Standard Release Notes ](https://helpx.adobe.com/campaign/standard/rn/rn.html)
-* [ Adobe Campaign Standard Learn &amp;amp; Support ](https://helpx.adobe.com/support/campaign/standard.html)
+* [Adobe Campaign Classic Release Notes](http://docs.campaign.adobe.com/doc/AC/en/RN.html)
+* [Adobe Campaign Classic Learn &amp; Support](https://helpx.adobe.com/support/campaign/classic.html)
+* [Adobe Campaign Standard Release Notes](https://helpx.adobe.com/campaign/standard/rn/rn.html)
+* [Adobe Campaign Standard Learn &amp; Support ](https://helpx.adobe.com/support/campaign/standard.html)
 
 <!-- To learn more about Adobe Campaign, enable yourself at [ Adobe Digital Library ](https://digitalu.adobe.com/content/Enablement/en.html). -->
 
@@ -475,14 +459,13 @@ Adobe recommends customers with on-premise deployments to deploy the latest patc
 
 ## Additional resources {#section_B1FAFE0975E74070812BC036D994FBE3}
 
-
-* [ AEM 6.4 Learn &amp;amp; Support home ](https://helpx.adobe.com/support/experience-manager/6-4.html)
-* [ AEM 6.3 Learn &amp;amp; Support home ](https://helpx.adobe.com/support/experience-manager/6-3.html)
-* [ AEM 6.2 Learn &amp;amp; Support home ](https://helpx.adobe.com/support/experience-manager/6-2.html)
-* [ Cloud Manager User Guide ](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
-* [ Older versions of AEM documentation ](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
-* [ Scene7 Publishing System release notes ](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
-* [ Livefyre release notes ](https://marketing.adobe.com/resources/help/en_US/livefyre/)
+* [AEM 6.4 Learn &amp; Support home ](https://helpx.adobe.com/support/experience-manager/6-4.html)
+* [AEM 6.3 Learn &amp; Support home ](https://helpx.adobe.com/support/experience-manager/6-3.html)
+* [AEM 6.2 Learn &amp; Support home ](https://helpx.adobe.com/support/experience-manager/6-2.html)
+* [Cloud Manager User Guide ](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
+* [Older versions of AEM documentation ](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
+* [Scene7 Publishing System release notes ](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
+* [Livefyre release notes ](https://marketing.adobe.com/resources/help/en_US/livefyre/)
 
 Released July 21, 2018 
 
@@ -529,10 +512,10 @@ Help for the Advertising Cloud is available in the product by clicking the Help 
 
 **Experience Cloud and Community Resources** 
 
-* [ Advertising Cloud Community ](https://forums.adobe.com/community/experience-cloud/advertising-cloud)
-* [ Experience Cloud Release Notes ](https://marketing.adobe.com/resources/help/en_US/whatsnew/)
+* [Advertising Cloud Community](https://forums.adobe.com/community/experience-cloud/advertising-cloud)
+* [Experience Cloud Release Notes](https://marketing.adobe.com/resources/help/en_US/whatsnew/)
 
 Adobe Primetime is a multiscreen TV platform that helps media companies create and monetize engaging, personalized viewing experiences. 
 
-[ Primetime Release Notes ](http://help.adobe.com/en_US/primetime/release_notes/index.html) 
-[ Primetime Help Home ](http://help.adobe.com/en_US/primetime/) 
+[Primetime Release Notes](http://help.adobe.com/en_US/primetime/release_notes/index.html) 
+[Primetime Help Home](http://help.adobe.com/en_US/primetime/) 
