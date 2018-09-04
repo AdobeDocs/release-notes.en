@@ -3,6 +3,7 @@ cloud: experience-cloud
 product: Experience Cloud
 user-guide: Experience Cloud Release Notes
 hub: https://helpx.adobe.com/support/experience-cloud.html
+git-repo: https://git.corp.adobe.com/AdobeDocs/release-notes.en
 ---
 
 # Table of Contents
