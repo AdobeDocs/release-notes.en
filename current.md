@@ -116,7 +116,7 @@ Enhancements and new features released in Adobe Analytics.
  </thead>
  <tbody> 
   <tr> 
-   <td colspan="3"> <p>Analysis Workspace </p> </td> 
+   <td> <p>Analysis Workspace </p> </td> 
   </tr> 
   <tr> 
    <td colname="col01"> </td> 
@@ -300,7 +300,10 @@ Updated **August 21, 2018** (removed JavaScript 2.10 update, which occurs in Sep
   <tr> 
    <td colname="col1"> <p>Update Report Builder before you migrate user IDs to the Admin Console </p> </td> 
    <td colname="col02"> <p>March 17, 2018 </p> </td> 
-   <td colname="col2"> <p> <p type="important">Note:  Update your installation of <a href="https://marketing.adobe.com/resources/help/en_US/arb/t_install_arb.html" format="html" scope="external"> Report Builder </a> to the latest version. This update is a pre-requisite for running the Analytics user ID migration to the Admin Console, beginning in April 2018. </p> </p> <p>See <a href="https://marketing.adobe.com/resources/help/en_US/experience-cloud/admin-console/analytics-migration/" format="https" scope="external"> Analytics User Migration to the Admin Console </a> for migration information. </p> </td> 
+   <td colname="col2"> <p> 
+   >[!IMPORTANT]
+   >Update your installation of <a href="https://marketing.adobe.com/resources/help/en_US/arb/t_install_arb.html" format="html" scope="external"> Report Builder </a> to the latest version. This update is a pre-requisite for running the Analytics user ID migration to the Admin Console, beginning in April 2018. </p> </p> <p>See <a href="https://marketing.adobe.com/resources/help/en_US/experience-cloud/admin-console/analytics-migration/" format="https" scope="external"> Analytics User Migration to the Admin Console </a> for migration information.
+   </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Back-end changes that affect reporting </p> </td> 
@@ -444,7 +447,7 @@ Adobe recommends customers with on-premise deployments to deploy the latest patc
   </tr> 
   <tr> 
    <td colname="col1" morerows="5"> <p><b>Community</b> </p> </td> 
-   <td colspan="2"> <p>Where do you go to get insights from Adobe Experience Manager Experts on best practices for designing, developing, and deploying digital experiences? </p> <p>Adobe Systems wants you-our enterprise developers-enabled on the latest version of Adobe Experience Manager. Doing so can help you meet your marketing origination goals to gain and retain customers through digital experiences. We also know that taking time away from the office for training is challenging for many. You have options, however, to learn at your own pace, including where and when it works best for you. </p> <p>See our <a href="https://www.meetup.com/AEM-Technologist-Group/events/calendar/" format="https" scope="external"> calendar of upcoming events </a>, including the following resources: </p> </td> 
+   <td> <p>Where do you go to get insights from Adobe Experience Manager Experts on best practices for designing, developing, and deploying digital experiences? </p> <p>Adobe Systems wants you-our enterprise developers-enabled on the latest version of Adobe Experience Manager. Doing so can help you meet your marketing origination goals to gain and retain customers through digital experiences. We also know that taking time away from the office for training is challenging for many. You have options, however, to learn at your own pace, including where and when it works best for you. </p> <p>See our <a href="https://www.meetup.com/AEM-Technologist-Group/events/calendar/" format="https" scope="external"> calendar of upcoming events </a>, including the following resources: </p> </td> 
   </tr> 
   <tr> 
    <td colname="col2"> <p>Adobe IMMERSE </p> </td> 
