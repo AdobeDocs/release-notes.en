@@ -9,7 +9,7 @@ git-repo: https://git.corp.adobe.com/AdobeDocs/release-notes.en
 # Table of Contents
 
 + [Adobe Experience Cloud Release Notes](current.md)
-+ Previous Release Notes
++ Previous Release Notes (Note from Bob)
     + 2018
         + [Release Notes - July 2018](c_legacy_releases/2018/07192018.md)
         + [Release Notes - June 2018](c_legacy_releases/2018/06142018.md)
