@@ -8,7 +8,6 @@ title: Contact and Legal Information
 uuid: be6810fd-8a50-4e88-af09-ab00187e4082
 index: y
 internal: n
-snippet: y
 translate: y
 ---
 
