@@ -14,6 +14,8 @@ translate: y
 
 # Adobe Experience Cloud Release Notes
 
+**August 2018** 
+
 New features and fixes in the Adobe Experience Cloud.
 
 <!-- <p> 
@@ -25,8 +27,6 @@ New features and fixes in the Adobe Experience Cloud.
 >[!NOTE]
 >
 >Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date. 
-
-**August 2018** 
 
 ## Experience Cloud and Core Services
 
