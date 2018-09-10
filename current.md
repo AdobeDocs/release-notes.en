@@ -25,15 +25,13 @@ New features and fixes in the Adobe Experience Cloud.
 
 >[!NOTE]
 >
->Subscribe to the[ Adobe Priority Product Update ](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date. 
+>Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date. 
 
 **August 2018** 
 
 Latest update: **Updated August 9, 2018** 
 
 Release notes for the Experience Cloud interface and core services. Includes Mobile Services, Launch, by Adobe, Dynamic Tag Management, GDPR API, and Experience Cloud ID Service. 
-
-<!-- Abhishek Shukla is the contact for this section. -->
 
 ## Experience Cloud Interface {#experience_cloud_interface}
 
@@ -79,41 +77,17 @@ Fixes and updates to iOS and Android.
 
 Release date: **August 9, 2018** 
 
-* [Analytics - New Features](current.md#features_analytics)
-* [Analytics - Fixes and Updates](current.md#analytics-interface) (**August 8, 2018**)
-* [Analytics - Administration, Implementation, Developer](current.md#analytics-implement) (**August 21, 2018**)
-* [Important Notices for Analytic Administrators](current.md#analytics_notices) (**August 9, 2018**)
-
-## New Features in Adobe Analytics {#features_analytics}
+## Adobe Analytics New Features {#features_analytics}
 
 Enhancements and new features released in Adobe Analytics. 
 
 <!-- <p>Include only new features for interfaces and reporting tools </p> -->
 
-<table id="table_91D1FD20C4C1411292252364328677AF"> 
- <thead> 
-  <tr> 
-   <th colname="col01" class="entry"> Product </th> 
-   <th colname="col1" class="entry"> Feature Name </th> 
-   <th colname="col2" class="entry"> Description </th> 
-  </tr> 
- </thead>
- <tbody> 
-  <tr> 
-   <td> <p>Analysis Workspace </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col01"> </td> 
-   <td colname="col1"> <p>Drop Zone Guides </p> </td> 
-   <td colname="col2"> <p>These guides help you more easily understand what each drag-and-drop action does in each visualization. </p> <p> When you drag a component over a visualization, we will show actions like Add, Replace, Filter By, and Breakdown. We also added yellow guides that alert you when you are taking an action that is not recommended, such as stacking two metrics on top of one another (which leads to invalid data). </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col01"> </td> 
-   <td colname="col1"> <p>Add Blank Panel option </p> </td> 
-   <td colname="col2"> <p>We added a + symbol below the last panel to make it easier to add additional panels. </p> </td> 
-  </tr> 
- </tbody> 
-</table>
+| Product | Feature Name | Description |
+|--- |--- |--- |
+|Analysis Workspace|
+||Drop Zone Guides|These guides help you more easily understand what each drag-and-drop action does in each visualization.   When you drag a component over a visualization, we will show actions like Add, Replace, Filter By, and Breakdown. We also added yellow guides that alert you when you are taking an action that is not recommended, such as stacking two metrics on top of one another (which leads to invalid data).|
+||Add Blank Panel option|We added a + symbol below the last panel to make it easier to add additional panels.|
 
 
 ## Analytics - Fixes and Updates {#analytics-interface}
