@@ -16,7 +16,6 @@ translate: y
 
 New features and fixes in the Adobe Experience Cloud.
 
-
 <!-- <p> 
  <note type="important">
    This page contains pre-release content and is subject to change prior to the 
@@ -29,11 +28,13 @@ New features and fixes in the Adobe Experience Cloud.
 
 **August 2018** 
 
+## Experience Cloud and Core Services
+
 Latest update: **Updated August 9, 2018** 
 
 Release notes for the Experience Cloud interface and core services. Includes Mobile Services, Launch, by Adobe, Dynamic Tag Management, GDPR API, and Experience Cloud ID Service. 
 
-## Experience Cloud Interface {#experience_cloud_interface}
+### Experience Cloud Interface {#experience_cloud_interface}
 
 New features and fixes in the [!DNL  Adobe Experience Cloud] interface, including Assets, Feed, Notifications, and the People core service. 
 
@@ -46,11 +47,11 @@ New features and fixes in the [!DNL  Adobe Experience Cloud] interface, includin
 
 See [Experience Cloud Product Documentation](https://marketing.adobe.com/resources/help/en_US/mcloud/) for product help. 
 
-## Launch, by Adobe {#launch}
+### Launch, by Adobe {#launch}
 
 Launch release notes are updated regularly at [https://docs.adobelaunch.com/getting-started/release-notes](https://docs.adobelaunch.com/getting-started/release-notes). 
 
-## Experience Cloud Mobile SDKs {#section_FD57C8A6E37244E6B3E2AEB0222230A6}
+### Experience Cloud Mobile SDKs {#section_FD57C8A6E37244E6B3E2AEB0222230A6}
 
 Fixes and updates to iOS and Android. 
 
@@ -77,7 +78,9 @@ Fixes and updates to iOS and Android.
 
 Release date: **August 9, 2018** 
 
-## Adobe Analytics New Features {#features_analytics}
+## Adobe Analytics
+
+### Adobe Analytics New Features {#features_analytics}
 
 Enhancements and new features released in Adobe Analytics. 
 
@@ -88,7 +91,7 @@ Enhancements and new features released in Adobe Analytics.
 |Analysis Workspace Drop Zone Guides|These guides help you more easily understand what each drag-and-drop action does in each visualization. When you drag a component over a visualization, we will show actions like Add, Replace, Filter By, and Breakdown. We also added yellow guides that alert you when you are taking an action that is not recommended, such as stacking two metrics on top of one another (which leads to invalid data).|
 |Analysis Workspace Add Blank Panel option|We added a + symbol below the last panel to make it easier to add additional panels.|
 
-## Analytics - Fixes and Updates {#analytics-interface}
+### Analytics - Fixes and Updates {#analytics-interface}
 
 Fixes and minor updates applied to Adobe Analytics interface tools and components (Analysis Workspace, Reports &amp;amp; Analytics, Report Builder, and so on). 
 
@@ -104,7 +107,7 @@ Fixes and minor updates applied to Adobe Analytics interface tools and component
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Calculated metrics </p> </td> 
-   <td colname="col2"> <p><b> August 8, 2018</b> </p> <p>Fixed an issue that prevented legacy reporting interfaces (such as Reports &amp;amp; Analytics and Report Builder) from running reports using some types of calculated metrics. (AN-165961; AN-162973; AN-166044; AN-165730; AN-165543; AN-165917) </p> </td> 
+   <td colname="col2"> <p><b> August 8, 2018</b> </p> <p>Fixed an issue that prevented legacy reporting interfaces (such as Reports &amp; Analytics and Report Builder) from running reports using some types of calculated metrics. (AN-165961; AN-162973; AN-166044; AN-165730; AN-165543; AN-165917) </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Analysis Workspace </p> </td> 
@@ -151,7 +154,7 @@ Fixes and minor updates applied to Adobe Analytics interface tools and component
  </tbody> 
 </table>
 
-## Analytics - Developer, Administration, Data Collection, and Implementation {#analytics-implement}
+### Analytics - Developer, Administration, Data Collection, and Implementation {#analytics-implement}
 
 Fixes and updates applied to Analytics administration tools, including implementation and developer (Web Services and SDKs). 
 
@@ -186,8 +189,7 @@ Updated **August 21, 2018** (removed JavaScript 2.10 update, which occurs in Sep
 </table>
 
 
-## Important Notices for Analytics Administrators {#analytics_notices}
-
+### Important Notices for Analytics Administrators {#analytics_notices}
 
 >[!IMPORTANT]
 >
@@ -320,7 +322,7 @@ Updated **August 21, 2018** (removed JavaScript 2.10 update, which occurs in Sep
  </tbody> 
 </table>
 
-
+## Audience Manager
 
 <table id="table_A6749BA62D5B40479B949EA1C64E4B7F"> 
  <thead> 
@@ -341,10 +343,15 @@ Updated **August 21, 2018** (removed JavaScript 2.10 update, which occurs in Sep
 
 * The **Daily Trait Variation** report is now included in the **Other Reports** section.
 
+## Target
+
 Refer to the [ Adobe Target Release Notes ](https://marketing.adobe.com/resources/help/en_US/target/rn/) for the latest release information about the following products: 
 
-* Target Standard and Premium
-* Recommendations Classic
+ * Target Standard and Premium
+ * Recommendations Classic
+
+## Campaign
+
 [!DNL  Adobe Campaign] provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences. 
 
 For product documentation, see: 
@@ -356,8 +363,9 @@ For product documentation, see:
 
 <!-- To learn more about Adobe Campaign, enable yourself at [ Adobe Digital Library ](https://digitalu.adobe.com/content/Enablement/en.html). -->
 
+## Experience Manager
 
-## AEM release notes {#section_8CD42C5750254AA88D6ACA7DBFA0D9A1}
+### AEM release notes {#section_8CD42C5750254AA88D6ACA7DBFA0D9A1}
 
 Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance. 
 
@@ -429,7 +437,7 @@ Adobe recommends customers with on-premise deployments to deploy the latest patc
 </table>
 
 
-## Additional resources {#section_B1FAFE0975E74070812BC036D994FBE3}
+### Additional resources {#section_B1FAFE0975E74070812BC036D994FBE3}
 
 * [AEM 6.4 Learn &amp; Support home ](https://helpx.adobe.com/support/experience-manager/6-4.html)
 * [AEM 6.3 Learn &amp; Support home ](https://helpx.adobe.com/support/experience-manager/6-3.html)
@@ -486,6 +494,8 @@ Help for the Advertising Cloud is available in the product by clicking the Help 
 
 * [Advertising Cloud Community](https://forums.adobe.com/community/experience-cloud/advertising-cloud)
 * [Experience Cloud Release Notes](https://marketing.adobe.com/resources/help/en_US/whatsnew/)
+
+## Primetime
 
 Adobe Primetime is a multiscreen TV platform that helps media companies create and monetize engaging, personalized viewing experiences. 
 
