@@ -347,8 +347,8 @@ Updated **August 21, 2018** (removed JavaScript 2.10 update, which occurs in Sep
 
 Refer to the [ Adobe Target Release Notes ](https://marketing.adobe.com/resources/help/en_US/target/rn/) for the latest release information about the following products: 
 
- * Target Standard and Premium
- * Recommendations Classic
+* Target Standard and Premium
+* Recommendations Classic
 
 ## Campaign
 
