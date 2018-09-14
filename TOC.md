@@ -54,6 +54,6 @@ git-repo: https://git.corp.adobe.com/AdobeDocs/release-notes.en
         + [Release Notes - March 2015](c_legacy_releases/2015/03192015.md)
         + [Release Notes - February 2015](c_legacy_releases/2015/02192015.md)
         + [Release Notes - January 2015](c_legacy_releases/2015/01152015.md)
-    + 2014 and Earlier
+    + [Release Notes - 2014 and Earlier](c_legacy_releases/2014-earlier.md)
 + [Contact and Legal Information](contact_and_legal.md)
 
