@@ -12,7 +12,7 @@ snippet: y
 translate: y
 ---
 
-# 2014 and Earlier Release Notes
+# Release Notes for 2014 and Earlier
 
 Add links to PDFs
 
