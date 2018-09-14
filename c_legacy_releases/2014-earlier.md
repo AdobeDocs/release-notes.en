@@ -1,6 +1,6 @@
 ---
-description: New features and fixes in the Adobe Experience Cloud: 2014 and earlier.
-seo-description: New features and fixes in the Adobe Experience Cloud: 2014 and earlier.
+description: New features and fixes in the Adobe Experience Cloud - 2014 and earlier.
+seo-description: New features and fixes in the Adobe Experience Cloud - 2014 and earlier.
 title: 2014 and Earlier Release Notes
 solution: Release Notes,Marketing Cloud,Analytics,Social,Target,Media Optimizer
 seo-title: 2014 and Earlier Release Notes for Adobe Experience Cloud
