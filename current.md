@@ -356,7 +356,7 @@ Refer to the [ Adobe Target Release Notes ](https://marketing.adobe.com/resource
 
 For product documentation, see: 
 
-* [Adobe Campaign Classic Release Notes](http://docs.campaign.adobe.com/doc/AC/en/RN.html)
+* [Adobe Campaign Classic Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html)
 * [Adobe Campaign Classic Learn &amp; Support](https://helpx.adobe.com/support/campaign/classic.html)
 * [Adobe Campaign Standard Release Notes](https://helpx.adobe.com/campaign/standard/rn/rn.html)
 * [Adobe Campaign Standard Learn &amp; Support ](https://helpx.adobe.com/support/campaign/standard.html)
@@ -499,5 +499,5 @@ Help for the Advertising Cloud is available in the product by clicking the Help 
 
 Adobe Primetime is a multiscreen TV platform that helps media companies create and monetize engaging, personalized viewing experiences. 
 
-[Primetime Release Notes](http://help.adobe.com/en_US/primetime/release_notes/index.html) 
-[Primetime Help Home](http://help.adobe.com/en_US/primetime/) 
+[Primetime Release Notes](https://help.adobe.com/en_US/primetime/release_notes/index.html) 
+[Primetime Help Home](https://help.adobe.com/en_US/primetime/) 
