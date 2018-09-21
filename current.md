@@ -16,7 +16,7 @@ translate: y
 
 **August 2018** 
 
-[TODO REMOVE THIS](http://www.adobe.com)
+[TODO REMOVE THIS](http://www.adasodifhaosdhifaoihobe.com)
 
 New features and fixes in the Adobe Experience Cloud.
 
