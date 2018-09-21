@@ -17,4 +17,3 @@ translate: y
 Add links to PDFs
 
 <!-- How do we handle localized PDFs? Separate links in this article in language sections? -->
-Matt is putting in an insecure link: [bad link](http://www.google.com)
