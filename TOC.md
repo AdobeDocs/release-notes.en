@@ -6,7 +6,7 @@ hub: https://helpx.adobe.com/support/experience-cloud.html
 git-repo: https://git.corp.adobe.com/AdobeDocs/release-notes.en
 ---
 
-# Adobe® Experience Cloud Release Notes {#experience-cloud}
+# Experience Cloud Release Notes {#experience-cloud}
 
 + [Adobe Experience Cloud Release Notes](current.md)
 + Previous Release Notes {#previous}
