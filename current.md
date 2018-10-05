@@ -6,10 +6,6 @@ solution: Release Notes,Marketing Cloud,Analytics,Social,Target,Media Optimizer
 title: Adobe Experience Cloud Release Notes
 topic: Release notes
 uuid: c56a1064-0f2c-4241-93c6-ca4b1f267763
-index: y
-internal: n
-snippet: y
-translate: y
 ---
 
 # Adobe Experience Cloud Release Notes
@@ -55,26 +51,9 @@ Launch release notes are updated regularly at [https://docs.adobelaunch.com/gett
 
 Fixes and updates to iOS and Android. 
 
-<table id="table_6DB2F55C955943EB97DC25C96B6DF526"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> Feature </th> 
-   <th colname="col2" class="entry"> Description </th> 
-  </tr> 
- </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> <p>Version <b>4.16.1</b> </p> </td> 
-   <td colname="col2"> <p> 
-     <ul id="ul_7CBCBF9FBF3544DDB7B4A5F824A3D322"> 
-      <li id="li_6A06C5C3CA3E48C197F03CA6AEA9B4CC"> Analytics - Invalid timed action durations are now ignored. </li> 
-      <li id="li_060DC8C1F2AD436E8C5E8576791CE377"> Visitor ID Service - Fixed a bug that prevented the MID from being generated in an unknown privacy setting. </li> 
-      <li id="li_34B00AB52F2A47BE8C9C4020A2A30867"> General - Added support to opt-out of the Device Co-op. </li> 
-      <li id="li_C6249F498AF04DCD95DA5A6F5D6145F8"> General - Fixed a bug that prevented deep-link URLs with encoded values from being properly handled. </li> 
-     </ul> </p> </td> 
-  </tr> 
- </tbody> 
-</table>
+| Feature | Description |
+|--- |--- |
+|Version 4.16.1|<ul><li>Analytics - Invalid timed action durations are now ignored.</li><li>Visitor ID Service - Fixed a bug that prevented the MID from being generated in an unknown privacy setting.</li><li>General - Added support to opt-out of the Device Co-op.</li><li>General - Fixed a bug that prevented deep-link URLs with encoded values from being properly handled.</li></ul>|
 
 Release date: **August 9, 2018** 
 
