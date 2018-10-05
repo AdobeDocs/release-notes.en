@@ -216,8 +216,8 @@ Updated **August 21, 2018** (removed JavaScript 2.10 update, which occurs in Sep
    <td colname="col1"> <p>Update Report Builder before you migrate user IDs to the Admin Console </p> </td> 
    <td colname="col02"> <p>March 17, 2018 </p> </td> 
    <td colname="col2"> <p> 
-   >[!IMPORTANT]
-   >Update your installation of <a href="https://marketing.adobe.com/resources/help/en_US/arb/t_install_arb.html" format="html" scope="external"> Report Builder </a> to the latest version. This update is a pre-requisite for running the Analytics user ID migration to the Admin Console, beginning in April 2018. </p> </p> <p>See <a href="https://marketing.adobe.com/resources/help/en_US/experience-cloud/admin-console/analytics-migration/" format="https" scope="external"> Analytics User Migration to the Admin Console </a> for migration information.
+   <b>IMPORTANT:</b>
+   Update your installation of <a href="https://marketing.adobe.com/resources/help/en_US/arb/t_install_arb.html" format="html" scope="external"> Report Builder </a> to the latest version. This update is a pre-requisite for running the [!DNL](Analytics) user ID migration to the Admin Console, beginning in April 2018. </p> </p> <p>See <a href="https://marketing.adobe.com/resources/help/en_US/experience-cloud/admin-console/analytics-migration/" format="https" scope="external"> Analytics User Migration to the Admin Console </a> for migration information.
    </td> 
   </tr> 
   <tr> 
