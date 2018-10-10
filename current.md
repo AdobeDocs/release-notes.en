@@ -6,10 +6,6 @@ solution: Release Notes,Marketing Cloud,Analytics,Social,Target,Media Optimizer
 title: Adobe Experience Cloud Release Notes
 topic: Release notes
 uuid: c56a1064-0f2c-4241-93c6-ca4b1f267763
-index: y
-internal: n
-snippet: y
-translate: y
 ---
 
 # Adobe Experience Cloud Release Notes
@@ -55,26 +51,9 @@ Launch release notes are updated regularly at [https://docs.adobelaunch.com/gett
 
 Fixes and updates to iOS and Android. 
 
-<table id="table_6DB2F55C955943EB97DC25C96B6DF526"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> Feature </th> 
-   <th colname="col2" class="entry"> Description </th> 
-  </tr> 
- </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> <p>Version <b>4.16.1</b> </p> </td> 
-   <td colname="col2"> <p> 
-     <ul id="ul_7CBCBF9FBF3544DDB7B4A5F824A3D322"> 
-      <li id="li_6A06C5C3CA3E48C197F03CA6AEA9B4CC"> Analytics - Invalid timed action durations are now ignored. </li> 
-      <li id="li_060DC8C1F2AD436E8C5E8576791CE377"> Visitor ID Service - Fixed a bug that prevented the MID from being generated in an unknown privacy setting. </li> 
-      <li id="li_34B00AB52F2A47BE8C9C4020A2A30867"> General - Added support to opt-out of the Device Co-op. </li> 
-      <li id="li_C6249F498AF04DCD95DA5A6F5D6145F8"> General - Fixed a bug that prevented deep-link URLs with encoded values from being properly handled. </li> 
-     </ul> </p> </td> 
-  </tr> 
- </tbody> 
-</table>
+| Feature | Description |
+|--- |--- |
+|Version 4.16.1|<ul><li>Analytics - Invalid timed action durations are now ignored.</li><li>Visitor ID Service - Fixed a bug that prevented the MID from being generated in an unknown privacy setting.</li><li>General - Added support to opt-out of the Device Co-op.</li><li>General - Fixed a bug that prevented deep-link URLs with encoded values from being properly handled.</li></ul>|
 
 Release date: **August 9, 2018** 
 
@@ -95,7 +74,7 @@ Enhancements and new features released in Adobe Analytics.
 
 Fixes and minor updates applied to Adobe Analytics interface tools and components (Analysis Workspace, Reports &amp;amp; Analytics, Report Builder, and so on). 
 
-<!-- <p>Include topics regarding Analytics &amp;gt; Components or Tools and interfaces. </p> -->
+<!-- <p>Include topics regarding Analytics & Components or Tools and interfaces. </p> -->
 
 <table id="table_A51B298EEEB5482383505B8C5A79E1B9"> 
  <thead> 
@@ -161,32 +140,10 @@ Fixes and updates applied to Analytics administration tools, including implement
 <!-- <p>Includes any topics under Analytics &amp;gt; Admin and Implementation or data collection items. </p> -->
 Updated **August 21, 2018** (removed JavaScript 2.10 update, which occurs in September 2018). 
 
-<table id="table_EB8261E817054C2F8B17C09D16DB3412"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> Product / Feature </th> 
-   <th colname="col2" class="entry"> Update </th> 
-  </tr> 
- </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> <p>Admin Console </p> </td> 
-   <td colname="col2"> <p><b>User Migration:</b> Fixed an issue affecting user accounts after migrating to the Admin Console. (AN-160740; AN-160740; AN-165444; AN-165627) </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> </td> 
-   <td colname="col2"> <p><b>Permissions:</b> Fixed an issue where the Report Suite Tools Access permission (Web Services &gt; Data Warehouse) was missing from the list of permissions. (AN-165064) </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> </td> 
-   <td colname="col2"> <p><b>Report Suites:</b> Fixed an issue that prevented the download of report suite data for multiple report suites simultaneously. (AN-162551) </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>Calculated metrics (localization) </p> </td> 
-   <td colname="col2"> <p>Fixed a localization issue affecting some system-generated calculated metrics. (AN-164738) </p> </td> 
-  </tr> 
- </tbody> 
-</table>
+| Product / Feature | Update |
+|--- |--- |
+|Admin Console|User Migration: Fixed an issue affecting user accounts after migrating to the Admin Console. (AN-160740; AN-160740; AN-165444; AN-165627)<br>Permissions: Fixed an issue where the Report Suite Tools Access permission (Web Services > Data Warehouse) was missing from the list of permissions. (AN-165064)<br>Report Suites: Fixed an issue that prevented the download of report suite data for multiple report suites simultaneously. (AN-162551)|
+|Calculated metrics (localization)|Fixed a localization issue affecting some system-generated calculated metrics. (AN-164738)|
 
 
 ### Important Notices for Analytics Administrators {#analytics_notices}
@@ -259,8 +216,8 @@ Updated **August 21, 2018** (removed JavaScript 2.10 update, which occurs in Sep
    <td colname="col1"> <p>Update Report Builder before you migrate user IDs to the Admin Console </p> </td> 
    <td colname="col02"> <p>March 17, 2018 </p> </td> 
    <td colname="col2"> <p> 
-   >[!IMPORTANT]
-   >Update your installation of <a href="https://marketing.adobe.com/resources/help/en_US/arb/t_install_arb.html" format="html" scope="external"> Report Builder </a> to the latest version. This update is a pre-requisite for running the Analytics user ID migration to the Admin Console, beginning in April 2018. </p> </p> <p>See <a href="https://marketing.adobe.com/resources/help/en_US/experience-cloud/admin-console/analytics-migration/" format="https" scope="external"> Analytics User Migration to the Admin Console </a> for migration information.
+   <b>IMPORTANT:</b>
+   Update your installation of <a href="https://marketing.adobe.com/resources/help/en_US/arb/t_install_arb.html" format="html" scope="external"> Report Builder </a> to the latest version. This update is a pre-requisite for running the Analytics user ID migration to the Admin Console, beginning in April 2018. </p> </p> <p>See <a href="https://marketing.adobe.com/resources/help/en_US/experience-cloud/admin-console/analytics-migration/" format="https" scope="external"> Analytics User Migration to the Admin Console </a> for migration information.
    </td> 
   </tr> 
   <tr> 
@@ -324,20 +281,9 @@ Updated **August 21, 2018** (removed JavaScript 2.10 update, which occurs in Sep
 
 ## Audience Manager
 
-<table id="table_A6749BA62D5B40479B949EA1C64E4B7F"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> Feature </th> 
-   <th colname="col2" class="entry"> Description </th> 
-  </tr> 
- </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> <p> <a href="https://marketing.adobe.com/resources/help/en_US/aam/instant-cross-device-suppression.html" format="https" scope="external"> Instant Cross-Device Suppression </a> </p> </td> 
-   <td colname="col2"> <p>Instant Cross-Device Suppression is the ability to suppress users across multiple devices connected to them when a particular experience occurs on any of these devices. Use the Instant Cross-Device Suppression capability to deliver a consistent experience across devices to your users. </p> <p>This experience is made possible by the real-time unsegment capabilities in Audience Manager. </p> </td> 
-  </tr> 
- </tbody> 
-</table>
+| Feature | Description |
+|--- |--- |
+|Instant Cross-Device Suppression|Instant Cross-Device Suppression is the ability to suppress users across multiple devices connected to them when a particular experience occurs on any of these devices. Use the Instant Cross-Device Suppression capability to deliver a consistent experience across devices to your users.  This experience is made possible by the real-time unsegment capabilities in Audience Manager.|
 
 **Fixes, Enhancements, and Deprecations** 
 
@@ -449,44 +395,15 @@ Adobe recommends customers with on-premise deployments to deploy the latest patc
 
 Released July 21, 2018 
 
-<table id="table_A41D8C79DEE84AE59FE9C8D2D291FCD7"> 
- <thead> 
-  <tr> 
-   <th colname="col1" class="entry"> Feature </th> 
-   <th colname="col2" class="entry"> Description </th> 
-  </tr> 
- </thead>
- <tbody> 
-  <tr> 
-   <td colname="col1"> <p>Search Advanced Campaign Management </p> </td> 
-   <td colname="col2"> <p>The Advanced view now includes a Propagations tab. Each time you propagate data through a template, a summary is added to the Propagations tab, indicating an estimate of each entity type that was or would be created, paused, or deleted based on the propagation options. The estimate doesn't take into account changes made from within the search engine's own ad editor. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>Search Campaigns </p> </td> 
-   <td colname="col2"> <p>You can now sync, optimize, and report on your existing Google responsive search ads (RSAs), which use a beta ad format that consist of three headlines and two 90-character descriptions that Google pulls dynamically from a larger subset of ad elements. The ad elements for each resulting expanded text ad are synced with the Creative Type ”RSA.” Support for setting up responsive ads is available only in AdWords Ads Manager. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> </p> </td> 
-   <td colname="col2"> <p>For oAuth-enabled accounts on Bing Ads, Google, Pinterest, and Yahoo Gemini, an optional Password field was added to the account settings. Enter a password when you want to encrypt and save the password so that the account manager can refresh tokens as needed. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> </p> </td> 
-   <td colname="col2"> <p>oAuth tokens for Bing Ads accounts are now refreshed every month. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> </p> </td> 
-   <td colname="col2"> <p>The Placements view now has two sub-views: Placements and Negatives. </p> <p>The Negatives sub-view allows you to create and delete campaign-level and ad group-level negative placements for the Google AdWords display network. The ability to edit negative placements will be available in a future release. You also can still manage negative placements in the campaign and ad group settings. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p> </p> </td> 
-   <td colname="col2"> <p>You can now lock and unlock any column. Locking a column locks that column and all other columns to the left of it into one static pane, and all columns to the right into another pane through which you can scroll horizontally. </p> </td> 
-  </tr> 
-  <tr> 
-   <td colname="col1"> <p>Legacy Labels </p> </td> 
-   <td colname="col2"> <p>Legacy labels will become read-only on 1 September (originally planned for 1 August). Performance data for labels will continue to be available in reports for longer. </p> </td> 
-  </tr> 
- </tbody> 
-</table>
+| Feature | Description |
+|--- |--- |
+|Search Advanced Campaign Management|The Advanced view now includes a Propagations tab. Each time you propagate data through a template, a summary is added to the Propagations tab, indicating an estimate of each entity type that was or would be created, paused, or deleted based on the propagation options. The estimate doesn't take into account changes made from within the search engine's own ad editor.|
+|Search Campaigns|You can now sync, optimize, and report on your existing Google responsive search ads (RSAs), which use a beta ad format that consist of three headlines and two 90-character descriptions that Google pulls dynamically from a larger subset of ad elements. The ad elements for each resulting expanded text ad are synced with the Creative Type ”RSA.” Support for setting up responsive ads is available only in AdWords Ads Manager.|
+||For oAuth-enabled accounts on Bing Ads, Google, Pinterest, and Yahoo Gemini, an optional Password field was added to the account settings. Enter a password when you want to encrypt and save the password so that the account manager can refresh tokens as needed.|
+||oAuth tokens for Bing Ads accounts are now refreshed every month.|
+||The Placements view now has two sub-views: Placements and Negatives.  The Negatives sub-view allows you to create and delete campaign-level and ad group-level negative placements for the Google AdWords display network. The ability to edit negative placements will be available in a future release. You also can still manage negative placements in the campaign and ad group settings.|
+||You can now lock and unlock any column. Locking a column locks that column and all other columns to the left of it into one static pane, and all columns to the right into another pane through which you can scroll horizontally.|
+|Legacy Labels|Legacy labels will become read-only on 1 September (originally planned for 1 August). Performance data for labels will continue to be available in reports for longer.|
 
 Help for the Advertising Cloud is available in the product by clicking the Help icon ( **[!UICONTROL  ?]**) at the top of any page. 
 
