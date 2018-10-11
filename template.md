@@ -28,7 +28,7 @@ New features and fixes in the Adobe Experience Cloud.
 ## Adobe Cloud Platform <a name="acp"></a>
 
 Release notes for the Experience Cloud interface features and core services (accessed under the Platform group in the navigation menu). 
-		
+
 + [Activation](#activation)
 + [Administration - user and product management](#ac-admin)
 + [People](#people)
