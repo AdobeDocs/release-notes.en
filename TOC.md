@@ -13,6 +13,9 @@ git-repo: https://git.corp.adobe.com/AdobeDocs/release-notes.en
 + [Adobe Experience Cloud Release Notes](current.md)
 + Previous Release Notes {#previous}
     + 2018 {#2018}
+        + [October 2018](c-legacy-releases/2018/10112018.md)
+        + [September 2018](c-legacy-releases/2018/09132018.md)
+        + [August 2018](c-legacy-releases/2018/08092018.md)
         + [July 2018](c-legacy-releases/2018/07192018.md)
         + [June 2018](c-legacy-releases/2018/06142018.md)
         + [May 2018](c-legacy-releases/2018/05102018.md)
