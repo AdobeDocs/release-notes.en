@@ -72,7 +72,7 @@ Enhancements and new features released in Adobe Analytics.
 
 ### Analytics - Fixes and Updates {#analytics-interface}
 
-Fixes and minor updates applied to Adobe Analytics interface tools and components (Analysis Workspace, Reports &amp;amp; Analytics, Report Builder, and so on). 
+Fixes and minor updates applied to Adobe Analytics interface tools and components (Analysis Workspace, Reports &amp; Analytics, Report Builder, and so on). 
 
 <!-- <p>Include topics regarding Analytics & Components or Tools and interfaces. </p> -->
 
