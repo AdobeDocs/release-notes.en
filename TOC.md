@@ -1,10 +1,13 @@
 ---
 cloud: experience-cloud
 product: Experience Cloud
+user-guide-title: Experience Cloud Release Notes
+solution-title: Experience Cloud
 hub: https://helpx.adobe.com/support/experience-cloud.html
 getting-started: https://landing.adobe.com/experience-league/
 tutorials: https://helpx.adobe.com/experience-cloud/tutorials.html
-user-guide-title: Experience Cloud Release Notes
+solution-icon: experience-cloud.png
+mini-toc-levels: 1
 git-repo: https://git.corp.adobe.com/AdobeDocs/release-notes.en
 ---
 
