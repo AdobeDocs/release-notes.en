@@ -1,3 +1,4 @@
 ---
-haunted: house
+haunted: mansion
+mickey: mouse
 ---
