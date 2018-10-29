@@ -614,6 +614,13 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
+For product documentation, see:
+
+- [Adobe Campaign Classic Release Notes}(http://docs.campaign.adobe.com/doc/AC/en/RN.html)
+- [Adobe Campaign Classic Learn & Support](https://helpx.adobe.com/support/campaign/classic.html)
+- [Adobe Campaign Standard Release Notes](https://helpx.adobe.com/campaign/standard/rn/rn.html)
+- [Adobe Campaign Standard Learn & Support](https://helpx.adobe.com/support/campaign/standard.html)
+
 ## [!DNL Advertising Cloud] <a name="adcloud"></a>
 
 | Feature    | Description  |
