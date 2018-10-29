@@ -500,6 +500,14 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 <!--See [Name Lookup wiki]https://wiki.corp.adobe.com/display/omtrcache/Name+Lookup+Service+Release+Log for writer updates.-->
 
+### Important notices for Analytics Administrators <a name="aa-notices"></a>
+
+| Notice | Date Added or Updated  | Description |
+| -----------| ---------- | ---------- | 
+| Text | Text | Text |
+| Text | Text | Text | 
+| Text | Text | Text |
+
 ## Audience Manager <a name="aam"></a>
 
 | Feature    | Description  |
