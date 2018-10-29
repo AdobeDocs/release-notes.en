@@ -569,18 +569,11 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 
 ### [!DNL Target] <a name="target"></a>
 
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text | 
-| Feature C  | Text | 
+Refer to the [Adobe Target Release Notes](https://marketing.adobe.com/resources/help/en_US/target/rn/) for the latest release information about the following products:
 
-**Fixes**
-
-+ Fix
-+ Fix
-+ Fix
-+ Fix
+- [!DNL Target] Standard
+- [!DNL Target] Premium
+- [!DNL Recommendations] Classic
 
 ### [!DNL Primetime] <a name="prime"></a>
 
