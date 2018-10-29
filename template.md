@@ -8,9 +8,9 @@ author: mfrei
 
 ---
 
-# Adobe Experience Cloud release notes
+# [!DNL Adobe Experience Cloud] release notes
 
-New features and fixes in the Adobe Experience Cloud. 
+New features and fixes in the [!DNL Adobe Experience Cloud]. 
 
 >[!IMPORTANT]
 >This page contains pre-release content and is subject to change prior to the XXXX release.
@@ -25,9 +25,9 @@ New features and fixes in the Adobe Experience Cloud.
 + [Marketing Cloud](#mcloud)
 + [Advertising Cloud](#adcloud)
 
-## Adobe Cloud Platform <a name="acp"></a>
+## [!DNL Adobe] Cloud Platform <a name="acp"></a>
 
-Release notes for the Experience Cloud interface features and core services (accessed under the Platform group in the navigation menu). 
+Release notes for the [!DNL Experience Cloud] interface features and core services (accessed under the Platform group in the navigation menu). 
 
 + [Activation](#activation)
 + [Administration - user and product management](#ac-admin)
@@ -39,8 +39,7 @@ Release notes for the Experience Cloud interface features and core services (acc
 + [General Data Protection Regulation (GDPR) API](#gdpr)
 + [Data Connectors](#data-con)
 
->[!DONOTLOCALIZE]
->### Activation <a name="activation"></a>
+### Activation <a name="activation"></a>
 
 + [Launch, by Adobe](#launch)
 + [Dynamic Tag Manager](#dtm)
@@ -134,7 +133,7 @@ For product documentation, see [Triggers](https://marketing.adobe.com/resources/
 
 For product documentation, see [Mobile Services](https://marketing.adobe.com/resources/help/en_US/mobile/).
 
-### Experience Cloud Mobile SDKs <a name="mobsdk"></a>
+### [!DNL Experience Cloud] Mobile SDKs <a name="mobsdk"></a>
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -154,7 +153,7 @@ Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
 
 ### Administration - Admin Console product and user management <a name="ac-admin"></a>
 
-New features and fixes for Experience Cloud administrators.
+New features and fixes for [!DNL Experience Cloud] administrators.
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -188,7 +187,7 @@ New features and fixes for Experience Cloud administrators.
 + Fix
 + Fix
 
-### Experience Cloud Assets <a name="ec-asset"></a>
+### [!DNL Experience Cloud] Assets <a name="ec-asset"></a>
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -222,7 +221,7 @@ For product documentation, see [Assets](https://marketing.adobe.com/resources/he
 
 For product documentation, see [Feed](https://marketing.adobe.com/resources/help/en_US/mcloud/feed.html).
 
-### Experience Cloud ID Service <a name="ecid"></a>
+### [!DNL Experience Cloud] ID Service <a name="ecid"></a>
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -288,16 +287,14 @@ For product documentation, see [GDPR API](https://www.adobe.io/apis/cloudplatfor
 + Fix
 + Fix
 
->[!DONOTLOCALIZE]
->## Analytics Cloud <a name="aacloud"></a>
+## [!DNL Analytics Cloud] <a name="aacloud"></a>
 
 + [Analytics](#aaupdate)
 + [Audience Manager](#aam)
 
->[!DONOTLOCALIZE]
->### Analytics
+### [!DNL Analytics]
 
-New features and fixes in Adobe Analytics:
+New features and fixes in [!DNL Adobe Analytics]:
 
 + [Analysis Workspace](#aa-wksp)
 + [Reports & Analytics](#aa-rep)
@@ -494,7 +491,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 <!--See [Name Lookup wiki]https://wiki.corp.adobe.com/display/omtrcache/Name+Lookup+Service+Release+Log for writer updates.-->
 
-#### Important notices for Analytics Administrators <a name="aa-notices"></a>
+#### Important notices for [!DNL Analytics] administrators <a name="aa-notices"></a>
 
 | Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- | 
@@ -502,7 +499,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 | Text | Text | Text | 
 | Text | Text | Text |
 
-### Audience Manager <a name="aam"></a>
+### [!DNL Audience Manager] <a name="aam"></a>
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -517,7 +514,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-## Marketing Cloud <a name="mcloud"></a>
+## [!DNL Marketing Cloud] <a name="mcloud"></a>
 
 + [Experience Manager (and Livefyre)](#aem)
 + [Social](#soc)
@@ -525,7 +522,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + [Primetime](#prime)
 + [Campaign](#ac)
 
-### Experience Manager (and Livefyre) <a name="aem"></a>
+### [!DNL Experience Manager] <a name="aem"></a>
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -540,7 +537,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-### Social <a name="soc"></a>
+### [!DNL Livefyre] <a name="livefyre"></a>
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -555,7 +552,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-### Target <a name="target"></a>
+### [!DNL Social] <a name="soc"></a>
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -570,7 +567,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-### Primetime <a name="prime"></a>
+### [!DNL Target] <a name="target"></a>
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -585,7 +582,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-### Campaign <a name="ac"></a>
+### [!DNL Primetime] <a name="prime"></a>
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -600,7 +597,22 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-## Advertising Cloud <a name="adcloud"></a>
+### [!DNL Campaign] <a name="ac"></a>
+
+| Feature    | Description  |
+| -----------| ---------- |  
+| Feature A  | Text |  
+| Feature B  | Text | 
+| Feature C  | Text | 
+
+**Fixes**
+
++ Fix
++ Fix
++ Fix
++ Fix
+
+## [!DNL Advertising Cloud] <a name="adcloud"></a>
 
 | Feature    | Description  |
 | -----------| ---------- |  
