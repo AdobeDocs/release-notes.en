@@ -524,14 +524,23 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 
 ### [!DNL Experience Manager] <a name="aem"></a>
 
-New features, fixes, and updates in [!DNL Adobe Experience Manager]. Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance. 
+New features, fixes, and updates in [!DNL Adobe Experience Manager]. Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
 
-**Fixes**
+#### Product releases
 
-+ Fix
-+ Fix
-+ Fix
-+ Fix
+#### Self help
+
+#### Community
+
+#### Additional resources
+
+- [AEM 6.4 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-4.html)
+- [AEM 6.3 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-3.html)
+- [AEM 6.2 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-2.html)
+- [Cloud Manager User Guide](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
+- [Older versions of AEM documentation](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
+- [Scene7 Publishing System release notes](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
+- [Livefyre release notes](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
 ### [!DNL Livefyre] <a name="livefyre"></a>
 
