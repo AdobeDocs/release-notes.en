@@ -524,11 +524,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 
 ### [!DNL Experience Manager] <a name="aem"></a>
 
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text | 
-| Feature C  | Text | 
+New features, fixes, and updates in [!DNL Adobe Experience Manager]. Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance. 
 
 **Fixes**
 
