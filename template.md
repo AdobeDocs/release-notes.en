@@ -599,6 +599,8 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 
 ### [!DNL Campaign] <a name="ac"></a>
 
+[!DNL Adobe Campaign] provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
+
 | Feature    | Description  |
 | -----------| ---------- |  
 | Feature A  | Text |  
