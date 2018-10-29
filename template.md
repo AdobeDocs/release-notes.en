@@ -169,7 +169,7 @@ New features and fixes for [!DNL Experience Cloud] administrators.
 + Fix
 
 **More Help**
-+ [Manage Experience Cloud users and products](https://marketing.adobe.com/resources/help/en_US/mcloud/admin_getting_started.html)
++ [Manage [!DNL Experience Cloud] users and products](https://marketing.adobe.com/resources/help/en_US/mcloud/admin_getting_started.html)
 + [Enterprise Administration User Guide](https://helpx.adobe.com/enterprise/managing/user-guide.html)
 
 ### People <a name="people"></a>
