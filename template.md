@@ -302,7 +302,8 @@ New features and fixes in Adobe Analytics:
 + [Report Builder](#aa-arb)
 + [Activity Map](#aa-map)
 + [Data Workbench](#aa-dwb)
-+ [Analytics fixes and updates] (#aa-fixes)
++ [Analytics fixes and updates](#aa-fixes)
++ [Important notices for Analytics administrators](aa-notices)
 
 For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
 
