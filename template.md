@@ -21,8 +21,8 @@ New features and fixes in the Adobe Experience Cloud.
 **MONTH 2018**
 
 + [Adobe Cloud Platform](#acp)
-+ [Analytics Cloud](#ac)
-+ [Marketing Cloud](#mc)
++ [Analytics Cloud](#aacloud)
++ [Marketing Cloud](#mcloud)
 + [Advertising Cloud](#adcloud)
 
 ## Adobe Cloud Platform <a name="acp"></a>
@@ -288,7 +288,14 @@ For product documentation, see [GDPR API](https://www.adobe.io/apis/cloudplatfor
 + Fix
 + Fix
 
-## Analytics
+>[!DONOTLOCALIZE]
+>## Analytics Cloud <a name="aacloud"></a>
+
++ [Analytics](#aaupdate)
++ [Audience Manager](#aam)
+
+>[!DONOTLOCALIZE]
+>### Analytics
 
 New features and fixes in Adobe Analytics:
 
@@ -303,7 +310,7 @@ New features and fixes in Adobe Analytics:
 
 For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
 
-### Analysis Workspace <a name="aa-wksp"></a>
+#### Analysis Workspace <a name="aa-wksp"></a>
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -318,7 +325,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 + Fix
 + Fix
 
-### Reports & Analytics <a name="aa-rep"></a>
+#### Reports & Analytics <a name="aa-rep"></a>
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -333,7 +340,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 + Fix
 + Fix
 
-### Media Analytics SDK for iOS & Android (formerly VHL SDK) <a name="aa-va"></a>
+#### Media Analytics SDK for iOS & Android (formerly VHL SDK) <a name="aa-va"></a>
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -348,7 +355,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 + Fix
 + Fix
 
-### Report Builder <a name="aa-arb"></a>
+#### Report Builder <a name="aa-arb"></a>
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -363,7 +370,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 + Fix
 + Fix
 
-### Activity Map <a name="aa-map"></a>
+#### Activity Map <a name="aa-map"></a>
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -378,11 +385,11 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 + Fix
 + Fix
 
-### Data Workbench <a name="aa-dwb"></a>
+#### Data Workbench <a name="aa-dwb"></a>
 
 See [Data Workbench release notes](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/) for the latest information.
 
-### AppMeasurement <a name="appm"></a>
+#### AppMeasurement <a name="appm"></a>
 
 | Feature    | Description  |
 | -----------| ---------- | 
@@ -410,7 +417,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + PHP
 + Symbian
 
-### Data Feed <a name="aa-feed"></a>
+#### Data Feed <a name="aa-feed"></a>
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -425,7 +432,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-### Data Warehouse <a name="aa-dwh"></a>
+#### Data Warehouse <a name="aa-dwh"></a>
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -440,7 +447,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-### Data Sources <a name="aa-dsrc"></a>
+#### Data Sources <a name="aa-dsrc"></a>
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -455,7 +462,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-### Export Release <a name="aa-exp"></a>
+#### Export Release <a name="aa-exp"></a>
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -471,7 +478,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 <!--See [Export Release wiki]https://wiki.corp.adobe.com/display/omtrcache/Export+Release+Log for writer updates.-->
 
-### Name Lookup Service <a name="aa-name"></a>
+#### Name Lookup Service <a name="aa-name"></a>
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -487,7 +494,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 <!--See [Name Lookup wiki]https://wiki.corp.adobe.com/display/omtrcache/Name+Lookup+Service+Release+Log for writer updates.-->
 
-### Important notices for Analytics Administrators <a name="aa-notices"></a>
+#### Important notices for Analytics Administrators <a name="aa-notices"></a>
 
 | Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- | 
@@ -495,7 +502,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 | Text | Text | Text | 
 | Text | Text | Text |
 
-## Audience Manager <a name="aam"></a>
+### Audience Manager <a name="aam"></a>
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -510,7 +517,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-## Marketing Cloud <a name="mc"></a>
+## Marketing Cloud <a name="mcloud"></a>
 
 + [Experience Manager (and Livefyre)](#aem)
 + [Social](#soc)
