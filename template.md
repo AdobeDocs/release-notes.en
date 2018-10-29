@@ -298,7 +298,7 @@ New features and fixes in Adobe Analytics:
 
 + [Analysis Workspace](#aa-wksp)
 + [Reports & Analytics](#aa-rep)
-+ [Video Analytics](#aa-va)
++ [Media Analytics SDK for iOS & Android (formerly VHL SDK)](#aa-va)
 + [Report Builder](#aa-arb)
 + [Activity Map](#aa-map)
 + [Data Workbench](#aa-dwb)
@@ -335,7 +335,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 + Fix
 + Fix
 
-### Video Analytics <a name="aa-va"></a>
+### Media Analytics SDK for iOS & Android (formerly VHL SDK) <a name="aa-va"></a>
 
 | Feature    | Description  |
 | -----------| ---------- |  
