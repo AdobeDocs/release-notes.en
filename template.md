@@ -51,7 +51,7 @@ Release notes for the Experience Cloud interface features and core services (acc
 ### Launch, by Adobe <a name="launch"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -68,7 +68,7 @@ For product documentation, see [Launch, by Adobe](http://docs.adobelaunch.com/)
 ### Dynamic Tag Management <a name="dtm"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -85,7 +85,7 @@ For product documentation, see [Dynamic Tag Management](https://marketing.adobe.
 ### Auditor <a name="auditor"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -102,7 +102,7 @@ For product documentation, see [Auditor](https://marketing.adobe.com/resources/h
 ### Triggers <a name="triggers"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -119,7 +119,7 @@ For product documentation, see [Triggers](https://marketing.adobe.com/resources/
 ### Mobile Services <a name="mobile"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -136,7 +136,7 @@ For product documentation, see [Mobile Services](https://marketing.adobe.com/res
 ### Experience Cloud Mobile SDKs <a name="mobsdk"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -156,7 +156,7 @@ Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
 New features and fixes for Experience Cloud administrators.
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -175,7 +175,7 @@ New features and fixes for Experience Cloud administrators.
 ## People <a name="people"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -190,7 +190,7 @@ New features and fixes for Experience Cloud administrators.
 ## Experience Cloud Assets <a name="ec-asset"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -207,7 +207,7 @@ For product documentation, see [Assets](https://marketing.adobe.com/resources/he
 ## Feed <a name="feed"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -224,7 +224,7 @@ For product documentation, see [Feed](https://marketing.adobe.com/resources/help
 ## Experience Cloud ID Service <a name="ecid"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -241,7 +241,7 @@ For product documentation, see [Experience Cloud ID service](https://marketing.a
 ## Device co-op <a name="coop"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -258,7 +258,7 @@ For product documentation, see [Device co-op](https://marketing.adobe.com/resour
 ## General Data Protection Regulation (GDPR) API <a name="gdpr"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -275,7 +275,7 @@ For product documentation, see [GDPR API](https://www.adobe.io/apis/cloudplatfor
 ## Data Connectors <a name="data-con"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -308,7 +308,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 ### Analysis Workspace <a name="aa-wksp"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -323,7 +323,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 ### Reports & Analytics <a name="aa-rep"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -338,7 +338,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 ### Video Analytics <a name="aa-va"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -353,7 +353,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 ### Report Builder <a name="aa-arb"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -368,7 +368,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 ### Activity Map <a name="aa-map"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -396,7 +396,7 @@ See [Data Workbench release notes](https://marketing.adobe.com/resources/help/en
 ### AppMeasurement <a name="appm"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- | 
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -424,7 +424,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 ### Data Feed <a name="aa-feed"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -439,7 +439,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 ### Data Warehouse <a name="aa-dwh"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -454,7 +454,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 ### Data Sources <a name="aa-dsrc"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -469,7 +469,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 ### Export Release <a name="aa-exp"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -485,7 +485,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 ### Name Lookup Service <a name="aa-name"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -501,7 +501,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 ## Audience Manager <a name="aam"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -524,7 +524,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 ## Experience Manager (and Livefyre) <a name="aem"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -539,7 +539,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 ## Social <a name="soc"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -554,7 +554,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 ## Target <a name="target"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -569,7 +569,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 ## Primetime <a name="prime"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -584,7 +584,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 ## Campaign <a name="ac"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -599,7 +599,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 # Advertising Cloud <a name="adcloud"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
