@@ -104,8 +104,7 @@ New features and fixes in Adobe Audience Manager.
 | Feature    | Description  |
 | -----------| ---------- |  
 | [IRIS Optimizations](https://marketing.adobe.com/resources/help/en_US/aam/c_compact.html)  | See **Segment Mapping Rules** for more information on the set of rules that IRIS follows when sending segments to destinations. Go to [IRIS > Segment Mapping Rules](https://marketing.adobe.com/resources/help/en_US/aam/c_compact.html). |  
-| Algorithmic Modeling: Trait Exclusions  | With Trait Exclusions, you can remove traits from modeling. This way, extremely common traits such as site visitor traits don't bias your model. This new capability also enables you to remove traits from third-party data feeds.<br></br>Documentation to follow for this feature, at release time. Please check back for updated release notes in the first week of November. | 
-| Feature C  | Text | 
+| [Trait Exclusions in Algorithmic Modeling](https://marketing.adobe.com/resources/help/en_US/aam/trait-exclusion-algo-models.html)  | With Trait Exclusions, you can remove traits from modeling. This way, extremely common traits such as site visitor traits don't bias your model. This new capability also enables you to remove traits from third-party data feeds. | 
 
 **Fixes, enhancements, and deprecations**
 
@@ -113,9 +112,10 @@ New features and fixes in Adobe Audience Manager.
 
 **Known issues**
 
-The latest version of Safari includes Intelligent Tracking Prevention (ITP) 2.0 tools. This affects Addressable Audience metrics for your Safari users and data collection using the h_referer signal. Read about Safari traffic as a [Cause of Low Match Rates for Addressable Audiences](https://marketing.adobe.com/resources/help/en_US/aam/addressable-audiences-match-rates.html) and [data collection using the h_ prefix](https://marketing.adobe.com/resources/help/en_US/aam/r_tb_variable_prefixes.html).
+- The latest version of Safari includes Intelligent Tracking Prevention (ITP) 2.0 tools. This affects Addressable Audience metrics for your Safari users and data collection using the h_referer signal. Read about Safari traffic as a [Cause of Low Match Rates for Addressable Audiences](https://marketing.adobe.com/resources/help/en_US/aam/addressable-audiences-match-rates.html) and [data collection using the h_ prefix](https://marketing.adobe.com/resources/help/en_US/aam/r_tb_variable_prefixes.html).
+- The release of [Trait Exclusions in Algorithmic Modeling](https://marketing.adobe.com/resources/help/en_US/aam/trait-exclusion-algo-models.html) introduced an issue for customers using [Role-Based Access Controls](https://marketing.adobe.com/resources/help/en_US/aam/c_administration.html) . When creating a new model, if you only select data sources that you have access to, you can see their corresponding traits in the **Exclusions** window. However, if you select any other data sources than the ones you have access to, in addition to the ones that you have access to, you will see a blank list. Unselect the data sources that you don't have access to in order to see the traits. (AAM-42380)
 
-**Known issues**
+**Documentation Updates**
 
 - We added definitions and examples for all the metrics in the General Reports. Read our [General Reports documentation](https://marketing.adobe.com/resources/help/en_US/aam/c_general_reports.html).
 - We updated the Addressable Audience documentation to clarify the difference between customer-level and segment-level metrics. Read our [Addressable Audience documentation](https://marketing.adobe.com/resources/help/en_US/aam/addressable-audience-metrics.html).
