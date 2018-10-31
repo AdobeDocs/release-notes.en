@@ -168,7 +168,7 @@ For more information see the following: [https://adobe.ly/2AmFaUT](https://adobe
 
 ### [!DNL Target] <a name="target"></a>
 
-Refer to the [Adobe Target Release Notes](https://marketing.adobe.com/resources/help/en_US/target/rn/) for the latest release information about the following products:
+Refer to the [Adobe Target Release Notes](https://marketing.adobe.com/resources/help/en_US/target/rn/target_release_notes.html) for the latest release information about the following products:
 
 - [!DNL Target] Standard
 - [!DNL Target] Premium
