@@ -188,17 +188,6 @@ Availability: November 5, 2018
 | SQL Data Management activity  | A new data management workflow activity has been added. The SQL Data Management activity lets you write or copy-paste your own SQL scripts to create and populate work tables (FDA only). | 
 | Workflow monitoring  | With the new Adobe Campaign Workflow HeatMap, the platform administrators have a quick graphical representation of all the concurrent workflows, which allows them to monitor the load on the instance and plan workflows accordingly. | 
 
-#### [!DNL Adobe Campaign] Standard 18.11
-
-Availability: November 5, 2018
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Email Designer General Availability  | The new intuitive Email Designer (formerly known as Creative Designer) has moved to GA. It now supports all the features from the legacy content editor, including:<ul><li>The use of dynamic images from Adobe Target</li><li>The ability to retrieve content from a URL automatically at preparation time</li><li>Fully compliant out-of-the box content templates.</li></ul><br></br>As a consequence, the legacy email content editor is now deprecated. |  
-| Using Loops in Transactional Emails  | You can now reference one or more data collections in a transactional email to create loops on specific content. For example, you can automatically send a cart abandonment email listing all the products that were in the user's cart with an image, the price, and a link to each product. | 
-| Mobile View in the Email Designer  | You can now switch to a dedicated mobile view when editing email content. This allows you to fine-tune the responsive design of an email by separately editing all style options for mobile display, such as adapting margins, smaller font size, different background color, and so on. |
-| In-App Messaging Beta Improvements  | The In-App Messaging feature has been enhanced with the following capabilities:<ul><li>In-App channel is GDPR compliant</li><li>Integration with Analytics APIs to populate Triggers drop-downs</li><li>Intuitive look and description of delivery templates</li><li>Enhancements to authoring interface from usability standpoint</li></ul> |
-
 For product documentation, see:
 
 - [Adobe Campaign Classic Release Notes](http://docs.campaign.adobe.com/doc/AC/en/RN.html)
