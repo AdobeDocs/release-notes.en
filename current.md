@@ -35,10 +35,10 @@ New features and fixes in the Adobe Experience Cloud.
 
 New features and fixes in [!DNL Adobe Analytics]:
 
-- [Analysis Workspace](#aa-wksp)
-- [Media Analytics SDK for iOS & Android (formerly VHL SDK)](#aa-va)
-- [Analytics fixes and updates](#aa-fixes)
-- [Important notices for Analytics administrators](aa-notices)
++ [Analysis Workspace](#aa-wksp)
++ [Media Analytics SDK for iOS & Android (formerly VHL SDK)](#aa-va)
++ [Analytics fixes and updates](#aa-fixes)
++ [Important notices for Analytics administrators](aa-notices)
 
 For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
 
@@ -117,8 +117,8 @@ New features and fixes in Adobe Audience Manager.
 
 **Documentation Updates**
 
-- We added definitions and examples for all the metrics in the General Reports. Read our [General Reports documentation](https://marketing.adobe.com/resources/help/en_US/aam/c_general_reports.html).
-- We updated the Addressable Audience documentation to clarify the difference between customer-level and segment-level metrics. Read our [Addressable Audience documentation](https://marketing.adobe.com/resources/help/en_US/aam/addressable-audience-metrics.html).
++ We added definitions and examples for all the metrics in the General Reports. Read our [General Reports documentation](https://marketing.adobe.com/resources/help/en_US/aam/c_general_reports.html).
++ We updated the Addressable Audience documentation to clarify the difference between customer-level and segment-level metrics. Read our [Addressable Audience documentation](https://marketing.adobe.com/resources/help/en_US/aam/addressable-audience-metrics.html).
 
 ## [!DNL Marketing Cloud] <a name="mcloud"></a>
 
@@ -132,7 +132,7 @@ New features, fixes, and updates in [!DNL Adobe Experience Manager]. Adobe recom
 
 #### Product releases
 
-- AEM Dispatcher 4.3.1
++ AEM Dispatcher 4.3.1
 
 Adobe strongly recommends using the latest version of AEM Dispatcher to avail the latest functionality, the most recent bug fixes, and the best possible performance.
 
@@ -140,7 +140,7 @@ See the [AEM Dispatcher Release Notes](https://helpx.adobe.com/experience-manage
 
 #### Self help
 
-- Configuring AEM Assets integration with Experience Cloud and Creative Cloud
++ Configuring AEM Assets integration with Experience Cloud and Creative Cloud
 
 The documentation for configuring the AEM Assets integration with Experience Cloud and Creative Cloud has been updated. If you use this integration, Adobe recommends that you update the configuration to point to experiencecloud.adobe.com instead.
 
@@ -148,7 +148,7 @@ See also: [Configure AEM Assets integration with Experience Cloud](https://helpx
 
 #### Community
 
-- Experience League: Fast-track your Adobe Experience Cloud Expertise
++ Experience League: Fast-track your Adobe Experience Cloud Expertise
 
 Learning any new software can be challenging. Even after the initial training, there may be a lot to learn and you may not know where to start or who to ask for help.
 
@@ -158,21 +158,21 @@ For more information see the following: [https://adobe.ly/2AmFaUT](https://adobe
 
 #### Additional resources
 
-- [AEM 6.4 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-4.html)
-- [AEM 6.3 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-3.html)
-- [AEM 6.2 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-2.html)
-- [Cloud Manager User Guide](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
-- [Older versions of AEM documentation](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
-- [Scene7 Publishing System release notes](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
-- [Livefyre release notes](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
++ [AEM 6.4 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-4.html)
++ [AEM 6.3 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-3.html)
++ [AEM 6.2 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-2.html)
++ [Cloud Manager User Guide](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
++ [Older versions of AEM documentation](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
++ [Scene7 Publishing System release notes](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
++ [Livefyre release notes](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
 ### [!DNL Target] <a name="target"></a>
 
 Refer to the [Adobe Target Release Notes](https://marketing.adobe.com/resources/help/en_US/target/rn/target_release_notes.html) for the latest release information about the following products:
 
-- [!DNL Target] Standard
-- [!DNL Target] Premium
-- [!DNL Recommendations] Classic
++ [!DNL Target] Standard
++ [!DNL Target] Premium
++ [!DNL Recommendations] Classic
 
 ### [!DNL Campaign] <a name="ac"></a>
 
@@ -190,9 +190,7 @@ Availability: November 5, 2018
 
 For product documentation, see:
 
-- [Adobe Campaign Classic Release Notes](http://docs.campaign.adobe.com/doc/AC/en/RN.html)
-- [Adobe Campaign Classic Learn & Support](https://helpx.adobe.com/support/campaign/classic.html)
-- [Adobe Campaign Standard Release Notes](https://helpx.adobe.com/campaign/standard/rn/rn.html)
-- [Adobe Campaign Standard Learn & Support](https://helpx.adobe.com/support/campaign/standard.html)
-
-
++ [Adobe Campaign Classic Release Notes](http://docs.campaign.adobe.com/doc/AC/en/RN.html)
++ [Adobe Campaign Classic Learn & Support](https://helpx.adobe.com/support/campaign/classic.html)
++ [Adobe Campaign Standard Release Notes](https://helpx.adobe.com/campaign/standard/rn/rn.html)
++ [Adobe Campaign Standard Learn & Support](https://helpx.adobe.com/support/campaign/standard.html)
