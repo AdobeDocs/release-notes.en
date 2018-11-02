@@ -6,7 +6,9 @@ user-guide-url: null
 solution-title: Experience Cloud
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud.html
 solution-icon: assets/experience-cloud.png
+getting-started-title: Getting Started
 getting-started-url: https://landing.adobe.com/experience-league/
+tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/experience-cloud/tutorials.html
 mini-toc-levels: 1
 git-repo: https://git.corp.adobe.com/AdobeDocs/release-notes.en
