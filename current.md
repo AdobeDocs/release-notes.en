@@ -37,8 +37,8 @@ New features and fixes in [!DNL Adobe Analytics]:
 
 + [Analysis Workspace](#analysis-workspace)
 + [Media Analytics SDK for iOS & Android (formerly VHL SDK)](#media-analytics-sdk)
-+ [Analytics fixes and updates](#aa-fixes)
-+ [Important notices for Analytics administrators](aa-notices)
++ [Analytics fixes and updates](#analytics-fixes)
++ [Important notices for Analytics administrators](#analytics-admins)
 
 For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
 
