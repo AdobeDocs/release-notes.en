@@ -473,6 +473,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 + Fix
+
 <!--See [Export Release wiki]https://wiki.corp.adobe.com/display/omtrcache/Export+Release+Log for writer updates.-->
 
 #### Name Lookup Service <a name="aa-name"></a>
@@ -489,6 +490,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 + Fix
+
 <!--See [Name Lookup wiki]https://wiki.corp.adobe.com/display/omtrcache/Name+Lookup+Service+Release+Log for writer updates.-->
 
 #### Important notices for [!DNL Analytics] administrators <a name="aa-notices"></a>
@@ -534,13 +536,13 @@ New features, fixes, and updates in [!DNL Adobe Experience Manager]. Adobe recom
 
 #### Additional resources
 
-- [AEM 6.4 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-4.html)
-- [AEM 6.3 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-3.html)
-- [AEM 6.2 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-2.html)
-- [Cloud Manager User Guide](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
-- [Older versions of AEM documentation](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
-- [Scene7 Publishing System release notes](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
-- [Livefyre release notes](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
++ [AEM 6.4 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-4.html)
++ [AEM 6.3 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-3.html)
++ [AEM 6.2 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-2.html)
++ [Cloud Manager User Guide](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
++ [Older versions of AEM documentation](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
++ [Scene7 Publishing System release notes](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
++ [Livefyre release notes](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
 ### [!DNL Livefyre] <a name="livefyre"></a>
 
@@ -576,9 +578,9 @@ New features, fixes, and updates in [!DNL Adobe Experience Manager]. Adobe recom
 
 Refer to the [Adobe Target Release Notes](https://marketing.adobe.com/resources/help/en_US/target/rn/) for the latest release information about the following products:
 
-- [!DNL Target] Standard
-- [!DNL Target] Premium
-- [!DNL Recommendations] Classic
++ [!DNL Target] Standard
++ [!DNL Target] Premium
++ [!DNL Recommendations] Classic
 
 ### [!DNL Primetime] <a name="prime"></a>
 
@@ -614,10 +616,10 @@ Refer to the [Adobe Target Release Notes](https://marketing.adobe.com/resources/
 
 For product documentation, see:
 
-- [Adobe Campaign Classic Release Notes}(http://docs.campaign.adobe.com/doc/AC/en/RN.html)
-- [Adobe Campaign Classic Learn & Support](https://helpx.adobe.com/support/campaign/classic.html)
-- [Adobe Campaign Standard Release Notes](https://helpx.adobe.com/campaign/standard/rn/rn.html)
-- [Adobe Campaign Standard Learn & Support](https://helpx.adobe.com/support/campaign/standard.html)
++ [Adobe Campaign Classic Release Notes}(http://docs.campaign.adobe.com/doc/AC/en/RN.html)
++ [Adobe Campaign Classic Learn & Support](https://helpx.adobe.com/support/campaign/classic.html)
++ [Adobe Campaign Standard Release Notes](https://helpx.adobe.com/campaign/standard/rn/rn.html)
++ [Adobe Campaign Standard Learn & Support](https://helpx.adobe.com/support/campaign/standard.html)
 
 ## [!DNL Advertising Cloud] <a name="adcloud"></a>
 
