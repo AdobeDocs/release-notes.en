@@ -2,7 +2,7 @@
 cloud: experience-cloud
 product: Experience Cloud
 user-guide-title: Adobe Experience Cloud Release Notes
-user-guide-url: null
+user-guide-url: https://www.adobe.com
 solution-title: Experience Cloud
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud.html
 solution-icon: assets/assets/experience-cloud-logo-24.png
