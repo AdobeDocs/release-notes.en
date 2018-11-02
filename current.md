@@ -28,15 +28,15 @@ New features and fixes in the Adobe Experience Cloud.
 
 ## [!DNL Analytics Cloud]{#analytics-cloud}
 
-+ [Analytics](#aaupdate)
++ [Analytics](#analytics-update)
 + [Audience Manager](#audience-manager)
 
-### [!DNL Analytics]
+### [!DNL Analytics]{#analytics-update}
 
 New features and fixes in [!DNL Adobe Analytics]:
 
-+ [Analysis Workspace](#aa-wksp)
-+ [Media Analytics SDK for iOS & Android (formerly VHL SDK)](#aa-va)
++ [Analysis Workspace](#analysis-workspace)
++ [Media Analytics SDK for iOS & Android (formerly VHL SDK)](#media-analytics-sdk)
 + [Analytics fixes and updates](#aa-fixes)
 + [Important notices for Analytics administrators](aa-notices)
 
