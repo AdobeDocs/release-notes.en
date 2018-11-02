@@ -22,14 +22,14 @@ New features and fixes in the Adobe Experience Cloud.
 
 **November 2018**
 
-+ [Analytics Cloud](#aacloud)
-+ [Marketing Cloud](#mcloud)
-+ [Advertising Cloud](#adcloud)
++ [Analytics Cloud](#analytics-cloud)
++ [Marketing Cloud](#marketing-cloud)
++ [Advertising Cloud](#advertising-cloud)
 
-## [!DNL Analytics Cloud] <a name="aacloud"></a>
+## [!DNL Analytics Cloud]{#analytics-cloud}
 
 + [Analytics](#aaupdate)
-+ [Audience Manager](#aam)
++ [Audience Manager](#audience-manager)
 
 ### [!DNL Analytics]
 
@@ -42,7 +42,7 @@ New features and fixes in [!DNL Adobe Analytics]:
 
 For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
 
-#### Analysis Workspace <a name="aa-wksp"></a>
+#### Analysis Workspace{#analysis-workspace}
 
 |Feature|Description|
 | -----------| ---------- |  
@@ -50,7 +50,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 | Adobe Analytics and General Data Protection Regulation (GDPR) | Analytics supports a new method for passing the legacy Analytics visitor ID to a GDPR request (see [AAID](https://marketing.adobe.com/resources/help/en_US/analytics/gdpr/gdpr_namespaces.html)). Also, Analytics now supports [deleting (anonymizing) the Purchase ID value](https://marketing.adobe.com/resources/help/en_US/analytics/gdpr/gdpr_labels.html) as part of a delete request. |
 | [GDPR/ePrivacy enhancements to server-side forwarding](https://marketing.adobe.com/resources/help/en_US/analytics/audiences/ssf-gdpr.html) | Prompted by the [EU cookie compliance regulation](http://ec.europa.eu/ipg/basics/legal/cookies/index_en.htm), data controllers (Analytics customers) now have the option to restrict pre-consent data to Adobe Analytics, and prevent it from being server-side forwarded to Adobe Audience Manager (AAM). A new implementation context variable lets you flag hits where consent has not been received. The variable, when set, prevents these hits from being sent to AAM until consent has been received. | 
 
-### Media Analytics SDK for iOS & Android (formerly VHL SDK) <a name="aa-va"></a>
+### Media Analytics SDK for iOS & Android (formerly VHL SDK){#media-analytics-sdk}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -58,7 +58,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 | Maintaining Ad Breaks  | Enhanced Ad tracking in scenarios where if a player has entered an ad break, and no calls are sent for a certain period of time, the SDK logic will default back to content playback, even if the player is still in an ad break state. During a pre-roll ad, this may result in a content start firing before the ad break is complete. In Media 2.2 SDK, buffer calls will be sent between ads within an ad break when there is a long delay between ads. | 
 | SDK Name Change  | Starting with the 2.2 release, the Video Heartbeat Library (VHL) SDKs are renamed to Media SDK. The Media 2.2 SDK is fully backwards compatible with the VHL 2.X SDK series. The name change does not represent a functional break, simply a change in naming convention. | 
 
-#### Analytics fixes and updates <a name="aa-fixes"></a>
+#### Analytics fixes and updates{#analytics-fixes}
 
 **Analysis Workspace**
 
@@ -69,11 +69,11 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 + Calculated Metrics: Fixed an issue related to copying calculated metric parameters. (AN-169648)
 + Calculated Metrics: Fixed a localization issue in the calculated metric preview. (AN-165086)
 
-#### Data Workbench <a name="aa-dwb"></a>
+#### Data Workbench{#data-workbench}
 
 See [Data Workbench release notes](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/) for the latest information.
 
-#### Important notices for [!DNL Analytics] administrators <a name="aa-notices"></a>
+#### Important notices for [!DNL Analytics] administrators{#analytics-admins}
 
 | Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- | 
@@ -97,7 +97,7 @@ See [Data Workbench release notes](https://marketing.adobe.com/resources/help/en
 | Data retention: Check and set your data retention policy for Adobe Analytics | February 1, 2018 | **Background**<br></br>The European Union’s General Data Protection Regulation (GDPR), which applies as from May 25, 2018, provides that Adobe, in its role as your data processor, must take appropriate measures to assist its customers in fulfilling access, deletion, and other requests from individuals. Applying appropriate, secure, and timely deletion policies is an important part of complying with this obligation. As a result, Adobe would like to work with you to implement a data retention policy before GDPR takes effect on May 25, 2018.<br></br>**What to expect**<br></br>Unless you already have an Adobe Analytics data retention policy in place, Adobe will begin applying data retention as currently specified in customer contracts for Adobe Analytics, unless other arrangements are made.<br></br>Most Adobe Analytics contracts state that Adobe may delete data after 25 months. Once a data retention policy is in place for your organization, it is enforced on a rolling monthly basis. Data retention for longer periods than 25 months is available for an additional fee. Data retention periods for shorter periods can also be configured by contacting Customer Care.<br></br>You will soon receive an email with additional details for your organization.<br></br>Data retention impacts all methods for accessing historical Adobe Analytics data, including but not limited to Reports & Analytics, Analysis Workspace, Report Builder, the Web Services Reporting APIs, data warehouse, and data feeds.<br></br>**Next steps**<br></br>Identify stakeholders within your organization responsible for making decisions about data retention. Your organization is best placed to know the appropriate period for which Adobe Analytics data should be retained.<br></br>Contact your Adobe Customer Success Manager if you have questions regarding data retention for Adobe Analytics. |
 | User account linking | October 26, 2017 | Analytics users no longer need to manually link their accounts between the Experience Cloud and Analytics. Users can contact their Admin Console administrator to request Analytics access.<br></br>The Analytics user ID migration enables administrators to easily migrate user accounts from Analytics User Management to the Adobe Admin Console. After your users are migrated, they will have access to the purchased solutions and core services available in the Experience Cloud.<br></br>[Learn more about the Analytics User ID migration](https://marketing.adobe.com/resources/help/en_US/experience-cloud/admin-console/analytics-migration/). |
 
-### [!DNL Audience Manager] <a name="aam"></a>
+### [!DNL Audience Manager]{#audience-manager}
 
 New features and fixes in Adobe Audience Manager.
 
@@ -120,13 +120,13 @@ New features and fixes in Adobe Audience Manager.
 + We added definitions and examples for all the metrics in the General Reports. Read our [General Reports documentation](https://marketing.adobe.com/resources/help/en_US/aam/c_general_reports.html).
 + We updated the Addressable Audience documentation to clarify the difference between customer-level and segment-level metrics. Read our [Addressable Audience documentation](https://marketing.adobe.com/resources/help/en_US/aam/addressable-audience-metrics.html).
 
-## [!DNL Marketing Cloud] <a name="mcloud"></a>
+## [!DNL Marketing Cloud{#marketing-cloud}
 
 + [Experience Manager](#aem)
 + [Target](#target)
 + [Campaign](#ac)
 
-### [!DNL Experience Manager] <a name="aem"></a>
+### [!DNL Experience Manager]{#experience-manager}
 
 New features, fixes, and updates in [!DNL Adobe Experience Manager]. Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
 
@@ -166,7 +166,7 @@ For more information see the following: [https://adobe.ly/2AmFaUT](https://adobe
 + [Scene7 Publishing System release notes](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 + [Livefyre release notes](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
-### [!DNL Target] <a name="target"></a>
+### [!DNL Target]{#target}
 
 Refer to the [Adobe Target Release Notes](https://marketing.adobe.com/resources/help/en_US/target/rn/target_release_notes.html) for the latest release information about the following products:
 
@@ -174,7 +174,7 @@ Refer to the [Adobe Target Release Notes](https://marketing.adobe.com/resources/
 + [!DNL Target] Premium
 + [!DNL Recommendations] Classic
 
-### [!DNL Campaign] <a name="ac"></a>
+### [!DNL Campaign][#campaign}
 
 [!DNL Adobe Campaign] provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
 
