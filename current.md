@@ -58,13 +58,13 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 | Maintaining Ad Breaks  | Enhanced Ad tracking in scenarios where if a player has entered an ad break, and no calls are sent for a certain period of time, the SDK logic will default back to content playback, even if the player is still in an ad break state. During a pre-roll ad, this may result in a content start firing before the ad break is complete. In Media 2.2 SDK, buffer calls will be sent between ads within an ad break when there is a long delay between ads. | 
 | SDK Name Change  | Starting with the 2.2 release, the Video Heartbeat Library (VHL) SDKs are renamed to Media SDK. The Media 2.2 SDK is fully backwards compatible with the VHL 2.X SDK series. The name change does not represent a functional break, simply a change in naming convention. | 
 
-#### Analytics fixes and updates{#analytics-fixes}
+#### Analytics Fixes and Updates{#analytics-fixes}
 
 **Analysis Workspace**
 
 + Fixed an issue where in "Create metric from selection" and "Compare attribution models", the Percent Change calculated metric was incorrect. (AN-170471)
 
-**Other Analytics fixes**
+**Other Analytics Fixes**
 
 + Calculated Metrics: Fixed an issue related to copying calculated metric parameters. (AN-169648)
 + Calculated Metrics: Fixed a localization issue in the calculated metric preview. (AN-165086)
@@ -73,7 +73,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 
 See [Data Workbench release notes](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/) for the latest information.
 
-#### Important notices for [!DNL Analytics] administrators{#analytics-admins}
+#### Important Notices for [!DNL Analytics] administrators{#analytics-admins}
 
 | Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- | 
