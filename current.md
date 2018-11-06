@@ -104,7 +104,8 @@ New features and fixes in Adobe Audience Manager.
 | Feature    | Description  |
 | -----------| ---------- |  
 | [IRIS Optimizations](https://marketing.adobe.com/resources/help/en_US/aam/c_compact.html)  | See **Segment Mapping Rules** for more information on the set of rules that IRIS follows when sending segments to destinations. Go to [IRIS > Segment Mapping Rules](https://marketing.adobe.com/resources/help/en_US/aam/c_compact.html). |  
-| [Trait Exclusions in Algorithmic Modeling](https://marketing.adobe.com/resources/help/en_US/aam/trait-exclusion-algo-models.html)  | With Trait Exclusions, you can remove traits from modeling. This way, extremely common traits such as site visitor traits don't bias your model. This new capability also enables you to remove traits from third-party data feeds. | 
+| [Trait Exclusions in Algorithmic Modeling](https://marketing.adobe.com/resources/help/en_US/aam/trait-exclusion-algo-models.html)  | With Trait Exclusions, you can remove traits from modeling. This way, extremely common traits such as site visitor traits don't bias your model. This new capability also enables you to remove traits from third-party data feeds. |
+| [Audience Lab Advanced Functionality](https://marketing.adobe.com/resources/help/en_US/aam/audience-lab-advanced.html) - **Duplicate Allocation Template** and **Test Segment Holdout** | We released two features to increase your productivity when using Audience Lab. Learn how to get started with them in [Audience Lab Advanced Functionality](https://marketing.adobe.com/resources/help/en_US/aam/audience-lab-advanced.html). |
 
 **Fixes, enhancements, and deprecations**
 
