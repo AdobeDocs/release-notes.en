@@ -120,7 +120,7 @@ New features and fixes in Adobe Audience Manager.
 + We added definitions and examples for all the metrics in the General Reports. Read our [General Reports documentation](https://marketing.adobe.com/resources/help/en_US/aam/c_general_reports.html).
 + We updated the Addressable Audience documentation to clarify the difference between customer-level and segment-level metrics. Read our [Addressable Audience documentation](https://marketing.adobe.com/resources/help/en_US/aam/addressable-audience-metrics.html).
 
-## [!DNL Marketing Cloud{#marketing-cloud}
+## [!DNL Marketing Cloud]{#marketing-cloud}
 
 + [Experience Manager](#aem)
 + [Target](#target)
