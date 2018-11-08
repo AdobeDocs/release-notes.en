@@ -8,9 +8,9 @@ author: mfrei
 
 ---
 
-# Adobe Experience Cloud release notes
+# [!DNL Adobe Experience Cloud] release notes
 
-New features and fixes in the Adobe Experience Cloud. 
+New features and fixes in the [!DNL Adobe Experience Cloud]. 
 
 >[!IMPORTANT]
 >This page contains pre-release content and is subject to change prior to the XXXX release.
@@ -21,13 +21,13 @@ New features and fixes in the Adobe Experience Cloud.
 **MONTH 2018**
 
 + [Adobe Cloud Platform](#acp)
-+ [Analytics Cloud](#ac)
-+ [Marketing Cloud](#mc)
++ [Analytics Cloud](#aacloud)
++ [Marketing Cloud](#mcloud)
 + [Advertising Cloud](#adcloud)
 
-## Adobe Cloud Platform <a name="acp"></a>
+## [!DNL Adobe] Cloud Platform <a name="acp"></a>
 
-Release notes for the Experience Cloud interface features and core services (accessed under the Platform group in the navigation menu). 
+Release notes for the [!DNL Experience Cloud] interface features and core services (accessed under the Platform group in the navigation menu). 
 
 + [Activation](#activation)
 + [Administration - user and product management](#ac-admin)
@@ -39,7 +39,7 @@ Release notes for the Experience Cloud interface features and core services (acc
 + [General Data Protection Regulation (GDPR) API](#gdpr)
 + [Data Connectors](#data-con)
 
-## Activation <a name="activation"></a>
+### Activation <a name="activation"></a>
 
 + [Launch, by Adobe](#launch)
 + [Dynamic Tag Manager](#dtm)
@@ -51,7 +51,7 @@ Release notes for the Experience Cloud interface features and core services (acc
 ### Launch, by Adobe <a name="launch"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -68,7 +68,7 @@ For product documentation, see [Launch, by Adobe](http://docs.adobelaunch.com/)
 ### Dynamic Tag Management <a name="dtm"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -85,7 +85,7 @@ For product documentation, see [Dynamic Tag Management](https://marketing.adobe.
 ### Auditor <a name="auditor"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -102,7 +102,7 @@ For product documentation, see [Auditor](https://marketing.adobe.com/resources/h
 ### Triggers <a name="triggers"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -119,7 +119,7 @@ For product documentation, see [Triggers](https://marketing.adobe.com/resources/
 ### Mobile Services <a name="mobile"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -133,10 +133,10 @@ For product documentation, see [Triggers](https://marketing.adobe.com/resources/
 
 For product documentation, see [Mobile Services](https://marketing.adobe.com/resources/help/en_US/mobile/).
 
-### Experience Cloud Mobile SDKs <a name="mobsdk"></a>
+### [!DNL Experience Cloud] Mobile SDKs <a name="mobsdk"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -151,12 +151,12 @@ For product documentation, see [Mobile Services](https://marketing.adobe.com/res
 For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud
 Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
 
-## Administration - Admin Console product and user management <a name="ac-admin"></a>
+### Administration - Admin Console product and user management <a name="ac-admin"></a>
 
-New features and fixes for Experience Cloud administrators.
+New features and fixes for [!DNL Experience Cloud] administrators.
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -169,13 +169,13 @@ New features and fixes for Experience Cloud administrators.
 + Fix
 
 **More Help**
-+ [Manage Experience Cloud users and products](https://marketing.adobe.com/resources/help/en_US/mcloud/admin_getting_started.html)
++ [Manage [!DNL Experience Cloud] users and products](https://marketing.adobe.com/resources/help/en_US/mcloud/admin_getting_started.html)
 + [Enterprise Administration User Guide](https://helpx.adobe.com/enterprise/managing/user-guide.html)
 
-## People <a name="people"></a>
+### People <a name="people"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -187,10 +187,10 @@ New features and fixes for Experience Cloud administrators.
 + Fix
 + Fix
 
-## Experience Cloud Assets <a name="ec-asset"></a>
+### [!DNL Experience Cloud] Assets <a name="ec-asset"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -204,10 +204,10 @@ New features and fixes for Experience Cloud administrators.
 
 For product documentation, see [Assets](https://marketing.adobe.com/resources/help/en_US/mcloud/experience-cloud-assets.html).
 
-## Feed <a name="feed"></a>
+### Feed <a name="feed"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -221,10 +221,10 @@ For product documentation, see [Assets](https://marketing.adobe.com/resources/he
 
 For product documentation, see [Feed](https://marketing.adobe.com/resources/help/en_US/mcloud/feed.html).
 
-## Experience Cloud ID Service <a name="ecid"></a>
+### [!DNL Experience Cloud] ID Service <a name="ecid"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -238,10 +238,10 @@ For product documentation, see [Feed](https://marketing.adobe.com/resources/help
 
 For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
 
-## Device co-op <a name="coop"></a>
+### Device co-op <a name="coop"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -255,10 +255,10 @@ For product documentation, see [Experience Cloud ID service](https://marketing.a
 
 For product documentation, see [Device co-op](https://marketing.adobe.com/resources/help/en_US/mcdc/index.html).
 
-## General Data Protection Regulation (GDPR) API <a name="gdpr"></a>
+### General Data Protection Regulation (GDPR) API <a name="gdpr"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -272,10 +272,10 @@ For product documentation, see [Device co-op](https://marketing.adobe.com/resour
 
 For product documentation, see [GDPR API](https://www.adobe.io/apis/cloudplatform/gdpr/docs.html).
 
-## Data Connectors <a name="data-con"></a>
+### Data Connectors <a name="data-con"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -287,28 +287,30 @@ For product documentation, see [GDPR API](https://www.adobe.io/apis/cloudplatfor
 + Fix
 + Fix
 
-# Analytics Cloud <a name="aacloud"></a>
+## [!DNL Analytics Cloud] <a name="aacloud"></a>
 
 + [Analytics](#aaupdate)
 + [Audience Manager](#aam)
 
-## Analytics - new features, updates, and fixes <a name="aaupdate"></a>
+### [!DNL Analytics]
 
-New features and fixes in Adobe Analytics:
+New features and fixes in [!DNL Adobe Analytics]:
 
 + [Analysis Workspace](#aa-wksp)
 + [Reports & Analytics](#aa-rep)
-+ [Video Analytics](#aa-va)
++ [Media Analytics SDK for iOS & Android (formerly VHL SDK)](#aa-va)
 + [Report Builder](#aa-arb)
 + [Activity Map](#aa-map)
 + [Data Workbench](#aa-dwb)
++ [Analytics fixes and updates](#aa-fixes)
++ [Important notices for Analytics administrators](aa-notices)
 
 For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
 
-### Analysis Workspace <a name="aa-wksp"></a>
+#### Analysis Workspace <a name="aa-wksp"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -320,10 +322,10 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 + Fix
 + Fix
 
-### Reports & Analytics <a name="aa-rep"></a>
+#### Reports & Analytics <a name="aa-rep"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -335,10 +337,10 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 + Fix
 + Fix
 
-### Video Analytics <a name="aa-va"></a>
+#### Media Analytics SDK for iOS & Android (formerly VHL SDK) <a name="aa-va"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -350,10 +352,10 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 + Fix
 + Fix
 
-### Report Builder <a name="aa-arb"></a>
+#### Report Builder <a name="aa-arb"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -365,10 +367,10 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 + Fix
 + Fix
 
-### Activity Map <a name="aa-map"></a>
+#### Activity Map <a name="aa-map"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -380,23 +382,14 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 + Fix
 + Fix
 
-### Data Workbench <a name="aa-dwb"></a>
+#### Data Workbench <a name="aa-dwb"></a>
 
 See [Data Workbench release notes](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/) for the latest information.
 
-## Analytics administration, implementation, and data collection
-
-+ [AppMeasurement](#appm)
-+ [Data Feed](#aa-feed)
-+ [Data Warehouse](#aa-dwh)
-+ [Data Sources](#aa-dsrc)
-+ [Export Release](#aa-exp)
-+ [Name Lookup Service](#aa-name)
-
-### AppMeasurement <a name="appm"></a>
+#### AppMeasurement <a name="appm"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- | 
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -421,10 +414,10 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + PHP
 + Symbian
 
-### Data Feed <a name="aa-feed"></a>
+#### Data Feed <a name="aa-feed"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -436,10 +429,10 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-### Data Warehouse <a name="aa-dwh"></a>
+#### Data Warehouse <a name="aa-dwh"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -451,10 +444,10 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-### Data Sources <a name="aa-dsrc"></a>
+#### Data Sources <a name="aa-dsrc"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -466,10 +459,10 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-### Export Release <a name="aa-exp"></a>
+#### Export Release <a name="aa-exp"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -480,12 +473,13 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 + Fix
+
 <!--See [Export Release wiki]https://wiki.corp.adobe.com/display/omtrcache/Export+Release+Log for writer updates.-->
 
-### Name Lookup Service <a name="aa-name"></a>
+#### Name Lookup Service <a name="aa-name"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -496,12 +490,21 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 + Fix
+
 <!--See [Name Lookup wiki]https://wiki.corp.adobe.com/display/omtrcache/Name+Lookup+Service+Release+Log for writer updates.-->
 
-## Audience Manager <a name="aam"></a>
+#### Important notices for [!DNL Analytics] administrators <a name="aa-notices"></a>
+
+| Notice | Date Added or Updated  | Description |
+| -----------| ---------- | ---------- | 
+| Text | Text | Text |
+| Text | Text | Text | 
+| Text | Text | Text |
+
+### [!DNL Audience Manager] <a name="aam"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -513,7 +516,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-# Marketing Cloud <a name="mc"></a>
+## [!DNL Marketing Cloud] <a name="mcloud"></a>
 
 + [Experience Manager (and Livefyre)](#aem)
 + [Social](#soc)
@@ -521,10 +524,30 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + [Primetime](#prime)
 + [Campaign](#ac)
 
-## Experience Manager (and Livefyre) <a name="aem"></a>
+### [!DNL Experience Manager] <a name="aem"></a>
+
+New features, fixes, and updates in [!DNL Adobe Experience Manager]. Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
+
+#### Product releases
+
+#### Self help
+
+#### Community
+
+#### Additional resources
+
++ [AEM 6.4 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-4.html)
++ [AEM 6.3 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-3.html)
++ [AEM 6.2 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-2.html)
++ [Cloud Manager User Guide](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
++ [Older versions of AEM documentation](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
++ [Scene7 Publishing System release notes](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
++ [Livefyre release notes](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
+
+### [!DNL Livefyre] <a name="livefyre"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -536,10 +559,10 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-## Social <a name="soc"></a>
+### [!DNL Social] <a name="soc"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -551,10 +574,18 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-## Target <a name="target"></a>
+### [!DNL Target] <a name="target"></a>
+
+Refer to the [Adobe Target Release Notes](https://marketing.adobe.com/resources/help/en_US/target/rn/) for the latest release information about the following products:
+
++ [!DNL Target] Standard
++ [!DNL Target] Premium
++ [!DNL Recommendations] Classic
+
+### [!DNL Primetime] <a name="prime"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -566,10 +597,12 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-## Primetime <a name="prime"></a>
+### [!DNL Campaign] <a name="ac"></a>
+
+[!DNL Adobe Campaign] provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
 
 | Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
@@ -581,25 +614,17 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-## Campaign <a name="ac"></a>
+For product documentation, see:
+
++ [Adobe Campaign Classic Release Notes}(http://docs.campaign.adobe.com/doc/AC/en/RN.html)
++ [Adobe Campaign Classic Learn & Support](https://helpx.adobe.com/support/campaign/classic.html)
++ [Adobe Campaign Standard Release Notes](https://helpx.adobe.com/campaign/standard/rn/rn.html)
++ [Adobe Campaign Standard Learn & Support](https://helpx.adobe.com/support/campaign/standard.html)
+
+## [!DNL Advertising Cloud] <a name="adcloud"></a>
 
 | Feature    | Description  |
-| -----------| :----------: |  
-| Feature A  | Text |  
-| Feature B  | Text | 
-| Feature C  | Text | 
-
-**Fixes**
-
-+ Fix
-+ Fix
-+ Fix
-+ Fix
-
-# Advertising Cloud <a name="adcloud"></a>
-
-| Feature    | Description  |
-| -----------| :----------: |  
+| -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
