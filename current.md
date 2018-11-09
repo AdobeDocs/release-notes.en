@@ -1,5 +1,4 @@
 ---
-
 description: New features and fixes in the Adobe Experience Cloud.
 seo-description: New features and fixes in the Adobe Experience Cloud.
 seo-title: Adobe Experience Cloud Release Notes
@@ -7,7 +6,6 @@ solution: Release Notes,Marketing Cloud,Analytics,Social,Target,Media Optimizer
 title: Adobe Experience Cloud Release Notes
 topic: Release notes
 uuid: c56a1064-0f2c-4241-93c6-ca4b1f267763
-
 ---
 
 # Adobe Experience Cloud release notes
