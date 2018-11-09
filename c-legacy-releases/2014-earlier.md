@@ -6,14 +6,10 @@ solution: Release Notes,Marketing Cloud,Analytics,Social,Target,Media Optimizer
 seo-title: Release Notes for 2014 and Earlier for Adobe Experience Cloud
 topic: Release notes
 uuid: c56a1064-0f2c-4241-93c6-ca4b1f267763
-index: y
-internal: n
-snippet: y
-translate: y
 ---
 
 # Release Notes for 2014 and Earlier
 
-Add links to PDFs
-
-<!-- How do we handle localized PDFs? Separate links in this article in language sections? -->
+* [2014 Release Notes PDF](2014-Adobe-Experience-Cloud-Release-Notes.pdf)
+* [2013 Release Notes PDF](2013-Adobe-Experience-Cloud-Release-Notes.pdf)
+* [2012 Release Notes PDF](2012-Adobe-Experience-Cloud-Release-Notes.pdf)
