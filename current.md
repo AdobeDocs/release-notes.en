@@ -173,7 +173,7 @@ Refer to the [Adobe Target Release Notes](https://marketing.adobe.com/resources/
 + [!DNL Target] Premium
 + [!DNL Recommendations] Classic
 
-### [!DNL Campaign][#campaign}
+### [!DNL Campaign]{#campaign}
 
 [!DNL Adobe Campaign] provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
 
