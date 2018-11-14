@@ -71,7 +71,7 @@ Description
 + Fix
 + Fix
 
-For product documentation, see [Launch, by Adobe](http://docs.adobelaunch.com/)
+For product documentation, see [Launch, by Adobe](https://docs.adobelaunch.com/)
 
 ### Dynamic Tag Management <a name="dtm"></a>
 
@@ -672,7 +672,7 @@ Refer to the [Adobe Target Release Notes](https://marketing.adobe.com/resources/
 
 For product documentation, see:
 
-+ [Adobe Campaign Classic Release Notes}(http://docs.campaign.adobe.com/doc/AC/en/RN.html)
++ [Adobe Campaign Classic Release Notes}(https://docs.campaign.adobe.com/doc/AC/en/RN.html)
 + [Adobe Campaign Classic Learn & Support](https://helpx.adobe.com/support/campaign/classic.html)
 + [Adobe Campaign Standard Release Notes](https://helpx.adobe.com/campaign/standard/rn/rn.html)
 + [Adobe Campaign Standard Learn & Support](https://helpx.adobe.com/support/campaign/standard.html)
