@@ -54,7 +54,15 @@ Release notes for the [!DNL Experience Cloud] interface features and core servic
 | -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text | 
-| Feature C  | Text | 
+| Feature C  | Text |
+
+#### Feature A
+
+Description
+
+#### Feature B
+
+Description
 
 **Fixes**
 
@@ -72,6 +80,14 @@ For product documentation, see [Launch, by Adobe](http://docs.adobelaunch.com/)
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
+
+#### Feature A
+
+Description
+
+#### Feature B
+
+Description
 
 **Fixes**
 
@@ -315,6 +331,14 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 | Feature B  | Text | 
 | Feature C  | Text | 
 
+#### Feature A
+
+Description
+
+#### Feature B
+
+Description
+
 **Fixes**
 
 + Fix
@@ -329,6 +353,14 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
+
+#### Feature A
+
+Description
+
+#### Feature B
+
+Description
 
 **Fixes**
 
@@ -345,6 +377,14 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 | Feature B  | Text | 
 | Feature C  | Text | 
 
+#### Feature A
+
+Description
+
+#### Feature B
+
+Description
+
 **Fixes**
 
 + Fix
@@ -360,6 +400,14 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 | Feature B  | Text | 
 | Feature C  | Text | 
 
+#### Feature A
+
+Description
+
+#### Feature B
+
+Description
+
 **Fixes**
 
 + Fix
@@ -374,6 +422,14 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 | Feature A  | Text |  
 | Feature B  | Text | 
 | Feature C  | Text | 
+
+#### Feature A
+
+Description
+
+#### Feature B
+
+Description
 
 **Fixes**
 
