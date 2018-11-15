@@ -39,7 +39,7 @@ Release notes for the [!DNL Experience Cloud] interface features and core servic
 + [General Data Protection Regulation (GDPR) API](#gdpr)
 + [Data Connectors](#data-con)
 
-### Activation <a name="activation"></a>
+### Activation {#activation}
 
 + [Launch, by Adobe](#launch)
 + [Dynamic Tag Manager](#dtm)
@@ -48,7 +48,7 @@ Release notes for the [!DNL Experience Cloud] interface features and core servic
 + [Mobile Services](#mobile)
 + [Experience Cloud Mobile SDKs](#mobsdk)
 
-### Launch, by Adobe <a name="launch"></a>
+### Launch, by Adobe {#launch}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -73,7 +73,7 @@ Description
 
 For product documentation, see [Launch, by Adobe](https://docs.adobelaunch.com/)
 
-### Dynamic Tag Management <a name="dtm"></a>
+### Dynamic Tag Management {#dtm}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -98,7 +98,7 @@ Description
 
 For product documentation, see [Dynamic Tag Management](https://marketing.adobe.com/resources/help/en_US/dtm/).
 
-### Auditor <a name="auditor"></a>
+### Auditor {#auditor}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -115,7 +115,7 @@ For product documentation, see [Dynamic Tag Management](https://marketing.adobe.
 
 For product documentation, see [Auditor](https://marketing.adobe.com/resources/help/en_US/auditor/).
 
-### Triggers <a name="triggers"></a>
+### Triggers {#triggers}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -132,7 +132,7 @@ For product documentation, see [Auditor](https://marketing.adobe.com/resources/h
 
 For product documentation, see [Triggers](https://marketing.adobe.com/resources/help/en_US/mcloud/triggers.html).
 
-### Mobile Services <a name="mobile"></a>
+### Mobile Services {#mobile}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -149,7 +149,7 @@ For product documentation, see [Triggers](https://marketing.adobe.com/resources/
 
 For product documentation, see [Mobile Services](https://marketing.adobe.com/resources/help/en_US/mobile/).
 
-### [!DNL Experience Cloud] Mobile SDKs <a name="mobsdk"></a>
+### [!DNL Experience Cloud] Mobile SDKs {#mobsdk}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -167,7 +167,7 @@ For product documentation, see [Mobile Services](https://marketing.adobe.com/res
 For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud
 Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
 
-### Administration - Admin Console product and user management <a name="ac-admin"></a>
+### Administration - Admin Console product and user management {#ac-admin}
 
 New features and fixes for [!DNL Experience Cloud] administrators.
 
@@ -188,7 +188,7 @@ New features and fixes for [!DNL Experience Cloud] administrators.
 + [Manage [!DNL Experience Cloud] users and products](https://marketing.adobe.com/resources/help/en_US/mcloud/admin_getting_started.html)
 + [Enterprise Administration User Guide](https://helpx.adobe.com/enterprise/managing/user-guide.html)
 
-### People <a name="people"></a>
+### People {#people}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -203,7 +203,7 @@ New features and fixes for [!DNL Experience Cloud] administrators.
 + Fix
 + Fix
 
-### [!DNL Experience Cloud] Assets <a name="ec-asset"></a>
+### [!DNL Experience Cloud] Assets {#ec-asset}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -220,7 +220,7 @@ New features and fixes for [!DNL Experience Cloud] administrators.
 
 For product documentation, see [Assets](https://marketing.adobe.com/resources/help/en_US/mcloud/experience-cloud-assets.html).
 
-### Feed <a name="feed"></a>
+### Feed {#feed}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -237,7 +237,7 @@ For product documentation, see [Assets](https://marketing.adobe.com/resources/he
 
 For product documentation, see [Feed](https://marketing.adobe.com/resources/help/en_US/mcloud/feed.html).
 
-### [!DNL Experience Cloud] ID Service <a name="ecid"></a>
+### [!DNL Experience Cloud] ID Service {#ecid}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -254,7 +254,7 @@ For product documentation, see [Feed](https://marketing.adobe.com/resources/help
 
 For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
 
-### Device co-op <a name="coop"></a>
+### Device co-op {#coop}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -271,7 +271,7 @@ For product documentation, see [Experience Cloud ID service](https://marketing.a
 
 For product documentation, see [Device co-op](https://marketing.adobe.com/resources/help/en_US/mcdc/index.html).
 
-### General Data Protection Regulation (GDPR) API <a name="gdpr"></a>
+### General Data Protection Regulation (GDPR) API {#gdpr}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -288,7 +288,7 @@ For product documentation, see [Device co-op](https://marketing.adobe.com/resour
 
 For product documentation, see [GDPR API](https://www.adobe.io/apis/cloudplatform/gdpr/docs.html).
 
-### Data Connectors <a name="data-con"></a>
+### Data Connectors {#data-con}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -303,7 +303,7 @@ For product documentation, see [GDPR API](https://www.adobe.io/apis/cloudplatfor
 + Fix
 + Fix
 
-## [!DNL Analytics Cloud] <a name="aacloud"></a>
+## [!DNL Analytics Cloud] {#aacloud}
 
 + [Analytics](#aaupdate)
 + [Audience Manager](#aam)
@@ -323,7 +323,7 @@ New features and fixes in [!DNL Adobe Analytics]:
 
 For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
 
-#### Analysis Workspace <a name="aa-wksp"></a>
+#### Analysis Workspace {#aa-wksp}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -346,7 +346,7 @@ Description
 + Fix
 + Fix
 
-#### Reports & Analytics <a name="aa-rep"></a>
+#### Reports & Analytics {#aa-rep}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -369,7 +369,7 @@ Description
 + Fix
 + Fix
 
-#### Media Analytics SDK for iOS & Android (formerly VHL SDK) <a name="aa-va"></a>
+#### Media Analytics SDK for iOS & Android (formerly VHL SDK) {#aa-va}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -392,7 +392,7 @@ Description
 + Fix
 + Fix
 
-#### Report Builder <a name="aa-arb"></a>
+#### Report Builder {#aa-arb}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -415,7 +415,7 @@ Description
 + Fix
 + Fix
 
-#### Activity Map <a name="aa-map"></a>
+#### Activity Map {#aa-map}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -438,11 +438,11 @@ Description
 + Fix
 + Fix
 
-#### Data Workbench <a name="aa-dwb"></a>
+#### Data Workbench {#aa-dwb}
 
 See [Data Workbench release notes](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/) for the latest information.
 
-#### AppMeasurement <a name="appm"></a>
+#### AppMeasurement {#appm}
 
 | Feature    | Description  |
 | -----------| ---------- | 
@@ -470,7 +470,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + PHP
 + Symbian
 
-#### Data Feed <a name="aa-feed"></a>
+#### Data Feed {#aa-feed}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -485,7 +485,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-#### Data Warehouse <a name="aa-dwh"></a>
+#### Data Warehouse {#aa-dwh}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -500,7 +500,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-#### Data Sources <a name="aa-dsrc"></a>
+#### Data Sources {#aa-dsrc}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -515,7 +515,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-#### Export Release <a name="aa-exp"></a>
+#### Export Release {#aa-exp}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -532,7 +532,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 
 <!--See [Export Release wiki]https://wiki.corp.adobe.com/display/omtrcache/Export+Release+Log for writer updates.-->
 
-#### Name Lookup Service <a name="aa-name"></a>
+#### Name Lookup Service {#aa-name}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -557,7 +557,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 | Text | Text | Text | 
 | Text | Text | Text |
 
-### [!DNL Audience Manager] <a name="aam"></a>
+### [!DNL Audience Manager] {#aam}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -572,7 +572,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + Fix
 + Fix
 
-## [!DNL Marketing Cloud] <a name="mcloud"></a>
+## [!DNL Marketing Cloud] {#mcloud}
 
 + [Experience Manager (and Livefyre)](#aem)
 + [Social](#soc)
@@ -580,7 +580,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 + [Primetime](#prime)
 + [Campaign](#ac)
 
-### [!DNL Experience Manager] <a name="aem"></a>
+### [!DNL Experience Manager] {#aem}
 
 New features, fixes, and updates in [!DNL Adobe Experience Manager]. Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
 
@@ -600,7 +600,7 @@ New features, fixes, and updates in [!DNL Adobe Experience Manager]. Adobe recom
 + [Scene7 Publishing System release notes](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 + [Livefyre release notes](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
-### [!DNL Livefyre] <a name="livefyre"></a>
+### [!DNL Livefyre] {#livefyre}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -615,7 +615,7 @@ New features, fixes, and updates in [!DNL Adobe Experience Manager]. Adobe recom
 + Fix
 + Fix
 
-### [!DNL Social] <a name="soc"></a>
+### [!DNL Social] {#soc}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -630,7 +630,7 @@ New features, fixes, and updates in [!DNL Adobe Experience Manager]. Adobe recom
 + Fix
 + Fix
 
-### [!DNL Target] <a name="target"></a>
+### [!DNL Target] {#target}
 
 Refer to the [Adobe Target Release Notes](https://marketing.adobe.com/resources/help/en_US/target/rn/) for the latest release information about the following products:
 
@@ -638,7 +638,7 @@ Refer to the [Adobe Target Release Notes](https://marketing.adobe.com/resources/
 + [!DNL Target] Premium
 + [!DNL Recommendations] Classic
 
-### [!DNL Primetime] <a name="prime"></a>
+### [!DNL Primetime] {#prime}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -653,7 +653,7 @@ Refer to the [Adobe Target Release Notes](https://marketing.adobe.com/resources/
 + Fix
 + Fix
 
-### [!DNL Campaign] <a name="ac"></a>
+### [!DNL Campaign] {#ac}
 
 [!DNL Adobe Campaign] provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
 
@@ -677,7 +677,7 @@ For product documentation, see:
 + [Adobe Campaign Standard Release Notes](https://helpx.adobe.com/campaign/standard/rn/rn.html)
 + [Adobe Campaign Standard Learn & Support](https://helpx.adobe.com/support/campaign/standard.html)
 
-## [!DNL Advertising Cloud] <a name="adcloud"></a>
+## [!DNL Advertising Cloud] {#adcloud}
 
 | Feature    | Description  |
 | -----------| ---------- |  
