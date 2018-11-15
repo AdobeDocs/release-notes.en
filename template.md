@@ -549,7 +549,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 
 <!--See [Name Lookup wiki]https://wiki.corp.adobe.com/display/omtrcache/Name+Lookup+Service+Release+Log for writer updates.-->
 
-#### Important notices for [!DNL Analytics] administrators <a name="aa-notices"></a>
+#### Important notices for [!DNL Analytics] administrators {#aa-notices}
 
 | Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- | 
