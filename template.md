@@ -25,7 +25,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud].
 + [Marketing Cloud](#mcloud)
 + [Advertising Cloud](#adcloud)
 
-## [!DNL Adobe] Cloud Platform <a name="acp"></a>
+## [!DNL Adobe] Cloud Platform {##acp}
 
 Release notes for the [!DNL Experience Cloud] interface features and core services (accessed under the Platform group in the navigation menu). 
 
@@ -319,7 +319,7 @@ New features and fixes in [!DNL Adobe Analytics]:
 + [Activity Map](#aa-map)
 + [Data Workbench](#aa-dwb)
 + [Analytics fixes and updates](#aa-fixes)
-+ [Important notices for Analytics administrators](aa-notices)
++ [Important notices for Analytics administrators](#aa-notices)
 
 For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
 
