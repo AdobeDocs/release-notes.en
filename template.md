@@ -25,7 +25,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud].
 + [Marketing Cloud](#mcloud)
 + [Advertising Cloud](#adcloud)
 
-## [!DNL Adobe] Cloud Platform {##acp}
+## [!DNL Adobe Cloud Platform] {##acp}
 
 Release notes for the [!DNL Experience Cloud] interface features and core services (accessed under the Platform group in the navigation menu). 
 
@@ -39,7 +39,7 @@ Release notes for the [!DNL Experience Cloud] interface features and core servic
 + [General Data Protection Regulation (GDPR) API](#gdpr)
 + [Data Connectors](#data-con)
 
-### Activation {#activation}
+### [!UICONTROL Activation] {#activation}
 
 + [Launch, by Adobe](#launch)
 + [Dynamic Tag Manager](#dtm)
@@ -48,7 +48,7 @@ Release notes for the [!DNL Experience Cloud] interface features and core servic
 + [Mobile Services](#mobile)
 + [Experience Cloud Mobile SDKs](#mobsdk)
 
-### Launch, by Adobe {#launch}
+### [!UICONTROL Launch, by Adobe] {#launch}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -73,7 +73,7 @@ Description
 
 For product documentation, see [Launch, by Adobe](https://docs.adobelaunch.com/)
 
-### Dynamic Tag Management {#dtm}
+### [!UICONTROL Dynamic Tag Management] {#dtm}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -98,7 +98,7 @@ Description
 
 For product documentation, see [Dynamic Tag Management](https://marketing.adobe.com/resources/help/en_US/dtm/).
 
-### Auditor {#auditor}
+### [!UICONTROL Auditor] {#auditor}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -115,7 +115,7 @@ For product documentation, see [Dynamic Tag Management](https://marketing.adobe.
 
 For product documentation, see [Auditor](https://marketing.adobe.com/resources/help/en_US/auditor/).
 
-### Triggers {#triggers}
+### [!UICONTROL Triggers] {#triggers}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -132,7 +132,7 @@ For product documentation, see [Auditor](https://marketing.adobe.com/resources/h
 
 For product documentation, see [Triggers](https://marketing.adobe.com/resources/help/en_US/mcloud/triggers.html).
 
-### Mobile Services {#mobile}
+### [!UICONTROL Mobile Services] {#mobile}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -149,7 +149,7 @@ For product documentation, see [Triggers](https://marketing.adobe.com/resources/
 
 For product documentation, see [Mobile Services](https://marketing.adobe.com/resources/help/en_US/mobile/).
 
-### [!DNL Experience Cloud] Mobile SDKs {#mobsdk}
+### [!DNL Experience Cloud] [!UICONTROL Mobile SDK] {#mobsdk}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -167,7 +167,7 @@ For product documentation, see [Mobile Services](https://marketing.adobe.com/res
 For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud
 Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
 
-### Administration - Admin Console product and user management {#ac-admin}
+### Administration - [!UICONTROL Admin Console] product and user management {#ac-admin}
 
 New features and fixes for [!DNL Experience Cloud] administrators.
 
@@ -188,7 +188,7 @@ New features and fixes for [!DNL Experience Cloud] administrators.
 + [Manage [!DNL Experience Cloud] users and products](https://marketing.adobe.com/resources/help/en_US/mcloud/admin_getting_started.html)
 + [Enterprise Administration User Guide](https://helpx.adobe.com/enterprise/managing/user-guide.html)
 
-### People {#people}
+### [!UICONTROL People] {#people}
 
 | Feature    | Description  |
 | -----------| ---------- |  
