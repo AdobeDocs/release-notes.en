@@ -22,9 +22,20 @@ New features and fixes in the [!DNL Adobe Experience Cloud].
 
 **November 2018**
 
+Latest update: **December 4, 2018**
+
++ [Adobe Cloud Platform](#acp)
 + [Analytics Cloud](#analytics-cloud)
 + [Marketing Cloud](#marketing-cloud)
 + [Advertising Cloud](#advertising-cloud)
+
+## [!DNL Adobe Cloud Platform]{#acp}
+
+Release notes for the Experience Cloud interface and [!UICONTROL platform] core services. Includes Mobile Services, Launch, by Adobe, Dynamic Tag Management, GDPR API, and Experience Cloud ID Service.
+
+### [!UICONTROL Dynamic Tag Management]
+
+[!DNL Adobe] plans to sunset [!UICONTROL Dynamic Tag Management] by the end of 2020. For more information and scheduling, see [DTM Plans for a Sunst](https://forums.adobe.com/community/experience-cloud/platform/launch/blog/2018/10/05/dtm-plans-for-a-sunset).
 
 ## [!DNL Analytics Cloud]{#analytics-cloud}
 
