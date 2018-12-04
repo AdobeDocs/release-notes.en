@@ -4,7 +4,7 @@ We welcome contributions from our community as well as from Adobe employees from
 
 ## Adobe Open Source Code of Conduct
 
-This project has adopted the [Adobe Open Source Code of Conduct](code-of-conduct.md) or the [.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct). For more information, see the [Contributing](contributing.md) article.
+This project has adopted the [Adobe Open Source Code of Conduct](https://docs.adobe.com/content/help/en/contributor/contributor-guide/conduct-contributions/code-of-conduct.html) or the [.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct). For more information, see the [Contributing](https://docs.adobe.com/content/help/en/contributor/contributor-guide/conduct-contributions/contributing.html) article.
 
 ## About your contributions to Adobe content
 
