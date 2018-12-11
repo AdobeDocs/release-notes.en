@@ -13,7 +13,7 @@ author: mfrei
 New features and fixes in the [!DNL Adobe Experience Cloud]. 
 
 >[!IMPORTANT]
->This page contains pre-release content and is subject to change prior to the XXXX release.
+>This page contains pre-release content and is subject to change prior to the planned release.
 
 >[!NOTE]
 >Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date.
@@ -25,9 +25,9 @@ New features and fixes in the [!DNL Adobe Experience Cloud].
 + [Marketing Cloud](#mcloud)
 + [Advertising Cloud](#adcloud)
 
-## [!DNL Adobe Cloud Platform] {##acp}
+## [!DNL Adobe Cloud Platform] {#acp}
 
-Release notes for the [!DNL Experience Cloud] interface features and core services (accessed under the Platform group in the navigation menu). 
+Release notes for the Experience Cloud interface and [!UICONTROL Cloud Platform] core services (accessed under the [!UICONTROL Platform] group in the navigation menu). Includes Mobile Services, Launch, by Adobe, Dynamic Tag Management, GDPR API, and Experience Cloud ID Service.  
 
 + [Activation](#activation)
 + [Administration - user and product management](#ac-admin)

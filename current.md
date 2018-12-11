@@ -22,9 +22,26 @@ New features and fixes in the [!DNL Adobe Experience Cloud].
 
 **November 2018**
 
+Latest update: **December 4, 2018**
+
++ [Adobe Cloud Platform](#acp)
 + [Analytics Cloud](#analytics-cloud)
 + [Marketing Cloud](#marketing-cloud)
 + [Advertising Cloud](#advertising-cloud)
+
+## [!DNL Adobe Cloud Platform]{#acp}
+
+Release notes for the Experience Cloud interface and [!UICONTROL platform] core services. Includes Mobile Services, Launch, by Adobe, Dynamic Tag Management, GDPR API, and Experience Cloud ID Service.
+
+### [!UICONTROL Dynamic Tag Management]
+
+[!DNL Adobe] plans to sunset [!UICONTROL Dynamic Tag Management] by the end of 2020. 
+
++ **2019-07-01:** Starting in July of next year, DTM will no longer allow the creation of new properties. This will have no impact on existing properties.
++ **2020-07-01:** DTM properties will enter a read-only mode. You will not be able to create or edit tools, rules, or data elements. You will no longer be able to publish to DTM environments. This will have no impact on previously published libraries.
++ **2020-12-31:** End of support. Servers will be decommissioned, documentation will go offline, and communities will be removed. This will have no impact on previously published libraries.
+
+For more information, see [DTM Plans for a Sunset](https://forums.adobe.com/community/experience-cloud/platform/launch/blog/2018/10/05/dtm-plans-for-a-sunset).
 
 ## [!DNL Analytics Cloud]{#analytics-cloud}
 

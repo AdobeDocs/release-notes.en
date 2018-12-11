@@ -4,7 +4,7 @@ We welcome contributions from our community as well as from Adobe employees from
 
 ## Adobe Open Source Code of Conduct
 
-This project has adopted the [Adobe Open Source Code of Conduct](code-of-conduct.md) or the [.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct). For more information, see the [Contributing](contributing.md) article.
+This project has adopted the [Adobe Open Source Code of Conduct](https://docs.adobe.com/content/help/en/contributor/contributor-guide/conduct-contributions/code-of-conduct.html) or the [.NET Foundation Code of Conduct](https://dotnetfoundation.org/code-of-conduct). For more information, see the [Contributing](https://docs.adobe.com/content/help/en/contributor/contributor-guide/conduct-contributions/contributing.html) article.
 
 ## About your contributions to Adobe content
 
@@ -14,7 +14,7 @@ How you contribute depends on who you are and the sort of changes you'd like to 
 
 ### Minor changes
 
-If you are contributing minor updates out of the goodness of your heart, visit the article and click the **Edit** link in the article that goes to the GitHub source for the article. Then, just use the GitHub UI to make your updates. See the general [Adobe Docs contributor guide](help/introduction.md) for more information.
+If you are contributing minor updates out of the goodness of your heart, visit the article and click the **Edit** link in the article that goes to the GitHub source for the article. Then, just use the GitHub UI to make your updates. See the general [Adobe Docs contributor guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html) for more information.
 
 Minor corrections or clarifications you submit for documentation and code examples in this repo are covered by the Adobe terms of use.
 
@@ -28,7 +28,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 ### Major changes from Adobe Employees
 
-If you are a technical writer, program manager, or developer from the product team for an Adobe Experience Cloud solution and it's your job to contribute to or author technical articles, you should use the private repository [https://git.corp.adobe.com/AdobeDocs](https://git.corp.adobe.com/AdobeDocs). <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
+If you are a technical writer, program manager, or developer from the product team for an Adobe Experience Cloud solution and it's your job to contribute to or author technical articles, you should use the private repository `https://git.corp.adobe.com/AdobeDocs`. <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
 ## Tools and setup
 
