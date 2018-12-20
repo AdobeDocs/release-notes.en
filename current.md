@@ -93,7 +93,8 @@ See [Data Workbench release notes](https://marketing.adobe.com/resources/help/en
 #### Important Notices for [!DNL Analytics] administrators{#analytics-admins}
 
 | Notice | Description |
-| -----------| ---------- | 
+| -----------| ---------- |
+|Management changes to inactive Adobe Live Stream endpoints<br></br>December 20, 2018|Starting on February 1, 2019, Live Stream endpoints with no active consumer connections for 90 days may be disabled. You can reach out to Adobe Customer Care to inquire about your Live Stream endpoints and, if necessary, have them re-enabled. In addition, please ensure your consumer processes maintain a persistent connection, as intended by the design of the service, and that they are implemented to reconnect when the connection is disconnected or interrupted.
 | Dallas FTP server migration (ftp2.omniture.com)<br></br>October 19, 2018 | On October 23, 2018, if you connect to ftp2.omniture.com via the SFTP protocol, you might be required to re-accept the SJ1 site's host identifier. This issue applies only to October 23.<br></br>See [Upgrading Adobe FTP Servers](https://marketing.adobe.com/resources/help/en_US/whitepapers/ftp/ftp_upgrade.html). |
 | Update to Mobile Device dimension<br></br>October 16, 2018 | On September 26, Adobe updated its device lookup to Device Atlas's 2.1 API. This caused more detailed devices (e.g. Apple iPhone 7, Apple iPhone 8 Plus, etc.) to appear in the Mobile Device dimension for some browsers. This new level of device detail should be used directionally as is does not extend to all devices and browser types at this time. | 
 | End of support for Internet Explorer 11<br></br>Sept. 12, 2018 | Adobe will end support for Internet Explorer 11 within Adobe [!DNL Analytics] on November 13, 2018. Please switch to Microsoft Edge or another supported browser as soon as possible. |
