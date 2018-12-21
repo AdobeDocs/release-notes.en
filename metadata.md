@@ -9,6 +9,7 @@ tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/experience-cloud/tutorials.html
 mini-toc-levels: 1
 git-repo: https://github.com/AdobeDocs/release-notes.en
+index: no
 ---
 
 # Metadata for internal use
