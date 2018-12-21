@@ -6,7 +6,6 @@ seo-title: Contact and Legal Information
 solution: Experience Cloud,Release Notes
 title: Contact and Legal Information
 uuid: be6810fd-8a50-4e88-af09-ab00187e4082
-index: n
 internal: n
 translate: y
 ---
