@@ -10,7 +10,7 @@ author: mfrei
 
 # [!DNL Adobe Experience Cloud] release notes
 
-New features and fixes in the [!DNL Adobe Experience Cloud]. 
+Rick  New features and fixes in the [!DNL Adobe Experience Cloud]. 
 
 >[!IMPORTANT]
 >This page contains pre-release content and is subject to change prior to the XXXX release.
@@ -582,7 +582,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 
 ### [!DNL Experience Manager] {#aem}
 
-New features, fixes, and updates in [!DNL Adobe Experience Manager]. Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
+ricks edits New features, fixes, and updates in [!DNL Adobe Experience Manager]. Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
 
 #### Product releases
 
