@@ -11,7 +11,6 @@ getting-started-url: https://landing.adobe.com/experience-league/
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/experience-cloud/tutorials.html
 mini-toc-levels: 1
-git-repo: https://git.corp.adobe.com/AdobeDocs/release-notes.en
 ---
 
 # Experience Cloud Release Notes {#experience-cloud}

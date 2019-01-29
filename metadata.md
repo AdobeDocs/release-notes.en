@@ -8,7 +8,8 @@ getting-started-url: https://landing.adobe.com/experience-league/
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/experience-cloud/tutorials.html
 mini-toc-levels: 1
-git-repo: https://git.corp.adobe.com/AdobeDocs/release-notes.en
+git-repo: https://github.com/AdobeDocs/release-notes.en
+index: no
 ---
 
 # Metadata for internal use
