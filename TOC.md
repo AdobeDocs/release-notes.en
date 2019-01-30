@@ -18,6 +18,7 @@ mini-toc-levels: 1
 + [Adobe Experience Cloud Release Notes](current.md)
 + Previous Release Notes {#previous}
     + 2018 {#2018}
+        + [November2018](c-legacy-releases/2018/11012018.md)
         + [October 2018](c-legacy-releases/2018/10112018.md)
         + [September 2018](c-legacy-releases/2018/09132018.md)
         + [August 2018](c-legacy-releases/2018/08092018.md)
