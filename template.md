@@ -8,9 +8,9 @@ author: mfrei
 
 ---
 
-# [!DNL Adobe Experience Cloud] release notes
+# Adobe Experience Cloud release notes
 
-Rick  New features and fixes in the [!DNL Adobe Experience Cloud]. 
+New features and fixes in the Adobe Experience Cloud.
 
 >[!IMPORTANT]
 >This page contains pre-release content and is subject to change prior to the planned release.
@@ -29,9 +29,9 @@ MONTH 2019
 * [Target](https://marketing.adobe.com/resources/help/en_US/target/rn/target_release_notes.html) (links to solution help)
 * [Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 
-## [!DNL Experience Cloud] core services and administration {#experiencecloud}
+## Experience Cloud core services and administration {#experiencecloud}
 
-Release notes for the [!DNL Experience Cloud] interface, including [!UICONTROL Platform] core services and product administration.  
+Release notes for the Experience Cloud interface, including [!UICONTROL Platform] core services and product administration.  
 
 * [Launch, by Adobe](https://docs.adobelaunch.com/) (links to product help)
 * [Administration and developer](#admin)
@@ -224,9 +224,9 @@ Description of new features. Use headings or a table.
 
 For product documentation, see [Triggers](https://marketing.adobe.com/resources/help/en_US/mcloud/triggers.html).
 
-## [!DNL Analytics] {#analytics}
+## Analytics {#analytics}
 
-New features and fixes in [!DNL Adobe Analytics]:
+New features and fixes in Adobe Analytics:
 
 * [Analysis Workspace](#aa-wksp)
 * [Reports & Analytics](#aa-rep)
@@ -285,7 +285,7 @@ Description
 * Fix
 * Fix
 
-#### Media Analytics SDK for iOS & Android (formerly VHL SDK) {#aa-va}
+### Media Analytics SDK for iOS & Android (formerly VHL SDK) {#aa-va}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -465,7 +465,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 
 <!--See [Name Lookup wiki]https://wiki.corp.adobe.com/display/omtrcache/Name+Lookup+Service+Release+Log for writer updates.-->
 
-### Important notices for [!DNL Analytics] administrators {#aa-notices}
+### Important notices for Analytics administrators {#aa-notices}
 
 | Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- |
@@ -473,7 +473,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 | Text | Text | Text |
 | Text | Text | Text |
 
-## [!DNL Audience Manager] {#aam}
+## Audience Manager {#aam}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -488,9 +488,9 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 * Fix
 * Fix
 
-## [!DNL Experience Manager] {#aem}
+## Experience Manager {#aem}
 
-ricks edits New features, fixes, and updates in [!DNL Adobe Experience Manager]. Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
+New features, fixes, and updates in Adobe Experience Manager. Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
 
 ### Product releases
 
@@ -508,7 +508,7 @@ ricks edits New features, fixes, and updates in [!DNL Adobe Experience Manager].
 * [Scene7 Publishing System release notes](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Livefyre release notes](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
-### [!DNL Livefyre] {#livefyre}
+### Livefyre {#livefyre}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -523,7 +523,7 @@ ricks edits New features, fixes, and updates in [!DNL Adobe Experience Manager].
 * Fix
 * Fix
 
-## [!DNL Social] {#soc}
+## Social {#soc}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -538,9 +538,9 @@ ricks edits New features, fixes, and updates in [!DNL Adobe Experience Manager].
 * Fix
 * Fix
 
-## [!DNL Campaign] {#ac}
+## Campaign {#ac}
 
-[!DNL Adobe Campaign] provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
+Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -562,7 +562,7 @@ For product documentation, see:
 * [Adobe Campaign Standard Release Notes](https://helpx.adobe.com/campaign/standard/rn/rn.html)
 * [Adobe Campaign Standard Learn & Support](https://helpx.adobe.com/support/campaign/standard.html)
 
-## [!DNL Advertising Cloud] {#adcloud}
+## Advertising Cloud {#adcloud}
 
 | Feature    | Description  |
 | -----------| ---------- |  
