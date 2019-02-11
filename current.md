@@ -8,495 +8,182 @@ author: mfrei
 
 ---
 
-# [!DNL Adobe Experience Cloud] release notes
+# Adobe Experience Cloud release notes
 
-New features and fixes in the [!DNL Adobe Experience Cloud]. 
-
->[!IMPORTANT]
->This page contains pre-release content and is subject to change prior to the planned release.
+New features and fixes in the Adobe Experience Cloud.
 
 >[!NOTE]
 >Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date.
 
-MONTH 2019
+February 2019
 
 * [Experience Cloud core services and administration](#experiencecloud)
 * [Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [Campaign](#ac)
 * [Advertising Cloud](#adcloud)
 * [Target](https://marketing.adobe.com/resources/help/en_US/target/rn/target_release_notes.html) (links to solution help)
 * [Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 
-## [!DNL Experience Cloud] core services and administration {#experiencecloud}
+## Experience Cloud core services and administration {#experiencecloud}
 
-Release notes for the [!DNL Experience Cloud] interface, including [!UICONTROL Platform] core services and product administration.  
+Release notes for the Experience Cloud interface, including [!UICONTROL Platform] core services and product administration.  
 
 * [Launch, by Adobe](https://docs.adobelaunch.com/) (links to product help)
-* [Administration and developer](#admin)
-* [Assets](#ec-asset)
-* [Auditor](#auditor)
-* [Feed](#feed)
 * [ID Service](#ecid)
-* [Mobile Services and Mobile SDK](#mobile)
-* [Offers](#offers)
-* [People](#people)
-* [Triggers](#triggers)
 
-### [Administration and developer] {#admin}
+## Analytics {#analytics}
 
-* [User and product management](#adminconsole)
-* [Device co-op](#coop)
-* [Data Connectors](#data-con)
-* [General Data Protection Regulation (GDPR) API](#gdpr)
+New features and fixes in Adobe Analytics:
 
-#### [User and product management] {#adminconsole}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-#### [Device co-op] {#coop}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-#### [Data connectors] {#data-con}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-#### [General Data Protection Regulation (GDPR) API] {#gdpr}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-### [!UICONTROL Assets] {#assets}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-For product documentation, see [Assets](https://marketing.adobe.com/resources/help/en_US/mcloud/experience-cloud-assets.html).
-
-### [!UICONTROL Auditor] {#auditor}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-For product documentation, see [Auditor](https://marketing.adobe.com/resources/help/en_US/auditor/).
-
-### [!UICONTROL Feed] {#feed}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-For product documentation, see [Feed](https://marketing.adobe.com/resources/help/en_US/mcloud/feed.html).
-
-### [!UICONTROL ID Service] {#id-service}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
-
-### [!UICONTROL Mobile Services and Mobile SDK] {#mobile}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-For product documentation, see [Mobile Services](https://marketing.adobe.com/resources/help/en_US/mobile/).
-
-For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud
-Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
-
-### [!UICONTROL Offers] {#offers}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-### [!UICONTROL People] {#people}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-For product documentation, see _Audiences_ or _Customer Attributes_ in [Experience Cloud](https://marketing.adobe.com/resources/help/en_US/mcloud/).
-  
-### [!UICONTROL Triggers] {#triggers}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-For product documentation, see [Triggers](https://marketing.adobe.com/resources/help/en_US/mcloud/triggers.html).
-
-## [!DNL Analytics] {#analytics}
-
-New features and fixes in [!DNL Adobe Analytics]:
-
-* [Analysis Workspace](#aa-wksp)
-* [Reports & Analytics](#aa-rep)
-* [Media Analytics SDK for iOS & Android (formerly VHL SDK)](#aa-va)
-* [Report Builder](#aa-arb)
-* [Activity Map](#aa-map)
-* [Data Workbench](#aa-dwb)
-* [Analytics fixes and updates](#aa-fixes)
 * [Important notices for Analytics administrators](#aa-notices)
+* [Analysis Workspace](#aa-wksp)
+* [Analytics fixes and updates](#aa-fixes)
+* [AppMeasurement for JavaScript](#appm)
 
 For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
+
+### Important notices for Analytics administrators {#aa-notices}
+
+| Notice | Date Added or Updated  | Description |
+| -----------| ---------- | ---------- |
+| Short Analytics report links | January 14, 2019 | Any short Analytics report links that have not been visited within one year will be cleaned up and deleted starting on Thursday, January 17, 2019, on a rolling schedule. |
+| End of Support for TLS 1.0 | Updated January 10, 2019 | On February 11, 2019 Adobe Analytics reporting will no longer support TLS (Transport Layer Security) 1.0 encryption. This change is part of our ongoing efforts to maintain the highest security standards and promote the safety of customer data. If you are unable to connect to Adobe Analytics reporting after February11, 2019, you should upgrade your browser to the [latest version](https://marketing.adobe.com/resources/help/en_US/sc/user/requirements.htm). Beginning February 20, 2019 Adobe Analytics data collection will no longer support TLS 1.0. With this change, Adobe will no longer collect Analytics data from end users with older devices or web browsers that do not support TLS 1.1 or later. We do not expect this to have a significant impact on customer data or reporting. (If your website already does not support TLS 1.0, you will not be affected.) <br><br>Beginning April 11, 2019, the Adobe Analytics Reporting API will no longer support TLS 1.0 encryption. Customers who access the API should verify that they will not be impacted. API clients using Java 7 with default settings will need modifications to support TLS 1.2. (Refer to Changing default TLS protocol version for client end points: TLS 1.0 to TLS 1.2.) API clients using Java 8 should not be impacted because the default setting is TLS 1.2. API clients using other frameworks will need to contact their vendors for details on TLS 1.2 support.|
+| Update to CSV downloads from Analysis Workspace | January 9, 2019 | Starting on February 7, 2019, CSV downloads (and Copy to Clipboard) from Analysis Workspace will no longer include the thousands separator. Note: The Analysis Workspace UI will continue to show the thousands separator. Additionally, the decimal separator will continue to be included, and will adhere to the format defined under **[!UICONTROL Components]** > **[!UICONTROL Report Settings]** > **[!UICONTROL Thousands Separator]**. |
+| Data Feed: post_product_list column - size change | January 9, 2019 | On February 7, 2019, Adobe plans to expand the size of the post_product_list column from 64 KB to 16 MB. This change is intended to ensure that merchandising eVar values added to post_product_list during processing do not cause truncation of product and revenue values. If you have processes that ingest post_product_list values, please ensure those processes can handle values up to 16 MB in length, or will truncate the value at 16 KB to avoid data ingestion failures. |
+| Management changes affecting inactive Analytics Live Stream endpoints | December 20, 2018 | Starting on February 1, 2019, Live Stream endpoints with no active consumer connections for 90 days may be disabled. You can reach out to Customer Care to inquire about your Live Stream endpoints and, if necessary, have them re-enabled. In addition, please ensure your consumer processes maintain a persistent connection, as intended by the design of the service, and that they are implemented to reconnect when the connection is disconnected or interrupted. |
+| Dallas FTP server migration (ftp2.omniture.com) | October 19, 2018 | On October 23, 2018, if you connect to ftp2.omniture.com via the SFTP protocol, you might be required to re-accept the SJ1 site's host identifier. This issue applies only to October 23. See [Upgrading Adobe FTP Servers](https://marketing.adobe.com/resources/help/en_US/whitepapers/ftp/ftp_upgrade.html). |
+| Update to Mobile Device dimension | October 16, 2018 | On September 26, Adobe updated its device lookup to Device Atlas's 2.1 API. This caused more detailed devices (e.g. Apple iPhone 7, Apple iPhone 8 Plus, etc.) to appear in the Mobile Device dimension for some browsers. This new level of device detail should be used directionally as is does not extend to all devices and browser types at this time. |
+| End of support for Internet Explorer 11 | Sept. 12, 2018 | Adobe will end support for Internet Explorer 11 within Adobe Analytics on November 13, 2018. Please switch to Microsoft Edge or another supported browser as soon as possible. |
+| End of life for Ad Hoc Analysis | August 9, 2018 | On August 6, 2018, Adobe announced the intention to end-of-life Ad Hoc Analysis. An end-of-life date will be shared once available. For more information, visit [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). We will not modify [!UICONTROL Ad Hoc Analysis] to support Java 9+ from this point forward. If you upgrade to Java 9+, [!UICONTROL Ad Hoc Analysis] will cease to function. Only Java 8 will be supported. |
+| Update Adobe [!UICONTROL Report Builder] due to end of support for TLS 1.0 | Sept. 7, 2018 | Due to the end of support for TLS 1.0, we recommended that [!UICONTROL Report Builder] (ARB) users download ARB v5.6.21 prior to February 2019. After that date, prior versions of ARB will no longer function. |
+| New help for the Analytics user migration | May 10, 2018 | We updated the Analytics user ID migration help with information about migrating Enterprise and Federated IDs to the Admin Console. See [Migrate Analytics user accounts for Enterprise and Federated IDs](https://marketing.adobe.com/resources/help/en_US/experience-cloud/admin-console/analytics-migration/migrate-enterprise.html). |
+| Upcoming removal of Account Activity Report | May 10, 2018 | The Account Activity Report will be replaced by the Server Call Usage feature in the Adobe Analytics Summer Release. The Account Activity Report will be permanently removed on August 9, 2018. To view summary data about report suite traffic after August 9, 2018, use the Server Call Usage feature. |
+| Changes to linear allocation models in Calculated Metrics | Effective July 19, 2018 | On July 19th, Adobe Analytics will revise the way allocation models in calculated metrics are evaluated. As part of this change, calculated metrics that use a non-default allocation model will be migrated to new and improved attribution models. [!UICONTROL Marketing Channel Last Touch] and [!UICONTROL Marketing Channel First Touch] allocation models will be migrated to new [!UICONTROL Last Touch] and [!UICONTROL First Touch] attribution models  espectively. ([!UICONTROL Marketing Channels] are not being deprecated, only the two allocation models that appear in calculated metrics). Additionally, we will correct the way linear allocation is calculated. If you use calculated metrics with linear allocation models, the reports may change slightly to reflect the new, corrected attribution model. This change to calculated metrics will be reflected in [!UICONTROL Analysis Workspace], [!UICONTROL Reports & Analytics], the [!UICONTROL Reporting API], [!UICONTROL Report Builder], and [!UICONTROL Ad Hoc Analysis]. See the [Calculated Metrics](https://marketing.adobe.com/resources/help/en_US/analytics/calcmetrics/m_metric_type_alloc.html) documentation for more information about this change. |
+| [!UICONTROL Anomaly Detection] and [!UICONTROL Contribution Analysis] functionality removed from [!UICONTROL Reports & Analytics] | April 10, 2018 | Anomaly Detection and Contribution Analysis have been removed from the Reports & Analytics feature set and are now available only via Analysis Workspace. Adobe Analytics Select and Foundation customers have access only to “daily-granularity” Anomaly Detection in Workspace. |
+| Adobe no longer issuing 3rd-party s_vi cookies for Safari | April 05, 2018 | On March 20, 2018, Adobe stopped issuing third-party s_vi cookies for the Safari browser. This change does not impact customers using first-party data collection cookies. This change also removes the visit and visitor inflation experienced by some customers, resulting from Safari ITP. |
+| Update Report Builder before you migrate user IDs to the Admin Console | March 17, 2018 | **Important:** Update your installation of Report Builder to the latest version. This update is a pre-requisite for running the Analytics user ID migration to the Admin Console, beginning in April 2018. See [Analytics User Migration to the Admin Console] for migration information. |
+| Back-end changes that affect reporting | April 11, 2018 | A change to the (back-end) lookup mechanism is going to impact reporting in several ways. Please be aware that these changes went into effect around the end of February, 2018: Page renaming will no longer be allowed. Going forward, you will need to use classifications to rename pages. Until the May 10, 2018 release, the system will continue to process the renamed pages as they are currently configured. Adobe is asking all customers to migrate to classifications by that date. After the May release, existing renames will no longer be honored and can change, retroactively, without notice. <br> <br>The URL replacement methodology is different. Previously, Adobe Analytics would store (mostly) the first URL associated with each page name each month. Going forward, we will store the most recent URL for each page name. (Updated April 11, 2018) Category reports for roll-ups and current data in Reports & Analytics are no longer provided. Deprecating category roll-up reports in the Web Service API is effective with the May 10, 2018, Adobe Analytics maintenance release. There is no longer any support for page/prop data from before approximately January 2007 (in some cases, 2006). This only impacts pages, props and page events (i.e. custom links, exit links, download links). Note: This change does not impact reporting in Analysis Workspace or Data Warehouse. If you have data preceding these dates, expect the following: Data will not combine correctly across the pre/post January 2007 boundary. Searches will not work against data before approximately Jan. 2007. |
+| Upcoming support changes for Date-Enabled and Numeric Classifications | May 7, 2018 | In the May 10, 2018 Maintenance release, we will begin limiting the functionality of date-enabled and numeric classifications. These classification types will be removed from the Admin and Classification Importer interfaces. From that date on, no new date-enabled and numeric classifications can be added. Existing classifications can still be managed (uploaded to, deleted) through the standard classification workflow, and will continue to be available in reporting. |
+| Upcoming support changes for Marketing Channel Cost and Budget | February 28, 2018 | In the April maintenance release, we will remove Marketing Channel Cost and Budget from the Admin > Marketing Channel menu. No new cost and budget data can be added. Existing cost and budget data will continue to be available in reporting, but cannot be updated. |
+| Code Manager - Legacy H Code | February 8, 2018 | Downloading legacy JavaScript (H code) from the Code Manager is no longer supported. |
+| Data retention: Check and set your data retention policy for Adobe Analytics | February 1, 2018 | **Background:** The European Union’s General Data Protection Regulation (GDPR), which applies as from May 25, 2018, provides that Adobe, in its role as your data processor, must take appropriate measures to assist its customers in fulfilling access, deletion, and other requests from individuals. Applying appropriate, secure, and timely deletion policies is an important part of complying with this obligation. As a result, Adobe would like to work with you to implement a data retention policy before GDPR takes effect on May 25, 2018.<br> <br>**What to expect:** Unless you already have an Adobe Analytics data retention policy in place, Adobe will begin applying data retention as currently specified in customer contracts for Adobe Analytics, unless other arrangements are made. Most Adobe Analytics contracts state that Adobe may delete data after 25 months. Once a data retention policy is in place for your organization, it is enforced on a rolling monthly basis. Data retention for longer periods than 25 months is available for an additional fee. Data retention periods for shorter periods can also be configured by contacting Customer Care. You will soon receive an email with additional details for your organization. <br> <br>Data retention impacts all methods for accessing historical Adobe Analytics data, including but not limited to Reports & Analytics, Analysis Workspace, Report Builder, the Web Services Reporting APIs, data warehouse, and data feeds. **Next steps:** Identify stakeholders within your organization responsible for making decisions about data retention. Your organization is best placed to know the appropriate period for which Adobe Analytics data should be retained. Contact your Adobe Customer Success Manager if you have questions regarding data retention for Adobe Analytics. |
+| User account linking | October 26, 2017 | Analytics users no longer need to manually link their accounts between the Experience Cloud and Analytics. Users can contact their Admin Console administrator to request Analytics access. The Analytics user ID migration enables administrators to easily migrate user accounts from Analytics User Management to the Adobe Admin Console. After your users are migrated, they will have access to the purchased solutions and core services available in the Experience Cloud. [Learn more about the Analytics User ID Migration](https://marketing.adobe.com/resources/help/en_US/experience-cloud/admin-console/analytics-migration/). |
 
 ### Analysis Workspace {#aa-wksp}
 
 | Feature    | Description  |
 | -----------| ---------- |  
-| Feature A  | Text |  
+| Changes to Cohort Analysis  | We made two small changes to how Cohort Analysis, which released a major update in January 2019, works. These modifications may result in changes to the data returned.<br>* The Custom Cohort Dimension segment definition now applies the dimension item only as part of the inclusion period, not as part of the return definition.<br>* For Rolling Calculation, we were applying the inclusion criteria through each of the subsequent return periods. Now, return criteria are instead applied to each of the periods leading up to the selected period. |  
 | Feature B  | Text |
 | Feature C  | Text |
 
-#### Feature A
+#### Changes to Cohort Analysis
 
-Description
+We made two small changes to how Cohort Analysis, which released a major update in January 2019, works. These modifications may result in changes to the data returned.
 
-#### Feature B
+* The Custom Cohort Dimension segment definition now applies the dimension item only as part of the inclusion period, not as part of the return definition.
+* For Rolling Calculation, we were applying the inclusion criteria through each of the subsequent return periods. Now, return criteria are instead applied to each of the periods leading up to the selected period.
 
-Description
+#### Media Analytics SDK 2.2 for: iOS & Android Mobile v5 Extension; JavaScript
 
-**Fixes**
+New features in Media Analytics.
 
-* Fix
-* Fix
-* Fix
-* Fix
+**Adoobe Analytics for Audio**
 
-### Reports & Analytics {#aa-rep}
+Connects a listener's streaming audio engagement with their full digital behavior. You can understand who's listening where, when, and how often, and evaluate user behavior in a commonly fragmented audio marketplace. 
 
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
+This feature enables businesses to measure the reach of their listeners, measure the popularity of their content, and provides insight into how to keep users engaged based on their behaviors and look-alike modeling. Measure 10-second audio content and 1-second streaming ads with our best-in-class SDKs, to evaluate both quality of experience (stall, errors, time to start) and content plus ad KPIs.
 
-#### Feature A
+**Maintaining Ad Breaks**
 
-Description
+Enhanced Ad tracking in scenarios where if a player has entered an ad break, and no calls are sent for a certain period of time, the SDK logic defaults to content playback, even if the player is still in an ad-break state. During a pre-roll ad, this might result in a content-start firing before the ad break is complete. In Media 2.2 SDK, buffer calls are sent between ads within an ad break when there is a long delay between ads.
 
-#### Feature B
+**SDK Name Change**
 
-Description
+Starting with the 2.2 release, the Video Heartbeat Library (VHL) SDKs are renamed to Media SDK. The Media 2.2 SDK is fully backwards compatible with the VHL 2.X SDK series. The name change does not represent a functional break, simply a change in naming convention.
 
-**Fixes**
+#### Analytics for Video and Audio
 
-* Fix
-* Fix
-* Fix
-* Fix
+New features in Analytics for Video and Audio
 
-#### Media Analytics SDK for iOS & Android (formerly VHL SDK) {#aa-va}
+**Media Starts - metric name change**
 
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
+On February 7th, 2019, Adobe Analytics for Video and Audio will be releasing a metric name change. Media Initiates will now be called _Media Starts_.
 
-#### Feature A
+This change is being made to reflect industry standards in metrics and reporting, and to make the metric easily identifiable in reporting. The new metric name will be immediately visible in Analytics reporting, and no changes are required on behalf of the end user.
 
-Description
+#### Analytics fixes and updates
 
-#### Feature B
+Fixes and minor updates applied to Adobe Analytics interface tools and components (Analysis Workspace, Reports & Analytics, Report Builder, and so on).
 
-Description
+**Analysis Workspace fixes**
 
-**Fixes**
+We made two small changes to how Cohort Analysis, which released a major update in January 2019, works. These modifications may result in small changes to the data returned.
 
-* Fix
-* Fix
-* Fix
-* Fix
+* The Custom Cohort Dimension segment definition now applies the dimension item only as part of the inclusion period, not as part of the return definition.
+* For Rolling Calculation, we were applying the inclusion criteria through each of the subsequent return periods. Now, return criteria are instead applied to each of the periods leading up to the selected period.
 
-### Report Builder {#aa-arb}
+**Analytics fixes (general)**
 
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
+* **Reports & Analytics:** Fixed an issue that prevented users from sharing reports with other users. (AN-172301)
+* **Admin:** Fixed an issue with the edit function in legacy Admin User Management : After selecting a user and clicking Edit, no data about the user was visible. (AN-170705)
+* Added some retry logic for specific errors in Analysis Workspace. (AN-172801) 
 
-#### Feature A
+### AppMeasurement for JavaScript {appm}
 
-Description
+JavaScript 2.11.0 - releasing February 11
 
-#### Feature B
+* Added support for the new Adobe Opt-in services functionality in AppMeasurement. (AN-163546)
+* Added support for storing link tracking data on session-storage. (AN-162272)
+* Added support for media stream type for Audio Analytics. (AN-173265)
 
-Description
+## Audience Manager {#aam}
 
-**Fixes**
+New features and fixes in Adobe Audience Manager.
 
-* Fix
-* Fix
-* Fix
-* Fix
+**Trait-to-Trait Overlap Report**
 
-### Activity Map {#aa-map}
+With the upgrade to a new version of [Tableau](https://experiencecloud.adobe.com/resources/help/en_US/aam/c_comproc.html), we have changed the data visualization method for overlap reports. See the screenshot in the Trait-to-Trait Overlap Report. See [Trait-to-Trait Overlap Report](https://experiencecloud.adobe.com/resources/help/en_US/aam/c_overlap_reports.html).
 
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
+**Segment-to-Trait Overlap Report**
 
-#### Feature A
+With the upgrade to a new version of Tableau, we have changed the data visualization method for overlap reports. See the screenshot in the Segment-to-Trait Overlap Report. See [Segment-to-Traight Overlap Report](https://experiencecloud.adobe.com/resources/help/en_US/aam/c_segment_trait_overlap.html)
 
-Description
+**Segment-to-Segment Overlap Report**
 
-#### Feature B
-
-Description
+With the upgrade to a new version of Tableau, we have changed the data visualization method for overlap reports. See the screenshot in the Segment-to-Segment Overlap Report. See [Segment-to-Segment Overlap Report](https://experiencecloud.adobe.com/resources/help/en_US/aam/c_segment_segment_overlap.html)
 
 **Fixes**
 
-* Fix
-* Fix
-* Fix
-* Fix
+* You can now add recommended traits to segment rules, from the traits recommendation list.
+* The Dates Through field in the General Reports page is now required when running the reports.
+* Fixed an issue causing impressions for previous months to be displayed when reporting current month usage for some customers.
+* Fixed an issue causing search fields for Traits, Segments, Destinations, and Models not to show any results when the search terms ended with a backslash character.
+* Fixed an issue causing an incorrect date to be displayed in the Payables section of the Feed Usage Report.
 
-### Data Workbench {#aa-dwb}
+## Experience Manager {#aem}
 
-See [Data Workbench release notes](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/) for the latest information.
+New features, fixes, and updates in Adobe Experience Manager. Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
 
-### AppMeasurement {#appm}
+### Product Maintenance
 
-| Feature    | Description  |
-| -----------| ---------- |
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
+**Oracle Java SE support for Adobe Experience Manager**
 
-**Fixes**
+Support and distribution of Oracle Java SE, including all maintenance updates of Long Term Support (LTS) releases (Oracle Java SE 8 and Oracle Java SE 11), will be supported by Adobe directly for all AEM customers making use of the Oracle Java technology as part of their AEM projects.
 
-* Fix
-* Fix
-* Fix
-* Fix
+You can find more information in the FAQ.
 
-See [AppMeasurement release history](https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/release/index.html) for a release history of AppMeasurement on the following platforms:
+**AEM 6.1 Service Pack 2–Cumulative Fix Pack 18**
 
-* JavaScript
-* iOS
-* Android
-* Flash-Flex
-* OSX
-* Windows Phone, XBOX, Silverlight, and .NET
-* BlackBerry
-* Java
-* PHP
-* Symbian
+AEM 6.1 SP2–CFP18 (6.1.2.18), released January 11, 2019, is an important update that includes key customer fixes released since the general availability of AEM 6.1 August 2016.
 
-### Data Feed {#aa-feed}
+* [Release Notes](https://helpx.adobe.com/experience-manager/release-notes--aem-6-1-cumulative-fix-pack-.html)
+* [AEM Forms CFP releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
+### Self-Help
 
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-### Data Warehouse {#aa-dwh}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-### Data Sources {#aa-dsrc}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-### Export Release {#aa-exp}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-<!--See [Export Release wiki]https://wiki.corp.adobe.com/display/omtrcache/Export+Release+Log for writer updates.-->
-
-### Name Lookup Service {#aa-name}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-<!--See [Name Lookup wiki]https://wiki.corp.adobe.com/display/omtrcache/Name+Lookup+Service+Release+Log for writer updates.-->
-
-### Important notices for [!DNL Analytics] administrators {#aa-notices}
-
-| Notice | Date Added or Updated  | Description |
-| -----------| ---------- | ---------- |
-| Text | Text | Text |
-| Text | Text | Text |
-| Text | Text | Text |
-
-## [!DNL Audience Manager] {#aam}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-## [!DNL Experience Manager] {#aem}
-
-ricks edits New features, fixes, and updates in [!DNL Adobe Experience Manager]. Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
-
-### Product releases
-
-### Self help
-
-### Community
+Troubleshooting tips for AEM integration issues, see [Troubleshooting Integration Issues](https://helpx.adobe.com/experience-manager/6-4/sites/administering/using/troubleshooting-integration-issues.html).
 
 ### Additional resources
 
@@ -508,71 +195,62 @@ ricks edits New features, fixes, and updates in [!DNL Adobe Experience Manager].
 * [Scene7 Publishing System release notes](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Livefyre release notes](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
-### [!DNL Livefyre] {#livefyre}
+## Advertising Cloud {#adcloud}
 
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
+New features in Adobe Advertising Cloud.
 
-**Fixes**
+### Portfolios
 
-* Fix
-* Fix
-* Fix
-* Fix
+(Beta) A new "Weekly" spend strategy allows you to maximize weighted revenue while trying to spend a specified weekly amount. This strategy automatically uses day-of-week models and simulations. If you want to use this strategy for a portfolio, wait until the portfolio has been optimized for at least two weeks, and then actively monitor spending and performance until the feature is validated.
 
-## [!DNL Social] {#soc}
+You can now allow Google Ads to optimize multiple campaigns to a single return on ad spend (ROAS) or cost per acquisition (CPA) target using the new Advertising Cloud spend strategies "Google Target CPA" and "Google Target ROAS." With these spend strategies, all assigned Google Ads campaigns will have the specified bid strategy and the specified target; campaigns on other search engines are ignored. All other portfolio settings are disabled.
 
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
+In the portfolio section "Auto-optimize Bid Adjustment Values," the "Audience Target" option now optimizes Google Ads remarketing list, customer match, and similar audiences (which you can create within Google Ads) at the campaign and ad group levels. Previously, a "Remarketing List" option optimized only remarketing lists at the ad group level.
 
-**Fixes**
+For portfolios with learning enabled, Advertising Cloud can now automatically bid up bid units with zero impressions within the specified learning budget.
 
-* Fix
-* Fix
-* Fix
-* Fix
+By default, you can use the legacy manual rules for bidding up bid units with zero impressions until the manual option is deprecated. In this case, the learning budget applies only to bid units with models, and zero impression learning uses additional spend. The portfolio may spend more than the allotted learning budget to meet the specified parameters.
 
-## [!DNL Campaign] {#ac}
+### Search Campaigns
 
-[!DNL Adobe Campaign] provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
+The Campaigns (Legacy) views are no longer in the main menu. To use the legacy views, which will be deprecated in February, go to Search > Campaigns > Campaigns, scroll to the bottom right of the page, and click Legacy Campaigns.
 
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
+If you're in the legacy views, you can return to the new views by either opening Search > Campaigns > Campaigns from the main menu or by scrolling to the right and clicking Click here to try our new Campaigns experience.
 
-**Fixes**
+(Yandex accounts only) When the account is managed by an agency/management account, you can now specify the management account using the "MCC Account" field. To remove an existing association, select "No MCC Account."
 
-* Fix
-* Fix
-* Fix
-* Fix
+(Google Ads) You can now create responsive search ads, which are in beta mode within Google Ads, for campaigns on the search and display networks. Google Ads dynamically assembles text-based responsive search ads from a set of ad titles and descriptions, favoring combinations that perform well together. You can optionally pin ad titles and descriptions to specific positions. Reporting is at the ad level.
 
-For product documentation, see:
+Bulksheet support for managing responsive search ads will be available in a future release.
 
-* [Adobe Campaign Classic Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html)
-* [Adobe Campaign Classic Learn & Support](https://helpx.adobe.com/support/campaign/classic.html)
-* [Adobe Campaign Standard Release Notes](https://helpx.adobe.com/campaign/standard/rn/rn.html)
-* [Adobe Campaign Standard Learn & Support](https://helpx.adobe.com/support/campaign/standard.html)
+Data about campaign assignment to portfolios is now included in the portfolio change history, which is available from the Portfolios view.
 
-## [!DNL Advertising Cloud] {#adcloud}
+When you compare data for two date ranges, you can now sort the data by the comparison column (such as Impressions R2).
 
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
+Error messages now have an option to report the issue. Session data is automatically included with the report, and you can optionally enter text details.
 
-**Fixes**
+### Search Constraints Beta
 
-* Fix
-* Fix
-* Fix
-* Fix
+(Google Ads and Bing Ads accounts only; beta feature) You can now constrain bids according to their impression share.
+
+### Social Beta
+
+You can now edit the budget and status of multiple ad sets using the Edit button in the toolbar.
+
+### Reports
+
+To support the optional third headline in Google Ads expanded text ads, the Ad Variation Report now includes the fields "Creative Title3" and "Description2."
+
+(Open beta for Google Ads and Bing Ads campaigns) Two new specialty reports provide impression share metrics: Keyword Daily Impression Share Report and Campaign Daily Impression Share Report. Advertising Cloud is seeking customer feedback on the reports.
+
+### Admin
+
+The display names for transaction properties must now be unique. If any existing display names were duplicated, they were suffixed with the transaction property name, such as "display_name (transaction_property_name)."
+
+### Integration with Adobe Analytics
+
+All s_kwcids for active campaigns —including s_kwcids that are no longer used for the campaigns — are automatically updated daily when metadata for accounts, campaigns, and ad groups change. Previously, s_kwcids that are no longer used were not updated.
+
+**Additional resources**
+
+[Adverising Cloud Community](https://forums.adobe.com/community/experience-cloud/advertising-cloud)
