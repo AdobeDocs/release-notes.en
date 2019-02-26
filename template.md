@@ -26,7 +26,7 @@ MONTH 2019
 * [Experience Manager](#aem)
 * [Campaign](#ac)
 * [Advertising Cloud](#adcloud)
-* [Target](https://marketing.adobe.com/resources/help/en_US/target/rn/target_release_notes.html) (links to solution help)
+* [Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
 * [Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 
 ## Experience Cloud core services and administration {#experiencecloud}
