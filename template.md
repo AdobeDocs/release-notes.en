@@ -64,6 +64,10 @@ Description of new features. Use headings or a table.
 * Fix
 * Fix
 
+#### [Assets] {#ec-asset}
+
+Asset release notes.
+
 #### [Device co-op] {#coop}
 
 **Features**
@@ -148,7 +152,7 @@ Description of new features. Use headings or a table.
 
 For product documentation, see [Feed](https://marketing.adobe.com/resources/help/en_US/mcloud/feed.html).
 
-### [!UICONTROL ID Service] {#id-service}
+### [!UICONTROL ID Service] {#ecid}
 
 **Features**
 
@@ -233,8 +237,8 @@ New features and fixes in Adobe Analytics:
 * [Media Analytics SDK for iOS & Android (formerly VHL SDK)](#aa-va)
 * [Report Builder](#aa-arb)
 * [Activity Map](#aa-map)
+* [AppMeasurement](#appm)
 * [Data Workbench](#aa-dwb)
-* [Analytics fixes and updates](#aa-fixes)
 * [Important notices for Analytics administrators](#aa-notices)
 
 For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
