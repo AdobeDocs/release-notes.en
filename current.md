@@ -44,7 +44,7 @@ Release notes for the Experience Cloud interface, including [!UICONTROL Platform
 * [People](#people)
 * [Triggers](#triggers)
 
-### [Administration and developer] {#admin}
+### [!UICONTROL Administration and developer] {#admin}
 
 * [User and product management](#adminconsole)
 * [Device co-op](#coop)
@@ -64,11 +64,11 @@ Description of new features. Use headings or a table.
 * Fix
 * Fix
 
-#### [Assets] {#ec-asset}
+#### [!UICONTROL Assets] {#ec-asset}
 
 Asset release notes.
 
-#### [Device co-op] {#coop}
+#### [!UICONTROL Device co-op] {#coop}
 
 **Features**
 
@@ -81,7 +81,7 @@ Description of new features. Use headings or a table.
 * Fix
 * Fix
 
-#### [Data connectors] {#data-con}
+#### [!UICONTROL Data connectors] {#data-con}
 
 **Features**
 
@@ -94,7 +94,7 @@ Description of new features. Use headings or a table.
 * Fix
 * Fix
 
-#### [General Data Protection Regulation (GDPR) API] {#gdpr}
+#### General Data Protection Regulation (GDPR) API {#gdpr}
 
 **Features**
 
