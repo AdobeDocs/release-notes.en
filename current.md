@@ -51,7 +51,7 @@ Release notes for the Experience Cloud interface, including [!UICONTROL Platform
 * [Data Connectors](#data-con)
 * [General Data Protection Regulation (GDPR) API](#gdpr)
 
-#### [User and product management] {#adminconsole}
+#### [!UICONTROL User and product management] {#adminconsole}
 
 **Features**
 
