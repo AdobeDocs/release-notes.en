@@ -13,13 +13,12 @@ author: mfrei
 New features and fixes in the Adobe Experience Cloud.
 
 >[!IMPORTANT]
->
 >This page contains pre-release content and is subject to change prior to the planned release.
 
 >[!NOTE]
 >Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date.
 
-MONTH 2019
+April 2019
 
 * [Experience Cloud core services and administration](#experiencecloud)
 * [Analytics](#analytics)
@@ -34,137 +33,21 @@ MONTH 2019
 
 Release notes for the Experience Cloud interface, including [!UICONTROL Platform] core services and product administration.  
 
-* [Launch, by Adobe](https://docs.adobelaunch.com/) (links to product help)
-* [Administration and developer](#admin)
-* [Assets](#ec-asset)
-* [Auditor](#auditor)
-* [Feed](#feed)
-* [ID Service](#ecid)
+* [Core services](#core-services)
+* [Experience Cloud ID Service](#ecid)
 * [Mobile Services and Mobile SDK](#mobile)
-* [Offers](#offers)
-* [People](#people)
-* [Triggers](#triggers)
+* [Administration and developer](#admin)
+* [Launch, by Adobe](https://docs.adobelaunch.com/) (links to product help)
 
-### [!UICONTROL Administration and developer] {#admin}
+### [Core services] {#core-services}
 
-* [User and product management](#adminconsole)
-* [Device co-op](#coop)
-* [Data Connectors](#data-con)
-* [General Data Protection Regulation (GDPR) API](#gdpr)
+Features and fixes.
 
-#### [!UICONTROL User and product management] {#adminconsole}
+For product documentation, see [Experience Cloud and Core Services](https://marketing.adobe.com/resources/help/en_US/mcloud/)
 
-**Features**
+### [!UICONTROL Experience Cloud ID Service] {#ecid}
 
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-#### [!UICONTROL Assets] {#ec-asset}
-
-Asset release notes.
-
-#### [!UICONTROL Device co-op] {#coop}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-#### [!UICONTROL Data connectors] {#data-con}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-#### General Data Protection Regulation (GDPR) API {#gdpr}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-### [!UICONTROL Assets] {#assets}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-For product documentation, see [Assets](https://marketing.adobe.com/resources/help/en_US/mcloud/experience-cloud-assets.html).
-
-### [!UICONTROL Auditor] {#auditor}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-For product documentation, see [Auditor](https://marketing.adobe.com/resources/help/en_US/auditor/).
-
-### [!UICONTROL Feed] {#feed}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-For product documentation, see [Feed](https://marketing.adobe.com/resources/help/en_US/mcloud/feed.html).
-
-### [!UICONTROL ID Service] {#ecid}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
+Features and fixes.
 
 For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
 
@@ -186,109 +69,29 @@ For product documentation, see [Mobile Services](https://marketing.adobe.com/res
 For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud
 Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
 
-### [!UICONTROL Offers] {#offers}
+### [Administration and developer] {#admin}
 
-**Features**
+Features and fixes.
 
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-### [!UICONTROL People] {#people}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-For product documentation, see _Audiences_ or _Customer Attributes_ in [Experience Cloud](https://marketing.adobe.com/resources/help/en_US/mcloud/).
-  
-### [!UICONTROL Triggers] {#triggers}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-For product documentation, see [Triggers](https://marketing.adobe.com/resources/help/en_US/mcloud/triggers.html).
+For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
 
 ## Analytics {#analytics}
 
 New features and fixes in Adobe Analytics:
 
-* [Analysis Workspace](#aa-wksp)
-* [Reports & Analytics](#aa-rep)
+* [New Features in Adobe Analytics](#aa-features)
 * [Media Analytics SDK for iOS & Android (formerly VHL SDK)](#aa-va)
-* [Report Builder](#aa-arb)
-* [Activity Map](#aa-map)
-* [Data Workbench](#aa-dwb)
-* [AppMeasurement](#appm)
-* [Important notices for Analytics administrators](#aa-notices)
+* [Important notices for Analytics administrators](analytics-important-notices.md)
 
 For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
 
-### Analysis Workspace {#aa-wksp}
+### New Features in Adobe Analytics {#aa-features}
 
 | Feature    | Description  |
 | -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text |
 | Feature C  | Text |
-
-#### Feature A
-
-Description
-
-#### Feature B
-
-Description
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-### Reports & Analytics {#aa-rep}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-#### Feature A
-
-Description
-
-#### Feature B
-
-Description
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
 
 ### Media Analytics SDK for iOS & Android (formerly VHL SDK) {#aa-va}
 
@@ -297,67 +100,6 @@ Description
 | Feature A  | Text |  
 | Feature B  | Text |
 | Feature C  | Text |
-
-#### Feature A
-
-Description
-
-#### Feature B
-
-Description
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-### Report Builder {#aa-arb}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-#### Feature A
-
-Description
-
-#### Feature B
-
-Description
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-### Activity Map {#aa-map}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-#### Feature A
-
-Description
-
-#### Feature B
-
-Description
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
 
 ### Data Workbench {#aa-dwb}
 
@@ -391,112 +133,6 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 * PHP
 * Symbian
 
-### Data Feed {#aa-feed}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-### Data Warehouse {#aa-dwh}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-### Data Sources {#aa-dsrc}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-### Export Release {#aa-exp}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-<!--See [Export Release wiki]https://wiki.corp.adobe.com/display/omtrcache/Export+Release+Log for writer updates.-->
-
-### Name Lookup Service {#aa-name}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-<!--See [Name Lookup wiki]https://wiki.corp.adobe.com/display/omtrcache/Name+Lookup+Service+Release+Log for writer updates.-->
-
-### Important notices for Analytics administrators {#aa-notices}
-
-| Notice | Date Added or Updated  | Description |
-| -----------| ---------- | ---------- |
-| Short Analytics report links | January 14, 2019 | Any short Analytics report links that have not been visited within one year will be cleaned up and deleted starting on Thursday, January 17, 2019, on a rolling schedule. |
-| End of Support for TLS 1.0 | Updated January 10, 2019 | On February 11, 2019 Adobe Analytics reporting will no longer support TLS (Transport Layer Security) 1.0 encryption. This change is part of our ongoing efforts to maintain the highest security standards and promote the safety of customer data. If you are unable to connect to Adobe Analytics reporting after February11, 2019, you should upgrade your browser to the [latest version](https://marketing.adobe.com/resources/help/en_US/sc/user/requirements.htm). Beginning February 20, 2019 Adobe Analytics data collection will no longer support TLS 1.0. With this change, Adobe will no longer collect Analytics data from end users with older devices or web browsers that do not support TLS 1.1 or later. We do not expect this to have a significant impact on customer data or reporting. (If your website already does not support TLS 1.0, you will not be affected.) <br><br>Beginning April 11, 2019, the Adobe Analytics Reporting API will no longer support TLS 1.0 encryption. Customers who access the API should verify that they will not be impacted. API clients using Java 7 with default settings will need modifications to support TLS 1.2. (Refer to Changing default TLS protocol version for client end points: TLS 1.0 to TLS 1.2.) API clients using Java 8 should not be impacted because the default setting is TLS 1.2. API clients using other frameworks will need to contact their vendors for details on TLS 1.2 support.|
-| Update to CSV downloads from Analysis Workspace | January 9, 2019 | Starting on February 7, 2019, CSV downloads (and Copy to Clipboard) from Analysis Workspace will no longer include the thousands separator. Note: The Analysis Workspace UI will continue to show the thousands separator. Additionally, the decimal separator will continue to be included, and will adhere to the format defined under **[!UICONTROL Components]** > **[!UICONTROL Report Settings]** > **[!UICONTROL Thousands Separator]**. |
-| Data Feed: post_product_list column - size change | January 9, 2019 | On February 7, 2019, Adobe plans to expand the size of the post_product_list column from 64 KB to 16 MB. This change is intended to ensure that merchandising eVar values added to post_product_list during processing do not cause truncation of product and revenue values. If you have processes that ingest post_product_list values, please ensure those processes can handle values up to 16 MB in length, or will truncate the value at 16 KB to avoid data ingestion failures. |
-| Management changes affecting inactive Analytics Live Stream endpoints | December 20, 2018 | Starting on February 1, 2019, Live Stream endpoints with no active consumer connections for 90 days may be disabled. You can reach out to Customer Care to inquire about your Live Stream endpoints and, if necessary, have them re-enabled. In addition, please ensure your consumer processes maintain a persistent connection, as intended by the design of the service, and that they are implemented to reconnect when the connection is disconnected or interrupted. |
-| Dallas FTP server migration (ftp2.omniture.com) | October 19, 2018 | On October 23, 2018, if you connect to ftp2.omniture.com via the SFTP protocol, you might be required to re-accept the SJ1 site's host identifier. This issue applies only to October 23. See [Upgrading Adobe FTP Servers](https://marketing.adobe.com/resources/help/en_US/whitepapers/ftp/ftp_upgrade.html). |
-| Update to Mobile Device dimension | October 16, 2018 | On September 26, Adobe updated its device lookup to Device Atlas's 2.1 API. This caused more detailed devices (e.g. Apple iPhone 7, Apple iPhone 8 Plus, etc.) to appear in the Mobile Device dimension for some browsers. This new level of device detail should be used directionally as is does not extend to all devices and browser types at this time. |
-| End of support for Internet Explorer 11 | Sept. 12, 2018 | Adobe will end support for Internet Explorer 11 within Adobe Analytics on November 13, 2018. Please switch to Microsoft Edge or another supported browser as soon as possible. |
-| End of life for Ad Hoc Analysis | August 9, 2018 | On August 6, 2018, Adobe announced the intention to end-of-life Ad Hoc Analysis. An end-of-life date will be shared once available. For more information, visit [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). We will not modify [!UICONTROL Ad Hoc Analysis] to support Java 9+ from this point forward. If you upgrade to Java 9+, [!UICONTROL Ad Hoc Analysis] will cease to function. Only Java 8 will be supported. |
-| Update Adobe [!UICONTROL Report Builder] due to end of support for TLS 1.0 | Sept. 7, 2018 | Due to the end of support for TLS 1.0, we recommended that [!UICONTROL Report Builder] (ARB) users download ARB v5.6.21 prior to February 2019. After that date, prior versions of ARB will no longer function. |
-| New help for the Analytics user migration | May 10, 2018 | We updated the Analytics user ID migration help with information about migrating Enterprise and Federated IDs to the Admin Console. See [Migrate Analytics user accounts for Enterprise and Federated IDs](https://marketing.adobe.com/resources/help/en_US/experience-cloud/admin-console/analytics-migration/migrate-enterprise.html). |
-| Upcoming removal of Account Activity Report | May 10, 2018 | The Account Activity Report will be replaced by the Server Call Usage feature in the Adobe Analytics Summer Release. The Account Activity Report will be permanently removed on August 9, 2018. To view summary data about report suite traffic after August 9, 2018, use the Server Call Usage feature. |
-| Changes to linear allocation models in Calculated Metrics | Effective July 19, 2018 | On July 19th, Adobe Analytics will revise the way allocation models in calculated metrics are evaluated. As part of this change, calculated metrics that use a non-default allocation model will be migrated to new and improved attribution models. [!UICONTROL Marketing Channel Last Touch] and [!UICONTROL Marketing Channel First Touch] allocation models will be migrated to new [!UICONTROL Last Touch] and [!UICONTROL First Touch] attribution models  espectively. ([!UICONTROL Marketing Channels] are not being deprecated, only the two allocation models that appear in calculated metrics). Additionally, we will correct the way linear allocation is calculated. If you use calculated metrics with linear allocation models, the reports may change slightly to reflect the new, corrected attribution model. This change to calculated metrics will be reflected in [!UICONTROL Analysis Workspace], [!UICONTROL Reports & Analytics], the [!UICONTROL Reporting API], [!UICONTROL Report Builder], and [!UICONTROL Ad Hoc Analysis]. See the [Calculated Metrics](https://marketing.adobe.com/resources/help/en_US/analytics/calcmetrics/m_metric_type_alloc.html) documentation for more information about this change. |
-| [!UICONTROL Anomaly Detection] and [!UICONTROL Contribution Analysis] functionality removed from [!UICONTROL Reports & Analytics] | April 10, 2018 | Anomaly Detection and Contribution Analysis have been removed from the Reports & Analytics feature set and are now available only via Analysis Workspace. Adobe Analytics Select and Foundation customers have access only to “daily-granularity” Anomaly Detection in Workspace. |
-| Adobe no longer issuing 3rd-party s_vi cookies for Safari | April 05, 2018 | On March 20, 2018, Adobe stopped issuing third-party s_vi cookies for the Safari browser. This change does not impact customers using first-party data collection cookies. This change also removes the visit and visitor inflation experienced by some customers, resulting from Safari ITP. |
-| Update Report Builder before you migrate user IDs to the Admin Console | March 17, 2018 | **Important:** Update your installation of Report Builder to the latest version. This update is a pre-requisite for running the Analytics user ID migration to the Admin Console, beginning in April 2018. See [Analytics User Migration to the Admin Console] for migration information. |
-| Back-end changes that affect reporting | April 11, 2018 | A change to the (back-end) lookup mechanism is going to impact reporting in several ways. Please be aware that these changes went into effect around the end of February, 2018: Page renaming will no longer be allowed. Going forward, you will need to use classifications to rename pages. Until the May 10, 2018 release, the system will continue to process the renamed pages as they are currently configured. Adobe is asking all customers to migrate to classifications by that date. After the May release, existing renames will no longer be honored and can change, retroactively, without notice. <br> <br>The URL replacement methodology is different. Previously, Adobe Analytics would store (mostly) the first URL associated with each page name each month. Going forward, we will store the most recent URL for each page name. (Updated April 11, 2018) Category reports for roll-ups and current data in Reports & Analytics are no longer provided. Deprecating category roll-up reports in the Web Service API is effective with the May 10, 2018, Adobe Analytics maintenance release. There is no longer any support for page/prop data from before approximately January 2007 (in some cases, 2006). This only impacts pages, props and page events (i.e. custom links, exit links, download links). Note: This change does not impact reporting in Analysis Workspace or Data Warehouse. If you have data preceding these dates, expect the following: Data will not combine correctly across the pre/post January 2007 boundary. Searches will not work against data before approximately Jan. 2007. |
-| Upcoming support changes for Date-Enabled and Numeric Classifications | May 7, 2018 | In the May 10, 2018 Maintenance release, we will begin limiting the functionality of date-enabled and numeric classifications. These classification types will be removed from the Admin and Classification Importer interfaces. From that date on, no new date-enabled and numeric classifications can be added. Existing classifications can still be managed (uploaded to, deleted) through the standard classification workflow, and will continue to be available in reporting. |
-| Upcoming support changes for Marketing Channel Cost and Budget | February 28, 2018 | In the April maintenance release, we will remove Marketing Channel Cost and Budget from the Admin > Marketing Channel menu. No new cost and budget data can be added. Existing cost and budget data will continue to be available in reporting, but cannot be updated. |
-| Code Manager - Legacy H Code | February 8, 2018 | Downloading legacy JavaScript (H code) from the Code Manager is no longer supported. |
-| Data retention: Check and set your data retention policy for Adobe Analytics | February 1, 2018 | **Background:** The European Union’s General Data Protection Regulation (GDPR), which applies as from May 25, 2018, provides that Adobe, in its role as your data processor, must take appropriate measures to assist its customers in fulfilling access, deletion, and other requests from individuals. Applying appropriate, secure, and timely deletion policies is an important part of complying with this obligation. As a result, Adobe would like to work with you to implement a data retention policy before GDPR takes effect on May 25, 2018.<br> <br>**What to expect:** Unless you already have an Adobe Analytics data retention policy in place, Adobe will begin applying data retention as currently specified in customer contracts for Adobe Analytics, unless other arrangements are made. Most Adobe Analytics contracts state that Adobe may delete data after 25 months. Once a data retention policy is in place for your organization, it is enforced on a rolling monthly basis. Data retention for longer periods than 25 months is available for an additional fee. Data retention periods for shorter periods can also be configured by contacting Customer Care. You will soon receive an email with additional details for your organization. <br> <br>Data retention impacts all methods for accessing historical Adobe Analytics data, including but not limited to Reports & Analytics, Analysis Workspace, Report Builder, the Web Services Reporting APIs, data warehouse, and data feeds. **Next steps:** Identify stakeholders within your organization responsible for making decisions about data retention. Your organization is best placed to know the appropriate period for which Adobe Analytics data should be retained. Contact your Adobe Customer Success Manager if you have questions regarding data retention for Adobe Analytics. |
-| User account linking | October 26, 2017 | Analytics users no longer need to manually link their accounts between the Experience Cloud and Analytics. Users can contact their Admin Console administrator to request Analytics access. The Analytics user ID migration enables administrators to easily migrate user accounts from Analytics User Management to the Adobe Admin Console. After your users are migrated, they will have access to the purchased solutions and core services available in the Experience Cloud. [Learn more about the Analytics User ID Migration](https://marketing.adobe.com/resources/help/en_US/experience-cloud/admin-console/analytics-migration/). |
-
 ## Audience Manager {#aam}
 
 | Feature    | Description  |
@@ -514,13 +150,34 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 
 ## Experience Manager {#aem}
 
-New features, fixes, and updates in Adobe Experience Manager. Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
+New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
 
 ### Product releases
 
+**Feature name**
+
+Description of features.
+
+**Feature name**
+
+Description.
+
+**Feature name**
+
+Description.
+
+**Core Components**
+
+Description
+
 ### Self help
 
-### Community
+**Collaborative Documentation**
+
+The following AEM documentation sets have been migrated to a new collaborative documentation platform.
+
+* Doc name
+* Doc name
 
 ### Additional resources
 
