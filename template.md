@@ -39,19 +39,19 @@ Release notes for the Experience Cloud interface, including [!UICONTROL Platform
 * [Administration and developer](#admin)
 * [Launch, by Adobe](https://docs.adobelaunch.com/) (links to product help)
 
-### [Core services] {#core-services}
+### Core services {#core-services}
 
 Features and fixes.
 
 For product documentation, see [Experience Cloud and Core Services](https://marketing.adobe.com/resources/help/en_US/mcloud/)
 
-### [!UICONTROL Experience Cloud ID Service] {#ecid}
+### Experience Cloud ID Service {#ecid}
 
 Features and fixes.
 
 For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
 
-### [!UICONTROL Mobile Services and Mobile SDK] {#mobile}
+### Mobile Services and Mobile SDK {#mobile}
 
 **Features**
 
@@ -69,7 +69,7 @@ For product documentation, see [Mobile Services](https://marketing.adobe.com/res
 For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud
 Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
 
-### [Administration and developer] {#admin}
+### Administration and developer {#admin}
 
 Features and fixes.
 
