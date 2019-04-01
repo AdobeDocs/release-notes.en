@@ -152,32 +152,21 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 
 New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
 
-### Product releases
+### Product maintenance
 
-**Feature name**
+**AEM 6.2 Service Pack 1-Cumulative Fix Pack 19**
 
-Description of features.
+AEM 6.2 SP1-CFP19 (6.2.1.19), released March 07, 2019, is an important update that includes key customer fixes released since the general availability of AEM 6.2 SP1, December 2016.
 
-**Feature name**
+* [Release notes](https://helpx.adobe.com/experience-manager/release-notes--aem-6-2-cumulative-fix-pack.html)
+* [AEM Forms CFP releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
-Description.
+**AEM 6.3 Service Pack 3-Cumulative Fix Pack 3**
 
-**Feature name**
+AEM 6.3 SP3-CFP3 (6.3.3.3), released March 14, 2019, is an important update that includes key customer fixed released since the general availability of AEM 6.3 April 2017.
 
-Description.
-
-**Core Components**
-
-Description
-
-### Self help
-
-**Collaborative Documentation**
-
-The following AEM documentation sets have been migrated to a new collaborative documentation platform.
-
-* Doc name
-* Doc name
+* [Release notes](https://helpx.adobe.com/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html)
+* [AEM Forms CFP releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
 ### Additional resources
 
