@@ -89,9 +89,24 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 
 | Feature    | Description  |
 | -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
+| Segmentation on Distinct Counts | You can now segment on a distinct count of items within a dimension. Examples: "Visitors who viewed more than 5 distinct products," or "Visits where more than 5 distinct pages were seen." (Note that the Approximate Count Distinct function is still available in Calculated Metrics, if you want to create a metric that is a distinct count of a dimension (e.g. # of customers, # of products, etc)).|  
+| Ad Hoc Analysis support for Java 11| Ad Hoc Analysis is now compatible with Java 11. Here are some caveats to using Java 11. (to follow) |
+| Advertising Analytics updates  | We are releasing a couple of updates to Advertising Analytics: a) Yahoo Gemini was absorbed by Microsoft Bing on March 31. As a result, the Yahoo Gemini advertising account option is no longer available. b) Google has implemented a new tracking pattern and instead of using “Tracking Template”, we now use “Final URL Suffix”.|
+
+**Fixes**
+
+* (Workspace) Fixed issues that caused Workspace projects with line charts to freeze or lag. This is part of an ongoing effort to improve Workspace performance. (AN-176727, AN-174878)
+* (Workspace) Fixed issues that prevented the creation of segments from Fallout visualizations. (AN-177042, AN-176876)
+* (Workspace) Fixed an issue that prevented the creation of segments from Flow visualizations. (AN-176681)
+* (Workspace) Fixed a misalignment issue in tables. (AN-176919)
+* (Workspace) Fixed a Japanese UI issue that occurred when collapsing/expanding the visualization panel. (AN-170601)
+* Fixed an issue that occurred when trying to switch segments in dashboard reportlets. (AN-177056)
+* (Reports & Analytics) Fixed an issue with being unable to select metrics in the Channel Overview report. (AN-176786)
+* (Segment Manager) Fixed an issue that resulted in an error message when trying to edit a segment that was shared with multiple AAM data sources. (AN-175353)
+* (Workspace) Fixed an issue that prevented Non-Admin users from seeing components (such as segments) they own that are not curated in virtual report suites. (AN-175616)
+* (Admin) Fixed an issue with trying to edit eVars for multiple report suites. (AN-168150)
+* (Admin) Fixed an issue with being unable to transfer assets to another user, in the legacy user management UI. (AN-176630, AN-173974)
+* (Workspace) Fixed an issue with anomaly detection data being shown prematurely. The fix should result in fewer false positives. (AN-176724)
 
 ### Media Analytics SDK for iOS & Android (formerly VHL SDK) {#aa-va}
 
