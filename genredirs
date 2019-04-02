@@ -1,0 +1,33 @@
+# set -e
+printf "UUID,MARKETING.COM,DOCS.ADOBE.COM\n" > redirects.csv
+for aemhtml in $(find aem -name '*.html' | grep -v 'search.html' | grep -v 'experience-cloud.html')
+do
+if [ -s ${aemhtml} ]; then
+    UUID=$(echo $(grep 'meta name="uuid"' ${aemhtml} | awk -F'"' '{print $4}'))
+    MARKURL=$(grep $(basename ${aemhtml}) urls.txt)
+    DOCSURL=$(echo ${aemhtml} | sed 's|^aem|https://docs.adobe.com|')
+
+    # if [ "${UUID}" == "" ]; then
+    #     # UUID="deadbeef-dead-dead-dead-deaddeafbeef"
+    # fi
+    # if [ "${MAKRURL}" == "" ]; then
+    #     MARKURL="dead://empty"
+    # fi
+    # if [ "${DOCSURL}" == "" ]; then
+    #     DOCSURL="dead://empty"
+    # fi
+
+fi
+printf "%s,%s,%s\n" "${UUID}" "${MARKURL}" "${DOCSURL}" >> redirects.csv
+
+done
+
+# No get all of the mark urls and double check
+
+for markurl in $(<urls.txt)
+do
+    grep ${markurl} redirects.csv > /dev/null 2>&1
+    if [ $? -eq 1 ]; then
+        printf "%s,%s,%s\n" "" "${markurl}" "" >> redirects.csv
+    fi
+done

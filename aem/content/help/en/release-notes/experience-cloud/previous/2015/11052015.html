@@ -1,0 +1,2278 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html  lang="en">
+
+
+
+
+
+    
+
+
+
+
+
+
+
+<head>
+    <style>html{visibility: hidden;opacity:0;}</style>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+    <meta name="keywords" content=""/>
+    <meta name="description" content=""/>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="/etc.clientlibs/foundation/clientlibs/main.min.css" type="text/css"/>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery.min.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/utils.min.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/jquery/granite.min.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/foundation/clientlibs/jquery.min.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/foundation/clientlibs/shared.min.js"></script>
+<script type="text/javascript" src="/etc.clientlibs/foundation/clientlibs/main.min.js"></script>
+
+
+<link href="/etc/designs/default.css" rel="stylesheet" type="text/css"/>
+
+    <script type="text/javascript" src="/etc.clientlibs/clientlibs/granite/clientlibrarymanager.min.js"></script>
+<script type="text/javascript">
+GraniteClientLibraryManager.write([{"p":"/libs/cq/ui/rte.min.js","c":[]},{"p":"/libs/cq/ui/widgets.min.js","c":["extjs","ie6"]},{"p":"/etc.clientlibs/cq/personalization/clientlib/personalization/integrations/commons.min.js","c":[]},{"p":"/etc.clientlibs/cq/analytics/clientlibs/sitecatalyst/tracking.min.css","c":[]},{"p":"/etc.clientlibs/cq/analytics/clientlibs/sitecatalyst/tracking.min.js","c":[]},{"p":"/etc.clientlibs/cq/searchpromote/clientlibs/searchpromote.min.css","c":[]},{"p":"/etc.clientlibs/cq/searchpromote/clientlibs/searchpromote.min.js","c":[]},{"p":"/libs/cq/searchpromote/widgets.min.js","c":["extjs","ie6"]},{"p":"/etc/clientlibs/beagle-widgets.min.css","c":[]},{"p":"/etc/clientlibs/beagle-widgets.min.js","c":[]},{"p":"/etc/clientlibs/acs-commons/vendor/fontawesome.min.css","c":[]},{"p":"/apps/acs-commons/widgets.min.css","c":["extjs","ie6"]},{"p":"/apps/acs-commons/widgets.min.js","c":["extjs","ie6"]},{"p":"/libs/cq/security/widgets.min.js","c":["extjs","ie6"]},{"p":"/libs/cq/tagging/widgets.min.js","c":["extjs","ie6"]},{"p":"/libs/mcm/emailservice-clientlib.min.css","c":["extjs"]},{"p":"/libs/mcm/emailservice-clientlib.min.js","c":["extjs"]},{"p":"/libs/cq/personalization/audiencemanager/widgets.min.js","c":["extjs","ie6"]},{"p":"/libs/cq/cloudserviceconfigs/widgets.min.js","c":["extjs","ie6"]},{"p":"/etc.clientlibs/clientlibs/granite/jquery-ui.min.css","c":[]},{"p":"/etc.clientlibs/clientlibs/granite/jquery-ui.min.js","c":[]},{"p":"/etc.clientlibs/cq/personalization/clientlib/personalization/jcarousel.min.css","c":[]},{"p":"/etc.clientlibs/cq/personalization/clientlib/personalization/jcarousel.min.js","c":[]},{"p":"/etc.clientlibs/clientlibs/granite/lodash/modern.min.js","c":[]},{"p":"/etc.clientlibs/cq/personalization/clientlib/personalization/kernel.min.js","c":[]},{"p":"/etc.clientlibs/cq/personalization/clientlib/personalization/select2.min.css","c":[]},{"p":"/etc.clientlibs/cq/personalization/clientlib/personalization/select2.min.js","c":[]},{"p":"/etc.clientlibs/cq/personalization/clientlib/personalization/ui.min.js","c":[]},{"p":"/libs/dam/components/scene7/widgets.min.js","c":["extjs"]},{"p":"/libs/dam/components/scene7/dynamicvideo/widgets.min.js","c":[]},{"p":"/libs/cq/personalization/widgets.min.js","c":["extjs","ie6"]},{"p":"/libs/cq/analytics/widgets.min.js","c":["extjs","ie6"]},{"p":"/libs/commerce/widgets.min.js","c":["extjs"]},{"p":"/apps/docs/widgets.min.js","c":[]},{"p":"/libs/cq/ui/widgets/themes/default.min.css","c":["extjs","ie6"]},{"p":"/libs/cq/ui/widgets/themes/default.min.js","c":["extjs","ie6"]},{"p":"/libs/cq/searchpromote/widgets/themes/default.min.css","c":[]},{"p":"/libs/cq/analytics/widgets/themes/default.min.css","c":["extjs","ie6"]},{"p":"/apps/acs-commons/widgets/themes/default.min.css","c":[]},{"p":"/libs/cq/security/widgets/themes/default.min.css","c":["extjs","ie6"]},{"p":"/libs/cq/security/widgets/themes/default.min.js","c":["extjs","ie6"]},{"p":"/libs/cq/tagging/widgets/themes/default.min.css","c":["extjs","ie6"]},{"p":"/libs/cq/tagging/widgets/themes/default.min.js","c":["extjs","ie6"]},{"p":"/libs/cq/cloudserviceconfigs/widgets/themes/default.min.css","c":[]},{"p":"/libs/dam/components/scene7/widgets/themes/default.min.css","c":[]},{"p":"/libs/cq/personalization/clientlib/personalization/ui/themes/default.min.css","c":[]},{"p":"/libs/cq/personalization/clientlib/personalization/ui/ie6/themes/default.min.css","c":["ie6"]},{"p":"/etc/clientlibs/foundation/personalization/ui/themes/default.min.css","c":[]},{"p":"/etc/clientlibs/foundation/personalization/ui/ie6/themes/default.min.css","c":["ie6"]},{"p":"/libs/commerce/widgets/themes/default.min.css","c":[]}],false);
+</script>
+
+            <script type="text/javascript">
+                (function() {
+
+                    var cfg = {"enabled":true,"maxUndoSteps":20,"persistenceMode":"step","whitelist":["foundation/components/text","foundation/components/download","foundation/components/image","foundation/components/slideshow","foundation/components/textimage","foundation/components/title","foundation/components/chart","foundation/components/external","foundation/components/flash","foundation/components/login","foundation/components/mvt","foundation/components/reference","foundation/components/search","foundation/components/sitemap","foundation/components/slideshow","foundation/components/table","foundation/components/video","foundation/components/carousel","foundation/components/mobileimage","foundation/components/mobilelist","foundation/components/mobilereference","foundation/components/mobiletextimage","foundation/components/account/passwordreset","foundation/components/form/start","foundation/components/form/address","foundation/components/form/checkbox","foundation/components/form/dropdown","foundation/components/form/hidden","foundation/components/form/captcha","foundation/components/form/image","foundation/components/form/imagebutton","foundation/components/form/password","foundation/components/form/radio","foundation/components/form/submit","foundation/components/form/text","foundation/components/form/upload","foundation/components/form/link","foundation/components/form/tags","foundation/components/account/accountname","geometrixx/components/list","geometrixx/components/title","cq/tagging/components/tagcloud","collab/forum/components/topic","collab/forum/components/post","collab/forum/components/forum","collab/commons/components/comments","collab/blog/components/archive","collab/blog/components/authors","collab/blog/components/categories","collab/blog/components/pages","collab/blog/components/search","collab/blog/components/workflow/blogsearchpingprocess","collab/blog/components/workflow/checkspamprocess","collab/forum/components/search","collab/forum/components/workflow/forumsubscribeprocess","collab/calendar/components/exportlink","collab/calendar/components/form/eventbasics","collab/calendar/components/form/icslink","collab/calendar/components/form/organizer","collab/calendar/components/form/pushworkflow","collab/calendar/components/form/recurrence","collab/calendar/components/workflow/calendarsubscriptionprocess","collab/commons/components/feedlink","collab/commons/components/toggle","collab/commons/components/ratings","cq/workflow/components/form/workflow_submit","fd/af/components/actions/nextitemnav","fd/af/components/actions/previtemnav","fd/af/components/actions/submit","fd/af/components/actions/reset","fd/af/components/guidebutton","fd/af/components/guidechart","fd/af/components/guidecheckbox","fd/af/components/guidedateinput","fd/af/components/guidedatepicker","fd/af/components/guidedropdownlist","fd/af/components/guidefileupload","fd/af/components/guideimage","fd/af/components/guideimagechoice","fd/af/components/guidenumericbox","fd/af/components/guidenumericstepper","fd/af/components/guidepasswordbox","fd/af/components/guideradiobutton","fd/af/components/guideseparator","fd/af/components/guidescribble","fd/af/components/guideswitch","fd/af/components/guidetermsandconditions","fd/af/components/guidetextbox","fd/af/components/guidetextdraw","fd/af/components/table","fd/af/components/toolbar","fd/af/components/panel","fd/afaddon/components/esign","fd/afaddon/components/echosign","fd/afaddon/components/summary","fd/afaddon/components/verify","fd/af/components/aemform","fd/af/components/actions/fileattachmentlisting","fd/af/components/guideContainer","fd/af/components/guideContainerWrapper","fd/af/components/guidefield","fd/af/components/guidefooter","fd/af/components/guideformtitle","fd/af/components/guideFragmentContainer","fd/af/components/guideheader","fd/af/components/guidePage","fd/af/components/guideseperator","fd/af/components/rootPanel","fd/af/components/tableHeader","fd/af/components/tableRow","fd/afaddon/components/actions/emailpdf","fd/afaddon/components/actions/lcprocess","fd/afaddon/components/actions/storepdf","fd/adaddon/components/guideAdModule","fd/adaddon/components/guideAdModuleGroup","fd/fp/components/actions/saveGuideDraft","fd/af/components/afFormTitle"],"blacklist":["foundation/components/form/start:removeParagraph","collab/forum/components/topic:insertParagraph","collab/forum/components/topic:removeParagraph","collab/forum/components/post:insertParagraph","collab/forum/components/post:removeParagraph","foundation/components/form/address:updateParagraph","foundation/components/form/checkbox:updateParagraph","foundation/components/form/dropdown:updateParagraph","foundation/components/form/captcha:updateParagraph","foundation/components/form/image:updateParagraph","foundation/components/form/imagebutton:updateParagraph","foundation/components/form/text:updateParagraph","foundation/components/form/upload:updateParagraph","foundation/components/form/link:updateParagraph","foundation/components/form/tags:updateParagraph","foundation/components/form/password:updateParagraph","foundation/components/form/radio:updateParagraph","collab/blog/components/break","collab/calendar/components/calendar:removeParagraph","collab/calendar/components/event:updateParagraph","collab/calendar/components/lenses/agenda:removeParagraph","collab/calendar/components/lenses/month:removeParagraph"]};
+                    
+                    
+                    cfg.pagePath = "\/content\/help\/en\/release\u002Dnotes\/experience\u002Dcloud\/previous\/2015\/11052015";
+
+                    if (CQClientLibraryManager.channelCB() != "touch") {
+                        var isEditMode = true;
+                        if (!isEditMode) {
+                            cfg.enabled = false;
+                        }
+                        CQ.undo.UndoManager.initialize(cfg);
+                        CQ.Ext.onReady(function() {
+                            CQ.undo.UndoManager.detectCachedPage(1553836975732);
+                        });
+                    }
+                })();
+
+                CQ.WCM.launchSidekick("\/content\/help\/en\/release\u002Dnotes\/experience\u002Dcloud\/previous\/2015\/11052015", {
+                    propsDialog: "\/libs\/foundation\/components\/page\/dialog",
+                    locked: false
+                });
+            </script>
+            
+ 
+    
+    <link rel="shortcut icon" type="image/png" href="/content/dam/help/Adobe_Experience_Cloud_logo_RGB_16px_no_shadow.png"/>
+    <link rel="icon" type="image/png" href="/content/dam/help/Adobe_Experience_Cloud_logo_RGB_16px_no_shadow.png"/>
+
+    
+    <title>November 2015</title>
+    
+
+
+                    
+
+
+
+ <meta name="cloud" content="experience-cloud">
+
+
+
+                    
+
+
+
+ <meta name="description" content="Learn about new features and fixes in the Adobe Marketing Cloud.">
+
+
+
+                    
+
+
+
+ <meta name="getting-started-title" content="Getting Started">
+
+
+
+                    
+
+
+
+ <meta name="getting-started-url" content="https://landing.adobe.com/experience-league/">
+
+
+
+                    
+
+
+
+ <meta name="git-commit" content="92be7455340a23b5abdc0fee97c82b4bbb5517b5">
+
+
+
+                    
+
+
+
+ <meta name="git-edit" content="https://github.com/AdobeDocs/release-notes.en/tree/master/./c-legacy-releases/2015/11052015.md">
+
+
+
+                    
+
+
+
+ <meta name="git-filename" content="./c-legacy-releases/2015/11052015.md">
+
+
+
+                    
+
+
+
+ <meta name="git-issue" content="https://github.com/AdobeDocs/release-notes.en/issues/new">
+
+
+
+                    
+
+
+
+ <meta name="git-repo" content="https://github.com/AdobeDocs/release-notes.en">
+
+
+
+                    
+
+
+
+ <meta name="index" content="False">
+
+
+
+                    
+
+
+
+ <meta name="keywords" content="release notes">
+
+
+
+                    
+
+
+
+ <meta name="last-update" content="2018-12-20">
+
+
+
+                    
+
+
+
+ <meta name="mini-toc-levels" content="1">
+
+
+
+                    
+
+
+
+ <meta name="product" content="Experience Cloud">
+
+
+
+                    
+
+
+
+ <meta name="seo-description" content="Learn about new features and fixes in the Adobe Marketing Cloud.">
+
+
+
+                    
+
+
+
+ <meta name="seo-title" content="Release Notes - November 2015">
+
+
+
+                    
+
+
+
+ <meta name="solution" content="Experience Cloud,Release Notes">
+
+
+
+                    
+
+
+
+ <meta name="solution-hub-url" content="https://helpx.adobe.com/support/experience-cloud.html">
+
+
+
+                    
+
+
+
+ <meta name="solution-icon" content="assets/assets/experience-cloud-logo-24.png">
+
+
+
+                    
+
+
+
+ <meta name="solution-title" content="Experience Cloud">
+
+
+
+                    
+
+
+
+ <meta name="title" content="Release Notes - November 2015">
+
+
+
+                    
+
+
+
+ <meta name="tutorials-title" content="Tutorials">
+
+
+
+                    
+
+
+
+ <meta name="tutorials-url" content="https://helpx.adobe.com/experience-cloud/tutorials.html">
+
+
+
+                    
+
+
+
+ <meta name="user-guide-title" content="Adobe Experience Cloud Release Notes">
+
+
+
+                    
+
+
+
+ <meta name="user-guide-url" content="https://www.adobe.com">
+
+
+
+                    
+
+
+
+ <meta name="uuid" content="33a38386-5bb4-4dde-9071-184dd248aadd">
+
+</head>
+
+
+
+
+
+
+
+
+
+          
+
+
+
+
+
+
+<body class="">
+  <!-- Include Template Header -->
+  
+
+
+
+
+
+          
+
+
+
+
+<link rel="stylesheet" href="/etc.clientlibs/docs-site/clientlibs.min.css" type="text/css"/>
+<script type="text/javascript" src="/etc.clientlibs/docs-site/clientlibs.min.js"></script>
+
+<link rel="stylesheet" href="/etc/designs/fmdita/clientlibs/rhjs.min.css" type="text/css"/>
+<script type="text/javascript" src="/etc/designs/fmdita/clientlibs/rhjs.min.js"></script>
+
+
+<link rel="stylesheet" href="/libs/fmdita/components/siteoutput/default/wth/clientlib.min.css" type="text/css"/>
+<link rel="stylesheet" href="/apps/fmdita/components/siteoutput/default/wth/clientlib.min.css" type="text/css"/>
+<script type="text/javascript" src="/libs/fmdita/components/siteoutput/default/wth/clientlib.min.js"></script>
+<script type="text/javascript" src="/apps/fmdita/components/siteoutput/default/wth/clientlib.min.js"></script>
+
+
+<link rel="stylesheet" type="text/css" href="https://wwwimages2.adobe.com/etc/beagle/public/globalnav/adobe-privacy/latest/privacy.min.css">
+
+<script src="https://wwwimages2.adobe.com/etc/beagle/public/globalnav/adobe-privacy/latest/privacy.min.js"></script>
+
+<script>
+    __satelliteEmbedCode ='//assets.adobedtm.com/98fab992275ef6366cc65f57f86b1e895a66c912/satelliteLib-330abe26809cc79c7bb967481407b3d671a4a877.js';
+</script>
+<script src="//www.adobe.com/marketingtech/main.stage.min.js"></script>
+
+<script>
+    /*
+$(document).ready(function() {
+
+  $('a[href^="#"]').bind('click.smoothscroll',function (e) {
+    e.preventDefault();
+    var target = this.hash,
+        $target = $(target);
+
+      // mbl: Getting [Error] TypeError: undefined is not an object (evaluating '$target.offset().top')
+      // (anonymous function) (current.html:326)
+
+	dispatch (jquery.min.js:1305)
+	handle (jquery.min.js:1210:140)
+    $('html, body').stop().animate( {
+      'scrollTop': $target.offset().top-40
+    }, 900, 'swing', function () {
+      window.location.hash = target;
+      } ); 
+  } );
+  */
+
+$(function () {
+    var txt = $(".contentnode")[0].textContent,
+    
+    wordCount = txt.replace( /[^\w ]/g, "" ).split( /\s+/ ).length;
+
+    var readingTimeInMinutes = Math.floor(wordCount / 228) + 1;
+
+    if (readingTimeInMinutes > 0) {
+        $( '.reading-time' ).text(function(index, text) {
+            return text.replace("<0>", readingTimeInMinutes);
+        });
+        $( '.reading-time' ).show();
+    } else {
+		$( '.reading-time' ).hide();
+    }
+
+    /*
+        Required meta-data on each page:
+
+        Global:
+            solution-title :  Used in article header as link
+            solution-hub-url :  Opens helpx hub page
+            solution-icon :  Displays solution icon next to solution title. Not yet implemented
+            getting-started-url :  Link to helpx getting started page
+            tutorials-url :  Link to video tutorials--either helpx tutorials or KT tutorials
+            git-repo :  Specifies the location of the master repo for internal use
+        Per Guide:
+            mini-toc-levels :  Determines the number of heading levels that appear in right rail. default is 2
+            guide-title: Name of the current User Guide
+            guide-url: Location of guide landing page
+    */
+    var solutionTitleMeta = document.head.querySelector("meta[name='solution-title']");
+    var solutionHubUrlMeta = document.head.querySelector("meta[name='solution-hub-url']");
+    var solutionIconMeta = document.head.querySelector("meta[name='solution-icon']");
+    var gettingStartedTitleMeta = document.head.querySelector("meta[name='getting-started-title']");
+    var gettingStartedUrlMeta = document.head.querySelector("meta[name='getting-started-url']");
+    var tutorialsUrlMeta = document.head.querySelector("meta[name='tutorials-url']"); 
+    var userGuideTitleMeta = document.head.querySelector("meta[name='user-guide-title']");
+    var userGuideUrlMeta = document.head.querySelector("meta[name='user-guide-url']");
+
+    /* set the element values based on metadata, default values if meta doesn't exist is empty "" */
+    document.getElementById("hub-page-link").innerText = (solutionTitleMeta ? solutionTitleMeta.getAttribute("content") : "");
+    document.getElementById("hub-page-link").setAttribute("href", (solutionHubUrlMeta ? solutionHubUrlMeta.getAttribute("content") : ""));
+    document.getElementById("guide-title").innerText = (userGuideTitleMeta ? userGuideTitleMeta.getAttribute("content") : "");
+    document.getElementById("tutorials-link").setAttribute("href", (tutorialsUrlMeta ? tutorialsUrlMeta.getAttribute("content") : ""));
+    document.getElementById("getting-started-link").innerText = (gettingStartedTitleMeta ? gettingStartedTitleMeta.getAttribute("content") : "");
+    document.getElementById("getting-started-link").setAttribute("href", (gettingStartedUrlMeta ?  gettingStartedUrlMeta.getAttribute("content") : ""));
+});
+
+
+// });
+
+</script>
+
+
+
+<script>
+
+
+
+  window.rh.model.publish(".d.indexPath", "/content/help/en/release-notes.html");
+  window.rh.model.publish(".d.searchPath", "/content/help/en/release-notes/search.html");
+
+  $(document).ready(function() {
+    $("#search input[name=q], .mobilesearch input[name=q]").focus(function() {
+      $("#header").addClass("searchActive");
+    });
+
+    $("#search input[name=q], .mobilesearch input[name=q]").blur(function() {
+      $("#header").removeClass("searchActive");
+    });
+
+	// Positioning navigation section header beneath page header
+	$( "a" ).click(function( event ) {
+        if ($(event.target).parents('ul#toc').length) {
+            var headerHeight = $( "#header").height();
+            var hrefVar = $(this).attr('href');
+            $( hrefVar ).css("margin-top", headerHeight * -1);
+            $( hrefVar ).css("padding-top", headerHeight);
+        }
+	});
+  });
+
+</script>
+<header id="horizontal-nav" class="horizontalNav">
+    <div id="adobe-logo">
+      <a href="//www.adobe.com/">
+            <svg class="Gnav-logo-image" xmlns="http://www.w3.org/2000/svg" width="20" height="17" viewBox="0 0 24 20" focusable="false"><path fill="#FF0000" d="M15.1,0H24v20L15.1,0z M8.9,0H0v20L8.9,0z M12,7.4L17.6,20h-3.8l-1.6-4H8.1L12,7.4z"></path></svg>
+            <span>Adobe</span>
+        </a>
+    </div>
+    <ul id="horizontal-nav-links">
+        <li><a id="hub-page-link" href="#">Release Notes</a></li>
+        <li><a id="getting-started-link" href="#">Getting Started</a></li>
+        <li><a id="tutorials-link" href="#">Tutorials</a></li>
+    </ul>
+
+  
+
+    <div class="hidden-div">&nbsp;</div>
+</header>
+<header id="header" class="clearfix">
+  
+  <!--<div id="logo" class="l">
+  
+    <h1><a href="/content/help/en/release-notes.html">Release Notes</a></h1>
+  </-->
+    <div id="title-bar" class="titleBar">
+        <div id="logo" class="l">
+            <!-- <h1 class="siteTitle"><a href="https://helpx.adobe.com/support.ec.html">Foo Release Notes</a></h1> -->
+            <h1 class="siteTitle"><a id="guide-title" href="#">Guide Title</a></h1>
+        </div>
+        
+        <div id="search" class="r">
+            <form method="GET" action="/content/help/en/release-notes/search.html">
+                <input type="text" name="q" autocomplete="off" placeholder="Search Adobe Support" />
+                <input type="hidden" name="_charset_" value="UTF-8">
+                <button type="submit">Search</button>
+            </form>
+        </div>
+        
+        <form class="mobilesearch r" method="GET" action="/content/help/en/release-notes/search.html">
+            <input autocomplete="off" type="text" name="q" placeholder="Search" />
+        </form>
+        
+    </div>
+</header>
+
+
+  <main class="clearfix">
+    
+    <!-- TOC Component -->
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+	<link rel="stylesheet" href="/etc.clientlibs/fmdita/components/siteoutput/default/tableofcontents/clientlib.min.css" type="text/css"/>
+
+    <div class="toccontainer" id="tocContainer" data-rhwidget="Basic">
+        <div id="hamburger-menu-icon">
+			<svg xmlns="http://www.w3.org/2000/svg" data-name="S_ShowMenu_24_N@1x" height="24" id="S_ShowMenu_24_N_1x" viewBox="0 0 24 24" width="24">
+                <title>Show Menu</title>
+                <rect fill="#707070" height="3" rx="0.5" ry="0.5" width="16" x="4" y="10" />
+                <rect fill="#707070" height="3" rx="0.5" ry="0.5" width="16" x="4" y="4" />
+                <rect fill="#707070" height="3" rx="0.5" ry="0.5" width="16" x="4" y="16" />
+  			</svg>
+        </div>
+        <div id="toc-container-label">TOPICS<span>&times;</span></div>
+    </div>
+    <script>
+        var tocUserGuide = JSON.parse('{"title":"Experience Cloud Release Notes","link":"/content/help/en/release-notes/experience-cloud","scope":"local","children":[{"title":"Adobe Experience Cloud Release Notes","link":"/content/help/en/release-notes/experience-cloud/current.html","scope":"local","children":[]},{"title":"Previous Release Notes","link":"/content/help/en/release-notes/previous","scope":"local","children":[{"title":"2019","link":"/content/help/en/release-notes/2019","scope":"local","children":[{"title":"March 2019","link":"/content/help/en/release-notes/experience-cloud/previous/2019/03072019.html","scope":"local","children":[]},{"title":"February 2019","link":"/content/help/en/release-notes/experience-cloud/previous/2019/02072019.html","scope":"local","children":[]},{"title":"January 2019","link":"/content/help/en/release-notes/experience-cloud/previous/2019/01172019.html","scope":"local","children":[]}]},{"title":"2018","link":"/content/help/en/release-notes/2018","scope":"local","children":[{"title":"November2018","link":"/content/help/en/release-notes/experience-cloud/previous/2018/11012018.html","scope":"local","children":[]},{"title":"October 2018","link":"/content/help/en/release-notes/experience-cloud/previous/2018/10112018.html","scope":"local","children":[]},{"title":"September 2018","link":"/content/help/en/release-notes/experience-cloud/previous/2018/09132018.html","scope":"local","children":[]},{"title":"August 2018","link":"/content/help/en/release-notes/experience-cloud/previous/2018/08092018.html","scope":"local","children":[]},{"title":"July 2018","link":"/content/help/en/release-notes/experience-cloud/previous/2018/07192018.html","scope":"local","children":[]},{"title":"June 2018","link":"/content/help/en/release-notes/experience-cloud/previous/2018/06142018.html","scope":"local","children":[]},{"title":"May 2018","link":"/content/help/en/release-notes/experience-cloud/previous/2018/05102018.html","scope":"local","children":[]},{"title":"April 2018","link":"/content/help/en/release-notes/experience-cloud/previous/2018/04122018.html","scope":"local","children":[]},{"title":"March 2018","link":"/content/help/en/release-notes/experience-cloud/previous/2018/03082018.html","scope":"local","children":[]},{"title":"February 2018","link":"/content/help/en/release-notes/experience-cloud/previous/2018/02082018.html","scope":"local","children":[]},{"title":"January 2018","link":"/content/help/en/release-notes/experience-cloud/previous/2018/01182018.html","scope":"local","children":[]}]},{"title":"2017","link":"/content/help/en/release-notes/2017","scope":"local","children":[{"title":"November 2017","link":"/content/help/en/release-notes/experience-cloud/previous/2017/11092017.html","scope":"local","children":[]},{"title":"October 2017","link":"/content/help/en/release-notes/experience-cloud/previous/2017/10262017.html","scope":"local","children":[]},{"title":"September 2017","link":"/content/help/en/release-notes/experience-cloud/previous/2017/09212017.html","scope":"local","children":[]},{"title":"August 2017","link":"/content/help/en/release-notes/experience-cloud/previous/2017/08172017.html","scope":"local","children":[]},{"title":"July 2017","link":"/content/help/en/release-notes/experience-cloud/previous/2017/07202017.html","scope":"local","children":[]},{"title":"June 2017","link":"/content/help/en/release-notes/experience-cloud/previous/2017/06082017.html","scope":"local","children":[]},{"title":"May 2017","link":"/content/help/en/release-notes/experience-cloud/previous/2017/05182017.html","scope":"local","children":[]},{"title":"April 2017","link":"/content/help/en/release-notes/experience-cloud/previous/2017/04202017.html","scope":"local","children":[]},{"title":"March 2017","link":"/content/help/en/release-notes/experience-cloud/previous/2017/03092017.html","scope":"local","children":[]},{"title":"February 2017","link":"/content/help/en/release-notes/experience-cloud/previous/2017/02162017.html","scope":"local","children":[]},{"title":"January 2017","link":"/content/help/en/release-notes/experience-cloud/previous/2017/01192017.html","scope":"local","children":[]}]},{"title":"2016","link":"/content/help/en/release-notes/2016","scope":"local","children":[{"title":"November 2016","link":"/content/help/en/release-notes/experience-cloud/previous/2016/11102016.html","scope":"local","children":[]},{"title":"October 2016","link":"/content/help/en/release-notes/experience-cloud/previous/2016/10202016.html","scope":"local","children":[]},{"title":"September 2016","link":"/content/help/en/release-notes/experience-cloud/previous/2016/09152016.html","scope":"local","children":[]},{"title":"August 2016","link":"/content/help/en/release-notes/experience-cloud/previous/2016/08182016.html","scope":"local","children":[]},{"title":"July 2016","link":"/content/help/en/release-notes/experience-cloud/previous/2016/07212016.html","scope":"local","children":[]},{"title":"June 2016","link":"/content/help/en/release-notes/experience-cloud/previous/2016/06162016.html","scope":"local","children":[]},{"title":"May 2016","link":"/content/help/en/release-notes/experience-cloud/previous/2016/05192016.html","scope":"local","children":[]},{"title":"April 2016","link":"/content/help/en/release-notes/experience-cloud/previous/2016/04212016.html","scope":"local","children":[]},{"title":"March 2016","link":"/content/help/en/release-notes/experience-cloud/previous/2016/03172016.html","scope":"local","children":[]},{"title":"February 2016","link":"/content/help/en/release-notes/experience-cloud/previous/2016/02182016.html","scope":"local","children":[]},{"title":"January 2016","link":"/content/help/en/release-notes/experience-cloud/previous/2016/01212016.html","scope":"local","children":[]}]},{"title":"2015","link":"/content/help/en/release-notes/2015","scope":"local","children":[{"title":"November 2015","link":"/content/help/en/release-notes/experience-cloud/previous/2015/11052015.html","scope":"local","children":[]},{"title":"October 2015","link":"/content/help/en/release-notes/experience-cloud/previous/2015/10152015.html","scope":"local","children":[]},{"title":"September 2015","link":"/content/help/en/release-notes/experience-cloud/previous/2015/09172015.html","scope":"local","children":[]},{"title":"August 2015","link":"/content/help/en/release-notes/experience-cloud/previous/2015/08202015.html","scope":"local","children":[]},{"title":"July 2015","link":"/content/help/en/release-notes/experience-cloud/previous/2015/07162015.html","scope":"local","children":[]},{"title":"June 2015","link":"/content/help/en/release-notes/experience-cloud/previous/2015/06182015.html","scope":"local","children":[]},{"title":"May 2015","link":"/content/help/en/release-notes/experience-cloud/previous/2015/05212015.html","scope":"local","children":[]},{"title":"April 2015","link":"/content/help/en/release-notes/experience-cloud/previous/2015/04162015.html","scope":"local","children":[]},{"title":"March 2015","link":"/content/help/en/release-notes/experience-cloud/previous/2015/03192015.html","scope":"local","children":[]},{"title":"February 2015","link":"/content/help/en/release-notes/experience-cloud/previous/2015/02192015.html","scope":"local","children":[]},{"title":"January 2015","link":"/content/help/en/release-notes/experience-cloud/previous/2015/01152015.html","scope":"local","children":[]}]},{"title":"2014 and Earlier","link":"/content/help/en/release-notes/experience-cloud/previous/2014-earlier.html","scope":"local","children":[]}]}]}');
+        function parseTocList(list) { // takes a menu items array and turns it into a <ul>
+            var ul = document.createElement("UL");
+            ul.setAttribute('class', 'menu-list');
+            for(var i=0; i<list.length; i++) {
+                ul.appendChild(parseTocItem(list[i]));
+            }
+            return ul;
+        }
+        
+        function parseTocItem(item) { // takes a toc menu item object and turns it into a <li>
+            var li = document.createElement("LI");
+            li.setAttribute('class', 'menu-item');
+            if(item.children.length) {
+                li.innerHTML = "<div>&nbsp;" + item.title + "</span></div>";
+                li.appendChild(parseTocList(item.children));
+            } else {
+                li.innerHTML = "<a href='" + item.link + "' target='" + (item.scope === 'external' ? '_blank' : '') + "'>" + item.title + "</a>";
+            }
+            return li;
+        }
+        if (tocUserGuide && tocUserGuide.children) {
+			document.getElementById("tocContainer").appendChild(parseTocList(tocUserGuide.children));
+        }
+        $(document).ready(function(){
+            $("#tocContainer .menu-item a[href*='" + location.pathname + "']").addClass('currentLink');
+            $("#tocContainer .menu-item a[href*='" + location.pathname + "']").parent().addClass('currentLinkWrapper'); // To highlight the current page in TOC
+            $('#tocContainer .menu-item').find('ul').hide(); // Collapse all sub-menus
+            $("#tocContainer .menu-item a.currentLink").parentsUntil("#tocContainer").show(); // Show sub-menus traversing to current page reference
+            $("#tocContainer .menu-item .currentLink").parentsUntil("#tocContainer").filter('li').children('div').addClass('open'); // Open icon for visible sub-menus
+            // Accordion type feature for TOC menu
+            $('#tocContainer > ul').find('div').click(function(e){
+                if($(this).hasClass('open')) {
+                    $(this).removeClass('open');
+                } else {
+                    $(this).addClass('open');
+                }
+                $(this).parent().children('ul').slideToggle();
+            });
+            $('#hamburger-menu-icon').click(function(e){
+                $('#tocContainer').removeClass('collapsed-nav');
+                $('#section').removeClass('collapsed-nav');
+                $('#toc-container-label').slideToggle();
+                $('#tocContainer > ul').slideToggle();
+                $('#hamburger-menu-icon').hide();
+
+            });
+            $('#toc-container-label').find('span').click(function(e){
+				$('#toc-container-label').hide();
+                $('#tocContainer > ul').slideToggle("fast", "swing", function() {
+					$('#tocContainer').addClass('collapsed-nav');
+                	$('#section').addClass('collapsed-nav');
+                    $('#hamburger-menu-icon').show();
+                });
+            });
+        });
+    </script>
+
+
+
+
+    <section id="section">
+      <!-- Topic Header -->
+      
+
+
+
+
+
+          
+
+
+
+
+<div class="topicheader">
+  <div class="breadcrumb"></div>
+  <div class="mobile-open-toc-button"></div>
+  
+</div>
+      <div class="par parsys">
+        <div class="topic section">
+          <!-- Topic Content -->
+          <div class="contentnode parsys"><div class="topic section">
+
+
+
+
+
+
+<div class="topic topic" id="release-notes---november-2015">
+
+    <h1 class="title">Release Notes - November 2015</h1>
+
+    <div class="titlealts parsys"><div class="new section"><script type="text/javascript">
+CQ.WCM.edit({"path":"/content/help/en/release-notes/experience-cloud/previous/2015/11052015/jcr:content/contentnode/topic/titlealts/*","type":"foundation/components/parsys/new","csp":"topicpage|page|basicpage/contentnode|parsys/topic/titlealts|parsys/new","editConfig":{"actions":[null,"CQ.wcm.EditBase.INSERT"],"disableTargeting":true}});
+</script>
+</div>
+
+<script type="text/javascript">
+CQ.WCM.edit({"path":"/content/help/en/release-notes/experience-cloud/previous/2015/11052015/jcr:content/contentnode/topic/titlealts","type":"foundation/components/parsys","csp":"topicpage|page|basicpage/contentnode|parsys/topic/titlealts|parsys","isContainer":true});
+</script>
+</div>
+
+
+    <div class="p">Learn about new features and fixes in the Adobe Marketing Cloud.</div><div class="note note" data-label="NOTE"><div class="p"></div><div class="p">To receive release notes one week prior to the monthly product update, subscribe to the <a class="xref" href="https://www.adobe.com/subscription/priority-product-update.html" title="" data-scope="external" data-format="html" data-type="" target="_blank">Adobe Priority Product Update</a>
+. Release information in the Priority Product Update comes one week in advance of the release date and is subject to change. Please check back at release time for updates.</div></div>
+
+    
+
+
+
+
+<div class="linklist relatedlinks" data-label="Related information"><div><div class="linkpool linklist"><div data-scope="" data-format="" data-type=""><a class="link" href="../../2015.html" title="" data-scope="local" data-format="section" data-type="" target="_self"><span class="linktext">2015</span></a>
+</div>
+</div>
+</div></div>
+
+
+    <div class="topic">
+
+
+
+
+
+
+<div class="topic topic" id="experience-cloud-and-core-services">
+
+    <h2 class="title">Experience Cloud and Core Services</h2>
+
+    
+
+    <div class="topic">
+
+
+
+
+
+
+<div class="topic topic" id="mobile">
+
+    <h3 class="title">Adobe Mobile Services SDK Updates</h3>
+
+    <div class="p">The iOS and Android SDKs version 4.8.0 (November 2, 2015) include the following changes:</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <table  class="table">
+    
+
+
+
+
+
+
+
+<!--cq:include script="../../common/tablestack.jsp" /-->
+
+
+
+
+
+
+
+
+<colgroup><col style="width: 50.0%" /><col style="width: 50.0%" /></colgroup>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<thead class="thead">
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><th  data-outputclass="entry" class="entry"> Resource </th><th  data-outputclass="entry" class="entry"> Description </th></tr>
+    
+</thead>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tbody class="tbody">
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" rowspan="3" ><div class="p">iOS SDK 4.x for Marketing Cloud Solutions </div></td><td  class="entry" ><div class="p"><b class="ph b">New Marketing Cloud ID Service methods </b></div><div class="p">Added the following new methods: </div><ul id="mobile_ul_55D8F29ADE3746C484FEC7893FA9EF23" class="ul"><li id="mobile_li_19F8AF546EEB45EBB5849EA6EB3CE6A3" class="li"><span data-outputclass="codeph" class="ph"> visitorSyncIdentifiers:authenticationState: </span></li><li id="mobile_li_1AF1CF62B3ED442D81B438ECBF981583" class="li"><span data-outputclass="codeph" class="ph"> visitorSyncIdentifierWithType:identifier:authenticationState: </span></li><li id="mobile_li_C116F0DA8E2A449A8B76637961C2100C" class="li"><span data-outputclass="codeph" class="ph"> visitorGetIDs </span></li></ul><div class="p">Changed the <span data-outputclass="codeph" class="ph"> visitorSyncIdentifiers:identifiers </span> method to <span data-outputclass="codeph" class="ph"> visitorSyncIdentifiers: </span></div></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" ><div class="p"><b class="ph b">New TVJS methods </b></div><div class="p">Added the following new methods: </div><ul id="mobile_ul_4C7F4BB1CF744444ABAA9F13BA98749E" class="ul"><li id="mobile_li_5DAB089D115843CCA0A53873D6D676F0" class="li"><span data-outputclass="codeph" class="ph"> visitorSyncIdentifiersAuthenticationState </span></li><li id="mobile_li_EDE2D1301E8648DB88A18D8C9F6A22C5" class="li"><span data-outputclass="codeph" class="ph"> visitorSyncIdentifierWithTypeIdentifierAuthenticationState </span></li><li id="mobile_li_2CCED3C707774597934A2F08BC690B15" class="li"><span data-outputclass="codeph" class="ph"> visitorGetIDsJs </span></li></ul></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" ><div class="p"><b class="ph b">New ADBMobile JSON Config variable </b></div><div class="p">Added the following variable: </div><ul id="mobile_ul_95065BC06FD540D2937D11111799F77F" class="ul"><li id="mobile_li_7C8C68A41FBA4D098D6803E71D4CCF7A" class="li"><span data-outputclass="codeph" class="ph"> analyticsForwardingEnabled </span></li></ul></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" rowspan="3" ><div class="p">Android SDK 4.x for Marketing Cloud Solutions </div></td><td  class="entry" ><div class="p"><b class="ph b">New Marketing Cloud ID Service methods </b></div><div class="p">Added the following methods: </div><ul id="mobile_ul_6B85F8A4826642BEB373225CA760D799" class="ul"><li id="mobile_li_72B94B8CECB94229827BFCB06671DFC9" class="li"><span data-outputclass="codeph" class="ph"> syncIdentifer </span></li><li id="mobile_li_CD0C6B6CEA064FDD8B109E01AEC63F5C" class="li"><span data-outputclass="codeph" class="ph"> syncIdentifiers </span></li><li id="mobile_li_620A2D94F97A4451919F0867CA82B25D" class="li"><span data-outputclass="codeph" class="ph"> getIdentifiers </span></li></ul></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" ><div class="p"><b class="ph b">New ADBMobile JSON Config variable</b></div><div class="p">Added the following variable: </div><ul id="mobile_ul_7FF76521C59343A4ABC9573C3CD5DC38" class="ul"><li id="mobile_li_1381E3EF082B4D7DBD131D8EC62F94D2" class="li"><span data-outputclass="codeph" class="ph"> analyticsForwardingEnabled </span></li></ul></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" ><div class="p">Added the following new PhoneGap Plugin methods: </div><div class="p"><b class="ph b">PhoneGap Configuration Methods</b></div><div class="p"></div><ul id="mobile_ul_98C5E7B5C79446EEA00F0E7CBC213301" class="ul"><li id="mobile_li_B403C06E57A0450CBB4ABAD45170C681" class="li">setPushIdentifier </li><li id="mobile_li_6D76C40601544D4FA13FD44F390C83CE" class="li">setAdvertisingIndentifier </li><li id="mobile_li_7D03005DBD9E4AC7BB78BA162CDC8153" class="li">keepLifecycleSessionAlive </li><li id="mobile_li_3DDE07508B764E679AF2ACECC4D935CB" class="li">trackingSendQueuedHits </li></ul><div class="p"></div><div class="p"><b class="ph b">PhoneGap Target Methods</b></div><div class="p"></div><ul id="mobile_ul_9B6002F5642B4D888FBD0A8D44EF32DB" class="ul"><li id="mobile_li_5C1C9EA770E048E48723528F346712B4" class="li">targetClearCookies </li></ul><div class="p"></div><div class="p"><b class="ph b">PhoneGap Acquisition Methods</b></div><div class="p"></div><ul id="mobile_ul_2015BFF019E64D5685A25E20D4B4A79B" class="ul"><li id="mobile_li_D450F60189904C43BDAC5D658324AEAA" class="li">acquisitionCampaignStartForApp </li></ul><div class="p"></div><div class="p"><b class="ph b">PhoneGap Audience Manager Methods</b></div><div class="p"></div><ul id="mobile_ul_7D5F339A1A004593AE1D5C26A5A495C5" class="ul"><li id="mobile_li_2F44037A508D49308F42961FDFB6486C" class="li">audienceGetVisitorProfile </li><li id="mobile_li_4F8F43C875384A74ADD48D4197C2ACFD" class="li">audienceGetDpuuid </li><li id="mobile_li_B38B6700AF2F4B9FA80CC6774B5B14E7" class="li">audienceGetDpid </li><li id="mobile_li_12579B472B404ABAA12DFBDBB22A0C30" class="li">audienceSetDpidAndDpuuid </li><li id="mobile_li_2CA997AF9FE241FD961BB0A9B50E14D9" class="li">audienceSignalWithData </li><li id="mobile_li_3545CB51B6B7409D8CE2B97E291267E6" class="li">audienceReset </li></ul><div class="p"></div></td></tr>
+</tbody>
+ 
+ 
+  </table>
+<div class="p">See <a class="xref" href="https://marketing.adobe.com/resources/help/en_US/mobile/" title="" data-scope="external" data-format="html" data-type="" target="_blank">Adobe Mobile Services</a>
+ for product documentation. To see the release notes for previous releases, expand <i class="ph i">Previous Release Notes</i> in the left pane.</div>
+
+</div>
+</div>
+
+
+    <div class="topic0 topic">
+
+
+
+
+
+
+<div class="topic topic" id="mcvid">
+
+    <h3 class="title">Marketing Cloud ID Service</h3>
+
+    <div class="p">Improvements and fixes for the Marketing Cloud ID service (v1.5.3).</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <table  class="table">
+    
+
+
+
+
+
+
+
+<!--cq:include script="../../common/tablestack.jsp" /-->
+
+
+
+
+
+
+
+
+<colgroup><col style="width: 50.0%" /><col style="width: 50.0%" /></colgroup>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<thead class="thead">
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><th  data-outputclass="entry" class="entry"> Feature </th><th  data-outputclass="entry" class="entry"> Description </th></tr>
+    
+</thead>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tbody class="tbody">
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" ><div class="p">COPPA Support </div></td><td  class="entry" ><div class="p"> The <span data-outputclass="keyword" class="ph"> Children’s Online Privacy Protection Act </span> (COPPA) prohibits the online collection of personal information from children under 13 years old without verifiable parental consent. Customers concerned about COPPA can add an optional variable to their <span data-outputclass="keyword" class="ph"> Marketing Cloud </span> ID service code that prevents it from setting cookies in the third-party domain of a browser. Applies to version 1.5.3 or greater. See <a class="xref" href="https://marketing.adobe.com/resources/help/en_US/mcvid/?f=mcvid_coppa.html" title="" data-scope="external" data-format="https" data-type="" target="_blank"> COPPA Support in the Marketing Cloud ID Service </a>
+ for more information. </div></td></tr>
+</tbody>
+ 
+ 
+  </table>
+<div class="p"><b class="ph b">Classification Processing Notice</b></div><div class="p">During November and December, Adobe anticipates a high volume of classification uploads across our customer base. We will process these uploads as quickly as possible, but it is possible that processing times will be longer than usual. For tips on minimizing processing time, see <a class="xref" href="https://helpx.adobe.com/analytics/kb/saint-processing-time.html" title="" data-scope="external" data-format="html" data-type="" target="_blank">Classification Processing Time</a>
+.</div><div class="note important" data-label="IMPORTANT"><div class="p"></div><div class="p">In January 2016, Adobe will end support for Internet Explorer 9 and 10. You can continue to use earlier browser versions, but Adobe will not test against earlier versions, and will not fix any issues with them. Your browser experience may degrade over time, and you run a security risk by using such a browser. Adobe strongly recommends that you upgrade to a supported version.</div></div>
+
+</div>
+</div>
+
+
+</div>
+</div>
+
+
+    <div class="topic0 topic">
+
+
+
+
+
+
+<div class="topic topic" id="analytics">
+
+    <h2 class="title">Analytics</h2>
+
+    <div class="note important" data-label="IMPORTANT"><div class="p"></div><div class="p">In January 2016, Adobe will disable SSL v3 protocol support for security purposes, and end SSL v3 traffic for Adobe Analytics data collection. Adobe will be reaching out to customers that are significantly impacted by this action soon.</div></div>
+
+    <div class="topic">
+
+
+
+
+
+
+<div class="topic topic" id="features_analytics">
+
+    <h3 class="title">New Features in Analytics</h3>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <table  class="table">
+    
+
+
+
+
+
+
+
+<!--cq:include script="../../common/tablestack.jsp" /-->
+
+
+
+
+
+
+
+
+<colgroup><col style="width: 50.0%" /><col style="width: 50.0%" /></colgroup>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<thead class="thead">
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><th  data-outputclass="entry" class="entry"> Feature </th><th  data-outputclass="entry" class="entry"> Description </th></tr>
+    
+</thead>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tbody class="tbody">
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" > Data Warehouse: Breakdown by segment </td><td  class="entry" ><div class="p">Added support for <span data-outputclass="term" class="ph"> Breakdown by Segment </span>. In addition to breakdowns by Standard (Items) and Custom (Insights), you can now break down reports by segments. When you select the Segments tab, the list will be populated with the same set of segments offered in the Available segments drop-down list. </div><div class="p">Line items with membership in the segment will report a value of “1”, and items outside of the segment report “0”. (AN-100346) </div></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" > Data Warehouse: Search box in breakdown and metrics selectors </td><td  class="entry" > Added a search box to both the breakdown and metric selectors. It is now easier to find a specific variable or segment, since you no longer need to scroll through the whole list. </td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" > Data Warehouse: Custom incrementer events in segment definitions </td><td  class="entry" > Previously, segment rules evaluating custom event totals were supported only for “counter&#34; events. Now, segment rules evaluating event totals handle “incrementer&#34; events as well. (AN-113168) </td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" > AVRO data feed for Data Workbench </td><td  class="entry" ><div class="p">The AVRO data feed is a new log format for Data Workbench that lets you access all the new variable types and features, including updated evars, custom events, and solution variables-and provides internal automation to seamlessly modify the data feed for future updates. </div><div class="p">The AVRO data feed and other updates were added to the <a class="xref" href="https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/?f=c_6_51" title="" data-scope="external" data-format="https" data-type="" target="_blank"> Data Workbench 6.51 </a>
+ release. </div></td></tr>
+</tbody>
+ 
+ 
+  </table>
+
+
+</div>
+</div>
+
+
+    <div class="topic0 topic">
+
+
+
+
+
+
+<div class="topic topic" id="analyticsfixes">
+
+    <h3 class="title">Analytics Fixes</h3>
+
+    <div class="p">Fixes were applied to the following products and services:</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <table  class="table">
+    
+
+
+
+
+
+
+
+<!--cq:include script="../../common/tablestack.jsp" /-->
+
+
+
+
+
+
+
+
+<colgroup><col style="width: 50.0%" /><col style="width: 50.0%" /></colgroup>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<thead class="thead">
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><th  data-outputclass="entry" class="entry"> Product </th><th  data-outputclass="entry" class="entry"> Fixes </th></tr>
+    
+</thead>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tbody class="tbody">
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" > Reports &amp; Analytics </td><td  class="entry" ><div class="p"></div><ul id="analyticsfixes_ul_7CC12EBCEBD943B1B329594D13DCF66C" class="ul"><li id="analyticsfixes_li_294227DF6E1346F18F5FA38805A5C2C3" class="li">Addressed an issue where the right/left graph feature appeared on the Key Metric report, even though this feature is not supported on trended reports. The graph icons have now been removed from trended reports. </li><li id="analyticsfixes_li_533E80996F6B4B1DA79E0E8AFD82B345" class="li">Fixed an issue with Admin password settings for User Management in Admin Tools. Only Admins with an Analytics password can change other users&#39; settings. This affects Admins who have only Marketing Cloud login credentials. (AN-108518 + AN-114469) </li></ul><div class="p"></div></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" > Ad Hoc Analysis Fixes </td><td  class="entry" ><div class="p"></div><ul id="analyticsfixes_ul_BCA85EDE14C2445C8C10BDD77ED342A6" class="ul"><li id="analyticsfixes_li_FD1E9A3A72564BE293BBAF1BD13A0339" class="li">Fixed an issue that prevented “Cities” data from appearing in reports. (AN-104987) </li></ul><div class="p"></div></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" ><div class="p">AppMeasurement </div></td><td  class="entry" ><div class="p">JavaScript 1.5.2: </div><ul id="analyticsfixes_ul_B5B69A24247F452E9C9D0452B707F07D" class="ul"><li id="analyticsfixes_li_EAE62521A20C4228B61439A1DEFE881B" class="li">Inclusion of Visitor API 1.5.3 (See changes in <a class="xref" href="/content/help/en/release-notes/experience-cloud/previous/2015/11052015.html#mcvid" title="" data-scope="local" data-format="dita" data-type="" target="_self"> Marketing Cloud ID Service </a>
+) </li><li id="analyticsfixes_li_C7836A3010C8480B9F89A054CC14F162" class="li"> Fixed detection of Internet Explorer 11 for URL truncation to 2047. (AN-114914) </li></ul></td></tr>
+</tbody>
+ 
+ 
+  </table>
+
+
+</div>
+</div>
+
+
+    <div class="topic1 topic">
+
+
+
+
+
+
+<div class="topic topic" id="videoanalytics">
+
+    <h3 class="title">Video Analytics</h3>
+
+    <div class="p">The November 5, 2015 release of  video heartbeat includes the following changes:</div><div class="p"><b class="ph b">New Features</b></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <table  class="table">
+    
+
+
+
+
+
+
+
+<!--cq:include script="../../common/tablestack.jsp" /-->
+
+
+
+
+
+
+
+
+<colgroup><col style="width: 50.0%" /><col style="width: 50.0%" /></colgroup>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<thead class="thead">
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><th  data-outputclass="entry" class="entry"> Feature </th><th  data-outputclass="entry" class="entry"> Description </th></tr>
+    
+</thead>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tbody class="tbody">
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" ><div class="p">Quartile events </div></td><td  class="entry" > Added the following new Video Core parameters and events: 
+    <ul id="videoanalytics_ul_CE4CC8097C4A4D15B291AC469CA91361" class="ul"><li id="videoanalytics_li_0606D6C68D0A4AA6B1AF193BB9A3C2A3" class="li">10% Progress Marker </li><li id="videoanalytics_li_B440555FC1574A799DBD818232F6554D" class="li">25% Progress Marker </li><li id="videoanalytics_li_E2B4DC4B03494758B5A80D3A5EA84B83" class="li">50% Progress Marker </li><li id="videoanalytics_li_32DF20075F3F429F87693089B14E2507" class="li">75% Progress Marker </li><li id="videoanalytics_li_85DCFD3F4C694E0396FE5E425BE20707" class="li">95% Progress Marker </li></ul></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" ><div class="p">Average Minute Audience event </div></td><td  class="entry" > Added the following new Video Core event: 
+    <ul id="videoanalytics_ul_7A9CE4FAC52544AC81D8790BD5D95342" class="ul"><li id="videoanalytics_li_B6AC77C607F847418AAED5AA4B585E88" class="li">Average Minute Audience </li></ul></td></tr>
+</tbody>
+ 
+ 
+  </table>
+
+
+</div>
+</div>
+
+
+</div>
+</div>
+
+
+    <div class="topic1 topic">
+
+
+
+
+
+
+<div class="topic topic" id="dnl-audience-manager">
+
+    <h2 class="title">Audience Manager</h2>
+
+    <div class="p"><b class="ph b">Fixes, Enhancements, and Deprecations</b></div><ul class="ul"><li class="li"><div class="p">Fixed a bug that prevented the Bulk Upload tool from returning report data for onboarded or rule-based traits. (AAM-21444)</div></li><li class="li"><div class="p">Fixed a bug in Data Export Controls that caused the label “Data Export Labels” to appear outside its section border. (AAM-21341)</div></li><li class="li"><div class="p">Fixed a bug in Profile Merge so available metrics show lifetime range instead of last 60-days. (AAM-21383)</div></li><li class="li"><div class="p">Fixed a bug in Profile Merge that prevented it from reliably showing data for the available date ranges. (AAM-21400)</div></li><li class="li"><div class="p">Fixed a bug in Profile Merge that prevented the trend graph from correctly displaying results. (AAM-21401)</div></li><li class="li"><div class="p">Fixed a bug in Trend Reports that prevented the graph from correctly displaying results. (AAM-21435). Improved Profile Merge workflow and notifications for deleting merge rules. (AAM-20861)</div></li></ul><div class="note note" data-label="NOTE"><div class="p"></div><div class="p">On October 1 all new links wrapped with Twitter&#39;s t.co wrapper will use the https URL scheme. This scheduled change increases the length of wrapped URLs by a single character.</div></div>
+
+</div>
+</div>
+
+
+    <div class="topic2 topic">
+
+
+
+
+
+
+<div class="topic topic" id="dnl-social">
+
+    <h2 class="title">Social</h2>
+
+    <div class="p">The Social 15.11.1.0 release (11/05/2015) includes the following changes:</div><div class="p"><b class="ph b">New Features</b></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <table  class="table">
+    
+
+
+
+
+
+
+
+<!--cq:include script="../../common/tablestack.jsp" /-->
+
+
+
+
+
+
+
+
+<colgroup><col style="width: 50.0%" /><col style="width: 50.0%" /></colgroup>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<thead class="thead">
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><th  data-outputclass="entry" class="entry"> Feature </th><th  data-outputclass="entry" class="entry"> Description </th></tr>
+    
+</thead>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tbody class="tbody">
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="rowtop"><td  class="entry" > Publish Anywhere photo editing tools </td><td  class="entry" ><div class="p">Quickly edit, optimize, and touch up images from within <span data-outputclass="wintitle" class="ph"> Publish Anywhere </span>, now available through an integration with Adobe Creative Cloud’s Aviary photo editor. <span data-outputclass="keyword" class="ph"> Social </span> users do not need to use external platforms for lightweight image editing or have creative teams adjust images. </div></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="rowtop"><td  class="entry" > Facebook Album Support </td><td  class="entry" ><div class="p">Find and respond to comments on Facebook photo albums as you would other posts in <span data-outputclass="keyword" class="ph"> Social </span><span data-outputclass="wintitle" class="ph"> Moderation </span>. Create a new Photo Album only feed to view comments on albums and photos within albums. Filter and view the performance of your photo album objects within <span data-outputclass="wintitle" class="ph"> Post Analytics </span> and export. </div></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="rowtop"><td  class="entry" > Hide Facebook post comments within Moderation </td><td  class="entry" ><div class="p">Hide or unhide a comment on a post from a Facebook page. This is useful to hide comments without actually deleting them from the page. When troublesome customers come back to the page, they still see their comments, but those comments are hidden from everyone else. </div></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="rowtop"><td  class="entry" > Twitter direct messages </td><td  class="entry" ><div class="p">You can now send direct messages that contain up to 10,000 characters instead of the previous limit of 140 characters. </div></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="rowtop"><td  class="entry" > LinkedIn API upgrade </td><td  class="entry" ><div class="p">LinkedIn has standardized its publishing APIs. As a result, you must upgrade your LinkedIn accounts to let you take advantage of new functionality in future releases of <span data-outputclass="keyword" class="ph"> Adobe Social </span>. You will see a pop-up message instructing you to upgrade your LinkedIn accounts once a week until you have upgraded all of your accounts. </div></td></tr>
+</tbody>
+ 
+ 
+  </table>
+<div class="p"><b class="ph b">Fixes</b></div><div class="p">This Social release focuses on streamlining social content creation, distribution, and engagement workflows so you can create and deliver high-quality, visual social content faster and make sure interactions around that content stay brand-appropriate and productive.</div><div class="p">The fixes highlighted below describe resolutions for the more important customer-reported issues.</div><ul class="ul"><li class="li"><div class="p">Fixed an issue that caused the following error while publishing using the  Content Calendar: &#34;&#34;ERROR comparison of Float with Float failed.&#34; AS-35399</div></li><li class="li"><div class="p">Fixed an issue that caused tagging to disappear on a published Facebook post.</div></li><li class="li"><div class="p">Fixed an issue that caused missing owned Post ID classifications for non-link posts.</div></li><li class="li"><div class="p">Fixed an issue that prevented users from adding tags to draft posts.</div></li><li class="li"><div class="p">Fixed an issue that prevented users from adding properties to draft posts.</div></li><li class="li"><div class="p">Fixed an issue that caused multiple Twitter handles to display for the same property in exported reports.</div></li><li class="li"><div class="p">Fixed an issue in the  Properties report that caused thumbnail images to display for defunct properties. AS-35211</div></li><li class="li"><div class="p">Fixed an issue that prevented campaigns and Social IDs from displaying in the  Posts report. AS-35150</div></li><li class="li"><div class="p">Fixed an issue with the  Moderation Overview dashboard that caused incorrect numbers for escalated, claimed, and resolved issues. AS-35114</div></li><li class="li"><div class="p">Fixed an issue that caused an error when users clicked an image in a moderation feed to view the image.</div></li><li class="li"><div class="p">Fixed an issue that prevented users from viewing all tags in a post from the  Content Calendar.  <a class="xref" href="https://jira.corp.adobe.com/browse/AS-35057" title="" data-scope="external" data-format="html" data-type="" target="_blank">AS-35057</a>
+</div></li><li class="li"><div class="p">Fixed an issue that prevented moderation feeds from displaying or caused the feed to load slowly.</div></li><li class="li"><div class="p">Fixed an issue with Google+ posts that failed with the following error message: &#34;Your post failed to publish because Google+ is experiencing a temporary technical issue that is beyond our control. Please try publishing your post again later.&#34;</div></li><li class="li"><div class="p">Fixed an issue that caused auto-notification moderation rules for private message to send the incorrect notification.</div></li></ul>
+
+</div>
+</div>
+
+
+    <div class="topic3 topic">
+
+
+
+
+
+
+<div class="topic topic" id="dnl-target">
+
+    <h2 class="title">Target</h2>
+
+    <div class="p">Refer to the <a class="xref" href="https://marketing.adobe.com/resources/help/en_US/target/rn/" title="" data-scope="external" data-format="html" data-type="" target="_blank">Adobe Target Release Notes</a>
+ for the latest release information about the following products:</div><ul class="ul"><li class="li"><div class="p">Target Standard and Premium</div></li><li class="li"><div class="p">Target Classic</div></li><li class="li"><div class="p">Recommendations Classic</div></li></ul>
+
+</div>
+</div>
+
+
+    <div class="topic4 topic">
+
+
+
+
+
+
+<div class="topic topic" id="dnl-media-optimizer">
+
+    <h2 class="title">Media Optimizer</h2>
+
+    <div class="p">Advertising Management help is available in the product at  <b class="ph b"> Help &gt;  Help Contents</b>.</div>
+
+</div>
+</div>
+
+
+    <div class="topic5 topic">
+
+
+
+
+
+
+<div class="topic topic" id="dnl-campaign">
+
+    <h2 class="title">Campaign</h2>
+
+    <div class="p"> Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.</div><div class="p">For product documentation, see:</div><ul class="ul"><li class="li"><div class="p"><a class="xref" href="https://docs.campaign.adobe.com/doc/standard/en/RN.html" title="" data-scope="external" data-format="html" data-type="" target="_blank">Adobe Campaign Standard Release Notes</a>
+</div></li><li class="li"><div class="p"><a class="xref" href="https://docs.campaign.adobe.com/doc/standard/en/home.html" title="" data-scope="external" data-format="html" data-type="" target="_blank">Adobe Campaign Standard Documentation</a>
+</div></li><li class="li"><div class="p"><a class="xref" href="https://support.neolane.net/doc/AC6.1/en/RN.html" title="" data-scope="external" data-format="html" data-type="" target="_blank">Adobe Campaign v6 Release Notes</a>
+</div></li><li class="li"><div class="p"><a class="xref" href="https://support.neolane.net/doc/AC6.1/en/home.html" title="" data-scope="external" data-format="html" data-type="" target="_blank">Adobe Campaign v6 Documentation</a>
+</div></li></ul>
+
+</div>
+</div>
+
+
+    <div class="topic6 topic">
+
+
+
+
+
+
+<div class="topic topic" id="documentation-updates">
+
+    <h2 class="title">Documentation Updates</h2>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <table  class="table">
+    
+
+
+
+
+
+
+
+<!--cq:include script="../../common/tablestack.jsp" /-->
+
+
+
+
+
+
+
+
+<colgroup><col style="width: 33.33333333333333%" /><col style="width: 33.33333333333333%" /><col style="width: 33.33333333333333%" /></colgroup>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<thead class="thead">
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><th  data-outputclass="entry" class="entry"> Item </th><th  data-outputclass="entry" class="entry"> Description </th><th  data-outputclass="entry" class="entry"> Date Published </th></tr>
+    
+</thead>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tbody class="tbody">
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" ><div class="p">(Updated) <a class="xref" href="https://marketing.adobe.com/resources/help/en_US/mcloud/?f=user_mgmt_admin" title="" data-scope="external" data-format="https" data-type="" target="_blank"> Users and Groups </a>
+</div></td><td  class="entry" ><div class="p">Analytics Administrators: If you are an administrator in the Marketing Cloud, see <a class="xref" href="https://marketing.adobe.com/resources/help/en_US/mcloud/?f=user_mgmt_admin" title="" data-scope="external" data-format="https" data-type="" target="_blank"> Users and Groups </a>
+ for updated information about mapping Analytics groups to broader Adobe groups, and adding or bulk-adding users via the <a class="xref" href="https://aedash.adobe.com/" title="" data-scope="external" data-format="http" data-type="" target="_blank"> Enterprise Dashboard </a>
+. </div></td><td  class="entry" ><div class="p">September 17, 2015 </div></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" ><div class="p"><a class="xref" href="https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/" title="" data-scope="external" data-format="https" data-type="" target="_blank"> Analysis Workspace </a>
+</div></td><td  class="entry" ><div class="p">Updated Analysis Workspace product documentation with feature descriptions, tasks for creating projects, videos, and use cases. </div></td><td  class="entry" ><div class="p">September 17, 2015 </div></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" ><div class="p"><a class="xref" href="https://marketing.adobe.com/resources/help/en_US/sc/implement/?f=timestamp-optional" title="" data-scope="external" data-format="https" data-type="" target="_blank"> Timestamps Optional </a>
+</div></td><td  class="entry" ><div class="p">Added product documentation and best practices for Timestamps Optional. This feature lets you integrate both timestamped and non-timestamped data in a report suite. All new report suites will be Timestamps Optional by default. </div></td><td  class="entry" ><div class="p">September 17, 2015 </div></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" ><a class="xref" href="https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/?f=c_6_5_" title="" data-scope="external" data-format="https" data-type="" target="_blank"> Data Workbench 6.5 Update </a>
+</td><td  class="entry" > See Data Workbench 6.5 release notes for instructions to upgrade and a list of new features and bug fixes, including a new Associations table and chord diagram and updates to visualizations, user interface, algorithms, and export features. </td><td  class="entry" > September 17, 2015 </td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" ><div class="p"><a class="xref" href="https://marketing.adobe.com/resources/help/en_US/reference/?f=classification_rule_definitions" title="" data-scope="external" data-format="https" data-type="" target="_blank"> Select Report Suites and Variables </a>
+</div></td><td  class="entry" ><div class="p">Updated the Classification Rule Builder so that you add report suites and variables to a rule set when editing an existing rule set (after creating the rule set). Previously, you specified the variable and report suite while creating the rule set. This change prevents reported issues occurring with classification variables. </div></td><td  class="entry" ><div class="p">August 20, 2015 </div></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" ><div class="p"><a class="xref" href="https://marketing.adobe.com/resources/help/en_US/aam/?f=profile-link-intro.html" title="" data-scope="external" data-format="https" data-type="" target="_blank"> Profile Link </a>
+</div></td><td  class="entry" ><div class="p">Profile Link works with cross-device data sources to identify and collect traits for authenticated site visitors. It includes the Profile Merge Rules feature, which lets you segment and target users accurately across multiple devices. </div></td><td  class="entry" ><div class="p">August 20, 2015 </div></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" > New <a class="xref" href="https://marketing-beta.adobe.com/resources/help/analytics/calcmetrics/" title="" data-scope="external" data-format="https" data-type="" target="_blank"> Calculated Metric Builder </a>
+ and Calculated Metric Manager </td><td  class="entry" ><div class="p">Calculated Metrics now allow for segmented metrics, more advanced math and the ability to organize and share metrics. </div></td><td  class="entry" ><div class="p">June 18, 2015 </div></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" ><div class="p"><a class="xref" href="https://marketing.adobe.com/resources/help/en_US/analytics/freeform/index.html" title="" data-scope="external" data-format="https" data-type="" target="_blank"> Freeform Analysis </a>
+ (public beta) </div></td><td  class="entry" ><div class="p">A feature in Analysis Workspace, freeform analysis lets you built data tables and drag-and-drop metrics, dimensions, segments, and multiple visualizations to a project panel. </div></td><td  class="entry" ><div class="p">June 18, 2015 </div></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" ><a class="xref" href="https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/" title="" data-scope="external" data-format="https" data-type="" target="_blank"> Data Workbench 6.4 </a>
+</td><td  class="entry" ><div class="p">Data Workbench 6.4 release includes several new features described <a class="xref" href="/content/help/en/release-notes/experience-cloud/previous/2015/06182015.html#features_analytics_premium" title="" data-scope="local" data-format="dita" data-type="" target="_self"> here </a>
+. </div></td><td  class="entry" ><div class="p">June 18, 2015 </div></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" ><div class="p"><a class="xref" href="https://marketing.adobe.com/resources/help/en_US/whitepapers/first_party_cookies/?f=adobe_managed_cert_pgm" title="" data-scope="external" data-format="https" data-type="" target="_blank"> Adobe Managed Certificate Program </a>
+</div></td><td  class="entry" ><div class="p">Added <a class="xref" href="https://marketing.adobe.com/resources/help/en_US/whitepapers/first_party_cookies/?f=adobe_managed_cert_pgm" title="" data-scope="external" data-format="https" data-type="" target="_blank"> Adobe Managed Certificate Program </a>
+ to the revamped <span data-outputclass="term" class="ph"> First-Party Cookies </span> product documentation. </div><div class="p">The managed certificate program lets you implement a new first-party SSL certificate for first-party cookies at no additional cost. </div></td><td  class="entry" ><div class="p">May 22, 2015 </div></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" ><div class="p"><a class="xref" href="https://marketing.adobe.com/resources/help/en_US/mobile/" title="" data-scope="external" data-format="https" data-type="" target="_blank"> Mobile </a>
+</div></td><td  class="entry" ><div class="p">Revamped the Adobe Mobile product documentation. </div></td><td  class="entry" ><div class="p">May 22, 2015 </div></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" ><div class="p"><a class="xref" href="https://marketing.adobe.com/resources/help/en_US/mcloud/index.html?f=core_services" title="" data-scope="external" data-format="https" data-type="" target="_blank"> Enabling Your Solutions for Core Services </a>
+</div></td><td  class="entry" ><div class="p">A high-level round-up what you need to do to modernize your solution implementations for core services. </div></td><td  class="entry" ><div class="p">March 19, 2015 </div></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" ><div class="p"><a class="xref" href="https://marketing.adobe.com/resources/help/en_US/mcloud/index.html?f=attributes" title="" data-scope="external" data-format="https" data-type="" target="_blank"> Customer Attributes </a>
+</div></td><td  class="entry" ><div class="p">If you capture enterprise customer data in a customer relationship management (CRM) database, you can upload that data into the Marketing Cloud. </div></td><td  class="entry" ><div class="p">March 19, 2015 </div></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" ><a class="xref" href="/content/help/en/release-notes/experience-cloud/previous/2015/03192015.html#concept_3DD490B0F7DD4157BD55519762B53B0C" title="" data-scope="local" data-format="dita" data-type="" target="_self"> Analytics Spring Release </a>
+</td><td  class="entry" ><div class="p">See the <a class="xref" href="/content/help/en/release-notes/experience-cloud/previous/2015/03192015.html#analytics" title="" data-scope="local" data-format="dita" data-type="" target="_self"> New Features </a>
+ section in Analytics for a round-up of new documentation for the Spring 2015 Analytics release. </div></td><td  class="entry" ><div class="p">March 19, 2015 </div></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr class="row"><td  class="entry" ><div class="p">Analytics <a class="xref" href="https://marketing.adobe.com/resources/help/en_US/reference/classification_rule_set.html" title="" data-scope="external" data-format="https" data-type="" target="_blank"> Classification Rules </a>
+ - overwrite existing values </div></td><td  class="entry" ><div class="p">In <span data-outputclass="uicontrol" class="ph"> Admin Tools </span> &gt; <span data-outputclass="uicontrol" class="ph"> Classification Rule Builder </span> &gt; <span data-outputclass="term" class="ph"> &amp; rule set name&amp; </span>, two new options enable you to select an overwrite mode: </div><ul id="documentation-updates_ul_0CF49177F4C84540B43A778EC7317FB0" class="ul"><li id="documentation-updates_li_01B970B834C548628C720E4CD79CEFD4" class="li"><b class="ph b">Rules overwrite any existing values:</b> (Default setting) Always overwrite existing classification keys, including classifications uploaded via the importer (SAINT). </li><li id="documentation-updates_li_CA05A9D2C63A42DFA04FD0C66AFA38F4" class="li"><b class="ph b">Rules overwrite only unset values:</b> Only fill in blank (unset) cells. Existing classifications will not be changed. </li></ul><div class="p">Previously, if a key was already classified in any column or cell, the rule would not run on that key, and the row in the table was skipped. </div></td><td  class="entry" ><div class="p">February 19, 2015 </div></td></tr>
+</tbody>
+ 
+ 
+  </table>
+
+
+</div>
+</div>
+
+
+</div>
+</div>
+<div class="new section"><script type="text/javascript">
+CQ.WCM.edit({"path":"/content/help/en/release-notes/experience-cloud/previous/2015/11052015/jcr:content/contentnode/*","type":"foundation/components/parsys/new","csp":"topicpage|page|basicpage/contentnode|parsys/new","editConfig":{"actions":[null,"CQ.wcm.EditBase.INSERT"],"disableTargeting":true}});
+</script>
+</div>
+
+<script type="text/javascript">
+CQ.WCM.edit({"path":"/content/help/en/release-notes/experience-cloud/previous/2015/11052015/jcr:content/contentnode","type":"foundation/components/parsys","csp":"topicpage|page|basicpage/contentnode|parsys","isContainer":true});
+</script>
+</div>
+
+
+          <!-- Topic Footer -->
+          
+
+
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+    </section>
+
+ 
+      
+
+
+
+
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<right id="right">
+
+<div id="menu">
+
+<div id="collaborate" class="collaborate">
+    <span class="collaborateTitle">IMPROVE THIS PAGE</span>
+    <p> <a class="linkEdit" id="editPage">Edit this page</a></p>
+	<p><a class="linkLog" id="logIssue">Log an issue</a></p>
+    <p><a class="linkLog" id="learnMore">Learn More</a></p>
+</div>
+
+
+
+<script>
+    var me = document.getElementById('menu'); 
+    header = document.querySelectorAll('h2, h3');
+	if (header.length > 0) {
+		var p = document.createElement("p");
+        	p.setAttribute("class","headerMenu");
+               p.innerHTML= "ON THIS PAGE";
+     		me.appendChild(p);
+	}
+</script>
+
+
+<div id="smallM"><ul id="toc"></ul></div>
+
+
+<script>
+{
+
+
+var TOC = document.getElementById('toc');
+
+    /*headings = document.querySelectorAll('h2, h3, h4, h5, h6'),*/
+// var headings = document.querySelectorAll('h2, h3');
+var parentLevel = 2;
+cursorNode = TOC;
+var headinglevels = ["h2", "h3", "h4", "h5", "h6"];
+var headingstring = ""
+var minitocMeta = document.head.querySelector("meta[name='mini-toc-levels']");
+var miniTocLevels = minitocMeta ? minitocMeta.getAttribute("content") : "3";
+var tmpArray = []
+
+for (var h = 0; h < headinglevels.length && h < miniTocLevels; h++ ) {
+	tmpArray.push(headinglevels[h]);
+}
+
+headingstring = tmpArray.join(',');
+
+var headings = document.querySelectorAll(headingstring);
+
+for (var i = 0, len = headings.length ; i < len ; ++i) {
+	var currentHeading = headings[i];
+	var newLevel = parseInt(currentHeading.tagName.substr(1,1));
+	var diff = newLevel - parentLevel;
+	if (diff > 0) {
+		var containerLiNode = cursorNode.lastChild;
+		var ulNode = document.createElement('UL')
+		containerLiNode.appendChild(ulNode);
+		cursorNode = ulNode;
+		parentLevel = newLevel;		
+	}
+	if (diff < 0) {
+		while (0 !== diff++) {
+			cursorNode = cursorNode.parentNode.parentNode;
+		}
+		parentLevel = newLevel;
+	}
+
+	var liNode = document.createElement('LI');
+	if (currentHeading.parentNode.hasAttribute('id')) {
+		var link = document.createElement('A');
+		link.setAttribute('href', '#' + currentHeading.parentNode.getAttribute('id'));
+		var heading = currentHeading.textContent;
+		link.appendChild(document.createTextNode(heading));
+		liNode.appendChild(link);
+	} else {
+		liNode.appendChild(document.createTextNode(currentHeading.textContent));
+	}
+	cursorNode.appendChild(liNode);
+}
+
+
+
+}
+</script>
+    <br/>
+  <p>Last update: <span id="lastUpdate"></span></p>
+    <div class="reading-time"><0> min read</div>
+
+<br/><br/><br/>
+
+
+
+<script>
+	var lastUpdate = document.head.querySelector("meta[name='last-update']").getAttribute("content"); 
+    var paragraph = document.getElementById("lastUpdate");
+	var text = document.createTextNode(lastUpdate);
+	paragraph.appendChild(text);
+
+
+    var linkEdit = document.head.querySelector("meta[name='git-edit']").getAttribute("content");
+
+    if (location.hostname.includes("corp.adobe.com") && linkEdit.includes("github.com")) {
+        linkEdit = linkEdit.replace(/github.com/g,"git.corp.adobe.com");
+    }
+
+
+	document.getElementById("editPage").setAttribute("href",linkEdit);
+
+    var mdFilename = document.head.querySelector("meta[name='git-filename']").getAttribute("content");
+    var log = document.head.querySelector("meta[name='git-issue']").getAttribute("content"); 
+
+    if (location.hostname.includes("corp.adobe.com") && log.includes("github.com")) {
+        log = log.replace(/github.com/g,"git.corp.adobe.com")
+    }
+
+    document.getElementById("logIssue").setAttribute("href",log + encodeURI("?body=Issue in " + mdFilename));
+    document.getElementById("learnMore").setAttribute("href","/content/help/" + "en" + "/contributor/contributor-guide/introduction.html");
+
+</script>
+
+<div id="feedback">
+  <div class="wth"><div class="md-wth">
+    <h3 class="feedbackTitle">WAS THIS CONTENT HELPFUL?</h3>
+    <div class="md-wth-options">
+        <label><input name="feedback" type="radio" value="aem_helpful"/> Yes</label>
+        <label><input name="feedback" type="radio" value="aem_not_helpful"/> No</label>
+    </div>
+    <div class="md-wth-submit">
+        <p>By submitting your feedback, you accept the <a target="_blank" href="http://www.adobe.com/misc/terms.html">Adobe Terms of Use.</a>
+        </p>
+    </div>
+    <div class="md-wth-ack">
+        <p>Thank you for submitting your feedback.</p>
+    </div>
+</div>
+</div>
+
+</div>
+
+    </div>
+</right>
+
+
+
+  </main>
+
+
+
+
+  <!-- Include Template Footer -->
+  
+
+
+<footer id="footer">
+
+    <a href="#" class="copyright">Copyright &copy; 2019 Adobe. All Rights Reserved.</a><span class="separator">/</span>
+    <a href="https://www.adobe.com/privacy.html">Privacy</a><span class="separator">/</span>
+    <a href="https://www.adobe.com/legal/terms.html">Terms of use</a><span class="separator">/</span>
+    <a href="https://www.adobe.com/privacy/cookies.html">Cookies</a><span class="separator">/</span>
+<script>
+        window.addEventListener("adobePrivacy:PrivacyConsent", function() {
+            console.log("consent given");
+            // window.adobePrivacy.loadResource({path: 'TRACKING SCRIPTS', type: 'script'});
+        });
+    </script>
+ 
+    <div class="evidon-notice-link" style="display:inline;"></div>
+
+    <script>try{_satellite.pageBottom();}catch(e){}</script>
+
+
+</footer>
+
+
+  <!-- Include Client Libraries -->
+  
+  <link rel="stylesheet" href="/etc/designs/fmdita/clientlibs/siteoutput/default/common.min.css" type="text/css"/>
+
+  <link rel="stylesheet" href="/etc/designs/fmdita/clientlibs/siteoutput/default/topicpage.min.css" type="text/css"/>
+<script type="text/javascript" src="/etc/designs/fmdita/clientlibs/siteoutput/default/topicpage.min.js"></script>
+
+  <link rel="stylesheet" href="/etc/designs/fmdita/clientlibs/siteoutput/default/tableofcontents.min.css" type="text/css"/>
+<script type="text/javascript" src="/etc/designs/fmdita/clientlibs/siteoutput/default/tableofcontents.min.js"></script>
+<script type="text/javascript" src="/etc/designs/fmdita/clientlibs/siteoutput/default/breadcrumbs.min.js"></script>
+
+<style>
+    html {
+    visibility: visible;
+    opacity: 1;
+}
+</style>
+
+
+  <script type="text/javascript">_satellite.pageBottom();</script>
+
+</body>
+
+</html>
