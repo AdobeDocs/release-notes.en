@@ -24,7 +24,6 @@ done
 
 # No get all of the mark urls and double check
 
-echo > notfound
 for markurl in $(<urls.txt)
 do
     grep ${markurl} redirects.csv > /dev/null 2>&1
