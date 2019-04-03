@@ -47,22 +47,24 @@ For product documentation, see [Experience Cloud and Core Services](https://mark
 
 ### Experience Cloud ID Service {#ecid}
 
-Features and fixes.
+Features and fixes in the Experience Cloud ID service.
+
+Added support to use the _trackingServer_ to write ECID cookies. (CORE-26838)
 
 For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
 
 ### Mobile Services and Mobile SDK {#mobile}
 
-**Features**
+Feature and fixes in Adobe Mobile Services.
 
-Description of new features. Use headings or a table.
+**iOS version 4.18.2**
 
-**Fixes**
+Target: Fixed an issue that prevented the purchasedProductIds from being correctly represented as an array for view notifications.
 
-* Fix
-* Fix
-* Fix
-* Fix
+**Android version 4.17.4**
+
+* General: Improved support for Android Instant Apps by making reachability checks configurable in _ADBMobileConfig.json_ file with the _reachabilityChecksEnabled_ boolean property on the root JSON object.
+* Target: Fixed a leaky network request.
 
 For product documentation, see [Mobile Services](https://marketing.adobe.com/resources/help/en_US/mobile/).
 
