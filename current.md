@@ -13,20 +13,17 @@ author: mfrei
 New features and fixes in the Adobe Experience Cloud.
 
 >[!IMPORTANT]
->
 >This page contains pre-release content and is subject to change prior to the planned release.
 
 >[!NOTE]
 >Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date.
 
-MONTH 2019
+April 2019
 
 * [Experience Cloud core services and administration](#experiencecloud)
 * [Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [Campaign](#ac)
-* [Advertising Cloud](#adcloud)
 * [Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
 * [Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 
@@ -34,448 +31,89 @@ MONTH 2019
 
 Release notes for the Experience Cloud interface, including [!UICONTROL Platform] core services and product administration.  
 
-* [Launch, by Adobe](https://docs.adobelaunch.com/) (links to product help)
-* [Administration and developer](#admin)
-* [Assets](#ec-asset)
-* [Auditor](#auditor)
-* [Feed](#feed)
-* [ID Service](#ecid)
+* [Experience Cloud core services](#core-services)
+* [Experience Cloud ID service](#ecid)
 * [Mobile Services and Mobile SDK](#mobile)
-* [Offers](#offers)
-* [People](#people)
-* [Triggers](#triggers)
+* [Launch, by Adobe](https://docs.adobelaunch.com/) (links to product help)
 
-### [!UICONTROL Administration and developer] {#admin}
+### Experience Cloud core services {#core-services}
 
-* [User and product management](#adminconsole)
-* [Device co-op](#coop)
-* [Data Connectors](#data-con)
-* [General Data Protection Regulation (GDPR) API](#gdpr)
+Release notes for the Experience Cloud interface and core services.
 
-#### [!UICONTROL User and product management] {#adminconsole}
+* Updated the app switcher to include Marketo in Experience Cloud solution suite, and branding updates to Experience Platform. (MCUI-6529)
+* Updated Experience Cloud Home to include navigation links to the Feed and Administration pages. (MCUI-6682)
+* Fixed an issue in the [!UICONTROL Trigger] definition for correct usage of “like” clause. (MCUI-6611)
+* Improvements to Customer Attributes for better logging in the Subscription service. (MCUI-6519)
 
-**Features**
+For product documentation, see [Experience Cloud and Core Services](https://marketing.adobe.com/resources/help/en_US/mcloud/)
 
-Description of new features. Use headings or a table.
+### Experience Cloud ID service {#ecid}
 
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-#### [!UICONTROL Assets] {#ec-asset}
-
-Asset release notes.
-
-#### [!UICONTROL Device co-op] {#coop}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-#### [!UICONTROL Data connectors] {#data-con}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-#### General Data Protection Regulation (GDPR) API {#gdpr}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-### [!UICONTROL Assets] {#assets}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-For product documentation, see [Assets](https://marketing.adobe.com/resources/help/en_US/mcloud/experience-cloud-assets.html).
-
-### [!UICONTROL Auditor] {#auditor}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-For product documentation, see [Auditor](https://marketing.adobe.com/resources/help/en_US/auditor/).
-
-### [!UICONTROL Feed] {#feed}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-For product documentation, see [Feed](https://marketing.adobe.com/resources/help/en_US/mcloud/feed.html).
-
-### [!UICONTROL ID Service] {#ecid}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
+* Added support to use the _trackingServer_ to write ECID cookies. (CORE-26838)
 
 For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
 
-### [!UICONTROL Mobile Services and Mobile SDK] {#mobile}
+### Mobile Services and Mobile SDK {#mobile}
 
-**Features**
+Feature and fixes in Adobe Mobile Services:
 
-Description of new features. Use headings or a table.
+**iOS version 4.18.2**
 
-**Fixes**
+* Target: Fixed an issue that prevented the _purchasedProductIds_ from being correctly represented as an array for view notifications.
 
-* Fix
-* Fix
-* Fix
-* Fix
+**Android version 4.17.4**
+
+* General: Improved support for Android Instant Apps by making reachability checks configurable in _ADBMobileConfig.json_ file with the _reachabilityChecksEnabled_ boolean property on the root JSON object.
 
 For product documentation, see [Mobile Services](https://marketing.adobe.com/resources/help/en_US/mobile/).
 
 For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud
 Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
 
-### [!UICONTROL Offers] {#offers}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-### [!UICONTROL People] {#people}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-For product documentation, see _Audiences_ or _Customer Attributes_ in [Experience Cloud](https://marketing.adobe.com/resources/help/en_US/mcloud/).
-  
-### [!UICONTROL Triggers] {#triggers}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-For product documentation, see [Triggers](https://marketing.adobe.com/resources/help/en_US/mcloud/triggers.html).
-
 ## Analytics {#analytics}
 
 New features and fixes in Adobe Analytics:
 
-* [Analysis Workspace](#aa-wksp)
-* [Reports & Analytics](#aa-rep)
-* [Media Analytics SDK for iOS & Android (formerly VHL SDK)](#aa-va)
-* [Report Builder](#aa-arb)
-* [Activity Map](#aa-map)
-* [Data Workbench](#aa-dwb)
-* [AppMeasurement](#appm)
+* [New Features in Adobe Analytics](#aa-features)
 * [Important notices for Analytics administrators](#aa-notices)
 
 For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
 
-### Analysis Workspace {#aa-wksp}
+### New Features in Adobe Analytics {#aa-features}
 
 | Feature    | Description  |
 | -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-#### Feature A
-
-Description
-
-#### Feature B
-
-Description
+| Segmentation on Distinct Counts | You can now segment on a distinct count of items within a dimension. Examples: "Visitors who viewed more than 5 distinct products," or "Visits where more than 5 distinct pages were seen." (Note that the Approximate Count Distinct function is still available in Calculated Metrics, if you want to create a metric that is a distinct count of a dimension (e.g. # of customers, # of products, etc)).|  
+| Ad Hoc Analysis support for Java 11| Ad Hoc Analysis is now compatible with Java 11. Here are some caveats to using Java 11. (to follow) |
+| Advertising Analytics updates  | We are releasing a couple of updates to Advertising Analytics: <ul><li>Yahoo Gemini was absorbed by Microsoft Bing on March 31. As a result, the Yahoo Gemini advertising account option is no longer available. </li><li>Google has implemented a new tracking pattern, and instead of using _Tracking Template_, we now use _Final URL Suffix_.</li></ul>|
 
 **Fixes**
 
-* Fix
-* Fix
-* Fix
-* Fix
-
-### Reports & Analytics {#aa-rep}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-#### Feature A
-
-Description
-
-#### Feature B
-
-Description
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-### Media Analytics SDK for iOS & Android (formerly VHL SDK) {#aa-va}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-#### Feature A
-
-Description
-
-#### Feature B
-
-Description
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-### Report Builder {#aa-arb}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-#### Feature A
-
-Description
-
-#### Feature B
-
-Description
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-### Activity Map {#aa-map}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-#### Feature A
-
-Description
-
-#### Feature B
-
-Description
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-### Data Workbench {#aa-dwb}
-
-See [Data Workbench release notes](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/) for the latest information.
-
-### AppMeasurement {#appm}
-
-| Feature    | Description  |
-| -----------| ---------- |
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-See [AppMeasurement release history](https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/release/index.html) for a release history of AppMeasurement on the following platforms:
-
-* JavaScript
-* iOS
-* Android
-* Flash-Flex
-* OSX
-* Windows Phone, XBOX, Silverlight, and .NET
-* BlackBerry
-* Java
-* PHP
-* Symbian
-
-### Data Feed {#aa-feed}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-### Data Warehouse {#aa-dwh}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-### Data Sources {#aa-dsrc}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-### Export Release {#aa-exp}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-<!--See [Export Release wiki]https://wiki.corp.adobe.com/display/omtrcache/Export+Release+Log for writer updates.-->
-
-### Name Lookup Service {#aa-name}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-<!--See [Name Lookup wiki]https://wiki.corp.adobe.com/display/omtrcache/Name+Lookup+Service+Release+Log for writer updates.-->
+* (Workspace) Fixed issues that caused Workspace projects with line charts to freeze or lag. This is part of an ongoing effort to improve Workspace performance. (AN-176727, AN-174878)
+* (Workspace) Fixed issues that prevented the creation of segments from Fallout visualizations. (AN-177042, AN-176876)
+* (Workspace) Fixed an issue that prevented the creation of segments from Flow visualizations. (AN-176681)
+* (Workspace) Fixed a misalignment issue in tables. (AN-176919)
+* (Workspace) Fixed a Japanese UI issue that occurred when collapsing/expanding the visualization panel. (AN-170601)
+* Fixed an issue that occurred when trying to switch segments in dashboard reportlets. (AN-177056)
+* (Reports & Analytics) Fixed an issue with being unable to select metrics in the Channel Overview report. (AN-176786)
+* (Segment Manager) Fixed an issue that resulted in an error message when trying to edit a segment that was shared with multiple Audience Manager data sources. (AN-175353)
+* (Workspace) Fixed an issue that prevented non-admin users from seeing components (such as segments) they own that are not curated in virtual report suites. (AN-175616)
+* (Admin) Fixed an issue with trying to edit eVars for multiple report suites. (AN-168150)
+* (Admin) Fixed an issue with being unable to transfer assets to another user, in the legacy user management UI. (AN-176630, AN-173974)
+* (Workspace) Fixed an issue with anomaly detection data being shown prematurely. The fix should result in fewer false positives. (AN-176724)
 
 ### Important notices for Analytics administrators {#aa-notices}
 
 | Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- |
+| Upcoming support changes for Date-Enabled and Numeric Classifications | February 28, 2019 | The ability to import Numeric 2 and Date-Enabled classifications has been removed from the codebase. This change will take effect with the June 2019 Maintenance Release. If you have Numeric or Date-Enabled columns in your import file, those cells will be silently ignored, and any other data within that file will be imported as normal. <br/>Existing classifications can still be exported through the standard classification workflow, and will continue to be available in reporting. |
+| Significantly updated the documentation on the getPercentPageViewed plug-in. | February 12, 2019 | [https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/getPercentPageViewed.html](https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/getPercentPageViewed.html) |
+| Admin > General Account Settings |  February 7, 2019| * The setting _Replace the last octet of IP addresses with 0_ is enabled by default for any new report suites created in the London Data Center after January 2019, but only if the settings for those report suites are copied from a template listed in the Admin Console. Report suites whose settings are duplicated from other report suites inherit all settings from the selected report suite.<br/> * The setting _IP Obfuscation_ is no longer enabled by default for all customers with a report suite set in EMEA. |
+| Mobile browser version numbers | February 7, 2019 | Starting January 8, 2019, we changed the truncation level for mobile browser version numbers from 2 to 1. From that date forward, versions only display the first two levels (e.g. _Firefox 64.0.2_ is now reported as _Firefox 64.0_). |
+| End of life for Ad Hoc Analysis | Updated January 29, 2019 | On August 6, 2018, Adobe announced the intention to end-of-life Ad Hoc Analysis. An end-of-life date will be shared once available.<br/>For more information, including which versions of Java will be compatible during this period, visit [Discover Workspace](https://adobe.ly/discoverworkspace). |
 | Short Analytics report links | January 14, 2019 | Any short Analytics report links that have not been visited within one year will be cleaned up and deleted starting on Thursday, January 17, 2019, on a rolling schedule. |
-| End of Support for TLS 1.0 | Updated January 10, 2019 | On February 11, 2019 Adobe Analytics reporting will no longer support TLS (Transport Layer Security) 1.0 encryption. This change is part of our ongoing efforts to maintain the highest security standards and promote the safety of customer data. If you are unable to connect to Adobe Analytics reporting after February11, 2019, you should upgrade your browser to the [latest version](https://marketing.adobe.com/resources/help/en_US/sc/user/requirements.htm). Beginning February 20, 2019 Adobe Analytics data collection will no longer support TLS 1.0. With this change, Adobe will no longer collect Analytics data from end users with older devices or web browsers that do not support TLS 1.1 or later. We do not expect this to have a significant impact on customer data or reporting. (If your website already does not support TLS 1.0, you will not be affected.) <br><br>Beginning April 11, 2019, the Adobe Analytics Reporting API will no longer support TLS 1.0 encryption. Customers who access the API should verify that they will not be impacted. API clients using Java 7 with default settings will need modifications to support TLS 1.2. (Refer to Changing default TLS protocol version for client end points: TLS 1.0 to TLS 1.2.) API clients using Java 8 should not be impacted because the default setting is TLS 1.2. API clients using other frameworks will need to contact their vendors for details on TLS 1.2 support.|
+| End of Support for TLS 1.0 | Updated January 10, 2019 | On February 11, 2019 Adobe Analytics reporting will no longer support TLS (Transport Layer Security) 1.0 encryption. This change is part of our ongoing efforts to maintain the highest security standards and promote the safety of customer data. If you are unable to connect to Adobe Analytics reporting after February11, 2019, you should upgrade your browser to the [latest version](https://marketing.adobe.com/resources/help/en_US/sc/user/requirements.html).<br/> Beginning February 20, 2019 Adobe Analytics data collection will no longer support TLS 1.0. With this change, Adobe will no longer collect Analytics data from end users with older devices or web browsers that do not support TLS 1.1 or later. We do not expect this to have a significant impact on customer data or reporting. (If your website already does not support TLS 1.0, you will not be affected.) <br/>Beginning April 11, 2019, the Adobe Analytics Reporting API will no longer support TLS 1.0 encryption. Customers who access the API should verify that they will not be impacted. <br/>* API clients using Java 7 with default settings will need [modifications to support TLS 1.2](https://www.java.com/en/configure_crypto.html). (Refer to _Changing default TLS protocol version for client end points: TLS 1.0 to TLS 1.2_.) <br/>* API clients using Java 8 should not be impacted because the default setting is TLS 1.2. <br/>* API clients using other frameworks will need to contact their vendors for details on TLS 1.2 support.|
+| Update Adobe Report Builder due to end of support for TLS 1.0 | September 7, 2018 | Due to the end of support for TLS 1.0, we recommended that Adobe Report Builder (ARB) users download ARB v5.6.21 prior to February 7, 2019. **After that date, prior versions of ARB no longer function.** |
 | Update to CSV downloads from Analysis Workspace | January 9, 2019 | Starting on February 7, 2019, CSV downloads (and Copy to Clipboard) from Analysis Workspace will no longer include the thousands separator. Note: The Analysis Workspace UI will continue to show the thousands separator. Additionally, the decimal separator will continue to be included, and will adhere to the format defined under **[!UICONTROL Components]** > **[!UICONTROL Report Settings]** > **[!UICONTROL Thousands Separator]**. |
 | Data Feed: post_product_list column - size change | January 9, 2019 | On February 7, 2019, Adobe plans to expand the size of the post_product_list column from 64 KB to 16 MB. This change is intended to ensure that merchandising eVar values added to post_product_list during processing do not cause truncation of product and revenue values. If you have processes that ingest post_product_list values, please ensure those processes can handle values up to 16 MB in length, or will truncate the value at 16 KB to avoid data ingestion failures. |
 | Management changes affecting inactive Analytics Live Stream endpoints | December 20, 2018 | Starting on February 1, 2019, Live Stream endpoints with no active consumer connections for 90 days may be disabled. You can reach out to Customer Care to inquire about your Live Stream endpoints and, if necessary, have them re-enabled. In addition, please ensure your consumer processes maintain a persistent connection, as intended by the design of the service, and that they are implemented to reconnect when the connection is disconnected or interrupted. |
@@ -501,26 +139,41 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 
 | Feature    | Description  |
 | -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
+| [Trait Recommendations](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/trait-recommendations.html)  | Trait Recommendations, powered by [Adobe Sensei](https://www.adobe.com/sensei.html), brings data science into your Audience Manager day-to-day workflows. <br> With Trait Recommendations, when you build or edit a segment in [Segment Builder](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/segment-builder.html), you get recommendations on additional traits you can include, that are similar to the traits in the segment rule. Add the recommended traits to your segment to increase your target audience. |  
+| [Global Data Sources](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/data-sources/global-data-sources.html) | Global data sources are accessible by all Audience Manager customers and contain device advertising IDs generated by device manufacturers such as Apple, Samsung, Microsoft, Roku, and Android device manufacturers. These IDs are made available by manufacturers for advertising purposes. You can use global data sources to synchronize device IDs and import or export data keyed off of those mappings. Audience Manager validates the device advertising IDs (DAID) imported by customers, based on their format, to ensure they match the standard format outlined by device manufacturers. |
+| [ID Mapping Limits](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/usage-limits.html#id-mapping-limits) |We have improved segmentation, reporting, and exporting of segments by limiting the number of cross-device ID mappings associated to a device ID. The newly imposed limits help us mitigate the impact that incorrect integrations and inaccurate data sets may have on ingestion and downstream processing. <br/> The new limits are: <ul><li>100 device IDs per cross-device ID</li><li>10 cross-device IDs per device ID</li><li>1000 device IDs to 1 device ID</li></ul> |
 
-**Fixes**
+### Improvements
 
-* Fix
-* Fix
-* Fix
-* Fix
+* Users now see an error message when they attempt to create an [!UICONTROL Algorithmic Model] using as baseline a trait type different from rule-based, segment, or onboarded. The errors message is: "Only rule-based traits, onboarded traits and segments can be used as baseline." (AAM-45235).
+* The [!UICONTROL Lifetime] metric has been removed from the [!UICONTROL Traits] and [!UICONTROL Folder Traits] pages.
+* Segment mapping start and end dates are now included in the [!UICONTROL Destinations General Report] (AAM-44997).
+
+### Fixes
+
+* Fixed an issue causing the [!UICONTROL Outbound File History Report] not to load in some situations (AAM-45713).
+* Fixed an issue causing the previously selected trait to be added to [!UICONTROL Segment Builder] when clicking [!UICONTROL Add Trait] on an empty field (AAM-45599).
+* Fixed an issue preventing users from editing or deactivating Algorithmic Models that contain excluded traits (AAM-45552).
 
 ## Experience Manager {#aem}
 
-New features, fixes, and updates in Adobe Experience Manager. Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
+New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
 
-### Product releases
+### Product maintenance
 
-### Self help
+**AEM 6.2 Service Pack 1-Cumulative Fix Pack 19**
 
-### Community
+AEM 6.2 SP1-CFP19 (6.2.1.19), released March 07, 2019, is an important update that includes key customer fixes released since the general availability of AEM 6.2 SP1, December 2016.
+
+* [Release notes](https://helpx.adobe.com/experience-manager/release-notes--aem-6-2-cumulative-fix-pack.html)
+* [AEM Forms CFP releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+
+**AEM 6.3 Service Pack 3-Cumulative Fix Pack 3**
+
+AEM 6.3 SP3-CFP3 (6.3.3.3), released March 14, 2019, is an important update that includes key customer fixed released since the general availability of AEM 6.3 April 2017.
+
+* [Release notes](https://helpx.adobe.com/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html)
+* [AEM Forms CFP releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
 ### Additional resources
 
@@ -531,72 +184,3 @@ New features, fixes, and updates in Adobe Experience Manager. Adobe recommends c
 * [Older versions of AEM documentation](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
 * [Scene7 Publishing System release notes](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Livefyre release notes](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
-
-### Livefyre {#livefyre}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-## Social {#soc}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-## Campaign {#ac}
-
-Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-For product documentation, see:
-
-* [Adobe Campaign Classic Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html)
-* [Adobe Campaign Classic Learn & Support](https://helpx.adobe.com/support/campaign/classic.html)
-* [Adobe Campaign Standard Release Notes](https://helpx.adobe.com/campaign/standard/rn/rn.html)
-* [Adobe Campaign Standard Learn & Support](https://helpx.adobe.com/support/campaign/standard.html)
-
-## Advertising Cloud {#adcloud}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
