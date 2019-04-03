@@ -47,8 +47,6 @@ For product documentation, see [Experience Cloud and Core Services](https://mark
 
 ### Experience Cloud ID Service {#ecid}
 
-Features and fixes in the Experience Cloud ID service.
-
 Added support to use the _trackingServer_ to write ECID cookies. (CORE-26838)
 
 For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
