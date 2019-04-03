@@ -24,8 +24,6 @@ April 2019
 * [Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [Campaign](#ac)
-* [Advertising Cloud](#adcloud)
 * [Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
 * [Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 
@@ -33,54 +31,50 @@ April 2019
 
 Release notes for the Experience Cloud interface, including [!UICONTROL Platform] core services and product administration.  
 
-* [Core services](#core-services)
-* [Experience Cloud ID Service](#ecid)
+* [Experience Cloud core services](#core-services)
+* [Experience Cloud ID service](#ecid)
 * [Mobile Services and Mobile SDK](#mobile)
-* [Administration and developer](#admin)
 * [Launch, by Adobe](https://docs.adobelaunch.com/) (links to product help)
 
-### Core services {#core-services}
+### Experience Cloud core services {#core-services}
 
-Features and fixes.
+Release notes for the Experience Cloud interface and core services.
+
+* Updated the app switcher to include Marketo in Experience Cloud solution suite, and branding updates to Experience Platform. (MCUI-6529)
+* Updated Experience Cloud Home to include navigation links to the Feed and Administration pages. (MCUI-6682)
+* Fixed an issue in the [!UICONTROL Trigger] definition for correct usage of “like” clause. (MCUI-6611)
+* Improvements to Customer Attributes for better logging in the Subscription service. (MCUI-6519)
 
 For product documentation, see [Experience Cloud and Core Services](https://marketing.adobe.com/resources/help/en_US/mcloud/)
 
-### Experience Cloud ID Service {#ecid}
+### Experience Cloud ID service {#ecid}
 
-Added support to use the _trackingServer_ to write ECID cookies. (CORE-26838)
+* Added support to use the _trackingServer_ to write ECID cookies. (CORE-26838)
 
 For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
 
 ### Mobile Services and Mobile SDK {#mobile}
 
-Feature and fixes in Adobe Mobile Services.
+Feature and fixes in Adobe Mobile Services:
 
 **iOS version 4.18.2**
 
-Target: Fixed an issue that prevented the purchasedProductIds from being correctly represented as an array for view notifications.
+* Target: Fixed an issue that prevented the _purchasedProductIds_ from being correctly represented as an array for view notifications.
 
 **Android version 4.17.4**
 
 * General: Improved support for Android Instant Apps by making reachability checks configurable in _ADBMobileConfig.json_ file with the _reachabilityChecksEnabled_ boolean property on the root JSON object.
-* Target: Fixed a leaky network request.
 
 For product documentation, see [Mobile Services](https://marketing.adobe.com/resources/help/en_US/mobile/).
 
 For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud
 Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
 
-### Administration and developer {#admin}
-
-Features and fixes.
-
-For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
-
 ## Analytics {#analytics}
 
 New features and fixes in Adobe Analytics:
 
 * [New Features in Adobe Analytics](#aa-features)
-* [Media Analytics SDK for iOS & Android (formerly VHL SDK)](#aa-va)
 * [Important notices for Analytics administrators](#aa-notices)
 
 For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
@@ -91,7 +85,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 | -----------| ---------- |  
 | Segmentation on Distinct Counts | You can now segment on a distinct count of items within a dimension. Examples: "Visitors who viewed more than 5 distinct products," or "Visits where more than 5 distinct pages were seen." (Note that the Approximate Count Distinct function is still available in Calculated Metrics, if you want to create a metric that is a distinct count of a dimension (e.g. # of customers, # of products, etc)).|  
 | Ad Hoc Analysis support for Java 11| Ad Hoc Analysis is now compatible with Java 11. Here are some caveats to using Java 11. (to follow) |
-| Advertising Analytics updates  | We are releasing a couple of updates to Advertising Analytics: a) Yahoo Gemini was absorbed by Microsoft Bing on March 31. As a result, the Yahoo Gemini advertising account option is no longer available. b) Google has implemented a new tracking pattern and instead of using “Tracking Template”, we now use “Final URL Suffix”.|
+| Advertising Analytics updates  | We are releasing a couple of updates to Advertising Analytics: <br/> </li><li>Yahoo Gemini was absorbed by Microsoft Bing on March 31. As a result, the Yahoo Gemini advertising account option is no longer available. <br/></li><li>Google has implemented a new tracking pattern, and instead of using _Tracking Template_, we now use _Final URL Suffix_.|
 
 **Fixes**
 
@@ -102,51 +96,11 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 * (Workspace) Fixed a Japanese UI issue that occurred when collapsing/expanding the visualization panel. (AN-170601)
 * Fixed an issue that occurred when trying to switch segments in dashboard reportlets. (AN-177056)
 * (Reports & Analytics) Fixed an issue with being unable to select metrics in the Channel Overview report. (AN-176786)
-* (Segment Manager) Fixed an issue that resulted in an error message when trying to edit a segment that was shared with multiple AAM data sources. (AN-175353)
-* (Workspace) Fixed an issue that prevented Non-Admin users from seeing components (such as segments) they own that are not curated in virtual report suites. (AN-175616)
+* (Segment Manager) Fixed an issue that resulted in an error message when trying to edit a segment that was shared with multiple Audience Manager data sources. (AN-175353)
+* (Workspace) Fixed an issue that prevented non-admin users from seeing components (such as segments) they own that are not curated in virtual report suites. (AN-175616)
 * (Admin) Fixed an issue with trying to edit eVars for multiple report suites. (AN-168150)
 * (Admin) Fixed an issue with being unable to transfer assets to another user, in the legacy user management UI. (AN-176630, AN-173974)
 * (Workspace) Fixed an issue with anomaly detection data being shown prematurely. The fix should result in fewer false positives. (AN-176724)
-
-### Media Analytics SDK for iOS & Android (formerly VHL SDK) {#aa-va}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-### Data Workbench {#aa-dwb}
-
-See [Data Workbench release notes](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/) for the latest information.
-
-### AppMeasurement {#appm}
-
-| Feature    | Description  |
-| -----------| ---------- |
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-See [AppMeasurement release history](https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/release/index.html) for a release history of AppMeasurement on the following platforms:
-
-* JavaScript
-* iOS
-* Android
-* Flash-Flex
-* OSX
-* Windows Phone, XBOX, Silverlight, and .NET
-* BlackBerry
-* Java
-* PHP
-* Symbian
 
 ### Important notices for Analytics administrators {#aa-notices}
 
@@ -230,72 +184,3 @@ AEM 6.3 SP3-CFP3 (6.3.3.3), released March 14, 2019, is an important update that
 * [Older versions of AEM documentation](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
 * [Scene7 Publishing System release notes](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Livefyre release notes](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
-
-### Livefyre {#livefyre}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-## Social {#soc}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-## Campaign {#ac}
-
-Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-For product documentation, see:
-
-* [Adobe Campaign Classic Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html)
-* [Adobe Campaign Classic Learn & Support](https://helpx.adobe.com/support/campaign/classic.html)
-* [Adobe Campaign Standard Release Notes](https://helpx.adobe.com/campaign/standard/rn/rn.html)
-* [Adobe Campaign Standard Learn & Support](https://helpx.adobe.com/support/campaign/standard.html)
-
-## Advertising Cloud {#adcloud}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
