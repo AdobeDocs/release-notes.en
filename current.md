@@ -85,7 +85,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 | -----------| ---------- |  
 | Segmentation on Distinct Counts | You can now segment on a distinct count of items within a dimension. Examples: "Visitors who viewed more than 5 distinct products," or "Visits where more than 5 distinct pages were seen." (Note that the Approximate Count Distinct function is still available in Calculated Metrics, if you want to create a metric that is a distinct count of a dimension (e.g. # of customers, # of products, etc)).|  
 | Ad Hoc Analysis support for Java 11| Ad Hoc Analysis is now compatible with Java 11. Here are some caveats to using Java 11. (to follow) |
-| Advertising Analytics updates  | We are releasing a couple of updates to Advertising Analytics: <br/> </li><li>Yahoo Gemini was absorbed by Microsoft Bing on March 31. As a result, the Yahoo Gemini advertising account option is no longer available. <br/></li><li>Google has implemented a new tracking pattern, and instead of using _Tracking Template_, we now use _Final URL Suffix_.|
+| Advertising Analytics updates  | We are releasing a couple of updates to Advertising Analytics: <ul><li>Yahoo Gemini was absorbed by Microsoft Bing on March 31. As a result, the Yahoo Gemini advertising account option is no longer available. </li><li>Google has implemented a new tracking pattern, and instead of using _Tracking Template_, we now use _Final URL Suffix_.</li></ul>|
 
 **Fixes**
 
