@@ -4,7 +4,7 @@ title: Adobe Experience Cloud Release Notes
 description: Experience Cloud release notes
 doc-type: release notes
 last-update: April 2019
-author: mfrei
+author: mfrei et al
 
 ---
 
