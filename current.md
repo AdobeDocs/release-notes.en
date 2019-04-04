@@ -159,6 +159,14 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 
 New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
 
+### Product releases
+
+**Cloud Manager 2019.3.0**
+
+This month Cloud Manager Release (2019.3.0) adds SLA reporting to the System Monitoring capability delivered in the last release. A visual refresh of some key screens was also added.
+
+* [Release notes](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
+
 ### Product maintenance
 
 **AEM 6.2 Service Pack 1-Cumulative Fix Pack 19**
