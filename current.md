@@ -49,7 +49,8 @@ For product documentation, see [Experience Cloud and Core Services](https://mark
 
 ### Experience Cloud ID service {#ecid}
 
-* Added support to use the _trackingServer_ to write ECID cookies. (CORE-26838)
+* Updated to version 4.2.0.
+* Added support for the Audience Manager Plug-in for IAB TCF, available via the ECID Opt-in object.
 
 For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
 
