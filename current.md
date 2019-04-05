@@ -4,7 +4,7 @@ title: Adobe Experience Cloud Release Notes
 description: Experience Cloud release notes
 doc-type: release notes
 last-update: April 2019
-author: mfrei et al
+author: mfrei
 
 ---
 
@@ -23,8 +23,8 @@ April 2019
 * [Experience Cloud core services and administration](#experiencecloud)
 * [Analytics](#analytics)
 * [Audience Manager](#aam)
+* [Target](#target)
 * [Experience Manager](#aem)
-* [Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
 * [Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 
 ## Experience Cloud core services and administration {#experiencecloud}
@@ -84,7 +84,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 | Feature    | Description  |
 | -----------| ---------- |  
 | Segmentation on Distinct Counts | You can now segment on a distinct count of items within a dimension. Examples: "Visitors who viewed more than 5 distinct products," or "Visits where more than 5 distinct pages were seen." (Note that the Approximate Count Distinct function is still available in Calculated Metrics, if you want to create a metric that is a distinct count of a dimension (e.g. # of customers, # of products, etc)).|  
-| Ad Hoc Analysis support for Java 11| Ad Hoc Analysis is now compatible with Java 11. Here are some caveats to using Java 11. (to follow) |
+| Ad Hoc Analysis support for Java 11| Ad Hoc Analysis is now compatible with Java 11. Here are some caveats to using Java 11.  |
 | Advertising Analytics updates  | We are releasing a couple of updates to Advertising Analytics: <ul><li>Yahoo Gemini was absorbed by Microsoft Bing on March 31. As a result, the Yahoo Gemini advertising account option is no longer available. </li><li>Google has implemented a new tracking pattern, and instead of using _Tracking Template_, we now use _Final URL Suffix_.</li></ul>|
 
 **Fixes**
@@ -154,6 +154,38 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 * Fixed an issue causing the [!UICONTROL Outbound File History Report] not to load in some situations (AAM-45713).
 * Fixed an issue causing the previously selected trait to be added to [!UICONTROL Segment Builder] when clicking [!UICONTROL Add Trait] on an empty field (AAM-45599).
 * Fixed an issue preventing users from editing or deactivating Algorithmic Models that contain excluded traits (AAM-45552).
+
+## Target {#target}
+
+Release notes for the following upcoming Adobe Target releases:
+
+### Target Standard/Premium 19.4.1 (April 15, 2019)
+
+This release is a maintenance release and includes the following change:
+
+(The issue numbers in parentheses are for internal Adobe use.)
+
+* Updated the Adobe Experience Cloud UI to reflect branding and product changes. (TGT-33546, TGT-33272, and TGT-33331)
+
+### Target Standard/Premium 19.4.2 (April 29, 2019)
+
+This release includes the following features, changes and enhancements:
+
+(The issue numbers in parentheses are for internal Adobe use.)
+
+**Enhancements, fixes, and changes**
+
+* You are now instructed to re-authenticate when your session expires while reviewing a report. After you log in again, you are directed back to the report. (TGT-32723)
+* We improved the workflow when you delete assets using the VEC. Deleted assets are now removed from the Offers library and from Scene7 (if applicable)Deleted assets no longer display in search results. (TGT-31981)
+* We improved the rendering of image offers in the Assets picker. Displaying and selecting image offers is now quicker and more efficient. (TGT-32897)
+* We improved the handling of redirects to URLs when you cancel loading of a page within the VEC. (TGT-33815)
+* Toolbar icons display appropriately after you cancel loading of a page within the VEC. If specific actions cannot be performed until after the page is fully loaded, the associated toolbar icons are disabled. (TGT-33811)
+* After you select a Recommendations collection from the Collections picker, you must now click the Save button. This workflow is consistent with other workflows within Target. (TGT-33205)
+
+Refer to the [Adobe Target Release Notes](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) for the latest release information about the following products:
+
+* Target Standard and Premium
+* Recommendations Classic
 
 ## Experience Manager {#aem}
 
