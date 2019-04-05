@@ -72,10 +72,8 @@ Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
 
 ## Analytics {#analytics}
 
-New features and fixes in Adobe Analytics:
-
-* [New Features in Adobe Analytics](#aa-features)
-* [Important notices for Analytics administrators](#aa-notices)
+* [New Features and Fixes in Adobe Analytics](#aa-features)
+* [Important notices for Analytics Administrators](#aa-notices)
 
 For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
 
@@ -83,8 +81,8 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 
 | Feature    | Description  |
 | -----------| ---------- |  
-| Segmentation on Distinct Counts | You can now segment on a distinct count of items within a dimension. Examples: "Visitors who viewed more than 5 distinct products," or "Visits where more than 5 distinct pages were seen." (Note that the Approximate Count Distinct function is still available in Calculated Metrics, if you want to create a metric that is a distinct count of a dimension (e.g. # of customers, # of products, etc)).|  
-| Ad Hoc Analysis support for Java 11| Ad Hoc Analysis is now compatible with Java 11. Here are some caveats to using Java 11. (to follow) |
+| Segmentation on Distinct Counts | You can now segment on a distinct count of items within a dimension. Examples: "Visitors who viewed more than 5 distinct products," or "Visits where more than 5 distinct pages were seen." This new functionality can be found within the [segment operators dropdown](https://marketing.adobe.com/resources/help/en_US/analytics/segment/seg_operators.html).|  
+| Ad Hoc Analysis compatibility with Java 11| Ad Hoc Analysis is now compatible with Java 11. [Learn more...](https://marketing.adobe.com/resources/help/en_US/dsc/adhoc-java.html) about running Ad Hoc Analysis on Java 11.|
 | Advertising Analytics updates  | We are releasing a couple of updates to Advertising Analytics: <ul><li>Yahoo Gemini was absorbed by Microsoft Bing on March 31. As a result, the Yahoo Gemini advertising account option is no longer available. </li><li>Google has implemented a new tracking pattern, and instead of using _Tracking Template_, we now use _Final URL Suffix_.</li></ul>|
 
 **Fixes**
@@ -106,6 +104,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 
 | Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- |
+| Upcoming change to the Analysis Workspace Debugger command | April 4, 2019 | The Console command to turn on the Analysis Workspace Debugger is changing to adobeTools.debug.includeOberonXml on June 13, 2019. "adobe.tools.debug.includeOberonXml" will cease to function after that date. [Learn more...](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.md)|
 | Upcoming support changes for Date-Enabled and Numeric Classifications | February 28, 2019 | The ability to import Numeric 2 and Date-Enabled classifications has been removed from the codebase. This change will take effect with the June 2019 Maintenance Release. If you have Numeric or Date-Enabled columns in your import file, those cells will be silently ignored, and any other data within that file will be imported as normal. <br/>Existing classifications can still be exported through the standard classification workflow, and will continue to be available in reporting. |
 | Significantly updated the documentation on the getPercentPageViewed plug-in. | February 12, 2019 | [https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/getPercentPageViewed.html](https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/getPercentPageViewed.html) |
 | Admin > General Account Settings |  February 7, 2019| * The setting _Replace the last octet of IP addresses with 0_ is enabled by default for any new report suites created in the London Data Center after January 2019, but only if the settings for those report suites are copied from a template listed in the Admin Console. Report suites whose settings are duplicated from other report suites inherit all settings from the selected report suite.<br/> * The setting _IP Obfuscation_ is no longer enabled by default for all customers with a report suite set in EMEA. |
