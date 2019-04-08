@@ -174,9 +174,13 @@ This release includes the following features, changes and enhancements:
 
 (The issue numbers in parentheses are for internal Adobe use.)
 
+| Feature    | Description  |
+| -----------| ---------- |  
+| Mobile Visual Experience Composer | The Visual Experience Composer (VEC) for Native Mobile Apps lets you create activities and personalize content on native mobile apps in a do-it-yourself fashion without continuous development dependencies and app-release cycles. |  
+| Visual Experience Composer | The Visual Experience Composer (VEC) includes the following enhancements to make your work quicker and more efficient: <ul><li>You can edit the style of an element, including the background image, in the VEC. (TGT-15001)</li><li>Target supports HTML5 using configurations on v4.5.1 or higher. (TGT-33618)</li></ul> |
+
 **Enhancements, fixes, and changes**
 
-* You are now instructed to re-authenticate when your session expires while reviewing a report. After you log in again, you are directed back to the report. (TGT-32723)
 * We improved the workflow when you delete assets using the VEC. Deleted assets are now removed from the Offers library and from Scene7 (if applicable)Deleted assets no longer display in search results. (TGT-31981)
 * We improved the rendering of image offers in the Assets picker. Displaying and selecting image offers is now quicker and more efficient. (TGT-32897)
 * We improved the handling of redirects to URLs when you cancel loading of a page within the VEC. (TGT-33815)
