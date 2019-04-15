@@ -12,8 +12,8 @@ author: mfrei
 
 New features and fixes in the Adobe Experience Cloud.
 
->[!IMPORTANT]
->This page contains pre-release content and is subject to change prior to the planned release.
+<!-->[!IMPORTANT]
+>This page contains pre-release content and is subject to change prior to the planned release.-->
 
 >[!NOTE]
 >Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date.
@@ -23,6 +23,7 @@ April 2019
 * [Experience Cloud core services and administration](#experiencecloud)
 * [Analytics](#analytics)
 * [Audience Manager](#aam)
+* [Advertising Cloud](#adcloud)
 * [Target](#target)
 * [Experience Manager](#aem)
 * [Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
@@ -155,6 +156,17 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 * Fixed an issue causing the [!UICONTROL Outbound File History Report] not to load in some situations (AAM-45713).
 * Fixed an issue causing the previously selected trait to be added to [!UICONTROL Segment Builder] when clicking [!UICONTROL Add Trait] on an empty field (AAM-45599).
 * Fixed an issue preventing users from editing or deactivating Algorithmic Models that contain excluded traits (AAM-45552).
+
+## Advertising Cloud {#adcloud}
+
+Updated: April 15, 2019, for April 13 release
+
+| Feature    | Description  |
+| -----------| ---------- | 
+| Search Campaigns | In the date range selector, the calendar is now arranged from Sunday to Saturday. Previously, it was arranged from Sunday to Saturday. |
+| Reports | The Portfolio Report now includes the optional column _Portfolio Spend Strategy_. |
+
+Advertising Cloud help is available in the product under the Help **?** menu.
 
 ## Target {#target}
 
