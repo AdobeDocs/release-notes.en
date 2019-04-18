@@ -18,7 +18,7 @@ New features and fixes in the Adobe Experience Cloud.
 >[!NOTE]
 >Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date.
 
-April 2019
+**Release date: April 2019**
 
 * [Experience Cloud core services and administration](#experiencecloud)
 * [Analytics](#analytics)
@@ -162,7 +162,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 
 ## Advertising Cloud {#adcloud}
 
-Updated: April 15, 2019, for April 13 release
+Updated on April 15, 2019, for the April 13 release
 
 | Feature    | Description  |
 | -----------| ---------- | 
