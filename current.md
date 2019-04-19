@@ -12,19 +12,17 @@ author: mfrei
 
 New features and fixes in the Adobe Experience Cloud.
 
->[!IMPORTANT]
->This page contains pre-release content and is subject to change prior to the planned release.
-
 >[!NOTE]
 >Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date.
 
-April 2019
+**Release date: April 2019**
 
 * [Experience Cloud core services and administration](#experiencecloud)
 * [Analytics](#analytics)
 * [Audience Manager](#aam)
+* [Advertising Cloud](#adcloud)
+* [Target](#target)
 * [Experience Manager](#aem)
-* [Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
 * [Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 
 ## Experience Cloud core services and administration {#experiencecloud}
@@ -49,7 +47,8 @@ For product documentation, see [Experience Cloud and Core Services](https://mark
 
 ### Experience Cloud ID service {#ecid}
 
-* Added support to use the _trackingServer_ to write ECID cookies. (CORE-26838)
+* Updated to version 4.2.0.
+* Added support for the Audience Manager Plug-in for IAB TCF, available via the ECID Opt-in object.
 
 For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
 
@@ -81,8 +80,8 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 
 | Feature    | Description  |
 | -----------| ---------- |  
-| AppMeasurement - JavaScript v 2.14.0 | (Release Date: April 10, 2019) <ul><li>Retrieve GDPR signals from DIL for SSF (AN-171007)</li><li>Improved exit link tracking by implementing sendBeacon support for exit links. (AN-175142)</li></ul>|
-| Segmentation on Distinct Counts | You can now segment on a distinct count of items within a dimension. Examples: "Visitors who viewed more than 5 distinct products," or "Visits where more than 5 distinct pages were seen." This new functionality can be found within the [segment operators dropdown](https://marketing.adobe.com/resources/help/en_US/analytics/segment/seg_operators.html).|  
+| Segmentation on Distinct Counts | You can now segment on a distinct count of items within a dimension. Examples: "Visitors who viewed more than 5 distinct products," or "Visits where more than 5 distinct pages were seen." (Note that the Approximate Count Distinct function is still available in Calculated Metrics, if you want to create a metric that is a distinct count of a dimension (e.g. # of customers, # of products, etc)).|  
+| Ad Hoc Analysis support for Java 11| Ad Hoc Analysis is now compatible with Java 11. Here are some caveats to using Java 11.  |
 | Advertising Analytics updates  | We are releasing a couple of updates to Advertising Analytics: <ul><li>Yahoo Gemini was absorbed by Microsoft Bing on March 31. As a result, the Yahoo Gemini advertising account option is no longer available. </li><li>Google has implemented a new tracking pattern, and instead of using _Tracking Template_, we now use _Final URL Suffix_.</li></ul>|
 | Analysis Workspace | Updates to [Optimization Best Practices](/help/analyze/analysis-workspace/optimizing-performance.md).|
 
@@ -104,15 +103,16 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 
 | Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- |
-| Update to CSV downloads from Analysis Workspace | Updated April 10, 2019 | Starting on April 11, 2019, several changes will be made to CSV downloads (and Copy to Clipboard) from Analysis Workspace to remove formatting from exported data. <ul><li>The thousands separator will no longer be included. The decimal separator will continue to be included, and will adhere to the format defined under Components > Report Settings > Thousands Separator. Note: Numeric values that use a comma as the decimal separator will continue to be quoted in the exported CSV.</li><li>No currency symbols will be shown.</li><li>No percent symbols will be shown. Percentages will be in decimal form; e.g., 75% will be represented as 0.75.</li><li>Time will be shown in seconds.</li><li>Cohort Tables will show raw values only; percentages will be removed.</li><li>If a number is invalid, an empty cell will be displayed.</li></ul>|
-| Upcoming change to the Analysis Workspace Debugger command | April 4, 2019 | The Console command to turn on the Analysis Workspace Debugger is changing to "adobeTools.debug.includeOberonXml" on June 13, 2019. "adobe.tools.debug.includeOberonXml" will cease to function after that date. [Learn more...](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.md)|
+|Upcoming change to _Report Total_ calculations | April 16, 2019 | On June 13, 2019, Adobe Analytics will make _Report Total_ calculations consistent across all dimensions and metrics. This will result in a change to the totals for some reports (typically, Prop or Customer Attributes reports). Prior to this change, some Report Totals inconsistently included or excluded the _Unspecified_ line item in the total, regardless of whether _Unspecified_ appeared in the report. <br/>Starting on June 13, 2019, _Unspecified_ will always appear in the report total, even if it does not appear as a line item in the report. This change will affect Analysis Workspace, Reports & Analytics, Ad Hoc Analysis, Report Builder, and the Reporting API. |
+| Update to CSV downloads from Analysis Workspace| April 10, 2019 | Starting on April 11, 2019, several changes will be made to CSV downloads (and Copy to Clipboard) from Analysis Workspace to remove formatting from exported data.  <ul><li>The thousands separator will no longer be included. The decimal separator will continue to be included, and will adhere to the format defined under **Components** > **Report Settings** > **Thousands Separator**. Note: Numeric values that use a comma as the decimal separator will continue to be quoted in the exported CSV.</li><li>No currency symbols will be shown.</li><li>No percent symbols will be shown. Percentages will be in decimal form. E.g., 75% will be represented as 0.75.</li><li>Time will be shown in seconds.</li><li>Cohort tables will show raw values only; percentages will be removed.</li><li>If a number is invalid, an empty cell will be displayed.</li></ul>|
+| Upcoming change to the Analysis Workspace Debugger command | April 4, 2019 | The Console command to turn on the Analysis Workspace Debugger is changing to adobeTools.debug.includeOberonXml on **June 13, 2019**. |
 | Upcoming support changes for Date-Enabled and Numeric Classifications | February 28, 2019 | The ability to import Numeric 2 and Date-Enabled classifications has been removed from the codebase. This change will take effect with the June 2019 Maintenance Release. If you have Numeric or Date-Enabled columns in your import file, those cells will be silently ignored, and any other data within that file will be imported as normal. <br/>Existing classifications can still be exported through the standard classification workflow, and will continue to be available in reporting. |
 | Significantly updated the documentation on the getPercentPageViewed plug-in. | February 12, 2019 | [https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/getPercentPageViewed.html](https://experiencecloud.adobe.com/resources/help/en_US/sc/implement/getPercentPageViewed.html) |
 | Admin > General Account Settings |  February 7, 2019| * The setting _Replace the last octet of IP addresses with 0_ is enabled by default for any new report suites created in the London Data Center after January 2019, but only if the settings for those report suites are copied from a template listed in the Admin Console. Report suites whose settings are duplicated from other report suites inherit all settings from the selected report suite.<br/> * The setting _IP Obfuscation_ is no longer enabled by default for all customers with a report suite set in EMEA. |
 | Mobile browser version numbers | February 7, 2019 | Starting January 8, 2019, we changed the truncation level for mobile browser version numbers from 2 to 1. From that date forward, versions only display the first two levels (e.g. _Firefox 64.0.2_ is now reported as _Firefox 64.0_). |
 | End of life for Ad Hoc Analysis | Updated January 29, 2019 | On August 6, 2018, Adobe announced the intention to end-of-life Ad Hoc Analysis. An end-of-life date will be shared once available.<br/>For more information, including which versions of Java will be compatible during this period, visit [Discover Workspace](https://adobe.ly/discoverworkspace). |
 | Short Analytics report links | January 14, 2019 | Any short Analytics report links that have not been visited within one year will be cleaned up and deleted starting on Thursday, January 17, 2019, on a rolling schedule. |
-| End of Support for TLS 1.0 | Updated January 10, 2019 | On February 11, 2019 Adobe Analytics reporting will no longer support TLS (Transport Layer Security) 1.0 encryption. This change is part of our ongoing efforts to maintain the highest security standards and promote the safety of customer data. If you are unable to connect to Adobe Analytics reporting after February11, 2019, you should upgrade your browser to the [latest version](https://marketing.adobe.com/resources/help/en_US/sc/user/requirements.html).<br/> Beginning February 20, 2019 Adobe Analytics data collection will no longer support TLS 1.0. With this change, Adobe will no longer collect Analytics data from end users with older devices or web browsers that do not support TLS 1.1 or later. We do not expect this to have a significant impact on customer data or reporting. (If your website already does not support TLS 1.0, you will not be affected.) <br/>Beginning April 11, 2019, the Adobe Analytics Reporting API will no longer support TLS 1.0 encryption. Customers who access the API should verify that they will not be impacted. <br/>* API clients using Java 7 with default settings will need [modifications to support TLS 1.2](https://www.java.com/en/configure_crypto.html). (Refer to _Changing default TLS protocol version for client end points: TLS 1.0 to TLS 1.2_.) <br/>* API clients using Java 8 should not be impacted because the default setting is TLS 1.2. <br/>* API clients using other frameworks will need to contact their vendors for details on TLS 1.2 support.|
+| End of Support for TLS 1.0 | Updated January 10, 2019 | On February 11, 2019 Adobe Analytics reporting will no longer support TLS (Transport Layer Security) 1.0 encryption. This change is part of our ongoing efforts to maintain the highest security standards and promote the safety of customer data. If you are unable to connect to Adobe Analytics reporting after February11, 2019, you should upgrade your browser to the [latest version](https://marketing.adobe.com/resources/help/en_US/sc/user/requirements.html).<br/> Beginning February 20, 2019 Adobe Analytics data collection will no longer support TLS 1.0. With this change, Adobe will no longer collect Analytics data from end users with older devices or web browsers that do not support TLS 1.1 or later. We do not expect this to have a significant impact on customer data or reporting. (If your website already does not support TLS 1.0, you will not be affected.) <br/>Beginning April 11, 2019, the Adobe Analytics Reporting API will no longer support TLS 1.0 encryption. Customers who access the API should verify that they will not be impacted. <ul><li>API clients using Java 7 with default settings will need [modifications to support TLS 1.2](https://www.java.com/en/configure_crypto.html). (Refer to _Changing default TLS protocol version for client end points: TLS 1.0 to TLS 1.2_.) </li><li>API clients using Java 8 should not be impacted because the default setting is TLS 1.2.</li><li> API clients using other frameworks will need to contact their vendors for details on TLS 1.2 support.</li></ul>|
 | Update Adobe Report Builder due to end of support for TLS 1.0 | September 7, 2018 | Due to the end of support for TLS 1.0, we recommended that Adobe Report Builder (ARB) users download ARB v5.6.21 prior to February 7, 2019. **After that date, prior versions of ARB no longer function.** |
 | Update to CSV downloads from Analysis Workspace | January 9, 2019 | Starting on February 7, 2019, CSV downloads (and Copy to Clipboard) from Analysis Workspace will no longer include the thousands separator. Note: The Analysis Workspace UI will continue to show the thousands separator. Additionally, the decimal separator will continue to be included, and will adhere to the format defined under **[!UICONTROL Components]** > **[!UICONTROL Report Settings]** > **[!UICONTROL Thousands Separator]**. |
 | Data Feed: post_product_list column - size change | January 9, 2019 | On February 7, 2019, Adobe plans to expand the size of the post_product_list column from 64 KB to 16 MB. This change is intended to ensure that merchandising eVar values added to post_product_list during processing do not cause truncation of product and revenue values. If you have processes that ingest post_product_list values, please ensure those processes can handle values up to 16 MB in length, or will truncate the value at 16 KB to avoid data ingestion failures. |
@@ -127,10 +127,10 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 | Changes to linear allocation models in Calculated Metrics | Effective July 19, 2018 | On July 19th, Adobe Analytics will revise the way allocation models in calculated metrics are evaluated. As part of this change, calculated metrics that use a non-default allocation model will be migrated to new and improved attribution models. [!UICONTROL Marketing Channel Last Touch] and [!UICONTROL Marketing Channel First Touch] allocation models will be migrated to new [!UICONTROL Last Touch] and [!UICONTROL First Touch] attribution models  espectively. ([!UICONTROL Marketing Channels] are not being deprecated, only the two allocation models that appear in calculated metrics). Additionally, we will correct the way linear allocation is calculated. If you use calculated metrics with linear allocation models, the reports may change slightly to reflect the new, corrected attribution model. This change to calculated metrics will be reflected in [!UICONTROL Analysis Workspace], [!UICONTROL Reports & Analytics], the [!UICONTROL Reporting API], [!UICONTROL Report Builder], and [!UICONTROL Ad Hoc Analysis]. See the [Calculated Metrics](https://marketing.adobe.com/resources/help/en_US/analytics/calcmetrics/m_metric_type_alloc.html) documentation for more information about this change. |
 | [!UICONTROL Anomaly Detection] and [!UICONTROL Contribution Analysis] functionality removed from [!UICONTROL Reports & Analytics] | April 10, 2018 | Anomaly Detection and Contribution Analysis have been removed from the Reports & Analytics feature set and are now available only via Analysis Workspace. Adobe Analytics Select and Foundation customers have access only to “daily-granularity” Anomaly Detection in Workspace. |
 | Adobe no longer issuing 3rd-party s_vi cookies for Safari | April 05, 2018 | On March 20, 2018, Adobe stopped issuing third-party s_vi cookies for the Safari browser. This change does not impact customers using first-party data collection cookies. This change also removes the visit and visitor inflation experienced by some customers, resulting from Safari ITP. |
-| Update Report Builder before you migrate user IDs to the Admin Console | March 17, 2018 | **Important:** Update your installation of Report Builder to the latest version. This update is a pre-requisite for running the Analytics user ID migration to the Admin Console, beginning in April 2018. See [Analytics User Migration to the Admin Console] for migration information. |
 | Back-end changes that affect reporting | April 11, 2018 | A change to the (back-end) lookup mechanism is going to impact reporting in several ways. Please be aware that these changes went into effect around the end of February, 2018: Page renaming will no longer be allowed. Going forward, you will need to use classifications to rename pages. Until the May 10, 2018 release, the system will continue to process the renamed pages as they are currently configured. Adobe is asking all customers to migrate to classifications by that date. After the May release, existing renames will no longer be honored and can change, retroactively, without notice. <br> <br>The URL replacement methodology is different. Previously, Adobe Analytics would store (mostly) the first URL associated with each page name each month. Going forward, we will store the most recent URL for each page name. (Updated April 11, 2018) Category reports for roll-ups and current data in Reports & Analytics are no longer provided. Deprecating category roll-up reports in the Web Service API is effective with the May 10, 2018, Adobe Analytics maintenance release. There is no longer any support for page/prop data from before approximately January 2007 (in some cases, 2006). This only impacts pages, props and page events (i.e. custom links, exit links, download links). Note: This change does not impact reporting in Analysis Workspace or Data Warehouse. If you have data preceding these dates, expect the following: Data will not combine correctly across the pre/post January 2007 boundary. Searches will not work against data before approximately Jan. 2007. |
 | Upcoming support changes for Date-Enabled and Numeric Classifications | May 7, 2018 | In the May 10, 2018 Maintenance release, we will begin limiting the functionality of date-enabled and numeric classifications. These classification types will be removed from the Admin and Classification Importer interfaces. From that date on, no new date-enabled and numeric classifications can be added. Existing classifications can still be managed (uploaded to, deleted) through the standard classification workflow, and will continue to be available in reporting. |
 | Upcoming support changes for Marketing Channel Cost and Budget | February 28, 2018 | In the April maintenance release, we will remove Marketing Channel Cost and Budget from the Admin > Marketing Channel menu. No new cost and budget data can be added. Existing cost and budget data will continue to be available in reporting, but cannot be updated. |
+| Update Report Builder before you migrate user IDs to the Admin Console | March 17, 2018 | **Important:** Update your installation of Report Builder to the latest version. This update is a pre-requisite for running the Analytics user ID migration to the Admin Console, beginning in April 2018. |
 | Code Manager - Legacy H Code | February 8, 2018 | Downloading legacy JavaScript (H code) from the Code Manager is no longer supported. |
 | Data retention: Check and set your data retention policy for Adobe Analytics | February 1, 2018 | **Background:** The European Union’s General Data Protection Regulation (GDPR), which applies as from May 25, 2018, provides that Adobe, in its role as your data processor, must take appropriate measures to assist its customers in fulfilling access, deletion, and other requests from individuals. Applying appropriate, secure, and timely deletion policies is an important part of complying with this obligation. As a result, Adobe would like to work with you to implement a data retention policy before GDPR takes effect on May 25, 2018.<br> <br>**What to expect:** Unless you already have an Adobe Analytics data retention policy in place, Adobe will begin applying data retention as currently specified in customer contracts for Adobe Analytics, unless other arrangements are made. Most Adobe Analytics contracts state that Adobe may delete data after 25 months. Once a data retention policy is in place for your organization, it is enforced on a rolling monthly basis. Data retention for longer periods than 25 months is available for an additional fee. Data retention periods for shorter periods can also be configured by contacting Customer Care. You will soon receive an email with additional details for your organization. <br> <br>Data retention impacts all methods for accessing historical Adobe Analytics data, including but not limited to Reports & Analytics, Analysis Workspace, Report Builder, the Web Services Reporting APIs, data warehouse, and data feeds. **Next steps:** Identify stakeholders within your organization responsible for making decisions about data retention. Your organization is best placed to know the appropriate period for which Adobe Analytics data should be retained. Contact your Adobe Customer Success Manager if you have questions regarding data retention for Adobe Analytics. |
 | User account linking | October 26, 2017 | Analytics users no longer need to manually link their accounts between the Experience Cloud and Analytics. Users can contact their Admin Console administrator to request Analytics access. The Analytics user ID migration enables administrators to easily migrate user accounts from Analytics User Management to the Adobe Admin Console. After your users are migrated, they will have access to the purchased solutions and core services available in the Experience Cloud. [Learn more about the Analytics User ID Migration](https://marketing.adobe.com/resources/help/en_US/experience-cloud/admin-console/analytics-migration/). |
@@ -155,9 +155,64 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 * Fixed an issue causing the previously selected trait to be added to [!UICONTROL Segment Builder] when clicking [!UICONTROL Add Trait] on an empty field (AAM-45599).
 * Fixed an issue preventing users from editing or deactivating Algorithmic Models that contain excluded traits (AAM-45552).
 
+## Advertising Cloud {#adcloud}
+
+Updated on April 15, 2019, for the April 13 release
+
+| Feature    | Description  |
+| -----------| ---------- | 
+| Search Campaigns | In the date range selector, the calendar is now arranged from Sunday to Saturday. Previously, it was arranged from Sunday to Saturday. |
+| Reports | The Portfolio Report now includes the optional column _Portfolio Spend Strategy_. |
+
+Advertising Cloud help is available in the product under the Help **?** menu.
+
+## Target {#target}
+
+Release notes for the following upcoming Adobe Target releases:
+
+### Target Standard/Premium 19.4.1 (April 15, 2019)
+
+This release is a maintenance release and includes the following change:
+
+(The issue numbers in parentheses are for internal Adobe use.)
+
+* Updated the Adobe Experience Cloud UI to reflect branding and product changes. (TGT-33546, TGT-33272, and TGT-33331)
+
+### Target Standard/Premium 19.4.2 (April 29, 2019)
+
+This release includes the following features, changes and enhancements:
+
+(The issue numbers in parentheses are for internal Adobe use.)
+
+| Feature    | Description  |
+| -----------| ---------- |  
+| Mobile Visual Experience Composer | The Visual Experience Composer (VEC) for Native Mobile Apps lets you create activities and personalize content on native mobile apps in a do-it-yourself fashion without continuous development dependencies and app-release cycles. |  
+| Visual Experience Composer | The Visual Experience Composer (VEC) includes the following enhancements to make your work quicker and more efficient: <ul><li>You can edit the style of an element, including the background image, in the VEC. (TGT-15001)</li><li>Target supports HTML5 using configurations on v4.5.1 or higher. (TGT-33618)</li></ul> |
+
+**Enhancements, fixes, and changes**
+
+* We improved the workflow when you delete assets using the VEC. Deleted assets are now removed from the Offers library and from Scene7 (if applicable)Deleted assets no longer display in search results. (TGT-31981)
+* We improved the rendering of image offers in the Assets picker. Displaying and selecting image offers is now quicker and more efficient. (TGT-32897)
+* We improved the handling of redirects to URLs when you cancel loading of a page within the VEC. (TGT-33815)
+* Toolbar icons display appropriately after you cancel loading of a page within the VEC. If specific actions cannot be performed until after the page is fully loaded, the associated toolbar icons are disabled. (TGT-33811)
+* After you select a Recommendations collection from the Collections picker, you must now click the Save button. This workflow is consistent with other workflows within Target. (TGT-33205)
+
+Refer to the [Adobe Target Release Notes](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) for the latest release information about the following products:
+
+* Target Standard and Premium
+* Recommendations Classic
+
 ## Experience Manager {#aem}
 
 New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
+
+### Product releases
+
+**Cloud Manager 2019.3.0**
+
+This month Cloud Manager Release (2019.3.0) adds SLA reporting to the System Monitoring capability delivered in the last release. A visual refresh of some key screens was also added.
+
+* [Release notes](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
 
 ### Product maintenance
 
