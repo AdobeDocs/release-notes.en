@@ -71,10 +71,8 @@ Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
 
 ## Analytics {#analytics}
 
-New features and fixes in Adobe Analytics:
-
-* [New Features in Adobe Analytics](#aa-features)
-* [Important notices for Analytics administrators](#aa-notices)
+* [New Features and Fixes in Adobe Analytics](#aa-features)
+* [Important notices for Analytics Administrators](#aa-notices)
 
 For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
 
@@ -85,10 +83,10 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 | Segmentation on Distinct Counts | You can now segment on a distinct count of items within a dimension. Examples: "Visitors who viewed more than 5 distinct products," or "Visits where more than 5 distinct pages were seen." (Note that the Approximate Count Distinct function is still available in Calculated Metrics, if you want to create a metric that is a distinct count of a dimension (e.g. # of customers, # of products, etc)).|  
 | Ad Hoc Analysis support for Java 11| Ad Hoc Analysis is now compatible with Java 11. Here are some caveats to using Java 11.  |
 | Advertising Analytics updates  | We are releasing a couple of updates to Advertising Analytics: <ul><li>Yahoo Gemini was absorbed by Microsoft Bing on March 31. As a result, the Yahoo Gemini advertising account option is no longer available. </li><li>Google has implemented a new tracking pattern, and instead of using _Tracking Template_, we now use _Final URL Suffix_.</li></ul>|
+| Analysis Workspace | Updates to [Optimization Best Practices](/help/analyze/analysis-workspace/optimizing-performance.md).|
 
 **Fixes**
 
-* (Workspace) Fixed issues that caused Workspace projects with line charts to freeze or lag. This is part of an ongoing effort to improve Workspace performance. (AN-176727, AN-174878)
 * (Workspace) Fixed issues that prevented the creation of segments from Fallout visualizations. (AN-177042, AN-176876)
 * (Workspace) Fixed an issue that prevented the creation of segments from Flow visualizations. (AN-176681)
 * (Workspace) Fixed a misalignment issue in tables. (AN-176919)
