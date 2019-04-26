@@ -236,6 +236,16 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 * Fix
 * Fix
 
+May updates for Campaign:
+
+Adobe Campaign
+
+Campaign Classic 18.10.4 – build 8983
+Campaign Classic 18.10.5 – build 8984
+
+Fixes and improvements are listed in the Release notes. https://docs.campaign.adobe.com/doc/AC/en/RN.html
+
+
 For product documentation, see:
 
 * [Adobe Campaign Classic Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html)
