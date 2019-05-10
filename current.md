@@ -190,7 +190,8 @@ For product documentation, see:
 
 | Feature    | Description  |
 | -----------| ---------- |  
-| Search Tools  | (Advertisers with Google Ads accounts) Advertising Cloud can optionally upload to Google Ads all conversion data it tracks for Google Ads campaigns that use the Advertising Cloud conversion tracking service. Daily uploads include the conversion value defined using the advertiser-level attribution model. All uploaded conversions are prefixed with "Adobe_ACS_" (such as "Adobe_ACS_Subscriptions" for the conversion "Subscriptions"). <br/> **Note:** The uploads won't include conversion data uploaded to Advertising Cloud from feed files. |  
+| Search Tools  | (Advertisers with Google Ads accounts) Advertising Cloud can optionally upload to Google Ads all conversion data it tracks for Google Ads campaigns that use the Advertising Cloud conversion tracking service. Daily uploads include the conversion value defined using the advertiser-level attribution model. All uploaded conversions are prefixed with "Adobe_ACS_" (such as "Adobe_ACS_Subscriptions" for the conversion "Subscriptions"). <br/> **Note:** The uploads won't include conversion data uploaded to Advertising Cloud from feed files. |
+| Search Campaigns | The menu in **Search** > **Campaigns** > **Campaigns** is now hierarchical, with Campaigns under Accounts; Ad Groups under Campaigns; and Keywords (with submenu), Ads, Product Groups (Live views only), Placements (with submenu), and Auto Targets under Ad Groups.<br/>In the Live views, Audiences and Extensions are at the same level as Accounts, with their own submenus.  | 
 
 ## Target Standard/Premium 19.5.1 {#target}
 
