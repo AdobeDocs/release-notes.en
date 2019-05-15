@@ -12,9 +12,6 @@ author: mfrei
 
 New features and fixes in the Adobe Experience Cloud.
 
->[!IMPORTANT]
->>This page contains pre-release content and is subject to change prior to the planned release.
-
 >[!NOTE]
 >>Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date.
 
@@ -32,9 +29,19 @@ New features and fixes in the Adobe Experience Cloud.
 
 ## Experience Platform {#platform}
 
-Release notes for the Experience Cloud Platform, including Administration, Activation (Experience Platform Launch), ID Service, Assets, Offers, and People.  
+Release notes for the Experience Cloud Platform, including Administration, Activation (Experience Platform Launch), ID Service, Assets, Offers, and People.
 
-* [Experience Platform Launch](https://docs.adobelaunch.com/) (links to product help)
+### Experience Platform Launch
+
+* See [Experience Platform Launch](https://docs.adobelaunch.com/) for the latest information.
+
+### Experience Cloud ID Service
+
+Releasing **May 13, 2019**
+
+* Visitor API 4.3.0 support
+* ITP 2.1 support.
+* Fixed an issue regarding secureCookie configuration.
 
 ## Analytics {#analytics}
 
