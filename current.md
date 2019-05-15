@@ -1,9 +1,9 @@
 ---
 
 title: Adobe Experience Cloud Release Notes
-description: Experience Cloud release notes
+description: Template for Experience Cloud release notes
 doc-type: release notes
-last-update: April 2019
+last-update: May 2019
 author: mfrei
 
 ---
@@ -13,97 +13,73 @@ author: mfrei
 New features and fixes in the Adobe Experience Cloud.
 
 >[!NOTE]
->Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date.
+>>Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date.
 
-**Release date: April 2019**
+**Release date: May 2019**
 
-* [Experience Cloud core services and administration](#experiencecloud)
+* [Experience Platform](#platform)
 * [Analytics](#analytics)
 * [Audience Manager](#aam)
-* [Advertising Cloud](#adcloud)
-* [Target](#target)
 * [Experience Manager](#aem)
-* [Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
+* [Campaign](#ac)
+* [Advertising Cloud](#adcloud)
+* [Target Standard/Premium 19.5.1](#target)
+* [Magento](#magento)
+* [Primetime](#primetime)
 
-## Experience Cloud core services and administration {#experiencecloud}
+## Experience Platform {#platform}
 
-Release notes for the Experience Cloud interface, including [!UICONTROL Platform] core services and product administration.  
+Release notes for the Experience Cloud Platform, including Administration, Activation (Experience Platform Launch), ID Service, Assets, Offers, and People.
 
-* [Experience Cloud core services](#core-services)
-* [Experience Cloud ID service](#ecid)
-* [Mobile Services and Mobile SDK](#mobile)
-* [Launch, by Adobe](https://docs.adobelaunch.com/) (links to product help)
+### Experience Platform Launch
 
-### Experience Cloud core services {#core-services}
+* See [Experience Platform Launch](https://docs.adobelaunch.com/) for the latest information.
 
-Release notes for the Experience Cloud interface and core services.
+### Experience Cloud ID Service
 
-* Updated the app switcher to include Marketo in Experience Cloud solution suite, and branding updates to Experience Platform. (MCUI-6529)
-* Updated Experience Cloud Home to include navigation links to the Feed and Administration pages. (MCUI-6682)
-* Fixed an issue in the [!UICONTROL Trigger] definition for correct usage of “like” clause. (MCUI-6611)
-* Improvements to Customer Attributes for better logging in the Subscription service. (MCUI-6519)
+Releasing **May 13, 2019**
 
-For product documentation, see [Experience Cloud and Core Services](https://marketing.adobe.com/resources/help/en_US/mcloud/)
-
-### Experience Cloud ID service {#ecid}
-
-* Updated to version 4.2.0.
-* Added support for the Audience Manager Plug-in for IAB TCF, available via the ECID Opt-in object.
-
-For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
-
-### Mobile Services and Mobile SDK {#mobile}
-
-Feature and fixes in Adobe Mobile Services:
-
-**iOS version 4.18.2**
-
-* Target: Fixed an issue that prevented the _purchasedProductIds_ from being correctly represented as an array for view notifications.
-
-**Android version 4.17.4**
-
-* General: Improved support for Android Instant Apps by making reachability checks configurable in _ADBMobileConfig.json_ file with the _reachabilityChecksEnabled_ boolean property on the root JSON object.
-
-For product documentation, see [Mobile Services](https://marketing.adobe.com/resources/help/en_US/mobile/).
-
-For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud
-Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
+* Visitor API 4.3.0 support
+* ITP 2.1 support.
+* Fixed an issue regarding secureCookie configuration.
 
 ## Analytics {#analytics}
 
-* [New Features and Fixes in Adobe Analytics](#aa-features)
-* [Important notices for Analytics Administrators](#aa-notices)
+New features and fixes in Adobe Analytics:
+
+* [New features and fixes in Adobe Analytics](#aa-features)
+* [Important notices for Analytics administrators](#aa-notices)
 
 For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
 
-### New Features in Adobe Analytics {#aa-features}
+### New features and fixes in Adobe Analytics {#aa-features}
 
 | Feature    | Description  |
 | -----------| ---------- |  
-| Segmentation on Distinct Counts | You can now segment on a distinct count of items within a dimension. Examples: "Visitors who viewed more than 5 distinct products," or "Visits where more than 5 distinct pages were seen." (Note that the Approximate Count Distinct function is still available in Calculated Metrics, if you want to create a metric that is a distinct count of a dimension (e.g. # of customers, # of products, etc)).|  
-| Ad Hoc Analysis support for Java 11| Ad Hoc Analysis is now compatible with Java 11. Here are some caveats to using Java 11.  |
-| Advertising Analytics updates  | We are releasing a couple of updates to Advertising Analytics: <ul><li>Yahoo Gemini was absorbed by Microsoft Bing on March 31. As a result, the Yahoo Gemini advertising account option is no longer available. </li><li>Google has implemented a new tracking pattern, and instead of using _Tracking Template_, we now use _Final URL Suffix_.</li></ul>|
-| Analysis Workspace | Updates to Optimization Best Practices.|
+| **Analysis Workspace:** New _Include Repeat Instances_ Flow visualization setting  | The _Include Repeat Instances_ flow setting gives you the option to include or exclude repeated instances, such as Page Reloads. Additionally, all Flow visualizations are now based on instances only. |  
+| **Ad Hoc Analysis:** Compatibility with Java 11  | Ad Hoc Analysis is now compatible with Java 11. Learn how to run [Ad Hoc Analysis on Java 11](https://marketing.adobe.com/resources/help/en_US/dsc/adhoc-java.html). |
+| **Data Collection:** New s_ecid cookie  | Added a new first-party server cookie, s_ecid, in which data collection stores the visitor's ECID. |
 
-**Fixes**
+**Analysis Workspace Fixes**
 
-* (Workspace) Fixed issues that prevented the creation of segments from Fallout visualizations. (AN-177042, AN-176876)
-* (Workspace) Fixed an issue that prevented the creation of segments from Flow visualizations. (AN-176681)
-* (Workspace) Fixed a misalignment issue in tables. (AN-176919)
-* (Workspace) Fixed a Japanese UI issue that occurred when collapsing/expanding the visualization panel. (AN-170601)
-* Fixed an issue that occurred when trying to switch segments in dashboard reportlets. (AN-177056)
-* (Reports & Analytics) Fixed an issue with being unable to select metrics in the Channel Overview report. (AN-176786)
-* (Segment Manager) Fixed an issue that resulted in an error message when trying to edit a segment that was shared with multiple Audience Manager data sources. (AN-175353)
-* (Workspace) Fixed an issue that prevented non-admin users from seeing components (such as segments) they own that are not curated in virtual report suites. (AN-175616)
-* (Admin) Fixed an issue with trying to edit eVars for multiple report suites. (AN-168150)
-* (Admin) Fixed an issue with being unable to transfer assets to another user, in the legacy user management UI. (AN-176630, AN-173974)
-* (Workspace) Fixed an issue with anomaly detection data being shown prematurely. The fix should result in fewer false positives. (AN-176724)
+* Fixed an issue affecting Time Spent on Page. Workspace reports will no longer use Page Name when calculating Time Spent buckets, enabling granular and bucketed hits to be counted. (AN-140479)
+* Fixed Line visualization performance issues as part of a larger effort to improve Workspace performance. (AN-174878)
+* Fixed an issue with lack of UTF-8 encoding in downloaded .csv files. (AN-178393)
+* Fixed issues with slow Workspace project performance. (AN-177710)
+* Fixed Line visualization display issues with small ranges in the granularity of the y-axis. (AN-176467)
+
+**Other Analytics Fixes**
+
+* Audience Analytics: Fixed an issue that occurred after an audience name was changed in Audience Manager (AAM) – the updated name was not reflected in Audience Analytics. (AN-176237)
+* Fixed an issue that prevented users from saving Analytics segments in AAM. This was caused by existing AAM folders with mixed uppercase and lowercase names. We now treat all folders as case insensitive so that they will sync. (AN-177934)
+* Fixed an issue that occurred when users logged in to Analytics via the Experience Cloud and then the session timed out. When resuming the session, the user was redirected to a faulty URL. (AN-176812)
+* Fixed an issue with time zone offsets in Data Warehouse requests. (AN-177585)
 
 ### Important notices for Analytics administrators {#aa-notices}
 
 | Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- |
-|Upcoming change to _Report Total_ calculations | April 16, 2019 | On June 13, 2019, Adobe Analytics will make _Report Total_ calculations consistent across all dimensions and metrics. This will result in a change to the totals for some reports (typically, Prop or Customer Attributes reports). Prior to this change, some Report Totals inconsistently included or excluded the _Unspecified_ line item in the total, regardless of whether _Unspecified_ appeared in the report. <br/>Starting on June 13, 2019, _Unspecified_ will always appear in the report total, even if it does not appear as a line item in the report. This change will affect Analysis Workspace, Reports & Analytics, Ad Hoc Analysis, Report Builder, and the Reporting API. |
+|Upcoming change to _Report Total_ calculations | April 16, 2019 | On **June 13, 2019**, Adobe Analytics will make _Report Total_ calculations consistent across all dimensions and metrics. This will result in a change to the totals for some reports (typically, Prop or Customer Attributes reports). Prior to this change, some Report Totals inconsistently included or excluded the _Unspecified_ line item in the total, regardless of whether _Unspecified_ appeared in the report. <br/>As of June 13, 2019, _Unspecified_ will always appear in the report total, even if it does not appear as a line item in the report. Additionally, segments using _exists_ or _does not exist_ logic may see different results for some dimensions after this change. This change will affect Analysis Workspace, Reports & Analytics, Ad Hoc Analysis, Report Builder, and the Reporting API. |
 | Update to CSV downloads from Analysis Workspace| April 10, 2019 | Starting on April 11, 2019, several changes will be made to CSV downloads (and Copy to Clipboard) from Analysis Workspace to remove formatting from exported data.  <ul><li>The thousands separator will no longer be included. The decimal separator will continue to be included, and will adhere to the format defined under **Components** > **Report Settings** > **Thousands Separator**. Note: Numeric values that use a comma as the decimal separator will continue to be quoted in the exported CSV.</li><li>No currency symbols will be shown.</li><li>No percent symbols will be shown. Percentages will be in decimal form. E.g., 75% will be represented as 0.75.</li><li>Time will be shown in seconds.</li><li>Cohort tables will show raw values only; percentages will be removed.</li><li>If a number is invalid, an empty cell will be displayed.</li></ul>|
 | Upcoming change to the Analysis Workspace Debugger command | April 4, 2019 | The Console command to turn on the Analysis Workspace Debugger is changing to adobeTools.debug.includeOberonXml on **June 13, 2019**. |
 | Upcoming support changes for Date-Enabled and Numeric Classifications | February 28, 2019 | The ability to import Numeric 2 and Date-Enabled classifications has been removed from the codebase. This change will take effect with the June 2019 Maintenance Release. If you have Numeric or Date-Enabled columns in your import file, those cells will be silently ignored, and any other data within that file will be imported as normal. <br/>Existing classifications can still be exported through the standard classification workflow, and will continue to be available in reporting. |
@@ -127,80 +103,24 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 | Changes to linear allocation models in Calculated Metrics | Effective July 19, 2018 | On July 19th, Adobe Analytics will revise the way allocation models in calculated metrics are evaluated. As part of this change, calculated metrics that use a non-default allocation model will be migrated to new and improved attribution models. [!UICONTROL Marketing Channel Last Touch] and [!UICONTROL Marketing Channel First Touch] allocation models will be migrated to new [!UICONTROL Last Touch] and [!UICONTROL First Touch] attribution models  espectively. ([!UICONTROL Marketing Channels] are not being deprecated, only the two allocation models that appear in calculated metrics). Additionally, we will correct the way linear allocation is calculated. If you use calculated metrics with linear allocation models, the reports may change slightly to reflect the new, corrected attribution model. This change to calculated metrics will be reflected in [!UICONTROL Analysis Workspace], [!UICONTROL Reports & Analytics], the [!UICONTROL Reporting API], [!UICONTROL Report Builder], and [!UICONTROL Ad Hoc Analysis]. See the [Calculated Metrics](https://marketing.adobe.com/resources/help/en_US/analytics/calcmetrics/m_metric_type_alloc.html) documentation for more information about this change. |
 | [!UICONTROL Anomaly Detection] and [!UICONTROL Contribution Analysis] functionality removed from [!UICONTROL Reports & Analytics] | April 10, 2018 | Anomaly Detection and Contribution Analysis have been removed from the Reports & Analytics feature set and are now available only via Analysis Workspace. Adobe Analytics Select and Foundation customers have access only to “daily-granularity” Anomaly Detection in Workspace. |
 | Adobe no longer issuing 3rd-party s_vi cookies for Safari | April 05, 2018 | On March 20, 2018, Adobe stopped issuing third-party s_vi cookies for the Safari browser. This change does not impact customers using first-party data collection cookies. This change also removes the visit and visitor inflation experienced by some customers, resulting from Safari ITP. |
-| Back-end changes that affect reporting | April 11, 2018 | A change to the (back-end) lookup mechanism is going to impact reporting in several ways. Please be aware that these changes went into effect around the end of February, 2018: Page renaming will no longer be allowed. Going forward, you will need to use classifications to rename pages. Until the May 10, 2018 release, the system will continue to process the renamed pages as they are currently configured. Adobe is asking all customers to migrate to classifications by that date. After the May release, existing renames will no longer be honored and can change, retroactively, without notice. <br> <br>The URL replacement methodology is different. Previously, Adobe Analytics would store (mostly) the first URL associated with each page name each month. Going forward, we will store the most recent URL for each page name. (Updated April 11, 2018) Category reports for roll-ups and current data in Reports & Analytics are no longer provided. Deprecating category roll-up reports in the Web Service API is effective with the May 10, 2018, Adobe Analytics maintenance release. There is no longer any support for page/prop data from before approximately January 2007 (in some cases, 2006). This only impacts pages, props and page events (i.e. custom links, exit links, download links). Note: This change does not impact reporting in Analysis Workspace or Data Warehouse. If you have data preceding these dates, expect the following: Data will not combine correctly across the pre/post January 2007 boundary. Searches will not work against data before approximately Jan. 2007. |
+| Back-end changes that affect reporting | April 11, 2018 | A change to the (back-end) lookup mechanism is going to impact reporting in several ways. Please be aware that these changes went into effect around the end of February, 2018: Page renaming will no longer be allowed. Going forward, you will need to use classifications to rename pages. Until the May 10, 2018 release, the system will continue to process the renamed pages as they are currently configured. Adobe is asking all customers to migrate to classifications by that date. After the May release, existing renames will no longer be honored and can change, retroactively, without notice. <br/>The URL replacement methodology is different. Previously, Adobe Analytics would store (mostly) the first URL associated with each page name each month. Going forward, we will store the most recent URL for each page name. (Updated April 11, 2018) Category reports for roll-ups and current data in Reports & Analytics are no longer provided. Deprecating category roll-up reports in the Web Service API is effective with the May 10, 2018, Adobe Analytics maintenance release. There is no longer any support for page/prop data from before approximately January 2007 (in some cases, 2006). This only impacts pages, props and page events (i.e. custom links, exit links, download links). Note: This change does not impact reporting in Analysis Workspace or Data Warehouse. If you have data preceding these dates, expect the following: Data will not combine correctly across the pre/post January 2007 boundary. Searches will not work against data before approximately Jan. 2007. |
 | Upcoming support changes for Date-Enabled and Numeric Classifications | May 7, 2018 | In the May 10, 2018 Maintenance release, we will begin limiting the functionality of date-enabled and numeric classifications. These classification types will be removed from the Admin and Classification Importer interfaces. From that date on, no new date-enabled and numeric classifications can be added. Existing classifications can still be managed (uploaded to, deleted) through the standard classification workflow, and will continue to be available in reporting. |
 | Upcoming support changes for Marketing Channel Cost and Budget | February 28, 2018 | In the April maintenance release, we will remove Marketing Channel Cost and Budget from the Admin > Marketing Channel menu. No new cost and budget data can be added. Existing cost and budget data will continue to be available in reporting, but cannot be updated. |
 | Update Report Builder before you migrate user IDs to the Admin Console | March 17, 2018 | **Important:** Update your installation of Report Builder to the latest version. This update is a pre-requisite for running the Analytics user ID migration to the Admin Console, beginning in April 2018. |
 | Code Manager - Legacy H Code | February 8, 2018 | Downloading legacy JavaScript (H code) from the Code Manager is no longer supported. |
-| Data retention: Check and set your data retention policy for Adobe Analytics | February 1, 2018 | **Background:** The European Union’s General Data Protection Regulation (GDPR), which applies as from May 25, 2018, provides that Adobe, in its role as your data processor, must take appropriate measures to assist its customers in fulfilling access, deletion, and other requests from individuals. Applying appropriate, secure, and timely deletion policies is an important part of complying with this obligation. As a result, Adobe would like to work with you to implement a data retention policy before GDPR takes effect on May 25, 2018.<br> <br>**What to expect:** Unless you already have an Adobe Analytics data retention policy in place, Adobe will begin applying data retention as currently specified in customer contracts for Adobe Analytics, unless other arrangements are made. Most Adobe Analytics contracts state that Adobe may delete data after 25 months. Once a data retention policy is in place for your organization, it is enforced on a rolling monthly basis. Data retention for longer periods than 25 months is available for an additional fee. Data retention periods for shorter periods can also be configured by contacting Customer Care. You will soon receive an email with additional details for your organization. <br> <br>Data retention impacts all methods for accessing historical Adobe Analytics data, including but not limited to Reports & Analytics, Analysis Workspace, Report Builder, the Web Services Reporting APIs, data warehouse, and data feeds. **Next steps:** Identify stakeholders within your organization responsible for making decisions about data retention. Your organization is best placed to know the appropriate period for which Adobe Analytics data should be retained. Contact your Adobe Customer Success Manager if you have questions regarding data retention for Adobe Analytics. |
+| Data retention: Check and set your data retention policy for Adobe Analytics | February 1, 2018 | **Background:** The European Union’s General Data Protection Regulation (GDPR), which applies as from May 25, 2018, provides that Adobe, in its role as your data processor, must take appropriate measures to assist its customers in fulfilling access, deletion, and other requests from individuals. Applying appropriate, secure, and timely deletion policies is an important part of complying with this obligation. As a result, Adobe would like to work with you to implement a data retention policy before GDPR takes effect on May 25, 2018.<br/>**What to expect:** Unless you already have an Adobe Analytics data retention policy in place, Adobe will begin applying data retention as currently specified in customer contracts for Adobe Analytics, unless other arrangements are made. Most Adobe Analytics contracts state that Adobe may delete data after 25 months. Once a data retention policy is in place for your organization, it is enforced on a rolling monthly basis. Data retention for longer periods than 25 months is available for an additional fee. Data retention periods for shorter periods can also be configured by contacting Customer Care. You will soon receive an email with additional details for your organization. <br/>Data retention impacts all methods for accessing historical Adobe Analytics data, including but not limited to Reports & Analytics, Analysis Workspace, Report Builder, the Web Services Reporting APIs, data warehouse, and data feeds. **Next steps:** Identify stakeholders within your organization responsible for making decisions about data retention. Your organization is best placed to know the appropriate period for which Adobe Analytics data should be retained. Contact your Adobe Customer Success Manager if you have questions regarding data retention for Adobe Analytics. |
 | User account linking | October 26, 2017 | Analytics users no longer need to manually link their accounts between the Experience Cloud and Analytics. Users can contact their Admin Console administrator to request Analytics access. The Analytics user ID migration enables administrators to easily migrate user accounts from Analytics User Management to the Adobe Admin Console. After your users are migrated, they will have access to the purchased solutions and core services available in the Experience Cloud. [Learn more about the Analytics User ID Migration](https://marketing.adobe.com/resources/help/en_US/experience-cloud/admin-console/analytics-migration/). |
 
 ## Audience Manager {#aam}
 
 | Feature    | Description  |
 | -----------| ---------- |  
-| [Trait Recommendations](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/trait-recommendations.html)  | Trait Recommendations, powered by [Adobe Sensei](https://www.adobe.com/sensei.html), brings data science into your Audience Manager day-to-day workflows. <br> With Trait Recommendations, when you build or edit a segment in [Segment Builder](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/segment-builder.html), you get recommendations on additional traits you can include, that are similar to the traits in the segment rule. Add the recommended traits to your segment to increase your target audience. |  
-| [Global Data Sources](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/data-sources/global-data-sources.html) | Global data sources are accessible by all Audience Manager customers and contain device advertising IDs generated by device manufacturers such as Apple, Samsung, Microsoft, Roku, and Android device manufacturers. These IDs are made available by manufacturers for advertising purposes. You can use global data sources to synchronize device IDs and import or export data keyed off of those mappings. Audience Manager validates the device advertising IDs (DAID) imported by customers, based on their format, to ensure they match the standard format outlined by device manufacturers. |
-| [ID Mapping Limits](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/usage-limits.html#id-mapping-limits) |We have improved segmentation, reporting, and exporting of segments by limiting the number of cross-device ID mappings associated to a device ID. The newly imposed limits help us mitigate the impact that incorrect integrations and inaccurate data sets may have on ingestion and downstream processing. <br/> The new limits are: <ul><li>100 device IDs per cross-device ID</li><li>10 cross-device IDs per device ID</li><li>1000 device IDs to 1 device ID</li></ul> |
+| [IP Address Obfuscation](https://marketing.adobe.com/resources/help/en_US/aam/ip-obfuscation.html)  | Your company may desire to obfuscate IP address in many countries due to global privacy regulations. Audience Manager allows you to obfuscate visitor IP addresses on a global or country-by-country basis. |  
+| [Custom Partner Integrations - Oracle Data Cloud](https://marketing.adobe.com/resources/help/en_US/aam/custom-partner-integrations.html)  | This page lists custom integrations between Audience Manager and data partners. Audience Manager ingests cookie and mobile ID data from the Oracle Data Cloud for Audience Marketplace via inbound data files. The custom integration specifications described in this page refer only to inbound data files that contain mobile IDs (IDFA and Android Device IDs). |
 
-### Improvements
+**Fixes, Enhancements, and Deprecations**
 
-* Users now see an error message when they attempt to create an [!UICONTROL Algorithmic Model] using as baseline a trait type different from rule-based, segment, or onboarded. The errors message is: "Only rule-based traits, onboarded traits and segments can be used as baseline." (AAM-45235).
-* The [!UICONTROL Lifetime] metric has been removed from the [!UICONTROL Traits] and [!UICONTROL Folder Traits] pages.
-* Segment mapping start and end dates are now included in the [!UICONTROL Destinations General Report] (AAM-44997).
-
-### Fixes
-
-* Fixed an issue causing the [!UICONTROL Outbound File History Report] not to load in some situations (AAM-45713).
-* Fixed an issue causing the previously selected trait to be added to [!UICONTROL Segment Builder] when clicking [!UICONTROL Add Trait] on an empty field (AAM-45599).
-* Fixed an issue preventing users from editing or deactivating Algorithmic Models that contain excluded traits (AAM-45552).
-
-## Advertising Cloud {#adcloud}
-
-Updated on April 15, 2019, for the April 13 release
-
-| Feature    | Description  |
-| -----------| ---------- | 
-| Search Campaigns | In the date range selector, the calendar is now arranged from Sunday to Saturday. Previously, it was arranged from Sunday to Saturday. |
-| Reports | The Portfolio Report now includes the optional column _Portfolio Spend Strategy_. |
-
-Advertising Cloud help is available in the product under the Help **?** menu.
-
-## Target {#target}
-
-Release notes for the following upcoming Adobe Target releases:
-
-### Target Standard/Premium 19.4.1 (April 15, 2019)
-
-This release is a maintenance release and includes the following change:
-
-(The issue numbers in parentheses are for internal Adobe use.)
-
-* Updated the Adobe Experience Cloud UI to reflect branding and product changes. (TGT-33546, TGT-33272, and TGT-33331)
-
-### Target Standard/Premium 19.4.2 (April 29, 2019)
-
-This release includes the following features, changes and enhancements:
-
-(The issue numbers in parentheses are for internal Adobe use.)
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Mobile Visual Experience Composer | The Visual Experience Composer (VEC) for Native Mobile Apps lets you create activities and personalize content on native mobile apps in a do-it-yourself fashion without continuous development dependencies and app-release cycles. |  
-| Visual Experience Composer | The Visual Experience Composer (VEC) includes the following enhancements to make your work quicker and more efficient: <ul><li>You can edit the style of an element, including the background image, in the VEC. (TGT-15001)</li><li>Target supports HTML5 using configurations on v4.5.1 or higher. (TGT-33618)</li></ul> |
-
-**Enhancements, fixes, and changes**
-
-* We improved the workflow when you delete assets using the VEC. Deleted assets are now removed from the Offers library and from Scene7 (if applicable)Deleted assets no longer display in search results. (TGT-31981)
-* We improved the rendering of image offers in the Assets picker. Displaying and selecting image offers is now quicker and more efficient. (TGT-32897)
-* We improved the handling of redirects to URLs when you cancel loading of a page within the VEC. (TGT-33815)
-* Toolbar icons display appropriately after you cancel loading of a page within the VEC. If specific actions cannot be performed until after the page is fully loaded, the associated toolbar icons are disabled. (TGT-33811)
-* After you select a Recommendations collection from the Collections picker, you must now click the Save button. This workflow is consistent with other workflows within Target. (TGT-33205)
-
-Refer to the [Adobe Target Release Notes](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) for the latest release information about the following products:
-
-* Target Standard and Premium
-* Recommendations Classic
+* We added two new columns to the General Reports for Destinations. You can now see the Start Date and the End Date for a segment mapping to a destination. (AAM-44781)
 
 ## Experience Manager {#aem}
 
@@ -208,30 +128,49 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 
 ### Product releases
 
-**Cloud Manager 2019.3.0**
+**AEM 6.5**
 
-This month Cloud Manager Release (2019.3.0) adds SLA reporting to the System Monitoring capability delivered in the last release. A visual refresh of some key screens was also added.
+AEM 6.5, available as of April 8, 2019, is an upgrade release to the AEM 6.4 code base. Our latest updates to AEM 6.5 give you instant access to exciting improvements that drive your business forward even faster.
 
-* [Release notes](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
+* [What's New in Adobe Experience Manager 6.5](https://www.adobe.com/marketing/experience-manager/new.html)
+* [Release Notes for Adobe Experience Manager 6.5](https://helpx.adobe.com/experience-manager/6-5/release-notes.html)
+
+**Cloud Manager 2019.4.0**
+
+The latest Cloud Manager release (2019.4.0 released April 18, 2019) adds a localized user interface in French, German, and Japanese. Also, deployment steps were improved.
+
+* [Release Notes for Cloud Manager 2019.4.0](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
 
 ### Product maintenance
 
-**AEM 6.2 Service Pack 1-Cumulative Fix Pack 19**
+**AEM 6.4.4.0**
 
-AEM 6.2 SP1-CFP19 (6.2.1.19), released March 07, 2019, is an important update that includes key customer fixes released since the general availability of AEM 6.2 SP1, December 2016.
+AEM 6.4, Service Pack 4 (6.4.4.0 released April 04, 2019) is an important update that includes key customer fixes released since the general availability of AEM 6.4, April 2018.
 
-* [Release notes](https://helpx.adobe.com/experience-manager/release-notes--aem-6-2-cumulative-fix-pack.html)
-* [AEM Forms CFP releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+[Release Notes for AEM 6.4 Service Pack](https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html)
+[AEM Forms releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
-**AEM 6.3 Service Pack 3-Cumulative Fix Pack 3**
+**AEM S3 Connector**
 
-AEM 6.3 SP3-CFP3 (6.3.3.3), released March 14, 2019, is an important update that includes key customer fixed released since the general availability of AEM 6.3 April 2017.
+AEM instances with old versions of S3 Datastore connector may become unavailable due to S3 access failures after the end of support for Signature Version 2 on June 24, 2019. As an AEM customer, Adobe recommends that you verify the version of S3 Datastore connector that you are using. If necessary, update to a recent version.
 
-* [Release notes](https://helpx.adobe.com/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html)
-* [AEM Forms CFP releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+See [The Impact of AWS Signature Version 2 Deprecation for Amazon S3](https://helpx.adobe.com/experience-manager/kb/the-impact-of-aws-signature-version-2-deprecation-for-amazon-s3.html)
+
+### Self-Help
+
+**Modernizing your AEM Sites codebase**
+
+Learn how to leverage the latest AEM technology to modernize your AEM Sites codebase. [Modernizing Your Existing Adobe Experience Manager Sites Codebase](https://expleague.azureedge.net/labs/L761/index.html)
+
+**AEM Rich Text Editor – Deep Dive**
+
+Learn best practices around the rich configurations and use of the Rich Text Editor in AEM.
+
+See [AEM Rich Text Editor (RTE) Deep Dive](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/AEM-Rich-Text-Editor-RTE-Deep-Dive1.html)
 
 ### Additional resources
 
+* [AEM 6.5 Learn & Support Home](https://helpx.adobe.com/support/experience-manager/6-5.html)
 * [AEM 6.4 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-4.html)
 * [AEM 6.3 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-3.html)
 * [AEM 6.2 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-2.html)
@@ -239,3 +178,63 @@ AEM 6.3 SP3-CFP3 (6.3.3.3), released March 14, 2019, is an important update that
 * [Older versions of AEM documentation](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
 * [Scene7 Publishing System release notes](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Livefyre release notes](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
+
+## Campaign {#ac}
+
+Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
+
+* Campaign Classic 18.10.4 – build 8983
+* Campaign Classic 18.10.5 – build 8984
+
+See [Adobe Campaign Classic Release Notes](http://docs.campaign.adobe.com/doc/AC/en/RN.html) for fixes and improvements.
+
+For product documentation, see:
+
+* Adobe Campaign Standard: [Documentation](https://helpx.adobe.com/support/campaign/standard.html) - [Release Notes](https://helpx.adobe.com/campaign/standard/rn/using/release-notes.html) - [Feature videos](https://helpx.adobe.com/campaign/kt/acs/index/acs-videos.html)
+* Adobe Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [Feature videos](https://helpx.adobe.com/campaign/kt/acc/index/acc-videos.html)
+
+## Advertising Cloud {#adcloud}
+
+| Feature    | Description  |
+| -----------| ---------- |  
+| Search Tools  | (Advertisers with Google Ads accounts) Advertising Cloud can optionally upload to Google Ads all conversion data it tracks for Google Ads campaigns that use the Advertising Cloud conversion tracking service. Daily uploads include the conversion value defined using the advertiser-level attribution model. All uploaded conversions are prefixed with "Adobe_ACS_" (such as "Adobe_ACS_Subscriptions" for the conversion "Subscriptions"). <br/> **Note:** The uploads won't include conversion data uploaded to Advertising Cloud from feed files. |
+| Search Campaigns | The menu in **Search** > **Campaigns** > **Campaigns** is now hierarchical, with Campaigns under Accounts; Ad Groups under Campaigns; and Keywords (with submenu), Ads, Product Groups (Live views only), Placements (with submenu), and Auto Targets under Ad Groups.<br/>In the Live views, Audiences and Extensions are at the same level as Accounts, with their own submenus.  | 
+
+## Target Standard/Premium 19.5.1 {#target}
+
+This release includes the following features, changes, and enhancements:
+
+(The issue numbers in parentheses are for internal Adobe use.)
+
+### Feature updates
+
+|Feature / Enhancement | Description |
+| --- | --- |
+|Single Page App Visual Experience Composer (SPA VEC)|The SPA VEC includes the following enhancements to make your work quicker and more efficient:<ul><li>You can now cancel the loading of a website in the VEC to unblock editing of an activity. This enhancement is useful, for example, if you want to make a small edit to the activity, review its settings, or add custom code and you don't want to wait for the site to load. (TGT-33872)</li><li>You can perform many actions before the page loads in the VEC, or even if the page fails to load altogether (for example, custom code is no longer operational). Actions that cannot be edited before the site loads are disabled in the Target UI. (TGT-33851 & TGT-34149)</li></ul>|
+|Automated Personalization (AP) & Auto-Target activities | You can select an experience to be used as control while creating an AP or Auto-Target activity. This feauture lets you route the entire control traffic to a specific experience, based on the traffic allocation percentage configured in the activity. You can then evaluate the performance of the personalized deliveries against the control experience. (TGT-26572)|
+|Recommendations | You can use the Recommend Previously Purchased Items toggle while creating Recently Viewed Items logic. (TGT-34030)|
+
+### Enhancement, fixes, and changes
+
+* Toolbar icons display appropriately after you cancel loading of a page within the VEC. If specific actions cannot be performed until after the page is fully loaded, the associated toolbar icons are disabled. (TGT-33811)
+* You can now list and navigate more easily through offer folders in the Asset picker instead of navigating through a flat folder hierarchy. (TGT-33725)
+
+Refer to the [Adobe Target Release Notes](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) for the latest release information about the following products:
+
+* Target Standard and Premium
+* Recommendations Classic
+
+## Magento {#magento}
+
+Magento is an e-commerce platform that provides online merchants with a flexible shopping cart system and control over the look, content and functionality of their online store. Magento is available in an open-source version and a fuller-featured commerce version.
+
+Magento Commerce is part of Adobe Commerce Cloud and offers an eCommerce solution with enterprise power, unlimited scalability, and open-source flexibility for B2C and B2B experiences
+
+Release notes for both our Open Source and Commerce editions can be found on the [Release Information](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) page.
+
+## Primetime {#primetime}
+
+Adobe Primetime is a multiscreen TV platform that helps media companies create and monetize engaging, personalized viewing experiences.
+
+[Primetime Release Notes](http://help.adobe.com/en_US/primetime/release_notes/index.html)
+[Primetime Help Home](http://help.adobe.com/en_US/primetime/)
