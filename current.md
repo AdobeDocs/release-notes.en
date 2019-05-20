@@ -17,7 +17,7 @@ New features and fixes in the Adobe Experience Cloud.
 
 **Release date: May 2019**
 
-* [Experience Platform](#platform)
+* [Adobe Experience Platform](#platform)
 * [Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
@@ -27,9 +27,13 @@ New features and fixes in the Adobe Experience Cloud.
 * [Magento](#magento)
 * [Primetime](#primetime)
 
-## Experience Platform {#platform}
+## Adobe Experience Platform {#platform}
 
-Release notes for the Experience Cloud Platform, including Administration, Activation (Experience Platform Launch), ID Service, Assets, Offers, and People.
+### Adobe Experience Platform release notes
+
+Version 1.0, May 15, 2019
+
+* See [Experience Platform release notes](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes-20190515.md) on Adobe.io for the latest updates to Experience Platform.
 
 ### Experience Platform Launch
 
