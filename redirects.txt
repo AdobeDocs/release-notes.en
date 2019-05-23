@@ -96,4 +96,4 @@
 /resources/help/en_US/whatsnew/c_11082012.html https://docs.adobe.com/content/help/en/release-notes/experience-cloud/previous/2012-Adobe-Experience-Cloud-Release-Notes.pdf
 /resources/help/en_US/whatsnew/c_legacy_releases.html https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html
 /resources/help/en_US/whatsnew/index.html https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html
-
+/resources/help/en_US/whatsnew/ https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html
