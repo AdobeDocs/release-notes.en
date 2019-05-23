@@ -24,6 +24,8 @@
 /resources/help/en_US/whatsnew/02072019.html https://docs.adobe.com/content/help/en/release-notes/experience-cloud/previous/2019/02072019.html
 /resources/help/en_US/whatsnew/01172019.html https://docs.adobe.com/content/help/en/release-notes/experience-cloud/previous/2019/01172019.html
 /resources/help/en_US/whatsnew/03072019.html https://docs.adobe.com/content/help/en/release-notes/experience-cloud/previous/2019/03072019.html
+/resources/help/en_US/whatsnew/04112019.html https://docs.adobe.com/content/help/en/release-notes/experience-cloud/previous/2019/04112019.html
+/resources/help/en_US/whatsnew/05092019.html https://docs.adobe.com/content/help/en/release-notes/experience-cloud/previous/2019/05092019.html
 /resources/help/en_US/whatsnew/11012018.html https://docs.adobe.com/content/help/en/release-notes/experience-cloud/previous/2018/11012018.html
 /resources/help/en_US/whatsnew/04122018.html https://docs.adobe.com/content/help/en/release-notes/experience-cloud/previous/2018/04122018.html
 /resources/help/en_US/whatsnew/09132018.html https://docs.adobe.com/content/help/en/release-notes/experience-cloud/previous/2018/09132018.html
