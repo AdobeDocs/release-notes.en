@@ -62,10 +62,9 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 
 | Feature    | Description  |
 | -----------| ---------- |  
-| **AppMeasurement** | Features |
-| **Analysis Workspace:**   |  |  
-| **Ad Hoc Analysis:**   |  |
-| **Data Collection:** |  |
+| **Segmentation** | New attribution models for dimensions in segmentation:<ul><li>Repeating (Default): Includes instances + persisted values for the dimension.</li><li>Instance: Includes instances for the dimension.</li><li>Non-repeating instance: Includes unique instances (de-duped) for the dimension.</li></ul>|
+| **Segmentation** | New segment operators: "Equals Any of" and "Does not Equal Any of." |
+| **Analysis Workspace:** | Added several new out-of-the-box tags to the left rail search. Beyond what you see today (Dimensions, Metrics, Approved, etc), we added tags such as Calculated Metrics, Customer Attributes, eVars, Props, etc. |  
 
 **Analysis Workspace Fixes**
 
