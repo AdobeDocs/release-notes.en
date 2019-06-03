@@ -63,21 +63,21 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 | Feature    | Description  |
 | -----------| ---------- |  
 | **Segmentation** | New attribution models for dimensions in segmentation:<ul><li>Repeating (Default): Includes instances + persisted values for the dimension.</li><li>Instance: Includes instances for the dimension.</li><li>Non-repeating instance: Includes unique instances (de-duped) for the dimension.</li></ul>|
-| **Segmentation** | New segment operators: "Equals Any of" and "Does not Equal Any of." |
-| **Analysis Workspace:** | Added several new out-of-the-box tags to the left rail search. Beyond what you see today (Dimensions, Metrics, Approved, etc), we added tags such as Calculated Metrics, Customer Attributes, eVars, Props, etc. |  
+| **Segmentation** | New segment operators: **[!UICONTROL Equals Any of]** and **[!UICONTROL Does not Equal Any of]**. |
+| **Analysis Workspace:** | Added several new out-of-the-box tags to the left rail search. Beyond what you see today (Dimensions, Metrics, Approved, etc.), we added tags such as Calculated Metrics, Customer Attributes, eVars, Props, etc. |  
 
 **Analysis Workspace Fixes**
 
-* Fixed an issue with localized Japanese date information in Analysis Workspace visualizations.	(AN-180114)
+* Fixed an issue with localized Japanese date information in [!DNL Analysis Workspace] visualizations.	(AN-180114)
 * Fixed an issue that occurred after copying and pasting dimension items. Subsequent searches on the item resulted in an error. (AN-177394)
 * Fixed an issue with the edit option missing in segment panels within freeform tables.	(AN-171703)
-* Fixed an issue with “Set as Landing Page” feature not working when shared with a large set of recipients.	(AN-163922)
+* Fixed an issue with **[!UICONTROL Set as Landing Page]** feature not working when shared with a large set of recipients.	(AN-163922)
 * Fixed an issue where strings got vertically clipped in Real-time reports. (AN-175980)
 
 **Other Analytics Fixes**
 
-* Fixed an issue with Admin users being unable to enable success events. (AN-176689)
-* Fixed an issue that occurred when creating an alert with the “Exit Rate” metric. (AN-177476)
+* Fixed an issue with Admin users being unable to enable **[!UICONTROL Success Events]**. (AN-176689)
+* Fixed an issue that occurred when creating an alert with the **[!UICONTROL Exit Rate]** metric. (AN-177476)
 
 ### Important notices for Analytics administrators {#aa-notices}
 
