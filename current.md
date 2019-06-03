@@ -76,10 +76,8 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 
 **Other Analytics Fixes**
 
-* 
-* 
-* 
-* 
+* Fixed an issue with Admin users being unable to enable success events. (AN-176689)
+* Fixed an issue that occurred when creating an alert with the “Exit Rate” metric. (AN-177476)
 
 ### Important notices for Analytics administrators {#aa-notices}
 
