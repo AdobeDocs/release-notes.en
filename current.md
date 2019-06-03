@@ -68,10 +68,10 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 
 **Analysis Workspace Fixes**
 
-* Fixed an issue with localized Japanese date information in [!DNL Analysis Workspace] visualizations.	(AN-180114)
+* Fixed an issue with localized Japanese date information in [!DNL Analysis Workspace] visualizations. (AN-180114)
 * Fixed an issue that occurred after copying and pasting dimension items. Subsequent searches on the item resulted in an error. (AN-177394)
-* Fixed an issue with the edit option missing in segment panels within freeform tables.	(AN-171703)
-* Fixed an issue with **[!UICONTROL Set as Landing Page]** feature not working when shared with a large set of recipients.	(AN-163922)
+* Fixed an issue with the edit option missing in segment panels within freeform tables. (AN-171703)
+* Fixed an issue with **[!UICONTROL Set as Landing Page]** feature not working when shared with a large set of recipients. (AN-163922)
 * Fixed an issue where strings got vertically clipped in Real-time reports. (AN-175980)
 
 **Other Analytics Fixes**
