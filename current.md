@@ -120,17 +120,17 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 
 The latest Cloud Manager release (2019.5.0) does not contain significant functional changes though it delivers a couple of bug fixes.
 
-	* [Release Notes for Cloud Manager 2019.5.0](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
+* [Release Notes for Cloud Manager 2019.5.0](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
 
 * **XML Documentation for AEM**
 
 The 3.3 release for the XML Documentation solution is now available. See the following release notes:
 
-	* Advanced map features*
+* Advanced map features*
 	
-		* Add topic references by using either drag and drop from the repository view or using the horizontal bar and the element catalog.
-		* Add metadata on a topic ref, chunk, like nav title, format, scope, and so on.
-		* Clicking on the topic ref should open the topic in the editor (preview mode if not checked out and disable edit with checkout is enabled).
+	* Add topic references by using either drag and drop from the repository view or using the horizontal bar and the element catalog.
+	* Add metadata on a topic ref, chunk, like nav title, format, scope, and so on.
+	* Clicking on the topic ref should open the topic in the editor (preview mode if not checked out and disable edit with checkout is enabled).
 * Add Topic Head and Topic Group.
 * Add bookmaps with Frontmatter (Topics, Preface, book list, notices, and so on) and Backmatter (Topics, Appendices, glossary, and so on).
 * In Author mode, broken links are highlighted, breadcrumbs are shown, and Full Tags View is available.
