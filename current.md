@@ -168,12 +168,10 @@ The 3.3 release for the XML Documentation solution is now available. See the fol
 ***Review feature changes***
 
 * Tips for a reviewer:
-
     * Import all comments and incorporate the changes for on-going reviews before upgrading to the 3.3 build.
     * Ensure that multiple tabs are not open for the editor.
     * Ensure that the Full Tags view is not enabled.
     * Do not switch between Author mode and Source mode while the review is in progress.
-
 * Ability to specify the version of my content which is to be reviewed.
 * Ability to choose the versions of the selected topics based on a baseline, date, label or the currently active version, or specify the versions for each of the topics while creating a review.
 * Ability to send same topic/map for review multiple times and author can access all reviews in review panel of editor.
