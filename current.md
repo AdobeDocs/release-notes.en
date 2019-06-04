@@ -126,7 +126,7 @@ The latest Cloud Manager release (2019.5.0) does not contain significant functio
 
 The 3.3 release for the XML Documentation solution is now available. See the following release notes:
 
-***Advanced map features***
+   ***Advanced map features***
 * Add topic references by using either drag and drop from the repository view or using the horizontal bar and the element catalog.
 * Add metadata on a topic ref, chunk, like nav title, format, scope, and so on.
 * Clicking on the topic ref should open the topic in the editor (preview mode if not checked out and disable edit with checkout is enabled).
