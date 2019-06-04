@@ -116,36 +116,98 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 
 ### Product releases
 
-**AEM version**
+**Cloud Manager 2019.5.0**
 
-Text
+The latest Cloud Manager release (2019.5.0) does not contain significant functional changes though it delivers a couple of bug fixes.
 
-* [What's New in Adobe Experience Manager 6.5](https://www.adobe.com/marketing/experience-manager/new.html)
-* [Release Notes for Adobe Experience Manager 6.5](https://helpx.adobe.com/experience-manager/6-5/release-notes.html)
+* [Release Notes for Cloud Manager 2019.5.0](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
 
-**Feature**
+**XML Documentation for AEM**
 
-Text
+The 3.3 release for the XML Documentation solution is now available. See the following release notes:
 
-### Product maintenance
+***Advanced map features***
+	
+* Add topic references by using either drag and drop from the repository view or using the horizontal bar and the element catalog.
+* Add metadata on a topic ref, chunk, like nav title, format, scope, and so on.
+* Clicking on the topic ref should open the topic in the editor (preview mode if not checked out and disable edit with checkout is enabled).
+* Add Topic Head and Topic Group.
+* Add bookmaps with Frontmatter (Topics, Preface, book list, notices, and so on) and Backmatter (Topics, Appendices, glossary, and so on).
+* In Author mode, broken links are highlighted, breadcrumbs are shown, and Full Tags View is available.
+* Ability to set map level attributes.
+* Ability to set Title/BookTitle.
+* Support for Reltables with the ability to add rel header, columns, drag/drop topics from the map and repository to the rel table, set linking, scope, and other parameters for the links, re-order links within the cell.
+* Toolbar widget to insert before, insert after and insert element.
+* Highlight if a condition is applied on a topic.
+* Ability to edit multiple maps at a time (each map opens as a tab on the same browser).
+* In the map panel and the repository view, on hover - show full topic title and file name.
 
-**AEM version**
+***Full Tags View***
 
-Text
+* Insert new tags between two elements.
+* Copy and paste tags.
+* Drag and drop tags at allowed and not allowed positions within a file.
+* Expand and collapse tags.
 
-**Feature**
+***DITA-specific search enhancements***
 
-Text
+* Provided a serialization tool to reindex selected content
+* Users can use `contains` and `exact match` in their search. They can also search using the following parameters. :
+    * Asset Metadata. For example, `file name`, `title`, or any custom metadata defined by the customer.
+    * DITA Attribute Name and its value. For example, `platform=winOS`.
+    * DITA Element Name and its value. For example, `author = Joe Smith`.
+    * DITA Element Name and its applied attribute. For example, table with product=SpaceBase attribute name/value pair applied to it.
+    * DITA topic and map metadata.
+    * DITA information type. For exam[ple, map, topic, concept, and so on.
+    * Root Folder Path where the asset is located.
+    * Document state.
+    * Checked-out status.
+    * Modified date range.
+    * CQ tags.
+* It is possible to create complex queries by combining one or more of the above search parameters.
 
-### Self-Help
+***Review feature changes***
 
-**Feature**
+* Tips for a reviewer:
 
-Text
+    * Import all comments and incorporate the changes for on-going reviews before upgrading to the 3.3 build.
+    * Ensure that multiple tabs are not open for the editor.
+    * Ensure that the Full Tags view is not enabled.
+    * Do not switch between Author mode and Source mode while the review is in progress.
 
-**Feature**
+* Ability to specify the version of my content which is to be reviewed.
+* Ability to choose the versions of the selected topics based on a baseline, date, label or the currently active version, or specify the versions for each of the topics while creating a review.
+* Ability to send same topic/map for review multiple times and author can access all reviews in review panel of editor.
+* As an initiator, ability to push a later version of the content for the reviewers. The reviewers will get a notification when a new content is pushed for review.
+* As an author, user will have the ability to see the review comments for all versions of their content in the review panel of the editor. Authors will be able to filter the comments by version number.
+* As an author user will have the ability to view and import comments on an older version of the content in the editor which was under review.
 
-Text
+***Miscellaneous***
+
+* Create a new folder, topic, or map from the Repository view.
+* View in Assets UI &ndash; Add a menu option for both folders and topics - "View in Assets UI". This option opens the Assets UI where the user can see the content tree on the left and all the files in List view on the right with all the assets menus on the top.
+* A Review dashboard is now available as a Tile on the DITA project which tracks the review on a Reviewer Level and a Review Task Level.
+* Added ability to convert IDML to DITA.
+* Provide API to apply given label on all specified versions in a baseline.
+* Enable an event after XHTML/DOCX to DITA conversion is complete. You can use this event to add specialized attributes to the converted content, or for any other custom logic that you need to implement.
+* Baseline Performance Tab improvements were made. User needs to run a script on all existing baselines first.
+* Enhancements were made to the XHTML to DITA conversion.
+* DITA-OT Offloading for Publishing Optimization.
+* Fixed sorting on the Type column in List view.
+* Ability to now handle cascaded styles in Word to DITA conversion.
+
+### Community
+
+**[Cloud Manager Skill Builder webinar series](https://cloudmanagerskillbuilder.experienceleague.adobeevents.com/)**
+
+Interested in learning how DevOps processes can simplify daily activities for Adobe Experience Manager management in the cloud? Cloud Manager provides the first-generation of cloud-native functionality for Adobe Experience Manager that enables cloud agility, whether your organization is beginning its DevOps transformation or is looking for strategies to augment existing DevOps processes. 
+
+[In this monthly series](https://cloudmanagerskillbuilder.experienceleague.adobeevents.com/), you can learn directly from Adobe’s product team about how to get started and use Cloud Manager features to simplify Adobe Experience Manager management in the cloud.
+
+You will learn the following:
+* How to get started on Cloud Manager and setup the CI/CD Pipeline
+* How Autoscaling and Transparent Service Delivery work and can simplify Adobe Experience Manager environment management in the cloud
+* How to use the Cloud Manager API and integrate existing DevOps processes
 
 ### Additional resources
 
