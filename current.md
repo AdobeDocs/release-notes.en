@@ -229,7 +229,7 @@ For product documentation, see:
 * Adobe Campaign Standard: [Documentation](https://helpx.adobe.com/support/campaign/standard.html) - [Release Notes](https://helpx.adobe.com/campaign/standard/rn/using/release-notes.html) - [Feature videos](https://helpx.adobe.com/campaign/kt/acs/index/acs-videos.html)
 * Adobe Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [Feature videos](https://helpx.adobe.com/campaign/kt/acc/index/acc-videos.html)
 
-## Mobile Services
+## Mobile Services {#mobile}
 
 * TLS 1.0 has been disabled on all Adobe servers. For Android 4.x devices to connect to Adobe services through SSL, the SDK will now force TLS 1.1/TLS 1.2 when establishing a handshake.
 
