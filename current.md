@@ -34,8 +34,6 @@ New features and fixes in the Adobe Experience Cloud.
 
 ### Adobe Experience Platform release notes
 
-Version number: x.x
-
 * See [Experience Platform release notes](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes-20190515.md) on Adobe.io for the latest updates to Experience Platform.
 
 ### Experience Platform Launch
