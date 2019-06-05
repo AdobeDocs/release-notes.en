@@ -226,7 +226,7 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 | Functionality | Description |
 | ------------- | ----------- |
-| Control Panel | To increase efficiency in your work as an Admin user, manage settings of your SFTP servers by monitoring storage, whitelisting IP addresses, and installing SSH keys for each instance. Please note Control Panel is only available for customers hosted on AWS as of today (login through the Experience Cloud today). <br> For more information, refer to the [detailed documentation](https://helpx.adobe.com/campaign/kb/control-panel.html) and the [how-to video](https://helpx.adobe.com/campaign/kt/acc/using/acc-control-panel-video-use.html). </br> |
+| Control Panel | To increase efficiency in your work as an Admin user, manage settings of your SFTP servers by monitoring storage, whitelisting IP addresses, and installing SSH keys for each instance. Please note Control Panel is only available for customers hosted on AWS as of today. [Log in through the Experience Cloud](https://experiencecloud.adobe.com/campaign/controlpanel/). <br> For more information, refer to the [detailed documentation](https://helpx.adobe.com/campaign/kb/control-panel.html) and the [how-to video](https://helpx.adobe.com/campaign/kt/acc/using/acc-control-panel-video-use.html). </br> |
 | Audit Trail | As admin, increase productivity by monitoring and managing changes made within the Adobe Campaign Classic instance. The Audit Trail will log actions made on Source Schema, Workflow and Option. You can quickly see if an element has been created, modified or deleted.
 <br>For more information, refer to the [detailed documentation](https://docs.campaign.adobe.com/doc/AC/en/PRO_Production_procedures_Audit_trail.html) and the [how-to video](https://helpx.adobe.com/campaign/kt/acc/using/acc-audit-trail-feature-video-use.html).</br> |
 | Guardrail, Robustness & Scalability | A series of improvements has been added to Campaign Classic. Guardrail, robustness and scalability improvements are listed in [Campaign Classic Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html). |
@@ -236,7 +236,14 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 See [Adobe Campaign Classic Release Notes](http://docs.campaign.adobe.com/doc/AC/en/RN.html) for fixes and improvements.
 
-### Campaign 
+### Campaign Standard 19.2 Spring Release
+
+| Functionality | Description |
+| ------------- | ----------- |
+| Control Panel | To help increase efficiency in your work as an Admin user, you can easily monitor capacity and manage settings of your instances (starting with SFTP servers management). <br> For more information, refer to the detailed documentation and the how-to video.</br> |
+| Local notifications | 
+
+
 
 For product documentation, see:
 
