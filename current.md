@@ -42,14 +42,6 @@ Version number: x.x
 
 * See [Experience Platform Launch](https://docs.adobelaunch.com/) for the latest information.
 
-### Experience Cloud ID Service
-
-Releasing **June 2019**
-
-* 
-* 
-* 
-
 ## Analytics {#analytics}
 
 New features and fixes in Adobe Analytics:
@@ -256,10 +248,13 @@ For product documentation, see:
 
 ## Advertising Cloud {#adcloud}
 
-| Feature    | Description  |
-| -----------| ---------- |  
-|  |  |
-|  |  | 
+Updated:  June 5, 2019, for June 8 release
+ 
+| Product    | Feature    | Description  |
+| -----------| ---------- | ----------  |
+| Search Campaigns, Label Classifications, and Constraints | Keyboard shortcuts | You can now use <b>Shift+Click</b> to select multiple, consecutive rows and <b>Ctrl+Click</b> to select multiple, non-consecutive rows. |
+|  | Select All vs. Select All on Page | In data tables, when you select the top check box to select all rows, the new default is to select all of the rows on the page (based on whether you're viewing 25 rows, 50 rows, 100 rows, 200 rows, or Continuous Scroll). You still have an option to select all rows available. |  
+| Default views, custom views, and stand-alone column customization settings | Column re-ordering | New Up and Down buttons allow you to reorder columns. You can still drag and drop columns to reorder them, like you could previously. |
 
 ## Target Standard/Premium 19.6.1 (June 25, 2019) {#target}
 
