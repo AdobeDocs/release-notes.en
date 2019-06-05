@@ -249,16 +249,6 @@ Refer to the Adobe Target Release Notes for the latest release information:
 [Target release notes (prerelease)](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html)
 [Target release notes (current)](https://docs.adobe.com/content/help/en/target/using/release-notes/release-notes.html)
 
-### Enhancement, fixes, and changes
-
-* Toolbar icons display appropriately after you cancel loading of a page within the VEC. If specific actions cannot be performed until after the page is fully loaded, the associated toolbar icons are disabled. (TGT-33811)
-* You can now list and navigate more easily through offer folders in the Asset picker instead of navigating through a flat folder hierarchy. (TGT-33725)
-
-Refer to the [Adobe Target Release Notes](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) for the latest release information about the following products:
-
-* Target Standard and Premium
-* Recommendations Classic
-
 ## Magento {#magento}
 
 Magento is an e-commerce platform that provides online merchants with a flexible shopping cart system and control over the look, content and functionality of their online store. Magento is available in an open-source version and a fuller-featured commerce version.
