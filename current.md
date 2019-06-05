@@ -222,6 +222,8 @@ You will learn the following:
 
 Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
 
+
+
 See [Adobe Campaign Classic Release Notes](http://docs.campaign.adobe.com/doc/AC/en/RN.html) for fixes and improvements.
 
 For product documentation, see:
@@ -240,19 +242,12 @@ For product documentation, see:
 |  |  |
 |  |  | 
 
-## Target Standard/Premium {#target}
+## Target Standard/Premium 19.6.1 (June 25, 2019) {#target}
 
-This release includes the following features, changes, and enhancements:
+Refer to the Adobe Target Release Notes for the latest release information:
 
-(The issue numbers in parentheses are for internal Adobe use.)
-
-### Feature updates
-
-|Feature / Enhancement | Description |
-| --- | --- |
-| | |
-| | |
-| | |
+[Target release notes (prerelease)](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html)
+[Target release notes (current)](https://docs.adobe.com/content/help/en/target/using/release-notes/release-notes.html)
 
 ### Enhancement, fixes, and changes
 
