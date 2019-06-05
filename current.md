@@ -240,10 +240,10 @@ See [Adobe Campaign Classic Release Notes](http://docs.campaign.adobe.com/doc/AC
 
 | Functionality | Description |
 | ------------- | ----------- |
-| Control Panel | To help increase efficiency in your work as an Admin user, you can easily monitor capacity and manage settings of your instances (starting with SFTP servers management). <br> For more information, refer to the detailed documentation and the how-to video.</br> |
-| Local notifications | 
-
-
+| Control Panel | To help increase efficiency in your work as an Admin user, you can easily monitor capacity and manage settings of your instances (starting with SFTP servers management). <br> For more information, refer to the [detailed documentation](https://helpx.adobe.com/campaign/kb/control-panel.html) and the [how-to video](https://helpx.adobe.com/campaign/kt/acs/using/acs-control-panel-video-use.html).</br> |
+| Local notifications | Local notification messaging allows you to inform your users when new data becomes available within their mobile applications, even without having access to the Internet or the mobile application running in the foreground. Local notifications are triggered by a mobile application on a particular time and depending on an event. <br>For more information, refer to the [detailed documentation](https://helpx.adobe.com/campaign/standard/channels/using/customizing-an-in-app-message.html#customizing-a-local-notification-message-type).</br> |
+| Workflow enhancement - Add a payload to external signal activity | Start a workflow with a payload when defined conditions are successfully met from another workflow or a REST API call to integrate with your external systems. This also includes a new test activity where you can run tests on this functionality. <br>For more information, refer to the [detailed documentation](https://helpx.adobe.com/campaign/standard/channels/using/customizing-an-in-app-message.html#customizing-a-local-notification-message-type) and the [how-to video](https://helpx.adobe.com/campaign/kt/acs/using/acs-external-signal-activity-feature-video-use.html).</br> |
+| Landing Pages enhancement - Google reCAPTCHA | Leverage Google reCAPTCHA to prevent spam on your landing pages without requiring any action from your customers. <br>For more information, refer to the [detailed documentation](https://helpx.adobe.com/campaign/standard/channels/using/designing-a-landing-page.html#setting-google-recaptcha).</br> |
 
 For product documentation, see:
 
