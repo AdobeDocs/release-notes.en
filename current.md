@@ -258,6 +258,7 @@ Updated:  June 5, 2019, for June 8 release
 Refer to the Adobe Target Release Notes for the latest release information:
 
 [Target release notes (prerelease)](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html)
+
 [Target release notes (current)](https://docs.adobe.com/content/help/en/target/using/release-notes/release-notes.html)
 
 ## Magento {#magento}
