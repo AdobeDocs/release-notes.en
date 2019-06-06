@@ -34,7 +34,7 @@ New features and fixes in the Adobe Experience Cloud.
 
 ### Adobe Experience Platform release notes
 
-* See [Experience Platform release notes](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes-20190515.md) on Adobe.io for the latest updates to Experience Platform.
+* See [Experience Platform release notes](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes-20190515.md) on Adobe.io for the latest updates to Experience Platform. The next platform  release is on June 28, 2019.
 
 ### Experience Platform Launch
 
