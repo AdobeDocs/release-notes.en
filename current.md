@@ -1,29 +1,31 @@
 ---
-
 title: Adobe Experience Cloud Release Notes
-description: Template for Experience Cloud release notes
+description: June 2019 Experience Cloud release notes
 doc-type: release notes
-last-update: May 2019
+last-update: June 2019
 author: mfrei
-
 ---
 
-# Adobe Experience Cloud release notes
+# Early Access - Adobe Experience Cloud release notes
 
 New features and fixes in the Adobe Experience Cloud.
+
+>[!IMPORTANT]
+>This page contains pre-release content and is subject to change prior to the planned release.
 
 >[!NOTE]
 >Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date.
 
-**Release date: May 2019**
+**Release date: June 2019**
 
 * [Adobe Experience Platform](#platform)
 * [Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
+* [Mobile Services](#mobile)
 * [Advertising Cloud](#adcloud)
-* [Target Standard/Premium 19.5.1](#target)
+* [Target Standard/Premium 19.6.1](#target)
 * [Magento](#magento)
 * [Primetime](#primetime)
 
@@ -31,21 +33,11 @@ New features and fixes in the Adobe Experience Cloud.
 
 ### Adobe Experience Platform release notes
 
-Version 1.0, May 15, 2019
-
 * See [Experience Platform release notes](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes-20190515.md) on Adobe.io for the latest updates to Experience Platform.
 
 ### Experience Platform Launch
 
 * See [Experience Platform Launch](https://docs.adobelaunch.com/) for the latest information.
-
-### Experience Cloud ID Service
-
-Releasing **May 13, 2019**
-
-* Visitor API 4.3.0 support
-* ITP 2.1 support.
-* Fixed an issue regarding secureCookie configuration.
 
 ## Analytics {#analytics}
 
@@ -60,32 +52,32 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 
 | Feature    | Description  |
 | -----------| ---------- |  
-| [!DNL AppMeasurement Version 2.14.0] <ul><li>Fixed issues with management of the state of tracker parameters when multiple hits are pending. (AN-176931, AN-176629, DTM-12758)</li><li>Updated AppMeasurement to include Visitor.js 4.3.0 (AN-180049)</li></ul> |
-| [!DNL Analysis Workspace]: New _Include Repeat Instances_ Flow visualization setting  | The _Include Repeat Instances_ flow setting gives you the option to include or exclude repeated instances, such as Page Reloads. Additionally, all Flow visualizations are now based on instances only. |  
-| [!DNL Ad Hoc Analysis]: Compatibility with Java 11  | Ad Hoc Analysis is now compatible with Java 11. Learn how to run [Ad Hoc Analysis on Java 11](https://marketing.adobe.com/resources/help/en_US/dsc/adhoc-java.html).|
-| **Data Collection:** New s_ecid cookie  | Added a new first-party server cookie, s_ecid, in which data collection stores the visitor's ECID. |
+| **Segmentation** | New attribution models for dimensions in segmentation:<ul><li>Repeating (Default): Includes instances + persisted values for the dimension.</li><li>Instance: Includes instances for the dimension.</li><li>Non-repeating instance: Includes unique instances (non-repeating) for the dimension.</li></ul>|
+| **Segmentation** | New segment operators: **[!UICONTROL Equals Any of]** and **[!UICONTROL Does not Equal Any of]**. |
+| **Debugger** | When logged in with your Adobe ID, you now have the option to retrieve post-processed hits in the Experience Cloud Debugger. Post-processed hits are server calls after they have gone through [!UICONTROL Processing Rules] and VISTA Rules, letting you validate [!UICONTROL Processing Rules] and your VISTA rules. **Note**: If you are using A4T (SupplementalDataID) the post-processing data will can take a few minutes to come back. |
+| **Analysis Workspace:** | Added new out-of-the-box filters to the left rail search. Beyond what you see today (Dimensions, Metrics, Approved, etc.), new filters such as Calculated Metrics, Customer Attributes, eVars, Props, Video, etc. were added to make it easier to find the components you need. |  
 
 **Analysis Workspace Fixes**
 
-* Fixed an issue affecting **[!UICONTROL Time Spent on Page]**. [!DNL Analysis Workspace] reports will no longer use **[!UICONTROL Page Name]** when calculating **[!UICONTROL Time Spent]** buckets, enabling granular and bucketed hits to be counted. (AN-140479)
-* Fixed Line visualization performance issues as part of a larger effort to improve [!DNL Analysis Workspace] performance. (AN-174878)
-* Fixed an issue with lack of UTF-8 encoding in downloaded .csv files. (AN-178393)
-* Fixed issues with slow [!DNL Analysis Workspace] project performance. (AN-177710)
-* Fixed Line visualization display issues with small ranges in the granularity of the y-axis. (AN-176467)
+* Fixed an issue with localized Japanese date information in [!DNL Analysis Workspace] visualizations. (AN-180114)
+* Fixed an issue that occurred after copying and pasting dimension items. Subsequent searches on the item resulted in an error. (AN-177394)
+* Fixed an issue with the edit option missing in segment panels within freeform tables. (AN-171703)
+* Fixed an issue with **[!UICONTROL Set as Landing Page]** feature not working when shared with a large set of recipients. (AN-163922)
+* Fixed an issue where strings got vertically clipped in Real-time reports. (AN-175980)
 
 **Other Analytics Fixes**
 
-* [!DNL Audience Analytics]: Fixed an issue that occurred after an audience name was changed in [!DNL Audience Manager (AAM)] – the updated name was not reflected in Audience Analytics. (AN-176237)
-* Fixed an issue that prevented users from saving [!DNL Analytics segments in [!DNL Audience Manager]. This was caused by existing AAM folders with mixed uppercase and lowercase names. We now treat all folders as case insensitive so that they will sync. (AN-177934)
-* Fixed an issue that occurred when users logged in to [!DNL Analytics] via the [!DNL Experience Cloud] and then the session timed out. When resuming the session, the user was redirected to a faulty URL. (AN-176812)
-* Fixed an issue with time zone offsets in [!DNL Data Warehouse] requests. (AN-177585)
+* Fixed an issue with Admin users being unable to enable **[!UICONTROL Success Events]**. (AN-176689)
+* Fixed an issue that occurred when creating an alert with the **[!UICONTROL Exit Rate]** metric. (AN-177476)
 
 ### Important notices for Analytics administrators {#aa-notices}
 
 | Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- |
-| Upcoming support changes for **[!UICONTROL Date-Enabled]** and **[!UICONTROL Numeric 2 Classifications]** | Updated May 28, 2019 | The ability to import Numeric 2 and Date-Enabled classifications will be removed from the codebase. This change will take effect with the July 2019 Maintenance Release. If you have Numeric or Date-Enabled columns in your import file, those cells will be silently ignored, and any other data within that file will be imported as normal. <br/>Existing classifications can still be exported through the standard classification workflow, and will continue to be available in reporting. |
-|Upcoming change to _Report Total_ calculations | Updated May 2, 2019 | On **June 13, 2019**, Adobe Analytics will make _Report Total_ calculations consistent across all dimensions and metrics. This will result in a change to the totals for some reports (typically, Prop or Customer Attributes reports). Prior to this change, some Report Totals inconsistently included or excluded the _Unspecified_ line item in the total, regardless of whether _Unspecified_ appeared in the report. <br/>As of June 13, 2019, _Unspecified_ will always appear in the report total, even if it does not appear as a line item in the report. Additionally, segments using _exists_ or _does not exist_ logic may see different results for some dimensions after this change. This change will affect Analysis Workspace, Reports & Analytics, Ad Hoc Analysis, Report Builder, and the Reporting API. |
+| Classification rule builder limits | Added June 5, 2019 | These limits are not new, but have been added to the documentation [here](https://marketing.adobe.com/resources/help/en_US/reference/classification_rule_builder.html).|
+| New segment operator limits | Added May 31, 2019 | Starting on July 18, 2019, the segment operators "contains any of", "does not contain any of", "contains all of" and "does not contain all of" will be limited to 100 words per input field. The limit will be applied to all new and modified segments after this date. Existing segments that exceed the limit will continue to be supported, but cannot be modified or saved until the input field is reduced. These limits are being applied as part of a continued effort to improve query performance. |
+| Upcoming support changes for **[!UICONTROL Date-Enabled]** and **[!UICONTROL Numeric 2 Classifications]** | Updated May 28, 2019 | The ability to import Numeric 2 and Date-Enabled classifications has been removed from the codebase. This change will take effect with the July 2019 Maintenance Release. If you have Numeric or Date-Enabled columns in your import file, those cells will be silently ignored, and any other data within that file will be imported as normal. <br/>Existing classifications can still be exported through the standard classification workflow, and will continue to be available in reporting. |
+| Upcoming change to _Report Total_ calculations | Updated May 2, 2019 | On **June 13, 2019**, Adobe Analytics will make _Report Total_ calculations consistent across all dimensions and metrics. This will result in a change to the totals for some reports (typically, Prop or Customer Attributes reports). Prior to this change, some Report Totals inconsistently included or excluded the _Unspecified_ line item in the total, regardless of whether _Unspecified_ appeared in the report. <br/>As of June 13, 2019, _Unspecified_ will always appear in the report total, even if it does not appear as a line item in the report. Additionally, segments using _exists_ or _does not exist_ logic may see different results for some dimensions after this change. This change will affect Analysis Workspace, Reports & Analytics, Ad Hoc Analysis, Report Builder, and the Reporting API. |
 | Update to CSV downloads from [!DNL Analysis Workspace]| April 10, 2019 | Starting on April 11, 2019, several changes were made to **[!UICONTROL CSV downloads]** (and **[!UICONTORL Copy to Clipboard]**) from [!DNL Analysis Workspace] to remove formatting from exported data.  <ul><li>The thousands separator is no longer included. The decimal separator will continue to be included, and will adhere to the format defined under **[!UICONTROL Components > Report Settings > Thousands Separator]**. Note: Numeric values that use a comma as the decimal separator will continue to be quoted in the exported CSV.</li><li>No currency symbols will be shown.</li><li>No percent symbols will be shown. Percentages will be in decimal form. E.g., 75% will be represented as 0.75.</li><li>Time will be shown in seconds.</li><li>Cohort tables will show raw values only; percentages will be removed.</li><li>If a number is invalid, an empty cell will be displayed.</li></ul>|
 | Upcoming change to the [!DNL Analysis Workspace] Debugger command | April 4, 2019 | The Console command to turn on the [!DNL Analysis Workspace] Debugger is changing to adobeTools.debug.includeOberonXml on **June 13, 2019**. adobe.tools.debug.includeOberonXml will cease to function after that date. |
 | Mobile browser version numbers | February 7, 2019 | Starting January 8, 2019, we changed the truncation level for mobile browser version numbers from 2 to 1. From that date forward, versions only display the first two levels (e.g. _Firefox 64.0.2_ is now reported as _Firefox 64.0_). |
@@ -98,14 +90,17 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 
 ## Audience Manager {#aam}
 
-| Feature    | Description  |
-| -----------| ---------- |  
-| [IP Address Obfuscation](https://marketing.adobe.com/resources/help/en_US/aam/ip-obfuscation.html)  | Your company may desire to obfuscate IP address in many countries due to global privacy regulations. Audience Manager allows you to obfuscate visitor IP addresses on a global or country-by-country basis. |  
-| [Custom Partner Integrations - Oracle Data Cloud](https://marketing.adobe.com/resources/help/en_US/aam/custom-partner-integrations.html)  | This page lists custom integrations between Audience Manager and data partners. Audience Manager ingests cookie and mobile ID data from the Oracle Data Cloud for Audience Marketplace via inbound data files. The custom integration specifications described in this page refer only to inbound data files that contain mobile IDs (IDFA and Android Device IDs). |
-
 **Fixes, Enhancements, and Deprecations**
 
-* We added two new columns to the General Reports for Destinations. You can now see the Start Date and the End Date for a segment mapping to a destination. (AAM-44781)
+* Audience Manager now only counts active algorithmic models against the usage limit.
+* Resolved an issue causing algorithmic model reach not to be displayed for traits that use the corresponding model.
+* Resolved an issue causing the contents of trait folders not to be displayed then the folder names contained parantheses and/or brackets.
+* Resolved an issue causing trait sorting to fail when selecting only one trait type.
+* Resolved an issue causing the trait folder tree to collapse to the [!UICONTROL All traits] view every time you created or update a new subfolder.
+* Resolved an issue causing the VIEW_DATASOURCES permission to be required when attempting to delete a partner.
+* Resolved an issue causing the [!UICONTROL Search] box in the [!UICONTROL Segments] page to search in all folders instead of the selected one.
+* Resolved an issue blocking the [!UICONTROL Exclude Traits] table from being sorted through the header controls, when creating a new algorithmic model.
+* Resolved an issue causing Audience Manager to crash when running any report with empty interval dates.
 
 ## Experience Manager {#aem}
 
@@ -113,45 +108,95 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 
 ### Product releases
 
-**AEM 6.5**
+**Cloud Manager 2019.5.0**
 
-AEM 6.5, available as of April 8, 2019, is an upgrade release to the AEM 6.4 code base. Our latest updates to AEM 6.5 give you instant access to exciting improvements that drive your business forward even faster.
+The latest Cloud Manager release (2019.5.0) does not contain significant functional changes though it delivers a couple of bug fixes.
 
-* [What's New in Adobe Experience Manager 6.5](https://www.adobe.com/marketing/experience-manager/new.html)
-* [Release Notes for Adobe Experience Manager 6.5](https://helpx.adobe.com/experience-manager/6-5/release-notes.html)
+* [Release Notes for Cloud Manager 2019.5.0](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
 
-**Cloud Manager 2019.4.0**
+**XML Documentation for AEM**
 
-The latest Cloud Manager release (2019.4.0 released April 18, 2019) adds a localized user interface in French, German, and Japanese. Also, deployment steps were improved.
+The 3.3 release for the XML Documentation solution is now available. See the following release notes:
 
-* [Release Notes for Cloud Manager 2019.4.0](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
+***Advanced map features***
+* Add topic references by using either drag and drop from the repository view or using the horizontal bar and the element catalog.
+* Add metadata on a topic ref, chunk, like nav title, format, scope, and so on.
+* Clicking on the topic ref should open the topic in the editor (preview mode if not checked out and disable edit with checkout is enabled).
+* Add Topic Head and Topic Group.
+* Add bookmaps with Frontmatter (Topics, Preface, book list, notices, and so on) and Backmatter (Topics, Appendices, glossary, and so on).
+* In Author mode, broken links are highlighted, breadcrumbs are shown, and Full Tags View is available.
+* Ability to set map level attributes.
+* Ability to set Title/BookTitle.
+* Support for Reltables with the ability to add rel header, columns, drag/drop topics from the map and repository to the rel table, set linking, scope, and other parameters for the links, re-order links within the cell.
+* Toolbar widget to insert before, insert after and insert element.
+* Highlight if a condition is applied on a topic.
+* Ability to edit multiple maps at a time (each map opens as a tab on the same browser).
+* In the map panel and the repository view, on hover - show full topic title and file name.
 
-### Product maintenance
+***Full Tags View***
 
-**AEM 6.4.4.0**
+* Insert new tags between two elements.
+* Copy and paste tags.
+* Drag and drop tags at allowed and not allowed positions within a file.
+* Expand and collapse tags.
 
-AEM 6.4, Service Pack 4 (6.4.4.0 released April 04, 2019) is an important update that includes key customer fixes released since the general availability of AEM 6.4, April 2018.
+***DITA-specific search enhancements***
 
-[Release Notes for AEM 6.4 Service Pack](https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html)
-[AEM Forms releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+* Provided a serialization tool to reindex selected content
+* Users can use `contains` and `exact match` in their search. They can also search using the following parameters. :
+    * Asset Metadata. For example, `file name`, `title`, or any custom metadata defined by the customer.
+    * DITA Attribute Name and its value. For example, `platform=winOS`.
+    * DITA Element Name and its value. For example, `author = Joe Smith`.
+    * DITA Element Name and its applied attribute. For example, table with product=SpaceBase attribute name/value pair applied to it.
+    * DITA topic and map metadata.
+    * DITA information type. For exam[ple, map, topic, concept, and so on.
+    * Root Folder Path where the asset is located.
+    * Document state.
+    * Checked-out status.
+    * Modified date range.
+    * CQ tags.
+* It is possible to create complex queries by combining one or more of the above search parameters.
 
-**AEM S3 Connector**
+***Review feature changes***
 
-AEM instances with old versions of S3 Datastore connector may become unavailable due to S3 access failures after the end of support for Signature Version 2 on June 24, 2019. As an AEM customer, Adobe recommends that you verify the version of S3 Datastore connector that you are using. If necessary, update to a recent version.
+* Tips for a reviewer:
+    * Import all comments and incorporate the changes for on-going reviews before upgrading to the 3.3 build.
+    * Ensure that multiple tabs are not open for the editor.
+    * Ensure that the Full Tags view is not enabled.
+    * Do not switch between Author mode and Source mode while the review is in progress.
+* Ability to specify the version of my content which is to be reviewed.
+* Ability to choose the versions of the selected topics based on a baseline, date, label or the currently active version, or specify the versions for each of the topics while creating a review.
+* Ability to send same topic/map for review multiple times and author can access all reviews in review panel of editor.
+* As an initiator, ability to push a later version of the content for the reviewers. The reviewers will get a notification when a new content is pushed for review.
+* As an author, user will have the ability to see the review comments for all versions of their content in the review panel of the editor. Authors will be able to filter the comments by version number.
+* As an author user will have the ability to view and import comments on an older version of the content in the editor which was under review.
 
-See [The Impact of AWS Signature Version 2 Deprecation for Amazon S3](https://helpx.adobe.com/experience-manager/kb/the-impact-of-aws-signature-version-2-deprecation-for-amazon-s3.html)
+***Miscellaneous***
 
-### Self-Help
+* Create a new folder, topic, or map from the Repository view.
+* View in Assets UI &ndash; Add a menu option for both folders and topics - "View in Assets UI". This option opens the Assets UI where the user can see the content tree on the left and all the files in List view on the right with all the assets menus on the top.
+* A Review dashboard is now available as a Tile on the DITA project which tracks the review on a Reviewer Level and a Review Task Level.
+* Added ability to convert IDML to DITA.
+* Provide API to apply given label on all specified versions in a baseline.
+* Enable an event after XHTML/DOCX to DITA conversion is complete. You can use this event to add specialized attributes to the converted content, or for any other custom logic that you need to implement.
+* Baseline Performance Tab improvements were made. User needs to run a script on all existing baselines first.
+* Enhancements were made to the XHTML to DITA conversion.
+* DITA-OT Offloading for Publishing Optimization.
+* Fixed sorting on the Type column in List view.
+* Ability to now handle cascaded styles in Word to DITA conversion.
 
-**Modernizing your AEM Sites codebase**
+### Community
 
-Learn how to leverage the latest AEM technology to modernize your AEM Sites codebase. [Modernizing Your Existing Adobe Experience Manager Sites Codebase](https://expleague.azureedge.net/labs/L761/index.html)
+**[Cloud Manager Skill Builder webinar series](https://cloudmanagerskillbuilder.experienceleague.adobeevents.com/)**
 
-**AEM Rich Text Editor – Deep Dive**
+Interested in learning how DevOps processes can simplify daily activities for Adobe Experience Manager management in the cloud? Cloud Manager provides the first-generation of cloud-native functionality for Adobe Experience Manager that enables cloud agility, whether your organization is beginning its DevOps transformation or is looking for strategies to augment existing DevOps processes. 
 
-Learn best practices around the rich configurations and use of the Rich Text Editor in AEM.
+[In this monthly series](https://cloudmanagerskillbuilder.experienceleague.adobeevents.com/), you can learn directly from Adobe’s product team about how to get started and use Cloud Manager features to simplify Adobe Experience Manager management in the cloud.
 
-See [AEM Rich Text Editor (RTE) Deep Dive](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/AEM-Rich-Text-Editor-RTE-Deep-Dive1.html)
+You will learn the following:
+* How to get started on Cloud Manager and setup the CI/CD Pipeline
+* How Autoscaling and Transparent Service Delivery work and can simplify Adobe Experience Manager environment management in the cloud
+* How to use the Cloud Manager API and integrate existing DevOps processes
 
 ### Additional resources
 
@@ -168,46 +213,53 @@ See [AEM Rich Text Editor (RTE) Deep Dive](https://helpx.adobe.com/experience-ma
 
 Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
 
-* Campaign Classic 18.10.4 – build 8983
-* Campaign Classic 18.10.5 – build 8984
+### Campaign Classic 19.1 Spring Release
+
+| Functionality | Description |
+| ------------- | ----------- |
+| Control Panel | To increase efficiency in your work as an Admin user, manage settings of your SFTP servers by monitoring storage, whitelisting IP addresses, and installing SSH keys for each instance. Please note Control Panel is only available for customers hosted on AWS as of today. [Log in through the Experience Cloud](https://experiencecloud.adobe.com/campaign/controlpanel/). <br> For more information, refer to the [detailed documentation](https://helpx.adobe.com/campaign/kb/control-panel.html) and the [how-to video](https://helpx.adobe.com/campaign/kt/acc/using/acc-control-panel-video-use.html). |
+| Audit Trail | As admin, increase productivity by monitoring and managing changes made within the Adobe Campaign Classic instance. The Audit Trail will log actions made on Source Schema, Workflow and Option. You can quickly see if an element has been created, modified or deleted.<br>For more information, refer to the [detailed documentation](https://docs.campaign.adobe.com/doc/AC/en/PRO_Production_procedures_Audit_trail.html) and the [how-to video](https://helpx.adobe.com/campaign/kt/acc/using/acc-audit-trail-feature-video-use.html).|
+| Guardrail, Robustness & Scalability | A series of improvements has been added to Campaign Classic. Guardrail, robustness and scalability improvements are listed in [Campaign Classic Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html). |
+| Secure SMS Messaging (TLS) | Secured SMS is now supported through the Extended Generic SMPP Connector. This allows an encrypted connection to the provider. <br> For more information, refer to the [detailed documentation](https://helpx.adobe.com/campaign/kb/sms-connector-protocol-and-settings.html). |
+| Compatibility Matrix Update | With this new version, Adobe Campaign now supports the following database systems. Refer to the [Compatibility Matrix](https://helpx.adobe.com/campaign/kb/compatibility-matrix.html) <ul><li>Oracle 18c</li><li>MySQL 5.7 (FDA)</li><li>SQL Server 2017</li><li>Teradata 16 (FDA)</li><li>PostgreSQL 11</li></ul>|
 
 See [Adobe Campaign Classic Release Notes](http://docs.campaign.adobe.com/doc/AC/en/RN.html) for fixes and improvements.
+
+### Campaign Standard 19.2 Spring Release
+
+| Functionality | Description |
+| ------------- | ----------- |
+| Control Panel | To help increase efficiency in your work as an Admin user, you can easily monitor capacity and manage settings of your instances (starting with SFTP servers management). <br> For more information, refer to the [detailed documentation](https://helpx.adobe.com/campaign/kb/control-panel.html) and the [how-to video](https://helpx.adobe.com/campaign/kt/acs/using/acs-control-panel-video-use.html). |
+| Local notifications | Local notification messaging allows you to inform your users when new data becomes available within their mobile applications, even without having access to the Internet or the mobile application running in the foreground. Local notifications are triggered by a mobile application on a particular time and depending on an event.<br>For more information, refer to the [detailed documentation](https://helpx.adobe.com/campaign/standard/channels/using/customizing-an-in-app-message.html#customizing-a-local-notification-message-type). |
+| Workflow enhancement - Add a payload to external signal activity | Start a workflow with a payload when defined conditions are successfully met from another workflow or a REST API call to integrate with your external systems. This also includes a new test activity where you can run tests on this functionality. <br>For more information, refer to the [detailed documentation](https://helpx.adobe.com/campaign/standard/channels/using/customizing-an-in-app-message.html#customizing-a-local-notification-message-type) and the [how-to video](https://helpx.adobe.com/campaign/kt/acs/using/acs-external-signal-activity-feature-video-use.html).|
+| Landing Pages enhancement - Google reCAPTCHA | Leverage Google reCAPTCHA to prevent spam on your landing pages without requiring any action from your customers. <br>For more information, refer to the [detailed documentation](https://helpx.adobe.com/campaign/standard/channels/using/designing-a-landing-page.html#setting-google-recaptcha). |
 
 For product documentation, see:
 
 * Adobe Campaign Standard: [Documentation](https://helpx.adobe.com/support/campaign/standard.html) - [Release Notes](https://helpx.adobe.com/campaign/standard/rn/using/release-notes.html) - [Feature videos](https://helpx.adobe.com/campaign/kt/acs/index/acs-videos.html)
 * Adobe Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [Feature videos](https://helpx.adobe.com/campaign/kt/acc/index/acc-videos.html)
 
+## Mobile Services {#mobile}
+
+* TLS 1.0 has been disabled on all Adobe servers. For Android 4.x devices to connect to Adobe services through SSL, the SDK will now force TLS 1.1/TLS 1.2 when establishing a handshake.
+
 ## Advertising Cloud {#adcloud}
 
-| Feature    | Description  |
-| -----------| ---------- |  
-| Search Tools  | (Advertisers with Google Ads accounts) Advertising Cloud can optionally upload to Google Ads all conversion data it tracks for Google Ads campaigns that use the Advertising Cloud conversion tracking service. Daily uploads include the conversion value defined using the advertiser-level attribution model. All uploaded conversions are prefixed with "Adobe_ACS_" (such as "Adobe_ACS_Subscriptions" for the conversion "Subscriptions"). <br/> **Note:** The uploads won't include conversion data uploaded to Advertising Cloud from feed files. |
-| Search Campaigns | The menu in **Search** > **Campaigns** > **Campaigns** is now hierarchical, with Campaigns under Accounts; Ad Groups under Campaigns; and Keywords (with submenu), Ads, Product Groups (Live views only), Placements (with submenu), and Auto Targets under Ad Groups.<br/>In the Live views, Audiences and Extensions are at the same level as Accounts, with their own submenus.  | 
+Updated:  June 5, 2019, for June 8 release
+ 
+| Product    | Feature    | Description  |
+| -----------| ---------- | ----------  |
+| Search Campaigns, Label Classifications, and Constraints | Keyboard shortcuts | You can now use <b>Shift+Click</b> to select multiple, consecutive rows and <b>Ctrl+Click</b> to select multiple, non-consecutive rows. |
+|  | Select All vs. Select All on Page | In data tables, when you select the top check box to select all rows, the new default is to select all of the rows on the page (based on whether you're viewing 25 rows, 50 rows, 100 rows, 200 rows, or Continuous Scroll). You still have an option to select all rows available. |  
+| Default views, custom views, and stand-alone column customization settings | Column re-ordering | New Up and Down buttons allow you to reorder columns. You can still drag and drop columns to reorder them, like you could previously. |
 
-## Target Standard/Premium 19.5.1 {#target}
+## Target Standard/Premium 19.6.1 (June 25, 2019) {#target}
 
-This release includes the following features, changes, and enhancements:
+Refer to the Adobe Target Release Notes for the latest release information:
 
-(The issue numbers in parentheses are for internal Adobe use.)
+[Target release notes (prerelease)](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html)
 
-### Feature updates
-
-|Feature / Enhancement | Description |
-| --- | --- |
-|Single Page App Visual Experience Composer (SPA VEC)|The SPA VEC includes the following enhancements to make your work quicker and more efficient:<ul><li>You can now cancel the loading of a website in the VEC to unblock editing of an activity. This enhancement is useful, for example, if you want to make a small edit to the activity, review its settings, or add custom code and you don't want to wait for the site to load. (TGT-33872)</li><li>You can perform many actions before the page loads in the VEC, or even if the page fails to load altogether (for example, custom code is no longer operational). Actions that cannot be edited before the site loads are disabled in the Target UI. (TGT-33851 & TGT-34149)</li></ul>|
-|Automated Personalization (AP) & Auto-Target activities | You can select an experience to be used as control while creating an AP or Auto-Target activity. This feauture lets you route the entire control traffic to a specific experience, based on the traffic allocation percentage configured in the activity. You can then evaluate the performance of the personalized deliveries against the control experience. (TGT-26572)|
-|Recommendations | You can use the Recommend Previously Purchased Items toggle while creating Recently Viewed Items logic. (TGT-34030)|
-
-### Enhancement, fixes, and changes
-
-* Toolbar icons display appropriately after you cancel loading of a page within the VEC. If specific actions cannot be performed until after the page is fully loaded, the associated toolbar icons are disabled. (TGT-33811)
-* You can now list and navigate more easily through offer folders in the Asset picker instead of navigating through a flat folder hierarchy. (TGT-33725)
-
-Refer to the [Adobe Target Release Notes](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) for the latest release information about the following products:
-
-* Target Standard and Target Premium
-* Recommendations Classic
+[Target release notes (current)](https://docs.adobe.com/content/help/en/target/using/release-notes/release-notes.html)
 
 ## Magento {#magento}
 
