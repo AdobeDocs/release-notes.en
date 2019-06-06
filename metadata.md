@@ -2,14 +2,14 @@
 cloud: experience-cloud
 solution-title: Experience Cloud
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud.html
-solution-icon: assets/experience-cloud-logo-24.png
-getting-started-title: Experience League
+solution-icon: assets/assets/experience-cloud-logo-24.png
+getting-started-title: Getting Started
 getting-started-url: https://landing.adobe.com/experience-league/
 tutorials-title: Tutorials
 tutorials-url: https://helpx.adobe.com/experience-cloud/tutorials.html
 mini-toc-levels: 1
 git-repo: https://github.com/AdobeDocs/release-notes.en
-index: no
+index: yes
 ---
 
 # Metadata for internal use
@@ -18,7 +18,7 @@ The metadata.md file includes repo-level metadata that passes through to user gu
 
 | metadata | what it does |
 |--- |--- |
-| solution-title | Used in article header as link |
+| solution-title | Used in article header as link. Keep it short. |
 | solution-hub-url | Opens helpx hub page |
 | solution-icon | Displays solution icon next to solution title. Not yet implemented |
 | getting-started-title | Rarely used when Tutorials is not appropriate |
