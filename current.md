@@ -95,7 +95,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 * Resolved an issue causing the contents of trait folders not to be displayed then the folder names contained parantheses and/or brackets.
 * Resolved an issue causing trait sorting to fail when selecting only one trait type.
 * Resolved an issue causing the trait folder tree to collapse to the [!UICONTROL All traits] view every time you created or update a new subfolder.
-* Resolved an issue causing the VIEW_DATASOURCES permission to be required when attempting to delete a partner.
+* Resolved an issue causing the [!DNL VIEW_DATASOURCES] permission to be required when attempting to delete a partner.
 * Resolved an issue causing the [!UICONTROL Search] box in the [!UICONTROL Segments] page to search in all folders instead of the selected one.
 * Resolved an issue blocking the [!UICONTROL Exclude Traits] table from being sorted through the header controls, when creating a new algorithmic model.
 * Resolved an issue causing Audience Manager to crash when running any report with empty interval dates.
