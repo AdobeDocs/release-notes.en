@@ -223,7 +223,7 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 | Secure SMS Messaging (TLS) | Secured SMS is now supported through the Extended Generic SMPP Connector. This allows an encrypted connection to the provider. <br> For more information, refer to the [detailed documentation](https://helpx.adobe.com/campaign/kb/sms-connector-protocol-and-settings.html). |
 | Compatibility Matrix Update | With this new version, Adobe Campaign now supports the following database systems. Refer to the [Compatibility Matrix](https://helpx.adobe.com/campaign/kb/compatibility-matrix.html) <ul><li>Oracle 18c</li><li>MySQL 5.7 (FDA)</li><li>SQL Server 2017</li><li>Teradata 16 (FDA)</li><li>PostgreSQL 11</li></ul>|
 
-See [Adobe Campaign Classic] Release Notes](http://docs.campaign.adobe.com/doc/AC/en/RN.html) for fixes and improvements.
+See [Adobe Campaign Classic Release Notes](http://docs.campaign.adobe.com/doc/AC/en/RN.html) for fixes and improvements.
 
 ### [!DNL Campaign Standard] 19.2 Spring Release
 
