@@ -16,7 +16,7 @@ New features and fixes in the Adobe Experience Cloud.
 **Release date: June 13, 2019**
 
 * [Adobe Experience Platform](#platform)
-* [Analytics](#analytics)
+* [Analytics](#analytics) **(Updated June 24, 2019)**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -40,14 +40,14 @@ New features and fixes in the Adobe Experience Cloud.
 
 New features and fixes in Adobe Analytics:
 
-* [New features and fixes in Adobe Analytics](#aa-features)
-* [Important notices for Analytics administrators](#aa-notices)
+* [New features and fixes in Adobe Analytics](#aa-features) 
+* [Important notices for Analytics administrators](#aa-notices) **(Updated June 24, 2019)**
 
 For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
 
-### New features and fixes in Adobe Analytics {#aa-features}
+### New features and fixes in Adobe Analytics {#aa-features} 
 
-| Feature    | Description  |
+| Feature/Enhancement    | Description  |
 | -----------| ---------- |  
 | **Segmentation** | New attribution models for dimensions in segmentation:<ul><li>Repeating (Default): Includes instances + persisted values for the dimension.</li><li>Instance: Includes instances for the dimension.</li><li>Non-repeating instance: Includes unique instances (non-repeating) for the dimension.</li></ul> [More](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/seg-build.html) |
 | **Segmentation** | New segment operators: **[!UICONTROL Equals Any of]** and **[!UICONTROL Does not Equal Any of]**. [More...](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segment-reference/seg-operators.html) |
@@ -73,7 +73,8 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 ### Important notices for Analytics administrators {#aa-notices}
 
 | Notice | Date Added or Updated  | Description |
-| -----------| ---------- | ---------- |
+| -----------| ---------- | ---------- | 
+| Audit Logs UI changes | Added June 24, 2019 | In the API `Logs.GetUsageLog`, the following changes were made to the UI: <ul><li>The response headers in the API were changed: a) from `timestamp` to `dateCreated`, b) from `login` to `companyLogin`, c) from `event_num` to `eventType`, d) from `event_type` to `event_type`, e) from `ip_address` to `ipAddress`, f) from `report_suite` to `rsid`, g) from `event_details` to `logText`. </li><li>The timestamp format changed from Unix timestamp to ISO 8601 time</li><li>The audit logs results now contain report suite Id instead of report suite name. </li></ul> |
 | Classification rule builder limits | Added June 5, 2019 | These limits are not new, but have been added to the documentation [here](https://marketing.adobe.com/resources/help/en_US/reference/classification_rule_builder.html).|
 | New segment operator limits | Added May 31, 2019 | Starting on July 18, 2019, the segment operators "contains any of", "does not contain any of", "contains all of" and "does not contain all of" will be limited to 100 words per input field. The limit will be applied to all new and modified segments after this date. Existing segments that exceed the limit will continue to be supported, but cannot be modified or saved until the input field is reduced. These limits are being applied as part of a continued effort to improve query performance. |
 | Upcoming support changes for **[!UICONTROL Date-Enabled]** and **[!UICONTROL Numeric 2 Classifications]** | Updated May 28, 2019 | The ability to import Numeric 2 and Date-Enabled classifications has been removed from the codebase. This change will take effect with the July 2019 Maintenance Release. If you have Numeric or Date-Enabled columns in your import file, those cells will be silently ignored, and any other data within that file will be imported as normal. <br/>Existing classifications can still be exported through the standard classification workflow, and will continue to be available in reporting. |
