@@ -83,6 +83,7 @@ New features and fixes in Adobe Analytics:
 For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
 
 ### New Features in Adobe Analytics {#aa-features}
+
 * [New features and fixes in Adobe Analytics](#aa-features) 
 * [Important notices for Analytics administrators](#aa-notices)  
 
