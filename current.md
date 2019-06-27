@@ -6,23 +6,20 @@ last-update: June 2019
 author: mfrei
 ---
 
-# Early Access - Adobe Experience Cloud release notes
+# Adobe Experience Cloud release notes
 
 New features and fixes in the Adobe Experience Cloud.
-
->[!IMPORTANT]
->This page contains pre-release content and is subject to change prior to the planned release.
 
 >[!NOTE]
 >Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date.
 
-**Release date: June 2019**
+**Release date: June 13, 2019**
 
 * [Adobe Experience Platform](#platform)
-* [Analytics](#analytics)
+* [Analytics](#analytics)   **(Updated June 27, 2019)**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [Campaign](#ac)
+* [!DNL Campaign](#ac)
 * [Mobile Services](#mobile)
 * [Advertising Cloud](#adcloud)
 * [Target Standard/Premium 19.6.1](#target)
@@ -33,29 +30,32 @@ New features and fixes in the Adobe Experience Cloud.
 
 ### Adobe Experience Platform release notes
 
-* See [Experience Platform release notes](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes-20190515.md) on Adobe.io for the latest updates to Experience Platform.
+* See [Adobe Experience Platform release notes](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes-20190515.md) on Adobe.io for the latest updates to [!DNL Experience Platform].
 
-### Experience Platform Launch
+### [!DNL Experience Platform Launch]
 
-* See [Experience Platform Launch](https://docs.adobelaunch.com/) for the latest information.
+* See [!DNL Experience Platform Launch](https://docs.adobelaunch.com/) for the latest information.
 
 ## Analytics {#analytics}
 
 New features and fixes in Adobe Analytics:
 
-* [New features and fixes in Adobe Analytics](#aa-features)
-* [Important notices for Analytics administrators](#aa-notices)
+* [New features and fixes in Adobe Analytics](#aa-features) 
+* [Important notices for Analytics administrators](#aa-notices)   **(Updated June 27, 2019)**
 
 For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
 
-### New features and fixes in Adobe Analytics {#aa-features}
+### New features and fixes in Adobe Analytics {#aa-features} 
 
-| Feature    | Description  |
+| Feature/Enhancement    | Description  |
 | -----------| ---------- |  
-| **Segmentation** | New attribution models for dimensions in segmentation:<ul><li>Repeating (Default): Includes instances + persisted values for the dimension.</li><li>Instance: Includes instances for the dimension.</li><li>Non-repeating instance: Includes unique instances (non-repeating) for the dimension.</li></ul>|
-| **Segmentation** | New segment operators: **[!UICONTROL Equals Any of]** and **[!UICONTROL Does not Equal Any of]**. |
+| **Segmentation** | New attribution models for dimensions in segmentation:<ul><li>Repeating (Default): Includes instances + persisted values for the dimension.</li><li>Instance: Includes instances for the dimension.</li><li>Non-repeating instance: Includes unique instances (non-repeating) for the dimension.</li></ul> [More](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/seg-build.html) |
+| **Segmentation** | New segment operators: **[!UICONTROL Equals Any of]** and **[!UICONTROL Does not Equal Any of]**. [More...](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segment-reference/seg-operators.html) |
 | **Debugger** | When logged in with your Adobe ID, you now have the option to retrieve post-processed hits in the Experience Cloud Debugger. Post-processed hits are server calls after they have gone through [!UICONTROL Processing Rules] and VISTA Rules, letting you validate [!UICONTROL Processing Rules] and your VISTA rules. **Note**: If you are using A4T (SupplementalDataID) the post-processing data will can take a few minutes to come back. |
-| **Analysis Workspace:** | Added new out-of-the-box filters to the left rail search. Beyond what you see today (Dimensions, Metrics, Approved, etc.), new filters such as Calculated Metrics, Customer Attributes, eVars, Props, Video, etc. were added to make it easier to find the components you need. |  
+| **Analysis Workspace:** | Added new out-of-the-box filters to the left rail search. Beyond what you see today (Dimensions, Metrics, Approved, etc.), new filters such as Calculated Metrics, Customer Attributes, eVars, Props, Video, etc. were added to make it easier to find the components you need. | 
+| **Analysis Workspace** |  We have added a warning to the Fallout visualization that will display when you add a segment as a touchpoint - certain invalid segment container combinations will lead to invalid Fallout diagrams, such as <ul><li>Using a visitor-based segment as a touchpoint inside a visitor-context Fallout visualization</li><li>Using a visitor-based segment as a touchpoint inside a visit-context Fallout visualization</li><li>Using a visit-based segment as a touchpoint inside a visit-context Fallout visualization</li></ul> <br> [More...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/fallout/compare-segments-fallout.html) </br>|
+| **Analytics Documentation Improvements** | Analytics documentation has been reorganized and now includes collaboration features that let you improve the content! You can log issues against the documentation and suggest edits. The doc set has moved to a [new domain](https://docs.adobe.com/content/help/en/analytics/landing/home.html). Redirects should be in place. |
+| **New Tech Notes User Guide** |  The [Tech Notes user guide](https://docs.adobe.com/content/help/en/analytics/technotes/home.html) is now available. Currently, it is geared towards helping users more experienced with third-party analytics tools, such as Google Analytics, to become more familiar with Adobe Analytics. The tech notes user guide will expand over the coming months to include additional content. | 
 
 **Analysis Workspace Fixes**
 
@@ -74,11 +74,13 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 
 | Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- |
+| Data Collection update | Added June 27, 2019 | All Adobe Analytics cookies with the “same-site-by-default-cookies” flag now have this flag set to `SameSite=None`. |
+| Audit Log UI changes | Updated June 25, 2019 | In the API `Logs.GetUsageLog`, the following changes were made to the UI: <ul><li>The response headers in the API were changed: a) from `timestamp` to `dateCreated`, b) from `login` to `companyLogin`, c) from `event_num` to `eventType`, d) from `event_type` to `event_type`, e) from `ip_address` to `ipAddress`, f) from `report_suite` to `rsid`, g) from `event_details` to `logText`. </li><li>The timestamp format changed from Unix timestamp to ISO 8601 time</li></ul><br>In the API as well as the Admin log UI, the audit logs results now contain report suite ID instead of report suite name. |
 | Classification rule builder limits | Added June 5, 2019 | These limits are not new, but have been added to the documentation [here](https://marketing.adobe.com/resources/help/en_US/reference/classification_rule_builder.html).|
 | New segment operator limits | Added May 31, 2019 | Starting on July 18, 2019, the segment operators "contains any of", "does not contain any of", "contains all of" and "does not contain all of" will be limited to 100 words per input field. The limit will be applied to all new and modified segments after this date. Existing segments that exceed the limit will continue to be supported, but cannot be modified or saved until the input field is reduced. These limits are being applied as part of a continued effort to improve query performance. |
 | Upcoming support changes for **[!UICONTROL Date-Enabled]** and **[!UICONTROL Numeric 2 Classifications]** | Updated May 28, 2019 | The ability to import Numeric 2 and Date-Enabled classifications has been removed from the codebase. This change will take effect with the July 2019 Maintenance Release. If you have Numeric or Date-Enabled columns in your import file, those cells will be silently ignored, and any other data within that file will be imported as normal. <br/>Existing classifications can still be exported through the standard classification workflow, and will continue to be available in reporting. |
 | Upcoming change to _Report Total_ calculations | Updated May 2, 2019 | On **June 13, 2019**, Adobe Analytics will make _Report Total_ calculations consistent across all dimensions and metrics. This will result in a change to the totals for some reports (typically, Prop or Customer Attributes reports). Prior to this change, some Report Totals inconsistently included or excluded the _Unspecified_ line item in the total, regardless of whether _Unspecified_ appeared in the report. <br/>As of June 13, 2019, _Unspecified_ will always appear in the report total, even if it does not appear as a line item in the report. Additionally, segments using _exists_ or _does not exist_ logic may see different results for some dimensions after this change. This change will affect Analysis Workspace, Reports & Analytics, Ad Hoc Analysis, Report Builder, and the Reporting API. |
-| Update to CSV downloads from [!DNL Analysis Workspace]| April 10, 2019 | Starting on April 11, 2019, several changes were made to **[!UICONTROL CSV downloads]** (and **[!UICONTORL Copy to Clipboard]**) from [!DNL Analysis Workspace] to remove formatting from exported data.  <ul><li>The thousands separator is no longer included. The decimal separator will continue to be included, and will adhere to the format defined under **[!UICONTROL Components > Report Settings > Thousands Separator]**. Note: Numeric values that use a comma as the decimal separator will continue to be quoted in the exported CSV.</li><li>No currency symbols will be shown.</li><li>No percent symbols will be shown. Percentages will be in decimal form. E.g., 75% will be represented as 0.75.</li><li>Time will be shown in seconds.</li><li>Cohort tables will show raw values only; percentages will be removed.</li><li>If a number is invalid, an empty cell will be displayed.</li></ul>|
+| Update to CSV downloads from [!DNL Analysis Workspace]| April 10, 2019 | Starting on April 11, 2019, several changes were made to **[!UICONTROL CSV downloads]** (and **[!UICONTROL Copy to Clipboard]**) from [!DNL Analysis Workspace] to remove formatting from exported data.  <ul><li>The thousands separator is no longer included. The decimal separator will continue to be included, and will adhere to the format defined under **[!UICONTROL Components > Report Settings > Thousands Separator]**. Note: Numeric values that use a comma as the decimal separator will continue to be quoted in the exported CSV.</li><li>No currency symbols will be shown.</li><li>No percent symbols will be shown. Percentages will be in decimal form. E.g., 75% will be represented as 0.75.</li><li>Time will be shown in seconds.</li><li>Cohort tables will show raw values only; percentages will be removed.</li><li>If a number is invalid, an empty cell will be displayed.</li></ul>|
 | Upcoming change to the [!DNL Analysis Workspace] Debugger command | April 4, 2019 | The Console command to turn on the [!DNL Analysis Workspace] Debugger is changing to adobeTools.debug.includeOberonXml on **June 13, 2019**. adobe.tools.debug.includeOberonXml will cease to function after that date. |
 | Mobile browser version numbers | February 7, 2019 | Starting January 8, 2019, we changed the truncation level for mobile browser version numbers from 2 to 1. From that date forward, versions only display the first two levels (e.g. _Firefox 64.0.2_ is now reported as _Firefox 64.0_). |
 | End of life for [!DNL Ad Hoc Analysis] | January 29, 2019 | On August 6, 2018, Adobe announced the intention to end-of-life [!DNL Ad Hoc Analysis]. An end-of-life date will be shared once available.<br/>For more information, including which versions of Java will be compatible during this period, visit [Discover Workspace](https://adobe.ly/discoverworkspace). |
@@ -97,7 +99,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 * Resolved an issue causing the contents of trait folders not to be displayed then the folder names contained parantheses and/or brackets.
 * Resolved an issue causing trait sorting to fail when selecting only one trait type.
 * Resolved an issue causing the trait folder tree to collapse to the [!UICONTROL All traits] view every time you created or update a new subfolder.
-* Resolved an issue causing the VIEW_DATASOURCES permission to be required when attempting to delete a partner.
+* Resolved an issue causing the [!DNL VIEW_DATASOURCES] permission to be required when attempting to delete a partner.
 * Resolved an issue causing the [!UICONTROL Search] box in the [!UICONTROL Segments] page to search in all folders instead of the selected one.
 * Resolved an issue blocking the [!UICONTROL Exclude Traits] table from being sorted through the header controls, when creating a new algorithmic model.
 * Resolved an issue causing Audience Manager to crash when running any report with empty interval dates.
@@ -209,23 +211,23 @@ You will learn the following:
 * [Scene7 Publishing System release notes](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Livefyre release notes](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
-## Campaign {#ac}
+## [!DNL Campaign] {#ac}
 
 Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
 
-### Campaign Classic 19.1 Spring Release
+### [!DNL Campaign Classic] 19.1 Spring Release
 
 | Functionality | Description |
 | ------------- | ----------- |
 | Control Panel | To increase efficiency in your work as an Admin user, manage settings of your SFTP servers by monitoring storage, whitelisting IP addresses, and installing SSH keys for each instance. Please note Control Panel is only available for customers hosted on AWS as of today. [Log in through the Experience Cloud](https://experiencecloud.adobe.com/campaign/controlpanel/). <br> For more information, refer to the [detailed documentation](https://helpx.adobe.com/campaign/kb/control-panel.html) and the [how-to video](https://helpx.adobe.com/campaign/kt/acc/using/acc-control-panel-video-use.html). |
 | Audit Trail | As admin, increase productivity by monitoring and managing changes made within the Adobe Campaign Classic instance. The Audit Trail will log actions made on Source Schema, Workflow and Option. You can quickly see if an element has been created, modified or deleted.<br>For more information, refer to the [detailed documentation](https://docs.campaign.adobe.com/doc/AC/en/PRO_Production_procedures_Audit_trail.html) and the [how-to video](https://helpx.adobe.com/campaign/kt/acc/using/acc-audit-trail-feature-video-use.html).|
-| Guardrail, Robustness & Scalability | A series of improvements has been added to Campaign Classic. Guardrail, robustness and scalability improvements are listed in [Campaign Classic Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html). |
+| Guardrail, Robustness & Scalability | A series of improvements has been added to [!DNL Campaign Classic]. Guardrail, robustness and scalability improvements are listed in [Adobe Campaign Classic Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html). |
 | Secure SMS Messaging (TLS) | Secured SMS is now supported through the Extended Generic SMPP Connector. This allows an encrypted connection to the provider. <br> For more information, refer to the [detailed documentation](https://helpx.adobe.com/campaign/kb/sms-connector-protocol-and-settings.html). |
 | Compatibility Matrix Update | With this new version, Adobe Campaign now supports the following database systems. Refer to the [Compatibility Matrix](https://helpx.adobe.com/campaign/kb/compatibility-matrix.html) <ul><li>Oracle 18c</li><li>MySQL 5.7 (FDA)</li><li>SQL Server 2017</li><li>Teradata 16 (FDA)</li><li>PostgreSQL 11</li></ul>|
 
 See [Adobe Campaign Classic Release Notes](http://docs.campaign.adobe.com/doc/AC/en/RN.html) for fixes and improvements.
 
-### Campaign Standard 19.2 Spring Release
+### [!DNL Campaign Standard] 19.2 Spring Release
 
 | Functionality | Description |
 | ------------- | ----------- |
