@@ -16,7 +16,7 @@ New features and fixes in the Adobe Experience Cloud.
 **Release date: June 13, 2019**
 
 * [Adobe Experience Platform](#platform)
-* [Analytics](#analytics)  **(Updated June 25, 2019)**
+* [Analytics](#analytics)   **(Updated June 27, 2019)**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -41,7 +41,7 @@ New features and fixes in the Adobe Experience Cloud.
 New features and fixes in Adobe Analytics:
 
 * [New features and fixes in Adobe Analytics](#aa-features) 
-* [Important notices for Analytics administrators](#aa-notices)  **(Updated June 25, 2019)**
+* [Important notices for Analytics administrators](#aa-notices)   **(Updated June 27, 2019)**
 
 For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
 
@@ -73,7 +73,8 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 ### Important notices for Analytics administrators {#aa-notices}
 
 | Notice | Date Added or Updated  | Description |
-| -----------| ---------- | ---------- | 
+| -----------| ---------- | ---------- |
+| Data Collection update | Added June 27, 2019 | All Adobe Analytics cookies with the “same-site-by-default-cookies” flag now have this flag set to `SameSite=None`. |
 | Audit Log UI changes | Updated June 25, 2019 | In the API `Logs.GetUsageLog`, the following changes were made to the UI: <ul><li>The response headers in the API were changed: a) from `timestamp` to `dateCreated`, b) from `login` to `companyLogin`, c) from `event_num` to `eventType`, d) from `event_type` to `event_type`, e) from `ip_address` to `ipAddress`, f) from `report_suite` to `rsid`, g) from `event_details` to `logText`. </li><li>The timestamp format changed from Unix timestamp to ISO 8601 time</li></ul><br>In the API as well as the Admin log UI, the audit logs results now contain report suite ID instead of report suite name. |
 | Classification rule builder limits | Added June 5, 2019 | These limits are not new, but have been added to the documentation [here](https://marketing.adobe.com/resources/help/en_US/reference/classification_rule_builder.html).|
 | New segment operator limits | Added May 31, 2019 | Starting on July 18, 2019, the segment operators "contains any of", "does not contain any of", "contains all of" and "does not contain all of" will be limited to 100 words per input field. The limit will be applied to all new and modified segments after this date. Existing segments that exceed the limit will continue to be supported, but cannot be modified or saved until the input field is reduced. These limits are being applied as part of a continued effort to improve query performance. |
