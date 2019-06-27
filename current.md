@@ -6,23 +6,20 @@ last-update: June 2019
 author: mfrei
 ---
 
-# Early Access - Adobe Experience Cloud release notes
+# Adobe Experience Cloud release notes
 
 New features and fixes in the Adobe Experience Cloud.
-
->[!IMPORTANT]
->This page contains pre-release content and is subject to change prior to the planned release.
 
 >[!NOTE]
 >Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date.
 
-**Release date: June 2019**
+**Release date: June 13, 2019**
 
 * [Adobe Experience Platform](#platform)
-* [Analytics](#analytics)
+* [Analytics](#analytics)   **(Updated June 27, 2019)**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [Campaign](#ac)
+* [!DNL Campaign](#ac)
 * [Mobile Services](#mobile)
 * [Advertising Cloud](#adcloud)
 * [Target Standard/Premium 19.6.1](#target)
@@ -86,8 +83,14 @@ New features and fixes in Adobe Analytics:
 For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
 
 ### New Features in Adobe Analytics {#aa-features}
+* [New features and fixes in Adobe Analytics](#aa-features) 
+* [Important notices for Analytics administrators](#aa-notices)   **(Updated June 27, 2019)**
 
-| Feature    | Description  |
+For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
+
+### New features and fixes in Adobe Analytics {#aa-features} 
+
+| Feature/Enhancement    | Description  |
 | -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text |
