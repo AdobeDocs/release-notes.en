@@ -1,8 +1,8 @@
 ---
 title: Adobe Experience Cloud Release Notes
-description: June 2019 Experience Cloud release notes
+description: July 2019 Experience Cloud release notes
 doc-type: release notes
-last-update: June 2019
+last-update: July 2019
 author: mfrei
 ---
 
@@ -13,10 +13,10 @@ New features and fixes in the Adobe Experience Cloud.
 >[!NOTE]
 >Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date.
 
-**Release date: June 13, 2019**
+**Release date: July 18, 2019**
 
 * [Adobe Experience Platform](#platform)
-* [Analytics](#analytics)   **(Updated June 27, 2019)**
+* [Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -84,7 +84,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 
 ### New Features in Adobe Analytics {#aa-features}
 * [New features and fixes in Adobe Analytics](#aa-features) 
-* [Important notices for Analytics administrators](#aa-notices)   **(Updated June 27, 2019)**
+* [Important notices for Analytics administrators](#aa-notices)  
 
 For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
 
