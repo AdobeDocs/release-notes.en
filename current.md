@@ -74,28 +74,26 @@ For product documentation, see [Experience Cloud ID service](https://marketing.a
 
 ## Analytics {#analytics}
 
-New features and fixes in Adobe Analytics:
-
-* [New Features in Adobe Analytics](#aa-features)
-* [Media Analytics SDK for iOS & Android (formerly VHL SDK)](#aa-va)
-* [Important notices for Analytics administrators](analytics-important-notices.md)
-
-For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
-
-### New Features in Adobe Analytics {#aa-features}
-
 * [New features and fixes in Adobe Analytics](#aa-features) 
-* [Important notices for Analytics administrators](#aa-notices)  
-
-For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
+* [Important notices for Analytics administrators](#aa-notices)
+* [Media Analytics SDK for iOS & Android (formerly VHL SDK)](#aa-va)
 
 ### New features and fixes in Adobe Analytics {#aa-features} 
+
+For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
 
 | Feature/Enhancement    | Description  |
 | -----------| ---------- |  
 | Feature A  | Text |  
 | Feature B  | Text |
 | Feature C  | Text |
+
+### Important notices for Analytics administrators {#aa-notices} 
+
+* Note
+* Note
+* Note
+* Note
 
 ### Media Analytics SDK for iOS & Android (formerly VHL SDK) {#aa-va}
 
