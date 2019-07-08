@@ -207,28 +207,28 @@ The XML Documentation 3.4 solution is now available.
 
 AEM 6.2 Service Pack 1–Cumulative Fix Pack 20 (6.2.1.20), released June 6, 2019, is an important update that includes key customer fixes released since the general availability of AEM 6.2 SP1 December, 2016.
 
-* [Release Notes](https://helpx.adobe.com/experience-manager/release-notes--aem-6-2-cumulative-fix-pack.html) 
+* [Release notes](https://helpx.adobe.com/experience-manager/release-notes--aem-6-2-cumulative-fix-pack.html) 
 * [AEM Forms CFP releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
 **AEM 6.3.3.5**
 
 AEM 6.3.3.5, released July 3, 2019, is an important update that includes key customer fixes released since the general availability of AEM 6.3 April, 2017.
 
-* [Release Notes](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)
+* [Release notes](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)
 * [AEM Forms CFP releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
 **AEM 6.4.5.0**
 
 AEM 6.4.5.0, released July 3, 2019, is an important update that includes key customer fixes released since the general availability of AEM 6.4 in April, 2018.
 
-* [Release Notes](https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html)
+* [Release notes](https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html)
 * [AEM Forms CFP releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
 **AEM 6.5.1.0** 
 
 AEM 6.5.1.0, released July 3, 2019, is an important update that includes key customer fixes released since the general availability of AEM 6.5 in April, 2019.
 
-* [Release Notes](https://helpx.adobe.com/experience-manager/6-5/release-notes/sp-release-notes.html)
+* [Release notes](https://helpx.adobe.com/experience-manager/6-5/release-notes/sp-release-notes.html)
 * [AEM Forms CFP releases]https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
 ### Self-help
