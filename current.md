@@ -229,7 +229,7 @@ AEM 6.4.5.0, released July 3, 2019, is an important update that includes key cus
 AEM 6.5.1.0, released July 3, 2019, is an important update that includes key customer fixes released since the general availability of AEM 6.5 in April, 2019.
 
 * [Release notes](https://helpx.adobe.com/experience-manager/6-5/release-notes/sp-release-notes.html)
-* [AEM Forms CFP releases]https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+* [AEM Forms CFP releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
 ### Self-help
 
