@@ -164,7 +164,7 @@ The latest Cloud Manager release (2019.6.0) contains a new [Product Update Wizar
 
 **XML Documentation 3.4**
 
-The 3.4 release for the XML Documentation Solution is now available.
+The XML Documentation 3.4 solution is now available.
 
 ***Release notes***
 	
@@ -188,7 +188,7 @@ The 3.4 release for the XML Documentation Solution is now available.
     * The name of the generated DITAMAP is now identical to the name of the uploaded zip file.
     * Added support for additional HTML elements and attributes.
     * Support for concurrent html-zip file ingestion.
-    * The sub-folder hierarchy where the zip is uploaded (**under input path as configured in h2d_io.xml**), is retained for the generated output (**under the configured output path**).
+    * The sub-folder hierarchy where the zip is uploaded (*under input path as configured in h2d_io.xml*), is retained for the generated output (*under the configured output path*).
 * Provided audit logs to see who reverted to what version and why.
 * AEM Site regeneration:
     * Disable regeneration for sub-maps.
