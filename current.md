@@ -156,33 +156,90 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 
 ### Product releases
 
-**Feature name**
+**Cloud Manager 2019.6.0**
 
-Description of features.
+The latest Cloud Manager release (2019.6.0) contains a new [Product Update Wizard](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/product-update-wizard/overview-productupdate-wizard.html) to help customers successfully run an AEM update.
 
-**Feature name**
+* [Release Notes for Cloud Manager 2019.6.0](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
 
-Description.
+**XML Documentation 3.4**
 
-**Feature name**
+The 3.4 release for the XML Documentation Solution is now available.
 
-Description.
+***Release notes***
+	
+* Support added for AEM 6.5.
+* Editor changes:
+    * Map level preview.
+    * Tables - provided an option to copy an <entry> or a complete <row> within a table using copy and paste.
+    * Tables - provided an option to select multiple cells in a column and straddle or merge them.
+    * Tables - provided a way to set table column properties in the Author mode of the web editor.
+    * Tables - provided a way to adjust column proportions and size in a standard table.
+    * Tables - Selecting rows and columns in Author view.
+    * Tables - Enabled styles and properties (align, valign) in web editor for table cell alignment.
+    * Bug fixes to the Full Tags View including scenarios for copy and paste and drag and drop of content.
+    * Show topic titles in Editor tabs.
+    * Resolved performance issues in the web editor.
+* Transfer baseline to the translated content during translation.
+* Transfer condition preset during translation workflow.
+* Added ability to apply labels to all dependents of a map from baseline.
+* Provided a button to download the map with all the dependents as a zip.
+* XHTML to DITA conversion improvements to the following:
+    * The name of the generated DITAMAP is now identical to the name of the uploaded zip file.
+    * Added support for additional HTML elements and attributes.
+    * Support for concurrent html-zip file ingestion.
+    * The sub-folder hierarchy where the zip is uploaded (**under input path as configured in h2d_io.xml**), is retained for the generated output (**under the configured output path**).
+* Provided audit logs to see who reverted to what version and why.
+* AEM Site regeneration:
+    * Disable regeneration for sub-maps.
+    * Post generation workflows enabled for regeneration use cases.
+    * Disable the regenerate option for a chunked topic and make the option available for parent topic where chunked attribute is applied.
+* DITA search now works on AND logic in AEM Asset search.
+* Results to not bring up the temporary files stored in the translation output folder.
+* Baseline tab:
+    * Performance improvements when opening a baseline.
+    * Choosing topics by date to work on the client timestamp.
+* API for deleting labels.
 
-**Core Components**
+### Product maintenance
 
-Description
+**AEM 6.2 SP1-CFP20**
 
-### Self help
+AEM 6.2 Service Pack 1–Cumulative Fix Pack 20 (6.2.1.20), released June 6, 2019, is an important update that includes key customer fixes released since the general availability of AEM 6.2 SP1 December, 2016.
 
-**Collaborative Documentation**
+* [Release Notes](https://helpx.adobe.com/experience-manager/release-notes--aem-6-2-cumulative-fix-pack.html) 
+* [AEM Forms CFP releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
-The following AEM documentation sets have been migrated to a new collaborative documentation platform.
+**AEM 6.3.3.5**
 
-* Doc name
-* Doc name
+AEM 6.3.3.5, released July 3, 2019, is an important update that includes key customer fixes released since the general availability of AEM 6.3 April, 2017.
+
+* [Release Notes](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)
+* [AEM Forms CFP releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+
+**AEM 6.4.5.0 **
+
+AEM 6.4.5.0, released July 3, 2019, is an important update that includes key customer fixes released since the general availability of AEM 6.4 in April, 2018.
+
+* [Release Notes](https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html)
+* [AEM Forms CFP releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+
+**AEM 6.5.1.0** 
+
+AEM 6.5.1.0, released July 3, 2019, is an important update that includes key customer fixes released since the general availability of AEM 6.5 in April, 2019.
+
+* [Release Notes](https://helpx.adobe.com/experience-manager/6-5/release-notes/sp-release-notes.html)
+* [AEM Forms CFP releases]https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+
+### Self-help
+
+**AEM cache invalidation update**
+
+An important AEM patch for the AEM 6.5 clientlibs cache invalidation is available by way of the [AEM 6.5.1.0 update](https://helpx.adobe.com/experience-manager/6-5/release-notes/sp-release-notes.html) or this [KB article](https://helpx.adobe.com/experience-manager/kb/avoid-crx-quickstart-deletion-in-aem-6-5.html).
 
 ### Additional resources
 
+* [AEM 6.5 Learn & Support Home](https://helpx.adobe.com/support/experience-manager/6-5.html)
 * [AEM 6.4 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-4.html)
 * [AEM 6.3 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-3.html)
 * [AEM 6.2 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-2.html)
