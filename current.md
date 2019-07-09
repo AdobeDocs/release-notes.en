@@ -165,7 +165,7 @@ The XML Documentation 3.4 solution is now available.
 * Support added for AEM 6.5.
 * Editor changes:
     * Map level preview.
-    * Tables - provided an option to copy an <entry> or a complete <row> within a table using copy and paste.
+    * Tables - provided an option to copy an entry or a complete row within a table using copy and paste.
     * Tables - provided an option to select multiple cells in a column and straddle or merge them.
     * Tables - provided a way to set table column properties in the Author mode of the web editor.
     * Tables - provided a way to adjust column proportions and size in a standard table.
