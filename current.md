@@ -160,7 +160,7 @@ The latest Cloud Manager release (2019.6.0) contains a new [Product Update Wizar
 The XML Documentation 3.4 solution is now available.
 
 ***Release notes***
-	
+
 * Support added for AEM 6.5.
 * Editor changes:
     * Map level preview.
