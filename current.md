@@ -137,18 +137,10 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 
 ## Audience Manager {#aam}
 
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
+**Fixes and Enhancements**
 
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
+* In the segments overview page, the width of the segment storage folder is now flexible. (AAM-48400)
+* Fixed an issue in Algorithmic Models, where moving the **Adjust Reach & Accuracy** slider did not affect the model's reach or accuracy. (AAM-47996)
 
 ## Experience Manager {#aem}
 
