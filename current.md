@@ -139,9 +139,10 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 
 **Fixes and Enhancements**
 
-* In the segments overview page, the width of the segment storage folder is now flexible. (AAM-48400)
+* In the segments overview page, the width of the segment storage folder is now flexible. This allows you to distinguish between segments with longer names. (AAM-48400)
 * Fixed an issue in Algorithmic Models, where moving the **Adjust Reach & Accuracy** slider did not affect the model's reach or accuracy. (AAM-47996)
 * Fixed an issue in Analytics destinations where the button to download a .csv file of segments that conflict with data export controls and/or third-party data sharing policies was broken. (AAM-48100)
+* Fixed an issue where customers were seeing random "Access denied" errors when logging into the Audience Manager user interface. (AAM-47632)
 
 ## Experience Manager {#aem}
 
