@@ -141,6 +141,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 
 * In the segments overview page, the width of the segment storage folder is now flexible. (AAM-48400)
 * Fixed an issue in Algorithmic Models, where moving the **Adjust Reach & Accuracy** slider did not affect the model's reach or accuracy. (AAM-47996)
+* Fixed an issue in Analytics destinations where the button to download a .csv file of segments that conflict with data export controls and/or third-party data sharing policies was broken. (AAM-48100)
 
 ## Experience Manager {#aem}
 
