@@ -50,16 +50,17 @@ For product documentation, see [Experience Cloud ID service](https://marketing.a
 
 ### Mobile Services and Mobile SDK {#mobile}
 
-**Features**
+**iOS**
 
-Description of new features. Use headings or a table.
+* Target: All requests now include the client and the `sessionId` in the URL query parameters.
+* Target: Fixed a memory leak.
+* The double encoding of the visitor ID URL, which contains characters such as _%25_, was being flagged in security reviews. This issue has been fixed.
 
-**Fixes**
+**Android**
 
-* Fix
-* Fix
-* Fix
-* Fix
+* Target: All requests now include the client and the sessionId in the URL query parameters.
+* Fixed an issue where, when a message was trigged with an empty clickthrough URL, Android apps crashed.
+* The double encoding of the visitor ID URL, which contains characters such as _%25_, was being flagged in security reviews. This issue has been fixed.
 
 For product documentation, see [Mobile Services](https://marketing.adobe.com/resources/help/en_US/mobile/).
 
