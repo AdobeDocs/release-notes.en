@@ -20,7 +20,6 @@ New features and fixes in the Adobe Experience Cloud.
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
-* [Mobile Services](#mobile)
 * [Advertising Cloud](#adcloud)
 * [Target Standard/Premium 19.6.1](#target)
 * [Magento](#magento)
@@ -48,12 +47,12 @@ For product documentation, see [Experience Cloud ID service](https://marketing.a
 
 ### Mobile Services and Mobile SDK {#mobile}
 
-The following updates are available in Mobile Services and Mobile SDK:
+iOS and Android were updated as follows:
 
 **iOS**
 
-* Target: All requests now include the client and the `sessionId` in the URL query parameters.
-* Target: Fixed a memory leak.
+* Adobe Target: All requests now include the client and the `sessionId` in the URL query parameters.
+* Adobe Target: Fixed a memory leak.
 * The double encoding of the visitor ID URL, which contains characters such as _%25_, was being flagged in security reviews. This issue has been fixed.
 
 **Android**
@@ -78,7 +77,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 
 | Component    | Description  |
 | -----------| ---------- |  
-| Adobe Analytics Labs  | Labs is a new prototype portal that gives you an early look at emerging technologies so you can influence future solution prioritization and development. |  
+| Adobe Analytics Labs  | _Labs_ is a new prototype portal that gives you an early look at emerging technologies so you can influence future solution prioritization and development. |  
 | Analysis Workspace – Cohort Analysis enhancements  | New Cohort Analysis settings have been added: <ul><li>Only show %</li><li>Round % to nearest whole</li><li>Show an Avg % Row along the top</li></ul> |
 | Analysis Workspace  | In the left rail, users now have the option to _Show items from last 18 months_. Previously, the lookback period was a maximum of 6 months. This makes it easier to compare to pages or campaigns from last year, up to 18 months ago. |
 | Analytics Data Feed  | Users can now see the history for all feeds that are enabled with the _Make Feed Visible to Customer_ flag. |
@@ -112,6 +111,10 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 | Update Adobe [!DNL Report Builder] due to end of support for TLS 1.0 | Sept. 7, 2018 | Due to the end of support for TLS 1.0, we recommended that [!DNL Report Builder] users download version v5.6.21 prior to February 2019. After that date, prior versions of [!DNL Report Builder] will no longer function. |
 
 ### AppMeasurement {#appm}
+
+Releasing July 15, 2019
+
+**JavaScript 2.15.0**
 
 * Added DIL 7.2 to AppMeasurememt. (AN-175142)
 * Fixed an issue occurring when the Experience Cloud ID Service OptIn is set to true, and the MID was not generated on the s.t() call without a page reload. (CORE-30890)
