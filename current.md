@@ -30,6 +30,11 @@ Release notes for the Experience Cloud interface, including [!UICONTROL Platform
 * [Experience Cloud ID Service](#ecid)
 * [Mobile Services and Mobile SDK](#mobile)
 * [Experience Cloud Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) (links to product help)
+* [Security bulletins and advisories](https://helpx.adobe.com/security.html) (All Adobe products)
+
+### Security bulletins and advisories
+
+See [Security bulletins and advisories](https://helpx.adobe.com/security.html) for important information regarding security vulnerabilities that could affect specific versions of Adobe products.
 
 ### Experience Cloud ID Service {#ecid}
 
