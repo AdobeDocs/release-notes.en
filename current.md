@@ -15,7 +15,7 @@ New features and fixes in the Adobe Experience Cloud.
 
 **Release date: July 18, 2019**
 
-* [Adobe Experience Platform](#platform)
+* [Experience Cloud core services and administration](#experiencecloud)
 * [Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
@@ -24,34 +24,25 @@ New features and fixes in the Adobe Experience Cloud.
 * [Advertising Cloud](#adcloud)
 * [Target Standard/Premium 19.6.1](#target)
 * [Magento](#magento)
-* [Primetime](#primetime)
 
 ## Experience Cloud core services and administration {#experiencecloud}
 
 Release notes for the Experience Cloud interface, including [!UICONTROL Platform] core services and product administration.  
 
-* [Core services](#core-services)
 * [Experience Cloud ID Service](#ecid)
 * [Mobile Services and Mobile SDK](#mobile)
-* [Administration and developer](#admin)
-* [Launch, by Adobe](https://docs.adobelaunch.com/) (links to product help)
-
-### Core services {#core-services}
-
-Features and fixes.
-
-For product documentation, see [Experience Cloud and Core Services](https://marketing.adobe.com/resources/help/en_US/mcloud/)
+* [Experience Cloud Launch](https://docs.adobelaunch.com/) (links to product help)
 
 ### Experience Cloud ID Service {#ecid}
 
 **Fixes and updates**
 
-* `cookieDomain` config update: The library will automatically assign top level cookie domain when `cookieDomain` in `initConfig` is not set by customer. (CORE-29223)
-* Fixed an issue for getVisitorValue in localVisitor (CORE-31287)
-* Bug fix for inconsistency of MCOPTOUT value in parent visitor vs iframe child visitor from getVisitorValue method (CORE-29719)
-* Fix for jQuery 3.2.1 vulnerability (CORE-31183)
-* Opt-in update - added optIn.off to unsubscribe from events
-* Bug fix for error related to setTimeout function. (CORE-30623)
+* `cookieDomain` config update: The library will automatically assign a top-level cookie domain when `cookieDomain` in `initConfig` is not set. (CORE-29223)
+* Fixed an issue for `getVisitorValue` in `localVisitor` (CORE-31287)
+* Fixed an inconsistency of `MCOPTOUT` value in parent visitor versus iframe child visitor from `getVisitorValue` method (CORE-29719)
+* Fixed a vulnerability issue in jQuery 3.2.1. (CORE-31183)
+* Opt-in update: added optIn.off to unsubscribe from events
+* Fixed an issue related to `setTimeout` function. (CORE-30623)
 
 For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
 
@@ -76,17 +67,10 @@ For product documentation, see [Mobile Services](https://marketing.adobe.com/res
 For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud
 Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
 
-### Administration and developer {#admin}
-
-Features and fixes.
-
-For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
-
 ## Analytics {#analytics}
 
 * [New features and fixes in Adobe Analytics](#aa-features) 
 * [Important notices for Analytics administrators](#aa-notices)
-* [Media Analytics SDK for iOS & Android (formerly VHL SDK)](#aa-va)
 
 ### New features in Analytics {#aa-features}
 
@@ -109,7 +93,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 
 * Fixed an issue that caused the line graph in a real-time drill-down report to be blank. (AN-181690)
 
-### Important notices for Analytics administrators {#aa-notices} 
+### Important notices for Analytics administrators {#aa-notices}
 
 | Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- |
@@ -127,34 +111,10 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 | Management changes affecting inactive [!DNL Analytics Live Stream] endpoints | December 20, 2018 | Starting on February 1, 2019, [!DNL Live Stream] endpoints with no active consumer connections for 90 days may be disabled. You can reach out to Customer Care to inquire about your [!DNL Live Stream] endpoints and, if necessary, have them re-enabled. In addition, please ensure your consumer processes maintain a persistent connection, as intended by the design of the service, and that they are implemented to reconnect when the connection is disconnected or interrupted. |
 | Update Adobe [!DNL Report Builder] due to end of support for TLS 1.0 | Sept. 7, 2018 | Due to the end of support for TLS 1.0, we recommended that [!DNL Report Builder] users download version v5.6.21 prior to February 2019. After that date, prior versions of [!DNL Report Builder] will no longer function. |
 
-### Media Analytics SDK for iOS & Android (formerly VHL SDK) {#aa-va}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-### Data Workbench {#aa-dwb}
-
-Updated the help definition for metric syntax documentation
-
-See [Data Workbench release notes](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/) for the latest information.
-
 ### AppMeasurement {#appm}
 
-| Feature    | Description  |
-| -----------| ---------- |
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
+* Added DIL 7.2 to AppMeasurememt. (AN-175142)
+* Fixed an issue occurring when the Experience Cloud ID Service OptIn is set to true, and the MID was not generated on the s.t() call without a page reload. (CORE-30890)
 
 See [AppMeasurement release history](https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/release/index.html) for a release history of AppMeasurement on the following platforms:
 
@@ -168,6 +128,12 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 * Java
 * PHP
 * Symbian
+
+### Data Workbench {#aa-dwb}
+
+* Updated the help definition for [log (X, B)](https://marketing.adobe.com/resources/help/en_US/insight/client/c_syntx_mtrc_exp.html) metric syntax documentation. (AN-180527)
+
+See [Data Workbench release notes](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/) for the latest information.
 
 ## Audience Manager {#aam}
 
@@ -184,13 +150,15 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 
 ### Product releases
 
-**Cloud Manager 2019.6.0**
+New feature information for the following products:
+
+#### Cloud Manager 2019.6.0
 
 The latest Cloud Manager release (2019.6.0) contains a new [Product Update Wizard](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/product-update-wizard/overview-productupdate-wizard.html) to help customers successfully run an AEM update.
 
 * [Release Notes for Cloud Manager 2019.6.0](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
 
-**XML Documentation 3.4**
+#### XML Documentation 3.4
 
 The XML Documentation 3.4 solution is now available.
 
@@ -229,7 +197,7 @@ The XML Documentation 3.4 solution is now available.
     * Choosing topics by date to work on the client timestamp.
 * API for deleting labels.
 
-### Product maintenance
+#### Product maintenance
 
 **AEM 6.2 SP1-CFP20**
 
@@ -276,21 +244,6 @@ An important AEM patch for the AEM 6.5 clientlibs cache invalidation is availabl
 * [Scene7 Publishing System release notes](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Livefyre release notes](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
-### Livefyre {#livefyre}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
 ## Campaign {#ac}
 
 Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
@@ -305,21 +258,6 @@ For product documentation, see:
 * Adobe Campaign Standard: [Documentation](https://helpx.adobe.com/support/campaign/standard.html) - [Release Notes](https://helpx.adobe.com/campaign/standard/rn/using/release-notes.html) - [Feature videos](https://helpx.adobe.com/campaign/kt/acs/index/acs-videos.html)
 * Adobe Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [Feature videos](https://helpx.adobe.com/campaign/kt/acc/index/acc-videos.html)
 
-## Advertising Cloud {#adcloud}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
 ## Target {#target}
 
 See [Target release notes (pre-release)](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) for the latest release infomration about Target.
@@ -330,7 +268,3 @@ For information about Magento Commerce and Magento Open source release notes, se
 
 * [Magento Open Source 2.3.2 Release Notes](https://devdocs.magento.com/guides/v2.3/release-notes/ReleaseNotes2.3.2OpenSource.html)
 * [Magento Commerce 2.3.2 Release Notes](https://devdocs.magento.com/guides/v2.3/release-notes/ReleaseNotes2.3.2Commerce.html)
-
-## Primetime {#Primetime}
-
-Fixes and features.
