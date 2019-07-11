@@ -37,7 +37,7 @@ Release notes for the Experience Cloud interface, including [!UICONTROL Platform
 * [Experience Cloud ID Service](#ecid)
 * [Mobile Services and Mobile SDK](#mobile)
 * [Administration and developer](#admin)
-* [Launch, by Adobe](https://docs.adobelaunch.com/) (links to product help)
+* [Experience Cloud Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) (links to product help)
 
 ### Core services {#core-services}
 
@@ -237,11 +237,6 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 * Fix
 
 For product documentation, see:
-
-* [Adobe Campaign Classic Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html)
-* [Adobe Campaign Classic Learn & Support](https://helpx.adobe.com/support/campaign/classic.html)
-* [Adobe Campaign Standard Release Notes](https://helpx.adobe.com/campaign/standard/rn/rn.html)
-* [Adobe Campaign Standard Learn & Support](https://helpx.adobe.com/support/campaign/standard.html)
 
 ## Advertising Cloud {#adcloud}
 

@@ -20,7 +20,6 @@ New features and fixes in the Adobe Experience Cloud.
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
-* [Advertising Cloud](#adcloud)
 * [Target Standard/Premium 19.6.1](#target)
 * [Magento](#magento)
 
@@ -30,7 +29,7 @@ Release notes for the Experience Cloud interface, including [!UICONTROL Platform
 
 * [Experience Cloud ID Service](#ecid)
 * [Mobile Services and Mobile SDK](#mobile)
-* [Experience Cloud Launch](https://docs.adobelaunch.com/) (links to product help)
+* [Experience Cloud Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) (links to product help)
 
 ### Experience Cloud ID Service {#ecid}
 
@@ -251,7 +250,7 @@ An important AEM patch for the AEM 6.5 clientlibs cache invalidation is availabl
 
 Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
 
-* Adobe Campaign Classic [19.1.2](http://docs.campaign.adobe.com/doc/AC/en/RN.html) – build 9029
+* Adobe Campaign Classic [19.1.2](https://docs.campaign.adobe.com/doc/AC/en/RN.html) – build 9029
 * Adobe Campaign Standard [19.2.3](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html#release-19-2-3---june-2019)
 * Adobe Campaign Standard [19.2.4](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html#release-19-2-4---june-2019)
 * Adobe Campaign Standard [19.2.7](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html#release-19-2-7---july-2019)
