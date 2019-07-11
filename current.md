@@ -6,7 +6,7 @@ last-update: July 2019
 author: mfrei
 ---
 
-# INTERNAL REVIEW - Adobe Experience Cloud Release Notes
+# Early Access - Adobe Experience Cloud Release Notes
 
 New features and fixes in the Adobe Experience Cloud.
 
@@ -34,25 +34,21 @@ Release notes for the Experience Cloud interface, including [!UICONTROL Platform
 
 * [Experience Cloud ID Service](#ecid)
 * [Mobile Services and Mobile SDK](#mobile)
-* [Experience Cloud Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) (links to product help)
-* [Security bulletins and advisories](https://helpx.adobe.com/security.html) (All Adobe products)
-
-### Security bulletins and advisories
-
-See [Security bulletins and advisories](https://helpx.adobe.com/security.html) for important information regarding security vulnerabilities that could affect specific versions of Adobe products.
+* [Experience Cloud Launch](#launch)
+* [Security bulletins and advisories](#security)
 
 ### Experience Cloud ID Service {#ecid}
 
 **Fixes and updates**
 
 * `cookieDomain` config update: The library will automatically assign a top-level cookie domain when `cookieDomain` in `initConfig` is not set. (CORE-29223)
-* Fixed an issue for `getVisitorValue` in `localVisitor` (CORE-31287)
-* Fixed an inconsistency of `MCOPTOUT` value in parent visitor versus iframe child visitor from `getVisitorValue` method (CORE-29719)
+* Fixed an issue for `getVisitorValue` in `localVisitor`. (CORE-31287)
+* Fixed an inconsistency of `MCOPTOUT` value in parent visitor versus iframe child visitor from `getVisitorValue` method. (CORE-29719)
 * Fixed a vulnerability issue in jQuery 3.2.1. (CORE-31183)
-* Opt-in update: added optIn.off to unsubscribe from events
+* Opt-in update: added `optIn.off` to unsubscribe from events.
 * Fixed an issue related to `setTimeout` function. (CORE-30623)
 
-For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
+See [Experience Cloud ID Service](https://marketing.adobe.com/resources/help/en_US/mcvid/mcvid-release-notes.html) for cumulative release notes.
 
 ### Mobile Services and Mobile SDK {#mobile}
 
@@ -74,6 +70,14 @@ For product documentation, see [Mobile Services](https://marketing.adobe.com/res
 
 For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud
 Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
+
+### Experience Cloud Launch {#launch}
+
+See [Experience Cloud Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) (links to product help) for release notes and product documentation.
+
+### Security bulletins and advisories {#security}
+
+See [Security bulletins and advisories](https://helpx.adobe.com/security.html) for important information regarding security vulnerabilities that could affect specific versions of Adobe products.
 
 ## Analytics {#analytics}
 
@@ -151,8 +155,8 @@ See [Data Workbench release notes](https://marketing.adobe.com/resources/help/en
 
 **Fixes and Enhancements**
 
-* In the segments overview page, the width of the segment storage folder is now flexible. This allows you to distinguish between segments with longer names. (AAM-48400)
-* Fixed an issue in Algorithmic Models, where moving the **Adjust Reach & Accuracy** slider did not affect the model's reach or accuracy. (AAM-47996)
+* On the [!UICONTROL Segments Overview] page, the width of the segment storage folder is now flexible. This allows you to distinguish between segments with longer names. (AAM-48400)
+* Fixed an issue in [!UICONTROL Algorithmic Models], where moving the **Adjust Reach & Accuracy** slider did not affect the model's reach or accuracy. (AAM-47996)
 * Fixed an issue in Analytics destinations where the button to download a .csv file of segments that conflict with data export controls and/or third-party data sharing policies was broken. (AAM-48100)
 * Fixed an issue where customers were seeing random "Access denied" errors when logging into the Audience Manager user interface. (AAM-47632)
 
@@ -259,6 +263,8 @@ An important AEM patch for the AEM 6.5 clientlibs cache invalidation is availabl
 ## Campaign {#ac}
 
 Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
+
+For release notes, see:
 
 * Adobe Campaign Classic [19.1.2](https://docs.campaign.adobe.com/doc/AC/en/RN.html) – build 9029
 * Adobe Campaign Standard [19.2.3](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html#release-19-2-3---june-2019)
