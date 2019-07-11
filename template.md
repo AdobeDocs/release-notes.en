@@ -21,13 +21,13 @@ New features and fixes in the Adobe Experience Cloud.
 **Release date: 2019**
 
 * [Experience Cloud core services and administration](#experiencecloud)
-* [Analytics](#analytics)
+* [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [Campaign](#ac)
+* [!DNL Campaign](#ac)
 * [Advertising Cloud](#adcloud)
-* [Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
-* [Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
+* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
+* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 
 ## Experience Cloud core services and administration {#experiencecloud}
 
@@ -37,7 +37,7 @@ Release notes for the Experience Cloud interface, including [!UICONTROL Platform
 * [Experience Cloud ID Service](#ecid)
 * [Mobile Services and Mobile SDK](#mobile)
 * [Administration and developer](#admin)
-* [Launch, by Adobe](https://docs.adobelaunch.com/) (links to product help)
+* [Experience Cloud Launch](https://docs.adobelaunch.com/) (links to product help)
 
 ### Core services {#core-services}
 
@@ -75,7 +75,7 @@ Features and fixes.
 
 For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
 
-## Analytics {#analytics}
+## [!DNL Analytics] {#analytics}
 
 New features and fixes in Adobe Analytics:
 
@@ -83,7 +83,7 @@ New features and fixes in Adobe Analytics:
 * [Media Analytics SDK for iOS & Android (formerly VHL SDK)](#aa-va)
 * [Important notices for Analytics administrators](analytics-important-notices.md)
 
-For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
+For product documentation, see [Adobe Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
 
 ### New Features in Adobe Analytics {#aa-features}
 
@@ -93,7 +93,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 | Feature B  | Text |
 | Feature C  | Text |
 
-### Media Analytics SDK for iOS & Android (formerly VHL SDK) {#aa-va}
+### [!DNL Media Analytics] SDK for iOS & Android (formerly VHL SDK) {#aa-va}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -101,7 +101,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 | Feature B  | Text |
 | Feature C  | Text |
 
-### Data Workbench {#aa-dwb}
+### [!DNL Data Workbench] {#aa-dwb}
 
 See [Data Workbench release notes](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/) for the latest information.
 
@@ -128,7 +128,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 * Flash-Flex
 * OSX
 * Windows Phone, XBOX, Silverlight, and .NET
-* BlackBerry
+* [!DNL BlackBerry]
 * Java
 * PHP
 * Symbian
@@ -204,7 +204,7 @@ The following AEM documentation sets have been migrated to a new collaborative d
 * Fix
 * Fix
 
-## Social {#soc}
+## [!DNL Social] {#soc}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -219,7 +219,7 @@ The following AEM documentation sets have been migrated to a new collaborative d
 * Fix
 * Fix
 
-## Campaign {#ac}
+## [!DNL Campaign] {#ac}
 
 Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
 
