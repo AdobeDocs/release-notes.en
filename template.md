@@ -29,7 +29,7 @@ New features and fixes in the Adobe Experience Cloud.
 * [!DNL Campaign](#ac)
 * [Advertising Cloud](#adcloud)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
-* [Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
+* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 
 ## Core services and administration {#experiencecloud}
 
@@ -81,10 +81,6 @@ For product documentation, see [Experience Cloud ID service](https://marketing.a
 ### Experience Platform Launch {#launch}
 
 See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) for release notes and product documentation.
-
-### Security bulletins and advisories
-
-See [Security bulletins and advisories](https://helpx.adobe.com/security.html) for important information regarding security vulnerabilities that could affect specific versions of Adobe products.
 
 ## [!DNL Analytics] {#analytics}
 
