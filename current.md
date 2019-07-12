@@ -89,8 +89,7 @@ See [Security bulletins and advisories](https://helpx.adobe.com/security.html) f
 For product documentation, see [Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
 | Component    | Description  |
-| -----------| ---------- |  
-| Adobe Analytics Labs  | _Labs_ is a new prototype portal that gives you an early look at emerging technologies so you can influence future solution prioritization and development. |  
+| -----------| ---------- |   
 | Analysis Workspace – Cohort Analysis enhancements  | New Cohort Analysis settings have been added: <ul><li>Only show %</li><li>Round % to nearest whole</li><li>Show an Avg % Row along the top</li></ul> |
 | Analysis Workspace  | In the left rail, users now have the option to _Show items from last 18 months_. Previously, the lookback period was a maximum of 6 months. This makes it easier to compare to pages or campaigns from last year, up to 18 months ago. |
 | Analytics Data Feed  | Users can now see the history for all feeds that are enabled with the _Make Feed Visible to Customer_ flag. |
