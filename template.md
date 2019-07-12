@@ -8,42 +8,45 @@ author: mfrei
 
 ---
 
-# Adobe Experience Cloud release notes
+# Adobe Experience Cloud Release Notes
 
 New features and fixes in the Adobe Experience Cloud.
 
 >[!IMPORTANT]
->>This page contains pre-release content and is subject to change prior to the planned release.
+>
+>This page contains pre-release content and is subject to change prior to the planned release.
 
 >[!NOTE]
->>Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date.
+>
+>Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date.
 
 **Release date: 2019**
 
-* [Experience Cloud core services and administration](#experiencecloud)
-* [Analytics](#analytics)
+* [Core services and administration](#experiencecloud)
+* [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [Campaign](#ac)
+* [!DNL Campaign](#ac)
 * [Advertising Cloud](#adcloud)
-* [Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
-* [Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
+* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
+* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 
-## Experience Cloud core services and administration {#experiencecloud}
+## Core services and administration {#experiencecloud}
 
-Release notes for the Experience Cloud interface, including [!UICONTROL Platform] core services and product administration.  
+Release notes for the Experience Cloud interface, including [!UICONTROL Platform] core services, product administration, and security bulletins.  
 
 * [Core services](#core-services)
 * [Experience Cloud ID Service](#ecid)
 * [Mobile Services and Mobile SDK](#mobile)
 * [Administration and developer](#admin)
-* [Experience Cloud Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) (links to product help)
+* [Experience Platform Launch](#launch)
+* [Security bulletins and advisories](https://helpx.adobe.com/security.html) (All Adobe products)
 
 ### Core services {#core-services}
 
 Features and fixes.
 
-For product documentation, see [Experience Cloud and Core Services](https://marketing.adobe.com/resources/help/en_US/mcloud/)
+For product documentation, see [Experience Cloud and Core Services](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)
 
 ### Experience Cloud ID Service {#ecid}
 
@@ -64,10 +67,10 @@ Description of new features. Use headings or a table.
 * Fix
 * Fix
 
-For product documentation, see [Mobile Services](https://marketing.adobe.com/resources/help/en_US/mobile/).
+For product documentation, see [Mobile Services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html).
 
 For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud
-Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
+Solutions](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html).
 
 ### Administration and developer {#admin}
 
@@ -75,7 +78,11 @@ Features and fixes.
 
 For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
 
-## Analytics {#analytics}
+### Experience Platform Launch {#launch}
+
+See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) for release notes and product documentation.
+
+## [!DNL Analytics] {#analytics}
 
 New features and fixes in Adobe Analytics:
 
@@ -83,7 +90,7 @@ New features and fixes in Adobe Analytics:
 * [Media Analytics SDK for iOS & Android (formerly VHL SDK)](#aa-va)
 * [Important notices for Analytics administrators](analytics-important-notices.md)
 
-For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
+For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
 ### New Features in Adobe Analytics {#aa-features}
 
@@ -93,7 +100,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 | Feature B  | Text |
 | Feature C  | Text |
 
-### Media Analytics SDK for iOS & Android (formerly VHL SDK) {#aa-va}
+### [!DNL Media Analytics] SDK for iOS & Android (formerly VHL SDK) {#aa-va}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -101,7 +108,7 @@ For product documentation, see [Analytics Help Home](https://marketing.adobe.com
 | Feature B  | Text |
 | Feature C  | Text |
 
-### Data Workbench {#aa-dwb}
+### [!DNL Data Workbench] {#aa-dwb}
 
 See [Data Workbench release notes](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/) for the latest information.
 
@@ -120,7 +127,7 @@ See [Data Workbench release notes](https://marketing.adobe.com/resources/help/en
 * Fix
 * Fix
 
-See [AppMeasurement release history](https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/release/index.html) for a release history of AppMeasurement on the following platforms:
+See [AppMeasurement release history](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) for a release history of AppMeasurement on the following platforms:
 
 * JavaScript
 * iOS
@@ -128,7 +135,7 @@ See [AppMeasurement release history](https://marketing.adobe.com/resources/help/
 * Flash-Flex
 * OSX
 * Windows Phone, XBOX, Silverlight, and .NET
-* BlackBerry
+* [!DNL BlackBerry]
 * Java
 * PHP
 * Symbian
@@ -204,7 +211,7 @@ The following AEM documentation sets have been migrated to a new collaborative d
 * Fix
 * Fix
 
-## Social {#soc}
+## [!DNL Social] {#soc}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -219,7 +226,7 @@ The following AEM documentation sets have been migrated to a new collaborative d
 * Fix
 * Fix
 
-## Campaign {#ac}
+## [!DNL Campaign {#ac}
 
 Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
 

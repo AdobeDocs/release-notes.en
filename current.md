@@ -6,11 +6,16 @@ last-update: July 2019
 author: mfrei
 ---
 
-# INTERNAL REVIEW - Adobe Experience Cloud release notes
+# Early Access - Adobe Experience Cloud Release Notes
 
 New features and fixes in the Adobe Experience Cloud.
 
+>[!IMPORTANT]
+>
+>This page contains pre-release content and is subject to change prior to the planned release.
+
 >[!NOTE]
+>
 >Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date.
 
 **Release date: July 18, 2019**
@@ -23,26 +28,27 @@ New features and fixes in the Adobe Experience Cloud.
 * [Target Standard/Premium 19.6.1](#target)
 * [Magento](#magento)
 
-## Experience Cloud core services and administration {#experiencecloud}
+## Core services and administration {#experiencecloud}
 
 Release notes for the Experience Cloud interface, including [!UICONTROL Platform] core services and product administration.  
 
 * [Experience Cloud ID Service](#ecid)
 * [Mobile Services and Mobile SDK](#mobile)
-* [Experience Cloud Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) (links to product help)
+* [Experience Platform Launch](#launch)
+* [Security bulletins and advisories](#security)
 
 ### Experience Cloud ID Service {#ecid}
 
 **Fixes and updates**
 
 * `cookieDomain` config update: The library will automatically assign a top-level cookie domain when `cookieDomain` in `initConfig` is not set. (CORE-29223)
-* Fixed an issue for `getVisitorValue` in `localVisitor` (CORE-31287)
-* Fixed an inconsistency of `MCOPTOUT` value in parent visitor versus iframe child visitor from `getVisitorValue` method (CORE-29719)
+* Fixed an issue for `getVisitorValue` in `localVisitor`. (CORE-31287)
+* Fixed an inconsistency of `MCOPTOUT` value in parent visitor versus iframe child visitor from `getVisitorValue` method. (CORE-29719)
 * Fixed a vulnerability issue in jQuery 3.2.1. (CORE-31183)
-* Opt-in update: added optIn.off to unsubscribe from events
+* Opt-in update: added `optIn.off` to unsubscribe from events.
 * Fixed an issue related to `setTimeout` function. (CORE-30623)
 
-For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
+See [Experience Cloud ID Service](https://marketing.adobe.com/resources/help/en_US/mcvid/mcvid-release-notes.html) for cumulative release notes.
 
 ### Mobile Services and Mobile SDK {#mobile}
 
@@ -60,10 +66,18 @@ iOS and Android were updated as follows:
 * Fixed an issue where, when a message was trigged with an empty clickthrough URL, Android apps crashed.
 * The double encoding of the visitor ID URL, which contains characters such as _%25_, was being flagged in security reviews. This issue has been fixed.
 
-For product documentation, see [Mobile Services](https://marketing.adobe.com/resources/help/en_US/mobile/).
+For product documentation, see [Mobile Services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html).
 
-For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud
-Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
+For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://docs.adobe.com/content/help/en/mobile-services/android/overview.html) and [iOS SDK 4.x for Experience Cloud
+Solutions](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html).
+
+### Experience Platform Launch {#launch}
+
+See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) (links to product help) for release notes and product documentation.
+
+### Security bulletins and advisories {#security}
+
+See [Security bulletins and advisories](https://helpx.adobe.com/security.html) for important information regarding security vulnerabilities that could affect specific versions of Adobe products.
 
 ## [!DNL Analytics] {#analytics}
 
@@ -72,7 +86,7 @@ Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
 
 ### New features in [!DNL Analytics] {#aa-features}
 
-For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
+For product documentation, see [Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
 | Component    | Description  |
 | -----------| ---------- |  
@@ -118,7 +132,7 @@ Releasing July 15, 2019
 * Added DIL 7.2 to AppMeasurememt. (AN-175142)
 * Fixed an issue occurring when the Experience Cloud ID Service OptIn is set to true, and the MID was not generated on the s.t() call without a page reload. (CORE-30890)
 
-See [AppMeasurement release history](https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/release/index.html) for a release history of AppMeasurement on the following platforms:
+See [AppMeasurement release history](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) for a release history of AppMeasurement on the following platforms:
 
 * JavaScript
 * iOS
@@ -141,8 +155,8 @@ See [Data Workbench release notes](https://marketing.adobe.com/resources/help/en
 
 **Fixes and Enhancements**
 
-* In the segments overview page, the width of the segment storage folder is now flexible. This allows you to distinguish between segments with longer names. (AAM-48400)
-* Fixed an issue in Algorithmic Models, where moving the **Adjust Reach & Accuracy** slider did not affect the model's reach or accuracy. (AAM-47996)
+* On the [!UICONTROL Segments Overview] page, the width of the segment storage folder is now flexible. This allows you to distinguish between segments with longer names. (AAM-48400)
+* Fixed an issue in [!UICONTROL Algorithmic Models], where moving the **Adjust Reach & Accuracy** slider did not affect the model's reach or accuracy. (AAM-47996)
 * Fixed an issue in Analytics destinations where the button to download a .csv file of segments that conflict with data export controls and/or third-party data sharing policies was broken. (AAM-48100)
 * Fixed an issue where customers were seeing random "Access denied" errors when logging into the Audience Manager user interface. (AAM-47632)
 
@@ -249,6 +263,8 @@ An important AEM patch for the AEM 6.5 clientlibs cache invalidation is availabl
 ## [!DNL Campaign] {#ac}
 
 Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
+
+For release notes, see:
 
 * Adobe Campaign Classic [19.1.2](https://docs.campaign.adobe.com/doc/AC/en/RN.html) – build 9029
 * Adobe Campaign Standard [19.2.3](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html#release-19-2-3---june-2019)
