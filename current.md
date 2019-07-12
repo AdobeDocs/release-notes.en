@@ -20,7 +20,7 @@ New features and fixes in the Adobe Experience Cloud.
 
 **Release date: July 18, 2019**
 
-* [Experience Cloud core services and administration](#experiencecloud)
+* [Core services and administration](#experiencecloud)
 * [Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
@@ -28,13 +28,13 @@ New features and fixes in the Adobe Experience Cloud.
 * [Target](#target)
 * [Magento](#magento)
 
-## Experience Cloud core services and administration {#experiencecloud}
+## Core services and administration {#experiencecloud}
 
 Release notes for the Experience Cloud interface, including [!UICONTROL Platform] core services and product administration.  
 
 * [Experience Cloud ID Service](#ecid)
 * [Mobile Services and Mobile SDK](#mobile)
-* [Experience Cloud Launch](#launch)
+* [Experience Platform Launch](#launch)
 * [Security bulletins and advisories](#security)
 
 ### Experience Cloud ID Service {#ecid}
@@ -66,14 +66,14 @@ iOS and Android were updated as follows:
 * Fixed an issue where, when a message was trigged with an empty clickthrough URL, Android apps crashed.
 * The double encoding of the visitor ID URL, which contains characters such as _%25_, was being flagged in security reviews. This issue has been fixed.
 
-For product documentation, see [Mobile Services](https://marketing.adobe.com/resources/help/en_US/mobile/).
+For product documentation, see [Mobile Services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html).
 
-For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud
-Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
+For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://docs.adobe.com/content/help/en/mobile-services/android/overview.html) and [iOS SDK 4.x for Experience Cloud
+Solutions](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html).
 
-### Experience Cloud Launch {#launch}
+### Experience Platform Launch {#launch}
 
-See [Experience Cloud Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) (links to product help) for release notes and product documentation.
+See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) (links to product help) for release notes and product documentation.
 
 ### Security bulletins and advisories {#security}
 
@@ -86,7 +86,7 @@ See [Security bulletins and advisories](https://helpx.adobe.com/security.html) f
 
 ### New features in Analytics {#aa-features}
 
-For product documentation, see [Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
+For product documentation, see [Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
 | Component    | Description  |
 | -----------| ---------- |  
@@ -132,7 +132,7 @@ Releasing July 15, 2019
 * Added DIL 7.2 to AppMeasurememt. (AN-175142)
 * Fixed an issue occurring when the Experience Cloud ID Service OptIn is set to true, and the MID was not generated on the s.t() call without a page reload. (CORE-30890)
 
-See [AppMeasurement release history](https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/release/index.html) for a release history of AppMeasurement on the following platforms:
+See [AppMeasurement release history](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) for a release history of AppMeasurement on the following platforms:
 
 * JavaScript
 * iOS

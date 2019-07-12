@@ -22,7 +22,7 @@ New features and fixes in the Adobe Experience Cloud.
 
 **Release date: 2019**
 
-* [Experience Cloud core services and administration](#experiencecloud)
+* [Core services and administration](#experiencecloud)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
@@ -31,7 +31,7 @@ New features and fixes in the Adobe Experience Cloud.
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
 * [Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 
-## Experience Cloud core services and administration {#experiencecloud}
+## Core services and administration {#experiencecloud}
 
 Release notes for the Experience Cloud interface, including [!UICONTROL Platform] core services, product administration, and security bulletins.  
 
@@ -39,16 +39,14 @@ Release notes for the Experience Cloud interface, including [!UICONTROL Platform
 * [Experience Cloud ID Service](#ecid)
 * [Mobile Services and Mobile SDK](#mobile)
 * [Administration and developer](#admin)
-* [Experience Cloud Launch](#launch)
+* [Experience Platform Launch](#launch)
 * [Security bulletins and advisories](https://helpx.adobe.com/security.html) (All Adobe products)
-
-
 
 ### Core services {#core-services}
 
 Features and fixes.
 
-For product documentation, see [Experience Cloud and Core Services](https://marketing.adobe.com/resources/help/en_US/mcloud/)
+For product documentation, see [Experience Cloud and Core Services](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)
 
 ### Experience Cloud ID Service {#ecid}
 
@@ -69,10 +67,10 @@ Description of new features. Use headings or a table.
 * Fix
 * Fix
 
-For product documentation, see [Mobile Services](https://marketing.adobe.com/resources/help/en_US/mobile/).
+For product documentation, see [Mobile Services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html).
 
 For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud
-Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/ios/).
+Solutions](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html).
 
 ### Administration and developer {#admin}
 
@@ -80,9 +78,9 @@ Features and fixes.
 
 For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
 
-### Experience Cloud Launch {#launch}
+### Experience Platform Launch {#launch}
 
-See [Experience Cloud Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) for release notes and product documentation.
+See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) for release notes and product documentation.
 
 ### Security bulletins and advisories
 
@@ -96,7 +94,7 @@ New features and fixes in Adobe Analytics:
 * [Media Analytics SDK for iOS & Android (formerly VHL SDK)](#aa-va)
 * [Important notices for Analytics administrators](analytics-important-notices.md)
 
-For product documentation, see [Adobe Analytics Help Home](https://marketing.adobe.com/resources/help/en_US/reference/).
+For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
 ### New Features in Adobe Analytics {#aa-features}
 
@@ -133,7 +131,7 @@ See [Data Workbench release notes](https://marketing.adobe.com/resources/help/en
 * Fix
 * Fix
 
-See [AppMeasurement release history](https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/release/index.html) for a release history of AppMeasurement on the following platforms:
+See [AppMeasurement release history](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) for a release history of AppMeasurement on the following platforms:
 
 * JavaScript
 * iOS
