@@ -21,7 +21,7 @@ New features and fixes in the Adobe Experience Cloud.
 **Release date: July 18, 2019**
 
 * [Experience Cloud core services and administration](#experiencecloud)
-* [!DNL Analytics](#analytics)
+* [!DNL Analytics](#analytics) **(Updated July 15)**
 * [Audience Manager](#aam)
 * [Advertising Cloud](#adcloud)
 * [Experience Manager](#aem)
@@ -82,7 +82,7 @@ See [Security bulletins and advisories](https://helpx.adobe.com/security.html) f
 
 ## [!DNL Analytics] {#analytics}
 
-* [New features and fixes in Adobe Analytics](#aa-features) 
+* [New features and fixes in Adobe Analytics](#aa-features) **(Updated July 15)**
 * [Important notices for Analytics administrators](#aa-notices)
 
 ### New features in [!DNL Analytics] {#aa-features}
@@ -93,7 +93,7 @@ For product documentation, see [Analytics Help Home](https://docs.adobe.com/cont
 | -----------| ---------- |   
 | Analysis Workspace – Cohort Analysis enhancements  | New Cohort Analysis settings have been added: <ul><li>Only show %</li><li>Round % to nearest whole</li><li>Show an Avg % Row along the top</li></ul> |
 | Analysis Workspace  | In the left rail, users now have the option to _Show items from last 18 months_. Previously, the lookback period was a maximum of 6 months. This makes it easier to compare to pages or campaigns from last year, up to 18 months ago. |
-| Analytics Data Feed  | Users can now see the history for all feeds that are enabled with the _Make Feed Visible to Customer_ flag. |
+| New Analysis Workspace template | We added a new template called "Magento: Marketing & Commerce" to Analysis Workspace. It is designed specifically for Magento e-commerce customers, but any retailer can use it to get unique insights into their commerce activities. |
 
 #### [!DNL Analysis Workspace] fixes
 
@@ -104,6 +104,7 @@ For product documentation, see [Analytics Help Home](https://docs.adobe.com/cont
 #### [!DNL Reports & Analytics] fixes
 
 * Fixed an issue that caused the line graph in a real-time drill-down report to be blank. (AN-181690)
+* Fixed an issue where, in some circumstances, portions of the data feed history were not being displayed in the Admin Console UI. (AN-176219)
 
 ### Important notices for [!DNL Analytics] administrators {#aa-notices}
 
