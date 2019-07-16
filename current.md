@@ -101,7 +101,7 @@ For product documentation, see [Analytics Help Home](https://docs.adobe.com/cont
 * Fixed an issue with visualization errors – we now show a red error bar when a visualization error occurs.(AN-175542)
 * Fixed an issue where dimension names appeared as English in localized environments.(AN-178695)
 
-#### [!DNL Reports & Analytics] fixes
+#### [!DNL Analytics] fixes
 
 * Fixed an issue that caused the line graph in a real-time drill-down report to be blank. (AN-181690)
 * Fixed an issue where, in some circumstances, portions of the data feed history were not being displayed in the Admin Console UI. (AN-176219)
