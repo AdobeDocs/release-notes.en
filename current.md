@@ -21,7 +21,7 @@ New features and fixes in the Adobe Experience Cloud.
 **Release date: July 18, 2019**
 
 * [Experience Cloud core services and administration](#experiencecloud)
-* [!DNL Analytics](#analytics) **(Updated July 15)**
+* [!DNL Analytics](#analytics) - **(Updated July 15)**
 * [Audience Manager](#aam)
 * [Advertising Cloud](#adcloud)
 * [Experience Manager](#aem)
@@ -82,7 +82,7 @@ See [Security bulletins and advisories](https://helpx.adobe.com/security.html) f
 
 ## [!DNL Analytics] {#analytics}
 
-* [New features and fixes in Adobe Analytics](#aa-features) **(Updated July 15)**
+* [New features and fixes in Adobe Analytics](#aa-features) - **(Updated July 15)**
 * [Important notices for Analytics administrators](#aa-notices)
 
 ### New features in [!DNL Analytics] {#aa-features}
