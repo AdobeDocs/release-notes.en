@@ -58,13 +58,13 @@ iOS and Android were updated as follows:
 
 * Adobe Target: All requests now include the client and the `sessionId` in the URL query parameters.
 * Adobe Target: Fixed a memory leak.
-* The double encoding of the visitor ID URL, which contains characters such as _%25_, was being flagged in security reviews. This issue has been fixed.
+* Visitor ID Service: The `visitorAppendToURL` and `visitorGetUrlVariablesAsync` APIs no longer double-encode their return values. The double-encoding was causing the return values from those APIs to be flagged by certain security reviews.
 
 **Android**
 
 * Target: All requests now include the client and the sessionId in the URL query parameters.
-* Fixed an issue where, when a message was trigged with an empty clickthrough URL, Android apps crashed.
-* The double encoding of the visitor ID URL, which contains characters such as _%25_, was being flagged in security reviews. This issue has been fixed.
+* In-app Messaging: Fixed an issue where, when a message was trigged with an empty clickthrough URL, Android apps crashed.
+* Visitor ID Service: The `Visitor.appendToURL` and `Visitor.getUrlVariablesAsync` APIs no longer double-encode their return values. The double-encoding was causing the return values from those APIs to be flagged by certain security reviews.
 
 For product documentation, see [Mobile Services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html).
 
