@@ -21,9 +21,8 @@ New features and fixes in the Adobe Experience Cloud.
 **Release date: July 18, 2019**
 
 * [Experience Cloud core services and administration](#experiencecloud)
-* [!DNL Analytics](#analytics) - **(Updated July 15)**
+* [!DNL Analytics](#analytics)  **(Updated July 15)**
 * [Audience Manager](#aam)
-* [Advertising Cloud](#adcloud)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
 * [Target Standard/Premium 19.6.1](#target)
@@ -59,13 +58,13 @@ iOS and Android were updated as follows:
 
 * Adobe Target: All requests now include the client and the `sessionId` in the URL query parameters.
 * Adobe Target: Fixed a memory leak.
-* The double encoding of the visitor ID URL, which contains characters such as _%25_, was being flagged in security reviews. This issue has been fixed.
+* Visitor ID Service: The `visitorAppendToURL` and `visitorGetUrlVariablesAsync` APIs no longer double-encode their return values. The double-encoding was causing the return values from those APIs to be flagged by certain security reviews.
 
 **Android**
 
 * Target: All requests now include the client and the sessionId in the URL query parameters.
-* Fixed an issue where, when a message was trigged with an empty clickthrough URL, Android apps crashed.
-* The double encoding of the visitor ID URL, which contains characters such as _%25_, was being flagged in security reviews. This issue has been fixed.
+* In-app Messaging: Fixed an issue where, when a message was trigged with an empty clickthrough URL, Android apps crashed.
+* Visitor ID Service: The `Visitor.appendToURL` and `Visitor.getUrlVariablesAsync` APIs no longer double-encode their return values. The double-encoding was causing the return values from those APIs to be flagged by certain security reviews.
 
 For product documentation, see [Mobile Services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html).
 
@@ -82,7 +81,7 @@ See [Security bulletins and advisories](https://helpx.adobe.com/security.html) f
 
 ## [!DNL Analytics] {#analytics}
 
-* [New features and fixes in Adobe Analytics](#aa-features) - **(Updated July 15)**
+* [New features and fixes in Adobe Analytics](#aa-features) **(Updated July 15)**
 * [Important notices for Analytics administrators](#aa-notices)
 
 ### New features in [!DNL Analytics] {#aa-features}
@@ -160,15 +159,6 @@ See [Data Workbench release notes](https://marketing.adobe.com/resources/help/en
 * Fixed an issue in [!UICONTROL Algorithmic Models], where moving the **Adjust Reach & Accuracy** slider did not affect the model's reach or accuracy. (AAM-47996)
 * Fixed an issue in Analytics destinations where the button to download a .csv file of segments that conflict with data export controls and/or third-party data sharing policies was broken. (AAM-48100)
 * Fixed an issue where customers were seeing random "Access denied" errors when logging into the Audience Manager user interface. (AAM-47632)
-
-## Advertising Cloud {#adcloud}
-
-Updated July 12, 2019, for July 13 release:
-
-* In all **[!UICONTROL Search]** > **[!UICONTROL Campaigns]** views, a new [!UICONTROL Job Status] button in the upper right toolbar opens the [!UICONTROL Job Summary Notification] panel, which lists all jobs and the included changes, all scheduled tasks, all errors, and all drafts.
-* In the **[!UICONTROL Search]** > **[!UICONTROL Audiences]** > **[!UICONTROL Library]** view, the [!UICONTROL Type] column now shows more specific names for audiences.
-* In the **[!UICONTROL Search]** > **[!UICONTROL Audiences]** > **[!UICONTROL Targets and Exclusions]** views, the [!UICONTROL Type] column was replaced with a [!UICONTROL Level] column, which indicates if each target and exclusion is applied at the campaign or ad group level.
-* In **[!UICONTROL Search]** > **[!UICONTROL Advanced]** (ACM), Google Shopping templates now include the following beta sales countries for advertisers whose Google Merchant Center accounts are registered to use them:  Finland, Greece, Hungary, Kazakhstan, Kuwait, Romania, Saudi Arabia, Slovakia, Ukraine.
 
 ## Experience Manager {#aem}
 
