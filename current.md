@@ -125,12 +125,12 @@ For product documentation, see [Analytics Help Home](https://docs.adobe.com/cont
 
 ### AppMeasurement {#appm}
 
-Releasing July 15, 2019
+Released July 15, 2019:
 
-**JavaScript 2.15.0**
+**AppMeasurement for JavaScript 2.15.0**
 
-* Added DIL 7.2 to AppMeasurememt. (AN-175142)
-* Fixed an issue occurring when the Experience Cloud ID Service OptIn is set to true, and the MID was not generated on the s.t() call without a page reload. (CORE-30890)
+* Added Activity Map scroll reach tracking to the Activity Map extension (AN-172949)
+* Added DIL 9.2 to AppMeasurement. (AN-182472)
 
 See [AppMeasurement release history](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) for a release history of AppMeasurement on the following platforms:
 
