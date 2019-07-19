@@ -274,7 +274,7 @@ For product documentation, see:
 
 ## [!DNL Target] {#target}
 
-See [Target release notes (pre-release)](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) for the latest release infomration about Target.
+See [Target release notes (pre-release)](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) for the latest release information about Target.
 
 ## Magento {#magento}
 
