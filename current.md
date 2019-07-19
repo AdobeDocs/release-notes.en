@@ -6,13 +6,9 @@ last-update: July 2019
 author: mfrei
 ---
 
-# Early Access - Adobe Experience Cloud Release Notes
+# Adobe Experience Cloud Release Notes
 
 New features and fixes in the Adobe Experience Cloud.
-
->[!IMPORTANT]
->
->This page contains pre-release content and is subject to change prior to the planned release.
 
 >[!NOTE]
 >
