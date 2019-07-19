@@ -17,7 +17,7 @@ New features and fixes in the Adobe Experience Cloud.
 **Release date: July 18, 2019**
 
 * [Experience Cloud core services and administration](#experiencecloud)
-* [!DNL Analytics](#analytics)  **(Updated July 15)**
+* [!DNL Analytics](#analytics) - **(Updated July 15)**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
