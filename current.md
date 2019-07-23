@@ -1,6 +1,6 @@
 ---
-title: Adobe Experience Cloud Release Notes
-description: July 2019 Experience Cloud release notes
+title: Adobe Experience Cloud technical documentation release notes
+description: July 2019 Experience Cloud tech doc release notes
 doc-type: release notes
 last-update: July 2019
 author: mfrei
