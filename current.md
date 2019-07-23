@@ -6,13 +6,9 @@ last-update: July 2019
 author: mfrei
 ---
 
-# Early Access - Adobe Experience Cloud Release Notes
+# Adobe Experience Cloud Release Notes
 
 New features and fixes in the Adobe Experience Cloud.
-
->[!IMPORTANT]
->
->This page contains pre-release content and is subject to change prior to the planned release.
 
 >[!NOTE]
 >
@@ -21,7 +17,7 @@ New features and fixes in the Adobe Experience Cloud.
 **Release date: July 18, 2019**
 
 * [Experience Cloud core services and administration](#experiencecloud)
-* [!DNL Analytics](#analytics)  **(Updated July 15)**
+* [!DNL Analytics](#analytics) - **(Updated July 15)**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -90,9 +86,9 @@ For product documentation, see [Analytics Help Home](https://docs.adobe.com/cont
 
 | Component    | Description  |
 | -----------| ---------- |   
-| Analysis Workspace – Cohort Analysis enhancements  | New Cohort Analysis settings have been added: <ul><li>Only show %</li><li>Round % to nearest whole</li><li>Show an Avg % Row along the top</li></ul> |
+| Analysis Workspace – Cohort Analysis enhancements  | New [Cohort Analysis settings](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html) have been added: <ul><li>Only show percent</li><li>Round percent to nearest whole</li><li>Show an average percent row</li></ul> |
 | Analysis Workspace  | In the left rail, users now have the option to _Show items from last 18 months_. Previously, the lookback period was a maximum of 6 months. This makes it easier to compare to pages or campaigns from last year, up to 18 months ago. |
-| New Analysis Workspace template | We added a new template called "Magento: Marketing & Commerce" to Analysis Workspace. It is designed specifically for Magento e-commerce customers, but any retailer can use it to get unique insights into their commerce activities. |
+| New Analysis Workspace template | We added a new template called ["Magento: Marketing & Commerce"](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html) to Analysis Workspace. It is designed specifically for Magento e-commerce customers, but any retailer can use it to get unique insights into their commerce activities. |
 
 #### [!DNL Analysis Workspace] fixes
 
@@ -125,12 +121,12 @@ For product documentation, see [Analytics Help Home](https://docs.adobe.com/cont
 
 ### AppMeasurement {#appm}
 
-Releasing July 15, 2019
+Released July 15, 2019:
 
-**JavaScript 2.15.0**
+**AppMeasurement for JavaScript 2.15.0**
 
-* Added DIL 7.2 to AppMeasurememt. (AN-175142)
-* Fixed an issue occurring when the Experience Cloud ID Service OptIn is set to true, and the MID was not generated on the s.t() call without a page reload. (CORE-30890)
+* Added Activity Map scroll reach tracking to the Activity Map extension (AN-172949)
+* Added DIL 9.2 to AppMeasurement. (AN-182472)
 
 See [AppMeasurement release history](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) for a release history of AppMeasurement on the following platforms:
 
@@ -278,7 +274,7 @@ For product documentation, see:
 
 ## [!DNL Target] {#target}
 
-See [Target release notes (pre-release)](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) for the latest release infomration about Target.
+See [Target release notes (pre-release)](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) for the latest release information about Target.
 
 ## Magento {#magento}
 
