@@ -125,7 +125,10 @@ Released July 15, 2019:
 
 **AppMeasurement for JavaScript 2.15.0**
 
-* Added Activity Map scroll reach tracking to the Activity Map extension (AN-172949)
+* Added Activity Map scroll reach tracking to the Activity Map extension (AN-172949). 
+>[!NOTE]
+>
+>This feature is being released as a pre-requisite for a future update to Activity Map. It may not be valuable until those other components are released. 
 * Added DIL 9.2 to AppMeasurement. (AN-182472)
 
 See [AppMeasurement release history](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) for a release history of AppMeasurement on the following platforms:
