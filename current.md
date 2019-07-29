@@ -86,9 +86,12 @@ See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/u
 
 New features and fixes in Adobe Analytics:
 
-* [New Features in Adobe Analytics](#aa-features)
+* [New Features and Fixes in Adobe Analytics](#aa-features)
+* [Important notices for Analytics administrators](##-)
 * [Media Analytics SDK for iOS & Android (formerly VHL SDK)](#aa-va)
-* [Important notices for Analytics administrators](analytics-important-notices.md)
+* [Data Workbench](#aa-dwb)
+* [AppMeasurement](#appm)
+
 
 For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
@@ -96,9 +99,13 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | Feature    | Description  |
 | -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
+| Support for SameSite cookie settings  | The SameSite cookie setting will be added to all cookies sets by Analytics. This change allows you to be compliant with the Chrome changes requiring the SameSite cookie field. |  
+
+**Fixes**
+
+* Fixed an issue with the text display in real-time reports when in full-screen mode. (AN-183168)
+
+### Important notices for Analytics administrators 
 
 ### [!DNL Media Analytics] SDK for iOS & Android (formerly VHL SDK) {#aa-va}
 
@@ -114,18 +121,19 @@ See [Data Workbench release notes](https://marketing.adobe.com/resources/help/en
 
 ### AppMeasurement {#appm}
 
+AppMeasurement 2.16.0 releases on August 8, 2019.
+
 | Feature    | Description  |
 | -----------| ---------- |
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
+| sendBeacon support for exit links  | Implemented sendBeacon support in AppMeasurement for exit links. This will improve exit link tracking and will likely result in increased traffic. |  
+| ECID/fid values | ECID/fid values are now cached on the first hit even though OptIn settings change. |
+| DIL 9.3  | Updated  Audience Management Module to DIL 9.3 |
+| Scroll reach tracking  | Exposed switch in s.ActivityMap.trackScrollReach to turn scroll reach tracking on or off. |
+| Visitor ID Service 4.4.0 | Upgraded AppMeasurement to use Visitor ID Service 4.4.0. |
 
 **Fixes**
 
-* Fix
-* Fix
-* Fix
-* Fix
+* Fixed a bug in AppMeasurement queuing that occurred before isReadyToTrack was true.
 
 See [AppMeasurement release history](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) for a release history of AppMeasurement on the following platforms:
 
