@@ -253,20 +253,23 @@ The following AEM documentation sets have been migrated to a new collaborative d
 
 Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
 
+### Adobe Campaign Standard
+
+[Campaign Standard 19.3 Release](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html)
+
 | Feature    | Description  |
 | -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
+| External API Activity (Public Beta)  | For deeper personalization, External API Activity allows you to bring data from external systems into a workflow via a REST API call. The REST endpoints can be a customer management system, Adobe I/O Runtime or Adobe Experience Cloud REST endpoint (e.g. Data Platform, Target, Analytics, Campaign).|  
+| Report on workflow segment  | This feature allows marketers to break down their delivery performance by segment code. When you create a workflow and use a segmentation activity to assign segments to the delivery population, these segments can now go into the same delivery. This allows you to display the opens/clicks statistics based on multiple segments within a single delivery. |
 
-**Fixes**
+### Adobe Campaign Classic
 
-* Fix
-* Fix
-* Fix
-* Fix
+[Campaign Classic 19.1.3 update](https://docs.campaign.adobe.com/doc/AC/en/RN.html) – build 9031
 
-For product documentation, see:
+### Additional resources
+
+* Adobe Campaign Standard: [Documentation](https://helpx.adobe.com/support/campaign/standard.html) - [Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)
+* Adobe Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 
 ## Advertising Cloud {#adcloud}
 
