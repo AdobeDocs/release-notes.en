@@ -37,7 +37,6 @@ Release notes for the Experience Cloud interface, including [!UICONTROL Platform
 
 * [Core services](#core-services)
 * [Experience Cloud ID Service](#ecid)
-* [Mobile Services and Mobile SDK](#mobile)
 * [Administration and developer](#admin)
 * [Experience Platform Launch](#launch)
 * [Security bulletins and advisories](https://helpx.adobe.com/security.html) (All Adobe products)
@@ -53,24 +52,6 @@ For product documentation, see [Experience Cloud and Core Services](https://docs
 Features and fixes.
 
 For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
-
-### Mobile Services and Mobile SDK {#mobile}
-
-**Features**
-
-Description of new features. Use headings or a table.
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-For product documentation, see [Mobile Services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html).
-
-For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud
-Solutions](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html).
 
 ### Administration and developer {#admin}
 
