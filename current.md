@@ -146,18 +146,13 @@ See [AppMeasurement release history](https://docs.adobe.com/content/help/en/anal
 
 ## Audience Manager {#aam}
 
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
+**Fixes and Improvements**
 
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
+* The Administration tab now only appears to user accounts with administrative privileges (AAM-48557).
+* The List Users API now returns full user details (AAM-48662).
+* You can now resize the trait folder list (AAM-48800).
+* Multiple UI accessibility optimizations (AAM-48865, AAM-48933).
+* Loading optimizations for the Administration and Data Sources pages (AAM-48514).
 
 ## Experience Manager {#aem}
 
