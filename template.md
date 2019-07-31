@@ -76,7 +76,7 @@ Solutions](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.h
 
 Features and fixes.
 
-For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
+For product documentation, see [Manage user and products](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html).
 
 ### Experience Platform Launch {#launch}
 
