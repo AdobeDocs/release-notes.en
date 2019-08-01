@@ -232,7 +232,7 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 ### Adobe Campaign Control Panel
 
-[New Control Panel capabilities] (https://helpx.adobe.com/campaign/kb/control-panel-instance-settings.html) include the ability to add URLs that Campaign Classic connects to for data/file transfers.
+[New Control Panel capabilities](https://helpx.adobe.com/campaign/kb/control-panel-instance-settings.html) include the ability to add URLs that Campaign Classic connects to for data/file transfers.
 
 ### Additional resources
 
