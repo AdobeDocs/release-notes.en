@@ -67,13 +67,13 @@ See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/u
 
 New features and fixes in Adobe Analytics:
 
-* [New Features and Fixes in Adobe Analytics](#aa-features)
+* [New Features, Enhancements, and Fixes in Adobe Analytics](#aa-features)
 * [Important notices for Analytics administrators](#aa-notices)
 * [AppMeasurement](#appm)
 
 For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
-### New Features in Adobe Analytics {#aa-features}
+### New Features and Enhancements in Adobe Analytics {#aa-features}
 
 | Feature    | Description  |
 | -----------| ---------- |  
