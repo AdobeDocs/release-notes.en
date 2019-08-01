@@ -22,7 +22,7 @@ New features and fixes in the Adobe Experience Cloud.
 
 **Release date: 2019**
 
-* [Core services and administration](#experiencecloud)
+* [Experience Platform and administration](#platform)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
@@ -31,11 +31,11 @@ New features and fixes in the Adobe Experience Cloud.
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 
-## Core services and administration {#experiencecloud}
+## Experience Platform and administration {#platform}
 
-Release notes for the Experience Cloud interface, including [!UICONTROL Platform] core services, product administration, and security bulletins.  
+Release notes for the Experience Platform, Experience Cloud interface, product administration, Experience Platform Launch, Identity Service, and security bulletins.   
 
-* [Core services](#core-services)
+* [Experience Cloud interface](#core-services)
 * [Experience Cloud ID Service](#ecid)
 * [Mobile Services and Mobile SDK](#mobile)
 * [Administration and developer](#admin)

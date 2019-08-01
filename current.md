@@ -22,7 +22,7 @@ New features and fixes in the Adobe Experience Cloud.
 
 **Release date: August 2019**
 
-* [Core services and administration](#experiencecloud)
+* [Experience Platform and administration](#platform)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 <!--* [Experience Manager](#aem)-->
@@ -31,23 +31,26 @@ New features and fixes in the Adobe Experience Cloud.
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 
-## Core services and administration {#experiencecloud}
+## [!UICONTROL Experience Platform] and administration {#platform}
 
-Release notes for the Experience Cloud interface, including [!UICONTROL Platform] core services, product administration, and security bulletins.  
+Release notes for the [!UICONTROL Experience Platform], Experience Cloud interface, product administration, Experience Platform Launch, Identity Service, and security bulletins.  
 
-<!--* [Core services](#core-services)-->
-<!--* [Experience Cloud ID Service](#ecid)-->
+* [Experience Cloud interface](#core-services)
+<!--* [Experience Platform ID Service](#ecid)-->
 <!--* [Administration and developer](#admin)-->
 * [Experience Platform Launch](#launch)
 * [Security bulletins and advisories](https://helpx.adobe.com/security.html) (All Adobe products)
 
-<!--### Core services {#core-services}
+### Experience Cloud interface {#core-services}
 
-Features and fixes.
+* Fixed a critical issue in Experience Cloud login that led to session logout for some users. (MCUI-6908)
+* Updates made to Experience Cloud login to improve performance and reduce latency. (MCUI-6854, MCUI-6869, MCUI-6883)
+* Cosmetic updates to Experience Cloud UI (MCUI-6861, MCUI-6911, MCUI-6862)
+* Fixed an issue with Experience Cloud Triggers that led to incorrect interpretation of _Like_ clause in Trigger definition. (MCUI-6611)
 
 For product documentation, see [Experience Cloud and Core Services](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)
 
-### Experience Cloud ID Service {#ecid}
+<!--### Experience Cloud ID Service {#ecid}
 
 Features and fixes.
 
