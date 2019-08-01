@@ -212,7 +212,7 @@ The following AEM documentation sets have been migrated to a new collaborative d
 * Fix
 * Fix-->
 
-## [!DNL Campaign {#ac}
+## [!DNL Campaign] {#ac}
 
 Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
 
@@ -228,6 +228,11 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 ### Adobe Campaign Classic
 
 [Campaign Classic 19.1.3 update](https://docs.campaign.adobe.com/doc/AC/en/RN.html) – build 9031
+
+
+### Adobe Campaign Control Panel
+
+[New Control Panel capabilities] (https://helpx.adobe.com/campaign/kb/control-panel-instance-settings.html) include the ability to add URLs that Campaign Classic connects to for data/file transfers.
 
 ### Additional resources
 
