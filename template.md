@@ -86,13 +86,13 @@ See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/u
 
 New features and fixes in Adobe Analytics:
 
-* [New Features in Adobe Analytics](#aa-features)
+* [New features in Adobe Analytics](#aa-features)
 * [Media Analytics SDK for iOS & Android (formerly VHL SDK)](#aa-va)
 * [Important notices for Analytics administrators](analytics-important-notices.md)
 
 For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
-### New Features in Adobe Analytics {#aa-features}
+### New features in Adobe Analytics {#aa-features}
 
 | Feature    | Description  |
 | -----------| ---------- |  

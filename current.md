@@ -8,7 +8,7 @@ author: mfrei
 
 ---
 
-# INTERNAL REVIEW - Adobe Experience Cloud Release Notes
+# Early Access - Adobe Experience Cloud Release Notes
 
 New features and fixes in the Adobe Experience Cloud.
 
@@ -25,9 +25,7 @@ New features and fixes in the Adobe Experience Cloud.
 * [Experience Platform and administration](#platform)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
-<!--* [Experience Manager](#aem)-->
 * [!DNL Campaign](#ac)
-<!--* [Advertising Cloud](#adcloud)-->
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 
@@ -36,31 +34,17 @@ New features and fixes in the Adobe Experience Cloud.
 Release notes for the [!UICONTROL Experience Platform], Experience Cloud interface, product administration, Experience Platform Launch, Identity Service, and security bulletins.  
 
 * [Experience Cloud interface](#core-services)
-<!--* [Experience Platform ID Service](#ecid)-->
-<!--* [Administration and developer](#admin)-->
 * [Experience Platform Launch](#launch)
 * [Security bulletins and advisories](https://helpx.adobe.com/security.html) (All Adobe products)
 
 ### Experience Cloud interface {#core-services}
 
 * Fixed a critical issue in Experience Cloud login that led to session logout for some users. (MCUI-6908)
-* Updates made to Experience Cloud login to improve performance and reduce latency. (MCUI-6854, MCUI-6869, MCUI-6883)
-* Cosmetic updates to Experience Cloud UI (MCUI-6861, MCUI-6911, MCUI-6862)
-* Fixed an issue with Experience Cloud Triggers that led to incorrect interpretation of _Like_ clause in Trigger definition. (MCUI-6611)
+* Updated Experience Cloud login to improve performance and reduce latency. (MCUI-6854, MCUI-6869, MCUI-6883)
+* Updated interface cosmetically. (MCUI-6861, MCUI-6911, MCUI-6862)
+* Fixed an issue with Experience Cloud [!UICONTROL Triggers] that led to incorrect interpretation of _Like_ clause in the [!UICONTROL Trigger] definition. (MCUI-6611)
 
-For product documentation, see [Experience Cloud and Core Services](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)
-
-<!--### Experience Cloud ID Service {#ecid}
-
-Features and fixes.
-
-For product documentation, see [Experience Cloud ID service](https://docs.adobe.com/content/help/en/id-service/using/home.html).-->
-
-<!--### Administration and developer {#admin}
-
-Features and fixes.
-
-For product documentation, see [Manage user and products](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html).-->
+For product documentation, see [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html).
 
 ### Experience Platform Launch {#launch}
 
@@ -70,20 +54,20 @@ See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/u
 
 New features and fixes in Adobe Analytics:
 
-* [New Features, Enhancements, and Fixes in Adobe Analytics](#aa-features)
+* [New features, enhancements, and fixes in Adobe Analytics](#aa-features)
 * [Important notices for Analytics administrators](#aa-notices)
 * [AppMeasurement](#appm)
 
 For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
-### New Features and Enhancements in Adobe Analytics {#aa-features}
+### New features, enhancements, and fixes in Adobe Analytics {#aa-features}
 
 | Feature    | Description  |
 | -----------| ---------- |  
-| Support for SameSite cookie settings  | The SameSite cookie setting will be added to all cookies sets by Analytics. This change allows you to be compliant with the Chrome changes requiring the SameSite cookie field. | 
+| Support for SameSite cookie settings  | The SameSite cookie setting will be added to all cookies sets by Analytics. This change allows you to be compliant with the Chrome changes requiring the SameSite cookie field. |
 | Workspace: Increase item limit for dropdown filter from 50 to 200  | We increased the limit of items that can be placed in a dropdown filter from 50 to 200. This enhancement accommodates a variety of use cases, such as adding all countries (195) to a filter, or all US states and provinces (52). |
 
-**Fixes**
+#### Fixes
 
 * Fixed an issue with the text display in real-time reports when in full-screen mode. (AN-183168)
 
@@ -92,7 +76,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 | Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- |
 | Classification rule builder limits | Added June 5, 2019 | These limits are not new, but have been added to the documentation [here](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html).|
-| New segment operator limits | Added May 31, 2019 | Starting on July 18, 2019, the segment operators "contains any of", "does not contain any of", "contains all of" and "does not contain all of" will be limited to 100 words per input field. The limit will be applied to all new and modified segments after this date. Existing segments that exceed the limit will continue to be supported, but cannot be modified or saved until the input field is reduced. These limits are being applied as part of a continued effort to improve query performance. |
+| New segment operator limits | Added May 31, 2019 | Starting on July 18, 2019, the segment operators _contains any of_, _does not contain any of_, _contains all of_ and _does not contain all_ of will be limited to 100 words per input field. The limit will be applied to all new and modified segments after this date. Existing segments that exceed the limit will continue to be supported, but cannot be modified or saved until the input field is reduced. These limits are being applied as part of a continued effort to improve query performance. |
 | Upcoming support changes for **[!UICONTROL Date-Enabled]** and **[!UICONTROL Numeric 2 Classifications]** | Updated May 28, 2019 | The ability to import Numeric 2 and Date-Enabled classifications has been removed from the codebase. This change will take effect with the July 2019 Maintenance Release. If you have Numeric or Date-Enabled columns in your import file, those cells will be silently ignored, and any other data within that file will be imported as normal. <br/>Existing classifications can still be exported through the standard classification workflow, and will continue to be available in reporting. |
 | Upcoming change to _Report Total_ calculations | Updated July 9, 2019 | On **June 18, 2019**, Adobe Analytics will make _Report Total_ calculations consistent across all dimensions and metrics. This will result in a change to the totals for some reports (typically, Prop or Customer Attributes reports). Prior to this change, some Report Totals inconsistently included or excluded the _Unspecified_ line item in the total, regardless of whether _Unspecified_ appeared in the report. <br/>As of June 18, 2019, _Unspecified_ will always appear in the report total, even if it does not appear as a line item in the report. Additionally, segments using _exists_ or _does not exist_ logic may see different results for some dimensions after this change, specifically dimensions where _Unspecified_ has a special name such as the "Typed/Bookmarked" line item for Referrer Type dimension or the "Other" line item for the Device Type dimension. This change will affect Analysis Workspace, Reports & Analytics, Ad Hoc Analysis, Report Builder, and the Reporting API. |
 | Update to CSV downloads from [!DNL Analysis Workspace]| April 10, 2019 | Starting on April 11, 2019, several changes were made to **[!UICONTROL CSV downloads]** (and **[!UICONTORL Copy to Clipboard]**) from [!DNL Analysis Workspace] to remove formatting from exported data.  <ul><li>The thousands separator is no longer included. The decimal separator will continue to be included, and will adhere to the format defined under **[!UICONTROL Components > Report Settings > Thousands Separator]**. Note: Numeric values that use a comma as the decimal separator will continue to be quoted in the exported CSV.</li><li>No currency symbols will be shown.</li><li>No percent symbols will be shown. Percentages will be in decimal form. E.g., 75% will be represented as 0.75.</li><li>Time will be shown in seconds.</li><li>Cohort tables will show raw values only; percentages will be removed.</li><li>If a number is invalid, an empty cell will be displayed.</li></ul>|
@@ -107,17 +91,17 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 ### AppMeasurement {#appm}
 
-AppMeasurement 2.16.0 releases on August 8, 2019.
+[!UICONTROL AppMeasurement] 2.16.0 releases on August 8, 2019.
 
 | Feature    | Description  |
 | -----------| ---------- |
-| sendBeacon support for exit links  | Implemented sendBeacon support in AppMeasurement for exit links. This will improve exit link tracking and will likely result in increased traffic. |  
+| `sendBeacon` support for exit links  | Implemented `sendBeacon` support in [!UICONTROL AppMeasurement] for exit links. This will improve exit link tracking and will likely result in increased traffic. |  
 | ECID/fid values | ECID/fid values are now cached on the first hit even though OptIn settings change. |
 | DIL 9.3  | Updated  Audience Management Module to DIL 9.3 |
 | Scroll reach tracking  | Exposed switch in s.ActivityMap.trackScrollReach to turn scroll reach tracking on or off. |
 | Visitor ID Service 4.4.0 | Upgraded AppMeasurement to use Visitor ID Service 4.4.0. |
 
-**Fixes**
+#### Fixes
 
 * Fixed a bug in AppMeasurement queuing that occurred before isReadyToTrack was true.
 
@@ -144,77 +128,6 @@ See [AppMeasurement release history](https://docs.adobe.com/content/help/en/anal
 * Multiple UI accessibility optimizations (AAM-48865, AAM-48933).
 * Loading optimizations for the Administration and Data Sources pages (AAM-48514).
 
-<!--## Experience Manager {#aem}
-
-New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
-
-### Product releases
-
-**Feature name**
-
-Description of features.
-
-**Feature name**
-
-Description.
-
-**Feature name**
-
-Description.
-
-**Core Components**
-
-Description
-
-### Self help
-
-**Collaborative Documentation**
-
-The following AEM documentation sets have been migrated to a new collaborative documentation platform.
-
-* Doc name
-* Doc name
-
-### Additional resources
-
-* [AEM 6.4 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-4.html)
-* [AEM 6.3 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-3.html)
-* [AEM 6.2 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-2.html)
-* [Cloud Manager User Guide](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
-* [Older versions of AEM documentation](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
-* [Scene7 Publishing System release notes](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
-* [Livefyre release notes](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
-
-### Livefyre {#livefyre}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix
-
-## [!DNL Social] {#soc}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix-->
-
 ## [!DNL Campaign] {#ac}
 
 Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
@@ -232,28 +145,13 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 [Campaign Classic 19.1.3 update](https://docs.campaign.adobe.com/doc/AC/en/RN.html) – build 9031
 
-
 ### Adobe Campaign Control Panel
 
 [New Control Panel capabilities](https://helpx.adobe.com/campaign/kb/control-panel-instance-settings.html) include the ability to add URLs that Campaign Classic connects to for data/file transfers.
-Please note Control Panel is available for both Adobe Campaign Classic and Adobe Campaign Standard customers hosted on AWS. No upgrades are required to access Control Panel.
+
+Please note that [!UICONTROL Control Panel] is available for both Adobe Campaign Classic and Adobe Campaign Standard customers hosted on AWS. No upgrades are required to access Control Panel.
 
 ### Additional resources
 
 * Adobe Campaign Standard: [Documentation](https://helpx.adobe.com/support/campaign/standard.html) - [Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)
 * Adobe Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
-
-<!--## Advertising Cloud {#adcloud}
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
-
-**Fixes**
-
-* Fix
-* Fix
-* Fix
-* Fix-->
