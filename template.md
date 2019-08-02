@@ -22,7 +22,7 @@ New features and fixes in the Adobe Experience Cloud.
 
 **Release date: 2019**
 
-* [Core services and administration](#experiencecloud)
+* [Experience Platform and administration](#platform)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
@@ -31,11 +31,11 @@ New features and fixes in the Adobe Experience Cloud.
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 
-## Core services and administration {#experiencecloud}
+## Experience Platform and administration {#platform}
 
-Release notes for the Experience Cloud interface, including [!UICONTROL Platform] core services, product administration, and security bulletins.  
+Release notes for the Experience Platform, Experience Cloud interface, product administration, Experience Platform Launch, Identity Service, and security bulletins.   
 
-* [Core services](#core-services)
+* [Experience Cloud interface](#core-services)
 * [Experience Cloud ID Service](#ecid)
 * [Mobile Services and Mobile SDK](#mobile)
 * [Administration and developer](#admin)
@@ -76,7 +76,7 @@ Solutions](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.h
 
 Features and fixes.
 
-For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
+For product documentation, see [Manage user and products](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html).
 
 ### Experience Platform Launch {#launch}
 
@@ -86,13 +86,13 @@ See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/u
 
 New features and fixes in Adobe Analytics:
 
-* [New Features in Adobe Analytics](#aa-features)
+* [New features in Adobe Analytics](#aa-features)
 * [Media Analytics SDK for iOS & Android (formerly VHL SDK)](#aa-va)
 * [Important notices for Analytics administrators](analytics-important-notices.md)
 
 For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
-### New Features in Adobe Analytics {#aa-features}
+### New features in Adobe Analytics {#aa-features}
 
 | Feature    | Description  |
 | -----------| ---------- |  
