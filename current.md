@@ -64,7 +64,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | Feature    | Description  |
 | -----------| ---------- |  
-| Support for SameSite cookie settings  | The SameSite cookie setting will be added to all cookies sets by Analytics. This change allows you to be compliant with the Chrome changes requiring the SameSite cookie field. |
+| Support for SameSite cookie settings  | The SameSite cookie setting will be added to all cookies sets by Analytics. This change allows you to be compliant with the Chrome changes requiring the SameSite cookie field. These changes are done server side, you will not need to update AppMeasurement to have the SameSite setting added. |
 | Workspace: Increase item limit for dropdown filter from 50 to 200  | We increased the limit of items that can be placed in a dropdown filter from 50 to 200. This enhancement accommodates a variety of use cases, such as adding all countries (195) to a filter, or all US states and provinces (52). |
 
 #### Fixes
