@@ -64,8 +64,9 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | Feature    | Description  |
 | -----------| ---------- |  
-| Support for SameSite cookie settings  | The SameSite cookie setting will be added to all cookies sets by Analytics. This change allows you to be compliant with the Chrome changes requiring the SameSite cookie field. |
+| Support for SameSite cookie settings  | The [SameSite cookie setting](https://web.dev/samesite-cookies-explained) will be added to all cookies sets by Analytics. This change allows you to be compliant with the Chrome changes requiring the SameSite cookie field. Analytics cookies will default to `none`. If you have exclusively used a 1st-party domain (e.g. stats.domain.com) you can have Adobe ClientCare set it to `lax` for 1st-party collection domains. |
 | Workspace: Increase item limit for dropdown filter from 50 to 200  | We increased the limit of items that can be placed in a dropdown filter from 50 to 200. This enhancement accommodates a variety of use cases, such as adding all countries (195) to a filter, or all US states and provinces (52). |
+|Attribution IQ enabled for A4T metrics|We have enabled two Analytics for Target (A4T) metrics for Attribution IQ: Activity Impressions and Activity Conversion. In Analysis Workspace to date, these metrics have been inflated compared to Reports &amp; Analytics. With this change, users can now apply a "same touch" attribution model, which will bring the Analysis Workspace in line with Reports &amp; Analytics.
 
 #### Fixes
 
