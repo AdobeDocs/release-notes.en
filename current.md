@@ -8,19 +8,15 @@ author: mfrei
 
 ---
 
-# Early Access - Adobe Experience Cloud Release Notes
+# Adobe Experience Cloud Release Notes
 
 New features and fixes in the Adobe Experience Cloud.
-
->[!IMPORTANT]
->
->This page contains pre-release content and is subject to change prior to the planned release.
 
 >[!NOTE]
 >
 >Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date.
 
-**Release date: August 2019**
+**Release date: August 8, 2019**
 
 * [Experience Platform and administration](#platform)
 * [!DNL Analytics](#analytics)
@@ -76,7 +72,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- |
-| Support for Historical Timezone Offsets | August 8th, 2019 | Analytics will now automatically handle timezone offsets for timestamped hits. Following this change on August 8th, systems that load in data for historical processing will no longer need to adjust for timezone offsets before sending in the data. |
+| Support for Historical Timezone Offsets | August 8, 2019 | Analytics will now automatically handle timezone offsets for timestamped hits. Following this change on August 8, systems that load in data for historical processing will no longer need to adjust for timezone offsets before sending in the data. |
 | Classification rule builder limits | Added June 5, 2019 | These limits are not new, but have been added to the documentation [here](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html).|
 | New segment operator limits | Added May 31, 2019 | Starting July 18, 2019, the segment operators _contains any of_, _does not contain any of_, _contains all of_ and _does not contain all_ of will be limited to 100 words per input field. The limit will be applied to all new and modified segments after this date. Existing segments that exceed the limit will continue to be supported, but cannot be modified or saved until the input field is reduced. These limits are being applied as part of a continued effort to improve query performance. |
 | Upcoming support changes for **[!UICONTROL Date-Enabled]** and **[!UICONTROL Numeric 2 Classifications]** | Updated May 28, 2019 | The ability to import Numeric 2 and Date-Enabled classifications has been removed from the codebase. This change will take effect with the July 2019 Maintenance Release. If you have Numeric or Date-Enabled columns in your import file, those cells will be silently ignored, and any other data within that file will be imported as normal. <br/>Existing classifications can still be exported through the standard classification workflow, and will continue to be available in reporting. |
