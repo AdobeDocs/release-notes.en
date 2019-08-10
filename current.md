@@ -22,6 +22,7 @@ New features and fixes in the Adobe Experience Cloud.
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [!DNL Campaign](#ac)
+* [!DNL Ad Cloud](#ad cloud)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 
@@ -153,3 +154,15 @@ Please note that [!UICONTROL Control Panel] is available for both Adobe Campaign
 
 * Adobe Campaign Standard: [Documentation](https://helpx.adobe.com/support/campaign/standard.html) - [Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)
 * Adobe Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+
+## Advertising Cloud {#adcloud}
+
+Updated:  August 9, 2019, for August 10 release
+
+* (Advertisers with the Advertising Cloud conversion tracking service) With Apple's Intelligent Tracking Prevention (ITP) 2.2, which was released in May, Advertising Cloud conversion-tracking cookies are automatically deleted from Apple Safari browsers after 24 hours. Advertising Cloud has a new ITP solution, however, that enables you to track conversions that occur within Safari for more than 24 hours after the original click. The solution uses local storage and iframe technology. Contact your Advertising Cloud Search account manager for the implementation instructions.
+* In Search > Advanced (ACM), you can now configure campaign-level final URL suffixes for Google text ad and shopping ad templates.
+* Advertisers with Google Ads accounts that are eligible for Customer Match can now do the following:
+    * Create a Google Ads customer match audience using user IDs from an Adobe audience segment. To see this feature, the advertiser account must be configured to allow it.
+    * Create a Google Ads customer match audience by uploading a customer data file. The file can consist of contact information (email addresses, mailing addresses, or telephone numbers), user IDs, or mobile device IDs. Some types of contact information must be hashed using the SHA-256 algorithm.
+    * Update any Google customer match audience except audiences created from an Adobe audience. You can upload data to add, to delete, or to replace all existing data for the audience. All contact information must be hashed using the SHA-256 algorithm.
+* The Audiences > Targets and Audiences > Exclusions views include a "Type" column.
