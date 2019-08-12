@@ -21,6 +21,7 @@ New features and fixes in the Adobe Experience Cloud.
 * [Experience Platform and administration](#platform)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
+* [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
 * [!DNL Ad Cloud](#adcloud)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
@@ -126,6 +127,25 @@ See [AppMeasurement release history](https://docs.adobe.com/content/help/en/anal
 * You can now resize the trait folder list (AAM-48800).
 * Multiple UI accessibility optimizations (AAM-48865, AAM-48933).
 * Loading optimizations for the Administration and Data Sources pages (AAM-48514).
+
+## Experience Manager {#aem}
+
+New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
+
+### Product end-of-life
+
+Digital Publishing Suite Classic (DPSC) will end-of-life on August 31, 2019. For more information, see the [Digital Publishing Suite Classic End-of-Life FAQ](https://helpx.adobe.com/digital-publishing-suite/help/eol-statement-for-dpsc.html).
+
+### Additional resources
+
+* [AEM 6.5 Learn & Support Home](https://helpx.adobe.com/support/experience-manager/6-5.html)
+* [AEM 6.4 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-4.html)
+* [AEM 6.3 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-3.html)
+* [AEM 6.2 Learn & Support home](https://helpx.adobe.com/support/experience-manager/6-2.html)
+* [Cloud Manager User Guide](https://helpx.adobe.com/experience-manager/cloud-manager/user-guide.html)
+* [Older versions of AEM documentation](https://helpx.adobe.com/experience-manager/aem-previous-versions.html)
+* [Scene7 Publishing System release notes](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
+* [Livefyre release notes](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
 ## [!DNL Campaign] {#ac}
 
