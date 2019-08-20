@@ -19,7 +19,7 @@ New features and fixes in the Adobe Experience Cloud.
 **Release date: August 8, 2019**
 
 * [Experience Cloud and Experience Platform](#platform)
-* [!DNL Analytics](#analytics)
+* [!DNL Analytics](#analytics) (**Updated August 20, 2019**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -52,7 +52,7 @@ See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/u
 
 New features and fixes in Adobe Analytics:
 
-* [New features, enhancements, and fixes in Adobe Analytics](#aa-features)
+* [New features, enhancements, and fixes in Adobe Analytics](#aa-features)  (**Updated August 20, 2019**)
 * [Important notices for Analytics administrators](#aa-notices)
 * [AppMeasurement](#appm)
 
@@ -62,13 +62,16 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | Feature    | Description  |
 | -----------| ---------- |  
-| Support for SameSite cookie settings  | The [SameSite cookie setting](https://web.dev/samesite-cookies-explained) will be added to all cookies sets by Analytics. This change allows you to be compliant with the Chrome changes requiring the SameSite cookie field. Analytics cookies will default to `none`. If you have exclusively used a 1st-party domain (e.g. stats.domain.com) you can have Adobe ClientCare set it to `lax` for 1st-party collection domains. |
+| Support for SameSite cookie settings  | The [SameSite cookie setting](https://web.dev/samesite-cookies-explained) will be added to all cookies set by Analytics. This change allows you to be compliant with the Chrome changes requiring the SameSite cookie field. Analytics cookies will default to `none`. If you have exclusively used a 1st-party domain (e.g. stats.domain.com) you can have Adobe ClientCare set it to `lax` for 1st-party collection domains. |
 | Workspace: Increase item limit for dropdown filter from 50 to 200  | We increased the limit of items that can be placed in a dropdown filter from 50 to 200. This enhancement accommodates a variety of use cases, such as adding all countries (195) to a filter, or all US states and provinces (52). |
-|A4T Activity Impressions and Activity Conversions enabled for Attribution IQ|We have enabled two Analytics for Target (A4T) metrics for Attribution IQ: Activity Impressions and Activity Conversion. In Analysis Workspace to date, these metrics have been inflated compared to Reports &amp; Analytics. With this change, users can now apply a "same touch" attribution model, which will bring Analysis Workspace in line with Reports &amp; Analytics.|
+|A4T Activity Impressions and Activity Conversions enabled for Attribution IQ|We have enabled two Analytics for Target (A4T) metrics for Attribution IQ: Activity Impressions and Activity Conversion. Previously, in Analysis Workspace, these metrics were inflated compared to Reports &amp; Analytics. With this change, users can now apply a "same touch" attribution model, which will bring Analysis Workspace in line with Reports &amp; Analytics.|
 
 #### Fixes
 
 * Fixed an issue with the text display in real-time reports when in full-screen mode. (AN-183168)
+* (**Updated August 20, 2019**) Data collection now rejects redirect URLs that contain "@" signs to prevent attackers from redirecting to malicious sites via whitelisted domains.
+* (**Updated August 20, 2019**) Visitor Migration is now disabled for all hits coming from browsers which do not support the SameSite Cookie attribute, and if the hit contains a 3rd-party cookie.
+* (**Updated August 20, 2019**) Fixed an issue where first hits were not sent the s_vi cookie for a new visitor.
 
 ### Important notices for [!DNL Analytics] administrators {#aa-notices}
 
