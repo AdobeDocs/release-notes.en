@@ -19,7 +19,7 @@ New features and fixes in the Adobe Experience Cloud.
 **Release date: August 8, 2019**
 
 * [Experience Cloud and Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Updated August 20, 2019**)
+* [!DNL Analytics](#analytics) (**Updated August 23, 2019**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -54,7 +54,7 @@ New features and fixes in Adobe Analytics:
 
 * [New features, enhancements, and fixes in Adobe Analytics](#aa-features)  (**Updated August 20, 2019**)
 * [Important notices for Analytics administrators](#aa-notices)
-* [AppMeasurement](#appm)
+* [AppMeasurement](#appm) (**Updated August 23, 2019**)
 
 For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
@@ -94,7 +94,14 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 ### AppMeasurement {#appm}
 
-[!UICONTROL AppMeasurement] 2.16.0 releases on August 8, 2019.
+[!UICONTROL AppMeasurement] 2.17.0 released on August 23, 2019.
+
+| Feature/Fix    | Description  |
+| -----------| ---------- |
+| Added Baidu support| Added support for Baidu query string reordering.|
+| Fix | Fixed an issue that caused stale visitor values in hits that were queued while waiting for opt-in.|
+
+[!UICONTROL AppMeasurement] 2.16.0 released on August 8, 2019.
 
 | Feature    | Description  |
 | -----------| ---------- |
