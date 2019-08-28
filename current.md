@@ -154,19 +154,18 @@ Digital Publishing Suite Classic (DPSC) will end-of-life on August 31, 2019. For
 
 Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
 
-### Adobe Campaign Standard
-
-| Feature    | Description  |
-| -----------| ---------- |  
-|   | |  
-|   | |
-
 ### Adobe Campaign Classic
 
-| Feature    | Description  |
-| -----------| ---------- |  
-|   | |  
-|   | |
+[Campaign Classic 19.1.4 update](https://docs.campaign.adobe.com/doc/AC/en/RN.html#9032) – build 9032
+[Campaign Classic 19.1.5 update](https://docs.campaign.adobe.com/doc/AC/en/RN.html#9033) – build 9033
+
+### Adobe Campaign Control Panel
+
+We’ve added new capabilities for Admin users to receive notifications before SSL certificates for their domains expire. For more information, refer to the [detailed documentation](https://helpx.adobe.com/campaign/kb/control-panel-subdomains-certificates.html).
+
+Additionally, Admin users can now delete SSH keys that were added to access SFTP servers.
+
+Please note that [!UICONTROL Control Panel] is available for both Adobe Campaign Classic and Adobe Campaign Standard customers hosted on AWS. No upgrades are required to access Control Panel.
 
 ### Additional resources
 
