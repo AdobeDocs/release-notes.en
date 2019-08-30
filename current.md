@@ -101,29 +101,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 ### [!DNL AppMeasurement] {#appm}
 
-| Feature/Fix    | Description  |
-| -----------| ---------- |
-| | |
-| | |
-
-#### Fixes
-
-* 
-* 
-* 
-
-See [[!DNL AppMeasurement] release history](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) for a release history of AppMeasurement on the following platforms:
-
-* JavaScript
-* iOS
-* Android
-* Flash-Flex
-* OSX
-* Windows Phone, XBOX, Silverlight, and .NET
-* [!DNL BlackBerry]
-* Java
-* PHP
-* Symbian
+See [AppMeasurement for Javascript release notes](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html).
 
 ## Audience Manager {#aam}
 
