@@ -66,20 +66,24 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | Feature    | Description  |
 | -----------| ---------- |  
-|   |  |
-|  |  |
-|  |  |
+|**Journey IQ: Cross-Device Analytics** |Adobe Analytics is introducing early access for Analytics Ultimate customers to a powerful new feature called Journey IQ: Cross-Device Analytics. Cross-Devices Analytics (CDA) integrates with the Adobe Experience Platform Identity Service, utilizing either the Co-op Graph or Private Graph to identify how devices map to people. CDA then leverages this intelligence to create a new cross-device view of user behavior.<br>CDA includes capabilities and tools to help your enterprise understand multi-device usage and the customer experience across those devices in their interactions with your brand. CDA sits as a layer below Analysis Workspace to provide deep insight into person-based audience analysis and cross-device attribution, segmentation and journey analysis using powerful tools such as Fallout, Flow, Cohort, Segment IQ and Attribution IQ. (Documentation link to follow.)|
+|**Updated Classifications architecture**|Starting in September, an update to the Classifications architecture will be migrated to customers over a period of several months. The September release includes migration for a small number of early adopters.<br>The update significantly reduces the time it takes for uploads (including rule logic) to be imported/ingested and made available for reporting.|
 
 #### Fixes
 
-* 
-* 
-* 
+* Fixed an issue with the ‘People’ and ‘Offers’ core services not being accessible from the main Experience Cloud menu. (AN-184294)
+* Fixed an issue with the left rail in Analysis Workspace oscillating between having a scrollbar and having no scrollbar, which caused a fluttering effect. (AN-183904)
+* Fixed issues with error reporting. You will start to see more specific error messages instead of just the “red bar” error. More specifically, it should help you understand when the issue is caused by heavy load, by an error , or by creating a report request that is too complex. (AN-184135)[More…](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/optimizing-performance.html)
+* Fixed an issue that prevented the successful download of fallout reports in .pdf/.xls/.rtf formats. (AN-183165)
+* Fixed issues with logging in through the Experience Cloud and switching to different Experience Cloud solutions or switching to another login company. (AN-183376)
+* Fixed an issue with assets transfer of scheduled projects not working properly. Groups are managed in the Admin Console now so we don’t copy them between users when transferring assets anymore. (AN-183751)
+* Fixed an issue with deleting scheduled reports whose owners have been deleted. From now on, a notification will go to the Admin (who performed the delete operation) when the schedule owner no longer exists. (AN-181000)
 
 ### Important notices for [!DNL Analytics] administrators {#aa-notices}
 
 | Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- |
+|Upcoming change regarding `createDate` field for Analytics users|August 30, 2019|In October or November 2019, the `createDate` field for Analytics users will be updated from US Pacific Time to a correctly formatted date/time value with time zone information. (AN-183468)|
 | Support for Historical Timezone Offsets | August 8, 2019 | Analytics will now automatically handle timezone offsets for timestamped hits. Following this change on August 8, systems that load in data for historical processing will no longer need to adjust for timezone offsets before sending in the data. |
 | Classification rule builder limits | Added June 5, 2019 | These limits are not new, but have been added to the documentation [here](https://docs.adobe.com/content/help/en/analytics/components/classifications/classifications-rulebuilder/classification-rule-builder.html).|
 | New segment operator limits | Added May 31, 2019 | Starting July 18, 2019, the segment operators _contains any of_, _does not contain any of_, _contains all of_ and _does not contain all_ of will be limited to 100 words per input field. The limit will be applied to all new and modified segments after this date. Existing segments that exceed the limit will continue to be supported, but cannot be modified or saved until the input field is reduced. These limits are being applied as part of a continued effort to improve query performance. |
