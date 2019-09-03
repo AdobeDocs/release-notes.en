@@ -101,31 +101,17 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 ### [!DNL AppMeasurement] {#appm}
 
-| Feature/Fix    | Description  |
-| -----------| ---------- |
-| | |
-| | |
-
-#### Fixes
-
-* 
-* 
-* 
-
-See [[!DNL AppMeasurement] release history](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) for a release history of AppMeasurement on the following platforms:
-
-* JavaScript
-* iOS
-* Android
-* Flash-Flex
-* OSX
-* Windows Phone, XBOX, Silverlight, and .NET
-* [!DNL BlackBerry]
-* Java
-* PHP
-* Symbian
+See [AppMeasurement for Javascript release notes](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html).
 
 ## Audience Manager {#aam}
+
+### New features, enhancements, and fixes in Adobe Analytics {#aam-features}
+
+| Feature    | Description  |
+| -----------| ---------- |  
+|**[People-Based Destinations](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html)** |[!DNLPeople-Based Destinations] is a paid Audience Manager add-on that helps you activate first-party audience segments across people-based environments, like Facebook, using hashed identifiers, such as email addresses.|
+|**[Configuring Twitter Tailored Audiences as a Self-Service Device-Based Destination](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/device-based/twitter-tailored-audiences.html)**|We're migrating Twitter destinations to a self-service configuration model. This article explains what you need to do for existing Twitter integrations to continue working after the migration.|
+|**[Audience Marketplace Billing Examples](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/audience-marketplace/audience-marketplace-for-data-buyers/marketplace-buyer-billing.html#billing-examples)**|We added a new example, Case 3, where we detail how billing works for segments with activation and modeling use cases.|
 
 **Fixes and Improvements**
 
