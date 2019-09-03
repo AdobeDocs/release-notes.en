@@ -115,12 +115,8 @@ See [AppMeasurement for Javascript release notes](https://docs.adobe.com/content
 
 **Fixes and Improvements**
 
-* 
-* 
-* 
-* 
-* 
-
+* Fixed a bug where users were unable to edit Adobe Analytics destinations to map segments manually. (AAM-49323)
+  
 ## Experience Manager {#aem}
 
 New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
