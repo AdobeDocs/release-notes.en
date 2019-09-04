@@ -152,35 +152,47 @@ Access documentation and downloads [here](https://docs.adobe.com/content/help/en
 
 **Assets Smart Tags**
 
-Learn how to update a certificate after it has expireexpiry [here](https://helpx.adobe.com/experience-manager/6-5/assets/using/config-smart-tagging.html#Obtainpubliccertificate)
+Learn how to update a certificate after it has expired [here](https://helpx.adobe.com/experience-manager/6-5/assets/using/config-smart-tagging.html#Obtainpubliccertificate)
 
 ### Community
 
 **AEM Skill Builder Webinars**
 
 * [Adobe Experience Manager Sites](https://forums.adobe.com/thread/2647742)
-    * _Authoring Web Experiences_ &mdash; 27 August 2019
-    * _Search and Navigate Content_ &mdash; 03 September 2019
-    * _Manage Every-Evolving Content Easily_ &mdash; 10 September 2019
-    * _Fluid Experiences_ &mdash; 17 September 2019
-    * _Create and Manage Multi-Lingual, Multi-National to Design a Global Website Structure_ &mdash; 24 September 2019
+
+    | Webinar    | Date  |
+    | -----------| ---------- |  
+    |_Authoring Web Experiences_ |27 August 2019|
+    |_Search and Navigate Content_ |03 September 2019|
+    |_Manage Every-Evolving Content Easily_ |10 September 2019|
+    |_Fluid Experiences_ |17 September 2019|
+    |_Create and Manage Multi-Lingual, Multi-National to Design a Global Website Structure_ |24 September 2019|
 
 * [Adobe Experience Manager Assets](https://forums.adobe.com/thread/2647743)
-    * _Folder Structure and Search_ &mdash; 29 August 2019
-    * _Metadata_ &mdash; 05 September 2019
-    * _Brand Portal_ &mdash; 12 September 2019
-    * _Dynamic Media_ &mdash; 19 September 2019
-    * _Asset Link_ &mdash; 26 September 2019
+
+    | Webinar    | Date  |
+    | -----------| ---------- |  
+    |_Folder Structure and Search_ |29 August 2019|
+    |_Metadata_ |05 September 2019|
+    |_Brand Portal_ |12 September 2019|
+    |_Dynamic Media_ |19 September 2019|
+    |_Asset Link_ |26 September 2019|
 
 * [Adobe Experience Manager Forms](https://forums.adobe.com/thread/2647744)
-    * _Forms 101_ &mdash; 04 September 2019.
-    * _Connect Forms to Databases, Build Workflows, and Integrate Forms with E-Signatures_ &mdash; 11 September 2019.
-    * _Create Mobile-Responsive Web and Print-Ready Interactive Communications_ &mdash; 25 September 2019.
+
+    | Webinar    | Date  |
+    | -----------| ---------- |  
+    |Forms 101_|04 September 2019|
+    |_Connect Forms to Databases, Build Workflows, and Integrate Forms with E-Signatures_|11 September 2019|
+    |_Create Mobile-Responsive Web and Print-Ready Interactive Communications_|25 September 2019|
 
 * [Adobe Experience Manager Cloud Manager](https://forums.adobe.com/thread/2647745)
-    * _Testing Best Practices_ &ndash; Build execution, monitoring, audit, and insights with Cloud Manager	&mdash; 18 September 2019.
-    * _Dispatcher Configurations with Cloud Manager_ &mdash; 16 October 2019.
-    * _Creating Workflows with Cloud Manager and Third-Party Tools_ &mdash; 13 November 2019.
+
+    | Webinar    | Date  |
+    | -----------| ---------- |  
+    |_Testing Best Practices &ndash; Build execution, monitoring, audit, and insights with Cloud Manager_ |18 September 2019|
+    |_Dispatcher Configurations with Cloud Manager_|16 October 2019|
+    |_Creating Workflows with Cloud Manager and Third-Party Tools_|13 November 2019|
 
 ### Additional resources
 
@@ -193,7 +205,6 @@ Learn how to update a certificate after it has expireexpiry [here](https://helpx
 * [Dynamic Media Classic Help Home](https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html)
 * [Dynamic Media release notes](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Livefyre release notes](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
-
 ### Product end-of-life
 
 [!DNL Digital Publishing Suite Classic] (DPSC) will end-of-life on August 31, 2019. For more information, see the [[!DNL Digital Publishing Suite Classic] End-of-Life FAQ](https://helpx.adobe.com/digital-publishing-suite/help/eol-statement-for-dpsc.html).
