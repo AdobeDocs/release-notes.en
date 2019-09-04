@@ -115,7 +115,11 @@ See [AppMeasurement for Javascript release notes](https://docs.adobe.com/content
 
 **Fixes and Improvements**
 
-* Fixed a bug where users were unable to edit Adobe Analytics destinations to map segments manually. (AAM-49323)
+* We fixed a bug where users were unable to edit Adobe Analytics destinations to map segments manually. (AAM-49323)
+* We fixed a bug where duplicate Audience Marketplace feeds were originating from a single data source ID. There must be a 1:1 mapping between data sources and [!DNL Marketplace] feeds. (AAM-48504)
+* We made an enhancement to the trait and segment creation workflow. Now, you can filter the data source to store the trait or segment, to exclude any non-Audience Manager data sources (for example, report suite data sources from Adobe Analytics). (AAM-35899)
+* We fixed an issue in the Data Sources API where setting the query parameter `ExcludeReportSuites=true` did not exclude report suite data sources from Adobe Analytics. (AAM-48545)
+* We made several improvements related to the accessibility of the Audience Manager User Interface. (AAM-49024) and (AAM-49031)
   
 ## Experience Manager {#aem}
 
