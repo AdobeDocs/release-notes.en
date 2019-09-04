@@ -41,10 +41,8 @@ Release notes for the Experience Platform, Experience Cloud interface, product a
 
 ### Experience Cloud interface {#core-services}
 
-* 
-* 
-* 
-* 
+* Fixed a security vulnerability to include recommended HTTP headers. (MCUI-9942)
+* Fixed an issue in switching between Analytics login companies. (MCUI-10049)
 
 For product documentation, see [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html).
 
@@ -67,13 +65,14 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 | Feature    | Description  |
 | -----------| ---------- |  
 |**Journey IQ: Cross-Device Analytics** |Adobe Analytics is introducing early access for Analytics Ultimate customers to a powerful new feature called Journey IQ: Cross-Device Analytics. Cross-Devices Analytics (CDA) integrates with the Adobe Experience Platform Identity Service, utilizing either the Co-op Graph or Private Graph to identify how devices map to people. CDA then leverages this intelligence to create a new cross-device view of user behavior.<br>CDA includes capabilities and tools to help your enterprise understand multi-device usage and the customer experience across those devices in their interactions with your brand. CDA sits as a layer below Analysis Workspace to provide deep insight into person-based audience analysis and cross-device attribution, segmentation and journey analysis using powerful tools such as Fallout, Flow, Cohort, Segment IQ and Attribution IQ. (Documentation link to follow.)|
+|**Journey IQ: Cross-Device Analytics** | In September 2019 Adobe Analytics is introducing early access for Analytics Ultimate customers to a powerful new feature called Journey IQ: Cross-Device Analytics. Cross-Device Analytics (CDA) transforms Adobe Analytics from a device centric to a person-centric analysis tool. Using CDA you can answer questions such as: <ul><li>|How many people are interacting with my brand? How many and what types of devices do they use? How do they overlap?</li><li>How often do people begin a task on a mobile device and then later move to a desktop PC to complete the task? Do campaign click-throughs that land on one device lead to conversion somewhere else?</li><li>How does my understanding of campaign effectiveness change if I take into account cross-device journeys? How does my funnel analysis change?</li><li>What are the most common paths users take from one device to another? Where do they drop out? Where do they succeed?</li><li>How does the behavior of users with multiple devices differ from the users with a single device?</li></ul>
 |**Updated Classifications architecture**|Starting in September, an update to the Classifications architecture will be migrated to customers over a period of several months. The September release includes migration for a small number of early adopters.<br>The update significantly reduces the time it takes for uploads (including rule logic) to be imported/ingested and made available for reporting.|
 
 #### Fixes
 
 * Fixed an issue with the ‘People’ and ‘Offers’ core services not being accessible from the main Experience Cloud menu. (AN-184294)
 * Fixed an issue with the left rail in Analysis Workspace oscillating between having a scrollbar and having no scrollbar, which caused a fluttering effect. (AN-183904)
-* Fixed issues with error reporting. You will start to see more specific error messages instead of just the “red bar” error. More specifically, it should help you understand when the issue is caused by heavy load, by an error , or by creating a report request that is too complex. (AN-184135)[More…](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/optimizing-performance.html)
+* Fixed issues with error reporting. You will start to see more specific error messages instead of just the “red bar” error. More specifically, it should help you understand when the issue is caused by heavy load, by an error , or by creating a report request that is too complex. (AN-184135) [More…](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/optimizing-performance.html)
 * Fixed an issue that prevented the successful download of fallout reports in .pdf/.xls/.rtf formats. (AN-183165)
 * Fixed issues with logging in through the Experience Cloud and switching to different Experience Cloud solutions or switching to another login company. (AN-183376)
 * Fixed an issue with assets transfer of scheduled projects not working properly. Groups are managed in the Admin Console now so we don’t copy them between users when transferring assets anymore. (AN-183751)
