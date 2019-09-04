@@ -37,6 +37,7 @@ Release notes for the Experience Platform, Experience Cloud interface, product a
 
 * [Experience Cloud interface](#core-services)
 * [Experience Platform Launch](#launch)
+* [Mobile Services and Mobile SDK](#mobile)
 * [Security bulletins and advisories](https://helpx.adobe.com/security.html) (All Adobe products)
 
 ### Experience Cloud interface {#core-services}
@@ -49,6 +50,25 @@ For product documentation, see [Experience Cloud](https://docs.adobe.com/content
 ### Experience Platform Launch {#launch}
 
 See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) for release notes and product documentation.
+
+### Mobile Services and Mobile SDK {#mobile}
+
+Release Date: **September 26th**
+ 
+**iOS (4.18.8)**
+
+* Fixed a bug where SDK data is synchronized to the paired watchOS app on every Analytics call.
+* Fixed a bug where push click-through payload could not be used as traits for in-app messaging.
+* Updated to user notification framework APIs instead of UILocalNotification API, which has been deprecated from iOS 10 onwards.
+* Updated to WKWebView instead of UIWebView, which has been deprecated for iOS 12 onwards.
+ 
+**Android 4.17.10**
+
+* Added support for BCP 47 language tags.
+ 
+**Unity**
+
+* Plug-in updated to 4.18.7 for iOS and 4.17.9 for Android
 
 ## [!DNL Analytics] {#analytics}
 
