@@ -23,7 +23,7 @@ New features and fixes in the Adobe Experience Cloud.
 **Release date: September 12, 2019**
 
 * [Experience Cloud and Experience Platform](#platform)
-* [!DNL Analytics](#analytics) 
+* [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -69,12 +69,12 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 #### Fixes
 
-* Fixed an issue with the ‘People’ and ‘Offers’ core services not being accessible from the main Experience Cloud menu. (AN-184294)
-* Fixed an issue with the left rail in Analysis Workspace oscillating between having a scrollbar and having no scrollbar, which caused a fluttering effect. (AN-183904)
-* Fixed issues with error reporting. You will start to see more specific error messages instead of just the “red bar” error. More specifically, it should help you understand when the issue is caused by heavy load, by an error , or by creating a report request that is too complex. (AN-184135) [More…](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/optimizing-performance.html)
-* Fixed an issue that prevented the successful download of fallout reports in .pdf/.xls/.rtf formats. (AN-183165)
+* Fixed an issue with the [!UICONTROL People] and [!UICONTROL Offers] core services not being accessible from the main Experience Cloud menu. (AN-184294)
+* Fixed an issue with the left rail in [!UICONTROL Analysis Workspace] oscillating between having a scrollbar and having no scrollbar, which caused a fluttering effect. (AN-183904)
+* Fixed issues with error reporting. You will start to see more specific error messages instead of just the red error indicator. More specifically, it should help you understand when the issue is caused by heavy load, by an error , or by creating a report request that is too complex. (AN-184135) [More…](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/optimizing-performance.html)
+* Fixed an issue that prevented the successful download of fallout reports in `.pdf/.xls/.rtf` formats. (AN-183165)
 * Fixed issues with logging in through the Experience Cloud and switching to different Experience Cloud solutions or switching to another login company. (AN-183376)
-* Fixed an issue with assets transfer of scheduled projects not working properly. Groups are managed in the Admin Console now so we don’t copy them between users when transferring assets anymore. (AN-183751)
+* Fixed an issue with assets transfer of scheduled projects not working properly. Groups are managed in the [!UICONTROL Admin Console] now so we do not copy them between users when transferring assets anymore. (AN-183751)
 * Fixed an issue with deleting scheduled reports whose owners have been deleted. From now on, a notification will go to the Admin (who performed the delete operation) when the schedule owner no longer exists. (AN-181000)
 
 ### Important notices for [!DNL Analytics] administrators {#aa-notices}
@@ -103,7 +103,9 @@ See [AppMeasurement for Javascript release notes](https://docs.adobe.com/content
 
 ## Audience Manager {#aam}
 
-### New features, enhancements, and fixes in Adobe Analytics {#aam-features}
+New features, enhancements, and fixes in Audience Manager.
+
+### New features and enhancements {#aam-features}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -205,6 +207,7 @@ Learn how to update a certificate after it has expired [here](https://helpx.adob
 * [Dynamic Media Classic Help Home](https://docs.adobe.com/content/help/en/dynamic-media-classic/using/home.html)
 * [Dynamic Media release notes](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Livefyre release notes](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
+
 ### Product end-of-life
 
 [!DNL Digital Publishing Suite Classic] (DPSC) will end-of-life on August 31, 2019. For more information, see the [[!DNL Digital Publishing Suite Classic] End-of-Life FAQ](https://helpx.adobe.com/digital-publishing-suite/help/eol-statement-for-dpsc.html).
@@ -241,10 +244,3 @@ Please note that [!UICONTROL Control Panel] is available for both Adobe Campaign
 
 * Adobe Campaign Standard: [Documentation](https://helpx.adobe.com/support/campaign/standard.html) - [Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)
 * Adobe Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
-
-## Advertising Cloud {#adcloud}
- 
-| Feature    | Description  |
-| -----------| ---------- |  
-|   | |  
-|   | |
