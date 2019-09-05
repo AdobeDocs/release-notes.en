@@ -146,9 +146,9 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 
 ### Product release
 
-**Cloud Manager 2019.9.0**
+**Cloud Manager 2019.8.0**
 
-Cloud Manager release 2019.8.0 adds support for selective built content [packages, improved build performance, and fixes a variety of minor bugs.
+Cloud Manager release 2019.8.0 fixes a variety of minor bugs, improves build performance, and adds support for selective built content packages.
 
 * [Release Notes for Cloud Manager 2019.8.0](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
 
@@ -156,7 +156,7 @@ Cloud Manager release 2019.8.0 adds support for selective built content [package
 
 **AEM maintenance release roadmap**
 
-The AEM maintenance release roadmap is published [here](https://helpx.adobe.com/experience-manager/maintenance-releases-roadmap.html).
+See the AEM maintenance release roadmap as published [here](https://helpx.adobe.com/experience-manager/maintenance-releases-roadmap.html).
 
 ### Self-Help
 
@@ -167,13 +167,21 @@ The AEM maintenance release roadmap is published [here](https://helpx.adobe.com/
 
 **AEM desktop app 2.0**
 
-The general availability of AEM desktop app 2.0 will occur September, 2019.
+AEM desktop app 2.0 for MAC was released 30 August 2019. AEM desktop app 2.0 for Windows will release in early September.
 
-Access documentation and downloads [here](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html)
+Access documentation and downloads [here](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html).
 
 **Assets Smart Tags**
 
-Learn how to update a certificate after it has expired [here](https://helpx.adobe.com/experience-manager/6-5/assets/using/config-smart-tagging.html#Obtainpubliccertificate)
+Learn how to update a certificate after it has expired [here](https://helpx.adobe.com/experience-manager/6-5/assets/using/config-smart-tagging.html#Obtainpubliccertificate).
+
+**AEM 6.5 Screens User Guide**
+
+New documentation on _Network Deployment Guidelines_ is now available. See the [User Guide](https://helpx.adobe.com/experience-manager/6-5/screens/user-guide.html).
+
+**Automated Forms Conversion Service**
+
+Documentation for AEM Forms automated forms conversion service is now available. See [Introduction to Automated Forms Conversion service](https://helpx.adobe.com/experience-manager/Automated-Forms-Conversion-Service/introduction-to-automated-form-conversion-service.html).
 
 ### Community
 
