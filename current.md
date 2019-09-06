@@ -8,7 +8,7 @@ author: mfrei
 
 ---
 
-# Adobe Experience Cloud Release Notes - September 2019
+# Early Access - September 2019 - Experience Cloud Release Notes
 
 New features and fixes in the Adobe Experience Cloud.
 
