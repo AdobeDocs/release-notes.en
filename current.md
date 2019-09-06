@@ -31,7 +31,7 @@ New features and fixes in the Adobe Experience Cloud.
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 
-## Experience Cloud interface {ecloud}
+## Experience Cloud interface {#ecloud}
 
 Release notes for Experience Cloud interface and product administration.
 
