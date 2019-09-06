@@ -168,9 +168,9 @@ See the AEM maintenance release roadmap as published [here](https://helpx.adobe.
 * [About Adobe Asset Link Prerelease](https://helpx.adobe.com/enterprise/using/adobe-asset-link-prerelease.html)
 * [Configuring AEM for Adobe Asset Link for prerelease](https://helpx.adobe.com/enterprise/using/configure-aem-for-aal-prerelease.html)
 
-**AEM desktop app 2.0**
+**AEM Desktop App 2.0**
 
-AEM desktop app 2.0 for MAC was released 30 August 2019. AEM desktop app 2.0 for Windows will release in early September.
+AEM Desktop App 2.0 for MAC was released 30 August 2019. AEM Desktop App 2.0 for Windows will release in early September.
 
 Access documentation and downloads [here](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html).
 
