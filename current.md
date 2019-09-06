@@ -8,7 +8,7 @@ author: mfrei
 
 ---
 
-# INTERNAL REVIEW - Adobe Experience Cloud Release Notes
+# Early Access - Adobe Experience Cloud Release Notes
 
 New features and fixes in the Adobe Experience Cloud.
 
