@@ -22,7 +22,7 @@ New features and fixes in the Adobe Experience Cloud.
 
 ## Release date: September 12, 2019
 
-* [Experience Cloud interface](ecloud)
+* [Experience Cloud interface](#ecloud)
 * [Experience Platform](#platform)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
