@@ -8,7 +8,7 @@ author: mfrei
 
 ---
 
-# Early Access - Adobe Experience Cloud Release Notes
+# Adobe Experience Cloud Release Notes - September 2019
 
 New features and fixes in the Adobe Experience Cloud.
 
@@ -20,9 +20,10 @@ New features and fixes in the Adobe Experience Cloud.
 >
 >Subscribe to the [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date.
 
-**Release date: September 12, 2019**
+## Release date: September 12, 2019
 
-* [Experience Cloud and Experience Platform](#platform)
+* [Experience Cloud interface](ecloud)
+* [Experience Platform](#platform)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
@@ -30,21 +31,22 @@ New features and fixes in the Adobe Experience Cloud.
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 
-## Experience Cloud and Experience Platform {#platform}
+## Experience Cloud interface {ecloud}
 
-Release notes for the Experience Platform, Experience Cloud interface, product administration, Experience Platform Launch, Identity Service, and security bulletins.  
-
-* [Experience Cloud interface](#core-services)
-* [Experience Platform Launch](#launch)
-* [Mobile Services and Mobile SDK](#mobile)
-* [Security bulletins and advisories](https://helpx.adobe.com/security.html) (All Adobe products)
-
-### Experience Cloud interface {#core-services}
+Release notes for Experience Cloud interface and product administration.
 
 * Fixed a security vulnerability to include recommended HTTP headers. (MCUI-9942)
 * Fixed an issue in switching between Analytics login companies. (MCUI-10049)
 
 For product documentation, see [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html).
+
+## Experience Platform {#platform}
+
+Release notes for the Experience Platform, Experience Platform Launch, Identity Service, and security bulletins.  
+
+* [Experience Platform Launch](#launch)
+* [Mobile Services and Mobile SDK](#mobile)
+* [Security bulletins and advisories](https://helpx.adobe.com/security.html) (All Adobe products)
 
 ### Experience Platform Launch {#launch}
 
