@@ -155,6 +155,13 @@ Cloud Manager release 2019.8.0 fixes a variety of minor bugs, improves build per
 
 * [Release Notes for Cloud Manager 2019.8.0](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
 
+**Software Distribution**
+
+[Software Distribution](https://downloads.experiencecloud.adobe.com/) is the new user interface designed to simplify the search and download of AEM Packages. It is currently in beta status and only accessible to Adobe Managed Services customers.
+
+* [Package Share](https://helpx.adobe.com/experience-manager/6-5/sites/administering/using/package-manager.html#PackageShare) will remain accessible until all customers have access to Software Distribution.
+* All packages are available from both Package Share and Software Distribution.
+
 ### Product maintenance
 
 **AEM maintenance release roadmap**
