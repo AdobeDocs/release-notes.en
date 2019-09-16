@@ -267,6 +267,9 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 ### Adobe Campaign [!UICONTROL Control Panel]
 
+We’ve added new capabilities for Admin users to whitelist IP addresses to connect to Campaign Classic instances.
+Additionally, Admin users can now view the list of instances and eligibility for build upgrades. For more information, refer to the [dedicated documentation](https://helpx.adobe.com/campaign/kb/control-panel-instance-settings.html).
+
 We’ve added new capabilities for Admin users to receive notifications before SSL certificates for their domains expire. For more information, refer to the [detailed documentation](https://helpx.adobe.com/campaign/kb/control-panel-subdomains-certificates.html).
 
 Additionally, Admin users can now delete SSH keys that were added to access SFTP servers.
