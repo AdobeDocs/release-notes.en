@@ -56,12 +56,12 @@ Release Date: **September 26th**
 
 Release date: September 20, 2019
 
-*	In App Messaging:
-  * On devices running iOS 10 or newer, the UserNotifications framework is now used to schedule local notifications for apps that are linked to the UserNotifications.framework . 
-  *	Fullscreen messages now use WKWebViews from WebKit.framework , which must be linked in your Xcode project. 
-  *	Fixed a bug where the Push click-through payload could not be used as traits for In-App Messaging. 
-  *	Fixed a crash issue. 
-*	General - Fixed a bug where SDK data was synchronized to the paired watchOS app on every Analytics call. 
+* In App Messaging:
+    * On devices running iOS 10 or newer, the UserNotifications framework is now used to schedule local notifications for apps that are linked to the UserNotifications.framework .
+    * Fullscreen messages now use WKWebViews from WebKit.framework, which must be linked in your Xcode project.
+    * Fixed a bug where the Push click-through payload could not be used as traits for In-App Messaging.
+    * Fixed a crash issue.
+* General - Fixed a bug where SDK data was synchronized to the paired watchOS app on every Analytics call.
  
 **Android: Version 4.17.10**
 
