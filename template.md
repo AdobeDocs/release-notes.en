@@ -8,7 +8,7 @@ author: mfrei
 
 ---
 
-# Adobe Experience Cloud Release Notes
+# Adobe Experience Cloud Release Notes - Month
 
 New features and fixes in the Adobe Experience Cloud.
 
@@ -31,9 +31,18 @@ New features and fixes in the Adobe Experience Cloud.
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 
+## Experience Cloud interface {#ecloud}
+
+Release notes for Experience Cloud interface and product administration.
+
+* 
+* 
+
+For product documentation, see [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html).
+
 ## Experience Platform and administration {#platform}
 
-Release notes for the Experience Platform, Experience Cloud interface, product administration, Experience Platform Launch, Identity Service, and security bulletins.   
+Release notes for the Experience Platform, Experience Platform Launch, Identity Service, and security bulletins.  
 
 * [Experience Cloud interface](#core-services)
 * [Experience Cloud ID Service](#ecid)
@@ -94,11 +103,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 ### New features in Adobe Analytics {#aa-features}
 
-| Feature    | Description  |
-| -----------| ---------- |  
-| Feature A  | Text |  
-| Feature B  | Text |
-| Feature C  | Text |
+
 
 ### [!DNL Media Analytics] SDK for iOS & Android (formerly VHL SDK) {#aa-va}
 
