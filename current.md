@@ -85,7 +85,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 #### Fixes
 
-* Analysis Workspace: Fixed an issue that resulted in incorrect search results when searching for  dimension items in the left rail. (AN-185065)
+* Analysis Workspace: Fixed an issue that resulted in incorrect search results when searching for dimension items in the left rail. (AN-185065)
 * Fixed issues with being unable to delete/unpublish shared segments in Adobe Audience Manager (AAM). The fix is to not delete the segment if AAM is unresponsive. (AN-185882, AN-185883, AN-184607)
 * Fixed a timeout issue with being unable to load segments in Ad Hoc Analysis due. (AN-184654)
 * Fixed an issue that occurred when the report suite you last used was subsequently hidden or you no longer had permissions to access this report suite. In this case, you could no longer log in through Experience Cloud. (AN-181777)
