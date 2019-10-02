@@ -119,16 +119,19 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 ### Product maintenance
 
 * **AEM 6.3.3.6**
+
 AEM 6.3, Service Pack 3, Cumulative Fix Pack 6 (6.3.3.6 released September 25, 2019) is an important update that includes key customer fixes released since the general availability of AEM 6.3, April 2017.
     * [Release notes](https://helpx.adobe.com/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html)
     * [AEM Forms CFP releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
 * **AEM 6.4.6.0**
+
 AEM 6.4, Service Pack 6.0 (6.4.6.0 released September 19, 2019) is an important update that includes key customer fixes released since the general availability of AEM 6.4, April 2018.
     * [Release notes](https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html)
     * [AEM Forms CFP releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
 * **AEM 6.5.2.0**
+
 AEM 6.5, Service Pack 2.0 (6.5.2.0 released September 19, 2019) is an important update that includes key customer fixes released since the general availability of AEM 6.5, April 2019.
     * [Release notes](https://helpx.adobe.com/experience-manager/6-5/release-notes/sp-release-notes.html)
     * [AEM Forms CFP releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
@@ -136,14 +139,17 @@ AEM 6.5, Service Pack 2.0 (6.5.2.0 released September 19, 2019) is an important 
 ### Self-Help
 
 * **Scene7: Reprocess Assets workflow**
+
 You can now reprocess assets in a folder that already has an existing processing profile that you later changed. 
     See [Reprocessing assets in a folder after you have edited its processing profile](https://helpx.adobe.com/experience-manager/6-5/assets/using/processing-profiles.html#Reprocessingassetsinafolderafteryouhaveediteditsprocessingprofile).
 
 * **Integration of Dynamic Media Viewers with Adobe Analytics and Adobe Launch**
+
 The Dynamic Media Viewers extension for Adobe Launch, along with the release of Dynamic Media Viewers 5.13, lets customers of Dynamic Media, Adobe Analytics, and Adobe Launch use events and data specific for the Dynamic Media Viewers in their Adobe Launch configuration.
     See [Integrating Dynamic Media Viewers with Adobe Analytics and Adobe Launch](https://helpx.adobe.com/experience-manager/6-5/assets/using/launch.html).
 
 * **AEM desktop app**
+
 AEM desktop app 2.0 is now available for creatives, marketers, and line-of-business users, to work with AEM Assets.
     See the [AEM desktop app Release notes.](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html)
 
