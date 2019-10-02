@@ -48,23 +48,6 @@ Release notes for the Experience Platform, Experience Platform Launch, Identity 
 
 See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) for release notes and product documentation.
 
-### Mobile Services and Mobile SDK {#mobile}
-
-Release Date: **September 26th**
- 
-**iOS**
-
-* 
-* 
- 
-**Android**
-
-* .
- 
-**Unity**
-
-* .
-
 ## [!DNL Analytics] {#analytics}
 
 New features and fixes in Adobe Analytics:
