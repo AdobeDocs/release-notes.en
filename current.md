@@ -122,6 +122,7 @@ New features, enhancements, and fixes in Audience Manager.
 
 **Fixes and Improvements**
 
+* All customer accounts created after July 1st, 2019, will automatically be assigned a [!DNL Tableau] license, providing them access to the overlap reports. If your account was created before July 1st, 2019, and you still do not have access to your [!DNL Tableau] reports, please contact Customer Care.
 * We've removed activity trait memberships for visitor profiles that did not have an ID synchronization with the trait data source (AAM-45371).
 * We've removed invalid global device IDs from global data sources. See [Global Data Sources](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/data-sources/global-data-sources.html) to learn what valid device IDs should look like to be accepted by Audience Manager (AAM-41259).
 * Fixed a bug causing the Segments page to stop responding when you attempt to delete a protected segment (AAM-49881).
