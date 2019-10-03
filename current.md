@@ -111,7 +111,7 @@ New features, enhancements, and fixes in Audience Manager.
 * We've removed incorrectly generated activity trait memberships for visitor profiles that did not have an ID synchronization with the trait data source (AAM-45371).
 * We've removed invalid global device IDs from global data sources. See [Global Data Sources](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/data-sources/global-data-sources.html) to learn what valid device IDs should look like to be accepted by Audience Manager (AAM-41259).
 * Fixed a bug causing the Segments page to stop responding when you attempt to delete a protected segment (AAM-49881).
-* When editing destinations for Twitter Tailored Audiences, the [!UICONTROL Account] is now active only if the destination does not have a [!DNL Twitter Ads] account assigned (AAM-49975).
+* When editing destinations for Twitter Tailored Audiences, the [!UICONTROL Account] selector is now active only if the destination does not have a [!DNL Twitter Ads] account assigned (AAM-49975).
 * Fixed a bug preventing users from disabling [!UICONTROL Audience Marketplace] data feeds when subscriptions are disabled (AAM-49640).
 * We made several improvements related to the accessibility of the Audience Manager User Interface.
   
