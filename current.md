@@ -3,7 +3,7 @@
 title: Adobe Experience Cloud Release Notes
 description: Template for Experience Cloud release notes
 doc-type: release notes
-last-update: September 2019
+last-update: October 2019
 author: mfrei
 
 ---
@@ -12,13 +12,17 @@ author: mfrei
 
 New features and fixes in the Adobe Experience Cloud.
 
+>[!IMPORTANT]
+>
+>This page contains pre-release content and is subject to change prior to the planned release.
+
 >[!NOTE]
 >
 >Subscribe to the [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date.
 
 ## Release date: October 10, 2019
 
-* [Experience Cloud interface](#ecloud)
+<!-- * [Experience Cloud interface](#ecloud) -->
 * [Experience Platform](#platform)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
@@ -27,14 +31,14 @@ New features and fixes in the Adobe Experience Cloud.
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 
-## Experience Cloud interface {#ecloud}
+<!-- ## Experience Cloud interface {#ecloud}
 
 Release notes for Experience Cloud interface and product administration.
 
 * Fixed a security vulnerability to include recommended HTTP headers. (MCUI-9942)
 * Fixed an issue in switching between Analytics login companies. (MCUI-10049)
 
-For product documentation, see [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html).
+For product documentation, see [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html). -->
 
 ## Experience Platform {#platform}
 
@@ -184,7 +188,7 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 
 Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
 
-### Adobe Campaign Classic
+<!-- ### Adobe Campaign Classic
 
 * [Campaign Classic 19.1.4 update](https://docs.campaign.adobe.com/doc/AC/en/RN.html#9032) – build 9032
 * [Campaign Classic 19.1.5 update](https://docs.campaign.adobe.com/doc/AC/en/RN.html#9033) – build 9033
@@ -193,7 +197,7 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 Text
 
-### Additional resources
+### Additional resources -->
 
 * Adobe Campaign Standard: [Documentation](https://helpx.adobe.com/support/campaign/standard.html) - [Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html)
 * Adobe Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
