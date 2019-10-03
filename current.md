@@ -41,29 +41,11 @@ For product documentation, see [Experience Cloud](https://docs.adobe.com/content
 Release notes for the Experience Platform, Experience Platform Launch, Identity Service, and security bulletins.  
 
 * [Experience Platform Launch](#launch)
-* [Mobile Services and Mobile SDK](#mobile)
 * [Security bulletins and advisories](https://helpx.adobe.com/security.html) (All Adobe products)
 
 ### Experience Platform Launch {#launch}
 
 See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) for release notes and product documentation.
-
-### Mobile Services and Mobile SDK {#mobile}
-
-Release Date: **September 26th**
- 
-**iOS**
-
-* 
-* 
- 
-**Android**
-
-* .
- 
-**Unity**
-
-* .
 
 ## [!DNL Analytics] {#analytics}
 
@@ -79,6 +61,8 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | Feature    | Description  |
 | -----------| ---------- |  
+|Privacy Service API: CCPA|The California Consumer Privacy Act (CCPA) enhances privacy rights and consumer protection for residents of California, United States. This Act is set to become effective on January 1, 2020.<br/><br/>The CCPA provides new data privacy rights to California residents, such as the right to access and delete their personal data, to know whether their personal data is sold or disclosed (and to whom), and to refuse the sale of their personal data.<br/><br/>In anticipation of the CCPA, the Privacy Service will support requests to opt out from the selling of personal data.<br/><br/>The Privacy Service was formerly called the GDPR Service and retains all the previous functionality, now extended to support CCPA.<br/><br/>CCPA in Analytics: `[Link to new CCPA page in Analytics]()`<br/><br/>[Privacy Service Overview](https://www.adobe.io/apis/experiencecloud/gdpr/docs/alldocs.html#!api-specification/markdown/narrative/technical_overview/privacy_service_overview/privacy_service_overview.md)|
+|Privacy Reporting: Analytics Admin Console|Enabling Privacy Reporting for Analytics adds a set of reserved variables to a report suite.  The variables are designed to assist in the collection of consumer consent data at a hit level.<br/><br/>New Dimensions:<br/><ul><li>Consent Management Opt-Out</li><li>Consent Management Opt-In</li><li>Consent Management Variables: `[Link to new Consent Variables page in Analytics]()`</li></ul>|
 |Analysis Workspace: Update to Freeform table totals|Freeform tables now include two totals – a **[!UICONTROL Table total]** and a **[!UICONTROL Grand total]**. The Table total row accounts for [report filters](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html) applied. Previously, only segmentation impacted totals. [Learn more](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/workspace-totals.html)<br>In addition, **[!UICONTROL Show Totals]** and **[!UICONTROL Show Grand Total]** options have been added to **[!UICONTROL Column Settings]**.<br>With this change to Freeform totals, dependent visualizations will be updated (e.g. linked **[!UICONTROL Summary Number]** visualizations), as well as exported CSV and PDF data. |
 |Analysis Workspace: Option to remove Unspecified/None|The ability to easily remove ‘Unspecified (None)’ has been added as an option to report filters.|
 |Analysis Workspace: Deprecation of purple granularity components|Purple granularity time components (Minute, Hour, Day, Week, Month, Quarter, Year) have been deprecated. The purple time components have always behaved exactly like their orange dimension counterparts, so this change will simplify the experience. **No action** needs to taken if you previously used one of the purple time components.<br>With this change, the purple **[!UICONTROL Time]** section has also been renamed to **[!UICONTROL Date Ranges]**.|
@@ -95,6 +79,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- |
+|San Jose FTP Broker Ending for London and Singapore|July 2020|For customers in London and Singapore, we will no longer be supporting brokering of data between London or Singapore and the San Jose data center [ftp.omniture.com](ftp://ftp.omniture.com/).<br/><br/>For London use [ftp3.omniture.com](ftp://ftp3.omniture.com/)<br/><br/> For Singapore use [ftp4.omniture.com](ftp://ftp4.omniture.com/)|
 | Update to Analysis Workspace Freeform Table totals | September 12, 2019 | In October 2019, freeform table total rows will begin accounting for [report filters](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/pagination-filtering-sorting.html) applied. To date, totals have accounted only for segmentation. With this change, dependent visualizations will update (e.g. linked [!UICONTROL Summary Number] visualizations), as well as exported CSV and PDF data.|
 |Upcoming change regarding `createDate` field for Analytics users|August 30, 2019|In October or November 2019, the `createDate` field for Analytics users will be updated from US Pacific Time to a correctly formatted date/time value with time zone information. (AN-183468)|
 | Support for Historical Timezone Offsets | August 8, 2019 | Analytics will now automatically handle timezone offsets for timestamped hits. Following this change on August 8, systems that load in data for historical processing will no longer need to adjust for timezone offsets before sending in the data. |
@@ -134,34 +119,54 @@ New features, enhancements, and fixes in Audience Manager.
 
 New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
 
-### Product release
-
-**Product**
-
-Text
-
 ### Product maintenance
 
-**Heading**
+* **AEM 6.3.3.6**
 
-See the AEM maintenance release roadmap as published [here](https://helpx.adobe.com/experience-manager/maintenance-releases-roadmap.html).
+    AEM 6.3, Service Pack 3, Cumulative Fix Pack 6 (6.3.3.6 released September 25, 2019) is an important update that includes key customer fixes released since the general availability of AEM 6.3, April 2017.
+    * [Release notes](https://helpx.adobe.com/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html)
+    * [AEM Forms CFP releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+
+* **AEM 6.4.6.0**
+
+    AEM 6.4, Service Pack 6.0 (6.4.6.0 released September 19, 2019) is an important update that includes key customer fixes released since the general availability of AEM 6.4, April 2018.
+    * [Release notes](https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html)
+    * [AEM Forms CFP releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+
+* **AEM 6.5.2.0**
+    AEM 6.5, Service Pack 2.0 (6.5.2.0 released September 19, 2019) is an important update that includes key customer fixes released since the general availability of AEM 6.5, April 2019.
+    * [Release notes](https://helpx.adobe.com/experience-manager/6-5/release-notes/sp-release-notes.html)
+    * [AEM Forms CFP releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
 ### Self-Help
 
-**Heading**
+* **Scene7: Reprocess Assets workflow**
 
-* Fix
-* Fix
-* Fix
-* Fix
+    You can now reprocess assets in a folder that already has an existing processing profile that you later changed. 
+    See [Reprocessing assets in a folder after you have edited its processing profile](https://helpx.adobe.com/experience-manager/6-5/assets/using/processing-profiles.html#Reprocessingassetsinafolderafteryouhaveediteditsprocessingprofile).
 
-**Heading**
+* **Integration of Dynamic Media Viewers with Adobe Analytics and Adobe Launch**
 
-Access documentation and downloads [here](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html).
+    The Dynamic Media Viewers extension for Adobe Launch, along with the release of Dynamic Media Viewers 5.13, lets customers of Dynamic Media, Adobe Analytics, and Adobe Launch use events and data specific for the Dynamic Media Viewers in their Adobe Launch configuration.
+    See [Integrating Dynamic Media Viewers with Adobe Analytics and Adobe Launch](https://helpx.adobe.com/experience-manager/6-5/assets/using/launch.html).
 
-### Community
+* **AEM desktop app**
 
-Text
+    AEM desktop app 2.0 is now available for creatives, marketers, and line-of-business users, to work with AEM Assets.
+    See the [AEM desktop app Release notes.](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html)
+
+* **Core Components**
+    * Learn about the localization features of Core Components and how they work with AEM templates.
+    [See the example](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/get-started/localization.html).
+    * Core Components 2.6.0 introduces an Experience Fragment Component. The component is now available along with [authoring documentation](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html) and [developer details and project download available on GitHub](https://github.com/adobe/aem-core-wcm-components).
+
+* **AEM Assets**
+    * New documentation for visual/similarity search capability.
+    See [Find similar images](https://helpx.adobe.com/experience-manager/6-5/assets/using/search-assets.html#visualsearch).
+    * Connected Assets functionality now uses documents that are available on remote DAM deployment, in addition to images file formats.
+    See [Use Connected Assets to share DAM assets in AEM Sites](https://helpx.adobe.com/experience-manager/6-5/assets/using/use-assets-across-connected-assets-instances.html).
+    * Fresh content on asset searching and discovery. The _Search assets in AEM_ topic is your one-stop-shop for information on using, configuring, troubleshooting, limitations, and tips.
+    See [Search assets in AEM](https://helpx.adobe.com/experience-manager/6-5/assets/using/search-assets.html).
 
 ### Additional resources
 
