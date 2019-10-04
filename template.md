@@ -3,7 +3,7 @@
 title: Adobe Experience Cloud Release Notes
 description: Template for Experience Cloud release notes
 doc-type: release notes
-last-update: March 2019
+last-update: October 2019
 author: mfrei
 
 ---
