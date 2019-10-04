@@ -3,12 +3,12 @@
 title: Adobe Experience Cloud Release Notes
 description: Template for Experience Cloud release notes
 doc-type: release notes
-last-update: March 2019
+last-update: October 2019
 author: mfrei
 
 ---
 
-# Adobe Experience Cloud Release Notes - Month
+# Adobe Experience Cloud Release Notes
 
 New features and fixes in the Adobe Experience Cloud.
 
@@ -18,11 +18,11 @@ New features and fixes in the Adobe Experience Cloud.
 
 >[!NOTE]
 >
->Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. You will receive the notice three to five business days in advance of the release. New information published after the release will be marked with the publication date.
+>Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. New information published after the release will be marked with the publication date.
 
 **Release date: 2019**
 
-* [Experience Platform and administration](#platform)
+* [Experience Cloud and Experience Platform](#platform)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
@@ -31,18 +31,9 @@ New features and fixes in the Adobe Experience Cloud.
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 
-## Experience Cloud interface {#ecloud}
+## Experience Cloud and Experience Platform{#platform}
 
-Release notes for Experience Cloud interface and product administration.
-
-* 
-* 
-
-For product documentation, see [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html).
-
-## Experience Platform and administration {#platform}
-
-Release notes for the Experience Platform, Experience Platform Launch, Identity Service, and security bulletins.  
+Release notes for the Experience Platform, Experience Cloud interface, product administration, Experience Platform Launch, Identity Service, and security bulletins.   
 
 * [Experience Cloud interface](#core-services)
 * [Experience Cloud ID Service](#ecid)
@@ -103,7 +94,11 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 ### New features in Adobe Analytics {#aa-features}
 
-
+| Feature    | Description  |
+| -----------| ---------- |  
+| Feature A  | Text |  
+| Feature B  | Text |
+| Feature C  | Text |
 
 ### [!DNL Media Analytics] SDK for iOS & Android (formerly VHL SDK) {#aa-va}
 
