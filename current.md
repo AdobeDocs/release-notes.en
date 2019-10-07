@@ -124,6 +124,13 @@ New features, enhancements, and fixes in Audience Manager.
 
 New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
 
+### Product Release
+
+* **Cloud Manager 2019.9.0**
+
+    Cloud Manager 2019.9.0, released September 12, 2019, updates the security test criteria, adds downloadable monitoring graphs, and fixes some customer-reported usability issues.
+    * [Release notes](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
+
 ### Product maintenance
 
 * **AEM 6.3.3.6**
