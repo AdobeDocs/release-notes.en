@@ -79,6 +79,8 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 * Fixed a timeout issue with being unable to load segments in Ad Hoc Analysis. (AN-184654)
 * Fixed an issue that occurred when the report suite you last used was subsequently hidden or you no longer had permissions to access this report suite. In this case, you could no longer log in through Experience Cloud. (AN-181777)
 * Fixed a timeout issue in segments that made it difficult to create a VRS based on a segment. (AN-179684)
+* Fixed an issue where data was truncated if there was an incorrect encoding in rare cases. (AN-186707)
+* Yandex Search Engines are now properly broken out by country. (AN-181728)
 
 ### Important notices for [!DNL Analytics] administrators {#aa-notices}
 
