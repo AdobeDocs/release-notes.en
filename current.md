@@ -130,7 +130,7 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 
 * **Cloud Manager 2019.9.0**
 
-    Cloud Manager 2019.9.0, released September 12, 2019, updates the security test criteria, adds downloadable monitoring graphs, and fixes some customer-reported usability issues.
+    * Cloud Manager 2019.9.0, released September 12, 2019, updates the security test criteria, adds downloadable monitoring graphs, and fixes some customer-reported usability issues.
     * [Release notes](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
 
 ### Product maintenance
