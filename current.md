@@ -26,6 +26,7 @@ New features and fixes in the Adobe Experience Cloud.
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
+* [!DNL Advertising Cloud](#adcloud)
 
 <!-- ## Experience Cloud interface {#ecloud}
 
@@ -203,3 +204,17 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 * Adobe Campaign Standard: [Documentation](https://helpx.adobe.com/support/campaign/standard.html) - [Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [Release Planning](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
 * Adobe Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+
+## Advertising Cloud {#adcloud}
+
+Updated for October 12, 2019, release
+
+| View | Feature |
+|------|---------|
+| Search Campaigns | Advertising Cloud can now sync and provide ad-level tracking for accounts on Yahoo! Japan Display Network. If you provide login details for an account, then all existing campaigns, ad groups, and ads in the account are available as read-only in the campaign management views. Click, cost, conversions, and other performance data are available within the campaign management views and in basic and advanced reports. |
+| | (Advertisers with Google Analytics) Advertising Cloud Search can sync conversion metrics for a specific Google Analytics account, property, and view combination for optimization and reporting. Page views, Sessions, Bounce Rate (calculated as bounces/sessions), and Session Duration are automatically included. You can include up to 16 additional metrics per data source. |
+| | (Existing Google Ads accounts for advertisers with an Advertising Cloud-Adobe Analytics integration) A new format is available for the s_kwcid tracking code, which allows Advertising Cloud to share data about the account with the Adobe Analytics reporting and analytics capability. The latest format includes parameters for campaign ID and ad group ID, which are necessary to accurately report at the campaign and ad group levels for Google Drafts and Experiments campaigns in Analytics. If your existing Google accounts includes Google Drafts and Experiments campaigns, edit the Account Tracking settings for each individual account to migrate to the new s_kwcid. If you don't have Google Drafts and Experiments campaigns, migrating to the new format is optional. Note: All new Google accounts automatically use the new  format. |
+| Search Advanced Campaign Management (ACM) | (Google Ads campaigns) You can now configure campaign-level final URL suffixes for Google text ad and shopping ad templates. |
+| | (Google Ads campaigns) Optional "Headline 3" and "Description 2" fields are available for Google expanded text ads. |
+| Reports | The following Bing Ads impression share metrics, which were discontinued with the latest Bing Ads API, are not collected after October 11:  Search IS% Lost to Rank, Search IS% Lost to Bid (Bing), Search IS% Lost to Page Relevance (Bing), and Search IS% Lost to Keyword Relevance (Bing). Previously-collected metrics are still available for reporting. |
+| Adobe Analytics Integration | (Advertisers with Adobe Analytics only) In Analysis Workspace, the “Device (AMO ID)” dimension, which has never collected data, is no longer available. To report on online Analytics data, use the dimension “Mobile Device Type.” To report on search engine traffic metrics (such as clicks, cost, and impressions) by device type, continue to use reporting in Advertising Cloud Search. |
