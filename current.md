@@ -8,15 +8,13 @@ author: mfrei
 
 ---
 
-# Early Access - Adobe Experience Cloud Release Notes - November 2019
-
-> [!IMPORTANT] This page contains pre-release content and is subject to change prior to the planned release.
+# Adobe Experience Cloud Release Notes - November 2019
 
 New features and fixes in the Adobe Experience Cloud.
 
 > [!NOTE] Subscribe to the [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. New information published after the release will be marked with the publication date.
 
-**Release date: October 30, 2019**
+**Release date: October 31, 2019**
 
 * [Experience Cloud interface](#ecloud)
 * [Experience Platform](#platform)
@@ -27,6 +25,8 @@ New features and fixes in the Adobe Experience Cloud.
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 * [!DNL Advertising Cloud](#adcloud)
+
+Looking for the help home? See [Experience Cloud Learn & Support](https://helpx.adobe.com/support/experience-cloud.html).
 
 ## Experience Cloud interface {#ecloud}
 
