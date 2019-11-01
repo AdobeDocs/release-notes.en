@@ -24,7 +24,7 @@ New features and fixes in the Adobe Experience Cloud.
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
-* [!DNL Advertising Cloud](#adcloud)
+* [!DNL Advertising Cloud](#adcloud) (Updated 1/11)
 
 Looking for the help home? See [Experience Cloud Learn & Support](https://helpx.adobe.com/support/experience-cloud.html).
 
@@ -111,6 +111,7 @@ New features, enhancements, and fixes in Audience Manager.
 | Feature | Description |
 |--- |----|
 |[Profile Merge Rules Enhancements](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html) | We released a series of enhancements for [!UICONTROL Profile Merge Rules]: <ul><li>Segment evaluation is now supported in batch, for up to 100 devices.</li><li>We improved the reporting accuracy for trait and segment populations.</li><li>We improved the accuracy of batch files generated using cross-device IDs.</li><li>We updated the documentation with more detailed use cases for each rule. See [General Use Cases for Profile Merge Rules](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rule-targeting-options.html), [External Device Graph Use Cases](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/external-graph-use-cases.html), and [Profile Link Device Graph Use Cases](https://docs.adobe.com/help/en/audience-manager/user-guide/features/profile-merge-rules/profile-link-use-case.html).</li></ul> |
+| [Intelligent Recommendations for Audience Marketplace Data, powered by Adobe Sensei](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/trait-recommendations.html) | With Trait Recommendations, when you build or edit a segment in [Segment Builder](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/segments/segment-builder.html), you now get recommendations on additional traits that you can include, from [!UICONTROL Audience Marketplace] data feeds that you are not subscribed to. Add the recommended traits to your segment to increase your target audience. <br>  Additionally, we've redesigned the [!UICONTROL Marketplace] page to make it easier for you to find similar traits and filter data feeds.|
 | [Bulk Management Tools](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html) | We released a new version of the Bulk Management worksheet that works on MacOS and Microsoft Windows operating systems and supports Experience Cloud login.|
 |[HTTP Strict-Transport-Security](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/data-security-and-privacy/data-security.html#hsts) | We added support for [!DNL HTTP Strict-Transport-Security], a web security policy that protects against cookie hijacking and protocol downgrade attacks.|
 
@@ -120,7 +121,7 @@ New features, enhancements, and fixes in Audience Manager.
 * We fixed a bug in Derived Signals, where for a short time customers were unable to create new derived signals. (AAM-50968) 
 * We fixed a bug in People-Based Destinations, where customers were unable to change the name of a destination. (AAM-51025)
 * We fixed a bug where some users had duplicate accounts to log in to the Audience Manager UI. Due to permissions associated to the duplicate accounts, these users were unable to access some parts of the UI and perform operations. (AAM-50818)
-* We continued to make improvements to the accessibility of the Audience Manager UI. (AAM-48932, AAM-49043, AAM-49054, AAM-49371, AAM-49375)
+* We continued to make improvements to the accessibility of the Audience Manager UI. (AAM-48932, AAM-48997, AAM-49043, AAM-49054, AAM-49371, AAM-49375, AAM-51313)
   
 ## Experience Manager {#aem}
 
@@ -207,14 +208,10 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 ## Advertising Cloud {#adcloud}
 
-Updated for October 12, 2019, release
+Updated for November 2, 2019, release
 
 | View | Feature |
 |------|---------|
-| Search Campaigns | Advertising Cloud can now sync and provide ad-level tracking for accounts on Yahoo! Japan Display Network. If you provide login details for an account, then all existing campaigns, ad groups, and ads in the account are available as read-only in the campaign management views. Click, cost, conversions, and other performance data are available within the campaign management views and in basic and advanced reports. |
-| | (Advertisers with Google Analytics) Advertising Cloud Search can sync conversion metrics for a specific Google Analytics account, property, and view combination for optimization and reporting. Page views, Sessions, Bounce Rate (calculated as bounces/sessions), and Session Duration are automatically included. You can include up to 16 additional metrics per data source. |
-| | (Existing Google Ads accounts for advertisers with an Advertising Cloud-Adobe Analytics integration) A new format is available for the s_kwcid tracking code, which allows Advertising Cloud to share data about the account with the Adobe Analytics reporting and analytics capability. The latest format includes parameters for campaign ID and ad group ID, which are necessary to accurately report at the campaign and ad group levels for Google Drafts and Experiments campaigns in Analytics. If your existing Google accounts includes Google Drafts and Experiments campaigns, edit the Account Tracking settings for each individual account to migrate to the new s_kwcid. If you don't have Google Drafts and Experiments campaigns, migrating to the new format is optional. Note: All new Google accounts automatically use the new  format. |
-| Search Advanced Campaign Management (ACM) | (Google Ads campaigns) You can now configure campaign-level final URL suffixes for Google text ad and shopping ad templates. |
-| | (Google Ads campaigns) Optional "Headline 3" and "Description 2" fields are available for Google expanded text ads. |
-| Reports | The following Bing Ads impression share metrics, which were discontinued with the latest Bing Ads API, are not collected after October 11:  Search IS% Lost to Rank, Search IS% Lost to Bid (Bing), Search IS% Lost to Page Relevance (Bing), and Search IS% Lost to Keyword Relevance (Bing). Previously-collected metrics are still available for reporting. |
-| Adobe Analytics Integration | (Advertisers with Adobe Analytics only) In Analysis Workspace, the “Device (AMO ID)” dimension, which has never collected data, is no longer available. To report on online Analytics data, use the dimension “Mobile Device Type.” To report on search engine traffic metrics (such as clicks, cost, and impressions) by device type, continue to use reporting in Advertising Cloud Search. |
+| Conversion Tracking | The Advertising Cloud JavaScript-based conversion mapping tag now supports tracking click-throughs from Mozilla Firefox Version 69 and higher, which block third-party cookies by default. The same tag already includes support for Apple Safari.<br><br/>If you use Advertising Cloud conversion tracking and haven't already deployed the Advertising Cloud conversion mapping tag, deploy the following code on all landing pages:<br></br>`<script src="//www.everestjs.net/static/amo-conversion-mapper.js"></script>`<br></br>Note: This tag supports Advertising Cloud JavaScript v2 and v3 conversion tracking tags, not the image tracking tag. |
+| Portfolios | When the portfolio option "Enable campaign max spend % target" is enabled, the max spend target is now never exceeded. Previously, Advertising Cloud would exceed the max spend target when doing so was optimal. |
+| Search Audiences | Your audience library at Search > Audiences > Library now automatically includes an "Audience Size" column, which is populated daily from Bing Ads and Google Ads. You can optionally use the column as a data filter. |
