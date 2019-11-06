@@ -106,7 +106,7 @@ See [AppMeasurement for Javascript release notes](https://docs.adobe.com/content
 
 ## Audience Manager {#aam}
 
-New features, enhancements, and fixes in Audience Manager.
+### New features, enhancements, and fixes in Audience Manager {#aam-new-features}
 
 | Feature | Description |
 |--- |----|
@@ -115,7 +115,20 @@ New features, enhancements, and fixes in Audience Manager.
 | [Bulk Management Tools](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html) | We released a new version of the Bulk Management worksheet that works on MacOS and Microsoft Windows operating systems and supports Experience Cloud login.|
 |[HTTP Strict-Transport-Security](https://docs.adobe.com/help/en/audience-manager/user-guide/overview/data-security-and-privacy/data-security.html#hsts) | We added support for [!DNL HTTP Strict-Transport-Security], a web security policy that protects against cookie hijacking and protocol downgrade attacks.|
 
-**Fixes and Improvements**
+### Enhancements {#aam-enhancements}
+
+As of November 2019, Audience Manager also supports sending Roku IDs, Amazon Fire TV IDs and Xbox/Microsoft IDs to Google Ad Manager and DV360 destinations, in addition to previously supported cookie, IDFA and GAID device IDs. You don’t need to change anything in your existing Google integrations.
+
+In Audience Manager, Roku IDs, Amazon Fire TV IDs and Xbox/Microsoft IDs are called global device IDs. You can read more about these IDs and the data sources that they are associated to in the Audience Manager product documentation:
+
+* [Global Device IDs](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reference/ids-in-aam.html#global-device-ids)
+* [Global Data Sources](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/data-sources/global-data-sources.html)
+
+Data ingestion for the Roku, Amazon Fire TV and Xbox/Microsoft data sources works in the same way as for IDFA and GAID - an Audience Manager ID is automatically generated and linked to the DAID when ingesting data keyed off them. The new IDs are automatically sent to the existing and new Google destinations configured in your account.
+
+For more information, please contact your Audience Manager consultant or Customer Care.
+
+### Fixes and Improvements {#aam-fixes-and-improvements}
 
 * We fixed a bug in Audience Marketplace, where the UI returned Error 409 when customers were submitting the monthly segment usage. (AAM-50825)
 * We fixed a bug in Derived Signals, where for a short time customers were unable to create new derived signals. (AAM-50968) 
