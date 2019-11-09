@@ -221,10 +221,11 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 ## Advertising Cloud {#adcloud}
 
-Updated for November 2, 2019, release
+Updated on November 8, 2019, release
 
 | View | Feature |
 |------|---------|
 | Conversion Tracking | The Advertising Cloud JavaScript-based conversion mapping tag now supports tracking click-throughs from Mozilla Firefox Version 69 and higher, which block third-party cookies by default. The same tag already includes support for Apple Safari.<br><br/>If you use Advertising Cloud conversion tracking and haven't already deployed the Advertising Cloud conversion mapping tag, deploy the following code on all landing pages:<br></br>`<script src="//www.everestjs.net/static/amo-conversion-mapper.js"></script>`<br></br>Note: This tag supports Advertising Cloud JavaScript v2 and v3 conversion tracking tags, not the image tracking tag. |
 | Portfolios | When the portfolio option "Enable campaign max spend % target" is enabled, the max spend target is now never exceeded. Previously, Advertising Cloud would exceed the max spend target when doing so was optimal. |
 | Search Audiences | Your audience library at Search > Audiences > Library now automatically includes an "Audience Size" column, which is populated daily from Bing Ads and Google Ads. You can optionally use the column as a data filter. |
+| Integration with Adobe Analytics | Analytics now includes the dimension “Landing Type (AMO ID)” for Advertising Cloud DSP campaigns.  Use this dimension to segment Analytics metrics based on how visitors landed on the site. Values include “Click Through” and “View Through.”<br><br/>**Note:** Data for view-throughs that occurred before 31 October 2019 are shown as data for click-throughs. We therefore don't recommend using this dimension with data prior to mid-November 2019. |
