@@ -24,7 +24,7 @@ New features and fixes in the Adobe Experience Cloud.
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
-* [!DNL Advertising Cloud](#adcloud) (Updated 11/1)
+* [!DNL Advertising Cloud](#adcloud) (Updated 11/8)
 
 Looking for the help home? See [Experience Cloud Learn & Support](https://helpx.adobe.com/support/experience-cloud.html).
 
