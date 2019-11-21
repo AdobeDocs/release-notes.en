@@ -18,7 +18,7 @@ New features and fixes in the Adobe Experience Cloud.
 
 * [Experience Cloud interface](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics)
+* [!DNL Analytics](#analytics) (**Updated Nov. 21, 2019**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -57,7 +57,7 @@ See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/u
 New features and fixes in Adobe Analytics:
 
 * [New features, enhancements, and fixes in Adobe Analytics](#aa-features)
-* [Important notices for Analytics administrators](#aa-notices)
+* [Important notices for Analytics administrators](#aa-notices) (**Updated Nov. 21, 2019**)
 * [AppMeasurement](#appm)
 
 For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
@@ -79,7 +79,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- |
-|EOL of **[!UICONTROL Enforce IP Login Restrictions]** option|Nov. 21, 2019|Announcing the October, 2020, end-of-life date for the IP login whitelisting (**[!UICONTROL Enforce IP Login Restrictions]**) functionality under the **[!UICONTROL Admin > Company Settings > Security]** menu. (This was originally announced as happening in January, 2020)|
+|EOL of **[!UICONTROL Enforce IP Login Restrictions]** option|Nov. 21, 2019|Announcing the *October, 2020*, end-of-life date for the IP login whitelisting (**[!UICONTROL Enforce IP Login Restrictions]**) functionality under the **[!UICONTROL Admin > Company Settings > Security]** menu. (This was originally announced as happening in January, 2020.)|
 |EOL of **[!UICONTROL View Archive]** option|Oct. 30, 2019|Announcing the January, 2020, end-of-life date for the **[!UICONTROL View Archive]** option in the Dashboard Manager (**[!UICONTROL Components > Dashboards]**).|
 |Updated handling to SameSite attribute on cookies | October 15, 2019 | In August 2019, Adobe announced that it added the SameSite cookie setting to all cookies set by Analytics. An update in logic is applied where:<ul><li>All third-party cookies that are not based on Webkit have SameSite attribute set to `none`.</li><li>All other cookies do not have the SameSite attribute set.</li></ul>|
 |End of Support for TLS 1.1 | October 3, 2019 | By March 31, 2020, Adobe Analytics will remove support for TLS 1.1. This change is part of our ongoing efforts to maintain the highest security standards and promote the safety of customer data.|
