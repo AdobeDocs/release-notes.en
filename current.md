@@ -26,7 +26,7 @@ New features and fixes in the Adobe Experience Cloud.
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 * [!DNL Advertising Cloud](#adcloud) (Updated 11/8)
 
-Looking for the help home? See [Experience Cloud Learn & Support](https://helpx.adobe.com/support/experience-cloud.html).
+Looking for the help home? See [Adobe Experience Cloud Documentation](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
 
 ## Experience Cloud interface {#ecloud}
 
