@@ -18,7 +18,7 @@ New features and fixes in the Adobe Experience Cloud.
 
 * [Experience Cloud interface](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Updated Nov. 26, 2019**)
+* [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -57,7 +57,7 @@ See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/u
 New features and fixes in Adobe Analytics:
 
 * [New features, enhancements, and fixes in Adobe Analytics](#aa-features)
-* [Important notices for Analytics administrators](#aa-notices) (**Updated Nov. 26, 2019**)
+* [Important notices for Analytics administrators](#aa-notices)
 * [AppMeasurement](#appm)
 
 For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
@@ -79,9 +79,8 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- |
-|Update to 'Month' and 'Quarter' dimension labels|Nov. 26, 2019|On January 16, 2020, Month and Quarter dimension labels will be updated to reflect the standard calendar year. Custom calendar settings (defined under **[!UICONTROL Admin > Report Suite > Edit Settings > General)** will continue to determine which months are returned in a report.<br>For example, if your customized calendar for 2020 is defined as Oct 2019-Sep 2020, months and quarters will appear as the following in reporting:<ul><li>Quarters – Oct 2019-Dec 2019, Jan 2020-Mar 2020, Apr 2020-Jun 2020, Jul 2020-Sep 2020</li><li>Months – Oct 2019, Nov 2019, Dec 2019, Jan 2020, Feb 2020, etc.</li><li>Previously, all items above would have reflected the year 2019, which caused confusion for end users.</li></ul>If you have report filters or segments that are looking for these values, there is no need to take any action. They will update to reflect the new naming convention.|
-|EOL of **[!UICONTROL Enforce IP Login Restrictions]** option|Nov. 21, 2019|Announcing the *October, 2020*, end-of-life date for the IP login whitelisting (**[!UICONTROL Enforce IP Login Restrictions]**) functionality under the **[!UICONTROL Admin > Company Settings > Security]** menu. (This was originally announced as happening in January, 2020.)|
 |EOL of **[!UICONTROL View Archive]** option|Oct. 30, 2019|Announcing the January, 2020, end-of-life date for the **[!UICONTROL View Archive]** option in the Dashboard Manager (**[!UICONTROL Components > Dashboards]**).|
+|EOL of **[!UICONTROL Enforce IP Login Restrictions]** option|Oct. 30, 2019|Announcing the January, 2020, end-of-life date for the IP login whitelisting (**[!UICONTROL Enforce IP Login Restrictions]**) functionality under the **[!UICONTROL Admin > Company Settings > Security]** menu.|
 |Updated handling to SameSite attribute on cookies | October 15, 2019 | In August 2019, Adobe announced that it added the SameSite cookie setting to all cookies set by Analytics. An update in logic is applied where:<ul><li>All third-party cookies that are not based on Webkit have SameSite attribute set to `none`.</li><li>All other cookies do not have the SameSite attribute set.</li></ul>|
 |End of Support for TLS 1.1 | October 3, 2019 | By March 31, 2020, Adobe Analytics will remove support for TLS 1.1. This change is part of our ongoing efforts to maintain the highest security standards and promote the safety of customer data.|
 |San Jose FTP Broker Ending for London and Singapore|July 2020|For customers in London and Singapore, we will no longer be supporting brokering of data between London or Singapore and the San Jose data center [ftp.omniture.com](ftp://ftp.omniture.com/).<br/><ul><li>For London use [ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>For Singapore use [ftp4.omniture.com](ftp://ftp4.omniture.com/)</li>|
