@@ -45,6 +45,7 @@ For product documentation, see [Experience Cloud](https://docs.adobe.com/content
 
 Release notes for the Experience Platform, Experience Platform Launch, Identity Service, and security bulletins.  
 
+* [Experience Platform Release Notes](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
 * [Experience Platform Launch](#launch)
 * [Security bulletins and advisories](https://helpx.adobe.com/security.html) (All Adobe products)
 

@@ -80,6 +80,14 @@ Features and fixes.
 
 For product documentation, see [Manage user and products](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html).
 
+## Experience Platform {#platform}
+
+Release notes for the Experience Platform, Experience Platform Launch, Identity Service, and security bulletins.  
+
+* [Experience Platform Release Notes](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
+* [Experience Platform Launch](#launch)
+* [Security bulletins and advisories](https://helpx.adobe.com/security.html) (All Adobe products)
+
 ### Experience Platform Launch {#launch}
 
 See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) for release notes and product documentation.
