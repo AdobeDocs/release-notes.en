@@ -16,6 +16,7 @@ New features and fixes in the Adobe Experience Cloud.
 
 **Release date: January, 2020**
 
+* [Adobe System Status](#status)
 * [Experience Cloud interface](#ecloud)
 * [Experience Platform](#platform)
 * [!DNL Analytics](#analytics)
@@ -28,16 +29,18 @@ New features and fixes in the Adobe Experience Cloud.
 
 Looking for the help home? See [Adobe Experience Cloud Documentation](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
 
-## Status.adobe.com
+## Adobe System Status {#status}
 
 Using your Adobe ID, you can subscribe to status event notifcations, based on your produts, region, and event preferences.
 
 | Feature    | Description  |
 | -----------| ---------- |
 |Subscribe to real-time email notifications | <ul><li>Support for Experience Cloud, Creative Cloud, Document Cloud, AEP, and Adobe Services</li><li>Support for region and event type preferences</li><li>UX support for Web, mobile, and tablet surfaces</li></ul> |
-|Notifications preferences management | <ul><li>Edit and save notification preferences at any time</li><li>Unsubscribe from notifications at any time</li><li>Item</li></ul> |
+|Notifications preferences management | <ul><li>Edit and save notification preferences at any time</li><li>Unsubscribe from notifications at any time</li></ul> |
 |Personalized and faster email delivery | <ul><li>Event notifications are sent as soon as CSOs and CMRs are opened, updated or closed</li><li>Receive only the relevant event notifications matching your configured preferences</li><li>Received localized notifications based on the language configured in in your account preferences</li></ul> |
 |Personalized in-product notifications | Events matching your notification preferences and product entitlements appear in the Announcement panel.|
+
+See [Adobe System Status](https://status.adobe.com/).
 
 ## Experience Cloud interface {#ecloud}
 

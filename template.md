@@ -22,6 +22,7 @@ New features and fixes in the Adobe Experience Cloud.
 
 **Release date: 2019**
 
+* [Adobe System Status](#status)
 * [Experience Cloud and Experience Platform](#platform)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
@@ -32,6 +33,12 @@ New features and fixes in the Adobe Experience Cloud.
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 
 Looking for the help home? See [Adobe Experience Cloud Documentation](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
+
+## Adobe System Status {#status}
+
+Features and fixes.
+
+See [Adobe System Status](https://status.adobe.com/).
 
 ## Experience Cloud and Experience Platform{#platform}
 
