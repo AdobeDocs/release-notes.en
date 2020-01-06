@@ -113,20 +113,9 @@ See [AppMeasurement for Javascript release notes](https://docs.adobe.com/content
 
 ## Audience Manager {#aam}
 
-### New features, enhancements, and fixes in Audience Manager {#aam-new-features}
-
-| Feature | Description |
-|--- |----|
-| | |
-
-### Enhancements {#aam-enhancements}
-
-For more information, please contact your Audience Manager consultant or Customer Care.
-
 ### Fixes and Improvements {#aam-fixes-and-improvements}
 
-* Fix
-* Fix
+* We fixed a bug where the Create/edit destinations page would not load in the Apple Safari and Mozilla Firefox browsers. (AAM-51784)
   
 ## Experience Manager {#aem}
 
