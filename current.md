@@ -153,15 +153,58 @@ See [AppMeasurement for Javascript release notes](https://docs.adobe.com/content
 
 New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
 
+### Product maintenance
+
+* **AEM 6.5.3.0**
+    AEM 6.5, Service Pack 3.0 (6.5.3.0 released December 12, 2019) is an important update that includes key customer fixes released since the general availability of AEM 6.5, April 2019.
+    * [Release notes](https://helpx.adobe.com/experience-manager/6-5/release-notes/sp-release-notes.html)
+    * [AEM Forms CFP releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+
+* **AEM 6.4.7.0**
+
+    AEM 6.4, Service Pack 7.0 (6.4.7.0 released December 12, 2019) is an important update that includes key customer fixes released since the general availability of AEM 6.4, April 2018.
+    * [Release notes](https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html)
+    * [AEM Forms CFP releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+
+* **AEM 6.3.3.7**
+
+    AEM 6.3, Service Pack 3, Cumulative Fix Pack 7 (6.3.3.7 released December 12, 2019) is an important update that includes key customer fixes released since the general availability of AEM 6.3, April 2017.
+    * [Release notes](https://helpx.adobe.com/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html)
+    * [AEM Forms CFP releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+
+* **AEM Desktop App 2.0.1.1**
+
+    AEM Desktop App 2.0.1.1 provides an update for Single Sign-On with Okta and ability to specify the location of temporary files in Preferences. Support for AEM 6.3.x is deprecated for Desktop App 2.x with this release.
+    * [Release notes](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html)
+
+* **Adobe Asset Link 1.1 ends support for AEM 6.3.x**
+
+    Support for AEM 6.3.x has been deprecated in Adobe Asset Link since April 2019. Adobe Asset Link 1.1 removes support for AEM 6.3.x as of January 13, 2020.
+    * [Adobe Asset Link](https://helpx.adobe.com/enterprise/using/adobe-asset-link.html)
+
 ### Product releases
 
-### Self-help
+* **Automated Forms Conversion Service**
 
-* **AEM Documentation Updates**
+    Automated Forms Conversion Service, the service to automatically convert PDF forms to beautiful mobile-ready HTML Forms, became available for general consumption on December 12, 2019.
+    * [Introduction]https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/table-of-contents/introduction.html)
+    * [Configure the service](https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/table-of-contents/configure-service.html)
+    * [Convert PDF forms to adaptive forms](https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/table-of-contents/convert-existing-forms-to-adaptive-forms.html)    
 
-    Read about important documentation changes and updates for Adobe Experience Manager in the last three months.  
-    
-    See [AEM Documentation: Recent Documentation Updates](https://helpx.adobe.com/experience-manager/documentation-updates.html).
+### Self-Help
+
+* **Previewing 3D Assets**
+
+    AEM 6.5 supports the upload, delivery, and interactive preview of 3D assets as part of the authoring process. The interactive 3D viewer is available from the asset details page in AEM. The viewer includes, among other things, a collection of interactive camera controls that let you orbit, zoom, and pan the 3D asset.
+    See [Previewing 3D assets](https://docs.adobe.com/content/help/en/experience-manager-65/assets/using/previewing-3d-assets.html).
+
+* **Core Components**
+
+    Core Components 2.8.0, with numerous fixes, is now available along with [authoring documentation](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html) and [developer details and project download available on GitHub](https://github.com/adobe/aem-core-wcm-components).
+
+* **AEM Project Archetype**
+
+    The [ui.frontend module](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/developing/archetype/uifrontend.html) of the [AEM Project Archetype](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/developing/archetype/overview.html) is a useful and flexible tool to make front-end development for your AEM project easier.
 
 ### Additional resources
 
