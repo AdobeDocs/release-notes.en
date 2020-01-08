@@ -17,7 +17,7 @@ New features and fixes in the Adobe Experience Cloud.
 **Release date: January, 2020**
 
 * [Adobe System Status](#status)
-* [Experience Cloud interface](#ecloud)
+* [Experience Cloud interface and core services](#ecloud)
 * [Experience Platform](#platform)
 * [Mobile Services and Mobile SDKs](#mobile)
 * [!DNL Analytics](#analytics)
@@ -43,7 +43,11 @@ Using your Adobe ID, you can subscribe to status event notifcations, based on yo
 
 See [Adobe System Status](https://status.adobe.com/).
 
-## Experience Cloud interface {#ecloud}
+## Experience Cloud interface and core services {#ecloud}
+
+New features and fixes in the Experience Cloud interface, including administration and core services (customer attributes, audiences, triggers, cookies, and so on).
+
+### Interface enhancements
 
 Adobe is updating the domain and interface header to unify and improve your experience across all Experience Cloud applications. These enhancements are designed to simplify your experience in small but important ways. They will not change your current workflows. These enhancements include:
 
@@ -52,7 +56,15 @@ Adobe is updating the domain and interface header to unify and improve your expe
 * Improved product help: The [!UICONROL Experience League] is better integrated into the product so that a help search also includes results from community forums and video content. This change simplifies access to more content to help you get the most out of Experience Cloud. We’ve also added a feedback mechanism in the [!UICONTROL Help] menu, making it easier to report issues or share your ideas.  
 * Improved notifications: The [!UICONTROL Notifications] drop-down menu now has two tabs, one for your own product notifications and one for global product announcements.
 
+Note: The Feed page was deprecated in December, 2019. Look for an in-product deprecation notice.
+
 For product documentation, see [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html).
+
+### Experience Cloud cookies
+
+Adobe is adjusting the `same-site` setting on cookies to prepare for changes Chrome will make in Chrome 80 (to be released in February 2020).
+
+You do not need to make changes unless you have a 1st-party domain that you do not use for cross-domain tracking (such as friendly 3rd-party domains). If you have a 1st-party domain like that, you can request that the domain be set to `Lax` as opposed to the default `None`. You can request that change through Adobe Customer Care. [More…](https://medium.com/adobetech/adobe-experience-cloud-cookie-updates-for-google-chrome-19ad67cf1598)
 
 ## Experience Platform {#platform}
 
