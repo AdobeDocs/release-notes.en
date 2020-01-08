@@ -19,6 +19,7 @@ New features and fixes in the Adobe Experience Cloud.
 * [Adobe System Status](#status)
 * [Experience Cloud interface](#ecloud)
 * [Experience Platform](#platform)
+* [Mobile Services and Mobile SDKs](#mobile)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
@@ -44,10 +45,12 @@ See [Adobe System Status](https://status.adobe.com/).
 
 ## Experience Cloud interface {#ecloud}
 
-Release notes for Experience Cloud interface and product administration.
+Adobe is updating the domain and interface header to unify and improve your experience across all Experience Cloud applications. These enhancements are designed to simplify your experience in small but important ways. They will not change your current workflows. These enhancements include:
 
-* Item
-* Item
+* New solution URLs: `experience.adobe.com/<application name>.` Adobe recommends updating your bookmarks accoringly. For example, `https://experience.adobe.com/target, https://experience.adobe.com/analytics,` and so on.
+* Easier switching between your organizations or to a different application.
+* Improved product help: The [!UICONROL Experience League] is better integrated into the product so that a help search also includes results from community forums and video content. This change simplifies access to more content to help you get the most out of Experience Cloud. We’ve also added a feedback mechanism in the [!UICONTROL Help] menu, making it easier to report issues or share your ideas.  
+* Improved notifications: The [!UICONTROL Notifications] drop-down menu now has two tabs, one for your own product notifications and one for global product announcements.
 
 For product documentation, see [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html).
 
@@ -62,6 +65,14 @@ Release notes for the Experience Platform, Experience Platform Launch, Identity 
 ### Experience Platform Launch {#launch}
 
 See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) for release notes and product documentation.
+
+## Mobile Services and Mobile SDKs {#mobile}
+
+January 16, 2020: Version 4.18.0
+ 
+* Acquisition - Added a new API, `Analytics.processGooglePlayInstallReferrerUrl(final String url)`, to support Google Play Install Referrer APIs.
+
+For more information about the Install Referrer APIs, see [Still Using InstallBroadcast? Switch to the Play Referrer API by March 1, 2020]( https://android-developers.googleblog.com/2019/11/still-using-installbroadcast-switch-to.html).
 
 ## [!DNL Analytics] {#analytics}
 
