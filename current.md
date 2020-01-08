@@ -32,16 +32,20 @@ Looking for the help home? See [Adobe Experience Cloud Documentation](https://do
 
 ## Adobe System Status {#status}
 
-Using your Adobe ID, you can subscribe to status event notifcations, based on your produts, region, and event preferences.
+[!UICONTROL Adobe System Status] provides detailed information, status updates and email notifications about Adobe cloud products and services outage, disruption and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
+
+What's New:
+
+* Using your Adobe ID, you can subscribe to event notifications based on your product, region, and event preferences. Users who configure their subscription preferences are notified of only relevant product incident and maintenance events as soon as they are opened, updated, or closed. Get started on the subscriptions page at https://status.adobe.com/proactive-notifications/subscriptions/
+
+New features and enhancements available today:
 
 | Feature    | Description  |
 | -----------| ---------- |
-|Subscribe to real-time email notifications | <ul><li>Support for Experience Cloud, Creative Cloud, Document Cloud, AEP, and Adobe Services</li><li>Support for region and event type preferences</li><li>UX support for Web, mobile, and tablet surfaces</li></ul> |
-|Notifications preferences management | <ul><li>Edit and save notification preferences at any time</li><li>Unsubscribe from notifications at any time</li></ul> |
-|Personalized and faster email delivery | <ul><li>Event notifications are sent as soon as CSOs and CMRs are opened, updated or closed</li><li>Receive only the relevant event notifications matching your configured preferences</li><li>Received localized notifications based on the language configured in in your account preferences</li></ul> |
-|Personalized in-product notifications | Events matching your notification preferences and product entitlements appear in the Announcement panel.|
-
-See [Adobe System Status](https://status.adobe.com/).
+|Subscribe to proactive email notifications | <ul><li>Support for Experience Cloud, Creative Cloud, Document Cloud, Adobe Experience Platform, and Adobe Services</li><li>Support for region and event type preferences</li></ul> |
+|Manage notification preferences | <ul><li>Edit and save notification preferences at any time</li><li>Unsubscribe from notifications at any time</li><li>Item</li></ul> |
+|Get personalized and faster email delivery | <ul><li>Event notifications are sent as soon as events are opened, updated, or closed</li><li>Receive only the relevant event notifications matching your configured preferences</li><li>Received localized notifications based on the language configured in in your account preferences</li></ul> |
+|Get personalized in-product notifications | Events matching your notification preferences and product entitlements appear in the Announcement panel.|
 
 ## Experience Cloud interface and core services {#ecloud}
 
