@@ -118,6 +118,7 @@ See [AppMeasurement for Javascript release notes](https://docs.adobe.com/content
 
 ### Fixes and Improvements {#aam-fixes-and-improvements}
 
+* We fixed a bug in the Create Destination workflow where, upon selecting **Integrated Platforms** as Category, the Basic Information section would disappear and the workflow would be impossible to complete. (AAM-52397, AAM-52414)
 * We fixed a bug where the Create/edit destinations page would not load in the Apple Safari and Mozilla Firefox browsers. (AAM-51784)
   
 ## Experience Manager {#aem}
