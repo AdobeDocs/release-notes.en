@@ -88,12 +88,18 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | Feature    | Description  |
 | -----------| ---------- | 
-| | |
+|Analysis Workspace – Freeform Table Builder |The new Freeform Table Builder will be released later in January 2020. It lets you set up a table with all the components you want, and then build (render) the table. This new feature saves time when building tables that answer deeper, multi-dimensional queries. (Previously, the table was rendered every time you added a component or breakdown, thus adding processing time.)
+In addition, this feature offers:<ul><li>**Preview**: You can preview the format of a table before spending time to build it.</li><li>**Breakdown by position**: You can set dimension rows to "breakdown by position", instead of “by specific item”.</li><li>**Manual row ordering**: You can manually order table rows, so that you can achieve the exact arrangement desired. Previously, rows could only be sorted by a metric column (or alphabetically sorted when static).</li><li>**Row and breakdown levels**: You can set your row and breakdown levels for every dimension row. Previously, Workspace defaulted to certain ranges that could not be changed until the table was built.</li></ul>Associated documentation will be published when this feature releases later in January.|
+|New "Identified State" dimension for Cross-Device Analytics|We are adding a new dimension called "identified state" to CDA virtual report suites. The dimension has two possible values, "Identified" and "Unidentified". "Identified" means that the person has been identified by the device graph. "Unidentified" means that the person has not been identified by the device graph.<br>This means that CDA users can now create calculated metrics such as "device graph coverage", a metric which describes how many of the people within the virtual report suite are known by the device graph. This is helpful for troubleshooting CDA compression rates. If few people are identified, the level of stitching will be low.|
+|VRS Support in Data Warehouse API|Virtual Report Suites will now be available for use via the Data Warehouse API. Previously, they were only available via the Data Warehouse UI. Customers using the Data Warehouse API can now see and query virtual report suites.|
 
 #### Fixes
 
-* Fix
-* Fix
+* Fixed an issue with alert notifications not being delivered to phone numbers in Egypt. (AN-197079)
+* Fixed multiple issues with the DFA Data Connector. (AN-193281, AN-193075, AN-193484, AN-193737)
+* Reports & Analytics: Fixed an issue with the Product Conversion Funnel report getting cut off and showing unclear numbers. (AN-186901)
+* Fixed an issue that prevented users from switching report suites in Workspace projects that were based on report suites with the new Classifications architecture. (AN-199076)
+* Fixed an issue that prevented the Cumulative function in Calculated Metrics from working properly. (AN-184257)
 
 ### Important notices for [!DNL Analytics] administrators {#aa-notices}
 
