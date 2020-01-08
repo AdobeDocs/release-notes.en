@@ -79,7 +79,7 @@ For more information about the Install Referrer APIs, see [Still Using InstallBr
 New features and fixes in Adobe Analytics:
 
 * [New features, enhancements, and fixes in Adobe Analytics](#aa-features)
-* [Important notices for Analytics administrators](#aa-notices) (**Updated Dec. 18, 2019**)
+* [Important notices for Analytics administrators](#aa-notices)
 * [AppMeasurement](#appm)
 
 For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
