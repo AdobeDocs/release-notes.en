@@ -34,11 +34,11 @@ Looking for the help home? See [Adobe Experience Cloud Documentation](https://do
 
 [!UICONTROL Adobe System Status] provides detailed information, status updates and email notifications about Adobe cloud products and services outage, disruption and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
-What's New:
+**What's new**
 
 * Using your Adobe ID, you can subscribe to event notifications based on your product, region, and event preferences. Users who configure their subscription preferences are notified of only relevant product incident and maintenance events as soon as they are opened, updated, or closed. Get started on the subscriptions page at https://status.adobe.com/proactive-notifications/subscriptions/
 
-New features and enhancements available today:
+**New features and enhancements available today**
 
 | Feature    | Description  |
 | -----------| ---------- |
