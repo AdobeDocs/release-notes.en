@@ -63,7 +63,7 @@ Adobe is updating the domain and interface header to unify and improve your expe
 * Improved product help: The [!UICONROL Experience League] is integrated into the product so that a help search also includes results from community forums and video content. This change simplifies access to more content helps you get the most out of Experience Cloud. We’ve also added a feedback feature in the [!UICONTROL Help] menu, making it easier to report issues or share your ideas.  
 * Improved notifications: The [!UICONTROL Notifications] drop-down menu now has two tabs, one for your own product notifications and one for global product announcements.
 
-Note: The Feed page was deprecated in December, 2019. Look for an in-product deprecation notice.
+**Note:** The [!UICONTROL Feed] page is being deprecated in January, 2020. Look for an in-product deprecation notice.
 
 For product documentation, see [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html).
 
