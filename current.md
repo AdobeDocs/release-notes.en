@@ -14,7 +14,7 @@ New features and fixes in the Adobe Experience Cloud.
 
 > [!NOTE] Subscribe to the [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. New information published after the release will be marked with the publication date.
 
-**Release date: January, 2020**
+**Release date: January, 16 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud interface and core services](#ecloud)
@@ -26,7 +26,6 @@ New features and fixes in the Adobe Experience Cloud.
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
-* [!DNL Advertising Cloud](#adcloud)
 
 Looking for the help home? See [Adobe Experience Cloud Documentation](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
 
@@ -53,11 +52,11 @@ New features and fixes in the Experience Cloud interface, including administrati
 
 ### Interface enhancements
 
-Adobe is updating the domain and interface header to unify and improve your experience across all Experience Cloud applications. These enhancements are designed to simplify your experience in small but important ways. They will not change your current workflows. These enhancements include:
+Adobe is updating the domain and interface header to unify and improve your experience across all Experience Cloud applications. These enhancements are designed to simplify your experience in small but important ways. These enhancements will not change your current workflows. They include:
 
 * New solution URLs: `experience.adobe.com/<application name>.` Adobe recommends updating your bookmarks accoringly. For example, `https://experience.adobe.com/target, https://experience.adobe.com/analytics,` and so on.
 * Easier switching between your organizations or to a different application.
-* Improved product help: The [!UICONROL Experience League] is better integrated into the product so that a help search also includes results from community forums and video content. This change simplifies access to more content to help you get the most out of Experience Cloud. We’ve also added a feedback mechanism in the [!UICONTROL Help] menu, making it easier to report issues or share your ideas.  
+* Improved product help: The [!UICONROL Experience League] is integrated into the product so that a help search also includes results from community forums and video content. This change simplifies access to more content helps you get the most out of Experience Cloud. We’ve also added a feedback feature in the [!UICONTROL Help] menu, making it easier to report issues or share your ideas.  
 * Improved notifications: The [!UICONTROL Notifications] drop-down menu now has two tabs, one for your own product notifications and one for global product announcements.
 
 Note: The Feed page was deprecated in December, 2019. Look for an in-product deprecation notice.
@@ -141,6 +140,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 | Data Feed: post_product_list column - size change | January 9, 2019 | On February 7, 2019, Adobe expanded the size of the post_product_list column from 64 KB to 16 MB. This change ensures that merchandising eVar values added to post_product_list during processing do not cause truncation of product and revenue values. If you have processes that ingest post_product_list values, please ensure those processes can handle values up to 16 MB in length, or will truncate the value at 16 KB to avoid data ingestion failures. |
 | Management changes affecting inactive [!DNL Analytics Live Stream] endpoints | December 20, 2018 | Starting on February 1, 2019, [!DNL Live Stream] endpoints with no active consumer connections for 90 days may be disabled. You can reach out to Customer Care to inquire about your [!DNL Live Stream] endpoints and, if necessary, have them re-enabled. In addition, please ensure your consumer processes maintain a persistent connection, as intended by the design of the service, and that they are implemented to reconnect when the connection is disconnected or interrupted. |
 | Update Adobe [!DNL Report Builder] due to end of support for TLS 1.0 | Sept. 7, 2018 | Due to the end of support for TLS 1.0, we recommended that [!DNL Report Builder] users download version v5.6.21 prior to February 2019. After that date, prior versions of [!DNL Report Builder] will no longer function. |
+|Privacy Service API: CCPA|The California Consumer Privacy Act (CCPA) enhances privacy rights and consumer protection for residents of California, United States. This Act is set to become effective on January 1, 2020.<br><br/>The CCPA provides new data privacy rights to California residents, such as the right to access and delete their personal data, to know whether their personal data is sold or disclosed (and to whom), and to refuse the sale of their personal data.<br><br/>In anticipation of the CCPA, the Privacy Service will support requests to opt out from the selling of personal data.<br><br/>The Privacy Service was formerly called the GDPR Service and retains all the previous functionality, now extended to support CCPA.<br/><br/>[CCPA in Analytics](https://docs.adobe.com/content/help/en/analytics/admin/data-governance/an-ccpa-overview.html)<br><br/>[Privacy Service Overview](https://www.adobe.io/apis/experiencecloud/gdpr/docs/alldocs.html#!api-specification/markdown/narrative/technical_overview/privacy_service_overview/privacy_service_overview.md)|
 
 ### [!DNL AppMeasurement] {#appm}
 
@@ -148,9 +148,11 @@ See [AppMeasurement for Javascript release notes](https://docs.adobe.com/content
 
 ## Audience Manager {#aam}
 
+Fixes and features added to Audience Manager.
+
 ### Fixes and Improvements {#aam-fixes-and-improvements}
 
-* We fixed a bug in the Create Destination workflow where, upon selecting **Integrated Platforms** as Category, the Basic Information section would disappear and the workflow would be impossible to complete. (AAM-52397, AAM-52414)
+* We fixed a bug in the [!UICONTROL Create Destination] workflow where, upon selecting **[!UICONTROL Integrated Platforms]** as Category, the Basic Information section would disappear and the workflow would be impossible to complete. (AAM-52397, AAM-52414)
 * We fixed a bug where the Create/edit destinations page would not load in the Apple Safari and Mozilla Firefox browsers. (AAM-51784)
   
 ## Experience Manager {#aem}
@@ -191,6 +193,7 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 * **Automated Forms Conversion Service**
 
     Automated Forms Conversion Service, the service to automatically convert PDF forms to beautiful mobile-ready HTML Forms, became available for general consumption on December 12, 2019.
+
     * [Introduction](https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/table-of-contents/introduction.html)
     * [Configure the service](https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/table-of-contents/configure-service.html)
     * [Convert PDF forms to adaptive forms](https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/table-of-contents/convert-existing-forms-to-adaptive-forms.html)    
@@ -231,8 +234,8 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 * Adobe Campaign Standard: [Documentation](https://helpx.adobe.com/support/campaign/standard.html) - [Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [Release Planning](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
 * Adobe Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 
-## Advertising Cloud {#adcloud}
+<!-- ## Advertising Cloud {#adcloud}
 
 | View | Feature |
 |------|---------|
-| | |
+| | | -->
