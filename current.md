@@ -43,7 +43,7 @@ New features and enhancements available today:
 | Feature    | Description  |
 | -----------| ---------- |
 |Subscribe to proactive email notifications | <ul><li>Support for Experience Cloud, Creative Cloud, Document Cloud, Adobe Experience Platform, and Adobe Services</li><li>Support for region and event type preferences</li></ul> |
-|Manage notification preferences | <ul><li>Edit and save notification preferences at any time</li><li>Unsubscribe from notifications at any time</li><li>Item</li></ul> |
+|Manage notification preferences | <ul><li>Edit and save notification preferences at any time</li><li>Unsubscribe from notifications at any time</li></ul> |
 |Get personalized and faster email delivery | <ul><li>Event notifications are sent as soon as events are opened, updated, or closed</li><li>Receive only the relevant event notifications matching your configured preferences</li><li>Received localized notifications based on the language configured in in your account preferences</li></ul> |
 |Get personalized in-product notifications | Events matching your notification preferences and product entitlements appear in the Announcement panel.|
 
