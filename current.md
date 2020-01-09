@@ -71,7 +71,7 @@ For product documentation, see [Experience Cloud](https://docs.adobe.com/content
 
 Adobe is adjusting the `same-site` setting on cookies to prepare for changes Chrome will make in Chrome 80 (to be released in February 2020).
 
-You do not need to make changes unless you have a 1st-party domain that you do not use for cross-domain tracking (such as friendly 3rd-party domains). If you have a 1st-party domain like that, you can request that the domain be set to `Lax` as opposed to the default `None`. You can request that change through Adobe Customer Care. [More…](https://medium.com/adobetech/adobe-experience-cloud-cookie-updates-for-google-chrome-19ad67cf1598)
+You do not need to make changes unless you have a 1st-party domain that you do not use for cross-domain tracking (such as friendly 3rd-party domains). To make the behavior more similar across all browsers, in February, after the Chrome 80 release, Analytics will explicitly set the SameSite value of this cookie to `Lax`. [More…](https://medium.com/adobetech/adobe-experience-cloud-cookie-updates-for-google-chrome-19ad67cf1598)
 
 ## Experience Platform {#platform}
 
