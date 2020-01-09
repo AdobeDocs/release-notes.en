@@ -39,7 +39,7 @@ Looking for the help home? See [Adobe Experience Cloud Documentation](https://do
 
 **What's new**
 
-* Using your Adobe ID, you can subscribe to event notifications based on your product, region, and event preferences. Users who configure their subscription preferences are notified of only relevant product incident and maintenance events as soon as they are opened, updated, or closed. Get started at Get started at [status.adobe.com/subscriptions](https://status.adobe.com/proactive-notifications/subscriptions/edit).
+* Using your Adobe ID, you can subscribe to event notifications based on your product, region, and event preferences. Users who configure their subscription preferences are notified of only relevant product incident and maintenance events as soon as they are opened, updated, or closed. Get started at [status.adobe.com/subscriptions](https://status.adobe.com/proactive-notifications/subscriptions/edit).
 
 **New features and enhancements available today**
 
