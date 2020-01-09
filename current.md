@@ -58,7 +58,7 @@ New features and fixes in the Experience Cloud interface, including administrati
 
 Adobe is updating the domain and interface header to unify and improve your experience across all Experience Cloud applications. These enhancements are designed to simplify your experience in small but important ways. These enhancements will not change your current workflows. They include:
 
-* New solution URLs: `experience.adobe.com/<application name>.` Adobe recommends updating your bookmarks accoringly. For example, `https://experience.adobe.com/target, https://experience.adobe.com/analytics,` and so on.
+* New solution URLs: `experience.adobe.com/<application name>.` New URLs will become effective throughout the month. Adobe recommends updating your bookmarks accoringly.
 * Easier switching between your organizations or to a different application.
 * Improved product help: The [!UICONROL Experience League] is integrated into the product so that a help search also includes results from community forums and video content. This change simplifies access to more content helps you get the most out of Experience Cloud. We’ve also added a feedback feature in the [!UICONTROL Help] menu, making it easier to report issues or share your ideas.  
 * Improved notifications: The [!UICONTROL Notifications] drop-down menu now has two tabs, one for your own product notifications and one for global product announcements.
