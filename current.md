@@ -30,6 +30,7 @@ New features and fixes in the Adobe Experience Cloud.
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
+* [!DNL Advertising Cloud](#adcloud)
 
 Looking for the help home? See [Adobe Experience Cloud Documentation](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
 
@@ -233,3 +234,14 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 * Adobe Campaign Standard: [Documentation](https://helpx.adobe.com/support/campaign/standard.html) - [Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [Release Planning](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
 * Adobe Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+
+
+## Advertising Cloud {#adcloud}
+
+Updated for January 11, 2020, release
+
+| View | Feature |
+|------|---------|
+| Conversion Tracking | All Advertising Cloud cookies were updated to meet new cookie control requirements for Google Chrome 80, which will be released on 4 February. The changes were implemented from Adobe servers using the existing cookies, without any effect on visitor metrics. No advertiser updates are required. |
+| Insights > Alerts Beta, Search > Campaigns  | (Beta feature for search accounts only) A new Alerts Beta allows you to create alert templates to identify when any search campaign, ad group, keyword, or ad meets specific conditions &mdash; such as performance metrics &mdash; during a specified period and then generate an alert. Alerts are available for a single advertiser. |
+|   Reports | Data for product listing ads is now included in Label Classification, Label Value, Bid Rule, and Constraint reports. |
