@@ -250,10 +250,24 @@ See [Adobe Campaign Classic Release Notes](https://docs.adobe.com/content/help/e
 
 See [Adobe Campaign Standard Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) for fixes and improvements.
 
+### Adobe Campaign Control Panel
+
+We’ve added new capabilities for Admin users to delegate subdomains and renew SSL certificates from Control Panel.
+
+For more information, refer to these pages:
+
+* Setting up a new subdomain - [Read more](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html)
+* Renewing a subdomain’s SSL certificate - [Read more](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+
+>[!CAUTION]
+>
+>These features will be available in beta by the end of January, and subject to frequent updates and modifications without notice.
+
 ### Additional resources
 
 * Adobe Campaign Standard: [Documentation](https://helpx.adobe.com/support/campaign/standard.html) - [Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [Release Planning](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
 * Adobe Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+* Adobe Campaign Control Panel: [Documentation](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html) - [Release Notes](https://docs.adobe.com/content/help/en/control-panel/using/release-notes.html)
 
 
 ## Advertising Cloud {#adcloud}
