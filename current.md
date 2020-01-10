@@ -230,10 +230,44 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 
 Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
 
-### Documentation resources
+### Campaign Classic 19.2
+
+| Functionality | Description |
+| ------------- | ----------- |
+| California Consumer Privacy Act (CCPA) | CCPA is the State of California's new privacy law hat harmonizes and modernizes data protection requirements going into effect on Jan 01, 2020. CCPA applies to Adobe Campaign customers who hold data for Data Subjects residing in California. <br> In addition to the privacy capabilities already available (including consent management, data retention settings, and user roles), Adobe Campaign helps facilitate your readiness for CCPA: <ul><li> Right to Access and Right to Delete: we are leveraging the capabilities that were added for GDPR. [Learn more](https://helpx.adobe.com/campaign/kb/acc-privacy.html#righttoaccess) </li><li> You can track whether a consumer has opted-out for the sale of Personal Information. For this, you need to extend the Profiles table and add an **Opt-Out for CCPA** field. [Learn more](https://helpx.adobe.com/campaign/kb/acc-privacy.html#ccpa) </li></ul> Refer to the [how-to video](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/privacy/privacy-overview.html). |
+| Workflow live monitoring | You can now monitor the execution status of all workflows on your instance using predefined views. <br> For more information, refer to the [detailed documentation](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/monitoring-workflows/monitoring-workflow-execution.html#filtering-workflows-status). |
+| Interactive content with AMP | Adobe Campaign enables you to try out the new interactive [AMP for Email](https://amp.dev/about/email/) format, which allows marketers to include AMP components inside messages to enhance the email experience with rich, dynamic and interactive content, directly actionable in the message itself. <br> This capability is released as a public beta. <br> For more information, refer to the [detailed documentation](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/sending-emails/defining-interactive-content.html) and the [tutorial video](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/sending-messages/email-channel/defining-interactive-email-content-with-amp.html). |
+| Secure SMS Messaging (TLS) | Secured SMS is now supported through the Extended Generic SMPP Connector. This allows an encrypted connection to the provider. <br> **Warning**: this feature requires an up-to-date certificate on all servers. Invalid, revoked or expired certificates will generate errors affecting the overall SMS sending capabilities. <br> For more information, refer to the [detailed documentation](https://helpx.adobe.com/campaign/kb/sms-connector-protocol-and-settings.html). |
+
+See [Adobe Campaign Classic Release Notes](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html) for fixes and improvements.
+
+### Campaign Standard 19.4
+
+| Functionality | Description |
+| ------------- | ----------- |
+| California Consumer Privacy Act (CCPA) | CCPA is the State of California's new privacy law hat harmonizes and modernizes data protection requirements going into effect on Jan 01, 2020. CCPA applies to Adobe Campaign customers who hold data for Data Subjects residing in California. <br> In addition to the privacy capabilities already available in Adobe Campaign (including consent management, data retention settings, and user roles), we are taking this opportunity to include additional capabilities, to help facilitate your readiness for CCPA: <ul><li> Right to Access and Right to Delete: we are leveraging the capabilities that were added for GDPR. [Learn more](https://helpx.adobe.com/content/help/en/campaign/kb/acs-privacy.html#righttoaccess) </li><li> When creating a Privacy request, the regulation type (GDPR or CCPA) has been added in the Privacy Core Service. This method is the one you should use for all access and delete requests. The use of the Campaign API and interface for access and delete requests is deprecated. See the [Deprecated and Removed Features article](https://helpx.adobe.com/campaign/kb/acs-deprecated-and-removed-features.html). </li><li> A **CCPA Opt-Out** field has been added to the Profiles resource to allow Adobe Campaign users to track whether a consumer has opted-out for the sale of Personal Information. [Learn more](https://helpx.adobe.com/content/help/en/campaign/kb/acs-privacy.html#ccpa) </li></ul> Refer to the [how-to video](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/privacy/privacy-overview.html). |
+| Microsoft Dynamics 365 integration (GA) | The integration between Adobe Campaign Standard and Microsoft Dynamics 365 is now available. You’ll be able to transfer your contact and custom entity records from Dynamics 365 to Campaign, and get email event data back from Campaign to Dynamics 365 for better sales/marketing alignment. <br> Refer to the [detailed documentation](https://helpx.adobe.com/campaign/kb/acs-ms-dynamics.html) to set this integration up and view the [how-to video](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/integrating/microsoft-dynamics365-connector/introduction.html). |
+
+See [Adobe Campaign Standard Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) for fixes and improvements.
+
+### Adobe Campaign Control Panel
+
+We’ve added new capabilities for Admin users to delegate subdomains and renew SSL certificates from Control Panel.
+
+For more information, refer to these pages:
+
+* Setting up a new subdomain - [Read more](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/setting-up-new-subdomain.html)
+* Renewing a subdomain’s SSL certificate - [Read more](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+
+>[!CAUTION]
+>
+>These features will be available in beta by the end of January, and subject to frequent updates and modifications without notice.
+
+### Additional resources
 
 * Adobe Campaign Standard: [Documentation](https://helpx.adobe.com/support/campaign/standard.html) - [Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [Release Planning](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
 * Adobe Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
+* Adobe Campaign Control Panel: [Documentation](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html) - [Release Notes](https://docs.adobe.com/content/help/en/control-panel/using/release-notes.html)
 
 
 ## Advertising Cloud {#adcloud}
