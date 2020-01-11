@@ -61,9 +61,9 @@ Adobe is updating the domain and interface header to unify and improve your expe
 
 Updates include:
 
-* New solution URLs: `experience.adobe.com/<application name>.` All products will eventually adopt this URL pattern. Look for new URLs to become effective throughout the month. Adobe recommends updating your bookmarks after you see the redirects to the new domains.
+* New solution URLs: `experience.adobe.com/<application name>.` All products will eventually adopt this URL pattern. Look for new URLs to become effective throughout the month.
 * Easier switching between your organizations or to a different application.
-* Improved product help: [!UICONTROL Experience League] is integrated into the product so that a help search also includes results from community forums and video content. This change simplifies access to more content and helps you get the most out of Experience Cloud. Additionally, click **[!UICONTROL Help]** > **[!UICONTROL Feedback]** to report issues or share your ideas with the product documentation team.  
+* Improved product help: [!UICONTROL Experience League] is integrated into the product so that a help search also includes results from community forums and video content. This change simplifies access to more content and helps you get the most out of Experience Cloud. Additionally, click **[!UICONTROL Help]** > **[!UICONTROL Feedback]** to report issues or share your ideas with Adobe.  
 * Improved notifications: The [!UICONTROL Notifications] drop-down menu now has two tabs, one for your own product notifications and one for global product announcements.
 
 **Note:** The [!UICONTROL Feed] page is being deprecated in January, 2020. Look for an in-product deprecation notice.
