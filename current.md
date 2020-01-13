@@ -194,6 +194,14 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 
 ### Product releases
 
+* **NEW: AEM as a Cloud Service**
+
+    [Adobe Experience Manager](https://www.adobe.com/marketing/experience-manager.html) (AEM) is now available as a Cloud Service.
+
+    * [Introduction](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/overview/introduction.html)
+    * [Release Information](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/home.html)
+    * [Documentation](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html)
+    
 * **Automated Forms Conversion Service**
 
     Automated Forms Conversion Service, the service to automatically convert PDF forms to beautiful mobile-ready HTML Forms, became available for general consumption on December 12, 2019.
@@ -219,6 +227,7 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 
 ### Additional resources
 
+* [AEM as a Cloud Service](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/landing/home.html)
 * [AEM 6.5 Learn & Support Home](https://helpx.adobe.com/support/experience-manager/6-5.html)
 * [AEM 6.4 Learn & Support Home](https://helpx.adobe.com/support/experience-manager/6-4.html)
 * [AEM 6.3 Learn & Support Home](https://helpx.adobe.com/support/experience-manager/6-3.html)
