@@ -61,7 +61,8 @@ Adobe is updating the domain and interface header to unify and improve your expe
 
 Updates include:
 
-* New solution URLs: `experience.adobe.com/<application name>.` All products will eventually adopt this URL pattern. Look for new URLs to become effective throughout the month.
+* New solution URLs: `experience.adobe.com/<application name>.` All products will eventually adopt this URL pattern. Look for new URLs to become effective throughout the month. Notes:
+    * The domain change may cause cookie issues in Safari. Unchecking _Prevent cross-site tracking_ in the Safari Privacy Preferences enables cookies across domains (and all cross-site experiences), and allows Experience Cloud to function on this new domain. You can use other browsers without issue because this affects only Safari users.
 * Easier switching between your organizations or to a different application.
 * Improved product help: [!UICONTROL Experience League] is integrated into the product so that a help search also includes results from community forums and video content. This change simplifies access to more content and helps you get the most out of Experience Cloud. Additionally, click **[!UICONTROL Help]** > **[!UICONTROL Feedback]** to report issues or share your ideas with Adobe.  
 * Improved notifications: The [!UICONTROL Notifications] drop-down menu now has two tabs, one for your own product notifications and one for global product announcements.
