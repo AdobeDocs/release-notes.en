@@ -8,12 +8,9 @@ author: mfrei
 
 ---
 
-# Early Access - Adobe Experience Cloud Release Notes - January 2020
+# Adobe Experience Cloud Release Notes - January 2020
 
 New features and fixes in the Adobe Experience Cloud.
-
->[!IMPORTANT]
->This page contains pre-release content and is subject to change prior to the each product's planned release.
 
 >[!NOTE] 
 >Subscribe to the [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. New information published after the release will be marked with the publication date.
