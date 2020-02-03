@@ -48,11 +48,11 @@ New features.
 
 | Feature    | Description  |
 | -----------| ---------- |
-|Faster awareness of product events | <ul><li>Get informed of upcoming service maintenance up to 30 days in advance. This feature provides more lead time to assess potential impact on your business operations, enbaling you to implement a mitigation plan if necessary.</li><li>Receive lead notices of service maintenance 30 days in advance. These notifications are available on Web/mobile/tablet surfaces and via email notifications.</li></ul> |
-|Personalized experience based on preferred language | <ul><li>Choose a preferred language for email notifications. The Self-subscription features is now available in nineteen languages.</li></ul> |
-|Improved subscription and notification user experience | <ul><li>Specify the region and event preferences for all products to which you are subscribed.</li><li>Get increased awareness of potential issues changed to major or minor service issues.</li><li>Browser page auto-refresh triggered on any product or event status update.</li></ul> |
+|Faster awareness of product events | <ul><li>Get informed 30 days in advance of upcoming service maintenance. This feature provides more lead time to assess the potential impact on your business operations, enabling you to implement a mitigation plan if necessary.</li><li>Advanced notifications are available on Web/mobile/tablet surfaces and via email notifications.</li></ul> |
+|Personalize your experience based on preferred language | <ul><li>Choose a preferred language for email notifications. The Self-subscription feature is now available in nineteen languages.</li></ul> |
+|Improved subscription and notification user experience | <ul><li>Specify the region and event preferences for all products to which you are subscribed.</li><li>Get a better awareness of service event types that are now categorized as _Major_, _Minor_, and _Service Maintenance_.</li><li>The browser page automatically refreshes when any product or event status is updated.</li></ul> |
 
-Try it out live for your own product event notification preferences at https://status.adobe.com/proactive-notifications/subscriptions/.
+Get started with your own product event notification preferences at https://status.adobe.com/proactive-notifications/subscriptions/.
 
 ## Experience Cloud interface and core services {#ecloud}
 
@@ -66,7 +66,7 @@ Updates include:
 
 * New solution URLs: `experience.adobe.com/<application name>`:
     * All products will eventually adopt this URL pattern. Look for new URLs to become effective throughout the month. 
-    * Browser support: Supported browsers incluce [!DNL Microsoft Edge], [!DNL Google Chrome], [!DNL Firefox], [!DNL Safari], and [!DNL Opera] (latest versions). **Note:** Although the Experience Cloud interface supports these browsers, individual solutions might not support every browser. (For example, [Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) does not support [!DNL Opera], and [Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html) does not support [!DNL Safari].) 
+    * Browser support: Supported browsers include [!DNL Microsoft Edge], [!DNL Google Chrome], [!DNL Firefox], [!DNL Safari], and [!DNL Opera] (latest versions). **Note:** Although the Experience Cloud interface supports these browsers, individual solutions might not support every browser. (For example, [Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) does not support [!DNL Opera], and [Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html) does not support [!DNL Safari].) 
     * ([!DNL Safari] only) The domain change may cause cookie issues in [!DNL Safari]. Unchecking _Prevent cross-site tracking_ in the [!DNL Safari] Privacy Preferences enables cookies across domains (and all cross-site experiences), and allows Experience Cloud to function on this new domain. 
 * Easier switching between your organizations or to a different application.
 * Improved product help: [!UICONTROL Experience League] is integrated into the product so that a help search also includes results from community forums and video content. This change simplifies access to more content and helps you get the most out of Experience Cloud. Additionally, click **[!UICONTROL Help]** > **[!UICONTROL Feedback]** to report issues or share your ideas with Adobe.  
