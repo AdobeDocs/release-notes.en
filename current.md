@@ -48,9 +48,9 @@ New features.
 
 | Feature    | Description  |
 | -----------| ---------- |
-|Faster awareness of product events | <ul><li>Get informed of upcoming service maintenance up to 30 days in advance. This feature provides more lead time to assess potential impact on your business operations, and implement a mitigation plan if necessary.</li><li>Service maintenance 30-day lead notifications are now available on Web, mobile, and tablet surfaces and via email notifications.</li></ul> |
-|Personalized experience based on preferred language | <ul><li>Choose a preferred language for email notifications.</li><li>Self-subscription UX localized in 19 languages for Web, mobile, and tablet surfaces.</li></ul> |
-|Improved subscription and notification user experience | <ul><li>Specify the region and event preferences for all products to which you are subscribed.</li><li>Better awareness of potential issues changed to major or minor service issues.</li><li>Browser page auto-refresh triggered on any product or event status update.</li></ul> |
+|Faster awareness of product events | <ul><li>Get informed of upcoming service maintenance up to 30 days in advance. This feature provides more lead time to assess potential impact on your business operations, enbaling you to implement a mitigation plan if necessary.</li><li>Receive lead notices of service maintenance 30 days in advance. These notifications are available on Web/mobile/tablet surfaces and via email notifications.</li></ul> |
+|Personalized experience based on preferred language | <ul><li>Choose a preferred language for email notifications. The Self-subscription features is now available in nineteen languages.</li></ul> |
+|Improved subscription and notification user experience | <ul><li>Specify the region and event preferences for all products to which you are subscribed.</li><li>Get increased awareness of potential issues changed to major or minor service issues.</li><li>Browser page auto-refresh triggered on any product or event status update.</li></ul> |
 
 Try it out live for your own product event notification preferences at https://status.adobe.com/proactive-notifications/subscriptions/.
 
