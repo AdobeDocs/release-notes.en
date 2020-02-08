@@ -40,17 +40,15 @@ Looking for the help home? See [Adobe Experience Cloud Documentation](https://do
 
 **What's new**
 
-* Using your Adobe ID, you can subscribe to event notifications based on your product, region, and event preferences. Users who configure their subscription preferences are notified of only relevant product incident and maintenance events as soon as they are opened, updated, or closed. Get started at [status.adobe.com/subscriptions](https://status.adobe.com/proactive-notifications/subscriptions/edit).
+* Using your Adobe ID, you can subscribe to event notifications based on your product, region, event, and language preferences. Users who configure their subscription preferences are notified of only relevant product incident and maintenance events as soon as they are opened, updated, or closed. Get started at [status.adobe.com/subscriptions](https://status.adobe.com/proactive-notifications/subscriptions/edit).
 
 **New features and enhancements available today**
-
-New features.
 
 | Feature    | Description  |
 | -----------| ---------- |
 |Faster awareness of product events | <ul><li>Get informed 30 days in advance of upcoming service maintenance. This feature provides more lead time to assess the potential impact on your business operations, enabling you to implement a mitigation plan if necessary.</li><li>Advanced notifications are available on Web/mobile/tablet surfaces and via email notifications.</li></ul> |
 |Personalize your experience based on preferred language | <ul><li>Choose a preferred language for email notifications. The Self-subscription feature is now available in nineteen languages.</li></ul> |
-|Improved subscription and notification user experience | <ul><li>Specify the region and event preferences for all products to which you are subscribed.</li><li>Get a better awareness of service event types that are now categorized as _Major_, _Minor_, and _Service Maintenance_.</li><li>The browser page automatically refreshes when any product or event status is updated.</li></ul> |
+|Improved subscription and notification user experience | <ul><li>Specify the region and event preferences in just one click for all products to which you want to subscribe.</li><li>Get notified when _Potential_ issues are promoted to _Minor_ or _Major_ issues.</li><li>The browser page automatically refreshes when any product or event status is updated.</li></ul> |
 
 Get started with your own product event notification preferences at https://status.adobe.com/proactive-notifications/subscriptions/.
 
