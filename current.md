@@ -283,10 +283,10 @@ For more information, refer to these pages:
 
 ## Advertising Cloud {#adcloud}
 
-Updated for January 11, 2020, release
+Updated February 10, 2020, for February 8 release
 
 | View | Feature |
 |------|---------|
-| Conversion Tracking | All Advertising Cloud cookies were updated to meet new cookie control requirements for Google Chrome 80, which will be released on 4 February. The changes were implemented from Adobe servers using the existing cookies, without any effect on visitor metrics. No advertiser updates are required. |
-| Insights > Alerts Beta, Search > Campaigns  | (Beta feature for search accounts only) A new Alerts Beta allows you to create alert templates to identify when any search campaign, ad group, keyword, or ad meets specific conditions &mdash; such as performance metrics &mdash; during a specified period and then generate an alert. Alerts are available for a single advertiser. |
-|   Reports | Data for product listing ads is now included in Label Classification, Label Value, Bid Rule, and Constraint reports. |
+| Portfolios | You can now add Yahoo! Japan Display Network (YDN) campaigns to portfolios to optimize the campaign budgets and ad group-level bids. The same bid is applied to all ads in an ad group. Data for YDN campaigns is included in the simulations for the portfolio. |
+| Search > Bulksheets  | You can now create, edit, and delete Google responsive search ads (RSAs) using bulksheets. Previously, support was available only through the standard campaign management interface at Search > Campaigns |
+| Search > Campaigns, Reports | The Google Ads prominence metrics “Impr. (Abs. Top) %” and “Impr. (Top) %” are now available in all basic reports and entity-level campaign management views except for those for shopping product groups, in the Campaign Daily Impression Share and Keyword Daily Impression Share reports, and in the labels and constraints views. |
