@@ -92,7 +92,11 @@ See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/u
 
 ## Mobile Services and Mobile SDKs {#mobile}
 
-Features
+**Feburary 4, 2020: Version 4.19.0**
+
+The following update was made in this release:
+
+**Lifecycle**: Added a new API, `pauseCollectingLifecycleData`, to mitigae the abnormal session length data that was reported from some old iOS devices.
 
 ## [!DNL Analytics] {#analytics}
 
