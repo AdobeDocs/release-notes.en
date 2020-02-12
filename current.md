@@ -110,13 +110,16 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 ### New features, enhancements, and fixes in Adobe Analytics {#aa-features}
 
-* A new Workspace template is available for organizations using Cross-Device Analytics. This template shows how effective CDA is at stitching visits together and educates you on CDA-exclusive dimensions and metrics. A report suite using CDA is required. See [Setting up Cross-Device Analytics](https://docs.adobe.com/content/help/en/analytics/components/cda/cda-setup.html) in the Analytics Components user guide for more information.
-* CDA stitching time for organizations using the Private Graph is reduced to one day. Improved stitching time for organizations using the Device Co-op is available at a future date.
+* **Support for multiple report suites in Workspace**: You can now bring in data from multiple report suites into a single project to view side by side. Beginning on Feb 20, 2020, the feature will roll out to all customers over the course of several weeks. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html)
+* New **Workspace template for organizations using Cross-Device Analytics**. This template shows how effective CDA is at stitching visits together and educates you on CDA-exclusive dimensions and metrics. A report suite using CDA is required. See [Setting up Cross-Device Analytics](https://docs.adobe.com/content/help/en/analytics/components/cda/cda-setup.html) for more information.
+* **CDA stitching time for organizations using the Private Graph is reduced to one day**. Improved stitching time for organizations using the Device Co-op will be available at a future date.
+* **New hotkeys in Workspace**:<ul><li>Collapse/Expand All panels: alt + m</li><li>Collapse/Expand Active panel: alt + ctrl + m</li><li>Search left rail: ctrl + /</li><li>Move to next panel: alt + Right Key</li><li>Move to previous panel:	alt + Left Key</li></ul>[Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/fa-shortcut-keys.html)
+* **Other Workspace enhancements**:<ul><li>When a panel or visualization is dropped into Workspace, the left rail will now auto-switch to components for a more seamless workflow.</li><li>Template components can now be actioned upon (e.g. tagged, favorited, approved).</li><li>Filtered metric and segment lists offer the + button to add a new component if you don't find what you need.</li></ul>
 
 #### Fixes
 
-* Fixes
-* Fixes
+* Fixed an issue with Segment UI saying that Marketing Channel dimensions were compatible with Data Warehouse, when I reality they are not. In the future, the Segment Builder will no longer show these dimensions as being Data Warehouse compatible. (AN-202297)
+* Fixed an issue with the name of a published segment that was updated in Analytics not getting updated in AAM within 24 hours. (AN-199974)
 
 ### Important notices for [!DNL Analytics] administrators {#aa-notices}
 
@@ -132,7 +135,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 ### [!DNL AppMeasurement] {#appm}
 
-See [AppMeasurement for Javascript release notes](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html).
+See [AppMeasurement for Javascript release notes](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html). Version 2.18.0 was released on February 13, 2020.
 
 ## Audience Manager {#aam}
 
