@@ -17,17 +17,19 @@ New features and fixes in the Adobe Experience Cloud.
 
 **Release date: January, 16 2020**
 
+Latest update: February 10, 2020
+
 * [Adobe System Status](#status)
 * [Experience Cloud interface and core services](#ecloud)
 * [Experience Platform](#platform)
 * [Mobile Services and Mobile SDKs](#mobile)
-* [!DNL Analytics](#analytics) (**Updated Jan. 21, 2020**)
+* [!DNL Analytics](#analytics) **(Updated Jan. 21, 2020)**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
-* [!DNL Advertising Cloud](#adcloud)
+* [!DNL Advertising Cloud](#adcloud) **(Updated February 10, 2020)**
 
 Looking for the help home? See [Adobe Experience Cloud Documentation](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
 
