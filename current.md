@@ -58,8 +58,8 @@ New features and fixes in the Experience Cloud interface, including administrati
 
 **Fixes**
 
-* Customer Attributes: Customer Attributes UI now displays additional statuses of profiles synced in Target. (MCUI-10231)
-* Triggers Core Service: Due to lack of use, the propensity score "Likelihood to Return in 30 days" when creating an Abandonment type trigger has been removed. (MCUI-10056)
+* **Customer Attributes:** Customer Attributes UI now displays additional statuses of profiles synced in Target. (MCUI-10231)
+* **Triggers Core Service:** Due to lack of use, the propensity score "Likelihood to Return in 30 days" when creating an Abandonment type trigger has been removed. (MCUI-10056)
 
 ### Unified product domain
 
