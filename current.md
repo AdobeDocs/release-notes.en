@@ -133,15 +133,17 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 See [AppMeasurement for Javascript release notes](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-updates.html). Version 2.18.0 was released on February 13, 2020.
 
-<!-- ## Audience Manager {#aam}
+## Audience Manager {#aam}
 
 Fixes and features added to Audience Manager.
 
 ### New features, enhancements, and fixes in Audience Manager {#aam-features}
 
-Features table.
+|Feature|Description|
+|----|----|
+|[Activity Usage Reporting](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/activity-usage-reporting.html)|The [!UICONTROL Activity Usage Report] helps you view and track the activity usage of your Audience Manager instance, giving you a clear idea of how your activity usage compares to your contractual commitment.|
 
-### Fixes and Improvements {#aam-fixes-and-improvements}
+<!-- ### Fixes and Improvements {#aam-fixes-and-improvements}
 
 * Fixes
 * Fixes -->
