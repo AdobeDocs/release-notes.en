@@ -163,6 +163,10 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 
 ### Self-Help
 
+* **Tutorials for AEM as a Cloud Service**
+
+    Get quickly started with the [tutorials for AEM as a Cloud Service](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/overview.html).
+
 * **AEM Forms interactive communication Batch API**
 
     Batch API of AEM Forms interactive communication lets customers produce multiple interactive communications, automatically or on-demand. Customers can generate Print and Web outputs simultaneously.
