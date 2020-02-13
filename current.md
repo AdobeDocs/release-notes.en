@@ -32,6 +32,7 @@ New features and fixes in the Adobe Experience Cloud.
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 * [!DNL Advertising Cloud](#adcloud)
+* [!DNL Magento](#magento)
 
 Looking for the help home? See [Adobe Experience Cloud Documentation](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
 
@@ -50,8 +51,6 @@ Looking for the help home? See [Adobe Experience Cloud Documentation](https://do
 |Faster awareness of product events | <ul><li>Get informed 30 days in advance of upcoming service maintenance. This feature provides more lead time to assess the potential impact on your business operations, enabling you to implement a mitigation plan if necessary.</li><li>Advanced notifications are available on Web/mobile/tablet surfaces and via email notifications.</li></ul> |
 |Personalize your experience based on preferred language | <ul><li>Choose a preferred language for email notifications. The Self-subscription feature is now available in nineteen languages.</li></ul> |
 |Improved subscription and notification user experience | <ul><li>Specify the region and event preferences in just one click for all products to which you want to subscribe.</li><li>Get notified when _Potential_ issues are promoted to _Minor_ or _Major_ ones.</li><li>The browser page automatically refreshes when any product or event status is updated.</li></ul> |
-
-Get started with your own product event notification preferences at https://status.adobe.com/proactive-notifications/subscriptions/.
 
 ## Experience Cloud interface and core services {#ecloud}
 
@@ -215,3 +214,10 @@ Updated February 10, 2020, for February 8 release
 | Portfolios | You can now add Yahoo! Japan Display Network (YDN) campaigns to portfolios to optimize the campaign budgets and ad group-level bids. The same bid is applied to all ads in an ad group. Data for YDN campaigns is included in the simulations for the portfolio. |
 | Search > Bulksheets  | You can now create, edit, and delete Google responsive search ads (RSAs) using bulksheets. Previously, support was available only through the standard campaign management interface at Search > Campaigns |
 | Search > Campaigns, Reports | The Google Ads prominence metrics “Impr. (Abs. Top) %” and “Impr. (Top) %” are now available in all basic reports and entity-level campaign management views except for those for shopping product groups, in the Campaign Daily Impression Share and Keyword Daily Impression Share reports, and in the labels and constraints views. |
+
+## [!DNL Magento] {#magento}
+
+For Magento release notes, see:
+
+* [Magento Commerce 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-commerce.html)
+* [Magento Open Source 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-open-source.html)
