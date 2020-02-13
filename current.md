@@ -146,6 +146,7 @@ Features table.
 
 * Fixes
 * Fixes -->
+
 ## Experience Manager {#aem}
 
 New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
