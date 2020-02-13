@@ -187,15 +187,11 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 
 Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
 
-### Campaign Classic 19.2
-
-New features...
+### Campaign Classic 19.2.3
 
 See [Adobe Campaign Classic Release Notes](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html) for fixes and improvements.
 
-### Campaign Standard 19.4
-
-New features...
+### Campaign Standard 20.1
 
 See [Adobe Campaign Standard Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) for fixes and improvements.
 
