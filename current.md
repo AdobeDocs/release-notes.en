@@ -56,6 +56,11 @@ Looking for the help home? See [Adobe Experience Cloud Documentation](https://do
 
 New features and fixes in the Experience Cloud interface, including administration and core services (customer attributes, audiences, triggers, cookies, and so on).
 
+**Fixes**
+
+* Customer Attributes: Customer Attributes UI now displays additional statuses of profiles synced in Target. (MCUI-10231)
+* Triggers Core Service: Due to lack of use, the propensity score "Likelihood to Return in 30 days" when creating an Abandonment type trigger has been removed. (MCUI-10056)
+
 ### Unified product domain
 
 Adobe is updating the domain and interface header to unify and improve your experience across all Experience Cloud applications. These enhancements are designed to simplify your experience in small but important ways. These enhancements will not change your current workflows.
