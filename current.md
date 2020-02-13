@@ -18,14 +18,15 @@ New features and fixes in the Adobe Experience Cloud.
 >[!NOTE] 
 >Subscribe to the [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. New information published after the release will be marked with the publication date.
 
-**Release date: February 2020**
+**Release date: February 20, 2020**
+
+(Specific product release dates my vary)
 
 * [Adobe System Status](#status)
 * [Experience Cloud interface and core services](#ecloud)
 * [Experience Platform](#platform)
 * [Mobile Services and Mobile SDKs](#mobile)
-* [!DNL Analytics](#analytics)
-* [Audience Manager](#aam)
+* [!DNL Analytics](#analytics)<!-- * [Audience Manager](#aam) -->
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
@@ -40,7 +41,7 @@ Looking for the help home? See [Adobe Experience Cloud Documentation](https://do
 
 **What's new**
 
-* Using your Adobe ID, you can subscribe to event notifications based on your product, region, event, and language preferences. Users who configure their subscription preferences are notified of only relevant product incident and maintenance events as soon as they are opened, updated, or closed. Get started at [status.adobe.com/subscriptions](https://status.adobe.com/proactive-notifications/subscriptions/edit).
+* Using your Adobe ID, you can subscribe to event notifications based on your product, region, event, and language preferences. Users who configure their subscription preferences are notified of relevant product incident and maintenance events as soon as they are opened, updated, or closed. Get started at [status.adobe.com/subscriptions](https://status.adobe.com/proactive-notifications/subscriptions/edit).
 
 **New features and enhancements available today**
 
@@ -48,7 +49,7 @@ Looking for the help home? See [Adobe Experience Cloud Documentation](https://do
 | -----------| ---------- |
 |Faster awareness of product events | <ul><li>Get informed 30 days in advance of upcoming service maintenance. This feature provides more lead time to assess the potential impact on your business operations, enabling you to implement a mitigation plan if necessary.</li><li>Advanced notifications are available on Web/mobile/tablet surfaces and via email notifications.</li></ul> |
 |Personalize your experience based on preferred language | <ul><li>Choose a preferred language for email notifications. The Self-subscription feature is now available in nineteen languages.</li></ul> |
-|Improved subscription and notification user experience | <ul><li>Specify the region and event preferences in just one click for all products to which you want to subscribe.</li><li>Get notified when _Potential_ issues are promoted to _Minor_ or _Major_ issues.</li><li>The browser page automatically refreshes when any product or event status is updated.</li></ul> |
+|Improved subscription and notification user experience | <ul><li>Specify the region and event preferences in just one click for all products to which you want to subscribe.</li><li>Get notified when _Potential_ issues are promoted to _Minor_ or _Major_ ones.</li><li>The browser page automatically refreshes when any product or event status is updated.</li></ul> |
 
 Get started with your own product event notification preferences at https://status.adobe.com/proactive-notifications/subscriptions/.
 
@@ -63,9 +64,9 @@ Adobe is updating the domain and interface header to unify and improve your expe
 Updates include:
 
 * New solution URLs: `experience.adobe.com/<application name>`:
-  * All products will eventually adopt this URL pattern. Look for new URLs to become effective throughout the month. 
-  * Browser support: Supported browsers include [!DNL Microsoft Edge], [!DNL Google Chrome], [!DNL Firefox], [!DNL Safari], and [!DNL Opera] (latest versions). **Note:** Although the Experience Cloud interface supports these browsers, individual solutions might not support every browser. (For example, [Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) does not support [!DNL Opera], and [Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html) does not support [!DNL Safari].) 
-  * ([!DNL Safari] only) The domain change may cause cookie issues in [!DNL Safari]. Unchecking _Prevent cross-site tracking_ in the [!DNL Safari] Privacy Preferences enables cookies across domains (and all cross-site experiences), and allows Experience Cloud to function on this new domain. 
+  * All products will eventually adopt this URL pattern. Look for new URLs to become effective throughout the month.
+  * Browser support: Supported browsers include [!DNL Microsoft Edge], [!DNL Google Chrome], [!DNL Firefox], [!DNL Safari], and [!DNL Opera] (latest versions). **Note:** Although the Experience Cloud interface supports these browsers, individual solutions might not support every browser. (For example, [Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) does not support [!DNL Opera], and [Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html) does not support [!DNL Safari].)
+  * ([!DNL Safari] only) The domain change may cause cookie issues in [!DNL Safari]. Deselecting _Prevent cross-site tracking_ in the [!DNL Safari] Privacy Preferences enables cookies across domains (and all cross-site experiences), and allows Experience Cloud to function on this new domain.
 * Easier switching between your organizations or to a different application.
 * Improved product help: [!UICONTROL Experience League] is integrated into the product so that a help search also includes results from community forums and video content. This change simplifies access to more content and helps you get the most out of Experience Cloud. Additionally, click **[!UICONTROL Help]** > **[!UICONTROL Feedback]** to report issues or share your ideas with Adobe.  
 * Improved notifications: The [!UICONTROL Notifications] drop-down menu now has two tabs, one for your own product notifications and one for global product announcements.
@@ -73,10 +74,6 @@ Updates include:
 **Note:** The [!UICONTROL Feed] page is being deprecated in January, 2020. Look for an in-product deprecation notice.
 
 For product documentation, see [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html).
-
-### Experience Cloud cookies
-
-Features
 
 ## Experience Platform {#platform}
 
@@ -96,7 +93,7 @@ See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/u
 
 The following update was made in this release:
 
-**Lifecycle**: Added a new API, `pauseCollectingLifecycleData`, to mitigae the abnormal session length data that was reported from some old iOS devices.
+**Lifecycle:** Added a new API, `pauseCollectingLifecycleData`, to mitigate the abnormal session length data that was reported from some old iOS devices.
 
 ## [!DNL Analytics] {#analytics}
 
@@ -110,22 +107,22 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 ### New features, enhancements, and fixes in Adobe Analytics {#aa-features}
 
-* **Support for multiple report suites in Workspace**: You can now bring in data from multiple report suites into a single project to view side by side. Beginning on Feb 20, 2020, the feature will roll out to all customers over the course of several weeks. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html)
-* New **Workspace template for organizations using Cross-Device Analytics**. This template shows how effective CDA is at stitching visits together and educates you on CDA-exclusive dimensions and metrics. A report suite using CDA is required. See [Setting up Cross-Device Analytics](https://docs.adobe.com/content/help/en/analytics/components/cda/cda-setup.html) for more information.
-* **CDA stitching time for organizations using the Private Graph is reduced to one day**. Improved stitching time for organizations using the Device Co-op will be available at a future date.
-* **New hotkeys in Workspace**:<ul><li>Collapse/Expand All panels: alt + m</li><li>Collapse/Expand Active panel: alt + ctrl + m</li><li>Search left rail: ctrl + /</li><li>Move to next panel: alt + Right Key</li><li>Move to previous panel:	alt + Left Key</li></ul>[Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/fa-shortcut-keys.html)
-* **Other Workspace enhancements**:<ul><li>When a panel or visualization is dropped into Workspace, the left rail will now auto-switch to components for a more seamless workflow.</li><li>Template components can now be actioned upon (e.g. tagged, favorited, approved).</li><li>Filtered metric and segment lists offer the + button to add a new component if you don't find what you need.</li></ul>
+* **Support for multiple report suites in Workspace:** You can now bring in data from multiple report suites into a single project to view side by side. Beginning on Feb 20, 2020, the feature will roll out to all customers over the course of several weeks. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html)
+* New **Workspace template for organizations using Cross-Device Analytics:** This template shows how effective CDA is at stitching visits together and educates you on CDA-exclusive dimensions and metrics. A report suite using CDA is required. See [Setting up Cross-Device Analytics](https://docs.adobe.com/content/help/en/analytics/components/cda/cda-setup.html) for more information.
+* **CDA stitching time for organizations using the Private Graph is reduced to one day:** Improved stitching time for organizations using the Device Co-op will be available at a future date.
+* **New hotkeys in Workspace:**<ul><li>Collapse/Expand All panels: `alt + m`</li><li>Collapse/Expand Active panel: `alt + ctrl + m`</li><li>Search left rail: `ctrl + /`</li><li>Move to next panel: `alt + Right Key`</li><li>Move to previous panel: `alt + Left Key`</li></ul>[Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/fa-shortcut-keys.html)
+* **Other Workspace enhancements:**<ul><li>When a panel or visualization is dropped into [!UICONTROL Workspace], the left rail auto-switches to components for a more seamless workflow.</li><li>Template components can now be actioned upon (e.g. tagged, marked as favorite, approved).</li><li>Filtered metric and segment lists offer the `+` button to add a new component if you don't find what you need.</li></ul>
 
 #### Fixes
 
-* Fixed an issue with Segment UI saying that Marketing Channel dimensions were compatible with Data Warehouse, when I reality they are not. In the future, the Segment Builder will no longer show these dimensions as being Data Warehouse compatible. (AN-202297)
-* Fixed an issue with the name of a published segment that was updated in Analytics not getting updated in AAM within 24 hours. (AN-199974)
+* Fixed an issue with Segment UI saying that [!UICONTROL Marketing Channel] dimensions were compatible with [!UICONTROL Data Warehouse], when in reality they are not. In the future, the [!UICONTROL Segment Builder] will no longer show these dimensions as being [!UICONTROL Data Warehouse] compatible. (AN-202297)
+* Fixed an issue with the name of a published segment that was updated in Analytics not getting updated in Audience Manager within 24 hours. (AN-199974)
 
 ### Important notices for [!DNL Analytics] administrators {#aa-notices}
 
 | Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- |
-|New Adobe Analytics domain|Dec. 18, 2019|On January 16, 2020, Adobe Analytics began moving to a new domain - `https://experience.adobe.com/analytics.`<br>**Note**: This change applies to all users accessing Analytics with their Adobe ID or Enterprise ID. <ul><li>The domain change may cause cookie issues when loading Analytics in Safari. Unchecking _Prevent cross-site tracking_ in the Safari Privacy Preferences enables cookies across domains (and all cross-site experiences), and allows Analytics to function on this new Adobe Experience Cloud domain. You can use other browsers without issue because this affects only Safari users.</li><li>The domain change may cause [!UICONTROL Activity Map] to stop working for some customers [in specific cases](https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/activity-map.html).</li></ul>|
+|New Adobe Analytics domain|Dec. 18, 2019|On January 16, 2020, Adobe Analytics began moving to a new domain - `https://experience.adobe.com/analytics.`<br>**Note:** This change applies to all users accessing Analytics with their Adobe ID or Enterprise ID. <ul><li>The domain change may cause cookie issues when loading Analytics in Safari. Deselecting _Prevent cross-site tracking_ in the Safari Privacy Preferences enables cookies across domains (and all cross-site experiences), and allows Analytics to function on this new Adobe Experience Cloud domain. You can use other browsers without issue because this affects only Safari users.</li><li>The domain change may cause [!UICONTROL Activity Map] to stop working for some customers [in specific cases](https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/activity-map.html).</li></ul>|
 |End of Life - Analytics Legacy APIs|January 9, 2020|In November 2020, the following Analytics Legacy API services will reach their end-of-life and will be shutdown. Current integrations built using these services will stop working. <ul><li>1.3 Analytics APIs</li><li>1.4 SOAP Analytics APIs</li><li>Legacy OAuth Authentication (OAuth and JWT)</li></ul>We have provided a [Legacy API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) to help answer your questions and provide guidance on how to proceed. API integrations that employ these services can migrate to the [1.4 Analytics REST APIs](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) or the [2.0 Analytics APIs](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth accounts can migrate to an [Adobe IO](https://console.adobe.io/home?mv=email) Analytics integration account, which can be used to access both the 1.4 Analytics APIs and 2.0 Analytics APIs.|
 |EOL of **[!UICONTROL View Archive]** option|Oct. 30, 2019|Announcing the January, 2020, end-of-life date for the **[!UICONTROL View Archive]** option in the Dashboard Manager (**[!UICONTROL Components > Dashboards]**).|
 |EOL of **[!UICONTROL Enforce IP Login Restrictions]** option|Oct. 30, 2019|Announcing the January, 2020, end-of-life date for the IP login whitelisting (**[!UICONTROL Enforce IP Login Restrictions]**) functionality under the **[!UICONTROL Admin > Company Settings > Security]** menu.|
@@ -137,7 +134,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 See [AppMeasurement for Javascript release notes](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-updates.html). Version 2.18.0 was released on February 13, 2020.
 
-## Audience Manager {#aam}
+<!-- ## Audience Manager {#aam}
 
 Fixes and features added to Audience Manager.
 
@@ -148,8 +145,7 @@ Features table.
 ### Fixes and Improvements {#aam-fixes-and-improvements}
 
 * Fixes
-* Fixes
-  
+* Fixes -->
 ## Experience Manager {#aem}
 
 New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
