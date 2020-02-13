@@ -154,17 +154,25 @@ Features table.
 
 New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
 
-### Product maintenance
-
-Product maintenance...
-
 ### Product releases
 
-Product releases...
+* **Cloud Manager 2020.2.0**
+
+    Cloud Manager 2020.2.0 simplifies the self-service management of sandboxes for Adobe Experience Manager as a Cloud Service.
+
+    See [Release notes](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html).
 
 ### Self-Help
 
-Self help...
+* **AEM Forms interactive communication Batch API**
+
+    Batch API of AEM Forms interactive communication lets customers produce multiple interactive communications, automatically or on-demand. Customers can generate Print and Web outputs simultaneously.
+    See [Generate multiple interactive communications using Batch API](https://docs.adobe.com/content/help/en/experience-manager-65/forms/interactive-communications/generate-multiple-interactive-communication-using-batch-api.html).
+
+* **Supported Platforms for AEM Forms on JEE**
+
+    Added support for Oracle 19c for AEM Forms on JEE customers.
+    See [Supported Platforms for AEM Forms on JEE](https://docs.adobe.com/content/help/en/experience-manager-65/forms/install-aem-forms/jee-installation/aem-forms-jee-supported-platforms.html).
 
 ### Additional resources
 
