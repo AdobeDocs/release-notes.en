@@ -111,6 +111,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 * **CDA stitching latency for organizations using the Private Graph is reduced to one day:** Private Graph functionality has been enhanced to reduce graph generation latency from a weekly batch process to a daily refreshed graph, allowing CDA customers to access more up to date identity graphs and linkages.
 * **New hotkeys in Workspace:**<ul><li>Collapse/Expand All panels: `alt + m`</li><li>Collapse/Expand Active panel: `alt + ctrl + m`</li><li>Search left rail: `ctrl + /`</li><li>Move to next panel: `alt + Right Key`</li><li>Move to previous panel: `alt + Left Key`</li></ul>[Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/fa-shortcut-keys.html)
 * **Other Workspace enhancements:**<ul><li>When a panel or visualization is dropped into [!UICONTROL Workspace], the left rail auto-switches to components for a more seamless workflow.</li><li>Template components can now be actioned upon (e.g. tagged, marked as favorite, approved).</li><li>Filtered metric and segment lists offer the `+` button to add a new component if you don't find what you need.</li></ul>
+* The **Workspace debugger** has been added to the Help menu, giving you a more seamless way to enable it for debugging Workspace requests. [Learn more...](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.md)
 
 #### Fixes
 
