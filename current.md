@@ -8,7 +8,7 @@ author: mfrei
 
 ---
 
-# INTERNAL REVIEW - Adobe Experience Cloud Release Notes - February 2020
+# Early Access - Adobe Experience Cloud Release Notes - February 2020
 
 New features and fixes in the Adobe Experience Cloud.
 
@@ -26,7 +26,8 @@ New features and fixes in the Adobe Experience Cloud.
 * [Experience Cloud interface and core services](#ecloud)
 * [Experience Platform](#platform)
 * [Mobile Services and Mobile SDKs](#mobile)
-* [!DNL Analytics](#analytics)<!-- * [Audience Manager](#aam) -->
+* [!DNL Analytics](#analytics)
+* [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
@@ -222,8 +223,8 @@ Updated February 10, 2020, for February 8 release
 | View | Feature |
 |------|---------|
 | Portfolios | You can now add Yahoo! Japan Display Network (YDN) campaigns to portfolios to optimize the campaign budgets and ad group-level bids. The same bid is applied to all ads in an ad group. Data for YDN campaigns is included in the simulations for the portfolio. |
-| Search > Bulksheets  | You can now create, edit, and delete Google responsive search ads (RSAs) using bulksheets. Previously, support was available only through the standard campaign management interface at Search > Campaigns |
-| Search > Campaigns, Reports | The Google Ads prominence metrics “Impr. (Abs. Top) %” and “Impr. (Top) %” are now available in all basic reports and entity-level campaign management views except for those for shopping product groups, in the Campaign Daily Impression Share and Keyword Daily Impression Share reports, and in the labels and constraints views. |
+| Search > Bulksheets  | You can now create, edit, and delete Google responsive search ads (RSAs) using bulksheets. Previously, support was available only through the standard campaign management interface at **[!UICONTROL Search]** > **[!UICONTROL Campaigns]** |
+| Search > Campaigns, Reports | The Google Ads prominence metrics `Impr. (Abs. Top) %` and `Impr. (Top) %` are now available in all basic reports and entity-level campaign management views except for those for shopping product groups, in the [!UICONTROL Campaign Daily Impression Share] and [!UICONTROL Keyword Daily Impression Share] reports, and in the labels and constraints views. |
 
 ## [!DNL Magento] {#magento}
 
