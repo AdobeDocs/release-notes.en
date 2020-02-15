@@ -28,7 +28,7 @@ Latest update: February 10, 2020
 * [Experience Cloud interface and core services](#ecloud)
 * [Experience Platform](#platform)
 * [Mobile Services and Mobile SDKs](#mobile)
-* [!DNL Analytics](#analytics) **(Updated Jan. 21, 2020)**
+* [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
