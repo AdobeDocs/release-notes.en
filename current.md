@@ -22,11 +22,13 @@ New features and fixes in the Adobe Experience Cloud.
 
 (Specific product release dates my vary)
 
+Latest update: February 10, 2020
+
 * [Adobe System Status](#status)
 * [Experience Cloud interface and core services](#ecloud)
 * [Experience Platform](#platform)
 * [Mobile Services and Mobile SDKs](#mobile)
-* [!DNL Analytics](#analytics)
+* [!DNL Analytics](#analytics) **(Updated Jan. 21, 2020)**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -104,7 +106,7 @@ The following update was made in this release:
 
 New features and fixes in Adobe Analytics:
 
-* [New features, enhancements, and fixes in Adobe Analytics](#aa-features)
+* [New features, enhancements, and fixes in Adobe Analytics](#aa-features) (Updated Jan. 21, 2020)
 * [Important notices for Analytics administrators](#aa-notices)
 * [AppMeasurement](#appm)
 
