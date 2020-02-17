@@ -154,10 +154,13 @@ Fixes and features added to Audience Manager.
 |----|----|
 |[Activity Usage Reporting](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/activity-usage-reporting.html)|The [!UICONTROL Activity Usage Report] helps you view and track the activity usage of your Audience Manager instance, giving you a clear idea of how your activity usage compares to your contractual commitment.|
 
-<!-- ### Fixes and Improvements {#aam-fixes-and-improvements}
+### Fixes and Improvements {#aam-fixes-and-improvements}
 
-* Fixes
-* Fixes -->
+* Fixed a bug causing the destination creation flow to break the UI for Integrated Accounts selection (AAM-52414).
+* Fixed a bug causing the UI to break when when navigating through the Algorithmic Models creation flow (AAM-37942).
+* Fixed a bug causing the Data Export selection not to be saved when saving Data Export Controls for new or existing destinations, for customers using the Adobe Experience Platform integration (AAM-52814).
+* Fixed a bug causing third party trait recommendations to work incorrectly for traits which contain pipe characters (`|`) in the name (AAM-51635).
+* Multiple accesibility improvements throughout the UI.
 
 ## Experience Manager {#aem}
 
