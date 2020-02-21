@@ -19,13 +19,13 @@ New features and fixes in the Adobe Experience Cloud.
 
 (Specific product release dates my vary)
 
-Latest update: February 10, 2020
+Latest update: February 21, 2020
 
 * [Adobe System Status](#status)
 * [Experience Cloud interface and core services](#ecloud)
 * [Experience Platform](#platform)
 * [Mobile Services and Mobile SDKs](#mobile)
-* [!DNL Analytics](#analytics)
+* [!DNL Analytics](#analytics) (Updated Feb. 21, 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -103,9 +103,9 @@ The following update was made in this release:
 
 New features and fixes in Adobe Analytics:
 
-* [New features, enhancements, and fixes in Adobe Analytics](#aa-features) (Updated Jan. 21, 2020)
+* [New features, enhancements, and fixes in Adobe Analytics](#aa-features)
 * [Important notices for Analytics administrators](#aa-notices)
-* [AppMeasurement](#appm)
+* [AppMeasurement](#appm) (Updated February 21, 2020)
 
 For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
@@ -139,7 +139,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 ### [!DNL AppMeasurement] {#appm}
 
-See [AppMeasurement for Javascript release notes](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-updates.html). Version 2.18.0 was released on February 13, 2020.
+See [AppMeasurement for Javascript release notes](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-updates.html). Version 2.19.0 was released on February 21, 2020.
 
 ## Audience Manager {#aam}
 
