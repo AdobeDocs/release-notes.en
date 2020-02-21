@@ -8,12 +8,9 @@ author: mfrei
 
 ---
 
-# Early Access - Adobe Experience Cloud Release Notes - February 2020
+# Adobe Experience Cloud Release Notes - February 2020
 
 New features and fixes in the Adobe Experience Cloud.
-
->[!IMPORTANT]
->This page contains pre-release content and is subject to change prior to the planned release.
 
 >[!NOTE] 
 >Subscribe to the [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. New information published after the release will be marked with the publication date.
@@ -160,7 +157,7 @@ Fixes and features added to Audience Manager.
 * Fixed a bug causing the UI to break when when navigating through the Algorithmic Models creation flow (AAM-37942).
 * Fixed a bug causing the Data Export selection not to be saved when saving Data Export Controls for new or existing destinations, for customers using the Adobe Experience Platform integration (AAM-52814).
 * Fixed a bug causing third party trait recommendations to work incorrectly for traits which contain pipe characters (`|`) in the name (AAM-51635).
-* Multiple accesibility improvements throughout the UI.
+* Multiple accessibility improvements throughout the UI.
 
 ## Experience Manager {#aem}
 
@@ -207,16 +204,13 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 
 Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
 
-### Campaign Classic
+### Campaign Classic 19.2.3
 
-* [Campaign Classic 20.1](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html)
-* [Campaign Classic 19.2.3 update](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/previous-releases/release--19-2.html)
+See [Adobe Campaign Classic Release Notes](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html) for fixes and improvements.
 
-### Campaign Standard
+### Campaign Standard 20.1
 
-* [Campaign Standard 20.1.3 update](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html#release-20-1-3---february-2020)
-* [Campaign Standard 20.1.2 update](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.htmll#release-20-1-2---february-2020)
-* [Campaign Standard 20.1](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html#release-20-1---february-2020)
+See [Adobe Campaign Standard Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) for fixes and improvements.
 
 ### Additional resources
 
