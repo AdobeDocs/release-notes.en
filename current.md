@@ -150,6 +150,7 @@ Fixes and features added to Audience Manager.
 |Feature|Description|
 |----|----|
 |[Activity Usage Reporting](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/activity-usage-reporting.html)|The [!UICONTROL Activity Usage Report] helps you view and track the activity usage of your Audience Manager instance, giving you a clear idea of how your activity usage compares to your contractual commitment.|
+|[DIL 9.4](https://docs.adobe.com/content/help/en/audience-manager/user-guide/dil-api/dil-release-notes.html)|We've updated the [!DNL Data Integration Library] ([!DNL DIL]) to version 9.4. This update improves compatibility with [!DNL Google Chrome] [!DNL SameSite] cookies.|
 
 ### Fixes and Improvements {#aam-fixes-and-improvements}
 
