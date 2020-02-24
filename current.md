@@ -8,12 +8,9 @@ author: mfrei
 
 ---
 
-# Early Access - Adobe Experience Cloud Release Notes - February 2020
+# Adobe Experience Cloud Release Notes - February 2020
 
 New features and fixes in the Adobe Experience Cloud.
-
->[!IMPORTANT]
->This page contains pre-release content and is subject to change prior to the planned release.
 
 >[!NOTE] 
 >Subscribe to the [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. New information published after the release will be marked with the publication date.
@@ -22,13 +19,13 @@ New features and fixes in the Adobe Experience Cloud.
 
 (Specific product release dates my vary)
 
-Latest update: February 10, 2020
+Latest update: February 21, 2020
 
 * [Adobe System Status](#status)
 * [Experience Cloud interface and core services](#ecloud)
 * [Experience Platform](#platform)
 * [Mobile Services and Mobile SDKs](#mobile)
-* [!DNL Analytics](#analytics) **(Updated Jan. 21, 2020)**
+* [!DNL Analytics](#analytics) (Updated Feb. 21, 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -106,9 +103,9 @@ The following update was made in this release:
 
 New features and fixes in Adobe Analytics:
 
-* [New features, enhancements, and fixes in Adobe Analytics](#aa-features) (Updated Jan. 21, 2020)
+* [New features, enhancements, and fixes in Adobe Analytics](#aa-features)
 * [Important notices for Analytics administrators](#aa-notices)
-* [AppMeasurement](#appm)
+* [AppMeasurement](#appm) (Updated February 21, 2020)
 
 For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
@@ -142,7 +139,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 ### [!DNL AppMeasurement] {#appm}
 
-See [AppMeasurement for Javascript release notes](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-updates.html). Version 2.18.0 was released on February 13, 2020.
+See [AppMeasurement for Javascript release notes](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-updates.html). Version 2.19.0 was released on February 21, 2020.
 
 ## Audience Manager {#aam}
 
@@ -153,11 +150,15 @@ Fixes and features added to Audience Manager.
 |Feature|Description|
 |----|----|
 |[Activity Usage Reporting](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/activity-usage-reporting.html)|The [!UICONTROL Activity Usage Report] helps you view and track the activity usage of your Audience Manager instance, giving you a clear idea of how your activity usage compares to your contractual commitment.|
+|[DIL 9.4](https://docs.adobe.com/content/help/en/audience-manager/user-guide/dil-api/dil-release-notes.html)|We've updated the [!DNL Data Integration Library] ([!DNL DIL]) to version 9.4. This update improves compatibility with [!DNL Google Chrome] [!DNL SameSite] cookies.|
 
-<!-- ### Fixes and Improvements {#aam-fixes-and-improvements}
+### Fixes and Improvements {#aam-fixes-and-improvements}
 
-* Fixes
-* Fixes -->
+* Fixed a bug causing the destination creation flow to break the UI for Integrated Accounts selection (AAM-52414).
+* Fixed a bug causing the UI to break when when navigating through the Algorithmic Models creation flow (AAM-37942).
+* Fixed a bug causing the Data Export selection not to be saved when saving Data Export Controls for new or existing destinations, for customers using the Adobe Experience Platform integration (AAM-52814).
+* Fixed a bug causing third party trait recommendations to work incorrectly for traits which contain pipe characters (`|`) in the name (AAM-51635).
+* Multiple accessibility improvements throughout the UI.
 
 ## Experience Manager {#aem}
 
