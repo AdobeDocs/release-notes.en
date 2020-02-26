@@ -1,11 +1,9 @@
 ---
-
 title: Adobe Experience Cloud Release Notes
 description: Template for Experience Cloud release notes
 doc-type: release notes
 last-update: March 2020
 author: mfrei
-
 ---
 
 # Adobe Experience Cloud Release Notes - March 2020
@@ -13,7 +11,6 @@ author: mfrei
 New features and fixes in the Adobe Experience Cloud.
 
 >[!IMPORTANT]
->
 >This page contains pre-release content and is subject to change prior to the planned release.
 
 >[!NOTE] 
@@ -37,6 +34,7 @@ Latest update: March, 2020
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 * [!DNL Advertising Cloud](#adcloud)
 * [!DNL Magento](#magento)
+* [!DNL Marketo](#marketo)
 
 Looking for the help home? See [Adobe Experience Cloud Documentation](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
 
@@ -105,7 +103,7 @@ New features and fixes in Adobe Analytics:
 
 * [New features, enhancements, and fixes in Adobe Analytics](#aa-features)
 * [Important notices for Analytics administrators](#aa-notices)
-* [AppMeasurement](#appm) (Updated February 21, 2020)
+* [AppMeasurement](#appm)
 
 For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
@@ -185,13 +183,17 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 ### Campaign Classic 19.2.3
 
+Campaign Classic text
+
 See [Adobe Campaign Classic Release Notes](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html) for fixes and improvements.
 
 ### Campaign Standard 20.1
 
+Campaign Standard text.
+
 See [Adobe Campaign Standard Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) for fixes and improvements.
 
-### Additional resources
+### Additional Campaign resources
 
 * Adobe Campaign Standard: [Documentation](https://helpx.adobe.com/support/campaign/standard.html) - [Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [Release Planning](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
 * Adobe Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
@@ -213,3 +215,7 @@ For Magento release notes, see:
 
 * [Magento Commerce 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-commerce.html)
 * [Magento Open Source 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-open-source.html)
+
+## [!DNL Marketo] {#marketo}
+
+For cumulative and historical release notes, see [Marketo release notes](https://docs.marketo.com/x/CgA6Ag).
