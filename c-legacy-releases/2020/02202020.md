@@ -19,13 +19,13 @@ New features and fixes in the Adobe Experience Cloud.
 
 (Specific product release dates my vary)
 
-Latest update: February 21, 2020
+Latest update: February 26, 2020
 
 * [Adobe System Status](#status)
-* [Experience Cloud interface and core services](#ecloud)
+* [Experience Cloud interface and core services](#ecloud) (Update: **February 26, 2020**)
 * [Experience Platform](#platform)
 * [Mobile Services and Mobile SDKs](#mobile)
-* [!DNL Analytics](#analytics) (Updated Feb. 21, 2020)
+* [!DNL Analytics](#analytics) (Update: February 21, 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -33,6 +33,7 @@ Latest update: February 21, 2020
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 * [!DNL Advertising Cloud](#adcloud)
 * [!DNL Magento](#magento)
+* [!DNL Marketo](#marketo) (Update: **February 26, 2019**)
 
 Looking for the help home? See [Adobe Experience Cloud Documentation](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
 
@@ -54,7 +55,13 @@ Looking for the help home? See [Adobe Experience Cloud Documentation](https://do
 
 ## Experience Cloud interface and core services {#ecloud}
 
+Release update: **February 26, 2016**
+
 New features and fixes in the Experience Cloud interface, including administration and core services (customer attributes, audiences, triggers, cookies, and so on).
+
+| Feature    | Description  |
+| -----------| ---------- |
+|Admin Tool - view user details |Administrators can view a sortable and filterable list of all Experience Cloud users and their details in the new Admin Tool. User details include a user’s product access, roles, and last accessed information. See [Experience Cloud Admin Tool](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html) help for details.|
 
 **Fixes**
 
@@ -235,3 +242,40 @@ For Magento release notes, see:
 
 * [Magento Commerce 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-commerce.html)
 * [Magento Open Source 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-open-source.html)
+
+## [!DNL Marketo] {#marketo}
+
+[!DNL Marketo Engage] is a complete solution for lead management and B2B marketers looking to transform customer experiences by engaging across every stage of complex buying journeys.
+
+### Core Marketo Engage updates
+
+Release date: February 21, 2020
+
+* **Microsoft Dynamics _Change Owner in Microsoft_ Flow Action:** Change a lead or contact owner directly from Marketo Engage.
+* **Enhancements to API calls:**
+    * User management APIs
+    * Custom object schema APIs
+    * Landing page redirect rules APIs
+* **Form Descriptor Caching:** Improvements to Landing Pages & Forms.
+
+See [!DNL Marketo] release notes for [February 2020](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) for more information.
+
+### Upcoming features
+
+The following features are releasing throughout the quarter:
+
+| View | Feature |
+|------|---------|
+| [!DNL Bizible] |<ul><li>New account-based segmentation</li><li>Save dashboard-specific filters</li><li>Export Bizible dashboards as PDFs</li></ul> |
+| Sales Connect |Compose Window and Command Center updates/enhancements |
+
+### Announcements
+
+· **Marketo Engage Success Center:** Launching in February 2020. The Success Center is an in-product help center that enables you to search Product Docs and the Community, launch how-to guides, access adoption content, and more. Note: This feature will be launched as a beta in ANZ and will roll out to North America later in the quarter.
+
+### Deprecations
+
+* **Asset API "_method" Parameter:** After September 2020, Asset API Endpoints will no longer accept "_method" to pass Query Parameters in a POST body to bypass URI length limitations.
+* **Internet Explorer Support Deprecation:** Beginning with the July release on July 31, 2020, the Marketo Engage user interface will no longer be supported on Internet Explorer.
+
+For cumulative and historical release notes, see [Marketo release notes](https://docs.marketo.com/x/CgA6Ag).
