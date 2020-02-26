@@ -13,14 +13,10 @@ New features and fixes in the Adobe Experience Cloud.
 >[!IMPORTANT]
 >This page contains pre-release content and is subject to change prior to the planned release.
 
->[!NOTE] 
+>[!NOTE]
 >Subscribe to the [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. New information published after the release will be marked with the publication date.
 
-**Release date: March 12, 2020**
-
-(Specific product release dates my vary)
-
-Latest update: March, 2020
+Release date: March 12, 2020 (Specific product release dates my vary)
 
 * [Adobe System Status](#status)
 * [Experience Cloud interface and core services](#ecloud)
@@ -42,7 +38,7 @@ Looking for the help home? See [Adobe Experience Cloud Documentation](https://do
 
 [!UICONTROL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe cloud products and services outage, disruption, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
-**What's new**
+### What's new
 
 * Using your Adobe ID, you can subscribe to event notifications based on your product, region, event, and language preferences. Users who configure their subscription preferences are notified of relevant product incident and maintenance events as soon as they are opened, updated, or closed. Get started at [status.adobe.com/subscriptions](https://status.adobe.com/proactive-notifications/subscriptions/edit).
 
