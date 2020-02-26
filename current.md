@@ -100,7 +100,7 @@ See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/u
 
 ## Mobile Services and Mobile SDKs {#mobile}
 
-**Feburary 4, 2020: Version 4.19.0**
+February 4, 2020: Version 4.19.0
 
 The following update was made in this release:
 
@@ -253,9 +253,9 @@ Release date: February 21, 2020
 
 * **Microsoft Dynamics _Change Owner in Microsoft_ Flow Action:** Change a lead or contact owner directly from Marketo Engage.
 * **Enhancements to API calls:**
-    * User management APIs
-    * Custom object schema APIs
-    * Landing page redirect rules APIs
+  * User management APIs
+  * Custom object schema APIs
+  * Landing page redirect rules APIs
 * **Form Descriptor Caching:** Improvements to Landing Pages & Forms.
 
 See [!DNL Marketo] release notes for [February 2020](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) for more information.
