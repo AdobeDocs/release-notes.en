@@ -228,7 +228,7 @@ The following features are releasing throughout the quarter:
 | Feature | Description |
 |------|---------|
 | [!DNL Bizible] |<ul><li>New account-based segmentation</li><li>Save dashboard-specific filters</li><li>Export Bizible dashboards as PDFs</li></ul> |
-| Sales Connect |Compose Window and Command Center updates/enhancements |
+| Sales Connect |Compose Window and Command Center updates/enhancements.|
 
 ### Announcements
 
