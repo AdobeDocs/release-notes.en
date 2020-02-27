@@ -264,14 +264,14 @@ See [!DNL Marketo] release notes for [February 2020](https://docs.marketo.com/di
 
 The following features are releasing throughout the quarter:
 
-| View | Feature |
+| Feature | Description |
 |------|---------|
 | [!DNL Bizible] |<ul><li>New account-based segmentation</li><li>Save dashboard-specific filters</li><li>Export Bizible dashboards as PDFs</li></ul> |
 | Sales Connect |Compose Window and Command Center updates/enhancements |
 
 ### Announcements
 
-· **Marketo Engage Success Center:** Launching in February 2020. The Success Center is an in-product help center that enables you to search Product Docs and the Community, launch how-to guides, access adoption content, and more. Note: This feature will be launched as a beta in ANZ and will roll out to North America later in the quarter.
+**Marketo Engage Success Center:** Launching in February 2020. The Success Center is an in-product help center that enables you to search Product Docs and the Community, launch how-to guides, access adoption content, and more. Note: This feature will be launched as a beta in ANZ and will roll out to North America later in the quarter.
 
 ### Deprecations
 
