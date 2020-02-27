@@ -1,31 +1,30 @@
 ---
-
 title: Adobe Experience Cloud Release Notes
-description: Template for Experience Cloud release notes
+description: Release notes for Adobe Experience Cloud
 doc-type: release notes
-last-update: February 2020
+last-update: March 2020
 author: mfrei
-
 ---
 
-# Adobe Experience Cloud Release Notes - February 2020
+# Adobe Experience Cloud Release Notes - March 2020
 
 New features and fixes in the Adobe Experience Cloud.
 
->[!NOTE] 
+>[!IMPORTANT]
+>
+>This page contains pre-release content and is subject to change prior to the planned release.
+
+>[!NOTE]
+>
 >Subscribe to the [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. New information published after the release will be marked with the publication date.
 
-**Release date: February 20, 2020**
-
-(Specific product release dates my vary)
-
-Latest update: February 26, 2020
+Release date: March 12, 2020 (Specific product release dates my vary)
 
 * [Adobe System Status](#status)
-* [Experience Cloud interface and core services](#ecloud) (Update: **February 26, 2020**)
+* [Experience Cloud interface and core services](#ecloud)
 * [Experience Platform](#platform)
 * [Mobile Services and Mobile SDKs](#mobile)
-* [!DNL Analytics](#analytics) (Update: February 21, 2020)
+* [!DNL Analytics](#analytics) (Updated Feb. 21, 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -33,7 +32,7 @@ Latest update: February 26, 2020
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 * [!DNL Advertising Cloud](#adcloud)
 * [!DNL Magento](#magento)
-* [!DNL Marketo](#marketo) (Update: **February 26, 2019**)
+* [!DNL Marketo](#marketo)
 
 Looking for the help home? See [Adobe Experience Cloud Documentation](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
 
@@ -41,7 +40,7 @@ Looking for the help home? See [Adobe Experience Cloud Documentation](https://do
 
 [!UICONTROL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe cloud products and services outage, disruption, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
-**What's new**
+### What's new
 
 * Using your Adobe ID, you can subscribe to event notifications based on your product, region, event, and language preferences. Users who configure their subscription preferences are notified of relevant product incident and maintenance events as soon as they are opened, updated, or closed. Get started at [status.adobe.com/subscriptions](https://status.adobe.com/proactive-notifications/subscriptions/edit).
 
@@ -49,24 +48,18 @@ Looking for the help home? See [Adobe Experience Cloud Documentation](https://do
 
 | Feature    | Description  |
 | -----------| ---------- |
-|Faster awareness of product events | <ul><li>Get informed 30 days in advance of upcoming service maintenance. This feature provides more lead time to assess the potential impact on your business operations, enabling you to implement a mitigation plan if necessary.</li><li>Advanced notifications are available on Web/mobile/tablet surfaces and via email notifications.</li></ul> |
-|Personalize your experience based on preferred language | <ul><li>Choose a preferred language for email notifications. The Self-subscription feature is now available in nineteen languages.</li></ul> |
-|Improved subscription and notification user experience | <ul><li>Specify the region and event preferences in just one click for all products to which you want to subscribe.</li><li>Get notified when _Potential_ issues are promoted to _Minor_ or _Major_ ones.</li><li>The browser page automatically refreshes when any product or event status is updated.</li></ul> |
+|Feature | <ul><li>Item</li><li>Item</li></ul> |
+|Feature | <ul><li>Item</li><li>Item</li></ul>  |
+|Feature | <ul><li>Item</li><li>Item</li></ul>  |
 
 ## Experience Cloud interface and core services {#ecloud}
 
-Release update: **February 26, 2016**
-
 New features and fixes in the Experience Cloud interface, including administration and core services (customer attributes, audiences, triggers, cookies, and so on).
-
-| Feature    | Description  |
-| -----------| ---------- |
-|Admin Tool - view user details |Administrators can view a sortable and filterable list of all Experience Cloud users and their details in the new Admin Tool. User details include a user’s product access, roles, and last accessed information. See [Experience Cloud Admin Tool](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html) help for details.|
 
 **Fixes**
 
-* **Customer Attributes:** Customer Attributes UI now displays additional statuses of profiles synced in Target. (MCUI-10231)
-* **Triggers Core Service:** Due to lack of use, the propensity score "Likelihood to Return in 30 days" when creating an Abandonment type trigger has been removed. (MCUI-10056)
+* Fix
+* Fix
 
 ### Unified product domain
 
@@ -100,11 +93,7 @@ See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/u
 
 ## Mobile Services and Mobile SDKs {#mobile}
 
-February 4, 2020: Version 4.19.0
-
-The following update was made in this release:
-
-**Lifecycle:** Added a new API, `pauseCollectingLifecycleData`, to mitigate the abnormal session length data that was reported from some old iOS devices.
+Features and fixes.
 
 ## [!DNL Analytics] {#analytics}
 
@@ -112,25 +101,20 @@ New features and fixes in Adobe Analytics:
 
 * [New features, enhancements, and fixes in Adobe Analytics](#aa-features)
 * [Important notices for Analytics administrators](#aa-notices)
-* [AppMeasurement](#appm) (Updated February 21, 2020)
+* [AppMeasurement](#appm)
 
 For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
 
 ### New features, enhancements, and fixes in Adobe Analytics {#aa-features}
 
-<!--* **Support for multiple report suites in Workspace:** You can now bring in data from multiple report suites into a single project to view side by side. Beginning on Feb 20, 2020, the feature will roll out to all customers over the course of several weeks. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html)-->
-* New **Workspace template for organizations using Cross-Device Analytics:** This template shows how effective CDA is at stitching visits together and educates you on CDA-exclusive dimensions and metrics. A report suite using CDA is required. See [Setting up Cross-Device Analytics](https://docs.adobe.com/content/help/en/analytics/components/cda/cda-setup.html) for more information.
-* **CDA stitching latency for organizations using the Private Graph is reduced to one day:** Private Graph functionality has been enhanced to reduce graph generation latency from a weekly batch process to a daily refreshed graph, allowing CDA customers to access more up to date identity graphs and linkages.
-* **Labs (Technology Previews):** This new Analytics feature lets you test new feature prototypes in production and provide valuable feedback to Adobe. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/tech-previews/overview.html) 
-* **New hotkeys in Workspace:**<ul><li>Collapse/Expand All panels: `alt + m`</li><li>Collapse/Expand Active panel: `alt + ctrl + m`</li><li>Search left rail: `ctrl + /`</li><li>Move to next panel: `alt + Right Key`</li><li>Move to previous panel: `alt + Left Key`</li></ul>[Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/fa-shortcut-keys.html)
-* **Other Workspace enhancements:**<ul><li>When a panel or visualization is dropped into [!UICONTROL Workspace], the left rail auto-switches to components for a more seamless workflow.</li><li>Template components can now be actioned upon (e.g. tagged, marked as favorite, approved).</li><li>Filtered metric and segment lists offer the `+` button to add a new component if you don't find what you need.</li></ul>
-* The **Workspace debugger** has been added to the Help menu, giving you a more seamless way to enable it for debugging Workspace requests. [Learn more...](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/reporting-tricks.md)
-* **Chromium-based Microsoft Edge browser:** This release includes changes to recognize the Chromium-based Microsoft Edge browser (version 79 and above) for reporting purposes.
+* Feature
+* Feature
+* Feature
 
 #### Fixes
 
-* Fixed an issue with Segment UI saying that [!UICONTROL Marketing Channel] dimensions were compatible with [!UICONTROL Data Warehouse], when in reality they are not. In the future, the [!UICONTROL Segment Builder] will no longer show these dimensions as being [!UICONTROL Data Warehouse] compatible. (AN-202297)
-* Fixed an issue with the name of a published segment that was updated in Analytics not getting updated in Audience Manager within 24 hours. (AN-199974)
+* Fix
+* Fix
 
 ### Important notices for [!DNL Analytics] administrators {#aa-notices}
 
@@ -154,18 +138,17 @@ Fixes and features added to Audience Manager.
 
 ### New features, enhancements, and fixes in Audience Manager {#aam-features}
 
-|Feature|Description|
-|----|----|
-|[Activity Usage Reporting](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/administration/activity-usage-reporting.html)|The [!UICONTROL Activity Usage Report] helps you view and track the activity usage of your Audience Manager instance, giving you a clear idea of how your activity usage compares to your contractual commitment.|
-|[DIL 9.4](https://docs.adobe.com/content/help/en/audience-manager/user-guide/dil-api/dil-release-notes.html)|We've updated the [!DNL Data Integration Library] ([!DNL DIL]) to version 9.4. This update improves compatibility with [!DNL Google Chrome] [!DNL SameSite] cookies.|
+| Feature    | Description  |
+| -----------| ---------- |
+|Feature | <ul><li>Item</li><li>Item</li></ul> |
+|Feature | <ul><li>Item</li><li>Item</li></ul>  |
+|Feature | <ul><li>Item</li><li>Item</li></ul>  |
 
 ### Fixes and Improvements {#aam-fixes-and-improvements}
 
-* Fixed a bug causing the destination creation flow to break the UI for Integrated Accounts selection (AAM-52414).
-* Fixed a bug causing the UI to break when when navigating through the Algorithmic Models creation flow (AAM-37942).
-* Fixed a bug causing the Data Export selection not to be saved when saving Data Export Controls for new or existing destinations, for customers using the Adobe Experience Platform integration (AAM-52814).
-* Fixed a bug causing third party trait recommendations to work incorrectly for traits which contain pipe characters (`|`) in the name (AAM-51635).
-* Multiple accessibility improvements throughout the UI.
+* Fix
+* Fix
+* Fix
 
 ## Experience Manager {#aem}
 
@@ -173,27 +156,11 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 
 ### Product releases
 
-* **Cloud Manager 2020.2.0**
-
-    Cloud Manager 2020.2.0 simplifies the self-service management of sandboxes for Adobe Experience Manager as a Cloud Service.
-
-    See [Release notes](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html).
+Content
 
 ### Self-Help
 
-* **Tutorials for AEM as a Cloud Service**
-
-    Get quickly started with the [tutorials for AEM as a Cloud Service](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/overview.html).
-
-* **AEM Forms interactive communication Batch API**
-
-    Batch API of AEM Forms interactive communication lets customers produce multiple interactive communications, automatically or on-demand. Customers can generate Print and Web outputs simultaneously.
-    See [Generate multiple interactive communications using Batch API](https://docs.adobe.com/content/help/en/experience-manager-65/forms/interactive-communications/generate-multiple-interactive-communication-using-batch-api.html).
-
-* **Supported Platforms for AEM Forms on JEE**
-
-    Added support for Oracle 19c for AEM Forms on JEE customers.
-    See [Supported Platforms for AEM Forms on JEE](https://docs.adobe.com/content/help/en/experience-manager-65/forms/install-aem-forms/jee-installation/aem-forms-jee-supported-platforms.html).
+Content
 
 ### Additional resources
 
@@ -214,13 +181,17 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 ### Campaign Classic 19.2.3
 
+Campaign Classic text
+
 See [Adobe Campaign Classic Release Notes](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html) for fixes and improvements.
 
 ### Campaign Standard 20.1
 
+Campaign Standard text.
+
 See [Adobe Campaign Standard Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) for fixes and improvements.
 
-### Additional resources
+### Additional Campaign resources
 
 * Adobe Campaign Standard: [Documentation](https://helpx.adobe.com/support/campaign/standard.html) - [Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [Release Planning](https://helpx.adobe.com/campaign/kb/acs-release-planning.html)
 * Adobe Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
@@ -230,11 +201,11 @@ See [Adobe Campaign Standard Release Notes](https://docs.adobe.com/content/help/
 
 Updated February 10, 2020, for February 8 release
 
-| View | Feature |
-|------|---------|
-| Portfolios | You can now add Yahoo! Japan Display Network (YDN) campaigns to portfolios to optimize the campaign budgets and ad group-level bids. The same bid is applied to all ads in an ad group. Data for YDN campaigns is included in the simulations for the portfolio. |
-| Search > Bulksheets  | You can now create, edit, and delete Google responsive search ads (RSAs) using bulksheets. Previously, support was available only through the standard campaign management interface at **[!UICONTROL Search]** > **[!UICONTROL Campaigns]** |
-| Search > Campaigns, Reports | The Google Ads prominence metrics `Impr. (Abs. Top) %` and `Impr. (Top) %` are now available in all basic reports and entity-level campaign management views except for those for shopping product groups, in the [!UICONTROL Campaign Daily Impression Share] and [!UICONTROL Keyword Daily Impression Share] reports, and in the labels and constraints views. |
+| Feature    | Description  |
+| -----------| ---------- |
+|Feature | <ul><li>Item</li><li>Item</li></ul> |
+|Feature | <ul><li>Item</li><li>Item</li></ul>  |
+|Feature | <ul><li>Item</li><li>Item</li></ul>  |
 
 ## [!DNL Magento] {#magento}
 
@@ -244,38 +215,5 @@ For Magento release notes, see:
 * [Magento Open Source 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-open-source.html)
 
 ## [!DNL Marketo] {#marketo}
-
-[!DNL Marketo Engage] is a complete solution for lead management and B2B marketers looking to transform customer experiences by engaging across every stage of complex buying journeys.
-
-### Core Marketo Engage updates
-
-Release date: February 21, 2020
-
-* **Microsoft Dynamics _Change Owner in Microsoft_ Flow Action:** Change a lead or contact owner directly from Marketo Engage.
-* **Enhancements to API calls:**
-  * User management APIs
-  * Custom object schema APIs
-  * Landing page redirect rules APIs
-* **Form Descriptor Caching:** Improvements to Landing Pages & Forms.
-
-See [!DNL Marketo] release notes for [February 2020](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) for more information.
-
-### Upcoming features
-
-The following features are releasing throughout the quarter:
-
-| Feature | Description |
-|------|---------|
-| [!DNL Bizible] |<ul><li>New account-based segmentation</li><li>Save dashboard-specific filters</li><li>Export Bizible dashboards as PDFs</li></ul> |
-| Sales Connect |Compose Window and Command Center updates/enhancements |
-
-### Announcements
-
-**Marketo Engage Success Center:** Launching in February 2020. The Success Center is an in-product help center that enables you to search Product Docs and the Community, launch how-to guides, access adoption content, and more. Note: This feature will be launched as a beta in ANZ and will roll out to North America later in the quarter.
-
-### Deprecations
-
-* **Asset API "_method" Parameter:** After September 2020, Asset API Endpoints will no longer accept "_method" to pass Query Parameters in a POST body to bypass URI length limitations.
-* **Internet Explorer Support Deprecation:** Beginning with the July release on July 31, 2020, the Marketo Engage user interface will no longer be supported on Internet Explorer.
 
 For cumulative and historical release notes, see [Marketo release notes](https://docs.marketo.com/x/CgA6Ag).
