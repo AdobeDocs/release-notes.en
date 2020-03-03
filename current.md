@@ -20,7 +20,7 @@ New features and fixes in the Adobe Experience Cloud.
 (Specific product release dates my vary)
 
 * [Adobe System Status](#status)
-* [Experience Cloud interface and core services](#ecloud)
+* [Experience Cloud interface and core services](#ecloud) (Update: **February 26, 2020**)
 * [Experience Platform](#platform)
 * [Mobile Services and Mobile SDKs](#mobile)
 * [!DNL Analytics](#analytics) (Update: February 21, 2020)
