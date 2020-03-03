@@ -111,8 +111,8 @@ Features and fixes
 
 #### Fixes
 
-* Fixes
-* Fixes
+* Fix
+* Fix
 
 ### Important notices for [!DNL Analytics] administrators {#aa-notices}
 
