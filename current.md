@@ -8,21 +8,19 @@ author: mfrei
 
 ---
 
-# Adobe Experience Cloud Release Notes - February 2020
+# Adobe Experience Cloud Release Notes - March 2020
 
 New features and fixes in the Adobe Experience Cloud.
 
 >[!NOTE] 
 >Subscribe to the [[!DNL Adobe Priority Product Update]](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. New information published after the release will be marked with the publication date.
 
-**Release date: February 20, 2020**
+**Release date: March 2020**
 
 (Specific product release dates my vary)
 
-Latest update: February 26, 2020
-
 * [Adobe System Status](#status)
-* [Experience Cloud interface and core services](#ecloud) (Update: **February 26, 2020**)
+* [Experience Cloud interface and core services](#ecloud)
 * [Experience Platform](#platform)
 * [Mobile Services and Mobile SDKs](#mobile)
 * [!DNL Analytics](#analytics) (Update: February 21, 2020)
@@ -33,7 +31,7 @@ Latest update: February 26, 2020
 * [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 * [!DNL Advertising Cloud](#adcloud)
 * [!DNL Magento](#magento)
-* [!DNL Marketo](#marketo) (Update: **February 26, 2019**)
+* [!DNL Marketo](#marketo)
 
 Looking for the help home? See [Adobe Experience Cloud Documentation](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
 
