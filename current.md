@@ -132,7 +132,6 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 * Fixed an issue where breaking down one date dimension by another date dimension would return incorrect results.
 * Fixed an issue where sometimes entry or exit metrics would be counted incorrectly when applied to “Unspecified” in a classified dimension report.
 
-
 ### Important notices for [!DNL Analytics] administrators {#aa-notices}
 
 | Notice | Date Added or Updated  | Description |
