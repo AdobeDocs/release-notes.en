@@ -126,6 +126,12 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 * Fixed an issue in [!UICONTROL Reports & Analytics] that prevented downloading `.xls` reports.(AN-206541, AN-204008)
 * The rollout of a new shell fixed several customer issues related to switching Experience Cloud organizations.(AN-200844, AN-186920)
+* Fixed an issue where doing a breakdown on the _Unspecified_ line item (or some other reporting line items) while not including _Unspecified (None)_ in the search filters of the breakdown would return no results in the breakdown.
+* Fixed an issue occurring when using a classified dimension, the entry or exit metric totals would not match the line item total on a breakdown.
+* Fixed an issue where first touch and last touch models in Attribution IQ were not calculating credit correctly for some line items in some out of the box dimensions.
+* Fixed an issue where breaking down one date dimension by another date dimension would return incorrect results.
+* Fixed an issue where sometimes entry or exit metrics would be counted incorrectly when applied to “Unspecified” in a classified dimension report.
+
 
 ### Important notices for [!DNL Analytics] administrators {#aa-notices}
 
