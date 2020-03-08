@@ -25,6 +25,7 @@ New features and fixes in the Adobe Experience Cloud.
 * [Adobe System Status](#status)
 * [Experience Cloud interface and core services](#ecloud)
 * [Experience Platform](#platform)
+* [Journey Orchestration](#journey)
 * [Mobile Services and Mobile SDKs](#mobile)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
@@ -101,11 +102,7 @@ Q1 release has been published. [Read more](https://docs.adobe.com/content/help/e
 
 ### Additional resources
 
-[Documentation](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
-
-[Release Notes](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html)
-
-[How-to videos](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
+[Documentation](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html) - [Release Notes](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
 ## Mobile Services and Mobile SDKs {#mobile}
 
