@@ -135,7 +135,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 #### Fixes
 
-* Fixed an issue in [!UICONTROL Reports & Analytics] that prevented downloading `.xls` reports.(AN-206541, AN-204008)
+* Fixed an issue in [!UICONTROL Reports & Analytics] that prevented downloading `.xls` reports. This issue affected customers using currencies other than US Dollar and Euro. (AN-206541, AN-204008)
 * The rollout of a new shell fixed several customer issues related to switching Experience Cloud organizations.(AN-200844, AN-186920)
 * Fixed an issue where doing a breakdown on the _Unspecified_ line item (or some other reporting line items) while not including _Unspecified (None)_ in the search filters of the breakdown would return no results in the breakdown.
 * Fixed an issue occurring when using a classified dimension, the entry or exit metric totals would not match the line item total on a breakdown.
