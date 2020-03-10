@@ -129,7 +129,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 ### New features, enhancements, and fixes in Adobe Analytics {#aa-features}
 
-* **Multiple report suites in [!UICONTROL Analysis Workspace]**: You can now bring in data from multiple report suites into a single [!UICONTROL Analysis Workspace] project to view side by side. This feature will roll out to all customers over the course of several weeks. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html)
+* **Multiple report suites in [!UICONTROL Analysis Workspace]**: You can now bring in data from multiple report suites into a single [!UICONTROL Analysis Workspace] project to view in side-by-side panels. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html)
 * **Experience Cloud Audience Optimization**: This feature enables you to publish segments to the Experience Cloud within 8 hours (instead of the previous 48-hour processing time). [Learn more...](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segmentation-workflow/seg-publish.html)
 * **Analysis Workspace - Training Tutorial template**: This new standard template walks you through common terminology and steps for building your first analysis in Workspace. It is available as a standard template in the [!UICONTROL New Project] modal and replaces the sample project that exists today for new users that do not have other projects in their list.
 
