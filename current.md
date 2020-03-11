@@ -10,6 +10,8 @@ author: mfrei
 
 # Early Access - Adobe Experience Cloud Release Notes - March 2020
 
+![Banner](/assets/experience-cloud-banner-3.png)
+
 New features and fixes in the [!DNL Adobe Experience Cloud].
 
 >[!IMPORTANT]
@@ -20,13 +22,11 @@ New features and fixes in the [!DNL Adobe Experience Cloud].
 
 **Release date: March 2020**
 
-(Specific product release dates my vary)
+Latest update: March 11, 2020
 
 * [Adobe System Status](#status)
 * [Experience Cloud interface and core services](#ecloud)
 * [Experience Platform](#platform)
-* [Journey Orchestration](#journey)
-* [Mobile Services and Mobile SDKs](#mobile)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
@@ -40,7 +40,9 @@ New features and fixes in the [!DNL Adobe Experience Cloud].
 
 Looking for the help home? See [Adobe Experience Cloud Documentation](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
 
-## Adobe System Status {#status}
+(Specific product release dates my vary.)
+
+## ![Icon](/assets/adobe.png) Adobe System Status {#status}
 
 [!UICONTROL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe cloud products and services outage, disruption, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
@@ -56,7 +58,7 @@ Looking for the help home? See [Adobe Experience Cloud Documentation](https://do
 |Personalized experience based on user preferences| <ul><li>Timezone preference based on browser setting is used in email notifications.</li><li>Email confirmation sent on subscribe/unsubscribe with all selected preferences.</li></ul> |
 |Better delivery of event messages | <ul><li>Event history sorted based on chronological event updates.</li><li>Timestamp of event resolution added to Major/Minor closed issues.</li></ul> |
 
-## Experience Cloud interface and core services {#ecloud}
+## ![Icon](/assets/experience-cloud.png) Experience Cloud interface and core services {#ecloud}
 
 New features and fixes in the Experience Cloud interface, including administration and core services (customer attributes, audiences, triggers, cookies, and so on).
 
@@ -82,29 +84,31 @@ Updates include:
 
 For product documentation, see [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html) help.
 
-## Experience Platform {#platform}
+## ![Icon](/assets/platform.png) Experience Platform {#platform}
 
 Release notes for the [!UICONTROL Experience Platform,] [!UICONTROL Experience Platform Launch,] [!UICONTROL Identity Service,] and security bulletins.  
 
 * [Experience Platform Release Notes](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
 * [Experience Platform Launch](#launch)
+* [Journey Orchestration](#journey)
+* [Mobile Services and Mobile SDKs](#mobile)
 * [Security bulletins and advisories](https://helpx.adobe.com/security.html) (All Adobe products)
 
 ### Experience Platform Launch {#launch}
 
 See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) for release notes and product documentation.
 
-## Journey Orchestration {#journey}
+### Journey Orchestration {#journey}
 
 Using Adobe Experience Platform, orchestrate individual customer journeys at scale across experience channels by intelligently anticipating every individual’s needs in real time, wherever their journey takes them.
 
 Q1 release has been published. [Read more](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html#q1-release---march-2020)
 
-### Additional resources
+**Additional resources**
 
 [Documentation](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html) - [Release Notes](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
-## Mobile Services and Mobile SDKs {#mobile}
+### Mobile Services and Mobile SDKs {#mobile}
 
 **iOS v4.19.1**
 
@@ -115,7 +119,7 @@ Q1 release has been published. [Read more](https://docs.adobe.com/content/help/e
 
 * [!DNL Target] – [!DNL Target] Session ID will now be added as a context data parameter “a.target.sessionId” in the internal [!UICONTROL Analytics-for-Target] hit sent to Adobe Analytics.
 
-## [!DNL Analytics] {#analytics}
+## ![Icon](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
 Release date: **March 12, 2020**
 
@@ -158,7 +162,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 See [AppMeasurement for Javascript release notes](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-updates.html). Version 2.20.0 was released on March 5, 2020.
 
-## Audience Manager {#aam}
+## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
 
 New features and updates to Audience Manager:
 
@@ -170,7 +174,7 @@ New features and updates to Audience Manager:
 * Fixed a bug in the [!UICONTROL Segments API] where, because of some segments with no description, the interface would freeze when users tried to access those segments and users had to navigate away from that page. (AAM-53071)
 * Multiple accessibility improvements throughout the interface. (AAM-48952, AAM-48969, AAM-48979, AAM-48993, AAM-49048, AAM-49057, AAM-49058,AAM-49392)
 
-## Experience Manager {#aem}
+## ![Icon](/assets/aem.png) Experience Manager {#aem}
 
 New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
 
@@ -241,7 +245,7 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 * [Dynamic Media release notes](https://marketing.adobe.com/resources/help/en_US/s7/release_notes/index.html)
 * [Livefyre release notes](https://marketing.adobe.com/resources/help/en_US/livefyre/c_rn.html)
 
-## [!DNL Campaign] {#ac}
+## ![Icon](/assets/campaign.png) [!DNL Campaign] {#ac}
 
 Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
 
@@ -255,7 +259,7 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 * Adobe Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 * Adobe Campaign Control Panel: [Documentation](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html) - [Release Notes](https://docs.adobe.com/content/help/en/control-panel/using/release-notes.html)
 
-## Advertising Cloud {#adcloud}
+## ![Icon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
 Updated February 10, 2020, for February 8 release:
 
@@ -265,14 +269,14 @@ Updated February 10, 2020, for February 8 release:
 | [!UICONTROL Search] > [!UICONTROL Bulksheets]  | You can now create, edit, and delete Google responsive search ads (RSAs) using bulksheets. Previously, support was available only through the standard campaign management interface at **[!UICONTROL Search]** > **[!UICONTROL Campaigns]** |
 | [!UICONTROL Search] > [!UICONTROL Campaigns, Reports] | The Google Ads prominence metrics `Impr. (Abs. Top) %` and `Impr. (Top) %` are now available in all basic reports and entity-level campaign management views except for those for shopping product groups, in the [!UICONTROL Campaign Daily Impression Share] and [!UICONTROL Keyword Daily Impression Share] reports, and in the labels and constraints views. |
 
-## [!DNL Magento] {#magento}
+## ![Icon](/assets/magento.png) [!DNL Magento] {#magento}
 
 For Magento release notes, see:
 
 * [Magento Commerce 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-commerce.html)
 * [Magento Open Source 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-open-source.html)
 
-## [!DNL Marketo] {#marketo}
+## ![Icon](/assets/marketo.png) [!DNL Marketo] {#marketo}
 
 [!DNL Marketo Engage] is a complete solution for lead management and B2B marketers looking to transform customer experiences by engaging across every stage of complex buying journeys.
 
@@ -309,7 +313,7 @@ The following features are releasing throughout the quarter:
 
 For cumulative and historical release notes, see [Marketo release notes](https://docs.marketo.com/x/CgA6Ag).
 
-## New documentation and tutorials {#selfhelp}
+## ![Icon](/assets/experience-cloud.png) New documentation and tutorials {#selfhelp}
 
 New and recent self-help articles and videos. <!--`https://jira.corp.adobe.com/secure/Dashboard.jspa?selectPageId=60327`-->
 
