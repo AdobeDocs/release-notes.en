@@ -8,7 +8,9 @@ author: mfrei
 
 ---
 
-# Adobe Experience Cloud Release Notes
+# TEMPLATE - Adobe Experience Cloud Release Notes - Month 2020
+
+![Banner](/assets/experience-cloud-banner-3.png)
 
 New features and fixes in the Adobe Experience Cloud.
 
@@ -21,18 +23,17 @@ New features and fixes in the Adobe Experience Cloud.
 **Release date: 2020**
 
 * [Adobe System Status](#status)
-* [Experience Cloud and Experience Platform](#platform)
-* [Journey Orchestration](#journey)
+* [Experience Cloud and core services](#ecloud)
+* [Experience Platform](#platform)
 * [!DNL Analytics](#analytics)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
-* [Advertising Cloud](#adcloud)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
-* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 * [!DNL Advertising Cloud](#adcloud)
 * [!DNL Magento](#magento)
 * [!DNL Marketo](#marketo)
+* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 * [New documentation and tutorials](#selfhelp)
 
 Looking for the help home? See [Adobe Experience Cloud Documentation](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
@@ -43,28 +44,53 @@ Features and fixes.
 
 See [Adobe System Status](https://status.adobe.com/).
 
-## Experience Cloud and Experience Platform{#platform}
+## Experience Cloud and core services{#ecloud}
 
-Release notes for the Experience Platform, Experience Cloud interface, product administration, Experience Platform Launch, Identity Service, and security bulletins.   
+New features and fixes in the Experience Cloud interface, including administration and core services (customer attributes, audiences, triggers, cookies, and so on).
 
-* [Experience Cloud interface](#core-services)
-* [Experience Cloud ID Service](#ecid)
-* [Mobile Services and Mobile SDK](#mobile)
+* [Experience Cloud core services](#core-services)
 * [Administration and developer](#admin)
-* [Experience Platform Launch](#launch)
-* [Security bulletins and advisories](https://helpx.adobe.com/security.html) (All Adobe products)
 
-### Core services {#core-services}
+### Experience Cloud Core services {#core-services}
 
 Features and fixes.
 
 For product documentation, see [Experience Cloud and Core Services](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)
+
+### Administration and developer {#admin}
+
+Features and fixes.
+
+For product documentation, see [Manage user and products](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html).
+
+## Experience Platform {#platform}
+
+Release notes for the [!UICONTROL Experience Platform,] [!UICONTROL Experience Platform Launch,] [!UICONTROL Identity Service,] Journey Orchestration, Mobile Services, and security bulletins.
+
+* [Experience Cloud ID Service](#ecid)
+* [Experience Platform Release Notes](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
+* [Experience Platform Launch](#launch)
+* [Journey Orchestration](#journey)
+* [Mobile Services and Mobile SDKs](#mobile)
+* [Security bulletins and advisories](https://helpx.adobe.com/security.html) (All Adobe products)
 
 ### Experience Cloud ID Service {#ecid}
 
 Features and fixes.
 
 For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
+
+### Experience Platform Launch {#launch}
+
+See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) for release notes and product documentation.
+
+### Journey Orchestration {#journey}
+
+Using Adobe Experience Platform, orchestrate individual customer journeys at scale across experience channels by intelligently anticipating every individual's needs in real time, wherever their journey takes them.
+
+#### Additional resources for Journey Orchestration
+
+[Documentation](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html) - [Release Notes](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
 ### Mobile Services and Mobile SDK {#mobile}
 
@@ -83,32 +109,6 @@ For product documentation, see [Mobile Services](https://docs.adobe.com/content/
 
 For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud
 Solutions](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html).
-
-### Administration and developer {#admin}
-
-Features and fixes.
-
-For product documentation, see [Manage user and products](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html).
-
-## Experience Platform {#platform}
-
-Release notes for the Experience Platform, Experience Platform Launch, Identity Service, and security bulletins.  
-
-* [Experience Platform Release Notes](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
-* [Experience Platform Launch](#launch)
-* [Security bulletins and advisories](https://helpx.adobe.com/security.html) (All Adobe products)
-
-### Experience Platform Launch {#launch}
-
-See [Experience Platform Launch](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) for release notes and product documentation.
-
-## Journey Orchestration {#journey}
-
-Using Adobe Experience Platform, orchestrate individual customer journeys at scale across experience channels by intelligently anticipating every individual's needs in real time, wherever their journey takes them.
-
-### Additional resources
-
-[Documentation](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html) - [Release Notes](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
 ## [!DNL Analytics] {#analytics}
 
