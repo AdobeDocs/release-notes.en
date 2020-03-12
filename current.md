@@ -8,7 +8,7 @@ author: mfrei
 
 ---
 
-# Early Access - Adobe Experience Cloud Release Notes - March 2020
+# Adobe Experience Cloud Release Notes - March 2020
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
@@ -27,7 +27,7 @@ Latest update: March 11, 2020
 * [Adobe System Status](#status)
 * [Experience Cloud interface and core services](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics)
+* [!DNL Analytics](#analytics) - Release date: **March 12, 2020**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
