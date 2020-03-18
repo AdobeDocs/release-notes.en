@@ -22,18 +22,18 @@ New features and fixes in the Adobe Experience Cloud.
 
 **Release date: 2020**
 
-* [[!DNL Adobe] System Status](#status)
-* [[!DNL Experience Cloud] and [!UICONTROL core services]](#ecloud)
+* [Adobe System Status](#status)
+* [Experience Cloud and [!UICONTROL core services]](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics)
-* [[!DNL Audience Manager]](#aam)
-* [[!DNL Experience Manager]](#aem)
-* [!DNL Campaign](#ac)
-* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
-* [!DNL Advertising Cloud](#adcloud)
-* [!DNL Magento](#magento)
-* [!DNL Marketo](#marketo)
-* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
+* [Analytics](#analytics)
+* [Audience Manager](#aam)
+* [Experience Manager](#aem)
+* [Campaign](#ac)
+* [Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help)
+* [Advertising Cloud](#adcloud)
+* [Magento](#magento)
+* [Marketo](#marketo)
+* [Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help)
 * [New documentation and tutorials](#selfhelp)
 
 Looking for the help home? See [Adobe Experience Cloud Documentation](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
@@ -44,7 +44,7 @@ Features and fixes.
 
 See [Adobe System Status](https://status.adobe.com/).
 
-## [!DNL Experience Cloud] and [!UICONTROL core services]{#ecloud}
+## Experience Cloud and [!UICONTROL core services]{#ecloud}
 
 New features and fixes in the Experience Cloud interface, including administration and core services (customer attributes, audiences, triggers, cookies, and so on).
 
@@ -110,7 +110,7 @@ For product documentation, see [Mobile Services](https://docs.adobe.com/content/
 For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud
 Solutions](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html).
 
-## [!DNL Analytics] {#analytics}
+## Analytics {#analytics}
 
 New features and fixes in Adobe Analytics:
 
@@ -136,7 +136,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 | Feature B  | Text |
 | Feature C  | Text |
 
-### [!DNL Data Workbench] {#aa-dwb}
+### Data Workbench {#aa-dwb}
 
 See [Data Workbench release notes](https://marketing.adobe.com/resources/help/en_US/insight/whatsnew/) for the latest information.
 
@@ -168,7 +168,7 @@ See [AppMeasurement release history](https://docs.adobe.com/content/help/en/anal
 * PHP
 * Symbian
 
-## [!DNL Audience Manager] {#aam}
+## Audience Manager {#aam}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -183,7 +183,7 @@ See [AppMeasurement release history](https://docs.adobe.com/content/help/en/anal
 * Fix
 * Fix
 
-## [!DNL Experience Manager] {#aem}
+## Experience Manager {#aem}
 
 New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
 
@@ -239,7 +239,7 @@ The following AEM documentation sets have been migrated to a new collaborative d
 * Fix
 * Fix
 
-## [!DNL Social] {#soc}
+## Social {#soc}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -254,7 +254,7 @@ The following AEM documentation sets have been migrated to a new collaborative d
 * Fix
 * Fix
 
-## [!DNL Campaign] {#ac}
+## Campaign {#ac}
 
 Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
 
@@ -264,7 +264,7 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 * Adobe Campaign Classic: [Documentation](https://helpx.adobe.com/support/campaign/classic.html) - [Release Notes](https://docs.campaign.adobe.com/doc/AC/en/RN.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)
 * Adobe Campaign Control Panel: [Documentation](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html) - [Release Notes](https://docs.adobe.com/content/help/en/control-panel/using/release-notes.html)
 
-## [!DNL Advertising Cloud] {#adcloud}
+## Advertising Cloud {#adcloud}
 
 | Feature    | Description  |
 | -----------| ---------- |  
@@ -279,18 +279,18 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 * Fix
 * Fix
 
-## [!DNL Magento] {#magento}
+## Magento {#magento}
 
-For [!DNL Magento] release notes, see:
+For Magento release notes, see:
 
 * [Magento Commerce 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-commerce.html)
 * [Magento Open Source 2.3.4](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-4-open-source.html)
 
-## [!DNL Marketo] {#marketo}
+## Marketo {#marketo}
 
-[!DNL Marketo Engage] is a complete solution for lead management and B2B marketers looking to transform customer experiences by engaging across every stage of complex buying journeys.
+Marketo Engage is a complete solution for lead management and B2B marketers looking to transform customer experiences by engaging across every stage of complex buying journeys.
 
-### Core [!DNL Marketo Engage] updates
+### Core Marketo Engage updates
 
 Release date: February 21, 2020
 
@@ -301,7 +301,7 @@ Release date: February 21, 2020
   * Landing page redirect rules APIs
 * **Form Descriptor Caching:** Improvements to Landing Pages & Forms.
 
-See [!DNL Marketo] release notes for [February 2020](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) for more information.
+See Marketo release notes for [February 2020](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) for more information.
 
 ### Upcoming features
 
