@@ -166,6 +166,10 @@ See [AppMeasurement for Javascript release notes](https://docs.adobe.com/content
 
 New features and updates to Audience Manager:
 
+| Feature    | Description  |
+| -----------| ---------- |
+|[Bulk Management Tools worksheet](https://docs.adobe.com/help/en/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html) | A new version of the worksheet is available for you, which fixes an issue some customers were facing when creating algorithmic models in the Windows 64-bit Operating system. Download the latest version [here](https://docs.adobe.com/help/en/audience-manager/user-guide/reference/bulk-management-tools/assets/BAAAM_V2_20200311.xlsm).|
+
 ### Fixes and improvements {#aam-fixes-and-improvements}
 
 * Fixed a bug where customers could not update segment name because of a missing RBAC permission [!UICONTROL VIEW_ALL_DESTINATIONS]. The [!UICONTROL VIEW_ALL_DESTINATIONS] permission should not be required to update a segment. For more information about RBAC permissions, see [Administration (RBAC Controls)](https://docs.adobe.com/help/en/audience-manager/user-guide/features/administration/administration-overview.html#wild-card-permissions). (AAM-52760)
