@@ -266,7 +266,7 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 ## ![Icon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
-Updated February 10, 2020, for February 8 release:
+Updated March 20, 2020, for March 21 release:
 
 | View | Feature |
 |------|---------|
