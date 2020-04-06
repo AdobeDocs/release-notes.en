@@ -58,7 +58,7 @@ Looking for the help home? See [Adobe Experience Cloud Documentation](https://do
 |Personalized experience based on user preferences| <ul><li>Timezone preference based on browser setting is used in email notifications.</li><li>Email confirmation sent on subscribe/unsubscribe with all selected preferences.</li></ul> |
 |Better delivery of event messages | <ul><li>Event history sorted based on chronological event updates.</li><li>Timestamp of event resolution added to Major/Minor closed issues.</li></ul> |
 
-## ![Icon](/assets/experience-cloud.png) Experience Cloud interface and core services {#ecloud}
+## ![Icon](/assets/ec_appicon_24.png) Experience Cloud interface and core services {#ecloud}
 
 New features and fixes in the Experience Cloud interface, including administration and core services (customer attributes, audiences, triggers, cookies, and so on).
 
@@ -84,7 +84,7 @@ Updates include:
 
 For product documentation, see [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html) help.
 
-## ![Icon](/assets/platform.png) Experience Platform {#platform}
+## ![Icon](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
 Release notes for the [!UICONTROL Experience Platform,] [!UICONTROL Experience Platform Launch,] [!UICONTROL Identity Service,] Journey Orchestration, Mobile Services, and security bulletins.  
 
@@ -319,7 +319,7 @@ The following features are releasing throughout the quarter:
 
 For cumulative and historical release notes, see [Marketo release notes](https://docs.marketo.com/x/CgA6Ag).
 
-## ![Icon](/assets/experience-cloud.png) New documentation and tutorials {#selfhelp}
+## ![Icon](/assets/ec_appicon_24.png) New documentation and tutorials {#selfhelp}
 
 New and recent self-help articles and videos. <!--`https://jira.corp.adobe.com/secure/Dashboard.jspa?selectPageId=60327`-->
 
