@@ -27,7 +27,7 @@ Latest update: March 11, 2020
 * [Adobe System Status](#status)
 * [Experience Cloud interface and core services](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) - Release date: **March 12, 2020** (Updated March 27, 2020)
+* [!DNL Analytics](#analytics) - Release date: **March 12, 2020** (Updated April 7, 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -126,7 +126,7 @@ Release date: **March 12, 2020**
 New features and fixes in Adobe Analytics:
 
 * [New features, enhancements, and fixes in Adobe Analytics](#aa-features)
-* [Important notices for Analytics administrators](#aa-notices) (Updated March 27, 2020)
+* [Important notices for Analytics administrators](#aa-notices) (Updated April 7, 2020)
 * [AppMeasurement](#appm)
 
 For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics/landing/home.html).
@@ -151,6 +151,7 @@ For product documentation, see [Adobe Analytics Help Home](https://docs.adobe.co
 
 | Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- |
+|Change to how Entries/Exits are calculated in Workspace|April 7, 2020|In Analysis Workspace, as of March 2020, we have changed how the "None" value interacts with Entries/Exits. Because you can now turn "Nones" on and off in Analysis Workspace, we apply the "None" after the entry or exit, whereas (for eVars) it used to be applied before. For example, assume the first hit of a visit has no value for eVarx, but the second hit does. In Reports & Analytics it will show up as "Unspecified" for the Entry, but in Analysis Workspace it will show up as the value on the second hit.|
 |EOL of **[!UICONTROL Conversion Level]** setting|March 3, 2020|The non-functioning [Conversion Level](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/general-acct-settings-admin.html) setting in **[!UICONTROL Admin Tools] > [!UICONTROL Report Suites] > [!UICONTROL General Account Settings]** will be removed from the UI on March 12, 2020.|
 |EOL of **[!UICONTROL Dashboard Archive]**|March 27, 2020|The **[!UICONTROL View Archive]** setting under **[!UICONTROL Manage Dashboards]** in [!UICONTROL Reports & Analytics] will no longer be available as of October, 2020.|
 |End of Support for TLS 1.1 | October 3, 2019 | By March 31, 2020, Adobe Analytics will remove support for TLS 1.1. This change is part of our ongoing efforts to maintain the highest security standards and promote the safety of customer data.|
