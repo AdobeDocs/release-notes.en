@@ -10,6 +10,7 @@ user-guide-url: https://www.adobe.com
 + [Release Notes](current.md)
 + Previous Release Notes {#previous}
     + 2020 {#2020}
+        + [March 2020](c-legacy-releases/2020/03122020.md)
         + [February 2020](c-legacy-releases/2020/02202020.md)
         + [January 2020](c-legacy-releases/2020/01162020.md)
     + 2019 {#2019}
