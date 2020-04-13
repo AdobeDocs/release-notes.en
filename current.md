@@ -179,7 +179,7 @@ New features and fixes in Adobe Audience Manager:
 
 | Feature    | Description  |
 | -----------| ---------- |  
-|[Top Customer Support Issues](../support-issues/support-issues-overview.md)|We've added a new section to our documentation portal, which includes answers to the most frequent questions received by our Customer Support team.|
+|Top Customer Support Issues|We've added a new section to our documentation portal, which includes answers to the most frequent questions received by our Customer Support team.|
 
 * Fixed an issue causing the [!UICONTROL Duplicate Test] and [!UICONTROL Duplicate Allocation Template] buttons in [!UICONTROL Audience Lab] not to work. (AAM-53388)
 * Fixed an issue causing the [!UICONTROL Match Rate] and [!UICONTROL Segment Addressable Audiences] to be displayed as 0 when a destination is configured to export UUIDs. The [!UICONTROL Match Rate] and [!UICONTROL Segment Addressable Audiences] are now displayed as 100%. (AAM-51615)
