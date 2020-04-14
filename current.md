@@ -179,8 +179,9 @@ New features and fixes in Adobe Audience Manager:
 
 | Feature    | Description  |
 | -----------| ---------- |  
-|Top Customer Support Issues|We've added a new section to our documentation portal, which includes answers to the most frequent questions received by our Customer Support team.|
+|[Top Customer Support Issues](https://docs.adobe.com/content/help/en/audience-manager/user-guide/top-support-issues/support-issues-overview.html)|We've added a new section to our documentation portal, which includes answers to the most frequent questions received by our Customer Support team.|
 
+* Fixed an issue causing inaccurate reporting of [Addressable Audiences](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/addressable-audiences.html) for segments containing mobile device IDs. Following this update, you may see an increase in your [Addressable Audiences](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/addressable-audiences.html).
 * Fixed an issue causing the [!UICONTROL Duplicate Test] and [!UICONTROL Duplicate Allocation Template] buttons in [!UICONTROL Audience Lab] not to work. (AAM-53388)
 * Fixed an issue causing the [!UICONTROL Match Rate] and [!UICONTROL Segment Addressable Audiences] to be displayed as 0 when a destination is configured to export UUIDs. The [!UICONTROL Match Rate] and [!UICONTROL Segment Addressable Audiences] are now displayed as 100%. (AAM-51615)
 * Fixed an issue causing trait names which contain special characters to be HTML-encoded twice. (AAM-54001)
