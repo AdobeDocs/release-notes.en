@@ -120,13 +120,13 @@ Unity 4.19.0 (10 March, 2020):
 * [Important notices for Analytics administrators](#aa-notices) (Updated April 7, 2020)
 * [AppMeasurement](#appm) -->
 
+* [Customer Journey Analytics](#cust-journey)
 * [New Analytics tutorials](#tutorials-analytics)
 
 <!-- ### New features, enhancements, and fixes in Adobe Analytics {#aa-features}
 
 | Feature    | Description  |
 | -----------| ---------- |
-|[!UICONTROL Customer Journey Analytics]: [!UICONTROL Automated Dataset Backfill]|This new option lets you import all historical data for a connection in [!UICONTROL Customer Journey Analytics]. (Documentation to follow)|
 |Analytics support for [!UICONTROL Experience Edge] |You can now forward data that was sent to [!UICONTROL Experience Edge] to Analytics.|
 |[!UICONTROL Workspace]: Automatically build Freeform Tables from a blank state|Previously, you could not drop components directly into a blank project or blank panel; you had to add a freeform table first. You can now drop components directly into a blank project or panel, and a freeform table will automatically be built for you in a recommended format. Additionally, improvements were made to how mixed component types (e.g. dimensions & metrics) are handled when dropped into a blank freeform table together.|
 
@@ -165,6 +165,12 @@ AN-212151; AN-214343; AN-215017; AN-115525; AN-123869; AN-101871; AN-152580; AN-
 ### [!DNL AppMeasurement] {#appm}
 
 See [AppMeasurement for Javascript release notes](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-updates.html). Version 2.20.0 was released on March 5, 2020. -->
+
+### Customer Journey Analytics {#cust-journey}
+
+| Feature    | Description  |
+| -----------| ---------- |
+|[!UICONTROL Customer Journey Analytics]: [!UICONTROL Automated Dataset Backfill]|This new option lets you import all historical data for a connection in [!UICONTROL Customer Journey Analytics]. (Documentation to follow)|
 
 ### New Analytics tutorials {#tutorials-analytics}
 
