@@ -29,7 +29,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud].
 * [Adobe System Status](#status)
 * [Experience Cloud interface and core services](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics)
+* [!DNL Analytics](#analytics) (**Release date change - see update on April 15**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -112,14 +112,16 @@ Unity 4.19.0 (10 March, 2020):
 
 ## ![Icon](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
-Release date: **April 16, 2020**
+>[!IMPORTANT]
+>
+>The Adobe Analytics April maintenance release has moved to May 21, 2020. For the latest Analytics release information, see [March release notes](c-legacy-releases\2020\03122020.md)
 
-* [New features, enhancements, and fixes in Adobe Analytics](#aa-features)
+<!-- * [New features, enhancements, and fixes in Adobe Analytics](#aa-features)
 * [Important notices for Analytics administrators](#aa-notices) (Updated April 7, 2020)
-* [AppMeasurement](#appm)
+* [AppMeasurement](#appm) -->
 * [New Analytics tutorials](#tutorials-analytics)
 
-### New features, enhancements, and fixes in Adobe Analytics {#aa-features}
+<!-- ### New features, enhancements, and fixes in Adobe Analytics {#aa-features}
 
 | Feature    | Description  |
 | -----------| ---------- |
@@ -161,7 +163,7 @@ AN-212151; AN-214343; AN-215017; AN-115525; AN-123869; AN-101871; AN-152580; AN-
 
 ### [!DNL AppMeasurement] {#appm}
 
-See [AppMeasurement for Javascript release notes](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-updates.html). Version 2.20.0 was released on March 5, 2020.
+See [AppMeasurement for Javascript release notes](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-updates.html). Version 2.20.0 was released on March 5, 2020. -->
 
 ### New Analytics tutorials {#tutorials-analytics}
 
