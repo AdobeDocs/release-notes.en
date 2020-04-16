@@ -114,7 +114,7 @@ Unity 4.19.0 (10 March, 2020):
 
 >[!IMPORTANT]
 >
->Most of the Adobe Analytics April maintenance release has moved to May 21, 2020. For the latest Analytics release information, see [March release notes](c-legacy-releases/2020/03122020.md)
+>The Adobe Analytics April maintenance release has moved to May 21, 2020. For the latest Analytics release information, see [March release notes](c-legacy-releases/2020/03122020.md)
 
 * [Customer Journey Analytics](#cust-journey)
 <!--* [New features in Adobe Analytics](#aa-features)-->
