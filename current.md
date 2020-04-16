@@ -29,7 +29,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud].
 * [Adobe System Status](#status)
 * [Experience Cloud interface and core services](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Release date change - see update on April 15**)
+* [!DNL Analytics](#analytics) **(Release date change - see update on April 15)**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
