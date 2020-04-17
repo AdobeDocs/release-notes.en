@@ -8,7 +8,7 @@ author: mfrei
 
 ---
 
-# Early Access - Adobe Experience Cloud Release Notes - April 2020
+# Adobe Experience Cloud Release Notes - April 2020
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 

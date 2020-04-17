@@ -23,7 +23,7 @@ New features and fixes in the Adobe Experience Cloud.
 **Release date: 2020**
 
 * [Adobe System Status](#status)
-* [Experience Cloud and [!UICONTROL core services]](#ecloud)
+* [Experience Cloud interface](#ecloud)
 * [Experience Platform](#platform)
 * [Analytics](#analytics)
 * [Audience Manager](#aam)
@@ -44,7 +44,7 @@ Features and fixes.
 
 See [Adobe System Status](https://status.adobe.com/).
 
-## Experience Cloud and [!UICONTROL core services]{#ecloud}
+## Experience Cloud interface{#ecloud}
 
 New features and fixes in the Experience Cloud interface, including administration and core services (customer attributes, audiences, triggers, cookies, and so on).
 
@@ -55,7 +55,7 @@ New features and fixes in the Experience Cloud interface, including administrati
 
 Features and fixes.
 
-For product documentation, see [Experience Cloud and Core Services](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)
+For product documentation, see [Experience Cloud interface](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html)
 
 ### Administration and developer {#admin}
 
@@ -65,7 +65,9 @@ For product documentation, see [Manage user and products](https://docs.adobe.com
 
 ## [!UICONTROL Experience Platform] {#platform}
 
-Release notes for the [!UICONTROL Experience Platform,] [!UICONTROL Experience Platform Launch,] [!UICONTROL Identity Service,] [!UICONTROL Journey Orchestration,] [!UICONTROL Mobile Services,] and security bulletins.
+## ![Icon](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
+
+Release notes for the [!DNL Experience Platform,] including [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration], [!UICONTROL Offers], [!UICONTROL People], [!UICONTROL Places], [!UICONTROL Mobile Services], and security bulletins.
 
 * [Experience Cloud ID Service](#ecid)
 * [Experience Platform Release Notes](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md)
