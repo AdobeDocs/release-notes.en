@@ -27,7 +27,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud].
 (Specific solution release dates my vary.)
 
 * [Adobe System Status](#status)
-* [Experience Cloud interface and core services](#ecloud)
+* [Experience Cloud interface](#ecloud)
 * [Experience Platform](#platform)
 * [!DNL Analytics](#analytics) **(Release date change - see update on April 15)**
 * [Audience Manager](#aam)
@@ -55,9 +55,9 @@ Looking for the help home? See [Adobe Experience Cloud Documentation](https://do
 |Personalized subscriptions based on entitlements | <ul><li>Pre-selected subscription recommendations based on the user's DX entitlements.</li><li>Recommended subscriptions are highlighted at the top of the product list for quick visualization.</li><li>Email notifications received are relevant to the user’s product entitlements.</li></ul> |
 |Easier Management of Subscriptions| <ul><li>**[!UICONTROL Manage Subscriptions]** has a new user experience to manage both product and event subscriptions.</li><li>New option to view and edit product and event subscriptions separately.</li><li>The **[!UICONTROL Delete]** option allows you to unsubscribe from a product or event subscription.</li><li>The one-click **[!UICONTROL Unsubscribe all]** option is available for the product subscriptions.</li><li>UX support is available for Web/Mobile/Tablet surfaces and localization in 19 languages.</li></ul> |
 
-## ![Icon](/assets/ec_appicon_24.png) Experience Cloud interface and core services {#ecloud}
+## ![Icon](/assets/ec_appicon_24.png) Experience Cloud interface {#ecloud}
 
-New features and fixes in the Experience Cloud interface, including administration and core services (customer attributes, audiences, triggers, cookies, and so on):
+New features and fixes in the Experience Cloud interface, including administration and services like customer attributes, audiences, triggers, and so on):
 
 * Experience Cloud [!UICONTROL Feed] page was deprecated. (EXC-8505)
 * Experience Cloud login page was updated to reflect new branding elements. (EXC-10747)
