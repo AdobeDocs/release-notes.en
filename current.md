@@ -27,7 +27,6 @@ New features and fixes in the [!DNL Adobe Experience Cloud].
 (Specific solution release dates my vary.)
 
 * [Adobe System Status](#status)
-* [Experience Cloud interface](#ecloud)
 * [Experience Platform](#platform)
 * [!DNL Analytics](#analytics) **(Release date change - see update on April 15)**
 * [Audience Manager](#aam)
@@ -57,7 +56,7 @@ Looking for the help home? See [Adobe Experience Cloud Documentation](https://do
 
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloud interface {#ecloud}
 
-New features and fixes in the Experience Cloud interface, including administration and services like customer attributes, audiences, triggers, and so on):
+New features and fixes in the Experience Cloud interface:
 
 * Experience Cloud [!UICONTROL Feed] page was deprecated. (EXC-8505)
 * Experience Cloud login page was updated to reflect new branding elements. (EXC-10747)
@@ -79,7 +78,7 @@ Updates include:
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
-Release notes for the [!UICONTROL Experience Platform,] [!UICONTROL Experience Platform Launch,] [!UICONTROL Identity Service,] Journey Orchestration, Mobile Services, and security bulletins.  
+Release notes for the [!DNL Experience Platform,] including [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration], [!UICONTROL Offers], [!UICONTROL People], [!UICONTROL Places], [!UICONTROL Mobile Services], and security bulletins.  
 
 ### Journey Orchestration {#journey}
 
