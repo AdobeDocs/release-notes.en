@@ -57,7 +57,7 @@ New features and fixes in the Experience Cloud interface:
 * Experience Cloud [!UICONTROL Feed] page was deprecated. (EXC-8505)
 * Experience Cloud login page was updated to reflect new branding elements. (EXC-10747)
 
-For product documentation, see [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html) help.
+For product documentation, see [Experience Cloud interface help](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html).
 
 ### Unified product domain
 
