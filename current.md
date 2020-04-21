@@ -8,15 +8,11 @@ author: mfrei
 
 ---
 
-# Early Access - Adobe Experience Cloud Release Notes - April 2020
+# Adobe Experience Cloud Release Notes - April 2020
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
 New features and fixes in the [!DNL Adobe Experience Cloud].
-
->[!IMPORTANT]
->
->This page contains pre-release content and is subject to change prior to the planned release.
 
 >[!NOTE]
 >
@@ -24,19 +20,18 @@ New features and fixes in the [!DNL Adobe Experience Cloud].
 
 **Release date: April 2020**
 
-(Specific solution release dates my vary.)
+(Specific release dates my vary.)
 
 * [Adobe System Status](#status)
-* [Experience Cloud interface and core services](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Updated on April 16**)
+* [!DNL Analytics](#analytics) **(Updated April 16)**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
-* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to solution help page)
+* [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to Target's help page)
 * [!DNL Magento](#magento)
 * [!DNL Marketo](#marketo)
-* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to solution help page)
+* [!DNL Primetime](https://helpx.adobe.com/primetime/user-guide.html) (links to Primetime's help page)
 
 Looking for the help home? See [Adobe Experience Cloud Documentation](https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html).
 
@@ -55,14 +50,14 @@ Looking for the help home? See [Adobe Experience Cloud Documentation](https://do
 |Personalized subscriptions based on entitlements | <ul><li>Pre-selected subscription recommendations based on the user's DX entitlements.</li><li>Recommended subscriptions are highlighted at the top of the product list for quick visualization.</li><li>Email notifications received are relevant to the user’s product entitlements.</li></ul> |
 |Easier Management of Subscriptions| <ul><li>**[!UICONTROL Manage Subscriptions]** has a new user experience to manage both product and event subscriptions.</li><li>New option to view and edit product and event subscriptions separately.</li><li>The **[!UICONTROL Delete]** option allows you to unsubscribe from a product or event subscription.</li><li>The one-click **[!UICONTROL Unsubscribe all]** option is available for the product subscriptions.</li><li>UX support is available for Web/Mobile/Tablet surfaces and localization in 19 languages.</li></ul> |
 
-## ![Icon](/assets/ec_appicon_24.png) Experience Cloud interface and core services {#ecloud}
+## ![Icon](/assets/ec_appicon_24.png) Experience Cloud interface {#ecloud}
 
-New features and fixes in the Experience Cloud interface, including administration and core services (customer attributes, audiences, triggers, cookies, and so on):
+New features and fixes in the Experience Cloud interface:
 
 * Experience Cloud [!UICONTROL Feed] page was deprecated. (EXC-8505)
 * Experience Cloud login page was updated to reflect new branding elements. (EXC-10747)
 
-For product documentation, see [Experience Cloud](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html) help.
+For product documentation, see [Experience Cloud interface help](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html).
 
 ### Unified product domain
 
@@ -70,16 +65,16 @@ Adobe is updating the domain and interface header to unify and improve your expe
 
 Updates include:
 
-* New solution URLs: `experience.adobe.com/<application name>`:
+* New application URLs: `experience.adobe.com/<application name>`:
   * All products will eventually adopt this URL pattern. Look for new URLs to become effective throughout the month.
-  * Browser support: Supported browsers include [!DNL Microsoft Edge], [!DNL Google Chrome], [!DNL Firefox], [!DNL Safari], and [!DNL Opera] (latest versions). **Note:** Although the Experience Cloud interface supports these browsers, individual solutions might not support every browser. (For example, [Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) does not support [!DNL Opera], and [Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html) does not support [!DNL Safari].)
+  * Browser support: Supported browsers include [!DNL Microsoft Edge], [!DNL Google Chrome], [!DNL Firefox], [!DNL Safari], and [!DNL Opera] (latest versions). **Note:** Although the Experience Cloud interface supports these browsers, individual applications might not support every browser. (For example, [Analytics](https://docs.adobe.com/content/help/en/analytics/admin/sys-reqs.html) does not support [!DNL Opera], and [Target](https://docs.adobe.com/help/en/target/using/implement-target/before-implement/supported-browsers.html) does not support [!DNL Safari].)
   * ([!DNL Safari] only) The domain change may cause cookie issues in [!DNL Safari]. Deselecting _Prevent cross-site tracking_ in the [!DNL Safari] Privacy Preferences enables cookies across domains (and all cross-site experiences), and allows Experience Cloud to function on this new domain.
 * Easier switching between your organizations or to a different application.
 * Improved product help: [!UICONTROL Experience League] is integrated into the product so that a help search also includes results from community forums and video content. This change simplifies access to more content and helps you get the most out of Experience Cloud. Additionally, click **[!UICONTROL Help]** > **[!UICONTROL Feedback]** to report issues or share your ideas with Adobe.  
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
-Release notes for the [!UICONTROL Experience Platform,] [!UICONTROL Experience Platform Launch,] [!UICONTROL Identity Service,] Journey Orchestration, Mobile Services, and security bulletins.  
+Release notes for the [!DNL Experience Platform,] including [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration], [!UICONTROL Offers], [!UICONTROL People], [!UICONTROL Places], [!UICONTROL Mobile Services], and security bulletins.  
 
 ### Journey Orchestration {#journey}
 
@@ -194,7 +189,7 @@ New features and fixes in Adobe Audience Manager:
 * Fixed an issue causing the [!UICONTROL Duplicate Test] and [!UICONTROL Duplicate Allocation Template] buttons in [!UICONTROL Audience Lab] not to work. (AAM-53388)
 * Fixed an issue causing the [!UICONTROL Match Rate] and [!UICONTROL Segment Addressable Audiences] to be displayed as 0 when a destination is configured to export UUIDs. The [!UICONTROL Match Rate] and [!UICONTROL Segment Addressable Audiences] are now displayed as 100%. (AAM-51615)
 * Fixed an issue causing trait names which contain special characters to be HTML-encoded twice. (AAM-54001)
-* Fixed an issue blocking some users from switching to other Adobe Experience Cloud solutions from the [!DNL Audience Manager] user interface. (AAM-52917)
+* Fixed an issue blocking some users from switching to other Adobe Experience Cloud applications from the [!DNL Audience Manager] user interface. (AAM-52917)
 * Fixed an issue blocking some users from creating a SHA256 data source for People-based destinations. (AAM-53525)
 * Multiple accessibility improvements across the interface. (AAM-48986, AAM-49009, AAM-48984, AAM-48939, AAM-48940, AAM-48964, AAM-49032, AAM-49360)
 
@@ -307,7 +302,7 @@ For Magento release notes, see:
 
 ## ![Icon](/assets/marketo.png) [!DNL Marketo] {#marketo}
 
-[!DNL Marketo Engage] is a complete solution for lead management and B2B marketers looking to transform customer experiences by engaging across every stage of complex buying journeys.
+[!DNL Marketo Engage] is a complete applications for lead management and B2B marketers looking to transform customer experiences by engaging across every stage of complex buying journeys.
 
 ### Core Marketo Engage updates
 
