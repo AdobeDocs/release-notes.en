@@ -29,11 +29,7 @@ New features and fixes in the [!DNL Adobe Experience Cloud].
 * [Adobe System Status](#status)
 * [Experience Cloud interface and core services](#ecloud)
 * [Experience Platform](#platform)
-<<<<<<< Updated upstream
-* [!DNL Analytics](#analytics) (**Release date change - see update on April 15**)
-=======
-* [!DNL Analytics](#analytics) **(Updated April 16)**
->>>>>>> Stashed changes
+* [!DNL Analytics](#analytics) (**Updated on April 16**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -162,7 +158,7 @@ AN-212151; AN-214343; AN-215017; AN-115525; AN-123869; AN-101871; AN-152580; AN-
 
 | Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- |
-|Segment applied in Data Warehouse check removed|April 16, 2020|As of April 16, 2020, we no longer check to see if a segment is applied in a Data Warehouse request, from within the Segment Builder. Previously, this check looked for single segments applied in Data Warehouse requests (it excluded multiple segments applied), and returned a warning notification if true. This change does not impact the Data Warehouse product compatibility check for segments.|
+|Removed the "Segment applied in Data Warehouse" check|April 16, 2020|As of April 16, 2020, we no longer check to see if a segment is applied in a Data Warehouse request, from within the Segment Builder. Previously, this check looked for single segments applied in Data Warehouse requests (it excluded multiple segments applied), and returned a warning notification if true. This change does not impact the Data Warehouse product compatibility check for segments.|
 |Change to how [!UICONTROL Entries/Exits] are calculated in [!UICONTROL Workspace]|April 7, 2020|In [!UICONTROL Analysis Workspace], as of March 2020, we have changed how the _None_ value interacts with [!UICONTROL Entries/Exits]. Because you can now turn _Nones_ on and off in [!UICONTROL Analysis Workspace], we apply the _None_ value after the entry or exit, whereas (for eVars) it used to be applied before. For example, assume the first hit of a visit has no value for eVars, but the second hit does. In [!UICONTROL Reports & Analytics] it will show up as _Unspecified_ for the Entry, but in [!UICONTROL Analysis Workspace] it will show up as the value on the second hit.|
 |EOL of **[!UICONTROL Conversion Level]** setting|March 3, 2020|The non-functioning [Conversion Level](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/general-acct-settings-admin.html) setting in **[!UICONTROL Admin Tools]** > **[!UICONTROL Report Suites]** > **[!UICONTROL General Account Settings]** will be removed from the interface on March 12, 2020.|
 |EOL of **[!UICONTROL Dashboard Archive]**|March 27, 2020|The **[!UICONTROL View Archive]** setting under **[!UICONTROL Manage Dashboards]** in [!UICONTROL Reports & Analytics] will no longer be available as of October, 2020.|
