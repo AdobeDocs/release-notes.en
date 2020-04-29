@@ -20,11 +20,13 @@ New features and fixes in the [!DNL Adobe Experience Cloud].
 
 **Release date: April 2020**
 
+Latest update: **April 29, 2020**
+
 (Specific release dates my vary.)
 
 * [Adobe System Status](#status)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) **(Updated April 16)**
+* [!DNL Analytics](#analytics) **(Updated April 29)**
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -121,6 +123,7 @@ Unity 4.19.0 (10 March, 2020):
 
 | Feature    | Description  |
 | -----------| ---------- |
+|Data Workbench 6.74 (**Update 4/29/2020**)  | Update of Identity Management Service's (IMS) TLS certificate parsing in server implementation. This update expands parsing from string match to regular expression, including the ability to handle subject alternative name (SAN) certificates. See [Data Workbench release notes](https://docs.adobe.com/content/help/en/data-workbench/using/release-notes/release-notes.html) for more information. |
 |[!UICONTROL Customer Journey Analytics]: Automated Dataset Backfill|This new option lets you import all historical data for a connection in [!UICONTROL Customer Journey Analytics]. [Learn more](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html)|
 
 <!--### New features in Adobe Analytics {#aa-features}
