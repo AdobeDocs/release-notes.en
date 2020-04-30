@@ -20,14 +20,14 @@ New features and fixes in the [!DNL Adobe Experience Cloud].
 
 **Release date: April 2020**
 
-Latest update: **April 29, 2020**
+Latest update: **April 30, 2020**
 
 (Specific release dates my vary.)
 
 * [Adobe System Status](#status)
 * [Experience Platform](#platform)
 * [!DNL Analytics](#analytics) **(Updated April 29)**
-* [Audience Manager](#aam)
+* [Audience Manager](#aam) **(Updated April 30)**
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) (links to Target's help page)
@@ -183,6 +183,8 @@ See [Adobe Analytics Help Home](https://docs.adobe.com/content/help/en/analytics
 ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
 
 New features and fixes in Adobe Audience Manager:
+
+**(Updated April 30)**
 
 | Feature    | Description  |
 | -----------| ---------- |  
