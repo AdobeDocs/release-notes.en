@@ -83,7 +83,7 @@ Release notes for the [!DNL Experience Platform,] including [!DNL Experience Pla
 Using Adobe Experience Platform, orchestrate individual customer journeys at scale across experience channels by intelligently anticipating every individual’s needs in real time, wherever their journey takes them.
 
 * [Documentation](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html)
-* [Release notes](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html)
+* [Release notes](http://www.adobe.com/go/platform-release-notes-en)
 * [How-to videos](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
 ### Mobile Services and Mobile SDKs {#mobile}
