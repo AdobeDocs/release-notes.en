@@ -45,6 +45,8 @@ Need help? Visit [[!DNL Adobe Experience League]](https://experienceleague.adobe
 
 [!UICONTROL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe cloud products and services outage, disruption, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
+Release date: **May 21, 2020**
+
 **What's new**
 
 * Using your Adobe ID, you can subscribe to event notifications with more granularity, down to the product offering and add-on level. To help you setup your subscription faster, the self-subscription process now recommends a selection of products and offerings based on your product entitlements. This should reduce the number of emails you receive, and deliver more relevant notifications in your inbox. Get started at [status.adobe.com/subscriptions](https://status.adobe.com/proactive-notifications/subscriptions/edit).
@@ -53,7 +55,7 @@ Need help? Visit [[!DNL Adobe Experience League]](https://experienceleague.adobe
 
 | Feature    | Description  |
 | -----------| ---------- |
-|Improved subscription and notification user experience | <ul><li>[!DNL Marketo Engage] regional locations are now filtered based on the list of product offerings selected.</li><li>[!DNL Marketo Engage] email notifications are relevant to the a user's region, location, and environment preferences.</li></ul> |
+|Improved subscription and notification user experience | <ul><li>[!DNL Marketo Engage] regional locations are now filtered based on the list of product offerings selected.</li><li>[!DNL Marketo Engage] email notifications are relevant to the user's region, location, and environment preferences.</li></ul> |
 |Event subscription confirmation| <ul><li>You can now get an email confirmation when subscribing to on-going single event updates.</li></ul> |
 |Global navigation usability enhancements | <ul><li>Consistent user experience with `Adobe.com` at the top level navigation menu.</li></ul>|
 
