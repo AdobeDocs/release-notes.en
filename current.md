@@ -24,7 +24,7 @@ This page provides new features, fixes, and important notices in [!DNL Adobe Exp
 
 **Release date: May 2020**
 
-Latest update: **May 15, 2020**
+Latest update: **May 16, 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud interface](#ecloud)
