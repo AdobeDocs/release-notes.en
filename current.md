@@ -93,6 +93,10 @@ The following apps use the new experience.adobe.com domain:
 |Software Distribution |`experience.adobe.com/downloads` |
 |Admin Tool (beta)  |`experience.adobe.com/admin` |
 
+>[!NOTE]
+>
+>**[!UICONTROL Board & Collections]**, a legacy filter in [!UICONTROL Marketing Cloud Assets] selector, is being decommissioned.
+
 ## ![Icon](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
 Release notes for the [!DNL Experience Platform,] including [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration], [!UICONTROL Offers], [!UICONTROL People], [!UICONTROL Places], [!UICONTROL Mobile Services], and security bulletins.  
