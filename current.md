@@ -24,12 +24,12 @@ This page provides new features, fixes, and important notices in [!DNL Adobe Exp
 
 **Release date: May 2020**
 
-Latest update: **May 19, 2020**
+Latest update: **May 21, 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud interface](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics)
+* [!DNL Analytics](#analytics) (**Updated May 21, 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -138,7 +138,7 @@ Using Adobe Experience Platform, orchestrate individual customer journeys at sca
 
 * [New features in Customer Journey Analytics](#cust-journey)
 * [New features in Adobe Analytics](#aa-features)
-* [Important notices for Analytics administrators](#aa-notices)
+* [Important notices for Analytics administrators](#aa-notices) (**Updated May 21, 2020**)
 * [AppMeasurement](#appm) 
 * [New Analytics tutorials](#tutorials-analytics)
 
@@ -205,6 +205,7 @@ AN-101871, AN-115525; AN-123869; AN-152580; AN-160480; AN-178128; AN-186907; AN-
 
 | Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- |
+|Improved redundancy for Analysis Workspace availability|May 21, 2020|In order to ensure availability of Analysis Workspace, we are adding a secondary CDN (Content Delivery Network) for improved redundancy. The following URLs should be added to any necessary network firewall whitelists:<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul>|
 |Change to how [!UICONTROL Entries/Exits] are calculated in [!UICONTROL Workspace]|April 7, 2020|In [!UICONTROL Analysis Workspace], as of March 2020, we have changed how the _None_ value interacts with [!UICONTROL Entries/Exits]. Because you can now turn _Nones_ on and off in [!UICONTROL Analysis Workspace], we apply the _None_ value after the entry or exit, whereas (for eVars) it used to be applied before entry or exit. For example, assume that the first hit of a visit has no value for eVars, but the second hit does. In [!UICONTROL Reports & Analytics] the first hit will show as _Unspecified_ for the Entry, but in [!UICONTROL Analysis Workspace] it will show up as the value on the second hit.|
 |EOL of **[!UICONTROL Conversion Level]** setting|March 3, 2020|The non-functioning [Conversion Level](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/general-acct-settings-admin.html) setting in **[!UICONTROL Admin Tools]** > **[!UICONTROL Report Suites]** > **[!UICONTROL General Account Settings]** will be removed from the interface on March 12, 2020.|
 |EOL of **[!UICONTROL Dashboard Archive]**|March 27, 2020|The **[!UICONTROL View Archive]** setting under **[!UICONTROL Manage Dashboards]** in [!UICONTROL Reports & Analytics] will no longer be available as of October, 2020.|
