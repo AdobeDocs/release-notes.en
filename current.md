@@ -139,6 +139,7 @@ Using Adobe Experience Platform, orchestrate individual customer journeys at sca
 * [New features in Customer Journey Analytics](#cust-journey)
 * [New features in Adobe Analytics](#aa-features)
 * [Important notices for Analytics administrators](#aa-notices) (**Updated May 21, 2020**)
+* [Adobe Analytics fixes](#aa-fixes) (**Updated May 21, 2020**)
 * [AppMeasurement](#appm) 
 * [New Analytics tutorials](#tutorials-analytics)
 
@@ -162,8 +163,10 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | [!UICONTROL Adobe Analytics Package] added to [!UICONTROL Feature Access Level] page|You can now view which [!UICONTROL Adobe Analytics Package] (SKU) your company is entitled to at **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**.|
 |Accessibility improvements|The Adobe Analytics team has made several accessibility improvements to Analysis Workspace, including improved keyboard navigation, color contrast, and screen reader support.|
 
-#### Adobe Analytics fixes
+#### Adobe Analytics fixes (#aa-fixes)
 
+* Adobe changed the [!UICONTROL Time Spent] metric to never include "none". This means that, regardless of whether the UI says to include none or not, we make a special exception to always exclude "none" in the [!UICONTROL Time Spent] calculation. Therefore, even if you configured a report that included the [!UICONTROL Time Spent] metric to "include none" , it would always return 0 time spent for the "none" line item. Note that this could change historical reporting in Reports & Analytics as well as the Reporting API v1.4. (AN-197958)
+* Fixed an issue in which the Instance/Visit/Visitor wasn't being counted in the denominator for the [!UICONTROL Time Spent] metrics.  This would happen when a hit with no value for the dimension (e.g., [!UICONTROL Pagename]) followed in the same second. (AN-211074)
 * Fixed an issue that caused missing [!DNL Analytics] segment data in Audience Manager. (AN-206221)
 * Fixed an issue with [!UICONTROL Data Sources] processing showing the wrong dates. (AN-213604)
 * Fixed an issue with classification files not getting uploaded to FTP properly. (AN-214102)
