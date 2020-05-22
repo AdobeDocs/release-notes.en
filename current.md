@@ -8,15 +8,11 @@ author: mfrei
 
 ---
 
-# Early Access - Adobe Experience Cloud Release Notes - May 2020
+# Adobe Experience Cloud Release Notes - May 2020
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
 This page provides new features, fixes, and important notices in [!DNL Adobe Experience Cloud]. Solution release dates may vary. Check back frequently for the latest updates.
-
->[!IMPORTANT]
->
->This page contains pre-release content and is subject to change prior to May 21, 2020. New information published thereafter will be noted with the date added.
 
 >[!NOTE]
 >
