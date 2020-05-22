@@ -8,15 +8,11 @@ author: mfrei
 
 ---
 
-# Early Access - Adobe Experience Cloud Release Notes - May 2020
+# Adobe Experience Cloud Release Notes - May 2020
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
 This page provides new features, fixes, and important notices in [!DNL Adobe Experience Cloud]. Solution release dates may vary. Check back frequently for the latest updates.
-
->[!IMPORTANT]
->
->This page contains pre-release content and is subject to change prior to May 21, 2020. New information published thereafter will be noted with the date added.
 
 >[!NOTE]
 >
@@ -157,7 +153,7 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 
 | Feature    | Description  |
 | -----------| ---------- |
-| Analytics support for [!UICONTROL Adobe Experience Platform Edge Network] |Enables you to use a single tag to send data to multiple Adobe solutions, such as Adobe Analytics, Adobe Target, Adobe Audience Manager, Adobe Experience Platform Data Lake, Unified Profile, and Experience Cloud ID Service. [Learn more...](https://docs.adobe.com/content/help/en/experience-platform/edge/home.html)|
+| Analytics support for [!UICONTROL Adobe Experience Platform Edge Network] |Enables you to use a single tag to send data to multiple Adobe solutions, such as Adobe Analytics, Adobe Target, Adobe Audience Manager, Adobe Experience Platform Data Lake, Unified Profile, and Experience Cloud ID Service. [Learn more...](https://docs.adobe.com/content/help/en/experience-platform/edge/solutions/analytics/analytics-overview.html)|
 | [!UICONTROL Adobe Analytics dashboards]|[!UICONTROL Adobe Analytics dashboards] is a mobile app that allows users anytime, anywhere access to insights from Adobe Analytics. This app is intended for executives seeking on-the-go access to key metrics. It enables access to curated, interactive scorecards and will be available for both the iOS and Android operating systems. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/mobapp/home.html)|
 | [!UICONTROL Workspace]: Automatically build [!UICONTROL Freeform Tables] from a blank state|Previously, you could not drop components directly into a blank project or blank panel; you had to add a [!UICONTROL Freeform Table] first. You can now drop components directly into a blank project or panel, and a [!UICONTROL Freeform Table] is automatically built for you in a recommended format. Additionally, improvements were made to how mixed component types (such as dimensions and metrics) are handled when dropped into a blank Freeform Table together.|
 | [!UICONTROL Adobe Analytics Package] added to [!UICONTROL Feature Access Level] page|You can now view which [!UICONTROL Adobe Analytics Package] (SKU) your company is entitled to at **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**.|
