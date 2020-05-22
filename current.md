@@ -136,7 +136,7 @@ Using Adobe Experience Platform, orchestrate individual customer journeys at sca
 * [New features in Adobe Analytics](#aa-features)
 * [Important notices for Analytics administrators](#aa-notices) (**Updated May 21, 2020**)
 * [Adobe Analytics fixes](#aa-fixes) (**Updated May 21, 2020**)
-* [AppMeasurement](#appm) 
+* [AppMeasurement](#appm)
 * [New Analytics tutorials](#tutorials-analytics)
 
 ### New features in Customer Journey Analytics {#cust-journey}
@@ -159,7 +159,7 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | [!UICONTROL Adobe Analytics Package] added to [!UICONTROL Feature Access Level] page|You can now view which [!UICONTROL Adobe Analytics Package] (SKU) your company is entitled to at **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**.|
 |Accessibility improvements|The Adobe Analytics team has made several accessibility improvements to Analysis Workspace, including improved keyboard navigation, color contrast, and screen reader support.|
 
-#### Adobe Analytics fixes (#aa-fixes)
+#### Adobe Analytics fixes {#aa-fixes}
 
 * Adobe changed the [!UICONTROL Time Spent] metric to never include "none". This means that, regardless of whether the UI says to include none or not, we make a special exception to always exclude "none" in the [!UICONTROL Time Spent] calculation. Therefore, even if you configured a report that included the [!UICONTROL Time Spent] metric to "include none" , it would always return 0 time spent for the "none" line item. Note that this could change historical reporting in Reports & Analytics as well as the Reporting API v1.4. (AN-197958)
 * Fixed an issue in which the Instance/Visit/Visitor wasn't being counted in the denominator for the [!UICONTROL Time Spent] metrics.  This would happen when a hit with no value for the dimension (e.g., [!UICONTROL Pagename]) followed in the same second. (AN-211074)
@@ -216,7 +216,7 @@ AN-101871, AN-115525; AN-123869; AN-152580; AN-160480; AN-178128; AN-186907; AN-
 
 ### [!DNL AppMeasurement] {#appm}
 
-See [AppMeasurement for Javascript release notes](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-updates.html). Version 2.20.0 was released on March 5, 2020. 
+See [AppMeasurement for Javascript release notes](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-updates.html). Version 2.20.0 was released on March 5, 2020.
 
 ### New Analytics tutorials {#tutorials-analytics}
 
