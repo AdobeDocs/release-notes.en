@@ -161,8 +161,8 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 
 #### Adobe Analytics fixes (#aa-fixes)
 
-* Adobe changed the [!UICONTROL Time Spent] metric to never include "none". This means that, regardless of whether the UI says to include none or not, we make a special exception to always exclude "none" in the [!UICONTROL Time Spent] calculation. Therefore, even if you configured a report that included the [!UICONTROL Time Spent] metric to "include none" , it would always return 0 time spent for the "none" line item. Note that this could change historical reporting in Reports & Analytics as well as the Reporting API v1.4. (AN-197958)
-* Fixed an issue in which the Instance/Visit/Visitor wasn't being counted in the denominator for the [!UICONTROL Time Spent] metrics.  This would happen when a hit with no value for the dimension (e.g., [!UICONTROL Pagename]) followed in the same second. (AN-211074)
+* Adobe changed the [!UICONTROL Time Spent] metric to never include "Unspecified" in the calculation. This means that, regardless of whether the UI says to include "Unspecified", we make a special exception to always exclude "Unspecified" in the [!UICONTROL Time Spent] calculation. Therefore, even if you configured a report containing the [!UICONTROL Time Spent] metric to include "Unspecified", it will always return 0 time spent for the "Unspecified" line item. Note that this may change historical reporting in Reports & Analytics as well as the Reporting API v1.4. (AN-197958)
+* Fixed an issue in which the Instance/Visit/Visitor wasn't being counted in the denominator for the [!UICONTROL Time Spent] metrics.  This would happen when a hit with no value for the dimension (e.g., [!UICONTROL Pagename]) mfollowed in the same second. (AN-211074)
 * Fixed an issue that caused missing [!DNL Analytics] segment data in Audience Manager. (AN-206221)
 * Fixed an issue with [!UICONTROL Data Sources] processing showing the wrong dates. (AN-213604)
 * Fixed an issue with classification files not getting uploaded to FTP properly. (AN-214102)
