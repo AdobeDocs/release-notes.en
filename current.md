@@ -20,12 +20,12 @@ This page provides new features, fixes, and important notices in [!DNL Adobe Exp
 
 **Release date: May 2020**
 
-Latest update: **May 26, 2020**
+Latest update: **May 27, 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud interface](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Updated May 26, 2020**)
+* [!DNL Analytics](#analytics) (**Updated May 27, 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -132,8 +132,11 @@ Using Adobe Experience Platform, orchestrate individual customer journeys at sca
 
 ## ![Icon](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
+ Updated **May 27, 2020**
+
 * [New features in Customer Journey Analytics](#cust-journey)
 * [New features in Adobe Analytics](#aa-features)
+* [New features in Media Analytics](#media-aa) (**Updated May 27, 2020**)
 * [Important notices for Analytics administrators](#aa-notices) (**Updated May 26, 2020**)
 * [Adobe Analytics fixes](#aa-fixes) (**Updated May 21, 2020**)
 * [AppMeasurement](#appm)
@@ -158,6 +161,18 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | [!UICONTROL Workspace]: Automatically build [!UICONTROL Freeform Tables] from a blank state|Previously, you could not drop components directly into a blank project or blank panel; you had to add a [!UICONTROL Freeform Table] first. You can now drop components directly into a blank project or panel, and a [!UICONTROL Freeform Table] is automatically built for you in a recommended format. Additionally, improvements were made to how mixed component types (such as dimensions and metrics) are handled when dropped into a blank Freeform Table together.|
 | [!UICONTROL Adobe Analytics Package] added to [!UICONTROL Feature Access Level] page|You can now view which [!UICONTROL Adobe Analytics Package] (SKU) your company is entitled to at **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**.|
 |Accessibility improvements|The Adobe Analytics team has made several accessibility improvements to Analysis Workspace, including improved keyboard navigation, color contrast, and screen reader support.|
+
+#### New features in [!UICONTROL Media Analytics] {#media-aa}
+
+Date added: **May 27, 2020**
+
+**Player State Tracking:** [!UICONTROL Media Analytics] customers can capture viewer interaction during playback using a standard set of solution variables for full screen, closed captioning, mute, picture-in-picture, and in-focus. You also have the flexibility to create custom player states. Player State Tracking variables are now available for reporting in [!UICONTROL Analysis Workspace]. This feature requires one of the following:
+
+* Media [!DNL JavaScript] SDK 3.0 or higher
+* For use with the [!DNL Adobe Experience Platform] (AEP) SDK:
+  * [!UICONTROL Media Analytics Extension] (for web): [!UICONTROL Adobe Media Analytics] (3.x SDK) for Audio and Video v1.0 or higher
+  * [!UICONTROL Media Analytics Extension] (for mobile): [!UICONTROL Adobe Media Analytics for Audio] and Video v2.0 or higher
+* [!UICONTROL Media Collection] API
 
 #### Adobe Analytics fixes {#aa-fixes}
 
