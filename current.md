@@ -20,12 +20,12 @@ This page provides new features, fixes, and important notices in [!DNL Adobe Exp
 
 **Release date: May 2020**
 
-Latest update: **May 27, 2020**
+Latest update: **May 29, 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud interface](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Updated May 27, 2020**)
+* [!DNL Analytics](#analytics) (**Updated May 29, 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -132,11 +132,11 @@ Using Adobe Experience Platform, orchestrate individual customer journeys at sca
 
 ## ![Icon](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
- Updated **May 27, 2020**
+ Updated **May 29, 2020**
 
 * [New features in Customer Journey Analytics](#cust-journey)
 * [New features in Adobe Analytics](#aa-features)
-* [New features in Media Analytics](#media-aa) (**Updated May 27, 2020**)
+* [New features in Media Analytics](#media-aa) (**Updated May 29, 2020**)
 * [Important notices for Analytics administrators](#aa-notices) (**Updated May 26, 2020**)
 * [Adobe Analytics fixes](#aa-fixes) (**Updated May 21, 2020**)
 * [AppMeasurement](#appm)
@@ -164,7 +164,7 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 
 #### New features in [!UICONTROL Media Analytics] {#media-aa}
 
-Date added: **May 27, 2020**
+Date updated: **May 29, 2020**
 
 **Player State Tracking:** [!UICONTROL Media Analytics] customers can capture viewer interaction during playback using a standard set of solution variables for full screen, closed captioning, mute, picture-in-picture, and in-focus. You also have the flexibility to create custom player states. Player State Tracking variables are now available for reporting in [!UICONTROL Analysis Workspace]. This feature requires one of the following:
 
@@ -174,7 +174,7 @@ Date added: **May 27, 2020**
   * [!UICONTROL Media Analytics Extension] (for mobile): [!UICONTROL Adobe Media Analytics for Audio] and Video v2.0 or higher
 * [!UICONTROL Media Collection]
 
-Content link forthcoming.
+See [About Player State Tracking](https://docs.adobe.com/content/help/en/media-analytics/using/player-state-tracking/player-state-overview.html).
 
 #### Adobe Analytics fixes {#aa-fixes}
 
