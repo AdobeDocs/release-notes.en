@@ -20,12 +20,12 @@ This page provides new features, fixes, and important notices in [!DNL Adobe Exp
 
 **Release date: May 2020**
 
-Latest update: **May 28, 2020**
+Latest update: **June 1, 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud interface](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Updated May 28, 2020**)
+* [!DNL Analytics](#analytics) (**Updated June 1, 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -137,7 +137,7 @@ Using Adobe Experience Platform, orchestrate individual customer journeys at sca
 * [New features in Customer Journey Analytics](#cust-journey)
 * [New features in Adobe Analytics](#aa-features)
 * [New features in Media Analytics](#media-aa) (**Updated May 27, 2020**)
-* [Important notices for Analytics administrators](#aa-notices) (**Updated May 28, 2020**)
+* [Important notices for Analytics administrators](#aa-notices) (**Updated June 1, 2020**)
 * [Adobe Analytics fixes](#aa-fixes) (**Updated May 21, 2020**)
 * [AppMeasurement](#appm)
 * [New Analytics tutorials](#tutorials-analytics)
