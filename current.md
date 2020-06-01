@@ -20,12 +20,12 @@ This page provides new features, fixes, and important notices in [!DNL Adobe Exp
 
 **Release date: May 2020**
 
-Latest update: **May 29, 2020**
+Latest update: **June 1, 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud interface](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Updated May 29, 2020**)
+* [!DNL Analytics](#analytics) (**Updated June 1, 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -137,7 +137,7 @@ Using Adobe Experience Platform, orchestrate individual customer journeys at sca
 * [New features in Customer Journey Analytics](#cust-journey)
 * [New features in Adobe Analytics](#aa-features)
 * [New features in Media Analytics](#media-aa) (**Updated May 29, 2020**)
-* [Important notices for Analytics administrators](#aa-notices) (**Updated May 26, 2020**)
+* [Important notices for Analytics administrators](#aa-notices) (**Updated June 1, 2020**)
 * [Adobe Analytics fixes](#aa-fixes) (**Updated May 21, 2020**)
 * [AppMeasurement](#appm)
 * [New Analytics tutorials](#tutorials-analytics)
@@ -221,6 +221,7 @@ AN-101871, AN-115525; AN-123869; AN-152580; AN-160480; AN-178128; AN-186907; AN-
 
 | Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- |
+|Migration to unified product domain|Effective date: May 28, 2020|The migration to a unified product domain for Adobe Analytics, which began in January 2020, completed on May 28, 2020. While Adobe Analytics works to remove all `omniture.com` domain references from its architecture, it is important to whitelist `omniture.com` as a third-party cookie. When the full architecture migration is (soon) completed, we will notify you via the release notes and this whitelist step will no longer be needed. [Here](https://helpx.adobe.com/analytics/kb/adobe-ip-addresses.html) is a full list of recommended IP addresses and domains that you should whitelist.<br>If your organization blocks third-party cookies, please reach out to Customer Care to regain your access to Adobe Analytics.|
 |New Adobe Analytics default landing page|Effective Date: June 18, 2020|On June 18, 2020, the default landing page for Adobe Analytics will change from [!UICONTROL Reports] to [!UICONTROL Workspace]. This change will occur for any users who have not previously set a custom landing page.|
 |Third-party technology whitelist|(Effective date: March 12, 2020|Adobe Analytics has begun leveraging third-party technologies for feature rollout management and in-product support. The following URLs should be added to any necessary network firewall whitelists to ensure full feature access:<ul><li>Gainsight: https://esp.aptrinsic.com</li><li>LaunchDarkly: https://app.launchdarkly.com</li></ul>|
 |Improved redundancy for Analysis Workspace availability|May 21, 2020|In order to ensure availability of Analysis Workspace, we are adding a secondary CDN (Content Delivery Network) for improved redundancy. The following URLs should be added to any necessary network firewall whitelists:<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul>|
