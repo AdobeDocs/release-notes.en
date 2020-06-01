@@ -20,12 +20,13 @@ This page provides new features, fixes, and important notices in [!DNL Adobe Exp
 
 **Release date: May 2020**
 
-Latest update: **May 28, 2020**
+Latest update: **May 29, 2020**
+
 
 * [Adobe System Status](#status)
 * [Experience Cloud interface](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Updated May 28, 2020**)
+* [!DNL Analytics](#analytics) (**Updated May 29, 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -132,12 +133,12 @@ Using Adobe Experience Platform, orchestrate individual customer journeys at sca
 
 ## ![Icon](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
- Updated **May 28, 2020**
+ Updated **May 29, 2020**
 
 * [New features in Customer Journey Analytics](#cust-journey)
 * [New features in Adobe Analytics](#aa-features)
-* [New features in Media Analytics](#media-aa) (**Updated May 27, 2020**)
-* [Important notices for Analytics administrators](#aa-notices) (**Updated May 28, 2020**)
+* [New features in Media Analytics](#media-aa) (**Updated May 29, 2020**)
+* [Important notices for Analytics administrators](#aa-notices) (**Updated May 26, 2020**)
 * [Adobe Analytics fixes](#aa-fixes) (**Updated May 21, 2020**)
 * [AppMeasurement](#appm)
 * [New Analytics tutorials](#tutorials-analytics)
@@ -162,7 +163,21 @@ First-Party Domains Available in China RDC: Enables customers with a cn domain t
 | [!UICONTROL Adobe Analytics Package] added to [!UICONTROL Feature Access Level] page|You can now view which [!UICONTROL Adobe Analytics Package] (SKU) your company is entitled to at **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**.|
 |Accessibility improvements|The Adobe Analytics team has made several accessibility improvements to Analysis Workspace, including improved keyboard navigation, color contrast, and screen reader support.|
 
-### Adobe Analytics fixes {#aa-fixes}
+#### New features in [!UICONTROL Media Analytics] {#media-aa}
+
+Date updated: **May 29, 2020**
+
+**Player State Tracking:** [!UICONTROL Media Analytics] customers can capture viewer interaction during playback using a standard set of solution variables for full screen, closed captioning, mute, picture-in-picture, and in-focus. You also have the flexibility to create custom player states. Player State Tracking variables are now available for reporting in [!UICONTROL Analysis Workspace]. This feature requires one of the following:
+
+* Media [!DNL JavaScript] SDK 3.0 or higher
+* For use with the [!DNL Adobe Experience Platform] (AEP) SDK:
+  * [!UICONTROL Media Analytics Extension] (for web): [!UICONTROL Adobe Media Analytics] (3.x SDK) for Audio and Video v1.0 or higher
+  * [!UICONTROL Media Analytics Extension] (for mobile): [!UICONTROL Adobe Media Analytics for Audio] and Video v2.0 or higher
+* [!UICONTROL Media Collection]
+
+See [About Player State Tracking](https://docs.adobe.com/content/help/en/media-analytics/using/player-state-tracking/player-state-overview.html).
+
+#### Adobe Analytics fixes {#aa-fixes}
 
 * Adobe changed the [!UICONTROL Time Spent] metric to never include "Unspecified" in the calculation. This means that, regardless of whether the UI says to include "Unspecified", we make a special exception to always exclude "Unspecified" in the [!UICONTROL Time Spent] calculation. Therefore, even if you configured a report containing the [!UICONTROL Time Spent] metric to include "Unspecified", it will always return 0 time spent for the "Unspecified" line item. Note that this may change historical reporting in Reports & Analytics as well as the Reporting API v1.4. (AN-197958)
 * Fixed an issue in which the Instance/Visit/Visitor wasn't being counted in the denominator for the [!UICONTROL Time Spent] metrics.  This would happen when a hit with no value for the dimension (e.g., [!UICONTROL Pagename]) mfollowed in the same second. (AN-211074)
