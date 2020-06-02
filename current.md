@@ -134,8 +134,8 @@ Using Adobe Experience Platform, orchestrate individual customer journeys at sca
 
  Updated **May 29, 2020**
 
-* [New features in Customer Journey Analytics](#cust-journey) (**Updated June 2, 2020**)
-* [New features in Adobe Analytics](#aa-features)
+* [New features in Customer Journey Analytics](#cust-journey) 
+* [New features in Adobe Analytics](#aa-features) (**Updated June 2, 2020**)
 * [New features in Media Analytics](#media-aa) (**Updated May 29, 2020**)
 * [Important notices for Analytics administrators](#aa-notices) (**Updated June 1, 2020**)
 * [Adobe Analytics fixes](#aa-fixes) (**Updated May 21, 2020**)
