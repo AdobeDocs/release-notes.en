@@ -20,12 +20,12 @@ This page provides new features, fixes, and important notices in [!DNL Adobe Exp
 
 **Release date: May 2020**
 
-Latest update: **June 1, 2020**
+Latest update: **June 2, 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud interface](#ecloud)
 * [Experience Platform](#platform)
-* [!DNL Analytics](#analytics) (**Updated June 1, 2020**)
+* [!DNL Analytics](#analytics) (**Updated June 2, 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [!DNL Campaign](#ac)
@@ -134,8 +134,8 @@ Using Adobe Experience Platform, orchestrate individual customer journeys at sca
 
  Updated **May 29, 2020**
 
-* [New features in Customer Journey Analytics](#cust-journey)
-* [New features in Adobe Analytics](#aa-features)
+* [New features in Customer Journey Analytics](#cust-journey) 
+* [New features in Adobe Analytics](#aa-features) (**Updated June 2, 2020**)
 * [New features in Media Analytics](#media-aa) (**Updated May 29, 2020**)
 * [Important notices for Analytics administrators](#aa-notices) (**Updated June 1, 2020**)
 * [Adobe Analytics fixes](#aa-fixes) (**Updated May 21, 2020**)
@@ -151,16 +151,16 @@ Using Adobe Experience Platform, orchestrate individual customer journeys at sca
 
 ### New features in Adobe Analytics {#aa-features}
 
-<!-- Bulk Ingest: Enables you to ingest batches of Analytics data. Useful for server-side and offline data. Learn more...
-First-Party Domains Available in China RDC: Enables customers with a cn domain to request a 1st-party domain for use inside of Mainland China. Learn more... -->
+<!--First-Party Domains Available in China RDC: Enables customers with a cn domain to request a 1st-party domain for use inside of Mainland China. Learn more... -->
 
-| Feature    | Description  |
-| -----------| ---------- |
-| Analytics support for [!UICONTROL Adobe Experience Platform Edge Network] |Enables you to use a single tag to send data to multiple Adobe solutions, such as Adobe Analytics, Adobe Target, Adobe Audience Manager, Adobe Experience Platform Data Lake, Unified Profile, and Experience Cloud ID Service. [Learn more...](https://docs.adobe.com/content/help/en/experience-platform/edge/solutions/analytics/analytics-overview.html)|
-| [!UICONTROL Adobe Analytics dashboards]|[!UICONTROL Adobe Analytics dashboards] is a mobile app that allows users anytime, anywhere access to insights from Adobe Analytics. This app is intended for executives seeking on-the-go access to key metrics. It enables access to curated, interactive scorecards and will be available for both the iOS and Android operating systems. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/mobapp/home.html)|
-| [!UICONTROL Workspace]: Automatically build [!UICONTROL Freeform Tables] from a blank state|Previously, you could not drop components directly into a blank project or blank panel; you had to add a [!UICONTROL Freeform Table] first. You can now drop components directly into a blank project or panel, and a [!UICONTROL Freeform Table] is automatically built for you in a recommended format. Additionally, improvements were made to how mixed component types (such as dimensions and metrics) are handled when dropped into a blank Freeform Table together.|
-| [!UICONTROL Adobe Analytics Package] added to [!UICONTROL Feature Access Level] page|You can now view which [!UICONTROL Adobe Analytics Package] (SKU) your company is entitled to at **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**.|
-|Accessibility improvements|The Adobe Analytics team has made several accessibility improvements to Analysis Workspace, including improved keyboard navigation, color contrast, and screen reader support.|
+| Feature    |General Availability Date| Description  |
+| -----------| ------------ | ---------- |
+|Bulk Data Insertion API| May 31, 2020| Enables you to easily and independently ingest batches of Analytics data. Useful for server-side and offline data. [Learn more...](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md)|
+| Analytics support for [!UICONTROL Adobe Experience Platform Edge Network] |May 31, 2020| Enables you to use a single tag to send data to multiple Adobe solutions, such as Adobe Analytics, Adobe Target, Adobe Audience Manager, Adobe Experience Platform Data Lake, Unified Profile, and Experience Cloud ID Service. [Learn more...](https://docs.adobe.com/content/help/en/experience-platform/edge/solutions/analytics/analytics-overview.html)|
+| [!UICONTROL Adobe Analytics dashboards]|May 31, 2020|[!UICONTROL Adobe Analytics dashboards] is a mobile app that allows users anytime, anywhere access to insights from Adobe Analytics. This app is intended for executives seeking on-the-go access to key metrics. It enables access to curated, interactive scorecards and will be available for both the iOS and Android operating systems. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/mobapp/home.html)|
+| [!UICONTROL Workspace]: Automatically build [May 21, 2020|!UICONTROL Freeform Tables] from a blank state|Previously, you could not drop components directly into a blank project or blank panel; you had to add a [!UICONTROL Freeform Table] first. You can now drop components directly into a blank project or panel, and a [!UICONTROL Freeform Table] is automatically built for you in a recommended format. Additionally, improvements were made to how mixed component types (such as dimensions and metrics) are handled when dropped into a blank Freeform Table together.|
+| [!UICONTROL Adobe Analytics Package] added to [!UICONTROL Feature Access Level] page|May 21, 2020|You can now view which [!UICONTROL Adobe Analytics Package] (SKU) your company is entitled to at **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**.|
+|Accessibility improvements|May 21, 2020|The Adobe Analytics team has made several accessibility improvements to Analysis Workspace, including improved keyboard navigation, color contrast, and screen reader support.|
 
 #### New features in [!UICONTROL Media Analytics] {#media-aa}
 
