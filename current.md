@@ -143,7 +143,7 @@ Using Adobe Experience Platform, orchestrate individual customer journeys at sca
 ### New features in Customer Journey Analytics {#cust-journey}
 
 | Feature    | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Target Date|Description  |
-| -----------| ---------- |
+| -----------| --------- | ---------- |
 |[!UICONTROL Quick Insights] panel in [!UICONTROL Workspace]|June 4, 2020|[!UICONTROL Quick Insights] provides guidance for non-analysts and new users of [!UICONTROL Analysis Workspace] to learn how to answer business questions quickly and easily. [Learn more](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html)|
 |[!UICONTROL Customer Journey Analytics]: Global Availability|May 21, 2020|Makes [!UICONTROL Customer Journey Analytics] available to customers in EMEA and APAC.|
 |[!UICONTROL Customer Journey Analytics]: Support for [!UICONTROL Adobe Experience Platform Sandboxes]|May 21, 2020|Allows you to select specific [!UICONTROL Adobe Experience Platform Sandboxes] to build CJA Connections from. [Learn more...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html)|
