@@ -132,21 +132,13 @@ Using Adobe Experience Platform, orchestrate individual customer journeys at sca
 
 ## ![Icon](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
-* [New features in Customer Journey Analytics](#cust-journey) (**Updated June 4, 2020**)
 * [New features in Adobe Analytics](#aa-features) (**Updated June 4, 2020**)
+* [New features in Customer Journey Analytics](#cust-journey) (**Updated June 4, 2020**)
 * [New features in Media Analytics](#media-aa) (**Updated May 29, 2020**)
 * [Important notices for Analytics administrators](#aa-notices) (**Updated June 1, 2020**)
 * [Adobe Analytics fixes](#aa-fixes) (**Updated May 21, 2020**)
 * [AppMeasurement](#appm)
 * [New Analytics tutorials](#tutorials-analytics)
-
-### New features in Customer Journey Analytics {#cust-journey}
-
-| Feature    | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Target Date|Description  |
-| -----------| --------- | ---------- |
-|[!UICONTROL Quick Insights] panel in [!UICONTROL Workspace]|June 4, 2020|[!UICONTROL Quick Insights] provides guidance for non-analysts and new users of [!UICONTROL Analysis Workspace] to learn how to answer business questions quickly and easily. [Learn more](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html)|
-|[!UICONTROL Customer Journey Analytics]: Global Availability|May 21, 2020|Makes [!UICONTROL Customer Journey Analytics] available to customers in EMEA and APAC.|
-|[!UICONTROL Customer Journey Analytics]: Support for [!UICONTROL Adobe Experience Platform Sandboxes]|May 21, 2020|Allows you to select specific [!UICONTROL Adobe Experience Platform Sandboxes] to build CJA Connections from. [Learn more...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html)|
 
 ### New features in Adobe Analytics {#aa-features}
 
@@ -162,6 +154,16 @@ Anomaly det. support in CJA - June 18; Project Sharing Roles - June 18; Blank pa
 | [!UICONTROL Adobe Analytics dashboards]|May 21, 2020|[!UICONTROL Adobe Analytics dashboards] is a mobile app that allows users anytime, anywhere access to insights from Adobe Analytics. This app is intended for executives seeking on-the-go access to key metrics. It enables access to curated, interactive scorecards and will be available for both the iOS and Android operating systems. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/mobapp/home.html)|
 | [!UICONTROL Workspace]: Automatically build [!UICONTROL Freeform Tables] from a blank state|[May 21, 2020|Previously, you could not drop components directly into a blank project or blank panel; you had to add a [!UICONTROL Freeform Table] first. You can now drop components directly into a blank project or panel, and a [!UICONTROL Freeform Table] is automatically built for you in a recommended format. Additionally, improvements were made to how mixed component types (such as dimensions and metrics) are handled when dropped into a blank Freeform Table together.|
 | [!UICONTROL Adobe Analytics Package] added to [!UICONTROL Feature Access Level] page|May 21, 2020|You can now view which [!UICONTROL Adobe Analytics Package] (SKU) your company is entitled to at **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**.|
+|Accessibility improvements|May 21, 2020|The Adobe Analytics team has made several accessibility improvements to Analysis Workspace, including improved keyboard navigation, color contrast, and screen reader support. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/aw-accessibility.html)|
+
+### New features in Customer Journey Analytics {#cust-journey}
+
+| Feature    | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Target Date|Description  |
+| -----------| --------- | ---------- |
+|[!UICONTROL Quick Insights] panel in [!UICONTROL Workspace]|June 4, 2020|[!UICONTROL Quick Insights] provides guidance for non-analysts and new users of [!UICONTROL Analysis Workspace] to learn how to answer business questions quickly and easily. [Learn more](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html)|
+|[!UICONTROL Customer Journey Analytics]: Global Availability|May 21, 2020|Makes [!UICONTROL Customer Journey Analytics] available to customers in EMEA and APAC.|
+|[!UICONTROL Customer Journey Analytics]: Support for [!UICONTROL Adobe Experience Platform Sandboxes]|May 21, 2020|Allows you to select specific [!UICONTROL Adobe Experience Platform Sandboxes] to build CJA Connections from. [Learn more...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html)|
+| [!UICONTROL Workspace]: Automatically build [!UICONTROL Freeform Tables] from a blank state|[May 21, 2020|Previously, you could not drop components directly into a blank project or blank panel; you had to add a [!UICONTROL Freeform Table] first. You can now drop components directly into a blank project or panel, and a [!UICONTROL Freeform Table] is automatically built for you in a recommended format. Additionally, improvements were made to how mixed component types (such as dimensions and metrics) are handled when dropped into a blank Freeform Table together.|
 |Accessibility improvements|May 21, 2020|The Adobe Analytics team has made several accessibility improvements to Analysis Workspace, including improved keyboard navigation, color contrast, and screen reader support. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/aw-accessibility.html)|
 
 #### New features in [!UICONTROL Media Analytics] {#media-aa}
