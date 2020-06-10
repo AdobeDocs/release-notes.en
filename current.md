@@ -165,7 +165,7 @@ Using Adobe Experience Platform, orchestrate individual customer journeys at sca
 |View-only Workspace projects|June 18, 2020|Workspace projects can be shared to users as “Can view” only. When a View recipient opens the shared project, they receive a more restrictive project experience, with no left rail and limited interactions. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html)|
 |Ability to co-edit Workspace projects|June 18, 2020|Recipients added to the “Can edit” role can save over a project that has been shared to them. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html)|
 
-#### New features in [!UICONTROL Media Analytics] {#media-aa}
+### New features in [!UICONTROL Media Analytics] {#media-aa}
 
 Date updated: **May 29, 2020**
 
@@ -179,20 +179,22 @@ Date updated: **May 29, 2020**
 
 See [About Player State Tracking](https://docs.adobe.com/content/help/en/media-analytics/using/player-state-tracking/player-state-overview.html).
 
+### Adobe Analytics Fixes {#aa-fixes}
+
 * Fixed an issue that caused segments with multi-byte searches for certain report suites to match nothing. They will now match the correct strings. AN-220043
-* Fixed an issue with the [!UICONTROL Item Filter] in Reports & Analytics not working.	AN-206132
-* Fixed slow response time in [!UICONTROL Scheduled Projects] UI. AN-214837
-* Fixed an issue with the [!UICONTROL Analytics Reporting API] 2.0 throwing a date range error. AN-215087
-* Fixed a case in which the instance/visit/visitor wasn't being counted in the denominator for the [!UICONTROL Time Spent] metrics. This would happen when a hit with no value for the dimension (e.g. [!UICONTROL Pagename]) followed in the same second. AN-211074
+* Fixed an issue with the Item Filter in Reports & Analytics not working. AN-206132
+* Fixed slow response time in Scheduled Projects UI. AN-214837
+* Fixed an issue with the Analytics Reporting API 2.0 throwing a date range error. AN-215087
+* Fixed a case in which the instance/visit/visitor wasn't being counted in the denominator for the Time Spent metrics. This would happen when a hit with no value for the dimension (e.g. Pagename) followed in the same second. AN-211074
 * Fixed an issue with users unable to access Workspace projects shared with them. AN-217561
-* Fixed issue with keys not being classified by [!UICONTROL Classification Rule Builder]. AN-221538
-* Fixed an issue with the [!UICONTROL Server Call Usage] not reporting any usage data.	AN-210452
-* Fixed issues with published Adobe Analytics segments missing data in AAM.	AN-220208, AN-220659
-* Fixed an issue with reports showing data but [!UICONTROL Data Feeds] logs saying "No Data Warehouse data". AN-220784, AN-220858
-* Fixed issues that prevented the launch of [!UICONTROL Ad Hoc Analysis] from the `experiencecloud.com` domain.	AN-219680, AN-221629
+* Fixed issue with keys not being classified by Classification Rule Builder. AN-221538
+* Fixed an issue with the Server Call Usage not reporting any usage data. AN-210452
+* Fixed issues with published Adobe Analytics segments missing data in AAM. AN-220208, AN-220659
+* Fixed an issue with reports showing data but Data Feeds logs saying "No Data Warehouse data". AN-220784, AN-220858
+* Fixed issues that prevented the launch of Ad Hoc Analysis from the `experiencecloud.com` domain. AN-219680, AN-221629
 * Fixed issues with using the "Ctrl (or Command) + C" hotkey. AN-221101, AN-221537
-* Fixed an issue with the [!UICONTROL Activity Map] enablement page.	AN-222029, AN-221242
-* Fixed an issue with not being able to add a touchpoint in the middle of a [!UICONTROL Fallout] visualization. AN-221648
+* Fixed an issue with the Activity Map enablement page. AN-222029, AN-221242
+* Fixed an issue with not being able to add a touchpoint in the middle of a Fallout visualization. AN-221648
 
 #### Additional Adobe Analytics fixes
 
