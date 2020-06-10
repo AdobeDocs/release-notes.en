@@ -132,41 +132,40 @@ Using Adobe Experience Platform, orchestrate individual customer journeys at sca
 
 ## ![Icon](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
-* [New features in Adobe Analytics](#aa-features) (**Updated June 4, 2020**)
-* [New features in Customer Journey Analytics](#cust-journey) (**Updated June 4, 2020**)
-* [New features in Media Analytics](#media-aa) (**Updated May 29, 2020**)
-* [Important notices for Analytics administrators](#aa-notices) (**Updated June 1, 2020**)
-* [Adobe Analytics fixes](#aa-fixes) (**Updated May 21, 2020**)
+ Updated **June, 2020**
+
+* [New features in Adobe Analytics](#aa-features)
+* [New features in Customer Journey Analytics](#cust-journey)
+* [New features in Media Analytics](#media-aa) 
+* [Adobe Analytics fixes](#aa-fixes)
+* [Important notices for Analytics administrators](#aa-notices) 
 * [AppMeasurement](#appm)
 * [New Analytics tutorials](#tutorials-analytics)
 
 ### New features in Adobe Analytics {#aa-features}
 
-<!--First-Party Domains Available in China RDC: June 18 - Enables customers with a cn domain to request a 1st-party domain for use inside of Mainland China. Learn more... 
-Anomaly det. support in CJA - June 18; Project Sharing Roles - June 18; Blank panel in WS now includes panels and vizs - June 18; -->
-
-| Feature    |[General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Target Date| Description  |
-| -----------| ------------ | ---------- |
-|[!UICONTROL Analytics for Target] panel in [!UICONTROL Workspace]|June 25, 2020|The [!UICONTROL Analytics for Target] (A4T) panel lets you analyze your Adobe Target activities and experiences in [!UICONTROL Analysis Workspace.] [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/a4t-panel.html)|
-|[!UICONTROL Quick Insights] panel in [!UICONTROL Workspace]|June 25, 2020|[!UICONTROL Quick Insights] provides guidance for non-analysts and new users of [!UICONTROL Analysis Workspace] to learn how to answer business questions quickly and easily. [Learn more](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html)|
-|[!UICONTROL Bulk Data Insertion] API| May 31, 2020| Enables you to easily and independently ingest batches of Analytics data. Useful for server-side and offline data. [Learn more...](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md)|
-| Adobe Analytics support for [!UICONTROL Adobe Experience Platform Edge Network] |May 31, 2020| Enables you to use a single tag to send data to multiple Adobe solutions, such as Adobe Analytics, Adobe Target, Adobe Audience Manager, Adobe Experience Platform Data Lake, Unified Profile, and Experience Cloud ID Service. [Learn more...](https://docs.adobe.com/content/help/en/experience-platform/edge/solutions/analytics/analytics-overview.html)|
-| [!UICONTROL Adobe Analytics dashboards]|May 21, 2020|[!UICONTROL Adobe Analytics dashboards] is a mobile app that allows users anytime, anywhere access to insights from Adobe Analytics. This app is intended for executives seeking on-the-go access to key metrics. It enables access to curated, interactive scorecards and will be available for both the iOS and Android operating systems. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/mobapp/home.html)|
-| [!UICONTROL Workspace]: Automatically build [!UICONTROL Freeform Tables] from a blank state|[May 21, 2020|Previously, you could not drop components directly into a blank project or blank panel; you had to add a [!UICONTROL Freeform Table] first. You can now drop components directly into a blank project or panel, and a [!UICONTROL Freeform Table] is automatically built for you in a recommended format. Additionally, improvements were made to how mixed component types (such as dimensions and metrics) are handled when dropped into a blank Freeform Table together.|
-| [!UICONTROL Adobe Analytics Package] added to [!UICONTROL Feature Access Level] page|May 21, 2020|You can now view which [!UICONTROL Adobe Analytics Package] (SKU) your company is entitled to at **[!UICONTROL Admin]** > **[!UICONTROL Company Settings]** > **[!UICONTROL Feature Access Level]**.|
-|Accessibility improvements|May 21, 2020|The Adobe Analytics team has made several accessibility improvements to Analysis Workspace, including improved keyboard navigation, color contrast, and screen reader support. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/aw-accessibility.html)|
+| Feature    | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html)- Target Date |Description  |
+| -----------| ---------- |-------|
+| Attribution IQ: Algorithmic Attribution |June 18, 2020| The [!UICONTROL Algorithmic Attribution] model in Analysis Workspace uses statistical techniques to dynamically determine the optimal allocation of credit for the selected metric. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
+| Attribution IQ: Custom lookback windows |June 18, 2020| You can now configure any attribution model in [!UICONTROL Attribution IQ] to include touchpoints from up to 90 days before the reporting time period. This will typically increase the attribution accuracy for events that happen early in the reporting period by accounting for interactions that occurred in the prior month(s). [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/attribution.html#lookback-windows)|
+| Project roles for shared Workspace projects | June 18, 2020 |When sharing a Workspace project, you can now place recipients in one of three project roles, depending on the project experience you want them to have: Edit, Duplicate and View. [Learn more...]((https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html)|
+|View-only Workspace projects|June 18, 2020|Workspace projects can be shared to users as “Can view” only. When a View recipient opens the shared project, they receive a more restrictive project experience, with no left rail and limited interactions. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html)|
+|Ability to co-edit Workspace projects|June 18, 2020|Recipients added to the “Can edit” role can save over a project that has been shared to them. This extends to both admins and non-admins. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html)|
+|Updated Blank panel in Workspace|June 18, 2020|The blank panel in Workspace now includes panels and visualizations, giving you a more seamless way to pick the analysis workflow that works best for you.|
+| First-party domains available in China RDC | June 18, 2020 |Enables customers with a `.cn` domain to request a 1st-party domain for use inside of Mainland China. (Documentation available with the purchase of "China Performance Optimization" SKU.)|
+|Quick Insights panel in Workspace|June 25, 2020|Quick Insights provides guidance for non-analysts and new users of Analysis Workspace to learn how to answer business questions quickly and easily. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html)|
+|Analytics for Target panel in Workspace|June 25, 2020|The Analytics for Target (A4T) panel lets you analyze your Adobe Target activities and experiences in Analysis Workspace. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/a4t-panel.html)|
 
 ### New features in Customer Journey Analytics {#cust-journey}
 
-| Feature    | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Target Date|Description  |
-| -----------| --------- | ---------- |
-|[!UICONTROL Quick Insights] panel in [!UICONTROL Workspace]|June 25, 2020|[!UICONTROL Quick Insights] provides guidance for non-analysts and new users of [!UICONTROL Analysis Workspace] to learn how to answer business questions quickly and easily. [Learn more](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html)|
-|[!UICONTROL Customer Journey Analytics]: Global Availability|May 21, 2020|Makes [!UICONTROL Customer Journey Analytics] available to customers in EMEA and APAC.|
-|[!UICONTROL Customer Journey Analytics]: Support for [!UICONTROL Adobe Experience Platform Sandboxes]|May 21, 2020|Allows you to select specific [!UICONTROL Adobe Experience Platform Sandboxes] to build CJA Connections from. [Learn more...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html)|
-| [!UICONTROL Workspace]: Automatically build [!UICONTROL Freeform Tables] from a blank state|[May 21, 2020|Previously, you could not drop components directly into a blank project or blank panel; you had to add a [!UICONTROL Freeform Table] first. You can now drop components directly into a blank project or panel, and a [!UICONTROL Freeform Table] is automatically built for you in a recommended format. Additionally, improvements were made to how mixed component types (such as dimensions and metrics) are handled when dropped into a blank Freeform Table together.|
-|Accessibility improvements|May 21, 2020|The Adobe Analytics team has made several accessibility improvements to Analysis Workspace, including improved keyboard navigation, color contrast, and screen reader support. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/aw-accessibility.html)|
+| Feature    | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html)- Target Date |Description  |
+| -----------| ---------- |-----|
+| Support for Anomaly Detection|June 18, 2020|Anomaly Detection provides a statistical method to determine how a given metric has changed in relation to previous data. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html)|
+| Project roles for shared Workspace projects | June 18, 2020 |When sharing a Workspace project, you can now place recipients in one of three project roles, depending on the project experience you want them to have: Edit, Duplicate and View. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html)|
+|View-only Workspace projects|June 18, 2020|Workspace projects can be shared to users as “Can view” only. When a View recipient opens the shared project, they receive a more restrictive project experience, with no left rail and limited interactions. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html)|
+|Ability to co-edit Workspace projects|June 18, 2020|Recipients added to the “Can edit” role can save over a project that has been shared to them. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html)|
 
-#### New features in [!UICONTROL Media Analytics] {#media-aa}
+### New features in [!UICONTROL Media Analytics] {#media-aa}
 
 Date updated: **May 29, 2020**
 
@@ -180,60 +179,38 @@ Date updated: **May 29, 2020**
 
 See [About Player State Tracking](https://docs.adobe.com/content/help/en/media-analytics/using/player-state-tracking/player-state-overview.html).
 
-#### Adobe Analytics fixes {#aa-fixes}
+### Adobe Analytics Fixes {#aa-fixes}
 
-* Adobe changed the [!UICONTROL Time Spent] metric to never include "Unspecified" in the calculation. This means that, regardless of whether the UI says to include "Unspecified", we make a special exception to always exclude "Unspecified" in the [!UICONTROL Time Spent] calculation. Therefore, even if you configured a report containing the [!UICONTROL Time Spent] metric to include "Unspecified", it will always return 0 time spent for the "Unspecified" line item. Note that this may change historical reporting in Reports & Analytics as well as the Reporting API v1.4. (AN-197958)
-* Fixed an issue in which the Instance/Visit/Visitor wasn't being counted in the denominator for the [!UICONTROL Time Spent] metrics.  This would happen when a hit with no value for the dimension (e.g., [!UICONTROL Pagename]) mfollowed in the same second. (AN-211074)
-* Fixed an issue that caused missing [!DNL Analytics] segment data in Audience Manager. (AN-206221)
-* Fixed an issue with [!UICONTROL Data Sources] processing showing the wrong dates. (AN-213604)
-* Fixed an issue with classification files not getting uploaded to FTP properly. (AN-214102)
-* Fixed an issue with the API method `Segments.Get` not returning a full response. (AN-206210)
-* Fixed an issue where table line items were converted to special characters in [!DNL Workspace] PDF download. (AN-196153)
-* Fixed an issue with Adobe Analytics API 1.4 call `visattrcustomeridcustomerattributes` not working properly. (AN-186873)
-* Fixed an issue with data appearing in reports but missing from the [!UICONTROL Data Feed]. (AN-211923)
-* Fixed an issue with being unable to copy [!UICONTROL Product Profile] permissions. (AN-211113)
-* Fixed an issue where users with Federated IDs were not able to log in to [!UICONTROL Report Builder]. (AN-207750)
-* Fixed an issue with [!UICONTROL AdWords] data not showing in [!UICONTROL Advertising Analytics]. (AN-213249)
-* Fixed an issue where classification data did not display in the trended view. (AN-212761)
-* Fixed an issue that caused an incorrect published segment count in the [!UICONTROL Segment Manager]. (AN-213374)
-* Fixed an issue with the **[!UICONTROL Show Upwards Trend As...]** option in the [!UICONTROL Calculated Metric Editor] – it did not work when applying filters. (AN-214223)
-* Fixed multiple issues with [!UICONTROL Classification] Import and Export. (AN-213488, AN-215309, AN-216345, AN-215307, AN-216671)
-* Fixed multiple issues with [!UICONTROL Classification Rule Builder]. (AN-213826, AN-213550, AN-213095)
-* Fixed issues with [!UICONTROL Data Sources] processing. (AN-218083, AN-213604, AN-214102, AN-215485, AN-215339, AN-212911, AN-217551, AN-217947, AN-219018, AN-214691, AN-218401)
-* Fixed FTP connectivity issues. (AN-115525)
-* Fixed multiple [!DNL Analytics] [!UICONTROL Data Feeds] issues. (AN-176769, AN-160480, AN-211923, AN-204286, AN-212977, AN-214528, AN-215080, AN-217784, AN-219093, AN-218817, AN-217798, AN-218267, AN-218382)
-* Fixed issues with [!UICONTROL Data Warehouse] requests. (AN-181836)
-* Fixed issues in PDF downloaded [!UICONTROL Workspace] projects, where values were converted into special characters. (AN-196153)
-* Fixed an issue with being unable to copy [!UICONTROL Product Profile] permissions in [!UICONTROL Admin Console]. (AN-211113)
-* Fixed an issue where time formats in calculated metrics were broken for negative values. (AN-210900)
-* Fixed an issue that prevented users from changing the [!UICONTROL Attribution Model] on static row metrics. (AN-207872)
-* Fixed an issue that caused the [!UICONTROL Scheduled Report] builder to be stuck in a queued status. (AN-215317)
-* Fixed the [!UICONTROL ExactTarget Data Connector]. (AN-210794)
-* Fixed latency issues in [!UICONTROL Bulk Ingestion API]. (AN-210165)
-* Fixed an issue with users being unable to log in to [!UICONTROL Report Builder] with a Federated ID. (AN-207750)
-* Fixed an issue in [!UICONTROL Advertising Analytics] that prevented [!DNL Google AdWords] data from showing up. (AN-213249)
-* Fixed an issue that prevented [!UICONTROL Workspace] [!UICONTROL Project Viewed] events from showing in logs. (AN-214134)
-* Fixed an issue that happened when changing the date range in [!UICONTROL Workspace] and selecting **[!UICONTROL Apply to all panels]**. The date did not change in some panels. (AN-214944)
-* Fixed an issue with not being able to create or edit alerts. (AN-215920)
-* Fixed an issue with all dynamic date ranges in [!UICONTROL Workspace] showing incorrect dates due to the first day of the week sporadically switching to a Sunday from a Monday. (AN-218835)
+* Fixed an issue that caused segments with multi-byte searches for certain report suites to match nothing. They will now match the correct strings. AN-220043
+* Fixed an issue with the Item Filter in Reports & Analytics not working. AN-206132
+* Fixed slow response time in Scheduled Projects UI. AN-214837
+* Fixed an issue with the Analytics Reporting API 2.0 throwing a date range error. AN-215087
+* Fixed a case in which the instance/visit/visitor wasn't being counted in the denominator for the Time Spent metrics. This would happen when a hit with no value for the dimension (e.g. Pagename) followed in the same second. AN-211074
+* Fixed an issue with users unable to access Workspace projects shared with them. AN-217561
+* Fixed issue with keys not being classified by Classification Rule Builder. AN-221538
+* Fixed an issue with the Server Call Usage not reporting any usage data. AN-210452
+* Fixed issues with published Adobe Analytics segments missing data in AAM. AN-220208, AN-220659
+* Fixed an issue with reports showing data but Data Feeds logs saying "No Data Warehouse data". AN-220784, AN-220858
+* Fixed issues that prevented the launch of Ad Hoc Analysis from the `experiencecloud.com` domain. AN-219680, AN-221629
+* Fixed issues with using the "Ctrl (or Command) + C" hotkey. AN-221101, AN-221537
+* Fixed an issue with the Activity Map enablement page. AN-222029, AN-221242
+* Fixed an issue with not being able to add a touchpoint in the middle of a Fallout visualization. AN-221648
 
 #### Additional Adobe Analytics fixes
 
-AN-101871, AN-115525; AN-123869; AN-152580; AN-160480; AN-178128; AN-186907; AN-199299; AN-201342; AN-201397; AN-204286; AN-204518; AN-206045; AN-206948; AN-208607; AN-209486; AN-210743; AN-211550; AN-211539; AN-211826; AN-211943; AN-212130; AN-212151; AN-212653; AN-212673; AN-212709; AN-212833; AN-212961; AN-212977; AN-213095; AN-213422; AN-213450; AN-213490; AN-213752; AN-213827; AN-214094; AN-214153; AN-214214; AN-214234; AN-214253;  AN-214255; AN-214343; AN-214355; AN-214401; AN-214427; AN-214528; AN-214642; AN-214691; AN-214772; AN-214793; AN-214924; AN-215017; AN-215080; AN-215212; AN-215312; AN-215377; AN-215402; AN-215545; AN-215905; AN-215963; AN-216447; AN-216676; AN-216880; AN-216999; AN-217245; AN-218450; AN-218899; AN-219487; AN-219677
+AN-218269; AN-218455; AN-218492; AN-219888; AN-220447; AN-220546; AN-220788; AN-220866; AN-221165; AN-221545; AN-221712; AN-221832; AN-221853; AN-222000; AN-222505; AN-222559
 
 ### Important notices for [!DNL Analytics] administrators {#aa-notices}
 
 | Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- |
-|Migration to unified product domain|Effective date: May 28, 2020|The migration to a unified product domain for Adobe Analytics, which began in January 2020, completed on May 28, 2020. While Adobe Analytics works to remove all `omniture.com` domain references from its architecture, it is important to whitelist `omniture.com` as a third-party cookie. When the full architecture migration is (soon) completed, we will notify you via the release notes and this whitelist step will no longer be needed. [Here](https://helpx.adobe.com/analytics/kb/adobe-ip-addresses.html) is a full list of recommended IP addresses and domains that you should whitelist.<br>If your organization blocks third-party cookies, please reach out to Customer Care to regain your access to Adobe Analytics.|
-|New Adobe Analytics default landing page|Effective Date: June 18, 2020|On June 18, 2020, the default landing page for Adobe Analytics will change from [!UICONTROL Reports] to [!UICONTROL Workspace]. This change will occur for any users who have not previously set a custom landing page.|
-|Third-party technology whitelist|(Effective date: March 12, 2020|Adobe Analytics has begun leveraging third-party technologies for feature rollout management and in-product support. The following URLs should be added to any necessary network firewall whitelists to ensure full feature access:<ul><li>Gainsight: https://esp.aptrinsic.com</li><li>LaunchDarkly: https://app.launchdarkly.com</li></ul>|
+|Migration to unified product domain|Effective date: May 28, 2020|The migration to a unified product domain for Adobe Analytics, which began in January 2020, completed on May 28, 2020. While Adobe Analytics works to remove all `omniture.com` domain references from its architecture, it is important to allowlist `omniture.com` as a third-party cookie. When the full architecture migration is (soon) completed, we will notify you via the release notes and this whitelist step will no longer be needed. [Here](https://helpx.adobe.com/analytics/kb/adobe-ip-addresses.html) is a full list of recommended IP addresses and domains that you should allowlist.<br>If your organization blocks third-party cookies, please reach out to Customer Care to regain your access to Adobe Analytics.|
+If your organization blocks third-party cookies, please reach out to Customer Care to regain your access to Adobe Analytics.
+|New Adobe Analytics default landing page|Effective Date: June 18, 2020|On June 18, 2020, the default landing page for Adobe Analytics will change from Reports to Workspace. This change will occur for any users who have not previously set a custom landing page.|
+|Third-party technology allowlist|March 12, 2020 (effective date)|Adobe Analytics has begun leveraging third-party technologies for feature rollout management and in-product support. The following URLs should be added to any necessary network firewall allowlists to ensure full feature access:<ul><li>Gainsight: https://esp.aptrinsic.com</li><li>LaunchDarkly: https://app.launchdarkly.com</li></ul>|
 |Improved redundancy for Analysis Workspace availability|May 21, 2020|In order to ensure availability of Analysis Workspace, we are adding a secondary CDN (Content Delivery Network) for improved redundancy. The following URLs should be added to any necessary network firewall whitelists:<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul>|
 |Change to how [!UICONTROL Entries/Exits] are calculated in [!UICONTROL Workspace]|April 7, 2020|In [!UICONTROL Analysis Workspace], as of March 2020, we have changed how the _None_ value interacts with [!UICONTROL Entries/Exits]. Because you can now turn _Nones_ on and off in [!UICONTROL Analysis Workspace], we apply the _None_ value after the entry or exit, whereas (for eVars) it used to be applied before entry or exit. For example, assume that the first hit of a visit has no value for eVars, but the second hit does. In [!UICONTROL Reports & Analytics] the first hit will show as _Unspecified_ for the Entry, but in [!UICONTROL Analysis Workspace] it will show up as the value on the second hit.|
-|EOL of **[!UICONTROL Conversion Level]** setting|March 3, 2020|The non-functioning [Conversion Level](https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/general-acct-settings-admin.html) setting in **[!UICONTROL Admin Tools]** > **[!UICONTROL Report Suites]** > **[!UICONTROL General Account Settings]** will be removed from the interface on March 12, 2020.|
 |EOL of **[!UICONTROL Dashboard Archive]**|March 27, 2020|The **[!UICONTROL View Archive]** setting under **[!UICONTROL Manage Dashboards]** in [!UICONTROL Reports & Analytics] will no longer be available as of October, 2020.|
-|End of Support for TLS 1.1 | October 3, 2019 | By March 31, 2020, Adobe Analytics will remove support for TLS 1.1. This change is part of our ongoing efforts to maintain the highest security standards and promote the safety of customer data.|
-|New Adobe Analytics domain|Dec. 18, 2019|On January 16, 2020, Adobe Analytics began moving to a new domain - `https://experience.adobe.com/analytics.`<br>**Note:** This change applies to all users accessing Analytics with their Adobe ID or Enterprise ID. <ul><li>The domain change may cause cookie issues when loading Analytics in Safari. Deselecting _Prevent cross-site tracking_ in the [!DNL Safari] Privacy Preferences enables cookies across domains (and all cross-site experiences), and allows Analytics to function on this new Adobe Experience Cloud domain. You can use other browsers without issue because this affects only [!DNL Safari] users.</li><li>The domain change may cause [!UICONTROL Activity Map] to stop working for some customers [in specific cases](https://docs.adobe.com/content/help/en/analytics/analyze/activity-map/activity-map.html).</li></ul>|
 |End of Life - Analytics Legacy APIs|January 9, 2020|In November 2020, the following Analytics Legacy API services will reach their end-of-life and will be shutdown. Current integrations built using these services will stop working. <ul><li>1.3 Analytics APIs</li><li>1.4 SOAP Analytics APIs</li><li>Legacy OAuth Authentication (OAuth and JWT)</li></ul>We have provided a [Legacy API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) to help answer your questions and provide guidance on how to proceed. API integrations that employ these services can migrate to the [1.4 Analytics REST APIs](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) or the [2.0 Analytics APIs](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth accounts can migrate to an [Adobe IO](https://console.adobe.io/home?mv=email) Analytics integration account, which can be used to access both the 1.4 Analytics APIs and 2.0 Analytics APIs.|
 |San Jose FTP Broker Ending for London and Singapore|July 2020|For customers in London and Singapore, we will no longer support brokering of data between London or Singapore and the San Jose data center [ftp.omniture.com](ftp://ftp.omniture.com/).<br/><ul><li>For London, use [ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>For Singapore, use [ftp4.omniture.com](ftp://ftp4.omniture.com/)</li></ul>|
 |EOL of Ad Hoc Analysis|Aug 6, 2018|Adobe announced the intention to end-of-life Ad Hoc Analysis. An end-of-life date will be shared once available. For more information, visit [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/).|
