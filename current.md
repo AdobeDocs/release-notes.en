@@ -26,7 +26,7 @@ This page describes new features, fixes, and important notices in [!DNL Adobe Ex
 
 Product release dates may vary. Check back frequently for updates.
 
-Latest update: **June 12, 2020**
+Latest update: **June 15, 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud interface](#ecloud)
