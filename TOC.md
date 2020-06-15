@@ -7,7 +7,7 @@ user-guide-url: https://www.adobe.com
 
 # Experience Cloud Release Notes {#experience-cloud}
 
-+ Adobe Experience Cloud Release Notes{#exl-rns}
++ Adobe Experience Cloud Release Notes {#exl-rns}
     + [Latest Release Notes](current.md)
 + Previous Release Notes {#previous}
     + 2020 {#2020}
@@ -28,7 +28,7 @@ user-guide-url: https://www.adobe.com
         + [March 2019](c-legacy-releases/2019/03072019.md)
         + [February 2019](c-legacy-releases/2019/02072019.md)
         + [January 2019](c-legacy-releases/2019/01172019.md)
-    + [2018 and Earlier]{#legacy-rns)
+    + 2018 and Earlier {#legacy-rns}
         + 2018 {#2018}
             + [November2018](c-legacy-releases/2018/11012018.md)
             + [October 2018](c-legacy-releases/2018/10112018.md)
@@ -77,4 +77,5 @@ user-guide-url: https://www.adobe.com
             + [March 2015](c-legacy-releases/2015/03192015.md)
             + [February 2015](c-legacy-releases/2015/02192015.md)
             + [January 2015](c-legacy-releases/2015/01152015.md)
-        + [2014 and Earlier](c-legacy-releases/2014-earlier.md)
+        + 2014 and Earlier {#2014-earlier}
+            + [2014 and Earlier](c-legacy-releases/2014-earlier.md)
