@@ -62,7 +62,7 @@ Released: **May 21, 2020**
 |Event subscription confirmation| <ul><li>You can now get an email confirmation when subscribing to on-going single event updates.</li></ul> |
 |Global navigation usability enhancements | <ul><li>Consistent user experience with `Adobe.com` at the top level navigation menu.</li></ul>|
 
-## ![Icon](/assets/ec_appicon_24.png) Adobe Experience Cloud interface {#ecloud}
+## ![Icon](/assets/ec_appicon_24.png) Experience Cloud interface {#ecloud}
 
 General updates to Experience Cloud interface.
 
