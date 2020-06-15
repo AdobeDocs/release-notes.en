@@ -8,7 +8,7 @@ author: mfrei
 
 ---
 
-# Early Access - Adobe Experience Cloud Release Notes - June 2020
+# Early Access - Adobe Experience Cloud Release Notes - June 2020 
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
@@ -135,7 +135,7 @@ Using Adobe Experience Platform, orchestrate individual customer journeys at sca
 
 ### Latest release
 
-Q2 release has been published. [Learn more](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html)
+For the latest release updates, see [Journey Orchestration release notes](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html)
 
 ### New Journey Orchestration courses and tutorials {#jo-tutorials}
 
