@@ -154,7 +154,7 @@ Using Adobe Experience Platform, orchestrate individual customer journeys at sca
 |Updated Blank panel in Workspace|June 18, 2020|The blank panel in Workspace now includes panels and visualizations, giving you a more seamless way to pick the analysis workflow that works best for you.|
 | First-party domains available in China RDC | June 18, 2020 |Enables customers with a `.cn` domain to request a 1st-party domain for use inside of Mainland China. (Documentation available with the purchase of "China Performance Optimization" SKU.)|
 |Quick Insights panel in Workspace|June 25, 2020|Quick Insights provides guidance for non-analysts and new users of Analysis Workspace to learn how to answer business questions quickly and easily. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html)|
-|Analytics for Target panel in Workspace|June 25, 2020|The Analytics for Target (A4T) panel lets you analyze your Adobe Target activities and experiences in Analysis Workspace. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/a4t-panel.html)|
+|Analytics for Target panel in Workspace|June 25, 2020|The Analytics for Target (A4T) panel lets you analyze your Adobe Target activities and experiences, with lift and confidence, in Analysis Workspace. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/a4t-panel.html)|
 
 ### New features in Customer Journey Analytics {#cust-journey}
 
