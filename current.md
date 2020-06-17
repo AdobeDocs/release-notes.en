@@ -355,7 +355,7 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 
     https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html
 
-* **Core Componentes**
+* **Core Components**
 
     Core Components release 2.9.0 introduces integration with the [Adobe Client Data Layer](https://github.com/adobe/adobe-client-data-layer) and a new Progress Bar Component and is now available along with [authoring documentation](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html) and [developer details and project download available on GitHub](https://github.com/adobe/aem-core-wcm-components).
 
