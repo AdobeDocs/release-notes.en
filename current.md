@@ -8,7 +8,7 @@ author: mfrei
 
 ---
 
-Adobe Experience Cloud Release Notes - June 2020 
+# Adobe Experience Cloud Release Notes - June 2020 
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
@@ -175,7 +175,7 @@ Updated **June 10, 2020**
 
 | Feature    | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html)- Target Date |Description  |
 | -----------| ---------- |-----|
-|Support for Object arrays|June 18, 2020|CJA customers can now report on dimensions and metrics that appear in Object arrays within their Adobe Experience Platform dataset schemas. [Learn more...]()|
+|Support for Object arrays|June 18, 2020|CJA customers can now report on dimensions and metrics that appear in Object arrays within their Adobe Experience Platform dataset schemas. [Learn more...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-usecases/object-arrays.html)|
 | Attribution IQ: [!UICONTROL Algorithmic Attribution] |June 18, 2020| The [!UICONTROL Algorithmic Attribution] model in [!UICONTROL Analysis Workspace] uses statistical techniques to dynamically determine the optimal allocation of credit for the selected metric. [Learn more...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/attribution/algorithmic.html) |
 | Attribution IQ: Custom lookback windows |June 18, 2020| You can now configure any attribution model in [!UICONTROL Attribution IQ] to include touch-points from up to 90 days before the reporting time period. This will typically increase the attribution accuracy for events that happen early in the reporting period by accounting for interactions that occurred in the prior month(s). [Learn more...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/attribution/models.html)|
 |Support for [!UICONTROL Anomaly Detection]|June 18, 2020|[!UICONTROL Anomaly Detection] provides a statistical method to determine how a given metric has changed in relation to previous data. [Learn more...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html)|
