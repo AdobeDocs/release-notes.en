@@ -7,8 +7,7 @@ user-guide-url: https://www.adobe.com
 
 # Experience Cloud Release Notes {#experience-cloud}
 
-+ Adobe Experience Cloud Release Notes {#exl-rns}
-    + [Latest Release Notes](current.md)
++ [Release Notes](current.md)
 + Previous Release Notes {#previous}
     + 2020 {#2020}
         + [May 2020](c-legacy-releases/2020/05212020.md)
