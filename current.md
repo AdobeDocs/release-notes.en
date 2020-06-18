@@ -173,6 +173,7 @@ Updated **June 10, 2020**
 | First-party domains available in China RDC | June 18, 2020 |Enables customers with a `.cn` domain to request a 1st-party domain for use inside of Mainland China. (Documentation available with the purchase of "China Performance Optimization" SKU.)|
 |Quick Insights panel in Workspace|June 25, 2020|Quick Insights provides guidance for non-analysts and new users of Analysis Workspace to learn how to answer business questions quickly and easily. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html)|
 |Analytics for Target panel in Workspace|June 25, 2020|The Analytics for Target (A4T) panel lets you analyze your Adobe Target activities and experiences, with lift and confidence, in Analysis Workspace. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/a4t-panel.html)|
+|[!UICONTROL About Workspace] page|June 18,2020|The [!UICONTROL About Workspace] page provides information about your Analysis Workspace environment, about your Adobe Analytics administrators (if you need support), and a way to provide in-product feedback. It can be found under **[!UICONTROL Workspace]** > **[!UICONTROL Help]** > **[!UICONTROL About Workspace]**.|
 
 ### New features in Customer Journey Analytics {#cust-journey}
 
@@ -186,6 +187,7 @@ Updated **June 10, 2020**
 |View-only [!UICONTROL Workspace] projects|June 18, 2020|[!UICONTROL Workspace] projects can be shared to users as _[!UICONTROL Can View]_ only. When a View recipient opens the shared project, they receive a more restrictive project experience with no left rail and limited interactions. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html)|
 |Ability to co-edit [!UICONTROL Workspace] projects|June 18, 2020|Recipients added to the _[!UICONTROL Can Edit]_ role can save over a project that has been shared to them. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html)|
 |Quick Insights panel in [!UICONTROL Workspace]|June 25, 2020|Quick Insights provides guidance for non-analysts and new users of [!UICONTROL Analysis Workspace] to learn how to answer business questions quickly and easily. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html)|
+|[!UICONTROL About Workspace] page|June 18,2020|The [!UICONTROL About Workspace] page provides information about your Analysis Workspace environment, about your Adobe Analytics administrators (if you need support), and a way to provide in-product feedback. It can be found under **[!UICONTROL Workspace]** > **[!UICONTROL Help]** > **[!UICONTROL About Workspace]**.|
 
 ### New features in [!UICONTROL Media Analytics] {#media-aa}
 
