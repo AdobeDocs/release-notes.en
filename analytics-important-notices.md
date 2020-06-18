@@ -1,6 +1,6 @@
 ---
 title: Important Notices for Analytics Administrators
-description: Template for Experience Cloud release notes
+description: Experience Cloud release notes
 doc-type: release notes
 last-update: March 2019
 author: mfrei
