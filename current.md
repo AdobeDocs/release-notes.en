@@ -150,7 +150,7 @@ Updated **June 10, 2020**
 
 * [New features in Adobe Analytics](#aa-features)
 * [New features in Customer Journey Analytics](#cust-journey)
-* [New features in Media Analytics](#media-aa) 
+* [New features in Media Analytics](#media-aa)
 * [Fixes in Adobe Analytics](#aa-fixes)
 * [Important notices for Analytics administrators](#aa-notices)
 * [New Adobe Analytics courses and tutorials](#tutorials-analytics)
@@ -187,17 +187,12 @@ Updated **June 10, 2020**
 
 ### New features in [!UICONTROL Media Analytics] {#media-aa}
 
-Date updated: **May 29, 2020**
+Date updated: **June 18, 2020**
 
-**Player State Tracking:** [!UICONTROL Media Analytics] customers can capture viewer interaction during playback using a standard set of solution variables for full screen, closed captioning, mute, picture-in-picture, and in-focus. You also have the flexibility to create custom player states. Player State Tracking variables are now available for reporting in [!UICONTROL Analysis Workspace]. This feature requires one of the following:
-
-* Media [!DNL JavaScript] SDK 3.0 or higher
-* For use with the [!DNL Adobe Experience Platform] (AEP) SDK:
-  * [!UICONTROL Media Analytics Extension] (for web): [!UICONTROL Adobe Media Analytics] (3.x SDK) for Audio and Video v1.0 or higher
-  * [!UICONTROL Media Analytics Extension] (for mobile): [!UICONTROL Adobe Media Analytics for Audio] and Video v2.0 or higher
-* [!UICONTROL Media Collection]
-
-See [About Player State Tracking](https://docs.adobe.com/content/help/en/media-analytics/using/player-state-tracking/player-state-overview.html).
+|Feature |[General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html)- Target Date | Description |
+| -----------| ---------- | ---------- |
+|[Supported devices and platforms](https://docs.adobe.com/content/help/en/media-analytics/using/supported-devices.html)|June 18, 2020  |The Media Launch Extension w/ AEP SDK now supports the following OTT devices:<ul><li>Apple TV (tvOS)</li><li>Fire TV (Fire OS)</li><li>Android TV</li></ul>||[Supported devices and platforms](https://docs.adobe.com/content/help/en/media-analytics/using/supported-devices.html)|June 18, 2020  |The Media Launch Extension w/ AEP SDK now supports the following OTT devices:<ul><li>Apple TV (tvOS)</li><li>Fire TV (Fire OS)</li><li>Android TV</li></ul>|
+|[Player State Tracking](https://docs.adobe.com/content/help/en/media-analytics/using/player-state-tracking/player-state-overview.html)|May 29, 2020 |[!UICONTROL Media Analytics] customers can capture viewer interaction during playback using a standard set of solution variables for full screen, closed captioning, mute, picture-in-picture, and in-focus. You also have the flexibility to create custom player states. Player State Tracking variables are now available for reporting in [!UICONTROL Analysis Workspace]. This feature requires one of the following: <ul><li>Media [!DNL JavaScript] SDK 3.0 or higher</li><li>For use with the [!DNL Adobe Experience Platform] (AEP) SDK:</li><li>[!UICONTROL Media Analytics Extension] (for web): [!UICONTROL Adobe Media Analytics] (3.x SDK) for Audio and Video v1.0 or higher</li><li>[!UICONTROL Media Analytics Extension] (for mobile): [!UICONTROL Adobe Media Analytics for Audio] and Video v2.0 or higher</li><li>[!UICONTROL Media Collection]</li></ul>|
 
 ### Fixes in Adobe Analytics {#aa-fixes}
 
@@ -239,7 +234,7 @@ AN-218269; AN-218455; AN-218492; AN-219888; AN-220447; AN-220546; AN-220788; AN-
 New courses, tutorial videos, and articles in Analytics and Customer Journey Analytics.
 
 |Content |Content Type | Description |
-| -----------| ---------- | ---------- | 
+| -----------| ---------- | ---------- |
 |[Getting Started with Customer Journey Analytics for Users](https://experienceleague.adobe.com/?recommended=CustomerJourneyAnalytics-U-1-2020.1)|Course  |In this course, you will learn how to use Customer Journey Analytics (CJA) to analyze data from many different data sources. You will learn about the differences between Adobe Analytics and Customer Journey Analytics, and how the data is handled in CJA. After taking this course, you should be able to create and customize cross channel visualizations for increased understanding of your customers. |
 |[Getting Started with Customer Journey Analytics for Administrators](https://experienceleague.adobe.com/?recommended=CustomerJourneyAnalytics-A-1-2020.1)|Course |Learn how to configure and use [!UICONTROL Journey Orchestration]. This course covers the key concepts and the configuration steps required to enable the orchestration of a Journey. You will learn how to create, publish and how to report and analyze your orchestrated Journeys. |
 |[Getting Started with Customer Journey Analytics for Data Engineers](https://experienceleague.adobe.com/?recommended=CustomerJourneyAnalytics-D-1-2020.1)|Course |In this course, you will learn about the data coming into Customer Journey Analytics and how it affects the reports for the analyst. This course builds upon your general knowledge of the Adobe Experience Platform.|
@@ -283,7 +278,7 @@ These updates are available only to users logging in using Adobe ID. To switch t
 * Updated the [!UICONTROL Audience Marketplace Terms & Conditions] to reflect legal requirements in specific geographies. (AAM-54518)
 * Fixed an issue where accessing the [!UICONTROL Traits] page from bookmarks would result in a 404 error. (AAM-54768)
 * Fixed an issue where the Destination Update API would time out while retrieving [!UICONTROL Algorithmic Models]. (AAM-54342)
-* Users can now see a model classification accuracy indicator for [!UICONTROL Smart Personas]. (AAM-54847) 
+* Users can now see a model classification accuracy indicator for [!UICONTROL Smart Personas]. (AAM-54847)
 * Fixed an issue where pressing Enter after adding a trait expression would remove the expression instead of saving it. (AAM-54210)
 * Fixed an issue where calls to the GET method of the [!UICONTROL Traits] API would fail for users who did not have the VIEW_MODELS permission. (AAM-53104)
 * Fixed an issue where users could not delete [!UICONTROL Algorithmic Models] that contained [!UICONTROL Folder Traits]. (AAM-50192)
@@ -314,7 +309,7 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 
     AEM 6.5, Service Pack 5 (6.5.5.0 released June 04, 2020) is an important update that includes new features, key customer-requested enhancements, and performance, stability, security improvements, released since the general availability of AEM 6.5 in April 2019.
 
-    * [Release Notes](https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html) 
+    * [Release Notes](https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html)
     * [AEM Forms release deliverables](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
 * **AEM 6.4.8.1**
@@ -332,7 +327,7 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 
     Highlights include:
 
-    * AEM Sites Commerce Integration Framework. 
+    * AEM Sites Commerce Integration Framework.
     * Enhanced Smart Tags and new in UI guided training experience.
     * Adobe Asset Link support for Adobe Xd.
     * AEM Assets Dynamic Media 3D support.
@@ -343,8 +338,8 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 
     With the goal of reducing time and cost to transition from on-premise to Cloud Service, two transition tools were launched this month. These tools are designed to automate some of the key tasks during transition process and hence, reducing the overall effort. .
 
-    1. [Using Content Transfer Tool](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html) (available on SD)  streamlines the content transfer activity and makes it scalable. With a user-friendly UI, the tool is self-service for existing customers and partners (on-prem/AMS) that are transitioning to AEM as a Cloud Service. 
-    1. [AMS Dispatcher Converter](https://github.com/adobe/aem-cloud-service-dispatcher-converter) (Open-source) tool to automate converting AMS Dispatcher configurations to Cloud Service Dispatcher configurations. 
+    1. [Using Content Transfer Tool](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html) (available on SD)  streamlines the content transfer activity and makes it scalable. With a user-friendly UI, the tool is self-service for existing customers and partners (on-prem/AMS) that are transitioning to AEM as a Cloud Service.
+    1. [AMS Dispatcher Converter](https://github.com/adobe/aem-cloud-service-dispatcher-converter) (Open-source) tool to automate converting AMS Dispatcher configurations to Cloud Service Dispatcher configurations.
 
     [Release notes for AEM as a Cloud Service 2020.6.0](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
 
@@ -398,20 +393,20 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 |[AEM Project Structure](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/developing/aem-project-content-package-structure.html)|Article|Describes the changes required to Adobe Experience Manager Maven projects so that they are AEM Cloud Service compatible. |
 |[Sling Models](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/osgi-web-consoles.html#sling-models)|Video tutorial|Learn about debugging AEM as a Cloud Service SDK’s local quickstart using the Sling Models web console.|
 |[AEM Web Console Components](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/osgi-web-consoles.html#components)|Video tutorial|Learn about debugging AEM as a Cloud Service SDK’s local quickstart using the Components web console. |
-|[Debugging AEM SDK’s local quickstart using logs](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/logs.html)|Video tutorial|Learn about debugging AEM as a Cloud Service SDK’s local quickstart using the Bundles web console.| 
+|[Debugging AEM SDK’s local quickstart using logs](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/logs.html)|Video tutorial|Learn about debugging AEM as a Cloud Service SDK’s local quickstart using the Bundles web console.|
 |[Remote debugging the AEM as a Cloud Service SDK’s local quickstart](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/remote-debugging.html)|Video tutorial|Learn bout remote Java debugging from your IDE, allowing you to step through live code execution in AEM to understand the exact execution flow.|
-|[Smart Tag Setup](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/metadata/smart-tags-technical-video-setup.html)|Video tutorial|Step-by-step instructions to integrate Adobe Experience Manager (AEM) with the Smart Content Service using Adobe I/O. | 
+|[Smart Tag Setup](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/metadata/smart-tags-technical-video-setup.html)|Video tutorial|Step-by-step instructions to integrate Adobe Experience Manager (AEM) with the Smart Content Service using Adobe I/O. |
 |[Batch generation of documents](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/interactive-communications/batch-generation-interactive-communications.html)|Article|Learn about using the Batch API to produce multiple interactive communications from a template. |
-|[Creating Print channel document in AEM Forms](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/ic-print-channel-tutorial/introduction.html)|Article|Learn the steps needed to create an interactive communication for the print channel. | 
+|[Creating Print channel document in AEM Forms](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/ic-print-channel-tutorial/introduction.html)|Article|Learn the steps needed to create an interactive communication for the print channel. |
 |[Access Adobe Asset Link](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html)|Video tutorial|Learn about accessing content stored in Adobe Experience Manager Assets (AEM Assets), without leaving the Creative Cloud desktop apps you are most familiar with. |
-|[Asset Link Panel Overview](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/panel-overview.html)|Video tutorial|Adobe Asset Link provides creative users with the ability to browse, search, check out, and check in assets stored in AEM Assets using the in-app panel in InDesign, Photoshop, and Illustrator. Get introduced to Adobe Asset Link panel's UI and its capabilities. | 
+|[Asset Link Panel Overview](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/panel-overview.html)|Video tutorial|Adobe Asset Link provides creative users with the ability to browse, search, check out, and check in assets stored in AEM Assets using the in-app panel in InDesign, Photoshop, and Illustrator. Get introduced to Adobe Asset Link panel's UI and its capabilities. |
 |[Asset Search](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/asset-search.html)|Video tutorial|Creative users can search for assets stored in AEM Assets using keywords, or perform a search under a specific location.|
 |[File Versioning and Comments](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/file-versioning-and-comments.html)|Video tutorial|Using the Adobe Asset Link panel, you can access file details for assets in AEM Assets, such as thumbnail, basic metadata, and versions from within the panel.  |
-|[Check-In Check-Out](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/check-in-check-out.html)|Video tutorial|Adobe Asset lets you check out AEM Assets directly from the creative app you are working on, and can immediately begin making edits.| 
+|[Check-In Check-Out](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/check-in-check-out.html)|Video tutorial|Adobe Asset lets you check out AEM Assets directly from the creative app you are working on, and can immediately begin making edits.|
 |[For Placement Only Rendition for AEM Assets](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/for-placement-only.html)|Video tutorial|Explore how to create and use a For Placement Only (FPO) rendition for AEM assets. |
-|[Place Copy](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/place-copy.html)|Video tutorial|Learn how to use assets from AEM Assets using the Place Copy operation. | 
+|[Place Copy](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/place-copy.html)|Video tutorial|Learn how to use assets from AEM Assets using the Place Copy operation. |
 |[Download and Upload](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/download-and-upload.html)|Video tutorial|Learn how to download and upload asset files from and to AEM Assets using the Asset Link panel. |
-|[Files and Collections](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/files-and-collections.html)|Video tutorial|Learn how to quickly and easily access AEM Assets Files and Collections from within the Asset Link panel. | 
+|[Files and Collections](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/files-and-collections.html)|Video tutorial|Learn how to quickly and easily access AEM Assets Files and Collections from within the Asset Link panel. |
 |[Download](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/sharing/download.html)|Video tutorial|Learn how to download assets and their renditions to your local machine for use and sharing. |
 
 ### Additional resources
