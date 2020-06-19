@@ -146,7 +146,7 @@ For the latest release updates, see [Journey Orchestration release notes](https:
 
 ## ![Icon](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-Updated **June 10, 2020**
+Release date: **June 18, 2020**
 
 * [New features in Adobe Analytics](#aa-features)
 * [New features in Customer Journey Analytics](#cust-journey)
