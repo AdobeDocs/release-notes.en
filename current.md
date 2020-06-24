@@ -453,11 +453,23 @@ Updated **June 3, 2020**
 
 ### New features in Advertising Cloud DSP {#adcloud-dsp}
 
+Updated **June 23, 2020**
+
 | Feature    | Description  |
 | -----------| ---------- |
+| Domain Migration | (June 22 release) The Advertising Cloud DSP has migrated from https://www.tubemogul.com to [https://advertising.adobe.com](https://advertising.adobe.com). |
+| Adobe Analytics integration | (June 18 release) DSP can now optionally suppress the AMO Cost metric from the data it sends to Analytics. To suppress the metric, contact your Adobe account manager. |
+| People Based Device Graph | (June 22 release) Self-serve DSP customers can now leverage a device graph (either Adobe Experience Cloud Device Co-op or LiveRamp) for people-based targeting and frequency management across any new campaigns. This will ensure that you reach your audiences across their owned devices, and can limit their ad exposure. |
+| CCPA Opt-Out-of-Sale | (June 22 release) You can now communicate CCPA opt-out-of-sale requests to Advertising Cloud using a new CCPA opt-out-of-sale segment, which you can create from [!UICONTROL Audiences > Segments]. You can also retrieve monthly reports of IDs customers have submitted for opt-out-of-sale requests for the account a) from [!UICONTROL Audiences > Segments] or b) using the Advertising Cloud Trafficking API. For more information, see [https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html.](https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html) |
+| DoubleVerify Authentic Brand Safety | (June 22 release) Advertisers can now target a single DoubleVerify segment ID pre-bid, with comprehensive brand safety filters to mimic their post-bid blocking rules with DoubleVerify. You can now do so in the Media Quality targeting section of the advertiser settings at [!UICONTROL Settings > Advertiser]. To learn more about the service, contact programmaticsales@doubleverify.com. Additional fees apply for this feature. |
+| CPA/ROAS Optimization | (May 20 release) Campaign managers no longer need to cap new placements within packages to prevent overallocation of budget. Placements now receive a dynamic budget allocation based on their CPM or CPA/ROAS performance. |
 | [!UICONTROL Campaign] Home | (June 3 release) New campaign-level pacing metrics based on the provided campaign budget and time elapsed are available. |
+| [!UICONTROL Placements] | (June 22 release) The Site Diversity and Player Size filters were removed to simplify placement setup. |
 | Placement Forecasting | (June 3 release) For CTV and video placements with placement-level optimization, the placement settings now include forecasting for multiple ad lengths (15 sec and 30 sec). They also include forecasting for both VAST and VPAID inventory. |
-| CPA/ROAS Optimization | (May 20 release) Campaign managers no longer need to cap new placements within packages to prevent overallocation of budget. Placements now receive a dynamic budget allocation based on their CPM or CPA/ROAS performance. |
+| CPA/ROAS Optimization | (May 20 release) Campaign managers no longer need to cap new placements within packages to prevent overallocation of budget. Placements now receive a dynamic budget allocation based on their CPM or CPA/ROAS performance. |
+| [!UICONTROL Inventory] | (June 22 beta release) A new deal ID form allows you to quickly set up a private deal you’ve already negotiated.|
+| | (June 22 beta release)  Interactive pre-roll is now available for VAST inventory. You can set up a single interactive pre-roll ad and placement, reducing the number of your ads and placements. |
+| ACTV Audience Lens | (June 18 release) Audience Lenses allows users to create and apply secondary audience reads to their planning, ordering and reporting workflows. This enables them to (1) gain quick insights into secondary audiences, (2) have flexibility to transact on preferred audiences and (3) measure a campaign’s execution through the “lens” of multiple audiences. |
 
 ### New features in [!UICONTROL Advertising Cloud Search] {#adcloud-search}
 
