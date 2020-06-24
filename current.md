@@ -1,11 +1,9 @@
 ---
-
 title: Adobe Experience Cloud Release Notes
 description: Adobe Experience Cloud release notes
 doc-type: release notes
 last-update: June 2020
 author: mfrei
-
 ---
 
 # Adobe Experience Cloud Release Notes - June 2020 
