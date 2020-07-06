@@ -1,22 +1,16 @@
 ---
-
 title: Adobe Experience Cloud Release Notes
-description: Template for Experience Cloud release notes
+description: Adobe Experience Cloud release notes
 doc-type: release notes
 last-update: June 2020
 author: mfrei
-
 ---
 
-# Early Access - Adobe Experience Cloud Release Notes - June 2020
+# Adobe Experience Cloud Release Notes - June 2020 
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
 This page describes new features, fixes, and important notices in [!DNL Adobe Experience Cloud]. It also highlights new documentation, training courses, and video tutorials to help you get the most out of Experience Cloud.
-
->[!IMPORTANT]
->
->This page contains pre-release content and is subject to change prior to the planned release.
 
 >[!NOTE]
 >
@@ -26,13 +20,13 @@ This page describes new features, fixes, and important notices in [!DNL Adobe Ex
 
 Product release dates may vary. Check back frequently for updates.
 
-Latest update: **June 12, 2020**
+Latest update: **June 18, 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud interface](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics)
+* [Analytics](#analytics) (and [Customer Journey Analytics](#cust-journey))
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -135,7 +129,7 @@ Using Adobe Experience Platform, orchestrate individual customer journeys at sca
 
 ### Latest release
 
-Q2 release has been published. [Learn more](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html)
+For the latest release updates, see [Journey Orchestration release notes](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html)
 
 ### New Journey Orchestration courses and tutorials {#jo-tutorials}
 
@@ -150,11 +144,11 @@ Q2 release has been published. [Learn more](https://docs.adobe.com/content/help/
 
 ## ![Icon](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-Updated **June 10, 2020**
+Release date: **June 18, 2020**
 
 * [New features in Adobe Analytics](#aa-features)
 * [New features in Customer Journey Analytics](#cust-journey)
-* [New features in Media Analytics](#media-aa) 
+* [New features in Media Analytics](#media-aa)
 * [Fixes in Adobe Analytics](#aa-fixes)
 * [Important notices for Analytics administrators](#aa-notices)
 * [New Adobe Analytics courses and tutorials](#tutorials-analytics)
@@ -164,41 +158,40 @@ Updated **June 10, 2020**
 
 | Feature    | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html)- Target Date |Description  |
 | -----------| ---------- |-------|
-| Attribution IQ: [!UICONTROL Algorithmic Attribution] |June 18, 2020| The [!UICONTROL Algorithmic Attribution] model in [!UICONTROL Analysis Workspace] uses statistical techniques to dynamically determine the optimal allocation of credit for the selected metric. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
-| Attribution IQ: Custom lookback windows |June 18, 2020| You can now configure any attribution model in [!UICONTROL Attribution IQ] to include touch-points from up to 90 days before the reporting time period. This will typically increase the attribution accuracy for events that happen early in the reporting period by accounting for interactions that occurred in the prior month(s). [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/attribution.html#lookback-windows)|
-| Project roles for shared [!UICONTROL Workspace] projects | June 18, 2020 |When sharing a [!UICONTROL Workspace] project, you can now place recipients in one of three project roles, depending on the project experience you want them to have: Edit, Duplicate and View. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html)|
-|View-only [!UICONTROL Workspace] projects|June 18, 2020|[!UICONTROL Workspace] projects can be shared to users as _[!UICONTROL Can View]_ only. When a View recipient opens the shared project, they receive a more restrictive project experience with no left rail and limited interactions. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html)|
-|Ability to co-edit [!UICONTROL Workspace] projects|June 18, 2020|Recipients added to the _[!UICONTROL Can Edit]_ role can save over a project that has been shared to them. This extends to both admins and non-admins. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html)|
-|Updated Blank panel in [!UICONTROL Workspace]|June 18, 2020|The Blank panel in [!UICONTROL Workspace] now includes panels and visualizations, giving you a more seamless way to pick the analysis workflow that works best for you.|
-| First-party domains available in China RDC | June 18, 2020 |Enables customers with a `.cn` domain to request a 1st-party domain for use inside of Mainland China. (Documentation available with the purchase of China Performance Optimization SKU.)|
-|Quick Insights panel in [!UICONTROL Workspace]|June 25, 2020|Quick Insights provides guidance for non-analysts and new users of [!UICONTROL Analysis Workspace] to learn how to answer business questions quickly and easily. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html)|
-|[!UICONTROL Analytics for Target] panel in [!UICONTROL Workspace]|June 25, 2020|The [!UICONTROL Analytics for Target] (A4T) panel lets you analyze your Adobe Target activities and experiences in [!UICONTROL Analysis Workspace]. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/a4t-panel.html)|
+| Attribution IQ: Algorithmic Attribution |June 18, 2020| The [!UICONTROL Algorithmic Attribution] model in Analysis Workspace uses statistical techniques to dynamically determine the optimal allocation of credit for the selected metric. Available to Adobe Analytics Ultimate customers. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
+| Attribution IQ: Custom lookback windows |June 18, 2020| You can now configure any attribution model in [!UICONTROL Attribution IQ] to include touchpoints from up to 90 days before the reporting time period. This will typically increase the attribution accuracy for events that happen early in the reporting period by accounting for interactions that occurred in the prior month(s). Available to Adobe Analytics Foundation, Select, Prime, Premium, Premium Attribution, Premium Complete, and Ultimate customers. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/attribution.html#lookback-windows)|
+| Project roles for shared Workspace projects | June 18, 2020 |When sharing a Workspace project, you can now place recipients in one of three project roles, depending on the project experience you want them to have: Edit, Duplicate and View. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html)|
+|View-only Workspace projects|June 18, 2020|Workspace projects can be shared to users as “Can view” only. When a View recipient opens the shared project, they receive a more restrictive project experience, with no left rail and limited interactions. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html)|
+|Ability to co-edit Workspace projects|June 18, 2020|Recipients added to the “Can edit” role can save over a project that has been shared to them. This extends to both admins and non-admins. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html)|
+|Updated Blank panel in Workspace|June 18, 2020|The blank panel in Workspace now includes panels and visualizations, giving you a more seamless way to pick the analysis workflow that works best for you.|
+| First-party domains available in China RDC | June 18, 2020 |Enables customers with a `.cn` domain to request a 1st-party domain for use inside of Mainland China. (Documentation available with the purchase of "China Performance Optimization" SKU.)|
+|Quick Insights panel in Workspace|June 25, 2020|Quick Insights provides guidance for non-analysts and new users of Analysis Workspace to learn how to answer business questions quickly and easily. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html)|
+|Analytics for Target panel in Workspace|June 25, 2020|The Analytics for Target (A4T) panel lets you analyze your Adobe Target activities and experiences, with lift and confidence, in Analysis Workspace. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/a4t-panel.html)|
+|[!UICONTROL About Workspace] page|June 18,2020|The [!UICONTROL About Workspace] page provides information about your Analysis Workspace environment, about your Adobe Analytics administrators (if you need support), and a way to provide in-product feedback. It can be found under **[!UICONTROL Workspace]** > **[!UICONTROL Help]** > **[!UICONTROL About Workspace]**.|
 
 ### New features in Customer Journey Analytics {#cust-journey}
 
 | Feature    | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html)- Target Date |Description  |
 | -----------| ---------- |-----|
-| Attribution IQ: [!UICONTROL Algorithmic Attribution] |June 18, 2020| The [!UICONTROL Algorithmic Attribution] model in [!UICONTROL Analysis Workspace] uses statistical techniques to dynamically determine the optimal allocation of credit for the selected metric. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/algorithmic.html) |
-| Attribution IQ: Custom lookback windows |June 18, 2020| You can now configure any attribution model in [!UICONTROL Attribution IQ] to include touch-points from up to 90 days before the reporting time period. This will typically increase the attribution accuracy for events that happen early in the reporting period by accounting for interactions that occurred in the prior month(s). [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/attribution/attribution.html#lookback-windows)|
-|Support for [!UICONTROL Anomaly Detection]|June 18, 2020|[!UICONTROL Anomaly Detection] provides a statistical method to determine how a given metric has changed in relation to previous data. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html)|
-|Project roles for shared [!UICONTROL Workspace] projects | June 18, 2020 |When sharing a [!UICONTROL Workspace] project, you can now place recipients in one of three project roles, depending on the project experience you want them to have: Edit, Duplicate and View. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html)|
-|View-only [!UICONTROL Workspace] projects|June 18, 2020|[!UICONTROL Workspace] projects can be shared to users as _[!UICONTROL Can View]_ only. When a View recipient opens the shared project, they receive a more restrictive project experience with no left rail and limited interactions. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/view-only-projects.html)|
-|Ability to co-edit [!UICONTROL Workspace] projects|June 18, 2020|Recipients added to the _[!UICONTROL Can Edit]_ role can save over a project that has been shared to them. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/share-projects.html)|
-|Quick Insights panel in [!UICONTROL Workspace]|June 25, 2020|Quick Insights provides guidance for non-analysts and new users of [!UICONTROL Analysis Workspace] to learn how to answer business questions quickly and easily. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/quickinsight.html)|
+|Support for Object arrays|June 18, 2020|CJA customers can now report on dimensions and metrics that appear in Object arrays within their Adobe Experience Platform dataset schemas. [Learn more...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-usecases/object-arrays.html)|
+| Attribution IQ: [!UICONTROL Algorithmic Attribution] |June 18, 2020| The [!UICONTROL Algorithmic Attribution] model in [!UICONTROL Analysis Workspace] uses statistical techniques to dynamically determine the optimal allocation of credit for the selected metric. Available to Adobe Analytics Ultimate customers. [Learn more...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/attribution/algorithmic.html) |
+| Attribution IQ: Custom lookback windows |June 18, 2020| You can now configure any attribution model in [!UICONTROL Attribution IQ] to include touch-points from up to 90 days before the reporting time period. This will typically increase the attribution accuracy for events that happen early in the reporting period by accounting for interactions that occurred in the prior month(s). [Learn more...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/attribution/models.html)|
+|Project roles for shared [!UICONTROL Workspace] projects | June 18, 2020 |When sharing a [!UICONTROL Workspace] project, you can now place recipients in one of three project roles, depending on the project experience you want them to have: Edit, Duplicate and View. [Learn more...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/curate-share/share-projects.html)|
+|View-only [!UICONTROL Workspace] projects|June 18, 2020|[!UICONTROL Workspace] projects can be shared to users as _[!UICONTROL Can View]_ only. When a View recipient opens the shared project, they receive a more restrictive project experience with no left rail and limited interactions. [Learn more...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/curate-share/view-only-projects.html)|
+|Ability to co-edit [!UICONTROL Workspace] projects|June 18, 2020|Recipients added to the _[!UICONTROL Can Edit]_ role can save over a project that has been shared to them. [Learn more...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/curate-share/share-projects.html)|
+|Quick Insights panel in [!UICONTROL Workspace]|June 25, 2020|Quick Insights provides guidance for non-analysts and new users of [!UICONTROL Analysis Workspace] to learn how to answer business questions quickly and easily. [Learn more...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/panels/quickinsight.html)|
+|[!UICONTROL About Workspace] page|June 18,2020|The [!UICONTROL About Workspace] page provides information about your Analysis Workspace environment, about your Adobe Analytics administrators (if you need support), and a way to provide in-product feedback. It can be found under **[!UICONTROL Workspace]** > **[!UICONTROL Help]** > **[!UICONTROL About Workspace]**.|
+
+<!-->Support for [!UICONTROL Anomaly Detection] - July ??, 2020 - [!UICONTROL Anomaly Detection] provides a statistical method to determine how a given metric has changed in relation to previous data. [Learn more...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html)<-->
 
 ### New features in [!UICONTROL Media Analytics] {#media-aa}
 
-Date updated: **May 29, 2020**
+Date updated: **June 18, 2020**
 
-**Player State Tracking:** [!UICONTROL Media Analytics] customers can capture viewer interaction during playback using a standard set of solution variables for full screen, closed captioning, mute, picture-in-picture, and in-focus. You also have the flexibility to create custom player states. Player State Tracking variables are now available for reporting in [!UICONTROL Analysis Workspace]. This feature requires one of the following:
-
-* Media [!DNL JavaScript] SDK 3.0 or higher
-* For use with the [!DNL Adobe Experience Platform] (AEP) SDK:
-  * [!UICONTROL Media Analytics Extension] (for web): [!UICONTROL Adobe Media Analytics] (3.x SDK) for Audio and Video v1.0 or higher
-  * [!UICONTROL Media Analytics Extension] (for mobile): [!UICONTROL Adobe Media Analytics for Audio] and Video v2.0 or higher
-* [!UICONTROL Media Collection]
-
-See [About Player State Tracking](https://docs.adobe.com/content/help/en/media-analytics/using/player-state-tracking/player-state-overview.html).
+|Feature |[General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html)- Target Date | Description |
+| -----------| ---------- | ---------- |
+|[Supported devices and platforms](https://docs.adobe.com/content/help/en/media-analytics/using/supported-devices.html)|June 18, 2020  |The Media Launch Extension w/ AEP SDK now supports the following OTT devices:<ul><li>Apple TV (tvOS)</li><li>Fire TV (Fire OS)</li><li>Android TV</li></ul>||[Supported devices and platforms](https://docs.adobe.com/content/help/en/media-analytics/using/supported-devices.html)|June 18, 2020  |The Media Launch Extension w/ AEP SDK now supports the following OTT devices:<ul><li>Apple TV (tvOS)</li><li>Fire TV (Fire OS)</li><li>Android TV</li></ul>|
+|[Player State Tracking](https://docs.adobe.com/content/help/en/media-analytics/using/player-state-tracking/player-state-overview.html)|May 29, 2020 |[!UICONTROL Media Analytics] customers can capture viewer interaction during playback using a standard set of solution variables for full screen, closed captioning, mute, picture-in-picture, and in-focus. You also have the flexibility to create custom player states. Player State Tracking variables are now available for reporting in [!UICONTROL Analysis Workspace]. This feature requires one of the following: <ul><li>Media [!DNL JavaScript] SDK 3.0 or higher</li><li>For use with the [!DNL Adobe Experience Platform] (AEP) SDK:</li><li>[!UICONTROL Media Analytics Extension] (for web): [!UICONTROL Adobe Media Analytics] (3.x SDK) for Audio and Video v1.0 or higher</li><li>[!UICONTROL Media Analytics Extension] (for mobile): [!UICONTROL Adobe Media Analytics for Audio] and Video v2.0 or higher</li><li>[!UICONTROL Media Collection]</li></ul>|
 
 ### Fixes in Adobe Analytics {#aa-fixes}
 
@@ -225,7 +218,7 @@ AN-218269; AN-218455; AN-218492; AN-219888; AN-220447; AN-220546; AN-220788; AN-
 
 | Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- |
-|Migration to unified product domain|Effective date: May 28, 2020|The migration to a unified product domain for Adobe Analytics, which began in January 2020, completed on May 28, 2020. While Adobe Analytics works to remove all `omniture.com` domain references from its architecture, it is important to allowlist (formerly, allowlist) `omniture.com` as a third-party cookie. When the full architecture migration is (soon) completed, we will notify you via the release notes and this allowlist step will no longer be needed. [Here](https://helpx.adobe.com/analytics/kb/adobe-ip-addresses.html) is a full list of recommended IP addresses and domains that you should allowlist.<br>If your organization blocks third-party cookies, please reach out to Customer Care to regain your access to Adobe Analytics.|
+|Migration to unified product domain|Effective date: May 28, 2020|The migration to a unified product domain for Adobe Analytics, which began in January 2020, completed on May 28, 2020. While Adobe Analytics works to remove all `omniture.com` domain references from its architecture, it is important to allowlist `omniture.com` as a third-party cookie. When the full architecture migration is (soon) completed, we will notify you via the release notes and this allowlist step will no longer be needed. [Here](https://helpx.adobe.com/analytics/kb/adobe-ip-addresses.html) is a full list of recommended IP addresses and domains that you should allowlist.<br>If your organization blocks third-party cookies, please reach out to Customer Care to regain your access to Adobe Analytics.|
 |New Adobe Analytics default landing page|Effective Date: June 18, 2020|On June 18, 2020, the default landing page for Adobe Analytics will change from [!UICONTROL Reports] to [!UICONTROL Workspace]. This change will occur for any users who have not previously set a custom landing page.|
 |Third-party technology allowlist|March 12, 2020 (effective date)|Adobe Analytics has begun leveraging third-party technologies for feature rollout management and in-product support. The following URLs should be added to any necessary network firewall allowlists to ensure full feature access:<ul><li>Gainsight: https://esp.aptrinsic.com</li><li>LaunchDarkly: https://app.launchdarkly.com</li></ul>|
 |Improved redundancy for [!UICONTROL Analysis Workspace] availability|May 21, 2020|In order to ensure availability of [!UICONTROL Analysis Workspace], we are adding a secondary CDN (Content Delivery Network) for improved redundancy. The following URLs should be added to any necessary network firewall allowlists:<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul>|
@@ -240,7 +233,7 @@ AN-218269; AN-218455; AN-218492; AN-219888; AN-220447; AN-220546; AN-220788; AN-
 New courses, tutorial videos, and articles in Analytics and Customer Journey Analytics.
 
 |Content |Content Type | Description |
-| -----------| ---------- | ---------- | 
+| -----------| ---------- | ---------- |
 |[Getting Started with Customer Journey Analytics for Users](https://experienceleague.adobe.com/?recommended=CustomerJourneyAnalytics-U-1-2020.1)|Course  |In this course, you will learn how to use Customer Journey Analytics (CJA) to analyze data from many different data sources. You will learn about the differences between Adobe Analytics and Customer Journey Analytics, and how the data is handled in CJA. After taking this course, you should be able to create and customize cross channel visualizations for increased understanding of your customers. |
 |[Getting Started with Customer Journey Analytics for Administrators](https://experienceleague.adobe.com/?recommended=CustomerJourneyAnalytics-A-1-2020.1)|Course |Learn how to configure and use [!UICONTROL Journey Orchestration]. This course covers the key concepts and the configuration steps required to enable the orchestration of a Journey. You will learn how to create, publish and how to report and analyze your orchestrated Journeys. |
 |[Getting Started with Customer Journey Analytics for Data Engineers](https://experienceleague.adobe.com/?recommended=CustomerJourneyAnalytics-D-1-2020.1)|Course |In this course, you will learn about the data coming into Customer Journey Analytics and how it affects the reports for the analyst. This course builds upon your general knowledge of the Adobe Experience Platform.|
@@ -284,7 +277,7 @@ These updates are available only to users logging in using Adobe ID. To switch t
 * Updated the [!UICONTROL Audience Marketplace Terms & Conditions] to reflect legal requirements in specific geographies. (AAM-54518)
 * Fixed an issue where accessing the [!UICONTROL Traits] page from bookmarks would result in a 404 error. (AAM-54768)
 * Fixed an issue where the Destination Update API would time out while retrieving [!UICONTROL Algorithmic Models]. (AAM-54342)
-* Users can now see a model classification accuracy indicator for [!UICONTROL Smart Personas]. (AAM-54847) 
+* Users can now see a model classification accuracy indicator for [!UICONTROL Smart Personas]. (AAM-54847)
 * Fixed an issue where pressing Enter after adding a trait expression would remove the expression instead of saving it. (AAM-54210)
 * Fixed an issue where calls to the GET method of the [!UICONTROL Traits] API would fail for users who did not have the VIEW_MODELS permission. (AAM-53104)
 * Fixed an issue where users could not delete [!UICONTROL Algorithmic Models] that contained [!UICONTROL Folder Traits]. (AAM-50192)
@@ -315,7 +308,7 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 
     AEM 6.5, Service Pack 5 (6.5.5.0 released June 04, 2020) is an important update that includes new features, key customer-requested enhancements, and performance, stability, security improvements, released since the general availability of AEM 6.5 in April 2019.
 
-    * [Release Notes](https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html) 
+    * [Release Notes](https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html)
     * [AEM Forms release deliverables](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
 * **AEM 6.4.8.1**
@@ -333,7 +326,7 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 
     Highlights include:
 
-    * AEM Sites Commerce Integration Framework. 
+    * AEM Sites Commerce Integration Framework.
     * Enhanced Smart Tags and new in UI guided training experience.
     * Adobe Asset Link support for Adobe Xd.
     * AEM Assets Dynamic Media 3D support.
@@ -344,8 +337,8 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 
     With the goal of reducing time and cost to transition from on-premise to Cloud Service, two transition tools were launched this month. These tools are designed to automate some of the key tasks during transition process and hence, reducing the overall effort. .
 
-    1. [Using Content Transfer Tool](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html) (available on SD)  streamlines the content transfer activity and makes it scalable. With a user-friendly UI, the tool is self-service for existing customers and partners (on-prem/AMS) that are transitioning to AEM as a Cloud Service. 
-    1. [AMS Dispatcher Converter](https://github.com/adobe/aem-cloud-service-dispatcher-converter) (Open-source) tool to automate converting AMS Dispatcher configurations to Cloud Service Dispatcher configurations. 
+    1. [Using Content Transfer Tool](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html) (available on SD)  streamlines the content transfer activity and makes it scalable. With a user-friendly UI, the tool is self-service for existing customers and partners (on-prem/AMS) that are transitioning to AEM as a Cloud Service.
+    1. [AMS Dispatcher Converter](https://github.com/adobe/aem-cloud-service-dispatcher-converter) (Open-source) tool to automate converting AMS Dispatcher configurations to Cloud Service Dispatcher configurations.
 
     [Release notes for AEM as a Cloud Service 2020.6.0](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
 
@@ -355,9 +348,9 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 
     https://docs.adobe.com/content/help/en/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-content-transfer-tool.html
 
-* **Core Componentes**
+* **Core Components**
 
-    Core Components release 2.9.0 introduces integration with the [Adobe Client Data Layer](https://github.com/adobe/adobe-client-data-layer) and a new Progress Bar Component and is now available along with [authoring documentation](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html) and [developer details and project download available on GitHub](https://github.com/adobe/aem-core-wcm-components).
+    Core Components 2.9.0 introduces integration with the [Adobe Client Data Layer](https://github.com/adobe/adobe-client-data-layer) and a new Progress Bar Component and is now available along with [authoring documentation](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html) and [developer details and project download available on GitHub](https://github.com/adobe/aem-core-wcm-components).
 
 * **Moving to AEM as a Cloud Service**
 
@@ -399,20 +392,20 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 |[AEM Project Structure](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/developing/aem-project-content-package-structure.html)|Article|Describes the changes required to Adobe Experience Manager Maven projects so that they are AEM Cloud Service compatible. |
 |[Sling Models](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/osgi-web-consoles.html#sling-models)|Video tutorial|Learn about debugging AEM as a Cloud Service SDK’s local quickstart using the Sling Models web console.|
 |[AEM Web Console Components](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/osgi-web-consoles.html#components)|Video tutorial|Learn about debugging AEM as a Cloud Service SDK’s local quickstart using the Components web console. |
-|[Debugging AEM SDK’s local quickstart using logs](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/logs.html)|Video tutorial|Learn about debugging AEM as a Cloud Service SDK’s local quickstart using the Bundles web console.| 
+|[Debugging AEM SDK’s local quickstart using logs](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/logs.html)|Video tutorial|Learn about debugging AEM as a Cloud Service SDK’s local quickstart using the Bundles web console.|
 |[Remote debugging the AEM as a Cloud Service SDK’s local quickstart](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/debugging/debugging-aem-sdk-local-quickstart/remote-debugging.html)|Video tutorial|Learn bout remote Java debugging from your IDE, allowing you to step through live code execution in AEM to understand the exact execution flow.|
-|[Smart Tag Setup](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/metadata/smart-tags-technical-video-setup.html)|Video tutorial|Step-by-step instructions to integrate Adobe Experience Manager (AEM) with the Smart Content Service using Adobe I/O. | 
+|[Smart Tag Setup](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/metadata/smart-tags-technical-video-setup.html)|Video tutorial|Step-by-step instructions to integrate Adobe Experience Manager (AEM) with the Smart Content Service using Adobe I/O. |
 |[Batch generation of documents](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/interactive-communications/batch-generation-interactive-communications.html)|Article|Learn about using the Batch API to produce multiple interactive communications from a template. |
-|[Creating Print channel document in AEM Forms](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/ic-print-channel-tutorial/introduction.html)|Article|Learn the steps needed to create an interactive communication for the print channel. | 
+|[Creating Print channel document in AEM Forms](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/ic-print-channel-tutorial/introduction.html)|Article|Learn the steps needed to create an interactive communication for the print channel. |
 |[Access Adobe Asset Link](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link.html)|Video tutorial|Learn about accessing content stored in Adobe Experience Manager Assets (AEM Assets), without leaving the Creative Cloud desktop apps you are most familiar with. |
-|[Asset Link Panel Overview](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/panel-overview.html)|Video tutorial|Adobe Asset Link provides creative users with the ability to browse, search, check out, and check in assets stored in AEM Assets using the in-app panel in InDesign, Photoshop, and Illustrator. Get introduced to Adobe Asset Link panel's UI and its capabilities. | 
+|[Asset Link Panel Overview](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/panel-overview.html)|Video tutorial|Adobe Asset Link provides creative users with the ability to browse, search, check out, and check in assets stored in AEM Assets using the in-app panel in InDesign, Photoshop, and Illustrator. Get introduced to Adobe Asset Link panel's UI and its capabilities. |
 |[Asset Search](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/asset-search.html)|Video tutorial|Creative users can search for assets stored in AEM Assets using keywords, or perform a search under a specific location.|
 |[File Versioning and Comments](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/file-versioning-and-comments.html)|Video tutorial|Using the Adobe Asset Link panel, you can access file details for assets in AEM Assets, such as thumbnail, basic metadata, and versions from within the panel.  |
-|[Check-In Check-Out](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/check-in-check-out.html)|Video tutorial|Adobe Asset lets you check out AEM Assets directly from the creative app you are working on, and can immediately begin making edits.| 
+|[Check-In Check-Out](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/check-in-check-out.html)|Video tutorial|Adobe Asset lets you check out AEM Assets directly from the creative app you are working on, and can immediately begin making edits.|
 |[For Placement Only Rendition for AEM Assets](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/for-placement-only.html)|Video tutorial|Explore how to create and use a For Placement Only (FPO) rendition for AEM assets. |
-|[Place Copy](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/place-copy.html)|Video tutorial|Learn how to use assets from AEM Assets using the Place Copy operation. | 
+|[Place Copy](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/place-copy.html)|Video tutorial|Learn how to use assets from AEM Assets using the Place Copy operation. |
 |[Download and Upload](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/download-and-upload.html)|Video tutorial|Learn how to download and upload asset files from and to AEM Assets using the Asset Link panel. |
-|[Files and Collections](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/files-and-collections.html)|Video tutorial|Learn how to quickly and easily access AEM Assets Files and Collections from within the Asset Link panel. | 
+|[Files and Collections](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/adobe-asset-link/files-and-collections.html)|Video tutorial|Learn how to quickly and easily access AEM Assets Files and Collections from within the Asset Link panel. |
 |[Download](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/sharing/download.html)|Video tutorial|Learn how to download assets and their renditions to your local machine for use and sharing. |
 
 ### Additional resources
@@ -432,33 +425,21 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 
 Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
 
-### Campaign Standard
+### New product releases
 
-#### New Campaign Standard courses and tutorials
+[Adobe Campaign Classic 20.2 release](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html) incldues:
+
+* _Support of Emoticon_ – _Azure Synapse FDA Connector_ – _New privacy regulations_
+* Campaign Control Panel: [Active profile monitoring](https://docs.adobe.com/content/help/en/control-panel/using/performance-monitoring/active-profiles-monitoring.html)
+
+### New Campaign courses and tutorials
 
 |Content |Content Type | Description |
 | -----------| ---------- | ---------- |  
 |[Getting Started with Adobe Campaign Standard for Business Users](https://experienceleague.adobe.com/?recommended=Campaign-U-1-2020.1.standard)|Course|Learn how to navigate the interface, work with deliveries, and create and manage recipient data. |
+|[Install and setup the Adobe Campaign Client](https://experienceleague.adobe.com/?recommended=Campaign-U-1-2020.1.standard)|Video|Learn how to download and install the Adobe Campaign Client console, create and manage your connections to multiple environments, and verify access to the Adobe Campaign Client console |
 
-### Campaign Classic
-
-#### Latest release
-
-[Adobe Campaign Classic 20.2 release](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html)
-
-#### Campaign Classic tutorials
-
-|Content |Content Type | Description |
-| -----------| ---------- | ---------- |  
-|[Install and setup the Adobe Campaign Client](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/install-and-setup-the-adobe-campaign-client.html)| Video tutorial |Learn how to download and install the Adobe Campaign Client console, create and manage your connections to multiple environments, and verify access to the Adobe Campaign Client console.|
-
-### Campaign Control Panel
-
-| Feature    | Description  |
-| -----------| ---------- |  
-| Active Profiles monitoring |Control Panel enables you to monitor the active profiles usage for each of your Campaign instances. This feature is in beta and available to customers hosted on AWS from Campaign Standard 10368 build and Campaign Classic 8931 build. [Learn more](https://docs.adobe.com/content/help/en/control-panel/using/performance-monitoring/active-profiles-monitoring.html) | 
-
-### Campaign help resources
+### Help resources
 
 * Adobe Campaign Standard: [Help Center](https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html) - [Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html) - [Release Planning](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-planning.html) - [Latest documentation updates](https://docs.adobe.com/content/help/en/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Help Center](https://docs.adobe.com/content/help/en/campaign-classic/using/campaign-classic-home.html) - [Release Notes](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html) - [How-to videos](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/overview.html)- [Latest documentation updates](https://docs.adobe.com/content/help/en/campaign-classic/using/documentation-updates.html)
@@ -466,18 +447,27 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 ## ![Icon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
-Updated **June 3, 2020**
-
 * [New features in Advertising Cloud DSP](#adcloud-dsp)
 * [New features in Advertising Cloud Search](#adcloud-search)
 
 ### New features in Advertising Cloud DSP {#adcloud-dsp}
 
+Updated **June 23, 2020**
+
 | Feature    | Description  |
 | -----------| ---------- |
+| Domain Migration | (June 22 release) The Advertising Cloud DSP has migrated from https://www.tubemogul.com to [https://advertising.adobe.com](https://advertising.adobe.com). |
+| Adobe Analytics integration | (June 18 release) DSP can now optionally suppress the AMO Cost metric from the data it sends to Analytics. To suppress the metric, contact your Adobe account manager. |
+| People Based Device Graph | (June 22 release) Self-serve DSP customers can now leverage a device graph (either Adobe Experience Cloud Device Co-op or LiveRamp) for people-based targeting and frequency management across any new campaigns. This will ensure that you reach your audiences across their owned devices, and can limit their ad exposure. |
+| CCPA Opt-Out-of-Sale | (June 22 release) You can now communicate CCPA opt-out-of-sale requests to Advertising Cloud using a new CCPA opt-out-of-sale segment, which you can create from [!UICONTROL Audiences > Segments]. You can also retrieve monthly reports of IDs customers have submitted for opt-out-of-sale requests for the account a) from [!UICONTROL Audiences > Segments] or b) using the Advertising Cloud Trafficking API. For more information, see https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html. |
+| DoubleVerify Authentic Brand Safety | (June 22 release) Advertisers can now target a single DoubleVerify segment ID pre-bid, with comprehensive brand safety filters to mimic their post-bid blocking rules with DoubleVerify. You can now do so in the Media Quality targeting section of the advertiser settings at [!UICONTROL Settings > Advertiser]. To learn more about the service, contact programmaticsales@doubleverify.com. Additional fees apply for this feature. |
+| CPA/ROAS Optimization | (May 20 release) Campaign managers no longer need to cap new placements within packages to prevent overallocation of budget. Placements now receive a dynamic budget allocation based on their CPM or CPA/ROAS performance. |
 | [!UICONTROL Campaign] Home | (June 3 release) New campaign-level pacing metrics based on the provided campaign budget and time elapsed are available. |
+| [!UICONTROL Placements] | (June 22 release) The Site Diversity and Player Size filters were removed to simplify placement setup. |
 | Placement Forecasting | (June 3 release) For CTV and video placements with placement-level optimization, the placement settings now include forecasting for multiple ad lengths (15 sec and 30 sec). They also include forecasting for both VAST and VPAID inventory. |
-| CPA/ROAS Optimization | (May 20 release) Campaign managers no longer need to cap new placements within packages to prevent overallocation of budget. Placements now receive a dynamic budget allocation based on their CPM or CPA/ROAS performance. |
+| [!UICONTROL Inventory] | (June 22 beta release) A new deal ID form allows you to quickly set up a private deal you’ve already negotiated.|
+| | (June 22 beta release)  Interactive pre-roll is now available for VAST inventory. You can set up a single interactive pre-roll ad and placement, reducing the number of your ads and placements. |
+| ACTV Audience Lens | (June 18 release) Audience Lenses allows users to create and apply secondary audience reads to their planning, ordering and reporting workflows. This enables them to (1) gain quick insights into secondary audiences, (2) have flexibility to transact on preferred audiences and (3) measure a campaign’s execution through the “lens” of multiple audiences. |
 
 ### New features in [!UICONTROL Advertising Cloud Search] {#adcloud-search}
 
