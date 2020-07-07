@@ -244,6 +244,10 @@ New courses, tutorial videos, and articles in Analytics and Customer Journey Ana
 |[Adobe Analytics dashboards Scorecard Builder](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html)|Video tutorial  |In this video, learn how to create and share [!UICONTROL Scorecards] in [!UICONTROL Analysis Workspace] to be viewed on Adobe Analytics dashboards (mobile app).|
 |[Adobe Analytics dashboards In-App Experience](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.html)|Video tutorial  |In this video, learn how to use Adobe Analytics dashboards (mobile app) to access and view [!UICONTROL Scorecards] created by or shared with you.|
 
+#### AppMeasurement {#appm}
+
+For the latest updates on AppMeasurement releases, please refer to [AppMeasurement for JavaScript release notes](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-updates.html).
+
 #### Analytics help resources
 
 * [Adobe Analytics Tutorials](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/overview.html)
