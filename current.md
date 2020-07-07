@@ -244,6 +244,10 @@ New courses, tutorial videos, and articles in Analytics and Customer Journey Ana
 |[Adobe Analytics dashboards Scorecard Builder](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.html)|Video tutorial  |In this video, learn how to create and share [!UICONTROL Scorecards] in [!UICONTROL Analysis Workspace] to be viewed on Adobe Analytics dashboards (mobile app).|
 |[Adobe Analytics dashboards In-App Experience](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.html)|Video tutorial  |In this video, learn how to use Adobe Analytics dashboards (mobile app) to access and view [!UICONTROL Scorecards] created by or shared with you.|
 
+#### AppMeasurement {#appm}
+
+For the latest updates on AppMeasurement releases, please refer to [AppMeasurement for JavaScript release notes](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-updates.html).
+
 #### Analytics help resources
 
 * [Adobe Analytics Tutorials](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/overview.html)
@@ -458,7 +462,7 @@ Updated **June 23, 2020**
 | -----------| ---------- |
 | Domain Migration | (June 22 release) The Advertising Cloud DSP has migrated from https://www.tubemogul.com to [https://advertising.adobe.com](https://advertising.adobe.com). |
 | Adobe Analytics integration | (June 18 release) DSP can now optionally suppress the AMO Cost metric from the data it sends to Analytics. To suppress the metric, contact your Adobe account manager. |
-| People Based Device Graph | (June 22 release) Self-serve DSP customers can now leverage a device graph (either Adobe Experience Cloud Device Co-op or LiveRamp) for people-based targeting and frequency management across any new campaigns. This will ensure that you reach your audiences across their owned devices, and can limit their ad exposure. |
+| People-Based Device Graph | (June 22 release) Self-serve DSP customers can now leverage a device graph (either Adobe Experience Cloud Device Co-op or LiveRamp) for people-based targeting and frequency management across any new campaigns. This will ensure that you reach your audiences across their owned devices, and can limit their ad exposure. |
 | CCPA Opt-Out-of-Sale | (June 22 release) You can now communicate CCPA opt-out-of-sale requests to Advertising Cloud using a new CCPA opt-out-of-sale segment, which you can create from [!UICONTROL Audiences > Segments]. You can also retrieve monthly reports of IDs customers have submitted for opt-out-of-sale requests for the account a) from [!UICONTROL Audiences > Segments] or b) using the Advertising Cloud Trafficking API. For more information, see https://docs.adobe.com/content/help/en/advertising-cloud/all/privacy/ad-cloud-ccpa-opt-out-of-sale.html. |
 | DoubleVerify Authentic Brand Safety | (June 22 release) Advertisers can now target a single DoubleVerify segment ID pre-bid, with comprehensive brand safety filters to mimic their post-bid blocking rules with DoubleVerify. You can now do so in the Media Quality targeting section of the advertiser settings at [!UICONTROL Settings > Advertiser]. To learn more about the service, contact programmaticsales@doubleverify.com. Additional fees apply for this feature. |
 | CPA/ROAS Optimization | (May 20 release) Campaign managers no longer need to cap new placements within packages to prevent overallocation of budget. Placements now receive a dynamic budget allocation based on their CPM or CPA/ROAS performance. |
