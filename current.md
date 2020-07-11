@@ -28,6 +28,7 @@ Latest update: **July 10, 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud interface](#ecloud)
+* [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
@@ -103,6 +104,15 @@ The following apps use the new experience.adobe.com domain:
 >[!NOTE]
 >
 >**[!UICONTROL Board & Collections]**, a legacy filter in [!UICONTROL Marketing Cloud Assets] selector, is being decommissioned.
+
+## ![Icon](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
+
+Release notes for the [!DNL Experience Platform] and application services, including [!DNL Experience Platform Launch,] [!UICONTROL Offers], [!UICONTROL People], [!UICONTROL Places], [!UICONTROL Mobile Services], and security bulletins.  
+
+Not updated
+Latest release date: **June 10, 2020**
+
+See [Experience Platform release notes](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md) for the latest information about Experience Platform.
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Journey Orchestration {#journey-orch}
 
