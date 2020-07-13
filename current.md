@@ -24,13 +24,13 @@ This page describes new features, fixes, and important notices in [!DNL Adobe Ex
 
 Product release dates may vary. Check back frequently for updates.
 
-Latest update: **July 10, 2020**
+Latest update: **July 13, 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud interface](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey)
+* [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey) (Updated July 13, 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -129,7 +129,7 @@ Release date: **July 16, 2020**
 * [New features in Customer Journey Analytics](#cust-journey)
 * [New features in Media Analytics](#media-aa)
 * [Fixes in Adobe Analytics](#aa-fixes)
-* [Important notices for Analytics administrators](#aa-notices)
+* [Important notices for Analytics administrators](#aa-notices) (Updated July 13, 2020)
 * [New Adobe Analytics courses and tutorials](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -177,6 +177,7 @@ AN-222672, AN-222813; AN-222892; AN-223272, AN-223432; AN-224062; AN-224108; AN-
 
 | Notice | Date Added or Updated  | Description |
 | -----------| ---------- | ---------- |
+|End-of-life: Adobe Data Connectors|July 13, 2020|Adobe Data Connectors are powered by legacy technology that is no longer viable or supported. We have a new standard in the [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud) that should be adopted for any integrations that wish to continue to be offered and supported. The official end-of-life date is still to be determined, but we anticipate it to be in the next 12-18 months (mid 2021 to end of 2021).|
 |Report suite mapping to IMS org | July 2020 | The report suite mapping tool will be discontinued in November 2020. This feature powers integrations such as Advertising Analytics and Experience Cloud segment publishing in Adobe Analytics. A report suite must be mapped to an IMS org to enable these and other services. Newer report suites are automatically mapped upon creation. However, older report suites must be manually mapped to an IMS org. See [Map report suites to an organization](https://docs.adobe.com/content/help/en/core-services/interface/about-core-services/report-suite-mapping.html) in the Core Services user guide to make sure all report suites belong to an IMS org. |
 |Migration to unified product domain|Effective date: May 28, 2020|The migration to a unified product domain for Adobe Analytics, which began in January 2020, completed on May 28, 2020. While Adobe Analytics works to remove all `omniture.com` domain references from its architecture, it is important to allowlist `omniture.com` as a third-party cookie. When the full architecture migration is (soon) completed, we will notify you via the release notes and this allowlist step will no longer be needed. [Here](https://helpx.adobe.com/analytics/kb/adobe-ip-addresses.html) is a full list of recommended IP addresses and domains that you should allowlist.<br>If your organization blocks third-party cookies, please reach out to Customer Care to regain your access to Adobe Analytics.|
 |New Adobe Analytics default landing page|Effective Date: June 18, 2020|On June 18, 2020, the default landing page for Adobe Analytics will change from [!UICONTROL Reports] to [!UICONTROL Workspace]. This change will occur for any users who have not previously set a custom landing page.|
