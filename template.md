@@ -15,10 +15,12 @@ author: mfrei
 New features and fixes in the Adobe Experience Cloud.
 
 >[!IMPORTANT]
->>This page contains pre-release content and is subject to change prior to the planned release.
+>
+>This page contains pre-release content and is subject to change prior to the planned release.
 
 >[!NOTE]
->>Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. New information published after the release will be marked with the publication date.
+>
+>Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. New information published after the release will be marked with the publication date.
 
 **Release date: 2020**
 
