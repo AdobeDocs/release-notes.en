@@ -24,13 +24,13 @@ This page describes new features, fixes, and important notices in [!DNL Adobe Ex
 
 Product release dates may vary. Check back frequently for updates.
 
-Latest update: **July 13, 2020**
+Latest update: **July 14, 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud interface](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey) (Updated July 13, 2020)
+* [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey) (Updated July 14, 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -138,7 +138,7 @@ Release date: **July 16, 2020**
 | Feature    | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html)- Target Date |Description  |
 | -----------| ---------- |-------|
 | Workspace: New date range presets| Added 4 new date ranges (_This week/month/quarter/year_ (excluding today)) so that users can choose from date ranges that do not include partial-day data from today. |
-| Data Repair API – public beta | The Data Repair API provides a self-service option for customers to delete columns of Adobe Analytics data. Upon release of the public beta, the API will support deletion of Activity Map data. Additional features will be rolled out later. Contact Customer Care for access to this API. |
+| Data Repair API – public beta (Update **July, 14 2020**)|The Data Repair API provides you with a mechanism to delete or edit certain existing Adobe Analytics data. Data Repair requests are made by submitting a job definition to the Data Repair API, which includes the report suite, date range, variables, and actions to be applied to the data. Upon commencement of the public beta, the Data Repair API will support deletion of Activity Map data. Additional features will be rolled out at a later date. Contact Customer Care to join the Data Repair API public beta. [Learn more...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md)
 
 ### New features in Customer Journey Analytics {#cust-journey}
 
