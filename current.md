@@ -137,8 +137,8 @@ Release date: **July 16, 2020**
 
 | Feature    | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html)- Target Date |Description  |
 | -----------| ---------- |-------|
-| Workspace: New date range presets| Added 4 new date ranges (_This week/month/quarter/year_ (excluding today)) so that users can choose from date ranges that do not include partial-day data from today. |
-| Data Repair API – public beta (Update **July, 14 2020**)|The Data Repair API provides you with a mechanism to delete or edit certain existing Adobe Analytics data. Data Repair requests are made by submitting a job definition to the Data Repair API, which includes the report suite, date range, variables, and actions to be applied to the data. Upon commencement of the public beta, the Data Repair API will support deletion of Activity Map data. Additional features will be rolled out at a later date. Contact Customer Care to join the Data Repair API public beta. [Learn more...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md)
+| Workspace: New date range presets|July 16, 2020 |Added 4 new date ranges (_This week/month/quarter/year_ (excluding today)) so that users can choose from date ranges that do not include partial-day data from today. |
+| Data Repair API public beta |July, 14 2020|The [!UICONTROL Data Repair API] provides you with a mechanism to delete or edit certain existing Adobe Analytics data. [!UICONTROL Data Repair] requests are made by submitting a job definition to the [!UICONTROL Data Repair API], which includes the report suite, date range, variables, and actions to be applied to the data. Upon commencement of the public beta, the [!UICONTROL Data Repair API] will support deletion of [!UICONTROL Activity Map] data. Additional features will be rolled out at a later date. Contact Customer Care to join the Data Repair API public beta. [Learn more...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md)|
 
 ### New features in Customer Journey Analytics {#cust-journey}
 
@@ -148,7 +148,7 @@ Release date: **July 16, 2020**
 
 ### New features in [!UICONTROL Media Analytics] {#media-aa}
 
-Date updated: **July 16, 2020**
+Release date: **July 16, 2020**
 
 |Feature |[General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html)- Target Date | Description |
 | -----------| ---------- | ---------- |
