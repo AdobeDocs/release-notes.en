@@ -23,12 +23,12 @@ Product release dates may vary. Check back frequently for updates.
 Latest update: **July 21, 2020**
 
 * [Adobe System Status](#status)
-* [Experience Cloud interface](#ecloud)
+* [Experience Cloud interface](#ecloud) (Updated July 27, 2020)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey) (Updated July 21, 2020)
 * [Audience Manager](#aam)
-* [Experience Manager](#aem)
+* [Experience Manager](#aem) (Updated July 27, 2020)
 * [Campaign](#ac)
 * [Advertising Cloud](#adcloud)
 * [!DNL Target](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html)
@@ -59,6 +59,14 @@ Released: **May 21, 2020**
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloud interface {#ecloud}
 
 General updates to Experience Cloud interface.
+
+### New documentation from Adobe Summit Lab
+
+New content published from Adobe Summit labs in 2020.
+
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|July 27, 2020|[Unleash Digital Experiences with Adobe Document Cloud](https://docs.adobe.com/content/help/en/document-cloud-learn/lab719/overview.html)|Article |In this lab, take your productivity and creativity to the next level by learning how to go digital and do more with PDF, and transform customer and employee experiences. |
 
 **Updated interface menu**
 
@@ -260,6 +268,8 @@ New videos, tutorials, or courses published over the past month.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
+|July 27, 2020|[Pattern Detection](https://docs.adobe.com/content/help/en/experience-manager-pattern-detection/table-of-contents/aso.html)|Reference|Available only from the `upgrade.log` during an Experience Manager upgrade. |
+|July 27, 2020|[Software Distribution](https://docs.adobe.com/content/help/en/experience-cloud/software-distribution/home.html)|Article|As of June 2020, the Experience Cloud solution Software Distribution replaces the download platforms [!UICONTROL PackageShare] for AEM and [!DNL Neolane] for [!DNL Campaign] and provides a more efficient experience to find and download your software. An intuitive user interface, a simplified search and a greatly improved download speed make downloading software packages for Experience Cloud products a great user experience. |
 |June 25, 2020 |[Getting Started with Adaptive Forms](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) |Video |These tutorials walk you through the steps involved in creating multi-tabbed adaptive form. Learn to use tables, accordion layout, and rule editor to author business rules. |
 |June 25, 2020 |[Creating a review workflow in AEM Forms](https://video.tv.adobe.com/v/35821/quality=9) |Video |Learn to create a workflow for reviewing submitted data from an active form submission.|
 |June 23, 2020 |[Processing profiles](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/configuring/processing-profiles.html) |Video |Processing profiles define the renditions to be created for assets in AEM as a Cloud Service. |
@@ -363,7 +373,9 @@ For Magento release notes, see:
 
 ### Core Marketo Engage updates
 
-See [!DNL Marketo] [release notes](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+Feb+%2720) for the latest release information.
+Documentation for [!UICONTROL Marketo Sky] is now published at available for [Here](https://docs.adobe.com/content/help/en/marketo/sky/home.html).
+
+See [!DNL Marketo] [release notes](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+July+%2720) for the latest release information.
 
 ### Upcoming features
 
