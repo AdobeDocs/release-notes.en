@@ -373,8 +373,6 @@ For Magento release notes, see:
 
 ### Core Marketo Engage updates
 
-Documentation for [!UICONTROL Marketo Sky] is now published at available for [Here](https://docs.adobe.com/content/help/en/marketo/sky/home.html).
-
 See [!DNL Marketo] [release notes](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+July+%2720) for the latest release information.
 
 ### Upcoming features
@@ -394,5 +392,9 @@ The following features are releasing throughout the quarter:
 
 * **Asset API "_method" Parameter:** After September 2020, Asset API Endpoints will no longer accept `_method` to pass Query Parameters in a POST body to bypass URI length limitations.
 * **Internet Explorer Support Deprecation:** Beginning with the July release on July 31, 2020, the Marketo Engage user interface will no longer be supported on Internet Explorer.
+
+>[!NOTE]
+>
+>Documentation for the [!UICONTROL Marketo Sky] interface is available [here](https://docs.adobe.com/content/help/en/marketo/sky/home.html).
 
 For cumulative and historical release notes, see [Marketo release notes](https://docs.marketo.com/x/CgA6Ag).
