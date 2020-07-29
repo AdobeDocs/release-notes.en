@@ -20,13 +20,13 @@ This page describes new features, fixes, and important notices in [!DNL Adobe Ex
 
 Product release dates may vary. Check back frequently for updates.
 
-Latest update: **July 21, 2020**
+Latest update: **July 29, 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud interface](#ecloud) (Updated July 27, 2020)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey) (Updated July 21, 2020)
+* [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey) (Updated July 29, 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) (Updated July 27, 2020)
 * [Campaign](#ac)
@@ -130,7 +130,7 @@ Using Adobe Experience Platform, orchestrate individual customer journeys at sca
 Release date: **July 16, 2020**
 
 * [New features in Adobe Analytics](#aa-features) (Updated July 21, 2020)
-* [New features in Customer Journey Analytics](#cust-journey)
+* [New features in Customer Journey Analytics](#cust-journey) (Updated July 29, 2020)
 * [New features in Media Analytics](#media-aa)
 * [Fixes in Adobe Analytics](#aa-fixes)
 * [Important notices for Analytics administrators](#aa-notices)
@@ -141,7 +141,7 @@ Release date: **July 16, 2020**
 
 | Feature    | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html)- Target Date |Description  |
 | -----------| ---------- |-------|
-| CDA: Field-based stitching | July 27, 2020 | A new method for Cross-device Analytics that lets you use a custom variable to help identify visitors. <!-->[Learn more...](https://docs.adobe.com/content/help/en/analytics/components/cda/field-based-stitching.html)<-->|
+| CDA: Field-based stitching | July 27, 2020 | A new method for Cross-device Analytics that lets you use a custom variable to help identify visitors. [Learn more...](https://docs.adobe.com/content/help/en/analytics/components/cda/field-based-stitching.html)|
 | Workspace: New date range presets|July 16, 2020 |Added 4 new date ranges (_This week/month/quarter/year_ (excluding today)) so that users can choose from date ranges that do not include partial-day data from today. |
 | Data Repair API public beta |July, 14 2020|The [!UICONTROL Data Repair API] provides you with a mechanism to delete or edit certain existing Adobe Analytics data. [!UICONTROL Data Repair] requests are made by submitting a job definition to the [!UICONTROL Data Repair API], which includes the report suite, date range, variables, and actions to be applied to the data. Upon commencement of the public beta, the [!UICONTROL Data Repair API] will support deletion of [!UICONTROL Activity Map] data. Additional features will be rolled out at a later date. Contact Customer Care to join the Data Repair API public beta. [Learn more...](https://github.com/AdobeDocs/analytics-2.0-apis/blob/master/data-repair.md)|
 
@@ -149,7 +149,7 @@ Release date: **July 16, 2020**
 
 | Feature    | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html)- Target Date |Description  |
 | -----------| ---------- |-----|
-|No new features this month|| |
+|Identity Map option for Person ID|June 26, 2020 |Identity Map is a map data structure that allows you to upload key -> value pairs as part of creating a connection in Customer Journey Analytics. The keys are identity namespaces and the value is a structure that holds the identity value. [Learn more...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html#use-identity-map-as-a-person-id)|
 
 ### New features in [!UICONTROL Media Analytics] {#media-aa}
 
