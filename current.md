@@ -268,7 +268,6 @@ New videos, tutorials, or courses published over the past month.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|July 27, 2020|[Pattern Detection](https://docs.adobe.com/content/help/en/experience-manager-pattern-detection/table-of-contents/aso.html)|Reference|Available only from the `upgrade.log` during an Experience Manager upgrade. |
 |July 27, 2020|[Software Distribution](https://docs.adobe.com/content/help/en/experience-cloud/software-distribution/home.html)|Article|As of June 2020, the Experience Cloud solution Software Distribution replaces the download platforms [!UICONTROL PackageShare] for AEM and [!DNL Neolane] for [!DNL Campaign] and provides a more efficient experience to find and download your software. An intuitive user interface, a simplified search and a greatly improved download speed make downloading software packages for Experience Cloud products a great user experience. |
 |June 25, 2020 |[Getting Started with Adaptive Forms](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/creating-your-first-adaptive-form/adaptive-forms-getting-started-tutorial-use.html) |Video |These tutorials walk you through the steps involved in creating multi-tabbed adaptive form. Learn to use tables, accordion layout, and rule editor to author business rules. |
 |June 25, 2020 |[Creating a review workflow in AEM Forms](https://video.tv.adobe.com/v/35821/quality=9) |Video |Learn to create a workflow for reviewing submitted data from an active form submission.|
