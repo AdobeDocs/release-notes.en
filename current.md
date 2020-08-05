@@ -134,7 +134,6 @@ Release date: **July 16, 2020**
 * [New features in Media Analytics](#media-aa)
 * [Fixes in Adobe Analytics](#aa-fixes)
 * [Important notices for Analytics administrators](#aa-notices)
-* [New Adobe Analytics courses and tutorials](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
 ### New features in Adobe Analytics {#aa-features} 
