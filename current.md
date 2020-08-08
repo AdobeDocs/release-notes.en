@@ -68,9 +68,9 @@ Using Adobe Experience Platform, orchestrate individual customer journeys at sca
 
 New videos, tutorials, or courses published over the past month.
 
-| Published | Name | Description |
-| ----------- | ---------- | ---------- |  
-|July 10, 2020|[Reporting journey step events to Adobe Experience Platform](https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/reporting-step-events-to-adobe-experience-platform.html)|Learn what journey step events are and which data steps are automatically created on Experience Platform and how to explore these.|
+| Published | Name |Type| Description |
+| ----------- | ---------- | ---------- |---------- |  
+|July 10, 2020|[Reporting journey step events to Adobe Experience Platform](https://docs.adobe.com/content/help/en/journey-orchestration-learn/tutorials/reporting-step-events-to-adobe-experience-platform.html)|Tutorial|Learn what journey step events are and which data steps are automatically created on Experience Platform and how to explore these.|
 
 ### Additional resources for Journey Orchestration
 
@@ -152,7 +152,7 @@ For the latest updates on AppMeasurement releases, please refer to [AppMeasureme
 
 New courses, tutorial videos, and articles in Analytics and Customer Journey Analytics.
 
-| Published | Name | Solution | Description |
+| Published | Name | Type | Description |
 | ----------- | ----------- | ---------- | ---------- |  
 |July 30, 2020|[Limit Report Suite Access in the Admin Console](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/administration/user-management/limit-report-suite-access-in-the-admin-console.html)|Tutorial|Learn how to use the [!UICONTROL Admin Console] to ensure users can only access the report suite(s) that are necessary to their role. |
 |July 24, 2020|[Adding an Administrator to Adobe Analytics](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/administration/user-management/adding-an-administrator-to-adobe-analytics.html)|Tutorial|Learn how to add a user as an Administrator in the Adobe [!UICONTROL Admin Console].|
@@ -196,7 +196,7 @@ Release date: **August 13, 2020**
 
 ### New Audience Manager tutorials {#tutorials-aam}
 
-| Published | Name | Solution | Description |
+| Published | Name | Type | Description |
 | ----------- | ----------- | ---------- | ---------- |
 |August 7, 2020|[Save Money and Optimize Customer Experience by Suppressing Ads to Converters](https://experienceleague.adobe.com/?recommended=AudienceManager-A-1-2020.1)|Tutorial|In this course, learn all the concepts to go from start to finish with the use case of saving money and optimizing the customer experience by removing existing customers from your reach campaigns. This includes building traits and segments, adding the right profile merge rules, adding segments to destinations, and even calculating the ROI as you use this use case. |
 |August 7, 2020|[Choosing the Right Profile Merge Rule](https://docs.adobe.com/content/help/en/audience-manager-learn/tutorials/build-and-manage-audiences/profile-merge/choosing-the-right-profile-merge-rule.html)|Tutorial|In this video, discover three of the most common use cases for [!UICONTROL Profile Merge Rules], and how they can help your marketing efforts.|
@@ -334,7 +334,7 @@ Release information for Campaign Classic, Campaign Standard and Control Panel.
 
 New videos, tutorials, or courses published over the past month.
 
-| Published | Name | Solution | Description |
+| Published | Name | Type | Description |
 | ----------- | ----------- | ---------- | ---------- |  
 |July 10, 2020|[Control Panel - GPG Key management - Decrypting data](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/decrypting-data.html)|Campaign Classic|Learn how to create a public key and import and install it on a Campaign instance for the decryption of inbound data.|
 |July 10, 2020|[Control Panel - GPG Key management - Using a GPG key to encrypt data](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/gpg-key-management/using-a-gpg-key-to-encrypt-data.html)|Campaign Classic|Learn how to export data using a GPG key installed on Control Panel.|
