@@ -221,7 +221,8 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
     * AEM Commerce is now available on Cloud Service. See [Getting started with AEM Commerce as a Cloud Service.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/commerce/getting-started.html)
     * Connectors for Adobe Target and Adobe Analytics enhancements includes user interface improvements, Classic UI replacement, and Adobe Launch integration. See [Integrating Adobe Analytics](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/sites/integrations/integrating-adobe-analytics.html) and [Integrating Adobe Target.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/sites/integrations/integrating-adobe-target.html)
     * Asset Compute Service is a scalable and extensible service to process assets. Administrators can configure Experience Manager to invoke custom worker created using the Asset Compute Service. Developers can use the service to create specialized custom workers that cater to complex use cases. This web service can generate thumbnails for different file types, high-quality image renderings from Adobe file formats, encode videos (future), extract metadata, extract full text as precursor for indexing, and run an asset through all available Sensei services. See [Use asset microservices and processing profiles.](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/manage/asset-microservices-configure-and-use.html)
-    * Multiple improvements for Workflow models and Dynamic Media in AEM as a Cloud Service. 
+    * [Asset Compute Service](https://docs.adobe.com/content/help/en/asset-compute/using/home.html) is made available to be extended to create custom application. It is a scalable and extensible service of [!DNL Adobe Experience Cloud] to process digital assets. It can transform image, video, document, and other file formats into different renditions including thumbnails, extracted text and metadata, archives and more. Developers can create custom applications (also called custom workers) to address custom use cases. It is built using [Project Firefly](https://www.adobe.io/apis/experienceplatform/project-firefly/docs.html) and works in serverless [Adobe I/O Runtime](https://www.adobe.io/apis/experienceplatform/runtime.html).
+    * Multiple improvements for Workflow models and Dynamic Media in AEM as a Cloud Service.
     * Release 2.11.0 of the [AEM Core Components](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/introduction.html) is now available as part of AEM Sites including the following:
         * Introduction of a new [PDF Viewer Component.](https://aemcomponents.dev/content/core-components-examples/library/page-authoring/pdf-viewer.html)
         * Accelerated Mobile Pages (AMP) support of Core Components. It helps to produce faster customer experiences by making the page transition instantaneously when entering the site from a Google mobile search result, which improves user engagement and SEO. See [AMP Support for the Core Components.](https://docs.adobe.com/content/help/en/experience-manager-core-components/using/developing/data-layer/overview.html)
@@ -235,12 +236,16 @@ New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recomm
 
 ### Self-Help
 
+* **AEM Assets**
+
+    * Added more [troubleshooting tips](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/troubleshoot.html) for Experience Manager desktop app.
+
 * **AEM Forms**
 
     * AEM Forms add on packages are now available on [AEM Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?2_group.propertyvalues.property=.%2Fjcr%3Acontent%2Fmetadata%2Fdc%3Asolution&2_group.propertyvalues.operation=equals&2_group.propertyvalues.0_values=target-solution%3Aaem%2Fforms&orderby=%40jcr%3Acontent%2Fjcr%3AlastModified&orderby.sort=desc&layout=list&p.offset=0&p.limit=24). You can find direct links for packages of each supported release in the [AEM Forms releases](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html) article.  
-    * Use the [reference site](https://docs.adobe.com/content/help/en/experience-manager-65/forms/getting-started/aem-forms-reference-collaterals/forms-gov-reference-site-user-demo.html) to learn the end-to-end workflow of Automated Forms Conversion service. 
-    * Javadocs for AEM [6.5.5.0](https://helpx.adobe.com/experience-manager/6-5/forms/javadocs/index.html) and AEM [6.4.8.1](https://helpx.adobe.com/experience-manager/6-4/forms/javadocs/index.html) releases are available. 
-    * [Import trusted certificates](https://docs.adobe.com/content/help/en/experience-manager-65/forms/manage-administer-aem-forms/hardening-aem-forms-environment/hardening-aem-forms-jee-environment.html#configuring-ssl) to JVM while hardening an AEM Forms on JEE environment. 
+    * Use the [reference site](https://docs.adobe.com/content/help/en/experience-manager-65/forms/getting-started/aem-forms-reference-collaterals/forms-gov-reference-site-user-demo.html) to learn the end-to-end workflow of Automated Forms Conversion service.
+    * Javadocs for AEM [6.5.5.0](https://helpx.adobe.com/experience-manager/6-5/forms/javadocs/index.html) and AEM [6.4.8.1](https://helpx.adobe.com/experience-manager/6-4/forms/javadocs/index.html) releases are available.
+    * [Import trusted certificates](https://docs.adobe.com/content/help/en/experience-manager-65/forms/manage-administer-aem-forms/hardening-aem-forms-environment/hardening-aem-forms-jee-environment.html#configuring-ssl) to JVM while hardening an AEM Forms on JEE environment.
     * Improved [PDF Generator setup documentation.](https://docs.adobe.com/content/help/en/experience-manager-65/forms/install-aem-forms/osgi-installation/install-configure-document-services.html)
 
 * **Core Components**
