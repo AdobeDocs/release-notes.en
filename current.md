@@ -24,13 +24,13 @@ This page describes new features, fixes, and important notices in [!DNL Adobe Ex
 
 Product release dates may vary. Check back frequently for updates.
 
-Latest update: **August 7, 2020**
+Latest update: **August 11, 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud interface](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey)
+* [Analytics](#analytics) (Updated Aug. 11, 2020) and [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -85,7 +85,9 @@ New videos, tutorials, or courses published over the past month.
 * [Important notices for Analytics administrators](#aa-notices)
 * [AppMeasurement](#appm)
 
-### New features in Adobe Analytics {#aa-features}
+### New features in Adobe Analytics {#aa-features} 
+
+(Updated Aug. 11, 2020)
 
 | Feature    | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html)- Target Date |Description  |
 | -----------| ---------- |-------|
