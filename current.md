@@ -24,13 +24,13 @@ This page describes new features, fixes, and important notices in [!DNL Adobe Ex
 
 Product release dates may vary. Check back frequently for updates.
 
-Latest update: **August 11, 2020**
+Latest update: **August 13, 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud interface](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) (Updated Aug. 11, 2020) and [Customer Journey Analytics](#cust-journey)
+* [Analytics](#analytics) (Updated Aug. 13, 2020) and [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -87,11 +87,10 @@ New videos, tutorials, or courses published over the past month.
 
 ### New features in Adobe Analytics {#aa-features} 
 
-(Updated Aug. 11, 2020)
+(Updated Aug. 13, 2020)
 
 | Feature    | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html)- Target Date |Description  |
 | -----------| ---------- |-------|
-| Enhancements to China Data Collection | Aug 13, 2020| Enhancements include: Support for Experience Cloud ID Service; support for first-party SSL; and support for server-side forwarding. For documentation, please contact your Adobe Sales representative.|
 | [!UICONTROL Cross-Device Analytics]: Availability in EMEA and APAC | August 31, 2020 | [Cross-Device Analytics](https://docs.adobe.com/content/help/en/analytics/components/cda/overview.html) and private graph will be available for customers in EMEA and in APAC. |
 | Enhancement to field-based stitching in [!UICONTROL Cross-Device Analytics] (available in Americas and EMEA) | August 17, 2020 | This simplified implementation for new [!UICONTROL Cross-Device Analytics] customers gives you the option to stitch based on a user ID stored in an Analytics field (prop or eVar) instead of using device graph (co-op or private.) The enhancement removes the requirement to implement ECID and removes the requirement to implement ID syncing for purposes of CDA. (ECID and ID syncing are still required for certain other features.) |
 |(Early announcement) Workspace: Download 50K items for a single dimension|Sept. 17, 2020| You will be able to download 50,000 items for a single dimension in a freeform table, with segments and filters applied. This allows you to access more than the 400 rows of data outside of Analysis Workspace.|
