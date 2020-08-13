@@ -182,6 +182,7 @@ Release date: **August 13, 2020**
 
 ### New features and fixes in Adobe Audience Manager
 
+* You can now use [People-Based Destinations](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-prerequisites.html) to target users via [!DNL Google Customer Match]. Before you can use [!UICONTROL People-Based Destinations] to send your first-party audience segments to a [!DNL Google Customer Match] destination, it is mandatory that [!DNL Google] adds you to their allow list. Check the [People-Based Destinations](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-prerequisites.html) documentation for details. (PLAT-53962)
 * [Predictive Audiences](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html) now supports the selection of a [!UICONTROL Profile Merge Rule] per model, during model creation. (AAM-55178)
 * Destination mapping start and end dates are now visible in each segment's page. (AAM-40056)
 * Fixed an issue where the [!UICONTROL Device Type] of a trait was automatically set to [!UICONTROL Cross-Device] when creating a new trait. (AAM-55368)
