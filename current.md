@@ -363,6 +363,15 @@ New videos, tutorials, or courses published over the past month.
 
 Release notes for Adobe Advertising Cloud.
 
+* [New features in Advertising Cloud DSP](#adcloud-dsp)
+* [New features in Advertising Cloud Search](#adcloud-search)
+
+### New features in [!UICONTROL Advertising Cloud DSP] {#adcloud-dsp}
+
+| Feature    | Description  |
+| -----------| ---------- |
+| Interactive pre-roll extended to include VAST inventory|Each interactive pre-roll placement and ad can now support both VPAID and VAST inventory. **Note:** If your primary KPI is viewability, then continue to create separate VPAID and VAST placements and ads because viewable impressions aren’t available for VAST ads.|
+
 ### New features in [!UICONTROL Advertising Cloud Search] {#adcloud-search}
 
 **August 8** release
