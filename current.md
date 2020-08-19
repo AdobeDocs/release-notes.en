@@ -20,10 +20,10 @@ This page describes new features, fixes, and important notices in [!DNL Adobe Ex
 
 Product release dates may vary. Check back frequently for updates.
 
-Latest update: **August 13, 2020**
+Latest update: **August 19, 2020**
 
 * [Adobe System Status](#status)
-* [Experience Cloud interface](#ecloud)
+* [Experience Cloud interface](#ecloud) (updated **August 19, 2020**)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) (Updated Aug. 13, 2020) and [Customer Journey Analytics](#cust-journey)
@@ -45,6 +45,12 @@ Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#h
 See [May 21, 2020](c-legacy-releases/2020/05212020.md#status) for the latest release information.
 
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloud interface {#ecloud}
+
+Updated: **August 19, 2020**
+
+| Feature    | Description  |
+| -----------| ---------- |
+|Admin Tool - feature and performance improvements |The August 2020 release of [!UICONTROL Admin Tool] allows system admins to view a list of product profiles and see or export a detailed view of each product profile. Performance enhancements for loading last login data were added, fixing timeout issues. See [Experience Cloud Admin Tool](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-tool-experience-cloud.html) help for details.|
 
 See July's [previous release notes](c-legacy-releases/2020/07162020.md#ecloud) for the latest release information about the updated interface and unified product domain.  
 
