@@ -24,13 +24,17 @@ This page describes new features, fixes, and important notices in [!DNL Adobe Ex
 
 Product release dates may vary. Check back frequently for updates.
 
+<<<<<<< Updated upstream
 Latest update: **August 13, 2020**
+=======
+Latest update: **August 21, 2020**
+>>>>>>> Stashed changes
 
 * [Adobe System Status](#status)
 * [Experience Cloud interface](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) (Updated Aug. 13, 2020) and [Customer Journey Analytics](#cust-journey)
+* [Analytics](#analytics) (Updated Aug. 21, 2020) and [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -82,7 +86,7 @@ New videos, tutorials, or courses published over the past month.
 * [New features in Customer Journey Analytics](#cust-journey)
 * [New features in Media Analytics](#media-aa)
 * [Fixes in Adobe Analytics](#aa-fixes)
-* [Important notices for Analytics administrators](#aa-notices)
+* [Important notices for Analytics administrators](#aa-notices) (Updated Aug. 21, 2020)
 * [AppMeasurement](#appm)
 
 ### New features in Adobe Analytics {#aa-features} 
@@ -132,6 +136,7 @@ AN-219351; AN-220960; AN-223788; AN-224630; AN-224948; AN-225618; AN-226261; AN-
 ### Important notices for [!DNL Analytics] administrators {#aa-notices}
 
 | Notice | Date Added or Updated  | Description |
+<<<<<<< Updated upstream
 | -----------| ---------- | ---------- |
 |EOL of Adobe Data Connectors|July 13, 2020|Adobe [!UICONTROL Data Connectors] are powered by legacy technology that is no longer viable or supported. We have a new standard in the [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud) that should be adopted for any integrations that wish to continue to be offered and supported. The official end-of-life date is still to be determined, but we anticipate it to be in the next 12-18 months (mid 2021 to end of 2021). [Learn more...](https://docs.adobe.com/content/help/en/analytics/import/dataconnectors/data-connectors-eol.html)|
 |Report suite mapping to IMS org | July 2020 | The report suite mapping tool will be discontinued in November 2020. This feature powers integrations such as Advertising Analytics and Experience Cloud segment publishing in Adobe Analytics. A report suite must be mapped to an IMS org to enable these and other services. Newer report suites are automatically mapped upon creation. However, older report suites must be manually mapped to an IMS org. See [Map report suites to an organization](https://docs.adobe.com/content/help/en/core-services/interface/about-core-services/report-suite-mapping.html) in the Experience Cloud interface (Core Services) user guide to make sure all report suites belong to an IMS org. |
@@ -144,6 +149,22 @@ AN-219351; AN-220960; AN-223788; AN-224630; AN-224948; AN-225618; AN-226261; AN-
 |EOL of Analytics Legacy APIs|January 9, 2020|In November 2020, the following Analytics Legacy API services will reach their end-of-life and will be shutdown. Current integrations built using these services will stop working. <ul><li>1.3 Analytics APIs</li><li>1.4 SOAP Analytics APIs</li><li>Legacy OAuth Authentication (OAuth and JWT)</li></ul>We have provided a [Legacy API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) to help answer your questions and provide guidance on how to proceed. API integrations that employ these services can migrate to the [1.4 Analytics REST APIs](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) or the [2.0 Analytics APIs](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth accounts can migrate to an [Adobe IO](https://console.adobe.io/home?mv=email) Analytics integration account, which can be used to access both the 1.4 Analytics APIs and 2.0 Analytics APIs.|
 |San Jose FTP Broker Ending for London and Singapore|July 2020|For customers in London and Singapore, we will no longer support brokering of data between London or Singapore and the San Jose data center [ftp.omniture.com](ftp://ftp.omniture.com/).<br/><ul><li>For London, use [ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>For Singapore, use [ftp4.omniture.com](ftp://ftp4.omniture.com/)</li></ul>|
 |EOL of Ad Hoc Analysis|Aug 6, 2018|Adobe announced the intention to end-of-life Ad Hoc Analysis. An end-of-life date will be shared once available. For more information, visit [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/).|
+=======
+| ----------- | ---------- | ---------- |
+| Migration from `omniture.com` to `adobe.com` domain | August 21, 2020 | On August 13, 2020, Adobe Analytics migrated its frontend architecture from `omniture.com|http://omniture.com/` to the `adobe.com|http://adobe.com/` domain. This change should mitigate third-party cookie issues that arose after the initial May 28, 2020 unified product domain change. As a result of this update, the browser may prompt users to trust the new `an.adobe.com|http://an.adobe.com/` or `experience.adobe.com|http://experience.adobe.com/` domain. |
+| Update on Ad Hoc Analysis Java 8 compatibility | August 21, 2020 | Ad Hoc Analysis is not currently compatible with Java 8 versions 1.8.0_261+. To ensure that your access to this tool is not disrupted before the [end-of-life date](adobe.ly/discoverworkspace) is reached, we recommend that you maintain a Java 8 version prior to 1.8.0_261. |
+| EOL of Adobe Data Connectors | July 13, 2020 | Adobe [!UICONTROL Data Connectors] are powered by legacy technology that is no longer viable or supported. We have a new standard in the [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud) that should be adopted for any integrations that wish to continue to be offered and supported. The official end-of-life date is still to be determined, but we anticipate it to be in the next 12-18 months (mid 2021 to end of 2021). [Learn more...](https://docs.adobe.com/content/help/en/analytics/import/dataconnectors/data-connectors-eol.html) |
+| Report suite mapping to IMS org | July 2020 | The report suite mapping tool will be discontinued in November 2020. This feature powers integrations such as Advertising Analytics and Experience Cloud segment publishing in Adobe Analytics. A report suite must be mapped to an IMS org to enable these and other services. Newer report suites are automatically mapped upon creation. However, older report suites must be manually mapped to an IMS org. See [Map report suites to an organization](https://docs.adobe.com/content/help/en/core-services/interface/about-core-services/report-suite-mapping.html) in the Experience Cloud interface (Core Services) user guide to make sure all report suites belong to an IMS org. |
+| Migration to unified product domain | Effective date: May 28, 2020|The migration to a unified product domain for Adobe Analytics, which began in January 2020, completed on May 28, 2020. While Adobe Analytics works to remove all `omniture.com` domain references from its architecture, it is important to allowlist `omniture.com` as a third-party cookie. When the full architecture migration is (soon) completed, we will notify you via the release notes and this allowlist step will no longer be needed. [Here](https://helpx.adobe.com/analytics/kb/adobe-ip-addresses.html) is a full list of recommended IP addresses and domains that you should allowlist.<br>If your organization blocks third-party cookies, please reach out to Customer Care to regain your access to Adobe Analytics. |
+| New Adobe Analytics default landing page | Effective Date: June 18, 2020 | On June 18, 2020, the default landing page for Adobe Analytics will change from [!UICONTROL Reports] to [!UICONTROL Workspace]. This change will occur for any users who have not previously set a custom landing page. |
+| Third-party technology allowlist | March 12, 2020 (effective date) | Adobe Analytics has begun leveraging third-party technologies for feature rollout management and in-product support. The following URLs should be added to any necessary network firewall allowlists to ensure full feature access:<ul><li>Gainsight: https://esp.aptrinsic.com</li><li>LaunchDarkly: https://app.launchdarkly.com</li></ul> |
+| Improved redundancy for [!UICONTROL Analysis Workspace] availability | May 21, 2020 | In order to ensure availability of [!UICONTROL Analysis Workspace], we are adding a secondary CDN (Content Delivery Network) for improved redundancy. The following URLs should be added to any necessary network firewall allowlists:<ul><li>https://aaui-879784980514.s3.us-east-2.amazonaws</li><li>https://d30ln29764hddd.cloudfront.net</li><li>https://awaascicdprodva7.blob.core.windows.net</li><li>https://aauicdnva7.azureedge.net</li></ul> |
+| Change to how [!UICONTROL Entries/Exits] are calculated in [!UICONTROL Workspace] | April 7, 2020 | In [!UICONTROL Analysis Workspace], as of March 2020, we have changed how the _None_ value interacts with [!UICONTROL Entries/Exits]. Because you can now turn _Nones_ on and off in [!UICONTROL Analysis Workspace], we apply the _None_ value after the entry or exit, whereas (for eVars) it used to be applied before entry or exit. For example, assume that the first hit of a visit has no value for eVars, but the second hit does. In [!UICONTROL Reports & Analytics] the first hit will show as _Unspecified_ for the Entry, but in [!UICONTROL Analysis Workspace] it will show up as the value on the second hit. |
+| EOL of **[!UICONTROL Dashboard Archive]** | March 27, 2020 | The **[!UICONTROL View Archive]** setting under **[!UICONTROL Manage Dashboards]** in [!UICONTROL Reports & Analytics] will no longer be available as of October, 2020. |
+| EOL of Analytics Legacy APIs | January 9, 2020 | In November 2020, the following Analytics Legacy API services will reach their end-of-life and will be shutdown. Current integrations built using these services will stop working. <ul><li>1.3 Analytics APIs</li><li>1.4 SOAP Analytics APIs</li><li>Legacy OAuth Authentication (OAuth and JWT)</li></ul>We have provided a [Legacy API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) to help answer your questions and provide guidance on how to proceed. API integrations that employ these services can migrate to the [1.4 Analytics REST APIs](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) or the [2.0 Analytics APIs](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth accounts can migrate to an [Adobe IO](https://console.adobe.io/home?mv=email) Analytics integration account, which can be used to access both the 1.4 Analytics APIs and 2.0 Analytics APIs. |
+| San Jose FTP Broker Ending for London and Singapore | July 2020 | For customers in London and Singapore, we will no longer support brokering of data between London or Singapore and the San Jose data center [ftp.omniture.com](ftp://ftp.omniture.com/).<br/><ul><li>For London, use [ftp3.omniture.com](ftp://ftp3.omniture.com/)</li><li>For Singapore, use [ftp4.omniture.com](ftp://ftp4.omniture.com/)</li></ul> |
+| EOL of Ad Hoc Analysis | Aug 6, 2018 | Adobe announced the intention to end-of-life Ad Hoc Analysis. An end-of-life date will be shared once available. For more information, visit [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
+>>>>>>> Stashed changes
 
 #### AppMeasurement
 
