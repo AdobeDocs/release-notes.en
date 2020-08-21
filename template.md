@@ -111,8 +111,7 @@ Description of new features. Use headings or a table.
 
 For product documentation, see [Mobile Services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html).
 
-For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud
-Solutions](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html).
+For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud Solutions](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html).
 
 ## Analytics {#analytics}
 
