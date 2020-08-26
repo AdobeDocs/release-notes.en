@@ -376,8 +376,11 @@ Release notes for Adobe Advertising Cloud.
 
 ### New features in [!UICONTROL Advertising Cloud DSP] {#adcloud-dsp}
 
+**Updated August 20**
+
 | Feature    | Description  |
 | -----------| ---------- |
+| Forecasting for Roku | Forecasting is now available for Roku placements. |
 | Interactive pre-roll extended to include VAST inventory|Each interactive pre-roll placement and ad can now support both VPAID and VAST inventory. **Note:** If your primary KPI is viewability, then continue to create separate VPAID and VAST placements and ads because viewable impressions aren’t available for VAST ads.|
 
 ### New features in [!UICONTROL Advertising Cloud Search] {#adcloud-search}
