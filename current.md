@@ -20,13 +20,13 @@ This page describes new features, fixes, and important notices in [!DNL Adobe Ex
 
 Product release dates may vary. Check back frequently for updates.
 
-Latest update: **August 21, 2020**
+Latest update: **August 31, 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud interface](#ecloud) (updated **August 19, 2020**)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) (Updated Aug. 21, 2020) and [Customer Journey Analytics](#cust-journey)
+* [Analytics](#analytics) (Updated Aug. 31, 2020) and [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -89,28 +89,29 @@ New videos, tutorials, or courses published over the past month.
 
 ### New features in Adobe Analytics {#aa-features} 
 
-(Updated Aug. 13, 2020)
+(Updated Aug. 31, 2020)
 
 | Feature | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Target Date | Description |
 | ----------- | ---------- | ------- |
 | [!UICONTROL Cross-Device Analytics]: Availability in EMEA and APAC | August 31, 2020 | [Cross-Device Analytics](https://docs.adobe.com/content/help/en/analytics/components/cda/overview.html) and private graph will be available for customers in EMEA and in APAC. |
 | Enhancement to field-based stitching in [!UICONTROL Cross-Device Analytics] (available in Americas and EMEA) | August 31, 2020 | This simplified implementation for new [!UICONTROL Cross-Device Analytics] customers gives you the option to stitch based on a user ID stored in an Analytics field (prop or eVar) instead of using device graph (co-op or private.) The enhancement removes the requirement to implement ECID and removes the requirement to implement ID syncing for purposes of CDA. (ECID and ID syncing are still required for certain other features.) |
-| (Early announcement) Workspace: Download 50K items for a single dimension | Sept. 17, 2020 | You will be able to download 50,000 items for a single dimension in a freeform table, with segments and filters applied. This allows you to access more than the 400 rows of data outside of Analysis Workspace. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/download-send.html) |
+| Workspace: Download 50K items for a single dimension | Sept. 17, 2020 | You will be able to download 50,000 items for a single dimension in a freeform table, with segments and filters applied. This allows you to access more than the 400 rows of data outside of Analysis Workspace. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/curate-share/download-send.html) |
+| Workspace: Line visualization enhancements | Sept 17, 2020 | <ul><li>You can show or hide the x-axis and y-axis of any line visualization. This can be especially helpful when your line visualizations are more compact.</li><li>You can overlay a minimum and maximum value label on any line visualization to quickly highlight the peaks and valleys in a metric.</li><li>You can overlay different regression trend lines on any line visualization to more easily see the trend in the data. Options include Linear, Logarithmic, Exponential, Power and Quadratic.</li></ul> [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html) | 
+
 
 ### New features in Customer Journey Analytics {#cust-journey}
 
 | Feature | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Target Date | Description |
 | ----------- | ---------- | ----- |
-| [!UICONTROL Identity Map] option for Person ID | June 26, 2020 | [!UICONTROL Identity Map] is a map data structure that allows you to upload key-value pairs as part of creating a connection in [!UICONTROL Customer Journey Analytics]. The keys are identity namespaces and the value is a structure that holds the identity value. [Learn more...](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html#use-identity-map-as-a-person-id) |
+| Workspace: Line visualization enhancements | Sept 17, 2020 | <ul><li>You can show or hide the x-axis and y-axis of any line visualization. This can be especially helpful when your line visualizations are more compact.</li><li>You can overlay a minimum and maximum value label on any line visualization to quickly highlight the peaks and valleys in a metric.</li><li>You can overlay different regression trendlines on any line visualization to more easily see the trend in the data. Options include Linear, Logarithmic, Exponential, Power and Quadratic.</li></ul> |
 
 ### New features in [!UICONTROL Media Analytics] {#media-aa}
 
-Release date: **July 16, 2020**
+(Updated Aug. 31, 2020)
 
 | Feature | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Target Date | Description |
 | ----------- | ---------- | ---------- |
-| [Supported devices and platforms](https://docs.adobe.com/content/help/en/media-analytics/using/supported-devices.html) | June 18, 2020 | The [!UICONTROL Media Launch Extension] with AEP SDK now supports the following OTT devices:<ul><li>Apple TV (tvOS)</li><li>Fire TV (Fire OS)</li><li>Android TV</li></ul> |
-| [Player State Tracking](https://docs.adobe.com/content/help/en/media-analytics/using/player-state-tracking/player-state-overview.html) | May 29, 2020 | [!UICONTROL Media Analytics] customers can capture viewer interaction during playback using a standard set of solution variables for full screen, closed captioning, mute, picture-in-picture, and in-focus. You also have the flexibility to create custom player states. [!UICONTROL Player State Tracking] variables are now available for reporting in [!UICONTROL Analysis Workspace]. This feature requires one of the following: <ul><li>Media [!DNL JavaScript] SDK 3.0 or higher</li><li>For use with the [!DNL Adobe Experience Platform] (AEP) SDK:</li><li>[!UICONTROL Media Analytics Extension] (for web): [!UICONTROL Adobe Media Analytics] (3.x SDK) for Audio and Video v1.0 or higher</li><li>[!UICONTROL Media Analytics Extension] (for mobile): [!UICONTROL Adobe Media Analytics for Audio] and Video v2.0 or higher</li><li>[!UICONTROL Media Collection]</li></ul> |
+| Media Concurrent Viewer panel in Workspace | Sept. 17, 2020 | The Media Concurrent Viewers panel enables you to understand where peak concurrency occurred or where drop-offs happened.  It provides valuable insight into the quality of content and viewer engagement, and helps with troubleshooting or planning for volume/scale. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/media-concurrent-viewers.html) |
 
 ### Fixes in Adobe Analytics {#aa-fixes}
 
