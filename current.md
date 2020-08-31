@@ -103,7 +103,7 @@ New videos, tutorials, or courses published over the past month.
 
 | Feature | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Target Date | Description |
 | ----------- | ---------- | ----- |
-| Workspace: Line visualization enhancements | Sept 17, 2020 | <ul><li>You can show or hide the x-axis and y-axis of any line visualization. This can be especially helpful when your line visualizations are more compact.</li><li>You can overlay a minimum and maximum value label on any line visualization to quickly highlight the peaks and valleys in a metric.</li><li>You can overlay different regression trendlines on any line visualization to more easily see the trend in the data. Options include Linear, Logarithmic, Exponential, Power and Quadratic.</li></ul> |
+| Workspace: Line visualization enhancements | Sept 17, 2020 | <ul><li>You can show or hide the x-axis and y-axis of any line visualization. This can be especially helpful when your line visualizations are more compact.</li><li>You can overlay a minimum and maximum value label on any line visualization to quickly highlight the peaks and valleys in a metric.</li><li>You can overlay different regression trendlines on any line visualization to more easily see the trend in the data. Options include Linear, Logarithmic, Exponential, Power and Quadratic.</li></ul>[Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html) |
 
 ### New features in [!UICONTROL Media Analytics] {#media-aa}
 
