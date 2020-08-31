@@ -107,9 +107,11 @@ New videos, tutorials, or courses published over the past month.
 
 ### New features in [!UICONTROL Media Analytics] {#media-aa}
 
+(Updated Aug. 31, 2020)
+
 | Feature | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Target Date | Description |
 | ----------- | ---------- | ---------- |
-| Media Concurrent Viewer panel in Workspace | Sept. 17, 2020 | The Media Concurrent Viewers panel enables you to understand where peak concurrency occurred or where drop-offs happened.  It provides valuable insight into the quality of content and viewer engagement, and  helps with troubleshooting or planning for volume/scale. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/media-concurrent-viewers.html) |
+| Media Concurrent Viewer panel in Workspace | Sept. 17, 2020 | The Media Concurrent Viewers panel enables you to understand where peak concurrency occurred or where drop-offs happened.  It provides valuable insight into the quality of content and viewer engagement, and helps with troubleshooting or planning for volume/scale. [Learn more...](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/panels/media-concurrent-viewers.html) |
 
 ### Fixes in Adobe Analytics {#aa-fixes}
 
