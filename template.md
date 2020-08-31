@@ -82,7 +82,7 @@ Release notes for the [!DNL Experience Platform,] including [!DNL Experience Pla
 
 Features and fixes.
 
-For product documentation, see [Experience Cloud ID service](https://marketing.adobe.com/resources/help/en_US/mcvid/).
+For product documentation, see [Experience Cloud ID service](https://docs.adobe.com/content/help/en/id-service/using/home.html).
 
 ### [!UICONTROL Experience Platform Launch] {#launch}
 
@@ -111,7 +111,7 @@ Description of new features. Use headings or a table.
 
 For product documentation, see [Mobile Services](https://docs.adobe.com/content/help/en/mobile-services/using/home.html).
 
-For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://marketing.adobe.com/resources/help/en_US/mobile/android/) and [iOS SDK 4.x for Experience Cloud Solutions](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html).
+For more information about the Mobile SDKs, see: [Android SDK 4.x for Experience Solutions](https://docs.adobe.com/content/help/en/mobile-services/android/overview.html) and [iOS SDK 4.x for Experience Cloud Solutions](https://docs.adobe.com/content/help/en/mobile-services/ios/overview.html).
 
 ## Analytics {#analytics}
 
