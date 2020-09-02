@@ -342,7 +342,7 @@ Release information for Campaign Classic, Campaign Standard and Control Panel.
 
 * 20.2.1 release - [Read more](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html#release-20-2-2-build-9180)
 
-### New Campaign courses and tutorials
+### New and updated Campaign courses and tutorials
 
 New videos, tutorials, or courses published over the past month.
 
