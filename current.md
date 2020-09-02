@@ -66,7 +66,7 @@ See [Experience Platform release notes](https://www.adobe.io/apis/experienceplat
 
 Using Adobe Experience Platform, orchestrate individual customer journeys at scale across experience channels by intelligently anticipating every individual’s needs in real time, wherever their journey takes them.
 
-### New Campaign courses and tutorials
+### New Journey Orchestration courses and tutorials
 
 New videos, tutorials, or courses published over the past month.
 
