@@ -149,10 +149,7 @@ Fixes and updates applied to Analytics administration tools, including implement
   <tr> 
    <td colname="col1"> <p>AppMeasurement (Legacy and Mobile SDKs) </p> </td> 
    <td colname="col2"> 
-<!-- <draft-comment> 
-     <p>https://wiki.corp.adobe.com/display/omtrcache/AppMeasurement+Change+Log </p> 
-     <p>https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/release/index.html </p> 
-    </draft-comment> --> <p> <b> <span class="keyword"> AppMeasurement </span> for JavaScript</b> </p> <p> <b>JavaScript 2.0.0</b> </p> 
+    <p> <b> <span class="keyword"> AppMeasurement </span> for JavaScript</b> </p> <p> <b>JavaScript 2.0.0</b> </p> 
     <ul id="ul_09DF64207E7D4D02AEC7155165C0CF55"> 
      <li id="li_6AF1BF4BE803487FA86A9E045CB1D05E">Moved to a new build process that requires a version number update to 2.0.0. (AN-137878) </li> 
      <li id="li_C40D9B53ADDF48469F508AD6DE961BBD">Moved mboxMCSDID handling into the correct section location where the tracking call is made. (AN-138483) </li> 
