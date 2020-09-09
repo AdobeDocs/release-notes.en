@@ -2,6 +2,7 @@
 cloud: experience-cloud
 product: Experience Cloud
 user-guide-title: Adobe Experience Cloud Release Notes
+user-guide-description: Learn about new features, fixes, and important notices in Adobe Experience Cloud.
 user-guide-url: https://www.adobe.com
 ---
 
