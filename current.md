@@ -24,7 +24,7 @@ This page describes new features, fixes, and important notices in [!DNL Adobe Ex
 
 Product release dates may vary. Check back frequently for updates.
 
-Latest update: **September 4, 2020**
+Latest update: **September 10, 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud interface](#ecloud)
@@ -56,7 +56,7 @@ See [Cumulative release notes](https://docs.adobe.com/content/help/en/core-servi
 
 Release notes for the [!DNL Experience Platform] and application services, including [!DNL Experience Platform Launch,] [!UICONTROL Offers], [!UICONTROL People], [!UICONTROL Places], [!UICONTROL Mobile Services], and security bulletins.  
 
-Release date: **August 12, 2020**
+Release date: **September 9, 2020**
 
 Updates to existing features in Adobe Experience Platform:
 
