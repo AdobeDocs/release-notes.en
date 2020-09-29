@@ -20,13 +20,13 @@ This page describes new features, fixes, and important notices in [!DNL Adobe Ex
 
 Product release dates may vary. Check back frequently for updates.
 
-Latest update: **September 23, 2020**
+Latest update: **September 29, 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud interface](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) (Updated Sept. 23, 2020) and [Customer Journey Analytics](#cust-journey)
+* [Analytics](#analytics) (Updated Sept. 29, 2020) and [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -104,7 +104,7 @@ New videos, tutorials, and courses published for [!UICONTROL Journey Orchestrati
 * [New features in Customer Journey Analytics](#cust-journey)
 * [New features in Media Analytics](#media-aa)
 * [Fixes in Adobe Analytics](#aa-fixes)
-* [Important notices for Analytics administrators](#aa-notices) (Updated Sept. 23, 2020)
+* [Important notices for Analytics administrators](#aa-notices) (Updated Sept. 29, 2020)
 * [Analytics courses and tutorials](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -157,6 +157,7 @@ AN-215683; AN-216894; AN-226370; AN-227138; AN-227154; AN-227328; AN-227486; AN-
 
 | Notice | Date Added or Updated  | Description |
 | ----------- | ---------- | ---------- |
+| Adding HSTS header to all incoming HTTPS requests | Sept. 29, 2020 | On Sept. 29, 2020, we started adding the HSTS header to all incoming requests that use HTTPS. This instructs the browser/client to make all future requests in HTTPS, which is a considered a security best practice. At this point, we will not enforce this for incoming requests using HTTP. |
 | Change to ECID cookie setting | Sept. 22, 2020 | An update to the privacy settings for Chrome version 80 impacted the ability of Adobe Analytics to track some users viewing Google AMP pages. Specifically, it prevents cross-domain tracking of users viewing Google-hosted AMP pages. This could result in inflated counts of unique visitors. This fix allows users to address this problem by changing the settings for their ECID cookies. Currently, Analytics sets ECID cookies with the setting `SameSite = Lax` which, prior to version 80 of Chrome, allowed cross-domain tracking. This is no longer the case. This change allows users to update the SameSite setting for ECID cookies to `None`. Note that this does allow the Analytics cookie to be shared in more situations, but Analytics cookies do not contain any sensitive information. In addition, when choosing this setting, cookies must be set to `Secure` so that data can only be passed via HTTPS connections. If you would like to make this change, please have a supported user open a ticket with Customer Care. |
 | Migration from `omniture.com` to `adobe.com` domain | August 21, 2020 | On August 13, 2020, Adobe Analytics migrated its frontend architecture from `omniture.com|http://omniture.com/` to the `adobe.com|http://adobe.com/` domain. This change should mitigate third-party cookie issues that arose after the initial May 28, 2020 unified product domain change. As a result of this update, the browser may prompt users to trust the new an `.adobe.com|http://an.adobe.com/` or `experience.adobe.com|http://experience.adobe.com/` domain. |
 | Update on Ad Hoc Analysis Java 8 compatibility | August 21, 2020 | Ad Hoc Analysis is not currently compatible with Java 8 versions 1.8.0_261+. To ensure that your access to this tool is not disrupted before the [end-of-life date](https://spark.adobe.com/page/S9Bhp66VJ2fEn/) is reached, we recommend that you maintain a Java 8 version prior to 1.8.0_261. |
