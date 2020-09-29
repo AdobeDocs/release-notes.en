@@ -244,11 +244,11 @@ Fixes and updates applied to Analytics administration tools, including implement
 **Fixes, Enhancements, and Deprecations** 
 
 
-* Fixed a bug in [!UICONTROL  Audience Marketplace] that doubled the fees for a data feed if that feed had +1 contact person listed. (AAM-27797)
-* Fixed a bug in [!UICONTROL  Audience Marketplace] that displayed an error icon for a $0.00 CPM feed where no usage is entered for a given month. (AAM-27755)
-* Changed a field label in the [!UICONTROL  Audience Marketplace] subscriber list to "Last Month's Billable Income." (AAM-27754)
+* Fixed a bug in [!UICONTROL Audience Marketplace] that doubled the fees for a data feed if that feed had +1 contact person listed. (AAM-27797)
+* Fixed a bug in [!UICONTROL Audience Marketplace] that displayed an error icon for a $0.00 CPM feed where no usage is entered for a given month. (AAM-27755)
+* Changed a field label in the [!UICONTROL Audience Marketplace] subscriber list to "Last Month's Billable Income." (AAM-27754)
 * Updated some user interface elements to comply with internal design standards and practices. (AAM-28028)
-* Added [!UICONTROL  Created by] and [!UICONTROL  Updated by] fields to the [!UICONTROL  Basic Information] section of the detail page for a segment. (AAM-25944)
+* Added [!UICONTROL Created by] and [!UICONTROL Updated by] fields to the [!UICONTROL Basic Information] section of the detail page for a segment. (AAM-25944)
 * Migrated the traits and folder API methods to Swagger. See [Audience Manager API Code Migration](https://marketing.adobe.com/resources/help/en_US/aam/c_api_swagger.html). (AAM-28221 and AAM-27133)
 
 
@@ -540,7 +540,7 @@ Refer to the [Livefyre Release Notes](https://marketing.adobe.com/resources/help
  </tbody> 
 </table>
 
-More details are available in the product at  **[!UICONTROL  ?]** > **[!UICONTROL  Help Contents]** . 
+More details are available in the product at  **[!UICONTROL ?]** > **[!UICONTROL Help Contents]** . 
 
 [Top](../../c_legacy_releases/2017/03092017.md#marketingcloud) 
 P
