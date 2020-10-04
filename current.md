@@ -275,7 +275,13 @@ See the [AEM as a Cloud Service release notes.](https://docs.adobe.com/content/h
 
 ### Self-Help
 
+**[!DNL Experience Manager] Sites**
+
+Rich Text Editor documentation is updated to list all [the supported protocols for links in RTE](https://docs.adobe.com/content/help/en/experience-manager-65/administering/operations/configure-rich-text-editor-plug-ins.html#linkstyles).
+
 **[!DNL Experience Manager] Assets**
+
+* New help content on [how AEM Assets is accessible](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/assets/accessibility.html) for all users is available.
 
 * **[Viewmode parameter](https://docs.adobe.com/content/help/en/experience-manager-65/assets/using/search-assets.html#assetpicker)** is added to asset selector (asset picker) to open the asset selector in search mode. To open asset selector in search mode and use with `assettype` and `mimetype`, user needs to suffix the `viewmode=search` parameter in the url `https://[aem-server]:[port]/aem/assetpicker.html`. For example, `https://[aem-server]:[port]/aem/assetpicker.html?viewmode=search&assettype=images`.
 
@@ -286,6 +292,8 @@ See the [AEM as a Cloud Service release notes.](https://docs.adobe.com/content/h
 * If users have modified [Apache Jackrabbit Oak TokenConfiguration](https://helpx.adobe.com/experience-manager/kb/How-to-set-token-session-expiration-AEM.html) to set the timeout configuration to be less than the time it takes for an asset to upload, then user can encounter session timeout situation.Users, therefore, need to change the `chunkUploadMinFileSize` and `chunksize`, so that each chunk request refreshes the session. For more information, see [upload assets](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#uploading-assets).
 
 * Assets can be [moved in to sibling folders using drag operation](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets) also, apart from [!UICONTROL Move (m)] operation that opens [!UICONTROL Move Assets] wizard.
+
+* For Assets Insights, use [Adobe Launch](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/advanced/asset-insights-launch-tutorial.html). [DTM integration](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/touch-ui-using-dtm-for-asset-insights.html) is called out as a deprecated method in the docs.
 
 **[!DNL Adobe Experience Manager] desktop app**
 
