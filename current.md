@@ -291,13 +291,13 @@ Rich Text Editor documentation is updated to list all [the supported protocols f
 
 * If users have modified [Apache Jackrabbit Oak TokenConfiguration](https://helpx.adobe.com/experience-manager/kb/How-to-set-token-session-expiration-AEM.html) to set the timeout configuration to be less than the time it takes for an asset to upload, then user can encounter session timeout situation.Users, therefore, need to change the `chunkUploadMinFileSize` and `chunksize`, so that each chunk request refreshes the session. For more information, see [upload assets](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#uploading-assets).
 
-* Assets can be [moved in to sibling folders using drag operation](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets) also, apart from [!UICONTROL Move (m)] operation that opens [!UICONTROL Move Assets] wizard.
+* Assets can be [moved in to sibling folders using drag operation](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets) also, apart from [!UICONTROL Move(m)] operation that opens [!UICONTROL Move Assets] wizard.
 
 * For Assets Insights, use [Adobe Launch](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/advanced/asset-insights-launch-tutorial.html). [DTM integration](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/touch-ui-using-dtm-for-asset-insights.html) is called out as a deprecated method in the docs.
 
 **[!DNL Adobe Experience Manager] desktop app**
 
-* Users logging in to desktop app after logging out or logging in for the first time should provide their [!DNL Experience Manager] server URL in the format https://[aem-server-url]:[port]/ and then select [!UICONTROL Connect] option, to avoid the error "The application encountered an unknown error". For more information, see [Use Adobe Experience Manager desktop app](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/using.html).
+* Users logging in to desktop app after logging out or logging in for the first time should provide their [!DNL Experience Manager] server URL in the format `https://[aem-server-url]:[port]/` and then select [!UICONTROL Connect] option, to avoid the error "The application encountered an unknown error". For more information, see [Use Adobe Experience Manager desktop app](https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/using.html).
 
 ### Community
 
