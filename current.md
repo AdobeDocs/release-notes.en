@@ -47,7 +47,7 @@ Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#h
 
 [!UICONTROL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe cloud products and services outage, disruption, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
-Not updated in September. 
+Not updated in September.
 
 See [Adobe System Status - May 21, 2020](https://docs-stg.corp.adobe.com/content/help/en/release-notes/experience-cloud/previous/2020/05212020.html#status) for the latest release information.
 
@@ -57,7 +57,7 @@ Formerly called _Experience Cloud core services_, the [Experience Cloud services
 
 Not updated in September.
 
-See [Cumulative release notes](https://docs.adobe.com/content/help/en/core-services/interface/release-notes/release-notes.html) for the latest release information.  
+See [Cumulative release notes for Experience Cloud services](https://docs.adobe.com/content/help/en/core-services/interface/release-notes/release-notes.html) for the latest release information.  
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
@@ -98,6 +98,8 @@ September release - See [Release Notes for Journey Orchestration](https://docs.a
 [Documentation](https://docs.adobe.com/content/help/en/journeys/using/journey-orchestration-home.html) - [Release Notes](https://docs.adobe.com/content/help/en/journeys/using/release-notes/release-notes.html) - [How-to videos](https://docs.adobe.com/content/help/en/platform-learn/tutorials/journey-orchestration/introduction.html)
 
 ## ![Icon](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
+
+Release date: **October 8, 2020**
 
 * [New features in Adobe Analytics](#aa-features)
 * [New features in Customer Journey Analytics](#cust-journey)
@@ -392,7 +394,7 @@ New videos, tutorials, or courses published over the past month.
 | ----------- | ----------- | ---------- | ---------- |
 |September 22, 2020|[Journey AI - Predictive send time optimization - Video](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-send-time-optimization.html)|Campaign Standard|Understand which workflows are required to sync data between Adobe Campaign and the Journey AI model. Learn how to view send time scores at individual profile level and how to execute email deliveries using a send time formula.|
 |September 22, 2020|[Journey AI - Predictive engagement scoring - Video](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/journey-ai/predictive-engagement-scoring.html)|Campaign Standard|Learn how to view engagement scores at the individual profile level, use scores for targeting engaged users and suppressing fatigued users and how to create typology rules to manage customer fatigue.|
-|September 22, 2020|[Adding control a group to a delivery - Video](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/control-groups.html)|Campaign Standard|Learn how to define a control group for your delivery and how to extract the profiles assigned to the control group after the delivery has been sent.|
+|September 22, 2020|[Adding a control group to a delivery - Video](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/control-groups.html)|Campaign Standard|Learn how to define a control group for your delivery and how to extract the profiles assigned to the control group after the delivery has been sent.|
 |11 Sept, 2020 |[Delegating subdomains](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/subdomain-delegation.html) |Campaign Classic |Adobe Campaign Control Panel allows you to fully delegate a subdomain to Adobe Campaign.|
 |3 Sept, 2020 |[Adding IP addresses to allow lists](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html) |Campaign Classic |The Control Panel allows you to set up new connections to your instances by allow listing IP address ranges. By default, an Adobe Campaign Classic instance is not accessible from various IP addresses. |
 |3 Sept, 2020 |[Control Panel - Adding URL Permissions](https://docs.adobe.com/content/help/en/campaign-learn/campaign-classic-tutorials/administrating/control-panel-acc/adding-url-permissions.html) |Campaign Classic |The Control Panel allows you to set up new connections to your instances by allow listing IP address ranges. By default, an Adobe Campaign Classic instance is not accessible from various IP addresses. |
