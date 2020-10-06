@@ -45,7 +45,7 @@ Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#h
 
 >[!NOTE]
 >
->Documentation is moving to Experience League. During October, all release notes, articles, videos, and tutorials will move from their current location at `docs.adobe.com` and be available as part of Experience League. This move ensures that all learning, self-help, enablement, and community content is served from a single location: Experience League. When this change occurs, there is nothing you need to do, as all links will be redirected to the new location. We will update the release notes when the cutover begins.
+>Experience Cloud documentation is moving to Experience League. During October, all release notes, articles, videos, and tutorials will move from their current location at `docs.adobe.com` and be available as part of Experience League. This move ensures that all learning, self-help, enablement, and community content is served from a single location: Experience League. When this change occurs, there is nothing you need to do, as all links will be redirected to the new location. We will update the release notes when the cutover begins.
 
 ## ![Icon](/assets/adobe.png) Adobe System Status {#status}
 
