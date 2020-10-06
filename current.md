@@ -43,6 +43,10 @@ Latest update: **October 2, 2020**
 
 Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#home) to find product and technical documentation, Adobe-curated courses, video tutorials, quick answers, community insight, and instructor-led training.
 
+>[!NOTE]
+>
+>Documentation is moving to Experience League. During October, all release notes, articles, videos, and tutorials will move from their current location at `docs.adobe.com` and be available as part of Experience League. This move ensures that all learning, self help, enablement, and community content is served from a single location: Experience League. When this change occurs, there is nothing you have to do, as all links will be redirected to the new location. We will update the release notes when the cutover begins.
+
 ## ![Icon](/assets/adobe.png) Adobe System Status {#status}
 
 [!UICONTROL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe cloud products and services outage, disruption, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
