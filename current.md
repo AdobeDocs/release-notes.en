@@ -24,13 +24,13 @@ This page describes new features, fixes, and important notices in [!DNL Adobe Ex
 
 Product release dates may vary. Check back frequently for updates.
 
-Latest update: **October 2, 2020**
+Latest update: **October 7, 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud services and administration](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey) (Updated Oct. 2, 2020)
+* [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey) (Updated Oct. 7, 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -106,7 +106,7 @@ September release - See [Release Notes for Journey Orchestration](https://docs.a
 Release date: **October 8, 2020**
 
 * [New features in Adobe Analytics](#aa-features)
-* [New features in Customer Journey Analytics](#cust-journey)
+* [New features in Customer Journey Analytics](#cust-journey) (Updated Oct. 7, 2020)
 * [New features in Media Analytics](#media-aa)
 * [Fixes in Adobe Analytics](#aa-fixes)
 * [Important notices for Analytics administrators](#aa-notices)
@@ -135,6 +135,7 @@ Release date: **October 8, 2020**
 | Analysis Workspace Performance Help page | Oct. 22, 2020 | The Analysis Workspace performance help page shows the different factors that impact project performance and links to tips for optimization. [Learn more](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | [!UICONTROL Line] visualization: Moving average trendline option | Oct. 8, 2020 | Moving average has been added to Line visualization trendline settings. A moving average calculates the mean for a specified prior period and uses that as the trendline data point, then moves to the next period. [Learn more](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | Removing backfill limitation | Oct 19, 2020 | Previously, you could backfill a maximum of 2.5 billion rows while creating a connection. We are removing the backfill limitation and allowing you to backfill up to 13 months of data, irrespective of size. |
+| CJA field-based stitching | Oct. 30, 2020 |  CJA field-based stitching enables customers to re-key an Adobe Analytics (or other) event dataset in Adobe Experience Platform data lake from one ID namespace to another. Typically, this means re-keying the event dataset from a cookie-based ID to a person-based ID. This way, the re-keyed dataset may be combined with other person-based data in a CJA connection, thus enabling cross-device/cross-channel analysis in Analysis Workspace. |
 
 ### New features in [!UICONTROL Media Analytics] {#media-aa}
 
