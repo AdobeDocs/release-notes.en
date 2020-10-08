@@ -6,7 +6,7 @@ last-update: October 2020
 author: mfrei
 ---
 
-# Early Access - Adobe Experience Cloud Release Notes - October 2020 
+# Adobe Experience Cloud Release Notes - October 2020 
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
@@ -14,23 +14,19 @@ This page describes new features, fixes, and important notices in [!DNL Adobe Ex
 
 >[!IMPORTANT]
 >
->This page contains pre-release content and is subject to change prior to the planned release.
+>This page may contains pre-release content for certain products and is subject to change prior to release dates. Check back frequently for updates.
 
 >[!NOTE]
 >
 >Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases.
 
-**Release date: October 8, 2020**
-
-Product release dates may vary. Check back frequently for updates.
-
-Latest update: **October 7, 2020**
+Latest update: **October 8, 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud services and administration](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey) (Updated Oct. 7, 2020)
+* [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey) 
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -67,7 +63,7 @@ See [Cumulative release notes for Experience Cloud services](https://docs.adobe.
 
 Release notes for the [!DNL Experience Platform].
 
-Release date: **September 9, 2020**
+Released: **September 9, 2020**
 
 See [Experience Platform release notes](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md) for information about updates to:
 
@@ -103,7 +99,7 @@ September release - See [Release Notes for Journey Orchestration](https://docs.a
 
 ## ![Icon](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-Release date: **October 8, 2020**
+Release date: End of **October 8, 2020**
 
 * [New features in Adobe Analytics](#aa-features)
 * [New features in Customer Journey Analytics](#cust-journey) (Updated Oct. 7, 2020)
@@ -201,7 +197,7 @@ New courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Custome
 
 New features, fixes, documentation and tutorials in Audience Manager.
 
-Release date: **October 8, 2020**
+Release date: End of **October 8, 2020**
 
 ### New features and fixes in Adobe Audience Manager
 
@@ -227,6 +223,10 @@ New videos, tutorials, or courses published for Audience Manager.
 ## ![Icon](/assets/aem.png) Adobe Experience Manager {#aem}
 
 New features, fixes, and updates in Adobe Experience Manager (AEM). Adobe recommends customers with on-premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
+
+>[!NOTE]
+>
+>Adobe recommends visiting [Experience Manager release updates and roadmap](https://docs.adobe.com/content/help/en/experience-manager-release-information/aem-release-updates/home.html) frequently to stay current on release information.
 
 ### Product releases
 
@@ -428,7 +428,7 @@ Release notes for Adobe Advertising Cloud.
 
 ### New features in [!UICONTROL Advertising Cloud Search] {#adcloud-search}
 
-**August 8** release
+Release date: **August 8, 2020**
 
 | Feature | Description |
 | ----------- | ---------- |
