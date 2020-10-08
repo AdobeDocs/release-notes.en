@@ -14,7 +14,7 @@ This page describes new features, fixes, and important notices in [!DNL Adobe Ex
 
 >[!IMPORTANT]
 >
->This page may contains pre-release content for certain products and is subject to change prior to release dates. Check back frequently for updates.
+>This page may contain pre-release content for certain products and is subject to change prior to release dates. Check back frequently for updates.
 
 >[!NOTE]
 >
