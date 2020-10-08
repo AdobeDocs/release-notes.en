@@ -353,6 +353,7 @@ New videos, tutorials, and courses published over the past month.
 
 All Experience Manager release notes are maintained at the following pages:
 
+* [Experience Manager release updates and roadmap](https://docs.adobe.com/content/help/en/experience-manager-release-information/aem-release-updates/home.html)
 * [AEM as a Cloud Service release information](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/release-notes/home.html)
 * [AEM Cloud Manager release notes](https://docs.adobe.com/content/help/en/experience-manager-cloud-manager/using/release-notes/release-notes-current.html)
 * [Automated Forms Conversion Service release notes](https://docs.adobe.com/content/help/en/aem-forms-automated-conversion-service/using/release-notes.html)
