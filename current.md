@@ -420,21 +420,25 @@ Release notes for Adobe Advertising Cloud.
 * [New features in Advertising Cloud DSP](#adcloud-dsp)
 * [New features in Advertising Cloud Search](#adcloud-search)
 
-### New features in [!UICONTROL Advertising Cloud DSP] {#adcloud-dsp}
+### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+
+Release date: October 15, 2020
 
 | Feature    | Description  |
 | -----------| ---------- |
-| Interactive pre-roll extended to include VAST inventory|Each interactive pre-roll placement and ad can now support both VPAID and VAST inventory. **Note:** If your primary KPI is view ability, then continue to create separate VPAID and VAST placements and ads because viewable impressions aren’t available for VAST ads.|
+| Private Inventory | All users can now set up and edit deal ID details using a new deal ID form, which is a simplified version of the legacy [!UICONTROL Smart Ad Serving] form. To set up new deal ID details, go to **[!UICONTROL Inventory > Deals]**, click **[!UICONTROL Create]**, and then click **[!UICONTROL Deal ID Beta]**. |
+| Placement Forecasting | For placements with placement-level pacing, the [!UICONTROL Forecast] section of the placement settings includes a new [!UICONTROL Estimated Maximums] section, which indicates how much more capacity is available with the current targeting configuration. |
 
-### New features in [!UICONTROL Advertising Cloud Search] {#adcloud-search}
+### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Release date: **August 8, 2020**
+Release date: October 17, 2020
 
-| Feature | Description |
-| ----------- | ---------- |
-| [!UICONTROL Portfolios] | Portfolio-level position limits are no longer available in portfolio settings. Any previously-created position limits were removed. |
-| [!UICONTROL Constraints] | Position-based constraints and constraint conditions are no longer supported: <br/> <ul><li>[!UICONTROL Min Pos] and [!UICONTROL Max Pos] constraints are no longer available and were removed from all previously-created [!UICONTROL Bid & Position] constraints and [!UICONTROL Impression Share] constraints.</li><li>Existing [!UICONTROL Bid & Position] constraints that included position constraints but no bid constraints were paused. They are still available in the UI and in reports.</li><li>[!UICONTROL Bid & Position] constraints were renamed [!UICONTROL Bid] constraints.</li><li>All position-based conditions (using [!UICONTROL Average Position], [!UICONTROL Weighted Average Position], or [!UICONTROL Last Known Pos] metrics) in any type of constraint were removed.</li></ul> <br/> **Note:** Position data will continue to be populated as long as it is available from the search engines. Microsoft Ads will retire position in September 2020. |
-| [!UICONTROL Campaigns] | (Google Ads campaigns) Advertising Cloud Search now supports ad customizers in responsive search ads (RSAs). Previously, they were supported in all ad types except for RSAs. |
+| Feature    | Description  |
+| -----------| ---------- |
+| Search Campaigns| In the [!UICONTROL Accounts] view, the [!UICONTROL Access] column now indicates when [!DNL Advertising Cloud Search] is unable to log in to an enabled search engine account. To see the cause of the error, hold the cursor over the warning icon. |
+| [!UICONTROL Custom Alerts] | The former [!UICONTROL Alerts Beta] is now called [!UICONTROL Custom Alerts]. |
+|   | In custom alerts, the workflow for identifying when metrics for the specified date range have increased or decreased from metrics for the previous period was simplified and moved to the [!UICONTROL Filters] tab. |
+
 
 ## ![Icon](/assets/magento.png) [!DNL Magento] {#magento}
 
