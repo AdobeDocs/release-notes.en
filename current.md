@@ -439,7 +439,6 @@ Release date: October 17, 2020
 | [!UICONTROL Custom Alerts] | The former [!UICONTROL Alerts Beta] is now called [!UICONTROL Custom Alerts]. |
 |   | In custom alerts, the workflow for identifying when metrics for the specified date range have increased or decreased from metrics for the previous period was simplified and moved to the [!UICONTROL Filters] tab. |
 
-
 ## ![Icon](/assets/magento.png) [!DNL Magento] {#magento}
 
 For Magento release notes, see:
