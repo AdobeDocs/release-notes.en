@@ -197,7 +197,15 @@ New courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Custome
 
 New features, fixes, documentation and tutorials in Audience Manager.
 
-Release date: End of **October 8, 2020**
+Updated **October 22, 2020**
+
+### New features, enhancements, and fixes in Audience Manager {#aam-features}
+
+|Feature| Date Added or Updated| Description|
+|----|----|----|
+|[Predictive Audiences](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html)| October 21, 2020 | <ul><li>**Predictive Audiences Model Cloning**: You can now clone existing models and change their configuration based on your needs. Read [Cloning and Editing Predictive Audience Models](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences-start.html#clone-predictive-audiences) for more information.</li><li>**Predictive Audiences Batch Classification**: In addition to classifying visitors in distinct personas in real-time, Predictive Audiences now supports batch classification, helping you classify onboarded users and activate to batch destinations.</li></ul>|
+
+### Fixes and Improvements {#aam-fixes-and-improvements}
 
 ### New features and fixes in Adobe Audience Manager
 
