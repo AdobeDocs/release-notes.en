@@ -207,8 +207,6 @@ Updated **October 22, 2020**
 
 ### Fixes and Improvements {#aam-fixes-and-improvements}
 
-### New features and fixes in Adobe Audience Manager
-
 * Fixed an issue with the Audience Manager REST API, where the traits endpoint would not return cross-device metrics when filtering traits in the request. (AAM-55878)
 * Fixed an issue in People-based Destinations, where for Facebook integrations access token expiry reminder emails were not sent to the correct recipients. (AAM-56215)
 * Fixed an issue with Google destinations, where customers were receiving a `RateExceededError: Rate_Exceeded` error when mapping segments to their Google destinations. (AAM-55998)
