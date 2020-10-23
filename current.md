@@ -197,13 +197,14 @@ New courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Custome
 
 New features, fixes, documentation and tutorials in Audience Manager.
 
-Updated **October 22, 2020**
+Updated **October 23, 2020**
 
 ### New features, enhancements, and fixes in Audience Manager {#aam-features}
 
-|Feature| Date Added or Updated| Description|
+|Feature| Date Added or Updated|  Description|
 |----|----|----|
 |[Predictive Audiences](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences.html)| October 21, 2020 | <ul><li>**Predictive Audiences Model Cloning**: You can now clone existing models and change their configuration based on your needs. Read [Cloning and Editing Predictive Audience Models](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/algorithmic-models/predictive-audiences/predictive-audiences-start.html#clone-predictive-audiences) for more information.</li><li>**Predictive Audiences Batch Classification**: In addition to classifying visitors in distinct personas in real-time, Predictive Audiences now supports batch classification, helping you classify onboarded users and activate to batch destinations.</li></ul>|
+|[Overlap reports](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reporting/interactive-and-overlap-reports/dynamic-reports.html)| October 23, 2020 | We've updated the methodology we use for calculating Overlap Reports ([Trait-to-Trait](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reporting/interactive-and-overlap-reports/trait-trait-overlap-report.html), [Segment-to-Trait](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reporting/interactive-and-overlap-reports/segment-trait-overlap-report.html), [Segment-to-Segment](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reporting/interactive-and-overlap-reports/segment-segment-overlap-report.html)). Overlap Reports computation is now based on reporting uniques and MinHash signatures (rather than [1/54 data sampling](https://docs.adobe.com/content/help/en/audience-manager/user-guide/reporting/report-sampling.html#data-sampling-ratio)).|
 
 ### Fixes and Improvements {#aam-fixes-and-improvements}
 
