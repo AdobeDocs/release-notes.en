@@ -6,7 +6,7 @@ last-update: November 2020
 author: mfrei
 ---
 
-# Internal Review - Adobe Experience Cloud Release Notes - November 2020 
+# Adobe Experience Cloud Release Notes - November 2020 
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
