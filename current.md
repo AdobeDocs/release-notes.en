@@ -49,7 +49,7 @@ Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#h
 
 Not updated.
 
-See [Adobe System Status - May 21, 2020](https://docs-stg.corp.adobe.com/content/help/en/release-notes/experience-cloud/previous/2020/05212020.html#status) for the latest release information.
+See [Adobe System Status - May 21, 2020](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/previous/2020/05212020.html#status) for the latest release information.
 
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloud services and administration {#ecloud}
 
