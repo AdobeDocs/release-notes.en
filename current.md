@@ -93,7 +93,7 @@ Using Adobe Experience Platform, orchestrate individual customer journeys at sca
 Release date: **October 29, 2020**
 
 * [New features in Adobe Analytics](#aa-features)
-* [New features in Customer Journey Analytics](#cust-journey)
+* [New features in Customer Journey Analytics](#cust-journey) (Updated Oct. 28, 2020)
 * [New features in Media Analytics](#media-aa)
 * [Fixes in Adobe Analytics](#aa-fixes)
 * [Important notices for Analytics administrators](#aa-notices)
@@ -110,7 +110,7 @@ Release date: **October 29, 2020**
 |[!UICONTROL Workspace]: Performance Help page | Oct. 22, 2020 | The [!UICONTROL Analysis Workspace] performance help page shows the different factors that impact project performance and links to tips for optimization. [Learn more](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | Enhancements to Analytics [!UICONTROL dashboards] UI | Oct. 23, 2020 | When building a mobile scorecard in [!UICONTROL Workspace], the styling of the scorecard now matches the app. |
 
-### New features in Customer Journey Analytics {#cust-journey} (Updated Oct. 28, 2020)
+### New features in Customer Journey Analytics {#cust-journey}
 
 | Feature | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Target Date | Description |
 | ----------- | ---------- | ----- |
