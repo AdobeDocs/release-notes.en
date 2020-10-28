@@ -462,7 +462,7 @@ Updated: October 28, 2020
 
 ### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Release date: October 17, 2020
+Release date: **October 17, 2020**
 
 | Feature    | Description  |
 | -----------| ---------- |
