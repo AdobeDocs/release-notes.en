@@ -20,7 +20,7 @@ This page describes new features, fixes, and important notices in [!DNL Adobe Ex
 >
 >Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases.
 
-Latest update: **October 23, 2020**
+Latest update: **October 28, 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud services and administration](#ecloud)
@@ -28,7 +28,7 @@ Latest update: **October 23, 2020**
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey) (Updated Oct. 22, 2020)
 * [Audience Manager](#aam)
-* [Experience Manager](#aem)
+* [Experience Manager](#aem) (Updated: **10/28/2020**)
 * [Campaign](#ac)
 * [Advertising Cloud](#adcloud)
 * [[!DNL Target]](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html)
@@ -283,6 +283,15 @@ Rich Text Editor documentation is updated to list all [the supported protocols f
 * Assets can be [moved in to sibling folders using drag operation](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/managing-assets-touch-ui.html#moving-or-renaming-assets) also, apart from [!UICONTROL Move(m)] operation that opens [!UICONTROL Move Assets] wizard.
 
 * For Assets Insights, use [Adobe Launch](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/advanced/asset-insights-launch-tutorial.html). [DTM integration](https://docs.adobe.com/content/help/en/experience-manager-65/assets/managing/touch-ui-using-dtm-for-asset-insights.html) is called out as a deprecated method in the docs.
+
+Updated: **10/28/2020**
+
+* **Brand Portal enhancements**: The following new features and more are available in [!DNL Brand Portal]:
+
+  * [Enhanced download experience](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/download/brand-portal-download-assets.html) for simplified, quick downloads. Additional download configurations can be configured by administrators to offer an experience that suits the needs of the users and businesses.
+  * One-click navigation to [!UICONTROL Files], [Collections](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/share/brand-portal-share-collection.html), and [!UICONTROL Shared Links] is now possible from any page.
+  * Users can [select and download specific renditions](https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/download/brand-portal-download-assets.html#download-assets-from-asset-details-page) now. The new rendition download option is available in the [!UICONTROL Renditions] panel in the Asset details page.
+  * A timeout of 15 minutes for guest user sessions ensures a better experience to all concurrent users.
 
 ### [!DNL Experience Manager] Forms
 
