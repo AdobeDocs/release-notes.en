@@ -26,7 +26,7 @@ Latest update: **October 28, 2020**
 * [Experience Cloud services and administration](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey) (Updated Oct. 22, 2020)
+* [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey) (Updated Oct. 28, 2020)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) (Updated: **10/28/2020**)
 * [Campaign](#ac)
@@ -93,7 +93,7 @@ Using Adobe Experience Platform, orchestrate individual customer journeys at sca
 Release date: **October 29, 2020**
 
 * [New features in Adobe Analytics](#aa-features)
-* [New features in Customer Journey Analytics](#cust-journey)
+* [New features in Customer Journey Analytics](#cust-journey) (Updated Oct. 28, 2020)
 * [New features in Media Analytics](#media-aa)
 * [Fixes in Adobe Analytics](#aa-fixes)
 * [Important notices for Analytics administrators](#aa-notices)
@@ -104,7 +104,7 @@ Release date: **October 29, 2020**
 
 | Feature | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Target Date | Description |
 | ----------- | ---------- | ------- |
-| Adobe Analytics documentation | October 2020 | Adobe Analytics documentation is moving to Experience League. During October, all articles, videos, release notes, and tutorials will move from their current location at `docs.adobe.com` to `experienceleague.adobe.com`. This move ensures that all learning, self-help, enablement, and community content is served from a single location. When this change occurs, there is nothing you need to do, as all links will be redirected to Experience League. We will update the release notes when the cutover begins. |
+| Adobe Analytics documentation | October/Nov 2020 | Adobe Analytics documentation is moving to Experience League. During October, all articles, videos, release notes, and tutorials will move from their current location at `docs.adobe.com` to `experienceleague.adobe.com`. This move ensures that all learning, self-help, enablement, and community content is served from a single location. When this change occurs, there is nothing you need to do, as all links will be redirected to Experience League. We will update the release notes when the cutover begins. |
 |[!UICONTROL Workspace] [!UICONTROL Line] visualization: Moving average trendline option | Oct. 8, 2020 | Moving average has been added to [!UICONTROL Line] visualization trendline settings. Also known as a rolling average, a moving average uses a specific number of data points (determined by a [!UICONTROL Periods] selection), averages them, and uses the average as a point in the line. [Learn more](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | [!UICONTROL Data Repair] API | Oct. 8, 2020 | The [!UICONTROL Data Repair] API is a tool to delete data from Analytics report suites. The October release includes the ability to delete specified eVars, props, and [!UICONTROL Activity Map] variables for a specified date range. Additional functionality will be released in the future. Use of the [!UICONTROL Data Repair] API permanently deletes existing Adobe Analytics data. We recommend a careful approach to executing the repair to minimize accidental deletion. Access to the [!UICONTROL Data Repair] API requires a contract - reach out to your account team for more details. [Learn more](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/data-repair.md) |
 |[!UICONTROL Workspace]: Performance Help page | Oct. 22, 2020 | The [!UICONTROL Analysis Workspace] performance help page shows the different factors that impact project performance and links to tips for optimization. [Learn more](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
@@ -114,9 +114,9 @@ Release date: **October 29, 2020**
 
 | Feature | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Target Date | Description |
 | ----------- | ---------- | ----- |
-| Customer Journey Analytics documentation | October 2020 | Customer Journey Analytics documentation is moving to Experience League. During October, all articles, videos, release notes, and tutorials will move from their current location at `docs.adobe.com` to `experienceleague.adobe.com`. This move ensures that all learning, self-help, enablement, and community content is served from a single location. When this change occurs, there is nothing you need to do, as all links will be redirected to Experience League. We will update the release notes when the cutover begins. |
+| Customer Journey Analytics documentation | October/Nov 2020 | Customer Journey Analytics documentation is moving to Experience League. During October, all articles, videos, release notes, and tutorials will move from their current location at `docs.adobe.com` to `experienceleague.adobe.com`. This move ensures that all learning, self-help, enablement, and community content is served from a single location. When this change occurs, there is nothing you need to do, as all links will be redirected to Experience League. We will update the release notes when the cutover begins. |
 | [!UICONTROL Line] visualization: Moving average trendline option | Oct. 8, 2020 | Moving average has been added to Line visualization trendline settings. A moving average calculates the mean for a specified prior period and uses that as the trendline data point, then moves to the next period. [Learn more](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html) |
-| Removing backfill limitation | Oct 19, 2020 | Previously, you could backfill a maximum of 2.5 billion rows while creating a connection. We are removing the backfill limitation and allowing you to backfill up to 13 months of data, irrespective of size. |
+| Removing backfill limitation | Oct 19, 2020 | In order to provide an improved CJA experience, we have removed the backfill (historical data import) limitation. Previously, you could backfill a maximum of 2.5 billion rows on your own and otherwise required engineering involvement. Now, you can backfill data on your own, without any limitation. [Learn more](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html#enable-connection) |
 | Analysis Workspace Performance Help page | Oct. 22, 2020 | The Analysis Workspace performance help page shows the different factors that impact project performance and links to tips for optimization. [Learn more](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | Components > User Preferences added to CJA Workspace | Oct. 29. 2020 | The Components > User Preferences page enables you to manage Analysis Workspace settings (and its related components) for your user. Currently, this includes the Thousands separator and CSV delimiter. |
 | Journey IQ: Cross-channel Analytics | Oct. 30, 2020 |  Journey IQ: Cross-channel Analytics enables customers to re-key an Adobe Analytics (or other) event dataset in Adobe Experience Platform data lake from one ID namespace to another. Typically, this means re-keying the event dataset from a cookie-based ID to a person-based ID. This way, the re-keyed dataset may be combined with other person-based data in a CJA connection, thus enabling cross-device/cross-channel analysis in Analysis Workspace. |
