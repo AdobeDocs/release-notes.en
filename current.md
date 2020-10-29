@@ -118,7 +118,10 @@ Release date: **October 29, 2020**
 | [!UICONTROL Line] visualization: Moving average trendline option | Oct. 8, 2020 | Moving average has been added to Line visualization trendline settings. A moving average calculates the mean for a specified prior period and uses that as the trendline data point, then moves to the next period. [Learn more](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/visualizations/line.html) |
 | Removing backfill limitation | Oct 19, 2020 | In order to provide an improved CJA experience, we have removed the backfill (historical data import) limitation. Previously, you could backfill a maximum of 2.5 billion rows on your own and otherwise required engineering involvement. Now, you can backfill data on your own, without any limitation. [Learn more](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-connections/create-connection.html#enable-connection) |
 | Analysis Workspace Performance Help page | Oct. 22, 2020 | The Analysis Workspace performance help page shows the different factors that impact project performance and links to tips for optimization. [Learn more](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
+<<<<<<< Updated upstream
 | Components > User Preferences added to CJA Workspace | Oct. 29. 2020 | The Components > User Preferences page enables you to manage Analysis Workspace settings (and its related components) for your user. Currently, this includes the Thousands separator and CSV delimiter. |
+=======
+>>>>>>> Stashed changes
 | Journey IQ: Cross-channel Analytics | Oct. 30, 2020 |  Journey IQ: Cross-channel Analytics enables customers to re-key an Adobe Analytics (or other) event dataset in Adobe Experience Platform data lake from one ID namespace to another. Typically, this means re-keying the event dataset from a cookie-based ID to a person-based ID. This way, the re-keyed dataset may be combined with other person-based data in a CJA connection, thus enabling cross-device/cross-channel analysis in Analysis Workspace. |
 
 ### New features in [!UICONTROL Media Analytics] {#media-aa}
