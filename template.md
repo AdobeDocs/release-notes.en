@@ -65,8 +65,6 @@ Features and fixes.
 
 For product documentation, see [Manage user and products](https://docs.adobe.com/content/help/en/core-services/interface/manage-users-and-products/admin-getting-started.html).
 
-## [!UICONTROL Experience Platform] {#platform}
-
 ## ![Icon](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
 Release notes for the [!DNL Experience Platform,] including [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration], [!UICONTROL Offers], [!UICONTROL People], [!UICONTROL Places], [!UICONTROL Mobile Services], and security bulletins.
