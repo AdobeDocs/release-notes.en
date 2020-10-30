@@ -61,6 +61,8 @@ See [Cumulative release notes for Experience Cloud services](https://docs.adobe.
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
+Includes release update information for Experience Platform and Experience Platform Launch,
+
 Released: **October 14, 2020**
 
 See [Experience Platform release notes](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md) for information about updates to:
@@ -69,6 +71,10 @@ See [Experience Platform release notes](https://www.adobe.io/apis/experienceplat
 * Real-time Customer Profile
 * Segmentation Service
 * Sources
+
+### Experience Platform Launch
+
+See [Experience Platform Launch release notes](https://docs.adobe.com/content/help/en/launch/using/intro/release-notes/current.html) for information about Platform Launch.
 
 ### Experience Platform and services tutorials and courses
 
