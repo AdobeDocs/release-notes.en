@@ -20,7 +20,7 @@ This page describes new features, fixes, and important notices in [!DNL Adobe Ex
 >
 >Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases.
 
-Latest update: **October 28, 2020**
+Latest update: **November 2, 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud services and administration](#ecloud)
@@ -28,10 +28,10 @@ Latest update: **October 28, 2020**
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey) (Updated Oct. 28, 2020)
 * [Audience Manager](#aam)
-* [Experience Manager](#aem) (Updated: **10/28/2020**)
+* [Experience Manager](#aem) (Updated: **October 28, 2020**)
 * [Campaign](#ac)
-* [Advertising Cloud](#adcloud) (Updated: **10/28/2020**)
-* [[!DNL Target]](#target)
+* [Advertising Cloud](#adcloud) (Updated: **October 28, 2020**)
+* [[!DNL Target]](#target) (Updated: **November 2, 2020**)
 * [[!DNL Magento]](#magento)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Primetime]](https://docs.adobe.com/content/help/en/primetime/release-notes/home.html)
@@ -351,6 +351,7 @@ New videos, tutorials, and courses published over the past month.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
+|November 2, 2020 |[Load and fire a Target call](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/load-and-fire-target.html) |Video |Learn how to load, pass parameters to page request, and fire a Target call from your site page using a Launch Rule. Page information is retrieved and passed as parameters using the Adobe Client Data Layer that lets you collect and store data about visitors' experience on a webpage and then make it easy to access this data. |
 |October 28, 2020 |[Video Smart Tags](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/metadata/video-smart-tags.html) |Video |Experience Manager Assets leverages Adobe Sensei to intelligently tag video assets with keywords that describe key elements of the video, allowing them to be easily discovered using keyword search by AEM users. |
 |October 27, 2020 |[Introduction to AEM Document Security Extension for Microsoft Office](https://docs.adobe.com/content/help/en/experience-manager-document-security/using/document-security-extension-microsoft-office.html) |Article |Adobe Experience Manager Document Security Extension for Microsoft Office ensures that only the people you authorize can use Word, Excel, and PowerPoint files that contain your intellectual property. By using Document Security Extension for Microsoft Office, you can apply predefined confidentiality settings to your files. |
 |October 7, 2020 |[View Page metrics in Adobe Analytics](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/analytics/create-analytics-workspace.html) |Article |Learn how to map data captured from an Adobe Experience Manager Site to metrics and dimensions in Adobe Analytics report suites.  |
@@ -378,7 +379,6 @@ New videos, tutorials, and courses published over the past month.
 |September 30, 2020 |[Explore the Adobe Client Data Layer](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/adobe-client-data-layer/data-layer-overview.html) |Article | Explore the features and functionality of the event-driven Adobe Client Data layer and its integration with AEM Sites Core Components. Learn to how to listen for events, get the current state and modify the data layer.|
 |September 30, 2020 |[Introduction to the Adobe Client Data Layer](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/adobe-client-data-layer/data-layer-overview.html) |Video |Learn how the event-driven Adobe Client Data layer exposes data from AEM Sites Core Components. Using the Adobe Client Data Layer, tag management solutions like Experience Platform Launch can transmit website data to applications like Analytics and Target. |
 |October 8, 2020 |[Add Target extension to Launch Property](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/add-target-launch-extension.html) |Video |Learn how to load, pass parameters to page request, and fire a Target call from your site page using a Launch Rule. Page information is retrieved and passed as parameters using the Adobe Client Data Layer that lets you collect and store data about visitors' experience on a webpage and then make it easy to access this data. |
-|October 8, 2020 |[Add Target extension to Launch Property](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/add-target-launch-extension.html) |Video |Learn how to add Adobe Target extension to your Launch Property |
 |October 7, 2020 |[Create Adobe Target Cloud Service account](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/setup-aem-target-cloud-service.html) |Video |Learn how to integrate Adobe Experience Manager as a Cloud Service with Adobe Target using Cloud Service and Adobe IMS authentication. |
 |October 2, 2020 |[Overview of AEM and Adobe Target](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/overview.html) |Video |AEM and Target are both powerful solutions with seemingly overlapping capabilities. Customers sometimes struggle with understanding how and when to use these products in conjunction to deliver personalized experience. To deliver optimized experience for every end user, different teams within your organization should work closely and define who does what. |
 |October 2, 2020 |[Integrating AEM Forms and Adobe Sign](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.2.forms) |Course |Working together, Adobe Sign and AEM Forms let you automate complex transactions and include secure, legal e-signatures as part of a seamless digital experience.|
@@ -438,8 +438,8 @@ New videos, tutorials, or courses published over the past month.
 
 | Published | Name | Solution | Description |
 | ----------- | ----------- | ---------- | ---------- |
-|October 20, 2020 |[Control Panel - Generate a SSH Key - Feature Video](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) |Campaign Classic |Learn how to generate a SSH key using a terminal and how to store the public version of the key in the Control Panel. |
-|October 20, 2020 |[Control Panel - Connect to a SFTP Server - Feature Video](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) |Campaign Classic |Learn how to connect to your SFTP server using a client SFTP application, using the keys you have stored in the Control Panel. |
+|November 2, 2020 |[Control Panel - Generate a SSH Key - Feature Video](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) |Campaign Classic |Learn how to generate a SSH key using a terminal and how to store the public version of the key in the Control Panel. |
+|November 2, 2020 |[Control Panel - Connect to a SFTP Server - Feature Video](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) |Campaign Classic |Learn how to connect to your SFTP server using a client SFTP application, using the keys you have stored in the Control Panel. |
 |October 20, 2020 |[Control Panel - Getting started with the Control Panel - Article](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/getting-started-with-the-control-panel.html) |Campaign Classic |This article explains how to access the Control Panel and what the prerequisites are to be able to work with the control panel. |
 |October 20, 2020|[Control Panel - Getting started with the Control Panel - Article](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/getting-started-with-the-control-panel.html) |Campaign Standard |This article explains how to access the Control Panel and what the prerequisites are to be able to work with the control panel. |
 |October 19, 2020 |[Control Panel - Adding an IP range to the allow list](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) |Campaign Classic |Learn how to add an IP address range to the allow list in the Control Panel. |
@@ -493,6 +493,8 @@ For Magento release notes, see:
 See [[!DNL Target] release notes](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) for the latest release information.
 
 ### New Adobe Target courses and tutorials
+
+Updated: **November 2, 2020**
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
