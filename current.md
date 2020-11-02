@@ -31,7 +31,7 @@ Latest update: **October 28, 2020**
 * [Experience Manager](#aem) (Updated: **10/28/2020**)
 * [Campaign](#ac)
 * [Advertising Cloud](#adcloud) (Updated: **10/28/2020**)
-* [[!DNL Target]](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html)
+* [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Primetime]](https://docs.adobe.com/content/help/en/primetime/release-notes/home.html)
@@ -438,6 +438,10 @@ New videos, tutorials, or courses published over the past month.
 
 | Published | Name | Solution | Description |
 | ----------- | ----------- | ---------- | ---------- |
+|October 20, 2020 |[Control Panel - Generate a SSH Key - Feature Video](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) |Campaign Classic |Learn how to generate a SSH key using a terminal and how to store the public version of the key in the Control Panel. |
+|October 20, 2020 |[Control Panel - Connect to a SFTP Server - Feature Video](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) |Campaign Classic |Learn how to connect to your SFTP server using a client SFTP application, using the keys you have stored in the Control Panel. |
+|October 20, 2020 |[Control Panel - Getting started with the Control Panel - Article](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/getting-started-with-the-control-panel.html) |Campaign Classic |This article explains how to access the Control Panel and what the prerequisites are to be able to work with the control panel. |
+|October 20, 2020|[Control Panel - Getting started with the Control Panel - Article](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/getting-started-with-the-control-panel.html) |Campaign Standard |This article explains how to access the Control Panel and what the prerequisites are to be able to work with the control panel. |
 |October 19, 2020 |[Control Panel - Adding an IP range to the allow list](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) |Campaign Classic |Learn how to add an IP address range to the allow list in the Control Panel. |
 |October 19, 2020 |[Control Panel - Adding an IP range to the allow list](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) |Campaign Standard |Learn how to add an IP address range to the allow list in the Control Panel. |
 |October 16, 2020|[Control Panel - Delegating Subdomains using CNAME (beta) - Feature video](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/subdomains-and-certificates/delegating-subdomains-using-cname.html)|Campaign Classic|Learn how to set up and submit a subdomain using CNAMEs in the Control panel.|
@@ -483,6 +487,16 @@ For Magento release notes, see:
 
 * [Magento Commerce 2.3.5](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-5-open-source.html)
 * [Magento Open Source 2.3.5](https://devdocs.magento.com/guides/v2.3/release-notes/release-notes-2-3-5-open-source.html)
+
+## ![Icon](/assets/target.png)[!DNL Target] {#target}
+
+See [[!DNL Target] release notes](https://docs.adobe.com/content/help/en/target/using/release-notes/target-release-notes.html) for the latest release information.
+
+### New Adobe Target courses and tutorials
+
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|October 11, 2020 |[Hybrid Personalization Deployment Model](https://docs.adobe.com/content/help/en/target-learn/tutorials/implementation/hybrid-deployment.html) |Video |Adobe Target offers a unique hybrid deployment model for personalization - blending client-side and server-side implementations. This hybrid model allows non-technical users to author an experiment or personalization activity using the WYSIWYG Visual Experience Composer and have the experience be executed, delivered, and rendered by the server-side for a highly performant delivery. |
 
 ## ![Icon](/assets/marketo.png) [!DNL Marketo Engage] {#marketo}
 
