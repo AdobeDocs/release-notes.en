@@ -57,7 +57,18 @@ Formerly called _Experience Cloud core services_, the [Experience Cloud services
 
 Not updated.
 
-See [Cumulative release notes for Experience Cloud services](https://docs.adobe.com/content/help/en/core-services/interface/release-notes/release-notes.html) for the latest release information.  
+See [Cumulative release notes for Experience Cloud services](https://docs.adobe.com/content/help/en/core-services/interface/release-notes/release-notes.html) for the latest release information.
+
+### Experience Cloud tutorials
+
+Updated: **December 2, 2020**
+
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|November 4, 2020 |[Insights Uncovered by DDOM](https://experienceleague.adobe.com/docs/csuite/using/ddom-insights.html) |Video |Hear about some of the insights DDOM helped Adobe uncover and learn more about some of the considerations to take in setting up your own version of DDOM. |
+|November 4, 2020 |[Three Pillars of DDOM](https://experienceleague.adobe.com/docs/csuite/using/ddom-components.html) |Video |Learn how Adobe leveraged data, KPIs and Process & Org to gain alignment around the customer journey.  |
+|November 4, 2020 |[Adobe's Digital Transformation Story ](https://experienceleague.adobe.com/docs/csuite/using/transformation-story.html) |Video |Learn more about the role DDOM played in Adobe's digital transformation to drive customer-centric omnichannel experiences. |
+|November 4, 2020 |[Introduction to Data-Driven Operating Model](https://experienceleague.adobe.com/docs/csuite/using/ddom-introduction.html) |Video |An overview of Adobe's Data-Driven Operating Model to build a deeper understanding of the customer journey. |
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
@@ -80,8 +91,11 @@ See [Experience Platform Launch release notes](https://docs.adobe.com/content/he
 
 New videos, tutorials, or courses published for Experience Platform and services.
 
+Updated: **December 2, 2020**
+
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
+|November 23, 2020 |[Configuring File-based Cloud Storage or Email Marketing Destinations](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configuring-file-based-cloud-storage-or-email-marketing-destinations.html?lang=en#destinations) |Video |Get tips during a walkthrough of the configuration of a file-based destination in Adobe’s Real-time CDP. This applies to Cloud Storage Destinations (such as S3 or SFTP) and also Email Marketing Destinations. |
 |October 26, 2020 |[Introduction to Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/introduction-to-offer-decisioning.html) |Video |This video gives an overview of [!UICONTROL Offer Decisioning], an application service built on top of Adobe Experience Platform. The video covers the business challenges [!UICONTROL Offer Decisioning] solves, its key capabilities, the basic architecture, and its main use cases. |
 |October 29, 2020 |[Offer Decisioning](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/demo-of-offer-decisioning.html?lang=en)|Video |Learn how brands can use Adobe’s new [!UICONTROL Offer Decisioning] service to define and manage their offers,leverage real-time customer data, and deliver the right experiences their customers expect.|
 |September 14, 2020 |[Business Value of Attribution AI](https://docs.adobe.com/content/help/en/platform-learn/tutorials/intelligent-services/business-value-of-attribution-ai.html) |Video |[!UICONTROL Attribution AI], as part of [!UICONTROL Intelligent Services], is a multi-channel, algorithmic attribution service that calculates the influence and incremental impact of customer interactions against specified outcomes. With [!UICONTROL Attribution AI], marketers can measure and optimize marketing and advertising spend by understanding the impact of every individual customer interaction across each phase of the customers’ journeys.|
@@ -169,6 +183,7 @@ New courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Custome
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
+|November 10, 2020 |[Introduction to Bulk Management (BAAAM)](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/introduction-to-bulk-management-baaam.html?lang=en#build-and-manage-audiences) |Video |Learn about "BAAAM", the bulk management tool for traits and segments in Audience Manager, including how to set it up to get ready for use. |
 |October 8, 2020 |[Freeform Tables, the Foundation of Analysis](https://video.tv.adobe.com/v/41766) |Video |Learn what to you should know, and what you will learn as you embark on this course journey. |
 |October 5, 2020 |[Using Participation Metrics in Analysis Workspace](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.html) |Video | Use this simple trick to get any participation metric in [!UICONTROL Analysis Workspace] anytime.|
 |October 5, 2020 |[Auto-Build Freeform Tables in Analysis Workspace](https://docs.adobe.com/content/help/en/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.html) |Video |Drop components directly into a blank project, panel or freeform table, and a table will automatically be built for you in a recommended format. |
@@ -203,8 +218,13 @@ Release date: End of **October 8, 2020**
 
 New videos, tutorials, or courses published for Audience Manager.
 
+Updated **December 2, 2020**
+
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
+|November 25, 2020 |[Using Trended Reports with Traits and Segments](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-trended-reports-with-traits-and-segments.html?lang=en#reports) |Video |Learn how to use the trended reports in Audience Manager to see how traits and segments are performing over time. |
+|November 25, 2020 |[Using General Reports with Traits and Segments](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/reports/using-general-reports-with-traits-and-segments.html?lang=en#reports) |Video |In this video, see how to use the general reports in Audience Manager to get numbers for traits and segments. |
+|November 2, 2020 |[Configure and Report on Predictive Audiences](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/configure-and-report-on-predictive-audiences.html?lang=en#build-and-manage-audiences) |Video |In this video we will walk through Predictive Audiences configuration in the Audience Manager interface. We will also see the reports that show the results of the model. |
 |October 28, 2020 |[Understanding Numbers in the Trait Graph](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/understanding-numbers-in-the-trait-graph.html?lang=en#build-and-manage-audiences) |Video |Get some tips on understanding the reported numbers for traits in the trait info screen. |
 |October 23, 2020 |[Planning Trait Creation from Analytics Data](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/planning-trait-creation-from-analytics-data.html?lang=en#build-and-manage-audiences) |Video |Learn some tips and tricks to help you when you are planning to use Adobe Analytics data in your traits in Audience Manager. |
 |October 23, 2020 |[Choosing a Data Source when Creating Traits](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/traits-and-segments/choosing-a-data-source-when-creating-traits.html?lang=en#build-and-manage-audiences) |Video |One of the important fields to fill out when creating traits is the Data Source field. Get tips on choosing the right data source for Rule-based and Onboarded traits. |
@@ -347,12 +367,32 @@ In addition, the repository includes other important articles, such as [AEM upda
 
 ### New Experience Manager courses and tutorials
 
-Updated: **October 21, 2020**
+Updated: **December 2, 2020**
 
 New videos, tutorials, and courses published over the past month.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
+|December 2, 2020 |[Downloading Content Fragments](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html) |Video |A video overview of the download capabilities of Content Fragments. |
+|December 2, 2020 |[Content Fragment Editorial Capabilities](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html) |Video |A video overview of the advanced capabilities of Content Fragment editor. Learn how to use annotations and version comparison with Content Fragments. |
+|November 9, 2020 |[Deploy the assets on your local AEM server](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/deploy-this-sample.html?lang=en#store-and-retrieve-af-with-2fa) |Video |Create the database, deploy the custom OSGi bundle, and import the various client-side artifacts to get the use case running on your local AEM instance. |
+|November 2, 2020 |[Create the MyApplication form](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/create-the-myaccount-form.html?lang=en#store-and-retrieve-af-with-2fa) |Article |Create the MyApplication form. This form is used to confirm the unique application id and telephone number of the person trying to retrieve the partially completed adaptive form. |
+|November 10, 2020 |[Configure access to AEM for Administrators](https://experienceleague.adobe.com/?recommended=ExperienceManager-A-1-2020.1.aem) |Course |Explore how users authenticate using Adobe IMS to AEM as a Cloud Service, and how Adobe IMS Users, User Groups, and Product Profiles are used to control access to AEM and its features and functionalities. |
+|November 11, 2020 |[Create client libraries to be associated with the forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/create-client-lib.html?lang=en#store-and-retrieve-af-with-2fa) |Article |Learn how to create two libraries: One to include the `bootbox.js` to display the dialog box. And a client library to handle the click event on the [!UICONTROL Save And Exit button]. |
+|November 11, 2020 |[Create the integration with the communications service provider using  data model integrations](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/verify-users-with-otp.html?lang=en#store-and-retrieve-af-with-2fa) |Article |Integrate AEM Forms with the Nexmo REST API by defining the swagger file to describe the REST API, creating a data source, and a form data model. |
+|November 11, 2020 |[Create servlet to render the form with saved data](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/retrieve-saved-form.html?lang=en#store-and-retrieve-af-with-2fa) |Video |This servlet will be invoked on successful verification of the telephone number. |
+|November 2, 2020 |[Create the StoreAFWithAttachments form](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/create-the-main-adaptive-form.html?lang=en#store-and-retrieve-af-with-2fa) |Article |Create the StoreAFWithAttachments form. This is the main application form that captures the user's information including telephone number with the ability to add attachments.  |
+|November 2, 2020 |[Integrate Adobe Experience Manager and Adobe Analytics to collect page data](https://video.tv.adobe.com/v/327293) |Video |This course walks you through a step by step tutorial on how to Integrate Adobe Analytics with Adobe Experience Manager Sites to understand user behavior on a page by collecting page data using the client data layer and then creating an Analysis Workspace project within Adobe Analytics. |
+|November 11, 2020 |[Create MySQL Database table and an AEM Data Source](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/configure-data-source.html?lang=en#store-and-retrieve-af-with-2fa) |Article |Create MySQL database table with appropriate columns and Apache Sling Connection Pooled Datasource pointing to this database.  |
+|November 11, 2020 |[Create servlet to handle the POST calls](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/create-servlet.html?lang=en#store-and-retrieve-af-with-2fa) |Article |Create a servlet in AEM by extending `SlingAllMethodsServlet` and expose a REST endpoint for accepting POST requests. |
+|November 11, 2020 |[Store form data with the new attachments file map](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/store-form-data.html?lang=en#store-and-retrieve-af-with-2fa) |Article |Insert a new row in the database identified by the unique GUID.  |
+|November 11, 2020 |[Store form attachments in a new location in CRX](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/store-and-retrieve-af-with-2fa/store-form-attachments.html?lang=en#store-and-retrieve-af-with-2fa) |Article |The default location of the form attachments is in the temp folder which gets deleted after a period of time.  |
+|November 4, 2020 |[Asset compute metadata renditions](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/asset-compute/advanced/metadata.html) |Tutorial |Add an advanced chapter to the Asset Compute tutorial that covers generating Metadata renditions. |
+|October 21, 2020 |[Assemble form attachments](https://docs.adobe.com/content/help/en/experience-manager-learn/forms/document-services/assemble-form-attachments.html) |Video |Assemble form attachments into one PDF in a specific order. |
+|November 9, 2020 |[Add WKND Assets Demo to Demo Utils](http://bit.ly/demoAEM) |Demo |Add the WKND Asset Demo as a card to Demo Utils promoting its existence/availability/installation instructions. |
+|November 2, 2020 |[Creating Content Fragments](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-feature-video-use.html) |Video |A video overview of creating a Content Fragment in Adobe Experience Manager (AEM) Assets. |
+|November 2, 2020 |[Using Content Fragments on Site Pages](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/content-fragments/content-fragments-delivery-feature-video-use.html) |Video |Learn how to use Content Fragments on an AEM Sites page. Content Fragment components can be styled using AEM's Style System to display the content as needed. |
+|November 2, 2020 |[Style System](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/style-system-feature-video-use.html) |Video |Create a Style System video for AEM 6.4 using the We.Retail List component. |
 |November 2, 2020 |[Load and fire a Target call](https://docs.adobe.com/content/help/en/experience-manager-learn/sites/integrations/target/load-and-fire-target.html) |Video |Learn how to load, pass parameters to page request, and fire a Target call from your site page using a Launch Rule. Page information is retrieved and passed as parameters using the Adobe Client Data Layer that lets you collect and store data about visitors' experience on a webpage and then make it easy to access this data. |
 |October 28, 2020 |[Video Smart Tags](https://docs.adobe.com/content/help/en/experience-manager-learn/assets/metadata/video-smart-tags.html) |Video |Experience Manager Assets leverages Adobe Sensei to intelligently tag video assets with keywords that describe key elements of the video, allowing them to be easily discovered using keyword search by AEM users. |
 |October 27, 2020 |[Introduction to AEM Document Security Extension for Microsoft Office](https://docs.adobe.com/content/help/en/experience-manager-document-security/using/document-security-extension-microsoft-office.html) |Article |Adobe Experience Manager Document Security Extension for Microsoft Office ensures that only the people you authorize can use Word, Excel, and PowerPoint files that contain your intellectual property. By using Document Security Extension for Microsoft Office, you can apply predefined confidentiality settings to your files. |
@@ -390,7 +430,6 @@ New videos, tutorials, and courses published over the past month.
 |October 6, 2020 |[Create your first Adaptive Form](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.4.forms) |Course | AEM  Forms allow you to create forms that are engaging, responsive, dynamic, and adaptive. The course starts with the creation of a custom adaptive form template and walks you through the process of creating an adaptive form using the various form components. |
 |October 21, 2020 |[Local Dispatcher Tools](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/local-development-environment-set-up/dispatcher-tools.html) |Article |AEM's Dispatcher is an Apache HTTP Web server module that provides a security and performance layer between the CDN and AEM Publish tier. Learn how to set up the Dispatcher as part of a local development environment.|
 |October 14, 2020 |[Getting started with AEM Sites for developers](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2020.2.guided) |Course |This course updates an [existing course](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2019.2.guided) on Experience League.|
-|October 7, 2020 |[AEM Project Structure](https://docs.adobe.com/content/help/en/experience-manager-cloud-service/implementing/developing/aem-project-content-package-structure.html) |Video |This article outlines the changes required to Adobe Experience Manager Maven projects to be AEM as a Cloud Service compatible by ensuring that they respect the split of mutable and immutable content, dependencies are established to create non-conflicting, deterministic deployments and that they are packaged in a deployable structure. |
 
 ### Experience Manager release information
 
@@ -438,10 +477,23 @@ Release information for Campaign Classic, Campaign Standard and Control Panel.
 
 New videos, tutorials, or courses published over the past month.
 
+Updated **December 2, 2020**
+
 | Published | Name | Solution | Description |
 | ----------- | ----------- | ---------- | ---------- |
-|November 2, 2020 |[Control Panel - Generate a SSH Key - Feature Video](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) |Campaign Classic |Learn how to generate a SSH key using a terminal and how to store the public version of the key in the Control Panel. |
-|November 2, 2020 |[Control Panel - Connect to a SFTP Server - Feature Video](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) |Campaign Classic |Learn how to connect to your SFTP server using a client SFTP application, using the keys you have stored in the Control Panel. |
+|November 23, 2020 |[Configuring and sending Push notifications](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/configuring-and-sending-push-notifications.html) |Campaign Classic |Learn how to configure and send a push notification to android app users. |
+|November 19, 2020 |[Configuring an Android service and creating an Android mobile application in Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.html) |Campaign Classic |Learn how to configure an Android service and create an Android mobile application in Campaign. |
+|November 2, 2020 |[Control Panel - Generate a SSH Key](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) |Campaign Classic |Learn how to generate a SSH key using a terminal and how to store the public version of the key in the Control Panel. |
+|October 28, 2020 |[Control Panel - Monitoring database usage](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/performance-monitoring/monitoring-databases.html) |Campaign Classic |Learn how to monitor your instances's database usage with the Control Panel. |
+|October 28, 2020 |[Control Panel - Monitoring databases](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/performance-monitoring/monitoring-databases.html) |Campaign Standard |Learn how to monitor your instances's database usage with the Control Panel. |
+|October 12, 2020 |[Control Panel - Adding an IP range to the allow list](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) |Campaign Standard |Learn how to add an IP address range to the allow list in the Control Panel. |
+|October 7, 2020 |[Control Panel - Generate a SSH Key](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/sftp-management/generate-ssh-key.html) |Campaign Classic |Learn how to generate a SSH key using a terminal and how to store the public version of the key in the Control Panel. |
+|October 2, 2020 |[Control Panel - Connect to a SFTP Server](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) |Campaign Classic |Learn how to connect to your SFTP server using a client SFTP application, using the keys you have stored in the Control Panel. |
+|October 2, 2020 |[Control Panel - Connect to a SFTP Server](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/sftp-management/connect-to-sftp-server.html) |Campaign Standard |Learn how to connect to your SFTP server using a client SFTP application, using the keys you have stored in the Control Panel. |
+|October 2, 2020 |[Control Panel - Generate a SSH Key](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/sftp-management/generate-ssh-key.html) |Campaign Standard |Learn how to generate a SSH key using a terminal and how to store the public version of the key in the Control Panel. |
+|November 2, 2020 |[Control Panel - Connect to a SFTP Server](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/connect-to-sftp-server.html) |Campaign Classic |Learn how to connect to your SFTP server using a client SFTP application, using the keys you have stored in the Control Panel. |
+|October 6, 2020 |[Control Panel - Getting started with the Control Panel](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/getting-started-with-the-control-panel.html) |Campaign Classic |This article explains how to access the Control Panel and what the prerequisites are to be able to work with the control panel. |
+|October 6, 2020 |[Control Panel - Getting started with the Control Panel](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/getting-started-with-the-control-panel.html) |Campaign Standard |This article explains how to access the Control Panel and what the prerequisites are to be able to work with the control panel. |
 |October 20, 2020 |[Control Panel - Getting started with the Control Panel - Article](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/getting-started-with-the-control-panel.html) |Campaign Classic |This article explains how to access the Control Panel and what the prerequisites are to be able to work with the control panel. |
 |October 20, 2020|[Control Panel - Getting started with the Control Panel - Article](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/getting-started-with-the-control-panel.html) |Campaign Standard |This article explains how to access the Control Panel and what the prerequisites are to be able to work with the control panel. |
 |October 19, 2020 |[Control Panel - Adding an IP range to the allow list](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/sftp-management/adding-ip-range-to-allow-list.html) |Campaign Classic |Learn how to add an IP address range to the allow list in the Control Panel. |
@@ -482,6 +534,21 @@ Release date: **October 17, 2020**
 | Search Campaigns| In the [!UICONTROL Accounts] view, the [!UICONTROL Access] column now indicates when [!DNL Advertising Cloud Search] is unable to log in to an enabled search engine account. To see the cause of the error, hold the cursor over the warning icon. |
 | [!UICONTROL Custom Alerts] | The former [!UICONTROL Alerts Beta] is now called [!UICONTROL Custom Alerts]. |
 |   | In custom alerts, the workflow for identifying when metrics for the specified date range have increased or decreased from metrics for the previous period was simplified and moved to the [!UICONTROL Filters] tab. |
+
+### Ad Cloud tutorials and courses
+
+Updated: **December 2, 2020**
+
+| Published | Name | Solution | Description |
+| ----------- | ----------- | ---------- | ---------- |
+|November 14, 2020 |[Create Advertising Cloud Dashboards with Adobe Analytics](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-dashboards-a4adc.html?lang=en) |Video |Techniques for creating an Advertising Cloud dashboard for live campaign monitoring. |
+|November 14, 2020 |[Create Advertising Cloud Site Entry Reports](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-site-entry-a4adc.html?lang=en#analytics) |Video |Creating an Advertising Cloud site entry report to monitor day of week, time of day, browser, and geographical influence. |
+|November 14, 2020 |[Create Analytics Custom Metrics with Advertising Cloud Data](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-custom-metrics-a4adc.html?lang=en#analytics) |Video |Useful custom metrics to create when using Advertising Cloud data within Adobe Analytics. |
+|November 14, 2020 |[Create Analytics Segments for Activation and Reporting](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-segments-a4adc.html?lang=en#analytics) |Video |Using Advertising Cloud dimensions to create segments for cleaner reporting and analysis. |
+|November 14, 2020 |[Understanding Predictive Audiences](https://experienceleague.corp.adobe.com/docs/audience-manager-learn/tutorials/build-and-manage-audiences/algorithmic-models/understanding-predictive-audiences.html?lang=en#build-and-manage-audiences) |Video |In this video, we will discuss what Audience Manager Predictive Audiences are, present details about how they work, and point out use cases. |
+|November 14, 2020 |[Create Analytics Profiles for Advertising Cloud Activation and Reporting](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-profiles-a4adc.html?lang=en#analytics) |Video |How to  use Adobe Analytics to create robust site retargeting pools for Advertising Cloud remarketing. |
+|November 14, 2020 |[Reporting with Advertising Cloud Marketing Channels](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-reporting-a4adc.html?lang=en#analytics) |Video |How the Advertising Cloud view-through and click-through entry data works with Adobe Analytics Marketing Channels. |
+|November 14, 2020 |[Create a Pre-Launch Campaign Analysis with Adobe Analytics](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-pre-launch-a4adc.html?lang=en) |Video |How to use Adobe Analytics to set the foundation for launching an Advertising Cloud paid media campaign. |
 
 ## ![Icon](/assets/magento.png) [!DNL Magento] {#magento}
 
@@ -536,6 +603,7 @@ New videos, tutorials, or courses published for Adobe Document Cloud.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
+|November 2, 2020 |[Gather High-Volume Documents using GigaSign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/gigasign.html?lang=en#gather-high-volume-documents-using-gigasign) |Video |Gigasign allows you to send, collect, and track documents for signature to thousands of people at the same time. It is designed for high-volume communications with your employees and customers. GigaSign leverages the Adobe Sign API to provide the same functionality as MegaSign, but includes additional support for multiple signers, recipient groups, recipient roles, agreement names, carbon copy and more. |
 |September 29, 2020 |[Quick Tour of Adobe Sign](https://docs.adobe.com/content/help/en/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/quick-tour.html) |Video |In this video, we’ll do a quick tour of Adobe Sign starting on the Home screen. |
 
 For Document Cloud help, see:
