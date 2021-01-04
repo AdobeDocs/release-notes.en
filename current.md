@@ -16,13 +16,13 @@ This page describes new features, fixes, and important notices in [!DNL Adobe Ex
 >
 >Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases.
 
-Latest update: **December 2, 2020**
+Latest update: **December 8, 2020**
 
 * [Adobe System Status](#status)
 * [Experience Cloud services and administration](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey) (Updated **December 2, 2020**)
+* [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey) (Updated **December 8, 2020**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem) (Updated: **October 28, 2020**)
 * [Campaign](#ac)
@@ -111,7 +111,7 @@ Using Adobe Experience Platform, orchestrate individual customer journeys at sca
 Release date: **October 29, 2020**
 
 * [New features in Adobe Analytics](#aa-features)
-* [New features in Customer Journey Analytics](#cust-journey) (Updated December 2, 2020)
+* [New features in Customer Journey Analytics](#cust-journey) (Updated December 8, 2020)
 * [New features in Media Analytics](#media-aa)
 * [Fixes in Adobe Analytics](#aa-fixes)
 * [Important notices for Analytics administrators](#aa-notices)
@@ -138,7 +138,7 @@ Release date: **October 29, 2020**
 | Analysis Workspace Performance Help page | October 22, 2020 | The Analysis Workspace performance help page shows the different factors that impact project performance and links to tips for optimization. [Learn more](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/workspace-faq/optimizing-performance.html) |
 | [!UICONTROL Time Spent] metrics and dimensions | October 30, 2020 | [!UICONTROL Time Spent] metrics and dimensions allow you to see the amount of time that consumers spend in various aspects of the customer journey, giving you a more complete view into engagement and bottlenecks across channels. |
 | [!UICONTROL Device] and [!UICONTROL Geography] dimensions | October 30, 2020 | [!UICONTROL Device] and [!UICONTROL Geography] dimensions are now available by default as part of the “Global Lookup support” project in the [Adobe Analytics Source connector](https://docs.adobe.com/content/help/en/platform-learn/tutorials/data-ingestion/ingest-data-from-adobe-analytics.html). This much-requested addition increases [parity between Adobe Analytics and CJA](https://docs.adobe.com/content/help/en/analytics-platform/using/cja-overview/cja-aa.html). |
-| Journey IQ: Cross-channel Analytics | December 11, 2020 |  Journey IQ: Cross-channel Analytics enables customers to re-key an Adobe Analytics (or other) event dataset in Adobe Experience Platform data lake from one ID namespace to another. Typically, this means re-keying the event dataset from a cookie-based ID to a person-based ID. This way, the re-keyed dataset may be combined with other person-based data in a CJA connection, thus enabling cross-device/cross-channel analysis in Analysis Workspace. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=en#cja-connections)|
+| Journey IQ: Cross-channel Analytics | January 11, 2021 |  Journey IQ: Cross-channel Analytics enables customers to re-key an Adobe Analytics (or other) event dataset in Adobe Experience Platform data lake from one ID namespace to another. Typically, this means re-keying the event dataset from a cookie-based ID to a person-based ID. This way, the re-keyed dataset may be combined with other person-based data in a CJA connection, thus enabling cross-device/cross-channel analysis in Analysis Workspace. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=en#cja-connections)|
 
 ### New features in [!UICONTROL Media Analytics] {#media-aa}
 
