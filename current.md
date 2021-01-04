@@ -12,10 +12,6 @@ author: mfrei
 
 This page describes new features, fixes, and important notices in [!DNL Adobe Experience Cloud]. It also highlights new documentation, training courses, and video tutorials to help you get the most out of Experience Cloud.
 
->[!IMPORTANT]
->
->This page may contain pre-release content for certain products and is subject to change prior to release dates. Check back frequently for updates.
-
 >[!NOTE]
 >
 >Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases.
