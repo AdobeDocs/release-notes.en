@@ -125,10 +125,8 @@ Release date: **January 14, 2021**
 
 * [New features in Adobe Analytics](#aa-features)
 * [New features in Customer Journey Analytics](#cust-journey)
-<!-- * [New features in Media Analytics](#media-aa) -->
 * [Fixes in Adobe Analytics](#aa-fixes)
 * [Important notices for Analytics administrators](#aa-notices)
-<!-- * [Analytics courses and tutorials](#tutorials-analytics) -->
 * [AppMeasurement](#appm)
 
 ### New features in Adobe Analytics {#aa-features}
@@ -305,7 +303,7 @@ Documentation for the following features included in the 6.5.7.0 release is avai
 
 ### New Experience Manager courses and tutorials
 
-Updated: **December 2, 2020**
+Updated: **January 10, 2021**
 
 New videos, tutorials, and courses published over the past month.
 
