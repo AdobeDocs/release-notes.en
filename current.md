@@ -446,7 +446,7 @@ See [[!DNL Target] release notes](https://docs.adobe.com/content/help/en/target/
 
 ### Core Marketo Engage updates
 
-See [!DNL Marketo] [release notes](https://docs.marketo.com/display/public/DOCS/Release+Notes%3A+July+%2720) for the latest release information.
+See [!DNL Marketo] [release notes](https://docs.marketo.com/display/public/DOCS/Jan+%2721) for the latest release information.
 
 ### Upcoming features
 
@@ -462,7 +462,7 @@ The following features are releasing throughout the quarter:
 * **Asset API "_method" Parameter:** After September 2020, Asset API Endpoints will no longer accept `_method` to pass Query Parameters in a POST body to bypass URI length limitations.
 * **Internet Explorer Support Deprecation:** Beginning with the July release on July 31, 2020, the Marketo Engage user interface will no longer be supported on Internet Explorer.
 
-For cumulative and historical release notes, see [Marketo release notes](https://docs.marketo.com/x/CgA6Ag).
+For cumulative and historical release notes, see [Marketo release notes](https://docs.marketo.com/display/public/DOCS/Release+Notes).
 
 ## ![Icon](/assets/document-cloud-24.png) Document Cloud {#doc-cloud}
 
