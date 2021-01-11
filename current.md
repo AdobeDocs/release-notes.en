@@ -128,6 +128,7 @@ Release date: **January 14, 2021**
 * [Fixes in Adobe Analytics](#aa-fixes)
 * [Important notices for Analytics administrators](#aa-notices)
 * [AppMeasurement](#appm)
+* [Report Builder](#arb)
 
 ### New features in Adobe Analytics {#aa-features}
 
@@ -174,6 +175,7 @@ AN-204659; AN-221726; AN-230949; AN-231984; AN-232835;  AN-233989; AN-235593; AN
 
 | Notice | Date Added or Updated  | Description |
 | ----------- | ---------- | ---------- |
+|Required [!UICONTROL Report Builder] update |January 8, 2021 |By April 30, 2021, all [!UICONTROL Report Builder] users must update the [!UICONTROL Report Builder] add-in to version 5.6.47 or later. This version includes a critical update to the sign-in process. Users who do not update to version 5.6.47 or later will not be able to sign-in after April 30, 2021. [!UICONTROL Report Builder] version 5.6.47 and later supports Experience Cloud login only and does not support legacy logins such as SiteCatalyst Single Sign-on or the standard sign-in. For more information, see [Report Builder Sign-In](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=en#section_6D54B8ADAE7F416BB83F5082B3771CFA). |
 | End-of-life for three Analytics API services | January 6, 2021 | On April 30, 2021, the following Analytics Legacy API services are slated to reach their end-of-life date and will be shut down. Any current integrations built using these services will stop working on that day.<ul><li>1.3 Analytics APIs</li><li>1.4 SOAP Analytics APIs</li><li>Legacy OAuth Authentication (OAuth and JWT)</li></ul>We have provided a [Legacy API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) to help answer your questions and provide guidance on how to proceed. API integrations that employ these services can migrate to the [1.4 Analytics REST APIs](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) and/or the [2.0 Analytics APIs](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth accounts can migrate to an [Adobe IO](https://console.adobe.io/home?mv=email#) Analytics integration account, which can be used to access both the 1.4 Analytics APIs and 2.0 Analytics APIs. |
 | Adding HSTS header to all incoming HTTPS requests | Sept. 29, 2020 | On Sept. 29, 2020, we started adding the HSTS header to all incoming requests that use HTTPS. This instructs the browser/client to make all future requests in HTTPS, which is a considered a security best practice. At this point, we will not enforce this for incoming requests using HTTP. |
 | Change to [!UICONTROL Experience Cloud ID Service] cookie setting | Sept. 22, 2020 | An update to the privacy settings for Chrome version 80 impacted the ability of Adobe Analytics to track some users viewing Google AMP pages. Specifically, it prevents cross-domain tracking of users viewing Google-hosted AMP pages. This could result in inflated counts of unique visitors. This fix allows users to address this problem by changing the settings for their ECID cookies.<br>Currently, Analytics sets [!UICONTROL Experience Cloud ID Service] (ECID) cookies with the setting `SameSite = Lax` which, prior to version 80 of Chrome, allowed cross-domain tracking. This is no longer the case. This change allows users to update the SameSite setting for ECID cookies to `None`.<br>Note that this allows the Analytics cookie to be shared in more situations, but Analytics cookies do not contain sensitive information. In addition, when choosing this setting, cookies must be set to `Secure` so that data can be passed only via HTTPS connections. If you would like to make this change, please have a supported user open a ticket with Customer Care. |
@@ -185,6 +187,12 @@ AN-204659; AN-221726; AN-230949; AN-231984; AN-232835;  AN-233989; AN-235593; AN
 ### AppMeasurement {#appm}
 
 For the latest updates on AppMeasurement releases, please refer to [AppMeasurement for JavaScript release notes](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-updates.html).
+
+### Report Builder {#arb}
+
+| Feature | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Target Date | Description |
+| ----------- | ---------- | ----- |
+| Sign-in Update to Analytics [!UICONTROL Report Builder] | January 14, 2021 |The [!UICONTROL Report Builder] sign-in process improvements remove dependencies on legacy technologies and aligns the sign-in process with Adobe Experience Cloud. The Experience Cloud sign-in lets you use your Adobe ID or Enterprise ID (Single Sign-on) to sign in to the Adobe Experience Cloud. By April 30, 2021, all [!UICONTROL Report Builder] users must update the [!UICONTROL Report Builder] add-in to version 5.6.47 or later. [!UICONTROL Report Builder] version 5.6.47 and later supports Experience Cloud sig-in only and does not support legacy sign-ins, such as SiteCatalyst Single Sign-on or the standard sign-in. For more information, see [Report Builder Sign-In](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/report-builder-setup/login.html?lang=en#section_6D54B8ADAE7F416BB83F5082B3771CFA). |
 
 ### Analytics help resources
 
