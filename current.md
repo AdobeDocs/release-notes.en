@@ -60,7 +60,7 @@ Includes release update information for Experience Platform and Experience Platf
 
 Latest update: **December 9, 2020**
 
-See [Experience Platform release notes](https://www.adobe.io/apis/experienceplatform/home/services/release-notes.html#!end-user/markdown/release-notes/release-notes.md) for the most recent updates applying to:
+See [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html?lang=en) for the most recent updates applying to:
 
 * [!UICONTROL Dataflows]
 * [!UICONTROL Data Science Workspace]
@@ -74,7 +74,7 @@ See [Experience Platform Launch release notes](https://experienceleague.adobe.co
 
 iOS Version 4.21.0
 
-General - The SDK is now distributed using [!DNL XCFrameworks] in order to support hardware with the new Apple M1 architecture while maintaining support for existing Intel architecture.
+General - The SDK is now distributed using [!DNL XCFrameworks] to support hardware with the new Apple M1 architecture while maintaining support for existing Intel architecture.
 
 * IMPORTANT: Upgrading to AdobeMobile [!DNL XCFrameworks] requires Xcode 12.0 or newer.
 * IMPORTANT: If using [!DNL Cocoapods], upgrading to AdobeMobile [!DNL XCFrameworks] requires [!DNL Cocoapods] 1.10.0 or newer.
