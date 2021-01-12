@@ -16,7 +16,7 @@ This page describes new features, fixes, and important notices in [!DNL Adobe Ex
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for Adobe enterprise product and Experience League documentation updates.
 
-Latest update: **January 11, 2020**
+Latest update: **January 12, 2020**
 
 * [Adobe System Status](#status) (not updated)
 * [Experience Cloud services and administration](#ecloud)
@@ -25,7 +25,7 @@ Latest update: **January 11, 2020**
 * [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey) (Release date: **January 14, 2021**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [Campaign](#ac)
+* [Campaign](#ac) (Updated **January 12, 2021**)
 * [Advertising Cloud](#adcloud)
 * [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
@@ -366,7 +366,7 @@ Release information for Campaign Classic, Campaign Standard and Control Panel.
 
 #### Campaign Classic
 
-<!-- [Incident Response Bulletin](https://helpx.adobe.com/security/products/campaign/apsb21-04.html) (January 12) -->
+[Incident Response Bulletin](https://helpx.adobe.com/security/products/campaign/apsb21-04.html) (Updated: **January 12, 2021**)
 
 * 20.3.3 release - [Read more](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html#release-notes)
 * 20.3.1 release - [Read more](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html#release-notes)
