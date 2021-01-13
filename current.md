@@ -22,7 +22,7 @@ Latest update: **January 12, 2021**
 * [Experience Cloud services and administration](#ecloud)
 * [Experience Platform](#platform) (Updated **January 13, 2021**)
 * [Journey Orchestration](#journey-orch)
-* [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey) (Release date: **January 14, 2021**)
+* [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey) (Updated: **January 12, 2021**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac) (Updated **January 12, 2021**)
@@ -144,8 +144,9 @@ Release date: **January 14, 2021**
 
 | Feature | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Target Date | Description |
 | ----------- | ---------- | ------- |
+| Analysis Workspace – Image URLs | January 14, 2021| You can add images to [!UICONTROL Workspace] projects by referencing a public image URL. [Learn more](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=en#analysis-workspace)|
+| Analysis Workspace - Combined Source and Settings manager | January 14, 2021 | The data source manager (dot) and settings manager (gear) for visualizations have been combined into a single dialog, so you can easily manage your source and settings from the same location. |
 | Analysis Workspace – Component selection | February 4, 2021 | The drop-down/drop zone component found in [!UICONTROL Quick Insights] has been added to all drop zones in [!UICONTROL Workspace]. This enhancement allows you to pick from a drop-down list of compatible components or continue to use the space as a drop zone. |
-| Analysis Workspace – Image URLs | January 14, 2021| You can add images to [!UICONTROL Workspace] projects by referencing a public image URL. |
 
 ### New features in Customer Journey Analytics {#cust-journey}
 
@@ -153,8 +154,9 @@ Release date: **January 14, 2021**
 | ----------- | ---------- | ----- |
 | [!UICONTROL Device] and [!UICONTROL Geography] dimensions | October 30, 2020 | These dimensions are now available by default as part of the [Global Lookup](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-usecases/global-lookups.html?lang=en#use-global-lookups-with-adobe-data-connector-datasets) support project in the Adobe Analytics [!UICONTROL Source Connector]. This much-requested addition increases [parity between Adobe Analytics and CJA](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-overview/cja-aa.html?lang=en#cja-overview). |
 | Journey IQ: [!UICONTROL Cross-Channel Analytics] | January 11, 2021 | Journey IQ: [!UICONTROL Cross-Channel Analytics] enables you to re-key an Adobe Analytics (or other) event dataset in Experience Platform data lake from one ID namespace to another. Typically, this means re-keying the event dataset from a cookie-based ID to a person-based ID. This way, the re-keyed dataset may be combined with other person-based data in a CJA connection, thus enabling cross-device and cross-channel analysis in Analysis Workspace. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/cca/overview.html?lang=en#cja-connections)|
-| Analysis Workspace – Component selection | February 4, 2021 | The drop-down/drop zone component found in [!UICONTROL Quick Insights] has been added to all drop zones in [!UICONTROL Workspace]. This enhancement allows you to pick from a drop-down list of compatible components or continue to use the space as a drop zone. |
 | Analysis Workspace – Image URLs | January 14, 2021| You can add images to Workspace projects by referencing a public image URL. |
+| Analysis Workspace - Combined Source and Settings manager | January 14, 2021 | The data source manager (dot) and settings manager (gear) for visualizations have been combined into a single dialog, so you can easily manage your source and settings from the same location. |
+| Analysis Workspace – Component selection | February 4, 2021 | The drop-down/drop zone component found in [!UICONTROL Quick Insights] has been added to all drop zones in [!UICONTROL Workspace]. This enhancement allows you to pick from a drop-down list of compatible components or continue to use the space as a drop zone. |
 
 ### Fixes in Adobe Analytics {#aa-fixes}
 
