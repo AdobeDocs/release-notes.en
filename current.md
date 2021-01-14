@@ -25,7 +25,7 @@ Latest update: **January 14, 2021**
 * [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey) (Updated: **January 12, 2021**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [Campaign](#ac) (Updated **January 12, 2021**)
+* [Campaign](#ac) (Updated **January 14, 2021**)
 * [Advertising Cloud](#adcloud)
 * [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
@@ -410,7 +410,13 @@ New videos, tutorials, and courses published over the past month.
 |Published|Name|Solution|Description |
 | -----------| ---------- | ---------- | ---------- |
 |December 23, 2020|[Configuring dynamic content](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/configuring-dynamic-content.html#sending-messages) |Campaign Classic |(Video) Understand the different types of dynamic content and learn how create and apply personalization blocks and conditional statements to a delivery. |
-|December 9, 2020|[Control Panel - Google TXT record management](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/subdomains-and-certificates/google-txt-record-management.html#subdomains-and-certificates) |Campaign Standard |(Video) Learn how you can add Google TXT site verification records to all your subdomains used to send emails to GMAIL addresses with [!UICONTROL Campaign Control Panel].|
+|December 23, 2020|[Configuring and managing subscription services](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/configuring-and-managing-subscription-services.html) |Campaign Classic |(Video) Learn how to setup and manage subscriptions and target subscribers. |
+|December 22, 2020|[Accessing built-in reports](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/reporting/accessing-built-in-reports.html) |Campaign Classic |(Video)  Understand  built-in reporting and analysis in Campaign Classic and learn how to generate a delivery report. |
+|December 22, 2020|[Troubleshooting email delivery issues](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/troubleshooting-email-delivery-issues.html) |Campaign Classic |(Video)Learn how to troubleshoot delivery issues.|
+|December 18, 2020|[Creating Direct Mail Deliveries](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/sending-messages/direct-mail/creating-direct-mail-deliveries.html) |Campaign Classic |(Video) Learn how to create a direct mail delivery and use seed addresses in a campaign. |
+|December 18, 2020|[Managing approvals in a campaign ](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/managing-approvals.html) |Campaign Classic |(Video) Learn how to set up approvals and a campaign and how to differentiate between delivery and workflow approvals. |
+|December 18, 2020|[Executing a campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/orchestration/executing-a-campaign.html) |Campaign Classic |(Video)Learn how to execute a campaign, review an email delivery and the delivery properties.|
+|December 15, 2020|[Extending the App Subscription schema to personalize push notifications](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/extending-the-app-subscription-schema.html) |Campaign Classic |(Video) Learn how to extend the app subscription schema to be able to store personalization values Campaign receives from a mobile app.|
 
 ## ![Icon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
