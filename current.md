@@ -16,11 +16,11 @@ This page describes new features, fixes, and important notices in [!DNL Adobe Ex
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for Adobe enterprise product and Experience League documentation updates.
 
-Latest update: **January 13, 2021**
+Latest update: **January 14, 2021**
 
 * [Adobe System Status](#status) (not updated)
 * [Experience Cloud services and administration](#ecloud)
-* [Experience Platform](#platform) (Updated **January 13, 2021**)
+* [Experience Platform](#platform) (Updated **January 14, 2021**)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey) (Updated: **January 12, 2021**)
 * [Audience Manager](#aam)
@@ -82,9 +82,15 @@ Release date: **January 13, 2021**
 
 ### Adobe Mobile
 
+Updated **January 14, 2021**
+
+iOS Version 4.21.1
+
+* General – Fixed an issue that could cause sqlite exception during app shut down.
+
 iOS Version 4.21.0
 
-General - The SDK is now distributed using [!DNL XCFrameworks] to support hardware with the new Apple M1 architecture while maintaining support for existing Intel architecture.
+* General - The SDK is now distributed using [!DNL XCFrameworks] to support hardware with the new Apple M1 architecture while maintaining support for existing Intel architecture.
 
 * IMPORTANT: Upgrading to AdobeMobile [!DNL XCFrameworks] requires Xcode 12.0 or newer.
 * IMPORTANT: If using [!DNL Cocoapods], upgrading to AdobeMobile [!DNL XCFrameworks] requires [!DNL Cocoapods] 1.10.0 or newer.
