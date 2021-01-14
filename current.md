@@ -86,7 +86,7 @@ Updated **January 14, 2021**
 
 iOS Version 4.21.1
 
-* General – Fixed an issue that could cause sqlite exception during app shut down.
+* General – Fixed an issue that could cause SQLite exceptions during app shut down.
 
 iOS Version 4.21.0
 
