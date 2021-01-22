@@ -431,22 +431,20 @@ Last updated: **October 28, 2020**
 
 | Feature    | Description  |
 | -----------| ---------- |
-| New Help | (october 28 release) The legacy help was replaced with updated pages, which are available from the Help link in the DSP main menu and are also available at all times from [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html) |
-| Campaigns | (october 28 release) The previous Campaigns Beta views are now the default Campaigns views, for quicker insights, simplified workflows, and customized views. |
+| New Help | (October 28 release) The legacy help was replaced with updated pages, which are available from the Help link in the DSP main menu and are also available at all times from [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html) |
+| Campaigns | (October 28 release) The previous Campaigns Beta views are now the default Campaigns views, for quicker insights, simplified workflows, and customized views. |
 | Private Inventory | (October 15 release) All users can now set up and edit deal ID details using a new deal ID form, which is a simplified version of the legacy [!UICONTROL Smart Ad Serving] form. To set up new deal ID details, go to **[!UICONTROL Inventory > Deals]**, click **[!UICONTROL Create]**, and then click **[!UICONTROL Deal ID Beta]**. |
 | Placement Forecasting | (October 15 release) For placements with placement-level pacing, the [!UICONTROL Forecast] section of the placement settings includes a new [!UICONTROL Estimated Maximums] section, which indicates how much more capacity is available with the current targeting configuration. |
 
 ### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Last updated: **October 17, 2020**
+Last updated: **January 22, 2021, for January 23 release**
 
 | Feature    | Description  |
 | -----------| ---------- |
-| [!UICONTROL Search Campaigns]| In the [!UICONTROL Accounts] view, the [!UICONTROL Access] column now indicates when [!DNL Advertising Cloud Search] is unable to log in to an enabled search engine account. To see the cause of the error, hold the cursor over the warning icon. |
-| [!UICONTROL Custom Alerts] | The former [!UICONTROL Alerts Beta] is now called [!UICONTROL Custom Alerts]. |
-|[!UICONTROL Custom Alerts]   | In custom alerts, the workflow for identifying when metrics for the specified date range have increased or decreased from metrics for the previous period was simplified and moved to the [!UICONTROL Filters] tab. |
+| [!UICONTROL Search Campaigns]<br> Reports| Advertising Cloud Search no longer reports new average position data for Microsoft Advertising campaigns. The Average Position column shows values of zero (0) for dates beginning 23 January. This is in preparation for Microsoft's deprecation of average position data in January 2021.<br>Average position data collected through 22 January is still available in reports. |
 
-### Ad Cloud tutorials and courses
+### Advertising Cloud tutorials and courses
 
 Updated: **December 2, 2020**
 
