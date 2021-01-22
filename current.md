@@ -16,20 +16,20 @@ This page describes new features, fixes, and important notices in [!DNL Adobe Ex
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for Adobe enterprise product and Experience League documentation updates.
 
-Latest update: **January 14, 2021**
+Latest update: **January 22, 2021**
 
 * [Adobe System Status](#status) (not updated)
 * [Experience Cloud services and administration](#ecloud)
-* [Experience Platform](#platform) (Updated **January 14, 2021**)
+* [Experience Platform](#platform) (Updated January 14, 2021)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey) (Updated: **January 20, 2021**)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
-* [Campaign](#ac) (Updated **January 14, 2021**)
-* [Advertising Cloud](#adcloud)
+* [Campaign](#ac) (Updated January 14, 2021)
+* [Advertising Cloud](#adcloud) (Updated **January 22, 2021**)
 * [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
-* [[!DNL Marketo Engage]](#marketo) (Updated: **January 11, 2021**)
+* [[!DNL Marketo Engage]](#marketo) (Updated: January 11, 2021)
 * [Document Cloud](#doc-cloud)
 
 Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#home) to find product and technical documentation, Adobe-curated courses, video tutorials, quick answers, community insight, and instructor-led training. Content has moved to this location from `docs.adobe.com`. Please update bookmarks accordingly.
