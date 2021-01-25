@@ -139,10 +139,10 @@ Use Adobe Experience Platform to orchestrate a customer's journey at scale acros
 
 Release date: **January 14, 2021**
 
-* [New features in Adobe Analytics](#aa-features)
-* [New features in Customer Journey Analytics](#cust-journey)
+* [New features in Adobe Analytics](#aa-features) (Updated January 25, 2021)
+* [New features in Customer Journey Analytics](#cust-journey) (Updated January 25, 2021)
 * [Fixes in Adobe Analytics](#aa-fixes)
-* [Important notices for Analytics administrators](#aa-notices)(Updated January 20, 2021)
+* [Important notices for Analytics administrators](#aa-notices) (Updated January 20, 2021)
 * [AppMeasurement](#appm)
 * [Report Builder](#arb)
 
