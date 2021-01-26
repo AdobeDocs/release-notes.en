@@ -16,11 +16,11 @@ This page describes new features, fixes, and important notices in [!DNL Adobe Ex
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for Adobe enterprise product and Experience League documentation updates.
 
-Latest update: **January 22, 2021**
+Latest update: **January 25, 2021**
 
 * [Adobe System Status](#status) (not updated)
 * [Experience Cloud services and administration](#ecloud)
-* [Experience Platform](#platform) (Updated January 14, 2021)
+* [Experience Platform](#platform) (Updated **January 25, 2021**)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey) (Updated: **January 25, 2021**)
 * [Audience Manager](#aam)
@@ -45,8 +45,6 @@ See [Adobe System Status - May 21, 2020](https://docs.adobe.com/content/help/en/
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloud services and administration {#ecloud}
 
 [Experience Cloud services and administration](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html) documentation includes Customer Attributes, Audience Library ([!UICONTROL People] service), Activation, user and product management, and Experience Cloud cookies.
-
-Not updated this month.
 
 **See also**
 
@@ -75,10 +73,14 @@ Release date: **January 13, 2021**
 
 **[!UICONTROL Launch Server Side]:** Send event-level data to AEP Edge Network, then use Launch Server Side to transform, enrich, and send that data to a non-Adobe endpoint using Adobe’s servers, not the client, with low latency. [More...](https://experienceleague.adobe.com/docs/launch/using/server-side-info/server-side-overview.html?lang=en#server-side-info)
 
+Updated **January 25, 2021**:
+
+Experience Cloud ID Service Extension **5.1.1** has been released. See [Experience Cloud ID Service Extension](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/id-service-extension/experience-cloud-id-release-notes.html) release notes for more information.
+
 **See also**
 
 * [Experience Platform Launch release notes](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html) for information about Experience Platform Launch.
-* [Experience Cloud ID Service Extension](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/id-service-extension/experience-cloud-id-release-notes.html) release notes
+* [Experience Cloud ID Service Extension](https://experienceleague.adobe.com/docs/launch/using/extensions-ref/adobe-extension/id-service-extension/experience-cloud-id-release-notes.html) release notes.
 
 ### Adobe Mobile
 
