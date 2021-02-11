@@ -19,7 +19,7 @@ This page describes new features, fixes, and important notices in [!DNL Adobe Ex
 Latest update: **January 25, 2021**
 
 * [Adobe System Status](#status) (not updated)
-* [Experience Cloud services and administration](#ecloud)
+* [Experience Cloud services and administration](#ecloud) (Updated **February 10, 2021**)
 * [Experience Platform](#platform) (Updated **January 25, 2021**)
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey) (Updated: **January 25, 2021**)
@@ -46,7 +46,11 @@ See [Adobe System Status - May 21, 2020](https://docs.adobe.com/content/help/en/
 
 [Experience Cloud services and administration](https://docs.adobe.com/content/help/en/core-services/interface/experience-cloud.html) documentation includes Customer Attributes, Audience Library ([!UICONTROL People] service), Activation, user and product management, and Experience Cloud cookies.
 
-**See also**
+**February 4, 2021**
+
+* An update to Experience Cloud removes the initial Experience Cloud login introduction screen. Starting February 4, you will be sent directly from `https://experience.adobe.com/login` to the Adobe sign-in screen.
+
+**Additional resources**
 
 * [Cumulative release notes for Experience Cloud services](https://docs.adobe.com/content/help/en/core-services/interface/release-notes/release-notes.html) for the latest release information.
 * [Experience Cloud ID Service](https://experienceleague.adobe.com/docs/id-service/using/release-notes/release-notes.html) release notes
