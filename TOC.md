@@ -1,13 +1,13 @@
 ---
 cloud: experience-cloud
 product: Experience Cloud
-user-guide-title: Adobe Experience Cloud Release Notes
+user-guide-title: Experience Cloud Release Notes
 breadcrumb-title: Release Notes
 user-guide-description: Learn about new features, fixes, and important notices in Adobe Experience Cloud and Experience Platform.
 user-guide-url: https://www.adobe.com
 ---
 
-# What's New in Adobe Experience Cloud {#experience-cloud}
+# Adobe Experience Cloud Release Notes {#experience-cloud}
 
 + [Current release notes](current.md)
 + Previous release notes {#previous}
