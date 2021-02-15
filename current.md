@@ -100,7 +100,7 @@ Published|Name|Type|Description |
 
 ## ![Icon](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-Release date: **January 14, 2021**
+Release date: **February 18, 2021**
 
 * [New features in Adobe Analytics](#aa-features)
 * [New features in Customer Journey Analytics](#cust-journey)
