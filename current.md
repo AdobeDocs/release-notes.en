@@ -113,14 +113,14 @@ Release date: **February 18, 2021**
 
 | Feature | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Target Date | Description |
 | ----------- | ---------- | ------- |
-| Analysis Workspace – Component selection | February 4, 2021 | The drop-down/drop zone component found in [!UICONTROL Quick Insights] has been added to all drop zones in [!UICONTROL Workspace]. This enhancement allows you to pick from a drop-down list of compatible components or continue to use the space as a drop zone. See [Media Concurrent Viewers Panel in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.html?lang=en#analysis-workspace) for a video tutorial.|
+| Analysis Workspace – Component selection | February 4, 2021 | The drop-down/drop zone component found in [!UICONTROL Quick Insights] has been added to all drop zones in [!UICONTROL Workspace]. This enhancement allows you to pick from a drop-down list of compatible components or continue to use the space as a drop zone. | 
 | Analytics dashboards language selection | January 14, 2021 | You can now select a language in the Analytics dashboard. |
 
 ### New features in Customer Journey Analytics {#cust-journey}
 
 | Feature | [General Availability](https://docs.adobe.com/content/help/en/analytics/landing/an-releases.html) - Target Date | Description |
 | ----------- | ---------- | ----- |
-| Analysis Workspace – Component selection | February 4, 2021 | The drop-down/drop zone component found in [!UICONTROL Quick Insights] has been added to all drop zones in [!UICONTROL Workspace]. This enhancement allows you to pick from a drop-down list of compatible components or continue to use the space as a drop zone. See [Media Concurrent Viewers Panel in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.html?lang=en#analysis-workspace) for a video tutorial.|
+| Analysis Workspace – Component selection | February 4, 2021 | The drop-down/drop zone component found in [!UICONTROL Quick Insights] has been added to all drop zones in [!UICONTROL Workspace]. This enhancement allows you to pick from a drop-down list of compatible components or continue to use the space as a drop zone. |
 | CJA API | February 18, 2021| The CJA APIs are now available. These APIs allow you to programmatically edit components and retrieve reports. See the CJA API documentation (link to follow) for more information. |
 
 ### Fixes in Adobe Analytics {#aa-fixes}
