@@ -175,7 +175,7 @@ New features, fixes, documentation, and tutorials in Audience Manager.
 
 |Feature| Date Added or Updated|  Description|
 |----|----|----|
-|[Audience Manager user migration to Admin Console](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/admin-console-migration.html)| February 1, 2020 | Audience Manager user account management is moving to the Adobe Admin Console, for a more streamlined experience across your Adobe solutions. <br>Follow the steps described in this article to facilitate user migration. All Audience Manager administrators should start migrating their user accounts to Adobe Admin Console as soon as possible. |
+|[Audience Manager user migration to Admin Console](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/admin-console-migration.html)| February 1, 2021 | Audience Manager user account management is moving to the Adobe Admin Console, for a more streamlined experience across your Adobe solutions. <br>Follow the steps described in this article to facilitate user migration. All Audience Manager administrators should start migrating their user accounts to Adobe Admin Console as soon as possible. |
 
 ### Fixes and Improvements {#aam-fixes-and-improvements}
 
