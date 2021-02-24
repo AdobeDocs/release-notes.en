@@ -401,15 +401,20 @@ Last updated: **October 28, 2020**
 
 ### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Last updated: **January 22, 2021, for January 23 release**
+Last updated: **February 23, 2021, for February 20 release**
 
 | Feature    | Description  |
 | -----------| ---------- |
-| [!UICONTROL Search Campaigns]<br> Reports| Advertising Cloud Search no longer reports new average position data for Microsoft Advertising campaigns. The Average Position column shows values of zero (0) for dates beginning 23 January. This is in preparation for Microsoft's deprecation of average position data in January 2021.<br>Average position data collected through 22 January is still available in reports. |
+| All | Tools > "Adwords Conversion Tags" is now "Google Ads Conversion Tags.“ |
+| All | In April, the following features and views will be deprecated:<br><ul><li>Optimization > Portfolio Cards</li><li>Optimization > Bid Rules</li><li>Insights &amp; Reports > Dashboard</li><li>Campaigns:  Pending and Scheduled support for bulk edits</li></ul> |
 
-### Ad Cloud tutorials and courses
+### Advertising Cloud tutorials and courses
 
-Updated: **December 2, 2020**
+Updated: **February 23, 2021**
+
+| Tutorial    | Description  |
+| -----------| ---------- |
+| [Introduction to Workspace and Reporting](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-analysis-workspace-a4adc.html) | Learn how you can use your Advertising Cloud data to create visual reports in Adobe Analytics Analysis Workspace. |
 
 ## ![Icon](/assets/magento.png) [!DNL Magento] {#magento}
 
