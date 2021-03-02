@@ -12,19 +12,15 @@ author: mfrei
 
 Experience Cloud solutions and services are updated monthly. This page is your central location for finding the latest release updates, documentation, and tutorials for [!DNL Experience Cloud] and Experience Platform. You can also find new documentation for [!DNL Creative Cloud for Enterprise] and [!DNL Document Cloud].
 
->[!IMPORTANT]
->
->This page contains prerelease content and is subject to change prior to release dates.
-
 >[!NOTE]
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Latest update: **February 12, 2021**
+Latest update: **February 21, 2021**
 
 * [Adobe System Status](#status)
 * [Experience Cloud services and administration](#ecloud)
-* [Experience Platform](#platform)
+* [Experience Platform](#platform) **Updated February 21, 2021**
 * [Journey Orchestration](#journey-orch)
 * [Analytics](#analytics) **Updated February 19, 2021**
 * [Customer Journey Analytics](#cust-journey)`
@@ -69,6 +65,7 @@ New videos, tutorials, or courses published for Experience Platform and services
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
+|February 26, 2021 |[Monitor data flow in Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/data-monitoring.html?lang=en#data-ingestion) |Learn how to monitor and track data that gets ingested into Adobe Experience Platform using Platform’s UI and API. |
 |February 10, 2021 |[Configure the Azure Blob Destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination.html?lang=en#destinations) | Video|Learn how to walk through the steps required to set up and configure and Azure Blob Storage destination in Real-time Customer Data Platform (Real-time CDP). |
 |February 4, 2021|[View identity graphs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/identities/view-identity-graphs.html) |Video |How to use the identity graph viewer feature to search, explore, and filter identity graphs for validation and debugging. |
 |February 3, 2021|[Batch data ingestion overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/batch-ingestion-overview.html) |Video |An overview of batch data ingestion in Adobe Experience Platform. Learn how to ingest batch data using the API. |
