@@ -1,6 +1,6 @@
 ---
-title: Release Notes for Experience Cloud and Experience Platform
-description: Learn about the latest release notes, new features, and new documentation for Experience Cloud and Experience Platform. Find new help and tutorials about Creative Cloud for Enterprise and Document Cloud.
+title: Latest Release Notes
+description: "Learn about the latest release notes, new features, and new documentation for Experience Cloud products and services. Find new help and tutorials about Experience Cloud, Creative Cloud for Enterprise, and Document Cloud."
 doc-type: release notes
 last-update: February 2021
 author: mfrei
