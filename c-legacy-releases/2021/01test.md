@@ -147,16 +147,13 @@ New courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Custome
 
 AAM new features.
 
-### Fixes and Improvements {#aam-fixes-and-improvements}
-
-* Fixed an issue in the [Onboarding Status Report](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html). In this issue, there was a discrepancy between the records in the report and the ones in the file uploaded by an onboarding partner. (AAM-57415)
-
 ### Audience Manager courses and tutorials {#tutorials-aam}
 
 New videos, tutorials, or courses published for Audience Manager.
 
 ### Fixes and Improvements {#aam-fixes-and-improvements}
 
+* Fixed an issue in the [Onboarding Status Report](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/onboarding-status-report.html). In this issue, there was a discrepancy between the records in the report and the ones in the file uploaded by an onboarding partner. (AAM-57415)
 * Fixed an issue causing incorrect duplicate segment mapping validation for **[!UICONTROL People-Based Destinations]**. (AAM-56631)
 * Fixed an issue which blocked some users from accessing **[!UICONTROL Audience Reports]**. (AAM-57412)
 * Patched a [!DNL Remote Code Execution] vulnerability which could be used by attackers to access sensitive data. (AAM-57495)
