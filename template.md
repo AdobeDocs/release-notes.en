@@ -156,7 +156,7 @@ See [Data Workbench release notes](https://docs.adobe.com/content/help/en/data-w
 * Fix
 * Fix
 
-See [AppMeasurement release history](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-release-notes/c-release-notes-mjs.html) for a release history of AppMeasurement on the following platforms:
+See [AppMeasurement release history](https://experienceleague.corp.adobe.com/docs/analytics/implementation/appmeasurement-updates.html) for a release history of AppMeasurement on the following platforms:
 
 * [!DNL JavaScript]
 * [!DNL iOS]
