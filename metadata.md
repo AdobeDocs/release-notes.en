@@ -1,6 +1,7 @@
 ---
 cloud: experience-cloud
 solution-title: Learn & Support
+description: Release notes for Experience Cloud solutions
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud.html
 solution-icon: assets/assets/experience-cloud-logo-24.png
 getting-started-title: Getting Started
