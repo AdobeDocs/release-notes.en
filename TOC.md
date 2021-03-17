@@ -13,6 +13,7 @@ user-guide-url: https://www.adobe.com
 + Previous release notes {#previous}
     + 2021 {#2021}
         + [January 2021](c-legacy-releases/2021/01142021.md)
+        + [Test](c-legacy-releases/2021/01test.md)
     + 2020 {#2020}
         + [November 2020](c-legacy-releases/2020/10292020.md)
         + [October 2020](c-legacy-releases/2020/10082020.md)
