@@ -197,76 +197,54 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
 
 ### Product releases
 
-* **Experience Manager as a Cloud Service**
+* **Adobe Experience Manager as a Cloud Service**
 
-    New features in Experience Manager as a Cloud Service
+    What is new on Experience Manager as a Cloud Service?
 
-  * **Experience Manager Sites as a Cloud Service**
+  * **Experience Manager Sites as Cloud Service**
 
-    * **Headless Content Management Service**
-
-      * [GraphQL API for Content Fragment Delivery](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/admin/graphql-api-content-fragments.html): Ability to query Content Fragments using GraphQL syntax, and schemas based on Content Fragment models, for output in JSON format.
-      * [Authentication Support for GraphQL API Requests](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/admin/graphql-authentication-content-fragments.html): Ability to authenticate GraphQL API requests with access tokens for server-side APIs.
-      * [The RemotePage Component](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/developing/hybrid/remote-page.html): Added support for viewing and editing external SPAs within AEM using.
-      * [Editing an External SPA within AEM](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/developing/hybrid/editing-external-spa.html): Added ability to upload a stand-alone single-page application to an AEM instance, add editable sections of content, and enable authoring.
-      * Enhanced JSON output from GraphQL API, including ability to output rich text in JSON format and locales.
-      * Support for nesting Content Fragment models to allow creating nested Content Fragment structures, via dedicated Content Fragment Reference data types or Content Fragment references inline in multiline text fields.
-      * More validation rules available in Content Fragment model data types, including “unique”, “required” and “translatable”.
-      * Ability tag Content Fragment models, and to allow Content Fragment creation in a folder with policies by tags or paths.
-      * Usability enhancements in Content Fragment editor, including publish action and display of model a fragment is based on.
-      * Ability to preview JSON output directly in Content Fragment editor.
-
-    * **Progressive Web Apps (PWAs)**
-
-      * [A Progressive Web App (PWA) version of a site](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/authoring/features/enable-pwa.html) can now be enabled at the project level via simple configuration.
+    * [The RemotePage Component](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/developing/hybrid/remote-page.html?lang=en): Added support for viewing and editing external SPAs within Experience Manager using.
+    * [Editing an External SPA within Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/developing/hybrid/editing-external-spa.html?lang=en): Added ability to upload a standalone single-page application to an Experience Manager instance, add editable sections of content, and enable authoring.
 
   * **Experience Manager Assets as a Cloud Service**
 
-    *  Experience Manager Assets as a Cloud Service is entitled to have a pre-configured Brand Portal instance. The Cloud Manager user can activate Brand Portal on Experience Manager Assets as a Cloud Service. See [activate Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/brand-portal/configure-aem-assets-with-brand-portal.html).
-    
-    *  Businesses can now source assets using Brand Portal. Asset sourcing feature leverages Brand Portal to help customers engage with agency users to source assets for new marketing campaigns, photoshoots and projects. See [asset sourcing in Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html).
-    
-    * The Brand Portal usage report now displays only the active users. The inactive users are not displayed now. Active users are the ones whose account is assigned to a product profile in the Admin Console. See [Brand Portal reports](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-reports.html).
-    
-    * In Brand Portal, a new download setting is introduced, that lets you create separate folder for each asset when downloading folders, collection, and so on. See [download settings](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/download/brand-portal-download-assets.html).
+    * Experience Manager Assets as a Cloud Service is entitled to have a pre-configured Brand Portal instance. The Cloud Manager user can activate Brand Portal on Experience Manager Assets as a Cloud Service. See [Activate Brand Portal using Brand Portal]().
+    * Businesses can now source assets using Brand Portal. Asset sourcing feature uses Brand Portal to help customers engage with agency users to source assets for new marketing campaigns, photoshoots, and projects. See [Asset Sourcing overview](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en) in the Brand Portal Guide.
+    * The Brand Portal usage report now displays only the active users. The inactive users are not displayed now. Active users are the ones whose account is assigned to a product profile in the Admin Console. See [Work with reports](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-reports.html?lang=en) in the Brand Portal Guide.
+    * In Brand Portal, a new download setting is introduced, that lets you create separate folder for each asset when downloading folders, collection, and so on. See [Asset Download](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/download/brand-portal-download-assets.html?lang=en) in **Download assets from Brand Portal** in the Brand Portal Guide.
 
   * **Experience Manager Commerce as a Cloud Service**
 
-    * **What's New?**
+    * Product Experience Management: Enrich product catalog pages individually with Experience Fragments.
+    * Extended product console properties to show linked Assets and Experience Fragments, including action to quickly navigate to the associated content.
+    * Released CIF Venia Reference Site - 2021.02.24 that includes the latest CIF Core Components version 1.8.0. See [CIF Venia Reference Site 2021.02.24](https://github.com/adobe/aem-cif-guides-venia/releases/tag/venia-2021.02.24) for more details.
+    * Released CIF Core Components version 1.8.0. See [CIF Core Components 1.8.0](https://github.com/adobe/aem-core-cif-components/releases/tag/core-cif-components-reactor-1.8.0) for more details.
 
-      * Product Experience Management: New ‘Commerce’ properties tab for Assets and Experience Fragments. This tab enables you to link products / categories to Assets and Experience Fragments. The tab also shows real-time data for linked products / categories, and a link to show details in the product console.
-      * Released CIF Venia Reference Site - 2021.02.02 that includes the latest CIF Core Components version v1.7.0. Refer to [CIF Venia Reference Site](https://github.com/adobe/aem-cif-guides-venia/releases/tag/venia-2021.02.02) for more details.
-      * Released CIF Core Components v1.7.0. Refer to [CIF Core Components](https://github.com/adobe/aem-core-cif-components/releases/tag/core-cif-components-reactor-1.7.0) for more details.
+  * **Cloud Manager**
 
-    * **SDK Build Analyzers**
-
-      The Experience Manager as a Cloud Service SDK Build Analyzer Maven plug-in detects problems in a maven project, including missing dependencies. It gives developers an opportunity to find issues during local development, well before deploying to Cloud environments with Cloud Manager.
-
-      Two new analyzers have been added for this release:
-
-      * repoinit analyzer
-      * bundle-nativecode
-
-      For more information, see the documentation [here](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/build-analyzer-maven-plugin.html#developing).
-
-  * **Cloud Transition Tools**
-
-    * **What is New in Content Transfer Tool**
-
-      * New capability and UI added to Content Transfer Tool – User-Mapping Tool. This feature automatically maps existing user and groups to their Adobe Identity Management System IDs as part of the content migration activity.
-      See [Using User Mapping Tool](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/moving/cloud-migration/content-transfer-tool/using-user-mapping-tool.html).
-      * Content Transfer Tool now migrates all groups and users referenced in the migration set including children.
-      * Users are allowed to select certain paths under `/etc` when creating migration sets.
+    * Customers with environments that have pre-existing Custom Domain Name configurations for [IP Allow Lists](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/ip-allow-lists/check-ip-allow-list-status.html?lang=en#pre-existing-cdn), [SSL Certificates](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/manage-ssl-certificates/check-status-ssl-certificate.html?lang=en#pre-existing-cdn), and [Custom Domain Names](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/custom-domain-names/check-domain-name-status.html?lang=en#pre-existing-cdn) now see a message about their previously existing configurations. They can also self-serve by way of the user interface.
+    * Users with requisite permissions can now edit a Program, allowing them to do the following in a self-service manner:
+      * Add Sites solution to an existing program with Assets or conversely.
+      * Remove Sites or Assets from an existing program with both Sites and Assets.
+      * Add second, unused solution entitlement either to an existing program, or as a new program.
+    * **AEM Push Update** label is now displayed for both *Pipeline Execution* and *Activity* screens.
+    * If an environment is hibernated, but there is also an Experience Manager update available, the **Hibernated** status takes precedence over **Update available**.
+    * Users can now see their Cloud Manager roles by selecting **View Cloud Manager Roles** after navigating to the User Profile icon (top right) of Unified Shell.
+    * The label **Application for Approval** has been relabeled to **Production Approval** for greater clarity.
+    * The **Version** label has been relabeled to **Git Tag** in the Production pipeline execution screen.
+    * The labels which define the behavior when important metrics do not meet the defined threshold have been relabeled to reflect their true behavior: **Cancel Immediately** and **Approve Immediately**.
+    * The class and method deprecation lists have been updated based on version `2021.3.4997.20210303T022849Z-210225` of the Experience Manager Cloud Service SDK.
+    * Cloud Manager Production pipeline now includes [Custom UI Testing](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/test-results/functional-testing.html?lang=en#custom-ui-testing) capability.
 
 ### **Community**
 
 * **Adobe Developers Live 2021 | Complete Session list**
 
-   By popular request, [here](https://adobe.ly/3cldljt) is an aggregated list of all the Experience Manager sessions occurring at Adobe Developers Live. All the recording and Q&A for each session is posted to their respective Contextual Threads.
+    [Here](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-2021-complete-session-list/m-p/394595#M27875) is an aggregated list of all the Experience Manager sessions occurring at **Adobe Developers Live**.
 
-* **List of latest Adobe Experience Manager content on Experience League | January 2021**
+* **Adobe Summit 2021 | Complete Experience Manager Session list**
 
-    The official source of Digital Experience technical content produced by Adobe. See the full list [here](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/list-of-latest-adobe-experience-manager-content-on-experience/m-p/377452#M27156).
+    [Here](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-summit-2021-complete-aem-session-list/td-p/398344) is an aggregated list of all the Experience Manager sessions occurring at **Adobe Summit 2021**.
 
 ### Experience Manager release information
 
