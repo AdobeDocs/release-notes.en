@@ -224,6 +224,14 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
     * The Brand Portal usage report now displays only the active users. The inactive users are not displayed now. Active users are the ones whose account is assigned to a product profile in the Admin Console. See [Work with reports](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-reports.html?lang=en) in the Brand Portal Guide.
     * In Brand Portal, a new download setting is introduced, that lets you create separate folder for each asset when downloading folders, collection, and so on. See [Asset Download](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/download/brand-portal-download-assets.html?lang=en) in **Download assets from Brand Portal** in the Brand Portal Guide.
 
+  * **Experience Manager Forms as a Cloud Service**
+
+    AEM Forms has helped multiple organizations deliver great on-boarding and enrollment experiences over the years. These experiences have helped organizations convert leads to actual sales, process captured customer data, deliver responsive experiences based on the audience profile, and much more. Now, AEM Forms is available as a cloud service.
+
+    You can use AEM Forms as a Cloud Service to create digital forms, connect forms to existing data sources, integrate forms with Adobe Sign to add e-signatures to forms, and generate Document of Record (DoR) to archive filled forms as PDF files. You can also use the service to convert your existing PDF forms to digital forms. In addition to standard AEM Forms features, the service offers several cloud-native capabilities like auto-scaling based on load, zero downtime for upgrades, and cloud-native development environment. You can read [this blog post](https://blog.adobe.com/en/publish/2021/03/11/experience-manager-forms-as-a-cloud-service.html) to learn about more capabilities and features of the service.
+
+    The General Availability (GA) date of AEM Forms as a Cloud Service is March 25. You can reach out to your Adobe representative for a demo or to sign up for the service.
+
   * **Experience Manager Commerce as a Cloud Service**
 
     * Product Experience Management: Enrich product catalog pages individually with Experience Fragments.
