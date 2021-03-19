@@ -226,11 +226,12 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
 
   * **Experience Manager Forms as a Cloud Service**
 
-    AEM Forms has helped multiple organizations deliver great on-boarding and enrollment experiences over the years. These experiences have helped organizations convert leads to actual sales, process captured customer data, deliver responsive experiences based on the audience profile, and much more. Now, AEM Forms is available as a cloud service.
+    AEM Forms has helped many organizations deliver great onboarding and enrollment experiences over the years. These experiences have helped organizations convert leads to sales, process captured customer data, deliver responsive experiences based on the audience profile, and much more. Now, AEM Forms is available as a cloud service.
 
-    You can use AEM Forms as a Cloud Service to create digital forms, connect forms to existing data sources, integrate forms with Adobe Sign to add e-signatures to forms, and generate Document of Record (DoR) to archive filled forms as PDF files. You can also use the service to convert your existing PDF forms to digital forms. In addition to standard AEM Forms features, the service offers several cloud-native capabilities like auto-scaling based on load, zero downtime for upgrades, and a cloud-native development environment. You can read [this blog post](https://blog.adobe.com/en/publish/2021/03/11/experience-manager-forms-as-a-cloud-service.html) to learn about more capabilities and features of the service.
+    You can use AEM Forms as a Cloud Service to create digital forms, connect forms to existing data sources, integrate forms with Adobe Sign to add e-signatures to forms, generate Document of Record (DoR) to archive submitted forms as PDF files. The service can also convert your existing PDF forms to digital forms. In addition to standard AEM Forms features, the service offers several cloud-native capabilities like auto-scaling, zero downtime for upgrades, and cloud-native development environment. Read  [this blog post](https://blog.adobe.com/en/publish/2021/03/11/experience-manager-forms-as-a-cloud-service.html) to learn about capabilities and features of AEM Forms as a Cloud Service.
 
-    The General Availability (GA) date of AEM Forms as a Cloud Service is March 25. You can reach out to your Adobe representative for a demo or to sign up for the service.
+    You can reach out to your Adobe representative for a demo or to sign up for the service.
+
 
   * **Experience Manager Commerce as a Cloud Service**
 
