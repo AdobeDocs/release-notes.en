@@ -1,17 +1,18 @@
 ---
 cloud: experience-cloud
 product: Experience Cloud
-user-guide-title: Experience Cloud Release Notes
+user-guide-title: Adobe Experience Cloud Release Notes
 breadcrumb-title: Release Notes
 user-guide-description: Learn about new features, fixes, and important notices in Adobe Experience Cloud and Experience Platform.
 user-guide-url: https://www.adobe.com
 ---
 
-# Adobe Experience Cloud Release Notes {#experience-cloud}
+# What's New in Adobe Experience Cloud {#experience-cloud}
 
 + [Current release notes](current.md)
 + Previous release notes {#previous}
     + 2021 {#2021}
+        + [February 2021](c-legacy-releases/2021/02182021.md)
         + [January 2021](c-legacy-releases/2021/01142021.md)
     + 2020 {#2020}
         + [November 2020](c-legacy-releases/2020/10292020.md)
@@ -38,5 +39,4 @@ user-guide-url: https://www.adobe.com
         + [February 2019](c-legacy-releases/2019/02072019.md)
         + [January 2019](c-legacy-releases/2019/01172019.md)
     + 2018 and earlier {#legacy-rns}
-        + 2018 and earlier {#2018-earlier}
-            + [2014 and Earlier](c-legacy-releases/2018-earlier.md)
+        + [2018 and Earlier](c-legacy-releases/2018-earlier.md)
