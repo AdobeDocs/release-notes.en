@@ -48,7 +48,7 @@ The most recent updates to Adobe System Status are found at [Adobe System Status
 
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloud UI Components, Services, and Administration {#ecloud}
 
-Not updated.
+**Unified Search:** Unified Search, which is currently available for Experience Platform, now supports search on Sources and Destinations for Experience Platform users. This feature enables you to search Segments, Datasets, Schemas, Sources and Destinations.
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
@@ -223,6 +223,15 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
     * Businesses can now source assets using Brand Portal. Asset sourcing feature uses Brand Portal to help customers engage with agency users to source assets for new marketing campaigns, photoshoots, and projects. See [Asset Sourcing overview](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en) in the Brand Portal Guide.
     * The Brand Portal usage report now displays only the active users. The inactive users are not displayed now. Active users are the ones whose account is assigned to a product profile in the Admin Console. See [Work with reports](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-reports.html?lang=en) in the Brand Portal Guide.
     * In Brand Portal, a new download setting is introduced, that lets you create separate folder for each asset when downloading folders, collection, and so on. See [Asset Download](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/download/brand-portal-download-assets.html?lang=en) in **Download assets from Brand Portal** in the Brand Portal Guide.
+
+  * **Experience Manager Forms as a Cloud Service**
+
+    AEM Forms has helped many organizations deliver great onboarding and enrollment experiences over the years. These experiences have helped organizations convert leads to sales, process captured customer data, deliver responsive experiences based on the audience profile, and much more. Now, AEM Forms is available as a cloud service.
+
+    You can use AEM Forms as a Cloud Service to create digital forms, connect forms to existing data sources, integrate forms with Adobe Sign to add e-signatures to forms, generate Document of Record (DoR) to archive submitted forms as PDF files. The service can also convert your existing PDF forms to digital forms. In addition to standard AEM Forms features, the service offers several cloud-native capabilities like auto-scaling, zero downtime for upgrades, and cloud-native development environment. Read  [this blog post](https://blog.adobe.com/en/publish/2021/03/11/experience-manager-forms-as-a-cloud-service.html) to learn about capabilities and features of AEM Forms as a Cloud Service.
+
+    You can reach out to your Adobe representative for a demo or to sign up for the service.
+
 
   * **Experience Manager Commerce as a Cloud Service**
 
