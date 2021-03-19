@@ -141,7 +141,7 @@ AN-206099; AN-237460; AN-241803; AN-243735; AN-244081; AN-244615; AN-244687; AN-
 | ----------- | ---------- | ---------- |
 | Same-as-SiteCatalyst VISTA Processing ON | March 17, 2021 | On June 17, 2021, all report suites will be updated to have [!UICONTROL Same-as-SiteCatalyst VISTA Processing] set to ON.  This change will impact Data Warehouse reporting by processing the data to match processing rules.  For questions or clarification, reach out to Customer Care. |
 | EOL of Full Processing Data Sources | March 10, 2021 | Adobe plans to deprecate full processing data sources in the future. As of March 25, 2021, new imports of this type can no longer be created. Please use [Bulk Data Insertion API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) to import this type of data. |
-| Reports & Analytics landing page options | February 19, 2021 | On March 25, 2021, options to set new Reports & Analytics dashboards or other content as your Adobe Analytics landing page will be removed. If you previously set a Reports & Analytics page as your custom landing page, it will continue to work until your landing page is modified in [!UICONTROL User Preferences]. As of March 25, 2021, you can no longer define new Reports & Analytics custom landing pages. |
+| Reports & Analytics landing page options | February 19, 2021 | On March 25, 2021, options to set new Reports & Analytics dashboards or other content as your Adobe Analytics landing page will be removed. If you previously set a Reports & Analytics page as your custom landing page, it will continue to work until your landing page is modified in [!UICONTROL User Preferences]. |
 | EOL of Ad Hoc Analysis | Jan. 2021 | [!UICONTROL Ad Hoc Analysis] reached its end-of-life date on March 1, 2021. For more information, visit [Discover Workspace](https://spark.adobe.com/page/S9Bhp66VJ2fEn/). |
 | End-of-life for three Analytics API services | January 6, 2021 | On April 30, 2021, the following Analytics Legacy API services are slated to reach their end-of-life date and will be shut down. Any current integrations built using these services will stop working on that day.<ul><li>1.3 Analytics APIs</li><li>1.4 SOAP Analytics APIs</li><li>Legacy OAuth Authentication (OAuth and JWT)</li></ul>We have provided a [Legacy API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) to help answer your questions and provide guidance on how to proceed. API integrations that employ these services can migrate to the [1.4 Analytics REST APIs](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) or the [2.0 Analytics APIs](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth accounts can migrate to an [Adobe IO](https://console.adobe.io/home?mv=email#) Analytics integration account, which can be used to access both the 1.4 Analytics APIs and 2.0 Analytics APIs. |
 | EOL of Adobe Data Connectors | July 13, 2020 | Adobe [!UICONTROL Data Connectors] are powered by legacy technology that is no longer viable or supported. A new standard is available in the [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud). You can use that standard for any integration to continue to be offered and supported. The official end-of-life date is August 1, 2021. [Learn more...](https://docs.adobe.com/content/help/en/analytics/import/dataconnectors/data-connectors-eol.html) |
@@ -197,6 +197,16 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
 
 ### Product releases
 
+* **AEM 6.5.8.0**
+    AEM 6.5, Service Pack 8 (6.5.8.0 released March 11, 2021) is an important update that includes new features, key customer enhancements, improved performance, stability, and security, released since the general availability of AEM 6.5, April 2019.
+  * [Release notes](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=en#service-pack)
+  * [AEM Forms release deliverables](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/forms-updates/aem-forms-releases.html#forms-updates)
+
+  * **AEM 6.4.8.4**
+    AEM 6.4, Service Pack 8, Cumulative Fix Pack 4 (6.4.8.4 released February 25, 2021) is an important update that includes several internal and customer fixes since the general availability of AEM 6.4, Service Pack 8 (6.4.8.0), March 2020.
+  * [Release notes](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=en)
+  * [AEM Forms release deliverables](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/forms-updates/aem-forms-releases.html#forms-updates)
+
 * **Adobe Experience Manager as a Cloud Service**
 
     What is new on Experience Manager as a Cloud Service?
@@ -208,7 +218,7 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
 
   * **Experience Manager Assets as a Cloud Service**
 
-    * Experience Manager Assets as a Cloud Service is entitled to have a pre-configured Brand Portal instance. The Cloud Manager user can activate Brand Portal on Experience Manager Assets as a Cloud Service. See [Activate Brand Portal using Brand Portal]().
+    * Experience Manager Assets as a Cloud Service is entitled to have a pre-configured Brand Portal instance. The Cloud Manager user can activate Brand Portal on Experience Manager Assets as a Cloud Service.
     * Businesses can now source assets using Brand Portal. Asset sourcing feature uses Brand Portal to help customers engage with agency users to source assets for new marketing campaigns, photoshoots, and projects. See [Asset Sourcing overview](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en) in the Brand Portal Guide.
     * The Brand Portal usage report now displays only the active users. The inactive users are not displayed now. Active users are the ones whose account is assigned to a product profile in the Admin Console. See [Work with reports](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/admin-tools/brand-portal-reports.html?lang=en) in the Brand Portal Guide.
     * In Brand Portal, a new download setting is introduced, that lets you create separate folder for each asset when downloading folders, collection, and so on. See [Asset Download](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/download/brand-portal-download-assets.html?lang=en) in **Download assets from Brand Portal** in the Brand Portal Guide.
