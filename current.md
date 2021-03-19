@@ -48,7 +48,7 @@ The most recent updates to Adobe System Status are found at [Adobe System Status
 
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloud UI Components, Services, and Administration {#ecloud}
 
-Not updated.
+**Unified Search:** Unified Search, which is currently available for Experience Platform, now supports search on Sources and Destinations for Experience Platform users. This feature enables you to search Segments, Datasets, Schemas, Sources and Destinations.
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
