@@ -63,7 +63,7 @@ New videos, tutorials, or courses published for Experience Platform and services
 |March, 2021|[Ingest data using Server server streaming connectors](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/streaming-ingestion-source-connector.html) |Video | This video shows how to stream data in real-time from a cloud storage source to Platform and use the data in real-time for customer engagement.|
 |March, 2021|[Data Ingestion for Data Engineers](https://video.tv.adobe.com/v/331971?quality=12&learn=on) |Video |Overview of the Data Ingestion course. |
 |March 5, 2021|[Data Ingestion for Data Engineers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2020.1.dataingestion) |Course |How to bring data from Multiple Sources into Adobe Experience Platform, and more. |
-|March, 2021|[Configure the Azure Blob Destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination.html?lang=en#destinations) |Video |Learn how to walk through the steps required to set up and configure and Azure Blob Storage destination in [!UICONTROL Real-time Customer Data Platform] (Real-time CDP).
+|March, 2021|[Configure the Azure Blob Destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination.html?lang=en#destinations) |Video |Learn how to walk through the steps required to set up and configure and Azure Blob Storage destination in [!UICONTROL Real-time Customer Data Platform] (Real-time CDP).|
 |March 5, 2021|[Getting Started with Offer Decisioning for Marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning) |Course |Learn about the [!UICONTROL Offer Decisioning] application service built on top of Adobe Experience Platform. This course is designed for marketers who want to drive revenue, customer experience and loyalty by delivering the best offers to their customers. |
 |March 5, 2021|[Streaming Data ingestion via API](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/streaming-ingestion-http-api.html) |Video |This video shows how to stream data to Adobe Experience Platform in real-time using the HTTP API endpoint. |
 |March 5, 2021|[Monitoring Data Ingestion using API](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/data-monitoring.html?lang=en#data-ingestion) |Video |Learn how to monitor and track data that gets ingested into Adobe Experience Platform using Platform’s UI and API. |
@@ -165,10 +165,6 @@ AN-206099; AN-237460; AN-241803; AN-243735; AN-244081; AN-244615; AN-244687; AN-
 ### AppMeasurement {#appm}
 
 For the latest updates on AppMeasurement releases, please refer to [AppMeasurement for JavaScript release notes](https://docs.adobe.com/content/help/en/analytics/implementation/appmeasurement-updates.html).
-
-<!-- ### Analytics courses and tutorials {#tutorials-analytics}
-
-New courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Customer Journey Analytics]. -->
 
 ### Analytics help resources
 
