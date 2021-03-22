@@ -10,17 +10,13 @@ author: mfrei
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
-Experience Cloud solutions and services are updated monthly. This page is your central location for finding the latest release updates, documentation, and tutorials for [!DNL Experience Cloud] and Experience Platform. You can also find new documentation for [!DNL Creative Cloud for Enterprise] and [!DNL Document Cloud].
-
->[!IMPORTANT]
->
->This page contains prerelease content and is subject to change prior to release dates.
+Experience Cloud solutions and services are updated monthly. This page is your central location for finding the latest release updates, documentation, and tutorials for [!DNL Experience Cloud] products and services. You can also find new documentation for [!DNL Creative Cloud for Enterprise] and [!DNL Document Cloud].
 
 >[!NOTE]
 >
->Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
+>Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month and might contain content that is subject to change prior to a release date. Check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Latest update: **March 19, 2021**
+Latest update: **March 22, 2021**
 
 * [Adobe System Status](#status) (not updated)
 * [Experience Cloud UI Components, Services, and Administration](#ecloud)
@@ -44,7 +40,7 @@ Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#h
 
 [!UICONTROL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe cloud products and services outage, disruption, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
-The most recent updates to Adobe System Status are found at [Adobe System Status - May 21, 2020](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/previous/2020/05212020.html#status) for the latest release information.
+The most recent updates to Adobe System Status are found at [Adobe System Status - May 21, 2020](https://docs.adobe.com/content/help/en/release-notes/experience-cloud/previous/2020/05212020.html#status).
 
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloud UI Components, Services, and Administration {#ecloud}
 
@@ -328,7 +324,11 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 Find out more about the latest capabilities, improvements, and fixes released:
 
 * [Campaign Standard Release Notes](https://docs.adobe.com/content/help/en/campaign-standard/using/release-notes/release-notes.html)
-* [Campaign Classic Release Notes](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html)
+* [Campaign Classic Release Notes](https://docs.adobe.com/content/help/en/campaign-classic/using/release-notes/latest-release.html).
+
+>[!IMPORTANT]
+>
+>Learn about [required configuration updates](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/acc-config-updates.html?lang=en) for Adobe Campaign Classic.
 
 ### New Campaign courses and tutorials
 
