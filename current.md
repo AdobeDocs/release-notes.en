@@ -445,13 +445,6 @@ The following features are releasing throughout the quarter:
 
 ## ![Icon](/assets/document-cloud-24.png) Document Cloud {#doc-cloud}
 
-New videos, tutorials, or courses published for Adobe Document Cloud.
-
-|Published|Name|Solution|Description |
-| -----------| ---------- | ---------- | ---------- |
-|February 25, 2021|[First impressions - Welcome email](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/first-impressions/welcome-emails.html) |Video |Learn what the key elements of  your welcome strategy should be. |
-|February 25, 2021|[First impressions - Address collection and list growth](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/first-impressions/address-collection-and-list-growth.html) |Video |Learn what the best sources for new email addresses are, how to ensure high data quality, and alignment with legal guidelines.|
-
 For Document Cloud help, see:
 
 * [Adobe Acrobat Learning Hub](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/acrobat-learning/overview.html)
