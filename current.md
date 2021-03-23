@@ -218,7 +218,7 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
   * [Release notes](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=en#service-pack)
   * [AEM Forms release deliverables](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/forms-updates/aem-forms-releases.html#forms-updates)
 
-  * **AEM 6.4.8.4**
+* **AEM 6.4.8.4**
     AEM 6.4, Service Pack 8, Cumulative Fix Pack 4 (6.4.8.4 released February 25, 2021) is an important update that includes several internal and customer fixes since the general availability of AEM 6.4, Service Pack 8 (6.4.8.0), March 2020.
   * [Release notes](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=en)
   * [AEM Forms release deliverables](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/forms-updates/aem-forms-releases.html#forms-updates)
