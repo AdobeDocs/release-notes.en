@@ -172,7 +172,7 @@ For the latest updates on AppMeasurement releases, please refer to [AppMeasureme
 
 ## ![Icon](/assets/audience-manager.png) Adobe Audience Manager {#aam}
 
-Fixes and imporvements in Audience Manager. 
+Fixes and improvements in Audience Manager. 
 
 ### Fixes and Improvements {#aam-fixes-and-improvements}
 
