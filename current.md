@@ -16,9 +16,10 @@ Experience Cloud solutions and services are updated monthly. This page is your c
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month and might contain content that is subject to change prior to a release date. Check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Latest update: **March 22, 2021**
+Latest update: **March 24, 2021**
 
-* [Adobe System Status](#status) (not updated)
+* [Digital Experience Blueprints](#blueprints) (new implementation documentation)
+* [Adobe System Status](#status)
 * [Experience Cloud UI Components, Services, and Administration](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
@@ -36,6 +37,23 @@ Latest update: **March 22, 2021**
   
 Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#home) to find product and technical documentation, Adobe-curated courses, video tutorials, quick answers, community insight, and instructor-led training.
 
+## ![Icon](/assets/adobe.png) Digital Experience Blueprints {#blueprints}
+
+Digital Experience Blueprints are repeatable implementations to address strategy and solve established business problems. Blueprints accelerate time-to-value and provide a fast path to success.
+
+|Published|Description |
+| -----------| ---------- |
+|[Digital Experience Blueprints](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html)|Overview of [!UICONTROL Digital Blueprints]. Each Blueprint offers a series of artifacts that explain the high-value business problem, architectures, implementation steps, technical considerations, and links to the relevant documentation.|
+|[Audience Activation Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/audience-activation/overview.html)|This audience-first activation allows brands to connect customer interactions across multiple channels to deliver a centralized audience that can be activated to all channels. |
+|[Customer Activity Hub Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture//customer-activity-hub/overview.html)|Learn how external applications can access Adobe Experience Platform’s [!UICONTROL Real-time Customer Profile]. |
+|[Customer Journey Analytics Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journey-analytics/overview.html)|Learn how brands can unify customer data and behavior from various interaction channels and sources to create a journey-based view of all customer interactions.  |
+|[Custom Data Science for Profile Enrichment Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-science/overview.html)|Learn how the data in Adobe Experience Platform is used by [!UICONTROL Data Science Workspace] to train, deploy, and score models to provide machine learning insights. |
+|[Data Preparation and Ingestion Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-ingestion/overview.html)|Learn how to map source data to the [!UICONTROL Experience Data Model] (XDM) schema. This blueprint also includes performing transformations on data, including date formatting, field splitting, concatenation, and conversions, as well as joining, merging, and re-keying of records.|
+|[Enterprise Data Exploration & Reporting Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-exploration/overview.html)|Experience Platform’s [!UICONTROL Query Service] allows SQL queries to be performed on the data. Learn how [!UICONTROL Data Science Workspace] enables data exploration, data science, and machine learning workloads to be performed on the data.|
+|[Multi-channel Message Orchestration Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/multi-channel-message-orchestration/overview.html)|Learn how brands can proactively engage and communicate with their customers through channels such as email, SMS, and mobile alerts. |
+|[Server Side Enterprise Data Collection Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/server-side-enterprise-data-collection/overview.html)|Learn how data collected with Adobe Experience Platform Web and Mobile SDKs can be forwarded from Experience Platform [!UICONTROL Edge Network] to a desired destination.  |
+|[Web & Mobile Personalization Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/web-personalization/overview.html)|Learn how to use audience segmentation in multiple applications to personalize and optimize customer experiences. You can use customer behaviors, demographics, loyalty level, and prior transactions to personalize layouts, call-to-actions, and content. |
+
 ## ![Icon](/assets/adobe.png) Adobe System Status {#status}
 
 [!UICONTROL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe cloud products and services outage, disruption, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
@@ -44,7 +62,9 @@ The most recent updates to Adobe System Status are found at [Adobe System Status
 
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloud UI Components, Services, and Administration {#ecloud}
 
-**Unified Search:** Unified Search, which is currently available for Experience Platform, now supports search on Sources and Destinations for Experience Platform users. This feature enables you to search Segments, Datasets, Schemas, Sources and Destinations.
+|Feature|Description |
+| -----------| ---------- |
+|Unified Search|Unified Search, which is currently available for Experience Platform, now supports search on Sources and Destinations for Experience Platform users. This feature enables you to search Segments, Datasets, Schemas, Sources and Destinations.|
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
