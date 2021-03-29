@@ -422,15 +422,21 @@ Last updated: **October 28, 2020**
 
 ### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Last updated: **January 22, 2021, for January 23 release**
+Last updated: **March 29, 2022, for March 27 release**
 
 | Feature    | Description  |
 | -----------| ---------- |
-| [!UICONTROL Search Campaigns]<br> Reports| Advertising Cloud Search no longer reports new average position data for Microsoft® Advertising campaigns. The Average Position column shows values of zero (0) for dates beginning 23 January. This is in preparation for Microsoft's deprecation of average position data in January 2021.<br>Average position data collected through 22 January is still available in reports. |
+| [!UICONTROL Search Campaigns]<br> Reports | (Microsoft Ads campaigns) Bidding support is now available for the Microsoft enhanced cost-per-click (eCPC) bid strategy, which is the default bid strategy for Microsoft Advertising campaigns. You can now specify a campaign-level [!UICONTROL Bid Strategy] for your campaigns. Options include [!UICONTROL Manual CPC] and [!UICONTROL Enhanced CPC]. You can use [!UICONTROL Enhanced CPC] with search, existing dynamic search ad, and shopping campaigns.<br>When you add a campaign with eCPC to an optimized Advertising Cloud portfolio, Advertising Cloud optimizes the base bids and &mdash; when the "Auto adjust campaign budget limits" option is enabled &mdash; the campaign budget. Microsoft applies all bid adjustments and may change the Advertising Cloud-generated bids at the time of the user query based on proprietary data and insights.<br>The [!UICONTROL Bid Strategy] custom column is available in the [!UICONTROL Campaigns] view and in reports. |
+| [!UICONTROL Search Campaigns]<br> [!UICONTROL Bulksheets] | (Microsoft Advertising campaigns) For expanded text ads, support is now available for an optional third headline ([!UICONTROL Ad Title 3]) and an optional second description ([!UICONTROL Description 2]). Support is available in the [!UICONTROL Ads] view and in [!UICONTROL Bulksheets]. |
+| [!UICONTROL Advertising Insights] | Two new [!UICONTROL Advertising Insights] are available:<ul><li>[!UICONTROL Delayed Revenue]:  Measures the conversion lag (the time elapsed between a SEM click and a subsequent conversion) of a portfolio and shows any differences in weighted revenue, ROI, and model accuracy because of the lag.</li><li>[!UICONTROL Query Cross Matching]: Finds instances of search queries that Google matched to more than one keyword and provides suggestions for where to direct traffic.</li></ul> |
 
-### Ad Cloud tutorials and courses
+### Advertising Cloud tutorials and courses
 
-Updated: **December 2, 2020**
+Updated: **February 23, 2021**
+
+| Tutorial    | Description  |
+| -----------| ---------- |
+| [Introduction to Workspace and Reporting](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-analysis-workspace-a4adc.html) | Learn how you can use your Advertising Cloud data to create visual reports in Adobe Analytics Analysis Workspace. |
 
 ## ![Icon](/assets/magento.png) [!DNL Magento] {#magento}
 
