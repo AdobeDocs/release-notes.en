@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 product: Experience Cloud
 user-guide-title: Adobe Experience Cloud Release Notes
 breadcrumb-title: Release Notes

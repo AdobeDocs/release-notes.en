@@ -1,5 +1,5 @@
 ---
-cloud: experience-cloud
+cloud: Experience Cloud
 solution-title: Learn & Support
 description: Release notes for Experience Cloud solutions
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud.html
