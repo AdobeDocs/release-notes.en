@@ -5,8 +5,8 @@ title: Release Notes for 2018 and Earlier
 solution: Experience Cloud,Analytics,Target,Advertising Cloud
 seo-title: Release Notes for 2018 and Earlier for Adobe Experience Cloud
 uuid: c56a1064-0f2c-4241-93c6-ca4b1f267763
+exl-id: 4e553328-1e96-48d6-addd-ff51be5eb6df
 ---
-
 # Release Notes for 2018 and Earlier
 
 * [2018 Release Notes PDF](2018-Adobe-Experience-Cloud-Release-Notes.pdf)
