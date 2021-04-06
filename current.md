@@ -16,7 +16,7 @@ Experience Cloud solutions and services are updated monthly. This page is your c
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month and might contain content that is subject to change prior to a release date. Check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Latest update: **March 24, 2021**
+Latest update: **April 6, 2021**
 
 * [Digital Experience Blueprints](#blueprints) (new implementation documentation)
 * [Adobe System Status](#status)
@@ -24,7 +24,7 @@ Latest update: **March 24, 2021**
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
-* [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey)
+* [Analytics](#analytics) **(updated April 6, 2021)** and [Customer Journey Analytics](#cust-journey)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -133,7 +133,7 @@ Release date: **March 25, 2021**
 * [New features in Adobe Analytics](#aa-features)
 * [New features in Customer Journey Analytics](#cust-journey)
 * [Fixes in Adobe Analytics](#aa-fixes)
-* [Important notices for Analytics administrators](#aa-notices)
+* [Important notices for Analytics administrators](#aa-notices) **(updated April 6, 2021)**
 * [AppMeasurement](#appm)
 
 ### New features in Adobe Analytics {#aa-features}
@@ -174,6 +174,7 @@ AN-206099; AN-237460; AN-241803; AN-243735; AN-244081; AN-244615; AN-244687; AN-
 
 | Notice | Date Added or Updated  | Description |
 | ----------- | ---------- | ---------- |
+| Data Feed and Data Warehouse IP Address Changes | April 6, 2021 | Starting June 17, the Data Feeds and Data Warehouse delivery system will be relocated within our data centers, and therefore may cause a change of external IP addresses visible to you.  You should confirm that all the IP CIDR blocks for the data center where your reports and feeds are sourced are present in any firewalls, for any destination systems that you control. [Here is a full list of IP Address ranges to place into your firewall’s allow lists](https://https://experienceleague.adobe.com/docs/analytics/technotes/ip-addresses.html#data-collection-and-ftp-ip-address-blocks). |
 | Notice of upcoming Analytics menu changes | March 24, 2021 | On April 22, 2021, we will update the **[!UICONTROL Components]**, **[!UICONTROL Tools]**, and **[!UICONTROL Admin]** dropdown menus in order to achieve some performance gains. All of these pages will still be available under the **[!UICONTROL All Components]**, **[!UICONTROL All Tools]**, and **[!UICONTROL All Admin]** links - they will simply be removed from the dropdown menu. Here are the menu items that will be removed from the dropdown menu and placed on their respective link page:<br><br> [!UICONTROL Components]<ul><li>[!UICONTROL Bookmarks]</li><li>[!UICONTROL Dashboards]</li><li>[!UICONTROL Targets]</li><li>[!UICONTROL Calendar Events]</li><li>[!UICONTROL Scheduled Reports]</li><li>[!UICONTROL Report Settings]</li></ul>[!UICONTROL Tools]<ul><li>[!UICONTROL Recommendations Classic]</li><li>[!UICONTROL Search & Promote]</li></ul>[!UICONTROL Admin]<ul><li>[!UICONTROL User Management]</li><li>[!UICONTROL Classification Importer]</li><li>[!UICONTROL Classification Rule Builder]</li><li>[!UICONTROL Data Sources]</li><li>[!UICONTROL Data Connectors]</li><li>[!UICONTROL Company Settings]</li><li>[!UICONTROL Logs]</li><li>[!UICONTROL Dynamic Tag Management]</li><li>[!UICONTROL Code Manager]</li><li>[!UICONTROL Exclude by IP]</li><li>[!UICONTROL Traffic Management]</li></ul> |
 | [!UICONTROL Same-as-SiteCatalyst VISTA Processing] = ON | March 17, 2021 | On June 17, 2021, all report suites will be updated to have [!UICONTROL Same-as-SiteCatalyst VISTA Processing] set to ON. This change impacts [!UICONTROL Data Warehouse] reporting by processing the data to match processing rules. For questions or clarification, reach out to Adobe Customer Care. |
 | EOL of [!UICONTROL Full Processing] [!UICONTROL Data Sources] | March 10, 2021 | Adobe plans to deprecate [!UICONTROL Full Processing] [!UICONTROL Data Sources] in the future. As of March 25, 2021, new imports of this type can no longer be created. Use [Bulk Data Insertion API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) to import this type of data. [Learn more](https://experienceleague.adobe.com/docs/analytics/import/data-sources/data-types-and-categories/datasrc-fullproc-eol.html) |
