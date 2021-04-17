@@ -4,8 +4,8 @@ description: Learn about the latest release notes, new features, and new documen
 doc-type: release notes
 last-update: April 2021
 author: mfrei
+exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 ---
-
 # Adobe Experience Cloud Release Notes - April 2021 
 
 ![Banner](assets/experience-cloud-banner-3.png)
