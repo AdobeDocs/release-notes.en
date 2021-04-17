@@ -336,7 +336,7 @@ Last updated: **October 28, 2020**
 | -----------| ---------- |
 | New Help | (October 28 release) The legacy help was replaced with updated pages, which are available from the Help link in the DSP main menu and are also available at all times from [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html) |
 | Campaigns | (October 28 release) The previous Campaigns Beta views are now the default Campaigns views, for quicker insights, simplified workflows, and customized views. |
-| Private Inventory | (October 15 release) All users can now set up and edit deal ID details using a new deal ID form, which is a simplified version of the legacy [!UICONTROL Smart Ad Serving] form. To set up new deal ID details, go to **[!UICONTROL Inventory]** > **!UICONTROL Deals]**, click **[!UICONTROL Create]**, then click **[!UICONTROL Deal ID Beta]**. |
+| Private Inventory| (October 15 release) All users can now set up and edit deal ID details using a new deal ID form, which is a simplified version of the legacy Smart Ad Serving form. To set up new deal ID details, go to **[!UICONTROL Inventory]** > **[!UICONTROL Deals]** > **[!UICONTROL Create]**, then click **[!UICONTROL Deal ID Beta]**.|
 | Placement Forecasting | (October 15 release) For placements with placement-level pacing, the [!UICONTROL Forecast] section of the placement settings includes a new [!UICONTROL Estimated Maximums] section, which indicates how much more capacity is available with the current targeting configuration. |
 
 ### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
