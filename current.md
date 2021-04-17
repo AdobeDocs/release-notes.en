@@ -22,7 +22,7 @@ Experience Cloud solutions and services are updated monthly. This page is your c
 
 Latest update: **April 16, 2021**
 
-* [Adobe System Status](#status) (not updated)
+* [Adobe System Status](#status)
 * [Experience Cloud UI Components, Services, and Administration](#ecloud)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
