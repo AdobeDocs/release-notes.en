@@ -1,5 +1,5 @@
 ---
-cloud: Experience Cloud
+cloud: experience-cloud
 product: Experience Cloud
 user-guide-title: Adobe Experience Cloud Release Notes
 breadcrumb-title: Release Notes
@@ -12,6 +12,7 @@ user-guide-url: https://www.adobe.com
 + [Current release notes](current.md)
 + Previous release notes {#previous}
     + 2021 {#2021}
+        + [March 2021](c-legacy-releases/2021/03252021.md)
         + [February 2021](c-legacy-releases/2021/02182021.md)
         + [January 2021](c-legacy-releases/2021/01142021.md)
     + 2020 {#2020}
