@@ -395,7 +395,7 @@ New videos, tutorials, or courses published for Adobe Document Cloud.
 | -----------| ---------- | ---------- | ---------- |
 |April 2021|[[Adobe Sign] Send reminders using Adobe Sign for Salesforce and Marketo - Feature Video](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/marketo/marketo-salesforce-reminder-video.html) |Video |In this video tutorial, you’ll learn how to send an email reminder from Marketo when an agreement remains unsigned after a period of time. This integration uses Adobe Sign for Salesforce, Marketo, and the Marketo and Salesforce sync. |
 
-### New Document Cloud courses and tutorials
+### Document Cloud tutorials
 
 |Published|Name|Solution|Description |
 | -----------| ---------- | ---------- | ---------- |
