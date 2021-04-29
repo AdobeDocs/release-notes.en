@@ -16,7 +16,7 @@ Experience Cloud solutions and services are updated monthly. This page is your c
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Latest update: **April 22, 2021**
+Latest update: **April 29, 2021**
 
 * [Adobe System Status](#status)
 * [Experience Cloud UI Components, Services, and Administration](#ecloud)
