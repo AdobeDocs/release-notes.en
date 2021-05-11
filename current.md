@@ -46,7 +46,7 @@ The most recent updates to Adobe System Status are found at [Adobe System Status
 
 | Feature | Date |Description |
 | ------- | ------- | ------- |
-| Mobile SDK: iOS SDK v4.21.2| April 13, 2021|Visitor ID Service - Fixed an issue where empty advertising identifiers were synced to the Visitor ID Service.| 
+| Mobile SDK: iOS SDK v4.21.2| April 13, 2021|Visitor ID Service - Fixed an issue where empty advertising identifiers were synced to the Visitor ID Service.|
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
