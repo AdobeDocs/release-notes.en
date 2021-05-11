@@ -46,14 +46,14 @@ The most recent updates to Adobe System Status are found at [Adobe System Status
 
 | Feature | Date |Description |
 | ------- | ------- | ------- |
-| Mobile SDK: iOS SDK v4.21.2| April 13, 2021|Visitor ID Service - Fixed an issue where empty advertising identifiers were synced to the Visitor ID Service.|
+| Feature| Date|Description.|
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
 Includes release update information for Experience Platform and Experience Platform Launch.
 
-* [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) (Released: **April 21, 2021**)
-* [Experience Platform Launch release notes](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html) (Released: February 18, 2021)
+* [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) 
+* [Experience Platform Launch release notes](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html) 
 
 ### Experience Platform tutorials and courses
 
@@ -167,8 +167,9 @@ Fixes and improvements in Audience Manager.
 
 ### Fixes and Improvements {#aam-fixes-and-improvements}
 
-* Fixed an issue in [General Reports](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/general-reports.html?lang=en#reporting), where a user would select a date in the **[!UICONTROL For Dates Through]** control but the report data would be shifted by one day. (AAM-57702)
-* Fixed an issue in [Administration > Groups](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/administration-overview.html?lang=en#create-group), where users would get a _Your group was saved successfully, but there was an error saving the group permissions_ error when saving group permissions because of timeouts. (AAM-57406, AAM-57411)
+* Fix
+* Fix
+* Fix
 
 ### Audience Manager courses and tutorials {#tutorials-aam}
 
@@ -190,61 +191,6 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
 >[!NOTE]
 >
 >Adobe recommends visiting the [Experience Manager release updates and roadmap](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) page to stay current on release information.
-
-### Product releases
-
-* **Adobe Experience Manager as a Cloud Service**
-
-    What is new on Experience Manager as a Cloud Service?
-
-  * **Experience Manager Sites as a Cloud Service**
-
-    * [A Progressive Web App (PWA) version of a site](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/authoring/features/enable-pwa.html) can now be enabled at the project level by way of simple configuration.
-    * Content Fragment Model Extensions - now possible to define multi-line text data types as multi-field lists.
-    * Content Fragment Editor UX Enhancements - nested child fragments now displayed in breadcrumb, and improved view of publish, save, and save&exit actions
-
-  * **Experience Manager Assets as a Cloud Service**
-
-    * Experience Manager extends the Connected Assets functionality to support use of Dynamic Media images in the supported core components. See [Use Connected Assets to share DAM assets in Experience Manager Sites](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/admin/use-assets-across-connected-assets-instances.html).
-    * Experience Manager administrators can schedule bulk asset ingestions at a specific date or time. Also, administrators can schedule recurring ingestions based on date and time. See [Asset bulk ingestor tool](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/add-assets.html?lang=en#asset-bulk-ingestor) video.
-
-  * **Experience Manager Forms as a Cloud Service**
-
-    Experience Manager Forms have helped many organizations deliver great onboarding and enrollment experiences over the years. These experiences have helped organizations convert leads to sales, process captured customer data, deliver responsive experiences based on the audience profile, and much more. Now, Experience Manager Forms is available as a Cloud Service.
-
-    You can use [Experience Manager Forms as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/home.html) to create digital forms, and connect forms to existing data sources. You can also integrate forms with Adobe Sign to add e-signatures to forms, and generate Document of Record (DoR) to archive submitted forms as PDF files. The service can convert your existing PDF forms to digital forms. In addition to standard AEM Forms features, the service offers several cloud-native capabilities like auto-scaling, zero downtime for upgrades, and cloud-native development environment. To learn about capabilities and features of Experience Manager Forms as a Cloud Service, [read the blog post "Experience Manager Forms as a Cloud Service"](https://blog.adobe.com/en/publish/2021/03/11/experience-manager-forms-as-a-cloud-service.html).
-
-    Reach out to your Adobe representative for a demo or to sign up for the service.
-
-  * **Experience Manager Commerce as a Cloud Service**
-
-    * Support for Magento 2.4.2.
-    * Product detail component can now be used and configured on any content page.
-    * Released CIF Venia Reference Site - 2021.03.25 that includes the latest CIF Core Components version 1.9.0. See [CIF Venia Reference Site - 2021.03.25](https://github.com/adobe/aem-cif-guides-venia/releases/tag/venia-2021.03.25) for more details.
-    * Released CIF Core Components 1.9.0. See [CIF Core Components 1.9.0](https://github.com/adobe/aem-core-cif-components/releases/tag/core-cif-components-reactor-1.9.0) for more details.
-
-  * **Cloud Manager**
-
-    * User interface updates to the Add and Edit Program workflows to make it more intuitive.
-    * A user with requisite permissions can now submit the commerce end point via the UI.
-    * Environment variables can now be scoped to a specific service, either author or publish. Requires Experience Manager `2021.03.5104.20210328T185548Z` or higher.
-    * The **[!UICONTROL Manage Git]** button is displayed on the Pipelines card even when no pipelines have been configured.
-    * The version of the Experience Manager project archetype used by Cloud Manager has been updated to version 27.
-    * Projects in the Adobe I/O Developer Console created by Cloud Manager can no longer be unintentionally edited or deleted.
-    * When a user adds an environment, they are informed that after an environment is created it cannot be moved to a different region.
-    * Environment variables can now be scoped to a specific service, either author or publish. Requires Experience Manager `2021.03.5104.20210328T185548Z` or higher.
-    * The error message when starting a pipeline when an environment was deleted has been clarified.
-    * OSGi bundles provided by Eclipse projects are now excluded from rule `CQBP-84--dependencies`.
-
-### **Community**
-
-* **Adobe Developers Live 2021 | Complete Session list**
-
-    [Here](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-2021-complete-session-list/m-p/394595#M27875) is an aggregated list of all the Experience Manager sessions occurring at **Adobe Developers Live**.
-
-* **Adobe Summit 2021 | Complete Experience Manager Session list**
-
-    [Here](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-summit-2021-complete-aem-session-list/td-p/398344) is an aggregated list of all the Experience Manager sessions occurring at **Adobe Summit 2021**.
 
 ### Experience Manager release information
 
