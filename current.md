@@ -103,17 +103,13 @@ Release date: **April 22, 2021**
 
 | Feature | [General Availability](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Target Date | Description |
 | ----------- | ---------- | ------- |
-| Analytics Dashboards: Custom Date Ranges | April 22, 2021 |Lets users of the Analytics Mobile App apply custom date ranges to their scorecards, in addition to the currently available out-of-the-box date ranges. |
-| Workspace: Previous Project versions | May 13, 2021 | Lets you load previous versions of a Workspace project to undo unwanted changes or to simply revert to a preferred prior version. |
+| Workspace: Previous Project versions | May 20, 2021 | Lets you load previous versions of a Workspace project to undo unwanted changes or to simply revert to a preferred prior version. |
 
 ### New features in Customer Journey Analytics {#cust-journey}
 
 | Feature | [General Availability](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Target Date | Description |
 | ----------- | ---------- | ----- |
-| Enhanced CJA data views | April 22, 2021 | Enhanced data views greatly expand your flexibility in creating metrics and dimensions from XDM schema fields. You can use a string field as a metric. You can use a numeric field as a dimension, create multiple metrics from the same field with different attribution models and lookback windows. And you can make metrics and dimensions compatible across data views, hide a component from reporting and include/exclude values, use bucketing, and much more. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html) |
-| Workspace: Support for Scheduled Reports | April 7, 2021 | Scheduled reports are now supported in CJA. |
-| Analytics Dashboards: Custom Date Ranges | April 22, 2021 |Lets users of the Analytics Mobile App apply custom date ranges to their scorecards, in addition to the currently available out-of-the-box date ranges. |
-| Workspace: Previous Project versions | May 13, 2021 | Lets you load previous versions of a Workspace project to undo unwanted changes or to simply revert to a preferred prior version. |
+| Workspace: Previous Project versions | May 20, 2021 | Lets you load previous versions of a Workspace project to undo unwanted changes or to simply revert to a preferred prior version. |
 
 ### Fixes in Adobe Analytics {#aa-fixes}
 
