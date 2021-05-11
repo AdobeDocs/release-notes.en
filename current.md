@@ -159,7 +159,7 @@ New courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Custome
 
 ### Analytics help resources
 
-* [Adobe Analytics Product Documentation and Tutorials](https://experienceleague.corp.adobe.com/docs/analytics.html)
+* [Adobe Analytics Product Documentation and Tutorials](https://experienceleague.adobe.com/docs/analytics.html)
 
 ## ![Icon](/assets/audience-manager.png) Adobe Audience Manager {#aam}
 
@@ -416,8 +416,8 @@ New videos, tutorials, or courses published for Adobe Document Cloud.
 
 For Document Cloud help, see:
 
-* [Adobe Acrobat](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/acrobat-learning/overview.html)
-* [Adobe Sign](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
+* [Adobe Acrobat](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/overview.html)
+* [Adobe Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
 * [Document Cloud Learn & Support](https://helpx.adobe.com/support/document-cloud.html)
 
 <!-- ## ![Icon](/assets/creative-cloud-24.png) Creative Cloud Enterprise {#creative-cloud}
