@@ -85,7 +85,7 @@ March 2021 Release - Find out more about the latest capabilities in the [Offer D
 
 ## ![Icon](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-Release date: **May 2\02, 2021**
+Release date: **May 20, 2021**
 
 * [New features in Adobe Analytics](#aa-features)
 * [New features in Customer Journey Analytics](#cust-journey)
