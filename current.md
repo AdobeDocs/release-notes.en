@@ -257,7 +257,7 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
     * Intermittent failures encountered while pushing code to Adobe git have now been resolved.
     * Commerce add-on can now be applied to Sandbox programs during the Edit program workflow.
     * The Edit program experience has been refreshed.
-    * The Domain Names table in the Environment Details page displays up to 250 Domain names via pagination.
+    * The Domain Names table in the Environment Details page displays up to 250 Domain names by way of pagination.
     * The Solutions tab in Add Program and Edit Program workflows displays the solution, even if only one solution is available for the Program.
     * The error message in the build step log when the build did not produce any deployed content packages was unclear.
 
