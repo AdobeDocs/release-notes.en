@@ -161,9 +161,8 @@ Fixes and improvements in Audience Manager.
 
 ### Fixes and Improvements {#aam-fixes-and-improvements}
 
-* Fix
-* Fix
-* Fix
+* Fixed an issue preventing users from saving **[!UICONTROL Audience Lab]** test groups when using integrated platform destinations. (AAM-58137) 
+* Customers can now generate **[!UICONTROL Activity Usage Reports]** with lookback intervals longer than one year. (AAM-58268)
 
 ### Audience Manager courses and tutorials {#tutorials-aam}
 
