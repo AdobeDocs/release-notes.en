@@ -183,7 +183,101 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
 
 >[!NOTE]
 >
->Adobe recommends visiting the [Experience Manager release updates and roadmap](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) page to stay current on release information.
+>Adobe recommends visiting the [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) page to stay current on release information.
+
+### Product releases
+
+* **Adobe Experience Manager as a Cloud Service**
+
+    What is new on Experience Manager as a Cloud Service?
+
+  * **Adobe Experience Manager as a Cloud Service Foundation**
+
+    * [Publish Content Tree Workflow](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/operations/replication.html?lang=en#publish-content-tree-workflow) - A new workflow model and step provides increased performance when publishing deep hierarchies of content.
+
+  * **Experience Manager Sites as a Cloud Service**
+
+    * GraphQL Endpoints - You can now enable the Adobe Experience Manager GraphQL API for individual Experience Manager Sites configurations and to create custom GraphQL endpoints for those configurations by using a new GraphQL Console user interface. The user interface also allows managing GraphQL endpoints.
+    * Content Models, enhanced **[!UICONTROL Date&Time]** data type - You can now configure the **[!UICONTROL Date&Time]** date type to allow authoring only date, only time, or date and time information.
+    * Content Models, enhanced **[!UICONTROL Tags]** data type - You can now configure the **[!UICONTROL Tags]** data type to allow authoring single or multiple tags.
+    * Content Models, new **[!UICONTROL Tab Placeholder]** data type - The new **[!UICONTROL Tab Placeholder]** data type lets you group data types into sections that are rendered under tabs in the content fragment editor.
+
+  * **Experience Manager Assets as a Cloud Service**
+
+    * Experience Manager does not archive single asset downloads where the original file is downloaded. This enhancement allows for faster downloads.
+    * When an asset is downloaded by way of the link share option, you can now choose to download or not download the renditions. Previously, all the asset renditions were downloaded.
+    * Administrators can configure Experience Manager to delete the source of assets after doing a bulk asset ingestion. See [bulk asset ingestion](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/add-assets.html?lang=en#asset-bulk-ingestor).
+    * When executing a health check to import assets in bulk, Experience Manager now provides more information reasons for failures. See [bulk asset ingestion](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/add-assets.html?lang=en#asset-bulk-ingestor).
+    * When importing assets using bulk import tool, administrators now can optionally delete the source files after the import is successful. See [bulk asset ingestion](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/add-assets.html?lang=en#asset-bulk-ingestor).
+    * When editing a metadata schema, a new root path selector field lets an administrator make the selection quickly and easily so that the configuration time is reduced.
+    * Metadata of many assets can be imported in bulk using a CSV file and can be exported to a CSV file. The default date format is now `yyyy-MM-dd'T'HH:mm:ss.SSSXXX`. Users can apply a different format by updating the column header. For example, add Date: `DateFormat: yyyy-MM-dd'T'HH:mm:ssXXX` as the column header in the CSV file instead of the word Date.
+    * When browsing assets in Column view, a visual indicator displays the approved or rejected status of each asset.
+    * When browsing assets in Column view, a visual indicator displays for expired assets.
+    * A text area data type is made available in Assets metadata editor. You can use this option to let your users input metadata in a free-form text field.
+
+  * **Experience Manager Forms as a Cloud Service**
+
+    You can use [Experience Manager Forms as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/home.html?lang=en) to create digital forms and connect forms to existing data sources. You can also integrate forms with Adobe Sign to add e-signatures to forms, generate Document of Record (DoR) to archive submitted forms as PDF files. The service can also convert your existing PDF forms to digital forms. In addition to standard AEM Forms features, the service offers several cloud-native capabilities like auto-scaling, zero downtime for upgrades, and cloud-native development environment. To learn about capabilities and features of Experience Manager Forms as a Cloud Service, read this blog page [Future of Work: Experience Manager Forms as a Cloud Service](https://blog.adobe.com/en/publish/2021/03/11/experience-manager-forms-as-a-cloud-service.html).
+
+    * **Use Government ID identity verification method in Adobe Sign enabled Adaptive Forms**
+
+      Powered by advanced machine learning algorithms, Adobe Sign’s Government ID process empowers companies across the globe with the ability to secure a high-quality verification of their recipient’s identity. Now, you can use Government ID identity verification method in Adobe Sign enabled Adaptive Forms.
+
+      Government ID is a premium identity verification method. It instructs the recipient to [upload the image of a government-issued identity document (driver’s license, national ID, passport)](https://helpx.adobe.com/in/sign/using/adobesign-authentication-government-id.html). Then it evaluates that document to ensure it is authentic.
+
+    * **Support to use in-form signing experience for asynchronous adaptive form submissions**
+
+      You can now use the in-form signing experience for asynchronous adaptive form submissions. You can also embed an adaptive form in an Experience Manager Sites page and use the in-form signing experience for adaptive form submissions.
+
+    * **Support to use a variable to specify an attachment while prepopulating an Adaptive Form for an Assign Task step**
+
+      While prepopulating an Adaptive Form for an Assign Task step, you can now use a document type variable to select an input attachment for the Adaptive Form.
+
+    * **Support to use the literal option to set value for a JSON type variable**
+
+      You can use literal option to set value for a JSON type variable in the set variable step of an Experience Manager Workflow. The literal option allows you to specify a JSON in the form of a string.
+
+    * **Use local development environment to create Document of Record (DoR)**
+
+      You can use an XDP as a Document of Record template on Cloud Service instances and AEM Forms as a Cloud Service SDK (Local development environment). Previously, the support was limited to Cloud Service instances only.
+
+  * **Experience Manager Commerce as a Cloud Service**
+
+    * Support for category UID - This feature unlocks third-party commerce integrations for systems that use Strings for category IDs.
+    * Experience Manager extension for PWA Studio includes example integration.
+    * New CIF navigation core component that extends WCM navigation core component.
+    * Visual indicator for staged catalog data in Experience Manager storefront.
+    * Commerce endpoint is now configurable by way of Cloud Manager user interface.
+
+  * **Cloud Manager**
+
+    * The PackageOverlaps quality rule now detects cases where the same package was deployed multiple times; that is, in multiple embedded locations, in the same deployed package set.
+    * The repository endpoint in the Public API now includes the Git URL.
+    * Deployment log downloaded by a Cloud Manager user is more insightful and now includes details about failures and success scenarios.
+    * Intermittent failures encountered while pushing code to Adobe git have now been resolved.
+    * Commerce add-on can now be applied to Sandbox programs during the Edit program workflow.
+    * The Edit program experience has been refreshed.
+    * The Domain Names table in the Environment Details page displays up to 250 Domain names via pagination.
+    * The Solutions tab in Add Program and Edit Program workflows displays the solution, even if only one solution is available for the Program.
+    * The error message in the build step log when the build did not produce any deployed content packages was unclear.
+
+### **Community**
+
+* **[Adobe Summit 2021 Sneaks with Dan Levy](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-summit-2021-sneaks-with-dan-levy/td-p/405865)**
+
+    Once a year, every Adobe employee, from engineers and data scientists to UX designers and product managers, has a chance to share innovative ideas to evolve the way brands interact with their customers. Join us for Adobe Sneaks, where the top seven projects are shared, each tapping the latest technologies in areas like AI (Artificial Intelligence) and low-code apps. See [all the sessions here](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-summit-2021-complete-aem-session-list/td-p/398344).
+
+* **[Experience League Communities launches the Gamification](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-communities-launches-the-gamification/td-p/405366)**
+
+    Adobe is *excited* to be kicking off [*a whole new way of doing things*](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud-blogs/new-experience-league-community-game-features-and-faqs/ba-p/405291) around here in the Experience League Community! See [full details here](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-communities-launches-the-gamification/td-p/405366).
+
+* **[Adobe Summit 2021 | Complete Experience Manager Session list](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-summit-2021-complete-aem-session-list/td-p/398344)**
+
+    By popular request of Adobe customers, here is an aggregated list of all the Experience Manager sessions occurring at **Adobe Summit 2021**.
+
+* **[Announcing the new process to submit Experience Manager Feature Requests](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425)**
+
+    Adobe is excited to announce the FeatureBit. It is a project to redefine the customer experience of posting Experience Manager feature requests to the Product Team. It is also the initiative with the goal of implementing a whole new avenue for the customers/partners to submit Feature Enhancements (RFEs) by way of the [Experience League Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
 
 ### Experience Manager release information
 
