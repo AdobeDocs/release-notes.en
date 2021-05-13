@@ -379,16 +379,6 @@ Last updated: **April 14, 2021, for April 17 release**
 
 {style="table-layout:auto"}
 
-### Advertising Cloud tutorials and courses
-
-Updated: **February 23, 2021**
-
-| Tutorial    | Description  |
-| -----------| ---------- |
-| [Introduction to Workspace and Reporting](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-analysis-workspace-a4adc.html) | Learn how you can use your Advertising Cloud data to create visual reports in Adobe Analytics Analysis Workspace. |
-
-{style="table-layout:auto"}
-
 ## ![Icon](/assets/magento.png) [!DNL Magento] {#magento}
 
 See Magento Commerce and Open Source [release notes](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) for the latest release information.
@@ -403,23 +393,7 @@ See [[!DNL Target] release notes](https://experienceleague.adobe.com/docs/target
 
 ### Core Marketo Engage updates
 
-See [!DNL Marketo Engage] [release notes](https://docs.marketo.com/display/public/DOCS/Release+Notes) for the latest release information.
-
-### Upcoming features
-
-The following features are releasing throughout the quarter:
-
-| Feature | Description |
-| ------ | --------- |
-| [!DNL Bizible] | <ul><li>New account-based segmentation</li><li>Save dashboard-specific filters</li><li>Export Bizible dashboards as PDFs</li></ul> |
-| Sales Connect | Compose Window and Command Center updates/enhancements |
-
-{style="table-layout:auto"}
-
-### Deprecations
-
-* **Asset API "_method" Parameter:** After September 2020, Asset API Endpoints will no longer accept `_method` to pass Query Parameters in a POST body to bypass URI length limitations.
-* **Internet Explorer Support Deprecation:** Beginning with the July release on July 31, 2020, the Marketo Engage user interface will no longer be supported on Internet Explorer.
+See [!DNL Marketo Engage] [release notes](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=en#release-notes) for the latest release schedule information.
 
 ## ![Icon](/assets/document-cloud-24.png) Document Cloud {#doc-cloud}
 
