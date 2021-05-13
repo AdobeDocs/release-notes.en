@@ -99,6 +99,7 @@ Release date: **May 20, 2021**
 | Feature | [General Availability](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Target Date | Description |
 | ----------- | ---------- | ------- |
 | Workspace: Previous Project versions | May 20, 2021 | Lets you load previous versions of a Workspace project to undo unwanted changes or to simply revert to a preferred prior version. [Learn more](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/save-projects.html?lang=en#previous-version)|
+| Data Warehouse API requests now support "Hours" | May 20, 2021 |  Data Warehouse API requests support dates in the `Y-m-d h:m:s` format when the parameter `"fuzzyDates”:false` is provided in the request body. This lets you request Data Warehouse data for the current day, whereas previously, the day would have to complete before data was returned. [Learn More](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/reporting-api/data_warehouse.md) |
 
 {style="table-layout:auto"}
 
