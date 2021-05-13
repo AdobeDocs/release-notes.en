@@ -47,7 +47,7 @@ The most recent updates to Adobe System Status are found at [Adobe System Status
 | Feature | Date |Description |
 | ------- | ------- | ------- |
 | Experience Cloud Header & Navigation| May 20, 2021|Adobe Experience Cloud updates include a change to light theme for the header, with ability to easily toggle back to dark theme and link to control additional preferences from their user avatar in the Experience Cloud header. While not all applications in Experience Cloud support theming, this feature unlocks future theme support.|
-| Experience Cloud Global Search| May 20, 2021|With this release, Experience Cloud global search allows you to search any of the [Experience League](https://experienceleague.adobe.com/#home) videos, documentation, and community content.|
+| Experience Cloud Global Search| May 20, 2021|With this release, Experience Cloud global search allows you to search any of the [Experience League](https://experienceleague.adobe.com/#home) documentation, courses, and tutorials. (Currently, global search is only available to Experience Platform users. Global search for [!UICONTROL Platform] enables you to search for any business object in Experience Cloud, such as segments, data sets, schemas, and more.)|
 | Experience Cloud Language Preferences| May 20, 2021|This update includes the ability to set your preferred languages in Experience Cloud [Preferences](https://account.adobe.com/notifications).|
 
 {style="table-layout:auto"}
@@ -287,7 +287,6 @@ All Experience Manager release notes are maintained at the following pages:
 * [Experience Manager Brand Portal release notes](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html?lang=en)
 * [Experience Manager desktop app release notes](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/release-notes.html?lang=en)
 * [Experience Manager Dispatcher release notes](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=en)
-* [Adobe Primetime release notes](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html?lang=en)
 * [Livefyre release notes](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html?lang=en)
 
 ### New Experience Manager courses and tutorials
