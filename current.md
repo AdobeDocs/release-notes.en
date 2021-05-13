@@ -57,7 +57,7 @@ The most recent updates to Adobe System Status are found at [Adobe System Status
 Includes release update information for Experience Platform and Experience Platform Launch.
 
 * [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) - Updated **April 21, 2021**
-* [Experience Platform Data Collection release notes](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html) (Formerly, Experience Platform Launch) - Updated **April 22, 2021**
+* [Experience Platform Data Collection release notes](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html) (formerly, Experience Platform Launch) - Updated **April 22, 2021**
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Journey Orchestration {#journey-orch}
 
