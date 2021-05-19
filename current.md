@@ -171,6 +171,7 @@ Fixes and improvements in Audience Manager.
 
 ### Fixes and Improvements {#aam-fixes-and-improvements}
 
+* Added [DCS system error code 10](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=en#system-error-codes), indicating if the traits on the request were either partially evaluated or have not been evaluated at all.
 * Fixed an issue preventing users from saving **[!UICONTROL Audience Lab]** test groups when using integrated platform destinations. (AAM-58137) 
 * You can now generate **[!UICONTROL Activity Usage Reports]** with look-back intervals longer than one year. (AAM-58268)
 
