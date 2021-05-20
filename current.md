@@ -23,7 +23,7 @@ Latest update: **May 20, 2021**
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
-* [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey)
+* [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey) (Updated May 11, 2021)
 * [Audience Manager](#aam)
 * [Experience Manager](#aem)
 * [Campaign](#ac)
@@ -87,8 +87,8 @@ March 2021 Release - Find out more about the latest capabilities in the [Offer D
 
 Release date: **May 20, 2021**
 
-* [New features in Adobe Analytics](#aa-features)
-* [New features in Customer Journey Analytics](#cust-journey)
+* [New features in Adobe Analytics](#aa-features) (Updated May 11, 2021)
+* [New features in Customer Journey Analytics](#cust-journey) (Updated May 11, 2021)
 * [Fixes in Adobe Analytics](#aa-fixes)
 * [Important notices for Analytics administrators](#aa-notices)
 * [Analytics courses and tutorials](#tutorials-analytics)
