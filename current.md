@@ -360,25 +360,21 @@ Release notes for Adobe Advertising Cloud.
 
 ### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Last updated: **October 28, 2020**
+Last updated: **May 19, 2021 for May 5 release**
 
 | Feature    | Description  |
 | -----------| ---------- |
-| New Help | (October 28 release) The legacy help was replaced with updated pages. Help is available from the Help link in the DSP main menu and always available at [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html) |
-| Campaigns | (October 28 release) The previous Campaigns Beta views are now the default Campaigns views, for quicker insights, simplified workflows, and customized views. |
-| Private Inventory| (October 15 release) All users can now set up and edit deal ID details using a new deal ID form, which is a simplified version of the legacy Smart Ad Serving form. To set up new deal ID details, go to **[!UICONTROL Inventory]** > **[!UICONTROL Deals]** > **[!UICONTROL Create]**, then click **[!UICONTROL Deal ID Beta]**.|
-| Placement Forecasting | (October 15 release) For placements with placement-level pacing, the [!UICONTROL Forecast] section of the placement settings includes a new [!UICONTROL Estimated Maximums] section, which indicates how much more capacity is available with the current targeting configuration. |
+| Package Settings | A new [!UICONTROL Pacing Fill Strategy] option, "[!UICONTROL Slightly Ahead]," is available and is the default for new packages. This strategy accelerates delivery so that it’s 55-65% complete halfway through the flight duration. |
 
 {style="table-layout:auto"}
 
 ### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Last updated: **April 14, 2021, for April 17 release**
+Last updated: **May 19, 2021, for May 18 release**
 
 | Feature    | Description  |
 | -----------| ---------- |
-| [!UICONTROL Campaigns]<br>[!UICONTROL Portfolios]<br>[!UICONTROL Reports]| [!DNL Advertising Cloud Search] now automatically syncs [!DNL Google Ads]-tracked conversion data for campaigns on the [!DNL Google Ads] search and shopping networks into [!DNL Advertising Cloud Search] for reporting and optimization. Previously, you had to opt in to this feature. |
-| [!UICONTROL Advertising Insights]| Three new [!UICONTROL Advertising Insights] are available:<br><ul><li>Attribution Analysis: Indicates when a different attribution model can improve revenue models and optimization for a single portfolio.</li><li>Impression Share Lost: Indicates when a portfolio's budget has limited the impression share for [!DNL Google Ads] campaigns, and recommends changes to the budget and the campaign multiple setting accordingly.</li><li>Time-of-day Analysis: (Applicable to portfolios with [!DNL Google Ads] search, display, or shopping campaigns only) Suggests Google Ads campaign-level bid modifiers for different times of the day for a single portfolio.</li></ul> |
+| [!UICONTROL Notification Center Beta]| The [!UICONTROL Notification Center Beta] is available to all users. Use it subscribe to email and web notifications about account authentication errors, custom alerts that are triggered,and completion of the [!UICONTROL Advertising Insights] you generate.<br>You can view your notifications from either:<ul><li>The [!UICONTROL Notifications] panel, which opens from the Notifications link in the upper right of any page.</li><li>The [!UICONTROL Notification Center] at [!UICONTROL Insights & Reports >Notification Center Beta].</li></ul><br><b>Note:</b> Because of improvements to how notifications are stored, all existing notifications were cleared. |
 
 {style="table-layout:auto"}
 
