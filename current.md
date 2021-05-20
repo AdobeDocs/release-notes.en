@@ -6,7 +6,7 @@ last-update: May 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 ---
-# INTERNAL REVIEW - Adobe Experience Cloud Release Notes - May 2021 
+# Adobe Experience Cloud Release Notes - May 2021 
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
@@ -16,7 +16,7 @@ Experience Cloud applications and services are updated monthly. This page is you
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Latest update: **May 12, 2021**
+Latest update: **May 20, 2021**
 
 * [Adobe System Status](#status)
 * [Experience Cloud UI Components, Services, and Administration](#ecloud)
