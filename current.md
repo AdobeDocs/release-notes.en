@@ -2,21 +2,21 @@
 title: Latest Release Notes
 description: Learn about the latest release notes, new features, and new documentation for Experience Cloud products and services. Find new help and tutorials about Experience Cloud, Creative Cloud for Enterprise, and Document Cloud.
 doc-type: release notes
-last-update: April 2021
+last-update: May 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 ---
-# Adobe Experience Cloud Release Notes - April 2021 
+# Adobe Experience Cloud Release Notes - May 2021 
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
-Experience Cloud solutions and services are updated monthly. This page is your central location for finding the latest release updates, documentation, and tutorials for [!DNL Experience Cloud] and Experience Platform. You can also find new documentation for [!DNL Creative Cloud for Enterprise] and [!DNL Document Cloud].
+Experience Cloud applications and services are updated monthly. This page is your central location for finding the latest release updates, documentation, and tutorials for [!DNL Experience Cloud] and [!DNL Experience Platform]. You can also find new documentation for [!DNL Creative Cloud for Enterprise] and [!DNL Document Cloud].
 
 >[!NOTE]
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Latest update: **May 11, 2021**
+Latest update: **May 20, 2021**
 
 * [Adobe System Status](#status)
 * [Experience Cloud UI Components, Services, and Administration](#ecloud)
@@ -46,23 +46,18 @@ The most recent updates to Adobe System Status are found at [Adobe System Status
 
 | Feature | Date |Description |
 | ------- | ------- | ------- |
-| Mobile SDK: iOS SDK v4.21.2| April 13, 2021|Visitor ID Service - Fixed an issue where empty advertising identifiers were synced to the Visitor ID Service.|
+|Experience Cloud Header & Navigation| May 20, 2021|Adobe Experience Cloud updates include a change to light theme for the header, with ability to easily toggle back to dark theme and link to control additional preferences from their user avatar in the Experience Cloud profile menu. While not all applications in Experience Cloud support theming, this feature unlocks future theme support.|
+|Experience Cloud Global Search| May 20, 2021|With this release, Experience Cloud global search allows you to search any of the [Experience League](https://experienceleague.adobe.com/#home) documentation, courses, and tutorials. (Currently, global search is only available to Experience Platform users. Global search for [!UICONTROL Platform] enables you to search for any business object in Experience Cloud, such as segments, data sets, schemas, and more.)|
+|Experience Cloud Language Preferences| May 20, 2021|This update includes the ability to set your preferred languages in Experience Cloud [Preferences](https://experience.adobe.com/preferences).|
+
+{style="table-layout:auto"}
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
 Includes release update information for Experience Platform and Experience Platform Launch.
 
-* [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) (Released: **April 21, 2021**)
-* [Experience Platform Launch release notes](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html) (Released: February 18, 2021)
-
-### Experience Platform tutorials and courses
-
-New videos, tutorials, or courses published for Experience Platform and services.
-
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|April 2021|[Import sample data to Adobe Experience Platform - Tutorial](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html#newman)|Article | Use a sandbox environment as it provides an isolated environment where you can try out functionality without mixing resources and data with your Production environment.  |
-|April 2021|[How to configure a Social destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configure-a-social-destination.html?lang=en#destinations)|Video | In this video, walk through the configuration of a Social destination in the Platform, including authentication, segment assignment, ID mapping, and so on.  |
+* [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) - Updated **April 21, 2021**
+* [Experience Platform Data Collection release notes](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html) (formerly, Experience Platform Launch) - Updated **April 22, 2021**
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Journey Orchestration {#journey-orch}
 
@@ -82,7 +77,7 @@ Find out more about the latest capabilities, improvements, and fixes in the [Jou
 
 ### Latest product releases
 
-February 2021 Release - Find out more about the latest capabilities in the [Offer Decisioning Release Notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html?lang=en#new).
+March 2021 Release - Find out more about the latest capabilities in the [Offer Decisioning Release Notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html?lang=en#new).
 
 ### More resources for Offer Decisioning
 
@@ -90,7 +85,7 @@ February 2021 Release - Find out more about the latest capabilities in the [Offe
 
 ## ![Icon](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-Release date: **April 22, 2021**
+Release date: **May 20, 2021**
 
 * [New features in Adobe Analytics](#aa-features) (Updated May 11, 2021)
 * [New features in Customer Journey Analytics](#cust-journey) (Updated May 11, 2021)
@@ -103,42 +98,45 @@ Release date: **April 22, 2021**
 
 | Feature | [General Availability](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Target Date | Description |
 | ----------- | ---------- | ------- |
-| Analytics Dashboards: Custom Date Ranges | April 22, 2021 |Lets users of the Analytics Mobile App apply custom date ranges to their scorecards, in addition to the currently available out-of-the-box date ranges. |
-| Workspace: Previous Project versions | May 20, 2021 | Lets you load previous versions of a Workspace project to undo unwanted changes or to simply revert to a preferred prior version. |
+| Workspace: Previous Project versions | May 20, 2021 | Lets you load previous versions of a Workspace project to undo unwanted changes or to simply revert to a preferred prior version. [Learn more](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/save-projects.html?lang=en#previous-version)|
+| Data Warehouse API requests now support "Hours" | May 20, 2021 |  Data Warehouse API requests support dates in the `Y-m-d h:m:s` format when the parameter `"fuzzyDates”:false` is provided in the request body. This lets you request Data Warehouse data for the current day, whereas previously, the day would have to complete before data was returned. [Learn More](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/reporting-api/data_warehouse.md) |
+
+{style="table-layout:auto"}
 
 ### New features in Customer Journey Analytics {#cust-journey}
 
 | Feature | [General Availability](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Target Date | Description |
 | ----------- | ---------- | ----- |
-| Enhanced CJA data views | April 22, 2021 | Enhanced data views greatly expand your flexibility in creating metrics and dimensions from XDM schema fields. You can use a string field as a metric. You can use a numeric field as a dimension, create multiple metrics from the same field with different attribution models and lookback windows. And you can make metrics and dimensions compatible across data views, hide a component from reporting and include/exclude values, use bucketing, and much more. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/data-views.html) |
-| Workspace: Support for Scheduled Reports | April 7, 2021 | Scheduled reports are now supported in CJA. |
-| Analytics Dashboards: Custom Date Ranges | April 22, 2021 |Lets users of the Analytics Mobile App apply custom date ranges to their scorecards, in addition to the currently available out-of-the-box date ranges. |
-| Workspace: Previous Project versions | May 20, 2021 | Lets you load previous versions of a Workspace project to undo unwanted changes or to simply revert to a preferred prior version. |
+| Workspace: Previous Project versions | May 20, 2021 | Lets you load previous versions of a Workspace project to undo unwanted changes or to simply revert to a preferred prior version. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/build-workspace-project/save-projects.html)|
+
+{style="table-layout:auto"}
 
 ### Fixes in Adobe Analytics {#aa-fixes}
 
-* Fixed issues with latency and rendering of Workspace panels. (AN-254560, AN-251303)
-* Fixed login issues with Activity Map and Report Builder (AN-254189)
-* Fixed an issue with some classification data set variables changing in FTP account after saving. (AN-254366)
-* Fixed issues with incorrect search results in Workspace component search. (AN-254306, AN-253937)
-* Fixed an issue with the default date range in the Analytics dashboard app. (AN-253955)
+* Fixed an issue that caused some Marketing Channel instances to be reported as “None”. (AN-257850)
+* Fixed an issue that caused Windows and Chrome operating systems to be grouped under “Other” for the Operating System Types dimension. (AN-244234)
+* Fixed an issue with customers getting logged out of Adobe Analytics. (AN-255864)
 
 #### Additional Adobe Analytics fixes
 
-AN-248451; AN-250461; AN-251157;  AN-251481; AN-251756; AN-252604; AN-252822; AN-252941; AN-253005; AN-253008; AN-253246; AN-253366; AN-254089; AN-254375; AN-254485; AN-254503; AN-254724; AN-254545; AN-254611; AN-254754; AN-254757; AN-254785; AN-254870; AN-255066
+AN-240821; AN-243625; AN-243958; AN-248728; AN-249877; AN-250151; AN-251273; AN-251334; AN-251945; AN-252732; AN-252942; AN-253110; AN-253156; AN-253157; AN-254549; AN-254665; AN-255098; AN-255170; AN-255252; AN-255395; AN-255431; AN-255450 (CJA); AN-255493; AN-255725; AN-256110; AN-256252; AN-256501; AN-256593; AN-256617; AN-256637; AN-256749; AN-256834; AN-256848; AN-256924; AN-256925; AN-256943; AN-257195; AN-257681; AN-258205
 
 ### Important notices for [!DNL Analytics] administrators {#aa-notices}
 
 | Notice | Date Added or Updated  | Description |
 | ----------- | ---------- | ---------- |
+| Browser user agents reflect incorrect operating system versions for Mac OS | May 19, 2021 | All major browsers currently report users of Mac OS X 11 and above incorrectly as using Mac OS 10, as recorded in the browser's user agent string. This affects Adobe Analytics reporting, because it uses the user agent to determine device information like operating system. This inaccuracy is apparently in place to prevent compatibility issues for some websites. See this [Bugzilla ticket](https://bugs.webkit.org/show_bug.cgi?id=213622&utm_source=convertkit&utm_medium=email&utm_campaign=User+Agent+strings%2C+new+BigQuery+features%2C+custom+Google+Tag+Manager+loader...+%E2%80%93+Simmer+Newsletter+%2311%20-%205873454) for reference. It is not clear when or if this will be rectified.<br>Some browsers initially recorded Mac OS 11 correctly so there may be some traffic matching this value. However, because of the inaccurate reporting, filtering for operating system Mac OS 11 will not be useful.<br>This is significant because starting with Safari on Mac OS 11, Apple updated ITP cookie expiry limitations to apply to CNAME implementations (see [WebKit blog post](https://webkit.org/blog/11338/cname-cloaking-and-bounce-tracking-defense/)).<br>Prior to this update, these limitations applied only to "client-side" cookies set via JavaScript. This inaccuracy will make it difficult to assess how much traffic is using OS 11 and is thus impacted by the ITP change. You can learn more about cookies and Adobe Analytics [here](https://experienceleague.adobe.com/docs/analytics/technotes/cookies/cookies.html#cookies). |
+| End-of-life for three Analytics API services | May 19, 2021 | On August 18, 2021, the following Analytics Legacy API services reached their end-of-life date and were shut down. Any current integrations built using these services stopped working on that day.<ul><li>1.3 Analytics APIs</li><li>1.4 SOAP Analytics APIs</li><li>Legacy OAuth Authentication (OAuth and JWT)</li></ul>We have provided a [Legacy API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) to help answer your questions and provide guidance on how to proceed. API integrations that employ these services can migrate to the [1.4 Analytics REST APIs](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) or the [2.0 Analytics APIs](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth accounts can migrate to an [Adobe I/O](https://console.adobe.io/home?mv=email#) Analytics integration account, which can be used to access both the 1.4 Analytics APIs and 2.0 Analytics APIs. |
+| 2021 ISO region updates | May 13, 2021 | We will perform our 2021 ISO region updates on May 21, 2021. You should expect to see minor updates following this release. |
 | EOL of Full Processing Data Sources | April 12, 2021 | Adobe plans to deprecate full processing data sources on July 31, 2021. As of March 25, 2021, new imports of this type can no longer be created. Please use [Bulk Data Insertion API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) to import this type of data. |
 |Sign in update to [!UICONTROL Report Builder] | April 9, 2021 | On January 14, 2021, the [!UICONTROL Report Builder] sign-in updates removed dependencies on legacy technologies and aligned the sign-in process with Experience Cloud. Experience Cloud uses your Enterprise ID (email and password). To ensure uninterrupted access to [!UICONTROL Report Builder], update the [!UICONTROL Report Builder] add-in to version 5.6.47 or later by July 22, 2021. Report Builder version 5.6.47 and later supports only the Experience Cloud sign-in and will not support single sign-on.|
 | Data Feed and Data Warehouse IP Address Changes | April 6, 2021 | Starting June 17, the Data Feeds and Data Warehouse delivery system will be relocated within Adobe's data centers, and therefore can cause a change of external IP addresses visible to you. Adobe recommends that you confirm that all the IP CIDR blocks for the data center where your reports and feeds are sourced are present in firewalls for destination systems that you control. [Here is a full list of IP Address ranges to place into your firewall’s allow lists](https://experienceleague.adobe.com/docs/analytics/technotes/ip-addresses.html#data-collection-and-ftp-ip-address-blocks). |
 | Notice of upcoming Analytics menu changes | March 24, 2021 | On April 22, 2021, Adobe updated the **[!UICONTROL Components]**, **[!UICONTROL Tools]**, and **[!UICONTROL Admin]** dropdown menus in order to achieve some performance gains. All of these pages will still be available under the **[!UICONTROL All Components]**, **[!UICONTROL All Tools]**, and **[!UICONTROL All Admin]** links - they will be removed from the dropdown menu. Here are the menu items that will be removed from the dropdown menu and placed on their respective link page:<br><br> [!UICONTROL Components]<ul><li>[!UICONTROL Bookmarks]</li><li>[!UICONTROL Dashboards]</li><li>[!UICONTROL Targets]</li><li>[!UICONTROL Calendar Events]</li><li>[!UICONTROL Scheduled Reports]</li><li>[!UICONTROL Report Settings]</li></ul>[!UICONTROL Tools]<ul><li>[!UICONTROL Recommendations Classic]</li><li>[!UICONTROL Search & Promote]</li></ul>[!UICONTROL Admin]<ul><li>[!UICONTROL User Management]</li><li>[!UICONTROL Classification Importer]</li><li>[!UICONTROL Classification Rule Builder]</li><li>[!UICONTROL Data Sources]</li><li>[!UICONTROL Data Connectors]</li><li>[!UICONTROL Company Settings]</li><li>[!UICONTROL Logs]</li><li>[!UICONTROL Dynamic Tag Management]</li><li>[!UICONTROL Code Manager]</li><li>[!UICONTROL Exclude by IP]</li><li>[!UICONTROL Traffic Management]</li></ul> |
 | Same-as-SiteCatalyst VISTA Processing ON | March 17, 2021 | On June 17, 2021, all report suites will be updated to have [!UICONTROL Same-as-SiteCatalyst VISTA Processing] set to ON. This change impacts Data Warehouse reporting by processing the data to match processing rules. For questions or clarification, reach out to Customer Care. |
 | Reports & Analytics landing page options | February 19, 2021 | On March 25, 2021, options to set new Reports & Analytics dashboards or other content as your Adobe Analytics landing page were removed. If you previously set a Reports & Analytics page as your custom landing page, it continues to work until your landing page is modified in [!UICONTROL User Preferences]. |
-| End-of-life for three Analytics API services | January 6, 2021 | On April 30, 2021, the following Analytics Legacy API services are slated to reach their end-of-life date and will be shut down. Any current integrations built using these services stop working on that day.<ul><li>1.3 Analytics APIs</li><li>1.4 SOAP Analytics APIs</li><li>Legacy OAuth Authentication (OAuth and JWT)</li></ul>We have provided a [Legacy API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) to help answer your questions and provide guidance on how to proceed. API integrations that employ these services can migrate to the [1.4 Analytics REST APIs](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) or the [2.0 Analytics APIs](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth accounts can migrate to an [Adobe I/O](https://console.adobe.io/home?mv=email#) Analytics integration account, which can be used to access both the 1.4 Analytics APIs and 2.0 Analytics APIs. |
 | EOL of Adobe Data Connectors | July 13, 2020 | Adobe [!UICONTROL Data Connectors] are powered by legacy technology that is no longer viable or supported. A new standard is available in the [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud). You can use that standard for any integration to continue to be offered and supported. The official end-of-life date is August 1, 2021. [Learn more...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=en) |
+
+{style="table-layout:auto"}
 
 ### AppMeasurement {#appm}
 
@@ -150,12 +148,19 @@ New courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Custome
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|April 2021|[Basic configuration for Data Views in Customer Journey Analytics](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/basic-configuration-for-data-views.html) |Video |Once you have created a [!UICONTROL Connection] in Customer Journey Analytics to datasets in the Adobe Experience Platform, you need to create a [!UICONTROL Data View] for that [!UICONTROL Connection], so that you can use the data in Analysis Workspace on Platform. This video walks you through the basic configuration of a [!UICONTROL Data View]. |
-|April 2021|[User Preferences in Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/customizing-the-ui/user-preferences.html) |Video |The Components - User preferences page lets you manage settings for Analysis Workspace and its related components at the user-level. For example, you can choose a default report suite and color palette. User preferences apply to all new projects and new panels. |
-|April 2021|[Using Component dropdowns in Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-component-dropdowns-in-workspace.html) |Video |Component dropdowns allow you to pick from a list of compatible components to build your analysis. You can also create components directly from the dropdown if you do not find what you need. These spaces continue to work as drop zones as well, if you have a more advanced use case. |
-|April 2021|[Getting data into visualizations](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/getting-data-into-visualizations.html?lang=en#analysis-workspace) |Video |When adding visualizations in Analysis Workspace, there are a few different ways to add data to them, depending on the visualization type. This video demonstrates these methods.Options |
-|April  2021|[Apply Custom Date Ranges to Mobile Scorecard Projects](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.html) |Video |This video shows how to manage your different options for date ranges when you are setting up your analytics projects for mobile devices. This setup includes choosing which out-of-the-box ranges you wish to show, and how to create your own custom date ranges.|
-|April 2021|[Configuring General Account Settings](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-general-account-settings.html) |Video | As you set up Adobe Analytics, configuring the settings can affect how your data is collected and stored. This video goes over some of the general settings. You can also change these settings after implementation, as it is never too late to make your data more correct.|
+|May 2021|[Set Internal URL Filters](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/set-internal-url-filters.html)|Video |Learn about the settings for [!UICONTROL Referrer] URLs, setting them as either internal referrers (to power the pathing reports) or external referrers (to power the referrer/referring domain reports).  |
+|May 2021|[Configure Finding Methods](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/configure-finding-methods.html)|Video |Learn how to configure the settings that control how search engines, search keywords, and other finding method reports and components treat attribution of conversion events.|
+|May 2021|[Customize Menus in Reports & Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/customize-menus.html)|Video| Learn about using Reports & Analytics to access your data. Although Analysis Workspace is recommended for analysis, using Reports & Analytics can be helpful to customize the menus for quick access to exactly the data you need.|
+|May 2021|[Customize Calendar Settings in Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/customize-calendar-settings.html?lang=en#administration)|Video | Learn a few tips and tricks, as well as the mechanics of customizing your calendar in Adobe Analytics.  |
+|May 2021|[Configure "No Value" options in Data Views](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/configure-no-value-options-in-data-views.html)|Video | During configuration of [!UICONTROL Data Views] in Customer Journey Analytics, you can choose whether to display the _no value_ results in your reports, and change how you want to display the value's name.|
+|May 2021|[Include or exclude metric values in Data Views](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/include-or-exclude-metric-values-in-data-views.html)|Video | Learn how to create and configure new metrics that are subsets of other metrics, as well as the use cases that can make this a powerful analysis tool in [!UICONTROL Data Views].|
+|May 2021|[Include or exclude dimension values in Data Views](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/include-or-exclude-dimension-values-in-data-views.html?lang=en)|Video | With this [!UICONTROL Data View] configuration feature, you can filter values in dimensions to make your analysts' lives easier when they are creating projects in Customer Journey Analytics.|
+|May 2021|[Attribution Settings in Data Views](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/attribution-settings-in-data-views.html)|Video | Learn about dimension allocation settings that help you decide which value gets conversion credit, as well as an expiration setting (how long the value persists). This video walks you through setting these all-important settings, and more. |
+|May 2021|[Creating value buckets in Data Views for analysis](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/creating-value-buckets-in-data-views-for-analysis.html?lang=en)|Video | When configuring a [!UICONTROL Data View] in Customer Journey Analytics, you can set a numeric dimension to be lumped into defined buckets. This setting lets you limit the number of items available for the table to ranges of numbers.|
+|May 2021|[Configuring component settings in Data Views](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/configuring-component-settings-in-data-views.html?lang=en)|Video | Learn the basic component settings that you’ll want to configure for each of the components (metrics and dimensions) when you are setting up a [!UICONTROL Data View] in Customer Journey Analytics.  |
+|May 2021|[Formatting metrics in Data Views](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/formatting-metrics-in-data-views.html?lang=en)|Video |Learn about the options for formatting metrics in the component screen of [!UICONTROL Data View] configuration. This video also describes a couple of tips that can help you get more out of your components.  |
+
+{style="table-layout:auto"}
 
 ### Analytics help resources
 
@@ -167,21 +172,9 @@ Fixes and improvements in Audience Manager.
 
 ### Fixes and Improvements {#aam-fixes-and-improvements}
 
-* Fixed an issue in [General Reports](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/general-reports.html?lang=en#reporting), where a user would select a date in the **[!UICONTROL For Dates Through]** control but the report data would be shifted by one day. (AAM-57702)
-* Fixed an issue in [Administration > Groups](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/administration-overview.html?lang=en#create-group), where users would get a _Your group was saved successfully, but there was an error saving the group permissions_ error when saving group permissions because of timeouts. (AAM-57406, AAM-57411)
-
-### Audience Manager courses and tutorials {#tutorials-aam}
-
-New videos, tutorials, or courses published for Audience Manager.
-
-Published|Name|Type|Description  |
-| -----------| ---------- | ---------- | ---------- |
-|April 2021|[Understanding Real-time CDP for Audience Manager Users](https://experienceleague.adobe.com/?recommended=AudienceManager-U-1-2020.1.rtcdp)|Course | Audience Manager customers are reimagining their content management by moving over to Adobe's Real-time Customer Data Platform (Real-time CDP). This course takes a concept-by-concept approach, helping Audience Manager users understand how those concepts are handled in Real-time CDP.  |
-|April 2021|[Understanding Destinations in Real-time CDP for Audience Manager Users](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-destinations-for-aam-users.html?lang=en)|Video | As you move from Audience Manager to [!UICONTROL Real-time Customer Data Platform] (Real-time CDP), it is imperative to know about destinations so that you know how to activate your audience segments out to destination partners. This video discusses the different destination types and where they are Real-time CDP.  |
-|April 2021|[Understanding Data Governance in Real-time CDP for Audience Manager Users](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/other-integrations/integrating-with-rtcdp/rtcdp-data-gov-for-aam-users.html?lang=en#other-integrations)|Video | This video walks Audience Manager users through the data governance functionality in [!UICONTROL Real-time Customer Data Platform], comparing it to what was available in Audience Manager. It discusses the [!UICONTROL Data Usage and Labeling Enforcement] (DULE) framework and where in Platform that it can be applied.  |
-|April 2021|[A Tale of Two Perceptions - Brands vs. Consumers - Event](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/industry/brands-vs-consumers.html?lang=en#industry)|Article | Today, marketers are buried in the clutter of information dedicated to identity practices. And only 37% of marketing professionals said they are prepared for a cookieless future, according to recent research from Adobe and Advanis. In this webinar, Adobe unpacks the understanding and readiness level of advertisers and publishers for a cookieless future, the impact to their use cases, and their perception of the wider ecosystem.  |
-|April 2021|[10 considerations for Responsible Customer Data Management - Event](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/industry/ten-considerations-for-responsible-customer-data-management.html?lang=en#industry)|Article | Volatile market forces and disparate consumer privacy requirements can present daunting scenarios for the digital marketer. To keep campaigns on the right side of regulations, marketing teams need their IT counterparts to have a streamlined process for future-proofing the data governance process. This process should empower everyone to follow and enforce rules of responsible usage of consumer data. Hear from Adobe and [!DNL Scotiabank] [!DNL Digital] on key considerations for responsible data management.  |
-|April 2021|[The Future of Data Management and the Changing Environment - Event](https://experienceleague.adobe.com/docs/audience-manager-learn/tutorials/industry/the-future-of-data-management-and-the-changing-environment.html?lang=en#industry)|Article | As market forces bring change to our digital landscape, businesses need to adapt to a new reality regarding data governance, identity resolution, and how to engage prospects and pseudonymous visitors with meaningful content.  |
+* Added [DCS system error code 10](https://experienceleague.adobe.com/docs/audience-manager/user-guide/api-and-sdk-code/dcs/dcs-api-reference/dcs-error-codes.html?lang=en#system-error-codes), indicating if the traits on the request were either partially evaluated or have not been evaluated at all.
+* Fixed an issue preventing users from saving **[!UICONTROL Audience Lab]** test groups when using integrated platform destinations. (AAM-58137) 
+* You can now generate **[!UICONTROL Activity Usage Reports]** with look-back intervals longer than one year. (AAM-58268)
 
 ## ![Icon](/assets/aem.png) Adobe Experience Manager {#aem}
 
@@ -189,7 +182,7 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
 
 >[!NOTE]
 >
->Adobe recommends visiting the [Experience Manager release updates and roadmap](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) page to stay current on release information.
+>Adobe recommends visiting the [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) page to stay current on release information.
 
 ### Product releases
 
@@ -197,54 +190,93 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
 
     What is new on Experience Manager as a Cloud Service?
 
+  * **Adobe Experience Manager as a Cloud Service Foundation**
+
+    * [Publish Content Tree Workflow](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/operations/replication.html?lang=en#publish-content-tree-workflow) - A new workflow model and step provides increased performance when publishing deep hierarchies of content.
+
   * **Experience Manager Sites as a Cloud Service**
 
-    * [A Progressive Web App (PWA) version of a site](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/authoring/features/enable-pwa.html) can now be enabled at the project level by way of simple configuration.
-    * Content Fragment Model Extensions - now possible to define multi-line text data types as multi-field lists.
-    * Content Fragment Editor UX Enhancements - nested child fragments now displayed in breadcrumb, and improved view of publish, save, and save&exit actions
+    * GraphQL Endpoints - You can now enable the Adobe Experience Manager GraphQL API for individual Experience Manager Sites configurations and to create custom GraphQL endpoints for those configurations by using a new GraphQL Console user interface. The user interface also allows managing GraphQL endpoints.
+    * Content Models, enhanced **[!UICONTROL Date&Time]** data type - You can now configure the **[!UICONTROL Date&Time]** date type to allow authoring only date, only time, or date and time information.
+    * Content Models, enhanced **[!UICONTROL Tags]** data type - You can now configure the **[!UICONTROL Tags]** data type to allow authoring single or multiple tags.
+    * Content Models, new **[!UICONTROL Tab Placeholder]** data type - The new **[!UICONTROL Tab Placeholder]** data type lets you group data types into sections that are rendered under tabs in the content fragment editor.
 
   * **Experience Manager Assets as a Cloud Service**
 
-    * Experience Manager extends the Connected Assets functionality to support use of Dynamic Media images in the supported core components. See [Use Connected Assets to share DAM assets in Experience Manager Sites](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/admin/use-assets-across-connected-assets-instances.html).
-    * Experience Manager administrators can schedule bulk asset ingestions at a specific date or time. Also, administrators can schedule recurring ingestions based on date and time. See [Asset bulk ingestor tool](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/add-assets.html?lang=en#asset-bulk-ingestor) video.
+    * Experience Manager does not archive single asset downloads where the original file is downloaded. This enhancement allows for faster downloads.
+    * When an asset is downloaded by way of the link share option, you can now choose to download or not download the renditions. Previously, all the asset renditions were downloaded.
+    * Administrators can configure Experience Manager to delete the source of assets after doing a bulk asset ingestion. See [bulk asset ingestion](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/add-assets.html?lang=en#asset-bulk-ingestor).
+    * When executing a health check to import assets in bulk, Experience Manager now provides more information reasons for failures. See [bulk asset ingestion](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/add-assets.html?lang=en#asset-bulk-ingestor).
+    * When importing assets using bulk import tool, administrators now can optionally delete the source files after the import is successful. See [bulk asset ingestion](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/add-assets.html?lang=en#asset-bulk-ingestor).
+    * When editing a metadata schema, a new root path selector field lets an administrator make the selection quickly and easily so that the configuration time is reduced.
+    * Metadata of many assets can be imported in bulk using a CSV file and can be exported to a CSV file. The default date format is now `yyyy-MM-dd'T'HH:mm:ss.SSSXXX`. Users can apply a different format by updating the column header. For example, add Date: `DateFormat: yyyy-MM-dd'T'HH:mm:ssXXX` as the column header in the CSV file instead of the word Date.
+    * When browsing assets in [!UICONTROL Column] view, a visual indicator displays the approved or rejected status of each asset.
+    * When browsing assets in [!UICONTROL Column] view, a visual indicator displays for expired assets.
+    * A text area data type is made available in Assets metadata editor. You can use this option to let your users input metadata in a free-form text field.
 
   * **Experience Manager Forms as a Cloud Service**
 
-    Experience Manager Forms have helped many organizations deliver great onboarding and enrollment experiences over the years. These experiences have helped organizations convert leads to sales, process captured customer data, deliver responsive experiences based on the audience profile, and much more. Now, Experience Manager Forms is available as a Cloud Service.
+    You can use [Experience Manager Forms as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/home.html?lang=en) to create digital forms and connect forms to existing data sources. You can also integrate forms with Adobe Sign to add e-signatures to forms, generate Document of Record (DoR) to archive submitted forms as PDF files. The service can also convert your existing PDF forms to digital forms. In addition to standard AEM Forms features, the service offers several cloud-native capabilities like auto-scaling, zero downtime for upgrades, and cloud-native development environment. To learn about capabilities and features of Experience Manager Forms as a Cloud Service, read this blog page [Future of Work: Experience Manager Forms as a Cloud Service](https://blog.adobe.com/en/publish/2021/03/11/experience-manager-forms-as-a-cloud-service.html).
 
-    You can use [Experience Manager Forms as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/home.html) to create digital forms, and connect forms to existing data sources. You can also integrate forms with Adobe Sign to add e-signatures to forms, and generate Document of Record (DoR) to archive submitted forms as PDF files. The service can convert your existing PDF forms to digital forms. In addition to standard AEM Forms features, the service offers several cloud-native capabilities like auto-scaling, zero downtime for upgrades, and cloud-native development environment. To learn about capabilities and features of Experience Manager Forms as a Cloud Service, [read the blog post "Experience Manager Forms as a Cloud Service"](https://blog.adobe.com/en/publish/2021/03/11/experience-manager-forms-as-a-cloud-service.html).
+    * **Use Government ID identity verification method in Adobe Sign enabled Adaptive Forms**
 
-    Reach out to your Adobe representative for a demo or to sign up for the service.
+      Powered by advanced machine learning algorithms, Adobe Sign’s Government ID process empowers companies across the globe with the ability to secure a high-quality verification of their recipient’s identity. Now, you can use Government ID identity verification method in Adobe Sign enabled Adaptive Forms.
+
+      Government ID is a premium identity verification method. It instructs the recipient to [upload the image of a government-issued identity document (driver’s license, national ID, passport)](https://helpx.adobe.com/in/sign/using/adobesign-authentication-government-id.html). Then it evaluates that document to ensure it is authentic.
+
+    * **Support to use in-form signing experience for asynchronous adaptive form submissions**
+
+      You can now use the in-form signing experience for asynchronous adaptive form submissions. You can also embed an adaptive form in an Experience Manager Sites page and use the in-form signing experience for adaptive form submissions.
+
+    * **Support to use a variable to specify an attachment while pre-populating an Adaptive Form for an Assign Task step**
+
+      While pre-populating an Adaptive Form for an Assign Task step, you can now use a document type variable to select an input attachment for the Adaptive Form.
+
+    * **Support to use the literal option to set value for a JSON type variable**
+
+      You can use literal option to set value for a JSON type variable in the set variable step of an Experience Manager Workflow. The literal option allows you to specify a JSON in the form of a string.
+
+    * **Use local development environment to create Document of Record (DoR)**
+
+      You can use an XDP as a [!UICONTROL Document of Record] template on Cloud Service instances and AEM Forms as a Cloud Service SDK (Local development environment). Previously, the support was limited to Cloud Service instances only.
 
   * **Experience Manager Commerce as a Cloud Service**
 
-    * Support for Magento 2.4.2.
-    * Product detail component can now be used and configured on any content page.
-    * Released CIF Venia Reference Site - 2021.03.25 that includes the latest CIF Core Components version 1.9.0. See [CIF Venia Reference Site - 2021.03.25](https://github.com/adobe/aem-cif-guides-venia/releases/tag/venia-2021.03.25) for more details.
-    * Released CIF Core Components 1.9.0. See [CIF Core Components 1.9.0](https://github.com/adobe/aem-core-cif-components/releases/tag/core-cif-components-reactor-1.9.0) for more details.
+    * Support for category UID - This feature unlocks third-party commerce integrations for systems that use Strings for category IDs.
+    * Experience Manager extension for PWA Studio includes example integration.
+    * New CIF navigation core component that extends WCM navigation core component.
+    * Visual indicator for staged catalog data in Experience Manager storefront.
+    * Commerce endpoint is now configurable by way of Cloud Manager user interface.
 
   * **Cloud Manager**
 
-    * User interface updates to the Add and Edit Program workflows to make it more intuitive.
-    * A user with requisite permissions can now submit the commerce end point via the UI.
-    * Environment variables can now be scoped to a specific service, either author or publish. Requires Experience Manager `2021.03.5104.20210328T185548Z` or higher.
-    * The **[!UICONTROL Manage Git]** button is displayed on the Pipelines card even when no pipelines have been configured.
-    * The version of the Experience Manager project archetype used by Cloud Manager has been updated to version 27.
-    * Projects in the Adobe I/O Developer Console created by Cloud Manager can no longer be unintentionally edited or deleted.
-    * When a user adds an environment, they are informed that after an environment is created it cannot be moved to a different region.
-    * Environment variables can now be scoped to a specific service, either author or publish. Requires Experience Manager `2021.03.5104.20210328T185548Z` or higher.
-    * The error message when starting a pipeline when an environment was deleted has been clarified.
-    * OSGi bundles provided by Eclipse projects are now excluded from rule `CQBP-84--dependencies`.
+    * The PackageOverlaps quality rule now detects cases where the same package was deployed multiple times; that is, in multiple embedded locations, in the same deployed package set.
+    * The repository endpoint in the Public API now includes the Git URL.
+    * Deployment log downloaded by a Cloud Manager user is more insightful and now includes details about failures and success scenarios.
+    * Intermittent failures encountered while pushing code to Adobe git have now been resolved.
+    * Commerce add-on can now be applied to Sandbox programs during the Edit program workflow.
+    * The Edit program experience has been refreshed.
+    * The Domain Names table in the Environment Details page displays up to 250 Domain names by way of pagination.
+    * The Solutions tab in Add Program and Edit Program workflows displays the solution, even if only one solution is available for the Program.
+    * The error message in the build step log when the build did not produce any deployed content packages was unclear.
 
 ### **Community**
 
-* **Adobe Developers Live 2021 | Complete Session list**
+* **[Adobe Summit 2021 Sneaks with Dan Levy](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-summit-2021-sneaks-with-dan-levy/td-p/405865)**
 
-    [Here](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-2021-complete-session-list/m-p/394595#M27875) is an aggregated list of all the Experience Manager sessions occurring at **Adobe Developers Live**.
+    Once a year, every Adobe employee, from engineers and data scientists to UX designers and product managers, has a chance to share innovative ideas to evolve the way brands interact with their customers. Join us for Adobe Sneaks, where the top seven projects are shared, each tapping the latest technologies in areas like AI (Artificial Intelligence) and low-code apps. See [all the sessions here](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-summit-2021-complete-aem-session-list/td-p/398344).
 
-* **Adobe Summit 2021 | Complete Experience Manager Session list**
+* **[Experience League Communities launches the Gamification](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-communities-launches-the-gamification/td-p/405366)**
 
-    [Here](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-summit-2021-complete-aem-session-list/td-p/398344) is an aggregated list of all the Experience Manager sessions occurring at **Adobe Summit 2021**.
+    Adobe is *excited* to be kicking off [*a whole new way of doing things*](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud-blogs/new-experience-league-community-game-features-and-faqs/ba-p/405291) around here in the Experience League Community! See [full details here](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-communities-launches-the-gamification/td-p/405366).
+
+* **[Adobe Summit 2021 | Complete Experience Manager Session list](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-summit-2021-complete-aem-session-list/td-p/398344)**
+
+    By popular request of Adobe customers, here is an aggregated list of all the Experience Manager sessions occurring at **Adobe Summit 2021**.
+
+* **[Announcing the new process to submit Experience Manager Feature Requests](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425)**
+
+    Adobe is excited to announce the FeatureBit. It is a project to redefine the customer experience of posting Experience Manager feature requests to the Product Team. It is also the initiative with the goal of implementing a whole new avenue for the customers/partners to submit Feature Enhancements (RFEs) by way of the [Experience League Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community).
 
 ### Experience Manager release information
 
@@ -259,28 +291,21 @@ All Experience Manager release notes are maintained at the following pages:
 * [Experience Manager Brand Portal release notes](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html?lang=en)
 * [Experience Manager desktop app release notes](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/release-notes.html?lang=en)
 * [Experience Manager Dispatcher release notes](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=en)
-* [Adobe Primetime release notes](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html?lang=en)
 * [Livefyre release notes](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html?lang=en)
 
 ### New Experience Manager courses and tutorials
 
 New videos, tutorials, and courses published over the past month.
 
-Published|Name|Type|Description  |
+|Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|April 2021|[Installing 32 but libraries for AEM Forms Linux installation](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/installing-aem-form-on-linux.html)|Article | Learn how to install 32-bit libraries for AEM Forms to work on Linux installation.  |
-|April 2021|[Create Adobe Sign Cloud Services Configuration](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/create-adobe-sign-cloud-configuration.html)|Article | Create Adobe Sign cloud services configuration to integrate with Adobe Sign using the Adobe Sign API application.  |
-|April 2021|[SPA Editor and Remote SPA - Overview - Tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/spa-editor/remote-spa/overview.html)|Tutorial | Learn how a Remote SPA, or a SPA running outside the context of AEM, can be updated to consume and deliver content authored in AEM. This tutorial builds on the WKND GraphQL App, a React app that consumes AEM Content Fragment content over AEM’s GraphQL APIs.|
-|April 2021|[GraphQL Modeling Basics](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html)|Video | Learn how to define and use Content Fragments in Adobe Experience Manager (AEM) for use with GraphQL. |
-|April 2021|[Advanced Modeling for GraphQL](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/advanced-modeling.html)|Video | Learn how to create relationships between Content Fragment Models in Adobe Experience Manager (AEM) and how to leverage these relationships in GraphQL queries.  |
-|April 2021|[Creating GraphQL Queries](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/creating-graphql-queries.html)|Video | Learn how to create GraphQL queries to return content from Adobe Experience Manager (AEM) and how to use the GraphiQL tool to quickly test, refine and debug queries. |
-|April 2021|[Create first [!UICONTROL Adaptive Form]](https://video.tv.adobe.com/v/332571)|Video | Learn how to create a first adaptive form.  |
-|April 2021|[Test the creation of a Lead in Salesforce on click event of a button](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/integrate-with-salesforce/create-lead-click-event.html?lang=en#forms)|Video | Create Lead object by invoking the POST operation of the Form Data Model on a button's click event. |
-|April 2021|[Integrate [!UICONTROL AEM Forms] with [!DNL Salesforce]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/integrate-with-salesforce/introduction.html?lang=en#forms)|Video | Intro video for the Forms + Salesforce integration course.|
-|April 2021|[Deprecated Ordered Property Indexes](https://experienceleague.adobe.com/docs/experience-manager-pattern-detection/table-of-contents/dopi.html)|Article | Legacy project has unsupported Ordered Property index types. As current limitations suggest, index management on [!UICONTROL AEM as a Cloud Service] is only supported for indexes of type _lucene_.|
-|April 2021|[Test the creation of a Lead in [!DNL Salesforce] on form submission](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/integrate-with-salesforce/create-lead-submitting-form.html?lang=en#forms)|Video | Create an adaptive form based on the form data model. Verify that the Lead object is created in Salesforce database on form submission.  |
-|April 2021|[INST : 3rd party installed artifacts](https://experienceleague.adobe.com/docs/experience-manager-pattern-detection/table-of-contents/inst.html)|Reference | Legacy project relies on a 3rd party package or connector and installs it as part of the project or via Package Manager.|
-|April 2021|[[!UICONTROL Unsupported Runmode Configuration]](https://experienceleague.adobe.com/docs/experience-manager-pattern-detection/table-of-contents/urc.html)|Reference | How you can make [!UICONTROL runmode] configurations compliant with Experience Manager as a Cloud Service, as now only Author and Publish are [!UICONTROL runmodes].|
+|May 2021|[Site Template](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/site-template/create-site.html)|Article |Learn to use the Site Creation Wizard to generate a new site. Learn about creating a site, authoring and publishing updates, page templates, and explore the generated AEM site. **Note:** This documentation is available for preview purposes. The quick site creation features will be released in the second half of 2021.|
+|May 2021|[Quick setup SPA Editor and Remote SPA](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/spa-editor/remote-spa/quick-setup.html)|Article | Quick setup is an expedited walk-through illustrating how to install and run the WKND App and as a Remote SPA, and author it using AEM SPA Editor.  |
+|May 2021|[Adaptive form with Adobe Sign](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/create-adaptive-form.html)|Video | Learn how to create an adaptive form to use Adobe Sign cloud configuration.   |
+|May 2021|[Configure Adaptive form for fill and sign scenario](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/configure-form-fill-and-sign.html)|Video |Learn how to configure the form where the form filler and the signer is the same person. |
+|May 2021|[Create Adobe Sign API Application](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-sign/create-sign-api-application.html#forms)|Video | Learn how to create an API application on your Adobe Sign to integrate with your Adobe Sign platform.|
+
+{style="table-layout:auto"}
 
 ### Other Help resources for Experience Manager
 
@@ -309,13 +334,16 @@ Find out more about the latest capabilities, improvements, and fixes released:
 
 New videos, tutorials, and courses published over the past month.
 
-|Published|Name|Solution|Description |
-| -----------| ---------- | ---------- | ---------- |
-|April 12, 2021|[Track the success of your deliveries in Analytics](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html?lang=en#integrations) |Campaign Standard |Learn how to configure the Campaign Standard and Analytics integration. Understand how to build a report in Analytics using data received from Campaign Standard and which KPIs are available. |
-|April 12, 2021|[Configure transactional messages using real-time event data](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/triggers/configure-transactional-messages-using-realtime-event-data.html) |Campaign Standard |Learn how to configure transactional messages using real-time event data coming from triggers. |
-|April 12, 2021|[Create a trigger event in Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/triggers/create-a-trigger-event.html) |Campaign Standard |Learn how to create a trigger event in Campaign Standard, which is linked to an existing Experience Cloud trigger. |
-|April 12, 2021|[Create a trigger in Experience Cloud](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/triggers/create-a-trigger-in-experience-cloud.html) |Campaign Standard |Learn how to configure triggers in the Experience Cloud.  |
-|April 12, 2021|[Using triggers for transactional messages](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/triggers/using-triggers-for-transactional-messaging-overview.html#integrations) |Campaign Standard |Learn how to use triggers for transactional messages. |
+|Published |Name |Solution |Type |Description |
+| -----------| ---------- | ---------- | ---------- |---------- |
+|April 27, 2021|[Integrate Campaign Standard with Analytics to optimize your email marketing](https://experienceleague.adobe.com/?recommended=Campaign-U-1-2021.1.integration) |Campaign Standard, Analytics |Course |Learn how to integrate Campaign Standard with Adobe Analytics and optimize your email marketing strategies using real-time data. This course shows you how to build a Campaign Standard report in Adobe Analytics. Then, learn how to use Experience Cloud [!UICONTROL Triggers] and [!UICONTROL Platform Launch] to configure marketing and transactional messages based on customer activity. |
+|April 12, 2021|[Track the success of your deliveries in Analytics](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html?lang=en#integrations) |Campaign Standard |Video |Learn how to configure the Campaign Standard and Analytics integration. Understand how to build a report in Analytics using data received from Campaign Standard and which KPIs are available. |
+|April 12, 2021|[Configure transactional messages using real-time event data](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/triggers/configure-transactional-messages-using-realtime-event-data.html) |Campaign Standard |Video |Learn how to configure transactional messages using real-time event data coming from [!UICONTROL Triggers]. |
+|April 12, 2021|[Create a trigger event in Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/triggers/create-a-trigger-event.html) |Campaign Standard |Video |Learn how to create a trigger event in Campaign Standard, which is linked to an existing Experience Cloud [!UICONTROL Trigger]. |
+|April 12, 2021|[Create a trigger in Experience Cloud](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/triggers/create-a-trigger-in-experience-cloud.html) |Campaign Standard |Video |Learn how to configure [!UICONTROL Triggers] in Experience Cloud.  |
+|April 12, 2021|[Using triggers for transactional messages](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/triggers/using-triggers-for-transactional-messaging-overview.html#integrations) |Campaign Standard |Video |Learn how to use [!UICONTROL Triggers] for transactional messages. |
+
+{style="table-layout:auto"}
 
 ### Help resources
 
@@ -332,31 +360,23 @@ Release notes for Adobe Advertising Cloud.
 
 ### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Last updated: **October 28, 2020**
+Last updated: **May 19, 2021 for May 5 release**
 
 | Feature    | Description  |
 | -----------| ---------- |
-| New Help | (October 28 release) The legacy help was replaced with updated pages. Help is available from the Help link in the DSP main menu and always available at [https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/home.html) |
-| Campaigns | (October 28 release) The previous Campaigns Beta views are now the default Campaigns views, for quicker insights, simplified workflows, and customized views. |
-| Private Inventory| (October 15 release) All users can now set up and edit deal ID details using a new deal ID form, which is a simplified version of the legacy Smart Ad Serving form. To set up new deal ID details, go to **[!UICONTROL Inventory]** > **[!UICONTROL Deals]** > **[!UICONTROL Create]**, then click **[!UICONTROL Deal ID Beta]**.|
-| Placement Forecasting | (October 15 release) For placements with placement-level pacing, the [!UICONTROL Forecast] section of the placement settings includes a new [!UICONTROL Estimated Maximums] section, which indicates how much more capacity is available with the current targeting configuration. |
+| Package Settings | A new [!UICONTROL Pacing Fill Strategy] option, "[!UICONTROL Slightly Ahead]," is available and is the default for new packages. This strategy accelerates delivery so that it’s 55-65% complete halfway through the flight duration. |
+
+{style="table-layout:auto"}
 
 ### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Last updated: **April 14, 2021, for April 17 release**
+Last updated: **May 19, 2021, for May 18 release**
 
 | Feature    | Description  |
 | -----------| ---------- |
-| [!UICONTROL Campaigns]<br>[!UICONTROL Portfolios]<br>[!UICONTROL Reports]| [!DNL Advertising Cloud Search] now automatically syncs [!DNL Google Ads]-tracked conversion data for campaigns on the [!DNL Google Ads] search and shopping networks into [!DNL Advertising Cloud Search] for reporting and optimization. Previously, you had to opt in to this feature. |
-| [!UICONTROL Advertising Insights]| Three new [!UICONTROL Advertising Insights] are available:<br><ul><li>Attribution Analysis: Indicates when a different attribution model can improve revenue models and optimization for a single portfolio.</li><li>Impression Share Lost: Indicates when a portfolio's budget has limited the impression share for [!DNL Google Ads] campaigns, and recommends changes to the budget and the campaign multiple setting accordingly.</li><li>Time-of-day Analysis: (Applicable to portfolios with [!DNL Google Ads] search, display, or shopping campaigns only) Suggests Google Ads campaign-level bid modifiers for different times of the day for a single portfolio.</li></ul> |
+| [!UICONTROL Notification Center Beta]| The [!UICONTROL Notification Center Beta] is available to all users. Use it subscribe to email and web notifications about account authentication errors, custom alerts that are triggered,and completion of the [!UICONTROL Advertising Insights] you generate.<br>You can view your notifications from either:<ul><li>The [!UICONTROL Notifications] panel, which opens from the Notifications link in the upper right of any page.</li><li>The [!UICONTROL Notification Center] at [!UICONTROL Insights & Reports >Notification Center Beta].</li></ul><br><b>Note:</b> Because of improvements to how notifications are stored, all existing notifications were cleared. |
 
-### Advertising Cloud tutorials and courses
-
-Updated: **February 23, 2021**
-
-| Tutorial    | Description  |
-| -----------| ---------- |
-| [Introduction to Workspace and Reporting](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-analysis-workspace-a4adc.html) | Learn how you can use your Advertising Cloud data to create visual reports in Adobe Analytics Analysis Workspace. |
+{style="table-layout:auto"}
 
 ## ![Icon](/assets/magento.png) [!DNL Magento] {#magento}
 
@@ -372,21 +392,7 @@ See [[!DNL Target] release notes](https://experienceleague.adobe.com/docs/target
 
 ### Core Marketo Engage updates
 
-See [!DNL Marketo Engage] [release notes](https://docs.marketo.com/display/public/DOCS/Release+Notes) for the latest release information.
-
-### Upcoming features
-
-The following features are releasing throughout the quarter:
-
-| Feature | Description |
-| ------ | --------- |
-| [!DNL Bizible] | <ul><li>New account-based segmentation</li><li>Save dashboard-specific filters</li><li>Export Bizible dashboards as PDFs</li></ul> |
-| Sales Connect | Compose Window and Command Center updates/enhancements |
-
-### Deprecations
-
-* **Asset API "_method" Parameter:** After September 2020, Asset API Endpoints will no longer accept `_method` to pass Query Parameters in a POST body to bypass URI length limitations.
-* **Internet Explorer Support Deprecation:** Beginning with the July release on July 31, 2020, the Marketo Engage user interface will no longer be supported on Internet Explorer.
+See [!DNL Marketo Engage] [release notes](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=en#release-notes) for the latest release schedule information.
 
 ## ![Icon](/assets/document-cloud-24.png) Document Cloud {#doc-cloud}
 
@@ -396,23 +402,18 @@ New videos, tutorials, or courses published for Adobe Document Cloud.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|April 2021|[[Adobe Sign] Send reminders using Adobe Sign for Salesforce and Marketo - Feature Video](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/marketo/marketo-salesforce-reminder-video.html) |Video |Learn how to send an email reminder from Marketo when an agreement remains unsigned after a period of time. This integration uses Adobe Sign for Salesforce, Marketo, and the Marketo and Salesforce sync. |
+|May 2021|[Create Embedded e-Signature and Document Experiences](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/embeddedesignature.html#develop)|Article | Learn how to use Adobe Sign APIs to embed e-signature and document experiences into your Web platforms and content and document management systems. (Four parts.)   |
+|May 2021|[Document automation with Adobe Sign for Microsoft Power Platform](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/documentautomation.html#integrations)|Article | Learn how to activate and use the Adobe Sign and Adobe PDF Tools connectors for Microsoft Power Apps. Build workflows that automate business approval and signature processes quickly and securely without any code. (Four parts.)  |
+
+{style="table-layout:auto"}
 
 ### Document Cloud tutorials
 
-|Published|Name|Solution|Description |
+|Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|April 2021|[Managing Financial Document Workflows with Adobe Document Services APIs in Java](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/FinanceWorkflowsJava.html)|Tutorial | Learn how you can use Adobe Document Services APIs for [!DNL Java Spring Boot] applications and build a model-view-controller (MVC) app that extracts content from PDF documents, converts it to other data formats such as Excel, combines multiple PDFs, and password protects the resources.   |
-|April 2021|[Control your PDF online experience and gather analytics](https://experienceleague.adobe.com/docs/document-services/tutorials/pdfembed/controlpdfexperience.html) |Article |Does your organization post PDFs on your website? Learn how to use the Adobe PDF Embed API to control appearance, enable collaboration, and gather analytics about how user’s interact with PDFs, including time spent on a page and searches.|
-|April 2021|[Managing Financial Document Workflows with Adobe Document Services APIs in Java™](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/FinanceWorkflowsJava.html) |Article |Learn how you can use Adobe Document Services APIs for Java™ Spring Boot applications. Build a model-view-controller (MVC) app that extracts content from PDF documents, converts it to other data formats such as Excel, combines multiple PDFs, and password protects the resources.|
-|April 2021|[HR Document Workflows with Adobe Document Services APIs in Java™](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/HRAgreementWorkflowsJava.html) |Tutorial |Many businesses require documentation around a new hire, such as workplace agreements for work-from-home employees. Traditionally, businesses managed these documents physically in forms that were difficult to manage and store. When switching to electronic documents, PDF files are an ideal choice because they are more secure and less modifiable than other file types. Plus, they support digital signatures as well. |
-|April 2021|[Agreement Workflows with Adobe Document Services APIs in Node.js](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/AgreementWorkflowsNodejs.html) |Tutorial |Many business applications and processes require documentation like proposals and agreements. PDF documents ensure that files are more secure and less modifiable. They also provide digital signature support so your clients can quickly and easily complete their documents. Adobe Document Services APIs easily incorporate PDF capabilities into your web application. |
-|April 2021|[Setting Conditional Content](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggerconditional.html) |Video |In this video, learn how to easily set sections in Microsoft® Word templates using Adobe Document Generation Tagger to dynamically include or exclude sections of a document based on data using Adobe Document Generation API. |
-|April 2021|[[Doc Services] Setting Numerical Calculation Tags - Feature Video](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggercalculations.html) |Video | Learn how to easily set numerical calculation tags in Microsoft® Word templates using Adobe Document Generation Tagger to calculate aggregations or arithmetic of data values using Adobe Document Generation API.|
-|April 2021|[Adding Tables and List Tags](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggertables.html) |Video |Learn how to easily add tables and list tags to Microsoft® Word templates using Adobe Document Generation Tagger to dynamically add table or list rows based on data using Adobe Document Generation API. |
-|April 2021|[Adding Image Tags](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggeraddimagetags.html) |Video |Learn how to easily add image tags to Microsoft® Word templates using Adobe Document Generation Tagger to dynamically push images into documents using Adobe Document Generation API. |
-|April 2021|[Adding Text Tags](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggeraddtexttags.html) |Video |Learn how to easily add tags to Microsoft® Word templates using Adobe Document Generation Tagger for use with Adobe Document Generation API. |
-|April 2021|[Overview of the Adobe Document Generation Tagger](https://experienceleague.adobe.com/docs/document-services/tutorials/docgen/docgentemplates/taggeroverview.html) |Video |Learn how to tag [!DNL Word] templates using Adobe Document Generation Tagger for use with Adobe Document Generation API. |
+|May 2021|[Control your PDF online experience and gather analytics](https://experienceleague.adobe.com/docs/document-services/tutorials/pdfembed/controlpdfexperience.html#part1)|Article | Learn how to use the Adobe PDF Embed API to control appearance, enable collaboration, and gather analytics about how user’s interact with PDFs, including time spent on a page and searches. (Four parts.)  |
+
+{style="table-layout:auto"}
 
 For Document Cloud help, see:
 
@@ -420,11 +421,6 @@ For Document Cloud help, see:
 * [Adobe Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
 * [Document Cloud Learn & Support](https://helpx.adobe.com/support/document-cloud.html)
 
-<!-- ## ![Icon](/assets/creative-cloud-24.png) Creative Cloud Enterprise {#creative-cloud}
+## ![Icon](/assets/creative-cloud-24.png) Creative Cloud Enterprise {#creative-cloud}
 
-New tutorials for Creative Cloud Enterprise.
-
-Published|Name|Type|Description  |
-| -----------| ---------- | ---------- | ---------- |
-|March 2021|[linktext](link)|Video |Description |
- -->
+See [Creative Cloud for Enterprise Tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=en) for the latest tutorials.
