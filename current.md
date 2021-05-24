@@ -392,7 +392,7 @@ See [[!DNL Target] release notes](https://experienceleague.adobe.com/docs/target
 
 ### Core Marketo Engage updates
 
-See [!DNL Marketo Engage] [release notes](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=en#release-notes) for the latest release schedule information.
+See [!DNL Marketo Engage] [release notes](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/documentautomation.html#integrations) for the latest release schedule information.
 
 ## ![Icon](/assets/document-cloud-24.png) Document Cloud {#doc-cloud}
 
