@@ -9,6 +9,7 @@ exl-id: 4e553328-1e96-48d6-addd-ff51be5eb6df
 ---
 # Release Notes for 2018 and Earlier
 
+* [2019 Release Notes PDF](2019-Adobe-Experience-Cloud-Release-Notes.pdf)
 * [2018 Release Notes PDF](2018-Adobe-Experience-Cloud-Release-Notes.pdf)
 * [2017 Release Notes PDF](2017-Adobe-Experience-Cloud-Release-Notes.pdf)
 * [2016 Release Notes PDF](2016-Adobe-Experience-Cloud-Release-Notes.pdf)
