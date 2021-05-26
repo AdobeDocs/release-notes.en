@@ -11,22 +11,22 @@ user-guide-url: https://www.adobe.com
 
 + [Current release notes](current.md)
 + Previous release notes {#previous}
-    + 2021 {#2021}
-        + [April 2021](c-legacy-releases/2021/04222021.md)
-        + [March 2021](c-legacy-releases/2021/03252021.md)
-        + [February 2021](c-legacy-releases/2021/02182021.md)
-        + [January 2021](c-legacy-releases/2021/01142021.md)
-    + 2020 {#2020}
-        + [November 2020](c-legacy-releases/2020/10292020.md)
-        + [October 2020](c-legacy-releases/2020/10082020.md)
-        + [September 2020](c-legacy-releases/2020/09102020.md)
-        + [August 2020](c-legacy-releases/2020/08132020.md)
-        + [July 2020](c-legacy-releases/2020/07162020.md)
-        + [June 2020](c-legacy-releases/2020/06182020.md)
-        + [May 2020](c-legacy-releases/2020/05212020.md)
-        + [April 2020](c-legacy-releases/2020/04162020.md)
-        + [March 2020](c-legacy-releases/2020/03122020.md)
-        + [February 2020](c-legacy-releases/2020/02202020.md)
-        + [January 2020](c-legacy-releases/2020/01162020.md)
-    + 2019 and earlier {#legacy-rns}
-        + [2018 and Earlier](c-legacy-releases/2018-earlier.md)
+  + 2021 {#2021}
+    + [April 2021](c-legacy-releases/2021/04222021.md)
+    + [March 2021](c-legacy-releases/2021/03252021.md)
+    + [February 2021](c-legacy-releases/2021/02182021.md)
+    + [January 2021](c-legacy-releases/2021/01142021.md)
+  + 2020 {#2020}
+    + [November 2020](c-legacy-releases/2020/10292020.md)
+    + [October 2020](c-legacy-releases/2020/10082020.md)
+    + [September 2020](c-legacy-releases/2020/09102020.md)
+    + [August 2020](c-legacy-releases/2020/08132020.md)
+    + [July 2020](c-legacy-releases/2020/07162020.md)
+    + [June 2020](c-legacy-releases/2020/06182020.md)
+    + [May 2020](c-legacy-releases/2020/05212020.md)
+    + [April 2020](c-legacy-releases/2020/04162020.md)
+    + [March 2020](c-legacy-releases/2020/03122020.md)
+    + [February 2020](c-legacy-releases/2020/02202020.md)
+    + [January 2020](c-legacy-releases/2020/01162020.md)
+  + 2019 and earlier {#legacy-rns}
+    + [2019 and Earlier](c-legacy-releases/2019-earlier.md)
