@@ -28,17 +28,5 @@ user-guide-url: https://www.adobe.com
         + [March 2020](c-legacy-releases/2020/03122020.md)
         + [February 2020](c-legacy-releases/2020/02202020.md)
         + [January 2020](c-legacy-releases/2020/01162020.md)
-    + 2019 {#2019}
-        + [November 2019](c-legacy-releases/2019/10312019.md)
-        + [October 2019](c-legacy-releases/2019/10102019.md)
-        + [September 2019](c-legacy-releases/2019/09122019.md)
-        + [August 2019](c-legacy-releases/2019/08082019.md)
-        + [July 2019](c-legacy-releases/2019/07182019.md)
-        + [June 2019](c-legacy-releases/2019/06132019.md)
-        + [May 2019](c-legacy-releases/2019/05092019.md)
-        + [April 2019](c-legacy-releases/2019/04112019.md)
-        + [March 2019](c-legacy-releases/2019/03072019.md)
-        + [February 2019](c-legacy-releases/2019/02072019.md)
-        + [January 2019](c-legacy-releases/2019/01172019.md)
-    + 2018 and earlier {#legacy-rns}
+    + 2019 and earlier {#legacy-rns}
         + [2018 and Earlier](c-legacy-releases/2018-earlier.md)
