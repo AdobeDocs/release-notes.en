@@ -3,12 +3,12 @@
 title: Adobe Experience Cloud Release Notes
 description: Experience Cloud release notes
 doc-type: release notes
-last-update: March 2020
+last-update: June 2021
 author: mfrei
 
 ---
 
-# TEMPLATE - Adobe Experience Cloud Release Notes - Month 2020
+# TEMPLATE - Adobe Experience Cloud Release Notes - Month 2021
 
 ![Banner](/assets/experience-cloud-banner-3.png)
 
@@ -22,7 +22,7 @@ New features and fixes in the Adobe Experience Cloud.
 >
 >Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to be notified via email about upcoming releases. New information published after the release will be marked with the publication date.
 
-**Release date: 2020**
+**Release date: 2021**
 
 * [Adobe System Status](#status)
 * [Experience Cloud interface](#ecloud)
