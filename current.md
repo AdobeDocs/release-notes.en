@@ -147,11 +147,11 @@ New courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Custome
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2021|[linktext](link)|Video |Description |
-|June 2021|[linktext](link)|Video |Description |
-|June 2021|[linktext](link)|Video |Description |
-|June 2021|[linktext](link)|Video |Description |
-|June 2021|[linktext](link)|Video |Description |
+|June 2021|(link)|Video |Description |
+|June 2021|(link)|Video |Description |
+|June 2021|(link)|Video |Description |
+|June 2021|(link)|Video |Description |
+|June 2021|(link)|Video |Description |
 
 {style="table-layout:auto"}
 
@@ -292,10 +292,11 @@ New videos, tutorials, and courses published over the past month.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2021|[linktext](link)|Video |Description |
-|June 2021|[linktext](link)|Video |Description |
-|June 2021|[linktext](link)|Video |Description |
-|June 2021|[linktext](link)|Video |Description |
+|June 2021|(link)|Video |Description |
+|June 2021|(link)|Video |Description |
+|June 2021|(link)|Video |Description |
+|June 2021|(link)|Video |Description |
+|June 2021|(link)|Video |Description |
 
 {style="table-layout:auto"}
 
@@ -328,11 +329,11 @@ New videos, tutorials, and courses published over the past month.
 
 |Published |Name |Solution |Type |Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-|June 2021|[linktext](link)|Campaign Standard |Description |
-|June 2021|[linktext](link)|Campaign Standard |Description |
-|June 2021|[linktext](link)|Campaign Standard |Description |
-|June 2021|[linktext](link)|Campaign Standard |Description |
-|June 2021|[linktext](link)|Campaign Standard |Description |
+|June 2021|(link)|Campaign Standard |Description |
+|June 2021|(link)|Campaign Standard |Description |
+|June 2021|(link)|Campaign Standard |Description |
+|June 2021|(link)|Campaign Standard |Description |
+|June 2021|(link)|Campaign Standard |Description |
 
 {style="table-layout:auto"}
 
