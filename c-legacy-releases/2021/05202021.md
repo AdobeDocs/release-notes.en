@@ -403,7 +403,7 @@ New videos, tutorials, or courses published for Adobe Document Cloud.
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |May 2021|[Create Embedded e-Signature and Document Experiences](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/embeddedesignature.html#develop)|Article | Learn how to use Adobe Sign APIs to embed e-signature and document experiences into your Web platforms and content and document management systems. (Four parts.)   |
-|May 2021|[Document automation with Adobe Sign for Microsoft® Power Platform](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/documentautomation.html)|Article | Learn how to activate and use the Adobe Sign and Adobe PDF Tools connectors for Microsoft® Power Apps. Build workflows that automate business approval and signature processes quickly and securely without any code. (Four parts.)  |
+|May 2021|[Document automation with Adobe Sign for Microsoft® Power Platform](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/documentautomation.html)|Article | Learn how to activate and use the Adobe Sign and Adobe PDF Tools connectors for Microsoft® Power Apps. Build workflows that automate business approval and signature processes quickly and securely without any code. (Four parts.)  |
 
 {style="table-layout:auto"}
 
