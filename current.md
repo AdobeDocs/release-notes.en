@@ -34,7 +34,11 @@ Latest update: **June 4, 2021**
 * [Document Cloud](#doc-cloud)
 * [Creative Cloud Enterprise](#creative-cloud)
   
-Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#home) to find product and technical documentation, Adobe-curated courses, video tutorials, quick answers, community insight, and instructor-led training. 
+Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#home) to find product and technical documentation, Adobe-curated courses, video tutorials, quick answers, community insight, and instructor-led training.
+
+## Experience League Self-Help Search
+
+Experience League documentation search has been improved. Navigate to [Experience League](https://experienceleague.corp.adobe.com/docs/?lang=en) and use the **[!UICONTROL Search]** field to locate tutorials, documentation, courses, and more.  
 
 ## ![Icon](/assets/adobe.png) Adobe System Status {#status}
 
