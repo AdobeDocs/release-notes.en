@@ -101,8 +101,7 @@ Release date: **June 17, 2021**
 
 | Feature | [General Availability](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Target Date | Description |
 | ----------- | ---------- | ------- |
-| Workspace: Previous Project versions | May 20, 2021 | Lets you load previous versions of a Workspace project to undo unwanted changes or to simply revert to a preferred prior version. [Learn more](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/save-projects.html?lang=en#previous-version)|
-| Data Warehouse API requests now support "Hours" | May 20, 2021 |  Data Warehouse API requests support dates in the `Y-m-d h:m:s` format when the parameter `"fuzzyDates”:false` is provided in the request body. This update lets you request Data Warehouse data for the current day, whereas previously, the day would have to complete before data was returned. [Learn More](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/reporting-api/data_warehouse.md) |
+| N/A | N/A |
 
 {style="table-layout:auto"}
 
@@ -110,19 +109,20 @@ Release date: **June 17, 2021**
 
 | Feature | [General Availability](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Target Date | Description |
 | ----------- | ---------- | ----- |
-| Workspace: Previous Project versions | May 20, 2021 | Lets you load previous versions of a Workspace project to undo unwanted changes or to simply revert to a preferred prior version. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/build-workspace-project/save-projects.html)|
+| N/A | N/A |
 
 {style="table-layout:auto"}
 
 ### Fixes in Adobe Analytics {#aa-fixes}
 
-* Fixed an issue that caused some Marketing Channel instances to be reported as “None”. (AN-257850)
-* Fixed an issue that caused Windows and Chrome operating systems to be grouped under “Other” for the Operating System Types dimension. (AN-244234)
-* Fixed an issue with customers getting logged out of Adobe Analytics. (AN-255864)
+* Fixed an issue with the incorrect currency showing in the Revenue Real Time report.	(AN-254649)
+* Updated the documentation on [eVar case sensitivity in reporting](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html). (AN-246438)
+* Updated the documentation to better explain [Data Feed Implementation](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/create-feed.html) and [here](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-faq.html#BucketOwnerFullControl). (AN-219485)
+* Fixed issues with some data not being sent in the Data Warehouse report	(AN-259951; AN-259712; AN-260107; AN-259953)
 
-#### Additional Adobe Analytics fixes
+#### Additional fixes in Adobe Analytics or CJA
 
-AN-240821; AN-243625; AN-243958; AN-248728; AN-249877; AN-250151; AN-251273; AN-251334; AN-251945; AN-252732; AN-252942; AN-253110; AN-253156; AN-253157; AN-254549; AN-254665; AN-255098; AN-255170; AN-255252; AN-255395; AN-255431; AN-255450 (CJA); AN-255493; AN-255725; AN-256110; AN-256252; AN-256501; AN-256593; AN-256617; AN-256637; AN-256749; AN-256834; AN-256848; AN-256924; AN-256925; AN-256943; AN-257195; AN-257681; AN-258205
+AN-246344; AN-250035; AN-250354; AN-252482; AN-254661; AN-254965; AN-255424; AN-256515; AN-257232; AN-257572; AN-257893; AN-258393; AN-259203; AN-259513; AN-259614; AN-259665; AN-259931; AN-260074; AN-260085; AN-260147; AN-260190; AN-260198; AN-260290; AN-260306 (CJA); AN-260508; AN-260625; AN-260793; AN-260861; AN-260938; AN-260945; AN-261149; AN-261317
 
 ### Important notices for [!DNL Analytics] administrators {#aa-notices}
 
