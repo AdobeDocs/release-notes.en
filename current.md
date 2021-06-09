@@ -169,9 +169,9 @@ Fixes and improvements in Audience Manager.
 
 ### Fixes and Improvements {#aam-fixes-and-improvements}
 
-* Fix
-* Fix
-* Fix
+* Released an enhancement to the [Activity Usage report](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html?lang=en) which now allows you to review data older than one year. (AAM-58268)
+* Adobe provides Audience Manager customers with user access keys for the Audience Manager Amazon S3 buckets. For security reasons, the keys are now automatically disabled after 100 days of inactivity. For more information, refer to the question at the bottom of the page in the [Data collection and product integration FAQ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/faqs/faq-data-collection.html?lang=en).
+
 
 ## ![Icon](/assets/aem.png) Adobe Experience Manager {#aem}
 
