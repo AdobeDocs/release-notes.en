@@ -38,7 +38,7 @@ Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#h
 
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloud Central UI Components {#ecloud}
 
-Updates to Experience Cloud central interface components, user and product management, and self-help on Experience League.
+Updates to [Experience Cloud central interface components](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en), user and product management, and self-help on Experience League.
 
 | Feature | Date |Description |
 | ------- | ------- | ------- |
