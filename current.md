@@ -324,11 +324,11 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 Find out more about the latest capabilities, improvements, and fixes released:
 
-* **Adobe Campaign v8**: Adobe Campaign v8 brings significant infrastructure, security, deliverability, and monitoring enhancements. By leveraging Snowflake, a cloud database technology, Adobe Campaign dramatically improves its scale and speed, with the ability to manage a more significant number of customer profiles, as well as much higher delivery rates and transactions per hour. Learn more in the [Campaign v8 documentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html).
+* **New Adobe Campaign v8** with significant infrastructure, security, deliverability, and monitoring enhancements. By leveraging Snowflake, a cloud database technology, Adobe Campaign dramatically improves its scale and speed, with the ability to manage a more significant number of customer profiles, as well as much higher delivery rates and transactions per hour. Learn more in the [Campaign v8 documentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html).
 
-* **Adobe Campaign v7 21.1.3**: Learn more in the [Campaign v7 Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html).
+* **Adobe Campaign Classic v7 21.1.3 release**: Learn more in the [Campaign Classic v7 Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html).
 
-* **Adobe Campaign Standard 21.2**: Learn more in the [Campaign Standard Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html).
+* **Adobe Campaign Standard 21.2 release**: Learn more in the [Campaign Standard Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html).
 
 ### Help resources
 
