@@ -324,22 +324,11 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 Find out more about the latest capabilities, improvements, and fixes released:
 
-* [Campaign Standard Release Notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
-* [Campaign Classic Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
+* **Adobe Campaign v8**: Adobe Campaign v8 brings significant infrastructure, security, deliverability, and monitoring enhancements. By leveraging Snowflake, a cloud database technology, Adobe Campaign dramatically improves its scale and speed, with the ability to manage a more significant number of customer profiles, as well as much higher delivery rates and transactions per hour. Learn more in the [Campaign v8 documentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html)
 
-### New Campaign courses and tutorials
+* **Adobe Campaign v7 21.1.3**: Learn more in the [Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html)
 
-New videos, tutorials, and courses published over the past month.
-
-|Published |Name |Solution |Type |Description |
-| -----------| ---------- | ---------- | ---------- |---------- |
-|June 2021|(link)|Campaign Standard |Description |
-|June 2021|(link)|Campaign Standard |Description |
-|June 2021|(link)|Campaign Standard |Description |
-|June 2021|(link)|Campaign Standard |Description |
-|June 2021|(link)|Campaign Standard |Description |
-
-{style="table-layout:auto"}
+* **Adobe Campaign Standard 21.2**: Learn more in the [Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html)
 
 ### Help resources
 
