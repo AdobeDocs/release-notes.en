@@ -115,10 +115,10 @@ Release date: **June 17, 2021**
 
 ### Fixes in Adobe Analytics {#aa-fixes}
 
-* Fixed an issue with the incorrect currency showing in the Revenue Real Time report.	(AN-254649)
+* Fixed an issue with the incorrect currency showing in the Revenue Real Time report. (AN-254649)
 * Updated the documentation on [eVar case sensitivity in reporting](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html). (AN-246438)
 * Updated the documentation to better explain [Data Feed Implementation](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/create-feed.html) and [here](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-faq.html#BucketOwnerFullControl). (AN-219485)
-* Fixed issues with some data not being sent in the Data Warehouse report	(AN-259951; AN-259712; AN-260107; AN-259953)
+* Fixed issues with some data not being sent in the Data Warehouse report (AN-259951; AN-259712; AN-260107; AN-259953)
 
 #### Additional fixes in Adobe Analytics or CJA
 
