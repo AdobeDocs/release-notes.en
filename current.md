@@ -184,7 +184,7 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
 ### Product releases
 
 * **Experience Manager 6.5.9.0**
-    Experience Manager 6.5, Service Pack 9 (6.5.9.0 released on May 27, 2021) is an important update that includes new features, key customer enhancements, improved performance, stability, and security, released since the general availability of Experience Manager 6.5, April 2019.
+    Experience Manager 6.5, Service Pack 9 (6.5.9.0 released on May 27, 2021) is an important update that includes new features, key customer enhancements, improved performance, stability, and security improvements, released since the general availability of Experience Manager 6.5, April 2019.
   * [Release notes](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=en#service-pack)
   * [AEM Forms release deliverables](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/forms-updates/aem-forms-releases.html#forms-updates)
 
