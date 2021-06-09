@@ -6,7 +6,7 @@ last-update: June 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 ---
-# Adobe Experience Cloud Release Notes - June 2021 
+# INTERNAL REVIEW - Adobe Experience Cloud Release Notes - June 2021 
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
@@ -42,7 +42,7 @@ Updates to [Experience Cloud central interface components](https://experiencelea
 
 | Feature | Date |Description |
 | ------- | ------- | ------- |
-|Single Sign-on Support for Adobe Federated IDs|June 17, 2021|If you use Federated IDs, you can login to Experience Cloud without having to enter an email address or password. To use this feature, add `#/sso:@domain` to the Experience Cloud URL. <br>For example, assume that you own the domain `adobecustomer.com` and want to sign into Adobe Analytics. The URL would be: `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`.|
+|Single Sign-on Support for Adobe Federated IDs|June 17, 2021|If you use Federated IDs, you can sign in to Experience Cloud without having to enter an email address or password. To use this feature, add `#/sso:@domain` to the Experience Cloud URL. <br>For example, assume that you own the domain `adobecustomer.com` and want to sign into Adobe Analytics. The URL would be: `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`.|
 |Experience League Search |June 1, 2021 |Experience League documentation search has been improved. Navigate to [Experience League](https://experienceleague.corp.adobe.com/docs/?lang=en) and use the **[!UICONTROL Search]** field to locate tutorials, documentation, courses, and more. |
 
 {style="table-layout:auto"}
@@ -66,7 +66,7 @@ New videos, tutorials, or courses published for Experience Platform and services
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2021|[Prepare data](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/prepare-data.html)|Video | Learn how to clean, prepare, and combine data from multiple datasets to create a new dataset using Create Table AS (CTAS) and Spark SQL functions for reporting and dashboarding.|
+|June 2021|[Prepare data](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/prepare-data.html)|Video | Learn how to clean, prepare, and combine data from multiple datasets to create a dataset using Create Table AS (CTAS) and Spark SQL functions for reporting and dashboarding.|
 |June 2021|[Copy schemas between sandboxes](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/copy-schemas-between-sandboxes.html)|Video | Learn how to copy a schema from one sandbox to another in Adobe Experience Platform using the [!UICONTROL Export/Import Schema API]. Build and test your schemas in development sandboxes, then copy them to production. |
 |June 2021|[Update schemas](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/update-schemas.html)|Video |Learn the basic things to be aware of when updating existing schemas in Adobe Experience Platform.  |
 |June 2021|[Schema building blocks](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schema-building-blocks.html)|Video |Learn the key building block elements of Experience Data Model (XDM) schemas, including fields, data types, schema field groups, classes, and behavior.|
@@ -75,7 +75,7 @@ New videos, tutorials, or courses published for Experience Platform and services
 |June 2021|[Create data types](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-data-types.html)|Video |Learn how to create your own data types in Adobe Experience Platform for use in Experience Data Model (XDM) schemas.  |
 |June 2021|[Convert your data model to an experience data model](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/convert-your-data-model-to-xdm.html)|Video |Learn how data architects can take their existing transactional data model and convert it to an Experience Data Model. This video shows the difference in modeling approaches using entity-relationship diagrams.  |
 |June 2021|[Plan your data model](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/plan-your-data-model.html)|Video |Learn what to do before you start building your schemas in Adobe Experience Platform. Document your business use cases, understand your Platform license, know the product guardrails, and identify what data to ingest before finalizing your data model.  |
-|June 2021|[Tableau](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/psql-client-tableau.html)|Video | Learn how to connect to [!UICONTROL Query Service] from a variety of desktop client applications that supports `PostgreSQL` protocol and how to use `PostgreSQL` tools and drivers to connect and write queries.  |
+|June 2021|[Tableau](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/psql-client-tableau.html)|Video | Learn how to connect to [!UICONTROL Query Service] from various desktop client applications that supports `PostgreSQL` protocol and how to use `PostgreSQL` tools and drivers to connect and write queries.  |
 |June 2021|[Adobe Defined Functions](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/adobe-defined-functions.html)|Video | Learn how to use Adobe-defined functions in Adobe Experience Platform [!UICONTROL Query Service] to perform common business-related tasks on Experience Event data.  |
 |June 2021|[Data exploration](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/explore-data.html)|Video | Learn how to validate ingested data, preview data, and explore statistical and analytical properties of data using SQL functions.  |
 |June 2021|[Query Service Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/understanding-query-service.html)|Video |Learn about Query Service in Adobe Experience Platform and how it helps to understand customer behavior and generate impactful insights.  |
@@ -137,7 +137,7 @@ Release date: **June 17, 2021**
 
 ### Fixes in Adobe Analytics {#aa-fixes}
 
-* Fixed an issue with the incorrect currency showing in the Revenue Real Time report. (AN-254649)
+* Fixed an issue with the incorrect currency showing in the Revenue Real-Time report. (AN-254649)
 * Updated the documentation on [eVar case sensitivity in reporting](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html). (AN-246438)
 * Updated the documentation to better explain [Data Feed Implementation](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/create-feed.html) and [here](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-faq.html#BucketOwnerFullControl). (AN-219485)
 * Fixed issues with some data not being sent in the Data Warehouse report (AN-259951; AN-259712; AN-260107; AN-259953)
@@ -207,10 +207,10 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
 
 * **Experience Manager 6.5.9.0**
 
-    Experience Manager 6.5, Service Pack 9.0 (6.5.9.0 released May 27, 2021) is an important update that includes new features, key customer-requested enhancements, improved performance, stability, and security, released since the general availability of Experience Manager 6.5, April 2019.
+    Experience Manager 6.5, Service Pack 9.0 (6.5.9.0 released May 27, 2021). This important update includes new features, key customer-requested enhancements, improved performance, stability, and security, released since the general availability of Experience Manager 6.5, April 2019.
 
-  * [Release notes](https://helpx.adobe.com/experience-manager/6-5/release-notes/sp-release-notes.html)
-  * [AEM Forms release deliverables](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+  * [Release notes](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=en)
+  * [AEM Forms release deliverables](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/forms-updates/aem-forms-releases.html?lang=en)
 
 ### Experience Manager release information
 
@@ -235,8 +235,8 @@ New videos, tutorials, and courses published over the past month.
 | -----------| ---------- | ---------- | ---------- |
 |June 2021|[Implement the methods of the interface](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-cloud-sdk/implement-interface.html?lang=en)|Article | Learn how to implement the interface methods to create PDFs using Document Cloud REST API.  |
 |June 2021|[Create service interface](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-cloud-sdk/create-interface.html)|Article | Define the methods in the interface that you want to expose.  |
-|June 2021|[Create custom OSGi Configuration](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-cloud-sdk/create-doc-cloud-configuration.html?lang=en)|Article | Learn about custom OSGi configuration to capture AdobeIO project details.  |
-|June 2021|[Create Content Analyzer](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-cloud-sdk/get-content-analyzer.html?lang=en)|Article |Learn how to create the JSON part containing the information about the input parameters to the  Create PDF REST call.|
+|June 2021|[Create custom OSGi Configuration](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-cloud-sdk/create-doc-cloud-configuration.html?lang=en)|Article | Learn about custom OSGi configuration to capture Adobe I/O project details.  |
+|June 2021|[Create Content Analyzer](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-cloud-sdk/get-content-analyzer.html?lang=en)|Article |Learn how to create the JSON part containing the information about the input parameters to the Create PDF REST call.|
 |June 2021|[Create custom process step](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-cloud-sdk/custom-process-step.html?lang=en)|Article | View the complete code of the custom process step that converts and replaces the native files with the converted PDFs. This custom step searches for all attachments under the folder name, which is provided as a process argument in the workflow. This custom process step uses the methods of the custom `DocumentCloudSDKService` to create PDFs.  |
 |June 2021|[GraphQL Persisted Queries](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/graphql-persisted-queries.html?lang=en)|Video | Learn how to enable, create update and execute Persisted Queries in AEM.  |
 |June 2021|[Creating your first servlet in AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/create-servlet.html?lang=en)|Article | Build your first sling servlet to merge data with a form template.  |
@@ -264,7 +264,7 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 Find out more about the latest capabilities, improvements, and fixes released:
 
-* **New Adobe Campaign v8** with significant infrastructure, security, deliverability, and monitoring enhancements. By leveraging [!DNL Snowflake], a cloud database technology, Adobe Campaign dramatically improves its scale and speed, with the ability to manage a more significant number of customer profiles, as well as much higher delivery rates and transactions per hour. Learn more in the [Campaign v8 documentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html).
+* **New Adobe Campaign v8** with significant infrastructure, security, deliverability, and monitoring enhancements. By using [!DNL Snowflake], a cloud database technology, Adobe Campaign dramatically improves its scale and speed, with the ability to manage a more significant number of customer profiles, as well as much higher delivery rates and transactions per hour. Learn more in the [Campaign v8 documentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html).
 
 * **Adobe Campaign Classic v7 21.1.3 release**: Learn more in the [Campaign Classic v7 Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html).
 
@@ -337,7 +337,7 @@ New videos, tutorials, or courses published for Adobe Document Cloud.
 | -----------| ---------- | ---------- | ---------- |
 |June 2021|[Adobe Acrobat for Google Drive](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandgoogle.html)|Video | Get access to time-saving PDF tools and e-signature workflows directly inside the Google Drive app.  |
 |June 2021|[Try your hand at Fresco on the iPad (and iPhone)](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/frescoworkshop.html)|Video | Explore a whole new world of digital drawing and painting with Adobe Fresco in this 15-minute hands-on workshop. Quickly learn to work with layers and clipping masks to conform paint and textures to a base shape.   |
-|June 2021|[Decoding the Alphabet Soup of Graphic Formats](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/alphabetsoup.html)|Video | PG, PNG, SVG, GIF, and EPS files are all commonly used in design, some for web pages, others for presentations, publications and creative projects. But… what do they mean, and which should you pick? Find out in this 15-minute hands-on workshop.   |
+|June 2021|[Decoding the Alphabet Soup of Graphic Formats](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/alphabetsoup.html)|Video | PG, PNG, SVG, GIF, and EPS files are all commonly used in design, some for web pages, others for presentations, publications, and creative projects. But… what do they mean, and which should you pick? Find out in this 15-minute hands-on workshop.   |
 
 {style="table-layout:auto"}
 
