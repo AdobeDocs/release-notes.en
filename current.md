@@ -207,10 +207,53 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
 
 * **Experience Manager 6.5.9.0**
 
-    Experience Manager 6.5, Service Pack 9.0 (6.5.9.0 released May 27, 2021). This important update includes new features, key customer-requested enhancements, improved performance, stability, and security, released since the general availability of Experience Manager 6.5, April 2019.
+    AEM 6.5, Service Pack 9.0 (6.5.9.0 released May 27, 2021) is an important update that includes new features, key customer-requested enhancements, improved performance, stability, and security, released since the general availability of AEM 6.5, April 2019.
 
-  * [Release notes](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=en)
-  * [AEM Forms release deliverables](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/forms-updates/aem-forms-releases.html?lang=en)
+  * [Release notes](https://helpx.adobe.com/experience-manager/6-5/release-notes/sp-release-notes.html)
+  * [AEM Forms release deliverables](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+
+### Product releases
+
+* **Experience Manager as a Cloud Service**
+
+    What is new on Experience Manager as a Cloud Service?
+
+  * **Adobe Experience Manager as a Cloud Service Foundation**
+
+    * [Prerelease Channel](https://experienceleague-review.corp.adobe.com/docs/experience-manager-cloud-service/release-notes/prerelease.html?lang=en): Preview upcoming features a month before they go live in production!
+    * [API Deprecation](https://experienceleague-review.corp.adobe.com/docs/experience-manager-cloud-service/release-notes/deprecated-apis.html?lang=en): A list of the latest deprecated APIs.
+    * [Experience Manager as a Cloud Service SDK Build Analyzer Maven Plugin](https://experienceleague-review.corp.adobe.com/docs/experience-manager-core-components/using/developing/archetype/build-analyzer-maven-plugin.html?lang=en): Update your maven projects to the latest version, which includes a deprecated Java™ API check and other improvements.
+
+  * **Experience Manager Sites as a Cloud Service**
+
+    * GraphQL Endpoints - it is now possible to enable the Experience Manager GraphQL API for individual Experience Manager Sites configurations and to create custom GraphQL endpoints for those configurations by using a new GraphQL Console UI. The user interface also allows managing GraphQL endpoints.
+    * Content Models, enhanced Date&Time data type - it is now possible to configure the Date&Time date type to allow authoring only date, only time, or date and time information.
+    * Content Models, enhanced Tags data type - it is now possible to configure the Tags data type to allow authoring single or multiple tags.
+    * Content Models, new Tab Placeholder data type - the new Tab Placeholder data type lets you group data types into sections that are rendered under tabs in the content fragment editor.
+
+  * **Experience Manager Assets as a Cloud Service**
+
+    * You can now verify content on a new [Preview tier](https://experienceleague-review.corp.adobe.com/docs/experience-manager-cloud-service/sites/authoring/fundamentals/previewing-content.html?lang=en) to simulate the final experience look and feel as you would on the Publish tier. This new functionality is enabled by the Experience Manager Sites Managed Publication wizard which is now allowing you to choose a publish destination between Publish or Preview. Experiences on Preview can then be accessed via a dedicated URL. After validation on Preview, content can be published from Author to Publish as usual. Enabling the Preview Service in Experience Manager as a Cloud Service environment is gradually rolling out in the next few weeks.
+
+  * **Experience Manager Assets as a Cloud Service**
+
+    What is new in the prerelease channel?
+
+    * Metadata schemas can be applied directly to the folder properties.
+    * The Asset Bulk Ingestor tool lets you add metadata during a bulk ingestion.
+    * A user experience enhancement displays the number of assets present in a folder. For more than 1000 assets in a folder, Experience Manager Assets displays 1000+.
+
+    What is new in Dynamic Media?
+
+    * Smart Imaging Device Pixel Ratio (DPR) and network bandwidth optimization let you deliver best quality images efficiently, on devices with high-resolution displays, and constrained network bandwidth. See [smart imaging FAQs](https://experienceleague-review.corp.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/imaging-faq.html?lang=en).
+
+### **Community**
+
+* [One-Stop-Shop for all the Experience Manager Blogs](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/bd-p/adobe-experience-manager-discussions)
+
+* [Guidelines for submitting a new Experience Manager Idea](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/guidelines-for-submitting-a-new-experience-manager-aem-idea/td-p/382376)
+
+* [Adobe Summit 2021 Sneaks with Dan Levy](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-summit-2021-sneaks-with-dan-levy/td-p/405865) &ndash; Once a year, every Adobe employee, from engineers and data scientists to UX designers and product managers, has a chance to share innovative ideas to evolve the way brands interact with their customers. Join us for Adobe Sneaks, where we share the top seven projects, tapping the latest technologies in areas like AI and low-code apps.
 
 ### Experience Manager release information
 
@@ -235,12 +278,12 @@ New videos, tutorials, and courses published over the past month.
 | -----------| ---------- | ---------- | ---------- |
 |June 2021|[Implement the methods of the interface](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-cloud-sdk/implement-interface.html?lang=en)|Article | Learn how to implement the interface methods to create PDFs using Document Cloud REST API.  |
 |June 2021|[Create service interface](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-cloud-sdk/create-interface.html)|Article | Define the methods in the interface that you want to expose.  |
-|June 2021|[Create custom OSGi Configuration](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-cloud-sdk/create-doc-cloud-configuration.html?lang=en)|Article | Learn about custom OSGi configuration to capture Adobe I/O project details.  |
+|June 2021|[Create custom OSGi Configuration](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-cloud-sdk/create-doc-cloud-configuration.html?lang=en)|Article | Learn about custom OSGi configuration so you can capture Adobe I/O project details.  |
 |June 2021|[Create Content Analyzer](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-cloud-sdk/get-content-analyzer.html?lang=en)|Article |Learn how to create the JSON part containing the information about the input parameters to the Create PDF REST call.|
 |June 2021|[Create custom process step](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-cloud-sdk/custom-process-step.html?lang=en)|Article | View the complete code of the custom process step that converts and replaces the native files with the converted PDFs. This custom step searches for all attachments under the folder name, which is provided as a process argument in the workflow. This custom process step uses the methods of the custom `DocumentCloudSDKService` to create PDFs.  |
-|June 2021|[GraphQL Persisted Queries](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/graphql-persisted-queries.html?lang=en)|Video | Learn how to enable, create update and execute Persisted Queries in AEM.  |
-|June 2021|[Creating your first servlet in AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/create-servlet.html?lang=en)|Article | Build your first sling servlet to merge data with a form template.  |
-|June 2021|[Creating your first OSGi Service with AEM forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/create-osgi-service.html?lang=en)|Article | Build your first OSGi service with AEM Forms to generate pdf by merging data with template.  |
+|June 2021|[GraphQL Persisted Queries](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/graphql-persisted-queries.html?lang=en)|Video | Learn how to enable, create, update, and run Persisted Queries in Experience Manager.  |
+|June 2021|[Creating your first servlet in AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/create-servlet.html?lang=en)|Article | Build your first sling servlet so you can merge data with a form template.  |
+|June 2021|[Creating your first OSGi Service with Experience Manager forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/create-osgi-service.html?lang=en)|Article | Build your first OSGi service with AEM Forms so you can generate PDF by merging data with template.  |
 
 {style="table-layout:auto"}
 
