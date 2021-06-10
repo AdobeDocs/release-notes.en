@@ -275,6 +275,10 @@ Find out more about the latest capabilities, improvements, and fixes released:
 |Published|Name|Solution|Description |
 | -----------| ---------- | ---------- | ---------- |
 |June 2021|[Integrate Campaign Standard with Analytics to optimize your email marketing](https://experienceleague.adobe.com/?recommended=Campaign-U-1-2021.1.integration)|Campaign Standard |(Course) Learn how to integrate Campaign Standard with Adobe Analytics and optimize your email marketing strategies using real-time data. This course shows you how to build a Campaign Standard report in Adobe Analytics. Then, learn how to use Experience Cloud Triggers and Platform Launch to configure marketing and transactional messages based on customer activity. |
+|June 2021|[Create and design email deliveries](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/email/create-and-design-email-deliveries.html)|Campaign V8 |(Video) Understand the process of creating an email delivery and learn how to design and personalize email content.|
+|June 2021|[Design emails for deliverability](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/email/design-emails-for-deliverability.html)|Campaign V8 |(Video) Learn how to apply deliverability best practices to your email deliveries.|
+|June 2021|[Manage fatigue using typology rules](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/fatigue-management/typology-rules-for-fatigue-management.html)|Campaign V8 |(Video) Learn how to implement fatigue management by applying typology rules.|
+|June 2021|[Set up fatigue management using filters](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/fatigue-management/fatigue-management-using-filters.html)|Campaign Standard |(Video) Learn how to implement fatigue management in Adobe Campaign by using filters.|
 
 {style="table-layout:auto"}
 
