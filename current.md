@@ -16,7 +16,7 @@ Experience Cloud applications and services are updated monthly. This page is you
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Latest update: **June 9, 2021**
+Latest update: **June 10, 2021**
 
 * [Experience Cloud UI Components, Services, and Administration](#ecloud)
 * [Adobe System Status](#status)
@@ -42,7 +42,7 @@ Updates to [Experience Cloud central interface components](https://experiencelea
 
 | Feature | Date |Description |
 | ------- | ------- | ------- |
-|Single Sign-on Support for Adobe Federated IDs|June 17, 2021|If you use Federated IDs, you can sign in to Experience Cloud without having to enter an email address or password. To use this feature, add `#/sso:@domain` to the Experience Cloud URL. <br>For example, assume that you own the domain `adobecustomer.com` and want to sign into Adobe Analytics. The URL would be: `https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`.|
+|Single Sign-on Support for Adobe Federated IDs|June 17, 2021|If you use Federated IDs, you can sign in to Experience Cloud without having to enter an email address or password. To use this feature, add **`#/sso:@domain`** to the Experience Cloud URL. <br>For example, assume that you own the domain **`adobecustomer.com`** and want to sign into Adobe Analytics. The URL would be: **`https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`**.|
 |Experience League Search |June 1, 2021 |Experience League documentation search has been improved. Navigate to [Experience League](https://experienceleague.corp.adobe.com/docs/?lang=en) and use the **[!UICONTROL Search]** field to locate tutorials, documentation, courses, and more. |
 
 {style="table-layout:auto"}
