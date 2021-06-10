@@ -341,11 +341,11 @@ Release notes for [!DNL Adobe Advertising].
 
 ### New features in [!DNL Advertising DSP] {#adcloud-dsp}
 
-Last updated: **May 19, 2021 for May 5 release**
+Last updated: **June 10, 2021 for June 16 release**
 
 | Feature    | Description  |
 | -----------| ---------- |
-| Package Settings | A new [!UICONTROL Pacing Fill Strategy] option, "[!UICONTROL Slightly Ahead]," is available and is the default for new packages. This strategy accelerates delivery so that it’s 55-65% complete halfway through the flight duration. |
+| Campaign Management | (June 16 release) Forecasting is available for standard display placements  with placement-level pacing and budgets. |
 
 {style="table-layout:auto"}
 
