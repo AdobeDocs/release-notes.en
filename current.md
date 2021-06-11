@@ -38,7 +38,7 @@ Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#h
 
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloud Central UI Components {#ecloud}
 
-Updates to [Experience Cloud central interface components](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en), user and product management, and self-help on Experience League.
+Experience Cloud Central Interface Components includes updates to self-help, search, and user account preferences. It also includes updates to cross-application features and services accessed from the unified interface header, such as Customer Attributes and Audience Library.
 
 | Feature | Date |Description |
 | ------- | ------- | ------- |
@@ -47,13 +47,15 @@ Updates to [Experience Cloud central interface components](https://experiencelea
 
 {style="table-layout:auto"}
 
+For product documentation on these features, see [Experience Cloud Central Interface Components](https://experienceleague-review.corp.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en).
+
 ## ![Icon](/assets/adobe.png) Adobe System Status {#status}
 
 [!UICONTROL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe cloud products and services outage, disruption, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
 The most recent updates to Adobe System Status are found at [Adobe System Status - May 21, 2020](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=en) for the latest release information.
 
-## ![Icon](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
+## ![Icon](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
 Includes release update information and new documentation for Experience Platform and Experience Platform Launch.
 
@@ -86,13 +88,11 @@ New videos, tutorials, or courses published for Experience Platform and services
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Journey Orchestration {#journey-orch}
 
-Use Adobe Experience Platform to orchestrate a customer's journey at scale across experience channels, by intelligently anticipating every individual’s needs in real time.
+Use Experience Platform to orchestrate a customer’s journey at scale across experience channels, by intelligently anticipating every individual’s needs in real time.
 
-### Latest product releases
+* Updated June 2021 - [Journey Orchestration release notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en)
 
-Find out more about the latest capabilities, improvements, and fixes in the [Journey Orchestration Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en).
-
-### More resources for Journey Orchestration
+**More resources for Journey Orchestration**
 
 [Documentation](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html?lang=en) - [Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en) - [How-to videos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html?lang=en)
 
@@ -100,13 +100,11 @@ Find out more about the latest capabilities, improvements, and fixes in the [Jou
 
 [!UICONTROL Offer Decisioning] is an Application Service integrated with Adobe Experience Platform. Use [!UICONTROL Offer Decisioning] to deliver the best offer and experience to your customers across all touch points at the right time.
 
-### Latest product releases
+* Updated April 2021 - [Offer Decisioning release notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html?lang=en#new)
 
-April 2021 Release - Find out more about the latest capabilities in the [Offer Decisioning Release Notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html?lang=en#new).
+**More resources for Offer Decisioning**
 
-### More resources for Offer Decisioning
-
-[Documentation](https://experienceleague.adobe.com/docs/offer-decisioning/using/offer-decisioning-home.html?lang=en) - [How-to videos](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=en)
+[Documentation](https://experienceleague.adobe.com/docs/offer-decisioning/using/offer-decisioning-home.html?lang=en) - [Release Notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html?lang=en#new) - [How-to videos](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=en)
 
 ## ![Icon](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
@@ -167,7 +165,7 @@ AN-246344; AN-250035; AN-250354; AN-252482; AN-254661; AN-254965; AN-255424; AN-
 
 For the latest updates on AppMeasurement releases, please refer to [AppMeasurement for JavaScript release notes](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html?lang=en).
 
-### Analytics courses and tutorials {#tutorials-analytics}
+### New Analytics courses and tutorials {#tutorials-analytics}
 
 New courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Customer Journey Analytics].
 
@@ -186,7 +184,7 @@ New courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Custome
 
 * [Adobe Analytics Product Documentation and Tutorials](https://experienceleague.adobe.com/docs/analytics.html)
 
-## ![Icon](/assets/audience-manager.png) Adobe Audience Manager {#aam}
+## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
 
 Fixes and improvements in Audience Manager.
 
@@ -195,15 +193,15 @@ Fixes and improvements in Audience Manager.
 * Released an enhancement to the [Activity Usage report](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/administration/activity-usage-reporting.html?lang=en) which now allows you to review data older than one year. (AAM-58268)
 * Adobe provides Audience Manager customers with user access keys for the Audience Manager Amazon S3 buckets. For security reasons, the keys are now automatically disabled after 100 days of inactivity. For more information, refer to the question at the bottom of the page in the [Data collection and product integration FAQ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/faqs/faq-data-collection.html?lang=en).
 
-## ![Icon](/assets/aem.png) Adobe Experience Manager {#aem}
+## ![Icon](/assets/aem.png) Experience Manager {#aem}
 
-New features, fixes, and updates in Experience Manager. Adobe recommends customers with On-Premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
+New features, fixes, and updates in Experience Manager (AEM). Adobe recommends customers with On-Premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
 
 >[!NOTE]
 >
 >Adobe recommends visiting the [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) page to stay current on release information.
 
-### Product updates
+### AEM product updates
 
 * **Experience Manager 6.5.9.0**
 
@@ -212,11 +210,11 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
   * [Release notes](https://helpx.adobe.com/experience-manager/6-5/release-notes/sp-release-notes.html)
   * [AEM Forms release deliverables](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
 
-### Product releases
+### AEM product releases
 
 * **Experience Manager as a Cloud Service**
 
-    What is new on Experience Manager as a Cloud Service?
+    New features in Experience Manager as a Cloud Service:
 
   * **Adobe Experience Manager as a Cloud Service Foundation**
 
@@ -226,34 +224,34 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
 
   * **Experience Manager Sites as a Cloud Service**
 
-    * GraphQL Endpoints - it is now possible to enable the Experience Manager GraphQL API for individual Experience Manager Sites configurations and to create custom GraphQL endpoints for those configurations by using a new GraphQL Console UI. The user interface also allows managing GraphQL endpoints.
-    * Content Models, enhanced Date&Time data type - it is now possible to configure the Date&Time date type to allow authoring only date, only time, or date and time information.
-    * Content Models, enhanced Tags data type - it is now possible to configure the Tags data type to allow authoring single or multiple tags.
-    * Content Models, new Tab Placeholder data type - the new Tab Placeholder data type lets you group data types into sections that are rendered under tabs in the content fragment editor.
+    * **GraphQL Endpoints:** it is now possible to enable the Experience Manager GraphQL API for individual Experience Manager Sites configurations and to create custom GraphQL endpoints for those configurations by using a new GraphQL Console UI. The user interface also allows managing GraphQL endpoints.
+    * **Content Models, enhanced Date&Time data type:** it is now possible to configure the Date&Time date type to allow authoring only date, only time, or date and time information.
+    * **Content Models, enhanced Tags data type:** it is now possible to configure the Tags data type to allow authoring single or multiple tags.
+    * **Content Models, new Tab Placeholder data type:** the new Tab Placeholder data type lets you group data types into sections that are rendered under tabs in the content fragment editor.
 
   * **Experience Manager Assets as a Cloud Service**
 
-    * You can now verify content on a new [Preview tier](https://experienceleague-review.corp.adobe.com/docs/experience-manager-cloud-service/sites/authoring/fundamentals/previewing-content.html?lang=en) to simulate the final experience look and feel as you would on the Publish tier. This new functionality is enabled by the Experience Manager Sites Managed Publication wizard which is now allowing you to choose a publish destination between Publish or Preview. Experiences on Preview can then be accessed via a dedicated URL. After validation on Preview, content can be published from Author to Publish as usual. Enabling the Preview Service in Experience Manager as a Cloud Service environment is gradually rolling out in the next few weeks.
+    You can now verify content on a new [Preview tier](https://experienceleague-review.corp.adobe.com/docs/experience-manager-cloud-service/sites/authoring/fundamentals/previewing-content.html?lang=en) to simulate the final experience look and feel as you would on the Publish tier. This new functionality is enabled by the Experience Manager Sites Managed Publication wizard, which allows you to choose a publish destination between [!UICONTROL Publish] or [!UICONTROL Preview]. Experiences on [!UICONTROL Preview] can then be accessed via a dedicated URL. After validation on [!UICONTROL Preview], content can be published from [!UICONTROL Author] to [!UICONTROL Publish] as usual. Enabling the [!UICONTROL Preview] Service in Experience Manager as a Cloud Service environment is gradually rolling out in the next few weeks.
 
   * **Experience Manager Assets as a Cloud Service**
 
-    What is new in the prerelease channel?
+    New features in the prerelease channel:
 
     * Metadata schemas can be applied directly to the folder properties.
-    * The Asset Bulk Ingestor tool lets you add metadata during a bulk ingestion.
+    * The [!UICONTROL Asset Bulk Ingestor] tool lets you add metadata during a bulk ingestion.
     * A user experience enhancement displays the number of assets present in a folder. For more than 1000 assets in a folder, Experience Manager Assets displays 1000+.
 
-    What is new in Dynamic Media?
+    New features in [!UICONTROL Dynamic Media]:
 
     * Smart Imaging Device Pixel Ratio (DPR) and network bandwidth optimization let you deliver best quality images efficiently, on devices with high-resolution displays, and constrained network bandwidth. See [smart imaging FAQs](https://experienceleague-review.corp.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/imaging-faq.html?lang=en).
 
-### **Community**
+### **AEM Community**
 
 * [One-Stop-Shop for all the Experience Manager Blogs](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/bd-p/adobe-experience-manager-discussions)
 
 * [Guidelines for submitting a new Experience Manager Idea](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/guidelines-for-submitting-a-new-experience-manager-aem-idea/td-p/382376)
 
-* [Adobe Summit 2021 Sneaks with Dan Levy](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-summit-2021-sneaks-with-dan-levy/td-p/405865) &ndash; Once a year, every Adobe employee, from engineers and data scientists to UX designers and product managers, has a chance to share innovative ideas to evolve the way brands interact with their customers. Join us for Adobe Sneaks, where we share the top seven projects, tapping the latest technologies in areas like AI and low-code apps.
+* [Adobe Summit 2021 Sneaks with Dan Levy](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-summit-2021-sneaks-with-dan-levy/td-p/405865): Once a year, every Adobe employee, from engineers and data scientists to UX designers and product managers, has a chance to share innovative ideas to evolve the way brands interact with their customers. Join us for Adobe Sneaks, where we share the top seven projects, tapping the latest technologies in areas like AI and low-code apps.
 
 ### Experience Manager release information
 
@@ -313,7 +311,7 @@ Find out more about the latest capabilities, improvements, and fixes released:
 
 * **Adobe Campaign Standard 21.2 release**: Learn more in the [Campaign Standard Release Notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html).
 
-### Campaign courses and tutorials {#tutorials-campaign}
+### New [!UICONTROL Campaign] courses and tutorials {#tutorials-campaign}
 
 |Published|Name|Solution|Description |
 | -----------| ---------- | ---------- | ---------- |
@@ -326,7 +324,7 @@ Find out more about the latest capabilities, improvements, and fixes released:
 
 {style="table-layout:auto"}
 
-### Help resources
+### Campaign help resources
 
 * Adobe Campaign Standard: [Help Center](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en) - [Release Notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en) - [How-to videos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=en) - [Release Planning](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html?lang=en) - [Latest documentation updates](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html?lang=en)
 * Adobe Campaign Classic: [Help Center](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=en) - [Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en) - [How-to videos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=en)- [Latest documentation updates](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=en)
@@ -373,7 +371,7 @@ See [[!DNL Target] release notes](https://experienceleague.adobe.com/docs/target
 
 ### Core Marketo Engage updates
 
-See [!DNL Marketo Engage] [release notes](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/documentautomation.html#integrations) for the latest release schedule information.
+See [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=en) for the latest release schedule information and release notes.
 
 ## ![Icon](/assets/document-cloud-24.png) Document Cloud {#doc-cloud}
 
