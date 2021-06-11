@@ -6,7 +6,7 @@ last-update: June 2021
 author: mfrei
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 ---
-# INTERNAL REVIEW - Adobe Experience Cloud Release Notes - June 2021 
+# Adobe Experience Cloud Release Notes - June 2021 
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
@@ -16,9 +16,9 @@ Experience Cloud applications and services are updated monthly. This page is you
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Latest update: **June 10, 2021**
+Latest update: **June 11, 2021**
 
-* [Experience Cloud UI Components, Services, and Administration](#ecloud)
+* [Experience Cloud Central Interface Components](#ecloud)
 * [Adobe System Status](#status)
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
@@ -42,12 +42,12 @@ Experience Cloud Central Interface Components includes updates to self-help, sea
 
 | Feature | Date |Description |
 | ------- | ------- | ------- |
-|Single Sign-on Support for Adobe Federated IDs|June 17, 2021|If you use Federated IDs, you can sign in to Experience Cloud without having to enter an email address or password. To use this feature, add **`#/sso:@domain`** to the Experience Cloud URL. <br>For example, assume that you own the domain **`adobecustomer.com`** and want to sign into Adobe Analytics. The URL would be: **`https://experience.adobe.com/#/sso:@adobecustomer.com/analytics`**.|
-|Experience League Search |June 1, 2021 |Experience League documentation search has been improved. Navigate to [Experience League](https://experienceleague.corp.adobe.com/docs/?lang=en) and use the **[!UICONTROL Search]** field to locate tutorials, documentation, courses, and more. |
+|Single Sign-on Support for Adobe Federated IDs|June 17, 2021|If you use Federated IDs, you can sign in to Experience Cloud without having to enter an email address or password. To use this feature, add **#/sso:@domain** to the Experience Cloud URL. <br>For example, assume that you own the domain **adobecustomer.com** and want to sign into Adobe Analytics. The URL would be: **https://experience.adobe.com/#/sso:@adobecustomer.com/analytics**.|
+|Experience League Search |June 1, 2021 |Experience League documentation search has been improved. Navigate to [Experience League](https://experienceleague.adobe.com/docs/?lang=en) and use the **[!UICONTROL Search]** field to locate tutorials, documentation, courses, and more. |
 
 {style="table-layout:auto"}
 
-For product documentation on these features, see [Experience Cloud Central Interface Components](https://experienceleague-review.corp.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en).
+For product documentation on these features, see [Experience Cloud Central Interface Components](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en).
 
 ## ![Icon](/assets/adobe.png) Adobe System Status {#status}
 
@@ -148,7 +148,7 @@ AN-246344; AN-250035; AN-250354; AN-252482; AN-254661; AN-254965; AN-255424; AN-
 
 | Notice | Date Added or Updated  | Description |
 | ----------- | ---------- | ---------- |
-| Browser user agents reflect incorrect operating system versions for macOS | May 19, 2021 | All major browsers currently report users of macOS X 11 and above incorrectly as using macOS 10, as recorded in the browser's user agent string. This issue affects Adobe Analytics reporting, because it uses the user agent to determine device information like operating system. This inaccuracy is apparently in place to prevent compatibility issues for some websites. See this [Bugzilla ticket](https://bugs.webkit.org/show_bug.cgi?id=213622&utm_source=convertkit&utm_medium=email&utm_campaign=User+Agent+strings%2C+new+BigQuery+features%2C+custom+Google+Tag+Manager+loader...+%E2%80%93+Simmer+Newsletter+%2311%20-%205873454) for reference. It is not clear when or if this issue will be rectified.<br>Some browsers initially recorded macOS 11 correctly, so there may be some traffic matching this value. However, because of the inaccurate reporting, filtering for operating system macOS 11 is not useful.<br>This issue is significant because starting with Safari on macOS 11, Apple updated ITP cookie expiry limitations to apply to CNAME implementations (see [WebKit blog post](https://webkit.org/blog/11338/cname-cloaking-and-bounce-tracking-defense/)).<br>Before this update, these limitations applied only to client-side cookies set via JavaScript. This inaccuracy makes it difficult to assess how much traffic is using OS 11 and is thus impacted by the ITP change. You can learn more about cookies and Adobe Analytics [here](https://experienceleague.adobe.com/docs/analytics/technotes/cookies/cookies.html#cookies). |
+| Browser user agents reflect incorrect operating system versions for macOS | May 19, 2021 | All major browsers currently report users of macOS X 11 and above incorrectly as using macOS 10, as recorded in the browser's user agent string. This issue affects Adobe Analytics reporting, because it uses the user agent to determine device information like operating system. This inaccuracy is apparently in place to prevent compatibility issues for some websites. See this [Bugzilla ticket](https://bugs.webkit.org/show_bug.cgi?id=213622&utm_source=convertkit&utm_medium=email&utm_campaign=User+Agent+strings%2C+new+BigQuery+features%2C+custom+Google+Tag+Manager+loader...+%E2%80%93+Simmer+Newsletter+%2311%20-%205873454) for reference. It is not clear when or if this issue will be fixed.<br>Some browsers initially recorded macOS 11 correctly, so there may be some traffic matching this value. However, because of the inaccurate reporting, filtering for operating system macOS 11 is not useful.<br>This issue is significant because starting with Safari on macOS 11, Apple updated ITP cookie expiry limitations to apply to CNAME implementations (see [WebKit blog post](https://webkit.org/blog/11338/cname-cloaking-and-bounce-tracking-defense/)).<br>Before this update, these limitations applied only to client-side cookies set via JavaScript. This inaccuracy makes it difficult to assess how much traffic is using OS 11 and is thus impacted by the ITP change. You can learn more about cookies and Adobe Analytics [here](https://experienceleague.adobe.com/docs/analytics/technotes/cookies/cookies.html#cookies). |
 | End-of-life for three Analytics API services | May 19, 2021 | On August 18, 2021, the following Analytics Legacy API services reached their end-of-life date and were shut down. Any current integrations built using these services stopped working on that day.<ul><li>1.3 Analytics APIs</li><li>1.4 SOAP Analytics APIs</li><li>Legacy OAuth Authentication (OAuth and JWT)</li></ul>Adobe has provided a [Legacy API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) to help answer your questions and provide guidance on how to proceed. API integrations that employ these services can migrate to the [1.4 Analytics REST APIs](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) or the [2.0 Analytics APIs](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth accounts can migrate to an [Adobe I/O](https://console.adobe.io/home?mv=email#) Analytics integration account, which can be used to access both the 1.4 Analytics APIs and 2.0 Analytics APIs. |
 | 2021 ISO region updates | May 13, 2021 | Adobe will perform 2021 ISO region updates on May 21, 2021. Expect to see minor updates following this release. |
 | EOL of Full Processing Data Sources | April 12, 2021 | Adobe plans to deprecate full processing data sources on July 31, 2021. As of March 25, 2021, new imports of this type can no longer be created. Please use [Bulk Data Insertion API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) to import this type of data. |
@@ -207,8 +207,8 @@ New features, fixes, and updates in Experience Manager (AEM). Adobe recommends c
 
     AEM 6.5, Service Pack 9.0 (6.5.9.0 released May 27, 2021) is an important update that includes new features, key customer-requested enhancements, improved performance, stability, and security, released since the general availability of AEM 6.5, April 2019.
 
-  * [Release notes](https://helpx.adobe.com/experience-manager/6-5/release-notes/sp-release-notes.html)
-  * [AEM Forms release deliverables](https://helpx.adobe.com/aem-forms/kb/aem-forms-releases.html)
+  * [Release notes](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=en)
+  * [AEM Forms release deliverables](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/forms-updates/aem-forms-releases.html?lang=en)
 
 ### AEM product releases
 
@@ -218,9 +218,9 @@ New features, fixes, and updates in Experience Manager (AEM). Adobe recommends c
 
   * **Adobe Experience Manager as a Cloud Service Foundation**
 
-    * [Prerelease Channel](https://experienceleague-review.corp.adobe.com/docs/experience-manager-cloud-service/release-notes/prerelease.html?lang=en): Preview upcoming features a month before they go live in production!
-    * [API Deprecation](https://experienceleague-review.corp.adobe.com/docs/experience-manager-cloud-service/release-notes/deprecated-apis.html?lang=en): A list of the latest deprecated APIs.
-    * [Experience Manager as a Cloud Service SDK Build Analyzer Maven Plugin](https://experienceleague-review.corp.adobe.com/docs/experience-manager-core-components/using/developing/archetype/build-analyzer-maven-plugin.html?lang=en): Update your maven projects to the latest version, which includes a deprecated Java™ API check and other improvements.
+    * [Prerelease Channel](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/prerelease.html?lang=en): Preview upcoming features a month before they go live in production!
+    * [API Deprecation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/deprecated-apis.html?lang=en): A list of the latest deprecated APIs.
+    * [Experience Manager as a Cloud Service SDK Build Analyzer Maven Plugin](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/build-analyzer-maven-plugin.html?lang=en): Update your maven projects to the latest version, which includes a deprecated Java™ API check and other improvements.
 
   * **Experience Manager Sites as a Cloud Service**
 
@@ -231,7 +231,7 @@ New features, fixes, and updates in Experience Manager (AEM). Adobe recommends c
 
   * **Experience Manager Assets as a Cloud Service**
 
-    You can now verify content on a new [Preview tier](https://experienceleague-review.corp.adobe.com/docs/experience-manager-cloud-service/sites/authoring/fundamentals/previewing-content.html?lang=en) to simulate the final experience look and feel as you would on the Publish tier. This new functionality is enabled by the Experience Manager Sites Managed Publication wizard, which allows you to choose a publish destination between [!UICONTROL Publish] or [!UICONTROL Preview]. Experiences on [!UICONTROL Preview] can then be accessed via a dedicated URL. After validation on [!UICONTROL Preview], content can be published from [!UICONTROL Author] to [!UICONTROL Publish] as usual. Enabling the [!UICONTROL Preview] Service in Experience Manager as a Cloud Service environment is gradually rolling out in the next few weeks.
+    You can now verify content on a new [Preview tier](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/authoring/fundamentals/previewing-content.html?lang=en) to simulate the final experience look and feel as you would on the Publish tier. This new functionality is enabled by the Experience Manager Sites Managed Publication wizard, which allows you to choose a publish destination between [!UICONTROL Publish] or [!UICONTROL Preview]. Experiences on [!UICONTROL Preview] can then be accessed via a dedicated URL. After validation on [!UICONTROL Preview], content can be published from [!UICONTROL Author] to [!UICONTROL Publish] as usual. Enabling the [!UICONTROL Preview] Service in Experience Manager as a Cloud Service environment is gradually rolling out in the next few weeks.
 
   * **Experience Manager Assets as a Cloud Service**
 
@@ -243,7 +243,7 @@ New features, fixes, and updates in Experience Manager (AEM). Adobe recommends c
 
     New features in [!UICONTROL Dynamic Media]:
 
-    * Smart Imaging Device Pixel Ratio (DPR) and network bandwidth optimization let you deliver best quality images efficiently, on devices with high-resolution displays, and constrained network bandwidth. See [smart imaging FAQs](https://experienceleague-review.corp.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/imaging-faq.html?lang=en).
+    * Smart Imaging Device Pixel Ratio (DPR) and network bandwidth optimization let you deliver best quality images efficiently, on devices with high-resolution displays, and constrained network bandwidth. See [smart imaging FAQs](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/imaging-faq.html?lang=en).
 
 ### **AEM Community**
 
