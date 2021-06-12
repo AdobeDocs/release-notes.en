@@ -406,7 +406,7 @@ For Document Cloud help, see:
 ## ![Icon](/assets/creative-cloud-24.png) Creative Cloud Enterprise {#creative-cloud}
 
 |Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
+| ----------| --------- | --------- | --------- |
 |June 2021|[Try your hand at Fresco on the iPad (and iPhone)](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/frescoworkshop.html)|Video | Explore a whole new world of digital drawing and painting with Adobe Fresco in this 15-minute hands-on workshop. Quickly learn to work with layers and clipping masks to conform paint and textures to a base shape.   |
 |June 2021|[Decoding the Alphabet Soup of Graphic Formats](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/alphabetsoup.html)|Video | PG, PNG, SVG, GIF, and EPS files are all commonly used in design, some for web pages, others for presentations, publications, and creative projects. But… what do they mean, and which should you pick? Find out in this 15-minute hands-on workshop.   |
 
