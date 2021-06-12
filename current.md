@@ -10,7 +10,7 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
-Experience Cloud applications and services are updated monthly. This page is your central location for finding the latest release updates, documentation, and tutorials for [!DNL Experience Cloud] and [!DNL Experience Platform]. You can also find new documentation for [!DNL Creative Cloud for Enterprise] and [!DNL Document Cloud].
+Experience Cloud applications and services are updated monthly. This page is your central location for finding the latest release updates, documentation, and tutorials for [!DNL Experience Cloud] and [!DNL Experience Platform]. You can also find new documentation for [!DNL Creative Cloud for Enterprise] and [!DNL Document Cloud]. 
 
 >[!NOTE]
 >
@@ -23,11 +23,11 @@ Latest update: **June 11, 2021**
 * [Experience Platform](#platform)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
-* [Analytics](#analytics) and [Customer Journey Analytics](#cust-journey)
-* [Audience Manager](#aam)
-* [Experience Manager](#aem)
-* [Campaign](#ac)
-* [Advertising](#adcloud)
+* [[!DNL Analytics]](#analytics) and [Customer Journey Analytics](#cust-journey)
+* [[!DNL Audience Manager]](#aam)
+* [[!DNL Experience Manager]](#aem)
+* [[!DNL Campaign]](#ac)
+* [[!DNL Advertising]](#adcloud)
 * [[!DNL Target]](#target)
 * [[!DNL Magento]](#magento)
 * [[!DNL Marketo Engage]](#marketo)
@@ -39,7 +39,7 @@ Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#h
 
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloud Central UI Components {#ecloud}
 
-Experience Cloud Central Interface Components includes updates to self-help, search, and user account preferences. It also includes updates to cross-application features and services accessed from the unified interface header, such as Customer Attributes and Audience Library.
+Experience Cloud Central Interface Components includes updates to accessed from the unified product header, such as self-help, search, and user account preferences. Updates to People, Places (Location), and product management are found here.
 
 | Feature | Date |Description |
 | ------- | ------- | ------- |
@@ -48,6 +48,11 @@ Experience Cloud Central Interface Components includes updates to self-help, sea
 
 {style="table-layout:auto"}
 
+**More help resources**
+
+* Administration help for [Central Interface Components](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) and user management
+* Help and release notes for [Places - Location Service](https://experienceleague.adobe.com/docs/places/using/release-notes.html?lang=en)
+* Help on [People - Customer Attributes and Audience Library](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=en)
 For product documentation on these features, see [Experience Cloud Central Interface Components](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en).
 
 ## ![Icon](/assets/adobe.png) Adobe System Status {#status}
@@ -388,7 +393,7 @@ New videos, tutorials, or courses published for Adobe Document Cloud.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2021|[Adobe Acrobat for Google Drive](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandgoogle.html)|Video | Get access to time-saving PDF tools and e-signature workflows directly inside the Google Drive app.  |
+|June 2021|[Adobe Acrobat for Google Drive](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandgoogle.html)|Video | Get access to time-saving PDF tools and e-signature workflows directly inside the Google Drive app.|
 
 {style="table-layout:auto"}
 
