@@ -17,7 +17,7 @@ Experience Cloud applications and services are updated monthly. This page is you
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Latest update: **June 11, 2021**
+Latest update: **June 14, 2021**
 
 * [Experience Cloud Central Interface Components](#ecloud)
 * [Adobe System Status](#status)
@@ -304,11 +304,11 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 Find out more about the latest capabilities, improvements, and fixes released:
 
-* **New Adobe Campaign v8** with significant infrastructure, security, deliverability, and monitoring enhancements. By using [!DNL Snowflake], a cloud database technology, Adobe Campaign dramatically improves its scale and speed, with the ability to manage a more significant number of customer profiles, as well as much higher delivery rates and transactions per hour. Learn more in the [Campaign v8 documentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html).
+* **New Adobe Campaign v8** offers significant infrastructure, security, deliverability, and monitoring enhancements. Adobe Campaign v8 dramatically improves its scale and speed, with the ability to manage a more significant number of customer profiles, as well as much higher delivery rates and transactions per hour. Learn more in the [Campaign v8 documentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html).
 
-* **Adobe Campaign Classic v7 21.1.3 release**: Learn more in the [Campaign Classic v7 Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html).
+* **Adobe Campaign Classic v7 21.1.3 release:** Learn more in the [Campaign Classic v7 Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en).
 
-* **Adobe Campaign Standard 21.2 release**: Learn more in the [Campaign Standard Release Notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html).
+* **Adobe Campaign Standard 21.2 release:** Learn more in the [Campaign Standard Release Notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en).
 
 ### New [!UICONTROL Campaign] courses and tutorials {#tutorials-campaign}
 
