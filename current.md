@@ -207,16 +207,16 @@ New features, fixes, and updates in Experience Manager (AEM). Adobe recommends c
 >
 >Adobe recommends visiting the [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) page to stay current on release information.
 
-### AEM product updates
+### Experience Manager product updates
 
 * **Experience Manager 6.5.9.0**
 
-    AEM 6.5, Service Pack 9.0 (6.5.9.0 released May 27, 2021) is an important update that includes new features, key customer-requested enhancements, improved performance, stability, and security, released since the general availability of AEM 6.5, April 2019.
+    Experience Manager 6.5, Service Pack 9.0 (6.5.9.0 released May 27, 2021) is an important update that includes new features, key customer-requested enhancements, improved performance, stability, and security, released since the general availability of AEM 6.5, April 2019.
 
   * [Release notes](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=en)
   * [AEM Forms release deliverables](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/forms-updates/aem-forms-releases.html?lang=en)
 
-### AEM product releases
+### Experience Manager product releases
 
 * **Experience Manager as a Cloud Service**
 
@@ -244,7 +244,7 @@ New features, fixes, and updates in Experience Manager (AEM). Adobe recommends c
 
     * Smart Imaging Device Pixel Ratio (DPR) and network bandwidth optimization let you deliver best quality images efficiently, on devices with high-resolution displays, and constrained network bandwidth. See [smart imaging FAQs](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/imaging-faq.html?lang=en).
 
-### **AEM Community**
+### **Experience Manager Community**
 
 * [One-Stop-Shop for all the Experience Manager Blogs](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/bd-p/adobe-experience-manager-discussions)
 
