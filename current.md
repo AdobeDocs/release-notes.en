@@ -230,14 +230,7 @@ New features, fixes, and updates in Experience Manager (AEM). Adobe recommends c
 
   * **Experience Manager Sites as a Cloud Service**
 
-    * **GraphQL Endpoints:** it is now possible to enable the Experience Manager GraphQL API for individual Experience Manager Sites configurations and to create custom GraphQL endpoints for those configurations by using a new GraphQL Console UI. The user interface also allows managing GraphQL endpoints.
-    * **Content Models, enhanced Date&Time data type:** it is now possible to configure the Date&Time date type to allow authoring only date, only time, or date and time information.
-    * **Content Models, enhanced Tags data type:** it is now possible to configure the Tags data type to allow authoring single or multiple tags.
-    * **Content Models, new Tab Placeholder data type:** the new Tab Placeholder data type lets you group data types into sections that are rendered under tabs in the content fragment editor.
-
-  * **Experience Manager Assets as a Cloud Service**
-
-    You can now verify content on a new [Preview tier](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/authoring/fundamentals/previewing-content.html?lang=en) to simulate the final experience look and feel as you would on the Publish tier. This new functionality is enabled by the Experience Manager Sites Managed Publication wizard, which allows you to choose a publish destination between [!UICONTROL Publish] or [!UICONTROL Preview]. Experiences on [!UICONTROL Preview] can then be accessed via a dedicated URL. After validation on [!UICONTROL Preview], content can be published from [!UICONTROL Author] to [!UICONTROL Publish] as usual. Enabling the [!UICONTROL Preview] Service in Experience Manager as a Cloud Service environment is gradually rolling out in the next few weeks.
+    You can now verify content on a new [Preview tier](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/sites/authoring/fundamentals/previewing-content.html?lang=en) to simulate the final experience look and feel as you would on the Publish tier. This new functionality is enabled by the Experience Manager Sites Managed Publication wizard, which lets you choose a publish destination between [!UICONTROL Publish] or [!UICONTROL Preview]. Experiences on [!UICONTROL Preview] can then be accessed by way of a dedicated URL. After validation on [!UICONTROL Preview], you can publish content from [!UICONTROL Author] to [!UICONTROL Publish] as usual. Enabling the [!UICONTROL Preview] Service in Experience Manager as a Cloud Service environments is gradually rolling out in the next few weeks.
 
   * **Experience Manager Assets as a Cloud Service**
 
