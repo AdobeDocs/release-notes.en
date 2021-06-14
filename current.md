@@ -34,7 +34,7 @@ Latest update: **June 14, 2021**
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
 * [Document Cloud](#doc-cloud)
-* [Creative Cloud Enterprise](#creative-cloud)
+* [Creative Cloud for enterprise](#creative-cloud)
   
 Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#home) to find product and technical documentation, Adobe-curated courses, video tutorials, quick answers, community insight, and instructor-led training.
 
@@ -396,7 +396,9 @@ For Document Cloud help, see:
 * [Adobe Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
 * [Document Cloud Learn & Support](https://helpx.adobe.com/support/document-cloud.html)
 
-## ![Icon](/assets/creative-cloud-24.png) Creative Cloud Enterprise {#creative-cloud}
+## ![Icon](/assets/creative-cloud-24.png) Creative Cloud for enterprise {#creative-cloud}
+
+New videos, tutorials, or courses published for Creative Cloud for enterprise.
 
 |Published|Name|Type|Description |
 | ----------| --------- | --------- | --------- |
