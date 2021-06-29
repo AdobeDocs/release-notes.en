@@ -220,7 +220,11 @@ New features, fixes, and updates in Experience Manager (AEM). Adobe recommends c
 
 * **Experience Manager as a Cloud Service**
 
-    New features in Experience Manager as a Cloud Service:
+    New features in Experience Manager as a Cloud Service.
+
+    >[!NOTE]
+    >
+    >Experience Manager as a Cloud Service June feature release is now available. To experience the new features, be sure you are on at least Experience Manager 2021.6.5561.
 
   * **Adobe Experience Manager as a Cloud Service Foundation**
 
