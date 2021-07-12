@@ -1,13 +1,7 @@
 ---
 cloud: Experience Cloud
-solution-title: Learn & Support
-description: Release notes for Experience Cloud solutions
-solution-hub-url: https://helpx.adobe.com/support/experience-cloud.html
-solution-icon: assets/assets/experience-cloud-logo-24.png
-getting-started-title: Getting Started
-getting-started-url: https://landing.adobe.com/experience-league/
-tutorials-title: Tutorials
-tutorials-url: https://helpx.adobe.com/experience-cloud/tutorials.html
+type: Documentation
+solution: Experience Cloud
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/release-notes.en
 index: yes
