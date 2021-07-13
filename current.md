@@ -126,7 +126,7 @@ Release date: **June 17, 2021**
 
 | Feature | [General Availability](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Target Date | Description |
 | ----------- | ---------- | ------- |
-| N/A | N/A |
+| New Adobe Analytics landing page (Open Beta) | The new landing page for Adobe Analysis brings together both Analysis Workspace and Reports & Analytics in a single interface and access point under the Workspace umbrella. It features a new project manager home page, an updated reports menu and modernized reports, as well as a new learning section to help you with getting started more effectively. The new page improves discoverability and guides Reports & Analytics users to an improved reporting experience in Workspace. [Learn more](https://experienceleague.adobe.com/docs/analytics/landing/an-landing.html)| July 26, 2021 |
 
 {style="table-layout:auto"}
 
@@ -134,20 +134,19 @@ Release date: **June 17, 2021**
 
 | Feature | [General Availability](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Target Date | Description |
 | ----------- | ---------- | ----- |
-| N/A | N/A |
+| New Connections Info experience | This Connections UI enhancement lets you know whether and when your data is ready to be used in reporting. It also lets you track any issues with processing data. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=en)| July 26, 2021 |
 
 {style="table-layout:auto"}
 
 ### Fixes in Adobe Analytics {#aa-fixes}
 
-* Fixed an issue with the incorrect currency showing in the Revenue Real-Time report. (AN-254649)
-* Updated the documentation on [eVar case sensitivity in reporting](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html). (AN-246438)
-* Updated the documentation to better explain [Data Feed Implementation](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/create-feed.html) and [here](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-faq.html#BucketOwnerFullControl). (AN-219485)
-* Fixed issues with some data not being sent in the Data Warehouse report (AN-259951; AN-259712; AN-260107; AN-259953)
+* Fixed an issue with alerts not getting sent and errors displaying when creating new alerts.	AN-263962
+* Fixed an issue with virtual report suites in Analysis workspace:  Data outside of the date range specified was extracted.	AN-263121
+* Fixed an issue with Workspace projects not opening (timing out.)	AN-247248
 
 #### Additional fixes in Adobe Analytics or CJA
 
-AN-246344; AN-250035; AN-250354; AN-252482; AN-254661; AN-254965; AN-255424; AN-256515; AN-257232; AN-257572; AN-257893; AN-258393; AN-259203; AN-259513; AN-259614; AN-259665; AN-259931; AN-260074; AN-260085; AN-260147; AN-260190; AN-260198; AN-260290; AN-260306 (CJA); AN-260508; AN-260625; AN-260793; AN-260861; AN-260938; AN-260945; AN-261149; AN-261317
+AN-160022; AN-186365; AN-234768 (CJA); AN-253041; AN-255098; AN-256319; AN-256903; AN-257111; AN-259614; AN-259960; AN-260422; AN-260926; AN-260962; AN-261310; AN-261442; AN-261483 (CJA); AN-261589; AN-261949; AN-262025; AN-262295; AN-262330; AN-262348; AN-262356; AN-262461; AN-262462; AN-262465; AN-262888; AN-262944; AN-262952; AN-262974; AN-263027; AN-263105; AN-263175; AN-263183; AN-263244; AN-263888; AN-263953
 
 ### Important notices for [!DNL Analytics] administrators {#aa-notices}
 
