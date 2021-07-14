@@ -95,7 +95,9 @@ New videos, tutorials, or courses published for Experience Platform and services
 
 Use Experience Platform to orchestrate a customer’s journey at scale across experience channels, by intelligently anticipating every individual’s needs in real time.
 
-* Updated July 2021 - [Journey Orchestration release notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en)
+### Latest product releases
+
+Find out more about the latest capabilities, improvements, and fixes in the [Journey Orchestration Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en).
 
 **More resources for Journey Orchestration**
 
