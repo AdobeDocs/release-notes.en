@@ -134,7 +134,7 @@ Release date: **June 17, 2021**
 
 | Feature | Description | [General Availability](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Target Date | 
 | ----------- | ---------- | ----- |
-| New Connections Info experience | This Connections UI enhancement lets you know whether and when your data is ready to be used in reporting. It also lets you track any issues with processing data. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=en)| July 26, 2021 |
+| New Connections Info experience | This Connections UI enhancement lets you know whether and when your data is ready to be used in reporting. It also lets you track any issues with processing data. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=en)| August 19, 2021 |
 
 {style="table-layout:auto"}
 
