@@ -41,7 +41,7 @@ New videos, tutorials, or courses published for Adobe Analytics.
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |July 2021|[XML Documentation for Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/tutorials/overview.html?lang=en)|Article |XML Documentation for Adobe Experience Manager is a powerful, enterprise-grade component content management solution (CCMS). Learn how the XML Documentation Solution offers all the core CCMS functions, such as collaboration, review, translation, search, and reports for DITA content. These features enable authors to do more in less time through efficient content reuse and powerful workflows.|
-|July 2021|[AEM Headless GraphQL Postman Collections](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html?lang=en)|Video |Learn how to define and use Content Fragments in Adobe Experience Manager (AEM) for use with GraphQL..|
+|July 2021|[AEM Headless GraphQL Postman Collections](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html?lang=en)|Video |Learn how to define and use Content Fragments in Adobe Experience Manager (AEM) for use with GraphQL.|
 
 ### New Document Cloud tutorials {#tutorials-doc-cloud}
 

@@ -17,7 +17,7 @@ Experience Cloud applications and services are updated monthly. This page is you
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Latest update: **July 2021**
+Latest update: **July 14, 2021**
 
 * [Experience Cloud Central Interface Components](#ecloud)
 * [Adobe System Status](#status)
@@ -44,7 +44,7 @@ Experience Cloud Central Interface Components includes updates to accessed from 
 
 | Feature | Date |Description |
 | ------- | ------- | ------- |
-|Feature|Date|Description|
+|Experience Cloud Global Search| July 5, 2021|With this release, Experience Cloud global search adds Journey Orchestration to the search for business objects in Experience Cloud, such as segments, data sets, schemas, and more.)|
 
 {style="table-layout:auto"}
 
@@ -64,38 +64,22 @@ The most recent updates to Adobe System Status are found at [Adobe System Status
 
 Includes release update information and new documentation for Experience Platform and Experience Platform Launch.
 
-* **Date** [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
-* **Date** [Experience Platform Data Collection release notes](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html) (formerly, Experience Platform Launch)
+* **June 30, 2021** [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
+* **May 17, 2021** [Experience Platform Data Collection release notes](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html) (formerly, Experience Platform Launch)
 
-### Experience Platform tutorials and courses {#tutorials-platform}
+<!-- ### Experience Platform tutorials and courses {#tutorials-platform}
 
 New videos, tutorials, or courses published for Experience Platform and services.
 
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|June 2021|[Prepare data with Query Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/prepare-data.html)|Video | Learn how to clean, prepare, and combine data from multiple datasets to create a dataset using Create Table AS (CTAS) and Spark SQL functions for reporting and dashboarding.|
-|June 2021|[Copy schemas between sandboxes](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/copy-schemas-between-sandboxes.html)|Video | Learn how to copy a schema from one sandbox to another in Adobe Experience Platform using the [!UICONTROL Export/Import Schema API]. Build and test your schemas in development sandboxes, then copy them to production. |
-|June 2021|[Update schemas](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/update-schemas.html)|Video |Learn the basic things to be aware of when updating existing schemas in Adobe Experience Platform.  |
-|June 2021|[Schema building blocks](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/schema-building-blocks.html)|Video |Learn the key building block elements of Experience Data Model (XDM) schemas, including fields, data types, schema field groups, classes, and behavior.|
-|June 2021|[Create schema classes](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-classes.html)|Video |Learn how to create classes in Adobe Experience Platform for use in Experience Data Model (XDM) schemas.  |
-|June 2021|[Configure relationships between schemas](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/configure-relationships-between-schemas.html)|Video |Learn how to configure a relationship between two schemas in Adobe Experience Platform. Relationships allow you to use one dataset as a lookup table for another.   |
-|June 2021|[Create schema data types](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-data-types.html)|Video |Learn how to create your own data types in Adobe Experience Platform for use in Experience Data Model (XDM) schemas.  |
-|June 2021|[Convert your data model to an experience data model](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/convert-your-data-model-to-xdm.html)|Video |Learn how data architects can take their existing transactional data model and convert it to an Experience Data Model. This video shows the difference in modeling approaches using entity-relationship diagrams.  |
-|June 2021|[Plan your data model](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/plan-your-data-model.html)|Video |Learn what to do before you start building your schemas in Adobe Experience Platform. Document your business use cases, understand your Platform license, know the product guardrails, and identify what data to ingest before finalizing your data model.  |
-|June 2021|[Connect Tableau to Query Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/psql-client-tableau.html)|Video | Learn how to connect to [!UICONTROL Query Service] from various desktop client applications that supports `PostgreSQL` protocol and how to use `PostgreSQL` tools and drivers to connect and write queries.  |
-|June 2021|[Adobe defined functions in Query Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/adobe-defined-functions.html)|Video | Learn how to use Adobe-defined functions in Adobe Experience Platform [!UICONTROL Query Service] to perform common business-related tasks on Experience Event data.  |
-|June 2021|[Data exploration with Query Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/explore-data.html)|Video | Learn how to validate ingested data, preview data, and explore statistical and analytical properties of data using SQL functions.  |
-|June 2021|[Query Service Overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/understanding-query-service.html)|Video |Learn about Query Service in Adobe Experience Platform and how it helps to understand customer behavior and generate impactful insights.  |
-|June 2021|[Query Service UI overview](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/query-service-ui.html)|Video | Learn how to write and execute queries, view previously executed queries, and access queries saved by others users within your IMS Organization in Adobe Experience Platform Query Service.|
-|June 2021|[Query API](https://experienceleague.adobe.com/docs/platform-learn/tutorials/queries/query-service-api.html)|Video | Learn how to write and execute queries, create schedule queries, and create a query template using Adobe Experience Platform [!UICONTROL Query Service API].|
-
-{style="table-layout:auto"}
+{style="table-layout:auto"} -->
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Journey Orchestration {#journey-orch}
 
 Use Experience Platform to orchestrate a customer’s journey at scale across experience channels, by intelligently anticipating every individual’s needs in real time.
 
 ### Latest product releases
+
+**June 2021 Release:** The integration with Campaign Classic is available. It allows you to send emails, push notifications and SMS using Adobe Campaign v7 or v8 Transactional Messaging capabilities.
 
 Find out more about the latest capabilities, improvements, and fixes in the [Journey Orchestration Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en).
 
@@ -107,7 +91,9 @@ Find out more about the latest capabilities, improvements, and fixes in the [Jou
 
 [!UICONTROL Offer Decisioning] is an Application Service integrated with Adobe Experience Platform. Use [!UICONTROL Offer Decisioning] to deliver the best offer and experience to your customers across all touch points at the right time.
 
-* Updated April 2021 - [Offer Decisioning release notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html?lang=en#new)
+**June 2021 Release:** AI ranking allows you to create different ranking strategies (based on your business goals) that will be used by a trained model system to rank the eligible offers to display for a given profile.
+
+See [Offer Decisioning release notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html?lang=en#new) to stay up-to-date.
 
 **More resources for Offer Decisioning**
 
@@ -142,10 +128,10 @@ Release date: **June 17, 2021**
 
 ### Fixes in Adobe Analytics {#aa-fixes}
 
-* Fixed an issue with alerts not getting sent and errors displaying when creating new alerts. AN-263962
-* Fixed an issue with virtual report suites in Analysis workspace:  Data outside of the date range specified was extracted. AN-263121
-* Fixed an issue with Workspace projects not opening (timing out.) AN-247248
-* Fixed an issue with being unable to load report suite usage data under Server Call Usage. AN-264215
+* Fixed an issue with alerts not getting sent and errors displaying when creating new alerts. (AN-263962)
+* Fixed an issue with virtual report suites in Analysis workspace:  Data outside of the date range specified was extracted. (AN-263121)
+* Fixed an issue with Workspace projects not opening (timing out.) (AN-247248)
+* Fixed an issue with being unable to load report suite usage data under Server Call Usage. (AN-264215)
 
 #### Additional fixes in Adobe Analytics or CJA
 
@@ -178,12 +164,9 @@ New courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Custome
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2021|[Getting Started with Customer Journey Analytics for Administrators](https://experienceleague.adobe.com/?recommended=CustomerJourneyAnalytics-A-1-2020.1)|Course | Learn how to set up, configure, and administer Customer Journey Analytics. Learn some basic concepts to give you a foundation, and then move into more configuration steps. The course is then capped off with some recommendations on migrating calculated metrics and segments from Adobe Analytics to Customer Journey Analytics.|
-|June 2021|[Configure internal site search reports](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-use-cases/internal-site-search/configure-internal-site-search-reports.html?lang=en)|Video | Create and configure freeform tables in Analysis Workspace to analyze internal search functionality on your site.|
-|June 2021|[Map Web SDK variables into Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.html?lang=en)|Video | Learn how to map analytics variables from the Web SDK through to Adobe Analytics using Processing Rules.  |
-|June 2021|[Implement internal search variables using Web SDK](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.html?lang=en)|Video | Learn how to use the Web SDK to implement Adobe Analytics variables for an internal search term tracking use case. See the flow of data from the page to the Experience Edge, and then to Adobe Analytics.  |
-|June 2021|[Implement internal search variables using AppMeasurement](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.html?lang=en)|Video | In this video, learn the steps of implementing internal site search variables for Adobe Analytics using Experience Platform Data Collection/Launch, including search term, number of results, and others.  |
-|June 2021|[Defining your internal site search business requirements](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.html?lang=en)|Video | When deciding to track internal search on your site, it is important to first decide which aspects of search you want to track, and what actions can be taken from analyzing the results. This video walks through the documenting of business requirements.  |
+|July 2021|[Using the Donut visualization in your project](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-the-donut-visualization.html?lang=en)|Video |Learn how to add and configure the Donut visualization in your Analysis Workspace project.|
+|July 2021|[Bar and Bar Stacked Visualizations](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.html?lang=en)|Video |In this video, we discuss adding and configuring the Bar, Bar stacked, Horizontal Bar, and Horizontal bar stacked visualizations in your project in Analysis Workspace. Although considered basic, these visualizations can help tell your data stories and provide insights for your analysts.|
+|July 2021|[Area and Area Stacked](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/area-and-area-stacked.html)|Video |Learn how to add Area and Area Stacked visualizations to your project in Analysis Workspace, and learn a few tips to help customize the visualizations for your needs.|
 
 {style="table-layout:auto"}
 
@@ -234,13 +217,13 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
 
   * **Experience Manager Assets as a Cloud Service**
 
-    New features in Assets
+    New features in Assets:
 
     * Content Automation functionality lets Experience Manager Assets use the Adobe Creative Cloud APIs to automate asset production at scale. It improves content velocity by dramatically decreasing the time taken and iterations required to create variations of the same asset. The functionality does not require any programming and works from within the DAM. See [Generate variations of assets using Adobe Creative Cloud integration](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/cc-api-integration.html?lang=en).
     * [Adobe Asset Link 3.0](https://helpx.adobe.com/enterprise/using/adobe-asset-link.html) for Adobe Photoshop, Adobe Illustrator, and Adobe InDesign and Adobe [Adobe Asset Link 2.0](https://helpx.adobe.com/enterprise/using/adobe-asset-link-for-xd.html) for Adobe XD is available. It supports Assets Essentials and the ability to automatically connect to Experience Manager as a Cloud Service or Assets Essentials.
     * The [Asset bulk ingestor tool](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/add-assets.html?lang=en#asset-bulk-ingestor) lets you add metadata during a bulk ingestion.
 
-    New features in the Assets prerelease channel
+    New features in the Assets prerelease channel:
 
     * The view settings are enhanced to let users choose a default view and a default sorting parameter.
     * The Link share download functionality uses asynchronous downloads that boost the download speed. See [Download assets shared using link sharing](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/download-assets-from-aem.html?lang=en#link-share-download).
@@ -251,20 +234,20 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
 
   * **Experience Manager Sites as a Cloud Service**
 
-    New features
+    New features:
 
     * Publish to Preview Tier now shown as page status in Sites Admin UI.
     * Publish to Preview Tier now surfacing preview URL at the end of the action and persisting the URL in page properties for later reference.
 
   * **Experience Manager Forms as a Cloud Service**
 
-    New features
+    New features:
 
     * Metadata schemas can be applied directly to the folder properties.
     * The Asset Bulk Ingestor tool lets you add metadata during a bulk ingestion.
     * A user experience enhancement displays the number of assets present in a folder. For more than 1000 assets in a folder, Experience Manager Assets displays 1000+.
 
-    Beta feature of Forms
+    Beta feature of Forms:
 
     * **Experience Manager Forms as a Cloud Service - Communications** - Communication APIs helps you combine XDP templates and XML data to generate print documents in various formats. The service lets you generate documents in synchronous mode. The APIs enables you to create applications that let you:
       * Generate documents by populating template files with XML data.
@@ -302,14 +285,8 @@ New videos, tutorials, and courses published over the past month.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2021|[Implement the methods of the interface](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-cloud-sdk/implement-interface.html?lang=en)|Article | Learn how to implement the interface methods to create PDFs using Document Cloud REST API.  |
-|June 2021|[Create service interface](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-cloud-sdk/create-interface.html)|Article | Define the methods in the interface that you want to expose.  |
-|June 2021|[Create custom OSGi Configuration](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-cloud-sdk/create-doc-cloud-configuration.html?lang=en)|Article | Learn about custom OSGi configuration so you can capture Adobe I/O project details.  |
-|June 2021|[Create Content Analyzer](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-cloud-sdk/get-content-analyzer.html?lang=en)|Article |Learn how to create the JSON part containing the information about the input parameters to the Create PDF REST call.|
-|June 2021|[Create custom process step](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-cloud-sdk/custom-process-step.html?lang=en)|Article | View the complete code of the custom process step that converts and replaces the native files with the converted PDFs. This custom step searches for all attachments under the folder name, which is provided as a process argument in the workflow. This custom process step uses the methods of the custom `DocumentCloudSDKService` to create PDFs.  |
-|June 2021|[GraphQL Persisted Queries](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/graphql-persisted-queries.html?lang=en)|Video | Learn how to enable, create, update, and run Persisted Queries in Experience Manager.  |
-|June 2021|[Creating your first servlet in AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/create-servlet.html?lang=en)|Article | Build your first sling servlet so you can merge data with a form template.  |
-|June 2021|[Creating your first OSGi Service with Experience Manager forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/creating-your-first-osgi-bundle/create-osgi-service.html?lang=en)|Article | Build your first OSGi service with AEM Forms so you can generate PDF by merging data with template.  |
+|July 2021|[XML Documentation for Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/tutorials/overview.html?lang=en)|Article |XML Documentation for Adobe Experience Manager is a powerful, enterprise-grade component content management solution (CCMS). Learn how the XML Documentation Solution offers all the core CCMS functions, such as collaboration, review, translation, search, and reports for DITA content. These features enable authors to do more in less time through efficient content reuse and powerful workflows.|
+|July 2021|[AEM Headless GraphQL Postman Collections](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html?lang=en)|Video |Learn how to define and use Content Fragments in Adobe Experience Manager (AEM) for use with GraphQL.|
 
 {style="table-layout:auto"}
 
@@ -340,12 +317,9 @@ Find out more about the latest capabilities, improvements, and fixes released:
 
 |Published|Name|Solution|Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2021|[Integrate Campaign Standard with Analytics to optimize your email marketing](https://experienceleague.adobe.com/?recommended=Campaign-U-1-2021.1.integration)|Campaign Standard |(Course) Learn how to integrate Campaign Standard with Adobe Analytics and optimize your email marketing strategies using real-time data. This course shows you how to build a Campaign Standard report in Adobe Analytics. Then, learn how to use Experience Cloud Triggers and Platform Launch to configure marketing and transactional messages based on customer activity. |
-|June 2021 |[Adobe Campaign V8 Tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html)|Campaign V8 |This user guide contains videos and tutorials on the many features and capabilities of Adobe Campaign V8.|
-|June 2021|[Create and design email deliveries](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/email/create-and-design-email-deliveries.html)|Campaign V8 |(Video) Understand the process of creating an email delivery and learn how to design and personalize email content.|
-|June 2021|[Design emails for deliverability](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/email/design-emails-for-deliverability.html)|Campaign V8 |(Video) Learn how to apply deliverability best practices to your email deliveries.|
-|June 2021|[Manage fatigue using typology rules](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/fatigue-management/typology-rules-for-fatigue-management.html)|Campaign V8 |(Video) Learn how to implement fatigue management by applying typology rules.|
-|June 2021|[Set up fatigue management using filters](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/fatigue-management/fatigue-management-using-filters.html)|Campaign Standard |(Video) Learn how to implement fatigue management in Adobe Campaign by using filters.|
+|July 2021|[Refining targets by combining query results](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/process-management/refine-targets-by-combining-query-results.html)|Campaign v8 |Learn how to refine your target by combining query results in a workflow using the intersection or the union activities.|
+|July 2021|[Create a marketing plan, programs, and campaigns](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/getting-started/create-a-marketing-plan-programs-and-campaigns.html)|Campaign v8 |Learn how to create a marketing plan, program, and campaign, set properties for a campaign, and understand how to use the schedule.|
+|July 2021|[Configure and manage subscription services](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/configure-and-manage-subscription-services.html)|Campaign v8 |Learn how to setup and manage subscriptions and target subscribers.|
 
 {style="table-layout:auto"}
 
@@ -386,7 +360,7 @@ Last updated: **May 19, 2021, for May 18 release**
 
 See Magento Commerce and Open Source [release notes](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) for the latest release information.
 
-## ![Icon](/assets/target.png)[!DNL Target] {#target}
+## ![Icon](/assets/target.png) [!DNL Target] {#target}
 
 See [[!DNL Target] release notes](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en) for the latest release information.
 
@@ -412,7 +386,19 @@ New videos, tutorials, or courses published for Adobe Document Cloud.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2021|[Adobe Acrobat for Google Drive](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/acrobatandgoogle.html)|Video | Get access to time-saving PDF tools and e-signature workflows directly inside the Google Drive app.|
+|July 2021|[Liquid Mode in Adobe Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/liquidmode.html)|Video |Learn how Liquid Mode improves the mobile signing experience. It reduces pinching and zooming to easily focus on fillable fields..|
+|July 2021|[Getting Started with Adobe Sign API](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/signapi.html)|Article |Learn how developers can use Sign API to enhance applications and workflows created with Adobe Document Services.|
+|July 2021|[Digital Document Publishing with Adobe PDF Embed API](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/ddppdfembedapi.html)|Article |By embedding a PDF viewer in your web pages, you can enable users to view documents without redesigning your HTML and CSS or obstructing access to your website.|
+|July 2021|[Student-Teacher Collaboration with Adobe Document Services APIs](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/educationcollab.html)|Article |Learn about an official SDK for `Node.js` applications to access PDF Services API. This enables you to convert documents like Microsoft Word or Microsoft Excel to PDF.|
+|July 2021|[Job Posting with Adobe Document Services APIs](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/jobposting.html?lang=en)|Article |When operating a website with multiple users, it’s crucial to design an experience that ensures a smooth experience for everyone. Learn how to automatically convert all uploaded documents to PDFs and embed them in-line in the posting.|
+|July 2021|[Report creation and editing with Adobe Document Services APIs](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/reportcreation.html?lang=en)|Article |PDFs make it easy to share rich documents, with tables, graphics, and interactive content, in a format everyone can view. Learn how to share these statistics with their executives, shareholders, donors, or other stakeholders.|
+|July 2021|[Reviews and Approvals with Adobe Document Services APIs](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/reviews.html?lang=en)|Article |Learn how to solve a hands-on review and approval use case using several Adobe Document Services APIs.|
+|July 2021|[Searching and Indexing with Adobe Document Services APIs](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/searching.html?lang=en)|Article |This tutorial explores Adobe Document Services APIs’ fantastic features and how they can be easily used to archive and digitize documents. We explore these features by building an Express NodeJS application, then integrating Document Services APIs for archiving, digitization, and document transformation.|
+|July 2021|[Managing Employee Offer Letters with Adobe Document Services APIs](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/offer.html)|Article |This tutorial walks through setting up a Node Express project that will display a web form for a user to populate with employee details. These details will use Document Services over the web to generate an offer letter as a PDF that can subsequently be delivered to a customer for their signature using Adobe Sign API.|
+|July 2021|[Managing Legal Contracts with Adobe Document Services APIs](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/legal.html)|Article |In this tutorial, we explore the features of Adobe Document Services APIs in the generation of custom input fields in documents. We also explore how you can easily convert these generated documents to a protected portable document format (PDF) to prevent data manipulation.|
+|July 2021|[Creating an NDA with Adobe Document Services APIs](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/nda.html)|Article |Learn how to create a Microsoft Word template for your company NDA. Adobe’s free add-in for Microsoft Word, Adobe Document Generation Tagger, helps you insert “tags” to input the dynamic values. You’ll also learn how to pass the JSON data to the template and create a dynamic PDF. You can then email that PDF or show it to your collaborators in their browser, depending on your business requirements and goals.|
+|July 2021|[Managing Sales Proposals and Contracts with Adobe Document Services APIs](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/sales.html)|Article |Lean how to use dynamic data and workflows to build an efficient process for creating sales proposals.|
+|July 2021|[Handling invoices with Adobe Document Generation API](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/invoices.html?lang=en)|Article |Learn how to use Adobe Document Generation API to automatically generate invoices, password-protect the PDFs, and deliver an invoice to each customer. All it takes is a little knowledge of Node.js, JavaScript, Express.js, HTML, and CSS.|
 
 {style="table-layout:auto"}
 
