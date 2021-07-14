@@ -143,10 +143,11 @@ Release date: **June 17, 2021**
 * Fixed an issue with alerts not getting sent and errors displaying when creating new alerts. AN-263962
 * Fixed an issue with virtual report suites in Analysis workspace:  Data outside of the date range specified was extracted. AN-263121
 * Fixed an issue with Workspace projects not opening (timing out.) AN-247248
+* Fixed an issue with being unable to load report suite usage data under Server Call Usage.	AN-264215
 
 #### Additional fixes in Adobe Analytics or CJA
 
-AN-160022; AN-186365; AN-234768 (CJA); AN-253041; AN-255098; AN-256319; AN-256903; AN-257111; AN-259614; AN-259960; AN-260422; AN-260926; AN-260962; AN-261310; AN-261442; AN-261483 (CJA); AN-261589; AN-261949; AN-262025; AN-262295; AN-262330; AN-262348; AN-262356; AN-262461; AN-262462; AN-262465; AN-262888; AN-262944; AN-262952; AN-262974; AN-263027; AN-263105; AN-263175; AN-263183; AN-263244; AN-263888; AN-263953
+AN-160022; AN-186365; AN-234768 (CJA); AN-253041; AN-255098; AN-256319; AN-256566; AN-256903; AN-257111; AN-259614; AN-259960; AN-260422; AN-260926; AN-260962; AN-261310; AN-261442; AN-261483 (CJA); AN-261589; AN-261949; AN-262025; AN-262295; AN-262330; AN-262348; AN-262356; AN-262461; AN-262462; AN-262465; AN-262888; AN-262944; AN-262952; AN-262974; AN-263027; AN-263105; AN-263175; AN-263183; AN-263244; AN-263888; AN-263930; AN-263953
 
 ### Important notices for [!DNL Analytics] administrators {#aa-notices}
 
