@@ -291,8 +291,8 @@ All Experience Manager release notes are maintained at the following pages:
 * [Experience Manager Brand Portal release notes](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html?lang=en)
 * [Experience Manager desktop app release notes](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/release-notes.html?lang=en)
 * [Experience Manager Dispatcher release notes](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=en)
-* [Adobe Primetime release notes](https://docs.adobe.com/content/help/en/primetime/release-notes/home.html)
-* [Livefyre release notes](https://docs.adobe.com/content/help/en/livefyre/using/release-notes/c-rn.html)
+* [Adobe Primetime release notes](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html)
+* [Livefyre release notes](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html)
 
 ### New Experience Manager courses and tutorials {#tutorials-aem}
 
