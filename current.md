@@ -194,8 +194,7 @@ Fixes and improvements in Audience Manager.
 
 ### Fixes and Improvements {#aam-fixes-and-improvements}
 
-* Fixes
-* Fixes
+* When deleting an IMS user account from Admin Console, the user account was not removed from Audience Manager, if it was part of a user group. IMS user accounts are now automatically unmapped from Audience Manager user groups upon deletion from Admin Console. (AAM-57633)
 
 ## ![Icon](/assets/aem.png) Experience Manager {#aem}
 
