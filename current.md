@@ -230,7 +230,7 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
     * A new code quality rule has been added to validate the structure of `damAssetLucene`indexes. See [Custom DAM Asset Lucene Oak Indexes](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/test-results/custom-code-quality-rules.html?lang=en#oakpal-damAssetLucene-sanity-check).
     * Environment details page now displays multiple domain names for Publish and Preview services, as applicable. See [Environment Details](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/manage-environments.html?lang=en#viewing-environment).
 
-    * **Experience Manager Assets as a Cloud Service**
+  * **Experience Manager Assets as a Cloud Service**
 
     New features in Assets
 
