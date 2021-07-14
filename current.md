@@ -143,7 +143,7 @@ Release date: **June 17, 2021**
 * Fixed an issue with alerts not getting sent and errors displaying when creating new alerts. AN-263962
 * Fixed an issue with virtual report suites in Analysis workspace:  Data outside of the date range specified was extracted. AN-263121
 * Fixed an issue with Workspace projects not opening (timing out.) AN-247248
-* Fixed an issue with being unable to load report suite usage data under Server Call Usage.	AN-264215
+* Fixed an issue with being unable to load report suite usage data under Server Call Usage. AN-264215
 
 #### Additional fixes in Adobe Analytics or CJA
 
