@@ -95,7 +95,7 @@ New videos, tutorials, or courses published for Experience Platform and services
 
 Use Experience Platform to orchestrate a customer’s journey at scale across experience channels, by intelligently anticipating every individual’s needs in real time.
 
-* Updated June 2021 - [Journey Orchestration release notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en)
+* Updated July 2021 - [Journey Orchestration release notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en)
 
 **More resources for Journey Orchestration**
 
@@ -330,6 +330,9 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 ### Latest product releases
 
 Find out more about the latest capabilities, improvements, and fixes released:
+
+* [Campaign Standard Release Notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
+* [Campaign Classic Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
 
 ### New [!UICONTROL Campaign] courses and tutorials {#tutorials-campaign}
 
