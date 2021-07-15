@@ -22,6 +22,7 @@ Latest update: **July 14, 2021**
 * [Experience Cloud Central Interface Components](#ecloud)
 * [Adobe System Status](#status)
 * [Experience Platform](#platform)
+* [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
 * [[!DNL Analytics]](#analytics) and [Customer Journey Analytics](#cust-journey)
