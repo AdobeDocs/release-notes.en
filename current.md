@@ -73,13 +73,23 @@ New videos, tutorials, or courses published for Experience Platform and services
 
 {style="table-layout:auto"} -->
 
+## ![Icon](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
+
+With Adobe Journey Optimizer, you can manage scheduled omnichannel campaigns and one-to-one moments for millions of customers from a single application — and the entire journey is optimized with intelligent decisioning and insights.
+
+### Latest product releases
+
+Journey Optimizer is now GA. [Read more](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en).
+
+**More resources for Journey Optimizer**
+
+[Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en) - [Latest updates](https://experienceleague.adobe.com/docs/journey-optimizer/using/documentation-updates.html?lang=en) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=en)
+
 ## ![Icon](/assets/experience_platform_appicon_24.png) Journey Orchestration {#journey-orch}
 
 Use Experience Platform to orchestrate a customer’s journey at scale across experience channels, by intelligently anticipating every individual’s needs in real time.
 
 ### Latest product releases
-
-**June 2021 Release:** The integration with Campaign Classic is available. It allows you to send emails, push notifications and SMS using Adobe Campaign v7 or v8 Transactional Messaging capabilities.
 
 Find out more about the latest capabilities, improvements, and fixes in the [Journey Orchestration Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en).
 
