@@ -68,11 +68,20 @@ Includes release update information and new documentation for Experience Platfor
 * **June 30, 2021** [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
 * **May 17, 2021** [Experience Platform Data Collection release notes](https://experienceleague.adobe.com/docs/launch/using/release-notes/current.html) (formerly, Experience Platform Launch)
 
-<!-- ### Experience Platform tutorials and courses {#tutorials-platform}
+### Experience Platform tutorials and courses {#tutorials-platform}
 
 New videos, tutorials, or courses published for Experience Platform and services.
 
-{style="table-layout:auto"} -->
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|July 2021|[Model Your Customer Experience Data with XDM](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2021.1.xdm)|Course |Learn how to build your data model in Adobe Experience Platform. This course will teach you about the Experience Data Model (XDM) and how to convert your existing data model to XDM. Learn how to build schemas using standard classes and field groups and build your own custom components.|
+|July 2021|[Getting Started with Query Service for Data Engineers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2021.1.qsvc.gsde)|Course |Learn how to validate ingested data, gain insights from data stored in the data lake, and how to prepare the data for making business-critical decisions using Query Service.|
+|July 2021|[Create Dashboards Using Query Service](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2021.1.qsvc.dash)|Course |Learn how to validate ingested data, gain insights from data stored in the data lake, and create dashboards using Query Service in Adobe Experience Platform.|
+|July 2021|[Getting Started with Real-time CDP for Marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2021.1.rtcdp)|Course |In this course, you will learn everything you need to get started using Real-time Customer Data Platform (Real-time CDP) as a business practitioner.|
+|July 2021|[Getting Started with Data Science Workspace for Data Scientists](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2021.1.dsw)|Course |Learn about Data Science Workspace in Adobe Experience Platform. This course is designed for data scientists who want to learn how to use JupyterLab Notebooks to derive insights and query data, create profile-enabled datasets, publish automated machine learning models, and activate machine-learned insights to both Adobe and non-Adobe applications.|
+|July 2021|[Getting Started with Adobe Experience Platform Data Governance](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2021.1.dgov.gs)|Course |Learn how to take control of your data from the point it’s collected at data sources to when it's syndicated to destinations outside Adobe Experience Platform. This course will help you get started with this powerful capability.|
+
+{style="table-layout:auto"}
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
 
