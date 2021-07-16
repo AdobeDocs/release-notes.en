@@ -7,7 +7,7 @@ author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 ---
-# INTERNAL REVIEW - Adobe Experience Cloud Release Notes - July 2021 
+# Adobe Experience Cloud Release Notes - July 2021 
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
@@ -74,12 +74,12 @@ New videos, tutorials, or courses published for Experience Platform and services
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|July 2021|[Model Your Customer Experience Data with XDM](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2021.1.xdm)|Course |Learn how to build your data model in Adobe Experience Platform. This course will teach you about the Experience Data Model (XDM) and how to convert your existing data model to XDM. Learn how to build schemas using standard classes and field groups and build your own custom components.|
+|July 2021|[Model Your Customer Experience Data with XDM](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2021.1.xdm)|Course |Learn how to build your data model in Adobe Experience Platform. This course teaches you about the Experience Data Model (XDM) and how to convert your existing data model to XDM. Learn how to build schemas using standard classes and field groups and build your own custom components.|
 |July 2021|[Getting Started with Query Service for Data Engineers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2021.1.qsvc.gsde)|Course |Learn how to validate ingested data, gain insights from data stored in the data lake, and how to prepare the data for making business-critical decisions using Query Service.|
 |July 2021|[Create Dashboards Using Query Service](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2021.1.qsvc.dash)|Course |Learn how to validate ingested data, gain insights from data stored in the data lake, and create dashboards using Query Service in Adobe Experience Platform.|
-|July 2021|[Getting Started with Real-time CDP for Marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2021.1.rtcdp)|Course |In this course, you will learn everything you need to get started using Real-time Customer Data Platform (Real-time CDP) as a business practitioner.|
-|July 2021|[Getting Started with Data Science Workspace for Data Scientists](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2021.1.dsw)|Course |Learn about Data Science Workspace in Adobe Experience Platform. This course is designed for data scientists who want to learn how to use JupyterLab Notebooks to derive insights and query data, create profile-enabled datasets, publish automated machine learning models, and activate machine-learned insights to both Adobe and non-Adobe applications.|
-|July 2021|[Getting Started with Adobe Experience Platform Data Governance](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2021.1.dgov.gs)|Course |Learn how to take control of your data from the point it’s collected at data sources to when it's syndicated to destinations outside Adobe Experience Platform. This course will help you get started with this powerful capability.|
+|July 2021|[Getting Started with Real-time CDP for Marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2021.1.rtcdp)|Course |In this course, you can learn everything you need to get started using Real-time Customer Data Platform (Real-time CDP) as a business practitioner.|
+|July 2021|[Getting Started with Data Science Workspace for Data Scientists](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2021.1.dsw)|Course |Learn about Data Science Workspace in Adobe Experience Platform. This course is designed for data scientists who want to learn how to use [!DNL JupyterLab] Notebooks to derive insights and query data, create profile-enabled datasets, publish automated machine learning models, and activate machine-learned insights to both Adobe and non-Adobe applications.|
+|July 2021|[Getting Started with Adobe Experience Platform Data Governance](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2021.1.dgov.gs)|Course |Learn how to take control of your data from the point it’s collected at data sources to when it's syndicated to destinations outside Adobe Experience Platform.|
 
 {style="table-layout:auto"}
 
@@ -89,7 +89,7 @@ With Adobe Journey Optimizer, you can manage scheduled omnichannel campaigns and
 
 ### Latest product releases
 
-Journey Optimizer is now GA. [Read more](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en).
+* Journey Optimizer is now available. [Read more](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en).
 
 **More resources for Journey Optimizer**
 
@@ -98,8 +98,6 @@ Journey Optimizer is now GA. [Read more](https://experienceleague.adobe.com/docs
 ## ![Icon](/assets/experience_platform_appicon_24.png) Journey Orchestration {#journey-orch}
 
 Use Experience Platform to orchestrate a customer’s journey at scale across experience channels, by intelligently anticipating every individual’s needs in real time.
-
-### Latest product releases
 
 Find out more about the latest capabilities, improvements, and fixes in the [Journey Orchestration Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en).
 
@@ -111,7 +109,7 @@ Find out more about the latest capabilities, improvements, and fixes in the [Jou
 
 [!UICONTROL Offer Decisioning] is an Application Service integrated with Adobe Experience Platform. Use [!UICONTROL Offer Decisioning] to deliver the best offer and experience to your customers across all touch points at the right time.
 
-**June 2021 Release:** AI ranking allows you to create different ranking strategies (based on your business goals) that will be used by a trained model system to rank the eligible offers to display for a given profile.
+* **June 2021 Release:** AI ranking allows you to create different ranking strategies (based on your business goals) that will be used by a trained model system to rank the eligible offers to display for a given profile.
 
 See [Offer Decisioning release notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html?lang=en#new) to stay up-to-date.
 
@@ -148,10 +146,10 @@ Release date: **June 17, 2021**
 
 ### Fixes in Adobe Analytics {#aa-fixes}
 
-* Fixed an issue with alerts not getting sent and errors displaying when creating new alerts. (AN-263962)
-* Fixed an issue with virtual report suites in Analysis workspace:  Data outside of the date range specified was extracted. (AN-263121)
+* Fixed an issue with alerts not being sent and errors displaying when creating new alerts. (AN-263962)
+* Fixed an issue with virtual report suites in Analysis Workspace: Data outside of the date range specified was extracted. (AN-263121)
 * Fixed an issue with Workspace projects not opening (timing out.) (AN-247248)
-* Fixed an issue with being unable to load report suite usage data under Server Call Usage. (AN-264215)
+* Fixed an issue with being unable to load report suite usage data under [!UICONTROL Server Call Usage]. (AN-264215)
 
 #### Additional fixes in Adobe Analytics or CJA
 
@@ -208,7 +206,7 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
 
 * **Experience Manager as a Cloud Service**
 
-    What is new on Experience Manager as a Cloud Service?
+    New features in Experience Manager as a Cloud Service:
 
   * **XML Documentation for Adobe Experience Manager as a Cloud Service**
 
@@ -218,11 +216,11 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
 
   * **Experience Manager as a Cloud Service**
 
-    * Preview Service is deployed on a rolling basis to all Programs. Customers are notified in-product when their Program is enabled for Preview Service. See [Accessing Preview Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/manage-environments.html?lang=en#access-preview-service).
+    * [!UICONTROL Preview Service] is deployed on a rolling basis to all Programs. Customers are notified in-product when their Program is enabled for [!UICONTROL Preview Service]. See [Accessing Preview Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/manage-environments.html?lang=en#access-preview-service).
     * Maven Dependencies downloaded during the build step are now be cached between pipeline runs. This feature will be enabled for customers in the next several weeks.
-    * The name of the program can now be edited through the edit program dialog.
-    * The default branch name used during both project creation and in the default Push command by way of manage git workflows has been changed to `main`.
-    * Edit program experience in the UI has been refreshed.
+    * You can now edit the name of the program through the [!UICONTROL Edit Program] dialog.
+    * The default branch name used during both project creation and in the default [!UICONTROL Push] command by way of manage git workflows has been changed to `main`.
+    * Edit program experience in the interface has been refreshed.
     * The quality rule `ImmutableMutableMixCheck` has been updated to classify `/oak:index` nodes as being immutable.
     * The quality rules `CQBP-84andCQBP-84--dependencies` have been consolidated into a single rule. As part of this consolidation, the scanning of dependencies more accurately identifies issues in third-party dependencies which are being deployed to the Experience Manager runtime.
     * To avoid confusion, the Publish Experience Manager and Publish Dispatcher segment rows on the Environment Details page have been consolidated.
@@ -233,16 +231,16 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
 
     New features in Assets:
 
-    * Content Automation functionality lets Experience Manager Assets use the Adobe Creative Cloud APIs to automate asset production at scale. It improves content velocity by dramatically decreasing the time taken and iterations required to create variations of the same asset. The functionality does not require any programming and works from within the DAM. See [Generate variations of assets using Adobe Creative Cloud integration](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/cc-api-integration.html?lang=en).
+    * [!UICONTROL Content Automation] functionality lets Experience Manager Assets use the Adobe Creative Cloud APIs to automate asset production at scale. It improves content velocity by dramatically decreasing the time taken and iterations required to create variations of the same asset. The functionality does not require any programming and works from within the DAM. See [Generate variations of assets using Adobe Creative Cloud integration](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/cc-api-integration.html?lang=en).
     * [Adobe Asset Link 3.0](https://helpx.adobe.com/enterprise/using/adobe-asset-link.html) for Adobe Photoshop, Adobe Illustrator, and Adobe InDesign and Adobe [Adobe Asset Link 2.0](https://helpx.adobe.com/enterprise/using/adobe-asset-link-for-xd.html) for Adobe XD is available. It supports Assets Essentials and the ability to automatically connect to Experience Manager as a Cloud Service or Assets Essentials.
     * The [Asset bulk ingestor tool](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/add-assets.html?lang=en#asset-bulk-ingestor) lets you add metadata during a bulk ingestion.
 
     New features in the Assets prerelease channel:
 
-    * The view settings are enhanced to let users choose a default view and a default sorting parameter.
-    * The Link share download functionality uses asynchronous downloads that boost the download speed. See [Download assets shared using link sharing](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/download-assets-from-aem.html?lang=en#link-share-download).
-    * Users can search and filter the folders based on property predicates.
-    * Experience Manager Assets embeds the PDF Viewer to preview the supported document formats. It is powered by Adobe Document Cloud. This feature lets users preview PDF and other multi-page files without any complex processing. It improves the feature parity with Experience Manager 6.5. The controls available in the preview are to zoom, to navigate to pages, to undock controls, and to view in full screen. The integrated PDF viewer supports AI, DOCX, INDD, PDF, and PSD file formats. You can comment on the asset itself but commenting and annotations within the PDF file are not supported.
+    * The view settings are enhanced to let you choose a default view and a default sorting parameter.
+    * The [!UICONTROL Link Share] download functionality uses asynchronous downloads that boost the download speed. See [Download assets shared using link sharing](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/download-assets-from-aem.html?lang=en#link-share-download).
+    * You can search and filter the folders based on property predicates.
+    * Experience Manager Assets embeds the PDF Viewer to preview the supported document formats. It is powered by Adobe Document Cloud. This feature lets you preview PDF and other multi-page files without any complex processing. It improves the feature parity with Experience Manager 6.5. The controls available in the preview are to zoom, to navigate to pages, to un-dock controls, and to view in full screen. The integrated PDF viewer supports AI, DOCX, INDD, PDF, and PSD file formats. You can comment on the asset itself but commenting and annotations within the PDF file are not supported.
     * A user experience enhancement displays the number of assets present in a folder. For more than 1000 assets in a folder, Assets displays 1000+.
     * You can directly apply a metadata schema to a folder in its Properties.
 
@@ -299,7 +297,7 @@ New videos, tutorials, and courses published over the past month.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|July 2021|[XML Documentation for Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/tutorials/overview.html?lang=en)|Article |XML Documentation for Adobe Experience Manager is a powerful, enterprise-grade component content management solution (CCMS). Learn how the XML Documentation Solution offers all the core CCMS functions, such as collaboration, review, translation, search, and reports for DITA content. These features enable authors to do more in less time through efficient content reuse and powerful workflows.|
+|July 2021|[XML Documentation for Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/tutorials/overview.html?lang=en)|Article |Learn how the [!UICONTROL XML Documentation Solution] offers all the core CCMS functions, such as collaboration, review, translation, search, and reports for DITA content. These features enable authors to do more in less time through efficient content reuse and powerful workflows.|
 |July 2021|[AEM Headless GraphQL Postman Collections](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html?lang=en)|Video |Learn how to define and use Content Fragments in Adobe Experience Manager (AEM) for use with GraphQL.|
 
 {style="table-layout:auto"}
