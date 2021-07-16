@@ -17,7 +17,7 @@ Experience Cloud applications and services are updated monthly. This page is you
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Latest update: **July 14, 2021**
+Latest update: **July 16, 2021**
 
 * [Experience Cloud Central Interface Components](#ecloud)
 * [Adobe System Status](#status)
@@ -119,7 +119,7 @@ See [Offer Decisioning release notes](https://experienceleague.adobe.com/docs/of
 
 ## ![Icon](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-Release date: **June 17, 2021**
+Release date: **July 22, 2021**
 
 * [New features in Adobe Analytics](#aa-features)
 * [New features in Customer Journey Analytics](#cust-journey)
