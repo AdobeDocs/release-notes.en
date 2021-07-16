@@ -400,7 +400,7 @@ New videos, tutorials, or courses published for Adobe Document Cloud.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|July 2021|[Liquid Mode in Adobe Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/liquidmode.html)|Video |Learn how Liquid Mode improves the mobile signing experience. It reduces pinching and zooming to easily focus on fillable fields..|
+|July 2021|[Liquid Mode in Adobe Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/liquidmode.html)|Video |Learn how Liquid Mode improves the mobile signing experience. It reduces pinching and zooming to easily focus on fillable fields.|
 |July 2021|[Getting Started with Adobe Sign API](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/signapi.html)|Article |Learn how developers can use Sign API to enhance applications and workflows created with Adobe Document Services.|
 |July 2021|[Digital Document Publishing with Adobe PDF Embed API](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/ddppdfembedapi.html)|Article |By embedding a PDF viewer in your web pages, you can enable users to view documents without redesigning your HTML and CSS or obstructing access to your website.|
 |July 2021|[Student-Teacher Collaboration with Adobe Document Services APIs](https://experienceleague.adobe.com/docs/document-services/tutorials/usecases/educationcollab.html)|Article |Learn about an official SDK for `Node.js` applications to access PDF Services API. This enables you to convert documents like Microsoft Word or Microsoft Excel to PDF.|
