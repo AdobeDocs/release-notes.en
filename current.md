@@ -178,7 +178,7 @@ New courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Custome
 | -----------| ---------- | ---------- | ---------- |
 |July 2021|[Using the Donut visualization in your project](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-the-donut-visualization.html?lang=en)|Video |Learn how to add and configure the Donut visualization in your Analysis Workspace project.|
 |July 2021|[Bar and Bar Stacked Visualizations](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.html?lang=en)|Video |In this video, we discuss adding and configuring the Bar, Bar stacked, Horizontal Bar, and Horizontal bar stacked visualizations in your project in Analysis Workspace. Although considered basic, these visualizations can help tell your data stories and provide insights for your analysts.|
-|July 2021|[Area and Area Stacked](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/area-and-area-stacked.html)|Video |Learn how to add Area and Area Stacked visualizations to your project in Analysis Workspace, and learn a few tips to help customize the visualizations for your needs.|
+|July 2021|[Area and Area Stacked](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/area-and-area-stacked.html)|Video |Learn how to add Area and Area Stacked visualizations to your project in Analysis Workspace, and learn a few tips to help customize the visualizations for your needs. |
 
 {style="table-layout:auto"}
 
