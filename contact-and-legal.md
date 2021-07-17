@@ -3,7 +3,6 @@ description: Information to help you contact Adobe and understand the legal issu
 keywords: dynamic tag management;release notes
 seo-description: Information to help you contact Adobe and understand the legal issues concerning your use of this product and documentation.
 seo-title: Contact and Legal Information
-solution: Experience Cloud
 title: Contact and Legal Information
 uuid: be6810fd-8a50-4e88-af09-ab00187e4082
 internal: n
