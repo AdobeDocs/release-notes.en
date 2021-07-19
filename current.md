@@ -248,6 +248,7 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 Find out more about the latest capabilities, improvements, and fixes released:
 
+* ![Campaign v8 documentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html)
 * [Campaign Standard Release Notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
 * [Campaign Classic Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
 
