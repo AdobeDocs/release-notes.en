@@ -196,7 +196,7 @@ Fixes and improvements in Audience Manager.
 
 ## ![Icon](/assets/aem.png) Experience Manager {#aem}
 
-Adobe recommends visiting the [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) frequently page to stay current on release information.
+Adobe recommends frequently visiting [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) to stay current on release information.
 
 ### Experience Manager release information {#aem-links}
 
