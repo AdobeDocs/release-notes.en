@@ -17,7 +17,7 @@ Experience Cloud applications and services are updated monthly. This page is you
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Latest update: **July 19, 2021**
+Latest update: **July 20, 2021**
 
 * [Experience Cloud Central Interface Components](#ecloud)
 * [Adobe System Status](#status)
@@ -269,6 +269,17 @@ Adobe recommends frequently visiting [Experience Manager release updates and roa
     * Device heath snapshot saves time by providing critical status as a glance.
     * Object details page offers a summary of the most relevant information for each object in your project.
 
+### New Experience Manager courses and tutorials {#tutorials-aem}
+
+New videos, tutorials, and courses published over the past month.
+
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|July 2021|[XML Documentation for Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/tutorials/overview.html?lang=en)|Article |Learn how the [!UICONTROL XML Documentation Solution] offers all the core CCMS functions, such as collaboration, review, translation, search, and reports for DITA content. These features enable authors to do more in less time through efficient content reuse and powerful workflows.|
+|July 2021|[AEM Headless GraphQL Postman Collections](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html?lang=en)|Video |Learn how to define and use Content Fragments in Adobe Experience Manager (AEM) for use with GraphQL.|
+
+{style="table-layout:auto"}
+
 ### Experience Manager release information {#aem-links}
 
 Release notes and other release information links for Experience Manager are here:
@@ -285,17 +296,6 @@ Release notes and other release information links for Experience Manager are her
 * [Experience Manager Dispatcher release notes](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=en)
 * [Adobe Primetime release notes](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html)
 * [Livefyre release notes](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html)
-
-### New Experience Manager courses and tutorials {#tutorials-aem}
-
-New videos, tutorials, and courses published over the past month.
-
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|July 2021|[XML Documentation for Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/tutorials/overview.html?lang=en)|Article |Learn how the [!UICONTROL XML Documentation Solution] offers all the core CCMS functions, such as collaboration, review, translation, search, and reports for DITA content. These features enable authors to do more in less time through efficient content reuse and powerful workflows.|
-|July 2021|[AEM Headless GraphQL Postman Collections](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html?lang=en)|Video |Learn how to define and use Content Fragments in Adobe Experience Manager (AEM) for use with GraphQL.|
-
-{style="table-layout:auto"}
 
 ### Other help resources for Experience Manager
 
