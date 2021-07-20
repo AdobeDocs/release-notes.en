@@ -208,6 +208,8 @@ Adobe recommends frequently visiting [Experience Manager release updates and roa
     * **AI-powered documentation** - Smart tagging capability for automatically identifying and extracting relevant metadata keywords from the text for metadata labelling.
     * **New look and feel for web editor** - New look and feel with UI changes making it more intuitive. Underlying architecture has been changed from coral to react based spectrum.
 
+    Visit [XML Documentation for Adobe Experience Manager](https://www.adobe.com/products/xml-documentation-for-experience-manager.html) for more information.
+
   * **Cloud Manager in AEM as a Cloud Service**
 
     * [!UICONTROL Preview Service] is deployed on a rolling basis to all Programs. Customers are notified in-product when their Program is enabled for [!UICONTROL Preview Service]. See [Accessing Preview Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/manage-environments.html?lang=en#access-preview-service).
