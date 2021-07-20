@@ -31,7 +31,7 @@ Latest update: **July 20, 2021**
 * [[!DNL Campaign]](#ac)
 * [[!DNL Advertising]](#adcloud)
 * [[!DNL Target]](#target)
-* [[!DNL Magento]](#magento)
+* [[!DNL Commerce]] ((#magento)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
 * [Document Cloud](#doc-cloud)
@@ -365,9 +365,12 @@ Last updated: **May 19, 2021, for May 18 release**
 
 {style="table-layout:auto"}
 
-## ![Icon](/assets/magento.png) [!DNL Magento] {#magento}
+## ![Icon](/assets/magento.png) [!DNL Commerce] (Magento) {#magento}
 
-See Magento Commerce and Open Source [release notes](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) for the latest release information.
+See the following links for Adobe Commerce release notes:
+
+* [Magento Commerce and Open Source](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
+* [Cloud Suite](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
 
 ## ![Icon](/assets/target.png) [!DNL Target] {#target}
 
