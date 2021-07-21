@@ -31,7 +31,7 @@ Latest update: **July 20, 2021**
 * [[!DNL Campaign]](#ac)
 * [[!DNL Advertising]](#adcloud)
 * [[!DNL Target]](#target)
-* [[!DNL Commerce]] ((#magento)
+* [[!DNL Commerce]](#magento) (Magento)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
 * [Document Cloud](#doc-cloud)
