@@ -17,8 +17,9 @@ Experience Cloud applications and services are updated monthly. This page is you
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Latest update: **July 20, 2021**
+Latest update: **July 22, 2021**
 
+* [Event notice for Experience League Live](#events) - **July 29, 2021**
 * [Experience Cloud Central Interface Components](#ecloud)
 * [Adobe System Status](#status)
 * [Experience Platform](#platform)
@@ -121,6 +122,7 @@ See [Offer Decisioning release notes](https://experienceleague.adobe.com/docs/of
 
 Release date: **July 22, 2021**
 
+* [Event notice for Experience League Live](#events)
 * [New features in Adobe Analytics](#aa-features)
 * [New features in Customer Journey Analytics](#cust-journey) (Updated July 19, 2021)
 * [Fixes in Adobe Analytics](#aa-fixes)
@@ -128,7 +130,7 @@ Release date: **July 22, 2021**
 * [Analytics courses and tutorials](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
-### Event notice for Experience League Live - Analytics Implementation
+## Event notice for Experience League Live - Analytics Implementation {#events}
 
 Join us to hear concrete tips every Adobe Analytics implementation team should know—and have your questions answered by Eric Matisoff in the chat pod. This is a live event, so there’s no need to register ahead of time, but make sure to put it on your calendar so you don’t miss out!
 
