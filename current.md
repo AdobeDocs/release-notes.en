@@ -17,14 +17,6 @@ Experience Cloud applications and services are updated monthly. This page is you
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-## Experience League Live
-
-[Adobe Analytics Implementation - Tips and Tricks](https://www.youtube.com/watch?v=lxOvLCzEGBI)
-
-You’ve seen him on-stage at Summit. You’ve heard him share expert advice at Adobe Insider Tours. You may have even had the benefit of working with him on your own Adobe Analytics implementation. Now, Eric Matisoff is bringing his Three Favorite Adobe Analytics Implementation Tips  to this exclusive Experience League Live discussion. 
-
-Join us to hear concrete tips every Adobe Analytics implementation team should know—and have your questions answered by Eric in the chat pod. This is a live event, so there’s no need to register ahead of time, but make sure to put it on your calendar so you don’t miss out!
-
 Latest update: **July 20, 2021**
 
 * [Experience Cloud Central Interface Components](#ecloud)
@@ -140,7 +132,7 @@ Release date: **July 22, 2021**
 
 Join us to hear concrete tips every Adobe Analytics implementation team should know—and have your questions answered by Eric Matisoff in the chat pod. This is a live event, so there’s no need to register ahead of time, but make sure to put it on your calendar so you don’t miss out!
 
-[Adobe Analytics Implementation - Tips and Tricks](https://www.youtube.com/watch?v=lxOvLCzEGBI)
+**Event:** [Adobe Analytics Implementation - Tips and Tricks](https://www.youtube.com/watch?v=lxOvLCzEGBI)
 
 **When:** July 29, 2021 at 9:00 a.m. PDT
 
