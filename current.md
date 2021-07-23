@@ -67,7 +67,7 @@ The most recent updates to Adobe System Status are found at [Adobe System Status
 Includes release update information and new documentation for Experience Platform and Experience Platform Launch.
 
 * **June 30, 2021** [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
-* **May 17, 2021** [Experience Platform Data Collection release notes](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html) (formerly, Experience Platform Launch)
+* **May 17, 2021** [Experience Platform Tags release notes](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html) (formerly, Experience Platform Launch)
 
 ### Experience Platform tutorials and courses {#tutorials-platform}
 
