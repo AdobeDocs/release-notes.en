@@ -17,7 +17,7 @@ Experience Cloud applications and services are updated monthly. This page is you
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Latest update: **July 22, 2021**
+Latest update: **August 3, 2021**
 
 * [Event notice for Experience League Live](#events) - **July 29, 2021**
 * [Experience Cloud Central Interface Components](#ecloud)
@@ -26,7 +26,7 @@ Latest update: **July 22, 2021**
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
-* [[!DNL Analytics]](#analytics) and [Customer Journey Analytics](#cust-journey) (Updated July 19, 2021)
+* [[!DNL Analytics]](#analytics) and [Customer Journey Analytics](#cust-journey) **(Updated August 3, 2021)**
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
