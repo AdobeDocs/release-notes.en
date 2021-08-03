@@ -17,7 +17,7 @@ Experience Cloud applications and services are updated monthly. This page is you
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Latest update: **July 22, 2021**
+Latest update: **August 3, 2021**
 
 * [Event notice for Experience League Live](#events) - **July 29, 2021**
 * [Experience Cloud Central Interface Components](#ecloud)
@@ -26,7 +26,7 @@ Latest update: **July 22, 2021**
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
-* [[!DNL Analytics]](#analytics) and [Customer Journey Analytics](#cust-journey) (Updated July 19, 2021)
+* [[!DNL Analytics]](#analytics) and [Customer Journey Analytics](#cust-journey) **(Updated August 3, 2021)**
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
@@ -126,7 +126,7 @@ Release date: **July 22, 2021**
 * [New features in Adobe Analytics](#aa-features)
 * [New features in Customer Journey Analytics](#cust-journey) (Updated July 19, 2021)
 * [Fixes in Adobe Analytics](#aa-fixes)
-* [Important notices for Analytics administrators](#aa-notices)
+* [Important notices for Analytics administrators](#aa-notices)(Updated August 3, 2021)
 * [Analytics courses and tutorials](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -175,8 +175,8 @@ AN-160022; AN-186365; AN-234768 (CJA); AN-253041; AN-255098; AN-256319; AN-25656
 
 | Notice | Date Added or Updated  | Description |
 | ----------- | ---------- | ---------- |
+| EOL of Adobe Data Connectors | August 3, 2021 | Adobe [!UICONTROL Data Connectors] are powered by legacy technology that is no longer viable or supported. A new standard is available in the [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud). You can use that standard for any integration to continue to be offered and supported. The official end-of-life date is **August 19, 2021**. [Learn more...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=en) |
 | End-of-life for three Analytics API services | July 15, 2021| On **August 18, 2021**, the following Analytics Legacy API services will reach their end-of-life date and will be shut down. Any current integrations built using these services will stop working on that day.<ul><li>1.3 Analytics APIs</li><li>1.4 SOAP Analytics APIs</li><li>Legacy OAuth Authentication (OAuth and JWT)</li></ul>Adobe has provided a [Legacy API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) to help answer your questions and provide guidance on how to proceed. API integrations that employ these services can migrate to the [1.4 Analytics REST APIs](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) or the [2.0 Analytics APIs](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth accounts can migrate to an [Adobe I/O](https://console.adobe.io/home?mv=email#) Analytics integration account, which can be used to access both the 1.4 Analytics APIs and 2.0 Analytics APIs. |
-| EOL of Adobe Data Connectors | July 13, 2020 | Adobe [!UICONTROL Data Connectors] are powered by legacy technology that is no longer viable or supported. A new standard is available in the [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud). You can use that standard for any integration to continue to be offered and supported. The official end-of-life date is **August 1, 2021**. [Learn more...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=en) |
 | EOL of Full Processing Data Sources | April 12, 2021 | Adobe plans to deprecate full processing data sources **on July 31, 2021**. As of March 25, 2021, new imports of this type can no longer be created. Please use [Bulk Data Insertion API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) to import this type of data. |
 |Sign in update to [!UICONTROL Report Builder] | April 9, 2021 | On January 14, 2021, the [!UICONTROL Report Builder] sign-in updates removed dependencies on legacy technologies and aligned the sign-in process with Experience Cloud. Experience Cloud uses your Enterprise ID (email and password). To ensure uninterrupted access to [!UICONTROL Report Builder], update the [!UICONTROL Report Builder] add-in to version 5.6.47 or later **by July 22, 2021**. Report Builder version 5.6.47 and later supports only the Experience Cloud sign-in and will not support single sign-on.|
 
