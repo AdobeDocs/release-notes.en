@@ -206,7 +206,7 @@ Fixes and improvements in Audience Manager.
 
 ### Fixes and Improvements {#aam-fixes-and-improvements}
 
-* When deleting an IMS user account from Admin Console, the user account was not removed from Audience Manager, if it was part of a user group. IMS user accounts are now automatically unmapped from Audience Manager user groups upon deletion from Admin Console. (AAM-57633)
+* Fixed an issue reported by customers using the [Bulk Management tools](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html). Customers were experiencing errors due to the `traitAlias` field, when updating the segment-to-destination mappings. (AAM-58789)
 
 ## ![Icon](/assets/aem.png) Experience Manager {#aem}
 
