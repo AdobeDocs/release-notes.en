@@ -89,17 +89,17 @@ With Adobe Journey Optimizer, you can manage scheduled omnichannel campaigns and
 
 ### Latest Journey Optimizer product releases
 
-* **July 2021:** Journey Optimizer is now available. [Read more](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en).
+Find out more about the latest capabilities, improvements, and fixes in the [Journey Orchestration Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=en).
 
 **More resources for Journey Optimizer**
 
-[Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en) - [Latest updates](https://experienceleague.adobe.com/docs/journey-optimizer/using/documentation-updates.html?lang=en) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=en)
+[Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html?lang=en) - [Latest updates](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html?lang=en) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html?lang=en)
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Journey Orchestration {#journey-orch}
 
 Use Experience Platform to orchestrate a customer’s journey at scale across experience channels, by intelligently anticipating every individual’s needs in real time.
 
-Find out more about the latest capabilities, improvements, and fixes in the [Journey Orchestration Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en).
+* Updated July 2021 - Journey Orchestration [Journey Orchestration Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en)
 
 **More resources for Journey Orchestration**
 
@@ -333,7 +333,7 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 Find out more about the latest capabilities, improvements, and fixes released:
 
-* [Campaign v8 Release Notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html?lang=en)
+* Adobe Campaign Classic v8 8.1.14 release: Learn more in the [Campaign Classic v8 Release Notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/release-notes.html?lang=en)
 * [Campaign Standard Release Notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
 * [Campaign Classic Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
 
