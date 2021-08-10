@@ -26,7 +26,7 @@ Latest update: **August 3, 2021**
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
-* [[!DNL Analytics]](#analytics) and [Customer Journey Analytics](#cust-journey) **(Updated August 3, 2021)**
+* [[!DNL Analytics]](#analytics) and [Customer Journey Analytics](#cust-journey) **(Updated August 10, 2021)**
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
@@ -124,7 +124,7 @@ Release date: **July 22, 2021**
 
 * [Event notice for Experience League Live](#events)
 * [New features in Adobe Analytics](#aa-features)
-* [New features in Customer Journey Analytics](#cust-journey) (Updated July 19, 2021)
+* [New features in Customer Journey Analytics](#cust-journey) (Updated August 10, 2021)
 * [Fixes in Adobe Analytics](#aa-fixes)
 * [Important notices for Analytics administrators](#aa-notices)(Updated August 3, 2021)
 * [Analytics courses and tutorials](#tutorials-analytics)
@@ -156,7 +156,7 @@ Join us to hear concrete tips every Adobe Analytics implementation team should k
 
 | Feature | Description | [General Availability](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Target Date | 
 | ----------- | ---------- | ----- |
-| New Connections Info experience | This Connections UI enhancement lets you know whether and when your data is ready to be used in reporting. It also lets you track any issues with processing data. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=en)| August 10, 2021 |
+| New Connections Info experience | This Connections UI enhancement lets you know whether and when your data is ready to be used in reporting. It also lets you track any issues with processing data. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=en)| August 19, 2021 |
 
 {style="table-layout:auto"}
 
