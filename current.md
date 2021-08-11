@@ -352,11 +352,11 @@ Last updated: **June 10, 2021 for June 16 release**
 
 ### New features in [!DNL Advertising Search] {#adcloud-search}
 
-Last updated: **May 19, 2021, for May 18 release**
+Last updated: **For July 24 release**
 
 | Feature    | Description  |
 | -----------| ---------- |
-| [!UICONTROL Notification Center Beta]| The [!UICONTROL Notification Center Beta] is available to all users. Use it subscribe to email and web notifications about account authentication errors, custom alerts that are triggered, and completion of the [!UICONTROL Advertising Insights] you generate.<br>You can view your notifications from either:<ul><li>The [!UICONTROL Notifications] panel, which opens from the Notifications link in the upper right of any page.</li><li>The [!UICONTROL Notification Center] at [!UICONTROL Insights & Reports >Notification Center Beta].</li></ul><br><b>Note:</b> Because of improvements to how notifications are stored, all existing notifications were cleared. |
+| [!UICONTROL Tools] | If your advertiser account is configured to use hybrid optimization, then Advertising Cloud can optionally upload the account's objectives to Google Ads and Microsoft Ads as conversions so you can use them for hybrid optimization. You can enable the feature from [!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Conversion Upload Setup]. |
 
 {style="table-layout:auto"}
 
