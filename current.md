@@ -30,7 +30,7 @@ Latest update: **August 3, 2021**
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
-* [[!DNL Advertising]](#adcloud)
+* [[!DNL Advertising Cloud]](#adcloud)
 * [[!DNL Target]](#target)
 * [[!DNL Commerce]](#magento) (Magento)
 * [[!DNL Marketo Engage]](#marketo)
@@ -356,30 +356,30 @@ Find out more about the latest capabilities, improvements, and fixes released:
 * Adobe Campaign Classic: [Help Center](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=en) - [Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en) - [How-to videos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=en)- [Latest documentation updates](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html?lang=en)
 * Adobe Campaign Control Panel: [Documentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en) - [Release Notes](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en) - How-to-videos for [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=en) / [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=en)
 
-## ![Icon](/assets/advertising-cloud.png) Advertising {#adcloud}
+## ![Icon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
-Release notes for [!DNL Adobe Advertising].
+Release notes for [!DNL Adobe Advertising Cloud].
 
-* [New features in Advertising DSP](#adcloud-dsp)
-* [New features in Advertising Search](#adcloud-search)
+* [New features in Advertising Cloud DSP](#adcloud-dsp)
+* [New features in Advertising Cloud Search](#adcloud-search)
 
-### New features in [!DNL Advertising DSP] {#adcloud-dsp}
+### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
 Last updated: **June 10, 2021 for June 16 release**
 
-| Feature    | Description  |
-| -----------| ---------- |
-| Campaign Management | (June 16 release) Forecasting is available for standard display placements  with placement-level pacing and budgets. |
+| Feature | Description |
+| ------- | ----------- |
+| Campaign Management | (June 16 release) Forecasting is available for standard display placements with placement-level pacing and budgets. |
 
 {style="table-layout:auto"}
 
-### New features in [!DNL Advertising Search] {#adcloud-search}
+### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Last updated: **May 19, 2021, for May 18 release**
+Last updated: **For July 24 release**
 
-| Feature    | Description  |
-| -----------| ---------- |
-| [!UICONTROL Notification Center Beta]| The [!UICONTROL Notification Center Beta] is available to all users. Use it subscribe to email and web notifications about account authentication errors, custom alerts that are triggered, and completion of the [!UICONTROL Advertising Insights] you generate.<br>You can view your notifications from either:<ul><li>The [!UICONTROL Notifications] panel, which opens from the Notifications link in the upper right of any page.</li><li>The [!UICONTROL Notification Center] at [!UICONTROL Insights & Reports >Notification Center Beta].</li></ul><br><b>Note:</b> Because of improvements to how notifications are stored, all existing notifications were cleared. |
+| Feature | Description |
+| ------- | ----------- |
+| [!UICONTROL Tools] | If your advertiser account is configured to use hybrid optimization, then Advertising Cloud can optionally upload the account's objectives to Google Ads and Microsoft Ads as conversions so you can use them for hybrid optimization. You can enable the feature from [!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Conversion Upload Setup]. |
 
 {style="table-layout:auto"}
 
