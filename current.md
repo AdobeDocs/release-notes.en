@@ -17,10 +17,9 @@ Experience Cloud applications and services are updated monthly. This page is you
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Latest update: **August 10, 2021**
+Latest update: **August 11, 2021**
 
 * [Experience Cloud Central Interface Components](#ecloud)
-* [Adobe System Status](#status)
 * [Experience Platform](#platform)
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
@@ -45,7 +44,7 @@ Experience Cloud Central Interface Components includes updates accessed from the
 
 | Feature | Date |Description |
 | ------- | ------- | -------|
-|Feature |Date|Description |
+|[!UICONTROL Unified Recents] - Extended support for recently accessed business objects|August 10, 2021|[!UICONTROL Unified Recents] is extended to additional business objects in Journey Optimizer and Experience Platform. Journey Optimizer customers can find their recently accessed objects (Messages, Journeys, Segments, Schemas, Datasets, Data Sources, Events, Actions, Sources, and Destinations) from Adobe Journey Optimizer Home page. |
 
 {style="table-layout:auto"}
 
@@ -55,18 +54,12 @@ Experience Cloud Central Interface Components includes updates accessed from the
 * Help and release notes for [Places - Location Service](https://experienceleague.adobe.com/docs/places/using/release-notes.html?lang=en)
 * Help on [People - Customer Attributes and Audience Library](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=en).
 
-## ![Icon](/assets/adobe.png) Adobe System Status {#status}
-
-[!UICONTROL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe cloud products and services outage, disruption, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
-
-The most recent updates to Adobe System Status are found at [Adobe System Status - May 21, 2020](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=en) for the latest release information.
-
 ## ![Icon](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
 Includes release update information and new documentation for Experience Platform and Platform tagging.
 
-* **June 30, 2021** [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
-* **May 17, 2021** [Experience Platform tags release notes](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html) (formerly, Experience Platform Launch)
+* **August 19, 2021** [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
+* **July 19, 2021** [Experience Platform tags release notes](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html) (formerly, Experience Platform Launch)
 
 ### Experience Platform tutorials and courses {#tutorials-platform}
 
@@ -74,12 +67,8 @@ New videos, tutorials, or courses published for Experience Platform and services
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|July 2021|[Model Your Customer Experience Data with XDM](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2021.1.xdm)|Course |Learn how to build your data model in Adobe Experience Platform. This course teaches you about the Experience Data Model (XDM) and how to convert your existing data model to XDM. Learn how to build schemas using standard classes and field groups and build your own custom components.|
-|July 2021|[Getting Started with Query Service for Data Engineers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2021.1.qsvc.gsde)|Course |Learn how to validate ingested data, gain insights from data stored in the data lake, and how to prepare the data for making business-critical decisions using Query Service.|
-|July 2021|[Create Dashboards Using Query Service](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2021.1.qsvc.dash)|Course |Learn how to validate ingested data, gain insights from data stored in the data lake, and create dashboards using Query Service in Adobe Experience Platform.|
-|July 2021|[Getting Started with Real-time CDP for Marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2021.1.rtcdp)|Course |In this course, you can learn everything you need to get started using Real-time Customer Data Platform (Real-time CDP) as a business practitioner.|
-|July 2021|[Getting Started with Data Science Workspace for Data Scientists](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2021.1.dsw)|Course |Learn about Data Science Workspace in Adobe Experience Platform. This course is designed for data scientists who want to learn how to use [!DNL JupyterLab] Notebooks to derive insights and query data, create profile-enabled datasets, publish automated machine learning models, and activate machine-learned insights to both Adobe and non-Adobe applications.|
-|July 2021|[Getting Started with Adobe Experience Platform Data Governance](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-D-1-2021.1.dgov.gs)|Course |Learn how to take control of your data from the point it’s collected at data sources to when it's syndicated to destinations outside Adobe Experience Platform.|
+|August 2021|[Activate profiles and segments to a destination](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination.html?lang=en)|Video |Learn the steps that marketers can take to activate audience segments to destinations in Real-time CDP. See how to start this workstream in either the Destinations or Segments interfaces, whichever is most convenient for you.|
+|August 2021|[Configuring file-based cloud storage or email marketing destinations](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/configuring-file-based-cloud-storage-or-email-marketing-destinations.html?lang=en)|Video |Get tips during a walkthrough of the configuration of a file-based destination in Adobe’s Real-time Customer Data Platform (CDP). |
 
 {style="table-layout:auto"}
 
@@ -100,6 +89,17 @@ Find out more about the latest capabilities, improvements, and fixes in the [Jou
 Use Experience Platform to orchestrate a customer’s journey at scale across experience channels, by intelligently anticipating every individual’s needs in real time.
 
 * Updated July 2021 - Journey Orchestration [Journey Orchestration Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html?lang=en)
+
+### New Journey Orchestration tutorials and courses {#tutorials-ajo}
+
+New videos, tutorials, or courses published for Adobe Campaign.
+
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|August 2021|[Introduction to building a journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html)|Video |Understand the basics of building a journey in the journey canvas.|
+|August 2021|[Set up data - overview](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/get-started/data-configuration/set-up-data-overview.html)|Video |Learn about real-time customer profile data and which steps are required to set up customer profile data for Journey Optimizer.|
+|August 2021|[Map identities](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/get-started/data-configuration/map-identities.html)|Video |Desc.|
+|August 2021|[Use Case: Burst Message](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-burst-message.html)|Video |Understand the applicable use cases for burst messaging. Learn how to configure a journey for burst messages and which best practices to apply.|
 
 **More resources for Journey Orchestration**
 
@@ -174,9 +174,12 @@ New courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Custome
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|July 2021|[Using the Donut visualization in your project](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-the-donut-visualization.html?lang=en)|Video |Learn how to add and configure the Donut visualization in your Analysis Workspace project.|
-|July 2021|[Bar and Bar Stacked Visualizations](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.html?lang=en)|Video |In this video, we discuss adding and configuring the Bar, Bar stacked, Horizontal Bar, and Horizontal bar stacked visualizations in your project in Analysis Workspace. Although considered basic, these visualizations can help tell your data stories and provide insights for your analysts.|
-|July 2021|[Area and Area Stacked](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/area-and-area-stacked.html)|Video |Learn how to add Area and Area Stacked visualizations to your project in Analysis Workspace, and learn a few tips to help customize the visualizations for your needs. |
+|August 2021|[Scatterplot visualization](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/scatterplot-visualization.html?lang=en)|Video |With this visualization, you can see the relationship between multiple metrics for your dimensions, graphing the items out on a X/Y plot. Discover outliers and insights to help you make business decisions.|
+|August 2021|[Treemap visualization](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/treemap-visualization.html?lang=en)|Video |Learn how to add and configure the Treemap visualization in your Analysis Workspace project. This visualization can help you visually analyze a lot of data points at once.|
+|August 2021|[Understanding How Data Gets into Your Analysis Workspace Project](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.html?lang=en)|Video |Learn how to see the flow of data from your page to the tables and visualizations in Analysis Workspace, using the Adobe Experience Platform Debugger extension in Chrome.|
+|August 2021|[Summary number and Summary change visualizations](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.html?lang=en#)|Video |Learn how to add and configure the Summary number and Summary change visualizations in Analysis Workspace. |
+|August 2021|[Venn Diagram Visualization in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/venn-diagram-visualization.html?lang=en)|Video |You can visually show overlap and intersection of segments in Analysis Workspace using the Venn diagram visualization. It’s easy to create stunning, insightful Venn diagrams in a matter of seconds. |
+|August 2021|[Bullet Graph Visualization in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/bullet-graph-visualization.html?lang=en)|Video |Bullet graphs are a useful way to show progress toward (or in excess of) a goal in your analysis. They provide you with another way to visualize your organization’s success.|
 
 {style="table-layout:auto"}
 
@@ -270,8 +273,11 @@ New videos, tutorials, and courses published over the past month.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|July 2021|[XML Documentation for Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/tutorials/overview.html?lang=en)|Article |Learn how the [!UICONTROL XML Documentation Solution] offers all the core CCMS functions, such as collaboration, review, translation, search, and reports for DITA content. These features enable authors to do more in less time through efficient content reuse and powerful workflows.|
-|July 2021|[AEM Headless GraphQL Postman Collections](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html?lang=en)|Video |Learn how to define and use Content Fragments in Adobe Experience Manager (AEM) for use with GraphQL.|
+|August 2021|[Adobe Asset Link 3.0](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html?lang=en)|Video |[!UICONTROL Asset Link] extension for Adobe Creative Cloud for enterprise extends the capability to search and browse, sort, preview, upload assets, check out, modify, check-in and view metadata of Experience Manager assets within Creative Cloud applications.|
+|August 2021|[Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/managing.html?lang=en)|Video |Learn about Asset Essentials, including folder structure and basic operations such as move, copy and rename. New videos also include how to [use assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/using.html?lang=en), [create content](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/creating.html?lang=en), and [collaborate](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/creating.html?lang=en) on asset management using comments, annotations and tasks.|
+|August 2021|[Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/using.html?lang=en)|Video |Learn how to filter, search, and download assets in Assets Essentials. assets in Assets Essentials.|
+|August 2021|[Pipeline Overview - Tour Guide](https://video.tv.adobe.com/v/335668)|Video |Get an overview of AEM as a Cloud Service's Cloud Manager Pipeline.|
+|August 2021|[Configure and Run Your Pipeline - Tour Guide](https://video.tv.adobe.com/v/335667)|Video |Learn how to configure and run your pipeline.|
 
 {style="table-layout:auto"}
 
@@ -316,13 +322,13 @@ Find out more about the latest capabilities, improvements, and fixes released:
 * [Campaign Standard Release Notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
 * [Campaign Classic Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
 
-### New [!UICONTROL Campaign] courses and tutorials {#tutorials-campaign}
+<!-- ### New [!UICONTROL Campaign] courses and tutorials {#tutorials-campaign}
 
 |Published|Name|Solution|Description |
 | -----------| ---------- | ---------- | ---------- |
 |July 2021|[Refining targets by combining query results](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/process-management/refine-targets-by-combining-query-results.html)|Campaign v8 |Learn how to refine your target by combining query results in a workflow using the intersection or the union activities.|
 |July 2021|[Create a marketing plan, programs, and campaigns](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/getting-started/create-a-marketing-plan-programs-and-campaigns.html)|Campaign v8 |Learn how to create a marketing plan, program, and campaign, set properties for a campaign, and understand how to use the schedule.|
-|July 2021|[Configure and manage subscription services](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/configure-and-manage-subscription-services.html)|Campaign v8 |Learn how to setup and manage subscriptions and target subscribers.|
+|July 2021|[Configure and manage subscription services](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/configure-and-manage-subscription-services.html)|Campaign v8 |Learn how to setup and manage subscriptions and target subscribers.| -->
 
 {style="table-layout:auto"}
 
@@ -364,7 +370,7 @@ Last updated: **For July 24 release**
 
 See the following links for Adobe Commerce release notes:
 
-* [Magento Commerce and Open Source](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
+* [Magento Commerce and Open Source](https://devdocs.magento.com/guides/v2.4/release-notes/open-source-2-4-3.html)
 * [Cloud Suite](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
 
 ## ![Icon](/assets/target.png) [!DNL Target] {#target}
