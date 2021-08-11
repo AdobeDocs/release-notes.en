@@ -122,31 +122,17 @@ See [Offer Decisioning release notes](https://experienceleague.adobe.com/docs/of
 Release date: **August 19, 2021**
 
 * [New features in Adobe Analytics](#aa-features)
-* [New features in Customer Journey Analytics](#cust-journey) (Updated July 19, 2021)
+* [New features in Customer Journey Analytics](#cust-journey) 
 * [Fixes in Adobe Analytics](#aa-fixes)
 * [Important notices for Analytics administrators](#aa-notices)
 * [Analytics courses and tutorials](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
-<!-- ## Event notice for Experience League Live - Analytics Implementation {#events}
-
-Join us to hear concrete tips every Adobe Analytics implementation team should know—and have your questions answered by Eric Matisoff in the chat pod. This is a live event, so there’s no need to register ahead of time, but make sure to put it on your calendar so you don’t miss out!
-
-**Event:** [Adobe Analytics Implementation - Tips and Tricks](https://www.youtube.com/watch?v=lxOvLCzEGBI)
-
-**When:** July 29, 2021 at 9:00 a.m. PDT
-
-**Adobe Presenters**
-
-* Eric Matisoff, Principal Evangelist for Analytics & Data Science, Adobe  
-* Dasha Fitzpatrick, Adobe Principal Technical Consultant 
-* Doug Moore, Adobe Technical Marketing Engineer -->
-
 ### New features in Adobe Analytics {#aa-features}
 
 | Feature | Description | [General Availability](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Target Date |
 | ----------- | ---------- | ------- |
-| New Adobe Analytics landing page (Open Beta) | The new landing page for Adobe Analytics brings together both Analysis Workspace and Reports & Analytics in a single interface and access point under the Workspace umbrella. It features a new project manager home page, an updated reports menu, and modernized reports, as well as a new learning section to help you with getting started more effectively. The new page improves discoverability and guides Reports & Analytics users to an improved reporting experience in Workspace. [Learn more](https://experienceleague.adobe.com/docs/analytics/landing/an-landing.html)| July 26, 2021 |
+| No new features this month| N/A |
 
 {style="table-layout:auto"}
 
@@ -154,28 +140,27 @@ Join us to hear concrete tips every Adobe Analytics implementation team should k
 
 | Feature | Description | [General Availability](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Target Date | 
 | ----------- | ---------- | ----- |
-| New Connections Info experience | This Connections UI enhancement lets you know whether and when your data is ready to be used in reporting. It also lets you track any issues with processing data. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=en)| August 10, 2021 |
+| New Connections Info experience | This Connections UI enhancement lets you know whether and when your data is ready to be used in reporting. It also lets you track any issues with processing data. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=en)| August 19, 2021 |
+| Control over case sensitivity in Data View dimensions | Allows you to control whether CJA treats dimension values as case sensitive.  This allows for de-duplication of rows that have the same value, but a different case. | August 19, 2021 |
 
 {style="table-layout:auto"}
 
 ### Fixes in Adobe Analytics {#aa-fixes}
 
-* Fixed an issue with alerts not being sent and errors displaying when creating alerts. (AN-263962)
-* Fixed an issue with virtual report suites in Analysis Workspace: Data outside of the date range specified was extracted. (AN-263121)
-* Fixed an issue with Workspace projects not opening (timing out.) (AN-247248)
-* Fixed an issue with being unable to load report suite usage data under [!UICONTROL Server Call Usage]. (AN-264215)
+* Fixed an issue where virtual report suites did not appear in Publishing List manager.	(AN-262683)
+
 
 #### Additional fixes in Adobe Analytics or CJA
 
-AN-160022; AN-186365; AN-234768 (CJA); AN-253041; AN-255098; AN-256319; AN-256566; AN-256903; AN-257111; AN-259614; AN-259960; AN-260422; AN-260926; AN-260962; AN-261310; AN-261442; AN-261483 (CJA); AN-261589; AN-261949; AN-262025; AN-262295; AN-262330; AN-262348; AN-262356; AN-262461; AN-262462; AN-262465; AN-262888; AN-262944; AN-262952; AN-262974; AN-263027; AN-263105; AN-263175; AN-263183; AN-263244; AN-263888; AN-263930; AN-263953
+AN-211870; AN-255578; AN-258376; AN-260732; AN-260854; AN-261294; AN-263094; AN-263335; AN-263887; AN-264018; AN-264386; AN-264946; AN-265170; AN-265240; AN-265257; AN-265385; AN-265435; AN-265499; AN-265539; AN-265708; AN-265799; AN-265864; AN-265942; AN-266103; AN-266172; AN-266187; AN-266246; AN-266371; AN-266395; AN-266737
 
 ### Important notices for [!DNL Analytics] administrators {#aa-notices}
 
 | Notice | Date Added or Updated  | Description |
 | ----------- | ---------- | ---------- |
 | End-of-life for three Analytics API services | July 15, 2021| On **August 18, 2021**, the following Analytics Legacy API services will reach their end-of-life date and will be shut down. Any current integrations built using these services will stop working on that day.<ul><li>1.3 Analytics APIs</li><li>1.4 SOAP Analytics APIs</li><li>Legacy OAuth Authentication (OAuth and JWT)</li></ul>Adobe has provided a [Legacy API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) to help answer your questions and provide guidance on how to proceed. API integrations that employ these services can migrate to the [1.4 Analytics REST APIs](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) or the [2.0 Analytics APIs](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth accounts can migrate to an [Adobe I/O](https://console.adobe.io/home?mv=email#) Analytics integration account, which can be used to access both the 1.4 Analytics APIs and 2.0 Analytics APIs. |
-| EOL of Adobe Data Connectors | July 13, 2020 | Adobe [!UICONTROL Data Connectors] are powered by legacy technology that is no longer viable or supported. A new standard is available in the [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud). You can use that standard for any integration to continue to be offered and supported. The official end-of-life date is **August 1, 2021**. [Learn more...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=en) |
-| EOL of Full Processing Data Sources | April 12, 2021 | Adobe plans to deprecate full processing data sources **on July 31, 2021**. As of March 25, 2021, new imports of this type can no longer be created. Please use [Bulk Data Insertion API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) to import this type of data. |
+| EOL of Adobe Data Connectors | August 3, 2020 | Adobe [!UICONTROL Data Connectors] are powered by legacy technology that is no longer viable or supported. A new standard is available in the [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud). You can use that standard for any integration to continue to be offered and supported. The official end-of-life date is **August 19, 2021**. [Learn more...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=en) |
+| EOL of Full Processing Data Sources | April 12, 2021 | Adobe deprecated full processing data sources **on July 31, 2021**. As of March 25, 2021, new imports of this type can no longer be created. Please use [Bulk Data Insertion API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) to import this type of data. |
 |Sign in update to [!UICONTROL Report Builder] | April 9, 2021 | On January 14, 2021, the [!UICONTROL Report Builder] sign-in updates removed dependencies on legacy technologies and aligned the sign-in process with Experience Cloud. Experience Cloud uses your Enterprise ID (email and password). To ensure uninterrupted access to [!UICONTROL Report Builder], update the [!UICONTROL Report Builder] add-in to version 5.6.47 or later **by July 22, 2021**. Report Builder version 5.6.47 and later supports only the Experience Cloud sign-in and will not support single sign-on.|
 
 {style="table-layout:auto"}
