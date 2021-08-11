@@ -335,27 +335,28 @@ Find out more about the latest capabilities, improvements, and fixes released:
 
 ## ![Icon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
 
-Release notes for [!DNL Adobe Advertising].
+Release notes for [!DNL Adobe Advertising Cloud].
 
-* [New features in Advertising DSP](#adcloud-dsp)
-* [New features in Advertising Search](#adcloud-search)
+* [New features in Advertising Cloud DSP](#adcloud-dsp)
+* [New features in Advertising Cloud Search](#adcloud-search)
 
-### New features in [!DNL Advertising DSP] {#adcloud-dsp}
+### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
 Last updated: **June 10, 2021 for June 16 release**
 
-| Feature    | Description  |
-| -----------| ---------- |
-| Campaign Management | (June 16 release) Forecasting is available for standard display placements  with placement-level pacing and budgets. |
+| Feature | Description |
+| ------- | ----------- |
+| Campaign Management | (June 16 release) Forecasting is available for standard display placements with placement-level pacing and budgets. |
 
 {style="table-layout:auto"}
-
-### New features in [!DNL Advertising Search] {#adcloud-search}
+| Feature | Description |
+| ------- | ----------- |
+### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
 Last updated: **For July 24 release**
 
-| Feature    | Description  |
-| -----------| ---------- |
+| Feature | Description |
+| ------- | ----------- |
 | [!UICONTROL Tools] | If your advertiser account is configured to use hybrid optimization, then Advertising Cloud can optionally upload the account's objectives to Google Ads and Microsoft Ads as conversions so you can use them for hybrid optimization. You can enable the feature from [!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Conversion Upload Setup]. |
 
 {style="table-layout:auto"}
