@@ -349,8 +349,7 @@ Last updated: **June 10, 2021 for June 16 release**
 | Campaign Management | (June 16 release) Forecasting is available for standard display placements with placement-level pacing and budgets. |
 
 {style="table-layout:auto"}
-| Feature | Description |
-| ------- | ----------- |
+
 ### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
 Last updated: **For July 24 release**
