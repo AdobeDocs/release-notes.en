@@ -147,8 +147,7 @@ Release date: **August 19, 2021**
 
 ### Fixes in Adobe Analytics {#aa-fixes}
 
-* Fixed an issue where virtual report suites did not appear in Publishing List manager.	(AN-262683)
-
+* Fixed an issue where virtual report suites did not appear in Publishing List manager. (AN-262683)
 
 #### Additional fixes in Adobe Analytics or CJA
 
