@@ -328,9 +328,9 @@ Find out more about the latest capabilities, improvements, and fixes released:
 | -----------| ---------- | ---------- | ---------- |
 |July 2021|[Refining targets by combining query results](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/process-management/refine-targets-by-combining-query-results.html)|Campaign v8 |Learn how to refine your target by combining query results in a workflow using the intersection or the union activities.|
 |July 2021|[Create a marketing plan, programs, and campaigns](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/getting-started/create-a-marketing-plan-programs-and-campaigns.html)|Campaign v8 |Learn how to create a marketing plan, program, and campaign, set properties for a campaign, and understand how to use the schedule.|
-|July 2021|[Configure and manage subscription services](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/configure-and-manage-subscription-services.html)|Campaign v8 |Learn how to setup and manage subscriptions and target subscribers.| -->
+|July 2021|[Configure and manage subscription services](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/sending-messages/configure-and-manage-subscription-services.html)|Campaign v8 |Learn how to setup and manage subscriptions and target subscribers.| 
 
-{style="table-layout:auto"}
+{style="table-layout:auto"}-->
 
 ### Campaign help resources
 
