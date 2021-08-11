@@ -195,80 +195,74 @@ Fixes and improvements in Audience Manager.
 
 ## ![Icon](/assets/aem.png) Experience Manager {#aem}
 
-Adobe recommends frequently visiting [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) to stay current on release information.
+Adobe recommends visiting the [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) page to stay current on release information.
+
+### Experience Manager product releases
 
 * **Experience Manager as a Cloud Service**
 
-    New features in Experience Manager as a Cloud Service:
+    What is new on Experience Manager as a Cloud Service?
 
-  * **XML Documentation for Adobe Experience Manager as a Cloud Service**
+    Play the [July 2021 Release Overview](https://video.tv.adobe.com/v/335580) video for a summary of the features added.
 
-    * **Cloud-native component content management system** - XML Documentation for Adobe Experience Manager is available as a Cloud Service. Get the environment that lets you author, manage, and deliver documentation and content at scale.
-    * **AI-powered documentation** - Smart tagging capability for automatically identifying and extracting relevant metadata keywords from the text for metadata labelling.
-    * **New look and feel for web editor** - New look and feel with UI changes making it more intuitive. Underlying architecture has been changed from coral to react based spectrum.
+  * **Cloud Acceleration Manager**
 
-    Visit [XML Documentation for Adobe Experience Manager](https://www.adobe.com/products/xml-documentation-for-experience-manager.html) for more information.
+    * Cloud Acceleration Manager is a cloud-based application designed to guide your IT teams throughout the transition journey starting from planning to going live on Cloud Service. Set up your teams for a successful migration with Adobe-recommended best practices, tips, documentation, and tools to help at every phase of the journey to Experience Manager as a Cloud Service. See [Getting started with Cloud Acceleration Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/moving/cloud-acceleration-manager/using-cam/getting-started-cam.html?lang=en).
 
-  * **Cloud Manager in AEM as a Cloud Service**
+    Play the [Cloud Acceleration Manager](https://video.tv.adobe.com/v/335547) demo video.
 
-    * [!UICONTROL Preview Service] is deployed on a rolling basis to all Programs. Customers are notified in-product when their Program is enabled for [!UICONTROL Preview Service]. See [Accessing Preview Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/manage-environments.html?lang=en#access-preview-service).
-    * Maven Dependencies downloaded during the build step are now be cached between pipeline runs. This feature will be enabled for customers in the next several weeks.
-    * You can now edit the name of the program through the [!UICONTROL Edit Program] dialog.
-    * The default branch name used during both project creation and in the default [!UICONTROL Push] command by way of manage git workflows has been changed to `main`.
-    * Edit program experience in the interface has been refreshed.
-    * The quality rule `ImmutableMutableMixCheck` has been updated to classify `/oak:index` nodes as being immutable.
-    * The quality rules `CQBP-84andCQBP-84--dependencies` have been consolidated into a single rule. As part of this consolidation, the scanning of dependencies more accurately identifies issues in third-party dependencies which are being deployed to the Experience Manager runtime.
-    * To avoid confusion, the Publish Experience Manager and Publish Dispatcher segment rows on the Environment Details page have been consolidated.
-    * A new code quality rule has been added to validate the structure of `damAssetLucene`indexes. See [Custom DAM Asset Lucene Oak Indexes](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/test-results/custom-code-quality-rules.html?lang=en#oakpal-damAssetLucene-sanity-check).
-    * Environment details page now displays multiple domain names for Publish and Preview services, as applicable. See [Environment Details](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/manage-environments.html?lang=en#viewing-environment).
+  * **Experience Manager as a Cloud Service Foundation**
+
+    * More flexible Dispatcher configuration: Projects can be more easily organized. For example, you can now include multiple rewrite rule files that reflect your site structure. [Learn about this flexible mode](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/content-delivery/disp-overview.html?lang=en#validation-debug), including how to structure your Dispatcher configuration in order to take advantage of it.
+    * The tree replication UI under the replication agent’s “Distribute” tab should be considered deprecated; it is planned for removal after September 30, 2021. [Learn about alternative replication strategies](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/operations/replication.html?lang=en#tree-activation).
+    * Bundle `org.apache.sling.datasource-1.0.4.jar` for Sling datasource support has been removed, as it has outdated functionality and is not in use by customers.
 
   * **Experience Manager Assets as a Cloud Service**
 
-    New features in Assets:
+    * Content Automation functionality lets Experience Manager Assets use the Adobe Creative Cloud APIs to automate asset production at scale. It improves content velocity by dramatically decreasing the time taken and iterations required to create variations of the same asset. The functionality does not require any programming and works from within the DAM. See [Generate variations of assets using Adobe Creative Cloud integration](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/cc-api-integration.html?lang=en).
+    * Experience Manager Assets includes the Document Cloud PDF Viewer to preview PDF documents natively. This feature lets users preview multi-page PDF files without any file processing or conversion. It also improves the parity with Experience Manager 6.5. The controls available in the viewer include zoom, navigate to pages, undock controls, and to view in full screen. Users can also preview and jump to pages and bookmarks. Comments on the file itself are supported and commenting and annotations on content within the PDF file will be added in a future release.
+    * The link share download functionality uses asynchronous downloads that boost the download speed. See the Help topic [Download assets shared using link sharing](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/download-assets-from-aem.html?lang=en#link-share-download).
+    * The view settings are enhanced to let users choose a default view and a default sorting parameter.
+    * Users can search and filter the folders based on property predicates.
 
-    * [!UICONTROL Content Automation] functionality lets Experience Manager Assets use the Adobe Creative Cloud APIs to automate asset production at scale. It improves content velocity by dramatically decreasing the time taken and iterations required to create variations of the same asset. The functionality does not require any programming and works from within the DAM. See [Generate variations of assets using Adobe Creative Cloud integration](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/cc-api-integration.html?lang=en).
-    * [Adobe Asset Link 3.0](https://helpx.adobe.com/enterprise/using/adobe-asset-link.html) for Adobe Photoshop, Adobe Illustrator, and Adobe InDesign and Adobe [Adobe Asset Link 2.0](https://helpx.adobe.com/enterprise/using/adobe-asset-link-for-xd.html) for Adobe XD is available. It supports Assets Essentials and the ability to automatically connect to Experience Manager as a Cloud Service or Assets Essentials.
-    * The [Asset bulk ingestor tool](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/add-assets.html?lang=en#asset-bulk-ingestor) lets you add metadata during a bulk ingestion.
+    New features available in the Assets prerelease channel
 
-    New features in the Assets prerelease channel:
-
-    * The view settings are enhanced to let you choose a default view and a default sorting parameter.
-    * The [!UICONTROL Link Share] download functionality uses asynchronous downloads that boost the download speed. See [Download assets shared using link sharing](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/download-assets-from-aem.html?lang=en#link-share-download).
-    * You can search and filter the folders based on property predicates.
-    * Experience Manager Assets embeds the PDF Viewer to preview the supported document formats. It is powered by Adobe Document Cloud. This feature lets you preview PDF and other multi-page files without any complex processing. It improves the feature parity with Experience Manager 6.5. The controls available in the preview are to zoom, to navigate to pages, to un-dock controls, and to view in full screen. The integrated PDF viewer supports AI, DOCX, INDD, PDF, and PSD file formats. You can comment on the asset itself but commenting and annotations within the PDF file are not supported.
-    * A user experience enhancement displays the number of assets present in a folder. For more than 1000 assets in a folder, Assets displays 1000+.
-    * You can directly apply a metadata schema to a folder in its Properties.
-
-  * **Experience Manager Sites as a Cloud Service**
-
-    New features:
-
-    * Publish to Preview Tier now shown as page status in Sites Admin UI.
-    * Publish to Preview Tier now surfacing preview URL at the end of the action and persisting the URL in page properties for later reference.
+    * When you share digital assets as a link, users can copy the URL to clipboard. The enhancement lets you share assets in a faster and more convenient way.
 
   * **Experience Manager Forms as a Cloud Service**
 
-    New features:
+    * You can now use Automated Forms Conversion service to [convert PDF Forms in French, German, and Spanish language](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/extending-the-default-meta-model.html?lang=en#language-specific-meta-model) to adaptive forms.
+    * Added a separate panel to template editor to display errors related to adaptive form components. It helps consolidate all adaptive form errors at one location and reduce resolution time.
 
-    * Metadata schemas can be applied directly to the folder properties.
-    * The Asset Bulk Ingestor tool lets you add metadata during a bulk ingestion.
-    * A user experience enhancement displays the number of assets present in a folder. For more than 1000 assets in a folder, Experience Manager Assets displays 1000+.
+    New features available in the Forms prerelease channel
 
-    Beta feature of Forms:
-
-    * **Experience Manager Forms as a Cloud Service - Communications** - Communication APIs helps you combine XDP templates and XML data to generate print documents in various formats. The service lets you generate documents in synchronous mode. The APIs enables you to create applications that let you:
+    * **Experience Manager Forms as a Cloud Service - Communications** - [Use AEM Forms as a Cloud Service - Communications APIs](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/aem-forms-cloud-service-communications.html?lang=en) help you combine XDP templates and XML data to generate print documents in various formats. The service lets you generate documents in synchronous mode. The APIs enables you to create applications that let you:
       * Generate documents by populating template files with XML data.
       * Generate output forms in various formats, including non-interactive PDF print streams.
-      * Generate print PDFs from an XFA form PDF and Adobe Acrobat Form (AcroForm).
+      * Generate print PDF files from an XFA form PDF and Adobe Acrobat Form.
+    * **Variable Data Externalizer** - You can save data of Experience Manager Workflow variables on an external storage system managed by your organization.
+    * **Acroform-based Document of Record** - You can also [use Adobe Acrobat Form PDF (Acroform PDF)](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html?lang=en) as a template for Document of Record besides XFA-based form template.
+    **Microsoft® Azure data store connector** - You can now [connect Form Data Model to Microsoft® Azure Storage](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/use-form-data-model/configure-azure-storage.html?lang=en). It lets you retrieve and store adaptive form data to Microsoft® Azure Storage as a BLOB.
 
-    You can write to [formscsbeta@adobe.com](mailto:formscsbeta@adobe.com) to sign up for the beta program.
+  * **Cloud Manager**
 
-  * **Experience Manager Screens as a Cloud Service**
+    * Customers are now able to use Azul 8 and 11 JDKs for their Cloud Manager build processes. They can either select to use one of these JDKs for toolchains-compatible Maven plugins or the entire Maven process execution.
+    * The outbound egress IP is now logged in the build step log file.
+    * Stage and Production environments running old versions of Experience Manager now report a status of **Update Available**.
+    * The maximum SSL certificates supported has increased to 20 per program.
+    * The maximum number of domains that can be configured has increased to 500 per environment.
+    * The **[!UICONTROL Manage Git]** button has been retitled to **[!UICONTROL Access Git Info]** and the dialog box has been visually refreshed.
+    * The version of the Experience Manager Project Archetype used by Cloud Manager has been updated to version 28.
 
-    * Bulk Device Registration Management means that provisioning massive amounts of player devices is faster and more efficient.
-    * Improved search and filter options for each of the Device, Display, and Channel inventory views.
-    * Device heath snapshot saves time by providing critical status as a glance.
-    * Object details page offers a summary of the most relevant information for each object in your project.
+### Community
+
+* [List of latest Adobe Experience Manager content on Experience League | August 2021](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/list-of-latest-adobe-experience-manager-content-on-experience/m-p/418396/thread-id/29620)
+
+    A comprehensive list of the latest article is [here](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/list-of-latest-adobe-experience-manager-content-on-experience/m-p/418396/thread-id/29620).
+
+* [How to submit a new Feature request/Suggestion for the Experience Manager?](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425)
+
+    New process to submit Experience Manager feature requests is Live Now. See [Create an idea](https://experienceleaguecommunities.adobe.com/t5/forums/postpage/board-id/adobe-experience-manager-ideas) | More [details here](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425) | [Submitting guidelines](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/guidelines-for-submitting-a-new-experience-manager-aem-idea/m-p/382376#M27427)
 
 ### New Experience Manager courses and tutorials {#tutorials-aem}
 
