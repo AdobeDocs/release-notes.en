@@ -166,7 +166,7 @@ AN-211870; AN-255578; AN-258376; AN-260732; AN-260854; AN-261294; AN-263094; AN-
 
 ### AppMeasurement {#appm}
 
-For the latest updates on AppMeasurement releases, please refer to [AppMeasurement for JavaScript release notes](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html?lang=en).
+For the latest updates on AppMeasurement releases (Version 2.22.1), please refer to [AppMeasurement for JavaScript release notes](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html?lang=en).
 
 ### New Analytics courses and tutorials {#tutorials-analytics}
 
