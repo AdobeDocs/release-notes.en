@@ -348,11 +348,11 @@ Release notes for [!DNL Adobe Advertising Cloud].
 
 ### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Last updated: **June 10, 2021 for June 16 release**
+Last updated: **August 12, 2021 for August 11 release**
 
 | Feature | Description |
 | ------- | ----------- |
-| Campaign Management | (June 16 release) Forecasting is available for standard display placements with placement-level pacing and budgets. |
+| Pre-bid viewability for placements |  Pre-bid viewability filters from Oracle Advertising (Moat) are now available for your placements. |
 
 {style="table-layout:auto"}
 
