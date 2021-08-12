@@ -375,11 +375,11 @@ Last updated: **June 10, 2021 for June 16 release**
 
 ### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Last updated: **For July 24 release**
+Last updated: **August 11 for July 24 release**
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Tools] | If your advertiser account is configured to use hybrid optimization, then Advertising Cloud can optionally upload the account's objectives to Google Ads and Microsoft Ads as conversions so you can use them for hybrid optimization. You can enable the feature from **[!UICONTROL Search]** > **[!UICONTROL Tools]** > **[!UICONTROL Conversion Upload Setup]**. |
+| [!UICONTROL Tools] | If your advertiser account is configured to use hybrid optimization, then [!DNL Advertising Cloud Search] can optionally upload the objectives for the account's portfolios to Google Ads as conversions so you can use them for hybrid optimization. You can enable the feature from **[!UICONTROL Search]** > **[!UICONTROL Tools]** > **[!UICONTROL Conversion Upload Setup]**. |
 
 {style="table-layout:auto"}
 
