@@ -399,7 +399,6 @@ New videos, tutorials, or courses published for Adobe Document Cloud.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|August 2021|[Combine files into a single PDF](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/combine-to-pdf.html)|Video |Learn how to combine many different types of files (PDF, Word, Excel, PowerPoint, JPEG, etc.) into a single PDF. |
 |August 2021|[Use case recipes](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/recipes.html)|Video |Speed up your organization’s digital workflows with these government and commercial e-signature examples.|
 |August 2021|[Use Case showcase](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/use-case/use-case-showcase.html)|Recorded sessions |The Use Case Showcase is a livestream session introducing you to new Adobe Sign use cases, trends, and showing how your organization can implement and benefit from them. Each month a new topic is highlighted.|
 |August 2021|[Adobe Sign Skill Builder](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/innovation/innovation-series.html)|Recorded sessions |Adobe Sign Skill Builders are 30-minute sessions designed to put your e-signatures to work—without adding any extra work to your day.|
@@ -418,8 +417,10 @@ New videos, tutorials, or courses published for Creative Cloud for enterprise.
 
 |Published|Name|Type|Description |
 | ----------| --------- | --------- | --------- |
-|June 2021|[Try your hand at Fresco on the iPad (and iPhone)](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/frescoworkshop.html)|Video | Explore a whole new world of digital drawing and painting with Adobe Fresco in this 15-minute hands-on workshop. Quickly learn to work with layers and clipping masks to conform paint and textures to a base shape.   |
-|June 2021|[Decoding the Alphabet Soup of Graphic Formats](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/alphabetsoup.html)|Video | PG, PNG, SVG, GIF, and EPS files are all commonly used in design, some for web pages, others for presentations, publications, and creative projects. But… what do they mean, and which should you pick? Find out in this 15-minute hands-on workshop.   |
+|August 2021|[Search Adobe Stock licensing history](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/stockoverview/stocktutorials/searchstock.html)|Video |Learn how to quickly search your organization’s Adobe Stock licensing history in Creative Cloud for enterprise.|
+|August 2021|[Sharing branding assets with Creative Cloud Libraries for teams](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/sharecclibraries.html)|Video |Learn how to create, use, and share branding assets for your group or team using Creative Cloud Libraries for teams. |
+|August 2021|[Creating Creative Cloud Libraries for teams](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/ccteamlibraries.html)|Video |Learn how to share assets within a group or team using Creative Cloud Libraries for teams.|
+|August 2021|[Adobe Acrobat Skill Builder webinars](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/skill-builders/skill-builder-webinars.html)|Webinars |Adobe Acrobat Skill Builders are 30-minute sessions designed to take your PDf workflows to the next level. Each month a new topic is highlighted.|
 
 {style="table-layout:auto"}
 
