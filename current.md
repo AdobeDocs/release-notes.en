@@ -131,7 +131,7 @@ Release date: **August 19, 2021**
 * [New features in Adobe Analytics](#aa-features)
 * [New features in Customer Journey Analytics](#cust-journey) 
 * [Fixes in Adobe Analytics](#aa-fixes)
-* [Important notices for Analytics administrators](#aa-notices)
+* [Important notices for Analytics administrators](#aa-notices)(Updated August 3, 2021)
 * [Analytics courses and tutorials](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
