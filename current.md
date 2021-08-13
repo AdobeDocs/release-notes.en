@@ -148,7 +148,7 @@ Release date: **August 19, 2021**
 | Feature | Description | [General Availability](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Target Date | 
 | ----------- | ---------- | ----- |
 | New Connections Info experience | This Connections UI enhancement lets you know whether and when your data is ready to be used in reporting. It also lets you track any issues with processing data. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=en)| August 19, 2021 |
-| Control over case sensitivity in Data View dimensions | Allows you to control whether CJA treats dimension values as case sensitive.  This allows for de-duplication of rows that have the same value, but a different case. | August 19, 2021 |
+| Control over case sensitivity in Data View dimensions | Allows you to control whether Customer Journey Analytics   treats dimension values as case sensitive.  This allows for de-duplication of rows that have the same value, but a different case. | August 19, 2021 |
 
 {style="table-layout:auto"}
 
@@ -181,12 +181,12 @@ New courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Custome
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|August 2021|[Scatterplot visualization](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/scatterplot-visualization.html?lang=en)|Video |With this visualization, you can see the relationship between multiple metrics for your dimensions, graphing the items out on a X/Y plot. Discover outliers and insights to help you make business decisions.|
-|August 2021|[Treemap visualization](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/treemap-visualization.html?lang=en)|Video |Learn how to add and configure the Treemap visualization in your Analysis Workspace project. This visualization can help you visually analyze a lot of data points at once.|
-|August 2021|[Understanding How Data Gets into Your Analysis Workspace Project](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.html?lang=en)|Video |Learn how to see the flow of data from your page to the tables and visualizations in Analysis Workspace, using the Adobe Experience Platform Debugger extension in Chrome.|
-|August 2021|[Summary number and Summary change visualizations](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.html?lang=en#)|Video |Learn how to add and configure the Summary number and Summary change visualizations in Analysis Workspace. |
+|August 2021|[[!UICONTROL Scatterplot] visualization](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/scatterplot-visualization.html?lang=en)|Video |With this visualization, you can see the relationship between multiple metrics for your dimensions, graphing the items out on a X/Y plot. Discover outliers and insights to help you make business decisions.|
+|August 2021|[Treemap visualization](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/treemap-visualization.html?lang=en)|Video |Learn how to add and configure the [!UICONTROL Treemap] visualization in your Analysis Workspace project. This visualization can help you visually analyze a lot of data points at once.|
+|August 2021|[Understanding How Data Gets into Your Analysis Workspace Project](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.html?lang=en)|Video |Learn how to see the flow of data from your page to the tables and visualizations in Analysis Workspace, using the Adobe Experience Platform [!UICONTROL Debugger] extension in Chrome.|
+|August 2021|[Summary number and Summary change visualizations](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.html?lang=en#)|Video |Learn how to add and configure the [!UICONTROL Summary number] and [!UICONTROL Summary change] visualizations in Analysis Workspace. |
 |August 2021|[Venn Diagram Visualization in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/venn-diagram-visualization.html?lang=en)|Video |You can visually show overlap and intersection of segments in Analysis Workspace using the Venn diagram visualization. It’s easy to create stunning, insightful Venn diagrams in a matter of seconds. |
-|August 2021|[Bullet Graph Visualization in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/bullet-graph-visualization.html?lang=en)|Video |Bullet graphs are a useful way to show progress toward (or in excess of) a goal in your analysis. They provide you with another way to visualize your organization’s success.|
+|August 2021|[Bullet Graph Visualization in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/bullet-graph-visualization.html?lang=en)|Video |[!UICONTROL Bullet] graphs are a useful way to show progress toward (or in excess of) a goal in your analysis. They provide you with another way to visualize your organization’s success.|
 
 {style="table-layout:auto"}
 
@@ -215,17 +215,17 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
 
     Play the [July 2021 Release Overview](https://video.tv.adobe.com/v/335580) video for a summary of the features added.
 
-  * **Cloud Acceleration Manager**
+  * **[!UICONTROL Cloud Acceleration Manager]**
 
-    * Cloud Acceleration Manager is a cloud-based application designed to guide your IT teams throughout the transition journey starting from planning to going live on Cloud Service. Set up your teams for a successful migration with Adobe-recommended best practices, tips, documentation, and tools to help at every phase of the journey to Experience Manager as a Cloud Service. See [Getting started with Cloud Acceleration Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/moving/cloud-acceleration-manager/using-cam/getting-started-cam.html?lang=en).
+    * [!UICONTROL Cloud Acceleration Manager] is a cloud-based application designed to guide your IT teams throughout the transition journey starting from planning to going live on Cloud Service. Set up your teams for a successful migration with Adobe-recommended best practices, tips, documentation, and tools to help at every phase of the journey to Experience Manager as a Cloud Service. See [Getting started with Cloud Acceleration Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/moving/cloud-acceleration-manager/using-cam/getting-started-cam.html?lang=en).
 
     Play the [Cloud Acceleration Manager](https://video.tv.adobe.com/v/335547) demo video.
 
   * **Experience Manager as a Cloud Service Foundation**
 
-    * More flexible Dispatcher configuration: Projects can be more easily organized. For example, you can now include multiple rewrite rule files that reflect your site structure. [Learn about this flexible mode](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/content-delivery/disp-overview.html?lang=en#validation-debug), including how to structure your Dispatcher configuration in order to take advantage of it.
-    * The tree replication UI under the replication agent’s “Distribute” tab should be considered deprecated; it is planned for removal after September 30, 2021. [Learn about alternative replication strategies](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/operations/replication.html?lang=en#tree-activation).
-    * Bundle `org.apache.sling.datasource-1.0.4.jar` for Sling datasource support has been removed, as it has outdated functionality and is not in use by customers.
+    * More flexible [!UICONTROL Dispatcher] configuration: Projects can be more easily organized. For example, you can now include multiple rewrite rule files that reflect your site structure. [Learn about this flexible mode](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/content-delivery/disp-overview.html?lang=en#validation-debug), including how to structure your Dispatcher configuration in order to take advantage of it.
+    * The tree replication UI under the replication agent’s [!UICONTROL Distribute] tab should be considered deprecated; it is planned for removal after September 30, 2021. [Learn about alternative replication strategies](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/operations/replication.html?lang=en#tree-activation).
+    * Bundle `org.apache.sling.datasource-1.0.4.jar` for Sling data source support has been removed, as it has outdated functionality and is not in use by customers.
 
   * **Experience Manager Assets as a Cloud Service**
 
@@ -250,13 +250,13 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
       * Generate documents by populating template files with XML data.
       * Generate output forms in various formats, including non-interactive PDF print streams.
       * Generate print PDF files from an XFA form PDF and Adobe Acrobat Form.
-    * **Variable Data Externalizer** - You can save data of Experience Manager Workflow variables on an external storage system managed by your organization.
-    * **Acroform-based Document of Record** - You can also [use Adobe Acrobat Form PDF (Acroform PDF)](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html?lang=en) as a template for Document of Record besides XFA-based form template.
+    * **[!UICONTROL Variable Data Externalizer]** - You can save data of Experience Manager Workflow variables on an external storage system managed by your organization.
+    * **[!UICONTROL Acroform-based Document of Record]** - You can also [use Adobe Acrobat Form PDF (Acroform PDF)](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html?lang=en) as a template for Document of Record besides XFA-based form template.
     **Microsoft® Azure data store connector** - You can now [connect Form Data Model to Microsoft® Azure Storage](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/use-form-data-model/configure-azure-storage.html?lang=en). It lets you retrieve and store adaptive form data to Microsoft® Azure Storage as a BLOB.
 
-  * **Cloud Manager**
+  * **[!UICONTROL Cloud Manager]**
 
-    * Customers are now able to use Azul 8 and 11 JDKs for their Cloud Manager build processes. They can either select to use one of these JDKs for toolchains-compatible Maven plugins or the entire Maven process execution.
+    * Customers are now able to use Azul 8 and 11 JDKs for their [!UICONTROL Cloud Manager] build processes. They can either select to use one of these JDKs for toolchains-compatible Maven plugins or the entire Maven process execution.
     * The outbound egress IP is now logged in the build step log file.
     * Stage and Production environments running old versions of Experience Manager now report a status of **Update Available**.
     * The maximum SSL certificates supported has increased to 20 per program.
@@ -280,7 +280,7 @@ New videos, tutorials, and courses published over the past month.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|August 2021|[Adobe Asset Link 3.0](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html?lang=en)|Video |[!UICONTROL Asset Link] extension for Adobe Creative Cloud for enterprise extends the capability to search and browse, sort, preview, upload assets, check out, modify, check-in and view metadata of Experience Manager assets within Creative Cloud applications.|
+|August 2021|[Adobe Asset Link 3.0](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html?lang=en)|Video |[!UICONTROL Asset Link] extension for Adobe Creative Cloud for enterprise extends the capability to search and browse, sort, preview, upload assets, check out, modify, check-in, and view metadata of Experience Manager assets within Creative Cloud applications.|
 |August 2021|[Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/managing.html?lang=en)|Video |Learn about Asset Essentials, including folder structure and basic operations such as move, copy and rename. New videos also include how to [use assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/using.html?lang=en), [create content](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/creating.html?lang=en), and [collaborate](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/creating.html?lang=en) on asset management using comments, annotations and tasks.|
 |August 2021|[Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/using.html?lang=en)|Video |Learn how to filter, search, and download assets in Assets Essentials. assets in Assets Essentials.|
 |August 2021|[Pipeline Overview - Tour Guide](https://video.tv.adobe.com/v/335668)|Video |Get an overview of AEM as a Cloud Service's Cloud Manager Pipeline.|
@@ -359,7 +359,7 @@ Last updated: **August 12, 2021, for August 11 release**
 
 | Feature | Description |
 | ------- | ----------- |
-| Pre-bid viewability for placements |  Pre-bid viewability filters from Oracle Advertising (Moat) are now available for your placements. |
+| [!UICONTROL Pre-bid viewability] for placements |  [!UICONTROL Pre-bid viewability] filters from Oracle Advertising (Moat) are now available for your placements. |
 
 {style="table-layout:auto"}
 
@@ -369,7 +369,7 @@ Last updated: **August 12, 2021, for August 21 release**
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Portfolios] | A new [!UICONTROL Objectives Beta] with automated weight recommendations is available to all users. The new UI includes more guidance on creating objectives and setting initial goal weights. Weight recommendations are available for assist metrics only. |
+| [!UICONTROL Portfolios] | A new [!UICONTROL Objectives Beta] with automated weight recommendations is available to all users. The new interface includes more guidance on creating objectives and setting initial goal weights. Weight recommendations are available for assist metrics only. |
 
 {style="table-layout:auto"}
 
