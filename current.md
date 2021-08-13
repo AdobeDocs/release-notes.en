@@ -7,7 +7,7 @@ author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 ---
-# INTERNAL REVIEW - Adobe Experience Cloud Release Notes - August 2021 
+# Adobe Experience Cloud Release Notes - August 2021 
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
@@ -17,7 +17,7 @@ Experience Cloud applications and services are updated monthly. This page is you
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Latest update: **August 12, 2021**
+Latest update: **August 13, 2021**
 
 * [Experience Cloud Central Interface Components](#ecloud)
 * [Experience Platform](#platform)
