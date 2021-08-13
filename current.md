@@ -21,6 +21,7 @@ Latest update: **August 12, 2021**
 
 * [Experience Cloud Central Interface Components](#ecloud)
 * [Experience Platform](#platform)
+* [Adobe System Status](#status)
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
@@ -53,6 +54,12 @@ Experience Cloud Central Interface Components includes updates accessed from the
 * Administration help for [Central Interface Components](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) and user management
 * Help and release notes for [Places - Location Service](https://experienceleague.adobe.com/docs/places/using/release-notes.html?lang=en)
 * Help on [People - Customer Attributes and Audience Library](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=en).
+
+## ![Icon](/assets/adobe.png) Adobe System Status {#status}
+
+[!UICONTROL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe cloud products and services outage, disruption, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
+
+The most recent updates to Adobe System Status are found at [Adobe System Status - May 21, 2020](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=en) for the latest release information.
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
