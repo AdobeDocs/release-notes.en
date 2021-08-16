@@ -116,7 +116,7 @@ New videos, tutorials, or courses published for Adobe Campaign.
 
 [!UICONTROL Offer Decisioning] is an Application Service integrated with Adobe Experience Platform. Use [!UICONTROL Offer Decisioning] to deliver the best offer and experience to your customers across all touch points at the right time.
 
-* **June 2021 Release:** AI ranking allows you to create different ranking strategies (based on your business goals). These strategies can be used by a trained model system to rank the eligible offers to display for a given profile.
+* **July 2021 Release:** The new [!UICONTROL Overview] tab guides you through the main steps to get started with creating offer decisions. Once on-boarded, the same tab allows quick access to your most recent offers, collections and decisions.
 
 See [Offer Decisioning release notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html?lang=en#new) to stay up to date.
 
