@@ -59,13 +59,13 @@ Experience Cloud Central Interface Components includes updates accessed from the
 
 [!UICONTROL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe cloud products and services outage, disruption, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
-The most recent updates to Adobe System Status are found at [Adobe System Status - May 21, 2020](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=en) for the latest release information.
+You can find the latest release information for Adobe System Status in the [May 21, 2020](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=en) release notes.
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
 Includes release update information and new documentation for Experience Platform and Platform tagging.
 
-* **July 28, 2021** [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
+* **July 28, 2021** [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) (Next planned release: **August 19**)
 * **July 19, 2021** [Experience Platform tags release notes](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html) (formerly, Experience Platform Launch)
 
 ### Experience Platform tutorials and courses {#tutorials-platform}
@@ -85,7 +85,7 @@ With Adobe Journey Optimizer, you can manage scheduled omnichannel campaigns and
 
 ### Latest Journey Optimizer product releases
 
-Find out more about the latest capabilities, improvements, and fixes in the [Journey Orchestration Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=en).
+Find out more about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=en).
 
 **More resources for Journey Optimizer**
 
