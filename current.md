@@ -325,9 +325,9 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 Find out more about the latest capabilities, improvements, and fixes released:
 
-* Adobe Campaign Classic v8 8.1.14 release: Learn more in the [Campaign Classic v8 Release Notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/release-notes.html?lang=en)
+* [Campaign v8 8.1.14](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/release-notes.html?lang=en)
 * [Campaign Standard Release Notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
-* [Campaign Classic Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
+* [Campaign Classic v7 21.1.3 Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
 
 <!-- ### New [!UICONTROL Campaign] courses and tutorials {#tutorials-campaign}
 
