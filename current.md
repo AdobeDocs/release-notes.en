@@ -17,7 +17,7 @@ Experience Cloud applications and services are updated monthly. This page is you
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Latest update: **August 13, 2021**
+Latest update: **August 17, 2021**
 
 * [Experience Cloud Central Interface Components](#ecloud)
 * [Experience Platform](#platform)
@@ -25,7 +25,7 @@ Latest update: **August 13, 2021**
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
-* [[!DNL Analytics]](#analytics) and [Customer Journey Analytics](#cust-journey)
+* [[!DNL Analytics]](#analytics) and [Customer Journey Analytics](#cust-journey) Updated **August 17, 2021**
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
@@ -129,9 +129,9 @@ See [Offer Decisioning release notes](https://experienceleague.adobe.com/docs/of
 Release date: **August 19, 2021**
 
 * [New features in Adobe Analytics](#aa-features)
-* [New features in Customer Journey Analytics](#cust-journey) 
+* [New features in Customer Journey Analytics](#cust-journey) (Updated **August 17, 2021**)
 * [Fixes in Adobe Analytics](#aa-fixes)
-* [Important notices for Analytics administrators](#aa-notices)(Updated August 3, 2021)
+* [Important notices for Analytics administrators](#aa-notices)
 * [Analytics courses and tutorials](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -148,7 +148,7 @@ Release date: **August 19, 2021**
 | Feature | Description | [General Availability](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Target Date | 
 | ----------- | ---------- | ----- |
 | New Connections Info experience | This Connections UI enhancement lets you know whether and when your data is ready to be used in reporting. It also lets you track any issues with processing data. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=en)| August 19, 2021 |
-| Control over case sensitivity in Data View dimensions | Allows you to control whether Customer Journey Analytics treats dimension values as case sensitive. This allows for de-duplication of rows that have the same value, but a different case. | August 19, 2021 |
+| Control over case sensitivity in Data View dimensions | Allows you to control whether Customer Journey Analytics treats dimension values as case sensitive. This allows for de-duplication of rows that have the same value, but a different case. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=en#configure-behavior-settings) | August 19, 2021 |
 
 {style="table-layout:auto"}
 
