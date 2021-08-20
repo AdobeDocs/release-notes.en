@@ -17,7 +17,7 @@ Experience Cloud applications and services are updated monthly. This page is you
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Latest update: **August 17, 2021**
+Latest update: **August 20, 2021**
 
 * [Experience Cloud Central Interface Components](#ecloud)
 * [Experience Platform](#platform)
@@ -25,7 +25,7 @@ Latest update: **August 17, 2021**
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
 * [Offer Decisioning](#offer-decisioning)
-* [[!DNL Analytics]](#analytics) and [Customer Journey Analytics](#cust-journey) Updated **August 17, 2021**
+* [[!DNL Analytics]](#analytics) and [Customer Journey Analytics](#cust-journey) (updated **August 17, 2021**)
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
@@ -65,8 +65,7 @@ You can find the latest release information for Adobe System Status in the [May 
 
 Includes release update information and new documentation for Experience Platform and Platform tagging.
 
-* **July 28, 2021** [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) (Next planned release: **August 19**)
-* **July 19, 2021** [Experience Platform tags release notes](https://experienceleague.adobe.com/docs/experience-platform/tags/release-notes/current.html) (formerly, Experience Platform Launch)
+* **July 28, 2021** [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) (Next planned release - **August 25**)
 
 ### Experience Platform tutorials and courses {#tutorials-platform}
 
