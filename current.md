@@ -365,10 +365,11 @@ Last updated: **August 12, 2021, for August 11 release**
 
 ### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Last updated: **August 12, 2021, for August 21 release**
+Last updated: **August 20, 2021, for August 21 release**
 
 | Feature | Description |
 | ------- | ----------- |
+| &mdash; | The new beta Advertising Cloud Javascript tag uses the Adobe Experience Cloud ID (ECID) Service as well as the legacy ef_id and gsurferid to measure conversions. The new tag creates [first-party Experience Cloud s_ecid cookies](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-first-party.html) and provides tighter integration with other Experience Cloud products.<br><br>The legacy Advertising Cloud Javascript tag with ITP mapping will be deprecated in September 2021.<br><br>Your Adobe account manager will contact you with more information and implementation instructions. |
 | [!UICONTROL Portfolios] | A new [!UICONTROL Objectives Beta] with automated weight recommendations is available to all users. The new interface includes more guidance on creating objectives and setting initial goal weights. Weight recommendations are available for assist metrics only. |
 
 {style="table-layout:auto"}
