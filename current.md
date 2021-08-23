@@ -382,6 +382,8 @@ See the following links for Adobe Commerce release notes:
 
 ## ![Icon](/assets/target.png) [!DNL Target] {#target}
 
+Last Updated: **August 3, 2021**
+
 See [[!DNL Target] release notes](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en) for the latest release information.
 
 ## ![Icon](/assets/marketo.png) [!DNL Marketo Engage] {#marketo}
