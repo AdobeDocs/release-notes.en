@@ -17,10 +17,10 @@ Experience Cloud applications and services are updated monthly. This page is you
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Latest update: **August 20, 2021**
+Latest update: **August 25, 2021**
 
 * [Experience Cloud Central Interface Components](#ecloud)
-* [Experience Platform](#platform)
+* [Experience Platform](#platform) (updated **August 25, 2021**)
 * [Adobe System Status](#status)
 * [Journey Optimizer](#journey-opt)
 * [Journey Orchestration](#journey-orch)
@@ -65,7 +65,13 @@ You can find the latest release information for Adobe System Status in the [May 
 
 Includes release update information and new documentation for Experience Platform and Platform tagging.
 
-* **July 28, 2021** [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) (Next planned release - **August 25**)
+**August 25, 2021** updates to existing features in Experience Platform include:
+
+* Observability Insights
+* Real-time Customer Profile
+* Sources
+
+See [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) for details.
 
 ### Experience Platform tutorials and courses {#tutorials-platform}
 
