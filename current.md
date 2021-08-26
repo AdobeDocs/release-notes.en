@@ -17,8 +17,9 @@ Experience Cloud applications and services are updated monthly. This page is you
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Latest update: **August 25, 2021**
+Latest update: **August 26, 2021**
 
+* [Event notice for Experience League Live](#events) - **August 26, 2021**
 * [Experience Cloud Central Interface Components](#ecloud)
 * [Experience Platform](#platform) (updated **August 25, 2021**)
 * [Adobe System Status](#status)
@@ -38,6 +39,14 @@ Latest update: **August 25, 2021**
 * [Creative Cloud for enterprise](#creative-cloud)
   
 Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#home) to find product and technical documentation, Adobe-curated courses, video tutorials, quick answers, community insight, and instructor-led training.
+
+## Event notice for Experience League Live - Make Your Next Audience Segment Smarter than Ever {#events}
+
+Get to know the Segment Builder in Experience Platform LIVE with Aaron Shields, Yaya Wang, and Andres Monroy!
+
+**Event:** [Make your next audience segment smarter than ever](https://www.youtube.com/watch?v=rogVKsTFbWk)
+
+**When:** August 26, 2021 at 9:00 a.m. PST
 
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloud Central UI Components {#ecloud}
 
