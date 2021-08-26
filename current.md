@@ -40,13 +40,11 @@ Latest update: **August 26, 2021**
   
 Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#home) to find product and technical documentation, Adobe-curated courses, video tutorials, quick answers, community insight, and instructor-led training.
 
-## Event notice for Experience League Live - Make Your Next Audience Segment Smarter than Ever {#events}
+## ![Icon](/assets/experience-league.png) Experience League Live {#events}
 
-Get to know the Segment Builder in Experience Platform LIVE with Aaron Shields, Yaya Wang, and Andres Monroy!
+**August 26, 2021** | [Make your next audience segment smarter than ever](https://www.youtube.com/watch?v=rogVKsTFbWk) - Get to know the Segment Builder in Experience Platform with Doug Moore, Aaron Shields, Yaya Wang, and Andres Monroy!
 
-**Event:** [Make your next audience segment smarter than ever](https://www.youtube.com/watch?v=rogVKsTFbWk)
-
-**When:** August 26, 2021 at 9:00 a.m. PST
+For more videos, visit the [Adobe Experience League Channel](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) on YouTube.
 
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloud Central UI Components {#ecloud}
 
