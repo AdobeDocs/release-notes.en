@@ -208,12 +208,12 @@ New courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Custome
 
 ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
 
-Fixes and improvements in Audience Manager.
+| Feature | Description |
+| ------- | ------- |
+| Mobile ID data collection consent | Added support for mobile ID data collection consent. To benefit from this update, customers must upgrade to [AEP Mobile SDK iOS Core 2.8.0](https://aep-sdks.gitbook.io/docs/foundation-extensions/mobile-core/mobile-core-release-notes#november-4-2020) or later. |
 
 ### Fixes and Improvements {#aam-fixes-and-improvements}
 
-* Fixed an issue reported by customers using the [Bulk Management tools](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/bulk-management-tools/bulk-management-intro.html). Customers were experiencing errors due to the `traitAlias` field, when updating the segment-to-destination mappings. (AAM-58789)
-* Fixed an issue encountered when access to a data feed was revoked or canceled. The email sent to removed users had the recipients in the **To** field instead of **Bcc**. (AAM-58512)
 
 ## ![Icon](/assets/aem.png) Experience Manager {#aem}
 
