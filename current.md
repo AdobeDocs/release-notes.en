@@ -171,7 +171,7 @@ Release date: **September 15, 2021**
 ### Fixes in Adobe Analytics and CJA {#aa-fixes}
 
 * Fixed an issue that prevented admins in newly Analytics-provisioned companies from creating the first report suite. (AN-265842, AN-269752)
-* Fixed issues with data feeds not getting delivered.	(AN-268758, AN-268737, AN-268568, AN-268759, AN-264728)
+* Fixed issues with data feeds not getting delivered. (AN-268758, AN-268737, AN-268568, AN-268759, AN-264728)
 * Fixed an issue that caused lift and confidence to not be calculated in the A4T report in the Target UI. (AN-264841)
 * Fixed an issue with the AppMeasurement library not loading in in-app browsers on iOS devices. (AN-247942)
 * Fixed an issue with Activity Map settings not appearing in report suite settings. (AN-267243)
