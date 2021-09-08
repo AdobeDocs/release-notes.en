@@ -161,18 +161,25 @@ Release date: **September 15, 2021**
 
 | Feature | Description | [General Availability](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Target Date | 
 | ----------- | ---------- | ----- |
-| New Connections Info experience | This Connections UI enhancement lets you know whether and when your data is ready to be used in reporting. It also lets you track any issues with processing data. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=en)| August 19, 2021 |
-| Control over case sensitivity in Data View dimensions | Allows you to control whether Customer Journey Analytics treats dimension values as case sensitive. This allows for de-duplication of rows that have the same value, but a different case. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=en#configure-behavior-settings) | August 19, 2021 |
+| Metric deduplication| CJA can now de-duplicate instances of a metric (for example, Orders), if multiple rows have the same transaction ID (for example, purchase ID). This prevents over-counting of key metrics and increases trust in the data. | September 16, 2021 |
+| Daylight savings time support for reporting | All data in CJA is stored in UTC (not with a specific time zone). Data Views in CJA can now shift data to account for the 1-hour increase or decrease based on daylight savings. | September 16, 2021 |
+| Custom calendars | Lets you select a different calendar type (such as retail 4-4-5) to apply to your data, to align CJA reporting with corporate calendars. | September 16, 2021 |
+| Boolean field support | CJA now supports Boolean fields. | September 16, 2021 |
 
 {style="table-layout:auto"}
 
-### Fixes in Adobe Analytics {#aa-fixes}
+### Fixes in Adobe Analytics and CJA {#aa-fixes}
 
-* Fixed an issue where virtual report suites did not appear in Publishing List manager. (AN-262683)
+* Fixed an issue that prevented admins in newly Analytics-provisioned companies from creating the first report suite. (AN-265842, AN-269752)
+* Fixed issues with data feeds not getting delivered.	(AN-268758, AN-268737, AN-268568, AN-268759, AN-264728)
+* Fixed an issue that caused lift and confidence to not be calculated in the A4T report in the Target UI. (AN-264841)
+* Fixed an issue with the AppMeasurement library not loading in in-app browsers on iOS devices. (AN-247942)
+* Fixed an issue with Activity Map settings not appearing in report suite settings. (AN-267243)
+* (CJA) Fixed an issue that resulted in CJA now using the currency symbol instead of the currency code in reporting.(AN-268881)
 
-#### Additional fixes in Adobe Analytics or CJA
+#### Additional fixes in Adobe Analytics
 
-AN-211870; AN-255578; AN-258376; AN-260732; AN-260854; AN-261294; AN-263094; AN-263335; AN-263887; AN-264018; AN-264386; AN-264946; AN-265170; AN-265240; AN-265257; AN-265385; AN-265435; AN-265499; AN-265539; AN-265708; AN-265799; AN-265864; AN-265942; AN-266103; AN-266172; AN-266187; AN-266246; AN-266371; AN-266395; AN-266737
+AN-224899; AN-239753; AN-256295; AN-262122; AN-262449; AN-263969; AN-264665; AN-265223; AN-265260; AN-265519; AN-265579; AN-266199; AN-266354; AN-266968; AN-267564; AN-267624; AN-267711; AN-267781; AN-268170; AN-268267; AN-268334; AN-268402; AN-268551; AN-268675; AN-269000; AN-269050; AN-269059; AN-269305; AN-269531
 
 ### Important notices for [!DNL Analytics] administrators {#aa-notices}
 
