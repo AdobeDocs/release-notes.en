@@ -130,13 +130,13 @@ New videos, tutorials, or courses published for Adobe Campaign.
 
 [!UICONTROL Offer Decisioning] is an Application Service integrated with Adobe Experience Platform. Use [!UICONTROL Offer Decisioning] to deliver the best offer and experience to your customers across all touch points at the right time.
 
-* **July 2021 Release:** The new [!UICONTROL Overview] tab guides you through the main steps to get started with creating offer decisions. Once on-boarded, the same tab allows quick access to your most recent offers, collections and decisions.
+### Latest Offer Decisioning product releases
 
-See [Offer Decisioning release notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html?lang=en#new) to stay up to date.
+Find out more about the latest capabilities, improvements, and fixes in the [Offer Decisioning Release Notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html).
 
-**More resources for Offer Decisioning**
+### More resources for Offer Decisioning
 
-[Documentation](https://experienceleague.adobe.com/docs/offer-decisioning/using/offer-decisioning-home.html?lang=en) - [Release Notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html?lang=en#new) - [How-to videos](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html?lang=en)
+[Help Center](https://experienceleague.adobe.com/docs/offer-decisioning/using/offer-decisioning-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html#new) - [How-to videos](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/documentation-updates.html)
 
 ## ![Icon](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
@@ -272,7 +272,7 @@ Release notes and other release information links for Experience Manager are her
 
 Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
 
-### Latest product releases
+### Latest Campaign product releases
 
 Find out more about the latest capabilities, improvements, and fixes released:
 
@@ -294,7 +294,7 @@ Find out more about the latest capabilities, improvements, and fixes released:
 
 * Adobe Campaign v8: [Help Center](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html) - [Implementation Guides](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html)
 * Adobe Campaign Standard: [Help Center](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html) - [Release Planning](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html)
-* Adobe Campaign Classic: [Help Center](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [How-to videos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html)- [Latest documentation updates](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html)
+* Adobe Campaign Classic: [Help Center](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [How-to videos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html)
 * Adobe Campaign Control Panel: [Documentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en) - How-to-videos for [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html) / [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html)
 
 ## ![Icon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
