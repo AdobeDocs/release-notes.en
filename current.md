@@ -165,6 +165,7 @@ Release date: **September 15, 2021**
 | Daylight savings time support for reporting | All data in CJA is stored in UTC (not with a specific time zone). Data Views in CJA can now shift data to account for the 1-hour increase or decrease based on daylight savings. | September 16, 2021 |
 | Custom calendars | Lets you select a different calendar type (such as retail 4-4-5) to apply to your data, to align CJA reporting with corporate calendars. | September 16, 2021 |
 | Boolean field support | CJA now supports Boolean fields. | September 16, 2021 |
+| New Connections Info experience |	This Connections UI enhancement lets you know whether and when your data is ready to be used in reporting. It also lets you track any issues with processing data. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=en) | September 20, 2021 |
 
 {style="table-layout:auto"}
 
