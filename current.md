@@ -363,8 +363,8 @@ Last updated: **August 20, 2021, for August 21 release**
 
 See the following links for Adobe Commerce release notes:
 
-* [Magento Commerce and Open Source](https://devdocs.magento.com/guides/v2.4/release-notes/open-source-2-4-3.html)
-* [Cloud Suite](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
+* [Adobe Commerce and Magento Open Source](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
+* [Cloud Suite for Adobe Commerce](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
 
 ## ![Icon](/assets/target.png) [!DNL Target] {#target}
 
