@@ -238,9 +238,20 @@ New courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Custome
 
 Adobe recommends visiting the [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) page to stay current on release information.
 
-### Experience Manager product releases
+### Community
 
-New content goes here.
+* [List of latest Adobe Experience Manager content on Experience League | September 2021](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/list-of-latest-adobe-experience-manager-content-on-experience/m-p/421751#M29908)
+
+    A comprehensive list of the latest article is [here](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/list-of-latest-adobe-experience-manager-content-on-experience/m-p/421751#M29908).
+
+* [Adobe Experience Cloud](https://www.linkedin.com/company/adobe-experience-cloud/) communities are the heartbeat that connect, engage, and empower our users to create game-changing digital experiences for their customers.
+
+    To see a list of all the members, visit the [Adobe blog](https://blog.adobe.com/en/publish/2021/09/02/introducing-the-2021-adobe-community-advisors.html#gs.a6braz).
+
+* [How to submit a new Feature request/Suggestion for the Experience Manager?](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425)
+
+    New process to submit Experience Manager feature requests is Live Now. See [Create an idea](https://experienceleaguecommunities.adobe.com/t5/forums/postpage/board-id/adobe-experience-manager-ideas) | More [details here](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425) | [Submitting guidelines](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/guidelines-for-submitting-a-new-experience-manager-aem-idea/m-p/382376#M27427)
+
 
 ### New Experience Manager courses and tutorials {#tutorials-aem}
 
