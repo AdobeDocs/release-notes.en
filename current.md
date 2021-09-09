@@ -225,10 +225,6 @@ New courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Custome
 
 ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
 
-| Feature | Description |
-| ------- | ------- |
-| Mobile ID data collection consent | Added support for mobile ID data collection consent. To benefit from this update, customers must upgrade to [AEP Mobile SDK iOS Core 2.8.0](https://aep-sdks.gitbook.io/docs/foundation-extensions/mobile-core/mobile-core-release-notes#november-4-2020) or later. |
-
 ## ![Icon](/assets/aem.png) Experience Manager {#aem}
 
 Adobe recommends visiting the [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) page to stay current on release information.
