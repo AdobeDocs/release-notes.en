@@ -7,11 +7,11 @@ author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 ---
-# INTERNAL REVIEW - Adobe Experience Cloud Release Notes - September 2021 
+# Adobe Experience Cloud Release Notes - September 2021 
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
-Experience Cloud applications and services are updated monthly. This page is your central location for finding the latest release updates, documentation, and tutorials for [!DNL Experience Cloud] and [!DNL Experience Platform]. You can also find new documentation for [!DNL Creative Cloud for Enterprise] and [!DNL Document Cloud]. 
+[!DNL Experience Cloud] applications and services are updated monthly. This page is your central location for finding the latest release updates, documentation, and tutorials for [!DNL Experience Cloud] and [!DNL Experience Platform]. You can also find new documentation for [!DNL Creative Cloud for Enterprise] and [!DNL Document Cloud]. 
 
 >[!NOTE]
 >
@@ -19,32 +19,32 @@ Experience Cloud applications and services are updated monthly. This page is you
 
 Latest update: **September 10, 2021**
 
-* [Experience League Live Events](#events)
-* [Experience Cloud Central Interface Components & Administration](#ecloud)
+* [[!DNL Experience League] Live Events](#events)
+* [[!DNL Experience Cloud Central Interface Components] & Administration](#ecloud)
 * [Adobe System Status](#status)
-* [[!DNL Analytics]](#analytics) and [Customer Journey Analytics](#cust-journey)
-* [[!DNL Audience Manager]](#aam)
-* [Experience Platform](#platform)
-* [[!DNL Journey Optimizer]](#journey-opt)
-* [[!DNL Experience Manager]](#aem)
-* [[!DNL Campaign]](#ac)
-* [[!DNL Advertising Cloud]](#adcloud)
-* [[!DNL Target]](#target)
-* [[!DNL Commerce]](#magento) (Magento)
-* [[!DNL Marketo Engage]](#marketo)
-* [[!DNL Workfront]](#workfront)
+* [[!DNL Adobe Analytics]](#analytics) and [Customer Journey Analytics](#cust-journey)
+* [[!DNL Adobe Audience Manager]](#aam)
+* [Adobe Experience Platform](#platform)
+* [[!DNL Adobe Journey Optimizer]](#journey-opt)
+* [[!DNL Adobe Experience Manager]](#aem)
+* [[!DNL Adobe Campaign]](#ac)
+* [[!DNL Adobe Advertising Cloud]](#adcloud)
+* [[!DNL Adobe Target]](#target)
+* [[!DNL Adobe Commerce]](#magento)
+* [[!DNL Adobe Marketo Engage]](#marketo)
+* [[!DNL Adobe Workfront]](#workfront)
 * [Document Cloud](#doc-cloud)
 * [Creative Cloud for enterprise](#creative-cloud)
   
 Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#home) to find product and technical documentation, Adobe-curated courses, video tutorials, quick answers, community insight, and instructor-led training.
 
-## ![Icon](/assets/experience-league.png) Experience League Live Events {#events}
+## ![Icon](/assets/experience-league.png) [!DNL Experience League] Live Events {#events}
 
-Experience League Live Events are discussions with Adobe experts and special guests who are instrumental in bringing Adobe technology to you. See the following schedule and join us live, or watch previously recorded events.
+[!DNL Experience League] Live Events are discussions with Adobe experts and special guests who are instrumental in bringing Adobe technology to you. See the following schedule and join us live or watch previously recorded events.
 
 |Event Date|Event Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|September 23, 2021 |[Expert tips to make your holiday campaigns stand out](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw)|Live video event |Just like it’s never too early to start your holiday shopping, it’s never too early to start planning for a wildly successful holiday marketing campaign. With Adobe Campaign, you can design, plan, and execute campaigns that make all your organization’s holiday wishes come true.<br>But do you know all the tips for running campaigns that will finish the year out with a bang? Join us for a live discussion featuring three Adobe experts who have eons of collective expertise in doing just that. [Details...](https://www.youtube.com/watch?v=bsU1lAv0xes)|
+|September 23, 2021 |[Expert tips to make your holiday campaigns stand out](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw)|Live video event |Just like it’s never too early to start your holiday shopping, it’s never too early to start planning for a wildly successful holiday marketing campaign. With Adobe Campaign, you can design, plan, and execute campaigns that make all your organization’s holiday wishes come true.<br>But do you know all the tips for running campaigns that finish the year out with a bang? Join us for a live discussion featuring three Adobe experts who have eons of collective expertise in doing just that. [Details...](https://www.youtube.com/watch?v=bsU1lAv0xes)|
 |August 26, 2021|[Make Your Next Audience Segment Smarter than Ever](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-02.html?lang=en)|Event recording|The success of every good marketing campaign hinges on precisely targeting your audience. With the new Adobe Experience Platform [!UICONTROL Segment Builder], you can build your next audience segment using profile data and time-based user behavior across channels. There’s no better way to ensure that your messages reach the people who need to hear them most.|
 |July 29, 2021|[My Three Favorite Adobe Analytics Implementation Tips](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-01.html?lang=en)|Event recording |You’ve seen him on-stage at Summit. You’ve heard him share expert advice at Adobe Insider Tours. You may have even had the benefit of working with him on your own Adobe Analytics implementation. Now, Eric Matisoff is bringing his three favorite Adobe Analytics implementation tips to this exclusive Experience League Live discussion.|
 
@@ -52,21 +52,21 @@ Experience League Live Events are discussions with Adobe experts and special gue
 
 For more videos, visit the [Adobe Experience League Channel](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) on YouTube.
 
-## ![Icon](/assets/ec_appicon_24.png) Experience Cloud Central UI Components & Administration {#ecloud}
+## ![Icon](/assets/ec_appicon_24.png) [!DNL Experience Cloud Central UI Components] & Administration {#ecloud}
 
-Not updated this month.
+Not updated this month. Check back frequently for updates.
 
-**More help resources for Experience Cloud Central UI Components**
+**More help resources on [!DNL Experience Cloud Central UI Components] & Administration**
 
 * Administration help for [Central Interface Components](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) and user management
 * Help and release notes for [Places - Location Service](https://experienceleague.adobe.com/docs/places/using/release-notes.html?lang=en)
 * Help on [People - Customer Attributes and Audience Library](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=en).
 
-## ![Icon](/assets/adobe.png) Adobe System Status {#status}
+## ![Icon](/assets/adobe.png) [!DNL Adobe System Status] {#status}
 
-[!UICONTROL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe cloud products and services outage, disruption, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
+[!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services outage, disruption, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
-You can find the latest release information for Adobe System Status in the [May 21, 2020](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=en) release notes.
+(Find the latest release information for [!DNL Adobe System Status] in the [May 21, 2020](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=en) release notes.)
 
 ## ![Icon](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
@@ -81,7 +81,7 @@ Release date: **September 15, 2021**
 
 ### New features in Adobe Analytics {#aa-features}
 
-| Feature | Description | [General Availability](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Target Date |
+| Feature | Description | [General Availability](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) - Target Date |
 | ----------- | ---------- | ------- |
 | No new features this month| N/A |
 
@@ -89,11 +89,11 @@ Release date: **September 15, 2021**
 
 ### New features in Customer Journey Analytics {#cust-journey}
 
-| Feature | Description | [General Availability](https://experienceleague.adobe.com/docs/analytics/landing/an-releases.html?lang=en) - Target Date |
+| Feature | Description | [General Availability](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) - Target Date |
 | ----------- | ---------- | ----- |
 | Metric deduplication | Customer Journey Analytics (CJA) can now deduplicate instances of a metric. If the same value is seen a column (either itself or another column), you can prevent a metric from increasing. Deduplication prevents over-counting of key metrics and increases trust in your data. | September 16, 2021 |
 | Daylight savings time support for reporting | All data in CJA is stored in UTC (not with a specific time zone). [!UICONTROL Data Views] in CJA can now shift data to account for the 1-hour increase or decrease based on daylight savings. | September 16, 2021 |
-| Custom calendars | Lets you select a different calendar type (such as retail 4-4-5) for a data view. You can create multiple data views based on the same connection to see the same data in different calender formats. | September 16, 2021 |
+| [!UICONTROL Custom calendars] | Lets you select a different calendar type (such as [!UICONTROL retail 4-4-5]) for a data view. You can create multiple data views based on the same connection to see the same data in different calender formats. | September 16, 2021 |
 | Boolean field support | CJA now supports Boolean fields. | September 16, 2021 |
 | New [!UICONTROL Connections] Info experience | This [!UICONTROL Connections] UI enhancement lets you know whether and when your data is ready to be used in reporting. It also lets you track any issues with processing data. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=en) | September 20, 2021 |
 
@@ -103,7 +103,7 @@ Release date: **September 15, 2021**
 
 * Fixed an issue that prevented admins in newly Analytics-provisioned companies from creating the first report suite. (AN-265842, AN-269752)
 * Fixed issues with data feeds not getting delivered. (AN-268758, AN-268737, AN-268568, AN-268759, AN-264728)
-* Fixed an issue that caused lift and confidence to not be calculated in the A4T report in the [!DNL Target] UI. (AN-264841)
+* Fixed an issue that caused lift and confidence to not be calculated in the [!UICONTROL A4T] report in the [!DNL Target] UI. (AN-264841)
 * Fixed an issue with the AppMeasurement library not loading in in-app browsers on iOS devices. (AN-247942)
 * Fixed an issue with Activity Map settings not appearing in report suite settings. (AN-267243)
 * (CJA) Fixed an issue that resulted in CJA now using the currency symbol instead of the currency code in reporting.(AN-268881)
@@ -116,8 +116,8 @@ AN-224899; AN-239753; AN-256295; AN-262122; AN-262449; AN-263969; AN-264665; AN-
 
 | Notice | Date Added or Updated  | Description |
 | ----------- | ---------- | ---------- |
-| EOL of Adobe Data Connectors | August 3, 2020 | Adobe [!UICONTROL Data Connectors] are powered by legacy technology that is no longer viable or supported. A new standard is available in the [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud). You can use that standard for any integration to continue to be offered and supported. The official end-of-life date is **August 19, 2021**. [Learn more...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=en) |
-| EOL of Full Processing Data Sources | April 12, 2021 | Adobe deprecated full processing data sources **on July 31, 2021**. As of March 25, 2021, new imports of this type can no longer be created. Please use [Bulk Data Insertion API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) to import this type of data. |
+| EOL of Adobe [!UICONTROL Data Connectors] | August 3, 2020 | Adobe [!UICONTROL Data Connectors] are powered by legacy technology that is no longer viable or supported. A new standard is available in the [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud). You can use that standard for any integration to continue to be offered and supported. The official end-of-life date is **August 19, 2021**. [Learn more...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=en) |
+| EOL of Full Processing [!UICONTROL Data Sources] | April 12, 2021 | Adobe deprecated full processing data sources **on July 31, 2021**. As of March 25, 2021, new imports of this type can no longer be created. Please use [Bulk Data Insertion API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) to import this type of data. |
 
 {style="table-layout:auto"}
 
@@ -131,23 +131,23 @@ New courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Custome
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|September 2021|[Foundational Metrics in Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.html)|Video |Get a conceptual description of basic visitor metrics in Adobe Analytics and how they relate to each other. Learn several example use cases for when to use [!UICONTROL Page Views], [!UICONTROL Visits], and [!UICONTROL Unique Visitors] in reporting.|
-|September 2021|[Table and Visualization Data Source Settings](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/table-and-visualization-data-source-settings.html?lang=en)|Video |In this video, see how tables and visualizations are tied together through settings, and learn how to configure those settings for different analysis use cases.|
-|September 2021|[Send Data Warehouse request via SFTP](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/data-warehouse/send-data-warehouse-request-via-sftp.html?lang=en)|Video |Learn how to send [!UICONTROL Data Warehouse] requests via SFTP. Data Warehouse refers to the copy of Analytics data for storage and custom reports, which you can run by filtering the data. You can request reports to display advanced data relationships from raw data based on your unique questions.|
-|September 2021|[Check Linked IMS ID to prevent login issues](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/user-management/check-linked-ims-id-to-prevent-login-issues.html?lang=en)|Video |Incorrect or missing Linked IMS ID in Adobe Analytics can lead to login issues for the users. Users can check the Linked IMS ID themselves and contact customer support for any issues, thus saving the hassle of performing common troubleshooting steps.|
-|September 2021|[Rerun a Data Feed job](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/data-feeds/rerun-a-data-feed-job.html?lang=en)|Video |Data feed UI in Adobe Analytics makes data feed management much easier. If you have the access to manage data feed, you can rerun a data feed job on your own using the data feed UI, without having the customer support team to resend the recent data feed files.|
-|September 2021|[Find your Data Feed ID](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/data-feeds/find-your-data-feed-id.html?lang=en)|Video |At times, you may need to contact Adobe in case of a failed data feed delivery or with a request to resend a data feed file. It becomes convenient for customer support team to handle such requests if the Data feed ID is provided by the customer.|
-|September 2021|[View your accounts available features](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/company-settings/view-your-accounts-available-features.html?lang=en)|Video | View [!UICONTROL Feature Access Levels] settings under [!UICONTROL Admin] section on Analytics allows you to view the level of access to Adobe Analytics packages and features that your company is entitled to. This includes: Activity Map, Advertising Analytics, Anomaly detection in alerts, and so on.|
+|September 2021|[Foundational Metrics in Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.html)|Video |Get a conceptual description of basic visitor metrics in Adobe Analytics and how they relate to each other. Learn several use cases for when to use [!UICONTROL Page Views], [!UICONTROL Visits], and [!UICONTROL Unique Visitors] in reporting.|
+|September 2021|[Table and Visualization [!UICONTROL Data Source] Settings](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/table-and-visualization-data-source-settings.html?lang=en)|Video |See how tables and visualizations are tied together through settings, and learn how to configure those settings for different analysis use cases.|
+|September 2021|[Send Data Warehouse request via SFTP](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/data-warehouse/send-data-warehouse-request-via-sftp.html?lang=en)|Video |Learn how to send [!UICONTROL Data Warehouse] requests via SFTP. [!UICONTROL Data Warehouse] refers to the copy of Analytics data for storage and custom reports, which you can run by filtering the data. You can request reports to display advanced data relationships from raw data based on your unique questions.|
+|September 2021|[Check Linked IMS ID to prevent login issues](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/user-management/check-linked-ims-id-to-prevent-login-issues.html?lang=en)|Video |Incorrect or missing Linked IMS IDs in Adobe Analytics can lead to login issues for users. Users can check the Linked IMS ID themselves and contact customer support for any issues, saving the hassle of performing common troubleshooting steps.|
+|September 2021|[Rerun a Data Feed job](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/data-feeds/rerun-a-data-feed-job.html?lang=en)|Video |The [!UICONTROL Data Feed] UI in Adobe Analytics makes data feed management much easier. If you have the access to manage the data feed, you can rerun a data feed job on your own using the data feed interface without having the customer support team resending the recent data feed files.|
+|September 2021|[Find your Data Feed ID](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/data-feeds/find-your-data-feed-id.html?lang=en)|Video |At times, you may need to contact Adobe if there is a failed data feed delivery or with a request to resend a data feed file. It becomes convenient for customer support team to handle such requests if the [!UICONTROL Data feed] ID is provided by the customer.|
+|September 2021|[View your accounts available features](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/company-settings/view-your-accounts-available-features.html?lang=en)|Video | View [!UICONTROL Feature Access Levels] settings under [!UICONTROL Admin] section on [!DNL Analytics] allows you to view the level of access to [!DNL Analytics] packages and features that your company is entitled to. This view is available for Activity Map, Advertising Analytics, Anomaly detection in alerts, and so on.|
 |September 2021|[Manage an upcoming traffic spike](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/traffic-management/manage-an-upcoming-traffic-spike.html?lang=en)|Video |Adobe attempts to partner with clients to ensure that a high-traffic event is successful. Scheduling traffic spikes is the starting point in that partnering process. The [!UICONTROL Schedule Spike] section lets you alert Adobe of temporary traffic spikes so that appropriate resources can be allocated to handle them.|
-|September 2021|[Enforce Email Domain Restrictions - Technical Video](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/company-settings/enforce-email-domain-restrictions.html?lang=en)|Video |The Security Manager lets you control access to reporting data. Options include strong passwords, password expiration, IP login restrictions, and email domain restrictions. Enforce Email Domain Restriction filters the email addresses and domains where Analytics sends bookmarks, downloadable reports, and alerts. The email filter list supports up to 100 entries, and each entry can be an email address or an entire email domain.|
-|September 2021|[Transfer user assets to a different user](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/user-management/transfer-user-assets-to-a-different-user.html?lang=en)|Video |Manage report users and groups on the [!UICONTROL User Management] page lets you manage users and groups, and control access to reports, tools and report suites. You can assign user account items like dashboards, calendar events, bookmarks, etc from one user account to that of another user trhough user management in Adobe Analytics.|
+|September 2021|[Enforce Email Domain Restrictions - Technical Video](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/company-settings/enforce-email-domain-restrictions.html?lang=en)|Video |The [!UICONTROL Security Manager] lets you control access to reporting data. Options include strong passwords, password expiration, IP login restrictions, and email domain restrictions. [!UICONTROL Enforce Email Domain Restriction] filters the email addresses and domains where Analytics sends bookmarks, downloadable reports, and alerts. The email filter list supports up to 100 entries, and each entry can be an email address or an entire email domain.|
+|September 2021|[Transfer user assets to a different user](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/user-management/transfer-user-assets-to-a-different-user.html?lang=en)|Video |The [!UICONTROL User Management] page lets you manage users and groups, and control access to reports, tools, and report suites. You can assign user account items like dashboards, calendar events, and bookmarks from one user account to another through [!UICONTROL User Management] in Adobe Analytics.|
 |September 2021|[Configure [!UICONTROL bot rules] in Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/configure-bot-rules-in-analytics.html?lang=en)|Video |[!UICONTROL Bot Rules] let you remove traffic from your report suite that is generated by known spiders and bots. Removing bot traffic can provide a more accurate measurement of user activity on your website. After bot rules are defined, all incoming traffic is compared against the defined rules. Traffic that matches any of these rules is not collected in the report suite and is not included in traffic metrics.|
-|September 2021|[Overview of Analytics admin logs](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/logs/overview-of-analytics-admin-logs.html?lang=en)|Video |Log files to help you see when users log in, their usage, access, report suites, and Admin changes. The admin log reports all changes made by administrators in admin tools. The log provides a gateway to user-defined reports from any of the three logs.|
-|September 2021|[View Analysis Workspace performance metrics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.html?lang=en)|Video |Various factors can influence the performance of a project within Analysis Workspace. Using the Performance option, you can see factors that impact your project’s performance, including network, browser, and project factors.|
-|September 2021|[Enable the Timestamp Optional setting](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/enable-the-timestamp-optional-setting.html?lang=en)|Video |[!UICONTROL Timestamps Optional] allows us to mix timestamped and non-timestamped data in the same global report suite, send timestamped data from a mobile app to a global report suite and upgrade apps to use offline tracking without having to create a new report suite.|
+|September 2021|[Overview of Analytics admin logs](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/logs/overview-of-analytics-admin-logs.html?lang=en)|Video |Log files help you see when users log in, their usage, access, report suites, and admin changes. The admin log reports all the changes made by administrators in [!UICONTROL Admin Tools]. The log provides a gateway to user-defined reports from any of the three logs.|
+|September 2021|[View Analysis Workspace performance metrics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.html?lang=en)|Video |Various factors can influence the performance of a project within Analysis Workspace. Using the [!UICONTROL Performance] option, you can see factors that impact your project’s performance, including network, browser, and project factors.|
+|September 2021|[Enable the Timestamp Optional setting](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/enable-the-timestamp-optional-setting.html?lang=en)|Video |[!UICONTROL Timestamps Optional] allows you to mix timestamped and non-timestamped data in the same global report suite. You can send timestamped data from a mobile app to a global report suite and upgrade apps to use offline tracking without having to create a report suite.|
 |September 2021|[Download the Data feed authentication key](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/data-feeds/download-the-data-feed-authentication-key.html?lang=en)|Video |Creating a data feed allows Adobe to know where to send raw data files, and what you would like to include in each file. SFTP support for data feeds is available in Analytics. It requires an SFTP host, username, and the destination site to contain a valid RSA or DSA public key. You can download the appropriate public key when creating the feed.|
 |September 2021|[Customize visualization legends](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/customize-visualization-legends.html?lang=en)|Video |Customizing the legends in your visualizations, also known as series label editing, is a great way to make your visualizations more understandable for everyone looking at the reports.|
-|September 2021|[Dimension-Graph Live Linking in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/dimension-graph-live-linking.html?lang=en)|Video |We don’t quite know what to call this, but it’s cool. When you create a line graph from a dimension value, you can now select different dimension values and change the graph dynamically. Watch the video to learn more!|
+|September 2021|[Dimension-Graph Live Linking in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/dimension-graph-live-linking.html?lang=en)|Video |We don’t quite know what to call this, but it’s cool! When you create a line graph from a dimension value, you can now select different dimension values and change the graph dynamically. Watch the video to learn more!|
 
 {style="table-layout:auto"}
 
@@ -177,7 +177,7 @@ New videos, tutorials, or courses published for Experience Platform and services
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|September 2021|[Use alerts](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/use-alerts.html)|Video |Learn how to subscribe to and administer alerts in Adobe Experience Platform. Alerts help you monitor various processes to make sure your Platform implementation is running smoothly.|
+|September 2021|[Use alerts](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/use-alerts.html)|Video |Learn how to subscribe to and administer alerts in Adobe Experience Platform. Alerts help you monitor various processes to make sure that your Platform implementation is running smoothly.|
 |September 2021|[Product profiles](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/managing-product-profiles.html)|Video |Learn how to create a product profile and assign users, developers, admins, and permissions.|
 |September 2021|[Introduction to Admin Console](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/admin-console.html)|Video |A high-level overview of the access control hierarchy workflow for Experience Platform.|
 
@@ -194,9 +194,9 @@ Features, fixes, and new help content for Journey Orchestration.
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |August 2021|[Introduction to building a journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html)|Video |Understand the basics of building a journey in the journey canvas.|
-|August 2021|[Set up data - overview](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/get-started/data-configuration/set-up-data-overview.html)|Video |Learn about real-time customer profile data and the steps required to set up customer profile data for Journey Optimizer.|
-|August 2021|[Map identities](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/get-started/data-configuration/map-identities.html)|Video |Learn how and when to label a schema field as an identity, how to create a namespace, when to make an identity primary, and how to ingest and verify identity data.|
-|August 2021|[Use Case - Burst Message](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-burst-message.html)|Video |Understand the applicable use cases for burst messaging. Learn how to configure a journey for burst messages and which best practices to apply.|
+|August 2021|[Set up data - overview](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/set-up-data-overview.html)|Video |Learn about real-time customer profile data and the steps required to set up customer profile data for Journey Optimizer.|
+|August 2021|[Map identities](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/map-identities.html)|Video |Learn how and when to label a schema field as an identity, how to create a namespace, when to make an identity primary, and how to ingest and verify identity data.|
+|August 2021|[Use Case - Burst Message](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html)|Video |Understand the applicable use cases for burst messaging. Learn how to configure a journey for burst messages and which best practices to apply.|
 
 {style="table-layout:auto"}
 
@@ -223,7 +223,7 @@ See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-not
 |Feature|Description |
 | -----------| ---------- |
 |[!UICONTROL Send-Time Optimization]|Automatically send your push or email at the best time for every customer you engage with Adobe Journey Optimizer. |
-|Leverage schema relationships |You can now leverage relationships between schemas when configuring a business events.  |
+|Leverage schema relationships |You can now leverage relationships between schemas when configuring a business event.  |
 |[!UICONTROL Retry time period]|You can now define the retry period on a per preset basis to ensure that retry attempts are not performed anymore when no longer needed.  |
 |[!UICONTROL Suppression list] |Adding email addresses and domains into the suppression list is now available from the user interface, either one by one, either in bulk mode through a CSV file upload. |
 
@@ -330,8 +330,8 @@ New videos, tutorials, and courses published over the past month.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|September 2021|[AEM Back-end Developer Fundamentals](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2019.1.backend)|Course |Take a deep-dive into back-end development with Adobe Experience Manager. Learn best practices for working with Java APIs, Sling Models and unit testing.|
-|September 2021|[Getting started with Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html)|Video |Learn how Assets Essentials offers an intuitive and user-friendly user interface, making assets and related information easy to find and remember.|
+|September 2021|[Experience Manager Back-end Developer Fundamentals](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2019.1.backend)|Course |Take a deep-dive into back-end development with Adobe Experience Manager. Learn best practices for working with Java™ APIs, Sling Models and unit testing.|
+|September 2021|[Getting started with Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html)|Video |Learn how [!UICONTROL Assets Essentials] offers an intuitive and user-friendly user interface, making assets and related information easy to find and remember.|
 |September 2021|[Provisioning Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html)|Video |Learn how to deploy Assets Essentials using Cloud Manager, and provision user access.|
 |September 2021|[Creative Cloud and Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/creative-cloud.html?lang=en)|Video |Learn how to integrate [!UICONTROL Assets Essentials] with Adobe Creative Cloud Libraries.|
 
@@ -384,8 +384,8 @@ Find out more about the latest capabilities, improvements, and fixes released:
 | -----------| ---------- | ---------- | ---------- |
 |September 2021|[Trouble shooting Control Panel](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/troubleshooting.html)|Campaign V8 |Learn how to troubleshoot Control Panel.|
 |September 2021|[Monitor databases](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/performance-monitoring/monitor-databases.html)|Campaign V8 |Learn how to monitor your instance's database usage with the Control Panel.|
-|September 2021|[Allow list IP addresses](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/instance-settings/allowlist-ip-address.html)|Campaign V8 |Learn how to add an IP range to Campaign Classic instances' allow lists and how to remove them from the allow list using the control panel.|
-|September 2021|[Allow list IP ranges](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/sftp-management/allowlist-ip-range.html)|Campaign V8 |Learn how to add an IP address range to an allow list in the Control Panel.|
+|September 2021|[Allowlist IP addresses](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/instance-settings/allowlist-ip-address.html)|Campaign V8 |Learn how to add an IP range to Campaign Classic instances' allowlists and how to remove them from the allowlist using the control panel.|
+|September 2021|[Allowlist IP ranges](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/sftp-management/allowlist-ip-range.html)|Campaign V8 |Learn how to add an IP address range to an allowlist in the Control Panel.|
 |September 2021|[Add URL Permissions](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/instance-settings/add-url-permissions.html)|Campaign V8 |Learn how to establish a connection from your Adobe Campaign Classic instance to an external URL.|
 |September 2021|[Connect to an SFTP Server](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/sftp-management/connect-to-sftp-server.html)|Campaign V8 |Learn how to connect to your SFTP server using a client SFTP application, using the keys you have stored in the Control Panel.|
 |September 2021|[Generate an SSH Key](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/sftp-management/generate-ssh-key.html)|Campaign V8 |Learn how to generate an SSH key using a terminal and how to store the public version of the key in the Control Panel.|
@@ -399,7 +399,7 @@ Find out more about the latest capabilities, improvements, and fixes released:
 |September 2021|[Fix publishing errors](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/deliveries-and-channels/publishing-permissions-issues.html?lang=en)|Campaign Classic |Learn how to fix publishing errors for non-admin users.|
 |September 2021|[Steps to change public resource URL from http to https](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/change-public-resource-url.html?lang=en)|Campaign Standard |Learn how to change the public resource URL from http to https|
 |September 2021|[Fetch Delivery XML Data](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/workflows/query-delivery-output-names.html?lang=en)|Campaign Classic |Learn how to fetch delivery XML data.|
-|September 2021|[Error while connecting to Experience Manager](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/error-aem-connection.html?lang=en)|Campaign Standard / AEM |Learn how to resolve error 'GetAEMContentList' of service 'nms:delivery", while connecting from Campaign Standard to Experience Manager.|
+|September 2021|[Error while connecting to Experience Manager](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/error-aem-connection.html?lang=en)|Campaign Standard / Experience Manager |Learn how to resolve error `GetAEMContentList` of service `nms:delivery`, while connecting from Campaign Standard to Experience Manager.|
 |September 2021|[Fix console login errors](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/login-and-client-console/console-login-errors.html?lang=en)|Campaign Classic |Learn how to fix errors encountered during console login.|
 |September 2021|[How to troubleshoot a technical error while viewing a profile](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/technical-error-while-viewing-profile.html?lang=en)|Campaign Standard |Learn how to fix errors encountered during console login.|
 |September 2021|[Unconditional stop in campaign workflow](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/workflows/unconditional-stop-workflow.html?lang=en)|Campaign Classic |Learn how to correctly perform an unconditional stop in workflow.| 
@@ -436,7 +436,7 @@ Last updated: **August 20, 2021, for August 21 release**
 
 | Feature | Description |
 | ------- | ----------- |
-| &mdash; | The new beta Advertising Cloud Javascript tag uses the Adobe Experience Cloud ID (ECID) Service as well as the legacy ef_id and gsurferid to measure conversions. The new tag creates [first-party Experience Cloud s_ecid cookies](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-first-party.html) and provides tighter integration with other Experience Cloud products.<br><br>The legacy Advertising Cloud Javascript tag with ITP mapping will be deprecated in September 2021.<br><br>Your Adobe account manager will contact you with more information and implementation instructions. |
+| &mdash; | The new beta Advertising Cloud JavaScript tag uses the Adobe Experience Cloud ID (ECID) Service and the legacy ef_id and gsurferid to measure conversions. The new tag creates [first-party Experience Cloud s_ecid cookies](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-first-party.html) and provides tighter integration with other Experience Cloud products.<br><br>The legacy Advertising Cloud JavaScript tag with ITP mapping will be deprecated in September 2021.<br><br>Your Adobe account manager will contact you with more information and implementation instructions. |
 | [!UICONTROL Portfolios] | A new [!UICONTROL Objectives Beta] with automated weight recommendations is available to all users. The new interface includes more guidance on creating objectives and setting initial goal weights. Weight recommendations are available for assist metrics only. |
 
 {style="table-layout:auto"}
@@ -483,9 +483,9 @@ New videos, tutorials, or courses published for Adobe Document Cloud.
 |September 2021|[Remediating an inaccessible PDF](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility-series/accessibilitysession2.html)|Video |In this on-demand session, learn the workflow to convert a Word document and fixing some basic tagging issues using the Acrobat Pro DC tools shown in the introduction webinar.|
 |September 2021|[Introduction to PDF Accessibility](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility-series/accessibilitysession1.html)|Video |In this on-demand session, learn what it means to make a PDF accessible, how to set up Acrobat Pro DC to work on PDFs for accessibility, and the conversion process from a source document to a PDF.|
 |September 2021|[Convert a PPT file to PDF on your phone](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/phone.html)|Video |In this 60-second video tutorial, learn how to convert an email PowerPoint attachment to PDF on your phone. When the file returns, view it and tap share to send it to your team — all without having PowerPoint in your phone.|
-|September 2021|[Create a PDF of photos in an instant](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/photo.html)|Video |In this 60-second video tutorial, learn how to just drag-and-drop a bunch of JPGs onto the Acrobat icon to create a PDF. Click yes to creating a multi-page PDF. Then, you can simply drag more JPG files into the Pages panel to add additional pages to the PDF.|
+|September 2021|[Create a PDF of photos in an instant](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/photo.html)|Video |In this 60-second video tutorial, learn how to drag-and-drop a bunch of JPGs onto the Acrobat icon to create a PDF. Click yes to creating a multi-page PDF. Then, you can simply drag more JPG files into the Pages panel to add additional pages to the PDF.|
 |September 2021|[Search multiple PDF files at once](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/search.html)|Video |In this 60-second video tutorial, learn how to start a search in a PDF file, then open Advanced Search and search an entire folder of PDF files.|
-|September 2021|[Edit PDF with Acrobat web](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/edit.html)|Video |In this 60-second video tutorial, learn how to make simple edits to text and images without even downloading the PDF.|
+|September 2021|[Edit a PDF with Acrobat web](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/edit.html)|Video |In this 60-second video tutorial, learn how to make simple edits to text and images without even downloading the PDF.|
 |September 2021|[Combine files into one PDF](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/combine-to-one-pdf.html)|Video |In this 60-second video tutorial, learn how to quickly create a document by combining several different types of files into a single PDF.|
 |September 2021|[Acrobat Accessibility series](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility-series/accessibility-series.html)|Video |In this six-part on-demand webinar series, go from the basics of Accessibility to a deep-dive of tagging your PDF files. Each session includes practice files to follow along.|
 

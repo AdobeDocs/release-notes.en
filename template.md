@@ -22,20 +22,25 @@ New features and fixes in the Adobe Experience Cloud.
 >
 >New information published after the release will be marked with the publication date.
 
-**Release date: 2021**
+Latest update: **September 2021**
 
-* [Adobe System Status](#status)
-* [Experience Cloud interface](#ecloud)
+* [Experience League Live Events](#events)
+* [Experience Cloud Central Interface Components](#ecloud)
 * [Experience Platform](#platform)
-* [Analytics](#analytics)
-* [Audience Manager](#aam)
-* [Experience Manager](#aem)
-* [Campaign](#ac)
-* [Advertising](#adcloud)
-* [Magento](#magento)
-* [Marketo](#marketo)
-* [Primetime](https://experienceleague.adobe.com/docs/primetime.html) (links to solution help)
-* [New documentation and tutorials](#selfhelp)
+* [Experience Platform Application Services](#services)
+* [Adobe System Status](#status)
+* [Journey Optimizer](#journey-opt)
+* [[!DNL Analytics]](#analytics) and [Customer Journey Analytics](#cust-journey)
+* [[!DNL Audience Manager]](#aam)
+* [[!DNL Experience Manager]](#aem)
+* [[!DNL Campaign]](#ac)
+* [[!DNL Advertising Cloud]](#adcloud)
+* [[!DNL Target]](#target)
+* [[!DNL Commerce]](#magento) (Magento)
+* [[!DNL Marketo Engage]](#marketo)
+* [[!DNL Workfront]](#workfront)
+* [Document Cloud](#doc-cloud)
+* [Creative Cloud for enterprise](#creative-cloud)
 
 ## Adobe System Status {#status}
 
@@ -43,12 +48,15 @@ Features and fixes.
 
 See [Adobe System Status](https://status.adobe.com/).
 
-## Experience Cloud interface{#ecloud}
+## ![Icon](/assets/ec_appicon_24.png) Experience Cloud Central UI Components {#ecloud}
 
-New features and fixes in the Experience Cloud interface, including administration and core services (customer attributes, audiences, triggers, cookies, and so on).
+Experience Cloud Central Interface Components includes updates accessed from the unified product header, such as self-help, search, and user account preferences. Updates to People, Places (Location), and product management are found here.
 
-* [[!UICONTROL Core services]](#core-services)
-* [Administration and developer](#admin)
+| Feature | Date |Description |
+| ------- | ------- | -------|
+|Feature|September 2021|Description|
+
+{style="table-layout:auto"}
 
 ### [!UICONTROL Core services] {#core-services}
 
