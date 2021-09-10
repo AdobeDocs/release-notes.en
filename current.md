@@ -21,12 +21,11 @@ Latest update: **September 10, 2021**
 
 * [Experience League Live Events](#events)
 * [Experience Cloud Central Interface Components](#ecloud)
-* [Experience Platform](#platform)
-* [Experience Platform Application Services](#services)
 * [Adobe System Status](#status)
-* [Journey Optimizer](#journey-opt)
 * [[!DNL Analytics]](#analytics) and [Customer Journey Analytics](#cust-journey)
 * [[!DNL Audience Manager]](#aam)
+* [Experience Platform](#platform)
+* [[!DNL Journey Optimizer]](#journey-opt)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Campaign]](#ac)
 * [[!DNL Advertising Cloud]](#adcloud)
@@ -68,71 +67,6 @@ Not updated
 [!UICONTROL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe cloud products and services outage, disruption, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
 You can find the latest release information for Adobe System Status in the [May 21, 2020](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=en) release notes.
-
-## ![Icon](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
-
-Includes release update information and new documentation for Experience Platform and Platform tagging.
-
-**August 25, 2021** updates to existing features in Experience Platform include:
-
-* Observability Insights
-* Real-time Customer Profile
-* Sources
-
-See [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) for details.
-
-### Experience Platform tutorials and courses {#tutorials-platform}
-
-New videos, tutorials, or courses published for Experience Platform and services.
-
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|September 2021|[Use alerts](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/use-alerts.html)|Video |Learn how to subscribe to and administer alerts in Adobe Experience Platform. Alerts help you monitor various processes to make sure your Platform implementation is running smoothly.|
-|September 2021|[Product profiles](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/managing-product-profiles.html)|Video |Learn how to create a product profile and assign users, developers, admins, and permissions.|
-|September 2021|[Introduction to Admin Console](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/admin-console.html)|Video |A high-level overview of the access control hierarchy workflow for Experience Platform.|
-
-{style="table-layout:auto"}
-
-## ![Icon](/assets/experience_platform_appicon_24.png) Experience Platform Application Services {#services}
-
-Application Services includes Journey Orchestration, Offer Decisioning, Real-time Customer Data Platform, Intelligent Services, and Customer Journey Analytics (see Analytics section below for CJA updates.)
-
-### Journey Orchestration {#journey-orch}
-
-Features, fixes, and new help content for Journey Orchestration.
-
-* **August 2021** - See [Journey Orchestration Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html)
-
-#### New Journey Orchestration tutorials and courses {#tutorials-ajo}
-
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|August 2021|[Introduction to building a journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html)|Video |Understand the basics of building a journey in the journey canvas.|
-|August 2021|[Set up data - overview](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/get-started/data-configuration/set-up-data-overview.html)|Video |Learn about real-time customer profile data and the steps required to set up customer profile data for Journey Optimizer.|
-|August 2021|[Map identities](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/get-started/data-configuration/map-identities.html)|Video |Learn how and when to label a schema field as an identity, how to create a namespace, when to make an identity primary, and how to ingest and verify identity data.|
-|August 2021|[Use Case - Burst Message](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-burst-message.html)|Video |Understand the applicable use cases for burst messaging. Learn how to configure a journey for burst messages and which best practices to apply.|
-
-{style="table-layout:auto"}
-
-#### More resources for Journey Orchestration
-
-[Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html)
-
-### Offer Decisioning {#offer-decisioning}
-
-* See [Offer Decisioning Release Notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html)
-
-#### More resources for Offer Decisioning
-
-[Help Center](https://experienceleague.adobe.com/docs/offer-decisioning/using/offer-decisioning-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html#new) - [How-to videos](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/documentation-updates.html)
-
-## ![Icon](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
-
-* **August 2021** - See [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html)
-
-### More resources for Journey Optimizer
-
-[Help Center](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
 
 ## ![Icon](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
@@ -222,6 +156,78 @@ New courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Custome
 * [Adobe Analytics Product Documentation and Tutorials](https://experienceleague.adobe.com/docs/analytics.html)
 
 ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
+
+Not updated.
+
+## ![Icon](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
+
+Includes release update information and new documentation for Experience Platform and Platform tagging.
+
+**August 25, 2021** updates to existing features in Experience Platform include:
+
+* Observability Insights
+* Real-time Customer Profile
+* Sources
+
+See [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) for details.
+
+### Experience Platform tutorials and courses {#tutorials-platform}
+
+New videos, tutorials, or courses published for Experience Platform and services.
+
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|September 2021|[Use alerts](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/use-alerts.html)|Video |Learn how to subscribe to and administer alerts in Adobe Experience Platform. Alerts help you monitor various processes to make sure your Platform implementation is running smoothly.|
+|September 2021|[Product profiles](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/managing-product-profiles.html)|Video |Learn how to create a product profile and assign users, developers, admins, and permissions.|
+|September 2021|[Introduction to Admin Console](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/admin-console.html)|Video |A high-level overview of the access control hierarchy workflow for Experience Platform.|
+
+{style="table-layout:auto"}
+
+### Journey Orchestration {#journey-orch}
+
+Features, fixes, and new help content for Journey Orchestration.
+
+* **August 2021** - See [Journey Orchestration Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html)
+
+#### New Journey Orchestration tutorials and courses {#tutorials-ajo}
+
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|August 2021|[Introduction to building a journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html)|Video |Understand the basics of building a journey in the journey canvas.|
+|August 2021|[Set up data - overview](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/get-started/data-configuration/set-up-data-overview.html)|Video |Learn about real-time customer profile data and the steps required to set up customer profile data for Journey Optimizer.|
+|August 2021|[Map identities](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/get-started/data-configuration/map-identities.html)|Video |Learn how and when to label a schema field as an identity, how to create a namespace, when to make an identity primary, and how to ingest and verify identity data.|
+|August 2021|[Use Case - Burst Message](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-read-burst-message.html)|Video |Understand the applicable use cases for burst messaging. Learn how to configure a journey for burst messages and which best practices to apply.|
+
+{style="table-layout:auto"}
+
+#### More resources for Journey Orchestration
+
+[Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html)
+
+### Offer Decisioning {#offer-decisioning}
+
+* See [Offer Decisioning Release Notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html)
+
+#### More resources for Offer Decisioning
+
+[Help Center](https://experienceleague.adobe.com/docs/offer-decisioning/using/offer-decisioning-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html#new) - [How-to videos](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/documentation-updates.html)
+
+## ![Icon](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
+
+**August 2021** Updates to Journey Orchestration include:
+
+|Feature|Description |
+| -----------| ---------- |
+|[!UICONTROL Send-Time Optimization]|Automatically send your push or email at the best time for every customer you engage with Adobe Journey Optimizer. |
+|Leverage schema relationships |You can now leverage relationships between schemas when configuring a business events.  |
+|[!UICONTROL Retry time period]|You can now define the retry period on a per preset basis to ensure that retry attempts are not performed anymore when no longer needed.  |
+|[!UICONTROL Suppression list] |Adding email addresses and domains into the suppression list is now available from the user interface, either one by one, either in bulk mode through a CSV file upload. |
+
+See [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) for details.
+
+### More resources for Journey Optimizer
+
+[Help Center](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
 
 ## ![Icon](/assets/aem.png) Experience Manager {#aem}
 
