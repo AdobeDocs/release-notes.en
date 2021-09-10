@@ -20,7 +20,7 @@ Experience Cloud applications and services are updated monthly. This page is you
 Latest update: **September 10, 2021**
 
 * [Experience League Live Events](#events)
-* [Experience Cloud Central Interface Components](#ecloud)
+* [Experience Cloud Central Interface Components & Administration](#ecloud)
 * [Adobe System Status](#status)
 * [[!DNL Analytics]](#analytics) and [Customer Journey Analytics](#cust-journey)
 * [[!DNL Audience Manager]](#aam)
@@ -52,11 +52,11 @@ Experience League Live Events are discussions with Adobe experts and special gue
 
 For more videos, visit the [Adobe Experience League Channel](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) on YouTube.
 
-## ![Icon](/assets/ec_appicon_24.png) Experience Cloud Central UI Components {#ecloud}
+## ![Icon](/assets/ec_appicon_24.png) Experience Cloud Central UI Components & Administration {#ecloud}
 
-Not updated
+Not updated this month.
 
-**More help resources**
+**More help resources for Experience Cloud Central UI Components**
 
 * Administration help for [Central Interface Components](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) and user management
 * Help and release notes for [Places - Location Service](https://experienceleague.adobe.com/docs/places/using/release-notes.html?lang=en)
@@ -161,7 +161,7 @@ Not updated.
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
-Includes release update information and new documentation for Experience Platform and Platform tagging.
+Includes release update information and new documentation for Experience Platform and Platform services (Journey Orchestration, Offer Decisioning, and Mobile SDK).
 
 **August 25, 2021** updates to existing features in Experience Platform include:
 
@@ -211,6 +211,10 @@ Features, fixes, and new help content for Journey Orchestration.
 #### More resources for Offer Decisioning
 
 [Help Center](https://experienceleague.adobe.com/docs/offer-decisioning/using/offer-decisioning-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html#new) - [How-to videos](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/documentation-updates.html)
+
+### Adobe Mobile SDK
+
+See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-notes) for the Adobe Experience Platform Mobile SDKs.
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
 
