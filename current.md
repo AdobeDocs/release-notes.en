@@ -188,10 +188,12 @@ New videos, tutorials, or courses published for Experience Platform and services
 
 Features, fixes, and new help content for Journey Orchestration.
 
+**August 2021**
+
 * **Dynamic headers:** You can now pass dynamic data in HTTP header parameters. These parameters can be used by the integration systems that receive the journey action HTTP calls, for example timestamp or tracking ID. [Read more...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
 * **Dynamic URL paths:** You can now set up dynamic URL paths for custom actions. [Read more...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
 
-* **August 2021** - See [Journey Orchestration Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html)
+See [Journey Orchestration Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) for details.
 
 #### New Journey Orchestration tutorials and courses {#tutorials-ajo}
 
