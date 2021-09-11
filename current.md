@@ -434,7 +434,7 @@ Last updated: **August 12, 2021, for August 11 release**
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Pre-bid viewability] for placements |  [!UICONTROL Pre-bid viewability] filters from Oracle Advertising (Moat) are now available for your placements. |
+| [!UICONTROL Pre-bid viewability] for placements |  [!UICONTROL Pre-bid viewability] filters from Oracle Advertising (Moat) are now available for your placements.|
 
 {style="table-layout:auto"}
 
