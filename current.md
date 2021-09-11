@@ -161,15 +161,16 @@ Not updated.
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
-Includes release update information and new documentation for Experience Platform and Platform services (Journey Orchestration, Offer Decisioning, and Mobile SDK).
+Includes release update information and new documentation for Experience Platform and Platform services ([!UICONTROL Journey Orchestration], [!UICONTROL Offer Decisioning], and [!UICONTROL Mobile SDK]).
 
 **August 25, 2021** updates to existing features in Experience Platform include:
 
-* Observability Insights
-* Real-time Customer Profile
-* Sources
+* **[!UICONTROL Destinations]:** Usability improvements to [!UICONTROL Destinations] enable marketers to seamlessly activate segments to existing destinations.
+* **[!UICONTROL Observability Insights]:** You can now subscribe to important alerts related to workflows running on Platform.  
+* **[!UICONTROL Real-time Customer Profile]:** When browsing profiles in Experience Platform, you can now browse by merge policy to preview 20 sample profiles based on the selected merge policy.  
+* **[!UICONTROL Sources]:** The file ingestion category has been renamed to local system, allowing you to bring local files directly to Platform using the local file upload connector. 
 
-See [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) for details.
+See [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) for all the details.
 
 ### Experience Platform tutorials and courses {#tutorials-platform}
 
@@ -177,15 +178,18 @@ New videos, tutorials, or courses published for Experience Platform and services
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|September 2021|[Use alerts](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/use-alerts.html)|Video |Learn how to subscribe to and administer alerts in Adobe Experience Platform. Alerts help you monitor various processes to make sure that your Platform implementation is running smoothly.|
+|September 2021|[[!UICONTROL Alerts]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/use-alerts.html)|Video |Learn how to subscribe to and administer alerts in Adobe Experience Platform. [!UICONTROL Alerts] help you monitor various processes to make sure that your Platform implementation is running smoothly.|
 |September 2021|[Product profiles](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/managing-product-profiles.html)|Video |Learn how to create a product profile and assign users, developers, admins, and permissions.|
-|September 2021|[Introduction to Admin Console](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/admin-console.html)|Video |A high-level overview of the access control hierarchy workflow for Experience Platform.|
+|September 2021|[Introduction to [!UICONTROL Admin Console]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/admin-console.html)|Video |A high-level overview of the access control hierarchy workflow for Experience Platform.|
 
 {style="table-layout:auto"}
 
 ### Journey Orchestration {#journey-orch}
 
 Features, fixes, and new help content for Journey Orchestration.
+
+* **Dynamic headers:** You can now pass dynamic data in HTTP header parameters. These parameters can be used by the integration systems that receive the journey action HTTP calls, for example timestamp or tracking ID. [Read more...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
+* **Dynamic URL paths:** You can now set up dynamic URL paths for custom actions. [Read more...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
 
 * **August 2021** - See [Journey Orchestration Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html)
 
@@ -194,7 +198,7 @@ Features, fixes, and new help content for Journey Orchestration.
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |August 2021|[Introduction to building a journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html)|Video |Understand the basics of building a journey in the journey canvas.|
-|August 2021|[Set up data - overview](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/set-up-data-overview.html)|Video |Learn about real-time customer profile data and the steps required to set up customer profile data for Journey Optimizer.|
+|August 2021|[Set up customer profile data - overview](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/set-up-data-overview.html)|Video |Learn about real-time customer profile data and the steps required to set up customer profile data for Journey Optimizer.|
 |August 2021|[Map identities](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/map-identities.html)|Video |Learn how and when to label a schema field as an identity, how to create a namespace, when to make an identity primary, and how to ingest and verify identity data.|
 |August 2021|[Use Case - Burst Message](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html)|Video |Understand the applicable use cases for burst messaging. Learn how to configure a journey for burst messages and which best practices to apply.|
 
@@ -204,11 +208,13 @@ Features, fixes, and new help content for Journey Orchestration.
 
 [Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html)
 
-### Offer Decisioning {#offer-decisioning}
+### [!UICONTROL Offer Decisioning] {#offer-decisioning}
 
-* See [Offer Decisioning Release Notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html)
+**Representation flow:** The way you add and configure representations when creating an offer has been updated for improved user experience
 
-#### More resources for Offer Decisioning
+* See [[!UICONTROL Offer Decisioning] Release Notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html) for details.
+
+#### More resources for [!UICONTROL Offer Decisioning]
 
 [Help Center](https://experienceleague.adobe.com/docs/offer-decisioning/using/offer-decisioning-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html#new) - [How-to videos](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/documentation-updates.html)
 
@@ -218,7 +224,7 @@ See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-not
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
 
-**August 2021** Updates to Journey Orchestration include:
+**August 2021** Updates to Journey Optimizer include:
 
 |Feature|Description |
 | -----------| ---------- |
@@ -239,37 +245,37 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
 
 ### Experience Manager product releases
 
-* **Experience Manager as a Cloud Service**
+* **[!DNL Experience Manager as a Cloud Service]**
 
     What is new on Experience Manager as a Cloud Service?
 
     Play the [August 2021 Release Overview](https://video.tv.adobe.com/v/336277) video for a summary of the features added.
 
-  * **Experience Manager Assets as a Cloud Service**
+  * **[!DNL Experience Manager Assets as a Cloud Service]**
 
     _New features_
 
-    * When sharing digital assets as a link, the users can copy the URL to clipboard right away. The enhancement lets you share assets in a faster and more convenient way. This functionality allows for faster and convenient asset sharing.
+    * When sharing digital assets as a link, you can copy the URL to clipboard right away. The enhancement lets you share assets in a faster and easy way. 
     * When you upload TXT files, the asset microservices automatically generates a thumbnail. The PNG thumbnail is a rendition of TXT file that helps users identity the contents or the files to some extent, without opening the files. This functionality does not require any configuration and works by default.
 
     _New feature in the Experience Manager Assets prerelease channel_
 
-    * Users can now sort the assets displayed in the search results in Column view and Card view. The sorting works on **[!UICONTROL Name]**, **[!UICONTROL Created]**, **[!UICONTROL Modified]**, or **[!UICONTROL None]** columns.
+    * You can now sort the assets displayed in the search results in [!UICONTROL Column] view and [!UICONTROL Card] view. The sorting works on **[!UICONTROL Name]**, **[!UICONTROL Created]**, **[!UICONTROL Modified]**, or **[!UICONTROL None]** columns.
 
   * **Experience Manager Forms as a Cloud Service**
 
     _New features_
 
-    * Experience Manager Archetype project for Forms as a Cloud Service now includes [form data models for Microsoft® Dynamics and Salesforce.com](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/setup-environment/setup-local-development-environment.html?lang=en#forms-cloud-service-local-development-environment).
-    * Acroform-based Document of Record: AEM Forms as a Cloud Service supports using [Adobe Acrobat Form PDF (Acroform PDF)](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html?lang=en) as a template for Document of Record besides XFA-based form template.
-    * Microsoft® Azure data store connector: You can now [connect Form Data Model to Microsoft® Azure Storage](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/use-form-data-model/configure-azure-storage.html?lang=en). It allows you to retrieve and store adaptive form data to Microsoft® Azure Storage as a BLOB.
+    * [!UICONTROL Experience Manager Archetype] project for [!DNL AEM Forms as a Cloud Service] now includes [form data models for Microsoft® Dynamics and Salesforce.com](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/setup-environment/setup-local-development-environment.html?lang=en#forms-cloud-service-local-development-environment).
+    * Acroform-based Document of Record: [!DNL AEM Forms as a Cloud Service] supports using [Adobe Acrobat Form PDF (Acroform PDF)](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html?lang=en) as a template for [!UICONTROL Document of Record] besides XFA-based form template.
+    * Microsoft® Azure data store connector: You can now [connect Form Data Model to Microsoft® Azure Storage](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/use-form-data-model/configure-azure-storage.html?lang=en). This feature allows you to retrieve and store adaptive form data to Microsoft® Azure Storage as a BLOB.
 
     _Beta features of Forms_
 
-    * Unified Storage Connector. Use Unified Storage Connector to externalize in-process data in customer-managed repositories. For example, you can
-      * Enable Forms Portal’s save and resume functionality and store adaptive forms drafts in a customer-managed data repository.
-      * Store in-process Experience Manager Workflows data (Experience Manager Workflow Variables data) that contains Sensitive Personal Data (SPD) in a customer-managed repository.
-    * AEM Forms as a Cloud Service - Communications. [Communication APIs](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/aem-forms-cloud-service-communications.html?lang=en) help you combine XDP templates and XML data to generate print documents in various formats. The service lets you generate documents in synchronous mode. The APIs let you create applications that help you to do the following:
+    * [!UICONTROL Unified Storage Connector]. Use [!UICONTROL Unified Storage Connector] to externalize in-process data in customer-managed repositories. For example, you can:
+      * Enable the [!UICONTROL Forms Portal] save and resume functionality and store adaptive forms drafts in a customer-managed data repository.
+      * Store in-process Experience Manager [!UICONTROL Workflows] data (Experience Manager [!UICONTROL Workflow Variables] data) that contains sensitive personal data (SPD) in a customer-managed repository.
+    * [!DNL AEM Forms as a Cloud Service] - Communications. [Communication APIs](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/aem-forms-cloud-service-communications.html?lang=en) help you combine XDP templates and XML data to generate print documents in various formats. The service lets you generate documents in synchronous mode. The APIs let you create applications that help you to do the following:
       * Generate documents by populating template files with XML data.
       * Generate output forms in various formats, including non-interactive PDF print streams.
       * Generate print PDF files from an XFA form PDF and Adobe Acrobat Form.
@@ -278,37 +284,37 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
 
     _New features available in Forms prerelease channel_
 
-    * Use Adobe Sign roles in an Adaptive Form. Adobe Sign for business and enterprise service levels optionally expand the roles for Agreement recipients, beyond just the Signer, to better match their workflow requirements. You can now [enable each recipient of agreement to configure their role in an Adaptive Form](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/create-an-adaptive-form/use-adobe-sign/working-with-adobe-sign.html?lang=en#addsignerstoanadaptiveform), with Signer being the default role.
-    * Analytics for Adaptive Forms. You can now capture and track end-user behavior via Adobe Analytics for Adaptive Forms to gather end-user insights. It helps make informed decisions based on data to improve end-user experience.
+    * Use Adobe Sign roles in an [!UICONTROL Adaptive Form]. Adobe Sign for business and enterprise service levels optionally expand the roles for [!UICONTROL Agreement] recipients, beyond just the [!UICONTROL Signer], to better match their workflow requirements. You can now [enable each recipient of agreement to configure their role in an Adaptive Form](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/create-an-adaptive-form/use-adobe-sign/working-with-adobe-sign.html?lang=en#addsignerstoanadaptiveform), with [!UICONTROL Signer] being the default role.
+    * [!UICONTROL Analytics for Adaptive Forms]. You can now capture and track end-user behavior via Adobe [!UICONTROL Analytics for Adaptive Forms] to gather end-user insights. It helps make informed decisions based on data to improve end-user experience.
     * Easily connect AEM Forms with Microsoft® Dynamics and [Salesforce.com](https://www.salesforce.com/?bc=DF). The service provides out-of-the-box data source configuration. It also provides data models for Microsoft® Dynamics and Salesforce.com, making it [faster and easier for developers to configure Microsoft® Dynamics and Salesforce.com as data sources for an adaptive form](https://experienceleague.adobe.com/docs/experience-manager-forms-cloud-service/forms/use-form-data-model/configure-msdynamics-salesforce.html?lang=en).
 
-  * **Experience Manager Screens as a Cloud Service**
+  * **[!DNL Experience Manager Screens as a Cloud Service]**
 
     _New features_
 
-    * Experience Manager Screens as a Cloud Service now supports basic playback monitoring. The player now reports various playback metrics with each ping (defaults to 30 seconds). Based on the metrics, it can detect various edge cases (stuck experience, blank screen, scheduling problem, and so on). This feature lets the team remotely monitor if a player is properly playing content. It also improves reactivity to blank screens or broken experiences in the field, and decreases the risk of showing a broken experience to the end user.
+    * [!DNL Experience Manager Screens as a Cloud Service] now supports basic playback monitoring. The player now reports various playback metrics with each ping (defaults to 30 seconds). Based on the metrics, it can detect various edge cases (stuck experience, blank screen, scheduling problem, and so on). This feature lets the team remotely monitor if a player is properly playing content. It also improves reactivity to blank screens or broken experiences in the field, and decreases the risk of showing a broken experience to the end user.
     See [Basic Playback Monitoring](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/screens-as-cloud-service/manage-player-registration/installing-screens-cloud-player.html?lang=en#playback-monitoring).
-    * Thumbnail Support for videos in now supported in Experience Manager Screens as a Cloud Service. A content author can define a thumbnail for videos so that the image can be used as a placeholder. They can properly test content playback and targeting, while the actual video is being finalized by the appropriate team. The image can also be used, in case the playback of the video fails.
+    * Thumbnail Support for videos in now supported in [!DNL Experience Manager Screens as a Cloud Service]. A content author can define a thumbnail for videos so that the image can be used as a placeholder. They can properly test content playback and targeting, while the actual video is being finalized by the appropriate team. The image can also be used, in case the playback of the video fails.
     See [Thumbnail Support for Videos](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/screens-as-cloud-service/core-product-features/thumbnail-support-videos.html?lang=en).
 
-  * **Cloud Manager**
+  * **[!DNL Cloud Manager]**
 
     _New features_
 
-    * The version of the Experience Manager Project Archetype used by Cloud Manager is now updated to version 30.
-    * The program cards on Cloud Manager landing page and the associated experience are now refreshed.
-    * The Code Quality Step Log now includes verbose logging information on the OakPal scanning process.
-    * The Activity page menu options now include an option to **[!UICONTROL Download Log]** for completed Code Generator runnings. Selecting this option downloads the log of the build step.
-    * Selecting the Program card now navigates to Cloud Manager Overview page.
-    * Cloud Service customers can now view SLA (Service Level Agreement) reports in Cloud Manager. This functionality is going to be made available, progressively, over the next few months.
+    * The version of the [!DNL Experience Manager Project Archetype used by Cloud Manager] is now updated to version 30.
+    * The program cards on [!DNL Cloud Manager] landing page and the associated experience are now refreshed.
+    * The [!UICONTROL Code Quality Step Log] now includes verbose logging information on the OakPal scanning process.
+    * The [!UICONTROL Activity] page menu options now include an option to **[!UICONTROL Download Log]** for completed Code Generator runnings. Selecting this option downloads the log of the build step.
+    * Selecting the [!UICONTROL Program] card now navigates to [!UICONTROL Cloud Manager Overview] page.
+    * Cloud Service customers can now view SLA (Service Level Agreement) reports in [!DNL Cloud Manager]. This functionality is going to be made available, progressively, over the next few months.
       See [SLA Reporting](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/sla-reporting.html?lang=en).
     * The type and severity of the `IndexType` and `IndexDamAssetLucene` quality rules has been changed. These rules are now both Bugs of Blocker severity.
     * New Oak index quality rules have been introduced to cover asynchronous and Tika configurations.
     * Increase max SSL certs per program to 50.
-    * Self-service capability to allow users to create and manage multiple repositories via Cloud Manager UI.
+    * Self-service capability to allow users to create and manage multiple repositories via [!DNL Cloud Manager] UI.
     * SonarQube was unnecessarily reading GIT history data. On large code bases, this functionality could lead to an unnecessary build performance penalty.
     * There is now an API available to invalidate the Maven dependency cache per pipeline.
-    * The version of the Experience Manager Project Archetype used by Cloud Manager has been updated to version 29.
+    * The version of the [!DNL Experience Manager Project Archetype used by Cloud Manager] has been updated to version 29.
 
 ### Community
 
@@ -331,9 +337,9 @@ New videos, tutorials, and courses published over the past month.
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |September 2021|[Experience Manager Back-end Developer Fundamentals](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2019.1.backend)|Course |Take a deep-dive into back-end development with Adobe Experience Manager. Learn best practices for working with Java™ APIs, Sling Models and unit testing.|
-|September 2021|[Getting started with Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html)|Video |Learn how [!UICONTROL Assets Essentials] offers an intuitive and user-friendly user interface, making assets and related information easy to find and remember.|
-|September 2021|[Provisioning Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html)|Video |Learn how to deploy Assets Essentials using Cloud Manager, and provision user access.|
-|September 2021|[Creative Cloud and Assets Essentials](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/creative-cloud.html?lang=en)|Video |Learn how to integrate [!UICONTROL Assets Essentials] with Adobe Creative Cloud Libraries.|
+|September 2021|[Getting started with [!UICONTROL Assets Essentials]](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html)|Video |Learn how [!UICONTROL Assets Essentials] offers an intuitive and user-friendly user interface, making assets and related information easy to find and remember.|
+|September 2021|[Provisioning [!UICONTROL Assets Essentials]](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html)|Video |Learn how to deploy [!UICONTROL Assets Essentials] using [!DNL Cloud Manager], and provision user access.|
+|September 2021|[Creative Cloud and [!UICONTROL Assets Essentials]](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/creative-cloud.html?lang=en)|Video |Learn how to integrate [!UICONTROL Assets Essentials] with Adobe Creative Cloud Libraries.|
 
 {style="table-layout:auto"}
 
@@ -341,29 +347,29 @@ New videos, tutorials, and courses published over the past month.
 
 Release notes and other release information links for Experience Manager are here:
 
-* [Experience Manager as a Cloud Service release notes](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=en)
-* [Experience Manager as a Cloud Service release information](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=en)
-* [Experience Manager Cloud Manager release notes](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=en)
-* [Automated Forms Conversion Service release notes](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=en)
+* [[!DNL Experience Manager as a Cloud Service] release notes](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=en)
+* [[!DNL Experience Manager as a Cloud Service] release information](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=en)
+* [[!DNL Experience Manager Cloud Manager] release notes](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=en)
+* [!DNL [Automated Forms Conversion Service] release notes](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=en)
 * [Experience Manager 6.5 Service Pack release notes](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=en)
 * [Experience Manager 6.4 Cumulative Fix Pack release notes](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=en)
-* [Experience Manager Assets Dynamic Media release notes](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/release-notes/s7rn2017.html?lang=en)
-* [Experience Manager Brand Portal release notes](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html?lang=en)
+* [[!DNL Experience Manager Assets Dynamic Media] release notes](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/release-notes/s7rn2017.html?lang=en)
+* [[!DNL Experience Manager Brand Portal] release notes](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html?lang=en)
 * [Experience Manager desktop app release notes](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/release-notes.html?lang=en)
-* [Experience Manager Dispatcher release notes](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=en)
+* [[!DNL Experience Manager Dispatcher] release notes](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=en)
 * [Adobe Primetime release notes](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html)
 * [Livefyre release notes](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html)
 
 ### Other help resources for Experience Manager
 
-* [Experience Manager as a Cloud Service Guides](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/landing/home.html?lang=en)
+* [[!DNL Experience Manager as a Cloud Service] Guides](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/landing/home.html?lang=en)
 * [Experience Manager 6.5 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en)
 * [Experience Manager 6.4 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-64.html)
 * [Experience Manager 6.3 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)
 * [Experience Manager 6.2 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [Older Versions of Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
-* [Cloud Manager User Guide](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=en)
-* [Dynamic Media Classic Help Home](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=en)
+* [[!DNL Cloud Manager] User Guide](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=en)
+* [[!DNL Dynamic Media Classic] Help Home](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=en)
 * [Experience Manager Documentation: Recent Updates](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=en#aem-as-a-cloud-service)
 
 ## ![Icon](/assets/campaign.png) [!DNL Adobe Campaign] {#ac}
@@ -382,15 +388,15 @@ Find out more about the latest capabilities, improvements, and fixes released:
 
 |Published|Name|Application|Description |
 | -----------| ---------- | ---------- | ---------- |
-|September 2021|[Trouble shooting Control Panel](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/troubleshooting.html)|Campaign V8 |Learn how to troubleshoot Control Panel.|
-|September 2021|[Monitor databases](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/performance-monitoring/monitor-databases.html)|Campaign V8 |Learn how to monitor your instance's database usage with the Control Panel.|
-|September 2021|[Allowlist IP addresses](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/instance-settings/allowlist-ip-address.html)|Campaign V8 |Learn how to add an IP range to Campaign Classic instances' allowlists and how to remove them from the allowlist using the control panel.|
-|September 2021|[Allowlist IP ranges](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/sftp-management/allowlist-ip-range.html)|Campaign V8 |Learn how to add an IP address range to an allowlist in the Control Panel.|
+|September 2021|[Trouble shooting [!UICONTROL Control Panel]](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/troubleshooting.html)|Campaign V8 |Learn how to troubleshoot [!UICONTROL Control Panel].|
+|September 2021|[Monitor databases](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/performance-monitoring/monitor-databases.html)|Campaign V8 |Learn how to monitor your instance's database usage with the [!UICONTROL Control Panel].|
+|September 2021|[Allowlist IP addresses](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/instance-settings/allowlist-ip-address.html)|Campaign V8 |Learn how to add an IP range to Campaign Classic instances' allowlists and how to remove them from the allowlist using the [!UICONTROL Control Panel].|
+|September 2021|[Allowlist IP ranges](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/sftp-management/allowlist-ip-range.html)|Campaign V8 |Learn how to add an IP address range to an allowlist in the [!UICONTROL Control Panel].|
 |September 2021|[Add URL Permissions](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/instance-settings/add-url-permissions.html)|Campaign V8 |Learn how to establish a connection from your Adobe Campaign Classic instance to an external URL.|
-|September 2021|[Connect to an SFTP Server](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/sftp-management/connect-to-sftp-server.html)|Campaign V8 |Learn how to connect to your SFTP server using a client SFTP application, using the keys you have stored in the Control Panel.|
-|September 2021|[Generate an SSH Key](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/sftp-management/generate-ssh-key.html)|Campaign V8 |Learn how to generate an SSH key using a terminal and how to store the public version of the key in the Control Panel.|
+|September 2021|[Connect to an SFTP Server](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/sftp-management/connect-to-sftp-server.html)|Campaign V8 |Learn how to connect to your SFTP server using a client SFTP application, using the keys you have stored in the [!UICONTROL Control Panel].|
+|September 2021|[Generate an SSH Key](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/sftp-management/generate-ssh-key.html)|Campaign V8 |Learn how to generate an SSH key using a terminal and how to store the public version of the key in the [!UICONTROL Control Panel].|
 |September 2021|[Control Panel - Monitor server capacity](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/sftp-management/monitor-server-capacity.html)|Campaign V8 |Learn how to monitor the storage capacity of your SFTP servers. |
-|September 2021|[Control Panel - Get started with the Control Panel](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/get-started.html)|Campaign V8 |This article explains how to access the Control Panel and what the prerequisites are to be able to work with the control panel.|
+|September 2021|[Control Panel - Get started with the Control Panel](https://experienceleague.adobe.com/docs/campaign-learn/control-panel/get-started.html)|Campaign V8 |This article explains how to access the [!UICONTROL Control Panel] and what the prerequisites are to be able to work with the [!UICONTROL Control Panel].|
 |September 2021|[Troubleshoot Adobe Campaign - Overview](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=en)|Campaign Standard |This section has been provided by Adobe Customer Support to help you troubleshoot issues you might encounter with Adobe Campaign Standard.|
 |September 2021|[Missing zero ID record](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/login-and-client-console/fixing-zero-id.html?lang=en)|Campaign Classic |Learn how to fix the issue of zero (0) id.|
 |September 2021|[Load balancer issues](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/administration/load-balancer-issues.html?lang=en)|Campaign Classic |Learn how to fix load balancer issues on instance restart.|
@@ -417,8 +423,8 @@ Find out more about the latest capabilities, improvements, and fixes released:
 
 Release notes for [!DNL Adobe Advertising Cloud].
 
-* [New features in Advertising Cloud DSP](#adcloud-dsp)
-* [New features in Advertising Cloud Search](#adcloud-search)
+* [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp)
+* [New features in [!DNL Advertising Cloud Search]](#adcloud-search)
 
 ### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
@@ -436,7 +442,7 @@ Last updated: **August 20, 2021, for August 21 release**
 
 | Feature | Description |
 | ------- | ----------- |
-| &mdash; | The new beta Advertising Cloud JavaScript tag uses the Adobe Experience Cloud ID (ECID) Service and the legacy ef_id and gsurferid to measure conversions. The new tag creates [first-party Experience Cloud s_ecid cookies](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-first-party.html) and provides tighter integration with other Experience Cloud products.<br><br>The legacy Advertising Cloud JavaScript tag with ITP mapping will be deprecated in September 2021.<br><br>Your Adobe account manager will contact you with more information and implementation instructions. |
+| &mdash; | The new beta Advertising Cloud JavaScript tag uses the Adobe Experience Cloud ID (ECID) Service and the legacy `ef_id` and `gsurferid` to measure conversions. The new tag creates [first-party Experience Cloud s_ecid cookies](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-first-party.html) and provides tighter integration with other Experience Cloud products.<br><br>The legacy Advertising Cloud JavaScript tag with ITP mapping will be deprecated in September 2021.<br><br>Your Adobe account manager will contact you with more information and implementation instructions. |
 | [!UICONTROL Portfolios] | A new [!UICONTROL Objectives Beta] with automated weight recommendations is available to all users. The new interface includes more guidance on creating objectives and setting initial goal weights. Weight recommendations are available for assist metrics only. |
 
 {style="table-layout:auto"}
