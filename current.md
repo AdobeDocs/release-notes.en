@@ -21,10 +21,10 @@ Latest update: **September 10, 2021**
 
 * [[!DNL Experience League] Live Events](#events)
 * [[!DNL Experience Cloud Central Interface Components] & Administration](#ecloud)
-* [Adobe System Status](#status)
+* [Adobe [!UICONTROL System Status]](#status)
 * [[!DNL Adobe Analytics]](#analytics) and [Customer Journey Analytics](#cust-journey)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [Adobe Experience Platform](#platform)
+* [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Campaign]](#ac)
@@ -33,8 +33,8 @@ Latest update: **September 10, 2021**
 * [[!DNL Adobe Commerce]](#magento)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [Document Cloud](#doc-cloud)
-* [Creative Cloud for enterprise](#creative-cloud)
+* [[!DNL Document Cloud]](#doc-cloud)
+* [[!DNL Creative Cloud for enterprise]](#creative-cloud)
   
 Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#home) to find product and technical documentation, Adobe-curated courses, video tutorials, quick answers, community insight, and instructor-led training.
 
