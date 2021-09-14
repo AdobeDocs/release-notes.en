@@ -17,13 +17,13 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Latest update: **September 10, 2021**
+Latest update: **September 14, 2021**
 
 * [[!DNL Experience League] Live Events](#events)
 * [[!DNL Experience Cloud Central Interface Components] & Administration](#ecloud)
 * [Adobe [!UICONTROL System Status]](#status)
 * [[!DNL Adobe Analytics]](#analytics) and [Customer Journey Analytics](#cust-journey)
-* [[!DNL Adobe Audience Manager]](#aam)
+* [[!DNL Adobe Audience Manager]](#aam) (updated **September 14, 2021**)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Adobe Experience Manager]](#aem)
@@ -157,7 +157,7 @@ New courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Custome
 
 ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
 
-New features in Audience Manager.
+New features in Audience Manager - updated **September 14, 2021**:
 
 | Feature | Description |
 | ------- | ------- |
