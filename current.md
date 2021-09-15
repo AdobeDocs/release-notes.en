@@ -93,7 +93,7 @@ Release date: **September 15, 2021**
 | ----------- | ---------- | ----- |
 | Metric deduplication | Customer Journey Analytics (CJA) can now deduplicate instances of a metric. If the same value is seen a column (either itself or another column), you can prevent a metric from increasing. Deduplication prevents over-counting of key metrics and increases trust in your data. | September 16, 2021 |
 | Daylight savings time support for reporting | All data in CJA is stored in UTC (not with a specific time zone). [!UICONTROL Data Views] in CJA can now shift data to account for the 1-hour increase or decrease based on daylight savings. | September 16, 2021 |
-| [!UICONTROL Custom calendars] | Lets you select a different calendar type (such as [!UICONTROL retail 4-4-5]) for a data view. You can create multiple data views based on the same connection to see the same data in different calender formats. | September 16, 2021 |
+| [!UICONTROL Custom calendars] | Lets you select a different calendar type (such as [!UICONTROL retail 4-4-5]) for a data view. You can create multiple data views based on the same connection to see the same data in different calendar formats. | September 16, 2021 |
 | Boolean field support | CJA now supports Boolean fields. | September 16, 2021 |
 | New [!UICONTROL Connections] Info experience | This [!UICONTROL Connections] UI enhancement lets you know whether and when your data is ready to be used in reporting. It also lets you track any issues with processing data. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=en) | September 20, 2021 |
 
