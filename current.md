@@ -219,7 +219,7 @@ See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-not
 
 Find out more about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
 
-#### New Journey Orchestration tutorials and courses {#tutorials-ajo}
+### New Journey Orchestration tutorials and courses {#tutorials-ajo}
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
