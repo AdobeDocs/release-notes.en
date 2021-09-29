@@ -200,8 +200,6 @@ Features, fixes, and new help content for Journey Orchestration.
 
 See [Journey Orchestration Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) for details.
 
-{style="table-layout:auto"}
-
 #### More resources for Journey Orchestration
 
 [Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html)
@@ -241,6 +239,8 @@ See [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/jo
 |August 2021|[Set up customer profile data - overview](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/set-up-data-overview.html)|Video |Learn about real-time customer profile data and the steps required to set up customer profile data for Journey Optimizer.|
 |August 2021|[Map identities](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/map-identities.html)|Video |Learn how and when to label a schema field as an identity, how to create a namespace, when to make an identity primary, and how to ingest and verify identity data.|
 |August 2021|[Use Case - Burst Message](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html)|Video |Understand the applicable use cases for burst messaging. Learn how to configure a journey for burst messages and which best practices to apply.|
+
+{style="table-layout:auto"}
 
 ### More resources for Journey Optimizer
 
