@@ -191,17 +191,6 @@ Use Experience Platform to orchestrate a customer’s journey at scale across ex
 
 Find out more about the latest capabilities, improvements, and fixes in the [Journey Orchestration Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html).
 
-#### New Journey Orchestration tutorials and courses {#tutorials-ajo}
-
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|August 2021|[Introduction to building a journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html)|Video |Understand the basics of building a journey in the journey canvas.|
-|August 2021|[Set up customer profile data - overview](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/set-up-data-overview.html)|Video |Learn about real-time customer profile data and the steps required to set up customer profile data for Journey Optimizer.|
-|August 2021|[Map identities](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/map-identities.html)|Video |Learn how and when to label a schema field as an identity, how to create a namespace, when to make an identity primary, and how to ingest and verify identity data.|
-|August 2021|[Use Case - Burst Message](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html)|Video |Understand the applicable use cases for burst messaging. Learn how to configure a journey for burst messages and which best practices to apply.|
-
-{style="table-layout:auto"}
-
 #### More resources for Journey Orchestration
 
 [Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html)
@@ -229,6 +218,17 @@ See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-not
 ### Latest Journey Optimizer product releases
 
 Find out more about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
+
+#### New Journey Orchestration tutorials and courses {#tutorials-ajo}
+
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|August 2021|[Introduction to building a journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html)|Video |Understand the basics of building a journey in the journey canvas.|
+|August 2021|[Set up customer profile data - overview](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/set-up-data-overview.html)|Video |Learn about real-time customer profile data and the steps required to set up customer profile data for Journey Optimizer.|
+|August 2021|[Map identities](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/map-identities.html)|Video |Learn how and when to label a schema field as an identity, how to create a namespace, when to make an identity primary, and how to ingest and verify identity data.|
+|August 2021|[Use Case - Burst Message](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html)|Video |Understand the applicable use cases for burst messaging. Learn how to configure a journey for burst messages and which best practices to apply.|
+
+{style="table-layout:auto"}
 
 ### More resources for Journey Optimizer
 
