@@ -195,8 +195,6 @@ Find out more about the latest capabilities, improvements, and fixes in the [Jou
 
 [Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html)
 
-### [!UICONTROL Offer Decisioning] {#offer-decisioning}
-
 ## ![Icon](/assets/experience_platform_appicon_24.png) Offer Decisioning {#offer-decisioning}
 
 [!UICONTROL Offer Decisioning] is an Application Service integrated with Adobe Experience Platform. Use [!UICONTROL Offer Decisioning] to deliver the best offer and experience to your customers across all touch points at the right time.
