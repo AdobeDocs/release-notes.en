@@ -189,31 +189,6 @@ New videos, tutorials, or courses published for Experience Platform and services
 
 {style="table-layout:auto"}
 
-### Journey Orchestration {#journey-orch}
-
-Features, fixes, and new help content for Journey Orchestration.
-
-**August 2021**
-
-* **Dynamic headers:** You can now pass dynamic data in HTTP header parameters. These parameters can be used by the integration systems that receive the journey action HTTP calls, for example timestamp or tracking ID. [Read more...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
-* **Dynamic URL paths:** You can now set up dynamic URL paths for custom actions. [Read more...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
-
-See [Journey Orchestration Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) for details.
-
-#### More resources for Journey Orchestration
-
-[Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html)
-
-### [!UICONTROL Offer Decisioning] {#offer-decisioning}
-
-**Representation flow:** The way you add and configure representations when creating an offer has been updated for improved user experience
-
-* See [[!UICONTROL Offer Decisioning] Release Notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html) for details.
-
-#### More resources for [!UICONTROL Offer Decisioning]
-
-[Help Center](https://experienceleague.adobe.com/docs/offer-decisioning/using/offer-decisioning-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html#new) - [How-to videos](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/documentation-updates.html)
-
 ### Adobe Mobile SDK
 
 See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-notes) for the Adobe Experience Platform Mobile SDKs.
@@ -245,6 +220,31 @@ See [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/jo
 ### More resources for Journey Optimizer
 
 [Help Center](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
+
+### Journey Orchestration {#journey-orch}
+
+Features, fixes, and new help content for Journey Orchestration.
+
+**August 2021**
+
+* **Dynamic headers:** You can now pass dynamic data in HTTP header parameters. These parameters can be used by the integration systems that receive the journey action HTTP calls, for example timestamp or tracking ID. [Read more...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
+* **Dynamic URL paths:** You can now set up dynamic URL paths for custom actions. [Read more...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
+
+See [Journey Orchestration Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) for details.
+
+#### More resources for Journey Orchestration
+
+[Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html)
+
+### [!UICONTROL Offer Decisioning] {#offer-decisioning}
+
+**Representation flow:** The way you add and configure representations when creating an offer has been updated for improved user experience
+
+* See [[!UICONTROL Offer Decisioning] Release Notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html) for details.
+
+#### More resources for [!UICONTROL Offer Decisioning]
+
+[Help Center](https://experienceleague.adobe.com/docs/offer-decisioning/using/offer-decisioning-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html#new) - [How-to videos](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/documentation-updates.html)
 
 ## ![Icon](/assets/aem.png) Experience Manager {#aem}
 
