@@ -7,11 +7,11 @@ author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 ---
-# INTERNAL REVIEW - Adobe Experience Cloud Release Notes - October 2021 
+# INTERNAL REVIEW - Adobe Experience Cloud Release Notes - October 2021
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
-[!DNL Experience Cloud] applications and services are updated monthly. This page is your central location for finding the latest release updates, documentation, and tutorials for [!DNL Experience Cloud] and [!DNL Experience Platform]. You can also find new documentation for [!DNL Creative Cloud for Enterprise] and [!DNL Document Cloud]. 
+[!DNL Experience Cloud] applications and services are updated monthly. This page is your central location for finding the latest release updates, documentation, and tutorials for [!DNL Experience Cloud] and [!DNL Experience Platform]. You can also find new documentation for [!DNL Creative Cloud for Enterprise] and [!DNL Document Cloud].
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ Latest update: **October 14, 2021**
 * [[!DNL Experience Cloud Central Interface Components] & Administration](#ecloud)
 * [Adobe [!UICONTROL System Status]](#status)
 * [[!DNL Adobe Analytics]](#analytics) and [Customer Journey Analytics](#cust-journey)
-* [[!DNL Adobe Audience Manager]](#aam) 
+* [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Adobe Experience Manager]](#aem)
@@ -35,7 +35,7 @@ Latest update: **October 14, 2021**
 * [[!DNL Adobe Workfront]](#workfront)
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)
-  
+
 Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#home) to find product and technical documentation, Adobe-curated courses, video tutorials, quick answers, community insight, and instructor-led training.
 
 ## ![Icon](/assets/experience-league.png) [!DNL Experience League] Live Events {#events}
@@ -85,6 +85,8 @@ Release date: **October, 2021**
 | ----------- | ---------- | ------- |
 | Quick Segment Builder | Allows business users to quickly apply basic segments in a simplified, in-line project workflow. No need to go to the Segment Builder. [Learn more](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=en) | October 7, 2021 |
 | Visualizations for Analytics dashboards | Analytics dashboards is introducing three new visualizations to give executives and decision makers an even better at-a-glance understanding of their data. The new doughnut, line, and horizontal bar charts all make it easier to see data for individual dimension items, without having to open a details view. (doc link to follow) | October 7, 2021 |
+| Media Playback Time Spent | Adobe Streaming Media Playback Time Spent provides valuable insight into viewer engagement and enables media organizations to derive deeper, more granular insights with minute-by-minute user engagement through advanced time spent analysis with day-parting capabilities. You can observe the amount of time spent viewing your media streams at a specific point in time and you can split the playback duration by different granularities, including new 5-minute, 15-minute, and 30-minute granularities.  (doc link to follow) | October 7, 2021 |
+
 
 {style="table-layout:auto"}
 
@@ -167,7 +169,7 @@ Includes release update information and new documentation for Experience Platfor
 * **[!UICONTROL Destinations]:** Usability improvements to [!UICONTROL Destinations] enable marketers to seamlessly activate segments to existing destinations.
 * **[!UICONTROL Observability Insights]:** You can now subscribe to important alerts related to workflows running on Platform.  
 * **[!UICONTROL Real-time Customer Profile]:** When browsing profiles in Experience Platform, you can now browse by merge policy to preview 20 sample profiles based on the selected merge policy.  
-* **[!UICONTROL Sources]:** The file ingestion category has been renamed to local system, allowing you to bring local files directly to Platform using the local file upload connector. 
+* **[!UICONTROL Sources]:** The file ingestion category has been renamed to local system, allowing you to bring local files directly to Platform using the local file upload connector.
 
 See [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) for all the details.
 
@@ -248,7 +250,7 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
 
     _New features_
 
-    * When sharing digital assets as a link, you can copy the URL to clipboard right away. The enhancement lets you share assets in a faster and easy way. 
+    * When sharing digital assets as a link, you can copy the URL to clipboard right away. The enhancement lets you share assets in a faster and easy way.
     * When you upload TXT files, the asset microservices automatically generates a thumbnail. The PNG thumbnail is a rendition of TXT file that helps users identity the contents or the files to some extent, without opening the files. This functionality does not require any configuration and works by default.
 
     _New feature in the Experience Manager Assets prerelease channel_
@@ -401,7 +403,7 @@ Find out more about the latest capabilities, improvements, and fixes released:
 |September 2021|[Error while connecting to Experience Manager](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/error-aem-connection.html?lang=en)|Campaign Standard / Experience Manager |Learn how to resolve error `GetAEMContentList` of service `nms:delivery`, while connecting from Campaign Standard to Experience Manager.|
 |September 2021|[Fix console login errors](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/login-and-client-console/console-login-errors.html?lang=en)|Campaign Classic |Learn how to fix errors encountered during console login.|
 |September 2021|[How to troubleshoot a technical error while viewing a profile](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/technical-error-while-viewing-profile.html?lang=en)|Campaign Standard |Learn how to fix errors encountered during console login.|
-|September 2021|[Unconditional stop in campaign workflow](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/workflows/unconditional-stop-workflow.html?lang=en)|Campaign Classic |Learn how to correctly perform an unconditional stop in workflow.| 
+|September 2021|[Unconditional stop in campaign workflow](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/workflows/unconditional-stop-workflow.html?lang=en)|Campaign Classic |Learn how to correctly perform an unconditional stop in workflow.|
 
 {style="table-layout:auto"}
 
