@@ -183,7 +183,7 @@ New videos, tutorials, or courses published for Experience Platform and services
 
 {style="table-layout:auto"}
 
-# ![Icon](/assets/experience_platform_appicon_24.png) Journey Orchestration {#journey-orch}
+## ![Icon](/assets/experience_platform_appicon_24.png) Journey Orchestration {#journey-orch}
 
 Use Experience Platform to orchestrate a customer’s journey at scale across experience channels, by intelligently anticipating every individual’s needs in real time.
 
