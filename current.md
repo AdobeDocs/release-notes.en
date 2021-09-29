@@ -83,7 +83,8 @@ Release date: **October, 2021**
 
 | Feature | Description | [General Availability](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) - Target Date |
 | ----------- | ---------- | ------- |
-| No new features this month| N/A |
+| Quick Segment Builder | Allows business users to quickly apply basic segments in a simplified, in-line project workflow. No need to go to the Segment Builder. [Learn more](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=en) | October 7, 2021 |
+| Visualizations for Analytics dashboards | Analytics dashboards is introducing three new visualizations to give executives and decision makers an even better at-a-glance understanding of their data. The new doughnut, line, and horizontal bar charts all make it easier to see data for individual dimension items, without having to open a details view. (doc link to follow) | October 7, 2021 |
 
 {style="table-layout:auto"}
 
@@ -91,34 +92,28 @@ Release date: **October, 2021**
 
 | Feature | Description | [General Availability](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) - Target Date |
 | ----------- | ---------- | ----- |
-| Metric deduplication | Customer Journey Analytics (CJA) can now deduplicate instances of a metric. If the same value is seen a column (either itself or another column), you can prevent a metric from increasing. Deduplication prevents over-counting of key metrics and increases trust in your data. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/metric-deduplication.html?lang=en) | September 16, 2021 |
-| Daylight savings time support for reporting | All data in CJA is stored in UTC (not with a specific time zone). [!UICONTROL Data Views] in CJA can now shift data to account for the 1-hour increase or decrease based on daylight savings. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=en#calendar)| September 16, 2021 |
-| [!UICONTROL Custom calendars] | Lets you select a different calendar type (such as [!UICONTROL retail 4-4-5]) for a data view. You can create multiple data views based on the same connection to see the same data in different calendar formats. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/create-dataview.html?lang=en#calendar) | September 16, 2021 |
-| Boolean field support | CJA now supports Boolean fields. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/behavior.html?lang=en) | September 16, 2021 |
-| New [!UICONTROL Connections] Info experience | This [!UICONTROL Connections] UI enhancement lets you know whether and when your data is ready to be used in reporting. It also lets you track any issues with processing data. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/manage-connections.html?lang=en) | September 20, 2021 |
+| Report Builder support | Report Builder is a Microsoft Excel Add-in that allows you to easily create, edit, and refresh custom reports using Customer Journey Analytics data. With Report Builder and Excel, you can use the simple but flexible drag-and-drop UI to easily build complex data requests.
+With Report Builder for Customer Journey Analytics, you can:<ul><li>Reference existing worksheet cells to get the perfect row order, date range, or filter</li><li>Create custom dates using calendar, cell references, or date math</li><li>Design your tables and visualizations with familiar Excel formatting tools</li></ul> | October 7, 2021 |
+| Quick Filter Builder | Allows business users to quickly apply basic segments in a simplified, in-line project workflow. No need to go to the Filter Builder. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/quick-filters.html?lang=en) | October 7, 2021 |
+| | Visualizations for Analytics dashboards | Analytics dashboards is introducing three new visualizations to give executives and decision makers an even better at-a-glance understanding of their data. The new doughnut, line, and horizontal bar charts all make it easier to see data for individual dimension items, without having to open a details view. (doc link to follow) | October 7, 2021 |
+| CJA audit logs (API only) | Audit logs are an important part of security compliance as well as for auditing data and user actions. | October 7, 2021 |
 
 {style="table-layout:auto"}
 
 ### Fixes in Adobe Analytics and CJA {#aa-fixes}
 
-* Fixed an issue that prevented admins in newly Analytics-provisioned companies from creating the first report suite. (AN-265842, AN-269752)
-* Fixed issues with data feeds not getting delivered. (AN-268758, AN-268737, AN-268568, AN-268759, AN-264728)
-* Fixed an issue that caused lift and confidence to not be calculated in the [!UICONTROL A4T] report in the [!DNL Target] UI. (AN-264841)
-* Fixed an issue with the AppMeasurement library not loading in in-app browsers on iOS devices. (AN-247942)
-* Fixed an issue with Activity Map settings not appearing in report suite settings. (AN-267243)
-* (CJA) Fixed an issue that resulted in CJA now using the currency symbol instead of the currency code in reporting.(AN-268881)
+* Fixed a scheduled report error in CJA. (AN-271721)
+* Fixed issues with “Search Components” in Workspace not resulting in exact matches. (AN-253937; AN-271707)
 
 #### Additional fixes in Adobe Analytics
 
-AN-224899; AN-239753; AN-256295; AN-262122; AN-262449; AN-263969; AN-264665; AN-265223; AN-265260; AN-265519; AN-265579; AN-266199; AN-266354; AN-266968; AN-267564; AN-267624; AN-267711; AN-267781; AN-268170; AN-268267; AN-268334; AN-268402; AN-268551; AN-268675; AN-269000; AN-269050; AN-269059; AN-269305; AN-269531
+AN-256136; AN-265420; AN-268455; AN-269768; AN-270276; AN-270287; AN-271601; AN-271969; AN-272056; AN-272111; AN-272457
 
 ### Important notices for [!DNL Analytics] administrators {#aa-notices}
 
 | Notice | Date Added or Updated  | Description |
 | ----------- | ---------- | ---------- |
 | EOL for three Analytics API services | September 16, 2021| On **October 28, 2021**, the following Analytics Legacy API services will reach their end-of-life date and will be shut down. Any current integrations built using these services will stop working on that day.<ul><li>1.3 Analytics APIs</li><li>1.4 SOAP Analytics APIs</li><li>Legacy OAuth Authentication (OAuth and JWT)</li></ul>Adobe has provided a [Legacy API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) to help answer your questions and provide guidance on how to proceed. API integrations that employ these services can migrate to the [1.4 Analytics REST APIs](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) or the [2.0 Analytics APIs](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth accounts can migrate to an [Adobe I/O](https://console.adobe.io/home?mv=email#) Analytics integration account, which can be used to access both the 1.4 Analytics APIs and 2.0 Analytics APIs. |
-| EOL of Adobe [!UICONTROL Data Connectors] | August 3, 2020 | Adobe [!UICONTROL Data Connectors] are powered by legacy technology that is no longer viable or supported. A new standard is available in the [Adobe Exchange Partner Program](https://partners.adobe.com/exchangeprogram/experiencecloud). You can use that standard for any integration to continue to be offered and supported. The official end-of-life date is **August 19, 2021**. [Learn more...](https://experienceleague.adobe.com/docs/analytics/import/dataconnectors/data-connectors-eol.html?lang=en) |
-| EOL of Full Processing [!UICONTROL Data Sources] | April 12, 2021 | Adobe deprecated full processing data sources **on July 31, 2021**. As of March 25, 2021, new imports of this type can no longer be created. Please use [Bulk Data Insertion API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md) to import this type of data. |
 
 {style="table-layout:auto"}
 
