@@ -183,16 +183,13 @@ New videos, tutorials, or courses published for Experience Platform and services
 
 {style="table-layout:auto"}
 
-### Journey Orchestration {#journey-orch}
+# ![Icon](/assets/experience_platform_appicon_24.png) Journey Orchestration {#journey-orch}
 
-Features, fixes, and new help content for Journey Orchestration.
+Use Experience Platform to orchestrate a customer’s journey at scale across experience channels, by intelligently anticipating every individual’s needs in real time.
 
-**August 2021**
+### Latest Journey Orchestation product releases
 
-* **Dynamic headers:** You can now pass dynamic data in HTTP header parameters. These parameters can be used by the integration systems that receive the journey action HTTP calls, for example timestamp or tracking ID. [Read more...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
-* **Dynamic URL paths:** You can now set up dynamic URL paths for custom actions. [Read more...](https://experienceleague.adobe.com/docs/journeys/using/action-journeys/action-third-party/url-configuration.html?lang=en)
-
-See [Journey Orchestration Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) for details.
+Find out more about the latest capabilities, improvements, and fixes in the [Journey Orchestration Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html).
 
 #### New Journey Orchestration tutorials and courses {#tutorials-ajo}
 
@@ -211,9 +208,13 @@ See [Journey Orchestration Release Notes](https://experienceleague.adobe.com/doc
 
 ### [!UICONTROL Offer Decisioning] {#offer-decisioning}
 
-**Representation flow:** The way you add and configure representations when creating an offer has been updated for improved user experience
+## ![Icon](/assets/experience_platform_appicon_24.png) Offer Decisioning {#offer-decisioning}
 
-* See [[!UICONTROL Offer Decisioning] Release Notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html) for details.
+[!UICONTROL Offer Decisioning] is an Application Service integrated with Adobe Experience Platform. Use [!UICONTROL Offer Decisioning] to deliver the best offer and experience to your customers across all touch points at the right time.
+
+### Latest Offer Decisioning product releases
+
+Find out more about the latest capabilities, improvements, and fixes in the [Offer Decisioning Release Notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html).
 
 #### More resources for [!UICONTROL Offer Decisioning]
 
@@ -225,16 +226,9 @@ See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-not
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
 
-**August 2021** Updates to Journey Optimizer include:
+### Latest Journey Optimizer product releases
 
-|Feature|Description |
-| -----------| ---------- |
-|[!UICONTROL Send-Time Optimization]|Automatically send your push or email at the best time for every customer you engage with Adobe Journey Optimizer. |
-|Leverage schema relationships |You can now leverage relationships between schemas when configuring a business event.  |
-|[!UICONTROL Retry time period]|You can now define the retry period on a per preset basis to ensure that retry attempts are not performed anymore when no longer needed.  |
-|[!UICONTROL Suppression list] |Adding email addresses and domains into the suppression list is now available from the user interface, either one by one, either in bulk mode through a CSV file upload. |
-
-See [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) for details.
+Find out more about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
 
 ### More resources for Journey Optimizer
 
