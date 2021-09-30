@@ -61,6 +61,8 @@ For more videos, visit the [Adobe Experience League Channel](https://www.youtube
 |Product usage data consent  |When you first sign in, you are asked to submit preferences for how Adobe can use Experience Cloud product usage data to enhance your experience. This request also includes an update to your preferences for collection and usage of these data at <https://experience.adobe.com/preferences>.|
 |Experience Cloud [!UICONTROL Triggers] navigation  |[Experience Cloud Triggers](https://experienceleague.adobe.com/docs/core-services/interface/services/activation/triggers.html?lang=en) is available for direct navigation from the application switcher ("waffle icon") in the header for provisioned users. The [!UICONTROL Data Collection] / [!UICONTROL Launch] interstitial page (<https://experience.adobe.com/implement>) will be going away in November 2021.   |
 
+{style="table-layout:auto"}
+
 **More help resources on [!DNL Experience Cloud Central UI Components] & Administration**
 
 * Administration help for [Central Interface Components](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) and user management
