@@ -126,9 +126,9 @@ AN-256136; AN-265420; AN-268455; AN-269768; AN-270276; AN-270287; AN-271601; AN-
 
 For the latest updates on AppMeasurement releases (Version 2.22.2), please refer to [AppMeasurement for JavaScript release notes](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html?lang=en).
 
-### Latest Analytics courses and tutorials {#tutorials-analytics}
+### Analytics courses and tutorials {#tutorials-analytics}
 
-New courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Customer Journey Analytics].
+Latest courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Customer Journey Analytics].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
@@ -166,20 +166,13 @@ New features in Audience Manager - updated **September 14, 2021**:
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
-Includes release update information and new documentation for Experience Platform and Platform services ([!UICONTROL Journey Orchestration], [!UICONTROL Offer Decisioning], and [!UICONTROL Mobile SDK]).
+Includes release update information and new documentation for Experience Platform and [!UICONTROL Mobile SDK]).
 
-**August 25, 2021** updates to existing features in Experience Platform include:
-
-* **[!UICONTROL Destinations]:** Usability improvements to [!UICONTROL Destinations] enable marketers to seamlessly activate segments to existing destinations.
-* **[!UICONTROL Observability Insights]:** You can now subscribe to important alerts related to workflows running on Platform.  
-* **[!UICONTROL Real-time Customer Profile]:** When browsing profiles in Experience Platform, you can now browse by merge policy to preview 20 sample profiles based on the selected merge policy.  
-* **[!UICONTROL Sources]:** The file ingestion category has been renamed to local system, allowing you to bring local files directly to Platform using the local file upload connector.
-
-See [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) for all the details.
+**September 29, 2021** release - See [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) for all the details.
 
 ### Experience Platform tutorials and courses {#tutorials-platform}
 
-New videos, tutorials, or courses published for Experience Platform and services.
+Latest videos, tutorials, or courses published for Experience Platform and services.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
@@ -188,6 +181,33 @@ New videos, tutorials, or courses published for Experience Platform and services
 |September 2021|[Introduction to [!UICONTROL Admin Console]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/admin-console.html)|Video |A high-level overview of the access control hierarchy workflow for Experience Platform.|
 
 {style="table-layout:auto"}
+
+### Adobe Mobile SDK
+
+See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-notes) for the Adobe Experience Platform Mobile SDKs.
+
+## ![Icon](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
+
+### Latest Journey Optimizer product releases
+
+Find out more about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
+
+### Journey Optimizer tutorials and courses {#tutorials-ajo}
+
+Latest Journey Optimizer tutorials:
+
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|August 2021|[Introduction to building a journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html)|Video |Understand the basics of building a journey in the journey canvas.|
+|August 2021|[Set up customer profile data - overview](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/set-up-data-overview.html)|Video |Learn about real-time customer profile data and the steps required to set up customer profile data for Journey Optimizer.|
+|August 2021|[Map identities](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/map-identities.html)|Video |Learn how and when to label a schema field as an identity, how to create a namespace, when to make an identity primary, and how to ingest and verify identity data.|
+|August 2021|[Use Case - Burst Message](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html)|Video |Understand the applicable use cases for burst messaging. Learn how to configure a journey for burst messages and which best practices to apply.|
+
+{style="table-layout:auto"}
+
+### More resources for Journey Optimizer
+
+[Help Center](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Journey Orchestration {#journey-orch}
 
@@ -213,31 +233,6 @@ Find out more about the latest capabilities, improvements, and fixes in the [Off
 
 [Help Center](https://experienceleague.adobe.com/docs/offer-decisioning/using/offer-decisioning-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html#new) - [How-to videos](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/documentation-updates.html)
 
-### Adobe Mobile SDK
-
-See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-notes) for the Adobe Experience Platform Mobile SDKs.
-
-## ![Icon](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
-
-### Latest Journey Optimizer product releases
-
-Find out more about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
-
-### New Journey Orchestration tutorials and courses {#tutorials-ajo}
-
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|August 2021|[Introduction to building a journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html)|Video |Understand the basics of building a journey in the journey canvas.|
-|August 2021|[Set up customer profile data - overview](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/set-up-data-overview.html)|Video |Learn about real-time customer profile data and the steps required to set up customer profile data for Journey Optimizer.|
-|August 2021|[Map identities](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-configuration/map-identities.html)|Video |Learn how and when to label a schema field as an identity, how to create a namespace, when to make an identity primary, and how to ingest and verify identity data.|
-|August 2021|[Use Case - Burst Message](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html)|Video |Understand the applicable use cases for burst messaging. Learn how to configure a journey for burst messages and which best practices to apply.|
-
-{style="table-layout:auto"}
-
-### More resources for Journey Optimizer
-
-[Help Center](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
-
 ## ![Icon](/assets/aem.png) Experience Manager {#aem}
 
 Adobe recommends visiting the [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) page to stay current on release information.
@@ -262,37 +257,37 @@ New videos, tutorials, and courses published over the past month.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|October 2021|[Content Transfer Tool](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/content-migration/content-transfer-tool.html?lang=en)|Video |Learn how Content Transfer Tool helps you migrate content to AEM as a Cloud Service from AEM 6.3+.|
-|October 2021|[Bulk Import Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/content-migration/bulk-import-service.html?lang=en)|Video |Learn how AEM as a Cloud Services’ Bulk Import Service can be used to import assets from non-AEM sources.|
+|October 2021|[[!UICONTROL Content Transfer Tool]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/content-migration/content-transfer-tool.html?lang=en)|Video |Learn how [!UICONTROL Content Transfer Tool] helps you migrate content to AEM as a Cloud Service from AEM 6.3+.|
+|October 2021|[[!UICONTROL Bulk Import Service]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/content-migration/bulk-import-service.html?lang=en)|Video |Learn how AEM as a Cloud Services’ [!UICONTROL Bulk Import Service] can be used to import assets from non-AEM sources.|
 |October 2021|[Communications (Output Service)](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/aem-forms/communications.html?lang=en)|Video |Learn how AEM Forms as a Cloud Service supports the Communication use case.|
 |October 2021|[Digital Enrollment](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/aem-forms/digital-enrollment.html?lang=en)|Video |Learn about how AEM Forms as a Cloud Service supports the Digital Enrollment use case.|
-|October 2021|[Using Cloud Acceleration Manager’s tools](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/using.html)|Video |A narrated walk-through of using Cloud Acceleration Manager’s tools.|
-|October 2021|[Navigating Cloud Acceleration Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/navigating.html)|Video |Explore the navigation experience of Cloud Acceleration Manager for Experience Manager as a Cloud Service.|
-|October 2021|[Asset Workflow Migration Tool](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/asset-workflow-migration-tool.html)|Video |Learn how the Asset Workflow Migration tool helps migrate your existing AEM Assets Workflows to AEM as a Cloud Service.|
-|October 2021|[Index Converter](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/index-converter.html)|Video |Learn how the Index Converter automatically converts existing AEM index definitions to be AEM as a Cloud Service compatible.|
-|October 2021|[Dispatcher Converter](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/dispatcher-converter.html)|Video |Learn how the Dispatcher Converter automatically updates existing AEM Dispatcher configurations to be AEM as a Cloud Service compatible.|
-|October 2021|[Code Repository Modernizer](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/code-repository-modernizer.html)|Video |Learn how the Core Repository Modernizer automatically updates existing AEM Maven projects to be AEM as a Cloud Service compatible.|
-|October 2021|[Code Refactoring Tools](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/code-refactoring-tools.html)|Video |Learn how AEM’s Code Refactoring Tools help automate the conversion of existing AEM projects to be AEM as a Cloud Service compatible.|
-|October 2021|[Content Transfer Tool](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/content-transfer-tool.html)|Video |Learn how the Content Transfer Tool lets you efficiently move content from AEM 6.5 to AEM as a Cloud Service.|
-|October 2021|[The implementation phases of Cloud Acceleration Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/implementation-phase.html)|Video |Review and understand the major implementation phases or moving to AEM as a Cloud Service using Cloud Acceleration Manager.|
-|October 2021|[Readiness and Best Practice Analyzer](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/readiness-and-best-practice-analyzer.html)|Video |Learn how the Best Practice Analyzer can help prepare you to move from AEM on-prem or Adobe Managed Services to Experience Manager as a Cloud Service.|
-|October 2021|[Introduction to Cloud Acceleration Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/introduction.html)|Video |Learn how Cloud Acceleration Manager can help you quickly and easily move to Experience Manager as a Cloud Service.|
+|October 2021|[Using [!UICONTROL Cloud Acceleration Manager] tools](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/using.html)|Video |A narrated walk-through of using [!UICONTROL Cloud Acceleration Manager] tools.|
+|October 2021|[Navigating [!UICONTROL Cloud Acceleration Manager]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/navigating.html)|Video |Explore the navigation experience of [!UICONTROL Cloud Acceleration Manager] for Experience Manager as a Cloud Service.|
+|October 2021|[[!UICONTROL Asset Workflow Migration] Tool](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/asset-workflow-migration-tool.html)|Video |Learn how the [!UICONTROL Asset Workflow Migration] tool helps migrate your existing AEM Assets Workflows to AEM as a Cloud Service.|
+|October 2021|[[!UICONTROL Index Converter]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/index-converter.html)|Video |Learn how the [!UICONTROL Index Converter] automatically converts existing AEM index definitions to be AEM as a Cloud Service compatible.|
+|October 2021|[[!UICONTROL Dispatcher Converter]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/dispatcher-converter.html)|Video |Learn how the [!UICONTROL Dispatcher Converter] automatically updates existing AEM Dispatcher configurations to be AEM as a Cloud Service compatible.|
+|October 2021|[[!UICONTROL Code Repository Modernizer]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/code-repository-modernizer.html)|Video |Learn how the [!UICONTROL Core Repository Modernizer] automatically updates existing AEM Maven projects to be AEM as a Cloud Service compatible.|
+|October 2021|[[!UICONTROL Code Refactoring Tools]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/code-refactoring-tools.html)|Video |Learn how the AEM [!UICONTROL Code Refactoring Tools] help automate the conversion of existing AEM projects to be AEM as a Cloud Service compatible.|
+|October 2021|[[!UICONTROL Content Transfer Tool]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/content-transfer-tool.html)|Video |Learn how the [!UICONTROL Content Transfer Tool] lets you efficiently move content from AEM 6.5 to AEM as a Cloud Service.|
+|October 2021|[The implementation phases of [!UICONTROL Cloud Acceleration Manager]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/implementation-phase.html)|Video |Review and understand the major implementation phases or moving to AEM as a Cloud Service using [!UICONTROL Cloud Acceleration Manager].|
+|October 2021|[Readiness and [!UICONTROL Best Practice Analyzer]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/readiness-and-best-practice-analyzer.html)|Video |Learn how the [!UICONTROL Best Practice Analyzer] can help prepare you to move from AEM on-prem or Adobe Managed Services to Experience Manager as a Cloud Service.|
+|October 2021|[Introduction to Cloud Acceleration Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/introduction.html)|Video |Learn how [!UICONTROL Cloud Acceleration Manager] can help you quickly and easily move to Experience Manager as a Cloud Service.|
 |October 2021|[AEM Forms as a Cloud Service - Moving to AEM CS](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/aem-forms/introduction.html?lang=en)|Video |Learn about use cases and features supported by AEM Forms as a Cloud Service.|
 |October 2021|[Troubleshooting AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/troubleshooting.html?lang=en)|Video |Learn how to troubleshoot and debug the AEM SDK, AEM as a Cloud Service and, the build and deploy process.|
-|October 2021|[AEM Assets Microservices - Moving to AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/asset-compute-microservices.html?lang=en)|Video |Learn how AEM Assets as a Cloud Service’s asset compute microservices allow you to automatically and efficiently generate any rendition for your assets, replacing this role of traditional AEM Workflow.|
-|October 2021|[Search and indexing](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/search-and-indexing.html?lang=en)|Video |Learn about AEM as a Cloud Service’s search indexes, how to convert AEM 6 index definitions to be AEM as a Cloud Service compatible, and how to deploy indexes to AEM as a Cloud Service.|
-|October 2021|[Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/dispatcher.html?lang=en)|Video |Learn about AEM Dispatcher for AEM as a Cloud Service, focusing on notable changes from Dispatcher for AEM 6, the Dispatcher conversion tool and how to use the Dispatcher Tools SDK.|
-|October 2021|[Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/cloud-manager.html?lang=en)|Video |Learn about Cloud Manager for AEM as a Cloud Service, and its differences with Cloud Manager for AEM on Adobe Manage Services (AMS).|
-|October 2021|[Onboarding to AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/onboarding.html?lang=en)|Video |Learn about onboarding to AEM as a Cloud Service starting from the contract phase all the way through setting up the environments using Cloud Manager.|
+|October 2021|[AEM [!UICONTROL Assets Microservices] - Moving to AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/asset-compute-microservices.html?lang=en)|Video |Learn how AEM Assets as a Cloud Service’s asset compute microservices allow you to automatically and efficiently generate any rendition for your assets, replacing this role of traditional AEM Workflow.|
+|October 2021|[Search and indexing](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/search-and-indexing.html?lang=en)|Video |Learn about the AEM as a Cloud Service search indexes, how to convert AEM 6 index definitions to be AEM as a Cloud Service compatible, and how to deploy indexes to AEM as a Cloud Service.|
+|October 2021|[[!UICONTROL Dispatcher]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/dispatcher.html?lang=en)|Video |Learn about AEM [!UICONTROL Dispatcher] for AEM as a Cloud Service, focusing on notable changes from [!UICONTROL Dispatcher] for AEM 6, the [!UICONTROL Dispatcher] conversion tool and how to use the Dispatcher Tools SDK.|
+|October 2021|[[!UICONTROL Cloud Manager]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/cloud-manager.html?lang=en)|Video |Learn about Cloud Manager for AEM as a Cloud Service, and its differences with Cloud Manager for AEM on Adobe Manage Services (AMS).|
+|October 2021|[Onboarding to AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/onboarding.html?lang=en)|Video |Learn about onboarding to AEM as a Cloud Service starting from the contract phase all the way through setting up the environments using [!UICONTROL Cloud Manager].|
 |October 2021|[Repository Modernization](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/repository-modernization.html?lang=en)|Video |Learn about repository modernization, mutable and immutable content, package structure and the repository modernizer CLI tool.|
-|October 2021|[AEM Modernization Tools](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/aem-modernization-tools.html?lang=en)|Video |Learn how AEM Modernization Tools are used to upgrade an existing AEM project and content to be AEM as a Cloud Service compatible.|
+|October 2021|[AEM [!UICONTROL Modernization Tools]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/aem-modernization-tools.html?lang=en)|Video |Learn how AEM [!UICONTROL Modernization Tools] are used to upgrade an existing AEM project and content to be AEM as a Cloud Service compatible.|
 |October 2021|[AEM Modernization Tools](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/introduction.html?lang=en)|Video |Learn how to think differently about AEM as a Cloud Service implementations.|
 |October 2021|[Best Practice Analyzer and Cloud Acceleration Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/bpa-and-cam.html?lang=en)|Video |Learn how Best Practice Analyzer (BPA) and Cloud Acceleration Manager (CAM) provides a customized guide for migrating to AEM as a Cloud Service.|
-|October 2021|[Maintaining Version History](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)|Video |Learn how Adobe Workfront and Experience Manager Assets Essentials helps you maintain versions of Workfront documents and Assets Essentials assets.|
+|October 2021|[Maintaining Version History](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)|Video |Learn how Adobe Workfront and Experience Manager [!UICONTROL Assets Essentials] helps you maintain versions of [!DNL Workfront] documents and Assets Essentials assets.|
 |October 2021|[Sending documents and Linking assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=en)|Video |Learn how to send Workfront documents to to Assets Essentials, and link Assets Essentials assets to Workfront.|
 |October 2021|[Configuring the integration](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=en)|Video |Learn how to configure the Adobe Workfront and Assets Essentials integration.|
 |October 2021|[What’s a digital signature](https://docs.adobe.com/content/help/en/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-with-a-digital-signature.html)|Video |Learn about certificate-based digital signatures, which comply with the strictest legal regulations around the world and provide the highest level of assurance of a signer’s identity.|
-|October 2021|[Segment Builder in Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/segment-builder-overview.html?lang=en#)|Video |Slice and dice your data with segmentation in Adobe Analytics. This video walks you through the segment builder and gives a basic overview.|
+|October 2021|[Segment Builder in Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/segment-builder-overview.html?lang=en#)|Video |Slice and dice your data with segmentation in Adobe Analytics. This video walks you through the [!UICONTROL Segment Builder] and gives a basic overview.|
 
 {style="table-layout:auto"}
 
@@ -338,6 +333,8 @@ Find out more about the latest capabilities, improvements, and fixes released:
 * [Campaign Standard Release Notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html)
 
 ### New [!UICONTROL Campaign] courses and tutorials {#tutorials-campaign}
+
+Latest tutorials and courses for Adobe Campaign.
 
 |Published|Name|Application|Description |
 | -----------| ---------- | ---------- | ---------- |
@@ -436,14 +433,14 @@ New videos, tutorials, or courses published for Adobe Document Cloud.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|October 2021|[Digital ID overview](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/digitalid-overview.html)|Video |Similar to a passport in electronic form, a digital identity (digital ID) allows you to securely prove that you are who you say you are. And, when e-signing in Adobe Sign, using a digital ID provides a higher level of assurance that you authorized your e-signature on that specific document. The following tutorials show you how to use digital IDs from around the world with Adobe Sign.|
+|October 2021|[Digital ID overview](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/digitalid-overview.html)|Video |Learn how to use digital IDs from around the world with Adobe Sign.|
 |October 2021|[Getting started with Adobe Sign for new senders](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/new-sender.html)|Video |If you’re new to using Adobe Sign, this tutorial is a great place to start. This comprehensive tutorial focuses on all the basics to get you up and running quickly with Adobe Sign.|
 |October 2021|[Load PDF comments into InDesign](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/indesign.html)|Video |In this 60-second video tutorial, learn how to load PDF comments back into InDesign after an Acrobat shared review. This digital workflow helps you complete revisions in record time.|
-|October 2021|[Get a digital ID from Intesi Group (Qualified)](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/intesi/intesi-qualified.html)|Video |Learn how to obtain a qualified digital signing certificate from Intesi Group. Once registered and your identity is verified, Intesi Group issues you with a digital ID that is used to apply an Adobe Sign cloud signature.|
-|October 2021|[Get a digital ID from Intesi Group (Qualified)](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/intesi/intesi-sign.html)|Video |Learn how to use your Intesi Group digital ID to authenticate your identity and authorize a remote digital signature (cloud signature) on a document.|
-|October 2021|[Get a digital ID from Intesi Group (Advanced)](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/intesi/intesi-advanced.html)|Video |Learn how to obtain an Advanced digital signing certificate from Intesi Group. Once registered and your identity is verified, Intesi Group issues you with a digital ID that is used to apply an Adobe Sign cloud signature.|
-|October 2021|[Signing using Digidentity](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/digidentity/digidentity-sign.html)|Video |Learn how to use your Digidentity digital ID to authenticate your identity and authorize a remote digital signature (cloud signature) on a document.|
-|October 2021|[Get a digital ID from Digidentity](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/digidentity/digidentity-reg.html)|Video |Learn how to obtain a digital signing certificate from Digidentity. Once registered and your identity is verified, Digidentity issues you with a digital ID that is used to apply an Adobe Sign cloud signature.|
+|October 2021|[Get a digital ID from [!DNL Intesi Group] (Qualified)](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/intesi/intesi-qualified.html)|Video |Learn how to obtain a qualified digital signing certificate from [!DNL Intesi] Group. Once registered and your identity is verified, [!DNL Intesi] Group issues you with a digital ID that is used to apply an Adobe Sign cloud signature.|
+|October 2021|[Get a digital ID from [!DNL Intesi Group] (Qualified)](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/intesi/intesi-sign.html)|Video |Learn how to use your Intesi Group digital ID to authenticate your identity and authorize a remote digital signature (cloud signature) on a document.|
+|October 2021|[Get a digital ID from [!DNL Intesi Group] (Advanced)](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/intesi/intesi-advanced.html)|Video |Learn how to obtain an Advanced digital signing certificate from Intesi Group. Once registered and your identity is verified, Intesi Group issues you with a digital ID that is used to apply an Adobe Sign cloud signature.|
+|October 2021|[Signing using [!DNL Digidentity]](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/digidentity/digidentity-sign.html)|Video |Learn how to use your [!DNL Digidentity] digital ID to authenticate your identity and authorize a remote digital signature (cloud signature) on a document.|
+|October 2021|[Get a digital ID from [!DNL Digidentity]](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/digidentity/digidentity-reg.html)|Video |Learn how to obtain a digital signing certificate from [!DNL Digidentity]. Once registered and your identity is verified, [!DNL Digidentity] issues you with a digital ID that is used to apply an Adobe Sign cloud signature.|
 |October 2021|[Detect differences between two PDFs](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/compare.html)|Video |Never make the mistake of working with the wrong version of a file. Quickly and accurately detect the differences between two PDF files to improve document review workflows.|
 |October 2021|[Create PDF content while browsing with Microsoft Edge](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/edge.html)|Video |Learn how to archive web pages to PDF on the fly with the Adobe Acrobat extension for Microsoft Edge. This Windows-only tool is invaluable for research projects and offline viewing of web-based information.|
 |October 2021|[Convert email messages and attachments to PDF in Outlook](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/outlook.html)|Video |Learn how to archive email messages and attachments to PDF in Outlook for your projects. Learn to deliver information in a more professional and secure manner by automatically converting attachments to PDF. This tool is only available for Windows.|
