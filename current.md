@@ -5,7 +5,6 @@ doc-type: release notes
 last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
-exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 ---
 # INTERNAL REVIEW - Adobe Experience Cloud Release Notes - October 2021
 
@@ -17,7 +16,9 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Latest update: **October 14, 2021**
+Release month: **October 2021**
+
+Latest update: **September 29, 2021**
 
 * [[!DNL Experience League] Live Events](#events)
 * [[!DNL Experience Cloud Central Interface Components] & Administration](#ecloud)
@@ -44,7 +45,7 @@ Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#h
 
 |Event Date|Event Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|September 23, 2021 |[Expert tips to make your holiday campaigns stand out](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw)|Live video event |Just like it’s never too early to start your holiday shopping, it’s never too early to start planning for a wildly successful holiday marketing campaign. With Adobe Campaign, you can design, plan, and execute campaigns that make all your organization’s holiday wishes come true.<br>But do you know all the tips for running campaigns that finish the year out with a bang? Join us for a live discussion featuring three Adobe experts who have eons of collective expertise in doing just that. [Details...](https://www.youtube.com/watch?v=bsU1lAv0xes)|
+|September 23, 2021 |[Expert tips to make your holiday campaigns stand out](https://www.youtube.com/watch?v=bsU1lAv0xes)|Live video event |Just like it’s never too early to start your holiday shopping, it’s never too early to start planning for a wildly successful holiday marketing campaign. With Adobe Campaign, you can design, plan, and execute campaigns that make all your organization’s holiday wishes come true.<br>But do you know all the tips for running campaigns that finish the year out with a bang? Join Sandra for a live discussion featuring three Adobe experts who have eons of collective expertise in doing just that.|
 |August 26, 2021|[Make Your Next Audience Segment Smarter than Ever](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-02.html?lang=en)|Event recording|The success of every good marketing campaign hinges on precisely targeting your audience. With the new Adobe Experience Platform [!UICONTROL Segment Builder], you can build your next audience segment using profile data and time-based user behavior across channels. There’s no better way to ensure that your messages reach the people who need to hear them most.|
 |July 29, 2021|[My Three Favorite Adobe Analytics Implementation Tips](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-01.html?lang=en)|Event recording |You’ve seen him on-stage at Summit. You’ve heard him share expert advice at Adobe Insider Tours. You may have even had the benefit of working with him on your own Adobe Analytics implementation. Now, Eric Matisoff is bringing his three favorite Adobe Analytics implementation tips to this exclusive Experience League Live discussion.|
 
@@ -54,13 +55,17 @@ For more videos, visit the [Adobe Experience League Channel](https://www.youtube
 
 ## ![Icon](/assets/ec_appicon_24.png) [!DNL Experience Cloud Central UI Components] & Administration {#ecloud}
 
-Not updated this month. Check back frequently for updates.
+| Feature | Description |
+| ------- | ------- |
+|Unified Search |Unified Search continues to add objects types to the search index. In this update, global search now searches across Experience League content and the following Journey Optimizer object types: <ul><li>Datasets</li><li>Destinations</li><li>Queries</li><li>Schemas</li><li>Segments</li><li>Sources</li><li>Offers</li><li>Components</li><li>Messages</li><li>Journeys</li></ul> |
+|Product usage data consent  |When you first sign in, you are asked to submit preferences for how Adobe can use Experience Cloud product usage data to enhance your experience. This request also includes an update to your preferences for collection and usage of these data at <https://experience.adobe.com/preferences>.|
+|Experience Cloud [!UICONTROL Triggers] navigation  |[Experience Cloud Triggers](https://experienceleague.adobe.com/docs/core-services/interface/services/activation/triggers.html?lang=en) is available for direct navigation from the application switcher ("waffle icon") in the header for provisioned users. The [!UICONTROL Data Collection] / [!UICONTROL Launch] interstitial page (<https://experience.adobe.com/implement>) will be going away in November 2021.   |
 
 **More help resources on [!DNL Experience Cloud Central UI Components] & Administration**
 
 * Administration help for [Central Interface Components](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) and user management
 * Help and release notes for [Places - Location Service](https://experienceleague.adobe.com/docs/places/using/release-notes.html?lang=en)
-* Help on [People - Customer Attributes and Audience Library](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=en).
+* Help on [People - Customer Attributes and Audience Library](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=en)
 
 ## ![Icon](/assets/adobe.png) [!DNL Adobe System Status] {#status}
 
@@ -70,7 +75,7 @@ Not updated this month. Check back frequently for updates.
 
 ## ![Icon](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-Release date: **October, 2021**
+Release date: **October 7, 2021**
 
 * [New features in Adobe Analytics](#aa-features)
 * [New features in Customer Journey Analytics](#cust-journey)
@@ -83,10 +88,9 @@ Release date: **October, 2021**
 
 | Feature | Description | [General Availability](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) - Target Date |
 | ----------- | ---------- | ------- |
-| Quick Segment Builder | Allows business users to quickly apply basic segments in a simplified, in-line project workflow. No need to go to the Segment Builder. [Learn more](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=en) | October 7, 2021 |
-| Visualizations for Analytics dashboards | Analytics dashboards is introducing three new visualizations to give executives and decision makers an even better at-a-glance understanding of their data. The new doughnut, line, and horizontal bar charts all make it easier to see data for individual dimension items, without having to open a details view. (doc link to follow) | October 7, 2021 |
-| Media Playback Time Spent | Adobe Streaming Media Playback Time Spent provides valuable insight into viewer engagement and enables media organizations to derive deeper, more granular insights with minute-by-minute user engagement through advanced time spent analysis with day-parting capabilities. You can observe the amount of time spent viewing your media streams at a specific point in time and you can split the playback duration by different granularities, including new 5-minute, 15-minute, and 30-minute granularities.  (doc link to follow) | October 7, 2021 |
-
+| Quick [!UICONTROL Segment Builder] | Allows business users to quickly apply basic segments in a simplified, in-line project workflow. No need to go to the [!UICONTROL Segment Builder]. [Learn more](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=en) | October 7, 2021 |
+| Visualizations for Analytics dashboards | Analytics dashboards is introducing three new visualizations to give executives and decision makers an even better at-a-glance understanding of their data. The new doughnut, line, and horizontal bar charts all make it easier to see data for individual dimension items, without having to open a details view. (Documentation link to follow) | October 7, 2021 |
+| [!UICONTROL Media Playback Time Spent] | Adobe Streaming Media Playback [!UICONTROL Time Spent] provides valuable insight into viewer engagement and enables media organizations to derive deeper, more granular insights with minute-by-minute user engagement through advanced time spent analysis with day-parting capabilities. You can observe the amount of time spent viewing your media streams at a specific point in time and you can split the playback duration by different granularities, including new 5-minute, 15-minute, and 30-minute granularities. (Documentation link to follow) | October 7, 2021 |
 
 {style="table-layout:auto"}
 
@@ -95,16 +99,16 @@ Release date: **October, 2021**
 | Feature | Description | [General Availability](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) - Target Date |
 | ----------- | ---------- | ----- |
 | Report Builder support | Report Builder is a Microsoft Excel Add-in that allows you to easily create, edit, and refresh custom reports using Customer Journey Analytics data. With Report Builder and Excel, you can use the simple but flexible drag-and-drop UI to easily build complex data requests. With Report Builder for Customer Journey Analytics, you can:<ul><li>Reference existing worksheet cells to get the perfect row order, date range, or filter</li><li>Create custom dates using calendar, cell references, or date math</li><li>Design your tables and visualizations with familiar Excel formatting tools</li></ul> | October 7, 2021 |
-| Quick Filter Builder | Allows business users to quickly apply basic segments in a simplified, in-line project workflow. No need to go to the Filter Builder. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/quick-filters.html?lang=en) | October 7, 2021 |
-| Visualizations for Analytics dashboards | Analytics dashboards is introducing three new visualizations to give executives and decision makers an even better at-a-glance understanding of their data. The new doughnut, line, and horizontal bar charts all make it easier to see data for individual dimension items, without having to open a details view. (doc link to follow) | October 7, 2021 |
-| CJA audit logs (API only) | Audit logs are an important part of security compliance as well as for auditing data and user actions.| October 7, 2021 |
+| Quick [!UICONTROL Filter Builder] | Allows business users to quickly apply basic segments in a simplified, in-line project workflow. No need to go to the [!UICONTROL Filter Builder]. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/quick-filters.html?lang=en) | October 7, 2021 |
+| Visualizations for Analytics dashboards | Analytics dashboards is introducing three new visualizations to give executives and decision makers an even better at-a-glance understanding of their data. The new doughnut, line, and horizontal bar charts all make it easier to see data for individual dimension items, without having to open a details view. (Documentation link to follow)| October 7, 2021 |
+| Customer Journey Analytics audit logs (API only) | Audit logs are an important part of security compliance as well as for auditing data and user actions.| October 7, 2021 |
 
 {style="table-layout:auto"}
 
 ### Fixes in Adobe Analytics and CJA {#aa-fixes}
 
-* Fixed a scheduled report error in CJA. (AN-271721)
-* Fixed issues with “Search Components” in Workspace not resulting in exact matches. (AN-253937; AN-271707)
+* Fixed a scheduled report error in Customer Journey Analytics. (AN-271721)
+* Fixed issues with [!UICONTROL Search Components] in [!UICONTROL Workspace] not resulting in exact matches. (AN-253937; AN-271707)
 
 #### Additional fixes in Adobe Analytics
 
@@ -114,7 +118,7 @@ AN-256136; AN-265420; AN-268455; AN-269768; AN-270276; AN-270287; AN-271601; AN-
 
 | Notice | Date Added or Updated  | Description |
 | ----------- | ---------- | ---------- |
-| EOL for three Analytics API services | September 16, 2021| On **October 28, 2021**, the following Analytics Legacy API services will reach their end-of-life date and will be shut down. Any current integrations built using these services will stop working on that day.<ul><li>1.3 Analytics APIs</li><li>1.4 SOAP Analytics APIs</li><li>Legacy OAuth Authentication (OAuth and JWT)</li></ul>Adobe has provided a [Legacy API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) to help answer your questions and provide guidance on how to proceed. API integrations that employ these services can migrate to the [1.4 Analytics REST APIs](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) or the [2.0 Analytics APIs](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth accounts can migrate to an [Adobe I/O](https://console.adobe.io/home?mv=email#) Analytics integration account, which can be used to access both the 1.4 Analytics APIs and 2.0 Analytics APIs. |
+| EOL for three Analytics API services | September 16, 2021| On **October 28, 2021**, the following Analytics Legacy API services will reach their end-of-life date and be shut down. Any current integrations built using these services will stop working on that day.<ul><li>1.3 Analytics APIs</li><li>1.4 SOAP Analytics APIs</li><li>Legacy OAuth Authentication (OAuth and JWT)</li></ul>Adobe has provided a [Legacy API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) to help answer your questions and provide guidance on how to proceed. API integrations that employ these services can migrate to the [1.4 Analytics REST APIs](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) or the [2.0 Analytics APIs](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth accounts can migrate to an [Adobe I/O](https://console.adobe.io/home?mv=email#) Analytics integration account, which can be used to access both the 1.4 Analytics APIs and 2.0 Analytics APIs. |
 
 {style="table-layout:auto"}
 
@@ -122,7 +126,7 @@ AN-256136; AN-265420; AN-268455; AN-269768; AN-270276; AN-270287; AN-271601; AN-
 
 For the latest updates on AppMeasurement releases (Version 2.22.2), please refer to [AppMeasurement for JavaScript release notes](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html?lang=en).
 
-### New Analytics courses and tutorials {#tutorials-analytics}
+### Latest Analytics courses and tutorials {#tutorials-analytics}
 
 New courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Customer Journey Analytics].
 
@@ -258,10 +262,37 @@ New videos, tutorials, and courses published over the past month.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|September 2021|[Experience Manager Back-end Developer Fundamentals](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2019.1.backend)|Course |Take a deep-dive into back-end development with Adobe Experience Manager. Learn best practices for working with Java™ APIs, Sling Models and unit testing.|
-|September 2021|[Getting started with [!UICONTROL Assets Essentials]](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html)|Video |Learn how [!UICONTROL Assets Essentials] offers an intuitive and user-friendly user interface, making assets and related information easy to find and remember.|
-|September 2021|[Provisioning [!UICONTROL Assets Essentials]](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/provisioning.html)|Video |Learn how to deploy [!UICONTROL Assets Essentials] using [!DNL Cloud Manager], and provision user access.|
-|September 2021|[Creative Cloud and [!UICONTROL Assets Essentials]](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/creative-cloud.html?lang=en)|Video |Learn how to integrate [!UICONTROL Assets Essentials] with Adobe Creative Cloud Libraries.|
+|October 2021|[Content Transfer Tool](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/content-migration/content-transfer-tool.html?lang=en)|Video |Learn how Content Transfer Tool helps you migrate content to AEM as a Cloud Service from AEM 6.3+.|
+|October 2021|[Bulk Import Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/content-migration/bulk-import-service.html?lang=en)|Video |Learn how AEM as a Cloud Services’ Bulk Import Service can be used to import assets from non-AEM sources.|
+|October 2021|[Communications (Output Service)](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/aem-forms/communications.html?lang=en)|Video |Learn how AEM Forms as a Cloud Service supports the Communication use case.|
+|October 2021|[Digital Enrollment](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/aem-forms/digital-enrollment.html?lang=en)|Video |Learn about how AEM Forms as a Cloud Service supports the Digital Enrollment use case.|
+|October 2021|[Using Cloud Acceleration Manager’s tools](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/using.html)|Video |A narrated walk-through of using Cloud Acceleration Manager’s tools.|
+|October 2021|[Navigating Cloud Acceleration Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/navigating.html)|Video |Explore the navigation experience of Cloud Acceleration Manager for Experience Manager as a Cloud Service.|
+|October 2021|[Asset Workflow Migration Tool](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/asset-workflow-migration-tool.html)|Video |Learn how the Asset Workflow Migration tool helps migrate your existing AEM Assets Workflows to AEM as a Cloud Service.
+|October 2021|[Index Converter](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/index-converter.html)|Video |Learn how the Index Converter automatically converts existing AEM index definitions to be AEM as a Cloud Service compatible.|
+|October 2021|[Dispatcher Converter](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/dispatcher-converter.html)|Video |Learn how the Dispatcher Converter automatically updates existing AEM Dispatcher configurations to be AEM as a Cloud Service compatible.|
+|October 2021|[Code Repository Modernizer](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/code-repository-modernizer.html)|Video |Learn how the Core Repository Modernizer automatically updates existing AEM Maven projects to be AEM as a Cloud Service compatible.|
+|October 2021|[Code Refactoring Tools](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/code-refactoring-tools.html)|Video |Learn how AEM’s Code Refactoring Tools help automate the conversion of existing AEM projects to be AEM as a Cloud Service compatible.|
+|October 2021|[Content Transfer Tool](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/content-transfer-tool.html)|Video |Learn how the Content Transfer Tool lets you efficiently move content from AEM 6.5 to AEM as a Cloud Service.|
+|October 2021|[The implementation phases of Cloud Acceleration Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/implementation-phase.html)|Video |Review and understand the major implementation phases or moving to AEM as a Cloud Service using Cloud Acceleration Manager.|
+|October 2021|[Readiness and Best Practice Analyzer](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/readiness-and-best-practice-analyzer.html)|Video |Learn how the Best Practice Analyzer can help prepare you to move from AEM on-prem or Adobe Managed Services to Experience Manager as a Cloud Service.|
+|October 2021|[Introduction to Cloud Acceleration Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/introduction.html)|Video |Learn how Cloud Acceleration Manager can help you quickly and easily move to Experience Manager as a Cloud Service.|
+|October 2021|[AEM Forms as a Cloud Service - Moving to AEM CS](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/aem-forms/introduction.html?lang=en)|Video |Learn about use cases and features supported by AEM Forms as a Cloud Service.|
+|October 2021|[Troubleshooting AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/troubleshooting.html?lang=en)|Video |Learn how to troubleshoot and debug the AEM SDK, AEM as a Cloud Service and, the build and deploy process.|
+|October 2021|[AEM Assets Microservices - Moving to AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/asset-compute-microservices.html?lang=en)|Video |Learn how AEM Assets as a Cloud Service’s asset compute microservices allow you to automatically and efficiently generate any rendition for your assets, replacing this role of traditional AEM Workflow.|
+|October 2021|[Search and indexing](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/search-and-indexing.html?lang=en)|Video |Learn about AEM as a Cloud Service’s search indexes, how to convert AEM 6 index definitions to be AEM as a Cloud Service compatible, and how to deploy indexes to AEM as a Cloud Service.|
+|October 2021|[Dispatcher](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/dispatcher.html?lang=en)|Video |Learn about AEM Dispatcher for AEM as a Cloud Service, focusing on notable changes from Dispatcher for AEM 6, the Dispatcher conversion tool and how to use the Dispatcher Tools SDK.|
+|October 2021|[Cloud Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/cloud-manager.html?lang=en)|Video |Learn about Cloud Manager for AEM as a Cloud Service, and its differences with Cloud Manager for AEM on Adobe Manage Services (AMS).|
+|October 2021|[Onboarding to AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/onboarding.html?lang=en)|Video |Learn about onboarding to AEM as a Cloud Service starting from the contract phase all the way through setting up the environments using Cloud Manager.|
+|October 2021|[Repository Modernization](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/repository-modernization.html?lang=en)|Video |Learn about repository modernization, mutable and immutable content, package structure and the repository modernizer CLI tool.|
+|October 2021|[AEM Modernization Tools](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/aem-modernization-tools.html?lang=en)|Video |Learn how AEM Modernization Tools are used to upgrade an existing AEM project and content to be AEM as a Cloud Service compatible.|
+|October 2021|[AEM Modernization Tools](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/introduction.html?lang=en)|Video |Learn how to think differently about AEM as a Cloud Service implementations.|
+|October 2021|[Best Practice Analyzer and Cloud Acceleration Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/bpa-and-cam.html?lang=en)|Video |Learn how Best Practice Analyzer (BPA) and Cloud Acceleration Manager (CAM) provides a customized guide for migrating to AEM as a Cloud Service.|
+|October 2021|[Maintaining Version History](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)|Video |Learn how Adobe Workfront and Experience Manager Assets Essentials helps you maintain versions of Workfront documents and Assets Essentials assets.|
+|October 2021|[Sending documents and Linking assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=en)|Video |Learn how to send Workfront documents to to Assets Essentials, and link Assets Essentials assets to Workfront.|
+|October 2021|[Configuring the integration](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=en)|Video |Learn how to configure the Adobe Workfront and Assets Essentials integration.|
+|October 2021|[What’s a digital signature](https://docs.adobe.com/content/help/en/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-with-a-digital-signature.html)|Video |Learn about certificate-based digital signatures, which comply with the strictest legal regulations around the world and provide the highest level of assurance of a signer’s identity.|
+|October 2021|[Segment Builder in Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/segment-builder-overview.html?lang=en#)|Video |Slice and dice your data with segmentation in Adobe Analytics. This video walks you through the segment builder and gives a basic overview.|
 
 {style="table-layout:auto"}
 
@@ -405,18 +436,18 @@ New videos, tutorials, or courses published for Adobe Document Cloud.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|September 2021|[Adding form Fields to an untagged PDF](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility-series/accessibilitysession6.html)|Video |This on-demand session goes deeper into creating manual form fields and additional form field properties.|
-|September 2021|[Adding form fields to a tagged PDF](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility-series/accessibilitysession5.html)|Video |This on-demand session focuses on adding form fields to a previously tagged PDF.|
-|September 2021|[Scanned documents and complex lists](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility-series/accessibilitysession4.html)|Video |This on-demand session addresses the more complex issues people frequently run into such as scanned documents and complex lists.|
-|September 2021|[Complex tables](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility-series/accessibilitysession3.html)|Video |This on-demand session addresses one of the more common and challenging issues in remediating a PDF for accessibility--complex tables.|
-|September 2021|[Remediating an inaccessible PDF](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility-series/accessibilitysession2.html)|Video |In this on-demand session, learn the workflow to convert a Word document and fixing some basic tagging issues using the Acrobat Pro DC tools shown in the introduction webinar.|
-|September 2021|[Introduction to PDF Accessibility](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility-series/accessibilitysession1.html)|Video |In this on-demand session, learn what it means to make a PDF accessible, how to set up Acrobat Pro DC to work on PDFs for accessibility, and the conversion process from a source document to a PDF.|
-|September 2021|[Convert a PPT file to PDF on your phone](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/phone.html)|Video |In this 60-second video tutorial, learn how to convert an email PowerPoint attachment to PDF on your phone. When the file returns, view it and tap share to send it to your team — all without having PowerPoint in your phone.|
-|September 2021|[Create a PDF of photos in an instant](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/photo.html)|Video |In this 60-second video tutorial, learn how to drag-and-drop a bunch of JPGs onto the Acrobat icon to create a PDF. Click yes to creating a multi-page PDF. Then, you can simply drag more JPG files into the Pages panel to add additional pages to the PDF.|
-|September 2021|[Search multiple PDF files at once](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/search.html)|Video |In this 60-second video tutorial, learn how to start a search in a PDF file, then open Advanced Search and search an entire folder of PDF files.|
-|September 2021|[Edit a PDF with Acrobat web](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/edit.html)|Video |In this 60-second video tutorial, learn how to make simple edits to text and images without even downloading the PDF.|
-|September 2021|[Combine files into one PDF](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/combine-to-one-pdf.html)|Video |In this 60-second video tutorial, learn how to quickly create a document by combining several different types of files into a single PDF.|
-|September 2021|[Acrobat Accessibility series](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/accessibility-series/accessibility-series.html)|Video |In this six-part on-demand webinar series, go from the basics of Accessibility to a deep-dive of tagging your PDF files. Each session includes practice files to follow along.|
+|October 2021|[Digital ID overview](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/digitalid-overview.html)|Video |Similar to a passport in electronic form, a digital identity (digital ID) allows you to securely prove that you are who you say you are. And, when e-signing in Adobe Sign, using a digital ID provides a higher level of assurance that you authorized your e-signature on that specific document. The following tutorials show you how to use digital IDs from around the world with Adobe Sign.|
+|October 2021|[Getting started with Adobe Sign for new senders](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/new-sender.html)|Video |If you’re new to using Adobe Sign, this tutorial is a great place to start. This comprehensive tutorial focuses on all the basics to get you up and running quickly with Adobe Sign.|
+|October 2021|[Load PDF comments into InDesign](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/indesign.html)|Video |In this 60-second video tutorial, learn how to load PDF comments back into InDesign after an Acrobat shared review. This digital workflow helps you complete revisions in record time.|
+|October 2021|[Get a digital ID from Intesi Group (Qualified)](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/intesi/intesi-qualified.html)|Video |Learn how to obtain a qualified digital signing certificate from Intesi Group. Once registered and your identity is verified, Intesi Group issues you with a digital ID that is used to apply an Adobe Sign cloud signature.|
+|October 2021|[Get a digital ID from Intesi Group (Qualified)](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/intesi/intesi-sign.html)|Video |Learn how to use your Intesi Group digital ID to authenticate your identity and authorize a remote digital signature (cloud signature) on a document.|
+|October 2021|[Get a digital ID from Intesi Group (Advanced)](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/intesi/intesi-advanced.html)|Video |Learn how to obtain an Advanced digital signing certificate from Intesi Group. Once registered and your identity is verified, Intesi Group issues you with a digital ID that is used to apply an Adobe Sign cloud signature.|
+|October 2021|[Signing using Digidentity](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/digidentity/digidentity-sign.html)|Video |Learn how to use your Digidentity digital ID to authenticate your identity and authorize a remote digital signature (cloud signature) on a document.|
+|October 2021|[Get a digital ID from Digidentity](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/digidentity/digidentity-reg.html)|Video |Learn how to obtain a digital signing certificate from Digidentity. Once registered and your identity is verified, Digidentity issues you with a digital ID that is used to apply an Adobe Sign cloud signature.|
+|October 2021|[Detect differences between two PDFs](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/compare.html)|Video |Never make the mistake of working with the wrong version of a file. Quickly and accurately detect the differences between two PDF files to improve document review workflows.|
+|October 2021|[Create PDF content while browsing with Microsoft Edge](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/edge.html)|Video |Learn how to archive web pages to PDF on the fly with the Adobe Acrobat extension for Microsoft Edge. This Windows-only tool is invaluable for research projects and offline viewing of web-based information.|
+|October 2021|[Convert email messages and attachments to PDF in Outlook](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/outlook.html)|Video |Learn how to archive email messages and attachments to PDF in Outlook for your projects. Learn to deliver information in a more professional and secure manner by automatically converting attachments to PDF. This tool is only available for Windows.|
+|October 2021|[Mapping Metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=en)|Video |Learn how to configure metadata mapping between Workfront fields and Assets Essentials properties, as well as configuring Assets Essentials to display the mapped values.|
 
 {style="table-layout:auto"}
 
