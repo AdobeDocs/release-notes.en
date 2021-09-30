@@ -93,6 +93,7 @@ Release date: **October 7, 2021**
 | Quick [!UICONTROL Segment Builder] | Allows business users to quickly apply basic segments in a simplified, in-line project workflow. No need to go to the [!UICONTROL Segment Builder]. [Learn more](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=en) | October 7, 2021 |
 | Visualizations for Analytics dashboards | Analytics dashboards is introducing three new visualizations to give executives and decision makers an even better at-a-glance understanding of their data. The new doughnut, line, and horizontal bar charts all make it easier to see data for individual dimension items, without having to open a details view. (Documentation link to follow) | October 7, 2021 |
 | [!UICONTROL Media Playback Time Spent] | Adobe Streaming Media Playback [!UICONTROL Time Spent] provides valuable insight into viewer engagement and enables media organizations to derive deeper, more granular insights with minute-by-minute user engagement through advanced time spent analysis with day-parting capabilities. You can observe the amount of time spent viewing your media streams at a specific point in time and you can split the playback duration by different granularities, including new 5-minute, 15-minute, and 30-minute granularities. (Documentation link to follow) | October 7, 2021 |
+| Analysis Workspace UI improvements |<ul><li>Left Rail Search Improvements</li><li>Dark Mode</li><li>Time Spent Panel (October 16)</li></ul> | October 7, 2021 |
 
 {style="table-layout:auto"}
 
@@ -104,6 +105,7 @@ Release date: **October 7, 2021**
 | Quick [!UICONTROL Filter Builder] | Allows business users to quickly apply basic segments in a simplified, in-line project workflow. No need to go to the [!UICONTROL Filter Builder]. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/quick-filters.html?lang=en) | October 7, 2021 |
 | Visualizations for Analytics dashboards | Analytics dashboards is introducing three new visualizations to give executives and decision makers an even better at-a-glance understanding of their data. The new doughnut, line, and horizontal bar charts all make it easier to see data for individual dimension items, without having to open a details view. (Documentation link to follow)| October 7, 2021 |
 | Customer Journey Analytics audit logs (API only) | Audit logs are an important part of security compliance as well as for auditing data and user actions.| October 7, 2021 |
+| Analysis Workspace UI improvements |<ul><li>Left Rail Search Improvements</li><li>Dark Mode</li><li>Time Spent Panel (October 16)</li></ul> | October 7, 2021 |
 
 {style="table-layout:auto"}
 
