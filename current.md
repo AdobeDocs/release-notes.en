@@ -138,7 +138,6 @@ Latest courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Cust
 | -----------| ---------- | ---------- | ---------- |
 |October 2021|[Using Visualizations to Tell your Data Stories](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)|Course |Who wants to scour table after table just to try pulling insights out of the data? Not you! In this course, you will learn the basics about visualizations, including how to add them to a project, get data into them, and what each visualization can show you. Learn how to configure the settings to get the exact data you need. Also, get some tips and use cases to help you make visualizations practical to your regular analysis. Web analytics is fun again!|
 
-
 {style="table-layout:auto"}
 
 ### Analytics help resources
