@@ -337,6 +337,8 @@ Latest tutorials and courses for Adobe Campaign.
 |Published|Name|Application|Description |
 | -----------| ---------- | ---------- | ---------- |
 |October 2021|[Building advanced campaigns with Adobe Campaign V8 for Business Users](https://experienceleague.adobe.com/?recommended=Campaign-U-1.2021.1.v8)|Campaign V8 |Learn how to configure and execute advanced marketing campaigns using Adobe Campaign V8. Learn about the prerequisites, build and configure advanced campaigns, deliveries, and manage subscriptions.|
+|October 2021|[Use SOAP APIs in workflows - Introduction](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en)|Campaign V8 |Learn how to use Adobe Campaign Soap API’s and create an advanced delivery workflow based on the data received via the API.|
+|October 2021|[Integrate with Experience Platform - Overview](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=en)|Campaign V8 |Learn how to import and export Campaign and Experience Cloud data, allowing for the communication between the two solutions.|
 
 {style="table-layout:auto"}
 
