@@ -58,7 +58,7 @@ For more videos, visit the [Adobe Experience League Channel](https://www.youtube
 | Feature | Description |
 | ------- | ------- |
 |Unified Search |Unified Search continues to add objects types to the search index. In this update, global search now searches across Experience League content and the following Journey Optimizer object types: <ul><li>Datasets</li><li>Destinations</li><li>Queries</li><li>Schemas</li><li>Segments</li><li>Sources</li><li>Offers</li><li>Components</li><li>Messages</li><li>Journeys</li></ul> |
-|Product usage data consent  |When you first sign in, you are asked to submit preferences for how Adobe can use Experience Cloud product usage data to enhance your experience. This request also includes an update to your preferences for collection and usage of these data at <https://experience.adobe.com/preferences>.|
+|Product usage data consent  |Upon an initial login, you will be asked to submit preferences for how Adobe can provide you with helpful, personalized content, such as tutorials, guides, quick tips, recommendations, learning videos and more, based on your Experience Cloud product usage data. This request also includes an update to your preferences for collection and usage of these data at <https://experience.adobe.com/preferences>.|
 |Experience Cloud [!UICONTROL Triggers] navigation  |[Experience Cloud Triggers](https://experienceleague.adobe.com/docs/core-services/interface/services/activation/triggers.html?lang=en) is available for direct navigation from the application switcher ("waffle icon") in the header for provisioned users.    |
 |**Notice:** Planned interface navigation update|In November 2021, the _[!UICONTROL Go to Launch / Data Collection]_ navigation feature will be removed from <https://experience.adobe.com/implement>.|
 
@@ -159,7 +159,16 @@ New features in Audience Manager - updated **September 14, 2021**:
 
 Includes release update information and new documentation for Experience Platform and [!UICONTROL Mobile SDK].
 
-**September 29, 2021** release - See [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) for all the details.
+**September 29, 2021**
+
+| Feature | Description |
+| ------- | ------- |
+|[Data Landing Zone](https://www.adobe.com/go/sources-landing-zone-en) |A Platform-provisioned [!UICONTROL Azure Blob Store] that allows one secure and temporary storage per sandbox to bring files into Experience Platform. |
+|Streaming sources support for [data preparation](http://www.adobe.com/go/monitor-streaming-dataflows-en) |Streaming sources now support data preparation, allowing you to provide a JSON source schema to map non-XDM-compatible source data to a target XDM schema. |
+|[Non-Expiring Credentials](https://www.adobe.com/go/query-service-ui-credentials)|Non-Expiring Credentials for Query Service users allow for more permanent connections to external clients instead of renewing credentials every 24 hours. |
+|[Destination SDK](http://www.adobe.com/go/destination-sdk-overview-en) |Use Destination SDK to integrate with Platform and contribute to the ever-growing destinations catalog. Access to this feature is currently available only to Experience Platform Activation customers. |
+
+See [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) for all the details.
 
 ### Experience Platform tutorials and courses {#tutorials-platform}
 
