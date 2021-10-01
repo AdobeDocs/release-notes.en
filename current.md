@@ -174,7 +174,7 @@ Latest videos, tutorials, or courses published for Experience Platform and servi
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|October 2021|[[!DNL Platform] Administration](https://experienceleague.corp.adobe.com/?recommended=ExperiencePlatform-A-1-2021.1.admin)|Course |Learn about administration activities for Experience Platform, including permission and sandbox management.|
+|October 2021|[[!DNL Platform] Administration](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-A-1-2021.1.admin)|Course |Learn about administration activities for Experience Platform, including permission and sandbox management.|
 
 {style="table-layout:auto"}
 
