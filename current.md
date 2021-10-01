@@ -340,7 +340,7 @@ Latest tutorials and courses for Adobe Campaign.
 |October 2021|[Use SOAP APIs in workflows - Introduction](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en)|Tutorial |Learn how to use Adobe Campaign Soap API’s and create an advanced delivery workflow based on the data received via the API.|
 |October 2021|[Create events](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journey-configuration/create-events.html?lang=en)|Tutorial |Learn how to configure an event, specify the streaming endpoint and the payload for an event.|
 |October 2021|[Configure data sources](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/journey-configuration/configure-data-sources.html?lang=en)|Tutorial |Understand what a data source is and learn how to configure Experience Platform and external data sources.|
-|October 2021|[Use case - burst messages](lihttps://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html?lang=ennk)|Tutorial|Understand the applicable use cases for burst messaging. Learn how to configure a journey for burst messages and which best practices to apply.|
+|October 2021|[Use case - burst messages](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-burst-message.html?lang=en)|Tutorial|Understand the applicable use cases for burst messaging. Learn how to configure a journey for burst messages and which best practices to apply.|
 
 {style="table-layout:auto"}
 
