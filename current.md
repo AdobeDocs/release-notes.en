@@ -6,7 +6,7 @@ last-update: October 2021
 author: mfrei
 mini-toc-levels: 1
 ---
-# INTERNAL REVIEW - Adobe Experience Cloud Release Notes - October 2021
+# Adobe Experience Cloud Release Notes - October 2021
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
@@ -16,9 +16,7 @@ mini-toc-levels: 1
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Release month: **October 2021**
-
-Latest update: **September 30, 2021**
+Latest update: **October 1, 2021**
 
 * [[!DNL Experience League] Live Events](#events)
 * [[!DNL Experience Cloud Central Interface Components] & Administration](#ecloud)
@@ -59,7 +57,7 @@ For more videos, visit the [Adobe Experience League Channel](https://www.youtube
 | ------- | ------- |
 |Unified Search |Unified Search continues to add objects types to the search index. In this update, global search now searches across Experience League content and the following Journey Optimizer object types: <ul><li>Datasets</li><li>Destinations</li><li>Queries</li><li>Schemas</li><li>Segments</li><li>Sources</li><li>Offers</li><li>Components</li><li>Messages</li><li>Journeys</li></ul> |
 |Product usage data consent  |Upon an initial login, you are asked to submit preferences for how Adobe can provide you with helpful, personalized content, such as tutorials, guides, quick tips, recommendations, learning videos and more, based on your Experience Cloud product usage data. This request also includes an update to your preferences for collection and usage of these data at <https://experience.adobe.com/preferences>.|
-|Experience Cloud [!UICONTROL Triggers] navigation  |[Experience Cloud Triggers](https://experienceleague.adobe.com/docs/core-services/interface/services/activation/triggers.html?lang=en) is available for direct navigation from the application switcher ("waffle icon") in the header for provisioned users.    |
+|Experience Cloud [!UICONTROL Triggers] navigation  |[Experience Cloud Triggers](https://experienceleague.adobe.com/docs/core-services/interface/services/activation/triggers.html?lang=en) is available for direct navigation from the application switcher in the header for provisioned users.    |
 |**Notice:** Planned interface navigation update|In November 2021, the _[!UICONTROL Go to Launch / Data Collection]_ navigation feature will be removed from <https://experience.adobe.com/implement>.|
 
 {style="table-layout:auto"}
@@ -139,7 +137,7 @@ Latest courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Cust
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|October 2021|[Using Visualizations to Tell your Data Stories](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)|Course |Who wants to scour table after table just to try pulling insights out of the data? Not you! In this course, you learn the basics about visualizations, including how to add them to a project, get data into them, and what each visualization can show you. Learn how to configure the settings to get the exact data you need. Also, get some tips and use cases to help you make visualizations practical to your regular analysis. Web analytics is fun again!|
+|October 2021|[Using Visualizations to Tell your Data Stories](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)|Course |Who wants to scour table after table just to try pulling insights out of the data? Not you! In this course, learn the basics about visualizations, including how to add them to a project, get data into them, and what each visualization can show you. Learn how to configure the settings to get the exact data you need. Also, get some tips and use cases to help you make visualizations practical to your regular analysis.|
 
 {style="table-layout:auto"}
 
@@ -163,10 +161,10 @@ Includes release update information and new documentation for Experience Platfor
 
 | Feature | Description |
 | ------- | ------- |
-|[Data Landing Zone](https://experienceleague.adobe.com/docs/experience-platform/sources/connectors/cloud-storage/data-landing-zone.html) |A Platform-provisioned [!UICONTROL Azure Blob Store] that allows one secure and temporary storage per sandbox to bring files into Experience Platform. |
+|[[!UICONTROL Data Landing Zone]](https://experienceleague.adobe.com/docs/experience-platform/sources/connectors/cloud-storage/data-landing-zone.html) |[!UICONTROL Data Landing Zone] is a [!DNL Platform]-provisioned [!UICONTROL Azure Blob Store] that allows one secure and temporary storage per sandbox to bring files into Experience Platform. |
 |Streaming sources support for [data preparation](https://www.adobe.com/go/monitor-streaming-dataflows-en) |Streaming sources now support data preparation, allowing you to provide a JSON source schema to map non-XDM-compatible source data to a target XDM schema. |
-|[Non-Expiring Credentials](https://experienceleague.adobe.com/docs/experience-platform/query/ui/credentials.html)|Non-Expiring Credentials for Query Service users allow for more permanent connections to external clients instead of renewing credentials every 24 hours. |
-|[Destination SDK](https://www.adobe.com/go/destination-sdk-overview-en) |Use Destination SDK to integrate with Platform and contribute to the ever-growing destinations catalog. Access to this feature is available only to Experience Platform Activation customers. |
+|[Non-Expiring Credentials](https://experienceleague.adobe.com/docs/experience-platform/query/ui/credentials.html)|Non-Expiring Credentials for [!UICONTROL Query Service] users allow for more permanent connections to external clients instead of renewing credentials every 24 hours. |
+|[[!UICONTROL Destination SDK]](https://www.adobe.com/go/destination-sdk-overview-en) |Use [!UICONTROL Destination SDK] to integrate with [!DNL Platform] and contribute to the ever-growing destinations catalog. Access to this feature is available only to Experience Platform Activation customers. |
 
 See [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) for all the details.
 
@@ -176,7 +174,7 @@ Latest videos, tutorials, or courses published for Experience Platform and servi
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|October 2021|[Platform Administration](https://experienceleague.corp.adobe.com/?recommended=ExperiencePlatform-A-1-2021.1.admin)|Course |Learn about administration activities for Experience Platform, including permission and sandbox management.|
+|October 2021|[[!DNL Platform] Administration](https://experienceleague.corp.adobe.com/?recommended=ExperiencePlatform-A-1-2021.1.admin)|Course |Learn about administration activities for Experience Platform, including permission and sandbox management.|
 
 {style="table-layout:auto"}
 
@@ -186,8 +184,6 @@ See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-not
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
 
-### Latest Journey Optimizer product releases
-
 Find out more about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
 
 ### Journey Optimizer tutorials and courses {#tutorials-ajo}
@@ -196,31 +192,31 @@ Latest Journey Optimizer tutorials:
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|October 2021|[Configure and Manage Data in Journey Optimizer for Data Engineers](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.2)|Course |Learn how to configure and manage data required for journey management in Journey Optimizer.|
-|October 2021|[Get started with Journey Optimizer for Journey Administrators and Managers](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1)|Course |Learn everything you need to know to create your first journey.|
-|October 2021|[Configure Journey Optimizer for Journey Administrators](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-A-1-2021.1)|Course |Understand the Journey Optimizer architecture and points of integration. Learn how to configure Journey Optimizer.|
+|October 2021|[Configure and Manage Data in [!DNL Journey Optimizer] for Data Engineers](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.2)|Course |Learn how to configure and manage data required for journey management in Journey Optimizer.|
+|October 2021|[Get started with [!DNL Journey Optimizer] for Journey Administrators and Managers](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1)|Course |Learn everything you need to know to create your first journey.|
+|October 2021|[Configure [!DNL Journey Optimizer] for Journey Administrators](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-A-1-2021.1)|Course |Understand the [!DNL Journey Optimizer] architecture and points of integration. Learn how to configure [!DNL Journey Optimizer].|
 
 {style="table-layout:auto"}
 
-### More resources for Journey Optimizer
+### More resources for [!DNL Journey Optimizer]
 
 [Help Center](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
 
-## ![Icon](/assets/experience_platform_appicon_24.png) Journey Orchestration {#journey-orch}
+## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Journey Orchestration] {#journey-orch}
 
 Use Experience Platform to orchestrate a customer’s journey at scale across experience channels, by intelligently anticipating every individual’s needs in real time.
 
-### Latest Journey Orchestration product releases
+### Latest [!DNL Journey Orchestration] product releases
 
-Find out more about the latest capabilities, improvements, and fixes in the [Journey Orchestration Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html).
+Find out more about the latest capabilities, improvements, and fixes in the [[!DNL Journey Orchestration] Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html).
 
-#### More resources for Journey Orchestration
+#### More resources for [!DNL Journey Orchestration]
 
 [Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html)
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Offer Decisioning {#offer-decisioning}
 
-[!UICONTROL Offer Decisioning] is an Application Service integrated with Adobe Experience Platform. Use [!UICONTROL Offer Decisioning] to deliver the best offer and experience to your customers across all touch points at the right time.
+[!UICONTROL Offer Decisioning] is an service integrated with Adobe Experience Platform. Use [!UICONTROL Offer Decisioning] to deliver the best offer and experience to your customers across all touch points at the right time.
 
 ### Latest Offer Decisioning product releases
 
@@ -258,8 +254,8 @@ New videos, tutorials, and courses published over the past month.
 |October 2021 |[Managing creative workflows using [!DNL Workfront] and Assets Essentials](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2021.2.assets.essentials) |Course |Learn how Adobe [!DNL Workfront] and Experience Manager.| 
 |October 2021 |[Getting started with AEM Assets Essentials](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2021.assets.essentials) |Course |Learn how AEM Assets Essentials can streamline asset management for your organization.|
 |October 2021|[[!UICONTROL Content Transfer Tool]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/content-migration/content-transfer-tool.html?lang=en)|Video |Learn how [!UICONTROL Content Transfer Tool] helps you migrate content to AEM as a Cloud Service from AEM 6.3+.|
-|October 2021|[[!UICONTROL Bulk Import Service]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/content-migration/bulk-import-service.html?lang=en)|Video |Learn how AEM as a Cloud Services’ [!UICONTROL Bulk Import Service] can be used to import assets from non-AEM sources.|
-|October 2021|[Communications (Output Service)](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/aem-forms/communications.html?lang=en)|Video |Learn how AEM Forms as a Cloud Service supports the Communication use case.|
+|October 2021|[[!UICONTROL Bulk Import Service]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/content-migration/bulk-import-service.html?lang=en)|Video |Learn how AEM as a Cloud Services [!UICONTROL Bulk Import Service] can be used to import assets from non-AEM sources.|
+|October 2021|[Communications (Output Service)](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/aem-forms/communications.html?lang=en)|Video |Learn how AEM Forms as a Cloud Service supports the communication use case.|
 |October 2021|[Digital Enrollment](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/aem-forms/digital-enrollment.html?lang=en)|Video |Learn about how AEM Forms as a Cloud Service supports the Digital Enrollment use case.|
 |October 2021|[Using [!UICONTROL Cloud Acceleration Manager] tools](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/using.html)|Video |A narrated walk-through of using [!UICONTROL Cloud Acceleration Manager] tools.|
 |October 2021|[Navigating [!UICONTROL Cloud Acceleration Manager]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/cloud-acceleration-manager/navigating.html)|Video |Explore the navigation experience of [!UICONTROL Cloud Acceleration Manager] for Experience Manager as a Cloud Service.|
@@ -331,7 +327,7 @@ Find out more about the latest capabilities, improvements, and fixes released:
 
 * [Campaign v8 Release Notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/release-notes.html)
 * [Campaign Classic v7 Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html)
-* [Campaign Standard Release Notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html)
+* [Campaign Standard Release Notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) 
 
 ### New [!UICONTROL Campaign] courses and tutorials {#tutorials-campaign}
 
