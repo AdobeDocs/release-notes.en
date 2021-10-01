@@ -59,7 +59,8 @@ For more videos, visit the [Adobe Experience League Channel](https://www.youtube
 | ------- | ------- |
 |Unified Search |Unified Search continues to add objects types to the search index. In this update, global search now searches across Experience League content and the following Journey Optimizer object types: <ul><li>Datasets</li><li>Destinations</li><li>Queries</li><li>Schemas</li><li>Segments</li><li>Sources</li><li>Offers</li><li>Components</li><li>Messages</li><li>Journeys</li></ul> |
 |Product usage data consent  |When you first sign in, you are asked to submit preferences for how Adobe can use Experience Cloud product usage data to enhance your experience. This request also includes an update to your preferences for collection and usage of these data at <https://experience.adobe.com/preferences>.|
-|Experience Cloud [!UICONTROL Triggers] navigation  |[Experience Cloud Triggers](https://experienceleague.adobe.com/docs/core-services/interface/services/activation/triggers.html?lang=en) is available for direct navigation from the application switcher ("waffle icon") in the header for provisioned users. The [!UICONTROL Data Collection] / [!UICONTROL Launch] interstitial page (<https://experience.adobe.com/implement>) will be going away in November 2021.   |
+|Experience Cloud [!UICONTROL Triggers] navigation  |[Experience Cloud Triggers](https://experienceleague.adobe.com/docs/core-services/interface/services/activation/triggers.html?lang=en) is available for direct navigation from the application switcher ("waffle icon") in the header for provisioned users.    |
+|**Notice:** Planned interface navigation update|In November 2021, the **[!UICONTROL Go to Launch / Data Collection]** navigation feature will be removed from <https://experience.adobe.com/implement>.|
 
 {style="table-layout:auto"}
 
