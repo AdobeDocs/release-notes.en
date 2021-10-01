@@ -1,6 +1,6 @@
 ---
 title: Latest Release Notes
-description: Learn about the latest release notes, new features, and new documentation for Experience Cloud products and services. Find new help and tutorials about Experience Cloud, Creative Cloud for Enterprise, and Document Cloud.
+description: Learn about the latest release notes, new features, and new documentation for [!DNL Experience Cloud] products and services. Find new help and tutorials about [!DNL Experience Cloud], [!DNL Creative Cloud for enterprise], and [!DNL Document Cloud].
 doc-type: release notes
 last-update: October 2021
 author: mfrei
@@ -10,7 +10,7 @@ mini-toc-levels: 1
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
-[!DNL Experience Cloud] applications and services are updated monthly. This page is your central location for finding the latest release updates, documentation, and tutorials for [!DNL Experience Cloud] and [!DNL Experience Platform]. You can also find new documentation for [!DNL Creative Cloud for Enterprise] and [!DNL Document Cloud].
+[!DNL Experience Cloud] applications and services are updated monthly. This page is your central location for finding the latest release updates, documentation, and tutorials for [!DNL Experience Cloud] and [!DNL Experience Platform]. You can also find new documentation for [!DNL Creative Cloud for enterprise] and [!DNL Document Cloud].
 
 >[!NOTE]
 >
@@ -45,7 +45,7 @@ Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#h
 
 |Event Date|Event Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|September 23, 2021 |[Expert tips to make your holiday campaigns stand out](https://www.youtube.com/watch?v=bsU1lAv0xes)|Live video event |Just like it’s never too early to start your holiday shopping, it’s never too early to start planning for a wildly successful holiday marketing campaign. With Adobe Campaign, you can design, plan, and execute campaigns that make all your organization’s holiday wishes come true.<br>But do you know all the tips for running campaigns that finish the year out with a bang? Join Sandra for a live discussion featuring three Adobe experts who have eons of collective expertise in doing just that.|
+|September 23, 2021 |[Expert tips to make your holiday campaigns stand out](https://www.youtube.com/watch?v=bsU1lAv0xes)|Live video event |Just like it’s never too early to start your holiday shopping, it’s never too early to start planning for a wildly successful holiday marketing campaign. With Adobe Campaign, you can design, plan, and execute campaigns that make all your organization’s holiday wishes come true.<br>But do you know all the tips for running campaigns that finish out the year with a bang? Join Sandra for a live discussion featuring three Adobe experts who have eons of collective expertise in doing just that.|
 |August 26, 2021|[Make Your Next Audience Segment Smarter than Ever](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-02.html?lang=en)|Event recording|The success of every good marketing campaign hinges on precisely targeting your audience. With the new Adobe Experience Platform [!UICONTROL Segment Builder], you can build your next audience segment using profile data and time-based user behavior across channels. There’s no better way to ensure that your messages reach the people who need to hear them most.|
 |July 29, 2021|[My Three Favorite Adobe Analytics Implementation Tips](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-01.html?lang=en)|Event recording |You’ve seen him on-stage at Summit. You’ve heard him share expert advice at Adobe Insider Tours. You may have even had the benefit of working with him on your own Adobe Analytics implementation. Now, Eric Matisoff is bringing his three favorite Adobe Analytics implementation tips to this exclusive Experience League Live discussion.|
 
@@ -58,7 +58,7 @@ For more videos, visit the [Adobe Experience League Channel](https://www.youtube
 | Feature | Description |
 | ------- | ------- |
 |Unified Search |Unified Search continues to add objects types to the search index. In this update, global search now searches across Experience League content and the following Journey Optimizer object types: <ul><li>Datasets</li><li>Destinations</li><li>Queries</li><li>Schemas</li><li>Segments</li><li>Sources</li><li>Offers</li><li>Components</li><li>Messages</li><li>Journeys</li></ul> |
-|Product usage data consent  |Upon an initial login, you will be asked to submit preferences for how Adobe can provide you with helpful, personalized content, such as tutorials, guides, quick tips, recommendations, learning videos and more, based on your Experience Cloud product usage data. This request also includes an update to your preferences for collection and usage of these data at <https://experience.adobe.com/preferences>.|
+|Product usage data consent  |Upon an initial login, you are asked to submit preferences for how Adobe can provide you with helpful, personalized content, such as tutorials, guides, quick tips, recommendations, learning videos and more, based on your Experience Cloud product usage data. This request also includes an update to your preferences for collection and usage of these data at <https://experience.adobe.com/preferences>.|
 |Experience Cloud [!UICONTROL Triggers] navigation  |[Experience Cloud Triggers](https://experienceleague.adobe.com/docs/core-services/interface/services/activation/triggers.html?lang=en) is available for direct navigation from the application switcher ("waffle icon") in the header for provisioned users.    |
 |**Notice:** Planned interface navigation update|In November 2021, the _[!UICONTROL Go to Launch / Data Collection]_ navigation feature will be removed from <https://experience.adobe.com/implement>.|
 
@@ -91,11 +91,11 @@ Release date: **October 7, 2021**
 
 | Feature | Description | [General Availability](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) - Target Date |
 | ----------- | ---------- | ------- |
-| Visualizations for Analytics dashboards | Analytics dashboards is introducing three new visualizations to give executives and decision makers an even better at-a-glance understanding of their data. The new doughnut, line, and horizontal bar charts all make it easier to see data for individual dimension items, without having to open a details view. (Documentation link to follow) | October 7, 2021 |
-| [!UICONTROL Media Playback Time Spent] | Adobe Streaming Media Playback [!UICONTROL Time Spent] provides valuable insight into viewer engagement and enables media organizations to derive deeper, more granular insights with minute-by-minute user engagement through advanced time spent analysis with day-parting capabilities. You can observe the amount of time spent viewing your media streams at a specific point in time and you can split the playback duration by different granularities, including new 5-minute, 15-minute, and 30-minute granularities. [Learn more](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html?lang=en) | October 18, 2021 |
+| Visualizations for Analytics dashboards | Analytics [!UICONTROL Dashboards] is introducing three new visualizations to give executives and decision makers a better at-a-glance understanding of their data. The new [!UICONTROL Doughnut], [!UICONTROL Line], and [!UICONTROL Horizontal] bar charts all make it easier to see data for individual dimension items, without having to open a details view. (Documentation link to follow) | October 7, 2021 |
+| [!UICONTROL Media Playback Time Spent] | Adobe Streaming Media Playback [!UICONTROL Time Spent] provides valuable insight into viewer engagement and enables media organizations to derive deeper, more granular insights with minute-by-minute user engagement through advanced time spent analysis with day-parting capabilities. You can observe the amount of time spent viewing your media streams at a specific point in time. You can split the playback duration by different granularities, including new 5-minute, 15-minute, and 30-minute granularities. [Learn more](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html?lang=en) | October 18, 2021 |
 | Quick [!UICONTROL Segment Builder] | Allows business users to quickly apply basic segments in a simplified, in-line project workflow. No need to go to the [!UICONTROL Segment Builder]. [Learn more](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=en) | October 21, 2021 |
-| Analysis Workspace Left Rail Search Improvements | Left rail search will 1) prioritize exact matches above broad matches, in addition to continuing to account for component recency and relevancy, 2) highlight matched characters to make search results more understandable, 3) make it easy to find classifications related to a dimension, and 4) support wildcard (`*`) searching to more easily find specific components that you need. Note: Wildcard searching does not yet work at the dimension item level. | October 21, 2021 |
-| Analysis Workspace Dark Theme | Dark theme will be available as a display option. | October 21, 2021 |
+| Analysis Workspace Left Rail Search Improvements | Left rail search will 1) prioritize exact matches above broad matches, in addition to continuing to account for component recency and relevancy. 2) It highlights matched characters to make search results more understandable. 3) It's easier to find classifications related to a dimension. 4) Finally, it supports wildcard (`*`) searching to more easily find specific components that you need. Note: Wildcard searching does not yet work at the dimension item level. | October 21, 2021 |
+| Analysis Workspace Dark Theme | Dark theme is available as a display option. | October 21, 2021 |
 
 {style="table-layout:auto"}
 
@@ -103,12 +103,12 @@ Release date: **October 7, 2021**
 
 | Feature | Description | [General Availability](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) - Target Date |
 | ----------- | ---------- | ----- |
-| Report Builder support | Report Builder is a Microsoft Excel Add-in that allows you to easily create, edit, and refresh custom reports using Customer Journey Analytics data. With Report Builder and Excel, you can use the simple but flexible drag-and-drop UI to easily build complex data requests. With Report Builder for Customer Journey Analytics, you can:<ul><li>Reference existing worksheet cells to get the perfect row order, date range, or filter</li><li>Create custom dates using calendar, cell references, or date math</li><li>Design your tables and visualizations with familiar Excel formatting tools</li><li>Available on macOS, Microsoft 365 for the web, and Microsoft Windows</li></ul> | October 7, 2021 |
-| Visualizations for Analytics dashboards | Analytics dashboards is introducing three new visualizations to give executives and decision makers an even better at-a-glance understanding of their data. The new doughnut, line, and horizontal bar charts all make it easier to see data for individual dimension items, without having to open a details view. (Documentation link to follow)| October 7, 2021 |
-| Customer Journey Analytics audit logs (API only) | Audit logs are an important part of security compliance as well as for auditing data and user actions.| October 7, 2021 |
+| Report Builder support | Report Builder is a Microsoft® [!DNL Excel] Add-in that allows you to easily create, edit, and refresh custom reports using Customer Journey Analytics data. With Report Builder and Excel, you can use the simple but flexible drag-and-drop UI to easily build complex data requests. With Report Builder for Customer Journey Analytics, you can:<ul><li>Reference existing worksheet cells to get the perfect row order, date range, or filter</li><li>Create custom dates using calendar, cell references, or date math</li><li>Design your tables and visualizations with familiar Excel formatting tools</li><li>Available on macOS, Microsoft 365 for the web, and Microsoft Windows</li></ul> | October 7, 2021 |
+| Visualizations for Analytics dashboards | Analytics [!UICONTROL Dashboards] is introducing three new visualizations to give executives and decision makers an even better at-a-glance understanding of their data. The new doughnut, line, and horizontal bar charts all make it easier to see data for individual dimension items, without having to open a details view. (Documentation link to follow)| October 7, 2021 |
+| Customer Journey Analytics audit logs (API only) | Audit logs are an important part of security compliance and for auditing data and user actions.| October 7, 2021 |
 | Quick [!UICONTROL Filter Builder] | Allows business users to quickly apply basic segments in a simplified, in-line project workflow. No need to go to the [!UICONTROL Filter Builder]. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/quick-filters.html?lang=en) | October 21, 2021 |
-| Analysis Workspace Left Rail Search Improvements | Left rail search will 1) prioritize exact matches above broad matches, in addition to continuing to account for component recency and relevancy, 2) highlight matched characters to make search results more understandable, 3) make it easy to find classifications related to a dimension, and 4) support wildcard (`*`) searching to more easily find specific components that you need. Note: Wildcard searching does not yet work at the dimension item level. | October 21, 2021 |
-| Analysis Workspace Dark Theme | Dark theme will be available as a display option. | October 21, 2021 |
+| Analysis Workspace Left Rail Search Improvements | Left rail search will 1) prioritize exact matches above broad matches, in addition to continuing to account for component recency and relevancy. 2) It highlights matched characters to make search results more understandable. 3) It's easier to find classifications related to a dimension. 4) Finally, it supports wildcard (`*`) searching to more easily find specific components that you need. Note: Wildcard searching does not yet work at the dimension item level. | October 21, 2021 |
+| Analysis Workspace Dark Theme | Dark theme is available as a display option. | October 21, 2021 |
 
 {style="table-layout:auto"}
 
@@ -125,7 +125,7 @@ AN-256136; AN-265420; AN-268455; AN-269768; AN-270276; AN-270287; AN-271601; AN-
 
 | Notice | Date Added or Updated  | Description |
 | ----------- | ---------- | ---------- |
-| EOL for three Analytics API services | September 16, 2021| On **October 28, 2021**, the following Analytics Legacy API services will reach their end-of-life date and be shut down. Any current integrations built using these services will stop working on that day.<ul><li>1.3 Analytics APIs</li><li>1.4 SOAP Analytics APIs</li><li>Legacy OAuth Authentication (OAuth and JWT)</li></ul>Adobe has provided a [Legacy API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) to help answer your questions and provide guidance on how to proceed. API integrations that employ these services can migrate to the [1.4 Analytics REST APIs](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) or the [2.0 Analytics APIs](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth accounts can migrate to an [Adobe I/O](https://console.adobe.io/home?mv=email#) Analytics integration account, which can be used to access both the 1.4 Analytics APIs and 2.0 Analytics APIs. |
+| EOL for three Analytics API services | September 16, 2021| On **October 28, 2021**, the following Analytics Legacy API services will reach their end-of-life date and be shut down. Any current integrations built using these services stop working on that day.<ul><li>1.3 Analytics APIs</li><li>1.4 SOAP Analytics APIs</li><li>Legacy OAuth Authentication (OAuth and JWT)</li></ul>Adobe has provided a [Legacy API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) to help answer your questions and provide guidance on how to proceed. API integrations that employ these services can migrate to the [1.4 Analytics REST APIs](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) or the [2.0 Analytics APIs](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth accounts can migrate to an [Adobe I/O](https://developer.adobe.com/console) Analytics integration account, which can be used to access both the 1.4 Analytics APIs and 2.0 Analytics APIs. |
 
 {style="table-layout:auto"}
 
@@ -139,7 +139,7 @@ Latest courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Cust
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|October 2021|[Using Visualizations to Tell your Data Stories](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)|Course |Who wants to scour table after table just to try pulling insights out of the data? Not you! In this course, you will learn the basics about visualizations, including how to add them to a project, get data into them, and what each visualization can show you. Learn how to configure the settings to get the exact data you need. Also, get some tips and use cases to help you make visualizations practical to your regular analysis. Web analytics is fun again!|
+|October 2021|[Using Visualizations to Tell your Data Stories](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)|Course |Who wants to scour table after table just to try pulling insights out of the data? Not you! In this course, you learn the basics about visualizations, including how to add them to a project, get data into them, and what each visualization can show you. Learn how to configure the settings to get the exact data you need. Also, get some tips and use cases to help you make visualizations practical to your regular analysis. Web analytics is fun again!|
 
 {style="table-layout:auto"}
 
@@ -163,10 +163,10 @@ Includes release update information and new documentation for Experience Platfor
 
 | Feature | Description |
 | ------- | ------- |
-|[Data Landing Zone](https://www.adobe.com/go/sources-landing-zone-en) |A Platform-provisioned [!UICONTROL Azure Blob Store] that allows one secure and temporary storage per sandbox to bring files into Experience Platform. |
-|Streaming sources support for [data preparation](http://www.adobe.com/go/monitor-streaming-dataflows-en) |Streaming sources now support data preparation, allowing you to provide a JSON source schema to map non-XDM-compatible source data to a target XDM schema. |
-|[Non-Expiring Credentials](https://www.adobe.com/go/query-service-ui-credentials)|Non-Expiring Credentials for Query Service users allow for more permanent connections to external clients instead of renewing credentials every 24 hours. |
-|[Destination SDK](http://www.adobe.com/go/destination-sdk-overview-en) |Use Destination SDK to integrate with Platform and contribute to the ever-growing destinations catalog. Access to this feature is currently available only to Experience Platform Activation customers. |
+|[Data Landing Zone](https://experienceleague.adobe.com/docs/experience-platform/sources/connectors/cloud-storage/data-landing-zone.html) |A Platform-provisioned [!UICONTROL Azure Blob Store] that allows one secure and temporary storage per sandbox to bring files into Experience Platform. |
+|Streaming sources support for [data preparation](https://www.adobe.com/go/monitor-streaming-dataflows-en) |Streaming sources now support data preparation, allowing you to provide a JSON source schema to map non-XDM-compatible source data to a target XDM schema. |
+|[Non-Expiring Credentials](https://experienceleague.adobe.com/docs/experience-platform/query/ui/credentials.html)|Non-Expiring Credentials for Query Service users allow for more permanent connections to external clients instead of renewing credentials every 24 hours. |
+|[Destination SDK](https://www.adobe.com/go/destination-sdk-overview-en) |Use Destination SDK to integrate with Platform and contribute to the ever-growing destinations catalog. Access to this feature is available only to Experience Platform Activation customers. |
 
 See [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) for all the details.
 
@@ -210,7 +210,7 @@ Latest Journey Optimizer tutorials:
 
 Use Experience Platform to orchestrate a customer’s journey at scale across experience channels, by intelligently anticipating every individual’s needs in real time.
 
-### Latest Journey Orchestation product releases
+### Latest Journey Orchestration product releases
 
 Find out more about the latest capabilities, improvements, and fixes in the [Journey Orchestration Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html).
 
@@ -224,11 +224,11 @@ Find out more about the latest capabilities, improvements, and fixes in the [Jou
 
 ### Latest Offer Decisioning product releases
 
-Find out more about the latest capabilities, improvements, and fixes in the [Offer Decisioning Release Notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html).
+Find out more about the latest capabilities, improvements, and fixes in the [Offer Decisioning Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
 
 #### More resources for [!UICONTROL Offer Decisioning]
 
-[Help Center](https://experienceleague.adobe.com/docs/offer-decisioning/using/offer-decisioning-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/release-notes.html#new) - [How-to videos](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/offer-decisioning/using/new/documentation-updates.html)
+[Help Center](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html) - [Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html)
 
 ## ![Icon](/assets/aem.png) Experience Manager {#aem}
 
@@ -236,17 +236,17 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
 
 ### Community
 
-* [Adobe Developers Live](https://adobe.ly/3A0yybp) | 4-5 October 2021, 7:00 PDT
+* [Adobe Developers Live](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live/?cid=Kautuk) | 4-5 October 2021, 7:00 PDT
 
     Adobe Developers Live brings together Adobe developers and experience builders with diverse backgrounds and a singular purpose – to create incredible end-to-end experiences. This two-day conference features important developer updates, technical sessions, and community networking opportunities.
 
-    Adobe product teams across Adobe Experience Cloud, Document Cloud, and Creative Cloud will showcase the latest technological advances and developer tools powering design, content creation workflows, document services, and customer experience management across industries.
+    Adobe product teams across Adobe Experience Cloud, Document Cloud, and Creative Cloud showcases the latest technological advances and developer tools powering design, content creation workflows, document services, and customer experience management across industries.
 
     Adobe has 20 Experience Manager sessions planned. Spread the word!
 
-  * [Complete session list](https://adobe.ly/2VKuAVq)
-  * [Free registration &ndash; Log in to RSVP](https://adobe.ly/3A0yybp)
-  * [Adobe Developers Live Community](https://adobe.ly/3BVeK9V)
+  * [Complete session list](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041#M120517)
+  * [Free registration &ndash; Log in to RSVP](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live/?cid=Kautuk)
+  * [Adobe Developers Live Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/registration-for-adobe-developers-live-is-now-open-october-4-5/td-p/422127)
 
 ### New Experience Manager courses and tutorials {#tutorials-aem}
 
@@ -284,11 +284,11 @@ New videos, tutorials, and courses published over the past month.
 |October 2021|[AEM Modernization Tools](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/introduction.html?lang=en)|Video |Learn how to think differently about AEM as a Cloud Service implementations.|
 |October 2021|[Best Practice Analyzer and Cloud Acceleration Manager](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/moving-to-aem-as-a-cloud-service/bpa-and-cam.html?lang=en)|Video |Learn how Best Practice Analyzer (BPA) and Cloud Acceleration Manager (CAM) provides a customized guide for migrating to AEM as a Cloud Service.|
 |October 2021|[Maintaining Version History](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)|Video |Learn how Adobe Workfront and Experience Manager [!UICONTROL Assets Essentials] helps you maintain versions of [!DNL Workfront] documents and Assets Essentials assets.|
-|October 2021|[Sending documents and Linking assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=en)|Video |Learn how to send Workfront documents to to Assets Essentials, and link Assets Essentials assets to Workfront.|
+|October 2021|[Sending documents and Linking assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=en)|Video |Learn how to send Workfront documents to Assets Essentials, and link Assets Essentials assets to Workfront.|
 |October 2021|[Configuring the integration](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=en)|Video |Learn how to configure the Adobe Workfront and Assets Essentials integration.|
-|October 2021|[What’s a digital signature](https://docs.adobe.com/content/help/en/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-with-a-digital-signature.html)|Video |Learn about certificate-based digital signatures, which comply with the strictest legal regulations around the world and provide the highest level of assurance of a signer’s identity.|
+|October 2021|[What’s a digital signature](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-with-a-digital-signature.html?lang=en)|Video |Learn about certificate-based digital signatures, which comply with the strictest legal regulations around the world and provide the highest level of assurance of a signer’s identity.|
 |October 2021|[Segment Builder in Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/segment-builder-overview.html?lang=en#)|Video |Slice and dice your data with segmentation in Adobe Analytics. This video walks you through the [!UICONTROL Segment Builder] and gives a basic overview.|
-|October 2021|[Mapping Metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=en)|Video |Learn how to configure metadata mapping between Workfront fields and Assets Essentials properties, as well as configuring Assets Essentials to display the mapped values.|
+|October 2021|[Mapping Metadata](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=en)|Video |Learn how to configure metadata mapping between Workfront fields and Assets Essentials properties, and configuring Assets Essentials to display the mapped values.|
 
 {style="table-layout:auto"}
 
@@ -423,7 +423,7 @@ New videos, tutorials, or courses published for Adobe Document Cloud.
 |October 2021|[Signing using [!DNL Digidentity]](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/digidentity/digidentity-sign.html)|Video |Learn how to use your [!DNL Digidentity] digital ID to authenticate your identity and authorize a remote digital signature (cloud signature) on a document.|
 |October 2021|[Get a digital ID from [!DNL Digidentity]](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/digidentity/digidentity-reg.html)|Video |Learn how to obtain a digital signing certificate from [!DNL Digidentity]. Once registered and your identity is verified, [!DNL Digidentity] issues you with a digital ID that is used to apply an Adobe Sign cloud signature.|
 |October 2021|[Detect differences between two PDFs](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/compare.html)|Video |Never make the mistake of working with the wrong version of a file. Quickly and accurately detect the differences between two PDF files to improve document review workflows.|
-|October 2021|[Create PDF content while browsing with Microsoft Edge](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/edge.html)|Video |Learn how to archive web pages to PDF on the fly with the Adobe Acrobat extension for Microsoft Edge. This Windows-only tool is invaluable for research projects and offline viewing of web-based information.|
+|October 2021|[Create PDF content while browsing with Microsoft® Edge](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/edge.html)|Video |Learn how to archive web pages to PDF on the fly with the Adobe Acrobat extension for Microsoft® Edge. This Windows-only tool is invaluable for research projects and offline viewing of web-based information.|
 |October 2021|[Convert email messages and attachments to PDF in Outlook](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/outlook.html)|Video |Learn how to archive email messages and attachments to PDF in Outlook for your projects. Learn to deliver information in a more professional and secure manner by automatically converting attachments to PDF. This tool is only available for Windows.|
 
 {style="table-layout:auto"}
