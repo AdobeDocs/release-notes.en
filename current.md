@@ -17,7 +17,7 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Latest update: **October 1, 2021**
+Latest update: **October 4, 2021**
 
 * [[!DNL Experience League] Live Events](#events)
 * [[!DNL Experience Cloud Central Interface Components] & Administration](#ecloud)
@@ -44,6 +44,7 @@ Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#h
 
 |Event Date|Event Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
+|October 21, 2021 |TBD|Live video event |Details forthcoming. |
 |September 23, 2021 |[Expert tips to make your holiday campaigns stand out](https://www.youtube.com/watch?v=bsU1lAv0xes)|Live video event |Just like it’s never too early to start your holiday shopping, it’s never too early to start planning for a wildly successful holiday marketing campaign. With Adobe Campaign, you can design, plan, and execute campaigns that make all your organization’s holiday wishes come true.<br>But do you know all the tips for running campaigns that finish out the year with a bang? Join Sandra for a live discussion featuring three Adobe experts who have eons of collective expertise in doing just that.|
 |August 26, 2021|[Make Your Next Audience Segment Smarter than Ever](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-02.html?lang=en)|Event recording|The success of every good marketing campaign hinges on precisely targeting your audience. With the new Adobe Experience Platform [!UICONTROL Segment Builder], you can build your next audience segment using profile data and time-based user behavior across channels. There’s no better way to ensure that your messages reach the people who need to hear them most.|
 |July 29, 2021|[My Three Favorite Adobe Analytics Implementation Tips](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-01.html?lang=en)|Event recording |You’ve seen him on-stage at Summit. You’ve heard him share expert advice at Adobe Insider Tours. You may have even had the benefit of working with him on your own Adobe Analytics implementation. Now, Eric Matisoff is bringing his three favorite Adobe Analytics implementation tips to this exclusive Experience League Live discussion.|
