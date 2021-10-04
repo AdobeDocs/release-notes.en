@@ -438,4 +438,4 @@ For Document Cloud help, see:
 
 ## ![Icon](/assets/creative-cloud-24.png) Creative Cloud for enterprise {#creative-cloud}
 
-See [Creative Cloud for Enterprise Tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=en) for the latest tutorials.
+See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=en) for the latest tutorials.
