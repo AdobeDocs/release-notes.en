@@ -17,12 +17,12 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Latest update: **October 4, 2021**
+Latest update: **October 7, 2021**
 
 * [[!DNL Experience League] Live Events](#events)
 * [[!DNL Experience Cloud Central Interface Components] & Administration](#ecloud)
 * [Adobe [!UICONTROL System Status]](#status)
-* [[!DNL Adobe Analytics]](#analytics) and [Customer Journey Analytics](#cust-journey)
+* [[!DNL Adobe Analytics]](#analytics) and [Customer Journey Analytics](#cust-journey) **Updated October 7, 2021**
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
@@ -81,7 +81,7 @@ For more videos, visit the [Adobe Experience League Channel](https://www.youtube
 Release date: **October 7, 2021**
 
 * [New features in Adobe Analytics](#aa-features)
-* [New features in Customer Journey Analytics](#cust-journey)
+* [New features in Customer Journey Analytics](#cust-journey) **Updated October 7, 2021**
 * [Fixes in Adobe Analytics](#aa-fixes)
 * [Important notices for Analytics administrators](#aa-notices)
 * [Analytics courses and tutorials](#tutorials-analytics)
@@ -103,6 +103,7 @@ Release date: **October 7, 2021**
 
 | Feature | Description | [General Availability](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) - Target Date |
 | ----------- | ---------- | ----- |
+| Rolling window for [!UICONTROL Connection] data retention | **Note: Please contact Customer Care or your Adobe account manager to have this setting implemented. It is not yet available via the CJA UI.**<p>Lets you define a CJA data retention setting as a rolling window in months (3 months, 6 months, etc.), at a [!UICONTROL connection] level (not at a [!UICONTROL dataset] level). Data retention is based on event dataset timestamps and applies to event datasets only. No data retention setting exists for profile or lookup datasets since there are no applicable timestamps. The main benefit is that you store or report only on data that is applicable and useful and delete older data that is no longer useful. It helps you stay under your contract limits and reduces the risk of overage cost. | October 7, 2021 |
 | Report Builder support | Report Builder is a Microsoft® [!DNL Excel] Add-in that allows you to easily create, edit, and refresh custom reports using Customer Journey Analytics data. With Report Builder and Excel, you can use the simple but flexible drag-and-drop UI to easily build complex data requests. With Report Builder for Customer Journey Analytics, you can:<ul><li>Reference existing worksheet cells to get the perfect row order, date range, or filter</li><li>Create custom dates using calendar, cell references, or date math</li><li>Design your tables and visualizations with familiar Excel formatting tools</li><li>Available for Excel on macOS, Microsoft 365 for the web, and Microsoft Windows</li></ul>[Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-reportbuilder/report-buider-overview.html#) | October 7, 2021 |
 | Visualizations for Analytics dashboards | Analytics [!UICONTROL Dashboards] is introducing three new visualizations to give executives and decision makers an even better at-a-glance understanding of their data. The new doughnut, line, and horizontal bar charts all make it easier to see data for individual dimension items, without having to open a details view. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html?lang=en#apply-visualizations)| October 7, 2021 |
 | Customer Journey Analytics Audit Logs API | The [Audit Log](https://adobe.io/cja-apis/docs/endpoints/auditlogs/) API endpoint lets you request audit log data from Adobe. It is an important part of security compliance, and for auditing data or user actions. | October 7, 2021 |
