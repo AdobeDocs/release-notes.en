@@ -17,7 +17,7 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Latest update: **October 7, 2021**
+Latest update: **October 13, 2021**
 
 * [[!DNL Experience League] Live Events](#events)
 * [[!DNL Experience Cloud Central Interface Components] & Administration](#ecloud)
@@ -26,7 +26,7 @@ Latest update: **October 7, 2021**
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
-* [[!DNL Adobe Experience Manager]](#aem)
+* [[!DNL Adobe Experience Manager]](#aem) (updated **October 13, 2021**)
 * [[!DNL Adobe Campaign]](#ac)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Target]](#target)
@@ -232,6 +232,8 @@ Find out more about the latest capabilities, improvements, and fixes in the [Off
 ## ![Icon](/assets/aem.png) Experience Manager {#aem}
 
 Adobe recommends visiting the [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) page to stay current on release information.
+
+**Update 10/13/2021:** Check out the [September 2021 Release Overview](https://video.tv.adobe.com/v/337381) video for an overview of new features.
 
 ### Community
 
