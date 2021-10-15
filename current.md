@@ -364,22 +364,21 @@ Release notes for [!DNL Adobe Advertising Cloud].
 
 ### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Last updated: **September 28, 2021**
+Last updated: **October 7, 2021**
 
 | Feature | Description |
 | ------- | ----------- |
-| Campaign management views | A "[!UICONTROL Creation date]" column is now available in custom column sets for the [!UICONTROL Campaigns], [!UICONTROL Packages], [!UICONTROL Placements], and [!UICONTROL Ads] views. You can also filter the [!UICONTROL Placements] and [!UICONTROL Ads] views by [!UICONTROL Creation date]. |
-| Programmatic guaranteed deals | (8 September release) You can now edit the [!UICONTROL Max Bid] for the default placement for a programmatic guaranteed (PG) deal. However, because PG deals always have a fixed CPM, only international clients should edit the [!UICONTROL Max Bid] to take into account currency exchange fees. |
-|  | (8 September release) Users with the “[!DNL FreeWheel Programmatic Guaranteed]” permission can now submit an ad to the [!DNL FreeWheel Programmatic Creative API] from the [!UICONTROL Ads] view or the [!UICONTROL Placements] view. You still can submit an ad from the [!UICONTROL Deals] view. |
+| Documentation | All [DSP and other Advertising CLoud documentation](https://experienceleague.adobe.com/docs/advertising-cloud.html) on [!DNL Experience League] is now machine translated into all available languages. To change the displayed language, use the “Change Language” menu at the bottom left of any page. |
 
 {style="table-layout:auto"}
 
 ### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Last updated: **September 28, 2021**
+Last updated: **October 7, 2021**
 
 | Feature | Description |
 | ------- | ----------- |
+| [!UICONTROL Reports], [!UICONTROL Notification Center] | (October 9 release) All email notifications for reports, which Advertising Cloud Search sends when a custom or scheduled report has completed or failed, are now handled by [!UICONTROL Notification Center]. Email notifications and web notifications are enabled by default for reports, but you can optionally change the notification settings. With this change:<ul><li>Email recipients are restricted to users who are registered, authenticated users of Advertising Cloud Search and have accessto the advertiser account. This ensures that no confidential data is sent to unauthorized users.</li><li>The format and contents of the email uses the [!UICONTROL Notification Center] template, which includes more details of the report and includes direct download links for all report formats.</li><li>Report notifications are a new notification type, with its own notification preferences, in [!UICONTROL Notification Center].</li></ul>If you use any automation to pull reports from email notifications, you may need to update the filtering logic to ensure process continuity. |
 | Advertising Insights | Additional insights are available in beta mode. |
 
 {style="table-layout:auto"}
