@@ -28,7 +28,7 @@ Latest update: **October 13, 2021**
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Adobe Experience Manager]](#aem) (updated **October 13, 2021**)
 * [[!DNL Adobe Campaign]](#ac)
-* [[!DNL Adobe Advertising Cloud]](#adcloud)
+* [[!DNL Adobe Advertising Cloud]](#adcloud) (updated **October 7, 2021**)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Commerce]](#magento)
 * [[!DNL Adobe Marketo Engage]](#marketo)
