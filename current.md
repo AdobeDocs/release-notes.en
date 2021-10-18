@@ -18,7 +18,7 @@ exl-id:
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
 Release month: **November 2021**
-Latest update: **October 15, 2021**
+Latest update: **October 18, 2021**
 
 * [[!DNL Experience League] Live Events](#events)
 * [[!DNL Experience Cloud Central Interface Components] & Administration](#ecloud)
@@ -46,9 +46,6 @@ Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#h
 |Event Date|Time |Event Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
 |October 21, 2021 |12 p.m. (EST) |[Who clicked that? Advanced reporting on link clicks with Adobe Analytics](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw)|Live Video Event|Reporting on user interaction with your web or mobile property is a critical piece of understanding your customer’s journey. With Adobe Analytics you can understand the who, what, why, and where of every click in your application. Learn from Adobe Analytics experts their top tips for using Activity Map classifications and custom attribution to better understand user engagement.|
-|September 23, 2021 |On demand |[Expert tips to make your holiday campaigns stand out](https://www.youtube.com/watch?v=bsU1lAv0xes)|Live video event |Just like it’s never too early to start your holiday shopping, it’s never too early to start planning for a wildly successful holiday marketing campaign. With Adobe Campaign, you can design, plan, and execute campaigns that make all your organization’s holiday wishes come true.<br>But do you know all the tips for running campaigns that finish out the year with a bang? Join Sandra for a live discussion featuring three Adobe experts who have eons of collective expertise in doing just that.|
-|August 26, 2021|On demand |[Make Your Next Audience Segment Smarter than Ever](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-02.html?lang=en)|Event recording|The success of every good marketing campaign hinges on precisely targeting your audience. With the new Adobe Experience Platform [!UICONTROL Segment Builder], you can build your next audience segment using profile data and time-based user behavior across channels. There’s no better way to ensure that your messages reach the people who need to hear them most.|
-|July 29, 2021|On demand |[My Three Favorite Adobe Analytics Implementation Tips](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-01.html?lang=en)|Event recording |You’ve seen him on-stage at Summit. You’ve heard him share expert advice at Adobe Insider Tours. You may have even had the benefit of working with him on your own Adobe Analytics implementation. Now, Eric Matisoff is bringing his three favorite Adobe Analytics implementation tips to this exclusive Experience League Live discussion.|
 
 {style="table-layout:auto"}
 
@@ -76,10 +73,10 @@ For more videos, visit the [Adobe Experience League Channel](https://www.youtube
 
 ## ![Icon](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-Release date: **October 7, 2021**
+Release date: **October 28, 2021**
 
 * [New features in Adobe Analytics](#aa-features)
-* [New features in Customer Journey Analytics](#cust-journey) **Updated October 7, 2021**
+* [New features in Customer Journey Analytics](#cust-journey) 
 * [Fixes in Adobe Analytics](#aa-fixes)
 * [Important notices for Analytics administrators](#aa-notices)
 * [Analytics courses and tutorials](#tutorials-analytics)
@@ -162,10 +159,7 @@ Includes release update information and new documentation for Experience Platfor
 
 | Feature | Description |
 | ------- | ------- |
-|[[!UICONTROL Data Landing Zone]](https://experienceleague.adobe.com/docs/experience-platform/sources/connectors/cloud-storage/data-landing-zone.html) |[!UICONTROL Data Landing Zone] is a [!DNL Platform]-provisioned [!UICONTROL Azure Blob Store] that allows one secure and temporary storage per sandbox to bring files into Experience Platform. |
-|Streaming sources support for [data preparation](https://www.adobe.com/go/monitor-streaming-dataflows-en) |Streaming sources now support data preparation, allowing you to provide a JSON source schema to map non-XDM-compatible source data to a target XDM schema. |
-|[Non-Expiring Credentials](https://experienceleague.adobe.com/docs/experience-platform/query/ui/credentials.html)|Non-Expiring Credentials for [!UICONTROL Query Service] users allow for more permanent connections to external clients instead of renewing credentials every 24 hours. |
-|[[!UICONTROL Destination SDK]](https://www.adobe.com/go/destination-sdk-overview-en) |Use [!UICONTROL Destination SDK] to integrate with [!DNL Platform] and contribute to the ever-growing destinations catalog. Access to this feature is available only to Experience Platform Activation customers. |
+|Feature|Description |
 
 See [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) for all the details.
 
@@ -201,7 +195,7 @@ Latest Journey Optimizer tutorials:
 
 ### More resources for [!DNL Journey Optimizer]
 
-[Help Center](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
+[Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Journey Orchestration] {#journey-orch}
 
@@ -213,19 +207,19 @@ Find out more about the latest capabilities, improvements, and fixes in the [[!D
 
 #### More resources for [!DNL Journey Orchestration]
 
-[Help Center](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html)
+[Documentation](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html)
 
-## ![Icon](/assets/experience_platform_appicon_24.png) Offer Decisioning {#offer-decisioning}
+## ![Icon](/assets/experience_platform_appicon_24.png) Decision Management {#offer-decisioning}
 
 [!UICONTROL Offer Decisioning] is an service integrated with Adobe Experience Platform. Use [!UICONTROL Offer Decisioning] to deliver the best offer and experience to your customers across all touch points at the right time.
 
-### Latest Offer Decisioning product releases
+### Latest Decision Management product releases
 
-Find out more about the latest capabilities, improvements, and fixes in the [Offer Decisioning Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
+Find out more about the latest capabilities, improvements, and fixes in the [Decision Management release notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
 
-#### More resources for [!UICONTROL Offer Decisioning]
+#### More resources for [!UICONTROL Decision Management]
 
-[Help Center](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html) - [Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html)
+[Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html) - [Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html)
 
 ## ![Icon](/assets/aem.png) Experience Manager {#aem}
 
@@ -348,7 +342,7 @@ Latest tutorials and courses for Adobe Campaign.
 
 ### Campaign help resources
 
-* Adobe Campaign v8: [Help Center](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html) - [Implementation Guides](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html)
+* Adobe Campaign v8: [Documentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/whats-new.html) - [Implementation Guides](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html)
 * Adobe Campaign Standard: [Campaign Standard Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html) - [Release Planning](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Campaign Classic v7 Documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [How-to videos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html)
 * Adobe Campaign Control Panel: [Documentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en) - How-to-videos for [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html) / [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html)
