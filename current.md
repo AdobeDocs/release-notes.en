@@ -103,12 +103,25 @@ Release date: **October 28, 2021**
 
 {style="table-layout:auto"}
 
-### Fixes in Adobe Analytics and CJA {#aa-fixes}
+### Fixes in Adobe Analytics {#aa-fixes}
 
+* Fixed an issue with being unable to delete alerts in the Alert Manager. (AN-270656)
+* Fixed an issue with Data Warehouse requests failing intermittently. (AN-273713, AN-272790)
+* Fixed issues with Classifications not updating. (AN-272211)
+
+### Fixes in Customer Journey Analytics {#cja-fixes}
+
+* Fixed CJA performance issues (error messages while loading projects). (AN-269451, AN-270649)
+* Fixed an issue in CJA where Session Starts did not match Flow Entries for Page Names. (AN-273501)
+* Fixed an issue with the Fallout report in CJA not functioning properly. (AN-269761)
 
 #### Additional fixes in Adobe Analytics
 
+AN-263327; AN-267807; AN-269757; AN-272789; AN-272888; AN-273155; AN-273320; AN-273369; AN-273405; AN-273469; AN-273581; AN-273642; AN-273688; AN-273988; AN-274007; AN-274030; AN-274156; AN-274188; AN-274226
 
+#### Additional fixes in CJA
+
+AN-270649
 
 ### Important notices for [!DNL Analytics] administrators {#aa-notices}
 
