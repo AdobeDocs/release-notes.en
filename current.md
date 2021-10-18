@@ -105,7 +105,6 @@ Release date: **October 28, 2021**
 
 ### Fixes in Adobe Analytics and CJA {#aa-fixes}
 
-* 
 
 #### Additional fixes in Adobe Analytics
 
