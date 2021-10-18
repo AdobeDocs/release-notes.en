@@ -86,7 +86,6 @@ Release date: **October 28, 2021**
 
 | Feature | Description | [General Availability](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) - Target Date |
 | ----------- | ---------- | ------- |
-| Visualizations for Analytics dashboards | Analytics [!UICONTROL Dashboards] is introducing three new visualizations to give executives and decision makers a better at-a-glance understanding of their data. The new [!UICONTROL Doughnut], [!UICONTROL Line], and [!UICONTROL Horizontal] bar charts all make it easier to see data for individual dimension items, without having to open a details view. [Learn more](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/create-scorecard.html?lang=en#apply-visualizations) | October 7, 2021 |
 | [!UICONTROL Media Playback Time Spent] | Adobe Streaming Media Playback [!UICONTROL Time Spent] provides valuable insight into viewer engagement and enables media organizations to derive deeper, more granular insights with minute-by-minute user engagement through advanced time spent analysis with day-parting capabilities. You can observe the amount of time spent viewing your media streams at a specific point in time. You can split the playback duration by different granularities, including new 5-minute, 15-minute, and 30-minute granularities. [Learn more](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html?lang=en) | October 18, 2021 |
 | Quick [!UICONTROL Segment Builder] | Allows business users to quickly apply basic segments in a simplified, in-line project workflow. No need to go to the [!UICONTROL Segment Builder]. [Learn more](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=en) | October 21, 2021 |
 | Analysis Workspace Left Rail Search Improvements | Left rail search will 1) prioritize exact matches above broad matches, in addition to continuing to account for component recency and relevancy. 2) It highlights matched characters to make search results more understandable. 3) It's easier to find classifications related to a dimension. 4) Finally, it supports wildcard (`*`) searching to more easily find specific components that you need. Note: Wildcard searching does not yet work at the dimension item level. | October 21, 2021 |
@@ -98,10 +97,6 @@ Release date: **October 28, 2021**
 
 | Feature | Description | [General Availability](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) - Target Date |
 | ----------- | ---------- | ----- |
-| Rolling window for [!UICONTROL Connection] data retention | **Note: Please contact Customer Care or your Adobe account manager to have this setting implemented. It is not yet available via the CJA UI.**<p>Lets you define a CJA data retention setting as a rolling window in months (3 months, 6 months, etc.), at a [!UICONTROL connection] level (not at a [!UICONTROL dataset] level). Data retention is based on event dataset timestamps and applies to event datasets only. No data retention setting exists for profile or lookup datasets since there are no applicable timestamps. The main benefit is that you store or report only on data that is applicable and useful and delete older data that is no longer useful. It helps you stay under your contract limits and reduces the risk of overage cost. | October 7, 2021 |
-| Report Builder support | Report Builder is a Microsoft® [!DNL Excel] Add-in that allows you to easily create, edit, and refresh custom reports using Customer Journey Analytics data. With Report Builder and Excel, you can use the simple but flexible drag-and-drop UI to easily build complex data requests. With Report Builder for Customer Journey Analytics, you can:<ul><li>Reference existing worksheet cells to get the perfect row order, date range, or filter</li><li>Create custom dates using calendar, cell references, or date math</li><li>Design your tables and visualizations with familiar Excel formatting tools</li><li>Available for Excel on macOS, Microsoft 365 for the web, and Microsoft Windows</li></ul>[Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-reportbuilder/report-buider-overview.html#) | October 7, 2021 |
-| Visualizations for Analytics dashboards | Analytics [!UICONTROL Dashboards] is introducing three new visualizations to give executives and decision makers an even better at-a-glance understanding of their data. The new doughnut, line, and horizontal bar charts all make it easier to see data for individual dimension items, without having to open a details view. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html?lang=en#apply-visualizations)| October 7, 2021 |
-| Customer Journey Analytics Audit Logs API | The [Audit Log](https://adobe.io/cja-apis/docs/endpoints/auditlogs/) API endpoint lets you request audit log data from Adobe. It is an important part of security compliance, and for auditing data or user actions. | October 7, 2021 |
 | Quick [!UICONTROL Filter Builder] | Allows business users to quickly apply basic segments in a simplified, in-line project workflow. No need to go to the [!UICONTROL Filter Builder]. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/quick-filters.html?lang=en) | October 21, 2021 |
 | Analysis Workspace Left Rail Search Improvements | Left rail search will 1) prioritize exact matches above broad matches, in addition to continuing to account for component recency and relevancy. 2) It highlights matched characters to make search results more understandable. 3) It's easier to find classifications related to a dimension. 4) Finally, it supports wildcard (`*`) searching to more easily find specific components that you need. Note: Wildcard searching does not yet work at the dimension item level. | October 21, 2021 |
 | Analysis Workspace Dark Theme | Dark theme is available as a display option. | October 21, 2021 |
@@ -110,18 +105,18 @@ Release date: **October 28, 2021**
 
 ### Fixes in Adobe Analytics and CJA {#aa-fixes}
 
-* Fixed a scheduled report error in Customer Journey Analytics. (AN-271721)
-* Fixed issues with [!UICONTROL Search Components] in [!UICONTROL Workspace] not resulting in exact matches. (AN-253937; AN-271707)
+* 
 
 #### Additional fixes in Adobe Analytics
 
-AN-256136; AN-265420; AN-268455; AN-269768; AN-270276; AN-270287; AN-271601; AN-271969; AN-272056; AN-272111; AN-272457
+
 
 ### Important notices for [!DNL Analytics] administrators {#aa-notices}
 
 | Notice | Date Added or Updated  | Description |
 | ----------- | ---------- | ---------- |
 | EOL for three Analytics API services | September 16, 2021| On **October 20, 2021**, the following Analytics Legacy API services will reach their end-of-life date and be shut down. Any current integrations built using these services stop working on that day.<ul><li>1.3 Analytics APIs</li><li>1.4 SOAP Analytics APIs</li><li>Legacy OAuth Authentication (OAuth and JWT)</li></ul>Adobe has provided a [Legacy API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) to help answer your questions and provide guidance on how to proceed. API integrations that employ these services can migrate to the [1.4 Analytics REST APIs](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) or the [2.0 Analytics APIs](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth accounts can migrate to an [Adobe I/O](https://developer.adobe.com/console) Analytics integration account, which can be used to access both the 1.4 Analytics APIs and 2.0 Analytics APIs. |
+| EOL for Full Processing in Data Sources | October 18, 2021 | On **January 31, 2022**, Adobe will end of life Full Processing, which enables users to ingest offline hit data into Analytics. This capability is available via [Bulk Data Insertion API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md). |
 
 {style="table-layout:auto"}
 
