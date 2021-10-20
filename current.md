@@ -153,11 +153,12 @@ Latest courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Cust
 
 ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
 
-New features in Audience Manager - updated **September 14, 2021**:
+Fixes and improvements in Audience Manager.
 
-| Feature | Description |
-| ------- | ------- |
-| Mobile ID data collection consent | Added support for mobile ID data collection consent. To benefit from this update, customers must upgrade to [AEP Mobile SDK iOS Core 2.8.0](https://aep-sdks.gitbook.io/docs/foundation-extensions/mobile-core/mobile-core-release-notes#november-4-2020) or later. |
+* Resolved an issue causing all API calls to return an `Undocumented` error when being performed through the Swagger interface. (AAM-59190)
+* Resolved an issue causing incorrect user roles to be assigned to partners in some situations. (AAM-59451)
+* Resolved an issue causing the API to require case sensitive authentication headers. (AAM-58528)
+
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
 
