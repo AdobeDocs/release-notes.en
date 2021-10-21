@@ -260,14 +260,14 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
 
 New videos, tutorials, and courses published over the past month.
 
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|November 2021|[Adobe Experience Manager Sites Basics](https://experienceleague.adobe.com/docs/experience-manager-skill-builder/skill-builder/2021/authoring-fundamentals.html?lang=en)|Video series |Learn how to create rich and engaging customer experiences in Adobe Experience Manager in this five-part webinar series. Start with the building blocks of content authoring while learning the fundamental concepts and operations. Learn about sites admin features and basics of handling digital assets within AEM. Later, discover features that can help you save time and be more efficient by re-using the content and delivering it across channels.|
-|November 2021|[Planning your Move to AEM as a Cloud Service](https://experienceleague.adobe.com/?recommended=ExperienceManager-A-1-2021.1.migration)|Course |Learn about the considerations of moving to AEM as a Cloud Service and the available tools that simplify the process.|
-|November 2021|[Moving to AEM as a Cloud Service](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2021.1.migration)|Course |Learn how to successfully move from AEM 6 to Experience Manager as a Cloud Service.|
-|November 2021|[Download Interactive DoR](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/generate-interactive-dor.html?lang=en#create-custom-servlet)|Video |Learn how to download an interactive DoR with the Adaptive Form data.|
-|November 2021|[Adobe Experience Manager as a Cloud Service Experts Series](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-experts-series.html?lang=en)|Video series |Learn about Adobe Experience Manager (AEM) as a Cloud Service from Adobe’s expert engineers who build it, and professional services team who deliver it. Join Adobe’s experts in exploring what AEM as a Cloud Service is, how its the same and different from AEM 6, and how to move from AEM 6 to AEM as a Cloud Service.|
-|November 2021|[Service Users](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/advanced/service-users.html?lang=en)|Video |Learn how to create and use Service Users in your AEM code to provide controlled, programmatic access to the AEM repository.|
+|Published|Name|Description |Type|Version |
+| -----------| ---------- | ---------- |---------- | ---------- |
+|November 2021|[Adobe Experience Manager Sites Basics](https://experienceleague.adobe.com/docs/experience-manager-skill-builder/skill-builder/2021/authoring-fundamentals.html?lang=en)|Video series |Learn how to create rich and engaging customer experiences in Adobe Experience Manager in this five-part webinar series. Start with the building blocks of content authoring while learning the fundamental concepts and operations. Learn about sites admin features and basics of handling digital assets within AEM. Later, discover features that can help you save time and be more efficient by re-using the content and delivering it across channels.|AEM Sites |
+|November 2021|[Planning your Move to AEM as a Cloud Service](https://experienceleague.adobe.com/?recommended=ExperienceManager-A-1-2021.1.migration)|Course |Learn about the considerations of moving to AEM as a Cloud Service and the available tools that simplify the process.|AEM CS |
+|November 2021|[Moving to AEM as a Cloud Service](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2021.1.migration)|Course |Learn how to successfully move from AEM 6 to Experience Manager as a Cloud Service.|AEM CS |
+|November 2021|[Download Interactive DoR](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/generate-interactive-dor.html?lang=en#create-custom-servlet)|Video |Learn how to download an interactive DoR with the Adaptive Form data.|AEM Forms |
+|November 2021|[Adobe Experience Manager as a Cloud Service Experts Series](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-experts-series.html?lang=en)|Video series |Learn about Adobe Experience Manager (AEM) as a Cloud Service from Adobe’s expert engineers who build it, and professional services team who deliver it. Join Adobe’s experts in exploring what AEM as a Cloud Service is, how its the same and different from AEM 6, and how to move from AEM 6 to AEM as a Cloud Service.|AEM CS |
+|November 2021|[Service Users](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/advanced/service-users.html?lang=en)|Video |Learn how to create and use Service Users in your AEM code to provide controlled, programmatic access to the AEM repository.|AEM CS |
 
 {style="table-layout:auto"}
 
@@ -316,12 +316,12 @@ Find out more about the latest capabilities, improvements, and fixes released:
 
 Latest tutorials and courses for Adobe Campaign.
 
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|November 2021|[Connect Campaign to Experience Platform as a destination](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/import-experience-platform-data-into-campaign/connect-campaign-to-experience-platform-as-destination.html?lang=en)|Video |Learn how to activate an Adobe Experience Platform segment to a destination using the Amazon S3 connection type.|
-|November 2021|[Integrate with Experience Platform - Overview](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=en)|Video |Learn how share data between Campaign and Experience Cloud.|
-|November 2021|[Import recipient data from Experience Platform and send an email](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/import-experience-platform-data-into-campaign/import-recipient-data-from-platform.html?lang=en)|Video |Learn how to configure an external account in Adobe Campaign to import recipient data from Adobe Experience Platform to Campaign. Understand how to create a workflow to upload and target the recipients received from the Experience Platform.|
-|November 2021|[Use SOAP APIs in workflows](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en)|Video tutorials |Learn how to use Adobe Campaign Soap API’s and create an advanced delivery workflow based on the data received via the API.|
+|Published|Name|Description |Type|Version |
+| -----------| ---------- | ---------- |---------- | ---------- |
+|November 2021|[Connect Campaign to Experience Platform as a destination](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/import-experience-platform-data-into-campaign/connect-campaign-to-experience-platform-as-destination.html?lang=en)|Video |Learn how to activate an Adobe Experience Platform segment to a destination using the Amazon S3 connection type.|AEP & Campaign V8|
+|November 2021|[Integrate with Experience Platform - Overview](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/overview.html?lang=en)|Video |Learn how share data between Campaign and Experience Cloud.|AEP & Campaign V8|
+|November 2021|[Import recipient data from Experience Platform and send an email](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-platform/import-experience-platform-data-into-campaign/import-recipient-data-from-platform.html?lang=en)|Video |Learn how to configure an external account in Adobe Campaign to import recipient data from Adobe Experience Platform to Campaign. Understand how to create a workflow to upload and target the recipients received from the Experience Platform.|AEP & Campaign V8|
+|November 2021|[Use SOAP APIs in workflows](https://experienceleague.adobe.com/docs/campaign-learn/use-soap-apis/introduction.html?lang=en)|Video tutorials |Learn how to use Adobe Campaign Soap API’s and create an advanced delivery workflow based on the data received via the API.|Campaign V8|
 
 {style="table-layout:auto"}
 
