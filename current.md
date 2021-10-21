@@ -42,11 +42,11 @@ Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#h
 
 ## ![Icon](/assets/experience-league.png) [!DNL Experience League] Live Events {#events}
 
-[!DNL Experience League] Live Events are discussions with Adobe experts and special guests who are instrumental in bringing Adobe technology to you. See the following schedule and join us live or watch previously recorded events.
+[Experience League Live Events](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) are discussions with Adobe experts and special guests who are instrumental in bringing Adobe technology to you. See the following schedule and join us live or watch previously recorded events.
 
 |Event Date|Time |Event Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-|October 21, 2021 |TBD  |[Who clicked that? Advanced reporting on link clicks with Adobe Analytics](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw)|Live Video Event|Reporting on user interaction with your web or mobile property is a critical piece of understanding your customer’s journey. With Adobe Analytics you can understand the who, what, why, and where of every click in your application. Learn from Adobe Analytics experts their top tips for using Activity Map classifications and custom attribution to better understand user engagement.|
+|October 21, 2021 |On demand  |[Who clicked that? Advanced reporting on link clicks with Adobe Analytics](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)|Live Video Event|Reporting on user interaction with your web or mobile property is a critical piece of understanding your customer’s journey. With Adobe Analytics you can understand the who, what, why, and where of every click in your application. Learn from Adobe Analytics experts their top tips for using Activity Map classifications and custom attribution to better understand user engagement.|
 |October 4, 2021|On demand |[Adobe Developers Live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en)|Video |Adobe product teams across Adobe Experience Cloud, Document Cloud, and Creative Cloud showcased the latest tech advances and developer tools powering design, content creation workflows, document services and customer experience management across industries. View the keynote address, learn about Analytics APIs, client data layer, Adobe I/O open source projects, and much more.|
 
 {style="table-layout:auto"}
