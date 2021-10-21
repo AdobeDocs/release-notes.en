@@ -188,7 +188,9 @@ See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-not
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
 
-**September 2021**
+With Adobe Journey Optimizer, you can manage scheduled omnichannel campaigns and one-to-one moments for millions of customers from a single application — and the entire journey is optimized with intelligent decisioning and insights.
+
+### Latest Journey Optimizer product releases
 
 Find out more about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
 
@@ -214,11 +216,9 @@ Use Experience Platform to orchestrate a customer’s journey at scale across ex
 
 ### Latest [!DNL Journey Orchestration] product releases
 
-**September 2021**
-
 Find out more about the latest capabilities, improvements, and fixes in the [[!DNL Journey Orchestration] Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html).
 
-#### More resources for [!DNL Journey Orchestration]
+### More resources for [!DNL Journey Orchestration]
 
 [Documentation](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html)
 
@@ -230,7 +230,7 @@ Find out more about the latest capabilities, improvements, and fixes in the [[!D
 
 Find out more about the latest capabilities, improvements, and fixes in the [Decision Management release notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
 
-#### More resources for [!UICONTROL Decision Management]
+### More resources for [!UICONTROL Decision Management]
 
 [Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html) - [Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html)
 
