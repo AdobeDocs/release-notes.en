@@ -19,6 +19,8 @@ exl-id:
 
 Release month: **November 2021**
 
+Latest update: **October 21, 2021**
+
 * [[!DNL Experience League] Live Events](#events)
 * [[!DNL Experience Cloud Central Interface Components] & Administration](#ecloud)
 * [Adobe [!UICONTROL System Status]](#status)
@@ -400,6 +402,10 @@ New videos, tutorials, or courses published for Adobe Document Cloud.
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |November 2021|[Workspace basics](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/get-to-know-the-acrobat-dc-interface.html)|Video (updated) |Learn how the Acrobat DC interface makes it easy to access files and tools across desktop, web, and mobile devices with a consistent workspace experience.|
+|November 2021|[Work anywhere with Acrobat web](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/acrobatweb.html)|Video |Learn how to handle business document requests from anywhere using the Acrobat web tools in your browser.|
+|November 2021|[Create PDFs in Office for the web ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/createofficeweb.html)|Video |Learn how to create PDF files without ever leaving your Microsoft Office for web apps. This add-on requires a subscription to Acrobat DC for teams or Acrobat DC for enterprise subscription.|
+|November 2021|[Collaborate in real time](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate.html)|Video |Move your projects forward by collecting comments, collaborating on responses, and tracking progress on your documents all in real-time, from anywhere.|
+|November 2021|[ Productivity on the go](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)|Video |Do more right from your tablet or mobile phone with the Acrobat Reader mobile app.|
 
 {style="table-layout:auto"}
 
