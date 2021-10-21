@@ -104,6 +104,7 @@ Release date: **October 28, 2021**
 | Quick [!UICONTROL Filter Builder] | Allows business users to quickly apply basic segments in a simplified, in-line project workflow. No need to go to the [!UICONTROL Filter Builder]. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/quick-filters.html?lang=en) | October 21, 2021 |
 | Analysis Workspace Left Rail Search Improvements | Left rail search will 1) prioritize exact matches above broad matches, in addition to continuing to account for component recency and relevancy. 2) It highlights matched characters to make search results more understandable. 3) It's easier to find classifications related to a dimension. 4) Finally, it supports wildcard (`*`) searching to more easily find specific components that you need. Note: Wildcard searching does not yet work at the dimension item level. | October 21, 2021 |
 | Analysis Workspace Dark Theme | Dark theme is available as a display option. | October 21, 2021 |
+| Lookback window for dimension allocation | A lookback window will be added to the dimension allocation setting under Persistence in the Data Views configuration. | October 28, 2021 |
 
 {style="table-layout:auto"}
 
