@@ -18,7 +18,6 @@ exl-id:
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
 Release month: **November 2021**
-Latest update: **October 20, 2021**
 
 * [[!DNL Experience League] Live Events](#events)
 * [[!DNL Experience Cloud Central Interface Components] & Administration](#ecloud)
@@ -45,9 +44,8 @@ Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#h
 
 |Event Date|Time |Event Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-|November 18, 2021 | | | |
+|October 21, 2021 |TBD  |[Who clicked that? Advanced reporting on link clicks with Adobe Analytics](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw)|Live Video Event|Reporting on user interaction with your web or mobile property is a critical piece of understanding your customer’s journey. With Adobe Analytics you can understand the who, what, why, and where of every click in your application. Learn from Adobe Analytics experts their top tips for using Activity Map classifications and custom attribution to better understand user engagement.|
 |October 4, 2021|On demand |[Adobe Developers Live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en)|Video |Adobe product teams across Adobe Experience Cloud, Document Cloud, and Creative Cloud showcased the latest tech advances and developer tools powering design, content creation workflows, document services and customer experience management across industries. View the keynote address, learn about Analytics APIs, client data layer, Adobe I/O open source projects, and much more.|
-|October 21, 2021 |On demand |[Who clicked that? Advanced reporting on link clicks with Adobe Analytics](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw)|Live Video Event|Reporting on user interaction with your web or mobile property is a critical piece of understanding your customer’s journey. With Adobe Analytics you can understand the who, what, why, and where of every click in your application. Learn from Adobe Analytics experts their top tips for using Activity Map classifications and custom attribution to better understand user engagement.|
 
 {style="table-layout:auto"}
 
@@ -148,7 +146,7 @@ Latest courses, tutorials, and articles in [!DNL Analytics] and [!UICONTROL Cust
 |November 2021|[Sequential Segmentation in Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/sequential-segmentation.html?lang=en#)|Video (updated) |Learn how to build a segment in Analysis Workspace from sequences of behaviors on your site or in your application.|
 |November 2021|[Before/After Sequences in Sequential Segmentation](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/before-after-sequences-in-sequential-segmentation.html?lang=en)|Video (updated)|Learn how to segment in Adobe Analytics so that you get only the data from before or after a specific user path.|
 |November 2021|[Report Builder for Customer Journey Analytics](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/report-builder-for-customer-journey-analytics.html)|Video |With Report Builder's simple and flexible drag and drop UI, you can create complex data queries and custom reports from Customer Journey Analytics data, all within Excel.|
-|October 2021|[Using Visualizations to Tell your Data Stories](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)|Course |Who wants to scour table after table just to try pulling insights out of the data? Not you! In this course, learn the basics about visualizations, including how to add them to a project, get data into them, and what each visualization can show you. Learn how to configure the settings to get the exact data you need. Also, get some tips and use cases to help you make visualizations practical to your regular analysis.|
+|October 2021|[Using Visualizations to Tell your Data Stories](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)|Course |Learn the basics about visualizations, including how to add them to a project, get data into them, and what each visualization can show you. Learn how to configure the settings to get the exact data you need. Also, get some tips and use cases to help you make visualizations practical to your regular analysis.|
 
 {style="table-layout:auto"}
 
@@ -171,10 +169,6 @@ Includes release update information and new documentation for Experience Platfor
 
 **September 29, 2021**
 
-| Feature | Description |
-| ------- | ------- |
-|Feature|Description |
-
 See [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) for all the details.
 
 ### Experience Platform tutorials and courses {#tutorials-platform}
@@ -193,6 +187,8 @@ Latest videos, tutorials, or courses published for Experience Platform and servi
 See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-notes) for the Adobe Experience Platform Mobile SDKs.
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
+
+**September 2021**
 
 Find out more about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
 
@@ -217,6 +213,8 @@ Latest Journey Optimizer tutorials:
 Use Experience Platform to orchestrate a customer’s journey at scale across experience channels, by intelligently anticipating every individual’s needs in real time.
 
 ### Latest [!DNL Journey Orchestration] product releases
+
+**September 2021**
 
 Find out more about the latest capabilities, improvements, and fixes in the [[!DNL Journey Orchestration] Release Notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html).
 
@@ -375,7 +373,7 @@ See the following links for Adobe Commerce release notes:
 
 ## ![Icon](/assets/target.png) [!DNL Target] {#target}
 
-Last Updated: **August 3, 2021**
+Last Updated: **October 20, 2021**
 
 See [[!DNL Target] release notes](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en) for the latest release information.
 
@@ -402,17 +400,6 @@ New videos, tutorials, or courses published for Adobe Document Cloud.
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |November 2021|[Workspace basics](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/get-to-know-the-acrobat-dc-interface.html)|Video (updated) |Learn how the Acrobat DC interface makes it easy to access files and tools across desktop, web, and mobile devices with a consistent workspace experience.|
-|October 2021|[What is a digital signature?](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-with-a-digital-signature.html?lang=en)|Video |Learn how to use digital IDs from around the world with Adobe Sign.|
-|October 2021|[Getting started with Adobe Sign for new senders](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/new-sender.html)|Video |If you’re new to using Adobe Sign, this tutorial is a great place to start. This comprehensive tutorial focuses on all the basics to get you up and running quickly with Adobe Sign.|
-|October 2021|[Load PDF comments into InDesign](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/indesign.html)|Video |In this 60-second video tutorial, learn how to load PDF comments back into InDesign after an Acrobat shared review. This digital workflow helps you complete revisions in record time.|
-|October 2021|[Get a digital ID from [!DNL Intesi Group] (Qualified)](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/intesi/intesi-qualified.html)|Video |Learn how to obtain a qualified digital signing certificate from [!DNL Intesi] Group. Once registered and your identity is verified, [!DNL Intesi] Group issues you with a digital ID that is used to apply an Adobe Sign cloud signature.|
-|October 2021|[Signing using [!DNL Intesi Group]](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/intesi/intesi-sign.html)|Video |Learn how to use your Intesi Group digital ID to authenticate your identity and authorize a remote digital signature (cloud signature) on a document.|
-|October 2021|[Get a digital ID from [!DNL Intesi Group] (Advanced)](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/intesi/intesi-advanced.html)|Video |Learn how to obtain an Advanced digital signing certificate from Intesi Group. Once registered and your identity is verified, Intesi Group issues you with a digital ID that is used to apply an Adobe Sign cloud signature.|
-|October 2021|[Signing using [!DNL Digidentity]](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/digidentity/digidentity-sign.html)|Video |Learn how to use your [!DNL Digidentity] digital ID to authenticate your identity and authorize a remote digital signature (cloud signature) on a document.|
-|October 2021|[Get a digital ID from [!DNL Digidentity]](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/digidentity/digidentity-reg.html)|Video |Learn how to obtain a digital signing certificate from [!DNL Digidentity]. Once registered and your identity is verified, [!DNL Digidentity] issues you with a digital ID that is used to apply an Adobe Sign cloud signature.|
-|October 2021|[Detect differences between two PDFs](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/compare.html)|Video |Never make the mistake of working with the wrong version of a file. Quickly and accurately detect the differences between two PDF files to improve document review workflows.|
-|October 2021|[Create PDF content while browsing with Microsoft® Edge](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/edge.html)|Video |Learn how to archive web pages to PDF on the fly with the Adobe Acrobat extension for Microsoft® Edge. This Windows-only tool is invaluable for research projects and offline viewing of web-based information.|
-|October 2021|[Convert email messages and attachments to PDF in Outlook](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/outlook.html)|Video |Learn how to archive email messages and attachments to PDF in Outlook for your projects. Learn to deliver information in a more professional and secure manner by automatically converting attachments to PDF. This tool is only available for Windows.|
 
 {style="table-layout:auto"}
 
