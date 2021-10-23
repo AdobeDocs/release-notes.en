@@ -57,7 +57,9 @@ For more videos, visit the [Adobe Experience League Channel](https://www.youtube
 
 | Feature | Description |
 | ------- | ------- |
-|Feature |Description |
+|Home Page |Experience Cloud home footer information has been moved to the user profile card, including Legal Notices and language selection in Preferences. |
+|AEP Dashboards |[!DNL Helios Lite] provides chart recommendations within the Experience Platform widget creation workflow. Given a data selection (currently single variable data selection), helios recommends an appropriate visualization to accompany that data selection.|
+|AEP Dashboards |[!DNL Instory] provides ML-based written narration and captions for charts. It decorates charts in the AEP Dashboards page with relevant bullet points calling out major changes and incidents in the graphed data. |
 
 {style="table-layout:auto"}
 
