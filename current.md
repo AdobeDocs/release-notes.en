@@ -2,12 +2,12 @@
 title: Latest Release Notes
 description: Learn about the latest release notes, new features, and new documentation for [!DNL Experience Cloud] products and services. Find new help and tutorials about [!DNL Experience Cloud], [!DNL Creative Cloud for enterprise], and [!DNL Document Cloud].
 doc-type: release notes
-last-update: October 2021
+last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
 exl-id: 
 ---
-# INTERNAL REVIEW - Adobe Experience Cloud Release Notes - November 2021
+# Adobe Experience Cloud Release Notes - November 2021
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
@@ -19,7 +19,7 @@ exl-id:
 
 Release month: **November 2021**
 
-Latest update: **October 21, 2021**
+Latest update: **October 22, 2021**
 
 * [[!DNL Experience League] Live Events](#events)
 * [[!DNL Experience Cloud Central Interface Components] & Administration](#ecloud)
@@ -47,7 +47,7 @@ Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#h
 |Event Date|Time |Event Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
 |October 21, 2021 |On demand  |[Who clicked that? Advanced reporting on link clicks with Adobe Analytics](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)|Live Video Event|Reporting on user interaction with your web or mobile property is a critical piece of understanding your customer’s journey. With Adobe Analytics you can understand the who, what, why, and where of every click in your application. Learn from Adobe Analytics experts their top tips for using Activity Map classifications and custom attribution to better understand user engagement.|
-|October 4, 2021|On demand |[Adobe Developers Live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en)|Video |Adobe product teams across Adobe Experience Cloud, Document Cloud, and Creative Cloud showcased the latest tech advances and developer tools powering design, content creation workflows, document services and customer experience management across industries. View the keynote address, learn about Analytics APIs, client data layer, Adobe I/O open source projects, and much more.|
+|October 4, 2021|On demand |[Adobe Developers Live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en)|Video |Missed the event or looking for a replay of a specific session? Find them on Experience League. Developers Live showcases the latest tech advances and developer tools powering design, content creation workflows, document services, and customer experience management across industries. View the keynote address, learn about Analytics APIs, client data layer, Adobe I/O open-source projects, and much more.|
 
 {style="table-layout:auto"}
 
@@ -89,9 +89,9 @@ Release date: **October 28, 2021**
 | Feature | Description | [General Availability](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) - Target Date |
 | ----------- | ---------- | ------- |
 | Minute-level date ranges in Analysis Workspace | You can apply a minute-level date range under the advanced settings of your panel calendar or when building a custom date range. If you are reporting on a date range that spans many days, start time applies to the first day and end time applies to the last day in your range. | October 18, 2021 |
-| [!UICONTROL Media Playback Time Spent] | Adobe Streaming Media Playback [!UICONTROL Time Spent] provides valuable insight into viewer engagement and enables media organizations to derive deeper, more granular insights with minute-by-minute user engagement through advanced time spent analysis with day-parting capabilities. You can observe the amount of time spent viewing your media streams at a specific point in time. You can split the playback duration by different granularities, including new 5-minute, 15-minute, and 30-minute granularities. [Learn more](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html?lang=en) | October 18, 2021 |
+| [!UICONTROL Media Playback Time Spent] | Adobe Streaming Media Playback [!UICONTROL Time Spent] provides valuable insight into viewer engagement and enables media organizations to derive deeper, more granular insights with minute-by-minute user engagement through advanced time spent analysis with day-parting capabilities. You can observe the amount of time spent viewing your media streams at a specific point in time. You can split the playback duration by different granularities, including new 5 minute, 15 minute, and 30 minute granularities. [Learn more](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html?lang=en) | October 18, 2021 |
 | Quick [!UICONTROL Segment Builder] | Allows business users to quickly apply basic segments in a simplified, in-line project workflow. No need to go to the [!UICONTROL Segment Builder]. [Learn more](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=en) | October 21, 2021 |
-| Analysis Workspace Left Rail Search Improvements | Left rail search will 1) prioritize exact matches above broad matches, in addition to continuing to account for component recency and relevancy. 2) It highlights matched characters to make search results more understandable. 3) It's easier to find classifications related to a dimension. 4) Finally, it supports wildcard (`*`) searching to more easily find specific components that you need. Note: Wildcard searching does not yet work at the dimension item level. | October 21, 2021 |
+| Analysis Workspace Left Rail Search Improvements | Left rail search 1) prioritizes exact matches above broad matches, in addition to continuing to account for component recency and relevancy. 2) It highlights matched characters to make search results more understandable. 3) It's easier to find classifications related to a dimension. 4) Finally, it supports wildcard (`*`) searching to more easily find specific components that you need. Note: Wildcard searching does not yet work at the dimension item level. | October 21, 2021 |
 | Analysis Workspace Dark Theme | Dark theme is available as a display option. | October 21, 2021 |
 
 {style="table-layout:auto"}
@@ -102,9 +102,9 @@ Release date: **October 28, 2021**
 | ----------- | ---------- | ----- |
 | Minute-level date ranges in Analysis Workspace | You can apply a minute-level date range under the advanced settings of your panel calendar or when building a custom date range. If you are reporting on a date range that spans many days, start time applies to the first day and end time applies to the last day in your range. | October 18, 2021 |
 | Quick [!UICONTROL Filter Builder] | Allows business users to quickly apply basic segments in a simplified, in-line project workflow. No need to go to the [!UICONTROL Filter Builder]. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/quick-filters.html) | October 21, 2021 |
-| Analysis Workspace Left Rail Search Improvements | Left rail search will 1) prioritize exact matches above broad matches, in addition to continuing to account for component recency and relevancy. 2) It highlights matched characters to make search results more understandable. 3) It's easier to find classifications related to a dimension. 4) Finally, it supports wildcard (`*`) searching to more easily find specific components that you need. Note: Wildcard searching does not yet work at the dimension item level. | October 21, 2021 |
+| Analysis Workspace Left Rail Search Improvements | Left rail search 1) prioritizes exact matches above broad matches, in addition to continuing to account for component recency and relevancy. 2) It highlights matched characters to make search results more understandable. 3) It's easier to find classifications related to a dimension. 4) Finally, it supports wildcard (`*`) searching to more easily find specific components that you need. Note: Wildcard searching does not yet work at the dimension item level. | October 21, 2021 |
 | Analysis Workspace Dark Theme | Dark theme is available as a display option. | October 21, 2021 |
-| Lookback window for dimension allocation | A lookback window of up to 90 days will be added to the dimension allocation setting under Persistence in the Data Views configuration. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html)| October 28, 2021 |
+| Lookback window for dimension allocation | A look-back window of up to 90 days is added to the dimension allocation setting under Persistence in the Data Views configuration. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html)| October 28, 2021 |
 
 {style="table-layout:auto"}
 
@@ -165,7 +165,7 @@ Fixes and improvements in Audience Manager.
 
 * Resolved an issue causing all API calls to return an `Undocumented` error when being performed through the Swagger interface. (AAM-59190)
 * Resolved an issue causing incorrect user roles to be assigned to partners in some situations. (AAM-59451)
-* Resolved an issue causing the API to require case sensitive authentication headers. (AAM-58528)
+* Resolved an issue causing the API to require case-sensitive authentication headers. (AAM-58528)
 
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
@@ -206,7 +206,7 @@ Latest Journey Optimizer tutorials:
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |October 2021|[Configure and Manage Data in [!DNL Journey Optimizer] for Data Engineers](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.2)|Course |Learn how to configure and manage data required for journey management in Journey Optimizer.|
-|October 2021|[Get started with [!DNL Journey Optimizer] for Journey Administrators and Managers](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1)|Course |Learn everything you need to know to create your first journey.|
+|October 2021|[Get started with [!DNL Journey Optimizer] for Journey Administrators and Managers](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1)|Course |Learn everything you must know to create your first journey.|
 |October 2021|[Configure [!DNL Journey Optimizer] for Journey Administrators](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-A-1-2021.1)|Course |Understand the [!DNL Journey Optimizer] architecture and points of integration. Learn how to configure [!DNL Journey Optimizer].|
 
 {style="table-layout:auto"}
@@ -229,7 +229,7 @@ Find out more about the latest capabilities, improvements, and fixes in the [[!D
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Decision Management {#offer-decisioning}
 
-[!UICONTROL Offer Decisioning] is an service integrated with Adobe Experience Platform. Use [!UICONTROL Offer Decisioning] to deliver the best offer and experience to your customers across all touch points at the right time.
+[!UICONTROL Offer Decisioning] is a service integrated with Adobe Experience Platform. Use [!UICONTROL Offer Decisioning] to deliver the best offer and experience to your customers across all touch points at the right time.
 
 ### Latest Decision Management product releases
 
@@ -237,7 +237,7 @@ Find out more about the latest capabilities, improvements, and fixes in the [Dec
 
 ### More resources for [!UICONTROL Decision Management]
 
-[Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html) - [Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/offer-decisioning-learn/tutorials/overview.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html)
+[Documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html) - [Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/introduction-to-offer-decisioning.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html)
 
 ## ![Icon](/assets/aem.png) Experience Manager {#aem}
 
@@ -251,13 +251,13 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
 
     Adobe Developers Live brings together Adobe developers and experience builders with diverse backgrounds and a singular purpose – to create incredible end-to-end experiences. This two-day conference features important developer updates, technical sessions, and community networking opportunities.
 
-    Adobe product teams across Adobe Experience Cloud, Document Cloud, and Creative Cloud showcases the latest technological advances and developer tools powering design, content creation workflows, document services, and customer experience management across industries.
+    Adobe product teams across Experience Cloud, Document Cloud, and Creative Cloud showcase the latest technological advances and developer tools powering design, content creation workflows, document services, and customer experience management across industries.
 
     Adobe has 20 Experience Manager sessions planned. Spread the word!
 
   * [Complete session list](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041#M120517)
   * [Free registration &ndash; Log in to RSVP](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live/?cid=Kautuk)
-  * [Adobe Developers Live Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/registration-for-adobe-developers-live-is-now-open-october-4-5/td-p/422127)
+  * [Adobe Developers Live Community](https://experienceleaguecommunities.adobe.com:443/t5/adobe-experience-manager/registration-for-adobe-developers-live-is-now-open-4th-amp-5th/td-p/422127)
 
 ### New Experience Manager courses and tutorials {#tutorials-aem}
 
@@ -265,11 +265,11 @@ New videos, tutorials, and courses published over the past month.
 
 |Published|Name|Description |Type|Version |
 | -----------| ---------- | ---------- |---------- | ---------- |
-|November 2021|[Adobe Experience Manager Sites Basics](https://experienceleague.adobe.com/docs/experience-manager-skill-builder/skill-builder/2021/authoring-fundamentals.html?lang=en)|Video series |Learn how to create rich and engaging customer experiences in Adobe Experience Manager in this five-part webinar series. Start with the building blocks of content authoring while learning the fundamental concepts and operations. Learn about sites admin features and basics of handling digital assets within AEM. Later, discover features that can help you save time and be more efficient by re-using the content and delivering it across channels.|AEM Sites |
+|November 2021|[Adobe Experience Manager Sites Basics](https://experienceleague.adobe.com/docs/experience-manager-skill-builder/skill-builder/2021/authoring-fundamentals.html?lang=en)|Video series |Learn how to create rich and engaging customer experiences in Adobe Experience Manager in this five-part webinar series. Start with the building blocks of content authoring while learning the fundamental concepts and operations. Learn about sites admin features and basics of handling digital assets within AEM. Later, discover features that can help you save time and be more efficient by reusing the content and delivering it across channels.|AEM Sites |
 |November 2021|[Planning your Move to AEM as a Cloud Service](https://experienceleague.adobe.com/?recommended=ExperienceManager-A-1-2021.1.migration)|Course |Learn about the considerations of moving to AEM as a Cloud Service and the available tools that simplify the process.|AEM CS |
 |November 2021|[Moving to AEM as a Cloud Service](https://experienceleague.adobe.com/?recommended=ExperienceManager-D-1-2021.1.migration)|Course |Learn how to successfully move from AEM 6 to Experience Manager as a Cloud Service.|AEM CS |
 |November 2021|[Download Interactive DoR](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/generate-interactive-dor.html?lang=en#create-custom-servlet)|Video |Learn how to download an interactive DoR with the Adaptive Form data.|AEM Forms |
-|November 2021|[Adobe Experience Manager as a Cloud Service Experts Series](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-experts-series.html?lang=en)|Video series |Learn about Adobe Experience Manager (AEM) as a Cloud Service from Adobe’s expert engineers who build it, and professional services team who deliver it. Join Adobe’s experts in exploring what AEM as a Cloud Service is, how its the same and different from AEM 6, and how to move from AEM 6 to AEM as a Cloud Service.|AEM CS |
+|November 2021|[Adobe Experience Manager as a Cloud Service Experts Series](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-experts-series.html?lang=en)|Video series |Learn about Adobe Experience Manager (AEM) as a Cloud Service from Adobe’s expert engineers who build it, and Professional Services team who deliver it. Join Adobe’s experts in exploring what AEM as a Cloud Service is, how it compares with AEM 6, and how to move from AEM 6 to AEM as a Cloud Service.|AEM CS |
 |November 2021|[Service Users](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/advanced/service-users.html?lang=en)|Video |Learn how to create and use Service Users in your AEM code to provide controlled, programmatic access to the AEM repository.|AEM CS |
 
 {style="table-layout:auto"}
@@ -348,7 +348,7 @@ Last updated: **October 7, 2021**
 
 | Feature | Description |
 | ------- | ----------- |
-| Documentation | All [DSP and other Advertising CLoud documentation](https://experienceleague.adobe.com/docs/advertising-cloud.html) on [!DNL Experience League] is now machine translated into all available languages. To change the displayed language, use the “Change Language” menu at the bottom left of any page. |
+| Documentation | All [DSP and other Advertising Cloud documentation](https://experienceleague.adobe.com/docs/advertising-cloud.html) on [!DNL Experience League] is now machine translated into all available languages. To change the displayed language, use the “Change Language” menu at the bottom left of any page. |
 
 {style="table-layout:auto"}
 
@@ -358,7 +358,7 @@ Last updated: **October 7, 2021**
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Reports], [!UICONTROL Notification Center] | (October 9 release) All email notifications for reports, which Advertising Cloud Search sends when a custom or scheduled report has completed or failed, are now handled by [!UICONTROL Notification Center]. Email notifications and web notifications are enabled by default for reports, but you can optionally change the notification settings. With this change:<ul><li>Email recipients are restricted to users who are registered, authenticated users of Advertising Cloud Search and have accessto the advertiser account. This ensures that no confidential data is sent to unauthorized users.</li><li>The format and contents of the email uses the [!UICONTROL Notification Center] template, which includes more details of the report and includes direct download links for all report formats.</li><li>Report notifications are a new notification type, with its own notification preferences, in [!UICONTROL Notification Center].</li></ul>If you use any automation to pull reports from email notifications, you may need to update the filtering logic to ensure process continuity. |
+| [!UICONTROL Reports], [!UICONTROL Notification Center] | (October 9 release) All email notifications for reports, which Advertising Cloud Search sends when a custom or scheduled report has completed or failed, are now handled by [!UICONTROL Notification Center]. Email notifications and web notifications are enabled by default for reports, but you can optionally change the notification settings. With this change:<ul><li>Email recipients are restricted to users who are registered, authenticated users of Advertising Cloud Search and have access to the advertiser account. This feature ensures that no confidential data is sent to unauthorized users.</li><li>The format and contents of the email uses the [!UICONTROL Notification Center] template, which includes more details of the report and includes direct download links for all report formats.</li><li>Report notifications are a new notification type, with its own notification preferences, in [!UICONTROL Notification Center].</li></ul>If you use any automation to pull reports from email notifications, you may need to update the filtering logic to ensure process continuity. |
 | Advertising Insights | Additional insights are available in beta mode. |
 
 {style="table-layout:auto"}
@@ -406,8 +406,8 @@ New videos, tutorials, or courses published for Adobe Document Cloud.
 | -----------| ---------- | ---------- | ---------- |
 |November 2021|[Workspace basics](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/get-to-know-the-acrobat-dc-interface.html)|Video (updated) |Learn how the Acrobat DC interface makes it easy to access files and tools across desktop, web, and mobile devices with a consistent workspace experience.|
 |November 2021|[Work anywhere with Acrobat web](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/acrobatweb.html)|Video |Learn how to handle business document requests from anywhere using the Acrobat web tools in your browser.|
-|November 2021|[Create PDFs in Office for the web ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/createofficeweb.html)|Video |Learn how to create PDF files without ever leaving your Microsoft Office for web apps. This add-on requires a subscription to Acrobat DC for teams or Acrobat DC for enterprise subscription.|
-|November 2021|[Collaborate in real time](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate.html)|Video |Move your projects forward by collecting comments, collaborating on responses, and tracking progress on your documents all in real-time, from anywhere.|
+|November 2021|[Create PDFs in Office for the web ](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/createofficeweb.html)|Video |Learn how to create PDF files without ever leaving your Microsoft® Office for web apps. This add-on requires a subscription to Acrobat DC for teams or Acrobat DC for enterprise subscription.|
+|November 2021|[Collaborate in real time](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate.html)|Video |Move your projects forward by collecting comments, collaborating on responses, and tracking progress on your documents all in real time, from anywhere.|
 |November 2021|[ Productivity on the go](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/productivity.html)|Video |Do more right from your tablet or mobile phone with the Acrobat Reader mobile app.|
 
 {style="table-layout:auto"}
