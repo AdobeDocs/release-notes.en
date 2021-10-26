@@ -197,7 +197,10 @@ Fixes and improvements in Audience Manager.
 
 Adobe recommends visiting the [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) page to stay current on release information.
 
-**Update 10/13/2021:** Check out the [September 2021 Release Overview](https://video.tv.adobe.com/v/337381) video for an overview of new features.
+### Release Overview Videos
+
+* [October 2021 Release Overview](https://video.tv.adobe.com/v/338253) video of new features.
+* [September 2021 Release Overview](https://video.tv.adobe.com/v/337381) video of new features.
 
 ### Community
 
