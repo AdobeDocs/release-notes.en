@@ -45,6 +45,28 @@ Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#h
 
 Experience League Events are a great place to get answers from product experts at Adobe. Check out our Community Q&A Coffee Breaks, Experience League Live video events (also available on demand), and Adobe Developer's Live. Schedules and events are as follows:
 
+### Experience League Live
+
+|Event Name|Date & Time|Topic|Type|Description |
+| -----------| ---------- | ---------- | ---------- |---------- |
+|October 21, 2021 |On demand  |[Who clicked that? Advanced reporting on link clicks with Adobe Analytics](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)|Live video event|Reporting on user interaction with your web or mobile property is a critical piece of understanding your customer’s journey. With Adobe Analytics you can understand the who, what, why, and where of every click in your application. Learn from Adobe Analytics experts their top tips for using Activity Map classifications and custom attribution to better understand user engagement.|
+|October 4, 2021|On demand |[Adobe Developers Live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en)|Video |Missed the event or looking for a replay of a specific session? Find them on Experience League. Developers Live showcases the latest tech advances and developer tools powering design, content creation workflows, document services, and customer experience management across industries. View the keynote address, learn about Analytics APIs, client data layer, Adobe I/O open-source projects, and much more.| 
+
+{style="table-layout:auto"}
+
+### Community Q&A Coffee Breaks
+
+|Event Name|Date & Time|Topic|Type|Description |
+| -----------| ---------- | ---------- | ---------- |---------- |
+|Community Q&A Coffee Breaks|November 10th (Wed.) @ 8am PT|Adobe Target|Forum Q&A|Spend an hour with Cristinel Anastasoaie, Product Manager. Get your questions answered about the Adobe Target interface, integrations, and enterprise permissions and workspaces. <br>[Details](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-11-10-21-cristinel-quot-muti/td-p/426696)|
+||November 11th (Thurs.) @ 8 am PT |Adobe Target|Forum Q&A|Spend an hour with Cristinel Anastasoaie, Product Manager. Get your questions answered about the Adobe Target interface, integrations, and enterprise permissions and workspaces. <br>[Details](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-11-10-21-cristinel-quot-muti/td-p/426696)|
+|November 18, 2021  |TBA |Go live faster than ever with quick site creation in Experience Manager |Live video event |Experience Manager Sites includes several features to accelerate the delivery of a compelling web experience. Learn how to use a low-code approach to create a site in Adobe Experience Manager by using a pre-defined Site Template. More details to come!|
+
+### Adobe Developer's Live
+
+|Event Name|Date & Time|Topic|Type|Description |
+| -----------| ---------- | ---------- | ---------- |---------- |
+
 spend an hour with a special guest and submit your questions in Adobe where you can get questions answered from product experts at Adobe.
 
 Monthly Experience League Community Q&A Coffee Breaks
@@ -53,14 +75,8 @@ Monthly Experience League Community Q&A Coffee Breaks
 
 discussions with Adobe experts and special guests who are instrumental in bringing Adobe technology to you. Community Q&A Coffee Breaks See the following schedule and join us live or watch previously recorded events.
 
-|Event Name|Date & Time|Topic|Type|Description |
-| -----------| ---------- | ---------- | ---------- |---------- |
-|Community Q&A Coffee Breaks|Wed, November 10th @ 8am PT|Adobe Target|Forum Q&A|Spend an hour with Cristinel Anastasoaie, Product Manager. Get your questions answered about the Adobe Target interface, integrations, and enterprise permissions and workspaces. <br>[Details](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-11-10-21-cristinel-quot-muti/td-p/426696)|
-|November 18, 2021  |TBA |Go live faster than ever with quick site creation in Experience Manager |Live video event |Experience Manager Sites includes several features to accelerate the delivery of a compelling web experience. Learn how to use a low-code approach to create a site in Adobe Experience Manager by using a pre-defined Site Template. More details to come!|
-|October 21, 2021 |On demand  |[Who clicked that? Advanced reporting on link clicks with Adobe Analytics](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)|Live video event|Reporting on user interaction with your web or mobile property is a critical piece of understanding your customer’s journey. With Adobe Analytics you can understand the who, what, why, and where of every click in your application. Learn from Adobe Analytics experts their top tips for using Activity Map classifications and custom attribution to better understand user engagement.|
-|October 4, 2021|On demand |[Adobe Developers Live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en)|Video |Missed the event or looking for a replay of a specific session? Find them on Experience League. Developers Live showcases the latest tech advances and developer tools powering design, content creation workflows, document services, and customer experience management across industries. View the keynote address, learn about Analytics APIs, client data layer, Adobe I/O open-source projects, and much more.| 
 
-{style="table-layout:auto"}
+
 
 For more videos, visit the [Adobe Experience League Channel](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) on YouTube.
 
