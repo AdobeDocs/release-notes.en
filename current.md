@@ -70,7 +70,7 @@ Spend an hour with a special guest and submit your questions in Experience Leagu
 
 |Event Name|Date & Time|Application|Type|Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-|Adobe Target - Setup and Admin UI, A4T Integration, AEM Integration, General UI |December 8th (Wed.) @ 8 am PT |Adobe Target|Forum Q&A|We'll be joined by Robert Calangiu, aka @Robert_Calangiu,  Senior Product Manager for Adobe Target, in the Adobe Target Community to chat directly with you about your Adobe Target questions pertaining to his areas of expertise. <br>[Details](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-12-8-21-8am-pt-robert-calangiu/td-p/426697)|
+|Adobe Target - Setup and Admin UI, A4T Integration, AEM Integration, General UI |December 8 (Wed.) @ 8 am PT |Adobe Target|Forum Q&A|We'll be joined by Robert Calangiu, aka @Robert_Calangiu,  Senior Product Manager for Adobe Target, in the Adobe Target Community to chat directly with you about your Adobe Target questions pertaining to his areas of expertise. <br>[Details](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-12-8-21-8am-pt-robert-calangiu/td-p/426697)|
 |Adobe Campaign - Data Import via other Applications |December 2, 2021 @ 8 am PT |Adobe Campaign |Forum Q&A |Data Import via other applications - Best practices to import data via SFTP/APIs using technical workflows with Zariely Garcia, Senior Technical Consultant. <br>[Details](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4UuYOxSr9BdGsLPtk3ITDIdUMFYwT0REQTk5RDZPTjlEWFlSUk1XWTBHVy4u&wdLOR=cEEEC3C73-227C-457C-AA83-44CC08D697B9).|
 
 {style="table-layout:auto"} 
