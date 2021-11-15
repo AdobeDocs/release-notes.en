@@ -43,11 +43,11 @@ Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#h
 
 ## ![Icon](/assets/experience-league.png) [!DNL Experience League] Events {#events}
 
-Experience League Events are a great place to get answers from product experts at Adobe. Check out our 
+Experience League Events are a great place to get answers from product experts at Adobe. Here are the available events:
 
-* Community Q&A Coffee Breaks
-* Experience League Live video events (also available on demand)
-* Adobe Developer's Live
+* [Experience League Live](#exl-live): Live and on-demand video events on YouTube
+* [Community Q&A Coffee Breaks](#coffee): Chats with Product Managers in the Community Forum
+* [Adobe Developer's Live](#dev-live): On-demand video events available on Experience League
 
 Schedules and events are as follows:
 
@@ -70,8 +70,8 @@ Spend an hour with a special guest and submit your questions in Experience Leagu
 
 |Event Name|Date & Time|Application|Type|Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-|Adobe Target - Setup and Admin UI, A4T Integration, AEM Integration, General UI |December 8 (Wed.) @ 8 am PT |Adobe Target|Forum Q&A|We'll be joined by Robert Calangiu, aka @Robert_Calangiu,  Senior Product Manager for Adobe Target, in the Adobe Target Community to chat directly with you about your Adobe Target questions pertaining to his areas of expertise. <br>[Details](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-12-8-21-8am-pt-robert-calangiu/td-p/426697)|
-|Adobe Campaign - Data Import via other Applications |December 2, 2021 @ 8 am PT |Adobe Campaign |Forum Q&A |Data Import via other applications - Best practices to import data via SFTP/APIs using technical workflows with Zariely Garcia, Senior Technical Consultant. <br>[Details](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4UuYOxSr9BdGsLPtk3ITDIdUMFYwT0REQTk5RDZPTjlEWFlSUk1XWTBHVy4u&wdLOR=cEEEC3C73-227C-457C-AA83-44CC08D697B9).|
+|Adobe Target - Setup and Admin UI, A4T Integration, AEM Integration, General UI |Wednesday, December 8 @ 8 am PT |Adobe Target|Forum Q&A|We'll be joined by Robert Calangiu, aka @Robert_Calangiu,  Senior Product Manager for Adobe Target, in the Adobe Target Community to chat directly with you about your Adobe Target questions pertaining to his areas of expertise. <br>[Details](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-12-8-21-8am-pt-robert-calangiu/td-p/426697)|
+|Adobe Campaign - Data Import via other Applications |Thursday, December 2, 2021 @ 8 am PT |Adobe Campaign |Forum Q&A |Data Import via other applications - Best practices to import data via SFTP/APIs using technical workflows with Zariely Garcia, Senior Technical Consultant. <br>[Details](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4UuYOxSr9BdGsLPtk3ITDIdUMFYwT0REQTk5RDZPTjlEWFlSUk1XWTBHVy4u&wdLOR=cEEEC3C73-227C-457C-AA83-44CC08D697B9).|
 
 {style="table-layout:auto"} 
 
@@ -80,6 +80,8 @@ Spend an hour with a special guest and submit your questions in Experience Leagu
 |Event Name|Date & Time|Topic|Type|Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
 |October 4 - 5, 2021|On demand |[Adobe Developers Live](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en)|Video |Missed the event or looking for a replay of a specific session? Find them on Experience League. Developers Live showcases the latest tech advances and developer tools powering design, content creation workflows, document services, and customer experience management across industries. View the keynote address, learn about Analytics APIs, client data layer, Adobe I/O open-source projects, and much more.| 
+
+{style="table-layout:auto"} 
 
 For more videos, visit the [Adobe Experience League Channel](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw) on YouTube.
 
