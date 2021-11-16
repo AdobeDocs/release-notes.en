@@ -55,10 +55,11 @@ Schedules and events are as follows:
 
 [Experience League Live](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) is a live streaming show produced by the Experience League team. It’s a chance to connect with Adobe product experts and learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.
 
+Upcoming events:
+
 |Event Date|Time |Event Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
 |November 18, 2021 |12 p.m. (EST) |[Go live faster than ever, with quick site creation in Adobe Experience Manager](https://www.youtube.com/watch?v=7-Lcw5PejhI)|Live Video Event|Deploy a feature-rich, personalized web experiences in days, without back-end development. Learn how to use a low-code approach to create a site in Adobe Experience Manager by using a pre-defined [!UICONTROL Site Template]. Join us for a live presentation and demo with Adobe Product Managers Shankari Panchapakesan, Gabriel Walt, and Danny Gordon. You may even see some live coding!|
-|October 21, 2021 |12 p.m. (EST) |[Who clicked that? Advanced reporting on link clicks with Adobe Analytics](https://www.youtube.com/channel/UCN-7ZEctit8Qu01BWeHQ0Fw)|On demand|Reporting on user interaction with your web or mobile property is a critical piece of understanding your customer’s journey. With Adobe Analytics you can understand the who, what, why, and where of every click in your application. Learn from Adobe Analytics experts their top tips for using Activity Map classifications and custom attribution to better understand user engagement.|
 
 {style="table-layout:auto"} 
 
