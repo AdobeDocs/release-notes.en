@@ -5,7 +5,6 @@ doc-type: release notes
 last-update: November 2021
 author: mfrei
 mini-toc-levels: 1
-exl-id: 
 ---
 # Adobe Experience Cloud Release Notes - November 2021
 
