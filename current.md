@@ -233,6 +233,7 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
 
 ### Release Overview Videos
 
+* [December 2021 Release Overview](https://video.tv.adobe.com/v/339278) video of new features.
 * [October 2021 Release Overview](https://video.tv.adobe.com/v/338253) video of new features.
 * [September 2021 Release Overview](https://video.tv.adobe.com/v/337381) video of new features.
 
