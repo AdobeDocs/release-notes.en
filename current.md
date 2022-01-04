@@ -19,13 +19,13 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 
 Release month: **November 2021**
 
-Latest update: **November 22, 2021**
+Latest update: **January 4, 2022**
 
 * [[!DNL Experience League] Events](#events) (Updated November 15, 2021)
 * [[!DNL Experience Cloud Central Interface Components] & Administration](#ecloud)
 * [Adobe [!UICONTROL System Status]](#status)
 * [[!DNL Adobe Experience Platform]](#platform)
-* [[!DNL Adobe Analytics]](#analytics) (Updated November 22, 2021)
+* [[!DNL Adobe Analytics]](#analytics) (**Updated January 4, 2022**)
 * [Customer Journey Analytics](#cust-journey)
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Manager]](#aem)
@@ -139,7 +139,7 @@ Release date: **October 28, 2021**
 * [New features in Adobe Analytics](#aa-features)
 * [New features in Customer Journey Analytics](#cust-journey) 
 * [Fixes in Adobe Analytics](#aa-fixes)
-* [Important notices for Analytics administrators](#aa-notices) (Updated November 22, 2021)
+* [Important notices for Analytics administrators](#aa-notices) (Updated January 4, 2022)
 * [Analytics courses and tutorials](#tutorials-analytics)
 * [AppMeasurement](#appm)
 
@@ -191,6 +191,7 @@ AN-270649
 
 | Notice | Date Added or Updated  | Description |
 | ----------- | ---------- | ---------- |
+| EOL for Reports & Analytics | January 4, 2022 | Effective December 31, 2023, Adobe intends to discontinue Reports & Analytics and its accompanying reports and features. The reports, visualizations and underlying technology that power Reports & Analytics no longer meet Adobe's technology standards. Most Reports & Analytics features are available within [Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=en). Since the release of Analysis Workspace in 2015, Reports & Analytics functionality and capabilities have been moved to Analysis Workspace and a threshold of workflow parity has been reached. [This notice](https://spark.adobe.com/page/6WnF8JK6IRDhf) explains the end-of-life process. |
 | "Global + China" RDC Type | November 22, 2021 | "Global + China" is a new Regional Data Collection (RDC) type that simplifies routing of traffic for global customers using the [!UICONTROL China Performance Optimization Add-On Package]. In the past, you had to determine whether data should be routed to the China collection endpoint or one of the Global collection endpoints. Now you can choose this RDC **type** to let Adobe determine the optimal collection endpoint based on the geolocation of the user. |
 | EOL for three Analytics API services | September 16, 2021| On **October 20, 2021**, the following Analytics Legacy API services will reach their end-of-life date and be shut down. Any current integrations built using these services stop working on that day.<ul><li>1.3 Analytics APIs</li><li>1.4 SOAP Analytics APIs</li><li>Legacy OAuth Authentication (OAuth and JWT)</li></ul>Adobe has provided a [Legacy API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) to help answer your questions and provide guidance on how to proceed. API integrations that employ these services can migrate to the [1.4 Analytics REST APIs](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) or the [2.0 Analytics APIs](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth accounts can migrate to an [Adobe I/O](https://developer.adobe.com/console) Analytics integration account, which can be used to access both the 1.4 Analytics APIs and 2.0 Analytics APIs. |
 | EOL for Full Processing in Data Sources | October 18, 2021 | On **January 31, 2022**, Adobe will end of life Full Processing, which enables users to ingest offline hit data into Analytics. This capability is available via [Bulk Data Insertion API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md). [Learn more](https://experienceleague.adobe.com/docs/analytics/import/data-sources/data-types-and-categories/datasrc-fullproc-eol.html?lang=en) |
