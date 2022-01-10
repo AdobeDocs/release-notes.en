@@ -2,12 +2,12 @@
 title: Latest Release Notes
 description: Learn about the latest release notes, new features, and new documentation for [!DNL Experience Cloud] products and services. Find new help and tutorials about [!DNL Experience Cloud], [!DNL Creative Cloud for enterprise], and [!DNL Document Cloud].
 doc-type: release notes
-last-update: November 2021
+last-update: January 2022
 author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 ---
-# Adobe Experience Cloud Release Notes - November 2021
+# Adobe Experience Cloud Release Notes - January 2022
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
@@ -17,15 +17,15 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Release month: **November 2021**
+Release month: **January 2022**
 
-Latest update: **November 22, 2021**
+Latest update: **January 10, 2022**
 
 * [[!DNL Experience League] Events](#events) (Updated November 15, 2021)
 * [[!DNL Experience Cloud Central Interface Components] & Administration](#ecloud)
 * [Adobe [!UICONTROL System Status]](#status)
 * [[!DNL Adobe Experience Platform]](#platform)
-* [[!DNL Adobe Analytics]](#analytics) (Updated November 22, 2021)
+* [[!DNL Adobe Analytics]](#analytics)
 * [Customer Journey Analytics](#cust-journey)
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Manager]](#aem)
@@ -36,7 +36,7 @@ Latest update: **November 22, 2021**
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [[!DNL Adobe Advertising Cloud]](#adcloud) (**October 27, 2021**)
+* [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)
 
@@ -113,7 +113,7 @@ For more videos, visit the [Adobe Experience League Channel](https://www.youtube
 
 Includes release update information and new documentation for Experience Platform and [!UICONTROL Mobile SDK].
 
-**September 29, 2021**
+**November 17, 2021**
 
 See [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) for all the details.
 
@@ -309,7 +309,7 @@ See the following links for Adobe Commerce release notes:
 
 ## ![Icon](/assets/target.png) [!DNL Target] {#target}
 
-Last Updated: **October 20, 2021**
+Last Updated: **January 6, 2022**
 
 See [[!DNL Target] release notes](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en) for the latest release information.
 
