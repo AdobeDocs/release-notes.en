@@ -17,7 +17,7 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 >
 >Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
 
-Release month: **November 2021**
+Release month: **November/December 2021**
 
 Latest update: **January 4, 2022**
 
@@ -113,7 +113,7 @@ For more videos, visit the [Adobe Experience League Channel](https://www.youtube
 
 Includes release update information and new documentation for Experience Platform and [!UICONTROL Mobile SDK].
 
-**September 29, 2021**
+**November 17, 2021**
 
 See [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) for all the details.
 
@@ -311,7 +311,7 @@ See the following links for Adobe Commerce release notes:
 
 ## ![Icon](/assets/target.png) [!DNL Target] {#target}
 
-Last Updated: **October 20, 2021**
+Last Updated: **January 6, 2022**
 
 See [[!DNL Target] release notes](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en) for the latest release information.
 
