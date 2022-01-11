@@ -147,11 +147,7 @@ Release date: **October 28, 2021**
 
 | Feature | Description | [General Availability](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) - Target Date |
 | ----------- | ---------- | ------- |
-| Minute-level date ranges in Analysis Workspace | You can apply a minute-level date range under the advanced settings of your panel calendar or when building a custom date range. If you are reporting on a date range that spans many days, start time applies to the first day and end time applies to the last day in your range. | October 18, 2021 |
-| [!UICONTROL Media Playback Time Spent] | Adobe Streaming Media Playback [!UICONTROL Time Spent] provides valuable insight into viewer engagement and enables media organizations to derive deeper, more granular insights with minute-by-minute user engagement through advanced time spent analysis with day-parting capabilities. You can observe the amount of time spent viewing your media streams at a specific point in time. You can split the playback duration by different granularities, including new 5 minute, 15 minute, and 30-minute granularities. [Learn more](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-workspace-panels/media-playback-time-spent.html?lang=en) | October 18, 2021 |
-| Quick [!UICONTROL Segment Builder] | Allows business users to quickly apply basic segments in a simplified, in-line project workflow. No need to go to the [!UICONTROL Segment Builder]. [Learn more](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/segments/quick-segments.html?lang=en) | October 21, 2021 |
-| Analysis Workspace Left Rail Search Improvements | Left rail search 1) prioritizes exact matches above broad matches, in addition to continuing to account for component recency and relevancy. 2) It highlights matched characters to make search results more understandable. 3) It's easier to find classifications related to a dimension. 4) Finally, it supports wildcard (`*`) searching to more easily find specific components that you need. Note: Wildcard searching does not yet work at the dimension item level. | October 21, 2021 |
-| Dark Theme | [Dark theme](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/user-preferences.html?lang=en#dark-theme) is available as a display option. | October 21, 2021 |
+| N/A | | |
 
 {style="table-layout:auto"}
 
@@ -159,40 +155,36 @@ Release date: **October 28, 2021**
 
 | Feature | Description | [General Availability](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html) - Target Date |
 | ----------- | ---------- | ----- |
-| Minute-level date ranges in Analysis Workspace | You can apply a minute-level date range under the advanced settings of your panel calendar or when building a custom date range. If you are reporting on a date range that spans many days, start time applies to the first day and end time applies to the last day in your range. | October 18, 2021 |
-| Quick [!UICONTROL Filter Builder] | Allows business users to quickly apply basic segments in a simplified, in-line project workflow. No need to go to the [!UICONTROL Filter Builder]. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-components/cja-filters/quick-filters.html) | October 21, 2021 |
-| Analysis Workspace Left Rail Search Improvements | Left rail search 1) prioritizes exact matches above broad matches, in addition to continuing to account for component recency and relevancy. 2) It highlights matched characters to make search results more understandable. 3) It's easier to find classifications related to a dimension. 4) Finally, it supports wildcard (`*`) searching to more easily find specific components that you need. Note: Wildcard searching does not yet work at the dimension item level. | October 21, 2021 |
-| Dark Theme | [Dark theme](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/user-preferences.html?lang=en#dark-theme) is available as a display option. | October 21, 2021 |
-| Lookback window for dimension allocation | A look-back window of up to 90 days is added to the dimension allocation setting under Persistence in the Data Views configuration. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html)| October 28, 2021 |
+| Merchandising persistence |  | January 19, 2022 |
+| “First Known” and “Last Known” allocation models | These two new allocation models take the first or last observed value for a dimension within a specified persistence scope (session, person, or custom time period with lookback.) Then they apply the allocation model to all events within the specified scope. | January 19, 2022 |
+| Person ID and person ID namespace as dimensions | Exposes the personID (or customerID, or whatever ID you are using for merging data sets in a connection) as a dimension in data views. This enhancement makes it easier for you to include the personID as a dimension in your data view by pulling it in from the connection. | January 19, 2022 |
 
 {style="table-layout:auto"}
 
-### Fixes in Adobe Analytics {#aa-fixes}
+### Fixes in Adobe Analytics and Customer Journey Analytics {#aa-fixes}
 
-* Fixed an issue with being unable to delete alerts in the Alert Manager. (AN-270656)
-* Fixed an issue with Data Warehouse requests failing intermittently. (AN-273713, AN-272790)
-* Fixed issues with Classifications not updating. (AN-272211)
+* Fixed an Analysis Workspace issue where the Audience ID was missing from dimension items.	(AN-262038; AN-279315)
+* Fixed an issue that prevented users from loading a saved Target project in Workspace.	(AN-277461; AN-275825; AN-266397)
+* Fixed an issue where non-enabled features are visible in the UI. (AN-262006)
+* Fixed an issue that occurred when changing the date using the date field in Workspace. This resulted in the End Time changing from 11:59 PM to 12:00 AM. (AN-277269; AN-277481)
+* Fixed an issue that caused the Segment UI to break when adding new segments into an already loaded segment. (AN-260827)
+* Fixed an issue with users being unable to access shared Workspace projects. (AN-267529)
+* Added an error message that shows when a rolling date range has a start date later than the end date.	(AN-270488)
+* Fixed various data feeds issues. (AN-275876; AN-270512; AN-277284; AN-277290; AN-274893; AN-274606; AN-269651)
+* Fixed an issue with date ranges in graphs ignoring date filters in tables. (AN-263999)
+* Fixed an issue with scheduled reports getting sent early due to Daylight Savings Time. (AN-276410; AN-276305)
+* Fixed an issue with project download to .csv file failing in Workspace. (AN-275834)
 
-### Fixes in Customer Journey Analytics {#cja-fixes}
+#### Additional fixes in Adobe Analytics and CJA
 
-* Fixed CJA performance issues (error messages while loading projects). (AN-269451, AN-270649)
-* Fixed an issue in CJA where Session Starts did not match Flow Entries for Page Names. (AN-273501)
-* Fixed an issue with the Fallout report in CJA not functioning properly. (AN-269761)
-
-#### Additional fixes in Adobe Analytics
-
-AN-263327; AN-267807; AN-269757; AN-272789; AN-272888; AN-273155; AN-273320; AN-273369; AN-273405; AN-273469; AN-273581; AN-273642; AN-273688; AN-273988; AN-274007; AN-274030; AN-274156; AN-274188; AN-274226
-
-#### Additional fixes in CJA
-
-AN-270649
+AN-253294; AN-254976; AN-255377; AN-255561; AN-258550; AN-259336; AN-263935; AN-265094; AN-269441; AN-269486; AN-269855; AN-271166; AN-271588; AN-272088; AN-272249; AN-272859; AN-272873; AN-272885; AN-273229; AN-273913; AN-274237; AN-274472; AN-274491; AN-274619; AN-274766; AN-275248; AN-275259; AN-275271; AN-275315; AN-275388; AN-275418; AN-275597; AN-275643; AN-275650; AN-275651; AN-275675; AN-275682; AN-275704; AN-275711; AN-275796; AN-275834; AN-275923; AN-275941; AN-276044; AN-276125; AN-276157; AN-276397; AN-276597; AN-276789; AN-276834; AN-276861; AN-276870; AN-276963; AN-276975; AN-277000; AN-277044; AN-277093; AN-277200; AN-277215; AN-277271; AN-277281; AN-277362; AN-277419; AN-277492; AN-277498; AN-277533; AN-277619; AN-277675; AN-277681; AN-277767; AN-277805; AN-277810; AN-277818; AN-277875; AN-277933; AN-277988; AN-278105; AN-278115; AN-278122; AN-278192; AN-278407; AN-278437; AN-278559; AN-278604; AN-278610; AN-278709; AN-278835; AN-278849; AN-278881; AN-279067; AN-279103; AN-279111; AN-279219; AN-279237; AN-279312
 
 ### Important notices for [!DNL Analytics] administrators {#aa-notices}
 
 | Notice | Date Added or Updated  | Description |
 | ----------- | ---------- | ---------- |
+| EOL for Reports & Analytics | January 4, 2022 | Effective **December 31, 2023**, Adobe intends to discontinue Reports & Analytics and its accompanying reports and features. The reports, visualizations and underlying technology that power Reports & Analytics no longer meet Adobe’s technology standards. Most Reports & Analytics features are available in [Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html). Since the release of Analysis Workspace in 2015, Reports & Analytics functionality and capabilities have been moved to Analysis Workspace and a threshold of workflow parity has been reached. [This notice](https://spark.adobe.com/page/6WnF8JK6IRDhf/) explains the end-of-life process. | 
 | "Global + China" RDC Type | November 22, 2021 | "Global + China" is a new Regional Data Collection (RDC) type that simplifies routing of traffic for global customers using the [!UICONTROL China Performance Optimization Add-On Package]. In the past, you had to determine whether data should be routed to the China collection endpoint or one of the Global collection endpoints. Now you can choose this RDC **type** to let Adobe determine the optimal collection endpoint based on the geolocation of the user. |
-| EOL for three Analytics API services | September 16, 2021| On **October 20, 2021**, the following Analytics Legacy API services will reach their end-of-life date and be shut down. Any current integrations built using these services stop working on that day.<ul><li>1.3 Analytics APIs</li><li>1.4 SOAP Analytics APIs</li><li>Legacy OAuth Authentication (OAuth and JWT)</li></ul>Adobe has provided a [Legacy API EOL FAQ](https://github.com/AdobeDocs/analytics-1.4-apis/blob/master/docs/APIEOL.md?mv=email) to help answer your questions and provide guidance on how to proceed. API integrations that employ these services can migrate to the [1.4 Analytics REST APIs](https://github.com/AdobeDocs/analytics-1.4-apis?mv=email) or the [2.0 Analytics APIs](https://github.com/AdobeDocs/analytics-2.0-apis?mv=email). Legacy OAuth accounts can migrate to an [Adobe I/O](https://developer.adobe.com/console) Analytics integration account, which can be used to access both the 1.4 Analytics APIs and 2.0 Analytics APIs. |
 | EOL for Full Processing in Data Sources | October 18, 2021 | On **January 31, 2022**, Adobe will end of life Full Processing, which enables users to ingest offline hit data into Analytics. This capability is available via [Bulk Data Insertion API](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/bdia.md). [Learn more](https://experienceleague.adobe.com/docs/analytics/import/data-sources/data-types-and-categories/datasrc-fullproc-eol.html?lang=en) |
 
 {style="table-layout:auto"}
