@@ -163,13 +163,13 @@ Release date: **October 28, 2021**
 
 ### Fixes in Adobe Analytics and Customer Journey Analytics {#aa-fixes}
 
-* Fixed an Analysis Workspace issue where the Audience ID was missing from dimension items.	(AN-262038; AN-279315)
-* Fixed an issue that prevented users from loading a saved Target project in Workspace.	(AN-277461; AN-275825; AN-266397)
+* Fixed an Analysis Workspace issue where the Audience ID was missing from dimension items. (AN-262038; AN-279315)
+* Fixed an issue that prevented users from loading a saved Target project in Workspace. (AN-277461; AN-275825; AN-266397)
 * Fixed an issue where non-enabled features are visible in the UI. (AN-262006)
 * Fixed an issue that occurred when changing the date using the date field in Workspace. This resulted in the End Time changing from 11:59 PM to 12:00 AM. (AN-277269; AN-277481)
 * Fixed an issue that caused the Segment UI to break when adding new segments into an already loaded segment. (AN-260827)
 * Fixed an issue with users being unable to access shared Workspace projects. (AN-267529)
-* Added an error message that shows when a rolling date range has a start date later than the end date.	(AN-270488)
+* Added an error message that shows when a rolling date range has a start date later than the end date. (AN-270488)
 * Fixed various data feeds issues. (AN-275876; AN-270512; AN-277284; AN-277290; AN-274893; AN-274606; AN-269651)
 * Fixed an issue with date ranges in graphs ignoring date filters in tables. (AN-263999)
 * Fixed an issue with scheduled reports getting sent early due to Daylight Savings Time. (AN-276410; AN-276305)
