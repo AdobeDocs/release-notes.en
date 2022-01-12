@@ -224,24 +224,60 @@ Fixes and improvements in Audience Manager.
 
 Adobe recommends visiting the [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) page to stay current on release information.
 
-### Release Overview Videos
+### Experience Manager product releases
 
-* [October 2021 Release Overview](https://video.tv.adobe.com/v/338253) video of new features.
-* [September 2021 Release Overview](https://video.tv.adobe.com/v/337381) video of new features.
+* **Experience Manager as a Cloud Service**
 
-### Community
+    Watch the [December 2021 Release Overview video](https://video.tv.adobe.com/v/339278) for a summary of the features added in the 2021.11.0 (November 2021) release.
 
-* [Adobe Developers Live](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live/?cid=Kautuk) | 4-5 October 2021, 7:00 PDT
+  * [October 2021 Release Overview video](https://video.tv.adobe.com/v/338253) of new features.
+  * [September 2021 Release Overview video](https://video.tv.adobe.com/v/337381) of new features.
 
-    Adobe Developers Live brings together Adobe developers and experience builders with diverse backgrounds and a singular purpose – to create incredible end-to-end experiences. This two-day conference features important developer updates, technical sessions, and community networking opportunities.
+  * **Experience Manager Assets as a Cloud Service**
 
-    Adobe product teams across Experience Cloud, Document Cloud, and Creative Cloud showcase the latest technological advances and developer tools powering design, content creation workflows, document services, and customer experience management across industries.
+    _New feature_
 
-    Adobe has 20 Experience Manager sessions planned. Spread the word!
+    * Dynamic Media Image Smart Crop and Swatch is now powered by latest Sensei services, that generates improved crops and swatches. Also, an enhancement has been launched to generate different crop content, for same aspect ratio but across different resolutions. In addition, any manual edits are preserved on reprocessing, if there is no change in the width and height in the Image Profile.
 
-  * [Complete session list](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-october-2021-complete-session-list/m-p/423041#M120517)
-  * [Free registration &ndash; Log in to RSVP](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live/?cid=Kautuk)
-  * [Adobe Developers Live Community](https://experienceleaguecommunities.adobe.com:443/t5/adobe-experience-manager/registration-for-adobe-developers-live-is-now-open-4th-amp-5th/td-p/422127)
+    _New features in Experience Manager Assets prerelease channel_
+
+    * Dynamic Media - You can now use Experience Manager Dynamic Media interface to configure General Settings and Publish Setup instead of having to go through the Dynamic Media Classic desktop application.
+    * Dynamic Media now supports ingestion, preview, playback, and publish for MXF videos. Annotation and shoppable video for MXF videos is not yet supported.
+    * After configuring a connection between remote DAM and Sites deployments, the assets on remote DAM are made available on the Sites deployment. You can now perform the [update, delete, rename, and move operations](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/use-assets-across-connected-assets-instances.html?lang=en) on remote DAM assets or folders. The updates, with some delay, are available automatically on the Sites deployment.
+
+  * **Experience Manager Forms as a Cloud Service**
+
+    _New feature_
+
+    * **Externalize Experience Manager Workflow data for secure processing** &mdash; You can store in-process Experience Manager Workflows data (Experience Manager Workflow Variables data) that contains SPD (Sensitive Personal Data) elements in a customer-managed repository for secure processing. The data elements and workflow variables are not stored in Experience Manager repository and are fetched on demand from a customer-managed repository while processing the Workflow.
+
+    _New features in Experience Manager Forms prerelease channel_
+
+    * **AEM Forms as a Cloud Service - Communications** &mdash; [Communication APIs](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications.html?lang=en) help you combine a template and XML data to generate print documents in various formats. With the service, you can generate documents in synchronous and batch modes. The APIs let you create applications to do the following:
+      * Generate documents by populating template files (PDF and XDP) with XML data.
+      * Generate output forms in various formats, including non-interactive PDF print streams.
+    * C**ustom fonts for Document of Record and PDF documents created with Communications APIs** &mdash; You can now use brand approved fonts in PDF documents generated using Communications APIs to align with your organizational requirements.
+    * **Forms Portal** &mdash; You can use [Forms Portal](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/configure-forms-portal.html?lang=en) to list your published adaptive forms on an Experience Manager Sites page. It helps a site visitor discover all available forms. Moreover, the visitor can use Forms Portal to save and access draft of an adaptive form and look at the PDF version of a submitted adaptive form.
+
+  * **Cloud Manager**
+
+    _New features_
+
+    * Users can now use new Front End Pipelines to exclusively deploy front end code in an accelerated manner. See [Cloud Manager Front End Pipelines](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/introduction-ci-cd-pipelines.html?lang=en#front-end) to learn more.
+        >[!IMPORTANT]
+        >
+        >You must be on Experience Manager version `2021.10.5933.20211012T154732Z` or higher to use new Front End Pipelines.
+    * Code Quality pipeline duration is reduced by performing the code analysis in a more efficient way without the need for building a whole Experience Manager image. This change is rolling out progressively over the coming weeks following the release.
+    * The Git Commit ID is now displayed in the pipeline run details making it easier to track the code that was built.
+    * Program Creation is now available by way of the publicly exposed API.
+    * Environment Creation is now available via publicly exposed API.
+    * The `x-request-id` response header is now visible in the API Playground on [www.adobe.io](https://www.adobe.io/). This header is useful when submitting customer care issues for troubleshooting.
+    * As a user, I see that the Pipeline card with zero pipelines provides me with appropriate guidance.
+    * A new Activity Page is now available where activities such as pipeline and code runs can be viewed along with their associated details. Over time, the activities listed in this page will expand in scope along with the details provided.
+    * A new Pipelines page with an on-hover, status pop over for easy view of the summary of details is now available. Pipeline runs can be viewed along with their associated details.
+    * The Edit Pipeline API now supports changing the environment used in the deploy phases.
+    * An optimization in the OakPal scanning process is now available for large packages.
+    * The quality issue CSV file now contains the timestamp for each quality issue.
 
 ### New Experience Manager courses and tutorials {#tutorials-aem}
 
@@ -258,33 +294,32 @@ New videos, tutorials, and courses published over the past month.
 
 {style="table-layout:auto"}
 
-### Experience Manager release information {#aem-links}
+### Experience Manager release information
 
-Release notes and other release information links for Experience Manager are here:
+All Experience Manager release notes are maintained at the following pages:
 
-* [[!DNL Experience Manager as a Cloud Service] release notes](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=en)
-* [[!DNL Experience Manager as a Cloud Service] release information](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=en)
-* [[!DNL Experience Manager Cloud Manager] release notes](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=en)
+* [Experience Manager as a Cloud Service release information](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=en)
+* [Experience Manager Cloud Manager release notes](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=en)
 * [Automated Forms Conversion Service release notes](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=en)
 * [Experience Manager 6.5 Service Pack release notes](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=en)
 * [Experience Manager 6.4 Cumulative Fix Pack release notes](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=en)
-* [[!DNL Experience Manager Assets Dynamic Media] release notes](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/release-notes/s7rn2017.html?lang=en)
-* [[!DNL Experience Manager Brand Portal] release notes](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html?lang=en)
+* [Experience Manager Assets Dynamic Media release notes](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/release-notes/s7rn2017.html?lang=en)
+* [Experience Manager Brand Portal release notes](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html?lang=en)
 * [Experience Manager desktop app release notes](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/release-notes.html?lang=en)
-* [[!DNL Experience Manager Dispatcher] release notes](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=en)
+* [Experience Manager Dispatcher release notes](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=en)
 * [Adobe Primetime release notes](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html)
 * [Livefyre release notes](https://experienceleague.adobe.com/docs/livefyre/using/release-notes/c-rn.html)
 
-### Other help resources for Experience Manager
+### Other Help resources for Experience Manager
 
-* [[!DNL Experience Manager as a Cloud Service] Guides](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/landing/home.html?lang=en)
+* [Experience Manager as a Cloud Service Guides](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en)
+* [Cloud Manager User Guide](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=en)
 * [Experience Manager 6.5 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en)
 * [Experience Manager 6.4 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-64.html)
 * [Experience Manager 6.3 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)
 * [Experience Manager 6.2 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [Older Versions of Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
-* [[!DNL Cloud Manager] User Guide](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=en)
-* [[!DNL Dynamic Media Classic] Help Home](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=en)
+* [Dynamic Media Classic Help Home](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=en)
 * [Experience Manager Documentation: Recent Updates](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=en#aem-as-a-cloud-service)
 
 ## ![Icon](/assets/magento.png) [!DNL Commerce] (Magento) {#magento}
