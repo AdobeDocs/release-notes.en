@@ -156,8 +156,8 @@ Release date: **October 28, 2021**
 
 | Feature | Description | [General Availability](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html) - Target Date |
 | ----------- | ---------- | ----- |
-|  Binding Dimension and Binding Metric persistence options | When creating or editing a data view, you can bind the persistence of a dimension to another dimension or metric. This concept is known as "Merchandising" in Reports & Analytics, and is now supported in CJA. | January 19, 2022 |
-| “First Known” and “Last Known” allocation models | These two new allocation models take the first or last observed value for a dimension within a specified persistence scope (session, person, or custom time period with lookback.) Then they apply the allocation model to all events within the specified scope. | January 19, 2022 |
+|  "Binding Dimension" and "Binding Metric" persistence options | When creating or editing a data view, you can bind the persistence of a dimension to another dimension or metric. This concept is known as "Merchandising" in Reports & Analytics, and is now supported in CJA. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html#binding-dimension)| January 19, 2022 |
+| “First Known” and “Last Known” allocation models | These two new allocation models take the first or last observed value for a dimension within a specified persistence scope (session, person, or custom time period with lookback.) Then they apply the allocation model to all events within the specified scope. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html#allocation-settings)| January 19, 2022 |
 | personID and personID namespace as dimensions | Exposes the personID (or customerID, or whatever ID you are using for merging data sets in a connection) as a dimension in data views. This enhancement makes it easier for you to include the personID as a dimension in your data view by pulling it in from the connection. | January 19, 2022 |
 
 {style="table-layout:auto"}
