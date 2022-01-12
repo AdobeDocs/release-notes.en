@@ -52,15 +52,16 @@ Experience League Events are a great place to get answers from product experts a
 
 Schedules and events are as follows:
 
-### Experience League Live{#exl-live}
+### Experience League LIVE{#exl-live}
 
-[Experience League Live](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) is a live streaming show produced by the Experience League team. It’s a chance to connect with Adobe product experts and learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.
+[Experience League LIVE](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) is a live streaming show produced by the Experience League team. It’s a chance to connect with Adobe product experts and learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.
 
 Upcoming events:
 
 |Event Date|Time |Event Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-|November 18, 2021 |12 p.m. (EST) |[Go live faster than ever, with quick site creation in Adobe Experience Manager](https://www.youtube.com/watch?v=7-Lcw5PejhI)|Live Video Event|Deploy a feature-rich, personalized web experiences in days, without back-end development. Learn how to use a low-code approach to create a site in Adobe Experience Manager by using a pre-defined [!UICONTROL Site Template]. Join us for a live presentation and demo with Adobe Product Managers Shankari Panchapakesan, Gabriel Walt, and Danny Gordon. You may even see some live coding!|
+|January 25, 2022 |12 p.m. (EST) |[Customer Journey Analytics](https://www.youtube.com/watch?v=7-Lcw5PejhI)|Live Video Event|Learn cool tips from Adobe Customer Journey Analytics experts, who will show us how to widen the scope of our analytics across datasets.|
+|January 27, 2022 |12 p.m. (EST) |[AEM Reference Demos Add-On](https://www.youtube.com/watch?v=7-Lcw5PejhI)|Live Video Event|Learn all about the new Reference Demos for Adobe Experience Manager as a Cloud Service.|
 
 {style="table-layout:auto"} 
 
@@ -155,7 +156,7 @@ Release date: **October 28, 2021**
 
 | Feature | Description | [General Availability](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html) - Target Date |
 | ----------- | ---------- | ----- |
-|  "Binding Dimension" and "Binding Metric" persistence options | When creating or editing a data view, you can bind the persistence of a dimension to another dimension or metric. This concept is known as "Merchandising" in Reports & Analytics, and is now supported in CJA. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html#binding-dimension) | January 19, 2022 |
+|  Binding Dimension and Binding Metric persistence options | When creating or editing a data view, you can bind the persistence of a dimension to another dimension or metric. This concept is known as "Merchandising" in Reports & Analytics, and is now supported in CJA. | January 19, 2022 |
 | “First Known” and “Last Known” allocation models | These two new allocation models take the first or last observed value for a dimension within a specified persistence scope (session, person, or custom time period with lookback.) Then they apply the allocation model to all events within the specified scope. | January 19, 2022 |
 | personID and personID namespace as dimensions | Exposes the personID (or customerID, or whatever ID you are using for merging data sets in a connection) as a dimension in data views. This enhancement makes it easier for you to include the personID as a dimension in your data view by pulling it in from the connection. | January 19, 2022 |
 
