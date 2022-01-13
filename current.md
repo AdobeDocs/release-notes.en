@@ -19,7 +19,7 @@ Learn about the latest release updates for [Adobe Experience Cloud products](htt
 
 **January 2022**
 
-Latest update: **January 12, 2022**
+Latest update: **January 13, 2022**
 
 * [[!DNL Experience League] Events](#events)
 * [[!DNL Experience Cloud Central Interface Components] & Administration](#ecloud)
@@ -365,11 +365,19 @@ See the following links for Adobe Commerce release notes:
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |January 2022|[Business Intelligence](https://experienceleague.corp.adobe.com/docs/commerce-learn/tutorials/getting-started/business-intelligence/1-overview.html)|Video (multiple)|Begin with the overview and learn all about Business Intelligence, a complete solution that has been optimized for all Adobe Commerce and Magento Open Source merchants.|
+|January 2022|[Users, roles, and permissions](https://experienceleague.corp.adobe.com/docs/commerce-learn/tutorials/admin/users-roles-permissions.html)|Video |Learn how to create a separate user account for each user and assign restricted access based on their business needs.|
 |January 2022|[Two-factor authentication](https://experienceleague.corp.adobe.com/docs/commerce-learn/tutorials/admin/two-factor-authentication.html)|Video |Learn how two-factor authentication (2FA) prevents unauthorized access to your data. Adobe Commerce and Magento Open Source support two-factor authentication methods from multiple providers.|
+|January 2022|[Add websites, stores, and store views](https://experienceleague.corp.adobe.com/docs/commerce-learn/tutorials/admin/add-websites-stores-views.html)|Video |Learn how every Adobe Commerce and Magento Open Source installation supports a hierarchy of websites, stores, and store views. Build and expand this hierarchy according to the needs of your business.|
 |January 2022|[Change a store URL](https://experienceleague.corp.adobe.com/docs/commerce-learn/tutorials/admin/change-store-url.html)|Video |Learn how to change the base URL for your store. (The content in the video reflects the 2.1.0 release.)|
-|January 2022|[Site map setup](https://experienceleague.corp.adobe.com/docs/commerce-learn/tutorials/admin/site-map-setup.html)|Video |Learn how to easily add a site map to your Commerce store. (2.1.0 release.|
-|January 2022|[Create a New Page](https://experienceleague.corp.adobe.com/docs/commerce-learn/tutorials/frontend-development/create-new-page.html)|Video |Learn how to create a page that returns JSON with one parameter.|
+|January 2022|[Set up a store site map](https://experienceleague.corp.adobe.com/docs/commerce-learn/tutorials/admin/site-map-setup.html)|Video |Learn how to easily add a site map to your Commerce store. |
+|January 2022|[Promotional price rules](https://experienceleague.corp.adobe.com/docs/commerce-learn/tutorials/admin/promotions-price-rules.html)|Video |Learn how to set up product relationships and use price rules to trigger discounts based on various conditions.|
+|January 2022|[Create a Page](https://experienceleague.corp.adobe.com/docs/commerce-learn/tutorials/frontend-development/create-new-page.html)|Video |Learn how to create a page that returns JSON with one parameter.|
 |January 2022|[Add a JavaScript module](https://experienceleague.corp.adobe.com/docs/commerce-learn/tutorials/frontend-development/add-javascript-module.html)|Video |Learn about developing a simple JS module that provides the greeting “Hello World”.|
+|January 2022|[Page Builder overview](https://experienceleague.corp.adobe.com/docs/commerce-learn/tutorials/admin/page-builder-overview.html)|Video |Learn how Page Builder makes it easy to create content-rich pages with custom layouts that enhance your visual storytelling, and drive customer engagement and loyalty.|
+|January 2022|[Add a table to a database](https://experienceleague.corp.adobe.com/docs/commerce-learn/tutorials/backend-development/add-new-db-table.html?lang=en)|Video |Learn about the special mechanism in Commerce that enables you to create database tables, modify existing ones, and add data into them, such as setup data, which has to be added when a module is installed. |
+|January 2022|[Create a module](https://experienceleague.corp.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html)|Video |Module is a structural element of Commerce – the whole system is built upon modules. Typically, the first step in creating a customization is building a module.|
+|January 2022|[Create a product attribute](https://experienceleague.corp.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html)|Video |Learn how to add a product attribute, which is one of the most popular operations in Commerce. Attributes are a powerful way to solve many practical tasks related to a product. |
+|January 2022|[Dependency injection example](https://experienceleague.corp.adobe.com/docs/commerce-learn/tutorials/backend-development/dependency-injection.html)|Video |Learn about dependency injection, a design pattern that allows an object A to declare its dependencies to an external object B that supplies those dependencies. The dependencies declared by A are usually class interfaces and the dependencies B provides are concrete implementations for those interfaces.|
 
 {style="table-layout:auto"}
 
@@ -377,7 +385,7 @@ See the following links for Adobe Commerce release notes:
 
 Last Updated: **January 10, 2022**
 
-See [[!DNL Target] release notes](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en) for the latest release information.
+See Target release notes: `https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en` for the latest release information.
 
 ## ![Icon](/assets/campaign.png) [!DNL Adobe Campaign] {#ac}
 
