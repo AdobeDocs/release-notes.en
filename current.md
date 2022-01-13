@@ -457,6 +457,7 @@ Release notes for [!DNL Adobe Advertising Cloud].
 * [New features across [!DNL Advertising Cloud]](#adcloud-all)
 * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp)
 * [New features in [!DNL Advertising Cloud Search]](#adcloud-search)
+* [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud)
 
 ### New features across [!DNL Advertising Cloud] {#adcloud-all}
 
@@ -494,11 +495,11 @@ Last updated: **October 7, 2021**
 
 {style="table-layout:auto"}
 
-### New Adobe Advertising Cloud tutorials {#tutorials-ad-cloud}
+### New Advertising Cloud tutorials {#tutorials-ad-cloud}
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2022|[Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/intro.html?lang=en)|Video |Learn about Advertising Cloud DSP, including how it fits into Adobe Experience Cloud, what it can do for advertisers, and how an integration with Adobe Analytics and additional services can benefit your media campaigns.|
+|December 2021|[Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/intro.html?lang=en)| Videos | Five new video tutorials about Advertising Cloud DSP are available. |
 
 ## ![Icon](/assets/document-cloud-24.png) Document Cloud {#doc-cloud}
 
