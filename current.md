@@ -105,7 +105,7 @@ Not updated in the past month.
 
 (Find the latest release information for [!DNL Adobe System Status] in the [May 21, 2020](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=en) release notes.)
 
-## ![Icon](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
+## ![Icon](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
 Includes release update information and new documentation for Experience Platform and [!UICONTROL Mobile SDK].
 
@@ -227,7 +227,7 @@ Fixes and improvements in Audience Manager.
 * Resolved an issue causing incorrect user roles to be assigned to partners in some situations. (AAM-59451)
 * Resolved an issue causing the API to require case-sensitive authentication headers. (AAM-58528)
 
-## ![Icon](/assets/aem.png) Experience Manager {#aem}
+## ![Icon](/assets/aem.png) Adobe Experience Manager {#aem}
 
 Adobe recommends visiting the [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) page to stay current on release information.
 
@@ -381,7 +381,7 @@ See the following links for Adobe Commerce release notes:
 
 {style="table-layout:auto"}
 
-## ![Icon](/assets/target.png) [!DNL Target] {#target}
+## ![Icon](/assets/target.png) [!DNL Adobe Target] {#target}
 
 Last Updated: **January 10, 2022**
 
@@ -419,9 +419,9 @@ New videos, tutorials, or courses published for Adobe Campaign.
 * Adobe Campaign Classic: [Campaign Classic v7 Documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [How-to videos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html)
 * Adobe Campaign Control Panel: [Documentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en) - How-to-videos for [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html) / [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html)
 
-## ![Icon](/assets/experience_platform_appicon_24.png) Journey Optimizer {#journey-opt}
+## ![Icon](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
 
-With Adobe Journey Optimizer, you can manage scheduled omnichannel campaigns and one-to-one moments for millions of customers from a single application — and the entire journey is optimized with intelligent decisioning and insights.
+With Journey Optimizer, you can manage scheduled omnichannel campaigns and one-to-one moments for millions of customers from a single application — and the entire journey is optimized with intelligent decisioning and insights.
 
 ### Latest Journey Optimizer product releases
 
@@ -432,7 +432,7 @@ Find out more about the latest capabilities, improvements, and fixes in the [Jou
 * [Journey Optimizer documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html) - [Release rotes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
 * [Decision Management documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html) - [Release notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/introduction-to-offer-decisioning.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html)
 
-## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Journey Orchestration] {#journey-orch}
+## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Adobe Journey Orchestration] {#journey-orch}
 
 Use Experience Platform to orchestrate a customer’s journey at scale across experience channels, by intelligently anticipating every individual’s needs in real time.
 
@@ -444,7 +444,7 @@ Find out more about the latest capabilities, improvements, and fixes in the [[!D
 
 * [Journey Orchestration documentation](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html) - [Release notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html)
 
-## ![Icon](/assets/marketo.png) [!DNL Marketo Engage] {#marketo}
+## ![Icon](/assets/marketo.png) [!DNL Adobe Marketo Engage] {#marketo}
 
 [!DNL Marketo Engage] is a complete application for lead management and B2B marketers looking to transform customer experiences by engaging across every stage of complex buying journeys.
 
@@ -458,7 +458,7 @@ Adobe [!DNL Workfront] is a unified work management application for sharing idea
 
 See the [[!DNL Workfront] releases](https://one.workfront.com/s/product-releases) page for a round-up of the latest information for all products.
 
-## ![Icon](/assets/advertising-cloud.png) Advertising Cloud {#adcloud}
+## ![Icon](/assets/advertising-cloud.png) Adobe Advertising Cloud {#adcloud}
 
 Release notes for [!DNL Adobe Advertising Cloud].
 
@@ -509,7 +509,7 @@ Last updated: **October 7, 2021**
 | -----------| ---------- | ---------- | ---------- |
 |December 2021|[Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/intro.html?lang=en)| Videos | Five new video tutorials about Advertising Cloud DSP are available. |
 
-## ![Icon](/assets/document-cloud-24.png) Document Cloud {#doc-cloud}
+## ![Icon](/assets/document-cloud-24.png) Adobe Document Cloud {#doc-cloud}
 
 New videos, tutorials, or courses published for Adobe Document Cloud.
 
@@ -530,6 +530,6 @@ For Document Cloud help, see:
 * [Adobe Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
 * [Document Cloud Learn & Support](https://helpx.adobe.com/support/document-cloud.html)
 
-## ![Icon](/assets/creative-cloud-24.png) Creative Cloud for enterprise {#creative-cloud}
+## ![Icon](/assets/creative-cloud-24.png) Adobe Creative Cloud for enterprise {#creative-cloud}
 
 See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=en) for the latest tutorials.
