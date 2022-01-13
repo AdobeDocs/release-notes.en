@@ -418,18 +418,6 @@ With Adobe Journey Optimizer, you can manage scheduled omnichannel campaigns and
 
 Find out more about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
 
-### Journey Optimizer tutorials and courses {#tutorials-ajo}
-
-Latest Journey Optimizer tutorials:
-
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|October 2021|[Configure and Manage Data in [!DNL Journey Optimizer] for Data Engineers](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.2)|Course |Learn how to configure and manage data required for journey management in Journey Optimizer.|
-|October 2021|[Get started with [!DNL Journey Optimizer] for Journey Administrators and Managers](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-U-1-2021.1)|Course |Learn everything you must know to create your first journey.|
-|October 2021|[Configure [!DNL Journey Optimizer] for Journey Administrators](https://experienceleague.adobe.com/?recommended=JourneyOptimizer-A-1-2021.1)|Course |Understand the [!DNL Journey Optimizer] architecture and points of integration. Learn how to configure [!DNL Journey Optimizer].|
-
-{style="table-layout:auto"}
-
 ### More resources for [!DNL Journey Optimizer]
 
 * [Journey Optimizer documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html) - [Release rotes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
@@ -504,6 +492,12 @@ Last updated: **October 7, 2021**
 | Advertising Insights | Additional insights are available in beta mode. |
 
 {style="table-layout:auto"}
+
+### New Adobe Advertising Cloud tutorials {#tutorials-ad-cloud}
+
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|January 2022|[Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/intro.html?lang=en)|Video |Learn about Advertising Cloud DSP, including how it fits into Adobe Experience Cloud, what it can do for advertisers, and how an integration with Adobe Analytics and additional services can benefit your media campaigns.|
 
 ## ![Icon](/assets/document-cloud-24.png) Document Cloud {#doc-cloud}
 
