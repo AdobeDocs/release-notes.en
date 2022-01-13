@@ -7,21 +7,21 @@ author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 ---
-# Adobe Experience Cloud Release Notes - January 2022
+# INTERNAL REVIEW - Adobe Experience Cloud Release Notes - January 2022
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
-[!DNL Experience Cloud] applications and services are updated monthly. This page is your central location for finding the latest release updates, documentation, and tutorials for [!DNL Experience Cloud] and [!DNL Experience Platform]. You can also find new documentation for [!DNL Creative Cloud for enterprise] and [!DNL Document Cloud].
+Learn about the latest release updates, documentation, tutorials, and courses available for Adobe enterprise applications. You can find new documentation for Experience Cloud applications and services, [!DNL Creative Cloud for enterprise], and [!DNL Document Cloud]. 
 
 >[!NOTE]
 >
->Subscribe to the monthly [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive email notifications about updates to this page. This page is maintained throughout the month, so please check back regularly for updates to Adobe enterprise product and Experience League documentation.
+>Subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html) to receive a monthly email notification about updates to this page. This page is updated often, so check back frequently to stay on top of the latest product and Experience League updates. 
 
 Release month: **January 2022**
 
-Latest update: **January 10, 2022**
+Latest update: **January 12, 2022**
 
-* [[!DNL Experience League] Events](#events) (Updated November 15, 2021)
+* [[!DNL Experience League] Events](#events)
 * [[!DNL Experience Cloud Central Interface Components] & Administration](#ecloud)
 * [Adobe [!UICONTROL System Status]](#status)
 * [[!DNL Adobe Experience Platform]](#platform)
