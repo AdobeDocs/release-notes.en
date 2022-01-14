@@ -114,7 +114,9 @@ New features in Adobe Experience Platform:
 * Real-time Customer Data Platform B2B Edition
 * (Beta) Activate audience segments to batch destinations via the ad-hoc activation API
 
-See [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) for all the details.
+Next planned AEP release: **January 26, 2022**
+
+See [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) to stay current.
 
 ### New Experience Platform tutorials and courses {#tutorials-platform}
 
