@@ -7,7 +7,7 @@ author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 ---
-# INTERNAL REVIEW - Adobe Experience Cloud Release Notes - January 2022
+# Adobe Experience Cloud Release Notes - January 2022
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
@@ -19,7 +19,7 @@ Learn about the latest release updates for [Adobe Experience Cloud products](htt
 
 **January 2022**
 
-Latest update: **January 13, 2022**
+Latest update: **January 14, 2022**
 
 * [[!DNL Experience League] Events](#events)
 * [[!DNL Experience Cloud Central Interface Components] & Administration](#ecloud)
@@ -59,7 +59,7 @@ Schedules and events are as follows:
 
 Upcoming events:
 
-|Event Date|Time |Event Name|Type|Description |
+|Event Date|Time |Event Name|Format|Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
 |January 25, 2022 |9 a.m. (PST) |[Analyze your business across data sources](https://www.youtube.com/watch?v=L2EWCOHeyXI)|Live Video Event|Use Customer Journey Analytics to bring all your data into one place.|
 |February 3, 2022 |12 p.m. (EST) |[Introducing all new Reference Demos in AEM](https://www.youtube.com/watch?v=FEREXV826NQ)|Live Video Event|Learn the fastest way to provision, demo, and explore features of AEM as a Cloud Service.|
@@ -72,10 +72,10 @@ For past episodes, see [Experience League Live](https://experienceleague.adobe.c
 
 Spend an hour with a special guest and submit your questions in Experience League Communities, where you can get questions answered from product experts at Adobe!
 
-|Event Name|Date|Application|Type|Description |
+|Event Name|Date|Applications|Format|Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-|Adobe Target - Setup and Admin UI, A4T Integration, AEM Integration, General UI|December|Adobe Target|Forum Q&A|Our guest is Robert Calangiu, aka @Robert_Calangiu,  Senior Product Manager for Adobe Target, in the Adobe Target Community. <br>[Details](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-12-8-21-8am-pt-robert-calangiu/td-p/426697)|
-|Adobe Campaign - Data Import via other Applications |December|Adobe Campaign |Forum Q&A |Data Import via other applications - Best practices to import data via SFTP/APIs using technical workflows with Zariely Garcia, Senior Technical Consultant. <br>[Details](https://forms.office.com/Pages/ResponsePage.aspx?id=Wht7-jR7h0OUrtLBeN7O4UuYOxSr9BdGsLPtk3ITDIdUMFYwT0REQTk5RDZPTjlEWFlSUk1XWTBHVy4u&wdLOR=cEEEC3C73-227C-457C-AA83-44CC08D697B9).|
+|Customer Journey Analytics, the future of Analytics, and Adobe Experience Platform|January 18, 2022 @ 8am PST |Adobe Analytics, Customer Journey Analytics, Experience Platform  |Forum Q&A|Post your questions to Trevor Paulsen, Group Product Manager, Adobe Analytics, to chat directly with you in the Analytics Community.<br>[Details and registration](https://analyticscommunityqacoffeebrea.splashthat.com/?utm_source=community-thread&utm_campaign=coffee_talk_AA&utm_content=220118) |
+|Adobe Target Integration with Journey Optimizer, the Adobe Target interface, and general Target topics  |January 19, 2022 @ 9am PST |Adobe Target, Journey Optimizer |Forum Q&A |Spend an hour with Jon Tehero and submit your questions in the Adobe Target Community.<br>[Details and registration](https://adobe.ly/3r0H6LM)|
 
 {style="table-layout:auto"} 
 
