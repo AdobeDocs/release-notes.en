@@ -334,10 +334,7 @@ All Experience Manager release notes are maintained at the following pages:
 
 ## XML Documentation for Adobe Experience Manager {#xml-doc}
 
-XML Documentation for Adobe Experience Manager is an application deployed onto AEM. It is a powerful, enterprise-grade component content management solution (CCMS) which enables native DITA support in Adobe Experience Manager, empowering AEM to handle DITA-based content creation and 
-delivery.
-
-Discover what you can do with [XML Documentation for AEM](https://www.adobe.com/products/xml-documentation-for-experience-manager/features.html).
+XML Documentation for Adobe Experience Manager is an application deployed onto AEM. It is a powerful, enterprise-grade component content management solution (CCMS) which enables native DITA support in Adobe Experience Manager, empowering AEM to handle DITA-based content creation and delivery. Learn more about [XML Documentation for AEM](https://www.adobe.com/products/xml-documentation-for-experience-manager/features.html).
 
 ### New tutorials for XML Documentation for Adobe Experience Manager {#tutorials-xml-doc}
 
@@ -347,6 +344,8 @@ New videos, tutorials, or courses published for XML Documentation for Adobe Expe
 | -----------| ---------- | ---------- | ---------- |
 |January 2022|[XML Documentation Releases](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/tutorials/release-info/latest-release-info.html?lang=en)|Video |Learn about XML Documentation for Adobe Experience Manager, a powerful, enterprise-grade component content management solution (CCMS). It enables native DITA support in Adobe Experience Manager, empowering AEM to handle DITA-based content creation and delivery.|
 |January 2022|[Output Generation with XML Documentation for AEM](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/videos/output-generation/overview.html?lang=en)|Videos and articles |Learn about the Map Dashboard, reports, publishing with baselines and conditions, and more.|
+
+{style="table-layout:auto"}
 
 ## ![Icon](/assets/magento.png) [!DNL Adobe Commerce] {#magento}
 
@@ -380,7 +379,7 @@ See the following links for Adobe Commerce release notes:
 
 Last Updated: **January 10, 2022**
 
-See Target release notes: `https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en` for the latest release information.
+See [Target release notes](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en) for the latest release information.
 
 ## ![Icon](/assets/campaign.png) [!DNL Adobe Campaign] {#ac}
 
@@ -502,7 +501,7 @@ Last updated: **October 7, 2021**
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|December 2021|[Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/intro.html?lang=en)| Videos | Five new video tutorials about Advertising Cloud DSP are available. |
+|January 2022|[Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/intro.html?lang=en)| Videos | Five new video tutorials about Advertising Cloud DSP are available. |
 
 ## ![Icon](/assets/document-cloud-24.png) Adobe Document Cloud {#doc-cloud}
 
