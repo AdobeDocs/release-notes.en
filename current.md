@@ -73,7 +73,7 @@ Spend an hour with a special guest and submit your questions in Experience Leagu
 |Event Name|Date|Applications|Format|Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
 |Customer Journey Analytics and the future of Analytics|January 18, 2022 @ 8am PST |Adobe Analytics, Customer Journey Analytics, Experience Platform  |Forum Q&A|Post your questions in the Analytics Community for Trevor Paulsen, Group Product Manager, Adobe Analytics.<br>[Details and registration](https://analyticscommunityqacoffeebrea.splashthat.com/?utm_source=community-thread&utm_campaign=coffee_talk_AA&utm_content=220118) |
-|Adobe Target Integration with Journey Optimizer, the Adobe Target interface, and general Target topics  |January 19, 2022 @ 9am PST |Adobe Target, Journey Optimizer |Forum Q&A |Spend an hour with Jon Tehero and submit your questions in the Adobe Target Community.<br>[Details and registration](https://adobe.ly/3r0H6LM)|
+|Adobe Target Integration with Journey Optimizer, the Adobe Target interface, and general Target topics  |January 19, 2022 @ 9am PST |Adobe Target, Journey Optimizer |Forum Q&A |Spend an hour with Jon Tehero and submit your questions in the Adobe Target Community.<br>[Details and registration](https://communitycoffeebreakadobetarge.splashthat.com/?utm_source=email&utm_campaign=coffee_talk_AT&utm_content=210119)|
 
 {style="table-layout:auto"} 
 
@@ -152,9 +152,9 @@ Release date: **January 19, 2022**
 | [!UICONTROL First Known] and [!UICONTROL Last Known] allocation models | These two new allocation models take the first or last observed value for a dimension within a specified persistence scope (session, person, or custom time period with look-back.) Then they apply the allocation model to all events within the specified scope. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html#allocation-settings)| January 19, 2022 |
 | [!UICONTROL PersonID] and [!UICONTROL PersonID namespace] as dimensions | Exposes the `personID` (or `customerID`, or whatever ID you are using for merging data sets in a connection) as a dimension in data views. This enhancement makes it easier for you to include the `personID` as a dimension in your data view by pulling it in from the connection. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=en#optional-standard-components)| January 19, 2022 |
 
-See [General Availability](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html) for release information.
-
 {style="table-layout:auto"}
+
+See [General Availability](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html) for release information.
 
 ### Fixes in Adobe Analytics and Customer Journey Analytics {#aa-fixes}
 
