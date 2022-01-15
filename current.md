@@ -26,10 +26,10 @@ Latest update: **January 14, 2022**
 * [Adobe [!UICONTROL System Status]](#status)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Analytics]](#analytics)
-* [Customer Journey Analytics](#cust-journey)
+* [[!DNL Customer Journey Analytics]](#cust-journey)
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Manager]](#aem)
-* [XML Documentation for Adobe Experience Manager](#xml-doc)
+* [[!DNL XML Documentation for Adobe Experience Manager]](#xml-doc)
 * [[!DNL Adobe Commerce]](#magento)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
@@ -38,26 +38,24 @@ Latest update: **January 14, 2022**
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
-* [[!DNL Document Cloud]](#doc-cloud)
-* [[!DNL Creative Cloud for enterprise]](#creative-cloud)
+* [[!DNL Adobe Document Cloud]](#doc-cloud)
+* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 
-Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#home) to find product and technical documentation, Adobe-curated courses, video tutorials, quick answers, community insight, and instructor-led training.
+Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#home) for product and technical documentation, Adobe-curated courses, video tutorials, quick answers, community insight, and instructor-led training.
 
 ## ![Icon](/assets/experience-league.png) [!DNL Experience League] Events {#events}
 
 Experience League Events are a great place to get answers from product experts at Adobe. Here are the available events:
 
 * [Experience League Live](#exl-live): Live and on-demand video events on YouTube
-* [Community Q&A Coffee Breaks](#coffee): Chats with Product Managers in the Community Forum
+* [Community Q&A Coffee Breaks](#coffee): Chats with Product Managers in Experience League Communities
 * [Adobe Developer's Live](#dev-live): On-demand video events available on Experience League
 
 Schedules and events are as follows:
 
 ### Experience League LIVE{#exl-live}
 
-[Experience League LIVE](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) is a live streaming show produced by the Experience League team. It’s a chance to connect with Adobe product experts and learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.
-
-Upcoming events:
+[Experience League LIVE](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en) is a live streaming show produced by the Experience League team. It’s a chance to connect with Adobe product experts. Learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.
 
 |Event Date|Time |Event Name|Format|Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
@@ -66,15 +64,15 @@ Upcoming events:
 
 {style="table-layout:auto"} 
 
-For past episodes, see [Experience League Live](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en).
+Past episodes are available at [Experience League Live](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en).
 
 ### Community Q&A Coffee Breaks{#coffee}
 
-Spend an hour with a special guest and submit your questions in Experience League Communities, where you can get questions answered from product experts at Adobe!
+Spend an hour with a special guest and submit your questions in Experience League Communities. Get questions answers from product experts at Adobe!
 
 |Event Name|Date|Applications|Format|Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-|Customer Journey Analytics, the future of Analytics, and Adobe Experience Platform|January 18, 2022 @ 8am PST |Adobe Analytics, Customer Journey Analytics, Experience Platform  |Forum Q&A|Post your questions to Trevor Paulsen, Group Product Manager, Adobe Analytics, to chat directly with you in the Analytics Community.<br>[Details and registration](https://analyticscommunityqacoffeebrea.splashthat.com/?utm_source=community-thread&utm_campaign=coffee_talk_AA&utm_content=220118) |
+|Customer Journey Analytics and the future of Analytics|January 18, 2022 @ 8am PST |Adobe Analytics, Customer Journey Analytics, Experience Platform  |Forum Q&A|Post your questions in the Analytics Community for Trevor Paulsen, Group Product Manager, Adobe Analytics.<br>[Details and registration](https://analyticscommunityqacoffeebrea.splashthat.com/?utm_source=community-thread&utm_campaign=coffee_talk_AA&utm_content=220118) |
 |Adobe Target Integration with Journey Optimizer, the Adobe Target interface, and general Target topics  |January 19, 2022 @ 9am PST |Adobe Target, Journey Optimizer |Forum Q&A |Spend an hour with Jon Tehero and submit your questions in the Adobe Target Community.<br>[Details and registration](https://adobe.ly/3r0H6LM)|
 
 {style="table-layout:auto"} 
@@ -101,26 +99,20 @@ Not updated in the past month.
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services outage, disruption, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
-[See the latest](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=en) release notes for [!DNL Adobe System Status].
+Read the [latest release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2020/05212020.html?lang=en) for [!DNL Adobe System Status].
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
 
-Includes release update information and new documentation for Experience Platform and [!UICONTROL Mobile SDK].
+Release update information and new documentation for Experience Platform and [!UICONTROL Mobile SDK]:
 
-Release date: **November 17, 2021**
-
-New features in Adobe Experience Platform:
-
-* Real-time Customer Data Platform B2B Edition
-* (Beta) Activate audience segments to batch destinations via the ad-hoc activation API
-
-Next planned AEP release: **January 26, 2022**
+* Next planned release: **January 26, 2022**
+* Latest release: **November 17, 2021**
 
 See [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) to stay current.
 
 ### New Experience Platform tutorials and courses {#tutorials-platform}
 
-New videos, tutorials, or courses published for Experience Platform and services.
+New videos, tutorials, or courses published for Experience Platform.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
@@ -146,19 +138,21 @@ Release date: **January 19, 2022**
 
 ### New features in Adobe Analytics {#aa-features}
 
-| Feature | Description | [General Availability](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) - Target Date |
+| Feature | Description | Targeted Date |
 | ----------- | ---------- | ------- |
-| N/A | | |
+| N/A | |See [General Availability](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) |
 
 {style="table-layout:auto"}
 
 ### New features in Customer Journey Analytics {#cust-journey}
 
-| Feature | Description | [General Availability](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html) - Target Date |
+| Feature | Description | Targeted Date |
 | ----------- | ---------- | ----- |
 |[!UICONTROL Persistence] options for binding dimensions and binding metrics| When creating or editing a data view, you can bind the persistence of a dimension to another dimension or metric. This concept is known as _merchandising_ in Reports & Analytics, and is now supported in CJA. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html#binding-dimension)| January 19, 2022 |
 | [!UICONTROL First Known] and [!UICONTROL Last Known] allocation models | These two new allocation models take the first or last observed value for a dimension within a specified persistence scope (session, person, or custom time period with look-back.) Then they apply the allocation model to all events within the specified scope. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html#allocation-settings)| January 19, 2022 |
 | [!UICONTROL PersonID] and [!UICONTROL PersonID namespace] as dimensions | Exposes the `personID` (or `customerID`, or whatever ID you are using for merging data sets in a connection) as a dimension in data views. This enhancement makes it easier for you to include the `personID` as a dimension in your data view by pulling it in from the connection. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=en#optional-standard-components)| January 19, 2022 |
+
+See [General Availability](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html) for release information.
 
 {style="table-layout:auto"}
 
