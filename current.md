@@ -282,6 +282,28 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
     * An optimization in the [!DNL OakPal] scanning process is now available for large packages.
     * The quality issue CSV file now contains the timestamp for each quality issue.
 
+### Community
+
+* **Experience Manager GEMs Webinar - Experience Manager as a Cloud Service** | 2021 review and 2022 outlook
+
+    **Date**: Tuesday, January 25, 2022
+    **Time**: 8:00 A.M. PST or 5:00 P.M. CET or 9:30 P.M. IST
+    **Duration**: 60 minutes
+    **Cost**: Free!
+
+  * [Register here](https://adobe.ly/3tAh3OC)
+  * [Ask Questions](https://adobe.ly/3zJrS0f)
+
+* [Announcing Community Members of the Year 2021](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-community-members-of-the-year-2021/td-p/436782)
+
+  We want to send a big thank you to everyone who participated in [Experience Manager community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) in 2021 and helped others with their problems.
+
+  Each year, Experience Cloud Community honors the member who go above and beyond in service and provides incredible support to others with the Community Member of the Year award. Recognizing the efforts in a public manner, here we announce [@Asutosh_Jena_](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/7532759)  and [@Vijayalakshmi_S](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/11077056) as the Community members of the year 2021.
+
+* [Experience League Content for January 2022](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-content-for-month-of-january-2022/td-p/437137)
+
+  [List of all the Experience Manager content published in Experience League](https://adobe.ly/3tuGuRH)
+
 ### New Experience Manager courses and tutorials {#tutorials-aem}
 
 New videos, tutorials, and courses published over the past month.
