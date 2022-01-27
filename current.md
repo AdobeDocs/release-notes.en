@@ -129,7 +129,6 @@ See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-not
 Release date: **January 19, 2022**
 
 * [New features in Adobe Analytics](#aa-features)
-* [New features in Customer Journey Analytics](#cust-journey) 
 * [Fixes in Adobe Analytics](#aa-fixes)
 * [Important notices for Analytics administrators](#aa-notices)
 * [Analytics courses and tutorials](#tutorials-analytics)
@@ -142,18 +141,6 @@ Release date: **January 19, 2022**
 | N/A | |See [General Availability](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html?lang=en) |
 
 {style="table-layout:auto"}
-
-### New features in Customer Journey Analytics {#cust-journey}
-
-| Feature | Description | Targeted Date |
-| ----------- | ---------- | ----- |
-|[!UICONTROL Persistence] options for binding dimensions and binding metrics| When creating or editing a data view, you can bind the persistence of a dimension to another dimension or metric. This concept is known as _merchandising_ in Reports & Analytics, and is now supported in CJA. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html#binding-dimension)| January 19, 2022 |
-| [!UICONTROL First Known] and [!UICONTROL Last Known] allocation models | These two new allocation models take the first or last observed value for a dimension within a specified persistence scope (session, person, or custom time period with look-back.) Then they apply the allocation model to all events within the specified scope. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html#allocation-settings)| January 19, 2022 |
-| [!UICONTROL PersonID] and [!UICONTROL PersonID namespace] as dimensions | Exposes the `personID` (or `customerID`, or whatever ID you are using for merging data sets in a connection) as a dimension in data views. This enhancement makes it easier for you to include the `personID` as a dimension in your data view by pulling it in from the connection. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=en#optional-standard-components)| January 19, 2022|
-
-{style="table-layout:auto"}
-
-See [General Availability](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html) for release information.
 
 ### Fixes in Adobe Analytics and Customer Journey Analytics {#aa-fixes}
 
@@ -169,7 +156,7 @@ See [General Availability](https://experienceleague.adobe.com/docs/analytics/tec
 * Fixed an issue with scheduled reports getting sent early due to Daylight Savings Time. (AN-276410; AN-276305)
 * Fixed an issue with project download to `.csv` file failing in Workspace. (AN-275834)
 
-#### Additional fixes in Adobe Analytics and CJA
+#### Additional fixes in Adobe Analytics
 
 AN-253294; AN-254976; AN-255377; AN-255561; AN-258550; AN-259336; AN-263935; AN-265094; AN-269441; AN-269486; AN-269855; AN-271166; AN-271588; AN-272088; AN-272249; AN-272859; AN-272873; AN-272885; AN-273229; AN-273913; AN-274237; AN-274472; AN-274491; AN-274619; AN-274766; AN-275248; AN-275259; AN-275271; AN-275315; AN-275388; AN-275418; AN-275597; AN-275643; AN-275650; AN-275651; AN-275675; AN-275682; AN-275704; AN-275711; AN-275796; AN-275834; AN-275923; AN-275941; AN-276044; AN-276125; AN-276157; AN-276397; AN-276597; AN-276789; AN-276834; AN-276861; AN-276870; AN-276963; AN-276975; AN-277000; AN-277044; AN-277093; AN-277200; AN-277215; AN-277271; AN-277281; AN-277362; AN-277419; AN-277492; AN-277498; AN-277533; AN-277619; AN-277675; AN-277681; AN-277767; AN-277805; AN-277810; AN-277818; AN-277875; AN-277933; AN-277988; AN-278105; AN-278115; AN-278122; AN-278192; AN-278407; AN-278437; AN-278559; AN-278604; AN-278610; AN-278709; AN-278835; AN-278849; AN-278881; AN-279067; AN-279103; AN-279111; AN-279219; AN-279237; AN-279312
 
@@ -212,6 +199,28 @@ New videos, tutorials, or courses published for Adobe Analytics.
 ### Analytics help resources
 
 * [Adobe Analytics Product Documentation and Tutorials](https://experienceleague.adobe.com/docs/analytics.html)
+
+## [!DNL Customer Journey Analytics] {#cja}
+
+* [New features in Customer Journey Analytics](#cust-journey) 
+
+Release Date: **January 19, 2022**
+
+### New features in Customer Journey Analytics {#cust-journey}
+
+| Feature | Description | Targeted Date |
+| ----------- | ---------- | ----- |
+|[!UICONTROL Persistence] options for binding dimensions and binding metrics| When creating or editing a data view, you can bind the persistence of a dimension to another dimension or metric. This concept is known as _merchandising_ in Reports & Analytics, and is now supported in CJA. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html#binding-dimension)| January 19, 2022 |
+| [!UICONTROL First Known] and [!UICONTROL Last Known] allocation models | These two new allocation models take the first or last observed value for a dimension within a specified persistence scope (session, person, or custom time period with look-back.) Then they apply the allocation model to all events within the specified scope. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-settings/persistence.html#allocation-settings)| January 19, 2022 |
+| [!UICONTROL PersonID] and [!UICONTROL PersonID namespace] as dimensions | Exposes the `personID` (or `customerID`, or whatever ID you are using for merging data sets in a connection) as a dimension in data views. This enhancement makes it easier for you to include the `personID` as a dimension in your data view by pulling it in from the connection. [Learn more](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dataviews/component-reference.html?lang=en#optional-standard-components)| January 19, 2022|
+
+{style="table-layout:auto"}
+
+See [General Availability](https://experienceleague.adobe.com/docs/analytics/technotes/releases.html) for release information.
+
+### Analytics help resources
+
+* [Customer Journey Analytics Product Documentation](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-landing.html?lang=en)
 
 ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
 
