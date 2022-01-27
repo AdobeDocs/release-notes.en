@@ -19,12 +19,12 @@ Learn about the latest release updates for [Adobe Experience Cloud products](htt
 
 **January 2022**
 
-Latest update: **January 14, 2022**
+Latest update: **January 26, 2022**
 
 * [[!DNL Experience League] Events](#events)
 * [[!DNL Experience Cloud Central Interface Components] & Administration](#ecloud)
 * [Adobe [!UICONTROL System Status]](#status)
-* [[!DNL Adobe Experience Platform]](#platform)
+* [[!DNL Adobe Experience Platform]](#platform) (Updated: **January 26, 2022**)
 * [[!DNL Adobe Analytics]](#analytics)
 * [[!DNL Customer Journey Analytics]](#cust-journey)
 * [[!DNL Adobe Audience Manager]](#aam)
@@ -105,10 +105,9 @@ Read the [latest release notes](https://experienceleague.adobe.com/docs/release-
 
 Release update information and new documentation for Experience Platform and [!UICONTROL Mobile SDK]:
 
-* Next planned release: **January 26, 2022**
-* Latest release: **November 17, 2021**
+* Release: **January 26, 2022**
 
-See [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) to stay current.
+See [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) to read the latest.
 
 ### New Experience Platform tutorials and courses {#tutorials-platform}
 
