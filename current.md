@@ -407,9 +407,10 @@ See the following links for Adobe Commerce release notes:
 
 ## ![Icon](/assets/target.png) [!DNL Adobe Target] {#target}
 
-Last Updated: **January 10, 2022**
+Last Updated: **February 1, 2022**
 
-See [Target release notes](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=en) for the latest release information.
+* For Adobe Target pre-release information, see [Adobe Target prerelease](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en)
+* For current information, see [Target release notes](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=en) for the latest release information.
 
 ## ![Icon](/assets/campaign.png) [!DNL Adobe Campaign] {#ac}
 
