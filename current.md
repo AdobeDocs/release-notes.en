@@ -19,7 +19,7 @@ Learn about the latest release updates for [Adobe Experience Cloud products](htt
 
 **January 2022**
 
-Latest update: **January 26, 2022**
+Latest update: **February 3, 2022**
 
 * [[!DNL Experience League] Events](#events)
 * [[!DNL Experience Cloud Central Interface Components] & Administration](#ecloud)
@@ -31,7 +31,7 @@ Latest update: **January 26, 2022**
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL XML Documentation for Adobe Experience Manager]](#xml-doc)
 * [[!DNL Adobe Commerce]](#magento)
-* [[!DNL Adobe Target]](#target)
+* [[!DNL Adobe Target]](#target) (Updated: **February 3, 2022**)
 * [[!DNL Adobe Campaign]](#ac)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
