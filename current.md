@@ -519,12 +519,11 @@ Last updated: **October 27, 2021**
 
 ### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Last updated: **October 7, 2021**
+Last updated: **February 4, 2022**
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Reports], [!UICONTROL Notification Center] | (October 9 release) All email notifications for reports, which Advertising Cloud Search sends when a custom or scheduled report has completed or failed, are now handled by [!UICONTROL Notification Center]. Email notifications and web notifications are enabled by default for reports, but you can optionally change the notification settings. With this change:<ul><li>Email recipients are restricted to users who are registered, authenticated users of Advertising Cloud Search and have access to the advertiser account. This feature ensures that no confidential data is sent to unauthorized users.</li><li>The format and contents of the email uses the [!UICONTROL Notification Center] template, which includes more details of the report and includes direct download links for all report formats.</li><li>Report notifications are a new notification type, with its own notification preferences, in [!UICONTROL Notification Center].</li></ul>If you use any automation to pull reports from email notifications, you may need to update the filtering logic to ensure process continuity. |
-| Advertising Insights | Additional insights are available in beta mode. |
+| [!UICONTROL Bulksheets], [!UICONTROL Notification Center] | (January 22 release) All email notifications for bulksheets, which Advertising Cloud Search sends when a bulksheet operation completed or failed, are now handled by [!UICONTROL Notification Center].<br><br>[!UICONTROL Bulksheets] is a new notification type, with its own notification preferences, in [!UICONTROL Notification Center]. Email notifications and web notifications are enabled by default, but you can optionally change the notification settings.<br><br>The format and contents of email notifications uses the [!UICONTROL Notification Center] template and includes a direct download link for the associated bulksheet file or error file. |
 
 {style="table-layout:auto"}
 
