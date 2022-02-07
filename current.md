@@ -72,8 +72,7 @@ Spend an hour with a special guest and submit your questions in Experience Leagu
 
 |Event Name|Date|Applications|Format|Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-|Customer Journey Analytics and the future of Analytics|January 18, 2022 @ 8am PST |Adobe Analytics, Customer Journey Analytics, Experience Platform  |Forum Q&A|Post your questions in the Analytics Community for Trevor Paulsen, Group Product Manager, Adobe Analytics.<br>[Details and registration](https://analyticscommunityqacoffeebrea.splashthat.com/?utm_source=community-thread&utm_campaign=coffee_talk_AA&utm_content=220118) |
-|Adobe Target Integration with Journey Optimizer, the Adobe Target interface, and general Target topics  |January 19, 2022 @ 9am PST |Adobe Target, Journey Optimizer |Forum Q&A |Spend an hour with Jon Tehero and submit your questions in the Adobe Target Community.<br>[Details and registration](https://communitycoffeebreakadobetarge.splashthat.com/?utm_source=email&utm_campaign=coffee_talk_AT&utm_content=210119)|
+|Adobe Target Community Q&A Coffee Break|February 23, 2022 @ 8am PST |Adobe Target, Experience Platform, RTCDP |Forum Q&A|Join us in the Adobe Target Community from 8 a.m. to 9 a.m. PT for expert answers from Vishal Chordia, Senior Product Manager. He will answer all your Adobe Experience Platform (AEP), Audience-based Personalization, Real-time Customer Data Platform (RTCDP) integration with Target, and General Adobe Target -related questions |
 
 {style="table-layout:auto"} 
 
