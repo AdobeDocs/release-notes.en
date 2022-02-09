@@ -183,79 +183,65 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
 
 * **Experience Manager as a Cloud Service**
 
-    Watch the [December 2021 Release Overview video](https://video.tv.adobe.com/v/339278) for a summary of the features added in the 2021.11.0 (November 2021) release.
+    Watch the [January 2022 Release Overview video](https://video.tv.adobe.com/v/340120) for a summary of the features added in the 2022.1.0 (January 2022) release.
 
+  * [December 2021 Release Overview video](https://video.tv.adobe.com/v/339278) of new features.
   * [October 2021 Release Overview video](https://video.tv.adobe.com/v/338253) of new features.
   * [September 2021 Release Overview video](https://video.tv.adobe.com/v/337381) of new features.
 
   * **Experience Manager Assets as a Cloud Service**
 
-    _New feature_
+    _New features in Experience Manager Assets_
 
-    * Dynamic Media [!UICONTROL Image Smart Crop] and [!UICONTROL Swatch] is now powered by latest Sensei services, which generates improved crops and swatches. Also, an enhancement has been launched to generate different crop content for same aspect ratio but across different resolutions. In addition, any manual edits are preserved on reprocessing if there is no change in the width and height in the Image Profile.
-
-    _New features in Experience Manager Assets prerelease channel_
-
-    * Dynamic Media - You can now use Experience Manager Dynamic Media interface to configure [!UICONTROL General Settings] and [!UICONTROL Publish Setup] instead of having to go through the Dynamic Media Classic desktop application.
+    * Dynamic Media - You can now use Experience Manager - Dynamic Media interface to configure [General Settings](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-general-settings.html) and [Publish Setup](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-publish-settings.html) instead of having to go through the Dynamic Media Classic desktop application.
     * Dynamic Media now supports ingestion, preview, playback, and publish for MXF videos. Annotation and shoppable video for MXF videos is not yet supported.
     * After configuring a connection between remote DAM and Sites deployments, the assets on remote DAM are made available on the Sites deployment. You can now perform the [update, delete, rename, and move operations](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/use-assets-across-connected-assets-instances.html?lang=en) on remote DAM assets or folders. The updates, with some delay, are available automatically on the Sites deployment.
 
+    _New features in Experience Manager Assets prerelease channel_
+
+    * Dynamic Media now provides the flexibility to let you [configure one company alias account](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-alias-account.html?lang=en) in the user interface, so that out-of-the-box Dynamic Media URLs and Viewer Embed code are updated. This action positively impacts SEO, to reflect updates made to your business context, such as rebranding.
+    * You can now use the Experience Manager Assets user interface to:
+
+      * Configure the detection of duplicate assets in a repository.
+      * Configure adding digital watermarks to images.
+
+    * Administrators can now configure email service for large downloads. It allows the users to [enable email notifications for large downloads](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/download-assets-from-aem.html?lang=en#enable-email-notifications-for-large-downloads) from the Experience Manager Assets interface. The user receives an email notification containing the download link of the archived zip folder upon completion of the download process.
+    * The [Manage Publication](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en) feature is enhanced with an improved user interface. Users can publish or unpublish content to and from the selected destination, and [Add Content](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en#add-content) to the publishing list from across the DAM repository. They can also [Include Folder Settings](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en#include-folder-settings) to publish content of the selected folders and apply filters, and [schedule publishing](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en#publish-assets-later) to a later date or time.
+
+    _Bug Fix_
+
+    * Unprocessed assets with no original rendition are sent to Asset Compute for processing while migrating assets from Experience Manager On-premise to Cloud Services.
+
   * **Experience Manager Forms as a Cloud Service**
 
-    _New feature_
+    _New in Forms_
 
-    * **Externalize Experience Manager Workflow data for secure processing**: You can store in-process Experience Manager Workflows data (Experience Manager [!UICONTROL Workflow Variables] data) that contains SPD (Sensitive Personal Data) elements in a customer-managed repository for secure processing. The data elements and workflow variables are not stored in Experience Manager repository and are fetched on demand from a customer-managed repository while processing the Workflow.
+    * **Experience Manager Forms as a Cloud Service - Communications** &mdash; [Communication APIs](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications.html?lang=en) help you combine a template and XML data to generate print documents in various formats. The service lets you generate documents in synchronous and batch modes. The APIs help you create applications that let you do the following:
 
-    _New features in Experience Manager Forms prerelease channel_
+      * Generate documents by populating template files with XML data.
+      * Generate forms in various formats, including non-interactive PDF print streams.
+      * Generate print PDFs from XFA form PDFs.
+      * Generate PDF, PostScript, PCL, and ZPL documents in bulk by merging multiple sets of data with source templates.
 
-    * **AEM Forms as a Cloud Service - Communications**: [Communication APIs](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications.html?lang=en) help you combine a template and XML data to generate print documents in various formats. With the service, you can generate documents in synchronous and batch modes. The APIs let you create applications to do the following:
-      * Generate documents by populating template files (PDF and XDP) with XML data.
-      * Generate output forms in various formats, including non-interactive PDF print streams.
-    * **Custom fonts for Document of Record and PDF documents created with Communications APIs**: You can now use brand approved fonts in PDF documents generated using Communications APIs to align with your organizational requirements.
-    * **Forms Portal**: You can use [Forms Portal](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/configure-forms-portal.html?lang=en) to list your published adaptive forms on an Experience Manager Sites page. It helps a site visitor discover all available forms. Moreover, the visitor can use [!UICONTROL Forms Portal] to save and access draft of an adaptive form and look at the PDF version of a submitted adaptive form.
+    * **Custom fonts for Document of Record and PDF documents created with Communications APIs** &mdash; You can now use brand approved fonts in PDF documents generated using Communications APIs to align with your organizational requirements.
+
+    _New in Forms prerelease channel_
+
+    * [Assembler API](https://developer.adobe.com/experience-manager-forms-cloud-service-developer-reference/references/assembler-sync/) &mdash; Assembler APIs to combine, rearrange, augment, and obtain information about PDF documents.
 
   * **Cloud Manager**
 
+    _Release date_
+
+    The release date for Cloud Manager in Experience Manager as a Cloud Service 2022.01.0 is 20 January 2022.
+    The next release is planned for 10 February 2022.
+
     _New features_
 
-    * Users can now use new Front End Pipelines to exclusively deploy front-end code in an accelerated manner. See [Cloud Manager Front End Pipelines](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/introduction-ci-cd-pipelines.html?lang=en#front-end) to learn more.
-
-        >[!IMPORTANT]
-        >
-        >You must be on Experience Manager version `2021.10.5933.20211012T154732Z` or higher to use new [!UICONTROL Front-End Pipelines].
-
-    * Code Quality pipeline duration is reduced by performing the code analysis in a more efficient way without the need for building a whole Experience Manager image. This change is rolling out progressively over the coming weeks following the release.
-    * The Git Commit ID is now displayed in the pipeline run details making it easier to track the code that was built.
-    * [!UICONTROL Program Creation] is now available by way of the publicly exposed API.
-    * [!UICONTROL Environment Creation] is now available via publicly exposed API.
-    * The `x-request-id` response header is now visible in the API Playground on [www.adobe.io](https://www.adobe.io/). This header is useful when submitting customer care issues for troubleshooting.
-    * A new [!UICONTROL Activity] page is available where activities like pipeline and code runs can be viewed along with their associated details. Over time, the activities listed in this page expand in scope along with the details provided.
-    * A new [!UICONTROL Pipelines] page with a status popover for easy view of the summary of details is now available. You can view [!UICONTROL Pipeline] runs along with their associated details.
-    * The [!UICONTROL Edit Pipeline] API now supports changing the environment used in the deploy phases.
-    * An optimization in the [!DNL OakPal] scanning process is now available for large packages.
-    * The quality issue CSV file now contains the timestamp for each quality issue.
-
-### Community
-
-* **Experience Manager GEMs Webinar - Experience Manager as a Cloud Service** | 2021 review and 2022 outlook
-
-    **Date**: Tuesday, January 25, 2022
-    **Time**: 8:00 A.M. PST or 5:00 P.M. CET or 9:30 P.M. IST
-    **Duration**: 60 minutes
-    **Cost**: Free!
-
-  * [Register here](https://adobe.ly/3tAh3OC)
-  * [Ask Questions](https://adobe.ly/3zJrS0f)
-
-* [Announcing Community Members of the Year 2021](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-community-members-of-the-year-2021/td-p/436782)
-
-  We want to send a big thank you to everyone who participated in [Experience Manager community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community) in 2021 and helped others with their problems.
-
-  Each year, Experience Cloud Community honors the member who go above and beyond in service and provides incredible support to others with the Community Member of the Year award. Recognizing the efforts in a public manner, here we announce [@Asutosh_Jena_](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/7532759)  and [@Vijayalakshmi_S](https://experienceleaguecommunities.adobe.com/t5/user/viewprofilepage/user-id/11077056) as the Community members of the year 2021.
-
-* [Experience League Content for January 2022](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/experience-league-content-for-month-of-january-2022/td-p/437137)
-
-  [List of all the Experience Manager content published in Experience League](https://adobe.ly/3tuGuRH)
+    * Cloud Manager [avoids rebuilding the code base when it detects that the same git commit is used](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/create-application-project/setting-up-project.html?lang=en#build-artifact-reuse) in multiple full-stack pipeline executions.
+    * Accessing the Experience Manager environment log now requires the **[!UICONTROL Deployment Manager]** product profile. Users without this profile see a disabled button in the user interface.
+    * The user interface does not allow front-end pipeline configuration for a program where Sites is not enabled as a solution.
+    * Upon generating a git password, the expiration date is displayed.
 
 ### New Experience Manager courses and tutorials {#tutorials-aem}
 
