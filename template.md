@@ -26,9 +26,9 @@ Latest update: **September 2021**
 
 * [Experience League Live Events](#events)
 * [Experience Cloud Central Interface Components](#ecloud)
+* [Adobe System Status](#status)
 * [Experience Platform](#platform)
 * [Experience Platform Application Services](#services)
-* [Adobe System Status](#status)
 * [Journey Optimizer](#journey-opt)
 * [[!DNL Analytics]](#analytics) and [Customer Journey Analytics](#cust-journey)
 * [[!DNL Audience Manager]](#aam)
@@ -55,6 +55,11 @@ Experience Cloud Central Interface Components includes updates accessed from the
 | Feature | Date |Description |
 | ------- | ------- | -------|
 |Feature|September 2021|Description|
+
+| Feature | Description |
+|Feature|<ul><li>text</li><li>text</li><li>text</li></ul>|
+|Feature|<ul><li>text</li><li>text</li><li>text</li></ul>|
+|Feature|<ul><li>text</li><li>text</li><li>text</li></ul>|
 
 {style="table-layout:auto"}
 
