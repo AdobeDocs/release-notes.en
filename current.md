@@ -11,7 +11,9 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
-Learn about the latest release updates for [Adobe Experience Cloud products](https://business.adobe.com/products/adobe-experience-cloud-products.html). Get the latest self-help documentation, tutorials, and courses on Experience League.
+As an Experience Maker, your path to success starts with [Adobe Experience League](https://experienceleague.adobe.com/?lang=en#home). Find a vast how-to documentation library, self-guided tutorials, how-to videos and courses for all levels and roles, an online community of peers, and expert support when you need it. 
+
+Ready to get started? [Take our 5-minute quiz and win](https://exploreadobe.com/experience-league-quiz/?sdid=DZTGZWKQ&mv=email&mv2=instreml)!
 
 >[!NOTE]
 >
