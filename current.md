@@ -100,7 +100,7 @@ Experience League Events are a great place to get answers from product experts a
 |**[!UICONTROL Recents]** (shortcuts) added to [Experience Cloud](https://experience.adobe.com/home) landing|You can access shortcuts to your most recent Journey Optimizer and Experience Platform activity under the new **[!UICONTROL Recents]** heading. This update also includes general layout and responsiveness improvements.|
 |**[!UICONTROL Sandboxes]** moved to the header bar |The Sandboxes indicator is now integrated within the header for all Experience Platform interface applications. See [Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/ui/user-guide.html) in Experience Platform for more information.|
 
-{style="table-layout:auto"} 
+{style="table-layout:auto"}                                                   
 
 **More help resources on [!DNL Experience Cloud Central UI Components] & Administration**
 
@@ -491,3 +491,5 @@ See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com
 | -----------| ---------- | ---------- | ---------- |
 |February 2022|[Customer Journeys](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journeys/overview.html?lang=en)|Video |Customer Journeys addresses the ability for brands to proactively engage and communicate with their customers through channels such as email, SMS, and mobile alerts.|
 |February 2022|[Campaign v7 Blueprint](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journeys/campaign-v7/campaign-v7.html?lang=en)|Video |Adobe Campaign v7 is a campaigning tool built for traditional marketing channels such as email and direct mail. It provides robust ETL and data management capabilities to help craft and curate the perfect campaign.|
+
+{style="table-layout:auto"}
