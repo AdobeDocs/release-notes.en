@@ -100,6 +100,8 @@ Experience League Events are a great place to get answers from product experts a
 |**[!UICONTROL Recents]** (shortcuts) added to [Experience Cloud](https://experience.adobe.com/home) landing|You can access shortcuts to your most recent Journey Optimizer and Experience Platform activity under the new **[!UICONTROL Recents]** heading. This update also includes general layout and responsiveness improvements.|
 |**[!UICONTROL Sandboxes]** moved to the header bar |The Sandboxes indicator is now integrated within the header for all Experience Platform interface applications. See [Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/ui/user-guide.html) in Experience Platform for more information.|
 
+{style="table-layout:auto"} 
+
 **More help resources on [!DNL Experience Cloud Central UI Components] & Administration**
 
 * [Release notes](https://experienceleague.adobe.com/docs/core-services/interface/release-notes/release-notes.html?lang=en) for Experience Cloud Central UI Components
