@@ -52,17 +52,6 @@ See [Adobe System Status](https://status.adobe.com/).
 
 Experience Cloud Central Interface Components includes updates accessed from the unified product header, such as self-help, search, and user account preferences. Updates to People, Places (Location), and product management are found here.
 
-| Feature | Date |Description |
-| ------- | ------- | -------|
-|Feature|September 2021|Description|
-
-| Feature | Description |
-|Feature|<ul><li>text</li><li>text</li><li>text</li></ul>|
-|Feature|<ul><li>text</li><li>text</li><li>text</li></ul>|
-|Feature|<ul><li>text</li><li>text</li><li>text</li></ul>|
-
-{style="table-layout:auto"}
-
 ### [!UICONTROL Core services] {#core-services}
 
 Features and fixes.
