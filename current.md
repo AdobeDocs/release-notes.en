@@ -19,7 +19,7 @@ Learn about the latest release updates for [Adobe Experience Cloud products](htt
 
 **February 2022**
 
-Latest update: **February 2022**
+Latest update: **February 9, 2022**
 
 * [[!DNL Experience League] Events](#events)
 * [Adobe [!UICONTROL System Status]](#status)
@@ -325,7 +325,7 @@ See the following links for Adobe Commerce release notes:
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |February 2022|[Upgrade Adobe Commerce/Magento Open Source](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)|User guide |Get all the help you need to proceed through the upgrade process.|
-|February 2022|[Adobe Commerce 2.4 Upgrade Workshop](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/upgrade-workshop.html?lang=en)|Video |Learn the steps and best practices to follow when preparing for your next upgrade to 2.4.4 or higher.|
+|February 2022|[Adobe Commerce 2.4 Upgrade Workshop](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/upgrade-workshop.html?lang=en)|Video |Learn the steps and best practices to follow when preparing for your next upgrade to 2.4.4 or higher. |
 |February 2022|[Using the Upgrade Compatibility Tool on PhpStorm](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/uct-phpstorm.html?lang=en)|Video |Learn how to use the `PhpStorm` plugin|
 
 {style="table-layout:auto"}
