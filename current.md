@@ -50,8 +50,8 @@ Experience League Events are a great place to get answers from product experts a
 
 |Event Type |Description |
 | -----------|---------- |
-|[Experience League LIVE](#exl-live) |A live streaming show produced by the Experience League team and hosted on YouTube. It’s a chance to connect with Adobe product experts. Learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.<br> Scroll down to learn more about upcoming events, and watch past events hosted on Experience League.|
-|[Community Q&A Coffee Breaks](#coffee) |Grab a coffee and have a chat with Product Managers in Experience League Communities.<br>Scroll down to read about what we'll cover. Don't forget to register before it's too late! |
+|[Experience League LIVE](#exl-live) |A live streaming show produced by the Experience League team and hosted on YouTube. It’s a chance to connect with Adobe product experts. Learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.<br> Scroll down to learn more about upcoming events, and watch past events hosted on Experience League. Upcoming and past episodes are available at [Experience League Live](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en).|
+|[Community Q&A Coffee Breaks](#coffee) |Spend an hour with a special guest and submit your questions in Experience League Communities! Get questions answers from product experts at Adobe Grab a coffee and have a chat with Product Managers in Experience League Communities.<br>Scroll down to read about what we'll cover. Don't forget to register before it's too late! |
 |[Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) |On-demand video events available on Experience League.  |
 
 {style="table-layout:auto"} 
@@ -64,11 +64,8 @@ Experience League Events are a great place to get answers from product experts a
 
 {style="table-layout:auto"} 
 
-Upcoming and past episodes are available at [Experience League Live](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en).
-
 ### Community Q&A Coffee Breaks{#coffee}
 
-Spend an hour with a special guest and submit your questions in Experience League Communities. Get questions answers from product experts at Adobe!
 
 |Event Name|Date|Applications|Format|Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
