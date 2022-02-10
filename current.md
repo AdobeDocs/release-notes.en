@@ -19,7 +19,7 @@ Learn about the latest release updates for [Adobe Experience Cloud products](htt
 
 **February 2022**
 
-Latest update: **February 9, 2022**
+Latest update: **February 10, 2022**
 
 * [[!DNL Experience League] Events](#events)
 * [Adobe [!UICONTROL System Status]](#status)
@@ -344,7 +344,7 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 Find out more about the latest capabilities, improvements, and fixes released:
 
 * (New!) [Campaign Standard 22.1 release](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html)
-* [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/release-notes.html) 
+* [Campaign v8.2.10](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/release-notes.html) 
 * [Campaign Classic v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html)
 
 ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
