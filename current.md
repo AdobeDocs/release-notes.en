@@ -7,7 +7,7 @@ author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 ---
-# Adobe Experience Cloud Release Notes - February 2022
+# INTERNAL REVIEW - Adobe Experience Cloud Release Notes - February 2022
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
@@ -483,7 +483,7 @@ New videos, tutorials, or courses published for Adobe Campaign.
 For Document Cloud help, see:
 
 * [Adobe Acrobat](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/overview.html)
-* [Adobe Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
+* [Adobe Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
 * [Document Cloud Learn & Support](https://helpx.adobe.com/support/document-cloud.html)
 
 ## ![Icon](/assets/creative-cloud-24.png) Adobe Creative Cloud for enterprise {#creative-cloud}
