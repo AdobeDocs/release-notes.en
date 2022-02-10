@@ -15,7 +15,7 @@ Learn about the latest release updates for [Adobe Experience Cloud products](htt
 
 >[!NOTE]
 >
->To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League. 
+>To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League.  
 
 **February 2022**
 
@@ -46,17 +46,17 @@ Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#h
 
 ## ![Icon](/assets/experience-league.png) [!DNL Experience League] Events {#events}
 
-Experience League Events are a great place to get answers from product experts at Adobe. Here are the available events:
+Experience League Events are a great place to get answers from product experts at Adobe. Three types of events include:
 
-* [Experience League Live](#exl-live): Live and on-demand video events on YouTube
-* [Community Q&A Coffee Breaks](#coffee): Chats with Product Managers in Experience League Communities
-* [Adobe Developer's Live](#dev-live): On-demand video events available on Experience League
+|Event Type |Description |
+| -----------|---------- |
+|[Experience League LIVE](#exl-live) |A live streaming show produced by the Experience League team and hosted on YouTube. It’s a chance to connect with Adobe product experts. Learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.<br> Scroll down to learn more about upcoming events, and watch past events hosted on Experience League.|
+|[Community Q&A Coffee Breaks](#coffee) |Grab a coffee and have a chat with Product Managers in Experience League Communities.<br>Scroll down to read about what we'll cover. Don't forget to register before it's too late! |
+|[Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) |On-demand video events available on Experience League.  |
 
-Schedules and events are as follows:
+{style="table-layout:auto"} 
 
 ### Experience League LIVE{#exl-live}
-
-_Experience League LIVE_ is a live streaming show produced by the Experience League team. It’s a chance to connect with Adobe product experts. Learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.
 
 |Event Date|Time |Event Name|Format|Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
