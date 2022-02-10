@@ -245,6 +245,18 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
     * The user interface does not allow front-end pipeline configuration for a program where Sites is not enabled as a solution.
     * Upon generating a git password, the expiration date is displayed.
 
+### Community
+
+* **Experience Manager GEMs Webinar: _Build Sites Faster with Experience Manager Headless and App Builder_**
+
+    **Date**: Wednesday, March 23, 2022
+    **Time**: 8:00 A.M. (PST) or 5:00 (CET) or 9:00 (IST)
+    **Speaker**: Duy Nguyen, Adobe Software Development Engineer
+  [Register for the webinar at https://adobe.ly/3oCkEsh](https://adobe.ly/3oCkEsh)
+  [Frequently Ask Questions about the webinar](https://adobe.ly/3LkSWdm)
+
+* Play the January 2022 Experience Manager GEMs Webinar: [_Experience Manager as a Cloud Service 2021 review and 2022 outlook_](https://adobe.ly/3rqbSOz)
+
 ### New Experience Manager courses and tutorials {#tutorials-aem}
 
 New videos, tutorials, and courses published over the past month.
