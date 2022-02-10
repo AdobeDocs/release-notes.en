@@ -380,7 +380,7 @@ Find out more about the latest capabilities, improvements, and fixes in the [Jou
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Adobe Journey Orchestration] {#journey-orch}
 
-Use Experience Platform to orchestrate a customer’s journey at scale across experience channels, by intelligently anticipating every individual’s needs in real time.
+Use Experience Platform to orchestrate a customer’s journey at scale across experience channels, by intelligently anticipating every individual’s needs in real time. 
 
 ### Latest [!DNL Journey Orchestration] product releases
 
