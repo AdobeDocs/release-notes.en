@@ -343,8 +343,9 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 Find out more about the latest capabilities, improvements, and fixes released:
 
-* [Campaign v8.2.10 Release](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/release-notes.html?lang=en)
-* [Campaign v7.2.1 Release](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html)
+* (New!) [Campaign Standard 22.1 release](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html)
+* [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/release-notes.html) 
+* [Campaign Classic v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html)
 
 ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
 
@@ -370,8 +371,6 @@ With Journey Optimizer, you can manage scheduled omnichannel campaigns and one-t
 
 ### Latest Journey Optimizer product releases
 
-Release date: **January 2022**
-
 Find out more about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
 
 ### More resources for [!DNL Journey Optimizer]
@@ -384,8 +383,6 @@ Find out more about the latest capabilities, improvements, and fixes in the [Jou
 Use Experience Platform to orchestrate a customer’s journey at scale across experience channels, by intelligently anticipating every individual’s needs in real time.
 
 ### Latest [!DNL Journey Orchestration] product releases
-
-Release date: **January 2022**
 
 Find out more about the latest capabilities, improvements, and fixes in the [[!DNL Journey Orchestration] release notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html).
 
@@ -464,7 +461,7 @@ New videos, tutorials, or courses published for Adobe Document Cloud.
 
 ### New Document Cloud courses and tutorials {#tutorials-doc-cloud}
 
-New videos, tutorials, or courses published for Adobe Campaign.
+New videos, tutorials, or courses published for Adobe Document Cloud.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
