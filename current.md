@@ -101,7 +101,7 @@ Release date: **November 16, 2021**
 |Product-level reporting of incidents|<ul><li>Each product has a banner on [!UICONTROL Status] that includes latest updates, history, and impact attributes of the product</li><li>Emails now follow the same format of product-level impact reporting instead of incident-level reporting</li></ul>|
 |Personalized view of the [!UICONTROL Status] home page|<ul><li>Introducing a new view, **[!UICONTROL My Events]** on the [!UICONTROL Overview] page. This view filters events based on your entitlements and subscriptions</li><li>Entitlements can be for organizations or individuals. Subscriptions can be for products or events</li></ul>|
 |Enhanced user experience|<ul><li>Cloud pages have a summary of availability of all products, and an ability to filter by product, region, dates, and event types</li><li>Product pages have summary of availability of all capabilities and a detailed view of events and history</li><li>Enhanced filters are available by capability, data centers/environments (where applicable), region, date, event type, and incident/maintenance status</li></ul>|
-|Enhanced subscriptions with product offerings update|<ul><li>Adobe Analytics offerings are updated to a customer friendly view (existing [!DNL Analytics] subscriptions are migrated over to new offerings)</li><li>Granular offerings for [!DNL Customer Journey Analytics]</li></ul> |
+|Enhanced subscriptions with product offerings update|<ul><li>Adobe Analytics offerings are updated to a customer friendly view (existing [!DNL Analytics] subscriptions are migrated over to new offerings)</li><li>Granular offerings for [!DNL Customer Journey Analytics]</li></ul>|
 
 {style="table-layout:auto"}
 
