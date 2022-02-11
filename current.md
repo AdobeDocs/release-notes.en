@@ -21,7 +21,7 @@ Ready to get started? [Take our 5-minute quiz and win](https://exploreadobe.com/
 
 **February 2022**
 
-Latest update: **February 10, 2022**
+Latest update: **February 11, 2022**
 
 * [[!DNL Experience League] Events](#events)
 * [Adobe [!UICONTROL System Status]](#status)
@@ -85,6 +85,10 @@ Experience League Events are a great place to get answers from product experts a
 ## ![Icon](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services outage, disruption, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
+
+Release date: **November 16, 2021**
+
+**What's new**
 
 | Feature | Description |
 | ------- | -------|
