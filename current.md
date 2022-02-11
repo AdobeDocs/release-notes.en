@@ -94,6 +94,7 @@ Release date: **November 16, 2021**
 
 * Status home page is now personalized with events filtered based on your entitlements and product subscriptions. Please check it out at **status.adobe.com** > **[!UICONTROL My Events]** tab.
 
+**New features and enhancements available today**
 
 | Feature | Description |
 | ------- | -------|
