@@ -90,6 +90,11 @@ Release date: **November 16, 2021**
 
 **What's new**
 
+* Status is now reporting incidents at a Product level. Status Cloud and Product pages have a new look and enhanced filters based on product level reporting of incidents. This makes it easier for you to understand how your product is impacted on `status.adobe.com` as well as in your email notifications. If you are not subscribed, please use this link to set up your personalized subscription preferences [https://status.adobe.com/proactive-notifications/manage](https://status.adobe.com/proactive-notifications/manage)
+
+* Status home page is now personalized with events filtered based on your entitlements and product subscriptions. Please check it out at **status.adobe.com** > **[!UICONTROL My Events]** tab.
+
+
 | Feature | Description |
 | ------- | -------|
 |Product-level reporting of incidents|<ul><li>Each product has a banner on [!UICONTROL Status] that includes latest updates, history, and impact attributes of the product</li><li>Emails now follow the same format of product-level impact reporting instead of incident-level reporting</li></ul>|
