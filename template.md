@@ -26,9 +26,9 @@ Latest update: **September 2021**
 
 * [Experience League Live Events](#events)
 * [Experience Cloud Central Interface Components](#ecloud)
+* [Adobe System Status](#status)
 * [Experience Platform](#platform)
 * [Experience Platform Application Services](#services)
-* [Adobe System Status](#status)
 * [Journey Optimizer](#journey-opt)
 * [[!DNL Analytics]](#analytics) and [Customer Journey Analytics](#cust-journey)
 * [[!DNL Audience Manager]](#aam)
@@ -51,12 +51,6 @@ See [Adobe System Status](https://status.adobe.com/).
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloud Central UI Components {#ecloud}
 
 Experience Cloud Central Interface Components includes updates accessed from the unified product header, such as self-help, search, and user account preferences. Updates to People, Places (Location), and product management are found here.
-
-| Feature | Date |Description |
-| ------- | ------- | -------|
-|Feature|September 2021|Description|
-
-{style="table-layout:auto"}
 
 ### [!UICONTROL Core services] {#core-services}
 
