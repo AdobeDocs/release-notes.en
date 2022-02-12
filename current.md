@@ -7,13 +7,13 @@ author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 ---
-# INTERNAL REVIEW - Adobe Experience Cloud Release Notes - February 2022
+# Adobe Experience Cloud Release Notes - February 2022
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
-As an Experience Maker, your path to success starts with [Adobe Experience League](https://experienceleague.adobe.com/?lang=en#home). Find a vast how-to documentation library, self-guided tutorials, how-to videos and courses for all levels and roles, an online community of peers, and expert support when you need it. 
+As an Experience Maker, your path to success starts with [Adobe Experience League](https://experienceleague.adobe.com/?lang=en#home). Find a vast how-to documentation library, self-guided tutorials, how-to videos, and courses for all levels and roles, an online community of peers, and expert support when you need it. 
 
-Ready to get started? [Take our 5-minute quiz and win](https://exploreadobe.com/experience-league-quiz/)!
+Ready to get started? [Take a 5-minute quiz and win](https://exploreadobe.com/experience-league-quiz/)!
 
 >[!NOTE]
 >
@@ -70,7 +70,7 @@ Experience League Events are a great place to get answers from product experts a
 
 |Event Name|Date|Applications|Format|Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-|Adobe Target Community Q&A Coffee Break|February 23, 2022 @ 8am PST |Adobe Target, Experience Platform, RTCDP |Forum Q&A|[Register now](https://adobe.ly/34u3lSV)! Join us in the Adobe Target Community from 8 a.m. to 9 a.m. PT for expert answers from Vishal Chordia, Senior Product Manager. He will answer all your Adobe Experience Platform (AEP), Audience-based Personalization, Real-time Customer Data Platform (RTCDP) integration with Target, and General Adobe Target -related questions |
+|Adobe Target Community Q&A Coffee Break|February 23, 2022 @ 8am PST |Adobe Target, Experience Platform, RTCDP |Forum Q&A|[Register now](http://atcommunityqacoffeebreak.splashthat.com/?utm_source=in-product&utm_medium=gainsight&utm_campaign=coffee_talk_AT&utm_content=220223)! Join us in the Adobe Target Community from 8 a.m. to 9 a.m. PT for expert answers from Vishal Chordia, Senior Product Manager. He will answer all your Adobe Experience Platform (AEP), Audience-based Personalization, Real-time Customer Data Platform (RTCDP) integration with Target, and General Adobe Target -related questions |
 
 {style="table-layout:auto"} 
 
@@ -90,7 +90,7 @@ Release date: **November 16, 2021**
 
 **What's new**
 
-* Adobe Status is now reporting incidents at a Product level. Status Cloud and Product pages have a new look and enhanced filters based on product level reporting of incidents. This makes it easier for you to understand how your product is impacted on `status.adobe.com` as well as in your email notifications. If you are not subscribed, please use this link to set up your personalized subscription preferences [https://status.adobe.com/proactive-notifications/manage](https://status.adobe.com/proactive-notifications/manage)
+* Adobe Status is now reporting incidents at a Product level. Status Cloud and Product pages have a new look and enhanced filters based on product level reporting of incidents. This makes it easier for you to understand how your product is impacted on `status.adobe.com` and in your email notifications. If you are not subscribed, please use this link to set up your personalized subscription preferences [https://status.adobe.com/proactive-notifications/manage](https://status.adobe.com/proactive-notifications/manage)
 
 * Status home page is now personalized with events filtered based on your entitlements and product subscriptions. Please check it out at **status.adobe.com** > **[!UICONTROL My Events]** tab.
 
@@ -101,7 +101,7 @@ Release date: **November 16, 2021**
 |Product-level reporting of incidents|<ul><li>Each product has a banner on [!UICONTROL Status] that includes latest updates, history, and impact attributes of the product</li><li>Emails now follow the same format of product-level impact reporting instead of incident-level reporting</li></ul>|
 |Personalized view of the [!UICONTROL Status] home page|<ul><li>Introducing a new view, **[!UICONTROL My Events]** on the [!UICONTROL Overview] page. This view filters events based on your entitlements and subscriptions</li><li>Entitlements can be for organizations or individuals. Subscriptions can be for products or events</li></ul>|
 |Enhanced user experience|<ul><li>Cloud pages have a summary of availability of all products, and an ability to filter by product, region, dates, and event types</li><li>Product pages have summary of availability of all capabilities and a detailed view of events and history</li><li>Enhanced filters are available by capability, data centers/environments (where applicable), region, date, event type, and incident/maintenance status</li></ul>|
-|Enhanced subscriptions with product offerings update|<ul><li>Adobe Analytics offerings are updated to a customer friendly view (existing [!DNL Analytics] subscriptions are migrated over to new offerings)</li><li>Granular offerings for [!DNL Customer Journey Analytics]</li></ul>|
+|Enhanced subscriptions with product offerings update|<ul><li>Adobe Analytics offerings are updated to a customer-friendly view (existing [!DNL Analytics] subscriptions are migrated over to new offerings)</li><li>Granular offerings for [!DNL Customer Journey Analytics]</li></ul>|
 
 {style="table-layout:auto"}
 
@@ -171,9 +171,9 @@ New videos, tutorials, or courses published for Adobe Analytics.
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |February 2022|[Manipulating incoming data with Processing Rules](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.html?lang=en)|Video |Get an overview of Processing Rules in Adobe Analytics and learn what they are used for. Learn a few tips, examples, and even a warning.|
-|February 2022|[Configuring List Variables](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-list-variables.html?lang=en)|Video |When you need to put more than one value into an eVar (a conversion variable) at one time, what are you going to do? List variables to the rescue! Learn how and why you configure and use list variables in Adobe Analytics.|
+|February 2022|[Configuring List Variables](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-list-variables.html?lang=en)|Video |When you must put more than one value into an eVar (a conversion variable) at one time, what are you going to do? List variables to the rescue! Learn how and why you configure and use list variables in Adobe Analytics.|
 |February 2022|[Configure traffic classifications](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/configure-traffic-classifications.html?lang=en)|Video |Learn how to configure classifications for traffic variables, often called _props_, and also for _pagename_, and so on.|
-|February 2022|[Configure conversion classifications](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/configure-conversion-classifications.html?lang=en)|Video |Learn about configuring classifications for conversion variables, also known as _eVars_. This also applies to products and list variables.|
+|February 2022|[Configure conversion classifications](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/configure-conversion-classifications.html?lang=en)|Video |Learn about configuring classifications for conversion variables, also known as _eVars_. This configuration also applies to products and list variables.|
 
 {style="table-layout:auto"}
 
@@ -279,7 +279,7 @@ New videos, tutorials, and courses published over the past month.
 |February 2022|[Embedding fonts in generated pdf](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/developing-for-cloud-service/intellij-set-up.html?lang=en#add-the-fonts-module)|Article |Learn how to install [!DNL IntelliJ] community edition. |AEM Forms CS |
 |February 2022|[Make the POST call](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/doc-gen-formscs/merge-data-with-template.html)|Video |Learn how to make an HTTP POST call to the endpoint with the necessary parameters. The template and the datafiles are provided as resource files. |Forms CS |
 |February 2022|[Migrating from old AEM archetype](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/developing-for-cloud-service/updating-project-archetype.html?lang=en)|Video |Desc.|Forms CS |
-|February 2022|[Externalize storage of workflow data in AEM Forms CS](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/create-aem-workflow/externalize-workflow.html?lang=en)|Video |Learn how to store your workflow data in Azure storage. AEM Forms CS has new capability to store your workflow data such as variables,attachments, etc., in an external storage account. |AEM Forms CS |
+|February 2022|[Externalize storage of workflow data in AEM Forms CS](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/create-aem-workflow/externalize-workflow.html?lang=en)|Video |Learn how to store your workflow data in Azure storage. AEM Forms CS has new capability to store your workflow data, such as variables, attachments, and so on, in an external storage account. |AEM Forms CS |
 |February 2022|[Integrate Adobe Analytics with Experience Cloud Setup Automation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/integrations/adobe-analytics-exc-setup-automation.html)|Video |Learn how Experience Cloud Setup Automation provides a simple and automated way to integrate and instrument Experience Manager Sites with Experience Platform Launch and Adobe Analytics.|AEM Sites |
 |February 2022|[Product Recommendations](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/authoring/product-recommendations.html)|Video |Learn how to dynamically insert these product recommendations in an Adobe Experience Manager (AEM) storefront. Adobe Commerce features a recommendation engine powered by Adobe Sensei.|AEM and Adobe Commerce |
 
@@ -400,7 +400,7 @@ Find out more about the latest capabilities, improvements, and fixes in the [Jou
 ### More resources for [!DNL Journey Optimizer]
 
 * [Journey Optimizer documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html) - [Release rotes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
-* [Decision Management documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started/starting-offer-decisioning.html) - [Release notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/introduction-to-offer-decisioning.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html)
+* [Decision Management documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started-decision/starting-offer-decisioning.html) - [Release notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/introduction-to-offer-decisioning.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html)
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Adobe Journey Orchestration] {#journey-orch}
 
@@ -443,7 +443,7 @@ Last updated: **October 27, 2021**
 
 | Feature | Description |
 | ------- | ----------- |
-| Analytics for Advertising Cloud | If your organization wants to switch from using the legacy Adobe Analytics `visitorAPI.js` library to the Adobe Experience Platform library (`alloy.js`) for data collection, you must make some changes to enable ID stitching. See [Using the [!DNL Last Event Service] JavaScript Library with Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/planning/web-sdk.html). |
+| Analytics for Advertising Cloud | If your organization wants to switch from using the legacy Adobe Analytics `visitorAPI.js` library to the Adobe Experience Platform library (`alloy.js`) for data collection, you must make changes to enable ID stitching. See [Using the [!DNL Last Event Service] JavaScript Library with Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/planning/web-sdk.html). |
 
 {style="table-layout:auto"}
 
