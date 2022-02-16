@@ -464,10 +464,11 @@ Last updated: **October 27, 2021**
 
 ### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Last updated: **February 4, 2022**
+Last updated: **February 16, 2022**
 
 | Feature | Description |
 | ------- | ----------- |
+| [!UICONTROL Campaigns], [!UICONTROL Bulksheets] | (January 22 release) ([!DNL Microsoft Advertising accounts]) You can now create and manage responsive search ads (RSAs) from the [!UICONTROL Campaigns] > [!UICONTROL Ads] view and from [!UICONTROL Campaigns] > [!UICONTROL Bulksheets]. |
 | [!UICONTROL Bulksheets], [!UICONTROL Notification Center] | (January 22 release) All email notifications for bulksheets, which Advertising Cloud Search sends when a bulksheet operation completed or failed, are now handled by [!UICONTROL Notification Center].<br><br>[!UICONTROL Bulksheets] is a new notification type, with its own notification preferences, in [!UICONTROL Notification Center]. Email notifications and web notifications are enabled by default, but you can optionally change the notification settings.<br><br>The format and contents of email notifications uses the [!UICONTROL Notification Center] template and includes a direct download link for the associated bulksheet file or error file. |
 
 {style="table-layout:auto"}
