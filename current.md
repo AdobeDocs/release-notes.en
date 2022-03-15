@@ -477,7 +477,9 @@ Last updated: **February 16, 2022**
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2022|[Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/intro.html?lang=en)| Videos | Five new video tutorials about Advertising Cloud DSP are available. |
+| February 17, 2022 | Advertising Cloud Tutorials | Videos | A new video tutorial on "[How to Create a Standard Display Placement](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/placement-create.html)" is available. |
+
+{style="table-layout:auto"}
 
 ## ![Icon](/assets/document-cloud-24.png) Adobe Document Cloud {#doc-cloud}
 
