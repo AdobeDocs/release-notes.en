@@ -432,11 +432,12 @@ See the [[!DNL Workfront] releases](https://one.workfront.com/s/product-releases
 
 Release notes for [!DNL Adobe Advertising Cloud].
 
-* [New features across [!DNL Advertising Cloud]](#adcloud-all)
-* [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp)
+<!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
+<!-- * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp) -->
 * [New features in [!DNL Advertising Cloud Search]](#adcloud-search)
 * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud)
 
+<!-- 
 ### New features across [!DNL Advertising Cloud] {#adcloud-all}
 
 Last updated: **October 27, 2021**
@@ -446,7 +447,9 @@ Last updated: **October 27, 2021**
 | Analytics for Advertising Cloud | If your organization wants to switch from using the legacy Adobe Analytics `visitorAPI.js` library to the Adobe Experience Platform library (`alloy.js`) for data collection, you must make changes to enable ID stitching. See [Using the [!DNL Last Event Service] JavaScript Library with Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/planning/web-sdk.html). |
 
 {style="table-layout:auto"}
+ -->
 
+<!-- 
 ### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
 Last updated: **October 27, 2021**
@@ -461,15 +464,18 @@ Last updated: **October 27, 2021**
 | [!DNL Freewheel] programmatically guaranteed deals | You can now find the status of ads for [!DNL Freewheel] programmatically guaranteed deals from the [!UICONTROL Ads] view. Previously, you could check the status only from the [!UICONTROL Deals] view. |
 
 {style="table-layout:auto"}
+ -->
 
 ### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Last updated: **October 7, 2021**
+Last updated: **March 14, 2022** for March 12 release
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Reports], [!UICONTROL Notification Center] | (October 9 release) All email notifications for reports, which Advertising Cloud Search sends when a custom or scheduled report has completed or failed, are now handled by [!UICONTROL Notification Center]. Email notifications and web notifications are enabled by default for reports, but you can optionally change the notification settings. With this change:<ul><li>Email recipients are restricted to users who are registered, authenticated users of Advertising Cloud Search and have access to the advertiser account. This feature ensures that no confidential data is sent to unauthorized users.</li><li>The format and contents of the email uses the [!UICONTROL Notification Center] template, which includes more details of the report and includes direct download links for all report formats.</li><li>Report notifications are a new notification type, with its own notification preferences, in [!UICONTROL Notification Center].</li></ul>If you use any automation to pull reports from email notifications, you may need to update the filtering logic to ensure process continuity. |
-| Advertising Insights | Additional insights are available in beta mode. |
+| [!UICONTROL Portfolios] | By default, hybrid optimization is available at the campaign level. You can now optionally enable hybrid optimization at the ad group level, for which the optimization capability sets [!DNL Google] CPA or ROAS targets at the ad group level for more precise control over performance.<br><br>With any portfolio, you must allow for a learning period before you launch the portfolio to ensure that it has sufficient model coverage. Similarly, if you change a hybrid portfolio from campaign-level to ad group-level optimization, then set the portfolio to the active state for about two weeks so the optimization capability has time to learn about the included ad groups and generate targets.<br><br>To support ad group-level optimization, custom simulations can now include results by ad group. Run a custom simulation with ad group-level results before you launch a hybrid portfolio with ad group-level optimization. |
+| [!UICONTROL Portfolios]<br><br>[!UICONTROL Campaigns] | (Beta feature; [!DNL Microsoft Advertising] campaigns) You can now configure search campaigns to use the [!DNL Maximize Conversions] bidding strategy, and optionally set a maximum cost per click.<br><br>If you already are participating in the hybrid optimization beta for other auto-bidding strategies, you automatically have access to the [!DNL Maximize Conversions] strategy, and you can include campaigns with the [!DNL Maximize Conversions] strategy in hybrid portfolios. To use this strategy in a hybrid portfolio, you must enable uploading of Advertising Cloud Search objectives to [!DNL Microsoft Ads]. If you aren't already participatingin the beta and want to join, contact your [!DNL Adobe] account manager. |
+| Campaign [!UICONTROL Audiences]<br><br>Campaign [!UICONTROL Bulksheets] | ([!DNL Microsoft Advertising] campaigns) You can now use any of your [!DNL Microsoft Advertising] audiences except for in-market audiences as either campaign-level targets or adgroup-level targets. Previously, you could use them only as adgroup-level targets. |
+| Campaign [!UICONTROL Audiences] | (Beta feature; [!DNL Microsoft Advertising] accounts that are eligible for [!DNL Customer Match]) You can now create and manage customer match audiences by uploading CSV files with email addresses. The data must be hashed using the SHA-256 algorithm. |
 
 {style="table-layout:auto"}
 
@@ -477,7 +483,9 @@ Last updated: **October 7, 2021**
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2022|[Advertising Cloud Tutorials](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/intro.html?lang=en)| Videos | Five new video tutorials about Advertising Cloud DSP are available. |
+| February 17, 2022 | Advertising Cloud Tutorials | Videos | A new video tutorial on "[How to Create a Standard Display Placement](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/placement-create.html)" is available. |
+
+{style="table-layout:auto"}
 
 ## ![Icon](/assets/document-cloud-24.png) Adobe Document Cloud {#doc-cloud}
 
