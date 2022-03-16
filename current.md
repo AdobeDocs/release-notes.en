@@ -181,11 +181,13 @@ New videos, tutorials, or courses published for Adobe Analytics.
 
 Fixes and improvements in Audience Manager.
 
-* Resolved an issue causing all API calls to return an `Undocumented` error when being performed through the Swagger interface. (AAM-59190)
-* Resolved an issue causing incorrect user roles to be assigned to partners in some situations. (AAM-59451)
-* Resolved an issue causing the API to require case-sensitive authentication headers. (AAM-58528)
+| Improvement    | Description  |
+| -----------| ---------- |  
+|Validator for target data sources belonging to other companies| Audience Manager released an improvement to the [batch data onboarding process](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=en). To prevent accidental file and data onboarding into target data sources owned by other partners, Audience Manager has added a mapping requirement between partner ID (PID) and the data sources (DPID) owned by other partners. <ul><li>See also the *_DPID_TARGET_DATA_OWNER* field in [Amazon S3 name and file size requirements for inbound data files](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html?lang=en#name-elements).</li><li>Adobe-internal consultants and customer care should read [Manage onboarding access for second-party data](https://experienceleague.adobe.com/docs/audience-manager-admin/admin-guide/companies/admin-manage-onboarding-access.html?lang=en) for information about the new mapping require improvement and how to request a new mapping</li><li>Note that it is *not* required to request a mapping for existing data sharing relationships. The mapping is also *not* required when onboarding data into target data sources that belong to your PID.</li></ul>|
 
-For self-help resources, see [Audience Manager documentation and tutorials](https://experienceleague.adobe.com/docs/audience-manager.html?lang=en) on Experience League
+{style="table-layout:auto"}
+
+For self-help resources, see [Audience Manager documentation and tutorials](https://experienceleague.adobe.com/docs/audience-manager.html?lang=en) on Experience League.
 
 ## ![Icon](/assets/aem.png) Adobe Experience Manager {#aem}
 
