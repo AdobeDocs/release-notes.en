@@ -7,7 +7,7 @@ author: mfrei
 mini-toc-levels: 1
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 ---
-# Adobe Experience Cloud Release Notes - March 2022
+# INTERNAL REVIEW - Adobe Experience Cloud Release Notes - March 2022
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
@@ -19,9 +19,9 @@ Ready to get started? [Take a 5-minute quiz and win](https://exploreadobe.com/ex
 >
 >To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League.
 
-**March 2022**
+Release month: **March 2022**
 
-Latest update: **March 2022**
+Latest update: **March 16, 2022**
 
 * [[!DNL Experience League] Events](#events)
 * [Adobe [!UICONTROL System Status]](#status)
@@ -48,10 +48,18 @@ Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#h
 
 ## ![Icon](/assets/experience-league.png) [!DNL Experience League] Events {#events}
 
-Experience League Events are a great place to get answers from product experts at Adobe. Three types of events include:
+Experience League Events are a great place to interact with and get answers from product experts at Adobe!
+
+
+|Event name |Type|Description |
+| -----------|---------- | ---|
+|[Experience League LIVE](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)|Streaming and on-demand video |A live streaming show produced by the Experience League team and hosted on YouTube. It’s a chance to connect with Adobe product experts. Learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications. [More...](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)|
+|[AEM GEMS](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629)|Adobe Live Webinar |Quickly bootstrap and deploy single-page apps (SPA) using Adobe [!UICONTROL App Builder] workflows and tools without traditional Experience Manager skills like Java and Sling being required. With Experience Manager Headless, marketers and developers can each have the expertise in their own domain — developers control the overall application framework, styling, and routing, while marketers determine the content and how it’s displayed.<br>**Date:** Wednesday, March 23 - [Details and registration...](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) |
+|[Adobe Analytics: Telling impactful stories with data](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&sfid=&acctid=&ecp=&sdid=JCNCWJFP&mv=display)|Adobe Live Webinar |Data Storytelling is done well when it’s a balanced blend of art and science. So why over-engineer it? Adobe Analytics Champion Amy Ard will discuss three parts aimed to guide your data storytelling without diminishing creativity: <ul><li>Identifying the Opportunity/Problem</li><li>Explaining through Data</li><li>Offering a Solution</li></ul>**Date:** Thursday, March 31 - [Learn more...](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&sfid=&acctid=&ecp=&sdid=JCNCWJFP&mv=display)|
 
 |Event Type |Description |
 | -----------|---------- |
+|[AEM Learning](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/) |Quickly bootstrap and deploy single-page apps (SPA) using Adobe [!UICONTROL App Builder] workflows and tools without traditional Experience Manager skills like [!DNL Java] and [!DNL Sling] being required. <br>With Experience Manager [!UICONTROL Headless], marketers and developers can have the expertise in their own domain — developers control the overall application framework, styling, and routing while marketers determine the content and how it’s displayed. [Details and registration...](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-build-sites-faster-with-aem-headless-and-app-builder/)|
 |[Experience League LIVE](#exl-live) |A live streaming show produced by the Experience League team and hosted on YouTube. It’s a chance to connect with Adobe product experts. Learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.<br> Scroll down to learn more about upcoming events and watch past events hosted on [Experience League Live](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en).|
 |[Community Q&A Coffee Breaks](#coffee) |Spend an hour with a special guest and submit your questions in Experience League Communities! Get questions answers from product experts at Adobe Grab a coffee and have a chat with Product Managers in Experience League Communities.<br>Scroll down to read about what we'll cover. Don't forget to register before it's too late! |
 |[Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) |On-demand video events available on Experience League.  |
