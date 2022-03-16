@@ -53,9 +53,9 @@ Experience League Events are a great place to interact with and get answers from
 
 |Event name |Type|Description |
 | -----------|---------- | ---|
-|[Experience League LIVE](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)|Streaming and on-demand video |A live streaming show produced by the Experience League team and hosted on YouTube. It’s a chance to connect with Adobe product experts. Learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications. [More...](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)|
+|[Experience League LIVE](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)|Streaming and on-demand video |A live streaming show produced by the Experience League team and hosted on YouTube. It’s a chance to connect with Adobe product experts. Learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications. [Details and schedule...](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)|
 |[AEM GEMS](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629)|Adobe Live Webinar |Quickly bootstrap and deploy single-page apps (SPA) using Adobe [!UICONTROL App Builder] workflows and tools without traditional Experience Manager skills like Java and Sling being required. With Experience Manager Headless, marketers and developers can each have the expertise in their own domain — developers control the overall application framework, styling, and routing, while marketers determine the content and how it’s displayed.<br>**Date:** Wednesday, March 23 - [Details and registration...](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) |
-|[Adobe Analytics: Telling impactful stories with data](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&sfid=&acctid=&ecp=&sdid=JCNCWJFP&mv=display)|Adobe Live Webinar |Data Storytelling is done well when it’s a balanced blend of art and science. So why over-engineer it? Adobe Analytics Champion Amy Ard will discuss three parts aimed to guide your data storytelling without diminishing creativity: <ul><li>Identifying the Opportunity/Problem</li><li>Explaining through Data</li><li>Offering a Solution</li></ul>**Date:** Thursday, March 31 - [Learn more...](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&sfid=&acctid=&ecp=&sdid=JCNCWJFP&mv=display)|
+|[Adobe Analytics: Telling impactful stories with data](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&sfid=&acctid=&ecp=&sdid=JCNCWJFP&mv=display)|Adobe Live Webinar |Data Storytelling is done well when it’s a balanced blend of art and science. So why over-engineer it? Adobe Analytics Champion Amy Ard will discuss three parts aimed to guide your data storytelling without diminishing creativity: <ul><li>Identifying the Opportunity/Problem</li><li>Explaining through Data</li><li>Offering a Solution</li></ul>**Date:** Thursday, March 31 - [Details and registration...](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b…%5d15Y000003A5SbQAK&sfid=&acctid=&ecp=&sdid=JCNCWJFP&mv=display)|
 |[Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) |On demand video |[!DNL Developers Live] showcases the latest tech advances and developer tools powering design, content creation workflows, document services, and customer experience management across industries. View the keynote address, learn about Analytics APIs, client data layer, Adobe I/O open-source projects, and much more. |
 
 {style="table-layout:auto"}
@@ -72,7 +72,8 @@ Read the [latest release notes](\c-legacy-releases\2022\02162022.md#status) for 
 | ------- |-------|
 |Access _[!UICONTROL Recents]_ across Experience Platform and Journey Optimizer using [!UICONTROL Unified Search]|You can access recently accessed objects from every page of Experience Platform and Journey Optimizer through the [!UICONTROL Unified Search] field.<br>See [Unified Search for objects and entities](https://experienceleague.adobe.com/docs/core-services/interface/services/search-experience-cloud.html?lang=en) for more information.|
 
-{style="table-layout:auto"}                                                   
+{style="table-layout:auto"}
+
 **More help resources on [!DNL Experience Cloud Central UI Components] & Administration**
 
 * [Release notes](https://experienceleague.adobe.com/docs/core-services/interface/release-notes/release-notes.html?lang=en) for Experience Cloud Central UI Components
@@ -160,6 +161,10 @@ For self-help resources, see [Audience Manager documentation and tutorials](http
 Adobe recommends visiting the [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) page to stay current on release information.
 
 ### Experience Manager product releases
+
+* [Adobe Experience Manager 6.5.12.0](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=en) - February 24, 2022
+
+  Release 6.5.12.0 includes new features, key customer-requested enhancements, and performance, stability, and security improvements, that are released since the availability of 6.5 release in April 2019. The service pack is installed on Adobe Experience Manager 6.5.
 
 * **Experience Manager as a Cloud Service**
 
@@ -297,8 +302,7 @@ New videos, tutorials, or courses published for XML Documentation for Adobe Expe
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2022|[XML Documentation Releases](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/tutorials/release-info/latest-release-info.html?lang=en)|Video |Learn about XML Documentation for Adobe Experience Manager, a powerful, enterprise-grade component content management solution (CCMS). It enables native DITA support in Adobe Experience Manager, empowering AEM to handle DITA-based content creation and delivery.|
-|January 2022|[Output Generation with XML Documentation for AEM](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/videos/output-generation/overview.html?lang=en)|Videos and articles |Learn about the Map Dashboard, reports, publishing with baselines and conditions, and more.|
+|March 2022|[Output Generation with XML Documentation](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2022.2.xmldocs)|Course |Learn how to generate output using XML Documentation for Adobe Experience Manager. Learn about various features available for output generation, including reports, baselines, conditions, troubleshooting, bulk publishing and activation.|
 
 {style="table-layout:auto"}
 
@@ -318,9 +322,7 @@ See the following links for Adobe Commerce release notes:
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2022|[Upgrade Adobe Commerce/Magento Open Source](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)|User guide |Get all the help you need to proceed through the upgrade process.|
-|February 2022|[Adobe Commerce 2.4 Upgrade Workshop](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/upgrade-workshop.html?lang=en)|Video |Learn the steps and best practices to follow when preparing for your next upgrade to 2.4.4 or higher. |
-|February 2022|[Using the Upgrade Compatibility Tool on PhpStorm](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/uct-phpstorm.html?lang=en)|Video |Learn how to use the `PhpStorm` plugin|
+|March 2022|[Payment Services Guide overview](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html)|Video |A guide intended for administrators of Adobe Commerce and Magento Open Source. It includes detailed information about installation and onboarding of Payment Services, as well as configuration and management of the services. It assumes a basic understanding of the core Commerce configuration and functionality.|
 
 {style="table-layout:auto"}
 
@@ -347,10 +349,14 @@ Find out more about the latest capabilities, improvements, and fixes released:
 
 New videos, tutorials, or courses published for Adobe Campaign.
 
-|Published|Name|Type|Description |Version|
+|Published|Name|Type|Description |Applications|
 | ------| ----- | -----| ------ | --- |
-|February 2022|[Fundamentals of data management with Adobe Campaign workflows](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/data-management/data-management-fundamentals.html?lang=en)|Video |Learn what targeting dimensions and working tables are, and how Adobe Campaign manages data across different data sources.|Campaign v8 |
-|February 2022|[Change the data source](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/data-management/change-data-source.html?lang=en)|Video |Learn how to change the data source of a workflow working table using the Change Data Source Activity to flexibly manage data across different data sources such as FDA, FFDA, and local database.|Campaign v8 |
+|March 2022|[Integrate with Experience Manager - Overview](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en)|Video |Desc.|Connect Adobe Campaign with Adobe Experience Manager to be able to manage email delivery templates, assets, and forms in Experience Manager. |AEM, Campaign |
+|March 2022|[Configure Campaign for the Experience Manager integration](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/configure-campaign-for-aem-integration.html?lang=en)|Video |Learn how to set up the integration between Experience Manager and Campaign, including important settings to look for and potential ‘gotchas’ to avoid.|AEM, Campaign |
+|March 2022|[Approve and publish an Experience Manager page to Campaign](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/create-a-campaign-delivery-with-content-from-experience-manager/approve-and-publish-aem-content-to-campaign.html?lang=en)|Video |Learn how to create a newsletter in Experience Manager and how to approve and publish it to Campaign.|AEM, Campaign |
+|March 2022|[Synchronize & send an Experience Manager email delivery in Campaign](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/create-a-campaign-delivery-with-content-from-experience-manager/synchronize-and-send-an-aem-delivery-in-campaign.html?lang=en)|Video |Learn how to test and send a newsletter, that was created in Experience Manager, in Campaign.|AEM, Campaign |
+|March 2022|[Integrate with Adobe Target](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/connect/target-integration.html)|Video |Learn how to personalize a delivery with dynamic content served from Adobe Target.|Adobe Target, Campaign |
+
 
 {style="table-layout:auto"}
 
