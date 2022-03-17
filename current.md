@@ -61,7 +61,7 @@ Experience League Events are a great place to learn, interact, and get answers f
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services outage, disruption, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
-Read the [latest release notes](c-legacy-releases\2022\02162022.md) for Adobe System Status.
+<!--Read the [latest release notes](c-legacy-releases\2022\02162022.md) for Adobe System Status.-->
 
 ## ![Icon](/assets/ec_appicon_24.png) [!DNL Experience Cloud Central UI Components] & Administration {#ecloud}
 
