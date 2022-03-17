@@ -19,8 +19,6 @@ Ready to get started? [Take a 5-minute quiz and win](https://exploreadobe.com/ex
 >
 >To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League.
 
-Release month: **March 2022**
-
 Latest update: **March 16, 2022**
 
 * [[!DNL Experience League] Events](#events)
@@ -48,15 +46,14 @@ Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#h
 
 ## ![Icon](/assets/experience-league.png) [!DNL Experience League] Events {#events}
 
-Experience League Events are a great place to interact with and get answers from product experts at Adobe!
-
+Experience League Events are a great place to learn, interact, and get answers from product experts at Adobe!
 
 |Event name |Type|Description |
 | -----------|---------- | ---|
-|[Experience League LIVE](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)|Streaming and on-demand video |A live streaming show produced by the Experience League team and hosted on YouTube. It’s a chance to connect with Adobe product experts. Learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications. [Details and schedule...](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)|
-|[AEM GEMS](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629)|Adobe Live Webinar |Quickly bootstrap and deploy single-page apps (SPA) using Adobe [!UICONTROL App Builder] workflows and tools without traditional Experience Manager skills like Java and Sling being required. With Experience Manager Headless, marketers and developers can each have the expertise in their own domain — developers control the overall application framework, styling, and routing, while marketers determine the content and how it’s displayed.<br>**Date:** Wednesday, March 23 - [Details and registration...](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) |
-|[Adobe Analytics: Telling impactful stories with data](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&sfid=&acctid=&ecp=&sdid=JCNCWJFP&mv=display)|Adobe Live Webinar |Data Storytelling is done well when it’s a balanced blend of art and science. So why over-engineer it? Adobe Analytics Champion Amy Ard will discuss three parts aimed to guide your data storytelling without diminishing creativity: <ul><li>Identifying the Opportunity/Problem</li><li>Explaining through Data</li><li>Offering a Solution</li></ul>**Date:** Thursday, March 31 - [Details and registration...](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b…%5d15Y000003A5SbQAK&sfid=&acctid=&ecp=&sdid=JCNCWJFP&mv=display)|
-|[Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) |On demand video |[!DNL Developers Live] showcases the latest tech advances and developer tools powering design, content creation workflows, document services, and customer experience management across industries. View the keynote address, learn about Analytics APIs, client data layer, Adobe I/O open-source projects, and much more. |
+|[Experience League LIVE](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)|Live and on-demand video |A live streaming show produced by the Experience League team and hosted on YouTube. It’s a chance to connect with Adobe product experts. Learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.<br> [Details and schedule](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)|
+|[AEM Gems](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629)|Adobe Live Webinar |Quickly bootstrap and deploy single-page apps (SPA) using Adobe [!UICONTROL App Builder] workflows and tools without traditional Experience Manager skills like Java and Sling being required. With Experience Manager Headless, marketers and developers can each have the expertise in their own domain — developers control the overall application framework, styling, and routing, while marketers determine the content and how it’s displayed.<br>**Date:** Wednesday, March 23 - [Details and registration](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) |
+|[Adobe Analytics: Telling impactful stories with data](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&sfid=&acctid=&ecp=&sdid=JCNCWJFP&mv=display)|Adobe Live Webinar |Data Storytelling is done well when it’s a balance of art and science. So, why over-engineer it? Adobe Analytics champion Amy Ard will discuss three parts aimed to guide your data storytelling without diminishing creativity: <ul><li>Identifying the opportunity or problem</li><li>Explaining through data</li><li>Offering a solution</li></ul>**Date:** Thursday, March 31 - [Details and registration](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b…%5d15Y000003A5SbQAK&sfid=&acctid=&ecp=&sdid=JCNCWJFP&mv=display)|
+|[Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) |Video|[!DNL Developers Live] showcases the latest tech advances and developer tools powering design, content creation workflows, document services, and customer experience management across industries. View the keynote address, learn about Analytics APIs, client data layer, Adobe I/O open-source projects, and much more. |
 
 {style="table-layout:auto"}
 
@@ -64,9 +61,11 @@ Experience League Events are a great place to interact with and get answers from
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services outage, disruption, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
-Read the [latest release notes](\c-legacy-releases\2022\02162022.md#status) for Adobe System Status for the latest release information.
+Read the [latest release notes](\c-legacy-releases\2022\02162022.md#status) for Adobe System Status.
 
 ## ![Icon](/assets/ec_appicon_24.png) [!DNL Experience Cloud Central UI Components] & Administration {#ecloud}
+
+Experience Cloud [Central UI Components](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) include features available on the home page and the persistent product header, such as user profile, preferences, and Unified Search. You can also find help on user management and features like Customer Attributes and Experience Cloud Audiences. 
 
 | Feature | Description |
 | ------- |-------|
@@ -132,15 +131,14 @@ New videos, tutorials, or courses published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2022|[Tips and tricks on how to simplify and spend less time training users](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=en)|Video and article|Learn how critical a well-trained Adobe Analytics organization is for success in your business.|
+|March 2022|[Tips and tricks on how to simplify and spend less time training users](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=en)|Video and article|Learn how critical for success a well-trained Adobe Analytics organization can be in your business.|
 |March 2022|[Creating an empowered community](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/empowered-community.html)|Video and article|Learn the value of an empowered Analytics community and how to create and support one.|
-|March 2022|[Create marketing channel processing rules](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/create-marketing-channel-processing-rules.html?lang=en)|Video |In this video, we walk through how to configure processing rules for marketing channels.|
+|March 2022|[Create marketing channel processing rules](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/create-marketing-channel-processing-rules.html?lang=en)|Video |Learn how to configure [!UICONTROL Processing Rules] for [!UICONTROL Marketing Channels].|
 |March 2022|[Set up marketing channels in your report suite](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/set-up-marketing-channels.html)|Video |In this video, learn how to configure marketing channels reporting in your Analytics report suite.|
-|March 2022|[linktext](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.html?lang=en)|Video |Desc.|
-|March 2022|[Transition to Adobe Analytics from Google Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.html?lang=en)|Video |A Comprehensive Guide for Transitioning to Adobe Analytics from Google Analytics|
-|March 2022|[Configure hierarchy variables](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/configure-hierarchy-variables.html?lang=en)|Video |Learn when and how to set up and configure hierarchy variables for your site, a feature that can be used to show a hierarchical view of the pages on your site and how much traffic is coming to each node.|
+|March 2022|[Transition to Adobe Analytics from Google Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.html?lang=en)|Video |A comprehensive guide for transitioning to [!DNL Adobe Analytics] from [!DNL Google Analytics].|
+|March 2022|[Configure hierarchy variables](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/configure-hierarchy-variables.html?lang=en)|Video |Learn how and when to set up and configure hierarchy variables for your site, a feature that can be used to show a hierarchical view of the pages on your site, and how much traffic is coming to each node.|
 |March 2022|[Curate and share in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.html?lang=en)|Video |Learn how to work with curation and sharing projects in Analysis Workspace.|
-|March 2022|[Direct link to a project in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/curate-and-share-projects/direct-link-to-a-project.html?lang=en)|Video |This video shows how you can better democratize analytics by creating shortened links which will take your colleagues to your Analysis Workspace projects.|
+|March 2022|[Direct link to a project in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/curate-and-share-projects/direct-link-to-a-project.html?lang=en)|Video |Learn how you can better democratize analytics by creating shortened links that take your colleagues directly to your Analysis Workspace projects.|
 
 {style="table-layout:auto"}
 
@@ -485,7 +483,7 @@ Last updated: **March 14, 2022** for March 12 release
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-| February 17, 2022 | Advertising Cloud Tutorials | Videos | A new video tutorial on "[How to Create a Standard Display Placement](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/placement-create.html)" is available. |
+|March 2022|[How to create a standard display placement](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/placement-create.html)|Video |Learn how to create a standard display placement for an Advertising Cloud DSP campaign.|
 
 {style="table-layout:auto"}
 
@@ -499,7 +497,18 @@ New videos, tutorials, or courses published for Adobe Document Cloud.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2022|[How to create a standard display placement](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/placement-create.html)|Video |Learn how to create a standard display placement for an Advertising Cloud DSP campaign.|
+|March 2022|[Custom Commands and Tools](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/custom.html?lang=en)|Video |Learn how to improve document workflow productivity by using custom commands and tools. Then, share your new commands and tools with co-workers to help improve organizational efficiency.|
+|March 2022|[Adding bookmarks and hyperlinks](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/bookmarks.html?lang=en)|Video |Learn how to add bookmarks and hyperlinks for better navigation and interaction with your PDF files.|
+|March 2022|[Optimize scanned documents](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/optimizescan.html)|Video |Whether your document comes from a camera or scanner, learn how to enhance the result in Acrobat for a better PDF viewing and searching experience.|
+|March 2022|[Convert Word to PDF including form fields](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/wordform.html?lang=en)|Video |In this 60-second video tutorial, learn how to convert Word files and forms to PDF and automatically build form fields.|
+|March 2022|[Advanced form fields](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/advancedforms.html?lang=en)|Video |In this hands-on tutorial, learn how to set up calculations, create an email submit button, and quickly update form pages without rebuilding all your existing form fields.|
+|March 2022|[Create more efficient PDF files in a snap](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/optimize.html?lang=en)|Video |In this 60-second video tutorial, learn how to use the Optimize PDF tool to significantly reduce the size of your PDF files.|
+|March 2022|[Recognize text in a scanned PDF file](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/textrecognition.html?lang=en)|Video |In this 60-second video tutorial, learn how to convert a scanned PDF so that you can search for text in the PDF.|
+|March 2022|[Let Acrobat help you make accessible PDFs](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/accessible.html?lang=en)|Video |In this 60-second video tutorial, learn how to check to see if a PDF is Accessible.|
+|March 2022|[Export PDF to Word from your phone](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/exportwordphone.html?lang=en)|Video |In this 60-second video tutorial, learn how to convert a PDF file to a fully editable Microsoft Word document with the Acrobat mobile app.|
+|March 2022|[Protect your PDF files with a password](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/protect.html?lang=en)|Video |In this 60-second video tutorial, learn how to protect a PDF so that a password is required either to open or edit the PDF.|
+|March 2022|[Acrobat for government](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/by-industry/gov/gov-overview.html)|Video |Explore our Acrobat tutorials specifically designed for federal, state, and local government.|
+|March 2022|[linktext]()|Video |Desc.|
 
 {style="table-layout:auto"}
 
