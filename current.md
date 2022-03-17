@@ -25,7 +25,7 @@ Latest update: **March 16, 2022**
 * [[!DNL Experience Cloud Central Interface Components] & Administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Analytics]](#analytics)
-* [[!DNL Customer Journey Analytics]](#cust-journey)
+* [[!DNL Customer Journey Analytics]](#cja)
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL XML Documentation for Adobe Experience Manager]](#xml-doc)
@@ -108,17 +108,10 @@ See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-not
 
 ## ![Icon](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-Release date: **February 16, 2022** 
+Release date: **March 23, 2022** 
 
 * Adobe Analytics [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en) (**new location**) (Reviewers, go to `https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en`)
 * Adobe Analytics [product documentation and tutorials](https://experienceleague.adobe.com/docs/analytics.html)
-
-### [!DNL Customer Journey Analytics] {#cja}
-
-Release date: **February 16, 2022** 
-
-* Customer Journey Analytics [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en)  (**new location**) (Reviewers, go to `https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en`)
-* Customer Journey Analytics [product documentation and tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=en)
 
 ### AppMeasurement {#appm}
 
@@ -143,9 +136,16 @@ New videos, tutorials, or courses published for Adobe Analytics.
 
 {style="table-layout:auto"}
 
+## ![Icon](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
+
+Release date: **March 23, 2022** 
+
+* Customer Journey Analytics [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en)  (**new location**) (Reviewers, go to `https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en`)
+* Customer Journey Analytics [product documentation and tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=en)
+
 ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
 
-Fixes and improvements in Audience Manager.
+Fixes and improvements in Audience Manager:
 
 | Improvement    | Description  |
 | -----------| ---------- |  
@@ -171,7 +171,7 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
 
 * **Experience Manager as a Cloud Service**
 
-    Watch the [February 2022 Release Overview video](https://video.tv.adobe.com/v/340450) for a summary of the features added in the 2022.2.0 (February 2022) release. Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP).
+<!--    Watch the [February 2022 Release Overview video](https://video.tv.adobe.com/v/340450) for a summary of the features added in the 2022.2.0 (February 2022) release. Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
 
   * [January 2022 Release Overview video](https://video.tv.adobe.com/v/340120) of new features.
   * [December 2021 Release Overview video](https://video.tv.adobe.com/v/339278) of new features.
@@ -223,7 +223,7 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
     _Release date_
 
     The release date for Cloud Manager in Experience Manager as a Cloud Service 2022.01.0 is 20 January 2022.
-    The next release is planned for 10 February 2022.
+    The next release is planned for 31 March 2022.
 
     _New features_
 
