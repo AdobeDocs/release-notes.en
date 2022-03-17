@@ -408,6 +408,20 @@ Find out more about the latest capabilities, improvements, and fixes in the [[!D
 
 See [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=en) for the latest release schedule information and release notes.
 
+### New Marketo tutorials and courses {#tutorials-marketo}
+
+New videos, tutorials, or courses published for Adobe Marketo.
+
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|March 2022|[Create and manage personalized Dialogues](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dialogue-management.html?lang=en)|Video |Learn how to create and manage a Dialogue. Designing conversations that are targeted and personalized is the key to create a great conversational experience for every web visitor. |
+|March 2022|[Setup and install your chatbot](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/setup.html?lang=en)|Video |A guide to help you install chatbot JavaScript onto your website or landing page and customize its look to match your brand.|
+|March 2022|[Enable people to book meetings with your sales team](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/meeting-booking.html?lang=en)|Video |Use Dynamic Chat to accelerate the connection with sales for target account leads.|
+|March 2022|[Activate your Marketo integration with Dynamic Chat](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/marketo-integration.html?lang=en)|Video |Dynamic Chat is natively integrated into Marketo Engage, which enables you to use context from chatbot conversations to re-target or score your prospects.|
+|March 2022|[Add and manage users of Dynamic Chat](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/user-management.html?lang=en)|Video |Desc.|
+|March 2022|[Product tour of Dynamic Chat](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/product-tour.html?lang=en)|Video |Dynamic Chat is a new chatbot solution built for marketing and sales. It is natively integrated with Marketo Engage, which enables you to use Dynamic Chat as a new channel in your cross-channel marketing. It is simple to use and easy to set up. | |
+|March 2022|[linktext]()|Video |Desc.| |
+
 ## ![Icon](/assets/workfront.png) [!DNL Adobe Workfront] {#workfront}
 
 Adobe [!DNL Workfront] is a unified work management application for sharing ideas, creating content, managing complex processes, and doing their best work.
