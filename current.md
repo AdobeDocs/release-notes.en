@@ -110,14 +110,14 @@ See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-not
 
 Release date: **February 16, 2022** 
 
-* Adobe Analytics [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en) (**new location**)
+* Adobe Analytics [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en) (**new location**) (Reviewers, go to `https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en`)
 * Adobe Analytics [product documentation and tutorials](https://experienceleague.adobe.com/docs/analytics.html)
 
 ### [!DNL Customer Journey Analytics] {#cja}
 
 Release date: **February 16, 2022** 
 
-* Customer Journey Analytics [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en)  (**new location**)
+* Customer Journey Analytics [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en)  (**new location**) (Reviewers, go to `https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en`)
 * Customer Journey Analytics [product documentation and tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=en)
 
 ### AppMeasurement {#appm}
