@@ -314,7 +314,7 @@ New videos, tutorials, or courses published for [!DNL XML Documentation for Adob
 * [XML Documentation for Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/videos/overview.html?lang=en) - tutorials on Experience League
 * [XML Documentation for Adobe Experience Manager Learn & Support](https://helpx.adobe.com/support/xml-documentation-for-experience-manager.html) - product documentation
 
-## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
+## ![Icon](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
 
 See the following links for Adobe Commerce release notes:
 
