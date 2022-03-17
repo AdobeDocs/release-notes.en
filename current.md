@@ -451,7 +451,7 @@ Last updated: **October 27, 2021**
 | Analytics for Advertising Cloud | If your organization wants to switch from using the legacy Adobe Analytics `visitorAPI.js` library to the Adobe Experience Platform library (`alloy.js`) for data collection, you must make changes to enable ID stitching. See [Using the [!DNL Last Event Service] JavaScript Library with Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/planning/web-sdk.html). |
 
 {style="table-layout:auto"}
- -->
+-->
 
 <!-- 
 ### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
@@ -470,7 +470,7 @@ Last updated: **October 27, 2021**
 
 <!--
 {style="table-layout:auto"}
- -->
+-->
 
 ### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
