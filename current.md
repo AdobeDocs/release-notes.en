@@ -145,7 +145,7 @@ Release date: **March 23, 2022**
 
 ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
 
-Fixes and improvements in Audience Manager.
+Fixes and improvements in Audience Manager:
 
 | Improvement    | Description  |
 | -----------| ---------- |  
