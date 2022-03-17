@@ -159,16 +159,21 @@ For self-help resources, see [Audience Manager documentation and tutorials](http
 
 Adobe recommends visiting the [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) page to stay current on release information.
 
+### Experience Manager product updates
+
+* **Experience Manager 6.5, Service Pack 12 (6.5.12.0)**
+
+  Adobe Experience Manager 6.5.12.0 includes new features, key customer-requested enhancements, and performance, stability, and security improvements, that are released since the availability of 6.5 release in April 2019. The service pack is installed on Adobe Experience Manager 6.5.
+  
+  See the [Release notes](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=en).
+
 ### Experience Manager product releases
-
-* [Adobe Experience Manager 6.5.12.0](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=en) - February 24, 2022
-
-  Release 6.5.12.0 includes new features, key customer-requested enhancements, and performance, stability, and security improvements, that are released since the availability of 6.5 release in April 2019. The service pack is installed on Adobe Experience Manager 6.5.
 
 * **Experience Manager as a Cloud Service**
 
-    Watch the [January 2022 Release Overview video](https://video.tv.adobe.com/v/340120) for a summary of the features added in the 2022.1.0 (January 2022) release.
+    Watch the [February 2022 Release Overview video](https://video.tv.adobe.com/v/340450) for a summary of the features added in the 2022.2.0 (February 2022) release. Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP).
 
+  * [January 2022 Release Overview video](https://video.tv.adobe.com/v/340120) of new features.
   * [December 2021 Release Overview video](https://video.tv.adobe.com/v/339278) of new features.
   * [October 2021 Release Overview video](https://video.tv.adobe.com/v/338253) of new features.
   * [September 2021 Release Overview video](https://video.tv.adobe.com/v/337381) of new features.
@@ -224,20 +229,19 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
 
     * Cloud Manager [avoids rebuilding the code base when it detects that the same git commit is used](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/create-application-project/setting-up-project.html?lang=en#build-artifact-reuse) in multiple full-stack pipeline executions.
     * Accessing the Experience Manager environment log now requires the **[!UICONTROL Deployment Manager]** product profile. Users without this profile see a disabled button in the user interface.
-    * The user interface does not allow front-end pipeline configuration for a program where Sites is not enabled as a solution.
+    * The user interface does not allow front-end pipeline configuration for a program where Sites are not enabled as a solution.
     * Upon generating a git password, the expiration date is displayed.
 
 ### Community
 
 * **Experience Manager GEMs Webinar: _Build Sites Faster with Experience Manager Headless and App Builder_**
 
-    **Date**: Wednesday, March 23, 2022
-    **Time**: 8:00 A.M. (PST) or 5:00 (CET) or 9:00 (IST)
-    **Speaker**: Duy Nguyen, Adobe Software Development Engineer
-  [Register for the webinar at https://adobe.ly/3oCkEsh](https://adobe.ly/3oCkEsh)
-  [Frequently Ask Questions about the webinar](https://adobe.ly/3LkSWdm)
-
-* Play the January 2022 Experience Manager GEMs Webinar: [_Experience Manager as a Cloud Service 2021 review and 2022 outlook_](https://adobe.ly/3rqbSOz)
+  * Did you miss Adobe Summit 2022 opening keynote? Watch [Make the Digital Economy Personal](https://adobe.ly/3KQO6mL).
+  * Adobe Summit 2022 | [Complete Experience Manager Session list](https://adobe.ly/3rti6gF).
+  * Experience Manager GEMs | Webinar | Wednesday, March 23, 2022
+    * Topic: *Build Sites Faster with Experience Manager Headless and App Builder*
+    * [Register here](https://adobe.ly/3oCkEsh)
+    * [For Q&A](https://adobe.ly/3LkSWdm)
 
 ### New Experience Manager courses and tutorials {#tutorials-aem}
 
