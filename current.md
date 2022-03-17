@@ -171,7 +171,7 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
 
 * **Experience Manager as a Cloud Service**
 
-    Watch the [February 2022 Release Overview video](https://video.tv.adobe.com/v/340450) for a summary of the features added in the 2022.2.0 (February 2022) release. Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP).
+<!--    Watch the [February 2022 Release Overview video](https://video.tv.adobe.com/v/340450) for a summary of the features added in the 2022.2.0 (February 2022) release. Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
 
   * [January 2022 Release Overview video](https://video.tv.adobe.com/v/340120) of new features.
   * [December 2021 Release Overview video](https://video.tv.adobe.com/v/339278) of new features.
@@ -223,7 +223,7 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
     _Release date_
 
     The release date for Cloud Manager in Experience Manager as a Cloud Service 2022.01.0 is 20 January 2022.
-    The next release is planned for 10 February 2022.
+    The next release is planned for 31 March 2022.
 
     _New features_
 
