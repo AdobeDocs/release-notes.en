@@ -29,7 +29,7 @@ Latest update: **March 16, 2022**
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL XML Documentation for Adobe Experience Manager]](#xml-doc)
-* [[!DNL Adobe Commerce]](#magento)
+* [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
@@ -314,20 +314,20 @@ New videos, tutorials, or courses published for [!DNL XML Documentation for Adob
 * [XML Documentation for Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/videos/overview.html?lang=en) - tutorials on Experience League
 * [XML Documentation for Adobe Experience Manager Learn & Support](https://helpx.adobe.com/support/xml-documentation-for-experience-manager.html) - product documentation
 
-## ![Icon](/assets/magento.png) [!DNL Adobe Commerce] {#magento}
+## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
 
 See the following links for Adobe Commerce release notes:
 
 * [Adobe Commerce and Magento Open Source](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
 * [Cloud Suite for Adobe Commerce](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
 
-### New Adobe Commerce tutorials {#tutorials-commerce}
+### New Adobe Commerce resources {#new-commerce}
 
-New tutorials for Adobe Commerce on Experience League.
+New documentation and tutorials for Adobe Commerce on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2022|[Payment Services Guide overview](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html)|Video |A guide intended for administrators of Adobe Commerce and Magento Open Source. It includes detailed information about installation and onboarding of Payment Services, as well as configuration and management of the services. It assumes a basic understanding of the core Commerce configuration and functionality.|
+|March 2022|[Payment Services Guide](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html)|Guide |A guide intended for administrators of Adobe Commerce and Magento Open Source. It includes detailed information about installation and onboarding of Payment Services, as well as configuration and management of the services. It assumes a basic understanding of the core Commerce configuration and functionality.|
 
 {style="table-layout:auto"}
 
