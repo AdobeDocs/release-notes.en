@@ -25,6 +25,7 @@ Latest update: **March 16, 2022**
 * [[!DNL Experience Cloud Central Interface Components] & Administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Analytics]](#analytics)
+* [[!DNL Customer Journey Analytics]](#cja)
 * [[!DNL Customer Journey Analytics]](#cust-journey)
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Manager]](#aem)
@@ -113,13 +114,6 @@ Release date: **March 23, 2022**
 * Adobe Analytics [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en) (**new location**) (Reviewers, go to `https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en`)
 * Adobe Analytics [product documentation and tutorials](https://experienceleague.adobe.com/docs/analytics.html)
 
-### [!DNL Customer Journey Analytics] {#cja}
-
-Release date: **March 23, 2022** 
-
-* Customer Journey Analytics [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en)  (**new location**) (Reviewers, go to `https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en`)
-* Customer Journey Analytics [product documentation and tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=en)
-
 ### AppMeasurement {#appm}
 
 Release version: **2.22.4** 
@@ -142,6 +136,13 @@ New videos, tutorials, or courses published for Adobe Analytics.
 |March 2022|[Direct link to a project in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/curate-and-share-projects/direct-link-to-a-project.html?lang=en)|Video |Learn how you can better democratize analytics by creating shortened links that take your colleagues directly to your Analysis Workspace projects.|
 
 {style="table-layout:auto"}
+
+## ![Icon](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
+
+Release date: **March 23, 2022** 
+
+* Customer Journey Analytics [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en)  (**new location**) (Reviewers, go to `https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en`)
+* Customer Journey Analytics [product documentation and tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=en)
 
 ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
 
