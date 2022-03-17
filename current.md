@@ -61,7 +61,7 @@ Experience League Events are a great place to learn, interact, and get answers f
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services outage, disruption, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
-Read the [latest release notes](\c-legacy-releases\2022\02162022.md) for Adobe System Status.
+Read the [latest release notes](c-legacy-releases\2022\02162022.md) for Adobe System Status.
 
 ## ![Icon](/assets/ec_appicon_24.png) [!DNL Experience Cloud Central UI Components] & Administration {#ecloud}
 
@@ -294,13 +294,13 @@ XML Documentation for Adobe Experience Manager is an application deployed onto A
 
 Learn more about [XML Documentation for AEM](https://www.adobe.com/products/xml-documentation-for-experience-manager/features.html).
 
-### New tutorials for XML Documentation for Adobe Experience Manager {#tutorials-xml-doc}
+### New tutorials for [!DNL XML Documentation for Adobe Experience Manager] {#tutorials-xml-doc}
 
-New videos, tutorials, or courses published for XML Documentation for Adobe Experience Manager.
+New videos, tutorials, or courses published for [!DNL XML Documentation for Adobe Experience Manager].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2022|[Output Generation with XML Documentation](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2022.2.xmldocs)|Course |Learn how to generate output using XML Documentation for Adobe Experience Manager. Learn about various features available for output generation, including reports, baselines, conditions, troubleshooting, bulk publishing and activation.|
+|March 2022|[Output Generation with XML Documentation](https://experienceleague.adobe.com/?recommended=ExperienceManager-U-1-2022.2.xmldocs)|Course |Learn how to generate output using [!DNL XML Documentation for Adobe Experience Manager]. Learn about various features available for output generation, including reports, baselines, conditions, troubleshooting, bulk publishing and activation.|
 
 {style="table-layout:auto"}
 
@@ -317,6 +317,8 @@ See the following links for Adobe Commerce release notes:
 * [Cloud Suite for Adobe Commerce](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
 
 ### New Adobe Commerce tutorials {#tutorials-commerce}
+
+New tutorials for Adobe Commerce on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
@@ -339,20 +341,20 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 Find out more about the latest capabilities, improvements, and fixes released:
 
-* (New!) [Campaign Standard 22.1 release](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html)
+* [Campaign Standard 22.1 release](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) **(New!)**
 * [Campaign v8.2.10](https://experienceleague.adobe.com/docs/campaign/campaign-v8/start/release-notes.html) 
 * [Campaign Classic v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html)
 
 ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
 
-New videos, tutorials, or courses published for Adobe Campaign.
+New tutorials and courses published for Adobe Campaign.
 
 |Published|Name|Type|Description |Applications|
 | ------| ----- | -----| ------ | --- |
-|March 2022|[Integrate with Experience Manager - Overview](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en)|Video |Desc.|Connect Adobe Campaign with Adobe Experience Manager to be able to manage email delivery templates, assets, and forms in Experience Manager. |AEM, Campaign v8 |
+|March 2022|[Integrate with Experience Manager - Overview](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/overview.html?lang=en)|Video |Connect Adobe Campaign with Adobe Experience Manager to be able to manage email delivery templates, assets, and forms in Experience Manager. |AEM, Campaign v8 |
 |March 2022|[Configure Campaign for the Experience Manager integration](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/configure-campaign-for-aem-integration.html?lang=en)|Video |Learn how to set up the integration between Experience Manager and Campaign, including important settings to look for and potential ‘gotchas’ to avoid.|AEM, Campaign v8 |
 |March 2022|[Approve and publish an Experience Manager page to Campaign](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/create-a-campaign-delivery-with-content-from-experience-manager/approve-and-publish-aem-content-to-campaign.html?lang=en)|Video |Learn how to create a newsletter in Experience Manager and how to approve and publish it to Campaign.|AEM, Campaign v8|
-|March 2022|[Synchronize & send an Experience Manager email delivery in Campaign](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/create-a-campaign-delivery-with-content-from-experience-manager/synchronize-and-send-an-aem-delivery-in-campaign.html?lang=en)|Video |Learn how to test and send a newsletter, that was created in Experience Manager, in Campaign.|AEM, Campaign v8 |
+|March 2022|[Synchronize and send an Experience Manager email delivery in Campaign](https://experienceleague.adobe.com/docs/campaign-learn/integrate-with-experience-manager/create-a-campaign-delivery-with-content-from-experience-manager/synchronize-and-send-an-aem-delivery-in-campaign.html?lang=en)|Video |Learn how to test and send an email from Adobe Campaign using a newsletter that was created in Experience Manager.|AEM, Campaign v8 |
 |March 2022|[Integrate with Adobe Target](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/connect/target-integration.html)|Video |Learn how to personalize a delivery with dynamic content served from Adobe Target.|Adobe Target, Campaign v8 |
 
 {style="table-layout:auto"}
@@ -408,16 +410,16 @@ See [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/
 
 ### New Marketo tutorials and courses {#tutorials-marketo}
 
-New videos, tutorials, or courses published for Adobe Marketo.
+New tutorials and courses published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2022|[Create and manage personalized Dialogues](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dialogue-management.html?lang=en)|Video |Learn how to create and manage a Dialogue. Designing conversations that are targeted and personalized is the key to create a great conversational experience for every web visitor. |
+|March 2022|[Create and manage personalized Dialogues](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/dialogue-management.html?lang=en)|Video |Learn how to create and manage a _[!UICONTROL Dialogue]_. Designing conversations that are targeted and personalized is the key to create a great conversational experience for every web visitor. |
 |March 2022|[Setup and install your chatbot](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/setup.html?lang=en)|Video |A guide to help you install chatbot JavaScript onto your website or landing page and customize its look to match your brand.|
-|March 2022|[Enable people to book meetings with your sales team](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/meeting-booking.html?lang=en)|Video |Use Dynamic Chat to accelerate the connection with sales for target account leads.|
-|March 2022|[Activate your Marketo integration with Dynamic Chat](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/marketo-integration.html?lang=en)|Video |Dynamic Chat is natively integrated into Marketo Engage, which enables you to use context from chatbot conversations to re-target or score your prospects.|
-|March 2022|[Add and manage users of Dynamic Chat](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/user-management.html?lang=en)|Video |Desc.|
-|March 2022|[Product tour of Dynamic Chat](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/product-tour.html?lang=en)|Video |Dynamic Chat is a new chatbot solution built for marketing and sales. It is natively integrated with Marketo Engage, which enables you to use Dynamic Chat as a new channel in your cross-channel marketing. It is simple to use and easy to set up. | |
+|March 2022|[Enable people to book meetings with your sales team](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/meeting-booking.html?lang=en)|Video |Use [!UICONTROL Dynamic Chat] to accelerate the connection with sales for target account leads.|
+|March 2022|[Activate your Marketo integration with [!UICONTROL Dynamic Chat]](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/marketo-integration.html?lang=en)|Video |[!UICONTROL Dynamic Chat] is natively integrated into Marketo Engage, which enables you to use context from chatbot conversations to re-target or score your prospects.|
+|March 2022|[Manage users of [!UICONTROL Dynamic Chat]](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/user-management.html?lang=en)|Video |Manage your [!UICONTROL Dynamic Chat] users through Adobe Admin Console.|
+|March 2022|[Product tour of [!UICONTROL Dynamic Chat]](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/product-tour.html?lang=en)|Video |[!UICONTROL Dynamic Chat] is a new chatbot solution built for marketing and sales. It is natively integrated with Marketo Engage, which enables you to use Dynamic Chat as a new channel in your cross-channel marketing. It is simple to use and easy to set up. |
 
 ## ![Icon](/assets/workfront.png) [!DNL Adobe Workfront] {#workfront}
 
@@ -471,10 +473,10 @@ Last updated: **March 14, 2022** for March 12 release
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Portfolios] | By default, hybrid optimization is available at the campaign level. You can now optionally enable hybrid optimization at the ad group level, for which the optimization capability sets [!DNL Google] CPA or ROAS targets at the ad group level for more precise control over performance.<br><br>With any portfolio, you must allow for a learning period before you launch the portfolio to ensure that it has sufficient model coverage. Similarly, if you change a hybrid portfolio from campaign-level to ad group-level optimization, then set the portfolio to the active state for about two weeks so the optimization capability has time to learn about the included ad groups and generate targets.<br><br>To support ad group-level optimization, custom simulations can now include results by ad group. Run a custom simulation with ad group-level results before you launch a hybrid portfolio with ad group-level optimization. |
-| [!UICONTROL Portfolios]<br><br>[!UICONTROL Campaigns] | (Beta feature; [!DNL Microsoft Advertising] campaigns) You can now configure search campaigns to use the [!DNL Maximize Conversions] bidding strategy, and optionally set a maximum cost per click.<br><br>If you already are participating in the hybrid optimization beta for other auto-bidding strategies, you automatically have access to the [!DNL Maximize Conversions] strategy, and you can include campaigns with the [!DNL Maximize Conversions] strategy in hybrid portfolios. To use this strategy in a hybrid portfolio, you must enable uploading of Advertising Cloud Search objectives to [!DNL Microsoft Ads]. If you aren't already participatingin the beta and want to join, contact your [!DNL Adobe] account manager. |
-| Campaign [!UICONTROL Audiences]<br><br>Campaign [!UICONTROL Bulksheets] | ([!DNL Microsoft Advertising] campaigns) You can now use any of your [!DNL Microsoft Advertising] audiences except for in-market audiences as either campaign-level targets or adgroup-level targets. Previously, you could use them only as adgroup-level targets. |
-| Campaign [!UICONTROL Audiences] | (Beta feature; [!DNL Microsoft Advertising] accounts that are eligible for [!DNL Customer Match]) You can now create and manage customer match audiences by uploading CSV files with email addresses. The data must be hashed using the SHA-256 algorithm. |
+| [!UICONTROL Portfolios] | By default, hybrid optimization is available at the campaign level. You can now optionally enable hybrid optimization at the ad group level, for which the optimization capability sets [!DNL Google] CPA or ROAS targets at the ad group level for more precise control over performance.<br>With any portfolio, you must allow for a learning period before you launch the portfolio to ensure that it has sufficient model coverage. Similarly, if you change a hybrid portfolio from campaign-level to ad group-level optimization, then set the portfolio to the active state for about two weeks so the optimization capability has time to learn about the included ad groups and generate targets.<br>To support ad group-level optimization, custom simulations can now include results by ad group. Run a custom simulation with ad group-level results before you launch a hybrid portfolio with ad group-level optimization. |
+| [!UICONTROL Portfolios] <br> [!UICONTROL Campaigns] | (Beta feature, [!DNL Microsoft Advertising] campaigns) - You can now configure search campaigns to use the [!UICONTROL Maximize Conversions] bidding strategy, and optionally set a maximum cost per click.<br>If you already are participating in the hybrid optimization beta for other auto-bidding strategies, you automatically have access to the [!UICONTROL Maximize Conversions] strategy, and you can include campaigns with the [!UICONTROL Maximize Conversions] strategy in hybrid portfolios. To use this strategy in a hybrid portfolio, you must enable uploading of Advertising Cloud Search objectives to [!DNL Microsoft Ads]. If you aren't already participating in the beta and want to join, contact your [!DNL Adobe] account manager. |
+| Campaign [!UICONTROL Audiences]<br><br>Campaign [!UICONTROL Bulksheets] | ([!DNL Microsoft Advertising] campaigns) - You can now use any of your [!DNL Microsoft Advertising] audiences except for in-market audiences as either campaign-level targets or [!UICONTROL adgroup]-level targets. Previously, you could use them only as [!UICONTROL adgroup]-level targets. |
+| Campaign [!UICONTROL Audiences] | (Beta feature, [!DNL Microsoft Advertising] accounts that are eligible for [!UICONTROL Customer Match]) You can now create and manage customer match audiences by uploading CSV files with email addresses. The data must be hashed using the SHA-256 algorithm. |
 
 {style="table-layout:auto"}
 
@@ -488,11 +490,7 @@ Last updated: **March 14, 2022** for March 12 release
 
 ## ![Icon](/assets/document-cloud-24.png) Adobe Document Cloud {#doc-cloud}
 
-New videos, tutorials, or courses published for Adobe Document Cloud.
-
-### New Document Cloud courses and tutorials {#tutorials-doc-cloud}
-
-New videos, tutorials, or courses published for Adobe Document Cloud.
+New tutorials and courses published for Adobe Document Cloud.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
@@ -520,7 +518,11 @@ For Document Cloud help, see:
 
 See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=en) for the latest tutorials.
 
-## Digital Experience Blueprints - tutorials {#blueprints}
+## ![Icon](/assets/experience-league.png) Customer Data Management - Voices {#voices}
+
+[Customer Data Management Voices](https://experienceleague.adobe.com/docs/customer-data-management-voices-events/events/overview.html?lang=en) is your destination as a customer data management technical and marketing practice leader and specialist. This collection of tutorials is your one-stop-shop to hear from your peers, get inspired, and learn about developments in MarTech. No registration required, just click and watch.
+
+## ![Icon](/assets/experience-league.png) Digital Experience Blueprints {#blueprints}
 
 [Digital Experience Blueprints](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=en) are repeatable implementations that let you address strategy and quickly solve established business problems. Each Blueprint provides a series of artifacts that explain the high-value business problem, architectures, implementation steps, technical considerations, and links to the relevant documentation.
 
