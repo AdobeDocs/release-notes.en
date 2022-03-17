@@ -386,7 +386,6 @@ Latest Journey Optimizer tutorials:
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2022|[Introduction to Offer Decisioning](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/introduction-to-offer-decisioning.html)|Video |Get an overview of Offer Decisioning, an application service built on top of Adobe Experience Platform. |
 |March 2022|[Use and manage saved expressions in the personalization library](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/use-and-manage-saved-expressions-in-personalization-library.html?lang=en)|Video |Learn how to use saved personalization library items in a message and how to create and manage personalization library items.|
 
 ### More resources for [!DNL Journey Optimizer]
