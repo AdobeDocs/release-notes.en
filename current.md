@@ -21,7 +21,7 @@ Ready to get started? [Take a 5-minute quiz and win](https://exploreadobe.com/ex
 
 Latest update: **March 16, 2022**
 
-* [[!DNL Experience League] events and announcements](#events)
+* [[!DNL Experience League] events](#events)
 * [Experience Cloud - central interface components & administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Analytics]](#analytics)
@@ -43,11 +43,11 @@ Latest update: **March 16, 2022**
 
 Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#home) for product and technical documentation, Adobe-curated courses, video tutorials, quick answers, community insight, and instructor-led training.
 
-## ![Icon](/assets/experience-league.png) [!DNL Experience League] events and announcements {#events}
+## ![Icon](/assets/experience-league.png) [!DNL Experience League] events {#events}
 
-Experience League Events are a great place to learn, interact, and get answers from product experts at Adobe!
+Experience League events are a great place to learn, interact, and get answers from product experts at Adobe!
 
-|Announcement |Type|Description |
+|Event |Type|Description |
 | -----------|---------- | ---|
 |[Experience League LIVE](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)|Live and on-demand video |A live streaming show produced by the Experience League team and hosted on YouTube. It’s a chance to connect with Adobe product experts. Learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.<br> [Details & registration](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)|
 |[AEM Gems](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629)|Adobe Live Webinar |Quickly bootstrap and deploy single-page apps (SPA) using Adobe [!UICONTROL App Builder] workflows and tools without traditional Experience Manager skills like Java and Sling being required. With Experience Manager Headless, marketers and developers can each have the expertise in their own domain — developers control the overall application framework, styling, and routing, while marketers determine the content and how it’s displayed.<br>**Date:** Wednesday, March 23 - [Details & registration](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) |
