@@ -19,7 +19,7 @@ Ready to get started? [Take a 5-minute quiz and win](https://exploreadobe.com/ex
 >
 >To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League.
 
-Latest update: **March 16, 2022**
+Latest update: **March 18, 2022**
 
 * [[!DNL Experience League] events](#events)
 * [Experience Cloud - central interface components & administration](#ecloud)
@@ -507,7 +507,6 @@ New tutorials and courses published for Adobe Document Cloud.
 |March 2022|[Let Acrobat help you make accessible PDFs](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/accessible.html?lang=en)|Video |In this 60-second video tutorial, learn how to check to see if a PDF is Accessible.|
 |March 2022|[Export PDF to Word from your phone](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/exportwordphone.html?lang=en)|Video |In this 60-second video tutorial, learn how to convert a PDF file to a fully editable Microsoft Word document with the Acrobat mobile app.|
 |March 2022|[Protect your PDF files with a password](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/protect.html?lang=en)|Video |In this 60-second video tutorial, learn how to protect a PDF so that a password is required either to open or edit the PDF.|
-|March 2022|[Acrobat for government](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/by-industry/gov/gov-overview.html)|Video |Explore our Acrobat tutorials specifically designed for federal, state, and local government.|
 
 {style="table-layout:auto"}
 
