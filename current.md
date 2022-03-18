@@ -169,8 +169,6 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
 
 * **Experience Manager as a Cloud Service**
 
-<!--    Watch the [February 2022 Release Overview video](https://video.tv.adobe.com/v/340450) for a summary of the features added in the 2022.2.0 (February 2022) release. Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
-
   * [January 2022 Release Overview video](https://video.tv.adobe.com/v/340120) of new features.
   * [December 2021 Release Overview video](https://video.tv.adobe.com/v/339278) of new features.
   * [October 2021 Release Overview video](https://video.tv.adobe.com/v/338253) of new features.
