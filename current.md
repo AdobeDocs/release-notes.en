@@ -13,7 +13,7 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 
 As an Experience Maker, your path to success starts with [Adobe Experience League](https://experienceleague.adobe.com/?lang=en#home). Find a vast how-to documentation library, self-guided tutorials, how-to videos, and courses for all levels and roles, an online community of peers, and expert support when you need it. 
 
-Ready to get started? [Take a 5-minute quiz and win](https://exploreadobe.com/experience-league-quiz/)!
+Ready to get started? [Take a 5-minute quiz and win](https://exploreadobe.com/experience-league-quiz/?sdid=4NM897N2&mv=email&mv2=nslsp)!
 
 >[!NOTE]
 >
@@ -63,6 +63,14 @@ Experience League events are a great place to learn, interact, and get answers f
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services outage, disruption, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloud - central interface components & administration {#ecloud}
+=======
+Release date: **November 16, 2021**
+
+**What's new**
+
+* Adobe Status is now reporting incidents at a Product level. Status Cloud and Product pages have a new look and enhanced filters based on product level reporting of incidents. This makes it easier for you to understand how your product is impacted on [status.adobe.com](https://status.adobe.com/) and in your email notifications. If you are not subscribed, please use this link to set up your personalized subscription preferences [https://status.adobe.com/proactive-notifications/manage](https://status.adobe.com/proactive-notifications/manage).
+
+* Status home page is now personalized with events filtered based on your entitlements and product subscriptions. Please check it out at **status.adobe.com** > **[!UICONTROL My Events]** tab.
 
 Experience Cloud [central UI components](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) include features available on the home page and the persistent product header. These features include user profile settings, preferences, and search. You can also find help on user and product management, Customer Attributes, and Experience Cloud Audiences. 
 
