@@ -63,14 +63,6 @@ Experience League events are a great place to learn, interact, and get answers f
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services outage, disruption, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloud - central interface components & administration {#ecloud}
-=======
-Release date: **November 16, 2021**
-
-**What's new**
-
-* Adobe Status is now reporting incidents at a Product level. Status Cloud and Product pages have a new look and enhanced filters based on product level reporting of incidents. This makes it easier for you to understand how your product is impacted on [status.adobe.com](https://status.adobe.com/) and in your email notifications. If you are not subscribed, please use this link to set up your personalized subscription preferences [https://status.adobe.com/proactive-notifications/manage](https://status.adobe.com/proactive-notifications/manage).
-
-* Status home page is now personalized with events filtered based on your entitlements and product subscriptions. Please check it out at **status.adobe.com** > **[!UICONTROL My Events]** tab.
 
 Experience Cloud [central UI components](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) include features available on the home page and the persistent product header. These features include user profile settings, preferences, and search. You can also find help on user and product management, Customer Attributes, and Experience Cloud Audiences. 
 
