@@ -19,7 +19,7 @@ Ready to get started? [Take a 5-minute quiz and win](https://exploreadobe.com/ex
 >
 >To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League.
 
-Latest update: **March 18, 2022**
+Latest update: **March 21, 2022**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -49,7 +49,7 @@ Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#h
 Experience League events are a great place to learn, interact, and get answers from product experts at Adobe!
 
 |Event |Type|Description |
-| -----------|---------- | ---|
+| -----------|---------- | ----|
 |[Experience League LIVE](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)|Live and on-demand video |A live streaming show produced by the Experience League team. It’s a chance to connect with Adobe product experts. Learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications.<br> [Details & past events](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)|
 |[AEM Gems](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629)|Adobe Live Webinar |Quickly Bootstrap and deploy single-page apps (SPA) using Adobe [!UICONTROL App Builder] workflows and tools without traditional Experience Manager skills like Java™ and Sling being required. With Experience Manager Headless, marketers and developers can each have the expertise in their own domain — developers control the overall application framework, styling, and routing, while marketers determine the content and how it’s displayed.<br>**Date:** Wednesday, March 23 - [Details & registration](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) |
 |[Adobe Analytics: Telling impactful stories with data](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b%E2%80%A6%5d15Y000003A5SbQAK&sfid=&acctid=&ecp=&sdid=JCNCWJFP&mv=display)|Adobe Live Webinar |Data storytelling is done well when it’s a balance of art and science. So, why over-engineer it? Adobe Analytics champion Amy Ard discusses three parts aimed to guide your data storytelling without diminishing creativity:<ul><li>Identifying the opportunity or problem</li><li>Explaining through data</li><li>Offering a solution</li></ul>**Date:** Thursday, March 31 - [Details & registration](https://engage.adobe.com/adobe-analytics-telling-impactful-stories.html?s_rtid=7015Y0%5b…%5d15Y000003A5SbQAK&sfid=&acctid=&ecp=&sdid=JCNCWJFP&mv=display)|
@@ -62,15 +62,9 @@ Experience League events are a great place to learn, interact, and get answers f
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services outage, disruption, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
+For the latest release information, see Adobe System Status [release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2022/02162022.html?lang=en#status).
+
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloud - central interface components & administration {#ecloud}
-=======
-Release date: **November 16, 2021**
-
-**What's new**
-
-* Adobe Status is now reporting incidents at a Product level. Status Cloud and Product pages have a new look and enhanced filters based on product level reporting of incidents. This makes it easier for you to understand how your product is impacted on [status.adobe.com](https://status.adobe.com/) and in your email notifications. If you are not subscribed, please use this link to set up your personalized subscription preferences [https://status.adobe.com/proactive-notifications/manage](https://status.adobe.com/proactive-notifications/manage).
-
-* Status home page is now personalized with events filtered based on your entitlements and product subscriptions. Please check it out at **status.adobe.com** > **[!UICONTROL My Events]** tab.
 
 Experience Cloud [central UI components](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) include features available on the home page and the persistent product header. These features include user profile settings, preferences, and search. You can also find help on user and product management, Customer Attributes, and Experience Cloud Audiences. 
 
@@ -116,7 +110,7 @@ See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-not
 
 Release date: **March 23, 2022** 
 
-* Adobe Analytics [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en) (**new location**) (Reviewers, go to `https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en`)
+* Adobe Analytics [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en) (**new location**) 
 * Adobe Analytics [product documentation and tutorials](https://experienceleague.adobe.com/docs/analytics.html)
 
 ### AppMeasurement {#appm}
@@ -146,7 +140,7 @@ New videos, tutorials, or courses published for Adobe Analytics.
 
 Release date: **March 23, 2022** 
 
-* Customer Journey Analytics [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en)  (**new location**) (Reviewers, go to `https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en`)
+* Customer Journey Analytics [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en)  (**new location**)
 * Customer Journey Analytics [product documentation and tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=en)
 
 ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
@@ -337,7 +331,7 @@ New documentation and tutorials for Adobe Commerce on Experience League.
 
 ## ![Icon](/assets/target.png) [!DNL Adobe Target] {#target}
 
-Last Updated: **February 1, 2022**
+Last Updated: **March 21, 2022**
 
 * For pre-release information, see [Adobe Target prerelease](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en)
 * For current information, see [Adobe Target release notes](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=en)
