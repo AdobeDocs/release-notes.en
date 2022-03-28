@@ -104,7 +104,7 @@ New videos, tutorials, or courses published for Experience Platform.
 | -----------| ---------- | ---------- | ---------- |
 |March 2022|[Implement Adobe Experience Cloud in mobile apps tutorial](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html)|Course |Learn how to implement Adobe Experience Cloud applications in your mobile app using Adobe Experience Platform Mobile SDK.|
 |March 2022|[Generate first-party device IDs](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/generate-first-party-device-ids.html)|Video |Learn about generating first-party device IDs and how they work.|
-|March 2022|[Configure datastreams](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html)|Video |Learn how to create and configure datastreams for Web and Mobile SDK implementations.|
+|March 2022|[Configure datastreams](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/configure-datastreams.html)|Video |Learn how to create and configure datastreams for Web and Mobile SDK implementations.| 
 
 {style="table-layout:auto"}
 
