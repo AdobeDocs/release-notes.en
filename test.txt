@@ -158,7 +158,7 @@ Fixes and updates applied to Analytics administration tools, including implement
      <li id="li_8DB8FC19BF5744CD905DF304B16904C0"> Added missing variables that are available in JavaScript. (AN-136736) </li> 
     </ul> 
     <!--<p> <b>JavaScript H code (Legacy)</b> </p>--> 
-    <!--<p><b>AppMeasurement for Flash</b> </p>--> <p> <b> <span class="keyword"> AppMeasurement </span> for Other Platforms</b> </p> <p>See <a href="https://marketing.adobe.com/resources/help/en_US/sc/appmeasurement/release/index.html" scope="external" format="https"> AppMeasurement Release History </a> the following for a release history of <span class="keyword"> AppMeasurement </span> on the following platforms: </p> 
+    <!--<p><b>AppMeasurement for Flash</b> </p>--> <p> <b> <span class="keyword"> AppMeasurement </span> for Other Platforms</b> </p> <p>See <a href="https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html?lang=en" scope="external" format="https"> AppMeasurement Release History </a> the following for a release history of <span class="keyword"> AppMeasurement </span> on the following platforms: </p> 
     <ul id="ul_C1B99FAA7DD94C83902A1148AC80E64C"> 
      <li id="li_AE016ABC57964DFEAF625E425B4053C6">JavaScript </li> 
      <li id="li_2DC09F748E0747568BBAFDB609DD0363">iOS </li> 
