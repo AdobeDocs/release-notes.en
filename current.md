@@ -97,9 +97,9 @@ New videos, tutorials, or courses published for Experience Platform.
 
 |Published|Name|Type|Description |Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
-|April 2022|[linktext](abc.com)|Video |Desc.| |
-|April 2022|[linktext](abc.com)|Video |Desc.| |
-|April 2022|[linktext](abc.com)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
 
 {style="table-layout:auto"}
 
@@ -126,9 +126,9 @@ New videos, tutorials, or courses published for Adobe Analytics.
 
 |Published|Name|Type|Description |Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
-|April 2022|[linktext](abc.com)|Video |Desc.| |
-|April 2022|[linktext](abc.com)|Video |Desc.| |
-|April 2022|[linktext](abc.com)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
 
 {style="table-layout:auto"}
 
@@ -245,9 +245,9 @@ New videos, tutorials, and courses published over the past month.
 
 |Published|Name|Type|Description |Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
-|April 2022|[linktext](abc.com)|Video |Desc.| |
-|April 2022|[linktext](abc.com)|Video |Desc.| |
-|April 2022|[linktext](abc.com)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
 
 {style="table-layout:auto"}
 
@@ -291,9 +291,9 @@ New videos, tutorials, or courses published for [!DNL XML Documentation for Adob
 
 |Published|Name|Type|Description |Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
-|April 2022|[linktext](abc.com)|Video |Desc.| |
-|April 2022|[linktext](abc.com)|Video |Desc.| |
-|April 2022|[linktext](abc.com)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
 
 {style="table-layout:auto"}
 
@@ -315,9 +315,9 @@ New documentation and tutorials for Adobe Commerce on Experience League.
 
 |Published|Name|Type|Description |Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
-|April 2022|[linktext](abc.com)|Video |Desc.| |
-|April 2022|[linktext](abc.com)|Video |Desc.| |
-|April 2022|[linktext](abc.com)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
 
 {style="table-layout:auto"}
 
@@ -344,9 +344,9 @@ New tutorials and courses published for Adobe Campaign.
 
 |Published|Name|Type|Description |Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
-|April 2022|[linktext](abc.com)|Video |Desc.| |
-|April 2022|[linktext](abc.com)|Video |Desc.| |
-|April 2022|[linktext](abc.com)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
 
 {style="table-layout:auto"}
 
@@ -371,9 +371,9 @@ Latest Journey Optimizer tutorials:
 
 |Published|Name|Type|Description |Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
-|April 2022|[linktext](abc.com)|Video |Desc.| |
-|April 2022|[linktext](abc.com)|Video |Desc.| |
-|April 2022|[linktext](abc.com)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
 
 ### More resources for [!DNL Journey Optimizer]
 
@@ -406,9 +406,9 @@ New tutorials and courses published for Adobe Marketo.
 
 |Published|Name|Type|Description |Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
-|April 2022|[linktext](abc.com)|Video |Desc.| |
-|April 2022|[linktext](abc.com)|Video |Desc.| |
-|April 2022|[linktext](abc.com)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
 
 ## ![Icon](/assets/workfront.png) [!DNL Adobe Workfront] {#workfront}
 
@@ -473,9 +473,9 @@ Last updated: **March 14, 2022** for March 12 release
 
 |Published|Name|Type|Description |Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
-|April 2022|[linktext](abc.com)|Video |Desc.| |
-|April 2022|[linktext](abc.com)|Video |Desc.| |
-|April 2022|[linktext](abc.com)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
 
 {style="table-layout:auto"}
 
@@ -485,9 +485,9 @@ New tutorials and courses published for Adobe Document Cloud.
 
 |Published|Name|Type|Description |Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
-|April 2022|[linktext](abc.com)|Video |Desc.| |
-|April 2022|[linktext](abc.com)|Video |Desc.| |
-|April 2022|[linktext](abc.com)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
 
 {style="table-layout:auto"}
 
@@ -511,8 +511,8 @@ See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com
 
 |Published|Name|Type|Description |Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
-|April 2022|[linktext](abc.com)|Video |Desc.| |
-|April 2022|[linktext](abc.com)|Video |Desc.| |
-|April 2022|[linktext](abc.com)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
+|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
 
 {style="table-layout:auto"} 
