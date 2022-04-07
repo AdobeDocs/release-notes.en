@@ -484,9 +484,7 @@ Last updated: **April 7, 2022**
 |April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
 |April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
 |April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
--->
 
-<!--
 {style="table-layout:auto"}
 -->
 
