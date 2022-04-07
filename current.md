@@ -433,7 +433,7 @@ Release notes for [!DNL Adobe Advertising Cloud].
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
 <!-- * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp) -->
 * [New features in [!DNL Advertising Cloud Search]](#adcloud-search)
-* [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud)
+<!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
 <!--
 ### New features across [!DNL Advertising Cloud] {#adcloud-all}
@@ -468,17 +468,15 @@ Last updated: **October 27, 2021**
 
 ### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Last updated: **March 14, 2022** for March 12 release
+Last updated: **April 7, 2022**
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Portfolios] | By default, hybrid optimization is available at the campaign level. You can now optionally enable hybrid optimization at the ad group level, for which the optimization capability sets [!DNL Google] CPA or ROAS targets at the ad group level for more precise control over performance.<br>With any portfolio, you must allow for a learning period before you launch the portfolio to ensure that it has sufficient model coverage. Similarly, if you change a hybrid portfolio from campaign-level to ad group-level optimization, then set the portfolio to the active state for about two weeks. This ensures that the optimization capability has time to learn about the included ad groups and generate targets.<br>To support ad group-level optimization, custom simulations can now include results by ad group. Run a custom simulation with ad group-level results before you launch a hybrid portfolio with ad group-level optimization. |
-| [!UICONTROL Portfolios] <br> [!UICONTROL Campaigns] | (Beta feature, [!DNL Microsoft® Advertising] campaigns) - You can now configure search campaigns to use the [!UICONTROL Maximize Conversions] bidding strategy, and optionally set a maximum cost per click.<br>If you are already participating in the hybrid optimization beta for other auto-bidding strategies, you automatically have access to the [!UICONTROL Maximize Conversions] strategy, and you can include campaigns with the [!UICONTROL Maximize Conversions] strategy in hybrid portfolios. To use this strategy in a hybrid portfolio, you must enable uploading of Advertising Cloud Search objectives to [!DNL Microsoft® Ads]. If you aren't already participating in the beta and want to join, contact your [!DNL Adobe] account manager. |
-| Campaign [!UICONTROL Audiences]<br><br>Campaign [!UICONTROL Bulksheets] | ([!DNL Microsoft® Advertising] campaigns) - You can now use any of your [!DNL Microsoft® Advertising] audiences except for in-market audiences as either campaign-level targets or [!UICONTROL adgroup]-level targets. Previously, you could use them only as [!UICONTROL adgroup]-level targets. |
-| Campaign [!UICONTROL Audiences] | (Beta feature, [!DNL Microsoft® Advertising] accounts that are eligible for [!UICONTROL Customer Match]) You can now create and manage customer match audiences by uploading CSV files with email addresses. The data must be hashed using the SHA-256 algorithm. |
+| [!UICONTROL Campaigns]<br><br>[!UICONTROL Advertising Insights] | (April 11) [!DNL Google Ads] accounts) Advertising Cloud Search has transitioned all API calls from the legacy [!DNL Google AdWords API] to the latest [!DNL Google Ads API]. Moving to the new [!DNL Google Ads API] will ensure continuity with existing capabilities and enable access to [!DNL Google’s] latest [!DNL Ads] features.<br><br>Some features have not yet been updated to the new API and are temporarily unavailable:<ul><li>Location extensions:<ul>Location extensions aren't visible in the [!UICONTROL Extensions] view.</li><li>You can't create an extension.</li><li>Filters on locations don't work.</li></li></ul><li>[!UICONTROL Advertising Insights]: The [!UICONTROL Impression Share Lost] and [!UICONTROL Query Cross Matching Beta] analyses aren't available.</li></ul>We anticipate restoration of location extension capabilities by the end of April. Once we determine when the affected [!UICONTROL Advertising Insights] modules can also be restored, we'll send an update with the estimated date. |
 
 {style="table-layout:auto"}
 
+<!--
 ### New Advertising Cloud tutorials {#tutorials-ad-cloud}
 
 |Published|Name|Type|Description |Applications |
@@ -486,8 +484,11 @@ Last updated: **March 14, 2022** for March 12 release
 |April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
 |April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
 |April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
+-->
 
+<!--
 {style="table-layout:auto"}
+-->
 
 ## ![Icon](/assets/document-cloud-24.png) Adobe Document Cloud {#doc-cloud}
 
