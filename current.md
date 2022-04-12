@@ -468,11 +468,11 @@ Last updated: **October 27, 2021**
 
 ### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Last updated: **April 7, 2022**
+Last updated: **April 11, 2022**
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Campaigns]<br><br>[!UICONTROL Advertising Insights] | (April 11) [!DNL Google Ads] accounts) Advertising Cloud Search has transitioned all API calls from the legacy [!DNL Google AdWords API] to the latest [!DNL Google Ads API]. Moving to the new [!DNL Google Ads API] will ensure continuity with existing capabilities and enable access to [!DNL Google’s] latest [!DNL Ads] features.<br><br>Some features have not yet been updated to the new API and are temporarily unavailable:<ul><li>Location extensions:<ul>Location extensions aren't visible in the [!UICONTROL Extensions] view.</li><li>You can't create an extension.</li><li>Filters on locations don't work.</li></li></ul><li>[!UICONTROL Advertising Insights]: The [!UICONTROL Impression Share Lost] and [!UICONTROL Query Cross Matching Beta] analyses aren't available.</li></ul>We anticipate restoration of location extension capabilities by the end of April. Once we determine when the affected [!UICONTROL Advertising Insights] modules can also be restored, we'll send an update with the estimated date. |
+| [!UICONTROL Campaigns]<br><br>[!UICONTROL Advertising Insights] | (April 11) ([!DNL Google Ads] accounts) Advertising Cloud Search has transitioned all API calls from the legacy [!DNL Google AdWords API] to the latest [!DNL Google Ads API]. Moving to the new [!DNL Google Ads API] will ensure continuity with existing capabilities and enable access to [!DNL Google’s] latest [!DNL Ads] features.<br><br>Some features have not yet been updated to the new API and are temporarily unavailable:<ul><li>Location extensions:<ul>Location extensions aren't visible in the [!UICONTROL Extensions] view.</li><li>You can't create an extension.</li><li>Filters on locations don't work.</li></li></ul><li>[!UICONTROL Advertising Insights]: The [!UICONTROL Impression Share Lost] and [!UICONTROL Query Cross Matching Beta] analyses aren't available.</li></ul>We anticipate restoration of location extension capabilities by the end of April. Once we determine when the affected [!UICONTROL Advertising Insights] modules can also be restored, we'll send an update with the estimated date. |
 
 {style="table-layout:auto"}
 
