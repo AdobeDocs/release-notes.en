@@ -165,14 +165,6 @@ For self-help resources, see [Audience Manager documentation and tutorials](http
 
 Adobe recommends visiting the [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) page to stay current on release information.
 
-### Experience Manager product updates
-
-* **Experience Manager 6.5, Service Pack 12 (6.5.12.0)**
-
-  Adobe Experience Manager 6.5.12.0 includes new features, key customer-requested enhancements, and performance, stability, and security improvements, that are released since the availability of 6.5 release in April 2019. The service pack is installed on Adobe Experience Manager 6.5.
-
-  See the [Release notes](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=en).
-
 ### Experience Manager product releases
 
 * **Experience Manager as a Cloud Service**
