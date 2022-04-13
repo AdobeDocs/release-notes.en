@@ -317,7 +317,7 @@ New videos, tutorials, or courses published for [!DNL XML Documentation for Adob
 See the following links for Adobe Commerce release notes:
 
 * [Adobe Commerce and Magento Open Source](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
-* [Cloud Suite for Adobe Commerce](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
+* [Cloud infrastructure for Adobe Commerce](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
 
 ### New Adobe Commerce resources {#new-commerce}
 
@@ -325,6 +325,10 @@ New documentation and tutorials for Adobe Commerce on Experience League.
 
 |Published|Name|Type|Description |Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
+|April 2022|[Services for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=en)|Documentation |Access the product documentation for hosted services that help Adobe Commerce and Magento Open Source merchants support key components of their business.|Adobe Commerce, Magento Open Source |
+|April 2022|[[!DNL Live Search] User Guide](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=en)|Documentation |Comprehensive information about [!DNL Live Search] for Adobe Commerce administrators, including installation and onboarding.|Adobe Commerce |
+|April 2022|[[!DNL Product Recommendations] User Guide](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/guide-overview.html?lang=en)|Documentation |Comprehensive information about [!DNL Product Recommendations] for Adobe Commerce administrators, including installation and onboarding.|Adobe Commerce |
+|April 2022|[[!DNL Site-Wide Analysis Tool]](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=en)|Documentation |Comprehensive information about the [!DNL Site-Wide Analysis] Tool, including its uses, the installation process, and getting access.|Adobe Commerce |
 |April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
 |April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
 |April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
