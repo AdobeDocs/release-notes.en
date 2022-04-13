@@ -177,77 +177,94 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
 
 * **Experience Manager as a Cloud Service**
 
-    Watch the [March 2022 Release Overview video](https://video.tv.adobe.com/v/341465) for a summary of the features added in the 2022.3.0 (March 2022) release. Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP).
+    Watch the [March 2022 Release Overview video](https://video.tv.adobe.com/v/341465) for a summary of the features added in the 2022.3.0 (March 2022) release. <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
 
   * [January 2022 Release Overview video](https://video.tv.adobe.com/v/340120) of new features.
   * [December 2021 Release Overview video](https://video.tv.adobe.com/v/339278) of new features.
   * [October 2021 Release Overview video](https://video.tv.adobe.com/v/338253) of new features.
   * [September 2021 Release Overview video](https://video.tv.adobe.com/v/337381) of new features.
 
-  * **Experience Manager Assets as a Cloud Service**
+* **Experience Manager Assets as a Cloud Service**
 
-    _New features in Experience Manager Assets_
+    _New features in Assets_
 
-    * Dynamic Media - You can now use Experience Manager - Dynamic Media interface to configure [General Settings](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-general-settings.html) and [Publish Setup](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-publish-settings.html) instead of having to go through the Dynamic Media Classic desktop application.
-    * Dynamic Media now supports ingestion, preview, playback, and publish for MXF videos. Annotation and shoppable video for MXF videos is not yet supported.
-    * After configuring a connection between remote DAM and Sites deployments, the assets on remote DAM are made available on the Sites deployment. You can now perform the [update, delete, rename, and move operations](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/use-assets-across-connected-assets-instances.html?lang=en) on remote DAM assets or folders. The updates, with some delay, are available automatically on the Sites deployment.
+  * Experience Manager Dynamic Media now provides the flexibility to [configure one alias account](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-alias-account.html?lang=en) in the user interface, thus ensuring out-of-the-box Dynamic Media URLs and Viewer Embed code are updated. This update positively impacts SEO, to reflect updates made to your business context, such as rebranding.
+  * You can now use the Experience Manager Assets user interface to:
+    * Configure the [detection of duplicate assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets.html?lang=en#detect-duplicate-assets) in a repository.
+    * Configure [adding digital watermarks](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/watermark-assets.html?lang=en) to images.
+  * The administrators can now configure email service for large downloads. It allows the users to [enable email notifications for large downloads](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/download-assets-from-aem.html?lang=en#enable-email-notifications-for-large-downloads) from the Experience Manager Assets interface. The user receives an email notification containing the download link of the archived zip folder upon completion of the download process.
+  * The [Manage Publication](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en) feature is enhanced with an improved user interface. A user can publish or unpublish content to and from the selected destination, or [Add Content](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en#add-content) to the publishing list from across the DAM repository. They can [Include Folder Settings](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en#include-folder-settings) to publish content of the selected folders and apply filters, and [schedule publishing](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en#publish-assets-later) to a later date or time.
 
     _New features in Experience Manager Assets prerelease channel_
 
-    * Dynamic Media now provides the flexibility to let you [configure one company alias account](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/dm-alias-account.html?lang=en) in the user interface, so that out-of-the-box Dynamic Media URLs and Viewer Embed code are updated. This action positively impacts SEO, to reflect updates made to your business context, such as rebranding.
-    * You can now use the Experience Manager Assets user interface to:
+  * You can [sort tags](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/organize-assets.html?lang=en#use-tags-to-organize-assets) while creating smart tags and when applying search filters using the tags predicate.
 
-      * Configure the detection of duplicate assets in a repository.
-      * Configure adding digital watermarks to images.
-
-    * Administrators can now configure email service for large downloads. It allows the users to [enable email notifications for large downloads](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/download-assets-from-aem.html?lang=en#enable-email-notifications-for-large-downloads) from the Experience Manager Assets interface. The user receives an email notification containing the download link of the archived zip folder upon completion of the download process.
-    * The [Manage Publication](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en) feature is enhanced with an improved user interface. Users can publish or unpublish content to and from the selected destination, and [Add Content](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en#add-content) to the publishing list from across the DAM repository. They can also [Include Folder Settings](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en#include-folder-settings) to publish content of the selected folders and apply filters, and [schedule publishing](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-publication.html?lang=en#publish-assets-later) to a later date or time.
-
-    _Bug Fix_
-
-    * Unprocessed assets with no original rendition are sent to Asset Compute for processing while migrating assets from Experience Manager On-premise to Cloud Services.
-
-  * **Experience Manager Forms as a Cloud Service**
+* **Experience Manager Forms as a Cloud Service**
 
     _New in Forms_
 
-    * **Experience Manager Forms as a Cloud Service - Communications** &mdash; [Communication APIs](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications.html?lang=en) help you combine a template and XML data to generate print documents in various formats. The service lets you generate documents in synchronous and batch modes. The APIs help you create applications that let you do the following:
+  * **Communications - Document Generation APIs** &mdash; [Document Generation APIs](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications.html?lang=en) help to combine, rearrange, and validate PDF documents. The service lets you generate documents in synchronous mode. The APIs lets you create applications to do the following:
 
-      * Generate documents by populating template files with XML data.
-      * Generate forms in various formats, including non-interactive PDF print streams.
-      * Generate print PDFs from XFA form PDFs.
-      * Generate PDF, PostScript, PCL, and ZPL documents in bulk by merging multiple sets of data with source templates.
+    * Assemble PDF documents
+    * Disassemble PDF documents
+    * Convert to and validate PDF/A-compliant documents.
 
-    * **Custom fonts for Document of Record and PDF documents created with Communications APIs** &mdash; You can now use brand approved fonts in PDF documents generated using Communications APIs to align with your organizational requirements.
+  * **Automatically convert PDF Forms more than 15 pages to adaptive forms** &mdash; You can now use automated forms conversion service to convert PDF Forms with up to 40 pages to adaptive forms. The service now provides the option to convert sections of forms more than 15 pages to adaptive form fragments. It helps improve rendering speed of converted forms and makes it easier to load large forms in the adaptive form editor.
 
-    _New in Forms prerelease channel_
+  _New in Forms prerelease channel_
 
-    * [Assembler API](https://developer.adobe.com/experience-manager-forms-cloud-service-developer-reference/references/assembler-sync/) &mdash; Assembler APIs to combine, rearrange, augment, and obtain information about PDF documents.
+  * **Use custom XCI for generating a Document of Record** &mdash; You can now use a custom XCI file to set various properties of a Document of Record. It overrides the primary XCI with the custom changes.
+  * **Use invisible CAPTCHA in an adaptive form** &mdash; You can use the invisible CAPTCHA to show the CAPTCHA challenge only if suspicious activity is found. If no suspicious activity is found, the CAPTCHA challenge is not displayed.
 
-  * **Cloud Manager**
-
-    _Release date_
-
-    The release date for Cloud Manager in Experience Manager as a Cloud Service 2022.01.0 is 20 January 2022.
-    The next release is planned for 31 March 2022.
+* **CIF add-on**
 
     _New features_
 
-    * Cloud Manager [avoids rebuilding the code base when it detects that the same git commit is used](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/create-application-project/setting-up-project.html?lang=en#build-artifact-reuse) in multiple full-stack pipeline executions.
-    * Accessing the Experience Manager environment log now requires the **[!UICONTROL Deployment Manager]** product profile. Users without this profile see a disabled button in the user interface.
-    * The user interface does not allow front-end pipeline configuration for a program where Sites are not enabled as a solution.
-    * Upon generating a git password, the expiration date is displayed.
+  * Beta - Experience Manager CIF Search Core Component support Commerce LiveSearch.
+  * Improved SEO for multi-store scenarios - URL formats for PDP / PLP can now be configured on a store level via the CIF Cloud Config properties.
+  * Product picker supports staged products by way of the new filter option in the user interface. This ability lets content practitioners prepare product content management for upcoming product launches.
+  * Simplified CIF configuration management and error handling by using CIF Cloud Config name instead of config proxy URL.
+  * Manual category selection for Product list and Carousel components. This ability lets content practitioners use these components on content pages, outside of the catalog experience.
+
+* **Experience Manager as a Cloud Service Foundation**
+
+    _New features_
+
+  * For more efficient and effective troubleshooting of custom features in Cloud environments, Adobe has released a new developer tool: [the Repository Browser](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/repository-browser.html?lang=en). It is a lightweight, read-only, HTML browser that you can launch from the Developer Console. Get visibility into the content repository on the publisher, author, and preview tiers, and in all environments, including production, stage, and dev. Browse the content structure, view properties, and preview and download binaries.
+  * The credentials used to authenticate server-to-server API calls (for example, for GraphQL API requests) can now be refreshed before expiration in a self-serve way from the Developer Console. See the [documentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/generating-access-tokens-for-server-side-apis.html?lang=en#refresh-credentials) for more info.
+  * Version purge and audit log purge maintenance tasks, which had not previously been enabled, are now enabled for new environments. See the associated values in the [Maintenance Task](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/maintenance.html?lang=en) article.
+  * Experience Manager as a Cloud Service SDK Dispatcher Tools now support Mac computers with the M1 chip.
+
+* **Cloud Manager**
+
+    _Release date_
+
+    The release date for Cloud Manager in Experience Manager as a Cloud Service 2022.02.0 was 10 February 2022.
+    The next release is planned for 10 March 2022.
+
+    _New features_
+
+  * New accelerated [Web Tier Config pipelines](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/introduction-ci-cd-pipelines.html?lang=en#web-tier-config-pipelines) have been introduced to exclusively deploy HTTPD/dispatcher configuration.
+  
+    * You must be on AEM version `2021.12.6151.20211217T120950Z` or newer and [opt-in to the flexible mode of the Dispatcher tools](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/disp-overview.html?lang=en#validation-debug) to use this feature.
+    * This feature is planned for roll-out in a phased approach over the two weeks following the 2022.02.0 release.
+
+  * The Cloud Manager landing page experience has been refreshed to deliver improved navigation, easy switching between grid/tile views, and pop-overs for quick program summary.
+  * A new failing threshold (`< D`) has been added to the [reliability rating metric](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/code-quality-testing.html?lang=en#understanding-code-quality-rules).
+
+    * Customers with severe quality issues that impact system stability, primarily related to invalid indexes and workflow processes, cannot deploy until those issues are resolved.
+  * The severity of the BannedPath [quality rule](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/code-quality-testing.html?lang=en#understanding-code-quality-rules) has been changed from blocker to critical.
+  * The pipeline wizard informs the user when an Experience Manager environment update may be needed before configuring a [Web Tier Config pipeline](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/introduction-ci-cd-pipelines.html?lang=en#web-tier-config-pipelines) associated with it.
 
 ### Community
 
-* **Experience Manager GEMs Webinar: _Build Sites Faster with Experience Manager Headless and App Builder_**
+* **Upcoming Experience Manager GEMs Webinar**
 
-  * Did you miss Adobe Summit 2022 opening keynote? Watch [Make the Digital Economy Personal](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-summit-2022-opening-keynote-make-the-digital-economy/td-p/444612).
-  * Adobe Summit 2022 | [Complete Experience Manager Session list](https://adobe.ly/3rti6gF).
-  * Experience Manager GEMs | Webinar | Wednesday, March 23, 2022
-    * Topic: *Build Sites Faster with Experience Manager Headless and App Builder*
-    * [Register here](https://adobe.ly/3oCkEsh)
-    * [For Q&A](https://adobe.ly/3LkSWdm)
+  * Topic: _Integrate AEM & CIF framework to build a rich and immersive e-commerce experience_
+    * Date: Wednesday, April 27, 2022
+    * Time: 8:00 a.m. PDT / 5:00 p.m. CET / 8:30 p.m. IST
+    * [Register here](https://adobe.ly/3O0uXl5)
+  * Adobe Summit 2022 | Complete session list and recordings are [available here](https://adobe.ly/3rti6gF).
 
 ### New Experience Manager courses and tutorials {#tutorials-aem}
 
