@@ -354,6 +354,7 @@ New documentation and tutorials for Adobe Commerce on Experience League.
 |April 2022|[Using the Upgrade Compatibility Tool on PhpStorm](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/upgrade/uct-phpstorm.html)|Video |The Upgrade Compatibility Tool (UCT) is a free tool that analyzes the incompatibilities between your current version and the target upgrade version in just minutes. Adobe provides a PhpStorm plugin to make the tool even easier to use.|
 |April 2022|[Live Search Guide](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html)|Product documentation |Live Search from Adobe Commerce delivers a lightning fast, super-relevant, and intuitive search experience, and is available for Adobe Commerce at no additional charge.|
 |April 2022|[Product Recommendations Guide](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/guide-overview.html)|Product documentation |This guide is intended for administrators of Adobe Commerce. It includes detailed information about installation and onboarding of Product Recommendations, as well as configuration and management of the services. |
+|April 2022|[[!DNL Site-Wide Analysis Tool]](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=en)|Documentation |Comprehensive information about the [!DNL Site-Wide Analysis] Tool, including its uses, the installation process, and getting access.|Adobe Commerce |
 
 {style="table-layout:auto"}
 
