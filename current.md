@@ -167,6 +167,8 @@ New video tutorials, articles, and courses published for Customer Journey Analyt
 |April 2022|[Overview of configuring Data Views for Customer Journey Analytics](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/overview-of-configuring-data-views-for-cja.html?lang=en)|Video |Learn about configuring [!UICONTROL Data Views] for Customer Journey Analytics. [!UICONTROL Data Views] are similar to [!UICONTROL Virtual Report Suites] in Adobe Analytics. They allow you to configure the incoming data so that it can be most useful for your reporting and analysis. |
 |April 2022|[Connections Details Experience in CJA](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections-details-experience-in-cja.html?lang=en)|Video |Learn how to check the status of your connection’s datasets and of the ingestion process.|
 
+{style="table-layout:auto"}
+
 ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
 
 Fixes and improvements in Audience Manager:
@@ -330,18 +332,6 @@ XML Documentation for Adobe Experience Manager is an application deployed onto A
 
 Learn more about [XML Documentation for AEM](https://www.adobe.com/products/xml-documentation-for-experience-manager/features.html).
 
-<!-- ### New tutorials for [!DNL XML Documentation for Adobe Experience Manager] {#tutorials-xml-doc}
-
-New videos, tutorials, or courses published for [!DNL XML Documentation for Adobe Experience Manager].
-
-|Published|Name|Type|Description |Applications |
-| -----------| ---------- | ---------- | ---------- | ------|
-|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
-|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
-|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
-
-{style="table-layout:auto"} -->
-
 ### Additional resources
 
 * [XML Documentation for Adobe Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/videos/overview.html?lang=en) - tutorials on Experience League
@@ -402,7 +392,7 @@ New video tutorials and courses published for Adobe Campaign.
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
 
-With Journey Optimizer, you can manage scheduled omnichannel campaigns and one-to-one moments for millions of customers from a single application — and the entire journey is optimized with intelligent decisioning and insights.
+With Journey Optimizer, you can manage scheduled omnichannel campaigns and one-to-one moments for millions of customers from a single application--and the entire journey is optimized with intelligent decisioning and insights.
 
 ### Latest Journey Optimizer product releases
 
@@ -423,6 +413,8 @@ Latest Journey Optimizer tutorials:
 |April 2022|[Create personalized offers](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/create-personalized-offers.html)|Video |Learn how to create personalized offers in Offer Decisioning. Personalized offers have eligibility rules associated with them to help you show them only to relevant customers.|
 |April 2022|[Create tags](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/create-tags.html?lang=en)|Video |Learn how to create tags in Offer Decisioning. Tags are optional building block components of offers. They can be used to organize offers and group them in dynamic collections.|
 |April 2022|[Demo of the decision management capabilities](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/demo-of-offer-decisioning.html?lang=en)|Video |Learn how brands can use the decision management capabilities to define and manage their offers, apply real-time customer data, and deliver the right experiences their customers expect.|
+
+{style="table-layout:auto"}
 
 ### More resources for [!DNL Journey Optimizer]
 
@@ -448,16 +440,6 @@ Find out more about the latest capabilities, improvements, and fixes in the [[!D
 ### Core Marketo Engage updates
 
 See [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=en) for the latest release schedule information and release notes.
-
-<!-- ### New Marketo tutorials and courses {#tutorials-marketo}
-
-New tutorials and courses published for Adobe Marketo.
-
-|Published|Name|Type|Description |Applications |
-| -----------| ---------- | ---------- | ---------- | ------|
-|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
-|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
-|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| | -->
 
 ## ![Icon](/assets/workfront.png) [!DNL Adobe Workfront] {#workfront}
 
@@ -515,18 +497,6 @@ Last updated: **April 11, 2022**
 | Integration with Adobe Analytics | (April 7) In the data feed that Advertising Cloud sends to [!DNL Analytics], data for [!DNL Google Ads] and [!DNL Microsoft Advertising] responsive search ads (RSAs) are now classified with the [!UICONTROL Responsive Ad Type] "[!UICONTROL Responsive Search Ads]." Previously, the data was included for the [!UICONTROL Responsive Ad Type] "[!UICONTROL Responsive Text Ads]."<br><br>In addition, the [!UICONTROL Responsive Ad Title] is now populated with the first headline and the [!UICONTROL Responsive Ad Description] is populated with the first description. |
 
 {style="table-layout:auto"}
-
-<!--
-### New Advertising Cloud tutorials {#tutorials-ad-cloud}
-
-|Published|Name|Type|Description |Applications |
-| -----------| ---------- | ---------- | ---------- | ------|
-|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
-|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
-|April 2022|[linktext](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en)|Video |Desc.| |
-
-{style="table-layout:auto"}
--->
 
 ## ![Icon](/assets/document-cloud-24.png) Adobe Document Cloud {#doc-cloud}
 
