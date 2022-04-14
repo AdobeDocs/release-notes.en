@@ -62,7 +62,6 @@ Experience League events are a great place to learn, interact, and get answers f
 |[Adobe Workfront System Admin Essentials: Designing an Ideal User Experience](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field)|Adobe Live Webinar|Join Mary Ann Erickson, Customer Success Manager at Adobe Workfront, and Steve Enos, Creative Operations Analyst at Liberty Mutual Insurance to find out how to design an ideal user experience. <br>**Date:** Wednesday, April 27th. Time: 8:00am PDT / 4:00pm UK. <br>[Details & registration](https://webinars.on24.com/adobe_workfront/AdminEssentialsUserExp?partnerref=field)|
 |[Adobe [!DNL Developers Live]](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2021/oct2021/overview.html?lang=en) |On-demand video|[!DNL Developers Live] showcases the latest tech advances and developer tools powering design, content creation workflows, document services, and customer experience management across industries. View the keynote address, learn about Analytics APIs, client data layer, Adobe Developer open-source projects, and much more. |
 
-
 {style="table-layout:auto"}
 
 ## ![Icon](/assets/system-status.png) [!DNL Adobe System Status] {#status}
@@ -385,10 +384,10 @@ Find out more about the latest capabilities, improvements, and fixes in the [Cam
 
 ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
 
-New tutorials and courses published for Adobe Campaign.
+New video tutorials and courses published for Adobe Campaign.
 
 |Published|Name|Type|Description |Applications|
-| -----------| ---------- | ---------- | ---------- |
+| -----------| ---------- | ---------- | ---------- | ----|
 |April 2022|[Enhance your email delivery with Experience Manager content](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.v8.aemcontent)|Course |Learn how to connect Adobe Campaign V8 with Adobe Experience Manager (AEM) to allow you to manage email delivery templates, assets, and forms in Experience Manager. |Campaign v8, AEM |
 |April 2022|[Audit Trail](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/monitoring/audit-trail.html?lang=en)|Video |Learn how to access the Audit Trail logs and which settings can be configured.|Campaign v8 |
 
@@ -565,7 +564,5 @@ See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com
 ## ![Icon](/assets/experience-league.png) Digital Experience Blueprints {#blueprints}
 
 [Digital Experience Blueprints](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=en) are repeatable implementations that let you address strategy and quickly solve established business problems. Each Blueprint provides a series of artifacts that explain the high-value business problem, architectures, implementation steps, technical considerations, and links to the relevant documentation.
-
-{style="table-layout:auto"}
 
 [Top](#events)
