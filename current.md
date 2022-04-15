@@ -88,17 +88,17 @@ Experience Cloud [central UI components](https://experienceleague.adobe.com/docs
 * Product documentation for [People - Customer Attributes and Audience Library](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services-landing.html?lang=en)
 * [Unified Search for objects and entities](https://experienceleague.adobe.com/docs/core-services/interface/services/search-experience-cloud.html?lang=en)
 
-## ![Icon](/assets/experience_platform_appicon_24.png) Adobe Experience Platform {#platform}
+## ![Icon](/assets/experience_platform_appicon_24.png) Adobe [!DNL Experience Platform] {#platform}
 
-Latest release information and new documentation for Experience Platform and [!UICONTROL Mobile SDK]:
+Latest release information and new documentation for [!DNL Experience Platform] and [!UICONTROL Mobile SDK]:
 
 Latest release date: **March 30, 2022**
 
 * [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
 
-### New Experience Platform tutorials and courses {#tutorials-platform}
+### New [!DNL Experience Platform] tutorials and courses {#tutorials-platform}
 
-New video tutorials, articles, and courses published for Experience Platform.
+New video tutorials, articles, and courses published for [!DNL Experience Platform].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
@@ -110,7 +110,7 @@ New video tutorials, articles, and courses published for Experience Platform.
 
 {style="table-layout:auto"}
 
-### Adobe Mobile SDK
+### [!DNL Adobe Mobile] SDK
 
 See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-notes) for the Adobe Experience Platform Mobile SDKs.
 
@@ -127,7 +127,7 @@ Release version: **2.22.4**
 
 * [AppMeasurement for JavaScript release notes](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html?lang=en)
 
-### New Analytics tutorials and courses {#tutorials-analytics}
+### New [!DNL Analytics] tutorials and courses {#tutorials-analytics}
 
 New video tutorials, articles, and courses published for Adobe Analytics.
 
@@ -155,8 +155,8 @@ Release date: **March 23, 2022**
 
 Release date: **March 16, 2022**
 
-* Streaming Media Analytics [release notes](https://experienceleague.adobe.com/docs/media-analytics/using/additional-resources/release-notes.html?lang=en)  (**new location**)
-* Streaming Media Analytics [product documentation and tutorials](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=en)
+* [!DNL Streaming Media Analytics] [release notes](https://experienceleague.adobe.com/docs/media-analytics/using/additional-resources/release-notes.html?lang=en)  (**new location**)
+* [!DNL Streaming Media Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=en)
 
 ### New Customer Journey Analytics tutorials and courses {#tutorials-cja}
 
