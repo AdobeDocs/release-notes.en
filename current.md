@@ -4,7 +4,7 @@ description: Learn about the latest release notes, new features, and new documen
 doc-type: release notes
 last-update: April 2022
 author: mfrei
-mini-toc-levels: 1
+mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 ---
 # Adobe Experience Cloud Release Notes - April 2022
@@ -343,8 +343,8 @@ Learn more about [XML Documentation for AEM](https://www.adobe.com/products/xml-
 
 See the following links for Adobe Commerce release notes:
 
-* [Adobe Commerce and Magento Open Source](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
-* [Cloud infrastructure for Adobe Commerce](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
+* [Adobe Commerce and Magento Open Source 2.4.x release notes](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
+* [Release notes for Cloud Suite](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
 
 ### New Adobe Commerce resources {#new-commerce}
 
