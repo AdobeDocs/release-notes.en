@@ -19,7 +19,7 @@ Ready to get started? [Take a 5-minute quiz and win](https://exploreadobe.com/ex
 >
 >To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League.
 
-Latest update: **May 9, 2022**
+Latest update: **May 11, 2022**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -31,7 +31,6 @@ Latest update: **May 9, 2022**
 * [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL XML Documentation for Adobe Experience Manager]](#xml-doc)
-* [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
@@ -49,7 +48,7 @@ Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#h
 
 Experience League events are a great place to learn, interact, and get answers from product experts at Adobe!
 
-Updated **April 5, 2022**
+Updated **May 11, 2022**
 
 |Event |Type|Description |
 | -----------|---------- | ----|
@@ -70,11 +69,7 @@ For the latest release information, see Adobe System Status [release notes](http
 
 Experience Cloud [central UI components](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) include features available on the home page and the persistent product header. These features include user profile settings, preferences, and search. You can also find help on user and product management, Customer Attributes, and Experience Cloud Audiences.
 
-| Feature | Description |
-| ------- |-------|
-|Natural language search|Get instant answers to all your help questions, through one single interface via Unified Search. This feature is always available to you on every page of Experience Platform and Journey Optimizer.|
-
-{style="table-layout:auto"}
+Not updated.
 
 **More help resources on [!DNL Experience Cloud Central UI Components] & Administration**
 
@@ -88,7 +83,7 @@ Experience Cloud [central UI components](https://experienceleague.adobe.com/docs
 
 Latest release information and new documentation for [!DNL Experience Platform] and [!UICONTROL Mobile SDK]:
 
-Release date: **May 25, 2022**
+Planned release date: **May 25, 2022**
 
 * [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
 
@@ -150,9 +145,9 @@ Release date: **May 18, 2022**
 
 ## ![Icon](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
-Release date: **May 18, 2022**
+Last update: **March 23, 2022**
 
-* [!DNL Streaming Media Analytics] [release notes](https://experienceleague.adobe.com/docs/media-analytics/using/additional-resources/release-notes.html?lang=en)  (**new location**)
+* [!DNL Streaming Media Analytics] [release notes](https://experienceleague.adobe.com/docs/media-analytics/using/additional-resources/release-notes.html?lang=en) 
 * [!DNL Streaming Media Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=en)
 
 <!-- ### New Customer Journey Analytics tutorials and courses {#tutorials-cja}
@@ -249,23 +244,15 @@ See the following links for Adobe Commerce release notes:
 * [Adobe Commerce and Magento Open Source 2.4.x release notes](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
 * [Release notes for Cloud Suite](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
 
-### New Adobe Commerce resources {#new-commerce}
+<!-- ### New Adobe Commerce resources {#new-commerce}
 
 New documentation and tutorials for Adobe Commerce on Experience League.
 
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|April 2022|[Upgrade Compatibility Tool Overview](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/upgrade/upgrade-compatibility-tool-overview.html)|Video |Learn about the Upgrade Compatibility Tool and how it can hel you quickly identify the errors and fixes required to upgrade to a newer version of Adobe Commerce.|
-|April 2022|[Using the Upgrade Compatibility Tool on PhpStorm](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/upgrade/uct-phpstorm.html)|Video |The Upgrade Compatibility Tool (UCT) is a free tool that analyzes the incompatibilities between your current version and the target upgrade version in just minutes. Adobe provides a PhpStorm plugin to make the tool even easier to use.|
-|April 2022|[Live Search Guide](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html)|Product documentation |Live Search from Adobe Commerce delivers a lightning fast, super-relevant, and intuitive search experience, and is available for Adobe Commerce at no additional charge.|
-|April 2022|[Product Recommendations Guide](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/guide-overview.html)|Product documentation |This guide is intended for administrators of Adobe Commerce. It includes detailed information about installation and onboarding of Product Recommendations, as well as configuration and management of the services. |
-|April 2022|[[!DNL Site-Wide Analysis Tool]](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=en)|Documentation |Comprehensive information about the [!DNL Site-Wide Analysis] Tool, including its uses, the installation process, and getting access.|Adobe Commerce |
-
-{style="table-layout:auto"}
+{style="table-layout:auto"} -->
 
 ## ![Icon](/assets/target.png) [!DNL Adobe Target] {#target}
 
-Last Updated: **March 21, 2022**
+Last Updated: **May 9, 2022**
 
 * For pre-release information, see [Adobe Target prerelease](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en)
 * For current information, see [Adobe Target release notes](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=en)
@@ -278,7 +265,7 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 Find out more about the latest capabilities, improvements, and fixes in the [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) and [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) release notes.
 
-### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
+<!-- ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
 
 New video tutorials and courses published for Adobe Campaign.
 
@@ -287,7 +274,7 @@ New video tutorials and courses published for Adobe Campaign.
 |April 2022|[Enhance your email delivery with Experience Manager content](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.v8.aemcontent)|Course |Learn how to connect Adobe Campaign V8 with Adobe Experience Manager (AEM) to allow you to manage email delivery templates, assets, and forms in Experience Manager. |Campaign v8, AEM |
 |April 2022|[Audit Trail](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/monitoring/audit-trail.html?lang=en)|Video |Learn how to access the Audit Trail logs and which settings can be configured.|Campaign v8 |
 
-{style="table-layout:auto"}
+{style="table-layout:auto"} -->
 
 ### Campaign help resources
 
