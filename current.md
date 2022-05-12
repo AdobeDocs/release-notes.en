@@ -55,6 +55,7 @@ Updated **May 11, 2022**
 |[Push notifications with Journey Optimizer - How to easily configure your mobile app for push](https://www.youtube.com/watch?v=t36Xjhukmro)|Experience League LIVE|Learn about the common use cases for push notification with Adobe Journey Optimizer and dive into the technical details on how to configure an app for Push powered by Adobe Experience Platform. <br>**Date:** May 12, 2022 @ 9:30 a.m. PDT<br>[Schedule & past events](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)|
 |[Adobe Target Community](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096)|Q&A Coffee Break|Join Brent Kostak and Drew Burns of the Adobe Target product team who will answer your Adobe Target Questions about shared audiences, Real-Time CDP, first-party data, end-to-end personalization workflows, and more.<br>Watch the recent [Real-Time Personalization webinar](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/upcoming-webinar-4-28-22-real-time-personalization-with-adobe/td-p/449012) and bring your follow-up Questions to the experts on the [Coffee Break thread](https://adobe.ly/3MyiDHa) in the Adobe Target Community!<br>**Date:** May 25, 2022 @ 8 a.m. PDT<br>[Details and registration](https://adobe.ly/3MyiDHa)|
 |[Adobe [!DNL Developers Live]: Commerce](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2022/feb2022/overview.html?lang=en) |On-demand videos|_Adobe Developers Live: Commerce 2022_ brings together developers and experience builders with diverse backgrounds and a singular purpose - to create incredible end-to-end experiences. This one-day virtual conference features important Commerce and Open Source Developer updates, technical sessions, community networking opportunities and more. |
+|[Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en)|On-demand videos|Begin with learning about your [!DNL Marketo] roadmap. Then, discover the importance of thinking of your [!DNL Marketo] instance as a product. Get advice on unlocking the potential of Program Member Custom Fields, [!DNL Marketo] Engage tips and tricks, and more, in this newly published [!DNL Marketo] Skill Exchange from August 2021, now on Experience League.|
 |[Adobe Summit 2022](https://business.adobe.com/summit/adobe-summit.html) |On-demand sessions |Learn from Adobe executives, Ryan Reynolds, Rosalind Brewer, CEO, Walgreens Boots Alliance, Inc, John Donahoe, CEO, NIKE, Inc., and Gail J. McGovern, CEO, American Red Cross as they share how customer experiences are the currency of our digital economy.<br>Explore [on-demand sessions](https://business.adobe.com/summit/2022/sessions.html) from Adobe Summit 2022.|
 
 {style="table-layout:auto"}
@@ -326,6 +327,12 @@ Find out more about the latest capabilities, improvements, and fixes in the [[!D
 ## ![Icon](/assets/marketo.png) [!DNL Adobe Marketo Engage] {#marketo}
 
 [!DNL Marketo Engage] is a complete application for lead management and B2B marketers looking to transform customer experiences by engaging across every stage of complex buying journeys.
+
+Newly published video events on Experience Leauge:
+
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|May 2022|[Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en)|Videos |Begin with learning about your Marketo roadmap. Then, discover the importance of thinking of your Marketo instance as a product. Get advice on unlocking the potential of Program Member Custom Fields, Marketo Engage tips and tricks, and more, in this newly published [Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en) from August 2021, now on Experience League.|
 
 ### Core Marketo Engage updates
 
