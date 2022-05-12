@@ -19,7 +19,7 @@ Ready to get started? [Take a 5-minute quiz and win](https://exploreadobe.com/ex
 >
 >To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League.
 
-Latest update: **May 11, 2022**
+Latest update: **May 12, 2022**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -398,7 +398,7 @@ New tutorials and courses published for Adobe Document Cloud.
 |May 2022|[Sharing account access](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/share-account-access.html)|Video |Learn how to set up view-only access to transactions in another user’s account.|[!DNL Acrobat Sign]|
 |May 2022|[Managing document templates](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/edit-a-template.html?lang=en)|Video |Learn how to edit or delete a template in your library.|[!DNL Acrobat Sign]|
 |May 2022|[Create your first flow in Microsoft Power Automate](https://experienceleague.adobe.com/docs/document-services/tutorials/pdfservices/create-workflow-power-automate.html?lang=en)|Article |Learn how to create your first flow in Microsoft Power Automate using the Adobe PDF Services connector.|Document Services|
-|May 2022|[Getting credentials for Microsoft Power Automate](https://experienceleague.adobe.com/docs/document-services/tutorials/pdfservices/getting-credentials-power-automate.html?lang=en)|Article |learn how to get credentials to start using or trialing Adobe PDF Services. Depending on whether you are a trial user or an existing customer, this tutorial walks through the proper steps to get credentials.|Document Services|
+|May 2022|[Getting credentials for Microsoft Power Automate](https://experienceleague.adobe.com/docs/document-services/tutorials/pdfservices/getting-credentials-power-automate.html?lang=en)|Article |Learn how to get credentials to start using or trialing Adobe PDF Services. Depending on whether you are a trial user or an existing customer, this tutorial walks through the proper steps to get credentials.|Document Services|
 
 {style="table-layout:auto"}
 
