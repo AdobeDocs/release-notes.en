@@ -192,8 +192,7 @@ New videos, tutorials, and courses published over the past month.
 | -----------| ---------- | ---------- | ---------- | ------|
 |May 2022|[AEM as a Cloud Service 2021.4.0 release update](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2021/2021-4-0.html?lang=en)|Video |Hear from the AEM Product team, and learn about the features and innovations for the latest release of Adobe Experience Manager.|AEM Asset Essentials, Sites, Screens, Forms, and Cloud Foundation |
 |May 2022|[Cloud 5 AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/cloud-5/cloud5-introduction.html)|Videos |Get all the useful information you need about AEM as a Cloud Service in short videos of 5 minutes or less. Start with season 1.|AEM CS |
-|May 2022|[Getting a Login Token for Integrations](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/cloud-5/cloud5-getting-login-token-integrations.html)|Video |An depth guide on how to get a login token for Cloud Service integrations and some use cases for doing so.
-|AEM CS |
+|May 2022|[Getting a Login Token for Integrations](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/cloud-5/cloud5-getting-login-token-integrations.html)|Video |An depth guide on how to get a login token for Cloud Service integrations and some use cases for doing so.|AEM CS |
 |May 2022|[Display multiple pdf documents in a carousel](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/display-pdf-in-carousel.html?lang=en)|Video |Learn about the common use case for displaying multiple PDF documents to the form filler to review before submitting the form.|AEM Forms |
 |May 2022|[Images with AEM Headless](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/how-to/images.html)|Video |Learn about developing a rich, compelling AEM Headless experience using images, and more.|AEM Headless |
 |May 2022|[Rich text with AEM Headless](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/how-to/localized-content.html)|Video |Learn how to use the Multi-line text field, a data type of Content Fragments that enables authors to create rich text content.|AEM Headless|
@@ -317,6 +316,7 @@ Latest Journey Optimizer tutorials:
 |May 2022|[Deliver offers with the Decisions Hub API](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/deliver-offers-with-the-decisions-api.html)|Video |Learn how to deliver offers with the Decisions Hub API. |
 |May 2022|[Create fallback offers](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/create-fallback-offers.html)|Video |Learn how to create fallback offers for decision management. Fallback offers are default offers which are shown to customers who don’t qualify for any of your personalized offers.|
 |May 2022|[Create collections](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management-configuration/create-collections.html?lang=en)|Video |Learn how to create collections for decision management. Collections are used to manage offers in logical groups and are required to build for decision management activities|
+
 {style="table-layout:auto"}
 
 ### More resources for [!DNL Journey Optimizer]
