@@ -257,6 +257,14 @@ For release notes, see [Adobe Experience Manager releases and updates](https://e
   * Ability to detect and report on the type of Data Store used.
   * Pattern updated for Experience Manager Form Portal.
 
+### Community
+
+* **Recorded Experience Manager GEMs Webinar**
+
+  * [_Integrate AEM & CIF framework to build a rich and immersive e-commerce experience_](https://adobe.ly/3jorz5r).
+
+* Experience Manager as a Cloud Service [2022.4.0 release update](https://adobe.ly/3LO0gOo).
+
 ### New Experience Manager courses and tutorials {#tutorials-aem}
 
 New videos, tutorials, and courses published over the past month.
