@@ -161,8 +161,7 @@ New video tutorials, articles, and courses published for Customer Journey Analyt
 | -----------| ---------- | ---------- | ---------- |
 |April 2022|[Overview of configuring Data Views for Customer Journey Analytics](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/overview-of-configuring-data-views-for-cja.html?lang=en)|Video |Learn about configuring [!UICONTROL Data Views] for Customer Journey Analytics. [!UICONTROL Data Views] are similar to [!UICONTROL Virtual Report Suites] in Adobe Analytics. They allow you to configure the incoming data so that it can be most useful for your reporting and analysis. |
 |April 2022|[Connections Details Experience in CJA](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections-details-experience-in-cja.html?lang=en)|Video |Learn how to check the status of your connection’s datasets and of the ingestion process.|
-
-{style="table-layout:auto"} -->
+-->
 
 ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
 
@@ -330,12 +329,6 @@ See the following links for Adobe Commerce release notes:
 * [Adobe Commerce and Magento Open Source 2.4.x release notes](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
 * [Release notes for Cloud Suite](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
 
-<!-- ### New Adobe Commerce resources {#new-commerce}
-
-New documentation and tutorials for Adobe Commerce on Experience League.
-
-{style="table-layout:auto"} -->
-
 ## ![Icon](/assets/target.png) [!DNL Adobe Target] {#target}
 
 Last Updated: **May 9, 2022**
@@ -350,17 +343,6 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 ### Latest Campaign product releases
 
 Find out more about the latest capabilities, improvements, and fixes in the [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html), and [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) release notes.
-
-<!-- ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
-
-New video tutorials and courses published for Adobe Campaign.
-
-|Published|Name|Type|Description |Applications|
-| -----------| ---------- | ---------- | ---------- | ----|
-|April 2022|[Enhance your email delivery with Experience Manager content](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.v8.aemcontent)|Course |Learn how to connect Adobe Campaign V8 with Adobe Experience Manager (AEM) to allow you to manage email delivery templates, assets, and forms in Experience Manager. |Campaign v8, AEM |
-|April 2022|[Audit Trail](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/monitoring/audit-trail.html?lang=en)|Video |Learn how to access the Audit Trail logs and which settings can be configured.|Campaign v8 |
-
-{style="table-layout:auto"} -->
 
 ### Campaign help resources
 
@@ -447,7 +429,6 @@ Last updated: **October 27, 2021**
 | ------- | ----------- |
 | Analytics for Advertising Cloud | If your organization wants to switch from using the legacy Adobe Analytics `visitorAPI.js` library to the Adobe Experience Platform library (`alloy.js`) for data collection, you must make changes to enable ID stitching. See [Using the [!DNL Last Event Service] JavaScript Library with Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/planning/web-sdk.html). |
 
-{style="table-layout:auto"}
 -->
 
 <!--
@@ -463,10 +444,6 @@ Last updated: **October 27, 2021**
 | [!UICONTROL Ads] | (Users with permission to include Clearcastclock numbers in their ads) DSP no longer shows an error if you use a clock number that's attached to another ad. **Note:**  The best practice is to use a unique clock number for each video ad. Otherwise, the publisher does not approve all the ads. |
 | [!UICONTROL Deal IDs] | The [!UICONTROL Deal ID] settings and other places in the user interface reflect new branding for [!DNL Magnite] SSP:<br><ul><li>The SSP [!DNL Tremor] ([!DNL Telaria]) is now [!DNL Magnite CTV].</li><li>In the coming weeks, [!DNL Rubicon] will change to [!DNL Magnite DV+], where [!DNL DV+] stands for display, video, and other formats such as audio.</li></ul> |
 | [!DNL Freewheel] programmatically guaranteed deals | You can now find the status of ads for [!DNL Freewheel] programmatically guaranteed deals from the [!UICONTROL Ads] view. Previously, you could check the status only from the [!UICONTROL Deals] view. |
--->
-
-<!--
-{style="table-layout:auto"}
 -->
 
 ### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
