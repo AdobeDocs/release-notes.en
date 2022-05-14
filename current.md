@@ -19,7 +19,7 @@ Ready to get started? [Take a 5-minute quiz and win](https://exploreadobe.com/ex
 >
 >To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League.
 
-Latest update: **May 13, 2022**
+Latest update: **May 14, 2022**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -400,6 +400,8 @@ Newly published video events on Experience League:
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |May 2022|[Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en)|Videos |Begin with learning about your Marketo roadmap. Then, discover the importance of thinking of your Marketo instance as a product. Get advice on unlocking the potential of Program Member Custom Fields, Marketo Engage tips and tricks, and more, in this newly published [Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en) from August 2021, now on Experience League.|
+
+{style="table-layout:auto"}
 
 ### Core Marketo Engage updates
 
