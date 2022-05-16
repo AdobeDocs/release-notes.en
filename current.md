@@ -315,7 +315,7 @@ All Experience Manager release notes are maintained at the following pages:
 
 Experience Manager Guides (formerly, XML Documentation for Experience Manager) is an application deployed onto AEM. It is a powerful, enterprise-grade component content management solution (CCMS) which enables native DITA support in Adobe Experience Manager, empowering AEM to handle DITA-based content creation and delivery.
 
-Learn more about [XML Documentation for AEM](https://www.adobe.com/products/xml-documentation-for-experience-manager/features.html).
+Learn more about [Experience Manager Guides](https://www.adobe.com/products/xml-documentation-for-experience-manager/features.html).
 
 ### Additional resources
 
