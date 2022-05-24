@@ -19,7 +19,7 @@ Ready to get started? [Take a 5-minute quiz and win](https://exploreadobe.com/ex
 >
 >To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League.
 
-Latest update: **May 14, 2022**
+Latest update: **May 24, 2022**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -33,7 +33,7 @@ Latest update: **May 14, 2022**
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
-* [[!DNL Adobe Campaign]](#ac)
+* [[!DNL Adobe Campaign]](#ac) (Updated **May 24**)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
@@ -49,11 +49,10 @@ Need help? Visit [Adobe Experience League](https://experienceleague.adobe.com/#h
 
 Experience League events are a great place to learn, interact, and get answers from product experts at Adobe!
 
-Updated **May 13, 2022**
+Updated **May 24, 2022**
 
 |Event |Type|Description |
 | -----------|---------- | ----|
-|[Adobe Analytics - Experience Makers - The Skill Exchange](https://events.bizzabo.com/389219?promo=ExperienceLeague&tr=true) |The Skill Exchange |Join us for this free, three-hour digital event focused entirely on Adobe Analytics. Ask questions live of experts and peers who know Workspace best.<br>May 18, 2022 @ 1:30pm-4:30pm EST<br> [Details & registration](https://events.bizzabo.com/389219?promo=ExperienceLeague&tr=true)|
 |[Adobe Campaign - Customer Success Webinar Series](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/)|Peer2Peer: Enhancing Your Customer Journeys via Adobe Campaign.  |Join this live Peer2Peer discussion with Anja Starun, head of Engagement Operations across Streamotion's Kayo, Binge, and Flash brands. Hear directly from her about the successful strategies that her team implemented to create individualized customer journeys using Adobe Campaign. <br>**Date:** May 26 @ 3 p.m. EST <br>[Details & registration](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/)|
 |[Push notifications with Journey Optimizer - How to easily configure your mobile app for push](https://www.youtube.com/watch?v=t36Xjhukmro)|Experience League LIVE|Learn about the common use cases for push notification with Adobe Journey Optimizer and dive into the technical details on how to configure an app for Push powered by Adobe Experience Platform. <br>**Date:** May 12, 2022 @ 9:30 a.m. PDT<br>[Schedule & past events](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)|
 |[Adobe Target Community](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096)|Q&A Coffee Break|Join Brent Kostak and Drew Burns of the Adobe Target product team who can answer your Adobe Target Questions about shared audiences, Real-Time CDP, first-party data, end-to-end personalization workflows, and more.<br>Watch the recent [Real-Time Personalization webinar](https://experienceleaguecommunities.adobe.com:443/t5/adobe-target-discussions/webinar-recording-4-28-22-real-time-personalization-with-adobe/td-p/449012) and bring your follow-up Questions to the experts on the [Coffee Break thread](https://adobe.ly/3MyiDHa) in the Adobe Target Community!<br>**Date:** May 25, 2022 @ 8 a.m. PDT<br>[Details and registration](https://adobe.ly/3MyiDHa)|
@@ -342,6 +341,8 @@ Last Updated: **May 9, 2022**
 Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
 
 ### Latest Campaign product releases
+
+**Latest release:** [Campaign Standard release 22.2](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/e-release-notes.html) (June 2022)
 
 Find out more about the latest capabilities, improvements, and fixes in the [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html), and [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) release notes.
 
