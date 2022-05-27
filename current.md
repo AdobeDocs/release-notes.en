@@ -19,9 +19,9 @@ Ready to get started? [Take a 5-minute quiz and win](https://exploreadobe.com/ex
 >
 >To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League.
 
-Latest update: **May 24, 2022**
+Latest update: **May 27, 2022**
 
-* [[!DNL Experience League] events](#events)
+* [[!DNL Experience League] events](#events) (Updated **May 27**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - central interface components & administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -49,10 +49,11 @@ Need help? Visit [Experience League](https://experienceleague.adobe.com/#home) f
 
 Experience League events are a great place to learn, interact, and get answers from product experts at Adobe!
 
-Updated **May 26, 2022**
+Updated **May 27, 2022**
 
 |Event |Type|Description |
 | -----------|---------- | ----|
+|[Experience Makers Government Forum](https://adobegovforum.govexec.com/agenda/) |On-demand video |The 13th Annual AEMGF on May 10 was a success, with a combination of virtual and in-person attendees. Mainstage and breakout sessions focused on the theme of _Digital Experiences that Put People First_. Top sessions included _Manhunters: How We Took Down Pablo Escobar_, _The Future of CX_, and _The Golden Age of Creativity and the Modern Workplace_.  |
 |[Ask the experts: The basics of Web SDK](https://www.youtube.com/watch?v=g0KajUfq-S4) |Webinar |Understanding and using data collection best practices. <br>[Schedule & past events](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)|
 |[Adobe Campaign - Customer Success Webinar Series](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/)|Peer2Peer: Enhancing Your Customer Journeys via Adobe Campaign.  |Join this live Peer2Peer discussion with Anja Starun, head of Engagement Operations across Streamotion's Kayo, Binge, and Flash brands. Hear directly from her about the successful strategies that her team implemented to create individualized customer journeys using Adobe Campaign. <br>**Date:** May 26 @ 3 p.m. EST <br>[Details & registration](https://peer2peerenhancecustomerjourney-ac-may2022.experienceleague.adobeevents.com/)|
 |[Adobe Target Community](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-4-27-22-8am-pt-jim-mctiernan/m-p/446940#M3096)|Q&A Coffee Break|Join Brent Kostak and Drew Burns of the Adobe Target product team who can answer your Adobe Target Questions about shared audiences, Real-Time CDP, first-party data, end-to-end personalization workflows, and more.<br>Watch the recent [Real-Time Personalization webinar](https://experienceleaguecommunities.adobe.com:443/t5/adobe-target-discussions/webinar-recording-4-28-22-real-time-personalization-with-adobe/td-p/449012) and bring your follow-up Questions to the experts on the [Coffee Break thread](https://adobe.ly/3MyiDHa) in the Adobe Target Community!<br>**Date:** May 25, 2022 @ 8 a.m. PDT<br>[Details and registration](https://adobe.ly/3MyiDHa)|
