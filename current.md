@@ -9,6 +9,8 @@ exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 ---
 # INTERNAL REVIEW - Adobe Experience Cloud Release Notes - June 2022
 
+Adobe Experience Platform connector for Adobe Commerce
+
 ![Banner](assets/experience-cloud-banner-3.png)
 
 As an Experience Maker, your path to success starts with [Experience League](https://experienceleague.adobe.com/?lang=en#home). Find a vast how-to documentation library, self-guided tutorials, how-to videos, and courses for all levels and roles, an online community of peers, and expert sup  port when you need it. 
@@ -313,16 +315,16 @@ All Experience Manager release notes are maintained at the following pages:
 * [Dynamic Media Classic Help Home](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=en)
 * [Experience Manager Documentation: Recent Updates](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=en#aem-as-a-cloud-service)
 
-## ![Icon](/assets/ec_appicon_24.png) Adobe Experience Manager Guides {#xml-doc}
+## ![Icon](/assets/ec_appicon_24.png) Adobe [!DNL Experience Manager Guides] {#xml-doc}
 
-Experience Manager Guides (formerly, XML Documentation for Experience Manager) is an application deployed onto AEM. It is a powerful, enterprise-grade component content management solution (CCMS) which enables native DITA support in Adobe Experience Manager, empowering AEM to handle DITA-based content creation and delivery.
+[!DNL Experience Manager Guides] (formerly, [!DNL XML Documentation for Experience Manager]) is an application deployed onto AEM. It is a powerful, enterprise-grade component content management solution (CCMS) which enables native DITA support in Adobe Experience Manager, empowering AEM to handle DITA-based content creation and delivery.
 
-Learn more about [Experience Manager Guides](https://www.adobe.com/products/xml-documentation-for-experience-manager/features.html).
+Learn more about [[!DNL Experience Manager Guides]](https://www.adobe.com/products/xml-documentation-for-experience-manager/features.html).
 
 ### Additional resources
 
-* [Experience Manager Guides](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/videos/overview.html?lang=en) - tutorials on Experience League
-* [Experience Manager Guides Learn & Support](https://helpx.adobe.com/support/xml-documentation-for-experience-manager.html) - product documentation
+* [[!DNL Experience Manager Guides]](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/videos/overview.html?lang=en) - tutorials on Experience League
+* [[!DNL Experience Manager Guides] Learn & Support](https://helpx.adobe.com/support/xml-documentation-for-experience-manager.html) - product documentation
 
 ## ![Icon](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
 
