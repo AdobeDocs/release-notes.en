@@ -437,30 +437,23 @@ Last updated: **October 27, 2021**
 
 -->
 
-<!--
 ### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Last updated: **October 27, 2021**
+Last updated: **June 8, 2022** for May 31 release
 
 | Feature | Description |
 | ------- | ----------- |
-| Custom Reports | You can now create and manage [!DNL Amazon S3] and different types of FTP delivery locations, called *[!DNL report destinations]*, for your custom reports. Once you configure report destinations, you can set up each of your new custom reports to be delivered to one or more locations of a single destination type, or to email recipients. Updates to your [!DNL Amazon S3] and FTP credentials won't interrupt report delivery.<br><br>Your existing reports are still sent to the specified email recipients. To configure delivery to a different report destination, create a report with the new destination. |
-| [!UICONTROL Packages], [!UICONTROL Placements], and [!UICONTROL Ads] views| When you view data for a single day, the trend charts now include hourly data. Hold the cursor over any point to see the data for that hour. |
-| [!UICONTROL Placements] | The placement [!UICONTROL Inspector] now includes an [!UICONTROL Inventory] tab, which shows all deals and their associated metrics for the placement. Use the information to make quick adjustments or troubleshoot issues without generating a custom report. |
-| [!UICONTROL Ads] | (Users with permission to include Clearcastclock numbers in their ads) DSP no longer shows an error if you use a clock number that's attached to another ad. **Note:**  The best practice is to use a unique clock number for each video ad. Otherwise, the publisher does not approve all the ads. |
-| [!UICONTROL Deal IDs] | The [!UICONTROL Deal ID] settings and other places in the user interface reflect new branding for [!DNL Magnite] SSP:<br><ul><li>The SSP [!DNL Tremor] ([!DNL Telaria]) is now [!DNL Magnite CTV].</li><li>In the coming weeks, [!DNL Rubicon] will change to [!DNL Magnite DV+], where [!DNL DV+] stands for display, video, and other formats such as audio.</li></ul> |
-| [!DNL Freewheel] programmatically guaranteed deals | You can now find the status of ads for [!DNL Freewheel] programmatically guaranteed deals from the [!UICONTROL Ads] view. Previously, you could check the status only from the [!UICONTROL Deals] view. |
--->
+| Custom Reports | (Beta feature) Advertising Cloud DSP can now ingest first-party segments comprised of authenticated signals built within a customer data platform (CDP). |
+
+{style="table-layout:auto"}
 
 ### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Last updated: **May 12, 2022** for May 14 release
+Last updated: **June 8, 2022** for June 11 release
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | The following beta features are available to all advertisers:<ul><li>([!DNL Microsoft® Advertising] accounts) Synchronization, read-only visibility, and reporting (including view-through data) support for your existing native ad campaigns on the [!DNL Microsoft® Audience Network], including [!DNL Microsoft® Audience Ads].</li><li>([!DNL Google Ads] and [!DNL Microsoft® Advertising] accounts) Ability to import your [!DNL Google Ads] campaigns and campaign structure to [!DNL Microsoft® Advertising] from [!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Import Campaigns Beta].<br><br>Once you import campaigns, you can check the status of your import job, review any error logs, and edit, pause, or delete your import schedule.</li></ul> |
-| [!UICONTROL Campaigns]<br><br>[!UICONTROL Portfolios] | ([!DNL Microsoft® Advertising] campaigns) The following bidding strategies are now available to all users:<ul><li>[!UICONTROL Target Impression Share]: You can configure campaigns with this strategy, and optionally set a target impression share, a target ad position, and a maximum cost per click. Caution:  This option isn't yet supported in hybrid portfolios and can't be added to standard portfolios.</li><li>[!UICONTROL Maximize Clicks]:  You can configure campaigns with this strategy, and optionally set a target maximum cost per click. You can include campaigns with this strategy in either standard or hybrid portfolios. To use this strategy in a hybrid portfolio, the portfolio's objective must include only [!DNL Adobe] properties (metrics), and you must enable uploading of Advertising Cloud Search objectives to [!DNL Microsoft® Ads].</li></ul> |
-| Integration with Adobe Analytics | (April 7) In the data feed that Advertising Cloud sends to [!DNL Analytics], data for [!DNL Google Ads] dynamic search ads is available only down to the ad group level beginning on 7 May 2022.|
+| [!UICONTROL Insights] | The Impression Share Lost analysis is now available again as a beta feature. |
 
 {style="table-layout:auto"}
 
