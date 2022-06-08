@@ -422,7 +422,7 @@ See the [[!DNL Workfront] releases](https://one.workfront.com/s/product-releases
 Release notes for [!DNL Adobe Advertising Cloud].
 
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-<!-- * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp) -->
+* [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp)
 * [New features in [!DNL Advertising Cloud Search]](#adcloud-search)
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
