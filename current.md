@@ -462,7 +462,7 @@ Last updated: **June 8, 2022** for June 11 release
 
 New tutorials and courses published for Adobe Document Cloud.
 
-|Published|Name|Type|Description
+|Published|Name|Type|Description|
 | -----------| ---------- | ---------- | ---------- |
 |June 2022|[Using the delegator role](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/delegate-signature.html?lang=en)|Video |Learn to use the delegator role to send a document to an intermediary who can then route the document for signature.|
 |May 2022|[Configure notifications for events and alerts](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/set-up-shared-events-and-alert.html?lang=en)|Video |Learn about shared events and alert settings that you can configure in Acrobat Sign. Alerts are actions that did not take place in a certain time frame, and Events are actions that have taken place.|
