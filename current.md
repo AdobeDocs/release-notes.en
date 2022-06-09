@@ -31,7 +31,7 @@ Latest update: **June 8, 2022**
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
-* [[!DNL Adobe Campaign]](#ac) (Updated **May 24**)
+* [[!DNL Adobe Campaign]](#ac)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
@@ -47,13 +47,15 @@ Need help? Visit [Experience League](https://experienceleague.adobe.com/#home) f
 
 Experience League events are a great place to learn, interact, and get answers from product experts at Adobe!
 
-Updated **June 2022**
+Updated **June 8, 2022**
 
 |Event |Type|Description |
 | -----------|---------- | ----|
+|Adobe Campaign, Journey Optimizer - [The Cross-channel Challenge: Personalization at Scale](https://adobe-campaign-cross-channel.dxfieldmarketing.adobeevents.com/) |Interactive webinar |Hear from Sheryl Kingstone, Research Director at 451 Research, about keeping up with the pace of change, using marketing technology as a critical enabler, and becoming more data-driven. We also revisit important sessions and tips and tricks shared during Adobe Summit 2022, where you will hear from experts on how you can drive personalization at scale across channels.<br>**Date:** Tuesday, June 14 - [Details & registration](https://adobe-campaign-cross-channel.dxfieldmarketing.adobeevents.com/)|
+|[Experience Makers Live](https://business.adobe.com/events/experience-makers-live/experience-makers-award-winners.html?sdid=JQVGW4SX&mv=email&mv2=sponsored) |Video and virtual events |Game-changing customer experiences and jaw-dropping digital transformations - these are what the 2022 Adobe Experience Maker Awards celebrate. <br>Join the gala for the Americas, Japan, India, Australia, and New Zealand on **June 22**<br>Join the gala for Europe, the Middle East, and Africa on **June 23** - [Details & registration](https://business.adobe.com/events/experience-makers-live/experience-makers-award-winners.html?sdid=JQVGW4SX&mv=email&mv2=sponsored)|
 |[AEM GEMS](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629)|Adobe Live Webinar |Quickly bootstrap and deploy single-page apps (SPAs) using Adobe [!UICONTROL App Builder] workflows and tools without traditional Experience Manager skills like Java and Sling being required. With Experience Manager Headless, marketers and developers can have the expertise in their own domain. Developers control the overall application framework, styling, and routing, while marketers determine the content and how it’s displayed.<br>**Date:** Wednesday, June 23 - [Details and registration...](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/aem-gems-build-sites-faster-with-aem-headless-and-app-builder/m-p/440205#M31629) |
-|[The Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/overview.html?lang=en) | |Visit the Skill Exchange to view our global series of virtual customer learning events, focusing on diving deeper into Adobe Experience Cloud solutions.|
-|[Experience League LIVE](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)|Streaming and on-demand video |A live streaming show produced by the Experience League team and hosted on YouTube. It’s a chance to connect with Adobe product experts. Learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications. [Details and schedule...](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)|
+|[The Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/overview.html?lang=en) |Recorded sessions |Visit the Skill Exchange to view our global series of virtual customer learning events, focusing on diving deeper into Adobe Experience Cloud solutions.|
+|[Experience League LIVE](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)|On-demand video |A live streaming show produced by the Experience League team and hosted on YouTube. It’s a chance to connect with Adobe product experts. Learn actionable tips, tricks, and strategies you can apply with the Adobe Experience Cloud applications. [Details and schedule...](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)|
 |[Experience Makers Government Forum](https://adobegovforum.govexec.com/agenda/) |On-demand video |The 13th Annual AEMGF on May 10 was a success, with a combination of virtual and in-person attendees. Mainstage and breakout sessions focused on the theme of _Digital Experiences that Put People First_. Top sessions included _Manhunters: How We Took Down Pablo Escobar_, _The Future of CX_, and _The Golden Age of Creativity and the Modern Workplace_.  |
 |[Ask the experts: The basics of Web SDK](https://www.youtube.com/watch?v=g0KajUfq-S4) |Webinar |Understanding and using data collection best practices. <br>[Schedule & past events](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)|
 |[Adobe [!DNL Developers Live]: Commerce](https://experienceleague.adobe.com/docs/adobe-developers-live-events/events/2022/feb2022/overview.html?lang=en) |On-demand videos|_Adobe Developers Live: Commerce 2022_ brings together developers and experience builders with diverse backgrounds and a singular purpose - to create incredible end-to-end experiences. This one-day virtual conference features important Commerce and Open Source Developer updates, technical sessions, community networking opportunities and more. |
@@ -72,7 +74,7 @@ For the latest release information, see Adobe System Status [release notes](http
 
 Experience Cloud [central UI components](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) include features available on the home page and the persistent product header. These features include user profile settings, preferences, and search. You can also find help on user and product management, Customer Attributes, and Experience Cloud Audiences.
 
-Not updated.
+Planned release: **July 11, 2022**
 
 **More help resources on [!DNL Experience Cloud Central UI Components] & Administration**
 
@@ -86,7 +88,7 @@ Not updated.
 
 Latest release information and new documentation for [!DNL Experience Platform] and [!UICONTROL Mobile SDK]:
 
-Planned release date: **May 25, 2022**
+Last update: **May 25, 2022**
 
 * [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
 
@@ -268,7 +270,7 @@ New videos, tutorials, and courses published over the past month.
 |June 2022|[[!DNL Forms] Portal Components](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/developing-for-cloud-service/forms-portal-components.html?lang=en)|Video |Learn how to enable [!DNL AEM Forms] [!UICONTROL Portal] components in Forms Cloud Service.|AEM Forms CS |
 |June 2022|[Integrate AEM & CIF framework to build a rich and immersive e-commerce experience](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/aem-and-cif-framework-integration.html?lang=en)|Video |Understand how Adobe’s CIF framework can be used to build a consistent and content-rich and immersive commerce experience.|AEM & CIF framework |
 |June 2022|[SAML 2.0 authentication](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/authentication/saml-2-0.html)|Video |Learn how to set up and authenticate end-users (not AEM authors) to a SAML 2.0 compatible IDP of your choosing.|AEM CS|
-|June 2022|[Context Aware Cloud Configurations](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/developing-for-cloud-service/context-aware-fdm.html?lang=en)|Video |Desc.|AEM Forms |
+|June 2022|[Context Aware Cloud Configurations](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/developing-for-cloud-service/context-aware-fdm.html?lang=en)|Video |Learn how to define context aware cloud configurations in AEM Forms on Cloud Service.|AEM Forms |
 
 {style="table-layout:auto"}
 
@@ -326,7 +328,7 @@ See the following links for Adobe Commerce release notes:
 |June 2022|[Manage Data Sets in MBI](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/webinars/manage-data-sets.html?lang=en)|Video |Learn about some of the powerful features of the MBI Data Warehouse Manager, directly from the Adobe Commerce Product team. Move beyond basic report building and learn how to do more with your data.|
 |June 2022|[Optimize Your MBI Data Warehouse](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/webinars/optimize-data-warehouse.html?lang=en)|Video |Learn how to manage table and column sync settings, drill down into a table’s schema, and create calculated columns to use in reports.|
 |June 2022|[Holiday Readiness with MBI](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/webinars/holiday-readiness.html?lang=en)|Video |Learn common seasonal analysis use cases and methods to address them using key MBI features.|
-|June 2022|[MBI - Ask an Expert](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/webinars/ask-expert.html?lang=en)|Type |In this two-part webinar, learn what customers say about Business Intelligence. Learn business transformation through Business Intelligence, SQL optimization using common table expressions, and much more.|
+|June 2022|[MBI - Ask an Expert](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/mbi/webinars/ask-expert.html?lang=en)|Video |In this two-part webinar, learn what customers say about Business Intelligence. Learn business transformation through Business Intelligence, SQL optimization using common table expressions, and much more.|
 
 {style="table-layout:auto"}
 
@@ -381,21 +383,6 @@ With Journey Optimizer, you can manage scheduled omnichannel campaigns and one-t
 
 Find out more about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
 
-### Journey Optimizer tutorials and courses {#tutorials-ajo}
-
-Latest Journey Optimizer tutorials:
-
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|May 2022|[Create decision rules](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/create-rules.html?lang=en)|Video |Learn how to create decision rules for decision management. Rules or _decision rules_ are one of the required building block components of personalized offers.|
-|May 2022|[Create placements](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/create-placements.html)|Video |Learn how to create placements for decision management. Placements are one of the building block components of offers. A placement is the combination of content type and channel, for example, an image in an email or HTML code on a website.|
-|May 2022|[Create decisions](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/create-decisions.html)|Video |Learn how to create decisions for decision management. A decision combines your placements and collections into a single entity, so that a decision can be made to deliver the most relevant offer to the customer.|
-|May 2022|[Deliver offers with the Decisions Hub API](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/deliver-offers-with-the-decisions-api.html)|Video |Learn how to deliver offers with the Decisions Hub API. |
-|May 2022|[Create fallback offers](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/create-fallback-offers.html)|Video |Learn how to create fallback offers for decision management. Fallback offers are default offers which are shown to customers who don’t qualify for any of your personalized offers.|
-|May 2022|[Create collections](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/create-collections.html?lang=en)|Video |Learn how to create collections for decision management. Collections are used to manage offers in logical groups and are required to build for decision management activities|
-
-{style="table-layout:auto"}
-
 ### More resources for [!DNL Journey Optimizer]
 
 * [Journey Optimizer documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html) - [Release rotes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
@@ -416,14 +403,6 @@ Find out more about the latest capabilities, improvements, and fixes in the [[!D
 ## ![Icon](/assets/marketo.png) [!DNL Adobe Marketo Engage] {#marketo}
 
 [!DNL Marketo Engage] is a complete application for lead management and B2B marketers looking to transform customer experiences by engaging across every stage of complex buying journeys.
-
-Newly published video events on Experience League:
-
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|May 2022|[Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en)|Videos |Begin with learning about your Marketo roadmap. Then, discover the importance of thinking of your Marketo instance as a product. Get advice on unlocking the potential of Program Member Custom Fields, Marketo Engage tips and tricks, and more, in this newly published [Marketo Skill Exchange](https://experienceleague.adobe.com/docs/skill-exchange-events/events/marketo/aug2021/marketo-roadmap.html?lang=en) from August 2021, now on Experience League.|
-
-{style="table-layout:auto"}
 
 ### Core Marketo Engage updates
 
