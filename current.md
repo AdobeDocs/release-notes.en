@@ -17,7 +17,7 @@ As an Experience Maker, your path to success starts with [Experience League](htt
 >
 >To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League.
 
-Latest update: **June 8, 2022**
+Latest update: **June 9, 2022**
 
 * [[!DNL Experience League] events](#events) 
 * [[!DNL Adobe System Status]](#status)
@@ -75,6 +75,10 @@ For the latest release information, see Adobe System Status [release notes](http
 Experience Cloud [central UI components](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) include features available on the home page and the persistent product header. These features include user profile settings, preferences, and search. You can also find help on user and product management, Customer Attributes, and Experience Cloud Audiences.
 
 Planned release: **July 11, 2022**
+
+| Feature | Description |
+| ------- | ------- |
+| Unified Home - Quick Access Widget | **Navigate faster:** You can now further personalize your home experience and decide which applications are at your fingertips. Use the new pinning feature to select which applications appear front and center on your [!UICONTROL Quick Access]. <br>**Stay informed with smart pinning:** Your new applications are now easier to find. Newly assigned applications will now display a "New" badge and auto-pin to [!UICONTROL Quick Access]. |
 
 **More help resources on [!DNL Experience Cloud Central UI Components] & Administration**
 
@@ -460,10 +464,8 @@ New tutorials and courses published for Adobe Document Cloud.
 
 |Published|Name|Type|Description |Application|
 | -----------| ---------- | ---------- | ---------- |---------- |
-|May 2022|[Sharing account access](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/share-account-access.html)|Video |Learn how to set up view-only access to transactions in another user’s account.|[!DNL Acrobat Sign]|
-|May 2022|[Managing document templates](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/edit-a-template.html?lang=en)|Video |Learn how to edit or delete a template in your library.|[!DNL Acrobat Sign]|
-|May 2022|[Create your first flow in Microsoft® Power Automate](https://experienceleague.adobe.com/docs/document-services/tutorials/pdfservices/create-workflow-power-automate.html?lang=en)|Article |Learn how to create your first flow in Microsoft® Power Automate using the Adobe PDF Services connector.|Document Services|
-|May 2022|[Getting credentials for Microsoft® Power Automate](https://experienceleague.adobe.com/docs/document-services/tutorials/pdfservices/getting-credentials-power-automate.html?lang=en)|Article |Learn how to get credentials to start using or trialing Adobe PDF Services. Depending on whether you are a trial user or an existing customer, this tutorial walks through the proper steps to get credentials.|Document Services|
+|June 2022|[Using the delegator role](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/delegate-signature.html?lang=en)|Video |Learn to use the delegator role to send a document to an intermediary who can then route the document for signature.|
+|May 2022|[Configure notifications for events and alerts](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/set-up-shared-events-and-alert.html?lang=en)|Video |Learn about shared events and alert settings that you can configure in Acrobat Sign. Alerts are actions that did not take place in a certain time frame, and Events are actions that have taken place.|
 
 {style="table-layout:auto"}
 
