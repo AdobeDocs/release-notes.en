@@ -181,12 +181,13 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
 
 Adobe recommends visiting the [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) page to stay current on release information.
 
-### Experience Manager product releases
+### Experience Manager product updates
 
 * **Experience Manager as a Cloud Service**
 
-    Watch the [April 2022 Release Overview video](https://video.tv.adobe.com/v/342612?quality=12) for a summary of the features added in the 2022.4.0 (April 2022) release. <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
+    Watch the [May 2022 Release Overview video](https://video.tv.adobe.com/v/343321/?quality=12) for a summary of the features added in the 2022.5.0 (May 2022) release. <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
 
+  * [April 2022 Release Overview video](https://video.tv.adobe.com/v/342612?quality=12)
   * [March 2022 Release Overview video](https://video.tv.adobe.com/v/341465).
   * [January 2022 Release Overview video](https://video.tv.adobe.com/v/340120).
   * [December 2021 Release Overview video](https://video.tv.adobe.com/v/339278).
@@ -195,74 +196,56 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
 
 * **Experience Manager Sites as a Cloud Service**
 
-  _New feature_
-
-  * You can now define content model data types as [translatable](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/content-fragments/content-fragments-models.html?lang=en#properties) using a checkbox in the content model editor. Also, Experience Manager translation rules and configurations are automatically updated.
-
   _New feature in prerelease channel_
 
-  * Publish Experience Fragments to Preview &ndash; To preview final experiences that your visitors can see, you can publish standalone Experience Fragments to Experience Manager as a Cloud Service Preview Service.
+  * Various GraphQL functionalities.
+  * A [new console](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/content-fragments/content-fragment-console.html?lang=en) optimized for headless use of content fragments.
 
 * **Experience Manager Assets as a Cloud Service**
 
-    _New feature_
+    _New features_
 
-  * You can now [sort tags](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/organize-assets.html?lang=en#use-tags-to-organize-assets) in the tag picker window in ascending or descending order based on the tag name, date of creation, or date of modification.
+  * [Dynamic Media Smart Imaging now supports AVIF file format](https://medium.com/adobetech/one-solution-fits-all-smart-imaging-with-aem-dynamic-media-be690b62df9f) - further improve Google Core Web Vital (Largest Contentful Paint), with AVIF providing 20% extra size reduction over WebP. In total, AVIF provides up to 41% average size reduction over JPEG (in some images even as high as 76%).
+  * Experience Manager Assets Brand Portal now runs automatic jobs every 12 hours to delete all Brand Portal assets that are published to Experience Manager. As a result, you do not need to delete the assets in the Contribution folder manually to keep the folder size below the threshold limit. See [What’s new in Experience Manager Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=en).
+
+    _New feature in prerelease channel_
+
+  * Experience Manager Assets uses Adobe Sensei AI capabilities to now [distinguish between colors in an image and apply differences as tags automatically on ingestion](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/color-tag-images.html?lang=en). These tags enable enhanced Search experience, based on image color composition. You can configure the number of colors, within a range of one to 40, that are tagged to an image so that you can search for images based on those colors later.
 
 * **Experience Manager Forms as a Cloud Service**
 
-    _New features_
+    _New features in prerelease channel_
 
-  * **Communications - Document Manipulation APIs support in Forms as a Cloud Service SDK** &ndash; [Document Manipulation APIs](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications.html?lang=en) help to combine, rearrange, and validate PDF documents. You can now use Communications - Document Generation APIs on a local development environment with the help of Experience Manager Forms as a Cloud Service SDK.
-  * **Use custom XCI for generating a Document of Record** &ndash; You can now [use a custom XCI file to set various properties of a Document of Record](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html?lang=en#use-a-custom-xci-file). It overrides the primary XCI with the custom changes. It provides more control over the generation of Documents of Record, increasing personalization, and customization opportunities.
-  * **Use invisible CAPTCHA in an adaptive form** &ndash; You can use the [invisible CAPTCHA to show the CAPTCHA challenge only if there is suspicious activity](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/add-components-to-an-adaptive-form/captcha-adaptive-forms.html?lang=en). If no suspicious activity is found, the CAPTCHA challenge is not displayed. It helps assess human form completion without checkbox requirements, reduce customization efforts, and improve the end-user experience.
-  * **Form Data Model Configurations** &ndash; You can now [reuse Form Data Model configurations across environments](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/use-form-data-model/create-form-data-models.html?lang=en#runmode-specific-context-aware-config), simplifying data integrations and reducing IT costs.
+  * **Communications - Document Manipulation APIs support in Forms as a Cloud Service SDK** &ndash; 
 
-* **Experience Manager Screens as a Cloud Service**
-
-  _New feature_
-
-  * Bulk Channel Assignment - Users can select multiple channels and assign to multiple displays at the same time, in one operation.
+  * **Integrate Adaptive Forms with Microsoft® Power Automate** &ndash; You can now configure an Adaptive Form to run a Microsoft® Power Automate Cloud Flow on submission. The configured Adaptive Form sends captured data, attachments, and Document Of Record to Power Automate Cloud Flow for processing. It helps you build custom data capture experience while harnessing the power of Microsoft® Power Automate to build business logics around captured data and automate customer workflows.
+  * **Wizard to create an Adaptive Form** &ndash; You can use business user friendly wizard to quickly author Adaptive Forms. The wizard provides a quick tab navigation to easily select pre-configured template, styling, fields, and submission options to create an adaptive form.
 
 * **Experience Manager as a Cloud Service Foundation**
 
-    _**SDK Build Analyzers**_
-
-  The Experience Manager as a Cloud Service SDK Build Analyzer Maven Plugin detects problems in a maven project, including missing dependencies. It gives developers an opportunity to discover issues during local development, well before deploying to Cloud environments with Cloud Manager.
-
-  A new analyzer has been recently added:
-
-  * content-packages-validation &ndash; validates for well-formed content syntax and structure for packages that are installed during deployment.
-
-  Adobe recommends that you update your maven project with the latest version of the analyzer or include the analyzer if you have not yet done so. See the [documentation](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/build-analyzer-maven-plugin.html?lang=en) for more information.
-
-* **Cloud Manager**
-
     _New features_
 
-  * Environments page has a column to display Experience Manager Version of environment.
-  * Pipeline execution now displays user interface top-level errors on the execution screen.
-  * Re-execute Production Deploy Step via Cloud Manager user interface.
-  * Reuse build images for re-execute production deploy step.
-  * New API to enable self-service deletion of network infrastructure.
+  * The **[!UICONTROL Add tree]** option under the replication agent admin screen’s **[!UICONTROL Distribute]** tab, which was previously announced as deprecated, will be removed on June 20, 2022 or soon thereafter. Packages with a tree hierarchy of content should instead be replicated using [Manage Publication](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/replication.html?lang=en#manage-publication) or the [Publish Content Tree workflow](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/replication.html?lang=en#publish-content-tree-workflow).
+  * Using the replication agent admin screen or replication API for distributing content packages larger than 10 MB (nodes with properties, not including binaries) is deprecated and will be enforced on September 12, 2022 or soon thereafter. Instead, [Manage Publication](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/replication.html?lang=en#manage-publication) or the [Publish Content Tree workflow](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/replication.html?lang=en#publish-content-tree-workflow) must be used to replicate these large content packages. In July 2022, a warning message will appear in the replication agent admin screen’s **[!UICONTROL Distribute]** tab. It appears if you are attempting to replicate these large content packages and also in the Experience Manager error log whenever the replication API is used to replicate these large content packages. In September, warnings will be replaced by errors. Adobe recommends that you adjust your processes accordingly.
 
-* **Best Practices Analyzer**
+    _New feature in prerelease channel_
 
-    _New features_
+  * Experience Manager as a Cloud Service is now integrated with Unified Shell to improve the user experience and unify it with all the other Experience Cloud applications. See [Experience Manager as a Cloud Service on Unified Shell](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/aem-cloud-service-on-unified-shell.html?lang=en) for more details.
 
-  * Ability to detect and report on usage of unsupported Asset Manager APIs. There are four APIs that are no longer supported in Experience Manager as a Cloud Service. Customers should ensure that they are no longer using these APIs and should be using the new method of asset upload.
-  * Ability to detect usage of Content Fragment templates. Content Fragment templates are no longer supported for new content fragment creation on Experience Manager as a Cloud Service. Customers must create content fragment models to replace content fragment templates.
-  * Ability to detect assets with more than 100 descendants under the metadate node of the asset in the repository. Adobe recommends you remove metadata nodes that you do not need so you can improve the performance when loading folders that consist of such assets.
-  * Ability to detect and report on the type of Data Store used.
-  * Pattern updated for Experience Manager Form Portal.
+* **Experience Manager as a Cloud Service Foundation Security** 
+
+  * **Deprecation of TLS 1.0 and TLS 1.1** &ndash; Starting June 30, 2022, Experience Manager as a Cloud Service will require a more secure network communication and data exchange with users systems. Experience Manager will use exclusively TLS (Transport Layer Security) 1.2 protocol. TLS 1.0 and 1.1 will be deprecated.
+  
+    If you continue to use TLS 1.0 or TLS 1.1, you could potentially lose access to Experience Manager as a Cloud Service.
 
 ### Community
 
-* **Recorded Experience Manager GEMs Webinar**
-
-  * [_Integrate AEM & CIF framework to build a rich and immersive e-commerce experience_](https://adobe.ly/3jorz5r).
-
-* Experience Manager as a Cloud Service [2022.4.0 release update](https://adobe.ly/3LO0gOo).
+* Play [Experience Manager as a Cloud Service 2022.5.0 release update video](https://adobe.ly/3NDPR8Y) that covers what was released. (10 minutes)
+* GEMs Webinar &ndash; _Looking under the hood: Cloud Manager 2022_
+  * Wednesday, June 15, 2022
+  * 08:00 Pacific Time; 17:00 Central European Time; 20:30 India Standard Time
+  * [Register here](https://adobe.ly/3t4jfgp).
+  * [Discussion thread](https://adobe.ly/3O0rdzd).
 
 ### New Experience Manager courses and tutorials {#tutorials-aem}
 
