@@ -47,7 +47,7 @@ Need help? Visit [Experience League](https://experienceleague.adobe.com/#home) f
 
 Experience League events are a great place to learn, interact, and get answers from product experts at Adobe!
 
-Updated **June 8, 2022**
+Updated **June 10, 2022**
 
 |Event |Type|Description |
 | -----------|---------- | ----|
