@@ -214,7 +214,7 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
 
 * **Experience Manager Forms as a Cloud Service**
 
-    _New features in prerelease channel_
+  _New features in prerelease channel_
 
   * **Communications - Document Manipulation APIs support in Forms as a Cloud Service SDK** &ndash; 
 
@@ -228,7 +228,7 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
   * The **[!UICONTROL Add tree]** option under the replication agent admin screen’s **[!UICONTROL Distribute]** tab, which was previously announced as deprecated, will be removed on June 20, 2022 or soon thereafter. Packages with a tree hierarchy of content should instead be replicated using [Manage Publication](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/replication.html?lang=en#manage-publication) or the [Publish Content Tree workflow](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/replication.html?lang=en#publish-content-tree-workflow).
   * Using the replication agent admin screen or replication API for distributing content packages larger than 10 MB (nodes with properties, not including binaries) is deprecated and will be enforced on September 12, 2022 or soon thereafter. Instead, [Manage Publication](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/replication.html?lang=en#manage-publication) or the [Publish Content Tree workflow](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/replication.html?lang=en#publish-content-tree-workflow) must be used to replicate these large content packages. In July 2022, a warning message will appear in the replication agent admin screen’s **[!UICONTROL Distribute]** tab. It appears if you are attempting to replicate these large content packages and also in the Experience Manager error log whenever the replication API is used to replicate these large content packages. In September, warnings will be replaced by errors. Adobe recommends that you adjust your processes accordingly.
 
-    _New feature in prerelease channel_
+  _New feature in prerelease channel_
 
   * Experience Manager as a Cloud Service is now integrated with Unified Shell to improve the user experience and unify it with all the other Experience Cloud applications. See [Experience Manager as a Cloud Service on Unified Shell](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/aem-cloud-service-on-unified-shell.html?lang=en) for more details.
 
