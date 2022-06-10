@@ -7,7 +7,7 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 ---
-# INTERNAL REVIEW - Adobe Experience Cloud Release Notes - June 2022
+# Adobe Experience Cloud Release Notes - June 2022
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
@@ -80,6 +80,8 @@ Planned release: **July 11, 2022**
 | ------- | ------- |
 | Unified Home - Quick Access Widget | **Navigate faster:** You can now further personalize your home experience and decide which applications are at your fingertips. Use the new pinning feature to select which applications appear front and center on your [!UICONTROL Quick Access]. <br>**Stay informed with smart pinning:** Your new applications are now easier to find. Newly assigned applications display a _New_ badge and auto-pin to [!UICONTROL Quick Access]. |
 
+{style="table-layout:auto"}
+
 **More help resources on [!DNL Experience Cloud Central UI Components] & Administration**
 
 * [Release notes](https://experienceleague.adobe.com/docs/core-services/interface/release-notes/release-notes.html?lang=en) for Experience Cloud Central UI Components
@@ -132,7 +134,7 @@ New video tutorials, articles, and courses published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2022|[Export and democratize Adobe Analytics data](https://experienceleague.adobe.com/docs/courses/using/analytics-a-1-2022-1-democratizing.html?lang=en)|Course |Learn about the features in Adobe Analytics that support you in democratizing your digital data. Data democratization is the process of removing bottlenecks and enabling key people in your organization to work with data comfortably so that they can make data-informed decisions.||
+|June 2022|[Export and democratize Adobe Analytics data](https://experienceleague.adobe.com/docs/courses/using/analytics-a-1-2022-1-democratizing.html?lang=en)|Course |Learn about the features in Adobe Analytics that support you in democratizing your digital data. Data democratization is the process of removing bottlenecks and enabling key people in your organization to work with data comfortably so that they can make data-informed decisions.|
 
 {style="table-layout:auto"}
 
@@ -333,6 +335,8 @@ Last Updated: **June 7, 2022**
 | -----------| ---------- | ---------- | ---------- |
 |June 2022|[linktext](https://experienceleague.adobe.com/?recommended=Target-D-1-2021.1)|Course |Learn how to implement Adobe Target on your website. Beginning with administrative topics, including requirements and user permissions, the course then covers implementation methods, considerations, and best practices.|
 
+{style="table-layout:auto"}
+
 ## ![Icon](/assets/campaign.png) [!DNL Adobe Campaign] {#ac}
 
 Adobe Campaign provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
@@ -355,6 +359,8 @@ New videos, tutorials, or courses published for Adobe Campaign.
 |June 2022|[Introduction to SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html)|Video |Learn what SMS is, the role of the SMS service provider, how Adobe Campaign connects to the service provider. Understand which information is passed through the service provider and which tech notes are available.|Campaign v8, Campaign Standard, Campaign Classic v7|
 |June 2022|[Set up an SMS account for a standard SMPP provider](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=en)|Video |Learn how to set up an SMPP account with Adobe Campaign, how to analyze SMS delivery results, and customize the SR processing to your SMPP provider’s specifications.|Campaign v8, Campaign Classic v7|
 |June 2022|[Adapt SMS connector to your SMPP provider](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html)|Video |Learn how to adapt the SMS connector to your SMPP provider. Fine tune your SMS settings to handle connection limits, set up the maximum throughput, the sending window, and encryption with TLS. |Campaign v8, Campaign Classic v7, Campaign Standard|
+
+{style="table-layout:auto"}
 
 ### Campaign help resources
 
