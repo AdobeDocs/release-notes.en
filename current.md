@@ -212,15 +212,13 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
   * [Dynamic Media Smart Imaging now supports AVIF file format](https://medium.com/adobetech/one-solution-fits-all-smart-imaging-with-aem-dynamic-media-be690b62df9f) - further improve Google Core Web Vital (Largest Contentful Paint), with AVIF providing 20% extra size reduction over WebP. In total, AVIF provides up to 41% average size reduction over JPEG (in some images even as high as 76%).
   * Experience Manager Assets Brand Portal now runs automatic jobs every 12 hours to delete all Brand Portal assets that are published to Experience Manager. As a result, you do not need to delete the assets in the Contribution folder manually to keep the folder size below the threshold limit. See [What’s new in Experience Manager Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=en).
 
-    _New feature in prerelease channel_
+  _New feature in prerelease channel_
 
   * Experience Manager Assets uses Adobe Sensei AI capabilities to now [distinguish between colors in an image and apply differences as tags automatically on ingestion](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/color-tag-images.html?lang=en). These tags enable enhanced Search experience, based on image color composition. You can configure the number of colors, within a range of one to 40, that are tagged to an image so that you can search for images based on those colors later.
 
 * **Experience Manager Forms as a Cloud Service**
 
   _New features in prerelease channel_
-
-  * **Communications - Document Manipulation APIs support in Forms as a Cloud Service SDK** &ndash; 
 
   * **Integrate Adaptive Forms with Microsoft® Power Automate** &ndash; You can now configure an Adaptive Form to run a Microsoft® Power Automate Cloud Flow on submission. The configured Adaptive Form sends captured data, attachments, and Document Of Record to Power Automate Cloud Flow for processing. It helps you build custom data capture experience while harnessing the power of Microsoft® Power Automate to build business logics around captured data and automate customer workflows.
   * **Wizard to create an Adaptive Form** &ndash; You can use business user friendly wizard to quickly author Adaptive Forms. The wizard provides a quick tab navigation to easily select pre-configured template, styling, fields, and submission options to create an adaptive form.
