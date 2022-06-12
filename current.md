@@ -17,7 +17,7 @@ As an Experience Maker, your path to success starts with [Experience League](htt
 >
 >To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League.
 
-Latest update: **June 10, 2022**
+Latest update: **June 12, 2022**
 
 * [[!DNL Experience League] events](#events) 
 * [[!DNL Adobe System Status]](#status)
@@ -341,9 +341,10 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 ### Latest Campaign product releases
 
-**Latest release:** [Campaign Standard release 22.2](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/e-release-notes.html) (June 2022)
-
-Find out more about the latest capabilities, improvements, and fixes in the [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html), and [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) release notes.
+* New [Campaign v8.3 release](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/release-notes.html)
+* New [Campaign Standard 22.2 release](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html)
+* New [Control Panel May release](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en#may-2022)
+* New [tutorials and courses](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#tutorials-campaign) on Experience League
 
 ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
 
