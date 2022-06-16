@@ -45,7 +45,7 @@ Need help? Visit [Experience League](https://experienceleague.adobe.com/#home) f
 
 ## ![Icon](/assets/experience-league.png) [!DNL Experience League] events {#events}
 
-Experience League events are a great place to learn, interact, and get answers from product experts at Adobe!
+[Experience League events](https://experienceleague.adobe.com/events/?lang=en) are a great place to learn, interact, and get answers from product experts at Adobe!
 
 Updated **June 10, 2022**
 
