@@ -17,7 +17,7 @@ As an Experience Maker, your path to success starts with [Experience League](htt
 >
 >To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League.
 
-Latest update: **June 12, 2022**
+Latest update: **June 28, 2022**
 
 * [[!DNL Experience League] events](#events) 
 * [[!DNL Adobe System Status]](#status)
@@ -47,10 +47,12 @@ Need help? Visit [Experience League](https://experienceleague.adobe.com/#home) f
 
 [Experience League events](https://experienceleague.adobe.com/events/?lang=en) are a great place to learn, interact, and get answers from product experts at Adobe!
 
-Updated **June 10, 2022**
+Updated **June 28, 2022**
 
 |Event |Type|Description |
 | -----------|---------- | ----|
+|[Harness Deep Data Intelligence to Elevate Personalization](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) |Customer Success webinar |Join our Adobe expert to learn how the advanced capabilities in Adobe Analytics will allow the analysts and marketers in your organization to accelerate deep data analysis and curate timely insights to power more personalized customer experiences across channels, moments, and buying stages.<br>**Date:** July 6 @ 3 p.m. AEST - [Details & registration](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) |
+|[Adobe Target - Skill Up for Success](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) |Adobe Experience Makers |Understand the core concepts and capabilities of Adobe Target to test, personalize, and recognize the power of AI that transforms your brand experience from generic to genius.<br>**Date:** June 30 & July 1 - [Details & registration](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) |
 |Adobe Campaign, Journey Optimizer - [The Cross-channel Challenge: Personalization at Scale](https://adobe-campaign-cross-channel.dxfieldmarketing.adobeevents.com/) |Virtual event |Hear from Sheryl Kingstone, Research Director at 451 Research, about keeping up with the pace of change, using marketing technology as a critical enabler, and becoming more data-driven. We also revisit important sessions and tips and tricks shared during Adobe Summit 2022, where you hear from experts on how you can drive personalization at scale across channels.<br>**Date:** June 14 - [Details & registration](https://adobe-campaign-cross-channel.dxfieldmarketing.adobeevents.com/)|
 |[Looking under the hood - Cloud Manager 2022](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-looking-under-the-hood-cloud-manager-2022/)|AEM Gems - Virtual event |Explore the new features released last year, an update on behind-the-scenes developments, and a look forward to the rest of 2022. <br>**Date:** June 15 -[Details & registration](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-looking-under-the-hood-cloud-manager-2022/) |
 |[How to Build Trust and Communicate Impact to Scale Your Digital Strategy](https://mastersroundtablemay2022.experienceleague.adobeevents.com/)|Masters Roundtable |Join us for an exclusive and intimate conversation where we will discuss ways to effectively communicate the impact of your digital strategy. <br>**Date:** June 21 - [Details & registration](https://mastersroundtablemay2022.experienceleague.adobeevents.com/) |
