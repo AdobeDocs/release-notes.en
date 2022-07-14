@@ -99,8 +99,8 @@ New video tutorials, articles, and courses published for [!DNL Experience Platfo
 
 |Published|Name|Type|Description |Application|
 | -----------| ---------- | ---------- | ---------- |---------- |
-|June 2022|[Get started with Real-time CDP for admins](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-A-1-2022.1.rtcdp)|Course |Get an introduction to the admin tasks you need to do to get up and running with [!DNL Real-time Customer Data Platform]. Learn about user management and how to set up connections with other partners and systems.|[!DNL Real-time CDP] |
-|June 2022|[Monitoring the success of segment activation](https://experienceleague.adobe.com/docs/platform-learn/tutorials/monitoring/monitoring-the-success-of-segment-activation.html?lang=en)|Video |Learn two main ways to monitor the flow of your segments out to destinations. When sending segment profiles to your activation partners, it is imperative to see information regarding the success of this data transfer, especially so you can fix problems. |[!DNL Real-time CDP] |
+|July 2022|[Segment Match receiving data](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/segment-match-receiving-data.html)|Video |With Segment Match, data can be shared to you by your strategic partners. In this video, learn how to approve and receive the data, and where you can see it and add it to your own segments.| Experience Platform - Segments|
+|July 2022|[Ask the experts: Real-Time CDP Connections](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-06-23-22.html?lang=en)|Experience League LIVE video |In this second of three livestream sessions regarding data collection for the Adobe Experience Cloud, our favorite experts will provide an extensive look at Adobe’s RTCDP Connections product, where customers can forward events to non-Adobe destinations using a server-side tag management system.|Data Collection |
 
 {style="table-layout:auto"}
 
@@ -129,7 +129,7 @@ New video tutorials, articles, and courses published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2022|[Export and democratize Adobe Analytics data](https://experienceleague.adobe.com/docs/courses/using/analytics-a-1-2022-1-democratizing.html?lang=en)|Course |Learn about the features in Adobe Analytics that support you in democratizing your digital data. Data democratization is the process of removing bottlenecks and enabling key people in your organization to work with data comfortably so that they can make data-informed decisions.|
+|July 2022|[2022 Flow improvements](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analyzing-customer-journeys/flow-improvements.html)|Video |Learn about some of the great improvements to the flow visualization. Improvements include letting you configure the start or end of the path you are interested in, filtering a column to include or exclude a specific item, and pre-configurable advanced settings.|
 
 {style="table-layout:auto"}
 
@@ -146,12 +146,9 @@ New videos, tutorials, or courses published for CJA.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2022|[Binding Dimensions in Data Views](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/binding-dimensions-in-data-views.html?lang=en)|Video |Lean about binding dimensions. This feature gives you the ability to take one dimension and connect it to another dimension for more refined persistence allocation.|
-|June 2022|[Customer Journey Analytics landing page](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/cja-basics/customer-journey-analytics-landing-page.html)|Video |The landing page for Customer Journey Analytics features a default view of your projects and mobile scorecards and a learning section to help you get started more effectively.|
-|June 2022|[Ingest, map, and transform Adobe Analytics data](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-prep/ingest-map-and-transform-adobe-analytics-data.html)|Video |Learn how to use data prep features for [!DNL Analytics] data, including data manipulation features. For example, you can map Analytics variables to new custom fields and perform transformations and calculations.|
-|June 2022|[Configure substring component settings](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/configure-substring-component-settings.html)|Video |Learn to use string manipulation methods to obtain the desired portion of dimension values in Customer Journey Analytics reports. Once applied, the data transformation happens retroactively and immediately.|
-|June 2022|[Create a mobile scorecard](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-dashboards/create-scorecard.html)|Video |Learn how to configure and present dashboards for executive users.|
-|June 2022|[Connections creation and edit experience](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/cja-connections-creation-and-edit-experience.html)|Video |Learn how to enable rolling data retention window, enable and request backfill data based on events timestamp, and import existing data by dataset.|
+|July 2022|[Configure the next and previous item panel](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/panels/configure-next-previous-item-panel.html)|Video |Learn how to configure the next and previous item panel in Customer Journey Analytics. This panel generates tables and visualizations to identify the next or previous item for a specific dimension value.|
+|July 2022|[Create an annotation](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/annotations/create-an-annotation.html?lang=en)|Video |Learn to create an annotation in your Customer Journey Analytics projects when events like campaign launches, data issues and holidays occur. This feature informs your users about metric variances on these dates or date ranges.|
+|July 2022|[Create a quick filter](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/filters/create-a-quick-filter.html)|Video |Create quick filters directly in your Customer Journey Analytics projects and bypass the complexity of the full filter builder.|
 
 {style="table-layout:auto"}
 
@@ -248,8 +245,8 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
 
 New videos, tutorials, and courses published over the past month.
 
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
+|Published|Name|Type|Description |Applications|
+| -----------| ---------- | ---------- | ---------- |---------- |
 |July 2022|[Get the most out of the Enterprise Workflow Management](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html?lang=en)|Video |learn the benefits of using workflows for your assets management and how to quickly create them.|AEM - Experience Workflow Management |
 |July 2022|[Deliver Headless Experiences with Adobe Experience Manager](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html?lang=en)|Video |Learn about headless experience management using the latest Experience Manager Content Fragment enhancements and the new GraphQL API for headless content delivery.|Experience Manager Sites |
 |July 2022|[Make Metadata work for your business in Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html?lang=en)|Video |Learn how to make the most out of your metadata in AEM Assets by reducing the workload to tag assets and by making your assets more searchable.|Experience Manager Assets |
@@ -335,7 +332,8 @@ Last Updated: **June 7, 2022**
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2022|[linktext](https://experienceleague.adobe.com/?recommended=Target-D-1-2021.1)|Course |Learn how to implement Adobe Target on your website. Beginning with administrative topics, including requirements and user permissions, the course then covers implementation methods, considerations, and best practices.|
+|July 2022|[Create audiences](https://experienceleague.adobe.com/docs/target-learn/tutorials/audiences/create-audiences.html)|Video |Learn to create and save custom audiences in [!DNL Target] to use in your activities.|
+|July 2022|[Personalize and automate with Adobe Target](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/personalize.html?lang=en)|Video |Learn the core concepts of automating and optimizing Adobe Target capabilities using [!UICONTROL Auto Target] and [!UICONTROL Auto Personalizations].|
 
 {style="table-layout:auto"}
 
@@ -388,6 +386,18 @@ With Journey Optimizer, you can manage scheduled omnichannel campaigns and one-t
 
 Find out more about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
 
+### New Journey Optimizer tutorials and courses {#tutorials-ajo}
+
+New videos, tutorials, or courses published for Adobe Journey Optimizer.
+
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|July 2022|[Configure message frequency rules](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/channel-configuration/configure-frequency-rules.html)|Video |Learn how to create, activate, test, and report on frequency rules. Understand how to determine which frequency rules will be inherited for a message.|
+|July 2022|[Configure, author, and deliver SMS messages](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/configure-author-and-deliver-sms-messages.html)|Video |Learn how to configure, author, and include SMS messaging into your customer journeys.|
+|July 2022|[Inbound keyword support for SMS](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/inbound-keyword-support-for-sms.html)|Video |Understand how native inbound keyword support (start, stop,unstop) for SMS works.|
+
+{style="table-layout:auto"}
+
 ### More resources for [!DNL Journey Optimizer]
 
 * [Journey Optimizer documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html) - [Release rotes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
@@ -412,6 +422,17 @@ Find out more about the latest capabilities, improvements, and fixes in the [[!D
 ### Core Marketo Engage updates
 
 See [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=en) for the latest release schedule information and release notes.
+
+### New Marketo tutorials and courses {#tutorials-marketo}
+
+New videos, tutorials, or courses published for Adobe Marketo.
+
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|July 2022|[B2B experiences with Marketo Engage and Adobe Experience Cloud](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-experiences.html?lang=en)|Video |Get a walkthrough of the integrations between Marketo Engage and Adobe Experience Cloud application, and what pain points will be solved.|Marketo Engage |
+|July 2022|[Better together - Adobe Marketo Engage and Real-Time CDP](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html?lang=en)|Video |Learn how to orchestrate B2B campaigns with Marketo Engage and RT-CDP (B2B edition) and what are the top use cases and advantages unlocked.|Marketo, Real-time Customer Data Platform |
+
+{style="table-layout:auto"}
 
 ## ![Icon](/assets/workfront.png) [!DNL Adobe Workfront] {#workfront}
 
