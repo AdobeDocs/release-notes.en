@@ -199,13 +199,13 @@ New features in [!DNL Forms]:
 
 * [Integrate [!UICONTROL Adaptive Forms] with Microsoft® Power Automate](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/forms-microsoft-power-automate-integration.html?lang=en): You can now configure an Adaptive Form to run a Microsoft® Power Automate Cloud Flow on submission. The configured Adaptive Form sends captured data, attachments, and Document Of Record to Power Automate Cloud Flow for processing. It helps you build custom data capture experience while harnessing the power of Microsoft® Power Automate to build business logics around captured data and automate customer workflows.
 
-* **Wizard to create an Adaptive Form:** You can use business user friendly wizard to quickly author [!UICONTROL Adaptive Forms]. The wizard provides a quick tab navigation to easily select pre-configured template, styling, fields, and submission options to create an adaptive form.
+**Wizard to create an Adaptive Form:** You can use business user friendly wizard to quickly author [!UICONTROL Adaptive Forms]. The wizard provides a quick tab navigation to easily select pre-configured template, styling, fields, and submission options to create an adaptive form.
 
 ### Experience Manager as a Cloud Service Foundation
 
 What's new:
 
-* As mentioned in the May (2022.5.0) release notes, the **[!UICONTROL Add tree]** option under the replication agent admin screen’s [!UICONTROL Distribute] tab was removed. Packages with a tree hierarchy of content should instead be replicated using [!UICONTROL Manage Publication] or the [!UICONTROL Publish Content Tree] workflow.
+As mentioned in the May (2022.5.0) release notes, the "Add tree” option under the replication agent admin screen’s Distribute tab was removed. Packages with a tree hierarchy of content should instead be replicated using Manage Publication or the Publish Content Tree workflow.
 
 ### [!DNL Cloud Manager]
 
@@ -285,10 +285,10 @@ See the following links for Adobe Commerce release notes:
 |July 2022|[Page Builder user guide](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html)|Product documentation |Learn about Page Builder features, including a three-part walkthrough for building basic content components. This guide is for administrators. It assumes a basic understanding of the core Adobe Commerce configuration and functionality.|
 |July 2022|[B2B for Adobe Commerce Guide](https://experienceleague.adobe.com/docs/commerce-admin/b2b/guide-overview.html)|Administration guide |Get detailed information about installing and enabling this module, including configuration and management of its features.|
 |July 2022|[B2B for Adobe Commerce - tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/b2b/company-accounts.html?lang=en)|Video (multiple) |Learn about the [!UICONTROL Companies] page in Adobe Commerce. You can manage your company accounts and any pending requests for approval appear at the top of the list. |
-|July 2022|[Use the Quality Patch Tool](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/tools/quality-patch-tool.html)|Video |Learn about the [!UICONTROL Quality Patch Tool], which is a command-line tool that delivers quality patches for Adobe Commerce and Magento Open Source.|
+|July 2022|[Use the Quality Patch Tool](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/tools/quality-patch-tool.html)|Type |Learn about the [!UICONTROL Quality Patch Tool], which is a command-line tool that delivers quality patches for Adobe Commerce and Magento Open Source.|
 |July 2022|[The Site-Wide Analysis Tool Dashboard](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/tools/site-wide-analysis-tool.html)|Video |Learn about the Site-Wide Analysis Tool. This feature is proactive, self-service tool and central repository that includes detailed system insights and recommendations to ensure the security and operability of your Adobe Commerce installation.|
 |July 2022|[Use Payment Services](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/payment-services.html)|Video |Learn how to use [!UICONTROL Payment Services] to reduce operational overhead, increase revenue.|
-|July 2022|[Manage Order Status](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/orders/order-status.html)|Video |Learn how to check order status and its details, and how to change the status of an order, if necessary. |
+|July 2022|[Manage Order Status](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/orders/order-status.html)|Type |Learn how to check order status and its details, and how to change the status of an order, if necessary. |
 |July 2022|[Marketing Tools](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/catalog-price-rules.html?lang=en)|Video (multiple) |Learn about creating a catalog price rule, cart price rules, manage related product rules, live search, and more.|
 |July 2022|[Innovations in content personalization that deliver business value](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/content-perosonalization.html?lang=en)|Video|View Skill Builder presentations and learn about recent innovations in Adobe's Content solution that help you democratize content authoring, make omni-channel delivery a breeze, and scale personalization. |
 |July 2022|[Catalog Management](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/catalog/seo-url-rewrites.html)|Videos |Learn about catalog management in Adobe Commerce. create a category, manage products in a category, manage inventory, and more.|
@@ -436,21 +436,25 @@ Last updated: **October 27, 2021**
 
 ### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Last updated: **June 8, 2022** for May 31 release
+<!-- 
+Last updated: **June 8, 2022** for June 29 release
+-->
 
 | Feature | Description |
 | ------- | ----------- |
-| Custom Reports | (Beta feature) Advertising Cloud DSP can now ingest first-party segments comprised of authenticated signals built within a customer data platform (CDP). |
+| [!UICONTROL Inventory] | (June 29 release) The new [!UICONTROL Inventory] > [!UICONTROL Deals] view includes the same data customization capabilities as the [!UICONTROL Campaigns] views, including additional filters, column customization and the option to save custom views, column sorting, and a data visualization (chart) view. You can open a command menu in each row by clicking [!UICONTROL …] after the deal name. |
+| [!DNL Inventory Inspector] | (June 29 release) The [!UICONTROL Inventory] tab of the placement [!UICONTROL Inspector] now includes customizable data visualization charts and expanded performance metrics, such as [!UICONTROL Viewability Rate], [!UICONTROL Clicks], and [!UICONTROL Yesterday’s CPM]. |
 
 {style="table-layout:auto"}
 
 ### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Last updated: **June 8, 2022** for June 11 release
+Last updated: **July 14, 2022** for July 16 release
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Insights] | The Impression Share Lost analysis is now available again as a beta feature. |
+| [!UICONTROL Campaigns] | (July 16 release; opt-in beta feature) You can now create and manage [!DNL Google Ads] performance max campaigns, including manually creating asset groups and uploading assets. Links to [!DNL Google Merchant Center] product feeds aren’t supported.<br><br>Once you opt in for the beta, you can create campaigns with the [!UICONTROL Campaign Type] "[!UICONTROL Performance Max]" and set up asset groups within the campaign settings.<br><br>To opt in for the beta, contact your [!DNL Adobe] account team. |
+| [!UICONTROL Campaigns], [!DNL Advanced Campaign Management], [!UICONTROL Reports] | (Various release dates in June-July) ([!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns) The following support is now available for responsive search ads:<ul><li>The [!UICONTROL Ads] view now shows previews of responsive search ads.</li><li>You can now create dynamic responsive search ad variations using a search engine-specific ad template, based on the contents of your inventory, from [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)].</li><li>The [!UICONTROL Ad Variation Report] includes two new custom columns: "[!UICONTROL Creative Titles]," which is a comma-separated list of the ad's title rows, and "[!UICONTROL Descriptions]," which is a comma-separated list of the ad's description rows.</li></ul> |
 
 {style="table-layout:auto"}
 
