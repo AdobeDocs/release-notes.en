@@ -165,69 +165,91 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
 
 Adobe recommends visiting the [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) page to stay current on release information.
 
-### Experience Manager product updates
+### Experience Manager as a Cloud Service
 
-* **Experience Manager as a Cloud Service**
+Product update videos:
 
-    Watch the [May 2022 Release Overview video](https://video.tv.adobe.com/v/343321/?quality=12) for a summary of the features added in the 2022.5.0 (May 2022) release. <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
+* [May 2022 Release Overview video](https://video.tv.adobe.com/v/343321/?quality=12) for a summary of the features added in the 2022.5.0 (May 2022) release. 
+* [April 2022 Release Overview video](https://video.tv.adobe.com/v/342612?quality=12)
+* [March 2022 Release Overview video](https://video.tv.adobe.com/v/341465).
+* [January 2022 Release Overview video](https://video.tv.adobe.com/v/340120).
+* [December 2021 Release Overview video](https://video.tv.adobe.com/v/339278).
+* [October 2021 Release Overview video](https://video.tv.adobe.com/v/338253).
+* [September 2021 Release Overview video](https://video.tv.adobe.com/v/337381).
 
-  * [April 2022 Release Overview video](https://video.tv.adobe.com/v/342612?quality=12)
-  * [March 2022 Release Overview video](https://video.tv.adobe.com/v/341465).
-  * [January 2022 Release Overview video](https://video.tv.adobe.com/v/340120).
-  * [December 2021 Release Overview video](https://video.tv.adobe.com/v/339278).
-  * [October 2021 Release Overview video](https://video.tv.adobe.com/v/338253).
-  * [September 2021 Release Overview video](https://video.tv.adobe.com/v/337381).
+#### Cloud Manager
 
-* **Experience Manager Sites as a Cloud Service**
+July 2022:
 
-  _New feature in prerelease channel_
+* [!UICONTROL Preview Service] will be deployed on a rolling basis to all programs. You will be notified in-product when your program is enabled. Refer to [Accessing Preview Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/manage-environments.html?lang=en#access-preview-service) for more details.
+* Maven Dependencies downloaded during the build step will now be cached between pipeline executions. This feature will be enabled for customers over the next several weeks.
+* The name of the program can now be edited through the edit program dialog.
+* The default branch name used during both project creation and in the default push command via manage git workflows has been changed to `main`.
+* Edit program experience in the UI has been refreshed.
+* The quality rule `ImmutableMutableMixCheck` has been updated to classify `/oak:indexnodes` as being immutable.
+* The quality rules `CQBP-84` and `CQBP-84--dependencies` have been consolidated into a single rule. As part of this consolidation, the scanning of dependencies more accurately identifies issues in third party dependencies which are being deployed to the AEM runtime.
+* To avoid confusion, the [!UICONTROL Publish] AEM and [!UICONTROL Publish Dispatcher] segment rows on the Environment Details page have been consolidated.
+* A new code quality rule has been added to validate the structure of `damAssetLucene` indexes. Refer to [Custom DAM Asset Lucene Oak Indexes](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/test-results/custom-code-quality-rules.html?lang=en#oakpal-damAssetLucene-sanity-check) for more details.
+* Environment details page now displays multiple domain names for [!UICONTROL Publish] and [!UICONTROL Preview] services (as applicable). Refer to [Environment Details](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/implementing/using-cloud-manager/manage-environments.html?lang=en#viewing-environment) for more details.
 
-  * Various GraphQL functionalities.
-  * A [new console](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/content-fragments/content-fragment-console.html?lang=en) optimized for headless use of content fragments.
+#### Experience Manager Assets as a Cloud Service
 
-* **Experience Manager Assets as a Cloud Service**
+**New features in [!DNL Assets]:**
 
-    _New features_
+* [!UICONTROL Content Automation] functionality lets Experience Manager [!DNL Assets] leverage the Adobe Creative Cloud APIs to automate asset production at scale. It improves content velocity by dramatically decreasing the time taken and iterations required to create variations of the same asset. The functionality does not require any programming and works from within the DAM. See [Generate variations of assets using Creative Cloud integration](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/cc-api-integration.html?lang=en).
 
-  * [Dynamic Media Smart Imaging now supports AVIF file format](https://medium.com/adobetech/one-solution-fits-all-smart-imaging-with-aem-dynamic-media-be690b62df9f) - further improve Google Core Web Vital (Largest Contentful Paint), with AVIF providing 20% extra size reduction over WebP. In total, AVIF provides up to 41% average size reduction over JPEG (in some images even as high as 76%).
-  * Experience Manager Assets Brand Portal now runs automatic jobs every 12 hours to delete all Brand Portal assets that are published to Experience Manager. As a result, you do not need to delete the assets in the Contribution folder manually to keep the folder size below the threshold limit. See [What’s new in Experience Manager Assets Brand Portal](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=en).
+* Adobe [Asset Link v3.0](https://helpx.adobe.com/enterprise/using/adobe-asset-link.html) for Adobe Photoshop, Adobe Illustrator, and Adobe InDesign and Adobe Asset Link v2.0 for Adobe XD is available. It provides:
 
-  _New feature in prerelease channel_
+  * Support for [!DNL Assets Essentials].
+  * Ability to automatically connect to Experience Manager as a Cloud Service or [!DNL Assets Essentials].
+  * The [!UICONTROL Asset Bulk Ingestor] tool lets you add metadata during a bulk ingestion.
 
-  * Experience Manager Assets uses Adobe Sensei AI capabilities to now [distinguish between colors in an image and apply differences as tags automatically on ingestion](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/color-tag-images.html?lang=en). These tags enable enhanced Search experience, based on image color composition. You can configure the number of colors, within a range of one to 40, that are tagged to an image so that you can search for images based on those colors later.
+**New features available in the [!DNL Assets] prerelease channel:**
 
-* **Experience Manager Forms as a Cloud Service**
+* The [!UICONTROL View] settings are enhanced to let users choose a default view and a default sorting parameter.
 
-  _New features in prerelease channel_
+* The [!UICONTROL Linkshare] download functionality uses asynchronous downloads that boosts the download speed. See [Download assets shared using link sharing](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/manage/download-assets-from-aem.html?lang=en#link-share-download).
 
-  * **Integrate Adaptive Forms with Microsoft® Power Automate** &ndash; You can now configure an Adaptive Form to run a Microsoft® Power Automate Cloud Flow on submission. The configured Adaptive Form sends captured data, attachments, and Document Of Record to Power Automate Cloud Flow for processing. It helps you build custom data capture experience while harnessing the power of Microsoft® Power Automate to build business logics around captured data and automate customer workflows.
-  * **Wizard to create an Adaptive Form** &ndash; You can use business user friendly wizard to quickly author Adaptive Forms. The wizard provides a quick tab navigation to easily select pre-configured template, styling, fields, and submission options to create an adaptive form.
+* Users can search and filter the folders based on property predicates.
 
-* **Experience Manager as a Cloud Service Foundation**
+* Experience Manager [!DNL Assets] embeds the the PDF Viewer to preview the supported document formats. It is powered by Adobe Document Cloud. This feature lets users preview PDF and other multi-page files without any complex processing. This improves the feature parity with Experience Manager 6.5. The controls available in the preview are to zoom, to navigate to pages, undock controls, and view in full screen. The integrated PDF viewer supports AI, DOCX, INDD, PDF, and PSD file formats. You can comment on the asset itself but commenting and annotations within the PDF file are not supported.
 
-    _New features_
+* A user experience enhancements displays the number of assets present in a folder. For more than 1000 assets in a folder, [!DNL Assets] displays 1000+.
 
-  * The **[!UICONTROL Add tree]** option under the replication agent admin screen’s **[!UICONTROL Distribute]** tab, which was previously announced as deprecated, will be removed on June 20, 2022 or soon thereafter. Packages with a tree hierarchy of content should instead be replicated using [Manage Publication](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/replication.html?lang=en#manage-publication) or the [Publish Content Tree workflow](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/replication.html?lang=en#publish-content-tree-workflow).
-  * Using the replication agent admin screen or replication API for distributing content packages larger than 10 MB (nodes with properties, not including binaries) is deprecated and will be enforced on September 12, 2022 or soon thereafter. Instead, [Manage Publication](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/replication.html?lang=en#manage-publication) or the [Publish Content Tree workflow](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/replication.html?lang=en#publish-content-tree-workflow) must be used to replicate these large content packages. In July 2022, a warning message appears in the replication agent admin screen’s **[!UICONTROL Distribute]** tab. It appears if you are attempting to replicate these large content packages and also in the Experience Manager error log whenever the replication API is used to replicate these large content packages. In September, warnings will be replaced by errors. Adobe recommends that you adjust your processes accordingly.
+* You can directly apply a metadata schemas to a folder in its [!UICONTROL Properties].
 
-  _New feature in prerelease channel_
+#### Experience Manager [!DNL Sites] as a Cloud Service
 
-  * Experience Manager as a Cloud Service is now integrated with Unified Shell to improve the user experience and unify it with all the other Experience Cloud applications. See [Experience Manager as a Cloud Service on Unified Shell](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/aem-cloud-service-on-unified-shell.html?lang=en) for more details.
+New features in [!DNL Sites]:
 
-* **Experience Manager as a Cloud Service Foundation Security** 
+* [!UICONTROL Publish to Preview Tier] now shown as page status in [!DNL Sites] Admin UI
+* [!UICONTROL Publish to Preview Tier] now surfacing preview URL at the end of the action and persisting the URL in page properties for later reference
 
-  * **Deprecation of TLS 1.0 and TLS 1.1** &ndash; Starting June 30, 2022, Experience Manager as a Cloud Service will require a more secure network communication and data exchange with users systems. Experience Manager will use exclusively TLS (Transport Layer Security) 1.2 protocol. TLS 1.0 and 1.1 will be deprecated.
-  
-    If you continue to use TLS 1.0 or TLS 1.1, you could potentially lose access to Experience Manager as a Cloud Service.
+#### Adobe Experience Manager Forms as a Cloud Service
 
-### Community
+New features in [!DNL Forms]:
 
-* Play [Experience Manager as a Cloud Service 2022.5.0 release update video](https://adobe.ly/3NDPR8Y) that covers what was released. (10 minutes)
-* GEMs Webinar &ndash; _Looking under the hood: Cloud Manager 2022_
-  * Wednesday, June 15, 2022
-  * 08:00 Pacific Time; 17:00 Central European Time; 20:30 India Standard Time
-  * [Register here](https://adobe.ly/3t4jfgp).
-  * [Discussion thread](https://adobe.ly/3O0rdzd).
+* [!DNL Forms] administrators can filter custom columns in AEM Inbox.
+* [!DNL Forms] developers can use the theme editor and style layer of adaptive form editor to style the captcha component.
+* Improved accuracy for automatically detecting logical sections in the source forms and converting those into corresponding adaptive form panels.
+* Added move action to help shift a PDF or XDP file from one folder to another.
+* Reduced load time and improved performance of adaptive forms editor and theme editor.
+
+Beta feature of [!DNL Forms]:
+
+* AEM Forms as a Cloud Service - Communications: Communication APIs helps you combine XDP templates and XML data to generate print documents in various formats. The service allows you to generate documents in synchronous mode. The APIs enables you to create applications that let you:
+* Generate documents by populating template files with XML data.
+* Generate output forms in various formats, including non-interactive PDF print streams.
+* Generate print PDFs from an XFA form PDF and Adobe Acrobat Form (AcroForm).
+
+You can write to `formscsbeta@adobe.com` to sign up for the beta program.
+
+#### Adobe Experience Manager [!DNL Screens] as a Cloud Service
+
+* [!UICONTROL Bulk Device Registration Management] means that provisioning massive amounts of player devices is faster and more efficient.
+* Improved search and filter options for each of the Device, Display, and Channel inventory views.
+* Device heath snapshot saves time by providing critical status as a glance.
+* Object details page offers a summary of the most relevant information for each object in your project.
 
 ### New Experience Manager courses and tutorials {#tutorials-aem}
 
@@ -276,6 +298,14 @@ All Experience Manager release notes are maintained at the following pages:
 ## ![Icon](/assets/ec_appicon_24.png) Adobe [!DNL Experience Manager Guides] {#xml-doc}
 
 [!DNL Experience Manager Guides] (formerly, [!DNL XML Documentation for Experience Manager]) is an application deployed onto AEM. It is a powerful, enterprise-grade component content management solution (CCMS) which enables native DITA support in Adobe Experience Manager, empowering AEM to handle DITA-based content creation and delivery.
+
+Latest features:
+
+**Cloud-native component content management system:** XML Documentation for Adobe Experience Manager will be available as a Cloud Service starting June 24, 2022. Get the environment which lets you author, manage and deliver documentation and content at scale.
+
+**AI-powered documentation:** Smart tagging capability for automatically identifying and extracting relevant metadata keywords from the text for metadata labelling.
+
+**New look and feel for web editor:** New look and feel with UI changes making it more intuitive. Underlying architecture has been changed from coral to react based spectrum.
 
 Learn more about [[!DNL Experience Manager Guides]](https://www.adobe.com/products/xml-documentation-for-experience-manager/features.html).
 
