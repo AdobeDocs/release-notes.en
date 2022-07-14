@@ -7,7 +7,7 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 ---
-# Adobe Experience Cloud Release Notes - July 2022
+# INTERNAL REVIEW - Adobe Experience Cloud Release Notes - July 2022
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
@@ -17,7 +17,7 @@ As an Experience Maker, your path to success starts with [Experience League](htt
 >
 >To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League.
 
-Latest update: **July 2022**
+Latest update: **July 14, 2022**
 
 * [[!DNL Experience League] events](#events) 
 * [[!DNL Adobe System Status]](#status)
@@ -45,19 +45,7 @@ Need help? Visit [Experience League](https://experienceleague.adobe.com/#home) f
 
 ## ![Icon](/assets/experience-league.png) [!DNL Experience League] events {#events}
 
-[Experience League events](https://experienceleague.adobe.com/events/?lang=en) are a great place to learn, interact, and get answers from product experts at Adobe!
-
-Updated **July 2022**
-
-|Event |Type|Description |
-| -----------|---------- | ----|
-|[Skill Builder](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/overview.html?lang=en) |Video|[What’s new in the Data and Insight space? 2022 Innovations](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/data-and-insights/2022/innovations.html?lang=en) Learn about the top trends in D&I. Join us to explore how can you make relevant use of your data by fully maximizing your Experience Cloud investments, and peek into new innovations.|
-|[Harness Deep Data Intelligence to Elevate Personalization](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) |Customer Success webinar |Join our Adobe expert to learn how the advanced capabilities in Adobe Analytics will allow the analysts and marketers in your organization to accelerate deep data analysis and curate timely insights to power more personalized customer experiences across channels, moments, and buying stages.<br>**Date:** July 6 @ 3 p.m. AEST - [Details & registration](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) |
-|[Adobe Target - Skill Up for Success](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) |Adobe Experience Makers |Understand the core concepts and capabilities of Adobe Target to test, personalize, and recognize the power of AI that transforms your brand experience from generic to genius.<br>**Date:** June 30 & July 1 - [Details & registration](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) |
-
-{style="table-layout:auto"}
-
-See [Events](https://experienceleague.adobe.com/events/?lang=en) on Experience League to stay updated.
+Experience League events are a great place to learn, interact, and get answers from product experts at Adobe! See [Events](https://experienceleague.adobe.com/events/?lang=en) on Experience League to stay updated for July 2022.
 
 ## ![Icon](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
@@ -69,7 +57,7 @@ For the latest release information, see Adobe System Status [release notes](http
 
 Experience Cloud [central UI components](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) include features available on the home page and the persistent product header. These features include user profile settings, preferences, and search. You can also find help on user and product management, Customer Attributes, and Experience Cloud Audiences.
 
-Planned release: **July 11, 2022**
+Release: **July 11, 2022**
 
 | Feature | Description |
 | ------- | ------- |
@@ -89,7 +77,7 @@ Planned release: **July 11, 2022**
 
 Latest release information and new documentation for [!DNL Experience Platform] and [!UICONTROL Mobile SDK]:
 
-Planned release: **June 22, 2022**
+Planned release: **July 27, 2022**
 
 * [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
 
@@ -100,7 +88,7 @@ New video tutorials, articles, and courses published for [!DNL Experience Platfo
 |Published|Name|Type|Description |Application|
 | -----------| ---------- | ---------- | ---------- |---------- |
 |July 2022|[Segment Match receiving data](https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/segment-match-receiving-data.html)|Video |With Segment Match, data can be shared to you by your strategic partners. In this video, learn how to approve and receive the data, and where you can see it and add it to your own segments.| Experience Platform - Segments|
-|July 2022|[Ask the experts: Real-Time CDP Connections](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-06-23-22.html?lang=en)|Experience League LIVE video |In this second of three livestream sessions regarding data collection for the Adobe Experience Cloud, our favorite experts will provide an extensive look at Adobe’s RTCDP Connections product, where customers can forward events to non-Adobe destinations using a server-side tag management system.|Data Collection |
+|July 2022|[Ask the experts: Real-Time CDP Connections](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-06-23-22.html?lang=en)|Experience League LIVE video |In this second of three livestream sessions regarding data collection, our favorite experts provide an extensive look at Adobe RTCDP [!UICONTROL Connections], where customers can forward events to non-Adobe destinations using a server-side tag management system.|Data Collection |
 
 {style="table-layout:auto"}
 
@@ -110,9 +98,9 @@ See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-not
 
 ## ![Icon](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-Next release: **June 15, 2022**
+Next release: **July 20, 2022**
 
-Latest update: **June 8, 2022**
+Last update: **July 13, 2022**
 
 * Adobe Analytics [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en)
 * Adobe Analytics [product documentation and tutorials](https://experienceleague.adobe.com/docs/analytics.html)
@@ -129,13 +117,13 @@ New video tutorials, articles, and courses published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|July 2022|[2022 Flow improvements](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analyzing-customer-journeys/flow-improvements.html)|Video |Learn about some of the great improvements to the flow visualization. Improvements include letting you configure the start or end of the path you are interested in, filtering a column to include or exclude a specific item, and pre-configurable advanced settings.|
+|July 2022|[2022 Flow improvements](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analyzing-customer-journeys/flow-improvements.html)|Video |Learn about some of the great improvements to the [!UICONTROL Flow] visualization. Improvements include letting you configure the start or end of the path you are interested in, filtering a column to include or exclude a specific item, and pre-configurable advanced settings.|
 
 {style="table-layout:auto"}
 
 ## ![Icon](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
 
-Latest update: **May 19, 2022**
+Latest update: **July 12, 2022**
 
 * Customer Journey Analytics [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en) 
 * Customer Journey Analytics [product documentation and tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=en)
@@ -146,9 +134,9 @@ New videos, tutorials, or courses published for CJA.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|July 2022|[Configure the next and previous item panel](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/panels/configure-next-previous-item-panel.html)|Video |Learn how to configure the next and previous item panel in Customer Journey Analytics. This panel generates tables and visualizations to identify the next or previous item for a specific dimension value.|
-|July 2022|[Create an annotation](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/annotations/create-an-annotation.html?lang=en)|Video |Learn to create an annotation in your Customer Journey Analytics projects when events like campaign launches, data issues and holidays occur. This feature informs your users about metric variances on these dates or date ranges.|
-|July 2022|[Create a quick filter](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/filters/create-a-quick-filter.html)|Video |Create quick filters directly in your Customer Journey Analytics projects and bypass the complexity of the full filter builder.|
+|July 2022|[Configure the next and previous item panel](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/panels/configure-next-previous-item-panel.html)|Video |Learn how to configure the next and previous item panel in [!DNL Customer Journey Analytics]. This panel generates tables and visualizations to identify the next or previous item for a specific dimension value.|
+|July 2022|[Create an annotation](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/annotations/create-an-annotation.html?lang=en)|Video |Learn to create an annotation in your [!DNL Customer Journey Analytics] projects when events like campaign launches, data issues, and holidays occur. This feature informs your users about metric variances on these dates or date ranges.|
+|July 2022|[Create a quick filter](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/filters/create-a-quick-filter.html)|Video |Create quick filters directly in your [!DNL Customer Journey Analytics] projects and bypass the complexity of the full filter builder.|
 
 {style="table-layout:auto"}
 
@@ -247,12 +235,12 @@ New videos, tutorials, and courses published over the past month.
 
 |Published|Name|Type|Description |Applications|
 | -----------| ---------- | ---------- | ---------- |---------- |
-|July 2022|[Get the most out of the Enterprise Workflow Management](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html?lang=en)|Video |learn the benefits of using workflows for your assets management and how to quickly create them.|AEM - Experience Workflow Management |
-|July 2022|[Deliver Headless Experiences with Adobe Experience Manager](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html?lang=en)|Video |Learn about headless experience management using the latest Experience Manager Content Fragment enhancements and the new GraphQL API for headless content delivery.|Experience Manager Sites |
-|July 2022|[Make Metadata work for your business in Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html?lang=en)|Video |Learn how to make the most out of your metadata in AEM Assets by reducing the workload to tag assets and by making your assets more searchable.|Experience Manager Assets |
-|July 2022|[iOS app](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/example-apps/ios-swiftui-app.html)|Video |Example applications are a great way to explore the headless capabilities of Adobe Experience Manager (AEM). This iOS application demonstrates how to query content using AEM’s GraphQL APIs using persisted queries.|Experience Manager [!DNL Assets], [!DNL Sites]|
-|July 2022|[Android App](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/example-apps/android-app.html)|Video |This Android application demonstrates how to query content using the GraphQL APIs of AEM.|Experience Manager [!DNL Assets], [!DNL Sites] |
-|July 2022|[Configuring OSGi for Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/configuring-osgi.html?lang=en )|Video |Learn how to configure OSGI for AEM CS. For example learn about management of OSGi bundles and managing the configuration settings for OSGi components through configuration files that are part of an AEM code project.|AEM as a Cloud Service |
+|July 2022|[Get the most out of the Enterprise Workflow Management](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html?lang=en)|Video |Learn the benefits of using workflows for your assets management and how to quickly create them.|AEM - Experience Workflow Management |
+|July 2022|[Deliver Headless Experiences with Adobe Experience Manager](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html?lang=en)|Video |Learn about headless experience management using the latest Experience Manager [!UICONTROL Content Fragment] enhancements and the new GraphQL API for headless content delivery.|Experience Manager [!DNL Sites] |
+|July 2022|[Make Metadata work for your business in Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html?lang=en)|Video |Learn how to make the most out of your metadata in AEM Assets by reducing the workload to tag assets and by making your assets more searchable.|Experience Manager [!DNL Assets] |
+|July 2022|[iOS app](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/example-apps/ios-swiftui-app.html)|Video |Example applications are a great way to explore the headless capabilities of Adobe Experience Manager. This iOS application demonstrates how to query content using AEM’s [!UICONTROL GraphQL APIs] using persisted queries.|Experience Manager [!DNL Assets], [!DNL Sites]|
+|July 2022|[Android App](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/example-apps/android-app.html)|Video |This Android application demonstrates how to query content using the [!UICONTROL GraphQL APIs] of AEM.|Experience Manager [!DNL Assets], [!DNL Sites] |
+|July 2022|[Configuring OSGi for Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/configuring-osgi.html?lang=en )|Video |Learn how to configure OSGI for AEM CS. For example, learn about management of OSGi bundles and managing the configuration settings for OSGi components through configuration files that are part of an AEM code project.|AEM as a Cloud Service |
 |July 2022|[Override Form Data Model Properties](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/override-fdm-values.html?lang=en)|Video |Learn how to to override form data model properties to make it easier to test one form data model against different endpoints.|AEM [!DNL Forms] |
 
 {style="table-layout:auto"}
@@ -307,13 +295,13 @@ See the following links for Adobe Commerce release notes:
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|July 2022|[Adobe Commerce Getting Started guide](https://experienceleague.adobe.com/docs/commerce-admin/start/guide-overview.html)|Product documentation |This guide is intended for merchants and system administrators that are new to Adobe Commerce and Magento Open Source. It provides an overview of the platform from their perspective and some detailed information about basic features that enable a functional store.|
-|July 2022|[Page Builder user guide](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html)|Product documentation |Learn about Page Builder features, including a three-part walkthrough for building basic content components. This guide is for administrators, and assumes a basic understanding of the core Adobe Commerce configuration and functionality.|
+|July 2022|[Adobe Commerce Getting Started guide](https://experienceleague.adobe.com/docs/commerce-admin/start/guide-overview.html)|Product documentation |A guide intended for merchants and system administrators that are new to Adobe Commerce and Magento Open Source. Get an overview of the platform from their perspective and some detailed information about basic features that enable a functional store.|
+|July 2022|[Page Builder user guide](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html)|Product documentation |Learn about Page Builder features, including a three-part walkthrough for building basic content components. This guide is for administrators. It assumes a basic understanding of the core Adobe Commerce configuration and functionality.|
 |July 2022|[B2B for Adobe Commerce Guide](https://experienceleague.corp.adobe.com/docs/commerce-admin/b2b/guide-overview.html)|Administration guide |Get detailed information about installing and enabling this module, including configuration and management of its features.|
 |July 2022|[B2B for Adobe Commerce - tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/b2b/company-accounts.html?lang=en)|Video (multiple) |Learn about the [!UICONTROL Companies] page in Adobe Commerce. You can manage your company accounts and any pending requests for approval appear at the top of the list. |
 |July 2022|[Use the Quality Patch Tool](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/tools/quality-patch-tool.html)|Type |Learn about the [!UICONTROL Quality Patch Tool], which is a command-line tool that delivers quality patches for Adobe Commerce and Magento Open Source.|
 |July 2022|[The Site-Wide Analysis Tool Dashboard](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/tools/site-wide-analysis-tool.html)|Video |Learn about the Site-Wide Analysis Tool. This feature is proactive, self-service tool and central repository that includes detailed system insights and recommendations to ensure the security and operability of your Adobe Commerce installation.|
-|July 2022|[Use Payment Services](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/payment-services.html)|Video |Learn how to use Payment Services to reduce operational overhead, increase revenue.|
+|July 2022|[Use Payment Services](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/payment-services.html)|Video |Learn how to use [!UICONTROL Payment Services] to reduce operational overhead, increase revenue.|
 |July 2022|[Manage Order Status](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/orders/order-status.html)|Type |Learn how to check order status and its details, and how to change the status of an order, if necessary. |
 |July 2022|[Marketing Tools](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/catalog-price-rules.html?lang=en)|Video (multiple) |Learn about creating a catalog price rule, cart price rules, manage related product rules, live search, and more.|
 |July 2022|[Innovations in content personalization that deliver business value](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/content-perosonalization.html?lang=en)|Video|View Skill Builder presentations and learn about recent innovations in Adobe's Content solution that help you democratize content authoring, make omni-channel delivery a breeze, and scale personalization. |
@@ -352,16 +340,16 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 New videos, tutorials, or courses published for Adobe Campaign.
 
-|Published|Name|Type|Description |Application|
+|Published|Name|Type|Description |Applications|
 | -----------| ---------- | ---------- | ---------- |---------- |
 |July 2022|[Control Panel for hybrid hosting models](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-for-hybrid-hosting-models.html)|Video |Learn how to enable Control Panel for Adobe Campaign hybrid hosting models, access Control Panel, and unlock key features.|Control Panel|
 |July 2022|[Monitor through-puts and latency](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html)|Video |Learn how to monitor delivery through-puts and transactional message latencies of your campaign instance.|Control Panel|
 |July 2022|[Monitor workflows to optimize resource usage](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html)|Video |Learn how to monitor your workflows’ temporary storage usage and where to configure workflow settings to avoid database or workflow issues on your instance.|Control Panel|
-|July 2022|[Develop and customize data models in Adobe Campaign Classic](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html?lang=en)|Video (Skill Builder events) |Join this session with our Campaign Trainer to learn how to develop a data schema inside a data model within Campaign Classic.|Campaign Classic v7|
+|July 2022|[Develop and customize data models in Adobe Campaign Classic](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html?lang=en)|Video (Skill Builder events) |Join this session with our Campaign trainer to learn how to develop a data schema inside a data model within Campaign Classic.|Campaign Classic v7|
 |July 2022|[Deliverability best practices and strategies that drive results](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/deliverability-best-practices.html)|Video |Learn how to minimize the countless hours that go into the planning and production of your email campaigns.|Campaign Classic v7|
 |July 2022|[Level up Your Cross-channel Marketing with Adobe Campaign Classic](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/cross-channel.html?lang=en)|Video |Watch this deep-dive webinar focusing on workflows, automation, personalization, and measurement for Adobe Campaign Classic customers.|Campaign Classic v7|
 |July 2022|[Time saving tips from a pro!](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/tips.html?lang=en)|Video |Start your new year with tips and tricks from an Adobe Campaign pro! Learn to be more efficient with creating and launching campaigns and how to deliver more meaningful and tailored cross-channel experiences.|Campaign Classic v7|
-|July 2022|[Adobe Campaign integrations with a marketing ecosystem](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/integrations.html?lang=en)|Video |Cross-channel marketing solutions like Adobe Campaign should not sit in isolation from other technologies or teams. Unfortunately, data and content often get stuck in disparate systems, impeding a complete understanding of a customer and disrupting cross-channel strategies.|Campaign Classic v7|
+|July 2022|[Adobe Campaign integrations with a marketing ecosystem](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/integrations.html?lang=en)|Video |Learn about Adobe Campaign integrations with a marketing ecosystem. Cross-channel marketing solutions like Adobe Campaign should not sit in isolation from other technologies or teams. Don't let disparate systems impede a complete understanding of a customer and disrupt cross-channel strategies.|Campaign Classic v7|
 |July 2022|[Adobe Campaign Standard Customer Spotlight - Microsoft](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/microsoft.html?lang=en)|Video |Hear from the marketing team at Microsoft to share how they use Adobe Campaign Standard, their architecture and guiding principles, and best practices. |Campaign Standard|
 |July 2022|[Adobe Campaign Customer Spotlight - Center Parcs](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/center-parcs.html?lang=en)|Video |Hear Adobe Campaign customers share how they overcome challenges, adjust to the new normal, become more efficient with managing campaigns, and drive meaningful value through Adobe Campaign.|Campaign Classic v7|
 |July 2022|[Adobe Campaign Classic V7 vs V8](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/classic-v7-vs-v8.html?lang=en)|Video |Hear about the latest Product updates as well as understand differences between V7 and V8 from our Product Managers.|Campaign Classic v7, Campaign v8|
