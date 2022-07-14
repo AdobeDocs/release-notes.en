@@ -55,9 +55,9 @@ Updated **July 2022**
 |[Harness Deep Data Intelligence to Elevate Personalization](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) |Customer Success webinar |Join our Adobe expert to learn how the advanced capabilities in Adobe Analytics will allow the analysts and marketers in your organization to accelerate deep data analysis and curate timely insights to power more personalized customer experiences across channels, moments, and buying stages.<br>**Date:** July 6 @ 3 p.m. AEST - [Details & registration](https://advancedanalyticsapac2022.experienceleague.adobeevents.com/) |
 |[Adobe Target - Skill Up for Success](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) |Adobe Experience Makers |Understand the core concepts and capabilities of Adobe Target to test, personalize, and recognize the power of AI that transforms your brand experience from generic to genius.<br>**Date:** June 30 & July 1 - [Details & registration](https://eventsreg.in/Adobe_22/Q2/Adobe_Target/EDM/) |
 
-See [Events](https://experienceleague.adobe.com/events/?lang=en) on Experience League to stay updated.
-
 {style="table-layout:auto"}
+
+See [Events](https://experienceleague.adobe.com/events/?lang=en) on Experience League to stay updated.
 
 ## ![Icon](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
