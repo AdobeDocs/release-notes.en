@@ -423,21 +423,24 @@ Last updated: **October 27, 2021**
 
 ### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Last updated: **June 8, 2022** for May 31 release
+Last updated: **July 14, 2022**
 
 | Feature | Description |
 | ------- | ----------- |
-| Custom Reports | (Beta feature) Advertising Cloud DSP can now ingest first-party segments comprised of authenticated signals built within a customer data platform (CDP). |
+| Custom Reports | (31 May release; beta feature) Advertising Cloud DSP can now ingest first-party segments comprised of authenticated signals built within a customer data platform (CDP). |
+| [!UICONTROL Inventory] | (June 29 release) The new [!UICONTROL Inventory] > [!UICONTROL Deals] view includes the same data customization capabilities as the [!UICONTROL Campaigns] views, including additional filters, column customization and the option to save custom views, column sorting, and a data visualization (chart) view. You can open a command menu in each row by clicking [!UICONTROL …] after the deal name. |
+| [!DNL Inventory Inspector] | (June 29 release) The [!UICONTROL Inventory] tab of the placement [!UICONTROL Inspector] now includes customizable data visualization charts and expanded performance metrics, such as [!UICONTROL Viewability Rate], [!UICONTROL Clicks], and [!UICONTROL Yesterday’s CPM]. |
 
 {style="table-layout:auto"}
 
 ### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Last updated: **June 8, 2022** for June 11 release
+Last updated: **July 14, 2022**
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Insights] | The Impression Share Lost analysis is now available again as a beta feature. |
+| [!UICONTROL Insights] | (June 11 release) The Impression Share Lost analysis is now available again as a beta feature. |
+| [!DNL Advanced Campaign Management] | (June 20) ([!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns) You can now create dynamic responsive search ad variations using a search engine-specific ad template, based on the contents of your inventory, from [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]. |
 
 {style="table-layout:auto"}
 
