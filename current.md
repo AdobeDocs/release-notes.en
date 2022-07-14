@@ -183,21 +183,21 @@ Older product update videos:
 
 New features in [!DNL Sites]:
 
-* A new user interface is now available for content admins and content authors to efficiently manage (take actions such as publish, unpublish, copy, move, and so on.), search/filter, and create content fragments for Headless use-cases.
+* A [new user interface](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/content-fragments/content-fragment-console.html?lang=en) is now available for content admins and content authors to efficiently manage (take actions such as publish, unpublish, copy, move, and so on.), search/filter, and create content fragments for Headless use-cases.
 
-* The new [!UICONTROL Table of Contents Component] works not only with the [!UICONTROL Core Components] but with all components, automatically rendering table of contents on content pages. And, because it is rendered server-side and fully cached by the dispatcher, it is also efficient to load.
+* The new [Table of Contents Component](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/components/tableofcontents.html?lang=en) works not only with the [!UICONTROL Core Components] but with all components, automatically rendering table of contents on content pages. And, because it is rendered server-side and fully cached by the dispatcher, it is also efficient to load.
 
 ### Experience Manager [!DNL Assets] as a [!DNL Cloud Service]
 
 New features in [!DNL Assets]:
 
-* Experience Manager [!DNL Assets] uses Adobe Sensei AI capabilities to now distinguish between colors in an image and apply those as tags automatically on ingestion. These tags enable enhanced Search experience, based on image color composition. You can configure the number of colors, within a range of one to forty, that are tagged to an image so that you can search for images based on those colors later.
+* Experience Manager [!DNL Assets] uses Adobe Sensei AI capabilities to now [distinguish between colors in an image and apply those as tags automatically on ingestion](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/color-tag-images.html?lang=en). These tags enable enhanced Search experience, based on image color composition. You can configure the number of colors, within a range of one to forty, that are tagged to an image so that you can search for images based on those colors later.
 
 ### Experience Manager Forms as a Cloud Service
 
 New features in [!DNL Forms]:
 
-* **Integrate [!UICONTROL Adaptive Forms] with Microsoft® Power Automate:** You can now configure an Adaptive Form to run a Microsoft® Power Automate Cloud Flow on submission. The configured Adaptive Form sends captured data, attachments, and Document Of Record to Power Automate Cloud Flow for processing. It helps you build custom data capture experience while harnessing the power of Microsoft® Power Automate to build business logics around captured data and automate customer workflows.
+* [Integrate [!UICONTROL Adaptive Forms] with Microsoft® Power Automate](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/forms-microsoft-power-automate-integration.html?lang=en): You can now configure an Adaptive Form to run a Microsoft® Power Automate Cloud Flow on submission. The configured Adaptive Form sends captured data, attachments, and Document Of Record to Power Automate Cloud Flow for processing. It helps you build custom data capture experience while harnessing the power of Microsoft® Power Automate to build business logics around captured data and automate customer workflows.
 
 * **Wizard to create an Adaptive Form:** You can use business user friendly wizard to quickly author [!UICONTROL Adaptive Forms]. The wizard provides a quick tab navigation to easily select pre-configured template, styling, fields, and submission options to create an adaptive form.
 
@@ -213,7 +213,7 @@ What’s New:
 
 * [!DNL Cloud Manager] users can now access useful video tutorials from the [!UICONTROL Welcome] card on the landing page at any time.
 
-* The popover on the [!UICONTROL Restore Content] tab of the environments details page now displays a handy list of git commands allowing the user to view changes locally.
+* The popover on the [Restore Content](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/backup.html?lang=en) tab of the environments details page now displays a handy list of git commands allowing the user to view changes locally.
 
 ### New Experience Manager courses and tutorials {#tutorials-aem}
 
