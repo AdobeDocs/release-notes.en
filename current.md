@@ -183,7 +183,7 @@ Older product update videos:
 
 New features in [!DNL Sites]:
 
-* A [new user interface](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/content-fragments/content-fragment-console.html?lang=en) is now available for content admins and content authors to efficiently manage (take actions such as publish, unpublish, copy, move, and so on.), search/filter, and create content fragments for Headless use-cases.
+* A [new user interface](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=en) is now available for content admins and content authors to efficiently manage (take actions such as publish, unpublish, copy, and move), search/filter, and create content fragments for Headless use-cases.
 
 * The new [Table of Contents Component](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/components/tableofcontents.html?lang=en) works not only with the [!UICONTROL Core Components] but with all components, automatically rendering table of contents on content pages. And, because it is rendered server-side and fully cached by the dispatcher, it is also efficient to load.
 
@@ -225,9 +225,9 @@ New videos, tutorials, and courses published over the past month.
 |July 2022|[Deliver Headless Experiences with Adobe Experience Manager](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html?lang=en)|Video |Learn about headless experience management using the latest Experience Manager [!UICONTROL Content Fragment] enhancements and the new GraphQL API for headless content delivery.|Experience Manager [!DNL Sites] |
 |July 2022|[Make Metadata work for your business in Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html?lang=en)|Video |Learn how to make the most out of your metadata in AEM Assets by reducing the workload to tag assets and by making your assets more searchable.|Experience Manager [!DNL Assets] |
 |July 2022|[iOS app](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/example-apps/ios-swiftui-app.html)|Video |Example applications are a great way to explore the headless capabilities of Adobe Experience Manager. This iOS application demonstrates how to query content using AEM’s [!UICONTROL GraphQL APIs] using persisted queries.|Experience Manager [!DNL Assets], [!DNL Sites]|
-|July 2022|[Android App](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/example-apps/android-app.html)|Video |This Android application demonstrates how to query content using the [!UICONTROL GraphQL APIs] of AEM.|Experience Manager [!DNL Assets], [!DNL Sites] |
+|July 2022|[Android™ App](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/example-apps/android-app.html)|Video |This Android™ application demonstrates how to query content using the [!UICONTROL GraphQL APIs] of AEM.|Experience Manager [!DNL Assets], [!DNL Sites] |
 |July 2022|[Configuring OSGi for Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/configuring-osgi.html?lang=en )|Video |Learn how to configure OSGI for AEM CS. For example, learn about management of OSGi bundles and managing the configuration settings for OSGi components through configuration files that are part of an AEM code project.|AEM as a Cloud Service |
-|July 2022|[Override Form Data Model Properties](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/override-fdm-values.html?lang=en)|Video |Learn how to to override form data model properties to make it easier to test one form data model against different endpoints.|AEM [!DNL Forms] |
+|July 2022|[Override Form Data Model Properties](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/override-fdm-values.html?lang=en)|Video |Learn how to override form data model properties to make it easier to test one form data model against different endpoints.|AEM [!DNL Forms] |
 
 {style="table-layout:auto"}
 
@@ -236,7 +236,7 @@ New videos, tutorials, and courses published over the past month.
 All Experience Manager release notes are maintained at the following pages:
 
 * [Experience Manager as a Cloud Service release information](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=en)
-* [Experience Manager Cloud Manager release notes](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=en)
+* [Experience Manager Cloud Manager release notes](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/current.html?lang=en)
 * [Automated Forms Conversion Service release notes](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=en)
 * [Experience Manager 6.5 Service Pack release notes](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=en)
 * [Experience Manager 6.4 Cumulative Fix Pack release notes](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=en)
@@ -250,7 +250,7 @@ All Experience Manager release notes are maintained at the following pages:
 ### Other Help resources for Experience Manager
 
 * [Experience Manager as a Cloud Service Guides](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en)
-* [Cloud Manager User Guide](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=en)
+* [Cloud Manager User Guide](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=en)
 * [Experience Manager 6.5 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en)
 * [Experience Manager 6.4 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-64.html)
 * [Experience Manager 6.3 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)
@@ -261,13 +261,13 @@ All Experience Manager release notes are maintained at the following pages:
 
 ## ![Icon](/assets/ec_appicon_24.png) Adobe [!DNL Experience Manager Guides] {#xml-doc}
 
-[!DNL Experience Manager Guides] (formerly, [!DNL XML Documentation for Experience Manager]) is an application deployed onto AEM. It is a powerful, enterprise-grade component content management solution (CCMS) which enables native DITA support in Adobe Experience Manager, empowering AEM to handle DITA-based content creation and delivery.
+[!DNL Experience Manager Guides] is an application deployed onto AEM. It is a powerful, enterprise-grade component content management solution (CCMS) which enables native DITA support in Adobe Experience Manager, empowering AEM to handle DITA-based content creation and delivery.
 
 Learn more about [[!DNL Experience Manager Guides]](https://www.adobe.com/products/xml-documentation-for-experience-manager/features.html).
 
 ### Additional resources
 
-* [[!DNL Experience Manager Guides]](https://experienceleague.adobe.com/docs/experience-manager-xml-documentation-learn/videos/overview.html?lang=en) - tutorials on Experience League
+* [[!DNL Experience Manager Guides]](https://experienceleague.adobe.com/docs/experience-manager-guides-learn/videos/overview.html?lang=en) - tutorials on Experience League
 * [[!DNL Experience Manager Guides] Learn & Support](https://helpx.adobe.com/support/xml-documentation-for-experience-manager.html) - product documentation
 
 ## ![Icon](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
@@ -319,7 +319,7 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 * New [Campaign v8.3 release](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/release-notes.html)
 * New [Campaign Standard 22.2 release](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html)
-* New [Control Panel May release](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en#may-2022)
+* New [Control Panel May release](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)
 * New [tutorials and courses](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#tutorials-campaign) on Experience League
 
 ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
@@ -336,9 +336,9 @@ New videos, tutorials, or courses published for Adobe Campaign.
 |July 2022|[Level up Your Cross-channel Marketing with Adobe Campaign Classic](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/cross-channel.html?lang=en)|Video |Watch this deep-dive webinar focusing on workflows, automation, personalization, and measurement for Adobe Campaign Classic customers.|Campaign Classic v7|
 |July 2022|[Time saving tips from a pro!](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/tips.html?lang=en)|Video |Start your new year with tips and tricks from an Adobe Campaign pro! Learn to be more efficient with creating and launching campaigns and how to deliver more meaningful and tailored cross-channel experiences.|Campaign Classic v7|
 |July 2022|[Adobe Campaign integrations with a marketing ecosystem](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/integrations.html?lang=en)|Video |Learn about Adobe Campaign integrations with a marketing ecosystem. Cross-channel marketing solutions like Adobe Campaign should not sit in isolation from other technologies or teams. Don't let disparate systems impede a complete understanding of a customer and disrupt cross-channel strategies.|Campaign Classic v7|
-|July 2022|[Adobe Campaign Standard Customer Spotlight - Microsoft](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/microsoft.html?lang=en)|Video |Hear from the marketing team at Microsoft to share how they use Adobe Campaign Standard, their architecture and guiding principles, and best practices. |Campaign Standard|
+|July 2022|[Adobe Campaign Standard Customer Spotlight - Microsoft](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/microsoft.html?lang=en)|Video |Hear from the marketing team at Microsoft® to share how they use Adobe Campaign Standard, their architecture and guiding principles, and best practices. |Campaign Standard|
 |July 2022|[Adobe Campaign Customer Spotlight - Center Parcs](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/center-parcs.html?lang=en)|Video |Hear Adobe Campaign customers share how they overcome challenges, adjust to the new normal, become more efficient with managing campaigns, and drive meaningful value through Adobe Campaign.|Campaign Classic v7|
-|July 2022|[Adobe Campaign Classic V7 vs V8](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/classic-v7-vs-v8.html?lang=en)|Video |Hear about the latest Product updates as well as understand differences between V7 and V8 from our Product Managers.|Campaign Classic v7, Campaign v8|
+|July 2022|[Adobe Campaign Classic V7 vs V8](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/classic-v7-vs-v8.html?lang=en)|Video |Hear about the latest Product updates and understand differences between V7 and V8 from our Product Managers.|Campaign Classic v7, Campaign v8|
 |July 2022|[Keynote - Customer Journey trends and innovation across B2B & B2C](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/keynote.html?lang=en)|Video |Learn about the latest trends in Customer Journey Management across B2B and B2C. See the most recent innovations in key journey applications and the broader Adobe Experience Cloud and Platform.|Marketo, Campaign Classic v7, Campaign v8|
 |July 2022|[Top Tips and Tricks for Adobe Campaign Standard](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html?lang=en)|Video |Plug in to your Adobe Campaign Standard instance and discover best practices around targeting, personalization, and marketing fatigue to have a better usage of ACS.|Campaign Standard|
 |July 2022|[Team, skills, and organizational design required to support cross-channel marketing](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/team-skills-org-design.html)|Video |Learn how to be empowered to engage wherever, whenever, and however you want. Learn the importance of having a marketing organization that supports planning, execution, and measurement.|Campaign Classic v7, Campaign v8, Campaign Standard|
@@ -350,7 +350,7 @@ New videos, tutorials, or courses published for Adobe Campaign.
 * Adobe Campaign v8: [Documentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) - [Implementation Guides](https://experienceleague.adobe.com/docs/campaign/campaign-v8/implement/implement.html)
 * Adobe Campaign Standard: [Campaign Standard Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html) - [Release Planning](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html)
 * Adobe Campaign Classic: [Campaign Classic v7 Documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [How-to videos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html)
-* Adobe Campaign Control Panel: [Documentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=en) - How-to-videos for [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html) / [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html)
+* Adobe Campaign Control Panel: [Documentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en) - How-to-videos for [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html) / [Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html)
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
 
@@ -368,7 +368,7 @@ New videos, tutorials, or courses published for Adobe Journey Optimizer.
 | -----------| ---------- | ---------- | ---------- |
 |July 2022|[Configure message frequency rules](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/channel-configuration/configure-frequency-rules.html)|Video |Learn how to create, activate, test, and report on frequency rules. Understand how to determine which frequency rules will be inherited for a message.|
 |July 2022|[Configure, author, and deliver SMS messages](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/configure-author-and-deliver-sms-messages.html)|Video |Learn how to configure, author, and include SMS messaging into your customer journeys.|
-|July 2022|[Inbound keyword support for SMS](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/inbound-keyword-support-for-sms.html)|Video |Understand how native inbound keyword support (start, stop,unstop) for SMS works.|
+|July 2022|[Inbound keyword support for SMS](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/inbound-keyword-support-for-sms.html)|Video |Understand how native inbound keyword support (start, stop, unstop) for SMS works.|
 
 {style="table-layout:auto"}
 
@@ -454,7 +454,7 @@ Last updated: **July 14, 2022** for July 16 release
 | Feature | Description |
 | ------- | ----------- |
 | [!UICONTROL Campaigns] | (July 16 release; opt-in beta feature) You can now create and manage [!DNL Google Ads] performance max campaigns, including manually creating asset groups and uploading assets. Links to [!DNL Google Merchant Center] product feeds aren’t supported.<br><br>Once you opt in for the beta, you can create campaigns with the [!UICONTROL Campaign Type] "[!UICONTROL Performance Max]" and set up asset groups within the campaign settings.<br><br>To opt in for the beta, contact your [!DNL Adobe] account team. |
-| [!UICONTROL Campaigns], [!DNL Advanced Campaign Management], [!UICONTROL Reports] | (Various release dates in June-July) ([!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns) The following support is now available for responsive search ads:<ul><li>The [!UICONTROL Ads] view now shows previews of responsive search ads.</li><li>You can now create dynamic responsive search ad variations using a search engine-specific ad template, based on the contents of your inventory, from [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)].</li><li>The [!UICONTROL Ad Variation Report] includes two new custom columns: "[!UICONTROL Creative Titles]," which is a comma-separated list of the ad's title rows, and "[!UICONTROL Descriptions]," which is a comma-separated list of the ad's description rows.</li></ul> |
+| [!UICONTROL Campaigns], [!DNL Advanced Campaign Management], [!UICONTROL Reports] | (Various release dates in June-July) ([!DNL Google Ads] and [!DNL Microsoft® Advertising] campaigns) The following support is now available for responsive search ads:<ul><li>The [!UICONTROL Ads] view now shows previews of responsive search ads.</li><li>You can now create dynamic responsive search ad variations using a search engine-specific ad template, based on the contents of your inventory, from [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)].</li><li>The [!UICONTROL Ad Variation Report] includes two new custom columns: "[!UICONTROL Creative Titles]," which is a comma-separated list of the ad's title rows, and "[!UICONTROL Descriptions]," which is a comma-separated list of the ad's description rows.</li></ul> |
 
 {style="table-layout:auto"}
 
@@ -469,7 +469,7 @@ New tutorials and courses published for Adobe Document Cloud.
 |July 2022|[Using the delegator role](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/delegate-signature.html?lang=en)|Video (updated) |Description|Adobe Sign|
 |July 2022|[Electronically signing a document](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/electronically-sign-a-document.html?lang=en)|Video (updated) |Learn how easy it is to sign a document that is sent to you with Acrobat Sign.|Adobe Sign|
 |July 2022|[Up & running for Acrobat Sign administrators](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/up-and-running-admin.html?lang=en)|Video (updated) |Learn the seven key areas that administrators should focus on to get up & running quickly in Acrobat Sign.|Adobe Sign|
-|July 2022|[Send for signature in Outlook](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/send-for-signature-with-outlook.html?lang=en#)|Video (updated) |Learn how to streamline document workflows by sending a document for signature directly within Microsoft Outlook.|Adobe Sign|
+|July 2022|[Send for Signature in Outlook](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/send-for-signature-with-outlook.html?lang=en#)|Video (updated) |Learn how to streamline document workflows by sending a document for signature directly within Microsoft® Outlook.|Adobe Sign|
 |July 2022|[Signing using [!DNL Aadhaar]](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/aadhaar/aadhaar-sign.html)|Video (updated) |Learn how to use your [!DNL Aadhaar] digital ID to authenticate your identity and authorize a remote digital signature (cloud signature) on a document in Acrobat Sign.|Adobe Sign|
 |July 2022|[Creating and managing groups](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-and-manage-groups.html?lang=en)|Video (updated) |Learn how to create groups, add users to groups, and edit group settings. |Adobe Sign|
 |July 2022|[Delegate signing to someone else](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/delegate-signing.html?lang=en)|Video (updated) |Learn how to delegate the signing of a document to someone else.|Adobe Sign|
