@@ -248,12 +248,15 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
 
 New videos, tutorials, and courses published over the past month.
 
-|Published|Name|Type|Description |Applications |
-| -----------| ---------- | ---------- | ---------- | ------|
-|June 2022|[[!DNL Forms] Portal Components](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/developing-for-cloud-service/forms-portal-components.html?lang=en)|Video |Learn how to enable [!DNL AEM Forms] [!UICONTROL Portal] components in Forms Cloud Service.|AEM Forms CS |
-|June 2022|[Integrate AEM & CIF framework to build a rich and immersive e-commerce experience](https://experienceleague.adobe.com/docs/experience-manager-gems-events/gems/gems2022/aem-and-cif-framework-integration.html?lang=en)|Video |Understand how Adobe’s CIF framework can be used to build a consistent and content-rich and immersive commerce experience.|AEM & CIF framework |
-|June 2022|[SAML 2.0 authentication](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/authentication/saml-2-0.html)|Video |Learn how to set up and authenticate end-users (not AEM authors) to a SAML 2.0 compatible IDP of your choosing.|AEM CS|
-|June 2022|[Context Aware Cloud Configurations](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/developing-for-cloud-service/context-aware-fdm.html?lang=en)|Video |Learn how to define context-aware cloud configurations in AEM Forms on Cloud Service.|AEM Forms |
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|July 2022|[Get the most out of the Enterprise Workflow Management](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/workflow.html?lang=en)|Video |learn the benefits of using workflows for your assets management and how to quickly create them.|AEM - Experience Workflow Management |
+|July 2022|[Deliver Headless Experiences with Adobe Experience Manager](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html?lang=en)|Video |Learn about headless experience management using the latest Experience Manager Content Fragment enhancements and the new GraphQL API for headless content delivery.|Experience Manager Sites |
+|July 2022|[Make Metadata work for your business in Adobe Experience Manager Assets](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/metadata.html?lang=en)|Video |Learn how to make the most out of your metadata in AEM Assets by reducing the workload to tag assets and by making your assets more searchable.|Experience Manager Assets |
+|July 2022|[iOS app](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/example-apps/ios-swiftui-app.html)|Video |Example applications are a great way to explore the headless capabilities of Adobe Experience Manager (AEM). This iOS application demonstrates how to query content using AEM’s GraphQL APIs using persisted queries.|Experience Manager [!DNL Assets], [!DNL Sites]|
+|July 2022|[Android App](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/example-apps/android-app.html)|Video |This Android application demonstrates how to query content using the GraphQL APIs of AEM.|Experience Manager [!DNL Assets], [!DNL Sites] |
+|July 2022|[Configuring OSGi for Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/deploying/configuring-osgi.html?lang=en )|Video |Learn how to configure OSGI for AEM CS. For example learn about management of OSGi bundles and managing the configuration settings for OSGi components through configuration files that are part of an AEM code project.|AEM as a Cloud Service |
+|July 2022|[Override Form Data Model Properties](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/adaptive-forms/override-fdm-values.html?lang=en)|Video |Learn how to to override form data model properties to make it easier to test one form data model against different endpoints.|AEM [!DNL Forms] |
 
 {style="table-layout:auto"}
 
