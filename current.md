@@ -205,7 +205,7 @@ New features in [!DNL Forms]:
 
 What's new:
 
-As mentioned in the May (2022.5.0) release notes, the **[!UICONTROL Add tree]** option under the replication agent admin screen’s [!UICONTROL Distribute] tab was removed. Packages with a tree hierarchy of content should instead be replicated using [!UICONTROL Manage Publication] or the [!UICONTROL Publish Content Tree] workflow.
+* As mentioned in the May (2022.5.0) release notes, the **[!UICONTROL Add tree]** option under the replication agent admin screen’s [!UICONTROL Distribute] tab was removed. Packages with a tree hierarchy of content should instead be replicated using [!UICONTROL Manage Publication] or the [!UICONTROL Publish Content Tree] workflow.
 
 ### [!DNL Cloud Manager]
 
