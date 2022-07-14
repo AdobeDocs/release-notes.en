@@ -213,7 +213,7 @@ What’s New:
 
 * [!DNL Cloud Manager] users can now access useful video tutorials from the [!UICONTROL Welcome] card on the landing page at any time.
 
-* The popover on the Restore Content tab of the environments details page now displays a handy list of git commands allowing the user to view changes locally.
+* The popover on the [!UICONTROL Restore Content] tab of the environments details page now displays a handy list of git commands allowing the user to view changes locally.
 
 ### New Experience Manager courses and tutorials {#tutorials-aem}
 
@@ -285,10 +285,10 @@ See the following links for Adobe Commerce release notes:
 |July 2022|[Page Builder user guide](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/guide-overview.html)|Product documentation |Learn about Page Builder features, including a three-part walkthrough for building basic content components. This guide is for administrators. It assumes a basic understanding of the core Adobe Commerce configuration and functionality.|
 |July 2022|[B2B for Adobe Commerce Guide](https://experienceleague.adobe.com/docs/commerce-admin/b2b/guide-overview.html)|Administration guide |Get detailed information about installing and enabling this module, including configuration and management of its features.|
 |July 2022|[B2B for Adobe Commerce - tutorials](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/b2b/company-accounts.html?lang=en)|Video (multiple) |Learn about the [!UICONTROL Companies] page in Adobe Commerce. You can manage your company accounts and any pending requests for approval appear at the top of the list. |
-|July 2022|[Use the Quality Patch Tool](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/tools/quality-patch-tool.html)|Type |Learn about the [!UICONTROL Quality Patch Tool], which is a command-line tool that delivers quality patches for Adobe Commerce and Magento Open Source.|
+|July 2022|[Use the Quality Patch Tool](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/tools/quality-patch-tool.html)|Video |Learn about the [!UICONTROL Quality Patch Tool], which is a command-line tool that delivers quality patches for Adobe Commerce and Magento Open Source.|
 |July 2022|[The Site-Wide Analysis Tool Dashboard](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/tools/site-wide-analysis-tool.html)|Video |Learn about the Site-Wide Analysis Tool. This feature is proactive, self-service tool and central repository that includes detailed system insights and recommendations to ensure the security and operability of your Adobe Commerce installation.|
 |July 2022|[Use Payment Services](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/payment-services.html)|Video |Learn how to use [!UICONTROL Payment Services] to reduce operational overhead, increase revenue.|
-|July 2022|[Manage Order Status](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/orders/order-status.html)|Type |Learn how to check order status and its details, and how to change the status of an order, if necessary. |
+|July 2022|[Manage Order Status](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/orders/order-status.html)|Video |Learn how to check order status and its details, and how to change the status of an order, if necessary. |
 |July 2022|[Marketing Tools](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/catalog-price-rules.html?lang=en)|Video (multiple) |Learn about creating a catalog price rule, cart price rules, manage related product rules, live search, and more.|
 |July 2022|[Innovations in content personalization that deliver business value](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/content-perosonalization.html?lang=en)|Video|View Skill Builder presentations and learn about recent innovations in Adobe's Content solution that help you democratize content authoring, make omni-channel delivery a breeze, and scale personalization. |
 |July 2022|[Catalog Management](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/catalog/seo-url-rewrites.html)|Videos |Learn about catalog management in Adobe Commerce. create a category, manage products in a category, manage inventory, and more.|
