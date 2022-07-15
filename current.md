@@ -444,12 +444,11 @@ Last updated: **October 27, 2021**
 
 ### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-<!-- 
-Last updated: **June 8, 2022** for June 29 release
--->
+Last updated: **July 14, 2022**
 
 | Feature | Description |
 | ------- | ----------- |
+| Custom Reports | (31 May release; beta feature) Advertising Cloud DSP can now ingest first-party segments comprised of authenticated signals built within a customer data platform (CDP). |
 | [!UICONTROL Inventory] | (June 29 release) The new [!UICONTROL Inventory] > [!UICONTROL Deals] view includes the same data customization capabilities as the [!UICONTROL Campaigns] views, including additional filters, column customization and the option to save custom views, column sorting, and a data visualization (chart) view. You can open a command menu in each row by clicking [!UICONTROL …] after the deal name. |
 | [!DNL Inventory Inspector] | (June 29 release) The [!UICONTROL Inventory] tab of the placement [!UICONTROL Inspector] now includes customizable data visualization charts and expanded performance metrics, such as [!UICONTROL Viewability Rate], [!UICONTROL Clicks], and [!UICONTROL Yesterday’s CPM]. |
 
@@ -457,12 +456,12 @@ Last updated: **June 8, 2022** for June 29 release
 
 ### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Last updated: **July 14, 2022** for July 16 release
+Last updated: **July 14, 2022**
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (July 16 release; opt-in beta feature) You can now create and manage [!DNL Google Ads] performance max campaigns, including manually creating asset groups and uploading assets. Links to [!DNL Google Merchant Center] product feeds aren’t supported.<br><br>Once you opt in for the beta, you can create campaigns with the [!UICONTROL Campaign Type] "[!UICONTROL Performance Max]" and set up asset groups within the campaign settings.<br><br>To opt in for the beta, contact your [!DNL Adobe] account team. |
-| [!UICONTROL Campaigns], [!DNL Advanced Campaign Management], [!UICONTROL Reports] | (Various release dates in June-July) ([!DNL Google Ads] and [!DNL Microsoft® Advertising] campaigns) The following support is now available for responsive search ads:<ul><li>The [!UICONTROL Ads] view now shows previews of responsive search ads.</li><li>You can now create dynamic responsive search ad variations using a search engine-specific ad template, based on the contents of your inventory, from [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)].</li><li>The [!UICONTROL Ad Variation Report] includes two new custom columns: "[!UICONTROL Creative Titles]," which is a comma-separated list of the ad's title rows, and "[!UICONTROL Descriptions]," which is a comma-separated list of the ad's description rows.</li></ul> |
+| [!UICONTROL Insights] | (June 11 release) The Impression Share Lost analysis is now available again as a beta feature. |
+| [!DNL Advanced Campaign Management] | (June 20) ([!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns) You can now create dynamic responsive search ad variations using a search engine-specific ad template, based on the contents of your inventory, from [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)]. |
 
 {style="table-layout:auto"}
 
