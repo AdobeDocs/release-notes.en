@@ -325,10 +325,10 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 ### Latest Campaign product releases
 
-* New [Campaign v8.3 release](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/release-notes.html)
-* New [Campaign Standard 22.2 release](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html)
-* New [Control Panel June release](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)
-* New [tutorials and courses](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#tutorials-campaign) on Experience League
+* [Campaign v8.3 release](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/release-notes.html)
+* [Campaign Standard 22.2 release](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html)
+* [Control Panel June release](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)
+* [tutorials and courses](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#tutorials-campaign) on Experience League
 
 ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
 
