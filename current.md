@@ -55,6 +55,8 @@ Updated **July 14, 2022**
 
 {style="table-layout:auto"}
 
+See [Events](https://experienceleague.adobe.com/events/?lang=en) on Experience League to stay updated.
+
 ## ![Icon](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services outage, disruption, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
