@@ -17,7 +17,7 @@ As an Experience Maker, your path to success starts with [Experience League](htt
 >
 >To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League.
 
-Latest update: **July 14, 2022**
+Latest update: **July 15, 2022**
 
 * [[!DNL Experience League] events](#events) 
 * [[!DNL Adobe System Status]](#status)
@@ -449,8 +449,8 @@ Last updated: **July 14, 2022**
 | Feature | Description |
 | ------- | ----------- |
 | Custom Reports | (31 May release; beta feature) Advertising Cloud DSP can now ingest first-party segments comprised of authenticated signals built within a customer data platform (CDP). |
-| [!UICONTROL Inventory] | (June 29 release) The new [!UICONTROL Inventory] > [!UICONTROL Deals] view includes the same data customization capabilities as the [!UICONTROL Campaigns] views, including additional filters, column customization and the option to save custom views, column sorting, and a data visualization (chart) view. You can open a command menu in each row by clicking [!UICONTROL …] after the deal name. |
-| [!DNL Inventory Inspector] | (June 29 release) The [!UICONTROL Inventory] tab of the placement [!UICONTROL Inspector] now includes customizable data visualization charts and expanded performance metrics, such as [!UICONTROL Viewability Rate], [!UICONTROL Clicks], and [!UICONTROL Yesterday’s CPM]. |
+| [!UICONTROL Inventory] | (June 29 release) The new [!UICONTROL Inventory] > [!UICONTROL Deals] view includes the same data customization capabilities as the [!UICONTROL Campaigns] views, including additional filters, column customization and the option to save custom views, column sorting, and a data visualization (chart) view. You can open a command menu in each row by clicking the ellipses (...) after the deal name. |
+| [!UICONTROL Inventory Inspector] | (June 29 release) The [!UICONTROL Inventory] tab of the placement [!UICONTROL Inspector] now includes customizable data visualization charts and expanded performance metrics, such as [!UICONTROL Viewability Rate], [!UICONTROL Clicks], and [!UICONTROL Yesterday’s CPM]. |
 
 {style="table-layout:auto"}
 
@@ -477,7 +477,7 @@ New tutorials and courses published for Adobe Document Cloud.
 |July 2022|[Electronically signing a document](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/electronically-sign-a-document.html?lang=en)|Video (updated) |Learn how easy it is to sign a document that is sent to you with Acrobat Sign.|Adobe Sign|
 |July 2022|[Up & running for Acrobat Sign administrators](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/up-and-running-admin.html?lang=en)|Video (updated) |Learn the seven key areas that administrators should focus on to get up & running quickly in Acrobat Sign.|Adobe Sign|
 |July 2022|[Send for Signature in Outlook](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/send-for-signature-with-outlook.html?lang=en#)|Video (updated) |Learn how to streamline document workflows by sending a document for signature directly within Microsoft® Outlook.|Adobe Sign|
-|July 2022|[Signing using [!DNL Aadhaar]](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/aadhaar/aadhaar-sign.html)|Video (updated) |Learn how to use your [!DNL Aadhaar] digital ID to authenticate your identity and authorize a remote digital signature (cloud signature) on a document in Acrobat Sign.|Adobe Sign|
+|July 2022|[Filling and signing in Outlook](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/fill-and-sign-doc-microsoft-outlook.html?lang=en)|Video (updated) |Learn how to streamline document workflows by filling out and signing a form directly within Microsoft Outlook.|Adobe Sign|
 |July 2022|[Creating and managing groups](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-and-manage-groups.html?lang=en)|Video (updated) |Learn how to create groups, add users to groups, and edit group settings. |Adobe Sign|
 |July 2022|[Delegate signing to someone else](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/delegate-signing.html?lang=en)|Video (updated) |Learn how to delegate the signing of a document to someone else.|Adobe Sign|
 
