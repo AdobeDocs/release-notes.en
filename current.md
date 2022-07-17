@@ -51,11 +51,11 @@ Updated **July 17, 2022**
 
 |Event |Type|Description |
 | -----------|---------- | ----|
-|[Ask the Experts: Datastreams and data prep](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |Experience League LIVE |In this final of three sessions regarding data collection for the Adobe Experience Cloud, our experts will provide a deeper dive into Adobe’s advanced data collection capabilities, including functions like data prep for data collection. At the end of this session, attendees will feel confident with the latest and most powerful features for collecting data from digital experiences<br>**Date:** July 21 @ 9 a.m. PST - [Details](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en)<br>[Upcoming and past episodes](https://experienceleague.adobe.com/docs/experience-league-live-events/events/overview.html?lang=en)|
+|[Ask the Experts: Datastreams and data prep](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |Experience League LIVE |In this final of three sessions regarding data collection for the Adobe Experience Cloud, our experts will provide a deeper dive into Adobe’s advanced data collection capabilities, including functions like data prep for data collection. At the end of this session, attendees will feel confident with the latest and most powerful features for collecting data from digital experiences<br>**Date:** July 21 @ 9 a.m. PST - [Details](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en)|
 
 {style="table-layout:auto"}
 
-See [Events](https://experienceleague.adobe.com/events/?lang=en) on Experience League to stay updated.
+See [Events](https://experienceleague.adobe.com/events/?lang=en) on Experience League to stay updated on upcoming events and past episodes.
 
 ## ![Icon](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
