@@ -186,11 +186,11 @@ Older product update videos:
 
 * [May 2022 Release Overview video](https://video.tv.adobe.com/v/343321/?quality=12) for a summary of the features added in the 2022.5.0 (May 2022) release. 
 * [April 2022 Release Overview video](https://video.tv.adobe.com/v/342612?quality=12)
-* [March 2022 Release Overview video](https://video.tv.adobe.com/v/341465).
-* [January 2022 Release Overview video](https://video.tv.adobe.com/v/340120).
-* [December 2021 Release Overview video](https://video.tv.adobe.com/v/339278).
-* [October 2021 Release Overview video](https://video.tv.adobe.com/v/338253).
-* [September 2021 Release Overview video](https://video.tv.adobe.com/v/337381).
+* [March 2022 Release Overview video](https://video.tv.adobe.com/v/341465)
+* [January 2022 Release Overview video](https://video.tv.adobe.com/v/340120)
+* [December 2021 Release Overview video](https://video.tv.adobe.com/v/339278)
+* [October 2021 Release Overview video](https://video.tv.adobe.com/v/338253)
+* [September 2021 Release Overview video](https://video.tv.adobe.com/v/337381)
 
 ### Experience Manager [!DNL Sites] as a [!DNL Cloud Service]
 
