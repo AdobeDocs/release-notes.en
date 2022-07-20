@@ -67,6 +67,48 @@ For the latest release information, see Adobe System Status [release notes](http
 
 Experience Cloud [central UI components](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) include features available on the home page and the persistent product header. These features include user profile settings, preferences, and search. You can also find help on user and product management, Customer Attributes, and Experience Cloud Audiences.
 
+### Provisioning update
+
+>[!IMPORTANT]
+>
+>Please review the following notice regarding Experience Cloud provisioning.
+
+Adobe is updating its provisioning to provide all Experience Cloud customers access to foundational capabilities that aid interoperability between some Experience Cloud products. Users will have Adobe Experience Platform as a new entitlement added to their Experience Cloud organizations, with [!UICONTROL Data Collection] as an included service. 
+
+Adobe Experience Platform [!UICONTROL Data Collection] includes [tags](https://experienceleague.adobe.com/docs/tags.html?lang=en) for simplified universal tag management, and offers a trusted, robust, and complete, streaming data infrastructure. Tags simplify customer experience data collection and streamlines experience delivery. 
+
+With this update administrators may see changes or additions to the Admin Console:
+
+1. The Adobe Experience Platform product card in the Admin Console will include:
+
+    * Places
+    * Assurance
+    * Identity Namespace
+    * Sandboxes
+    * Experience Data Model
+    * Schemas
+    * Datastreams
+    * Visitor ID
+
+   For organizations that are not currently using Experience Platform, you will now see the _Adobe Experience Platform_ product in the Admin Console, including the capabilities listed above.
+
+   For organizations currently using Experience Platform, _Places_ will now be consolidated into the Experience Platform card.
+
+1. Adobe Experience Platform Data Collection (formerly, Launch) and Privacy will continue to appear as separate product cards from the other Experience Platform capabilities.
+
+For more details about the new capabilities, please visit their respective pages on Experience League: 
+
+* [Data Collection](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html)
+* [Places](https://experienceleague.adobe.com/docs/places/using/home.html?lang=en)
+* [Assurance](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html%3Flang%3Dde)
+* [Identity Namespace](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=en)
+* [Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=en)
+* [Experience Data Model](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html)
+* [Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
+* [Datastreams](https://experienceleague.adobe.com/docs/experience-platform/edge/datastreams/overview.html?lang=en)
+* [Visitor ID](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=en#section_3C9F6DF37C654D939625BB4D485E4354)
+* [Privacy](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=en)
+
 Release: **July 11, 2022**
 
 | Feature | Description |
