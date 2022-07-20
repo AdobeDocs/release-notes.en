@@ -17,7 +17,7 @@ As an Experience Maker, your path to success starts with [Experience League](htt
 >
 >To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League.
 
-Latest update: **July 18, 2022**
+Latest update: **July 19, 2022**
 
 * [[!DNL Experience League] events](#events) 
 * [[!DNL Adobe System Status]](#status)
@@ -69,6 +69,8 @@ Experience Cloud [central UI components](https://experienceleague.adobe.com/docs
 
 ### Provisioning update
 
+Updated: **July 19, 2022**
+
 >[!IMPORTANT]
 >
 >Please review the following notice regarding Experience Cloud provisioning.
@@ -109,7 +111,7 @@ For more details about the new capabilities, please visit their respective pages
 * [Visitor ID](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=en#section_3C9F6DF37C654D939625BB4D485E4354)
 * [Privacy](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=en)
 
-Release: **July 11, 2022**
+Feature update: **July 11, 2022**
 
 | Feature | Description |
 | ------- | ------- |
