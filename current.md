@@ -69,8 +69,6 @@ Experience Cloud [central UI components](https://experienceleague.adobe.com/docs
 
 ### Provisioning update
 
-Updated: **July 19, 2022**
-
 >[!IMPORTANT]
 >
 >Please review the following notice regarding Experience Cloud provisioning.
@@ -79,24 +77,26 @@ Adobe is updating its provisioning to provide all Experience Cloud customers acc
 
 Adobe Experience Platform [!UICONTROL Data Collection] includes [tags](https://experienceleague.adobe.com/docs/tags.html?lang=en) for simplified universal tag management, and offers a trusted, robust, and complete, streaming data infrastructure. Tags simplify customer experience data collection and streamlines experience delivery. 
 
-With this update administrators may see changes or additions to the Admin Console:
+**Changes in Admin Console**
 
-1. The Adobe Experience Platform product card in the Admin Console will include:
+Administrators could see changes or additions to the Admin Console as follows:
 
-    * Places
-    * Assurance
-    * Identity Namespace
-    * Sandboxes
-    * Experience Data Model
-    * Schemas
-    * Datastreams
-    * Visitor ID
+* The Adobe Experience Platform product card in the Admin Console will include:
+
+  * Places
+  * Assurance
+  * Identity Namespace
+  * Sandboxes
+  * Experience Data Model
+  * Schemas
+  * Datastreams
+  * Visitor ID
 
    For organizations that are not currently using Experience Platform, you will now see the _Adobe Experience Platform_ product in the Admin Console, including the capabilities listed above.
 
    For organizations currently using Experience Platform, _Places_ will now be consolidated into the Experience Platform card.
 
-1. Adobe Experience Platform Data Collection (formerly, Launch) and Privacy will continue to appear as separate product cards from the other Experience Platform capabilities.
+* Adobe Experience Platform Data Collection (formerly, Launch) and Privacy will continue to appear as separate product cards from the other Experience Platform capabilities.
 
 For more details about the new capabilities, please visit their respective pages on Experience League: 
 
