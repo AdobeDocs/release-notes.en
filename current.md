@@ -111,7 +111,9 @@ For more details about the new capabilities, please visit their respective pages
 * [Visitor ID](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=en#section_3C9F6DF37C654D939625BB4D485E4354)
 * [Privacy](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=en)
 
-Feature update: **July 11, 2022**
+### Feature update
+
+Feature released: **July 11, 2022**
 
 | Feature | Description |
 | ------- | ------- |
