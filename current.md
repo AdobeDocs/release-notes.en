@@ -102,7 +102,7 @@ For more details about the new capabilities, please visit their respective pages
 
 * [Data Collection](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html)
 * [Places](https://experienceleague.adobe.com/docs/places/using/home.html?lang=en)
-* [Assurance](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html%3Flang%3Dde)
+* [Assurance](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html)
 * [Identity Namespace](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=en)
 * [Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=en)
 * [Experience Data Model](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html)
