@@ -470,6 +470,10 @@ New videos, tutorials, or courses published for Adobe Marketo.
 
 Adobe [!DNL Workfront] is a unified work management application for sharing ideas, creating content, managing complex processes, and doing their best work.
 
+**Workfront tutorial home**
+
+**July 27, 2022**: Visit Workfront's new [tutorial home on Experience League](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) for all training and tutorial videos and articles.
+
 See the [[!DNL Workfront] releases](https://one.workfront.com/s/product-releases) page for a round-up of the latest information for all products.
 
 ## ![Icon](/assets/advertising-cloud.png) Adobe Advertising Cloud {#adcloud}
