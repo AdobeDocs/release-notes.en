@@ -34,8 +34,8 @@ Latest update: **July 27, 2022**
 * [[!DNL Adobe Campaign]](#ac)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
-* [[!DNL Adobe Marketo Engage]](#marketo)
-* [[!DNL Adobe Workfront]](#workfront)
+* [[!DNL Adobe Marketo Engage]](#marketo) (**Updated July 27**)
+* [[!DNL Adobe Workfront]](#workfront) (**Updated July 27**)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -461,6 +461,7 @@ New videos, tutorials, or courses published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
+|July 27, 2022 |[Marketo Engage tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)|Videos |Visit the [Marketo Engage tutorial home](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) on Experience League for all past and new tutorials.|
 |July 2022|[B2B experiences with Marketo Engage and Adobe Experience Cloud](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-experiences.html?lang=en)|Video |Get a walkthrough of the integrations between Marketo Engage and Adobe Experience Cloud application, and what pain points will be solved.|Marketo Engage |
 |July 2022|[Better together - Adobe Marketo Engage and Real-Time CDP](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/b2b-campaigns.html?lang=en)|Video |Learn how to orchestrate B2B campaigns with Marketo Engage and RT-CDP (B2B edition) and what are the top use cases and advantages unlocked.|Marketo, Real-time Customer Data Platform |
 
