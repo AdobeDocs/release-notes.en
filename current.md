@@ -47,10 +47,11 @@ Need help? Visit [Experience League](https://experienceleague.adobe.com/#home) f
 
 Experience League events are a great place to learn, interact, and get answers from product experts at Adobe! See [Events](https://experienceleague.adobe.com/events/?lang=en) on Experience League to stay updated for July 2022.
 
-Updated **July 17, 2022**
+Updated **July 28, 2022**
 
 |Event |Type|Description |
 | -----------|---------- | ----|
+|[Adobe Target](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&utm_medium=Outbound&utm_campaign=coffee_talk_AT&utm_content=220803)|Community Q&A Coffee Break |We'll be joined by Adobe Premier Support Business Consultant Rachel Booth, aka `@rbooth115`. She'll be signed in to the Adobe Target Community to chat directly with you on [this thread](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-8-3-22-8am-pt-rachel-booth/td-p/461694) about your questions pertaining to her areas of expertise (personalization, optimization, integration). <br>**Date:** Wednesday, August 3rd @ 8 a.m. PDT - 9 a.m. - [Details & registration](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&utm_medium=Outbound&utm_campaign=coffee_talk_AT&utm_content=220803)|
 |[Ask the Experts: Datastreams and data prep](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |Experience League LIVE |In this final of three sessions regarding data collection for the Adobe Experience Cloud, our experts will provide a deeper dive into Adobe’s advanced data collection capabilities, including functions like data prep for data collection. At the end of this session, attendees will feel confident with the latest and most powerful features for collecting data from digital experiences<br>**Date:** July 21 @ 9 a.m. PDT - [Details](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en)|
 
 {style="table-layout:auto"}
