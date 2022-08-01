@@ -259,7 +259,7 @@ New features in [!DNL Forms]:
 
 * [Integrate [!UICONTROL Adaptive Forms] with Microsoft® Power Automate](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/forms-microsoft-power-automate-integration.html?lang=en): You can now configure an Adaptive Form to run a Microsoft® Power Automate Cloud Flow on submission. The configured Adaptive Form sends captured data, attachments, and Document Of Record to Power Automate Cloud Flow for processing. It helps you build custom data capture experience while harnessing the power of Microsoft® Power Automate to build business logics around captured data and automate customer workflows.
 
-**Wizard to create an Adaptive Form:** You can use business user friendly wizard to quickly author [!UICONTROL Adaptive Forms]. The wizard provides a quick tab navigation to easily select pre-configured template, styling, fields, and submission options to create an adaptive form.
+* **Wizard to create an Adaptive Form:** You can use business user friendly wizard to quickly author [!UICONTROL Adaptive Forms]. The wizard provides a quick tab navigation to easily select pre-configured template, styling, fields, and submission options to create an adaptive form.
 
 ### Experience Manager as a Cloud Service Foundation
 
