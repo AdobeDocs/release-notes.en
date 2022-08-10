@@ -521,8 +521,6 @@ Last updated: **, 2022**
 | ------- | ----------- |
 |  |  |
 
-{style="table-layout:auto"}
-
 -->
 
 ## ![Icon](/assets/document-cloud-24.png) Adobe Document Cloud {#doc-cloud}
