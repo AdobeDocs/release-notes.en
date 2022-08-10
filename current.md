@@ -482,21 +482,22 @@ See the [[!DNL Workfront] releases](https://one.workfront.com/s/product-releases
 
 Release notes for [!DNL Adobe Advertising Cloud].
 
-<!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-* [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp)
-* [New features in [!DNL Advertising Cloud Search]](#adcloud-search)
+* [New features across [!DNL Advertising Cloud]](#adcloud-all)
+<!-- * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp) -->
+<!-- * [New features in [!DNL Advertising Cloud Search]](#adcloud-search) -->
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
-<!--
 ### New features across [!DNL Advertising Cloud] {#adcloud-all}
 
-Last updated: **October 27, 2021**
+Last updated: **August 9, 2022**
 
 | Feature | Description |
 | ------- | ----------- |
-| Analytics for Advertising Cloud | If your organization wants to switch from using the legacy Adobe Analytics `visitorAPI.js` library to the Adobe Experience Platform library (`alloy.js`) for data collection, you must make changes to enable ID stitching. See [Using the [!DNL Last Event Service] JavaScript Library with Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/advertising-cloud/integrations/analytics/planning/web-sdk.html). |
+| Integration with Adobe Analytics | (August 6 release) Improvements to the data feed that Advertising Cloud sends to [!DNL Analytics] result in fewer mismatches between click/cost/impression data from the search engines and related conversion data in [!DNL Analytics]. |
 
--->
+{style="table-layout:auto"}
+
+<!--
 
 ### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
@@ -508,17 +509,21 @@ Last updated: **July 27, 2022**
 
 {style="table-layout:auto"}
 
+-->
+
+<!--
+
 ### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Last updated: **July 27, 2022**
+Last updated: **, 2022**
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (Opt-in beta feature for all advertisers; July 16 release) You can now create and manage [!DNL Google Ads] performance max campaigns, including manually creating asset groups and uploading assets. Links to [!DNL Google Merchant Center] product feeds aren’t supported.<br><br>Once you opt in for the beta, you can create campaigns with the [!UICONTROL Campaign Type] "[!UICONTROL Performance Max]" and set up asset groups within the campaign settings. You can also view your existing performance max campaigns, with performance data in table and trend chart format, in the [!UICONTROL Campaigns] view. Campaign-level performance data is also available in reports and in Adobe Analytics (for advertisers with an [!DNL Analytics] integration).<br><br>To opt in for the beta, contact your [!DNL Adobe] account team. |
-|  |  [!DNL Google Ads] no longer provides ad-level performance data for standard shopping campaigns, dynamic search ads, or placements. |
-| [!UICONTROL Campaigns], [!DNL Advanced Campaign Management], [!UICONTROL Reports] | (July 16 release) ([!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns) The following support is now available for responsive search ads:<ul><li>The [!UICONTROL Ads] view now shows previews of responsive search ads.</li><li> (Since June 20) You can now create dynamic responsive search ad variations using a search engine-specific ad template, based on the contents of your inventory, from [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)].</li><li>The [!UICONTROL Ad Variation Report] includes two new custom columns:  "[!UICONTROL Creative Titles]," which is a comma-separated list of the ad's title rows, and "[!UICONTROL Descriptions]," which is a comma-separated list of the ad's description rows.</li></ul> |
+|  |  |
 
 {style="table-layout:auto"}
+
+-->
 
 ## ![Icon](/assets/document-cloud-24.png) Adobe Document Cloud {#doc-cloud}
 
