@@ -227,11 +227,10 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
 
 ### Product update videos
 
-* [June 2022 Release Overview video](https://video.tv.adobe.com/v/344308/?quality=12) for a summary of the 2022.6 release.
+  Watch the [July 2022 Release Overview video](https://video.tv.adobe.com/v/345409/?quality=12) for a summary of the features added in the 2022.7.0 (July 2022) release. <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
 
-Older product update videos:
-
-* [May 2022 Release Overview video](https://video.tv.adobe.com/v/343321/?quality=12) for a summary of the features added in the 2022.5.0 (May 2022) release. 
+* [June 2022 Release Overview video](https://video.tv.adobe.com/v/344308/?quality=12)
+* [May 2022 Release Overview video](https://video.tv.adobe.com/v/343321/?quality=12) 
 * [April 2022 Release Overview video](https://video.tv.adobe.com/v/342612?quality=12)
 * [March 2022 Release Overview video](https://video.tv.adobe.com/v/341465)
 * [January 2022 Release Overview video](https://video.tv.adobe.com/v/340120)
@@ -241,39 +240,70 @@ Older product update videos:
 
 ### Experience Manager [!DNL Sites] as a [!DNL Cloud Service]
 
-New features in [!DNL Sites]:
+_New features_
 
-* A [new user interface](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=en) is now available for content admins and content authors to efficiently manage (take actions such as publish, unpublish, copy, and move), search/filter, and create content fragments for Headless use-cases.
-
-* The new [Table of Contents Component](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/components/tableofcontents.html?lang=en) works not only with the [!UICONTROL Core Components] but with all components, automatically rendering table of contents on content pages. And, because it is rendered server-side and fully cached by the dispatcher, it is also efficient to load.
+* The [Content Fragment Console](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=en) now supports [keyboard shortcuts](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console-keyboard-shortcuts.html?lang=en).
+* Experience Manager as a Cloud Service’s [web-optimized image delivery](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/web-optimized-image-delivery.html?lang=en) significantly improves page speed by delivering formats such as WebP. This new service also offers more flexible image resizing and transformation options. All versions of the [Core Image Component](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/components/image.html?lang=en) use this service and lets you deliver images in WebP by selecting an option in the policy of the image component.
+* Experience Manager personalization activities can now use experience fragments in lieu of our legacy offers. This feature helps you do the following:
+  * Enables a migration path where Experience Manager content promotes Experience Fragment offers rather than legacy library offers to provide appropriately styled content that aligns with the personalization at scale going forward.
+  * Prevents content authors from accidentally serving unstyled content on their site.
+  * Allows targeting mode of any component to be converted to an Experience Fragment (both JSON and HTML types) which uses editable templates.
 
 ### Experience Manager [!DNL Assets] as a [!DNL Cloud Service]
 
-New features in [!DNL Assets]:
+_New feature available in prerelease channel_
 
-* Experience Manager [!DNL Assets] uses Adobe Sensei AI capabilities to now [distinguish between colors in an image and apply those as tags automatically on ingestion](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/color-tag-images.html?lang=en). These tags enable enhanced Search experience, based on image color composition. You can configure the number of colors, within a range of one to forty, that are tagged to an image so that you can search for images based on those colors later.
+* You can now configure Adobe Experience Manager Assets to [restrict the type of assets that users can upload based on the MIME type](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/configure-asset-upload-restrictions.html?lang=en).
 
-### Experience Manager Forms as a Cloud Service
+### Experience Manager [!DNL Forms] as a [!DNL Cloud Service]
 
-New features in [!DNL Forms]:
+_New features_
 
-* [Integrate [!UICONTROL Adaptive Forms] with Microsoft® Power Automate](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/forms-microsoft-power-automate-integration.html?lang=en): You can now configure an Adaptive Form to run a Microsoft® Power Automate Cloud Flow on submission. The configured Adaptive Form sends captured data, attachments, and Document Of Record to Power Automate Cloud Flow for processing. It helps you build custom data capture experience while harnessing the power of Microsoft® Power Automate to build business logics around captured data and automate customer workflows.
+* **Keyboard input support for Scribble signatures** - Adaptive Forms are increasingly being used on touch devices, and one common requirement is to support signatures. Signing documents on touch devices has become an accepted way of signing forms. Adaptive Forms has native support for Scribble Signatures and Adobe Sign for such use cases. Now, along with other already supported options, you can also use keyboard to Scribble signatures in an Adaptive Form. It also helps improve accessibility compliance.
 
-* **Wizard to create an Adaptive Form:** You can use business user friendly wizard to quickly author [!UICONTROL Adaptive Forms]. The wizard provides a quick tab navigation to easily select pre-configured template, styling, fields, and submission options to create an adaptive form.
+* **Use Adaptive Forms wizard in local language** - You can use the wizard in language of your choice. It now supports all the languages supported by Experience Manager.
+
+_New features available in prerelease channel_
+
+* **Invoke - An Experience Manager Workflow step** - DDX (Document Description XML) is a declarative markup language whose elements represent building blocks of documents. These building blocks include PDF and XDP documents, and other elements such as comments, bookmarks, and styled text. DDX documents are templates for the documents and describe the desired characteristics of source documents that should appear in resultant documents. A single DDX can be used with a range of source documents. You can use the Invoke step an Experience Manager Workflow to perform various operations, like assembling disassembling documents, creating and modifying Acrobat and XFA Forms, and other operations described in [DDX Reference](https://helpx.adobe.com/content/dam/help/en/experience-manager/forms-cloud-service/ddxRef.pdf) documentation.
+
+* **Convert to PDF/A - An Experience Manager Workflow step** - PDF/A is an archival format for long-term preservation of the document’s content, all fonts are embedded and the file is uncompressed. Now, you can use the Convert to PDF/A step an AEM Workflow to convert your documents or files in any format to PDF/A format.
 
 ### Experience Manager as a Cloud Service Foundation
 
-What's new:
+_New features_
 
-As mentioned in the May (2022.5.0) release notes, the "Add tree” option under the replication agent admin screen’s Distribute tab was removed. Packages with a tree hierarchy of content should instead be replicated using Manage Publication or the Publish Content Tree workflow.
+* The [Repository Browser](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/repository-browser.html?lang=en) now has a path input field, making it possible to jump directly to a specific folder in the repository hierarchy
+* SCD (Sling Content Distribution) now supports an explicit "invalidation" action in order to invalidate content without that content being published. Refer to the [Caching in Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/caching.html?lang=en#explicit-invalidation) page for further details.
+* `mod_macro` is now available in Experience Manager as a Cloud Service. [See this table](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/disp-overview.html?lang=en) for a list of supported Apache modules.
+
+_Enhancements to Experience Manager as a Cloud Service SDK Dispatcher Tools_
+
+* Apache can be started with `update_sdk.sh` script, which automatically loads and validates any subsequent changes to Apache and Dispatcher configuration, thus improving developer velocity. Only supported for Dispatcher tools flexible mode. Also, see [Debugging your Apache and Dispatcher configuration](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/validation-debug.html?lang=en#automatic-loading) for additional details about automatic loading and validation.
+* Local Apache/Dispatcher configuration more closely tracks changes in cloud environments, increasing parity between the two environments.
+
+_New feature available in prerelease channel_
+
+* Experience Manager as a Cloud Service is now integrated with Unified Shell to improve the user experience and unify it with all the other Experience Cloud applications. See [Experience Manager as a Cloud Service on Unified Shell](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/aem-cloud-service-on-unified-shell.html?lang=en).
 
 ### [!DNL Cloud Manager]
 
-What’s New:
+_New features_
 
-* [!DNL Cloud Manager] users can now access useful video tutorials from the [!UICONTROL Welcome] card on the landing page at any time.
+* Cloud Manager users can now access useful video tutorials from the **[!UICONTROL Welcome]** card on the landing page.
+* The pop-up on the [Restore Content](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/backup.html?lang=en) tab of the environments details page now displays a handy list of git commands allowing the user to view changes locally.
 
-* The popover on the [Restore Content](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/backup.html?lang=en) tab of the environments details page now displays a handy list of git commands allowing the user to view changes locally.
+### Adobe Learning Manager Connectors
+
+_New feature_
+
+* The new Adobe Learning Manager has connectors to Adobe Experience Manager Sites, Marketo Engage and Adobe Commerce. See the [Adobe Learning Manager User Guide](https://helpx.adobe.com/learning-manager/user-guide.html).
+
+### Community
+
+* Experience Manager as a Cloud Service [2022.7.0 release update](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-as-a-cloud-service-2022-7-0-release-update/ba-p/540062#M546).
+* Finally! All the Experience Manager content you need in one place on [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/finally-all-the-aem-content-you-need-all-in-one-place-on-aem/ba-p/460583)!
+* Adobe Experience Manager [Community Lens 1st Edition](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/adobe-experience-manager-community-lens-1st-edition-august-2022/ba-p/538960), August 2022.
 
 ### New Experience Manager courses and tutorials {#tutorials-aem}
 
