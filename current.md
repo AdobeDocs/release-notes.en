@@ -17,7 +17,7 @@ As an Experience Maker, your path to success starts with [Experience League](htt
 >
 >To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League.
 
-Latest update: **July 27, 2022**
+Latest update: **August 11, 2022**
 
 * [[!DNL Experience League] events](#events) 
 * [[!DNL Adobe System Status]](#status)
@@ -35,7 +35,7 @@ Latest update: **July 27, 2022**
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo) (**Updated July 27**)
-* [[!DNL Adobe Workfront]](#workfront) (**Updated July 27**)
+* [[!DNL Adobe Workfront]](#workfront) (**Updated August 11**)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -472,9 +472,30 @@ New videos, tutorials, or courses published for Adobe Marketo.
 
 Adobe [!DNL Workfront] is a unified work management application for sharing ideas, creating content, managing complex processes, and doing their best work.
 
-**Workfront tutorial home**
+### New Adobe Workfront courses and tutorials {#tutorials-workfront}
 
-**July 27, 2022**: Visit Workfront's new [tutorial home on Experience League](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) for all training and tutorial videos and articles.
+New Workfront course and tutorials on Experience League.
+
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|August 2022 |[Workfront tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) |Tutorial home |Visit the new home for Workfront tutorials on Experience League. |
+|August 2022|[Get started with Workfront for System Administrators](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.admin)|Course |Learn the first stages of how to set up users and optimize your users' experience with system settings.|
+|August 2022|[Further your system settings knowledge for Workfront Administrators](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.2.admin)|Course |Learn more about system settings to enhance your users' experience, including user organization, custom forms, approval processes and milestones, and layout templates.|
+|August 2022|[Get Started with Workfront for Planners](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners)|Course |Start your Workfront journey by learning to create and plan projects. Workfront recommends you keep things simple.|
+|August 2022|[Manage and close a project](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners)|Course |Now that you've learned to create and plan projects, we can get into how to manage and close them.|
+|August 2022|[Further understanding of managing work as a Planner ](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners)|Course |Once you've learned the basics of creating, planning, and managing projects, there are a few more things you should know to get the most out of Workfront.|
+|August 2022|[Get Started with Workfront for Workers](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.workers)|Course |This course is for users with a Work license in Adobe Workfront who receive work or requests, and collaborate with teams on projects and documents.|
+|August 2022|[Adobe Workfront for Collaborators](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.collaborators)|Course |Learn how to use a Review or Request license to easily request, review, and collaborate on tasks, documents, and proofs in the new Workfront experience.|
+|August 2022|[Create and manage custom forms](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.customforms)|Course |Capture your organization's unique information by creating custom fields in your system. Learn to create, share, and attach custom forms within Workfront.|
+|August 2022|[Workfront Proof - administration and setup](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.3.proof)|Course |Learn to adjust proof settings, customize actions and reports, and set up proof workflows.|
+|August 2022|[Workfront Proof - upload proofs](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.proof)|Course |Learn to upload proofs for review and approval.|
+|August 2022|[Workfront Proof - review and approve work](https://experienceleague.adobe.com/?recommended=Workfront-L-1-2022.1.proof)|Course |Learn to use Workfront Proof as a reviewer or approver.|
+|August 2022|[Basic reporting elements](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting)|Course |Reporting elements are the filters, views, and groupings found in all list reports in Workfront. Learning about these helps you create custom reports and calendars.|
+|August 2022|[Create a custom calendar](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.4.reporting)|Course |With a custom calendar, you can display dates and information directly from projects, tasks and issues in a calendar format.|
+|August 2022|[Create custom reports and dashboards](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.reporting)|Course |Reports are the windows into your data. Learn how to create three different types of reports in Workfront and use them in dashboards.|
+|August 2022|[Create intermediate filters](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.reporting)|Course |Gain a greater understanding of wildcards, OR filters, and text mode. Open up built-in project, task, and issue filters and get into the details of what's really going on.|
+
+{style="table-layout:auto"}
 
 See the [[!DNL Workfront] releases](https://one.workfront.com/s/product-releases) page for a round-up of the latest information for all products.
 
