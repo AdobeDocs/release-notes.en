@@ -17,7 +17,7 @@ As an Experience Maker, your path to success starts with [Experience League](htt
 >
 >To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League.
 
-Latest update: **August 10, 2022**
+Latest update: **August 11, 2022**
 
 * [[!DNL Experience League] events](#events) 
 * [[!DNL Adobe System Status]](#status)
@@ -295,6 +295,8 @@ See the following links for Adobe Commerce release notes:
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |August 2022|[Adobe Commerce Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html)|Product documentation |Visit the new product documentation home for Adobe Commerce content and design. |
+|August 2022|[Catalog Service Guide Overview](https://experienceleague.adobe.com/docs/commerce-merchant-services/catalog-service/guide-overview.html)|Product documentation |Get an introduction to [!UICONTROL Catalog Service]. Learn about onboarding and installation.|
+|August 2022|[Quick Checkout for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/quick-checkout/overview.html)|Product documentation |Get an overview of the typical checkout experience for Adobe Commerce and how the Quick Checkout benefits, as well as best practices to follow along that journey.|
 
 {style="table-layout:auto"}
 
