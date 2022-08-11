@@ -113,7 +113,7 @@ New video tutorials, articles, and courses published for Adobe Analytics.
 
 ## ![Icon](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
 
-Latest update: **July 12, 2022**
+Latest update: **August 5, 2022**
 
 * Customer Journey Analytics [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en) 
 * Customer Journey Analytics [product documentation and tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=en)
@@ -294,7 +294,7 @@ See the following links for Adobe Commerce release notes:
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|August 2022|[Adobe Commerce Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html)|Type |Visit the new product documentation home for Adobe Commerce content and design. |
+|August 2022|[Adobe Commerce Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html)|Product documentation |Visit the new product documentation home for Adobe Commerce content and design. |
 
 {style="table-layout:auto"}
 
