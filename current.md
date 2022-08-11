@@ -47,12 +47,12 @@ Need help? Visit [Experience League](https://experienceleague.adobe.com/#home) f
 
 Experience League events are a great place to learn, interact, and get answers from product experts at Adobe! See [Events](https://experienceleague.adobe.com/events/?lang=en) on Experience League to stay updated for July 2022.
 
-Updated **July 28, 2022**
+Updated **August 11, 2022**
 
 |Event |Type|Description |
 | -----------|---------- | ----|
-|[Adobe Target](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&utm_medium=Outbound&utm_campaign=coffee_talk_AT&utm_content=220803)|Community Q&A Coffee Break |We'll be joined by Adobe Premier Support Business Consultant Rachel Booth, aka `@rbooth115`. She'll be signed in to the Adobe Target Community to chat directly with you on [this thread](https://experienceleaguecommunities.adobe.com/t5/adobe-target-discussions/at-community-q-amp-a-coffee-break-8-3-22-8am-pt-rachel-booth/td-p/461694) about your questions pertaining to her areas of expertise (personalization, optimization, integration). <br>**Date:** Wednesday, August 3rd @ 8 a.m. PDT - 9 a.m. - [Details & registration](https://atcommunityqacoffeebreak803.splashthat.com/?utm_source=email&utm_medium=Outbound&utm_campaign=coffee_talk_AT&utm_content=220803)|
-|[Ask the Experts: Datastreams and data prep](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en) |Experience League LIVE |In this final of three sessions regarding data collection for the Adobe Experience Cloud, our experts will provide a deeper dive into Adobe’s advanced data collection capabilities, including functions like data prep for data collection. At the end of this session, attendees will feel confident with the latest and most powerful features for collecting data from digital experiences<br>**Date:** July 21 @ 9 a.m. PDT - [Details](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-07-21-22.html?lang=en)|
+|[Adobe Analytics](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html?utm_source=experienceleague) |Webinar |_Fueling the successes of tomorrow: Data quality & adoption_ - Join Adobe Analytics Champions Frederik Werner and Sarah Owen during this live webinar to learn how you can build data quality into every aspect of analytics and create a shared culture around it.<p>**Date:** August 25 @ 11:00 a.m. ET - [Details & registration](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html?utm_source=experienceleague) |
+|[Experience Makers Live](https://business.adobe.com/events/experience-makers-live.html?cgen=Q75XPNKK&mv=other) |Webinar |A free event for Experience Makers featuring keynotes by Sara Blakely, Peyton Manning, and Eli Manning.<p>**Date:** September 13 - 14 - [Details & registration](https://business.adobe.com/events/experience-makers-live.html?cgen=Q75XPNKK&mv=other) |
 
 {style="table-layout:auto"}
 
@@ -72,45 +72,7 @@ Experience Cloud [central UI components](https://experienceleague.adobe.com/docs
 
 >[!IMPORTANT]
 >
->Please review the following notice regarding Experience Cloud provisioning.
-
-Adobe is updating its provisioning to provide all Experience Cloud customers access to foundational capabilities that aid interoperability between some Experience Cloud products. Users will have Adobe Experience Platform as a new entitlement added to their Experience Cloud organizations, with [!UICONTROL Data Collection] as an included service. 
-
-Adobe Experience Platform [!UICONTROL Data Collection] includes [tags](https://experienceleague.adobe.com/docs/tags.html?lang=en) for simplified universal tag management, and offers a trusted, robust, and complete, streaming data infrastructure. Tags simplify customer experience data collection and streamlines experience delivery. 
-
-**Changes in Admin Console**
-
-Administrators could see changes or additions to the Admin Console as follows:
-
-* The Adobe Experience Platform product card in the Admin Console will include:
-
-  * Places
-  * Assurance
-  * Identity Namespace
-  * Sandboxes
-  * Experience Data Model
-  * Schemas
-  * Datastreams
-  * Visitor ID
-
-   For organizations that are not currently using Experience Platform, you will now see the _Adobe Experience Platform_ product in the Admin Console, including the capabilities listed above.
-
-   For organizations currently using Experience Platform, _Places_ will now be consolidated into the Experience Platform card.
-
-* Adobe Experience Platform Data Collection (formerly, Launch) and Privacy will continue to appear as separate product cards from the other Experience Platform capabilities.
-
-For more details about the new capabilities, please visit their respective pages on Experience League: 
-
-* [Data Collection](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html)
-* [Places](https://experienceleague.adobe.com/docs/places/using/home.html?lang=en)
-* [Assurance](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html)
-* [Identity Namespace](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=en)
-* [Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html?lang=en)
-* [Experience Data Model](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html)
-* [Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html)
-* [Datastreams](https://experienceleague.adobe.com/docs/experience-platform/edge/datastreams/overview.html?lang=en)
-* [Visitor ID](https://experienceleague.adobe.com/docs/core-services/interface/services/core-services.html?lang=en#section_3C9F6DF37C654D939625BB4D485E4354)
-* [Privacy](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=en)
+>Administrators, don't miss this [important notice](https://experienceleague.adobe.com/docs/core-services/interface/release-notes/release-notes.html?lang=en#july---2022) about Experience Cloud provisioning (published July 2022).
 
 ### Feature update
 
