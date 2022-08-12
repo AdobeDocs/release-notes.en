@@ -232,7 +232,7 @@ New videos, tutorials, and courses published over the past month.
 |August 2022|[AEM as a Cloud Service 2022.7.0 release update](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-7-0.html)|Video |Hear from the AEM Product team, and learn about the features and innovations for the latest release of Adobe Experience Manager Assets, Assets Essentials, Sites, Commerce Integration Framework, Forms and Cloud Manager.|AEM as a Cloud Service |
 |August 2022|[AEM Headless tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=en)|Updated articles |AEM Headless SDK tutorials have been updated to use persisted queries and WKND 2.0. Use hands-on tutorials to explore how to use the various options and chose what’s right for you.|AEM as a Cloud Service|
 |August 2022|[AEM as a Cloud Service integrations with Adobe Experience Cloud](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations.html)|Video |Learn about AEM as a Cloud Service’s supported integrations with other Adobe Experience Cloud products.|AEM CS, Experience Cloud|
-|August 2022|[Forms CS and Microsoft Power Automate](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/integrate-formscs-power-automate.html)|Video |Invoke your power automate flows on an Adaptive Form submission. |AEM Forms |
+|August 2022|[Forms CS and Microsoft® Power Automate](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/integrate-formscs-power-automate.html)|Video |Invoke your power automate flows on an Adaptive Form submission. |AEM Forms |
 
 {style="table-layout:auto"}
 
@@ -288,7 +288,7 @@ See the following links for Adobe Commerce release notes:
 | -----------| ---------- | ---------- | ---------- |
 |August 2022|[Adobe Commerce Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html)|Product documentation |Visit the new product documentation home for Adobe Commerce content and design. |
 |August 2022|[Catalog Service Guide Overview](https://experienceleague.adobe.com/docs/commerce-merchant-services/catalog-service/guide-overview.html)|Product documentation |Get an introduction to [!UICONTROL Catalog Service]. Learn about onboarding and installation.|
-|August 2022|[Quick Checkout for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/quick-checkout/overview.html)|Product documentation |Get an overview of the typical checkout experience for Adobe Commerce and how the Quick Checkout benefits, as well as best practices to follow along that journey.|
+|August 2022|[Quick Checkout for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/quick-checkout/overview.html)|Product documentation |Get an overview of the typical checkout experience for Adobe Commerce and how the Quick Checkout benefits, and best practices to follow along that journey.|
 
 {style="table-layout:auto"}
 
@@ -305,7 +305,7 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 ### Latest Campaign product releases
 
-* [Campaign v8 release notes](https://experienceleague-review.corp.adobe.com/docs/campaign/campaign-v8/new/release-notes.html?lang=en)
+* [Campaign v8 release notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/release-notes.html?lang=en)
 * [Campaign v7.3 release notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html)
 * [Control Panel July release](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)
 <!--* [Tutorials and courses](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#tutorials-campaign) on Experience League-->
@@ -363,7 +363,7 @@ New videos, tutorials, or courses published for Adobe Journey Optimizer.
 ### More resources for [!DNL Journey Optimizer]
 
 * [Journey Optimizer documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html) - [Release rotes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
-* [Decision Management documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioniong/get-started-decision/starting-offer-decisioning.html) - [Release notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html)
+* [Decision Management documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/get-started-decision/starting-offer-decisioning.html) - [Release notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html)
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Adobe Journey Orchestration] {#journey-orch}
 
@@ -420,7 +420,7 @@ New Workfront course and tutorials on Experience League.
 |August 2022|[Workfront Proof - upload proofs](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.proof)|Course |Learn to upload proofs for review and approval.|
 |August 2022|[Workfront Proof - review and approve work](https://experienceleague.adobe.com/?recommended=Workfront-L-1-2022.1.proof)|Course |Learn to use Workfront Proof as a reviewer or approver.|
 |August 2022|[Basic reporting elements](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting)|Course |Reporting elements are the filters, views, and groupings found in all list reports in Workfront. Learning about these helps you create custom reports and calendars.|
-|August 2022|[Create a custom calendar](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.4.reporting)|Course |With a custom calendar, you can display dates and information directly from projects, tasks and issues in a calendar format.|
+|August 2022|[Create a custom calendar](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.4.reporting)|Course |With a custom calendar, you can display dates and information directly from projects, tasks, and issues in a calendar format.|
 |August 2022|[Create custom reports and dashboards](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.reporting)|Course |Reports are the windows into your data. Learn how to create three different types of reports in Workfront and use them in dashboards.|
 |August 2022|[Create intermediate filters](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.reporting)|Course |Gain a greater understanding of wildcards, OR filters, and text mode. Open up built-in project, task, and issue filters and get into the details of what's really going on.|
 
