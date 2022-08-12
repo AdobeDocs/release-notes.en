@@ -341,7 +341,7 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 * [Campaign v7.3 release](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html)
 * [Control Panel June release](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)
-* [tutorials and courses](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#tutorials-campaign) on Experience League
+* [Tutorials and courses](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#tutorials-campaign) on Experience League
 
 ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
 
