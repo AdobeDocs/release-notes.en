@@ -51,8 +51,8 @@ Updated **August 10, 2022**
 
 |Event |Type|Description |
 | -----------|---------- | ----|
-|[Adobe Analytics](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html?utm_source=experienceleague) |Webinar |_Fueling the successes of tomorrow: Data quality & adoption_ - Join Adobe Analytics Champions Frederik Werner and Sarah Owen during this live webinar to learn how you can build data quality into every aspect of analytics and create a shared culture around it.<p>**Date:** August 25 @ 11:00 a.m. ET - [Details & registration](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html?utm_source=experienceleague) |
-|[Experience Makers Live](https://business.adobe.com/events/experience-makers-live.html?cgen=Q75XPNKK&mv=other) |Webinar |A free event for Experience Makers featuring keynotes by Sara Blakely, Peyton Manning, and Eli Manning.<p>**Date:** September 13 - 14 - [Details & registration](https://business.adobe.com/events/experience-makers-live.html?cgen=Q75XPNKK&mv=other) |
+|[Adobe Analytics](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html?utm_source=experienceleague) |Webinar |_Fueling the successes of tomorrow: Data quality & adoption_ - Join Adobe Analytics Champions Frederik Werner and Sarah Owen during this live webinar to learn how you can build data quality into every aspect of analytics and create a shared culture around it.<p>**Date:** August 25 @ 11:00 a.m. ET - [Details & registration](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html) |
+|[Experience Makers Live](https://business.adobe.com/events/experience-makers-live.html?cgen=Q75XPNKK&mv=other) |Webinar |A free event for Experience Makers featuring keynotes by Sara Blakely, Peyton Manning, and Eli Manning.<p>**Date:** September 13 - 14 - [Details & registration](https://business.adobe.com/events/experience-makers-live.html) |
 
 {style="table-layout:auto"}
 
