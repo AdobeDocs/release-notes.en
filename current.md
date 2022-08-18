@@ -5,7 +5,6 @@ doc-type: release notes
 last-update: August 2022
 author: mfrei
 mini-toc-levels: 2
-exl-id: bcbdba6a-9e24-4f84-97ca-65c24ef45707
 ---
 # Adobe Experience Cloud Release Notes - August 2022
 
@@ -161,7 +160,7 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
 _New features_
 
 * The [Content Fragment Console](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=en) now supports [keyboard shortcuts](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console-keyboard-shortcuts.html?lang=en).
-* Experience Manager as a Cloud Service’s [web-optimized image delivery](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/web-optimized-image-delivery.html?lang=en) significantly improves page speed by delivering formats such as WebP. This new service also offers more flexible image resizing and transformation options. All versions of the [Core Image Component](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/components/image.html?lang=en) use this service and lets you deliver images in WebP by selecting an option in the policy of the image component.
+* Experience Manager as a Cloud Service's [web-optimized image delivery](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/web-optimized-image-delivery.html?lang=en) significantly improves page speed by delivering formats such as WebP. This new service also offers more flexible image resizing and transformation options. All versions of the [Core Image Component](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/components/image.html?lang=en) use this service and lets you deliver images in WebP by selecting an option in the policy of the image component.
 * Experience Manager personalization activities can now use experience fragments in lieu of our legacy offers. This feature helps you do the following:
   * Enables a migration path where Experience Manager content promotes Experience Fragment offers rather than legacy library offers to provide appropriately styled content that aligns with the personalization at scale going forward.
   * Prevents content authors from accidentally serving unstyled content on their site.
@@ -185,7 +184,7 @@ _New features available in prerelease channel_
 
 * **Invoke - An Experience Manager Workflow step** - DDX (Document Description XML) is a declarative markup language whose elements represent building blocks of documents. These building blocks include PDF and XDP documents, and other elements such as comments, bookmarks, and styled text. DDX documents are templates for the documents and describe the desired characteristics of source documents that should appear in resultant documents. A single DDX can be used with a range of source documents. You can use the Invoke step an Experience Manager Workflow to perform various operations, like assembling disassembling documents, creating and modifying Acrobat and XFA Forms, and other operations described in [DDX Reference](https://helpx.adobe.com/content/dam/help/en/experience-manager/forms-cloud-service/ddxRef.pdf) documentation.
 
-* **Convert to PDF/A - An Experience Manager Workflow step** - PDF/A is an archival format for long-term preservation of the document’s content, all fonts are embedded and the file is uncompressed. Now, you can use the Convert to PDF/A step an AEM Workflow to convert your documents or files in any format to PDF/A format.
+* **Convert to PDF/A - An Experience Manager Workflow step** - PDF/A is an archival format for long-term preservation of the document's content, all fonts are embedded and the file is uncompressed. Now, you can use the Convert to PDF/A step an AEM Workflow to convert your documents or files in any format to PDF/A format.
 
 ### Experience Manager as a Cloud Service Foundation
 
@@ -230,9 +229,9 @@ New videos, tutorials, and courses published over the past month.
 |Published|Name|Type|Description |Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
 |August 2022|[AEM as a Cloud Service 2022.7.0 release update](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-7-0.html)|Video |Hear from the AEM Product team, and learn about the features and innovations for the latest release of Adobe Experience Manager Assets, Assets Essentials, Sites, Commerce Integration Framework, Forms and Cloud Manager.|AEM as a Cloud Service |
-|August 2022|[AEM Headless tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=en)|Updated articles |AEM Headless SDK tutorials have been updated to use persisted queries and WKND 2.0. Use hands-on tutorials to explore how to use the various options and chose what’s right for you.|AEM as a Cloud Service|
-|August 2022|[AEM as a Cloud Service integrations with Adobe Experience Cloud](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations.html)|Video |Learn about AEM as a Cloud Service’s supported integrations with other Adobe Experience Cloud products.|AEM CS, Experience Cloud|
-|August 2022|[Forms CS and Microsoft® Power Automate](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/integrate-formscs-power-automate.html)|Video |Invoke your power automate flows on an Adaptive Form submission. |AEM Forms |
+|August 2022|[AEM Headless tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=en)|Updated articles |AEM Headless SDK tutorials have been updated to use persisted queries and WKND 2.0. Use hands-on tutorials to explore how to use the various options and chose what's right for you.|AEM as a Cloud Service|
+|August 2022|[AEM as a Cloud Service integrations with Adobe Experience Cloud](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations.html)|Video |Learn about AEM as a Cloud Service's supported integrations with other Adobe Experience Cloud products.|AEM CS, Experience Cloud|
+|August 2022|[Forms CS and Microsoft&reg; Power Automate](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/integrate-formscs-power-automate.html)|Video |Invoke your power automate flows on an Adaptive Form submission. |AEM Forms |
 
 {style="table-layout:auto"}
 
@@ -318,13 +317,13 @@ New videos, tutorials, or courses published for Adobe Campaign.
 | -----------| ---------- | ---------- | ---------- |---------- |
 |July 2022|[Control Panel for hybrid hosting models](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-for-hybrid-hosting-models.html)|Video |Learn how to enable Control Panel for Adobe Campaign hybrid hosting models, access Control Panel, and unlock key features.|Control Panel|
 |July 2022|[Monitor through-puts and latency](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html)|Video |Learn how to monitor delivery through-puts and transactional message latencies of your campaign instance.|Control Panel|
-|July 2022|[Monitor workflows to optimize resource usage](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html)|Video |Learn how to monitor your workflows’ temporary storage usage and where to configure workflow settings to avoid database or workflow issues on your instance.|Control Panel|
+|July 2022|[Monitor workflows to optimize resource usage](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html)|Video |Learn how to monitor your workflows' temporary storage usage and where to configure workflow settings to avoid database or workflow issues on your instance.|Control Panel|
 |July 2022|[Develop and customize data models in Adobe Campaign Classic](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html?lang=en)|Video (Skill Builder events) |Join this session with our Campaign trainer to learn how to develop a data schema inside a data model within Campaign Classic.|Campaign Classic v7|
 |July 2022|[Deliverability best practices and strategies that drive results](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/deliverability-best-practices.html)|Video |Learn how to minimize the countless hours that go into the planning and production of your email campaigns.|Campaign Classic v7|
 |July 2022|[Level up Your Cross-channel Marketing with Adobe Campaign Classic](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/cross-channel.html?lang=en)|Video |Watch this deep-dive webinar focusing on workflows, automation, personalization, and measurement for Adobe Campaign Classic customers.|Campaign Classic v7|
 |July 2022|[Time saving tips from a pro!](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/tips.html?lang=en)|Video |Start your new year with tips and tricks from an Adobe Campaign pro! Learn to be more efficient with creating and launching campaigns and how to deliver more meaningful and tailored cross-channel experiences.|Campaign Classic v7|
 |July 2022|[Adobe Campaign integrations with a marketing ecosystem](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/integrations.html?lang=en)|Video |Learn about Adobe Campaign integrations with a marketing ecosystem. Cross-channel marketing solutions like Adobe Campaign should not sit in isolation from other technologies or teams. Don't let disparate systems impede a complete understanding of a customer and disrupt cross-channel strategies.|Campaign Classic v7|
-|July 2022|[Adobe Campaign Standard Customer Spotlight - Microsoft](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/microsoft.html?lang=en)|Video |Hear from the marketing team at Microsoft® to share how they use Adobe Campaign Standard, their architecture and guiding principles, and best practices. |Campaign Standard|
+|July 2022|[Adobe Campaign Standard Customer Spotlight - Microsoft](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/microsoft.html?lang=en)|Video |Hear from the marketing team at Microsoft&reg; to share how they use Adobe Campaign Standard, their architecture and guiding principles, and best practices. |Campaign Standard|
 |July 2022|[Adobe Campaign Customer Spotlight - Center Parcs](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/center-parcs.html?lang=en)|Video |Hear Adobe Campaign customers share how they overcome challenges, adjust to the new normal, become more efficient with managing campaigns, and drive meaningful value through Adobe Campaign.|Campaign Classic v7|
 |July 2022|[Adobe Campaign Classic V7 vs V8](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/classic-v7-vs-v8.html?lang=en)|Video |Hear about the latest Product updates and understand differences between V7 and V8 from our Product Managers.|Campaign Classic v7, Campaign v8|
 |July 2022|[Keynote - Customer Journey trends and innovation across B2B & B2C](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/keynote.html?lang=en)|Video |Learn about the latest trends in Customer Journey Management across B2B and B2C. See the most recent innovations in key journey applications and the broader Adobe Experience Cloud and Platform.|Marketo, Campaign Classic v7, Campaign v8|
@@ -367,7 +366,7 @@ New videos, tutorials, or courses published for Adobe Journey Optimizer.
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Adobe Journey Orchestration] {#journey-orch}
 
-Use Experience Platform to orchestrate a customer’s journey at scale across experience channels, by intelligently anticipating every individual’s needs in real time.
+Use Experience Platform to orchestrate a customer's journey at scale across experience channels, by intelligently anticipating every individual's needs in real time.
 
 ### Latest [!DNL Journey Orchestration] product releases
 
@@ -482,7 +481,7 @@ New tutorials and courses published for Adobe Document Cloud.
 |August 2022|[New workspace experience](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace.html)|Video |Learn about the new workspace experience that you can activate in Acrobat, allowing you to seamlessly move between tools and files.|Adobe Acrobat |
 |August 2022|[Set up online payments](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/set-up-online-payments.html?lang=en)|Video |Learn how to set up and accept online payments in your documents.|Acrobat Sign |
 |August 2022|[Sign with a stamp](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-with-a-stamp.html)|Video |Learn how to use stamps in a signature workflow to mark a document approved or completed.|Acrobat Sign |
-|August 2022|[Getting a signature in person](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-in-person.html?lang=en)|Video |Learn how to get someone else’s signature in person using the [Acrobat Sign mobile app](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html?lang=en).|Acrobat Sign  |
+|August 2022|[Getting a signature in person](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-in-person.html?lang=en)|Video |Learn how to get someone else's signature in person using the [Acrobat Sign mobile app](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html?lang=en).|Acrobat Sign  |
 
 {style="table-layout:auto"}
 
