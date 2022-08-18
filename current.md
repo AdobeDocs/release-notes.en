@@ -5,6 +5,7 @@ doc-type: release notes
 last-update: August 2022
 author: mfrei
 mini-toc-levels: 2
+exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
 # Adobe Experience Cloud Release Notes - August 2022
 
