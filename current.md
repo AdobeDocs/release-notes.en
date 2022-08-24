@@ -17,7 +17,7 @@ As an Experience Maker, your path to success starts with [Experience League](htt
 >
 >To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League.
 
-Latest update: **August 12, 2022**
+Latest update: **August 23, 2022**
 
 * [[!DNL Experience League] events](#events) 
 * [[!DNL Adobe System Status]](#status)
@@ -35,7 +35,7 @@ Latest update: **August 12, 2022**
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo) 
-* [[!DNL Adobe Workfront]](#workfront)
+* [[!DNL Adobe Workfront]](#workfront) (updated **August 23**)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -405,7 +405,7 @@ Adobe [!DNL Workfront] is a unified work management application for sharing idea
 
 New Workfront course and tutorials on Experience League.
 
-**Note:** Translation on Experience League for all Workfront tutorials and product documentation is coming soon!
+**Update August 23:** Translation on Experience League for all Workfront tutorials and product documentation is coming soon!
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
