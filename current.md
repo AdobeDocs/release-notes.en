@@ -405,6 +405,8 @@ Adobe [!DNL Workfront] is a unified work management application for sharing idea
 
 New Workfront course and tutorials on Experience League.
 
+**Note:** Translation on Experience League for all Workfront tutorials and product documentation is coming soon!
+
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |August 2022 |[Workfront tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) |Tutorial home |Visit the new home for Workfront tutorials on Experience League. |
