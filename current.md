@@ -17,7 +17,7 @@ As an Experience Maker, your path to success starts with [Experience League](htt
 >
 >To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League.
 
-Latest update: **September 2022**
+Latest update: **September 7, 2022**
 
 * [[!DNL Experience League] events](#events) 
 * [[!DNL Adobe System Status]](#status)
@@ -47,12 +47,21 @@ Need help? Visit [Experience League](https://experienceleague.adobe.com/#home) f
 
 Experience League events are a great place to learn, interact, and get answers from product experts at Adobe! See [Events](https://experienceleague.adobe.com/events/?lang=en) on Experience League to stay updated for July 2022.
 
-Updated **August 10, 2022**
+Updated **September 7, 2022**
 
 |Event |Type|Description |
 | -----------|---------- | ----|
-|[Adobe Analytics](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html) |Webinar |_Fueling the successes of tomorrow: Data quality & adoption_ - Join Adobe Analytics Champions Frederik Werner and Sarah Owen during this live webinar to learn how you can build data quality into every aspect of analytics and create a shared culture around it.<p>**Date:** August 25 @ 11:00 a.m. ET - [Details & registration](https://engage.adobe.com/NA_FY22_Q3_WBR_Adobe_Analytics_Data_Validation.html) |
+|[Adobe Analytics](https://events.bizzabo.com/411737?promo=ExperienceLeague&tr=true) |Experience Makers The Skill Exchange |Join us for our Adobe Analytics edition of Experience Makers The Skill Exchange - where experts give you the inside scoop on Adobe Analytics. <p>**Date:** September 8 @ 9:00 a.m. PT - [Details & registration](https://events.bizzabo.com/411737?promo=ExperienceLeague&tr=true) |
+|[Adobe Workfront](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |Customer Workshop |Looking for an opportunity to connect with other customers and discuss Workfront features? Join our CS Connections series! A monthly opportunity to connect with other customers to discuss your organization's hot topics.<p>>**Date:** September 12 @ 7:00 a.m. MT [Details & registration](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)    |
 |[Experience Makers Live](https://business.adobe.com/events/experience-makers-live.html) |Webinar |A free event for Experience Makers featuring keynotes by Sara Blakely, Peyton Manning, and Eli Manning.<p>**Date:** September 13 - 14 - [Details & registration](https://business.adobe.com/events/experience-makers-live.html) |
+|[Adobe Workfront](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |Workshop |Join the Customer Success team for a live discussion and walk-through of diagramming workflows - from intake through completion - and understanding how to set a solid foundation for effective work management practices. <p>**Date:** September 20 - [Details & registration](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)|
+|[Adobe Campaign](https://adobe-campaign-insider.dxfieldmarketing.adobeevents.com/) (Classic and Standard) |Webinar |The holiday season, a peak season, and the busiest time of year for cross-channel marketers is around the corner, and planning should be well underway. This Adobe Campaign Insider session will cover topics that will help you with email deliverability, Adobe Campaign performance tuning, and workflow and delivery best practices to ensure your instance is in shape for peak activity.<p>**Date:** September 15 @ 8:00 a.m. PT [Details & registration](https://adobe-campaign-insider.dxfieldmarketing.adobeevents.com/)|
+|[Adobe Workfront](https://webinars.on24.com/adobe_workfront/AdminEssentialsRM?partnerref=exl) |Webinar |Using Adobe Workfront to manage your resources is the DREAM - knowing the work that needs to be done, what resources you can access, and assigning them based on their availability. Join us to learn how.<p>**Date:** September 21 @ 8:00 a.m. UK [Details & registration] |
+|[Adobe Workfront](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,fir0yEdzREq77VYkVxk2kw,W3nJ9w4q-U69PVqUTk7D6Q,zs6GtWtgRkyikfMUMzBEmw?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |Workshop |Join us for our discussion on Project Templates and the different ways they add value and create efficiencies to organizations. We'll brainstorm different approaches to structuring templates to support your projects - by campaign, by deliverable, etc., and we'll demo some favorites as well as walkthrough our latest Blueprints. <p>**Date:** September 21 @ 12:30 p.m. MT [Details & registration](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,fir0yEdzREq77VYkVxk2kw,W3nJ9w4q-U69PVqUTk7D6Q,zs6GtWtgRkyikfMUMzBEmw?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)|
+|[Adobe Workfront](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Jcg3aU0zf0uG9pB-_vmCUg,pdnZcB-mqk2_nMKUQEQnsA,xYRXQWa6OU6_tvNTp_vuFQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |Workshop |Effective communication is an integral part of you, your users, and ultimately, company success. This workshop will provide 10 tips - both in and out of Workfront - to help promote performance, productivity, and reduce the risk of unnecessary problems. <p>**Date:** September 22 @ 7:00 p.m. MT [Details & registration](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Jcg3aU0zf0uG9pB-_vmCUg,pdnZcB-mqk2_nMKUQEQnsA,xYRXQWa6OU6_tvNTp_vuFQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)|
+|[Adobe Campaign Classic and Adobe Campaign Standard](https://adobe.ly/3KHrGpl) |Workshop |Join Tamara Wulf, & Earl Ross to chat about your queries pertaining to the topics discussed in the Adobe Campaign Insider Webinar on Checklist for Success During the Holidays and Peak Seasons. <p>**Date:** September 22 @ 8:00 p.m. MT [Details & registration](https://adobe.ly/3KHrGpl)|
+|[Adobe Workfront](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,Y1He1usOwUaIvlln-RiUCw,PbQY6cwRBkiHr0Uxk8YBow,2QMMEWx0e0C65kbQ1d4cIA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |Workshop |Effective communication is an integral part of you, your users, and ultimately, company success. This workshop will provide 10 tips - both in and out of Workfront - to help promote performance, productivity, and reduce the risk of unnecessary problems. <p>**Date:** September 27 @ 9:00 a.m. MT [Details & registration](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,Y1He1usOwUaIvlln-RiUCw,PbQY6cwRBkiHr0Uxk8YBow,2QMMEWx0e0C65kbQ1d4cIA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)|
+|[Adobe Workfront](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,Y1He1usOwUaIvlln-RiUCw,PbQY6cwRBkiHr0Uxk8YBow,2QMMEWx0e0C65kbQ1d4cIA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |Workshop |Effective communication is an integral part of you, your users, and ultimately, company success. This workshop will provide 10 tips - both in and out of Workfront - to help promote performance, productivity, and reduce the risk of unnecessary problems. <p>**Date:** September 27 @ 9:00 a.m. MT [Details & registration](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,Y1He1usOwUaIvlln-RiUCw,PbQY6cwRBkiHr0Uxk8YBow,2QMMEWx0e0C65kbQ1d4cIA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)|
 
 {style="table-layout:auto"}
 
@@ -107,7 +116,7 @@ New video tutorials, articles, and courses published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|August 2022|[Create a fallout visualization report](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analyzing-customer-journeys/fallout-visualization.html)|Video |Learn about fallout report use cases and how to configure this report in Analysis Workspace. |
+|September 2022|[Create a flow visualization](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analyzing-customer-journeys/flow-visualization.html?lang=en)|Video |Learn how to use Flow visualizations to explore the exact journeys customers have with your brand. |
 
 {style="table-layout:auto"}
 
@@ -117,6 +126,14 @@ Latest update: **August 5, 2022**
 
 * Customer Journey Analytics [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en) 
 * Customer Journey Analytics [product documentation and tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=en)
+
+### New Customer Journey Analytics tutorials and courses {#tutorials-cja}
+
+New videos, tutorials, or courses published for CJA.
+
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|September 2022|[Audience Publishing for Customer Journey Analytics](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/audiences/audience-publishing-for-cja.html)|Video |Learn how to use Customer Journey Analytics to publish audiences you discover from your analysis to the Adobe Experience Platform Real-Time Customer Profile for segment activation, using Adobe Real-Time Customer Data Platform or Adobe Journey Optimizer.|
 
 ## ![Icon](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
@@ -229,10 +246,14 @@ New videos, tutorials, and courses published over the past month.
 
 |Published|Name|Type|Description |Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
-|August 2022|[AEM as a Cloud Service 2022.7.0 release update](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-7-0.html)|Video |Hear from the AEM Product team, and learn about the features and innovations for the latest release of Adobe Experience Manager Assets, Assets Essentials, Sites, Commerce Integration Framework, Forms and Cloud Manager.|AEM as a Cloud Service |
-|August 2022|[AEM Headless tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/overview.html?lang=en)|Updated articles |AEM Headless SDK tutorials have been updated to use persisted queries and WKND 2.0. Use hands-on tutorials to explore how to use the various options and chose what's right for you.|AEM as a Cloud Service|
-|August 2022|[AEM as a Cloud Service integrations with Adobe Experience Cloud](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations.html)|Video |Learn about AEM as a Cloud Service's supported integrations with other Adobe Experience Cloud products.|AEM CS, Experience Cloud|
-|August 2022|[Forms CS and Microsoft&reg; Power Automate](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/integrate-formscs-power-automate.html)|Video |Invoke your power automate flows on an Adaptive Form submission. |AEM Forms |
+|September 2022|[AEM as a Cloud Service 2022.8.0 release update](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=en)|Video |Hear from the AEM Product team, and learn about the features and innovations for the latest release of Adobe Experience Manager Assets, Assets Essentials, Sites, Commerce Integration Framework, Forms and Cloud Manager.|AEM |
+|September 2022|[Web optimized image delivery](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/components/web-optimized-image-delivery.html?lang=en)|Video |Learn how to enable web optimized image delivery on AEM as a Cloud Service sites using AEM Core Components.|AEM Sites |
+|September 2022|[Remote SPA](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/spa-editor/remote-spa/overview.html)|Video (updated) |Welcome to the multi-part tutorial for developers looking to augment an existing React-based (or Next.js) Remote SPAs with editable AEM content using AEM SPA Editor.|AEM Sites|
+|September 2022|[Integrate with Microsoft Power Automate](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/integrate-formscs-power-automate.html?lang=en)|Video |Invoke your power automate flows on an Adaptive Form submission. Learn the steps to configure and integrate Forms CS with Microsoft power automate. Parse submitted form data, and send DoR as an email attachment.|AEM Forms CS |
+|September 2022|[Adobe Content Management Forum event series - 2022](https://experienceleague.adobe.com/docs/adobe-content-management-forum-events/events/2022/welcome.html?lang=en)|Video |Watch the welcome address and get an AEM overview, delivered by Elliot Sedegah. It also covers unlocking the power of content velocity, and much more.|AEM CS |
+|September 2022|[The Skill Exchange - Developer Track - Experience Makers Spotlight](https://experienceleague.adobe.com/docs/skill-exchange-events/events/aem/aug2022/developer-track/spotlight.html?lang=en)|Video |Join us as we spotlight two expert AEM users. Each shares their best AEM tip or trick. |AEM CS |
+|September 2022|[THe Skill Exchange - Marketer / Web Publisher](https://experienceleague.adobe.com/docs/skill-exchange-events/events/aem/aug2022/marketer/reusability.html?lang=en)|Video |Learn how to utilize experience fragments to drive reuse and efficiency across your ecosystem. This will impact ROI and drive velocity. |AEM CS |
+|September 2022|[How to use AEM React Editable Components v2](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/spa-editor/how-to/react-core-components-v2.html?lang=en)|Video |Learn how to use AEM React Editable Components. AEM provides AEM React Editable Components v2, an Node.js-based SDK that allows the creation of React components, that support in-context component editing using AEM SPA Editor.|AEM CS |
 
 {style="table-layout:auto"}
 
@@ -286,9 +307,11 @@ See the following links for Adobe Commerce release notes:
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|August 2022|[Adobe Commerce Content and Design Guide](https://experienceleague.adobe.com/docs/commerce-admin/content-design/guide-overview.html)|Product documentation |Visit the new product documentation home for Adobe Commerce content and design. |
-|August 2022|[Catalog Service Guide Overview](https://experienceleague.adobe.com/docs/commerce-merchant-services/catalog-service/guide-overview.html)|Product documentation |Get an introduction to [!UICONTROL Catalog Service]. Learn about onboarding and installation.|
-|August 2022|[Quick Checkout for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/quick-checkout/overview.html)|Product documentation |Get an overview of the typical checkout experience for Adobe Commerce and how the Quick Checkout benefits, and best practices to follow along that journey.|
+|September 2022|[New Relic Masterclass - Take Control of your Infrastructure](https://experienceleague.adobe.com/docs/commerce-events/events/2022/new-relic.html?lang=en)|Video|Join this webinar to learn how to take control of your infrastructure with [!UICONTROL New Relic]. |
+|September 2022|[Benefits of upgrading to Adobe Commerce 2.4.4](https://experienceleague.adobe.com/docs/commerce-events/events/2022/upgrade.html?lang=en)|Video |Join this webinar to find out how to plan and execute a smooth upgrade to take advantage of the latest improvements.|
+|September 2022|[Deliver Headless Experiences with Adobe Experience Manager](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html?lang=en)|Video |Learn about headless experience management using the latest Experience Manager Content Fragment enhancements and the new GraphQL API for headless content delivery.|
+|September 2022|[Adobe Commerce Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/guide-overview.html)|Video |Get detailed information about content and design features, including the building basic content components.|
+|September 2022|[Setup multiple commerce systems](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multiple-commerce-systems-setup.html)|Video |Learn how to set up AEM with multiple Adobe commerce environments. |
 
 {style="table-layout:auto"}
 
@@ -308,30 +331,19 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 * [Campaign v8 release notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/release-notes.html?lang=en)
 * [Campaign v7.3 release notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html)
 * [Control Panel July release](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)
-<!--* [Tutorials and courses](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#tutorials-campaign) on Experience League-->
+* [Tutorials and courses](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#tutorials-campaign) on Experience League
 
-<!-- ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
+### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
 
 New videos, tutorials, or courses published for Adobe Campaign.
 
 |Published|Name|Type|Description |Applications|
+|Published|Name|Type|Description |Application|
 | -----------| ---------- | ---------- | ---------- |---------- |
-|July 2022|[Control Panel for hybrid hosting models](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-for-hybrid-hosting-models.html)|Video |Learn how to enable Control Panel for Adobe Campaign hybrid hosting models, access Control Panel, and unlock key features.|Control Panel|
-|July 2022|[Monitor through-puts and latency](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html)|Video |Learn how to monitor delivery through-puts and transactional message latencies of your campaign instance.|Control Panel|
-|July 2022|[Monitor workflows to optimize resource usage](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html)|Video |Learn how to monitor your workflows' temporary storage usage and where to configure workflow settings to avoid database or workflow issues on your instance.|Control Panel|
-|July 2022|[Develop and customize data models in Adobe Campaign Classic](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/data-models.html?lang=en)|Video (Skill Builder events) |Join this session with our Campaign trainer to learn how to develop a data schema inside a data model within Campaign Classic.|Campaign Classic v7|
-|July 2022|[Deliverability best practices and strategies that drive results](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/deliverability-best-practices.html)|Video |Learn how to minimize the countless hours that go into the planning and production of your email campaigns.|Campaign Classic v7|
-|July 2022|[Level up Your Cross-channel Marketing with Adobe Campaign Classic](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/cross-channel.html?lang=en)|Video |Watch this deep-dive webinar focusing on workflows, automation, personalization, and measurement for Adobe Campaign Classic customers.|Campaign Classic v7|
-|July 2022|[Time saving tips from a pro!](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/tips.html?lang=en)|Video |Start your new year with tips and tricks from an Adobe Campaign pro! Learn to be more efficient with creating and launching campaigns and how to deliver more meaningful and tailored cross-channel experiences.|Campaign Classic v7|
-|July 2022|[Adobe Campaign integrations with a marketing ecosystem](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/integrations.html?lang=en)|Video |Learn about Adobe Campaign integrations with a marketing ecosystem. Cross-channel marketing solutions like Adobe Campaign should not sit in isolation from other technologies or teams. Don't let disparate systems impede a complete understanding of a customer and disrupt cross-channel strategies.|Campaign Classic v7|
-|July 2022|[Adobe Campaign Standard Customer Spotlight - Microsoft](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/microsoft.html?lang=en)|Video |Hear from the marketing team at Microsoft&reg; to share how they use Adobe Campaign Standard, their architecture and guiding principles, and best practices. |Campaign Standard|
-|July 2022|[Adobe Campaign Customer Spotlight - Center Parcs](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/center-parcs.html?lang=en)|Video |Hear Adobe Campaign customers share how they overcome challenges, adjust to the new normal, become more efficient with managing campaigns, and drive meaningful value through Adobe Campaign.|Campaign Classic v7|
-|July 2022|[Adobe Campaign Classic V7 vs V8](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/classic-v7-vs-v8.html?lang=en)|Video |Hear about the latest Product updates and understand differences between V7 and V8 from our Product Managers.|Campaign Classic v7, Campaign v8|
-|July 2022|[Keynote - Customer Journey trends and innovation across B2B & B2C](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/keynote.html?lang=en)|Video |Learn about the latest trends in Customer Journey Management across B2B and B2C. See the most recent innovations in key journey applications and the broader Adobe Experience Cloud and Platform.|Marketo, Campaign Classic v7, Campaign v8|
-|July 2022|[Top Tips and Tricks for Adobe Campaign Standard](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/customer-journeys/2022/tips-and-tricks.html?lang=en)|Video |Plug in to your Adobe Campaign Standard instance and discover best practices around targeting, personalization, and marketing fatigue to have a better usage of ACS.|Campaign Standard|
-|July 2022|[Team, skills, and organizational design required to support cross-channel marketing](https://experienceleague.adobe.com/docs/adobe-campaign-insider-events/events/team-skills-org-design.html)|Video |Learn how to be empowered to engage wherever, whenever, and however you want. Learn the importance of having a marketing organization that supports planning, execution, and measurement.|Campaign Classic v7, Campaign v8, Campaign Standard|
+|September 2022|[Set up SMS for Adobe Campaign](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/course-discussion-set-up-sms-for-adobe-campaign/m-p/542687#M2301)|Course |Learn how to connect your Campaign instance to your SMTP provider and how to analyze and troubleshoot the configuration. |Campaign v8|
+|September 2022|[SMPP protocol deep dive and troubleshooting](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html)|Video |Learn how SMPP connections are established and how SMPP exchanges data through PDUs. Understand how to troubleshoot connections.|Campaign v8|
 
-{style="table-layout:auto"} -->
+{style="table-layout:auto"}
 
 ### Campaign help resources
 
@@ -348,17 +360,16 @@ With Journey Optimizer, you can manage scheduled omnichannel campaigns and one-t
 
 Find out more about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=en).
 
-<!-- ### New Journey Optimizer tutorials and courses {#tutorials-ajo}
+### New Journey Optimizer tutorials and courses {#tutorials-ajo}
 
 New videos, tutorials, or courses published for Adobe Journey Optimizer.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|July 2022|[Configure message frequency rules](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/channel-configuration/configure-frequency-rules.html)|Video |Learn how to create, activate, test, and report on frequency rules. Understand how to determine which frequency rules will be inherited for a message.|
-|July 2022|[Configure, author, and deliver SMS messages](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/configure-author-and-deliver-sms-messages.html)|Video |Learn how to configure, author, and include SMS messaging into your customer journeys.|
-|July 2022|[Inbound keyword support for SMS](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-messages/inbound-keyword-support-for-sms.html)|Video |Understand how native inbound keyword support (start, stop, unstop) for SMS works.|
+|September 2022|[Getting started with decision management for marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)|Video |Learn about Adobe Journey Optimizer's decision management capabilities. This cours is designed for marketers who want to drive revenue, customer experience and loyalty by delivering the best offers to their customers|
+|September 2022|[Create a campaign](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-campaigns/create-a-campaign.html?lang=en)|Video |Learn how to deliver one-time content to a specific audience by executing actions immediately, or on a specified schedule.|
 
-{style="table-layout:auto"} -->
+{style="table-layout:auto"}
 
 ### More resources for [!DNL Journey Optimizer]
 
@@ -403,28 +414,19 @@ Adobe [!DNL Workfront] is a unified work management application for sharing idea
 
 ### New Adobe Workfront courses and tutorials {#tutorials-workfront}
 
-New Workfront course and tutorials on Experience League.
+New Workfront course and collections of tutorials on Experience League.
 
-**Update August 23:** Translation on Experience League for all Workfront tutorials and product documentation is coming soon!
+**Note:** Translation on Experience League for all Workfront tutorials and product documentation is coming soon!
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|August 2022 |[Workfront tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en) |Tutorial home |Visit the new home for Workfront tutorials on Experience League. |
-|August 2022|[Get started with Workfront for System Administrators](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.admin)|Course |Learn the first stages of how to set up users and optimize your users' experience with system settings.|
-|August 2022|[Further your system settings knowledge for Workfront Administrators](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.2.admin)|Course |Learn more about system settings to enhance your users' experience, including user organization, custom forms, approval processes and milestones, and layout templates.|
-|August 2022|[Get Started with Workfront for Planners](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners)|Course |Start your Workfront journey by learning to create and plan projects. Workfront recommends you keep things simple.|
-|August 2022|[Manage and close a project](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners)|Course |Now that you've learned to create and plan projects, we can get into how to manage and close them.|
-|August 2022|[Further understanding of managing work as a Planner ](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners)|Course |Once you've learned the basics of creating, planning, and managing projects, there are a few more things you should know to get the most out of Workfront.|
-|August 2022|[Get Started with Workfront for Workers](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.workers)|Course |This course is for users with a Work license in Adobe Workfront who receive work or requests, and collaborate with teams on projects and documents.|
-|August 2022|[Adobe Workfront for Collaborators](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.collaborators)|Course |Learn how to use a Review or Request license to easily request, review, and collaborate on tasks, documents, and proofs in the new Workfront experience.|
-|August 2022|[Create and manage custom forms](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.customforms)|Course |Capture your organization's unique information by creating custom fields in your system. Learn to create, share, and attach custom forms within Workfront.|
-|August 2022|[Workfront Proof - administration and setup](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.3.proof)|Course |Learn to adjust proof settings, customize actions and reports, and set up proof workflows.|
-|August 2022|[Workfront Proof - upload proofs](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.proof)|Course |Learn to upload proofs for review and approval.|
-|August 2022|[Workfront Proof - review and approve work](https://experienceleague.adobe.com/?recommended=Workfront-L-1-2022.1.proof)|Course |Learn to use Workfront Proof as a reviewer or approver.|
-|August 2022|[Basic reporting elements](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting)|Course |Reporting elements are the filters, views, and groupings found in all list reports in Workfront. Learning about these helps you create custom reports and calendars.|
-|August 2022|[Create a custom calendar](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.4.reporting)|Course |With a custom calendar, you can display dates and information directly from projects, tasks, and issues in a calendar format.|
-|August 2022|[Create custom reports and dashboards](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.reporting)|Course |Reports are the windows into your data. Learn how to create three different types of reports in Workfront and use them in dashboards.|
-|August 2022|[Create intermediate filters](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.reporting)|Course |Gain a greater understanding of wildcards, OR filters, and text mode. Open up built-in project, task, and issue filters and get into the details of what's really going on.|
+|September 2022|[Workfront courses](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.admin)|Courses |Browse our new courses available for Workfront on Experience League.|
+|September 2022|[Best Practice - Agile](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/agile-bp.html?lang=en)|Video |Learn best practices from both internal and external [!DNL Workfront] experts on how to use the [!DNL Workfront] tools to enhance work processes.|
+|September 2022|[Boards](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/boards/add-and-edit-column-settings-on-a-board.html?lang=en)|Video |Watch new tutorials that show how to use the new Boards tool with it's current functionality.|
+|September 2022|[Agile: Scrum](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/scrum/create-a-scrum-agile-team.html?lang=en)|Video |Learn how to create an agile team, select the scrum methodology, and determine settings for the scrum team. Watch tutorials migrated from [!DNL Workfront One] that show how to do the Scrum agile methodology within [!DNL Workfront].|
+|September 2022|[Agile: Kanban](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/kanban/create-a-kanban-team.html?lang=en)|Video |Watch tutorials migrated from [!DNL Workfront One] that show how to do the Kanban agile methodology within [!DNL Workfront]|
+|September 2022|[Personal Time Off Calendar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/personal-time-off-calendar/how-time-off-affects-project-timelines.html?lang=en)|Video |View tutorials that show why personal time off is important, and how to add it within Workfront to resource management is easier.|
+|September 2022|[Workfront Fusion training](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview.html?lang=en)|Video |Each Workfront Fusion section contains multiple tutorials, with each tutorial presenting concepts you'll need to understand before progressing to the next tutorial. A walkthrough exercise helps you master most concepts.|
 
 {style="table-layout:auto"}
 
@@ -481,10 +483,15 @@ New tutorials and courses published for Adobe Document Cloud.
 
 |Published|Name|Type|Description |Application|
 | -----------| ---------- | ---------- | ---------- |---------- |
-|August 2022|[New workspace experience](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace.html)|Video |Learn about the new workspace experience that you can activate in Acrobat, allowing you to seamlessly move between tools and files.|Adobe Acrobat |
-|August 2022|[Set up online payments](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/set-up-online-payments.html?lang=en)|Video |Learn how to set up and accept online payments in your documents.|Acrobat Sign |
-|August 2022|[Sign with a stamp](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-with-a-stamp.html)|Video |Learn how to use stamps in a signature workflow to mark a document approved or completed.|Acrobat Sign |
-|August 2022|[Getting a signature in person](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-signing/sign-in-person.html?lang=en)|Video |Learn how to get someone else's signature in person using the [Acrobat Sign mobile app](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-overview.html?lang=en).|Acrobat Sign  |
+|September 2022|[Auto-adjust layout](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/auto-adjust-layout.html?lang=en)|Video |Learn about the new editing mode that reflows content and auto-adjusts the layout across pages in your PDF.|Acrobat |
+|September 2022|[Add custom page](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/add-custom-page.html)|Video |Learn how to add custom pages to your PDF using the integrated Adobe Express app, which offers thousands of templates to choose from.|Acrobat |
+|September 2022|[Send for signature in Microsoft Teams](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/adobe-sign-teams-mortgage.html?lang=en)|Video (updated) |Learn how to send agreements for signature, check the status of agreements, and send reminders all from within Microsoft Teams.|Acrobat Sign |
+|September 2022|[Adding fields to your documents](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/adding-fields.html?lang=en)|Video (updated) |Learn how to automatically place fields on your document or use the drag and drop authoring environment inside Acrobat Sign.|Acrobat Sign |
+|September 2022|[Configure sending options](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/sending-options.html?lang=en)|Video (updated) |Learn how to configure various options when sending a document out for signature. |Acrobat Sign |
+|September 2022|[Modify an existing web form](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=en)|Video |Learn how to disable, edit, and re-enable an existing web form. |Acrobat Sign |
+|September 2022|[Creating a report](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report.html?lang=en)|Video |Learn how to build your own reports to gain visibility into your document signing process, or see how individual groups or users are doing.|Acrobat Sign |
+|September 2022|[Creating a report chart](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-report.html?lang=en)|Video (updated)|Learn how to build, save, and manage your own custom reports and data exports in a personalized view with the new reporting experience. |Acrobat Sign |
+|September 2022|[Building a custom workflow](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/building-a-custom-workflow.html?lang=en)|Video (updated)|Learn how to tailor and automate document workflows to get electronic signatures, collect form data, and confirm delivery of an important document to streamline workflow management.|Acrobat Sign |
 
 {style="table-layout:auto"}
 
@@ -495,6 +502,13 @@ For Document Cloud help, see:
 * [Document Cloud Learn & Support](https://helpx.adobe.com/support/document-cloud.html)
 
 ## ![Icon](/assets/creative-cloud-24.png) Adobe Creative Cloud for enterprise {#creative-cloud}
+
+New videos, tutorials, or courses published for Adobe Campaign.
+
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|September 2022|[Taming Font Anxiety with Adobe Fonts ](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/assets/TamingTypeAnxiety.pdf?lang=en)|PDF |Learn how Adobe Fonts work in this hands-on tutorial.|
+|September 2022|[Adobe Acrobat for Content Creators](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/assets/AcrobatforContentCreators.pdf?lang=en)|PDF |As a content creator, you probably generate PDFs and then routinely view those PDF files in Adobe Acrobat. But, Acrobat also includes many tools that help streamline typical creative workflows. Learn two specific tools: [!UICONTROL Sharing with Others] and [!UICONTROL Protection].|
 
 See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=en) for the latest tutorials.
 
