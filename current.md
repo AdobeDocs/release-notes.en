@@ -305,6 +305,10 @@ See the following links for Adobe Commerce release notes:
 * [Adobe Commerce and Magento Open Source 2.4.x release notes](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
 * [Release notes for Cloud Suite](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
 * [Release notes for Payment Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/release-notes.html)
+* [Release notes for Product Recommendations](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/release-notes.html)
+* [Release notes for Live Search](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/release-notes.html)
+* [Release notes for Store Fulfillment](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/release-notes.html)
+* [Release notes for Amazon Sales Channel](https://experienceleague.adobe.com/docs/commerce-channels/amazon/release-notes.html)
 
 ### New Adobe Commerce tutorials and documentation {#tutorials-commerce}
 
