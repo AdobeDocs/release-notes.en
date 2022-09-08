@@ -329,10 +329,7 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 ### Latest Campaign product releases
 
-* [Campaign v8 release notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/release-notes.html?lang=en)
-* [Campaign v7.3 release notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html)
-* [Control Panel August release](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)
-* [Tutorials and courses](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#tutorials-campaign) on Experience League
+Find out more about the latest capabilities, improvements, and fixes in the [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html), and [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) release notes.
 
 ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
 
@@ -358,7 +355,7 @@ With [!DNL Journey Optimizer], you can manage scheduled omnichannel campaigns an
 
 ### Latest Journey Optimizer product releases
 
-Find out more about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=en).
+Find out more about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
 
 ### New Journey Optimizer tutorials and courses {#tutorials-ajo}
 
