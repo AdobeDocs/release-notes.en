@@ -17,7 +17,7 @@ As an Experience Maker, your path to success starts with [Experience League](htt
 >
 >To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League.
 
-Latest update: **September 7, 2022**
+Latest update: **September 8, 2022**
 
 * [[!DNL Experience League] events](#events) 
 * [[!DNL Adobe System Status]](#status)
@@ -47,10 +47,11 @@ Need help? Visit [Experience League](https://experienceleague.adobe.com/#home) f
 
 Experience League events are a great place to learn, interact, and get answers from product experts at Adobe! See [Events](https://experienceleague.adobe.com/events/?lang=en) on Experience League to stay updated for July 2022.
 
-Updated **September 7, 2022**
+Updated **September 8, 2022**
 
 |Product / Event Name |Type|Description |
 | -----------|---------- | ----|
+|**[!DNL Experience Cloud]** |Contest |_Experience League Showcase: Show us - and the world - what you can do._ Tell Adobe how you have integrated Experience Cloud products to create innovative and personalized customer experiences. Submit your story and be recognized by Adobe! <p>**Date:** September 9 - 29 @ 5:00 p.m. PT - [Details & registration](https://adobe.ly/3RfOtLC) |
 |**[!DNL Adobe Analytics]** |Webinar |_Experience Makers - The Skill Exchange_ - Join us for our Adobe [!DNL Analytics] edition, where experts give you the inside scoop on Adobe [!DNL Analytics]. <p>**Date:** September 8 @ 9:00 a.m. PT - [Details & registration](https://events.bizzabo.com/411737?promo=ExperienceLeague&tr=true) |
 |**[!DNL Adobe Workfront]** |Workshop |Looking for an opportunity to connect with other customers and discuss [!DNL Workfront] features? Join our CS Connections series! A monthly opportunity to connect with other customers to discuss your organization's hot topics.<p>**Date:** September 12 @ 7:00 a.m. MT [Details & registration](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)|
 |**[!DNL Experience Cloud]**| Webinar |_Experience Makers Live_ - A free event featuring keynotes by Sara Blakely, Peyton Manning, and Eli Manning.<p>**Date:** September 13 - 14 - [Details & registration](https://business.adobe.com/events/experience-makers-live.html) |
@@ -281,7 +282,7 @@ All Experience Manager release notes are maintained at the following pages:
 * [Experience Manager 6.5 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en)
 * [Experience Manager 6.4 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-64.html)
 * [Experience Manager 6.3 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)
-* [Experience Manager 6.2 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
+* [Experience Manager 6.2 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)html
 * [Older Versions of Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [Dynamic Media Classic Help Home](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=en)
 * [Experience Manager Documentation: Recent Updates](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=en#aem-as-a-cloud-service)
