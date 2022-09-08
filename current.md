@@ -339,6 +339,7 @@ New videos, tutorials, or courses published for Adobe Campaign.
 
 |Published|Name|Type|Description |Applications|
 | -----------| ---------- | ---------- | ---------- |---------- |
+|September 2022|[Set up SMS for Adobe Campaign](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.classic.setupsms)|Course |Learn how to connect your Campaign instance to your SMTP provider and how to analyze and troubleshoot the configuration. |Campaign Classic v7 |
 |September 2022|[Set up SMS for Adobe Campaign](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/course-discussion-set-up-sms-for-adobe-campaign/m-p/542687#M2301)|Course |Learn how to connect your Campaign instance to your SMTP provider and how to analyze and troubleshoot the configuration. |Campaign v8|
 |September 2022|[SMPP protocol deep dive and troubleshooting](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html)|Video |Learn how SMPP connections are established and how SMPP exchanges data through PDUs. Understand how to troubleshoot connections.|Campaign v8|
 
@@ -482,6 +483,11 @@ New tutorials and courses published for Adobe Document Cloud.
 
 |Published|Name|Type|Description |Application|
 | -----------| ---------- | ---------- | ---------- |---------- |
+|September 2022|[Signing up for a Developer Account](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/sign-up-developer-account.html?lang=en)|Video |Learn how to sign up for a Developer Account for Acrobat Sign, which is fully enabled with Sign and API functionality.|Acrobat Sign |
+|September 2022|[Creating your application](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/creating-your-application.html?lang=en)|Video |Learn how to create an application in Acrobat Sign.|Acrobat Sign |
+|September 2022|[Creating a transient document](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/creating-a-transient-document.html?lang=en)|Video |Learn how to create a transient document that can be used with the Acrobat Sign API.|Acrobat Sign |
+|September 2022|[Creating an embed link](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/creating-an-embed-link.html?lang=en)|Video |Learn how to create an embed link for OAuth, which is the method that your application gets permissions for users.|Acrobat Sign |
+|September 2022|[Generating an access token](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/generating-an-access-token.html?lang=en)|Video |Learn how to generate an access token that can be used with the Acrobat Sign API.|Acrobat Sign |
 |September 2022|[Auto-adjust layout](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/auto-adjust-layout.html?lang=en)|Video |Learn about the new editing mode that reflows content and auto-adjusts the layout across pages in your PDF.|Acrobat |
 |September 2022|[Add custom page](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/add-custom-page.html)|Video |Learn how to add custom pages to your PDF using the integrated Adobe Express app, which offers thousands of templates to choose from.|Acrobat |
 |September 2022|[Modify an existing web form](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=en)|Video |Learn how to disable, edit, and re-enable an existing web form. |Acrobat Sign |
