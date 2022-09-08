@@ -102,7 +102,7 @@ Updated: **September 1, 2022** - See [Release notes and change logs](https://aep
 
 Next release: **September 14, 2022**
 
-Last update: *September 6, 2022**
+Last update: **September 6, 2022**
 
 * Adobe Analytics [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en)
 * Adobe Analytics [product documentation and tutorials](https://experienceleague.adobe.com/docs/analytics.html)
@@ -137,6 +137,8 @@ New videos, tutorials, or courses published for CJA.
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |September 2022|[Audience Publishing for Customer Journey Analytics](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/audiences/audience-publishing-for-cja.html)|Video |Learn how to use Customer Journey Analytics to publish audiences you discover from your analysis to the Adobe Experience Platform Real-Time Customer Profile for segment activation, using Adobe Real-Time Customer Data Platform or Adobe Journey Optimizer.|
+
+{style="table-layout:auto"}
 
 ## ![Icon](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
@@ -248,7 +250,6 @@ New videos, tutorials, and courses published over the past month.
 | -----------| ---------- | ---------- | ---------- | ------|
 |September 2022|[AEM as a Cloud Service 2022.8.0 release update](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=en)|Video |Hear from the AEM Product team, and learn about the features and innovations for the latest release of Adobe Experience Manager Assets, Assets Essentials, Sites, Commerce Integration Framework, Forms and Cloud Manager.|AEM |
 |September 2022|[Web optimized image delivery](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/components/web-optimized-image-delivery.html?lang=en)|Video |Learn how to enable web optimized image delivery on AEM as a Cloud Service sites using AEM Core Components.|AEM Sites |
-|September 2022|[Remote SPA](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/spa-editor/remote-spa/overview.html)|Video (updated) |Welcome to the multi-part tutorial for developers looking to augment an existing React-based (or Next.js) Remote SPAs with editable AEM content using AEM SPA Editor.|AEM Sites|
 |September 2022|[Integrate with Microsoft Power Automate](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-cs-and-power-automate/integrate-formscs-power-automate.html?lang=en)|Video |Invoke your power automate flows on an Adaptive Form submission. Learn the steps to configure and integrate Forms CS with Microsoft power automate. Parse submitted form data, and send DoR as an email attachment.|AEM Forms CS |
 |September 2022|[Adobe Content Management Forum event series - 2022](https://experienceleague.adobe.com/docs/adobe-content-management-forum-events/events/2022/welcome.html?lang=en)|Video |Watch the welcome address and get an AEM overview, delivered by Elliot Sedegah. It also covers unlocking the power of content velocity, and much more.|AEM CS |
 |September 2022|[The Skill Exchange - Developer Track - Experience Makers Spotlight](https://experienceleague.adobe.com/docs/skill-exchange-events/events/aem/aug2022/developer-track/spotlight.html?lang=en)|Video |Join us as we spotlight two expert AEM users. Each shares their best AEM tip or trick. |AEM CS |
@@ -484,13 +485,13 @@ New tutorials and courses published for Adobe Document Cloud.
 | -----------| ---------- | ---------- | ---------- |---------- |
 |September 2022|[Auto-adjust layout](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/auto-adjust-layout.html?lang=en)|Video |Learn about the new editing mode that reflows content and auto-adjusts the layout across pages in your PDF.|Acrobat |
 |September 2022|[Add custom page](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/add-custom-page.html)|Video |Learn how to add custom pages to your PDF using the integrated Adobe Express app, which offers thousands of templates to choose from.|Acrobat |
-|September 2022|[Send for signature in Microsoft Teams](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/adobe-sign-teams-mortgage.html?lang=en)|Video (updated) |Learn how to send agreements for signature, check the status of agreements, and send reminders all from within Microsoft Teams.|Acrobat Sign |
-|September 2022|[Adding fields to your documents](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/adding-fields.html?lang=en)|Video (updated) |Learn how to automatically place fields on your document or use the drag and drop authoring environment inside Acrobat Sign.|Acrobat Sign |
-|September 2022|[Configure sending options](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/sending-options.html?lang=en)|Video (updated) |Learn how to configure various options when sending a document out for signature. |Acrobat Sign |
 |September 2022|[Modify an existing web form](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=en)|Video |Learn how to disable, edit, and re-enable an existing web form. |Acrobat Sign |
 |September 2022|[Creating a report](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/creating-a-report.html?lang=en)|Video |Learn how to build your own reports to gain visibility into your document signing process, or see how individual groups or users are doing.|Acrobat Sign |
 |September 2022|[Creating a report chart](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-report.html?lang=en)|Video (updated)|Learn how to build, save, and manage your own custom reports and data exports in a personalized view with the new reporting experience. |Acrobat Sign |
 |September 2022|[Building a custom workflow](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/building-a-custom-workflow.html?lang=en)|Video (updated)|Learn how to tailor and automate document workflows to get electronic signatures, collect form data, and confirm delivery of an important document to streamline workflow management.|Acrobat Sign |
+|September 2022|[Send for signature in Microsoft Teams](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/adobe-sign-teams-mortgage.html?lang=en)|Video (updated) |Learn how to send agreements for signature, check the status of agreements, and send reminders all from within Microsoft Teams.|Acrobat Sign |
+|September 2022|[Adding fields to your documents](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/adding-fields.html?lang=en)|Video (updated) |Learn how to automatically place fields on your document or use the drag and drop authoring environment inside Acrobat Sign.|Acrobat Sign |
+|September 2022|[Configure sending options](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/sending-options.html?lang=en)|Video (updated) |Learn how to configure various options when sending a document out for signature. |Acrobat Sign |
 
 {style="table-layout:auto"}
 
