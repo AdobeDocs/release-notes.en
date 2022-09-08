@@ -1,6 +1,6 @@
 ---
 title: Latest Release Notes
-description: Learn about the latest release notes, new features, and new documentation for [!DNL Experience Cloud] products and services. Find new help and tutorials about [!DNL Experience Cloud], [!DNL Creative Cloud for enterprise], and [!DNL Document Cloud].
+description: Read the latest release notes for Adobe [!DNL Experience Cloud] products and services. Learn about upcoming events and new documentation on Experience League. Discover the latest tutorials and courses for [!DNL Experience Cloud] applications.
 doc-type: release notes
 last-update: September 2022
 author: mfrei
@@ -49,19 +49,22 @@ Experience League events are a great place to learn, interact, and get answers f
 
 Updated **September 7, 2022**
 
-|Event |Type|Description |
+|Product / Event Name |Type|Description |
 | -----------|---------- | ----|
-|[Adobe Analytics](https://events.bizzabo.com/411737?promo=ExperienceLeague&tr=true) |Experience Makers The Skill Exchange |Join us for our Adobe Analytics edition of Experience Makers The Skill Exchange - where experts give you the inside scoop on Adobe Analytics. <p>**Date:** September 8 @ 9:00 a.m. PT - [Details & registration](https://events.bizzabo.com/411737?promo=ExperienceLeague&tr=true) |
-|[Adobe Workfront](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |Customer Workshop |Looking for an opportunity to connect with other customers and discuss Workfront features? Join our CS Connections series! A monthly opportunity to connect with other customers to discuss your organization's hot topics.<p>>**Date:** September 12 @ 7:00 a.m. MT [Details & registration](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)    |
-|[Experience Makers Live](https://business.adobe.com/events/experience-makers-live.html) |Webinar |A free event for Experience Makers featuring keynotes by Sara Blakely, Peyton Manning, and Eli Manning.<p>**Date:** September 13 - 14 - [Details & registration](https://business.adobe.com/events/experience-makers-live.html) |
-|[Adobe Workfront](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |Workshop |Join the Customer Success team for a live discussion and walk-through of diagramming workflows - from intake through completion - and understanding how to set a solid foundation for effective work management practices. <p>**Date:** September 20 - [Details & registration](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)|
-|[Adobe Campaign](https://adobe-campaign-insider.dxfieldmarketing.adobeevents.com/) (Classic and Standard) |Webinar |The holiday season, a peak season, and the busiest time of year for cross-channel marketers is around the corner, and planning should be well underway. This Adobe Campaign Insider session will cover topics that will help you with email deliverability, Adobe Campaign performance tuning, and workflow and delivery best practices to ensure your instance is in shape for peak activity.<p>**Date:** September 15 @ 8:00 a.m. PT [Details & registration](https://adobe-campaign-insider.dxfieldmarketing.adobeevents.com/)|
-|[Adobe Workfront](https://webinars.on24.com/adobe_workfront/AdminEssentialsRM?partnerref=exl) |Webinar |Using Adobe Workfront to manage your resources is the DREAM - knowing the work that needs to be done, what resources you can access, and assigning them based on their availability. Join us to learn how.<p>**Date:** September 21 @ 8:00 a.m. UK [Details & registration] |
-|[Adobe Workfront](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,fir0yEdzREq77VYkVxk2kw,W3nJ9w4q-U69PVqUTk7D6Q,zs6GtWtgRkyikfMUMzBEmw?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |Workshop |Join us for our discussion on Project Templates and the different ways they add value and create efficiencies to organizations. We'll brainstorm different approaches to structuring templates to support your projects - by campaign, by deliverable, etc., and we'll demo some favorites as well as walkthrough our latest Blueprints. <p>**Date:** September 21 @ 12:30 p.m. MT [Details & registration](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,fir0yEdzREq77VYkVxk2kw,W3nJ9w4q-U69PVqUTk7D6Q,zs6GtWtgRkyikfMUMzBEmw?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)|
-|[Adobe Workfront](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Jcg3aU0zf0uG9pB-_vmCUg,pdnZcB-mqk2_nMKUQEQnsA,xYRXQWa6OU6_tvNTp_vuFQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |Workshop |Effective communication is an integral part of you, your users, and ultimately, company success. This workshop will provide 10 tips - both in and out of Workfront - to help promote performance, productivity, and reduce the risk of unnecessary problems. <p>**Date:** September 22 @ 7:00 p.m. MT [Details & registration](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Jcg3aU0zf0uG9pB-_vmCUg,pdnZcB-mqk2_nMKUQEQnsA,xYRXQWa6OU6_tvNTp_vuFQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)|
-|[Adobe Campaign Classic and Adobe Campaign Standard](https://adobe.ly/3KHrGpl) |Workshop |Join Tamara Wulf, & Earl Ross to chat about your queries pertaining to the topics discussed in the Adobe Campaign Insider Webinar on Checklist for Success During the Holidays and Peak Seasons. <p>**Date:** September 22 @ 8:00 p.m. MT [Details & registration](https://adobe.ly/3KHrGpl)|
-|[Adobe Workfront](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,Y1He1usOwUaIvlln-RiUCw,PbQY6cwRBkiHr0Uxk8YBow,2QMMEWx0e0C65kbQ1d4cIA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |Workshop |Effective communication is an integral part of you, your users, and ultimately, company success. This workshop will provide 10 tips - both in and out of Workfront - to help promote performance, productivity, and reduce the risk of unnecessary problems. <p>**Date:** September 27 @ 9:00 a.m. MT [Details & registration](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,Y1He1usOwUaIvlln-RiUCw,PbQY6cwRBkiHr0Uxk8YBow,2QMMEWx0e0C65kbQ1d4cIA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)|
-|[Adobe Workfront](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,Y1He1usOwUaIvlln-RiUCw,PbQY6cwRBkiHr0Uxk8YBow,2QMMEWx0e0C65kbQ1d4cIA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) |Workshop |Effective communication is an integral part of you, your users, and ultimately, company success. This workshop will provide 10 tips - both in and out of Workfront - to help promote performance, productivity, and reduce the risk of unnecessary problems. <p>**Date:** September 27 @ 9:00 a.m. MT [Details & registration](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,Y1He1usOwUaIvlln-RiUCw,PbQY6cwRBkiHr0Uxk8YBow,2QMMEWx0e0C65kbQ1d4cIA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)|
+|**[!DNL Adobe Analytics]** |Webinar |_Experience Makers - The Skill Exchange_ - Join us for our Adobe [!DNL Analytics] edition, where experts give you the inside scoop on Adobe [!DNL Analytics]. <p>**Date:** September 8 @ 9:00 a.m. PT - [Details & registration](https://events.bizzabo.com/411737?promo=ExperienceLeague&tr=true) |
+|**[!DNL Adobe Workfront]** |Workshop |Looking for an opportunity to connect with other customers and discuss [!DNL Workfront] features? Join our CS Connections series! A monthly opportunity to connect with other customers to discuss your organization's hot topics.<p>>**Date:** September 12 @ 7:00 a.m. MT [Details & registration](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)|
+|**[!DNL Experience Cloud]**| Webinar |_Experience Makers Live_ - A free event featuring keynotes by Sara Blakely, Peyton Manning, and Eli Manning.<p>**Date:** September 13 - 14 - [Details & registration](https://business.adobe.com/events/experience-makers-live.html) |
+|**[!DNL Adobe Workfront]**|Workshop |Diagramming Workflows - Join the Customer Success team for a live discussion and walk-through of diagramming workflows - from intake through completion - and understanding how to set a solid foundation for effective work management practices. <p>**Date:** September 20 - [Details & registration](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)|
+|**[!DNL Adobe Campaign]** (Classic and Standard) |Webinar |The holiday season, a peak season and busiest time of year for cross-channel marketers, is around the corner. Planning should be well underway. This [!DNL Adobe Campaign] Insider session covers topics that help you with email deliverability, [!DNL Adobe Campaign] performance tuning, and workflow and delivery best practices to ensure your instance is in shape for peak activity.<p>**Date:** September 15 @ 8:00 a.m. PT [Details & registration](https://adobe-campaign-insider.dxfieldmarketing.adobeevents.com/)|
+|**[!DNL Adobe Workfront]** |Webinar |_System Admin Essentials: Getting Started with Resource Management_ - Using Adobe [!DNL Workfront] to manage your resources is the DREAM - knowing the work that needs to be done, what resources you can access, and assigning them based on their availability. Join us to learn how.<p>**Date:** September 21 @ 8:00 a.m. UK [Details & registration](https://webinars.on24.com/adobe_workfront/AdminEssentialsRM?partnerref=exl) |
+|**[!DNL Adobe Workfront]**|Workshop |_Value Realization Series: Making the case for Project Templates_ - Join us for our discussion on [!UICONTROL Project Templates] and the different ways they add value and create efficiencies to organizations. We'll brainstorm different approaches to structuring templates to support your projects - by campaign, by deliverable, and so on. We'll demo some favorites as well as walk through our latest blueprints. <p>**Date:** September 21 @ 12:30 p.m. MT [Details & registration](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,fir0yEdzREq77VYkVxk2kw,W3nJ9w4q-U69PVqUTk7D6Q,zs6GtWtgRkyikfMUMzBEmw?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)|
+|**[!DNL Adobe Workfront]**|Workshop |_10 Communication Tips to Keep You and Your Users on Track_ - Effective communication is an integral part of you, your users, and ultimately, company success. This workshop provides ten tips - both in and out of [!DNL Workfront] - to help promote performance, productivity, and reduce the risk of unnecessary problems. <p>**Date:** September 22 @ 7:00 p.m. MT [Details & registration](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Jcg3aU0zf0uG9pB-_vmCUg,pdnZcB-mqk2_nMKUQEQnsA,xYRXQWa6OU6_tvNTp_vuFQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)|
+|**[!DNL Adobe Campaign Classic]** and **[!DNL Adobe Campaign Standard]** |Workshop |_Community Q&A Coffee Break_ - Join Tamara Wulf and Earl Ross to chat about your queries pertaining to the topics discussed in the [!DNL Adobe Campaign] Insider webinar on _Checklist for Success During the Holidays and Peak Seasons_. <p>**Date:** September 22 @ 8:00 p.m. MT [Details & registration](https://adobe.ly/3KHrGpl)|
+|**[!DNL Adobe Workfront]**|Workshop |_Driving Adoption with Dashboards: Planners_ - Join the Customer Success team as we continue the new dashboard series based on the [!DNL Adobe Workfront] persona. This session focuses on your Planners, who often function in the project or initiative management role. Learn how to build a proactive, team-oriented space for activity awareness and accountability. <p>**Date:** September 27 @ 9:00 a.m. MT [Details & registration](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,Y1He1usOwUaIvlln-RiUCw,PbQY6cwRBkiHr0Uxk8YBow,2QMMEWx0e0C65kbQ1d4cIA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)|
+|**[!DNL Adobe Workfront]** |Workshop |_Value Realization Series: Roadmapping Your Workfront Journey_ - What's next on your Workfront Journey?  Join us to talk through how to create your own roadmap for Adobe Workfront at your organization. We'll share some ideas on our favorite milestones to add to your roadmap as well as our experiences as former System Admins.<p>**Date:** October 4 @ 12:30 p.m. MT [Details & registration](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Bx3LyyABjkC6f0LfiHlHgw,F_Tenijn5UulPjqprok8eg,7lni6LpvlEWagR1OIDfosA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)|
+|**[!DNL Adobe Workfront]**|Workshop |_CS Connections: Sharing Strategic Best Practices_ - Looking for an opportunity to connect with other customers and discuss Workfront features? Join our CS Connections series!  A monthly opportunity to connect with other customers to discuss your organization's hot topics. We'll brainstorm together with Sys Admins to solve challenges, share ideas, and discuss best practices. <p>**Date:** October 10 @ 7:00 a.m. MT [Details & registration](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,gw8sK1IYp0qugO85lvn9HA,1hAkk731fE2cuzI1JCe2Aw,Lox5X4bDSUC_HaF3SDUy7A?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)|
+|**[!DNL Adobe Workfront]**|Workshop |_Driving Adoption with User Management_ - Are you getting started with Workfront and want to get more familiar with the setup functions related to your end users? Join the Customer Success team as we review hands-on examples of reports and dashboards to set both a foundation for successful user management and create a useful, informative end user experience.<p>**Date:** October 18 @ 9:00 a.m. MT [Details & registration](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,lJV3sMGDTE2CpLxcuzZQXg,KGHthDBZ80q9JJ-wzHyqBQ,mY-6BCClJkmc_bRvqGebtQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)|
+|**[!DNL Adobe Workfront]**|Workshop |_Adoption Series: Making Workfront Fun(front)!_ Need adoption ideas? We've got 'em! Our team has been through the highs and lows of user adoption and focusing on the fun is the key to success. We'll chat through some things that worked for us and provide plenty of time for an open discussion to share ideas with other customers.<p>**Date:** October 20 @ 12:30 p.m. MT [Details & registration](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,0qiSuEYEcUSxTibSYXD-jA,8QGOKlkyJE25EiBggDF6Ng,WmVegsyV2E6ZDPSMCifdVw?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)|
 
 {style="table-layout:auto"}
 
@@ -89,17 +92,17 @@ Latest release information and new documentation for [!DNL Experience Platform] 
 
 Planned release: **September 28, 2022**
 
-* [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
+* [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) - (August 24, 2022)
 
 ### [!DNL Adobe Mobile] SDK
 
-Updated: **August 2, 2022** - See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-notes) for the Adobe Experience Platform Mobile SDKs.
+Updated: **September 1, 2022** - See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-notes) for the Adobe Experience Platform Mobile SDKs.
 
 ## ![Icon](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
 Next release: **September 14, 2022**
 
-Last update: **July 13, 2022**
+Last update: *September 6, 2022**
 
 * Adobe Analytics [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en)
 * Adobe Analytics [product documentation and tutorials](https://experienceleague.adobe.com/docs/analytics.html)
@@ -122,7 +125,7 @@ New video tutorials, articles, and courses published for Adobe Analytics.
 
 ## ![Icon](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
 
-Latest update: **August 5, 2022**
+Latest update: **September 6, 2022**
 
 * Customer Journey Analytics [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en) 
 * Customer Journey Analytics [product documentation and tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=en)
@@ -144,13 +147,7 @@ Last update: **March 23, 2022**
 
 ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
 
-Fixes and improvements in Audience Manager:
-
-| Improvement    | Description  |
-| -----------| ---------- |  
-|Validator for target data sources belonging to other companies| Audience Manager released an improvement to the [batch data onboarding process](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/batch-data-transfer-overview.html?lang=en). To prevent accidental file and data onboarding into target data sources owned by other partners, Audience Manager has added a mapping requirement between partner ID (PID) and the data sources (DPID) owned by other partners. <ul><li>See also the __DPID_TARGET_DATA_OWNER_ field in [Amazon S3 name and file size requirements for inbound data files](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/sending-audience-data/batch-data-transfer-process/inbound-s3-filenames.html?lang=en#name-elements).</li><li>Adobe-internal consultants and customer care should read [Manage onboarding access for second-party data](https://experienceleague.adobe.com/docs/audience-manager-admin/admin-guide/companies/admin-manage-onboarding-access.html?lang=en) for information about the new mapping require improvement and how to request a new mapping</li><li>It is _not_ required to request a mapping for existing data sharing relationships. The mapping is also _not_ required when onboarding data into target data sources that belong to your PID.</li></ul>|
-
-{style="table-layout:auto"}
+Not updated
 
 For self-help resources, see [Audience Manager documentation and tutorials](https://experienceleague.adobe.com/docs/audience-manager.html?lang=en) on Experience League.
 
@@ -162,8 +159,9 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
 
 ### Product update videos
 
-  Watch the [July 2022 Release Overview video](https://video.tv.adobe.com/v/345409/?quality=12) for a summary of the features added in the 2022.7.0 (July 2022) release. <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
+  Watch the [August Release Overview video](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=en) for a summary of the features added in the 2022.8.0 (August 2022) release. <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
 
+* [July 2022 Release Overview video](https://video.tv.adobe.com/v/345409/?quality=12)
 * [June 2022 Release Overview video](https://video.tv.adobe.com/v/344308/?quality=12)
 * [May 2022 Release Overview video](https://video.tv.adobe.com/v/343321/?quality=12) 
 * [April 2022 Release Overview video](https://video.tv.adobe.com/v/342612?quality=12)
@@ -174,6 +172,8 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
 * [September 2021 Release Overview video](https://video.tv.adobe.com/v/337381)
 
 ### Experience Manager [!DNL Sites] as a [!DNL Cloud Service]
+
+**2022.7.0 release**
 
 _New features_
 
@@ -317,7 +317,7 @@ See the following links for Adobe Commerce release notes:
 
 ## ![Icon](/assets/target.png) [!DNL Adobe Target] {#target}
 
-Last Updated: **July 20, 2022**
+Last Updated: **September 6, 2022**
 
 * For pre-release information, see [Adobe Target prerelease](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en)
 * For current information, see [Adobe Target release notes](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=en)
@@ -330,7 +330,7 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 
 * [Campaign v8 release notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/release-notes.html?lang=en)
 * [Campaign v7.3 release notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html)
-* [Control Panel July release](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)
+* [Control Panel August release](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)
 * [Tutorials and courses](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html#tutorials-campaign) on Experience League
 
 ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
@@ -338,7 +338,6 @@ Adobe Campaign provides an intuitive, automated way to deliver one-to-one messag
 New videos, tutorials, or courses published for Adobe Campaign.
 
 |Published|Name|Type|Description |Applications|
-|Published|Name|Type|Description |Application|
 | -----------| ---------- | ---------- | ---------- |---------- |
 |September 2022|[Set up SMS for Adobe Campaign](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/course-discussion-set-up-sms-for-adobe-campaign/m-p/542687#M2301)|Course |Learn how to connect your Campaign instance to your SMTP provider and how to analyze and troubleshoot the configuration. |Campaign v8|
 |September 2022|[SMPP protocol deep dive and troubleshooting](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html)|Video |Learn how SMPP connections are established and how SMPP exchanges data through PDUs. Understand how to troubleshoot connections.|Campaign v8|
@@ -354,7 +353,7 @@ New videos, tutorials, or courses published for Adobe Campaign.
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) Adobe Journey Optimizer {#journey-opt}
 
-With Journey Optimizer, you can manage scheduled omnichannel campaigns and one-to-one moments for millions of customers from a single application--and the entire journey is optimized with intelligent decisioning and insights.
+With [!DNL Journey Optimizer], you can manage scheduled omnichannel campaigns and one-to-one moments for millions of customers from a single application--and the entire journey is optimized with intelligent decisioning and insights.
 
 ### Latest Journey Optimizer product releases
 
@@ -362,7 +361,7 @@ Find out more about the latest capabilities, improvements, and fixes in the [Jou
 
 ### New Journey Optimizer tutorials and courses {#tutorials-ajo}
 
-New videos, tutorials, or courses published for Adobe Journey Optimizer.
+New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
@@ -447,7 +446,7 @@ Last updated: **August 9, 2022**
 
 | Feature | Description |
 | ------- | ----------- |
-| Integration with Adobe Analytics | (August 6 release) Improvements to the data feed that Advertising Cloud sends to [!DNL Analytics] result in fewer mismatches between click/cost/impression data from the search engines and related conversion data in [!DNL Analytics]. |
+| Integration with [!DNL Adobe Analytics] | (August 6 release) Improvements to the data feed that Advertising Cloud sends to [!DNL Analytics] result in fewer mismatches between click/cost/impression data from the search engines and related conversion data in [!DNL Analytics]. |
 
 {style="table-layout:auto"}
 
@@ -509,6 +508,8 @@ New videos, tutorials, or courses published for Adobe Campaign.
 | -----------| ---------- | ---------- | ---------- |
 |September 2022|[Taming Font Anxiety with Adobe Fonts ](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/assets/TamingTypeAnxiety.pdf?lang=en)|PDF |Learn how Adobe Fonts work in this hands-on tutorial.|
 |September 2022|[Adobe Acrobat for Content Creators](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/assets/AcrobatforContentCreators.pdf?lang=en)|PDF |As a content creator, you probably generate PDFs and then routinely view those PDF files in Adobe Acrobat. But, Acrobat also includes many tools that help streamline typical creative workflows. Learn two specific tools: [!UICONTROL Sharing with Others] and [!UICONTROL Protection].|
+
+{style="table-layout:auto"}
 
 See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=en) for the latest tutorials.
 
