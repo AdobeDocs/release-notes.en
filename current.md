@@ -310,6 +310,10 @@ See the following links for Adobe Commerce release notes:
 * [Release notes for Store Fulfillment](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/release-notes.html)
 * [Release notes for Amazon Sales Channel](https://experienceleague.adobe.com/docs/commerce-channels/amazon/release-notes.html)
 
+>[!NOTE]
+>
+>[!DNL Adobe Search&Promote] end-of-service is scheduled for **September 1, 2022**. For product and commerce search, [Live Search](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=en) is Adobe's search application. See the [end-of-life announcement](https://experienceleague.adobe.com/docs/search-promote/using/sp-eol.html?lang=en) for more information.
+
 ### New Adobe Commerce tutorials and documentation {#tutorials-commerce}
 
 |Published|Name|Type|Description |
