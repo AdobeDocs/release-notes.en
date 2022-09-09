@@ -158,6 +158,8 @@ For self-help resources, see [Audience Manager documentation and tutorials](http
 
 New features, fixes, and updates in Experience Manager. Adobe recommends customers with On-Premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
 
+See [Current Release Notes for Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en)
+
 Adobe recommends visiting the [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) page to stay current on release information.
 
 ### Product update videos
@@ -173,10 +175,6 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
 * [December 2021 Release Overview video](https://video.tv.adobe.com/v/339278)
 * [October 2021 Release Overview video](https://video.tv.adobe.com/v/338253)
 * [September 2021 Release Overview video](https://video.tv.adobe.com/v/337381)
-
-### Experience Manager [!DNL Sites] as a [!DNL Cloud Service]
-
-See [2022.7.0 release](c-legacy-releases\2022\08172022.md#aem)
 
 ### New Experience Manager courses and tutorials {#tutorials-aem}
 
