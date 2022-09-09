@@ -163,7 +163,7 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
 
 ### Product update videos
 
-  Watch the [August Release Overview video](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=en) for a summary of the features added in the 2022.8.0 (August 2022) release. <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
+  Watch the [August Release Overview video](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/2022/2022-8-0.html?lang=en) for a summary of the features added in the 2022.8.0 (August 2022) release. <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP).-->
 
 * [July 2022 Release Overview video](https://video.tv.adobe.com/v/345409/?quality=12)
 * [June 2022 Release Overview video](https://video.tv.adobe.com/v/344308/?quality=12)
