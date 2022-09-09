@@ -19,7 +19,7 @@ As an Experience Maker, your path to success starts with [Experience League](htt
 
 Latest update: **September 9, 2022**
 
-* [[!DNL Experience League] events](#events) (updated **September 7**)
+* [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - central interface components & administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -47,11 +47,10 @@ Need help? Visit [Experience League](https://experienceleague.adobe.com/#home) f
 
 Experience League events are a great place to learn, interact, and get answers from product experts at Adobe! See [Events](https://experienceleague.adobe.com/events/?lang=en) on Experience League to stay updated for July 2022.
 
-Updated **September 8, 2022**
+Updated **September 9, 2022**
 
 |Product / Event Name |Type|Description |
 | -----------|---------- | ----|
-|**[!DNL Adobe Analytics]** |Webinar |_Experience Makers - The Skill Exchange_ - Join us for our Adobe [!DNL Analytics] edition, where experts give you the inside scoop on Adobe [!DNL Analytics]. <p>**Date:** September 8 @ 9:00 a.m. PT - [Details & registration](https://events.bizzabo.com/411737?promo=ExperienceLeague&tr=true) |
 |**[!DNL Adobe Workfront]** |Workshop |Looking for an opportunity to connect with other customers and discuss [!DNL Workfront] features? Join our CS Connections series! A monthly opportunity to connect with other customers to discuss your organization's hot topics.<p>**Date:** September 12 @ 7:00 a.m. MT [Details & registration](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,frxd5xOTA0WDD-QNQbG9Ww,N0rLVNiX1EKbZDmYfMbfKg,mwypq4e8M0qTYr1PjHWlgg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)|
 |**[!DNL Experience Cloud]**| Webinar |_Experience Makers Live_ - A free event featuring keynotes by Sara Blakely, Peyton Manning, and Eli Manning.<p>**Date:** September 13 - 14 - [Details & registration](https://business.adobe.com/events/experience-makers-live.html) |
 |**[!DNL Adobe Workfront]**|Workshop |Diagramming Workflows - Join the Customer Success team for a live discussion and walk-through of diagramming workflows - from intake through completion - and understanding how to set a solid foundation for effective work management practices. <p>**Date:** September 20 - [Details & registration](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,hKbbhANIJ0GUZ80-hyYRPQ,eHZZsesEKEW-f54PGw4z9w,8IgA8CD5yEyKFei9pwlDJA,iACjdG_hK0m1uoTTaMinZA,TEaHrWBF3USQb49XCqymTg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)|
