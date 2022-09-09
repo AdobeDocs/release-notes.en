@@ -17,7 +17,7 @@ As an Experience Maker, your path to success starts with [Experience League](htt
 >
 >To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League.
 
-Latest update: **September 8, 2022**
+Latest update: **September 9, 2022**
 
 * [[!DNL Experience League] events](#events) 
 * [[!DNL Adobe System Status]](#status)
@@ -483,15 +483,15 @@ Last updated: **, 2022**
 
 ## ![Icon](/assets/document-cloud-24.png) Adobe Document Cloud {#doc-cloud}
 
-New tutorials and courses published for Adobe Document Cloud.
+New tutorials and courses published for Adobe Document Cloud, including [!DNL Document Services] and [!DNL Acrobat Sign].
 
 |Published|Name|Type|Description |Application|
 | -----------| ---------- | ---------- | ---------- |---------- |
-|September 2022|[Signing up for a Developer Account](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/sign-up-developer-account.html?lang=en)|Video |Learn how to sign up for a Developer Account for Acrobat Sign, which is fully enabled with Sign and API functionality.|Acrobat Sign |
-|September 2022|[Creating your application](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/creating-your-application.html?lang=en)|Video |Learn how to create an application in Acrobat Sign.|Acrobat Sign |
-|September 2022|[Creating a transient document](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/creating-a-transient-document.html?lang=en)|Video |Learn how to create a transient document that can be used with the Acrobat Sign API.|Acrobat Sign |
-|September 2022|[Creating an embed link](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/creating-an-embed-link.html?lang=en)|Video |Learn how to create an embed link for OAuth, which is the method that your application gets permissions for users.|Acrobat Sign |
-|September 2022|[Generating an access token](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/generating-an-access-token.html?lang=en)|Video |Learn how to generate an access token that can be used with the Acrobat Sign API.|Acrobat Sign |
+|September 2022|[Signing up for a Developer Account](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/sign-up-developer-account.html?lang=en)|Video |In part 1 of the _Acrobat Sign Embed Quick Start Guide_, learn how to sign up for an Acrobat Sign API Developer Account. Your new Developer Account is fully enabled with Sign and API functionality.|Document Services |
+|September 2022|[Creating your application](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/creating-your-application.html?lang=en)|Video |In part 2 of the _Acrobat Sign Embed Quick Start Guide_, learn how to create an application using the Acrobat Sign API.|Document Services|
+|September 2022|[Creating an embed link](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/creating-an-embed-link.html?lang=en)|Video |In part 3 of the _Acrobat Sign Embed Quick Start Guide_, learn how to create an embed link for OAuth. Your application gets permissions for users using this OAuth method.|Document Services |
+|September 2022|[Generating an access token](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/generating-an-access-token.html?lang=en)|Video |In part 4 of the _Acrobat Sign Embed Quick Start Guide_, learn how to generate an access token that can be used with the Acrobat Sign API.|Document Services|
+|September 2022|[Creating a transient document](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/creating-a-transient-document.html?lang=en)|Video |In part 5 of the _Acrobat Sign Embed Quick Start Guide_, learn how to create a transient document.|Document Services|
 |September 2022|[Auto-adjust layout](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/auto-adjust-layout.html?lang=en)|Video |Learn about the new editing mode that reflows content and auto-adjusts the layout across pages in your PDF.|Acrobat |
 |September 2022|[Add custom page](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/add-custom-page.html)|Video |Learn how to add custom pages to your PDF using the integrated Adobe Express app, which offers thousands of templates to choose from.|Acrobat |
 |September 2022|[Modify an existing web form](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-managing/modify-webform.html?lang=en)|Video |Learn how to disable, edit, and re-enable an existing web form. |Acrobat Sign |
