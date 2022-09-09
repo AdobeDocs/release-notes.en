@@ -176,72 +176,7 @@ Adobe recommends visiting the [Experience Manager release updates and roadmaps](
 
 ### Experience Manager [!DNL Sites] as a [!DNL Cloud Service]
 
-**2022.7.0 release**
-
-_New features_
-
-* The [Content Fragment Console](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=en) now supports [keyboard shortcuts](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console-keyboard-shortcuts.html?lang=en).
-* Experience Manager as a Cloud Service's [web-optimized image delivery](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/web-optimized-image-delivery.html?lang=en) significantly improves page speed by delivering formats such as WebP. This new service also offers more flexible image resizing and transformation options. All versions of the [Core Image Component](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/components/image.html?lang=en) use this service and lets you deliver images in WebP by selecting an option in the policy of the image component.
-* Experience Manager personalization activities can now use experience fragments in lieu of our legacy offers. This feature helps you do the following:
-  * Enables a migration path where Experience Manager content promotes Experience Fragment offers rather than legacy library offers to provide appropriately styled content that aligns with the personalization at scale going forward.
-  * Prevents content authors from accidentally serving unstyled content on their site.
-  * Allows targeting mode of any component to be converted to an Experience Fragment (both JSON and HTML types) which uses editable templates.
-
-### Experience Manager [!DNL Assets] as a [!DNL Cloud Service]
-
-_New feature available in prerelease channel_
-
-* You can now configure Adobe Experience Manager Assets to [restrict the type of assets that users can upload based on the MIME type](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/configure-asset-upload-restrictions.html?lang=en).
-
-### Experience Manager [!DNL Forms] as a [!DNL Cloud Service]
-
-_New features_
-
-* **Keyboard input support for Scribble signatures** - Adaptive Forms are increasingly being used on touch devices, and one common requirement is to support signatures. Signing documents on touch devices has become an accepted way of signing forms. Adaptive Forms has native support for Scribble Signatures and Adobe Sign for such use cases. Now, along with other already supported options, you can also use keyboard to Scribble signatures in an Adaptive Form. It also helps improve accessibility compliance.
-
-* **Use Adaptive Forms wizard in local language** - You can use the wizard in language of your choice. It now supports all the languages supported by Experience Manager.
-
-_New features available in prerelease channel_
-
-* **Invoke - An Experience Manager Workflow step** - DDX (Document Description XML) is a declarative markup language whose elements represent building blocks of documents. These building blocks include PDF and XDP documents, and other elements such as comments, bookmarks, and styled text. DDX documents are templates for the documents and describe the desired characteristics of source documents that should appear in resultant documents. A single DDX can be used with a range of source documents. You can use the Invoke step an Experience Manager Workflow to perform various operations, like assembling disassembling documents, creating and modifying Acrobat and XFA Forms, and other operations described in [DDX Reference](https://helpx.adobe.com/content/dam/help/en/experience-manager/forms-cloud-service/ddxRef.pdf) documentation.
-
-* **Convert to PDF/A - An Experience Manager Workflow step** - PDF/A is an archival format for long-term preservation of the document's content, all fonts are embedded and the file is uncompressed. Now, you can use the Convert to PDF/A step an AEM Workflow to convert your documents or files in any format to PDF/A format.
-
-### Experience Manager as a Cloud Service Foundation
-
-_New features_
-
-* The [Repository Browser](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/repository-browser.html?lang=en) now has a path input field, making it possible to jump directly to a specific folder in the repository hierarchy
-* SCD (Sling Content Distribution) now supports an explicit "invalidation" action in order to invalidate content without that content being published. Refer to the [Caching in Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/caching.html?lang=en#explicit-invalidation) page for further details.
-* `mod_macro` is now available in Experience Manager as a Cloud Service. [See this table](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/disp-overview.html?lang=en) for a list of supported Apache modules.
-
-_Enhancements to Experience Manager as a Cloud Service SDK Dispatcher Tools_
-
-* Apache can be started with `update_sdk.sh` script, which automatically loads and validates any subsequent changes to Apache and Dispatcher configuration, thus improving developer velocity. Only supported for Dispatcher tools flexible mode. Also, see [Debugging your Apache and Dispatcher configuration](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/validation-debug.html?lang=en#automatic-loading) for additional details about automatic loading and validation.
-* Local Apache/Dispatcher configuration more closely tracks changes in cloud environments, increasing parity between the two environments.
-
-_New feature available in prerelease channel_
-
-* Experience Manager as a Cloud Service is now integrated with Unified Shell to improve the user experience and unify it with all the other Experience Cloud applications. See [Experience Manager as a Cloud Service on Unified Shell](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/aem-cloud-service-on-unified-shell.html?lang=en).
-
-### [!DNL Cloud Manager]
-
-_New features_
-
-* Cloud Manager users can now access useful video tutorials from the **[!UICONTROL Welcome]** card on the landing page.
-* The pop-up on the [Restore Content](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/backup.html?lang=en) tab of the environments details page now displays a handy list of git commands allowing the user to view changes locally.
-
-### Adobe Learning Manager Connectors
-
-_New feature_
-
-* The new Adobe Learning Manager has connectors to Adobe Experience Manager Sites, Marketo Engage and Adobe Commerce. See the [Adobe Learning Manager User Guide](https://helpx.adobe.com/learning-manager/user-guide.html).
-
-### Community
-
-* Experience Manager as a Cloud Service [2022.7.0 release update](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-as-a-cloud-service-2022-7-0-release-update/ba-p/540062#M546).
-* Finally! All the Experience Manager content you need in one place on [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/finally-all-the-aem-content-you-need-all-in-one-place-on-aem/ba-p/460583)!
-* Adobe Experience Manager [Community Lens 1st Edition](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/adobe-experience-manager-community-lens-1st-edition-august-2022/ba-p/538960), August 2022.
+See [2022.7.0 release](c-legacy-releases\2022\08172022.md#aem)
 
 ### New Experience Manager courses and tutorials {#tutorials-aem}
 
@@ -433,8 +368,8 @@ New Workfront course and collections of tutorials on Experience League.
 |September 2022|[Boards](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/boards/add-and-edit-column-settings-on-a-board.html?lang=en)|Video |Watch new tutorials that show how to use the new Boards tool with it's current functionality.|
 |September 2022|[Agile: Scrum](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/scrum/create-a-scrum-agile-team.html?lang=en)|Video |Learn how to create an agile team, select the scrum methodology, and determine settings for the scrum team. Watch tutorials migrated from [!DNL Workfront One] that show how to do the Scrum agile methodology within [!DNL Workfront].|
 |September 2022|[Agile: Kanban](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/kanban/create-a-kanban-team.html?lang=en)|Video |Watch tutorials migrated from [!DNL Workfront One] that show how to do the Kanban agile methodology within [!DNL Workfront]|
-|September 2022|[Personal Time Off Calendar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/personal-time-off-calendar/how-time-off-affects-project-timelines.html?lang=en)|Articles |View tutorials that show why personal time off is important, and how to add it within Workfront to resource management is easier.|
-|September 2022|[Workfront Fusion training](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview.html?lang=en)|Video |Each Workfront Fusion section contains multiple tutorials, with each tutorial presenting concepts you'll need to understand before progressing to the next tutorial. A walkthrough exercise helps you master most concepts.|
+|September 2022|[Personal Time-Off Calendar](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/personal-time-off-calendar/how-time-off-affects-project-timelines.html?lang=en)|Articles |View tutorials that show why personal time off is important, and how to add it within Workfront to resource management is easier.|
+|September 2022|[Workfront Fusion training](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview.html?lang=en)|Video |Each Workfront Fusion section contains multiple tutorials, with each tutorial, presenting concepts you need to understand before progressing to the next tutorial. A walkthrough exercise helps you master most concepts.|
 
 {style="table-layout:auto"}
 
@@ -503,8 +438,8 @@ New tutorials and courses published for Adobe Document Cloud, including [!DNL Do
 |September 2022|[Creating a report chart](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/create-a-report.html?lang=en)|Video (updated)|Learn how to build, save, and manage your own custom reports and data exports in a personalized view with the new reporting experience. |Acrobat Sign |
 |September 2022|[Building a custom workflow](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/building-a-custom-workflow.html?lang=en)|Video (updated)|Learn how to tailor and automate document workflows to get electronic signatures, collect form data, and confirm delivery of an important document to streamline workflow management.|Acrobat Sign |
 |September 2022|[Send for signature in Microsoft Teams](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/adobe-sign-teams-mortgage.html?lang=en)|Video (updated) |Learn how to send agreements for signature, check the status of agreements, and send reminders all from within Microsoft Teams.|Acrobat Sign |
-|September 2022|[Adding fields to your documents](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/adding-fields.html?lang=en)|Video (updated) |Learn how to automatically place fields on your document or use the drag and drop authoring environment inside Acrobat Sign.|Acrobat Sign |
-|September 2022|[Configure sending options](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/sending-options.html?lang=en)|Video (updated) |Learn how to configure various options when sending a document out for signature. |Acrobat Sign |
+|September 2022|[Adding fields to your documents](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/adding-fields.html?lang=en)|Video (updated) |Learn how to automatically place fields on your document or use the drag-and-drop authoring environment inside Acrobat Sign.|Acrobat Sign |
+|September 2022|[Configure sending options](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/sending-options.html?lang=en)|Video (updated) |Learn how to configure various options when sending out a document for signature. |Acrobat Sign |
 
 {style="table-layout:auto"}
 
