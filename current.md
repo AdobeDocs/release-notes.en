@@ -17,7 +17,7 @@ As an Experience Maker, your path to success starts with [Experience League](htt
 >
 >To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League.
 
-Latest update: **September 9, 2022**
+Latest update: **September 12, 2022**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -27,7 +27,7 @@ Latest update: **September 9, 2022**
 * [[!DNL Customer Journey Analytics]](#cja)
 * [[!DNL Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [[!DNL Adobe Experience Manager]](#aem)
+* [[!DNL Adobe Experience Manager]](#aem) (updated **September 12**)
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
@@ -190,14 +190,14 @@ _New feature available in prerelease channel_
 
 _New features_
 
-* AEM Archetype project for Forms as a Cloud Service now includes [form data models for Microsoft® Dynamics and Salesforce.com](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/setup-environment/setup-local-development-environment.html?lang=en#forms-cloud-service-local-development-environment).
+* AEM Archetype project for Forms as a Cloud Service now includes [form data models for Microsoft&reg; Dynamics and Salesforce.com](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/setup-environment/setup-local-development-environment.html?lang=en#forms-cloud-service-local-development-environment).
 * Acroform-based Document of Record: Experience Manager Forms as a Cloud Service supports using [Adobe Acrobat Form PDF (Acroform PDF)](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html) as a template for Document of Record besides XFA-based form template.
-* Microsoft® Azure data store connector: You can now [connect Form Data Model to Microsoft® Azure storage](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/use-form-data-model/configure-azure-storage.html). It lets you retrieve and store adaptive form data to Microsoft® Azure storage as a BLOB.
+* Microsoft&reg; Azure data store connector: You can now [connect Form Data Model to Microsoft&reg; Azure storage](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/use-form-data-model/configure-azure-storage.html). It lets you retrieve and store adaptive form data to Microsoft&reg; Azure storage as a BLOB.
 
 _Beta features of Forms_
 
 * **Unified Storage Connector** - Use Unified Storage Connector to externalize in-process data in customer-managed repositories. For example, you can
-  * Enable Forms Portal’s save and resume functionality and store adaptive forms drafts in a customer-managed data repository.
+  * Enable Forms Portal's save and resume functionality and store adaptive forms drafts in a customer-managed data repository.
   * Store in-process Experience Manager Workflows data (Experience Manager Workflow Variables data) that contains Sensitive Personal Data (SPD) in a customer-managed repository.
 * **Experience Manager Forms as a Cloud Service, Communications** - [Communication APIs](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications.html) help you combine XDP templates and XML data to generate print documents in various formats. The service allows you to generate documents in synchronous mode. The APIs enables you to create applications that let you:
   * Generate documents by populating template files with XML data.
@@ -209,7 +209,7 @@ _New features available in prerelease channel_
 
 * **Use Adobe Sign roles in an Adaptive Form** - Adobe Sign for business and enterprise service levels can optionally expand the roles for Agreement recipients beyond just the Signer, to better match their workflow requirements. You can now [enable each recipient of agreement to configure their role in an Adaptive Form](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/use-adobe-sign/working-with-adobe-sign.html?lang=en#addsignerstoanadaptiveform), with Signer being the default role.
 * **Analytics for Adaptive Forms** - You can now capture and track end user behavior via Adobe Analytics for Adaptive Forms to gather end user insights. It helps make informed decisions that are based on data to improve end user experience.
-* **Easily connect Experience Manager Forms with Microsoft® Dynamics and Salesforce.com** - The service provides out-of-the-box data source configuration and data models for Microsoft® Dynamics and [Salesforce.com](https://www.salesforce.com/?bc=DF). This ability makes it [faster and easier for developers to configure Microsoft® Dynamics 365 and Salesforce cloud services for an adaptive form](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/use-form-data-model/configure-msdynamics-salesforce.html).
+* **Easily connect Experience Manager Forms with Microsoft&reg; Dynamics and Salesforce.com** - The service provides out-of-the-box data source configuration and data models for Microsoft&reg; Dynamics and [Salesforce.com](https://www.salesforce.com/?bc=DF). This ability makes it [faster and easier for developers to configure Microsoft&reg; Dynamics 365 and Salesforce cloud services for an adaptive form](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/use-form-data-model/configure-msdynamics-salesforce.html).
 
 ### Experience Manager Screens as a Cloud Service
 
