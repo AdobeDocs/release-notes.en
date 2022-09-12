@@ -449,7 +449,7 @@ See the [[!DNL Workfront] product releases](https://experienceleague.adobe.com/d
 Release notes for [!DNL Adobe Advertising Cloud].
 
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-<!-- * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp) -->
+* [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp)
 * [New features in [!DNL Advertising Cloud Search]](#adcloud-search)
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
@@ -466,17 +466,15 @@ Last updated: **August 9, 2022**
   
 -->
 
-<!--
-
 ### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Last updated: **July 27, 2022**
+Last updated: **September 12, 2022**
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Inventory] | (July 27 release) [!UICONTROL Auction Insights] is a new troubleshooting tool that allows you to analyze the deal composition of both guaranteed and non-guaranteed private deals. Using data visualizations, this tool shows the trend and relative proportions of values received for key auction attributes within a specific time period. |
+| [!UICONTROL Package and placement pacing] | (September 12 release) Separate pacing controls are now available for flight pacing and intraday pacing. Previously, a single strategy controlled both. Settings for your existing packages and placements were mapped as follows:<ul><li>Legacy **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Even]* &mdash; Now configured as **[!UICONTROL Flight pacing]**=*[!UICONTROL Even]* and **[!UICONTROL Intraday pacing]**=*[!UICONTROL Even]*</li><li>Legacy **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Slightly Ahead]* &mdash; Now configured as **[!UICONTROL Flight pacing]**=*[!UICONTROL Slightly Ahead]* and **[!UICONTROL Intraday pacing]**=*[!UICONTROL Even]*</li><li>Legacy **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Frontload]* &mdash; Now configured as **[!UICONTROL Flight pacing]**=*[!UICONTROL Frontload]* and **[!UICONTROL Intraday pacing]**=*[!UICONTROL ASAP]*</li><li>Legacy **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Aggressive Frontload]* &mdash; Now configured as **[!UICONTROL Flight pacing]**=*[!UICONTROL Aggressive Frontload]* and **[!UICONTROL Intraday pacing]**=*[!UICONTROL ASAP]*</li></ul> |
 
--->
+{style="table-layout:auto"}
 
 ### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
