@@ -241,13 +241,9 @@ See [SLA Reporting](https://experienceleague.adobe.com/docs/experience-manager-c
 
 ### Community
 
-* A comprehensive list of the [latest Experience Manager content on Experience League can be found here](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/list-of-latest-adobe-experience-manager-content-on-experience/m-p/421751#M29908).
-* [Adobe Experience Cloud](https://www.linkedin.com/company/adobe-experience-cloud/) communities are the heartbeat that connect, engage, and empower our users to create game-changing digital experiences for their customers.
-To review a list of all the Community Advisors, see this [Adobe blog](https://blog.adobe.com/en/publish/2021/09/02/introducing-the-2021-adobe-community-advisors#gs.a6braz).
-* How to submit a new feature request or suggestion for Experience Manager
-  * New process to submit Experience Manager feature requests is live now. [Create an idea](https://experienceleaguecommunities.adobe.com/t5/forums/postpage/board-id/adobe-experience-manager-ideas). | 
-  * See [details here](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/announcing-the-new-process-to-submit-experience-manager-feature/td-p/380425).
-  * [Guidelines for submitting a new Experience Manager idea](https://experienceleaguecommunities.adobe.com:443/t5/adobe-experience-manager-blogs/guidelines-for-submitting-a-new-experience-manager-aem-idea/ba-p/382376).
+* AEM as a Cloud Service 2022.7.0 - [Release update](https://adobe.ly/3paYDAo).
+* **Experience League Showcase** - Show us&mdash;and the world&mdash;what you can do with multiple Adobe Experience Cloud products. [Submit your story today!](https://experienceleaguecommunities.adobe.com/t5/experience-league-showcase-2022/con-p/exl-showcase-2022?sdid=3NQZB6J7&mv=email)
+* AEM User Group Meetup | Adobe PTP, Bangalore | September 30, 2022 | [Register here](https://adobe.ly/3DlsUos) | [Talk on Community Thread](https://adobe.ly/3DhQwub).
 
 ### New Experience Manager courses and tutorials {#tutorials-aem}
 
