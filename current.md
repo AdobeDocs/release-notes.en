@@ -17,7 +17,9 @@ As an Experience Maker, your path to success starts with [Experience League](htt
 >
 >To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League.
 
-Latest update: **September 22, 2022**
+This page provides access to Experience Cloud product release notes pages and the latest tutorials, courses, and events on Experience League.
+
+Latest update: **September 28, 2022**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
