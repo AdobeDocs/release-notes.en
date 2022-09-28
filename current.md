@@ -371,7 +371,7 @@ New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|September 2022|[Getting started with decision management for marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)|Video |Learn about Adobe Journey Optimizer's decision management capabilities. This course is designed for marketers who want to drive revenue, customer experience and loyalty by delivering the best offers to their customers|
+|September 2022|[Getting started with decision management for marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)|Course |Learn about Adobe Journey Optimizer's decision management capabilities. This course is designed for marketers who want to drive revenue, customer experience and loyalty by delivering the best offers to their customers|
 |September 2022|[Create a campaign](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-campaigns/create-a-campaign.html?lang=en)|Video |Learn how to deliver one-time content to a specific audience by executing actions immediately, or on a specified schedule.|
 
 {style="table-layout:auto"}
