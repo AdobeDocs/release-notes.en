@@ -86,6 +86,17 @@ Release date: **September 28, 2022**
 
 * [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) - (August 24, 2022)
 
+### New Experience Platform tutorials and courses {#tutorials-platform}
+
+New videos, tutorials, or courses published for Adobe Experience Platform.
+
+|Published|Name|Type|Description |Application|
+| -----------| ---------- | ---------- | ---------- |---------- |
+|October 2022|[Getting Started with Adobe Experience Platform for Data Architects and Data Engineers](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/overview.html)|Video |Data Architects and Data Engineers must closely collaborate for a successful Experience Platform deployment. Learn the key tasks executed by both roles so you know how to start implementing Platform for your own business. |Experience Platform |
+|October 2022|[Demo of Adobe Experience Platform Web SDK and Edge Network](https://experienceleague.adobe.com/docs/platform-learn/data-collection/web-sdk/demo.html)|Video |See Adobe Experience Platform Web SDK and Edge Network in action, with a single call to Adobe sending data to Experience Platform, Analytics, Audience Manager, and Target.|Data Collection |
+|October 2022|[Use enumerated fields and suggested values](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/use-enumerated-fields.html)|Video |Learn how to use enumerated fields and suggested values to create friendly dropdown menus in the segment builder interface.|Data Model (XDM) |
+|October 2022|[Manage sensitive data in datastreams](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/manage-sensitive-data-in-datastreams.html)|Video |Learn how to manage sensitive data in datastreams.|Web SDK |
+|October 2022|[Create a dashboard](https://experienceleague.adobe.com/docs/platform-learn/tutorials/dashboards/create-a-dashboard.html)|Video |Learn how to create a dashboard in Adobe Experience Platform. |Dashboards |
 ### [!DNL Adobe Mobile] SDK
 
 Updated: **September 1, 2022** - See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-notes) for the Adobe Experience Platform Mobile SDKs.
