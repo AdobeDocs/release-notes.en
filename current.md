@@ -97,6 +97,7 @@ New videos, tutorials, or courses published for Adobe Experience Platform.
 |October 2022|[Use enumerated fields and suggested values](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/use-enumerated-fields.html)|Video |Learn how to use enumerated fields and suggested values to create friendly dropdown menus in the segment builder interface.|Data Model (XDM) |
 |October 2022|[Manage sensitive data in datastreams](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/manage-sensitive-data-in-datastreams.html)|Video |Learn how to manage sensitive data in datastreams.|Web SDK |
 |October 2022|[Create a dashboard](https://experienceleague.adobe.com/docs/platform-learn/tutorials/dashboards/create-a-dashboard.html)|Video |Learn how to create a dashboard in Adobe Experience Platform. |Dashboards |
+
 ### [!DNL Adobe Mobile] SDK
 
 Updated: **September 1, 2022** - See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-notes) for the Adobe Experience Platform Mobile SDKs.
@@ -443,6 +444,8 @@ New Workfront course and collections of tutorials on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
+|October 2022|[Add and edit column settings on a board](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/boards/add-and-edit-column-settings-on-a-board.html?lang=en)|Video |Learn how to add and edit columns settings in a board.|
+|October 2022|[Advanced reporting](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en)|Video |Learn how to use the API Explorer and text mode to create advanced filters, views, and groupings that go beyond the capabilities of the Reporting UI.|
 |September 2022|[Workfront courses](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.1.admin)|Courses |Browse our new courses available for Workfront on Experience League.|
 |September 2022|[Best Practices](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/best-practices/agile-bp.html?lang=en)|Articles |Learn best practices from both internal and external [!DNL Workfront] experts on how to use the [!DNL Workfront] tools to enhance work processes.|
 |September 2022|[Boards](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/boards/add-and-edit-column-settings-on-a-board.html?lang=en)|Video |Watch new tutorials that show how to use the new Boards tool with it's current functionality.|
