@@ -131,6 +131,8 @@ New videos, tutorials, or courses published for CJA.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
+|October 2022|[Copy a journey to another sandbox](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/copy-a-journey.html?lang=en)|Video |Learn how to copy a journey and its dependent objects from one sandbox to another.|
+|October 2022|[Use alerts](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts.html?lang=en)|Video |Learn how to subscribe to pre-defined alerts for unexpected journey behaviors and get notified via Email, within Journey Optimizer or using an API.|
 |September 2022|[Audience Publishing for Customer Journey Analytics](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/audiences/audience-publishing-for-cja.html)|Video |Learn how to use Customer Journey Analytics to publish audiences you discover from your analysis to the Adobe Experience Platform Real-Time Customer Profile for segment activation, using Adobe Real-Time Customer Data Platform or Adobe Journey Optimizer.|
 
 {style="table-layout:auto"}
