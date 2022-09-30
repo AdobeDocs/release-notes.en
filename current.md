@@ -344,8 +344,11 @@ New videos, tutorials, or courses published for Adobe Campaign.
 
 |Published|Name|Type|Description |Applications|
 | -----------| ---------- | ---------- | ---------- |---------- |
+|October 2022|[Getting started with decision management for marketers](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=en)|Video |Learn how to use enumerated fields and suggested values to create friendly dropdown menus in the segment builder interface.|Campaign v8|
+|October 2022|[Set up SMS for Adobe Campaign](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.classic.setupsms)|Course |Learn how to connect your Campaign instance to your SMTP provider and how to analyze and troubleshoot the configuration.|Campaign v8|
+|October 2022|[Full subdomain delegation](-learn/tutorials/subdomains-and-certificates/subdomain-delegation.html?lang=en)|Updated video |Learn how to fully delegate a subdomain to Adobe Campaign. |Control Panel|
 |September 2022|[Set up SMS for Adobe Campaign](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.classic.setupsms)|Course |Learn how to connect your Campaign instance to your SMTP provider and how to analyze and troubleshoot the configuration. |Campaign Classic v7 |
-|September 2022|[Set up SMS for Adobe Campaign](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic/course-discussion-set-up-sms-for-adobe-campaign/m-p/542687#M2301)|Course |Learn how to connect your Campaign instance to your SMTP provider and how to analyze and troubleshoot the configuration. |Campaign v8|
+|September 2022|[Set up SMS for Adobe Campaign](https://experienceleague.adobe.com/docs/courses/using/campaign-a-1-2022-v8-setupsms.html?lang=en)|Course |Learn how to connect your Campaign instance to your SMTP provider and how to analyze and troubleshoot the configuration. |Campaign v8|
 |September 2022|[SMPP protocol deep dive and troubleshooting](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html)|Video |Learn how SMPP connections are established and how SMPP exchanges data through PDUs. Understand how to troubleshoot connections.|Campaign v8|
 
 {style="table-layout:auto"}
@@ -371,6 +374,8 @@ New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
+|October 2022|[Copy a journey to another sandbox](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/copy-a-journey.html?lang=en)|Video |Learn how to copy a journey and its dependent objects from one sandbox to another.|
+|October 2022|[Use alerts](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts.html?lang=en)|Video |Learn how to subscribe to pre-defined alerts for unexpected journey behaviors and get notified via Email, within Journey Optimizer or using an API.|
 |September 2022|[Getting started with decision management for marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)|Course |Learn about Adobe Journey Optimizer's decision management capabilities. This course is designed for marketers who want to drive revenue, customer experience and loyalty by delivering the best offers to their customers|
 |September 2022|[Create a campaign](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-campaigns/create-a-campaign.html?lang=en)|Video |Learn how to deliver one-time content to a specific audience by executing actions immediately, or on a specified schedule.|
 
