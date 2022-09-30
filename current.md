@@ -111,6 +111,7 @@ New video tutorials, articles, and courses published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
+|October 2022|[Combo Charts in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/combo-charts.html)|Video |Learn about the Combo chart visualization in Analysis Workspace. |
 |September 2022|[Create a flow visualization](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analyzing-customer-journeys/flow-visualization.html?lang=en)|Video |Learn how to use Flow visualizations to explore the exact journeys customers have with your brand. |
 
 {style="table-layout:auto"}
