@@ -82,7 +82,7 @@ Experience Cloud [central UI components](https://experienceleague.adobe.com/docs
 
 Latest release information and new documentation for [!DNL Experience Platform] and [!UICONTROL Mobile SDK]:
 
-Planned release: **September 28, 2022**
+Release date: **September 28, 2022**
 
 * [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) - (August 24, 2022)
 
@@ -491,6 +491,9 @@ New tutorials and courses published for Adobe Document Cloud, including [!DNL Do
 
 |Published|Name|Type|Description |Application|
 | -----------| ---------- | ---------- | ---------- |---------- |
+|October 2022|[Scan anything to PDF](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/mobile/scan-mobile-app.html)|Video |Learn how to turn any paper document into a PDF using the free Adobe Scan mobile app.|Acrobat|
+|October 2022|[Organize pages](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/organize.html)|Video (updated)|Description|Acrobat|
+|October 2022|[Work with files from Dropbox](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/acrobat-dropbox.html?lang=en)|Video |Learn how to open, create, edit, sign, and save changes to your Dropbox files from inside Acrobat. |Acrobat |
 |September 2022|[Signing up for a Developer Account](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/sign-up-developer-account.html?lang=en)|Video |In part 1 of the _Acrobat Sign Embed Quick Start Guide_, learn how to sign up for an Acrobat Sign API Developer Account. Your new Developer Account is fully enabled with Sign and API functionality.|Document Services |
 |September 2022|[Creating your application](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/creating-your-application.html?lang=en)|Video |In part 2 of the _Acrobat Sign Embed Quick Start Guide_, learn how to create an application using the Acrobat Sign API.|Document Services|
 |September 2022|[Creating an embed link](https://experienceleague.adobe.com/docs/document-services/tutorials/acrobatsign/creating-an-embed-link.html?lang=en)|Video |In part 3 of the _Acrobat Sign Embed Quick Start Guide_, learn how to create an embed link for OAuth. Your application gets permissions for users using this OAuth method.|Document Services |
