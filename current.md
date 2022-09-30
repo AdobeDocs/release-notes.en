@@ -93,7 +93,7 @@ Updated: **September 1, 2022** - See [Release notes and change logs](https://aep
 ## ![Icon](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
 Next release: **October 5, 2022**
-Note that the production version of the October release notes will be published **on October 5, 2022**.
+**Note that October release notes will go live on October 5, 2022**.
 
 * Adobe Analytics [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en)
 * Adobe Analytics [product documentation and tutorials](https://experienceleague.adobe.com/docs/analytics.html)
@@ -117,7 +117,7 @@ New video tutorials, articles, and courses published for Adobe Analytics.
 ## ![Icon](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
 
 Next release: **October 5, 2022**
-Note that the production version of the October release notes will be published **on October 5, 2022**.
+**Note that October release notes will go live on October 5, 2022**.
 
 * Customer Journey Analytics [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en) 
 * Customer Journey Analytics [product documentation and tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=en)
