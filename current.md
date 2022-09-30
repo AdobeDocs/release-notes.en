@@ -312,6 +312,10 @@ See the following links for Adobe Commerce release notes:
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
+|October 2022|[On-premises installation overview](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html)|Product documentation |Learn about the installation process for on-premises deployments of Adobe Commerce and Magento Open Source.|
+|October 2022|[Commerce magento-cloud infrastructure)](https://experienceleague.adobe.com/docs/commerce-operations/reference/commerce.html)|Product documentation |Learn about all available commands, arguments, and options for Adobe Commerce magento-cloud command-line tool.|
+|October 2022|[Catalog Service for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/catalog/catalog-service.html)|Product documentation |Learn how to install and test the catalog service.|
+|October 2022|[Adobe Commerce Merchandising and Promotions Guide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/guide-overview.html)|Product documentation |Read about about merchandising and promotional features, including targeted discounts and events.|
 |September 2022|[Deliver Headless Experiences with Adobe Experience Manager](https://experienceleague.adobe.com/docs/skill-builder-events/skill-builder/content-and-commerce/2022/headless.html?lang=en)|Video |Learn about headless experience management using the latest Experience Manager Content Fragment enhancements and the new GraphQL API for headless content delivery.|
 |September 2022|[Adobe Commerce Catalog Management Guide](https://experienceleague.adobe.com/docs/commerce-admin/catalog/guide-overview.html)|Video |Get detailed information about content and design features, including the building basic content components.|
 |September 2022|[Setup multiple commerce systems](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/content-and-commerce/storefront/administering/multiple-commerce-systems-setup.html)|Video |Learn how to set up AEM with multiple Adobe commerce environments. |
