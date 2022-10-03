@@ -302,7 +302,7 @@ New features and content available for [!DNL Adobe Commerce].
 | Feature | Description |
 | ------- | ------- |
 | [Use multiple PayPal accounts](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/configure/settings.html?lang=en#use-multiple-paypal-accounts)| Learn how to use different PayPal business accounts for your merchant account so you can transact in multiple countries (with different currencies) or use Adobe Commerce for some, but not all, parts of your business. |
-| [Add a soft descriptor to your website or store views](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/configure/settings.html?lang=en#add-soft-descriptor)| Learn how to add a Soft Descriptor to your website or store views to delineate between stores/brands/catalogs on customer transaction bank statements. |
+| [Add a soft descriptor to your website or store views](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/configure/settings.html?lang=en#add-soft-descriptor)| Learn how to add a soft descriptor to your website or store views to delineate between stores/brands/catalogs on customer transaction bank statements. |
 
 {style="table-layout:auto"}
 
