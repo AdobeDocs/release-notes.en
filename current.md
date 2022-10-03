@@ -19,7 +19,7 @@ As an Experience Maker, your path to success starts with [Experience League](htt
 
 This page provides access to Experience Cloud product release notes pages and the latest tutorials, courses, and events on Experience League.
 
-Latest update: **September 30, 2022**
+Latest update: **October 3, 2022**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -297,7 +297,18 @@ Learn more about [[!DNL Experience Manager Guides]](https://www.adobe.com/produc
 
 ## ![Icon](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
 
-See the following links for Adobe Commerce release notes:
+New features and content available for [!DNL Adobe Commerce].
+
+### Payment Services{#payment-services}
+
+| Feature | Description |
+| ------- | ------- |
+| [Use multiple PayPal accounts](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/configure/settings.html?lang=en#use-multiple-paypal-accounts)| Learn how to use different PayPal business accounts for your merchant account so you can transact in multiple countries (with different currencies) or use Adobe Commerce for some, but not all, parts of your business. |
+| [Add a soft descriptor to your website or store views](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/configure/settings.html?lang=en#add-soft-descriptor)| Learn how to add a Soft Descriptor to your website or store views to delineate between stores/brands/catalogs on customer transaction bank statements. |
+
+{style="table-layout:auto"}
+
+### Release notes for [!DNL Adobe Commerce]{#release-notes-commerce}
 
 * [Adobe Commerce and Magento Open Source 2.4.x release notes](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
 * [Release notes for Cloud Suite](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
@@ -311,7 +322,7 @@ See the following links for Adobe Commerce release notes:
 >
 >[!DNL Adobe Search&Promote] end-of-service occurred **September 1, 2022**. For product and commerce search, [Live Search](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=en) is Adobe's search application. See the [end-of-life announcement](https://experienceleague.adobe.com/docs/search-promote/using/sp-eol.html?lang=en) for more information.
 
-### New Adobe Commerce tutorials and documentation {#tutorials-commerce}
+### New tutorials and documentation for [!DNL Adobe Commerce] {#tutorials-commerce}
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
