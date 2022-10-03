@@ -430,11 +430,11 @@ For the latest product documentation, see the [Marketo product documentation](ht
 
 Adobe [!DNL Workfront] is a unified work management application for sharing ideas, creating content, managing complex processes, and doing their best work.
 
-### New Adobe Workfront courses and tutorials {#tutorials-workfront}
+### New Adobe [!DNL Workfront] courses and tutorials {#tutorials-workfront}
 
-New Workfront course and collections of tutorials on Experience League.
+New [!DNL Workfront] course and collections of tutorials on Experience League.
 
-**Note:** Translation on Experience League for all Workfront tutorials and product documentation is coming soon!
+**Note:** Translation on Experience League for all [[!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront.html?lang=en) tutorials and product documentation is coming soon!
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
