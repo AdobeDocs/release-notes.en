@@ -411,7 +411,8 @@ Find out more about the latest capabilities, improvements, and fixes in the [[!D
 
 ### Core Marketo Engage updates
 
-See [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=en) for the latest release schedule information and release notes.
+* See [October 2022 - current release notes](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html?lang=en) for the latest information
+* See [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=en) for the latest release schedule information and release notes.
 
 <!-- ### New Marketo tutorials and courses {#tutorials-marketo}
 
