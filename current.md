@@ -162,20 +162,12 @@ For self-help resources, see [Audience Manager documentation and tutorials](http
 
 New features, fixes, and updates in Experience Manager. Adobe recommends customers with On-Premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
 
-<!-- See [Current Release Notes for Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) -->
+### AEM roadmaps and release videos
 
-Adobe recommends visiting the [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) page to stay current on release information.
+Adobe recommends visiting the following resources to stay updated on release information: 
 
-### Product update videos
-
-  Watch the [August 2022 Release Overview video](https://video.tv.adobe.com/v/345409/?quality=12) for a summary of the features added in the 2022.8.0 (August 2022) release. <!-- Beginning with the video this month, Adobe has enabled localized closed captioning in French (FR), German (DE) and Japanese (JP). -->
-
-* [July 2022 Release Overview video](https://video.tv.adobe.com/v/345409/?quality=12)
-* [June 2022 Release Overview video](https://video.tv.adobe.com/v/344308/?quality=12)
-* [May 2022 Release Overview video](https://video.tv.adobe.com/v/343321/?quality=12) 
-* [April 2022 Release Overview video](https://video.tv.adobe.com/v/342612?quality=12)
-* [March 2022 Release Overview video](https://video.tv.adobe.com/v/341465)
-* [January 2022 Release Overview video](https://video.tv.adobe.com/v/340120)
+* [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) - Learn about the Experience Manager releases roadmap, previous release updates, and documentation updates.
+* [Experience Manager as a Cloud Service release updates](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=en) - Get a quick overview of the latest features on Adobe Experience Manager as a Cloud Service.
 
 ### Experience Manager [!DNL Sites] as a [!DNL Cloud Service]
 
@@ -258,6 +250,8 @@ New videos, tutorials, and courses published over the past month.
 
 All Experience Manager release notes are maintained at the following pages:
 
+* [Adobe Experience Manager as a Cloud Service release updates](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=en)
+* [Current Release Notes for Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en)
 * [Experience Manager as a Cloud Service release information](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=en)
 * [Experience Manager Cloud Manager release notes](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/current.html?lang=en)
 * [Automated Forms Conversion Service release notes](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=en)
