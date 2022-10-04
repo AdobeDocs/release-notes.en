@@ -70,6 +70,10 @@ For the latest release information, see Adobe System Status [release notes](http
 
 Experience Cloud [central UI components](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) include features available on the home page and the persistent product header. These features include user profile settings, preferences, and search. You can also find help on user and product management, Customer Attributes, and Experience Cloud Audiences.
 
+## Unified search update
+
+* **Personalized Search:** Search results on global search bar are now personalized with the frequency and recency of usage by the user. 
+
 ### Provisioning update
 
 >[!IMPORTANT]
