@@ -388,7 +388,6 @@ New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 |October 2022|[Copy a journey to another sandbox](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/copy-a-journey.html?lang=en)|Video |Learn how to copy a journey and its dependent objects from one sandbox to another.|
 |October 2022|[Use alerts](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/alerts.html?lang=en)|Video |Learn how to subscribe to pre-defined alerts for unexpected journey behaviors and get notified via Email, within Journey Optimizer or using an API.|
 |September 2022|[Getting started with decision management for marketers](https://experienceleague.adobe.com/?recommended=ExperiencePlatform-U-1-2020.1.offerdecisioning)|Course |Learn about Adobe Journey Optimizer's decision management capabilities. This course is designed for marketers who want to drive revenue, customer experience, and loyalty by delivering the best offers to their customers|
-|September 2022|[Create a campaign](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-campaigns/create-a-campaign.html?lang=en)|Video |Learn how to deliver one-time content to a specific audience by executing actions immediately, or on a specified schedule.|
 
 {style="table-layout:auto"}
 
