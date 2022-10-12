@@ -461,7 +461,7 @@ Release notes for [!DNL Adobe Advertising Cloud].
 
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
 * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp)
-* [New features in [!DNL Advertising Cloud Search]](#adcloud-search)
+<!-- * [New features in [!DNL Advertising Cloud Search]](#adcloud-search) -->
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
 <!--
@@ -479,13 +479,15 @@ Last updated: **August 9, 2022**
 
 ### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
-Last updated: **September 12, 2022**
+Last updated: **October 6, 2022**
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Package and placement pacing] | (September 12 release) Separate pacing controls are now available for flight pacing and intraday pacing. Previously, a single strategy controlled both. Settings for your existing packages and placements were mapped as follows:<ul><li>Legacy **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Even]* &mdash; Now configured as **[!UICONTROL Flight pacing]**=*[!UICONTROL Even]* and **[!UICONTROL Intraday pacing]**=*[!UICONTROL Even]*</li><li>Legacy **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Slightly Ahead]* &mdash; Now configured as **[!UICONTROL Flight pacing]**=*[!UICONTROL Slightly Ahead]* and **[!UICONTROL Intraday pacing]**=*[!UICONTROL Even]*</li><li>Legacy **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Frontload]* &mdash; Now configured as **[!UICONTROL Flight pacing]**=*[!UICONTROL Frontload]* and **[!UICONTROL Intraday pacing]**=*[!UICONTROL ASAP]*</li><li>Legacy **[!UICONTROL Pacing fill strategy]**=*[!UICONTROL Aggressive Frontload]* &mdash; Now configured as **[!UICONTROL Flight pacing]**=*[!UICONTROL Aggressive Frontload]* and **[!UICONTROL Intraday pacing]**=*[!UICONTROL ASAP]*</li></ul> |
+| [!UICONTROL Campaigns] | (October 6 release) New pacing-related metric columns are available for the [!UICONTROL Campaigns] views: “[!UICONTROL Yesterday’s OTS]” (on target spend), “[!UICONTROL Yesterday’s delivery],” “[!UICONTROL Yesterday’s goal],” “[!UICONTROL Today’s OTS]” (on target spend), “[!UICONTROL Today’s delivery],” and “[!UICONTROL Today’s Goal].” |
 
 {style="table-layout:auto"}
+
+<!--
 
 ### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
@@ -506,7 +508,7 @@ Last updated: **September 9, 2022** for September 10 release
 | [!UICONTROL Recommendations] | ([!DNL Google Ads] accounts; beta feature) Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations Beta], you can:<ul><li>See at a glance all recommendations that haven't been acted on for a [!DNL Google Ads] account.</li><li>Apply and dismiss the recommendations for an account.</li><li>View logs of each recommendation that was applied for an account.</li></ul><br>Supported Recommendations:<li><strong>Recommendation Category; Recommendation Type; Description</strong></li><li>Ads & extensions; CALL_EXTENSION; Add call extensions to campaign</li><li>Ads & extensions; CALLOUT_EXTENSION; Add callout extensions to campaign</li><li>Ads & extensions; OPTIMIZE_AD_ROTATION; Use optimized ad rotations</li><li>Ads & extensions; RESPONSIVE SEARCH_AD; Add new responsive search ad</li><li>Ads & extensions; RESPONSIVE_SEARCH_AD_ASSET; Add responsive search ad assets to an ad</li><li>Ads & extensions; SITELINK_EXTENSION; Add [!UICONTROL sitelink] extensions to Campaign</li><li>ads & extensions; TEXT_AD; Add ad suggestions</li><li>Bidding & budgets; CAMPAIGN BUDGET; Fix campaigns Limited by budget</li><li>Bidding & budgets; ENHANCED_CPC_OPT_IN; Bid with Enhanced CPC</li><li>Bidding & budgets; FORECASTING_CAMPAIGN BUDGET; Fix campaigns that are expected to become Limited by budget in the future</li><li>Bidding & budgets; MARGINAL ROI_CAMPAIGN BUDGET; Adjust campaign budget to increase ROI</li><li>Bidding & budgets; MAXIMIZE CLICKS OPT_IN; Bid with Maximize Clicks</li><li>Bidding & budgets; MAXIMIZE CONVERSIONS OPT_IN; Bid with Maximize Conversions</li><li>Bidding & budgets; MOVE_UNUSED_BUDGET; Move unused to constrained budgets</li><li>Bidding & budgets; TARGET_CPA_OPT_IN; Bid with Target CPA</li><li>Bidding & budgets; TARGET_ROAS_OPT_IN; Bid with Target ROAS</li><li>Keywords & targeting; KEYWORD; Add new keywords</li><li>keywords & targeting; SEARCH_PARTNERS_OPT_IN; Expand reach with Google search partners</li><li>keywords & targeting; USE_BROAD MATCH KEYWORD; Use broad match for conversion-based campaigns with <strong>Fully Automated Conversion Based Bidding</strong></li> |
 | [!UICONTROL Import Campaigns] | (Beta feature) You can import your [!DNL Google Display Network] campaigns, including ad images, into [!DNL Microsoft&reg; Advertising] audience campaigns on the [!DNL Microsoft&reg; Audience Network] from [!UICONTROL Tools] > [!UICONTROL Import Campaigns]. Once you import campaigns, you can check the status of your import job, review any error logs, and edit, pause, or delete your import schedule. |
 
-{style="table-layout:auto"}
+-->
 
 ## ![Icon](/assets/document-cloud-24.png) Adobe Document Cloud {#doc-cloud}
 
