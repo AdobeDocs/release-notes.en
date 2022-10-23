@@ -60,7 +60,7 @@ Upcoming events include:
 * **[!DNL Experience Manager]:** November 9 - _Adobe Developers Live: Headless_
 * **[!DNL Workfront]:** November 9 - _Workfront Wednesday - Community Chat_
 
-For more, see [Events](https://experienceleague.adobe.com/events/?lang=en) on Experience League to stay updated on upcoming events and past episodes.
+To stay updated, see [Events on Experience League](https://experienceleague.adobe.com/events/?lang=en) for upcoming and past events.
 
 ## ![Icon](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
