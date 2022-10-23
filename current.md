@@ -53,12 +53,12 @@ Experience League events are a great place to learn, interact, and get answers f
 
 Upcoming events include:
 
-* **[!DNL Journey Optimizer]:** October 25 - Deliver the right offer at the right time with decision management
-* **[!DNL Workfront]:** October 25 - Ask the Experts: Workflow & Process Design Webinar Follow-Up
-* **[!DNL Analytics]:** November 3 - Adobe Analytics Champions' tips and tricks
-* **[!DNL Workfront]:** November 4 - Adobe Workfront Admin Chat: Marketing & Creative
-* **[!DNL Experience Manager]:** November 9 - Adobe Developers Live: Headless
-* **[!DNL Workfront]:** November 9 - Workfront Wednesday - Community Chat
+* **[!DNL Journey Optimizer]:** October 25 - _Deliver the right offer at the right time with decision management_
+* **[!DNL Workfront]:** October 25 - _Ask the Experts: Workflow & Process Design Webinar Follow-Up_
+* **[!DNL Analytics]:** November 3 - _Adobe Analytics Champions' tips and tricks_
+* **[!DNL Workfront]:** November 4 - _Adobe Workfront Admin Chat: Marketing & Creative_
+* **[!DNL Experience Manager]:** November 9 - _Adobe Developers Live: Headless_
+* **[!DNL Workfront]:** November 9 - _Workfront Wednesday - Community Chat_
 
 For more, see [Events](https://experienceleague.adobe.com/events/?lang=en) on Experience League to stay updated on upcoming events and past episodes.
 
