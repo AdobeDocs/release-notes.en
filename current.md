@@ -21,7 +21,7 @@ This page provides access to Experience Cloud product release notes pages and th
 
 Release month: **November 2022**
 
-Latest update: **October 23, 2022**
+Latest update: **October 24, 2022**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -309,16 +309,7 @@ New features and content available for [!DNL Adobe Commerce].
 
 ### Release notes for [!DNL Adobe Commerce]{#release-notes-commerce}
 
-Find release notes for Adobe Commerce and Magento Open Source:
-
-* [Release notes for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)
-* [Adobe Commerce and Magento Open Source 2.4.x release notes](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
-* [Release notes for Cloud Suite](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
-* [Release notes for Payment Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/release-notes.html)
-* [Release notes for Product Recommendations](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/release-notes.html)
-* [Release notes for Live Search](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/release-notes.html)
-* [Release notes for Store Fulfillment](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/release-notes.html)
-* [Release notes for Amazon Sales Channel](https://experienceleague.adobe.com/docs/commerce-channels/amazon/release-notes.html)
+* See [Release notes for Adobe Commerce and Magento Open Source](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html) to stay current.
 
 >[!NOTE]
 >
