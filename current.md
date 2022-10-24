@@ -523,7 +523,8 @@ New videos, tutorials, or courses published for Adobe Campaign.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|November 2022|[Improve CC workflows with CC Libraries](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/cc-workflows-cc-libraries.html?lang=en)|Video |Learn how Creative Cloud Libraries keep design elements together-ensuring project consistency for designers and teams in this hands-on tutorial.|
+|November 2022 |[Stunning digital assets](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/stockoverview/stocktutorials/stunning-digital-assets.html?lang=en)|PDF |Learn how to integrate Adobe Stock with CC Libraries to create consistent and professional design results for print and screen in this hands-on tutorial. |
+|November 2022|[Improve CC workflows with CC Libraries](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/cc-workflows-cc-libraries.html?lang=en)|PDF |Learn how Creative Cloud Libraries keep design elements together-ensuring project consistency for designers and teams in this hands-on tutorial.|
 |November 2022|[Video review with Frame.io](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/videotutorials/video-review-frame-io.html?lang=en)|PDF|Learn how the Frame.io extension for Adobe Premiere Pro lets you centralize and share assets, receive real-time comments, track revisions, and get faster approvals—all without leaving the timeline in this hands-on tutorial.|
 
 {style="table-layout:auto"}
