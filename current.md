@@ -11,7 +11,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
-As an Experience Maker, your path to success starts with [Experience League](https://experienceleague.adobe.com/?lang=en#home). Find a vast how-to documentation library, self-guided tutorials, how-to videos, and courses for all levels and roles, an online community of peers, and expert sup  port when you need it. 
+As an Experience Maker, your path to success starts with [Experience League](https://experienceleague.adobe.com/?lang=en#home). Find a vast how-to documentation library, self-guided tutorials, how-to videos, and courses for all levels and roles, an online community of peers, and expert sup  port when you need it.
 
 >[!NOTE]
 >
@@ -38,7 +38,7 @@ Latest update: **October 23, 2022**
 * [[!DNL Adobe Campaign]](#ac)
 * [[!DNL Adobe Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
-* [[!DNL Adobe Marketo Engage]](#marketo) 
+* [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
 * [[!DNL Adobe Advertising Cloud]](#adcloud)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
@@ -74,7 +74,7 @@ Experience Cloud [central UI components](https://experienceleague.adobe.com/docs
 
 ## Unified search update
 
-* **Personalized Search:** Search results on global search bar are now personalized with the frequency and recency of usage by the user. 
+* **Personalized Search:** Search results on global search bar are now personalized with the frequency and recency of usage by the user.
 
 ### Provisioning update
 
@@ -142,7 +142,7 @@ Next release: **October 26, 2022**
 >
 >November release notes will be available on **October 26, 2022**.
 
-* Customer Journey Analytics [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en) 
+* Customer Journey Analytics [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en)
 * Customer Journey Analytics [product documentation and tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=en)
 
 <!-- ### New Customer Journey Analytics tutorials and courses {#tutorials-cja}
@@ -157,7 +157,7 @@ New videos, tutorials, or courses published for CJA.
 
 ## ![Icon](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
-* [!DNL Streaming Media Analytics] [release notes](https://experienceleague.adobe.com/docs/media-analytics/using/additional-resources/release-notes.html?lang=en) 
+* [!DNL Streaming Media Analytics] [release notes](https://experienceleague.adobe.com/docs/media-analytics/using/additional-resources/release-notes.html?lang=en)
 * [!DNL Streaming Media Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=en)
 
 ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
@@ -172,7 +172,7 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
 
 ### AEM roadmaps and release videos
 
-Adobe recommends visiting the following resources to stay updated on release information: 
+Adobe recommends visiting the following resources to stay updated on release information:
 
 * [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) - Learn about the Experience Manager releases roadmap, previous release updates, and documentation updates.
 * [Experience Manager as a Cloud Service release updates](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=en) - Watch feature video overviews of current and past releases of [!DNL Experience Manager as a Cloud Service].
@@ -329,6 +329,7 @@ Find release notes for Adobe Commerce and Magento Open Source:
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |November 2022|[Security and compliance guide](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/overview.html)|Product documentation |Explore detailed information about merchandising and promotional features in Adobe Commerce, including targeted discounts and events.|
+|October 2022|[Adobe Commerce Support Knowledge Base](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/overview.html?lang=en)|Support documentation |Covers troubleshooting and best practices, hosts announcements, answers FAQs, and highlights specific scenarios that have not been mentioned (for any reason) in the official documentation.|
 |October 2022|[On-premises installation overview](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/overview.html)|Product documentation |Learn about the installation process for on-premises deployments of Adobe Commerce and Magento Open Source.|
 |October 2022|[Commerce magento-cloud infrastructure)](https://experienceleague.adobe.com/docs/commerce-operations/reference/commerce.html)|Product documentation |Learn about all available commands, arguments, and options for Adobe Commerce magento-cloud command-line tool.|
 |October 2022|[Catalog Service for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/catalog/catalog-service.html)|Product documentation |Learn how to install and test the catalog service.|
@@ -467,7 +468,7 @@ Last updated: **August 9, 2022**
 | Integration with [!DNL Adobe Analytics] | (August 6 release) Improvements to the data feed that Advertising Cloud sends to [!DNL Analytics] result in fewer mismatches between click/cost/impression data from the search engines and related conversion data in [!DNL Analytics]. |
 
 {style="table-layout:auto"}
-  
+
 -->
 
 ### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
