@@ -309,6 +309,9 @@ New features and content available for [!DNL Adobe Commerce].
 
 ### Release notes for [!DNL Adobe Commerce]{#release-notes-commerce}
 
+Find release notes for Adobe Commerce and Magento Open Source:
+
+* [Release notes for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html)
 * [Adobe Commerce and Magento Open Source 2.4.x release notes](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html)
 * [Release notes for Cloud Suite](https://devdocs.magento.com/cloud/release-notes/cloud-tools.html)
 * [Release notes for Payment Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/release-notes.html)
