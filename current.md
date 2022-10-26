@@ -86,7 +86,7 @@ Experience Cloud [central UI components](https://experienceleague.adobe.com/docs
 
 Latest release information and new documentation for [!DNL Experience Platform] and [!UICONTROL Mobile SDK]:
 
-Latest release: **September 28, 2022**
+Latest release: **October 26, 2022**
 
 * [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
 
