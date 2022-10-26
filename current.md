@@ -539,10 +539,4 @@ See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com
 
 [Digital Experience Blueprints](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=en) are repeatable implementations that let you address strategy and quickly solve established business problems. Each Blueprint provides a series of artifacts that explain the high-value business problem, architectures, implementation steps, technical considerations, and links to the relevant documentation.
 
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|November 2022|[Healthcare Shield](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/vertical-blueprints/healthcare-vertical.html?lang=en)|Video |Learn about Healthcare Shield, an Adobe Experience Platform add-on to Platform-based applications, such as Real-Time CDP, Customer Journey Analytics, and Adobe Journey Optimizer. The add-on makes these applications qualify for HIPAA and PHI requirements.|
-
-{style="table-layout:auto"}
-
 [Top](#events)
