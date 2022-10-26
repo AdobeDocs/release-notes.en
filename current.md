@@ -7,7 +7,7 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
-# INTERNAL REVIEW - Adobe Experience Cloud Release Notes - November 2022
+# Adobe Experience Cloud Release Notes - November 2022
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
@@ -21,7 +21,7 @@ This page provides access to Experience Cloud product release notes pages and th
 
 Release month: **November 2022**
 
-Latest update: **October 24, 2022**
+Latest update: **October 26, 2022**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -525,7 +525,7 @@ New videos, tutorials, or courses published for Adobe Campaign.
 | -----------| ---------- | ---------- | ---------- |
 |November 2022 |[Stunning digital assets](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/stockoverview/stocktutorials/stunning-digital-assets.html?lang=en)|PDF |Learn how to integrate Adobe Stock with CC Libraries to create consistent and professional design results for print and screen in this hands-on tutorial. |
 |November 2022|[Improve CC workflows with CC Libraries](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/cc-workflows-cc-libraries.html?lang=en)|PDF |Learn how Creative Cloud Libraries keep design elements together-ensuring project consistency for designers and teams in this hands-on tutorial.|
-|November 2022|[Video review with Frame.io](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/videotutorials/video-review-frame-io.html?lang=en)|PDF|Learn how the Frame.io extension for Adobe Premiere Pro lets you centralize and share assets, receive real-time comments, track revisions, and get faster approvals—all without leaving the timeline in this hands-on tutorial.|
+|November 2022|[Video review with Frame.io](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/videotutorials/video-review-frame-io.html?lang=en)|PDF|Learn how the Frame.io extension for Adobe Premiere Pro lets you centralize and share assets, receive real-time comments, track revisions, and get faster approvals without leaving the timeline in this hands-on tutorial.|
 
 {style="table-layout:auto"}
 
