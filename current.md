@@ -13,15 +13,13 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 As an Experience Maker, your path to success starts with [Experience League](https://experienceleague.adobe.com/?lang=en#home). Find a vast how-to documentation library, self-guided tutorials, how-to videos, and courses for all levels and roles, an online community of peers, and expert sup  port when you need it.
 
->[!NOTE]
+>[!IMPORTANT]
 >
->To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League.
+>To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League. The next Priority Product Update will deploy in **January 2023**, after the holiday season. Stay tuned!
 
 This page provides access to Experience Cloud product release notes pages and the latest tutorials, courses, and events on Experience League.
 
-Release month: **November 2022**
-
-Latest update: **October 26, 2022**
+Latest update: **November 14, 2022**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
