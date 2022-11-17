@@ -19,7 +19,7 @@ As an Experience Maker, your path to success starts with [Experience League](htt
 
 This page provides access to Experience Cloud product release notes pages and the latest tutorials, courses, and events on Experience League.
 
-Latest update: **November 14, 2022**
+Latest update: **November 17, 2022**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -443,7 +443,7 @@ See the [[!DNL Workfront] product releases](https://experienceleague.adobe.com/d
 Release notes for [!DNL Adobe Advertising Cloud].
 
 <!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-* [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp)
+<!-- * [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp) -->
 * [New features in [!DNL Advertising Cloud Search]](#adcloud-search)
 <!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
 
@@ -460,6 +460,7 @@ Last updated: **August 9, 2022**
 
 -->
 
+<!--
 ### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
 
 Last updated: **October 6, 2022**
@@ -468,22 +469,17 @@ Last updated: **October 6, 2022**
 | ------- | ----------- |
 | [!UICONTROL Campaigns] | (October 6 release) New pacing-related metric columns are available for the [!UICONTROL Campaigns] views: **[!UICONTROL Yesterday's OTS]** (on target spend), **[!UICONTROL Yesterday's delivery]**, **[!UICONTROL Yesterday's goal]**, **[!UICONTROL Today's OTS]** (on target spend), **[!UICONTROL Today's delivery]**, and **[!UICONTROL Today's Goal]**. |
 
-{style="table-layout:auto"}
+-->
 
 ### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
 
-Last updated: **October 14, 2022** for October 15 release
+Last updated: **November 17, 2022** for November 15 release
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Portfolios], [!UICONTROL Campaigns] | (Opt-in beta feature) A new **[!UICONTROL Network Spend Constraints]** option allows you to define limits on the budget allocations for specific ad networks in multi-network portfolios. The option is available for portfolios with daily, weekly, and monthly spend strategies, and only when the **[!UICONTROL Enable campaign max spend target %]** option is not enabled. When the **[!UICONTROL Auto adjust campaign budget limits]** option is selected, the constraints work within the values configured for the multiple and minimum campaign budget settings.<br><br>A new Network Constraint Report in [!UICONTROL Basic Reports] shows all specified minimum and maximum search engine budgets and the actual spend (cost) for your portfolios.<br><br>To participate in the beta program, contact your account team. |
-| Campaigns, Bulksheets, Reports | (Beta feature for [!DNL Microsoft&reg; Advertising] accounts) The following support is now available for campaigns on the [!DNL Microsoft&reg; Audience Network]:<ul><li>You can now create, edit, and change the status of audience campaigns (campaign type **[!UICONTROL Audience (image)]** or **[!UICONTROL Audience (feed)]**), ad groups (ad group type **[!UICONTROL Audience]**), and ads (creative type **[!UICONTROL Responsive Ad]**) from the [!UICONTROL Campaigns] views and using bulksheets.</li><li>You can view your existing audience campaigns, with performance data in table and trend chart format, in the [!UICONTROL Campaigns] view. Ad-level performance data is also available in reports and in Adobe Analytics (for advertisers with an [!DNL Analytics] integration).</li></ul>Optimization support will be available in a future release. |
-|  | (Beta feature for [!DNL Microsoft&reg; Advertising] accounts) You can now create and manage multimedia ads in search campaigns from the [!UICONTROL Campaigns] view and using bulksheets. The ads have the creative type **[!UICONTROL Multimedia ad]**.<br><br>You can include campaigns with multimedia ads in either standard portfolios or hybrid portfolios with any spend strategy except for [!UICONTROL Target Impression Share] (which isn't yet supported in hybrid portfolios).<br><br>You can view your existing audience campaigns, with performance data in table and trend chart format, in the [!UICONTROL Campaigns] view. Ad-level performance data is also available in reports and in [!DNL Analytics] (for advertisers with an [!DNL Analytics] integration). |
-| [!UICONTROL Campaigns], [!UICONTROL Reports] | (Beta feature for [!DNL Google Ads] and [!DNL Microsoft&reg; Advertising] accounts) Publisher impression share metrics are now available as columns in the following campaign management views and reports:<ul><li>Campaign management views: All campaign entity views except for [!UICONTROL Ads]. <b>Note:</b> Ad-level data isn't available from the ad networks.</li><li>Basic Reports:  All reports except for the [!UICONTROL Ad Variation], [!UICONTROL Campaign Hourly], and [!UICONTROL Network Constraints] reports. <b>Note:</b> Ad-level data isn't available from the ad networks.</li><li>Specialty Reports: [!UICONTROL Adwords and Bing Audience Target], [!UICONTROL Campaign Daily Impression Share], and [!UICONTROL Keyword Daily Impression Share] reports.</li></ul><b>Note:</b> Because the [!UICONTROL Campaign Daily Impression Share] and [!UICONTROL Keyword Daily Impression Share] reports are now redundant, they will be removed in a future release. If you use those report types for scheduled reports, templates, or spreadsheet feeds, transition to using the [!UICONTROL Campaign] and [!UICONTROL Keyword] reports instead. In the meantime, some existing metrics are duplicated in those report types. |
-| [!UICONTROL Conversion Value Rules] | ([!DNL Google Ads accounts]) The  [!UICONTROL Conversion Value Rules] view is now out of beta and generally available. Use it to view your existing [!DNL Google Ads] conversion value rules. Advertisers with [!DNL Google Ads] conversion tracking at the individual account level or lower can also create and manage rules. |
-| [!UICONTROL Advertising Insights] | The [!UICONTROL Impression Share Lost] and [!UICONTROL Query Cross Matching] analyses are now out of beta and generally available. |
-| [!UICONTROL Recommendations] | ([!DNL Google Ads] accounts only) The [!UICONTROL Recommendations] feature is now out of beta and generally available.<ul><li>See at a glance all [!DNL Google Ads] recommendations that haven't been acted on for an account.</li><li>Apply and dismiss the recommendations for an account.</li><li>View logs of each recommendation that was applied for an account.</li></ul> |
-| **[!UICONTROL Import Campaigns]** | (Beta feature) You can import your [!DNL Google Ads] performance max campaigns, including local inventory ads, into [!DNL Microsoft&reg; Advertising] smart shopping campaigns from **[!UICONTROL Tools]** > **[!UICONTROL Import Campaigns]**. Once you import campaigns, you can check the status of your import job, review any error logs, and edit, pause, or delete your import schedule. |
+| Campaigns, Bulksheets, Reports | ([!DNL Microsoft&reg; Advertising] accounts) Support for campaigns on the [!DNL Microsoft&reg; Audience Network] is now out of beta.<ul><li>You can create, edit, and change the status of audience campaigns (campaign type "[!UICONTROL Audience (image)]" or "[!UICONTROL Audience (feed)]"), ad groups (ad group type "[!UICONTROL Audience]"), and ads (creative type "[!UICONTROL Responsive Ad]") from the [!UICONTROL Campaigns] views and using bulksheets.</li><li>You can view your existing audience campaigns, with performance data in table and trend chart format, in the [!UICONTROL Campaigns] view. Ad-level performance data is also available in reports and in Adobe Analytics (for advertisers with an [!DNL Analytics] integration).</li></ul>Optimization support will be available in a future release. |
+|  | ([!DNL Microsoft&reg; Advertising] accounts) Multimedia ad support is now out of beta. You can create and manage multimedia ads in search campaigns from the [!UICONTROL Campaigns] view and using bulksheets. The ads have the creative type "[!UICONTROL Multimedia ad]."<br><br>You can include campaigns with multimedia ads in either standard portfolios or hybrid portfolios with any spend strategy except for [!UICONTROL Target Impression Share] (which isn't yet supported in hybrid portfolios).<br><br>You can view your existing audience campaigns, with performance data in table and trend chart format, in the [!UICONTROL Campaigns] view. Ad-level performance data is also available in reports and in [!DNL Analytics] (for advertisers with an [!DNL Analytics] integration). |
+| [!UICONTROL Audiences], [!UICONTROL Reports] | (Beta feature for [!DNL Microsoft&reg; Advertising] accounts) Your [!DNL Microsoft&reg; Advertising] dynamic remarketing audiences are now synced and available in [!UICONTROL Campaigns] > [!UICONTROL Audiences] with the [!UICONTROL Audience Type] "[!UICONTROL Dynamic Remarketing] <*VisitorType*>" (such as "Dynamic Remarketing Past Buyers"). You can also create, update, and delete dynamic remarketing audiences.<br><br>You can use the audiences as campaign-level and ad group-level ad targets and exclusions. Targets can include bid modifiers. **Note:** Bid modifiers for dynamic remarketing audience targets aren't optimized in portfolios with the "[!UICONTROL Auto-optimize Bid Adjustment Values]" setting.<br><br>Data for dynamic remarketing audiences is available in the [!UICONTROL Audience Target Report]. |
 
 {style="table-layout:auto"}
 
