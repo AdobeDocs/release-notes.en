@@ -21,7 +21,7 @@ This page provides access to Experience Cloud product release notes pages and th
 
 Latest update: **November 17, 2022**
 
-* [[!DNL Experience League] events](#events)
+* [[!DNL Experience League] events](#events) (Updated **November 17**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - central interface components & administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -49,16 +49,13 @@ Need help? Visit [Experience League](https://experienceleague.adobe.com/#home) f
 
 Experience League events are a great place to learn, interact, and get answers from product experts at Adobe!
 
-Upcoming events include:
+Upcoming events:
 
-* **[!DNL Journey Optimizer]:** October 25 - _Deliver the right offer at the right time with decision management_
-* **[!DNL Workfront]:** October 25 - _Ask the Experts: Workflow & Process Design Webinar Follow-Up_
-* **[!DNL Analytics]:** November 3 - _Adobe Analytics Champions' tips and tricks_
-* **[!DNL Workfront]:** November 4 - _Adobe Workfront Admin Chat: Marketing & Creative_
-* **[!DNL Experience Manager]:** November 9 - _Adobe Developers Live: Headless_
-* **[!DNL Workfront]:** November 9 - _Workfront Wednesday - Community Chat_
+* [Adobe Target Coffee Break](https://adobe.ly/3WoLYth) - **November 29** - _Community Q&A Coffee Break with Cristinel Anastasoaie_
+* [Customer Workshop](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,CV1iKNbpLkqKFF9xESyysw,DFfNviE55k6tMl7RsYoJyg,NMXSALzWBEqnKt-XKOQe2A?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **December 1** - _Ask the Experts - Successful End User Adoption Webinar Follow-Up_
+* [Q&A Chat](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,evNBdl6GCUSeWZPl_YjiaA,-4QZcyQkLk2L361yaZCMQQ,N-B6dyCjH0u4kNYfAxueNg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **December 5** - _CS Connections - Sharing Strategic Best Practices_
 
-To stay updated, see [Events on Experience League](https://experienceleague.adobe.com/events/?lang=en) for upcoming and past events.
+For a complete events schedule, see [Events on Experience League](https://experienceleague.adobe.com/events/?lang=en).
 
 ## ![Icon](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
