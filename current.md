@@ -19,9 +19,9 @@ As an Experience Maker, your path to success starts with [Experience League](htt
 
 This page provides access to Experience Cloud product release notes pages and the latest tutorials, courses, and events on Experience League.
 
-Latest update: **November 29, 2022**
+Latest update: **December 7, 2022**
 
-* [[!DNL Experience League] events](#events) (Updated **November 17**)
+* [[!DNL Experience League] events](#events) (Updated **December 7**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - central interface components & administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -51,9 +51,9 @@ Experience League events are a great place to learn, interact, and get answers f
 
 Upcoming events:
 
-* [Adobe Target Coffee Break](https://adobe.ly/3WoLYth) - **November 29** - _Community Q&A Coffee Break with Cristinel Anastasoaie_
-* [Customer Workshop](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,CV1iKNbpLkqKFF9xESyysw,DFfNviE55k6tMl7RsYoJyg,NMXSALzWBEqnKt-XKOQe2A?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **December 1** - _Ask the Experts - Successful End User Adoption Webinar Follow-Up_
-* [Q&A Chat](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,evNBdl6GCUSeWZPl_YjiaA,-4QZcyQkLk2L361yaZCMQQ,N-B6dyCjH0u4kNYfAxueNg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **December 5** - _CS Connections - Sharing Strategic Best Practices_
+* [Adobe Target Webinar](https://personalizationwebinars.dxfieldmarketing.adobeevents.com/) - **December 8** - _How Automated Personalization provides dynamic personalized experiences at each visit_
+* [Adobe Workfront Q&A Chat](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,yYI06x24dkKhvGDSxMBXmw,lRaaz_Liok-58YBZhbX8hg,FdRnpmqR8kqOo_X3kTZuxQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **December 12** - _Ask the Experts: Navigating Change Management Webinar Follow-Up_
+* [Adobe Workfront Customer Workshop](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **December 21** - _Join the Customer Success team for a 1-hour discussion to review trending topics from the Workfront Community._
 
 For a complete events schedule, see [Events on Experience League](https://experienceleague.adobe.com/events/?lang=en).
 
@@ -81,7 +81,7 @@ Experience Cloud [central UI components](https://experienceleague.adobe.com/docs
 
 Latest release information and new documentation for [!DNL Experience Platform] and [!UICONTROL Mobile SDK]:
 
-Latest release: **October 26, 2022**
+Latest release: **November 23, 2022**
 
 * [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
 
@@ -101,11 +101,7 @@ Updated: **October 19, 2022** - See [Release notes and change logs](https://aep-
 
 ## ![Icon](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-November's release: **October 26, 2022**
-
->[!NOTE]
->
->November release notes will be available on **October 26, 2022**.
+Latest update: **November 18, 2022**
 
 * Adobe Analytics [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en)
 * Adobe Analytics [product documentation and tutorials](https://experienceleague.adobe.com/docs/analytics.html)
