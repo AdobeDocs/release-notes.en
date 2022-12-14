@@ -232,8 +232,7 @@ New videos, tutorials, and courses published over the past month.
 
 |Published|Name|Type|Description |Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
-|December 2022|[Persisted GraphQL queries](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/graphql-api/persisted-queries.html)|Video |Learn how to to persist GraphQL queries in Adobe Experience Manager as a Cloud Service to optimize performance.
- |AEM CS |
+|December 2022|[Persisted GraphQL queries](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/graphql-api/persisted-queries.html)|Video |Learn how to to persist GraphQL queries in Adobe Experience Manager as a Cloud Service to optimize performance.|AEM CS |
 |December 2022|[Filtering React app code sample](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/fitlering-react-app.html)|Video |A simple React app that displays WKND adventures modeled using Content Fragments.|AEM Headless Developer Portal |
 |December 2022|[Basic React app](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/basic-react-app.html)|Video |Learn how to query content using AEM's GraphQL APIs using persisted queries. This application renders a filterable of WKND Adventures, and upon selecting an adventure, displays the adventures full details.|AEM Headless Developer Portal |
 |December 2022|[Filtering jQuery and Handlebars code sample](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html)|Video |Explore AEM Headless GraphQL APIs ability to filter data using a JavaScript app that uses jQuery and Handlebars. This app creates a list of WKND adventures filterable by Activity Type.|AEM Headless Developer Portal  |
