@@ -19,7 +19,7 @@ As an Experience Maker, your path to success starts with [Experience League](htt
 
 This page provides access to Experience Cloud product release notes pages and the latest tutorials, courses, and events on Experience League.
 
-Latest update: **December 7, 2022**
+Latest update: **December 14, 2022**
 
 * [[!DNL Experience League] events](#events) (Updated **December 7**)
 * [[!DNL Adobe System Status]](#status)
@@ -51,9 +51,10 @@ Experience League events are a great place to learn, interact, and get answers f
 
 Upcoming events:
 
-* [Adobe Target Webinar](https://personalizationwebinars.dxfieldmarketing.adobeevents.com/) - **December 8** - _How Automated Personalization provides dynamic personalized experiences at each visit_
-* [Adobe Workfront Q&A Chat](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,yYI06x24dkKhvGDSxMBXmw,lRaaz_Liok-58YBZhbX8hg,FdRnpmqR8kqOo_X3kTZuxQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **December 12** - _Ask the Experts: Navigating Change Management Webinar Follow-Up_
+* [Adobe Workfront Customer Workshop - End of Year Reporting](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,kHWkCzk8E02pkY69r4KyyA,h_vw3D5bJkC7m6npGnBT0g,AVwLZha25kiVn7YzI6k8lA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **December 15** - _Join us for an interactive discussion on how to best leverage reports in Workfront to share your end of year narrative, including a hands-on demo._
 * [Adobe Workfront Customer Workshop](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **December 21** - _Join the Customer Success team for a 1-hour discussion to review trending topics from the Workfront Community._
+* [Admin Chat: Marketing & Creative](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **January 6** - _This interactive session is geared towards connecting you with other admins, discussing best practices as well as tips and tricks to help you get the most out of Workfront for you and your users._
+* [CS Connections: Sharing Strategic Best Practices](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **January 9** - _Looking for an opportunity to connect with other customers and discuss Workfront features? Join our CS Connections series! A monthly opportunity to connect with other customers to discuss your organization's hot topics._
 
 For a complete events schedule, see [Events on Experience League](https://experienceleague.adobe.com/events/?lang=en).
 
@@ -231,6 +232,8 @@ New videos, tutorials, and courses published over the past month.
 
 |Published|Name|Type|Description |Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
+|December 2022|[Persisted GraphQL queries](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/graphql-api/persisted-queries.html)|Video |Learn how to to persist GraphQL queries in Adobe Experience Manager as a Cloud Service to optimize performance.
+ |AEM CS |
 |December 2022|[Filtering React app code sample](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/fitlering-react-app.html)|Video |A simple React app that displays WKND adventures modeled using Content Fragments.|AEM Headless Developer Portal |
 |December 2022|[Basic React app](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/basic-react-app.html)|Video |Learn how to query content using AEM's GraphQL APIs using persisted queries. This application renders a filterable of WKND Adventures, and upon selecting an adventure, displays the adventures full details.|AEM Headless Developer Portal |
 |December 2022|[Filtering jQuery and Handlebars code sample](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/filtering-jquery-handlebars.html)|Video |Explore AEM Headless GraphQL APIs ability to filter data using a JavaScript app that uses jQuery and Handlebars. This app creates a list of WKND adventures filterable by Activity Type.|AEM Headless Developer Portal  |
@@ -424,6 +427,7 @@ New [!DNL Workfront] course and collections of tutorials on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
+|December 2022|[Create ADDDAYS, ADDWEEKDAY, ADDMONTHS, ADDYEARS expressions](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/create-adddays-addweekdays-addmonths-addyears-expressions.html?lang=en)|Updated video |Learn how to use and create the ADD expressions in a calculated field in Adobe Workfront.|
 |October 2022|[Add and edit column settings on a board](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/agile/boards/add-and-edit-column-settings-on-a-board.html?lang=en)|Video |Learn how to add and edit columns settings in a board.|
 |October 2022|[Advanced reporting](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en)|Video |Learn how to use the API Explorer and text mode to create advanced filters, views, and groupings that go beyond the capabilities of the Reporting UI.|
 
