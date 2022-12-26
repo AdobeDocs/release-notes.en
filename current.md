@@ -19,7 +19,7 @@ As an Experience Maker, your path to success starts with [Experience League](htt
 
 This page provides access to Experience Cloud product release notes pages and the latest tutorials, courses, and events on Experience League.
 
-Latest update: **December 14, 2022**
+Latest update: **December 26, 2022**
 
 * [[!DNL Experience League] events](#events) (Updated **December 7**)
 * [[!DNL Adobe System Status]](#status)
@@ -51,8 +51,6 @@ Experience League events are a great place to learn, interact, and get answers f
 
 Upcoming events:
 
-* [Adobe Workfront Customer Workshop - End of Year Reporting](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,kHWkCzk8E02pkY69r4KyyA,h_vw3D5bJkC7m6npGnBT0g,AVwLZha25kiVn7YzI6k8lA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **December 15** - _Join us for an interactive discussion on how to best leverage reports in Workfront to share your end of year narrative, including a hands-on demo._
-* [Adobe Workfront Customer Workshop](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **December 21** - _Join the Customer Success team for a 1-hour discussion to review trending topics from the Workfront Community._
 * [Admin Chat: Marketing & Creative](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **January 6** - _This interactive session is geared towards connecting you with other admins, discussing best practices as well as tips and tricks to help you get the most out of Workfront for you and your users._
 * [CS Connections: Sharing Strategic Best Practices](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **January 9** - _Looking for an opportunity to connect with other customers and discuss Workfront features? Join our CS Connections series! A monthly opportunity to connect with other customers to discuss your organization's hot topics._
 
@@ -102,7 +100,7 @@ Updated: **October 19, 2022** - See [Release notes and change logs](https://aep-
 
 ## ![Icon](/assets/analytics.png) [!DNL Adobe Analytics] {#analytics}
 
-Latest update: **November 18, 2022**
+Next release: **January 11, 2023**
 
 * Adobe Analytics [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en)
 * Adobe Analytics [product documentation and tutorials](https://experienceleague.adobe.com/docs/analytics.html)
@@ -130,7 +128,7 @@ New video tutorials, articles, and courses published for Adobe Analytics.
 
 ## ![Icon](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
 
-Next release: **October 26, 2022**
+Next release: **January 11, 2023**
 
 >[!NOTE]
 >
