@@ -170,59 +170,91 @@ Adobe recommends visiting the following resources to stay updated on release inf
 * [Experience Manager as a Cloud Service release updates](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=en) - Watch feature video overviews of current and past releases of [!DNL Experience Manager as a Cloud Service].
 * [Current Release Notes for Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en) - Read the latest release notes for [!DNL Experience Manager as a Cloud Service].
 
+### Release videos
+
+  Watch the [October 2022 Release Overview video](https://images-tv.adobe.com/mpcv3/6598/f98f7d11-bfc2-49c6-becf-82ae84e06207_1665697595.854x480at800_h264.mp4) for a summary of the features added in the 2022.10.0 (October 2022) release.
+
 ### Experience Manager [!DNL Sites] as a [!DNL Cloud Service]
 
-_New features in AEM Sites_
+_New features_
 
-The [!UICONTROL Email] component allows the creation of content in AEM that is then delivered as emails via [!DNL Campaign Classic]. The [!UICONTROL Core Email Component]:
-
-* Is based on the [Core WCM Component](https://github.com/adobe/aem-core-wcm-components) which supports Editable Templates and the Style System.
-
-* Provides ten email-optimized production-ready components (Page, Container, Title, Text, Image, Button, Teaser, Experience Fragment, Content Fragment, Segmentation).
-
-* Provides advanced personalization and segmentation, thanks to the [insertion of Campaign variables](https://github.com/adobe/aem-core-email-components/wiki/RTE-Personalization) on most dialog fields, and to the flexible [Segmentation component](https://github.com/adobe/aem-core-email-components/wiki/(Technical-Documentation)).
-
-* Provides optimal email-friendly HTML output, thanks to the [CSS styles inliner](https://github.com/adobe/aem-core-email-components/wiki/HTML-Inliner:-Technical-documentation), the [HTML attribute inliner](https://github.com/adobe/aem-core-email-components/wiki/HTML-Inliner:-Technical-documentation), and the [HTML sanitizer](https://github.com/adobe/aem-core-email-components/wiki/HTML-sanitizing:-Technical-documentation).
-
-* Allows the creation of the emails anywhere.
-
-_New features available in [!DNL Sites] prerelease channel_
-
-* The [Content Fragment Console](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=en) provides users with an option to display the total number of language copies associated with a content fragment. A one-click access has been provided to view all the language copies as well. Users are also able to filter the table view by the locale of their interest.
+* The [Personalization Tab for Experience Fragments](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/authoring/fundamentals/experience-fragments.html?lang=en#personalization-experience-fragment) allows segmentation specification capabilities to the Experience Fragment Editor and the flexibility to create nested Experience Fragments whereby headers and footers variations can be created for multiple segments. Before the launch of this feature, personalization offered by AEM is only available for site pages, but not for Experience Fragments
+* The [Content Fragment Console](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html) now lets users efficiently manage translated content fragments. A 1-click access is now available to view all the language copies, too. Users can also filter the table view by the locale of their interest.
+* Further reduce page load time for visitors by optimizing image sizes settings in templates. Find more information for the image component at [Core WCM Component](https://github.com/adobe/aem-core-wcm-components).
 
 ### Experience Manager [!DNL Assets] as a [!DNL Cloud Service]
 
-_New features in [!DNL Assets]_
+_New feature_
 
-* You can now configure Adobe Experience Manager Assets to [restrict the type of assets that users can upload based on the MIME type](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/configure-asset-upload-restrictions.html?lang=en).
+* Experience Manager Assets now lets you upload documents in other supported format types and [preview them using the included Document Cloud viewer](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-pdf-documents.html). The supported format types include TXT, RTF, DOC, DOCX, PPT, PPTX, XLS, and XLSX.
+
+_New feature available in prerelease channel_
+
+* Experience Manager Assets now uses an improved artificial intelligence framework for image Smart Tags. This content intelligence results in better relevancy and precision of Smart Tags available to all image assets on ingestion. In addition, orientation information is populated in `cq:tags`, which enables better Search results using the Orientation filter.
+* Experience Manager Assets now [supports SAS Token](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/add-assets.html?lang=en#asset-bulk-ingestor) in addition to the Access Key for authentication while connecting to Azure Blob Storage data source for ingesting assets using the Bulk Import tool. 
 
 ### Experience Manager [!DNL Forms] as a [!DNL Cloud Service]
 
 _New features_
 
-[Adaptive Forms wizard](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/create-an-adaptive-form-on-forms-cs/creating-adaptive-form.html?lang=en): [!DNL AEM Forms] provides business user friendly wizard to quickly author [!UICONTROL Adaptive Forms]. The wizard has a quick tab navigation to easily select pre-configured template, styling, fields, and submission options to create an adaptive form. This release brings following improvements to the wizard:
-
-* **Select or deselect fields:** The wizard allows you to create an Adaptive Form based on JSON and Form Data Model schemas. You can now select subset of fields within a schema to include in an Adaptive Form. The selected fields are converted to corresponding Adaptive Form data capture components to quickly create the desired adaptive forms.
-
-* **Use Static Templates:** Customers with existing investments in legacy static templates can continue their journey of cloud adoption by using static templates in wizard to author adaptive forms. This provides additional time to customers to migrate old static templates to modern editable templates.
-
+* [Adaptive Forms wizard](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/create-an-adaptive-form-on-forms-cs/creating-adaptive-form.html?lang=en): Experience Manager Forms provides business user friendly wizard to quickly author Adaptive Forms. The wizard has a quick tab navigation to easily select pre-configured template, styling, fields, and submission options to create an adaptive form. This release brings following improvements to the wizard:
+    * Select or deselect fields: The wizard allows you to create an Adaptive Form based on JSON and Form Data Model schemas. You can now select subset of fields within a schema to include in an Adaptive Form. The selected fields are converted to corresponding Adaptive Form data capture components to quickly create the desired adaptive forms.
+    * Use Static Templates: Customers with existing investments in legacy-static templates can continue their journey of cloud adoption by using static templates in the wizard to author adaptive forms. This provides additional time to customers to migrate old static templates to modern editable templates.
 * [Remove hidden fields from a Document of Record (DoR) while server-side processing](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html?lang=en): You can generate the document of record PDF for end users containing only those fields which were visible to them during data capture experience. Upon form submission, the server validates which fields were hidden to the end user based on submitted data and excludes from document of record for consistency.
 
-### Cloud Manager
+_New features available in prerelease channel_
 
-* [!DNL AEM Guides] can now be configured in a self-service manner on Sandbox programs.
+* **Adaptive Forms template editor** - Template editor lets you pre-define the basic structure and appearance of Adaptive Forms of an organization. This release brings following improvements to the template editor:
+    * **[Form Data Model in template editor](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/create-an-adaptive-form-on-forms-cs/creating-adaptive-form.html?lang=en#edit-form-model-properties-of-an-adaptive-form-edit-form-model)** - You can associate a Form Data Model schema to an Adaptive Form template in the template editor. It helps reduce the time taken to create an Adaptive Form. The option is also added to Adaptive Forms editor to let users select or change Form Data Model for existing forms.
+    * **[Document of Record in template editor](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html?lang=en#document-of-record-support-in-adaptive-form-editor-dor-support-in-adaptiveform)** - You can now standardize Document of Record generation for all forms created using a template. This ability helps enhance compliance and standardization for organization requirements.
+* **[Launch the Adaptive Form wizard from a AEM Sites Page](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/embed-adaptive-form-aem-sites.html?lang=en)** - AEM Sites page has extended support for Adaptive Forms. You can now create a new Adaptive Form or embed an existing Adaptive Form while remaining on AEM Sites page.
+* **[Change display alignment for checkboxes and radio button in Document of Record](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html?lang=en#customize-the-branding-information-in-document-of-record-customize-the-branding-information-in-document-of-record)**: You can now set the desired alignment ([!UICONTROL Horizontal], [!UICONTROL Vertical], {!UICONTROL Same as Adaptive Forms]) for checkbox and radio button on the [!UICONTROL Document of Record]. This option determines the positioning of checkbox and radio button options in the Document of Record.
 
-* Customers without any [!DNL Cloud Manager] role cannot access program details. They can however, navigate to Author end points from [!DNL Cloud Manager] landing pages.
+### Experience Manager as a [!DNL Cloud Service] Foundation
 
-* Customers can set up **Incident and Proactive notification** groups to hear from Adobe about incidents or recommendations related to their AEMaaCS application. See [User Group for Notifications](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/journey/user-groups.html?lang=en) for more details.
+_New features_
 
-* **[!UICONTROL Add Program Affordance]** in the UI consistently provides tool tips when it is disabled due to permission or entitlement related reasons.
+* Experience Manager as a Cloud Service (Author Service) is now integrated with Unified Shell to improve the user experience and unify it with all the other Experience Cloud applications. See Experience Manager as a [Cloud Service on Unified Shell](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/what-is-new-and-different.html?lang=en#aem-updates) for more details.
+* As previously mentioned in the release notes, using the replication agent administrator screen or replication API for distributing content packages larger than 10 MB (nodes with properties, not including binaries) is deprecated. This limit will be enforced in the coming days. See [Manage Publication](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/replication.html?lang=en#manage-publication) or the [Publish Content Tree workflow](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/replication.html?lang=en#publish-content-tree-workflow) for the suggested approaches for replicating these large content packages.
+* Dispatcher configuration now references a file that lists common marketing campaign query parameters. Customers can choose to uncomment the parameters that are relevant to them, resulting in better caching. See [Marketing campaign parameters](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/caching.html?lang=en#marketing-parameters) for more details.
 
-### [!DNL Workfront] for Experience Manager enhanced connector
+### [!DNL Cloud Manager]
 
-The latest version (1.9.3) of [!DNL Workfront] for Experience Manager enhanced connector was made available on **September 16, 2022**. See [Release Notes](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/workfront/release-notes-enhanced-connector-workfront.html?lang=en) for more information.
+_New features_
 
-Adobe recommends you to [upgrade to the latest 1.9.3 version](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/update-workfront-enhanced-connector.html?lang=en) of the Workfront for Experience Manager enhanced connector.
+* Notifications for Experience Manager maintenance updates now appear in the Cloud Manager user interface. This change is being rolled out in a phased manner in the weeks following the 2022.12.0 release.
+* When an ingestion by way of the CTT (Content Transfer Tool) is in progress, the environment status in both the developer console and in Cloud Manager now displays as _Ingestion in Progress_.
+* Improvements to the availability and reliability of Cloud Manager pipelines were made.
+
+### [!DNL Workfront] for Experience Manager enhanced connector 
+
+The release date for the latest version 1.9.6 of the [!DNL Workfront] for Experience Manager enhanced connector was December 09, 2022. See the [Release Notes](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/workfront/release-notes-enhanced-connector-workfront.html?lang=en) for more information.
+
+The latest version of the [!DNL Workfront] for Experience Manager enhanced connector includes the following enhancements and bug fixes:
+
+**Enhancement**
+
+* [!DNL Workfront] enhanced connector now supports performing full-text search on assets and folders.
+
+**Bug fixes**
+
+* The Document Version metadata does not synchronize appropriately between [!DNL Workfront] and Experience Manager.
+* Issues while creating a folder that is linked to Experience Manager in [!DNL Workfront] when the folder is using a schema that is missing definition in the global configuration.
+* The metadata schema editor form stops responding when you click any field due to a load time that is longer than expected. Added specific OSGi configuration for custom forms to resolve the issue. The names of the custom forms that you add to the metadata schema editor are available in the logs.
+
+>[!IMPORTANT]
+>
+>Adobe recommends that you to upgrade to the latest 1.9.6 version of the [!DNL Workfront] for Experience Manager enhanced connector.
+
+### Community
+
+* **Upcoming Experience Manager GEMs webinar:** _Experience Manager Best Practices Analyzer for On-premise and AMS (Adobe Manage Services) environments_
+  
+    * Wednesday, January 18, 2023
+    * [Register for webinar](https://bit.ly/3iaHxTs)
+    * [Ask questions](https://bit.ly/3Z6AyM1)
+
+* Welcome to Adobe Experience Manager Community. [Introduce yourself](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/new-welcome-to-aem-community-please-introduce-yourself/ba-p/235306)!
 
 ### New Experience Manager courses and tutorials {#tutorials-aem}
 
@@ -248,6 +280,7 @@ New videos, tutorials, and courses published over the past month.
 
 All Experience Manager release notes are maintained at the following pages:
 
+* [Experience Manager as a Cloud Service release information](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=en)
 * [Adobe Experience Manager as a Cloud Service release updates](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=en)
 * [Current Release Notes for Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en)
 * [Experience Manager as a Cloud Service release information](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=en)
