@@ -365,6 +365,7 @@ New videos, tutorials, or courses published for Adobe Campaign.
 
 {style="table-layout:auto"}
  -->
+
 ### Campaign help resources
 
 * Adobe Campaign v8: [Documentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) - [Implementation Guides](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/implement.html)
@@ -539,7 +540,7 @@ See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com
 
 [Digital Experience Blueprints](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=en) are repeatable implementations that let you address strategy and quickly solve established business problems. Each Blueprint provides a series of artifacts that explain the high-value business problem, architectures, implementation steps, technical considerations, and links to the relevant documentation.
 
-### New Digital Experience Blueprints tutorials {#blueprints}
+### New Digital Experience Blueprints tutorials
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
