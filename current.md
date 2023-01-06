@@ -19,9 +19,9 @@ As an Experience Maker, your path to success starts with [Experience League](htt
 
 This page provides access to Experience Cloud product release notes pages and the latest tutorials, courses, and events on Experience League.
 
-Latest update: **December 26, 2022**
+Latest update: **January 6, 2022**
 
-* [[!DNL Experience League] events](#events) (Updated **December 7**)
+* [[!DNL Experience League] events](#events) (Updated **January 6**)
 * [[!DNL Adobe System Status]](#status)
 * [Experience Cloud - central interface components & administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -51,8 +51,10 @@ Experience League events are a great place to learn, interact, and get answers f
 
 Upcoming events:
 
-* [Admin Chat: Marketing & Creative](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **January 6** - _This interactive session is geared towards connecting you with other admins, discussing best practices as well as tips and tricks to help you get the most out of Workfront for you and your users._
-* [CS Connections: Sharing Strategic Best Practices](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **January 9** - _Looking for an opportunity to connect with other customers and discuss Workfront features? Join our CS Connections series! A monthly opportunity to connect with other customers to discuss your organization's hot topics._
+* [Admin Chat: Marketing & Creative](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **January 6** - _This interactive session is geared towards connecting you with other admins, discussing best practices as well as tips and tricks to help you get the most out of [!DNL Workfront] for you and your users._
+* [CS Connections: Sharing Strategic Best Practices](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **January 9** - _Looking for an opportunity to connect with other customers and discuss [!DNL Workfront] features? Join our CS Connections series! A monthly opportunity to connect with other customers to discuss your organization's hot topics._
+* [What's New in [!DNL Adobe Workfront] 23.1](https://webinars.on24.com/adobe_workfront/whatsnewin231?partnerref=EXL) - **January 10** - _Join the [!DNL Adobe Workfront] product team to learn more about upcoming features and enhancements in our latest release._ 
+* [AEM Best Practices Analyzer for on premise & AMS environments](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-aem-best-practices-analyzer-for-on-premise-ams-environments/) - **January 18** - _Learn about the Adobe Experience Manager Best Practices Analyzer tool that provides analysis and reporting capabilities regarding AEM on-premise & AMS instances. Note that it is not applicable to AEM as a Cloud Service._
 
 For a complete events schedule, see [Events on Experience League](https://experienceleague.adobe.com/events/?lang=en).
 
