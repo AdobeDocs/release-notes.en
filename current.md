@@ -506,6 +506,7 @@ New tutorials and courses published for Adobe Document Cloud, including [!DNL Do
 
 |Published|Name|Type|Description |Application|
 | -----------| ---------- | ---------- | ---------- |---------- |
+|January 2023|[Protect PDFs using Microsoft Purview Information sensitivity labels](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/microsoftsensitivitylabels.html?lang=en)|Video |Learn how to protect PDFs by adding, editing, customizing, and deleting Microsoft Purview Information sensitivity labels directly in Acrobat.|Acrobat|
 |January 2023|[Get a digital ID from Intesi Group (Qualified)](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/intesi/intesi-qualified.html)|Updated video |Learn how to obtain a qualified digital signing certificate from Intesi Group. Once registered and your identity is verified, Intesi Group issues you with a digital ID that is used to apply an Acrobat Sign cloud signature.|Adobe Sign |
 |December 2022|[Set deadlines and reminders](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/set-deadlines-reminders.html?lang=en)|Video |Learn how to send regular email reminders and deadlines to help get your documents signed quickly.|Acrobat Sign |
 
