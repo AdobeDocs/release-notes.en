@@ -519,7 +519,7 @@ For Document Cloud help, see:
 
 ## ![Icon](/assets/creative-cloud-24.png) Adobe Creative Cloud for enterprise {#creative-cloud}
 
-New videos, tutorials, or courses published for Adobe Campaign.
+New videos, tutorials, or courses published for Adobe Creative Cloud for enterprise.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
