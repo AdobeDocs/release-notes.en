@@ -343,8 +343,8 @@ New features and content available for [!DNL Adobe Commerce].
 
 ## ![Icon](/assets/target.png) [!DNL Adobe Target] {#target}
 
-* For pre-release information, see [Adobe Target prerelease](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en)
-* For current information, see [Adobe Target release notes](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=en)
+* For pre-release information, see `[Adobe Target prerelease](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en)`
+* For current information, see `[Adobe Target release notes](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=en)`
 
 ## ![Icon](/assets/campaign.png) [!DNL Adobe Campaign] {#ac}
 
