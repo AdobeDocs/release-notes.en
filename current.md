@@ -7,7 +7,7 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
-# INTERNAL REVIEW - Adobe Experience Cloud Release Notes - January 2023
+# Adobe Experience Cloud Release Notes - January 2023
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
@@ -19,7 +19,7 @@ As an Experience Maker, your path to success starts with [Experience League](htt
 
 This page provides access to Experience Cloud product release notes pages and the latest tutorials, courses, and events on Experience League.
 
-Latest update: **January 9, 2023**
+Latest update: **January 11, 2023**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -51,9 +51,6 @@ Experience League events are a great place to learn, interact, and get answers f
 
 Upcoming events:
 
-* [Admin Chat: Marketing & Creative](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,rt0Knsqbf0qXnCBbrsMKsQ,dwwihmlWl0aM4Se6G4bXTQ,_C3JizOF1USDb_UKZOC2rg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **January 6** - _This interactive session is geared towards connecting you with other admins, discussing best practices as well as tips and tricks to help you get the most out of [!DNL Workfront] for you and your users._
-* [CS Connections: Sharing Strategic Best Practices](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Kn3p9Ut9vkCcycuFzBOJ4Q,5uLGVo1-uUS0_PY7S6QjmQ,vwcqrDXgIUyCK-lPjko8zA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) - **January 9** - _Looking for an opportunity to connect with other customers and discuss [!DNL Workfront] features? Join our CS Connections series! A monthly opportunity to connect with other customers to discuss your organization's hot topics._
-* [What's New in [!DNL Adobe Workfront] 23.1](https://event.on24.com/wcc/r/3995983/A5FC731C36313CE081AEBB3B1AA39C77?partnerref=EXL) - **January 10** - _Join the [!DNL Adobe Workfront] product team to learn more about upcoming features and enhancements in our latest release._ 
 * [AEM Best Practices Analyzer for on premise & AMS environments](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-aem-best-practices-analyzer-for-on-premise-ams-environments/) - **January 18** - _Learn about the Adobe Experience Manager Best Practices Analyzer tool that provides analysis and reporting capabilities regarding AEM on-premise & AMS instances. It is not applicable to AEM as a Cloud Service._
 * [Adobe Experience League Live: Data collection highlights and roadmap](https://www.youtube.com/watch?v=Gj_FDCMgU8I) - **January 26** - _Data collection is all-important at Adobe! You need to be able to trust the data you work with. We've had an eventful last year with releases and have great things coming up. In this live stream event, join data collection experts to get a recap on important recent updates, as well as a glimpse into upcoming roadmap items._[Details & registration](https://engage.adobe.com/ExpLeagueLive-230126.html).
 
