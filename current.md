@@ -38,7 +38,7 @@ Latest update: **January 11, 2023**
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [[!DNL Adobe Advertising Cloud]](#adcloud)
+* [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [Digital Experience Blueprints - tutorials](#blueprints)
@@ -445,29 +445,29 @@ New [!DNL Workfront] course and collections of tutorials on Experience League.
 
 See the [[!DNL Workfront] product releases](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html) page for a round-up of the latest information for all products.
 
-## ![Icon](/assets/advertising-cloud.png) Adobe Advertising Cloud {#adcloud}
+## ![Icon](/assets/advertising-cloud.png) Adobe Advertising {#advertising}
 
-Release notes for [!DNL Adobe Advertising Cloud].
+Release notes for [!DNL Adobe Advertising].
 
-<!-- * [New features across [!DNL Advertising Cloud]](#adcloud-all) -->
-* [New features in [!DNL Advertising Cloud DSP]](#adcloud-dsp)
-* [New features in [!DNL Advertising Cloud Search]](#adcloud-search)
-<!-- * [New [!DNL Advertising Cloud] tutorials](#tutorials-ad-cloud) -->
+<!-- * [New features across [!DNL Advertising]](#advertising-all) -->
+* [New features in [!DNL Advertising DSP]](#advertising-dsp)
+* [New features in [!DNL Advertising Search]](#advertising-search)
+<!-- * [New [!DNL Advertising] tutorials](#tutorials-advertising) -->
 
 <!--
-### New features across [!DNL Advertising Cloud] {#adcloud-all}
+### New features across [!DNL Advertising] {#advertising-all}
 
 Last updated: **August 9, 2022**
 
 | Feature | Description |
 | ------- | ----------- |
-| Integration with [!DNL Adobe Analytics] | (August 6 release) Improvements to the data feed that Advertising Cloud sends to [!DNL Analytics] result in fewer mismatches between click/cost/impression data from the search engines and related conversion data in [!DNL Analytics]. |
+| Integration with [!DNL Adobe Analytics] | (August 6 release) Improvements to the data feed that Advertising sends to [!DNL Analytics] result in fewer mismatches between click/cost/impression data from the search engines and related conversion data in [!DNL Analytics]. |
 
 {style="table-layout:auto"}
 
 -->
 
-### New features in [!DNL Advertising Cloud DSP] {#adcloud-dsp}
+### New features in [!DNL Advertising DSP] {#advertising-dsp}
 
 Last updated: **November 23, 2022**
 
@@ -477,7 +477,7 @@ Last updated: **November 23, 2022**
 
 {style="table-layout:auto"}
 
-### New features in [!DNL Advertising Cloud Search] {#adcloud-search}
+### New features in [!DNL Advertising Search] {#advertising-search}
 
 Last updated: **January 10, 2022**
 
