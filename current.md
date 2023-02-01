@@ -327,7 +327,7 @@ New features and content available for [!DNL Adobe Commerce].
 |January 2023|[Configuration Reference Guide](https://experienceleague.adobe.com/docs/commerce-admin/config/guide-overview.html)|New documentation |Review descriptive information for all Commerce Admin store configuration settings organized by the configuration tabs, pages, and sections.|
 |January 2023|[Get started with GraphQL for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-learn/graphql-rest/getting-started-graphql.html)|Video |Discover how to use GraphQL on Adobe Commerce and Magento Open Source. Learn about using queries, mutations, and schemas.|
 |January 2023|[Live Search for recommendations](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html)|Video |Learn how to add Live Search for product recommendations to your store and produce highly engaging, relevant, and personalized shopping experiences.|
-|January 2023|[Quality Patches Tool(QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New documentation|New documentation for how to apply patches available in QPT 1.1.24 and QPT 1.1.25 were published and can be found in their respective sections.|
+<!-- |January 2023|[Quality Patches Tool(QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New documentation|New documentation for how to apply patches available in QPT 1.1.24 and QPT 1.1.25 were published and can be found in their respective sections.|-->
 
 {style="table-layout:auto"}
 
