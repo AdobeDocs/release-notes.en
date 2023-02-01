@@ -389,7 +389,7 @@ New videos, tutorials, or courses published for Adobe Campaign.
 {style="table-layout:auto"}
  -->
 
-### [!DNL Adobe Campaign Support Knowledge Base]
+### [!DNL Adobe Campaign] Support Knowledge Base
 
 New articles and updates to existing articles for [!DNL Adobe Campaign].
 
