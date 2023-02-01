@@ -148,7 +148,17 @@ Latest release: **September 22, 2022**
 
 ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
 
-_Not updated_
+<!--Rinn
+### Adobe Audience Manager Support Knowledge Base
+
+New articles published and updates for Adobe Audience Manager
+
+|Published|Name|Type|Description|
+|---------|--------|---------|---------|
+|January 2023|[Unable to Save Look-a-like Model](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21221.html)|New article| Unable to Save Look-a-like Model|
+|January 2023|[How are AEP Identity Namespaces related to AAM Data Sources?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21305.html)|New article|How are AEP Identity Namespaces related to AAM Data Sources?|
+|January 2023|[Unknown identity namespaces](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21306.html)|New article|Unknown identity namespaces|
+-->
 
 For self-help resources, see [Audience Manager documentation and tutorials](https://experienceleague.adobe.com/docs/audience-manager.html?lang=en) on Experience League.
 
@@ -285,6 +295,16 @@ All Experience Manager release notes are maintained at the following pages:
 * [Adobe Primetime release notes](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html)
 * [Livefyre release notes](https://experienceleague.adobe.com/docs/discontinued/using/livefyre.html)
 
+<!--Rinn
+### Adobe Experience Manager Support Knowledge Base
+
+New article published and updates for Adobe Experience Manager
+
+|Published|Name|Type|Description|
+|---------|--------|---------|---------|
+|January 2023|[The incoming links don't show all linking pages](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21308.html)|New article|The incoming links don't show all linking pages|
+|January 2023|[Examples of request.log analysis \| AEP](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21309.html)|New article|Examples of request.log analysis \| AEP|
+-->
 ### Other Help resources for Experience Manager
 
 * [Experience Manager as a Cloud Service Guides](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en)
@@ -401,6 +421,18 @@ New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 |November 2022|[Create dynamic content with the condition rule builder](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/create-dynamic-content.html?lang=en)|Video |Learn how to create and save condition rules and how to apply these condition rules to content across all channels.|
 
 {style="table-layout:auto"} -->
+
+<!--Rinn
+### Journey Optimizer Support Knowledge Base
+
+New articles published and updates for Adobe Journey Optimizer.
+
+|Published|Name|Type|Description|
+|---------|-------|--------|---------|
+|January 2023|[Test profile not trigger event journey](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21213.html)|New article|test profile not trigger event journey|
+|January 2023|[Assets Essentials access denied](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21212.html)|New article|Adobe Journey Optimizer: Assets Essentials access denied|
+|January 2023|[Publishing journey in test mode fails](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21210.html)|New article|Publishing journey in test mode fails|
+-->
 
 ### More resources for [!DNL Journey Optimizer]
 
