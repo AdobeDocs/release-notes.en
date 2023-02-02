@@ -208,7 +208,7 @@ _New features_
 
 * [Adaptive Forms wizard](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/create-an-adaptive-form-on-forms-cs/creating-adaptive-form.html?lang=en): Experience Manager Forms provides business user friendly wizard to quickly author Adaptive Forms. The wizard has a quick tab navigation to easily select pre-configured template, styling, fields, and submission options to create an adaptive form. This release brings following improvements to the wizard:
     * Select or deselect fields: The wizard allows you to create an Adaptive Form based on JSON and Form Data Model schemas. You can now select subset of fields within a schema to include in an Adaptive Form. The selected fields are converted to corresponding Adaptive Form data capture components to quickly create the desired adaptive forms.
-    * Use Static Templates: Customers with existing investments in legacy-static templates can continue their journey of cloud adoption by using static templates in the wizard to create adaptive forms. This provides additional time to customers to migrate old static templates to modern editable templates.
+    * Use Static Templates: Customers with existing investments in legacy-static templates can continue their journey of cloud adoption by using static templates in the wizard to author adaptive forms. This provides additional time to customers to migrate old static templates to modern editable templates.
 * [Remove hidden fields from a Document of Record (DoR) while server-side processing](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html?lang=en): You can generate the document of record PDF for end users containing only those fields which were visible to them during data capture experience. Upon form submission, the server validates which fields were hidden to the end user based on submitted data and excludes from document of record for consistency.
 
 _New features available in prerelease channel_
@@ -231,9 +231,9 @@ _New features_
 
 _New features_
 
-* Notifications for Experience Manager maintenance updates now appear in the Cloud Manager user interface. This change is being rolled out in a phased manner in the weeks following the 2022.12.0 release.
-* When an ingestion by way of the CTT (Content Transfer Tool) is in progress, the environment status in both the developer console and in Cloud Manager now displays as _Ingestion in Progress_.
-* Improvements to the availability and reliability of Cloud Manager pipelines were made.
+* Notifications for [Experience Manager maintenance updates](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/what-is-new-and-different.html?lang=en#aem-updates) now appear in the Cloud Manager user interface. This change is being rolled out in a phased manner in the weeks following the 2022.12.0 release.
+* When an ingestion by way of the [CTT (Content Transfer Tool)](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/overview-content-transfer-tool.html?lang=en) is in progress, the environment status in both the developer console and in Cloud Manager now displays as _Ingestion in Progress_.
+* Improvements to the availability and reliability of [Cloud Manager pipelines](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/introduction-ci-cd-pipelines.html?lang=en) were made.
 
 ### [!DNL Workfront] for Experience Manager enhanced connector 
 
@@ -253,17 +253,14 @@ The latest version of the [!DNL Workfront] for Experience Manager enhanced conne
 
 >[!IMPORTANT]
 >
->Adobe recommends that you to upgrade to the latest 1.9.6 version of the [!DNL Workfront] for Experience Manager enhanced connector.
+>Adobe recommends that you to [upgrade to the latest 1.9.6 version](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/update-workfront-enhanced-connector.html?lang=en) of the [!DNL Workfront] for Experience Manager enhanced connector.
+
 
 ### Community
 
-* **Upcoming Experience Manager GEMs webinar:** _Experience Manager Best Practices Analyzer for On-premise and AMS (Adobe Manage Services) environments_
-  
-  * Wednesday, January 18, 2023
-  * [Register for webinar](https://bit.ly/3iaHxTs)
-  * [Ask questions](https://bit.ly/3Z6AyM1)
-
-* Welcome to Adobe Experience Manager Community. [Introduce yourself](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/new-welcome-to-aem-community-please-introduce-yourself/ba-p/235306)!
+* **Upcoming Experience Manager GEMs webinar:** _Accelerating Experience Manager as a Cloud Service development with Rapid Development Environments_. [Register here](https://bit.ly/3x1Cl8x).
+* **Recorded Experience Manager GEMs webinar:** _Experience Manager Best Practices Analyzer for On-premise and AMS (Adobe Manage Services) environments_ is [now available](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-aem-best-practices-analyzer-for-on-premise-amp-ams/ba-p/565506). 
+* **Adobe Experience Manager Community Lens:** Highlights the latest updates from the Experience Manager Community, all in one place. [Read the 4th edition now](https://bit.ly/3CAxuy2).
 
 ### New Experience Manager courses and tutorials {#tutorials-aem}
 
