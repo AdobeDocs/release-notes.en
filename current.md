@@ -359,7 +359,7 @@ New articles and updates to existing articles for Adobe Commerce.
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|January 2023|[Quality Patches Tool(QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles|New articles for how to apply patches available in QPT 1.1.24 and QPT 1.1.25 were published and can be found in their respective sections.|
+|January 2023|[Quality Patches Tool(QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles|New articles on how to apply patches available in QPT 1.1.24 and QPT 1.1.25 were published and can be found in their respective sections.|
 
 {style="table-layout:auto"}
 
