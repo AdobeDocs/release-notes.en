@@ -19,7 +19,7 @@ As an Experience Maker, your path to success starts with [Experience League](htt
 
 This page provides access to Experience Cloud product release notes pages and the latest tutorials, courses, and events on Experience League.
 
-Latest update: **January 18, 2023**
+Latest update: **February 3, 2023**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -469,11 +469,12 @@ Last updated: **August 9, 2022**
 
 ### New features in [!DNL Advertising DSP] {#advertising-dsp}
 
-Last updated: **November 23, 2022**
+Last updated: **February 3, 2023**
 
 | Feature | Description |
 | ------- | ----------- |
-| Deals | The [!UICONTROL Inventory] > [!UICONTROL Deals] view now includes a "[!UICONTROL Deal Health]" column, which indicates each private deal's health status: "[!UICONTROL Success]," "[!UICONTROL Warning]," "[!UICONTROL Critical]," or "[!UICONTROL Unavailable]." You can click the status to see more details, including why a deal isn't performing or spending as expected and steps to troubleshoot potential issues. |
+| [!UICONTROL Deals] | (January 25 release) A new "PG Impression Pacing" spend column in the Inventory > Deals view reports pacing for guaranteed deals. |
+| [!UICONTROL Campaigns] | (January 4 release) A change log, which shows changes made during the selected date range, is now available for each campaign. Change logs were already available for packages and placements. |
 
 {style="table-layout:auto"}
 
