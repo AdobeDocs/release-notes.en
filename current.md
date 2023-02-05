@@ -20,6 +20,7 @@ As an Experience Maker, your path to success starts with [Experience League](htt
 This page provides access to Experience Cloud product release notes pages and the latest tutorials, courses, and events on Experience League.
 
 Release month: **January, 2023**
+
 Latest update: **February 5, 2023**
 
 * [[!DNL Experience League] events](#events)
