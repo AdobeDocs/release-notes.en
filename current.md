@@ -517,25 +517,21 @@ Last updated: **August 9, 2022**
 
 ### New features in [!DNL Advertising DSP] {#advertising-dsp}
 
-Last updated: **November 23, 2022**
+Last updated: **February 3, 2023**
 
 | Feature | Description |
 | ------- | ----------- |
-| Deals | The [!UICONTROL Inventory] > [!UICONTROL Deals] view now includes a "[!UICONTROL Deal Health]" column, which indicates each private deal's health status: "[!UICONTROL Success]," "[!UICONTROL Warning]," "[!UICONTROL Critical]," or "[!UICONTROL Unavailable]." You can click the status to see more details, including why a deal isn't performing or spending as expected and steps to troubleshoot potential issues. |
+| [!UICONTROL Campaigns] | (February 3 release; beta features) You can now view change logs in chart form, and you can add notes to any entry. |
 
 {style="table-layout:auto"}
 
 ### New features in [!DNL Advertising Search] {#advertising-search}
 
-Last updated: **January 18, 2022**
+Last updated: **February 3, 2023**
 
 | Feature | Description |
 | ------- | ----------- |
-| Campaigns, Bulksheets, Advanced (ACM) | (January 5 release; [!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns) If you've created ad customizers in the ad network's editors, you can now use them as attributes in the text fields of responsive search ads in [!DNL Advertising Search]. Within ad headlines, descriptions, and the first and second paths of display URLs, use the following formats to include an ad customizer:<ul><li>[!DNL Google Ads]: <code>{CUSTOMIZER.AdCustomizerName:DefaultText}</code></li><li>[!DNL Microsoft Advertising]: <code>{CUSTOMIZER.Attribute name:default text}</code></li></ul>Example of an ad customizer in an ad title: "Huge inventory of rain boots at a `{CUSTOMIZER.Discount:10%}` discount." |
-| Campaigns, Bulksheets, Reports | ([!DNL Microsoft&reg; Advertising] accounts; November 15 release) Support for campaigns on the [!DNL Microsoft&reg; Audience Network] is now out of beta.<ul><li>You can create, edit, and change the status of audience campaigns (campaign type "[!UICONTROL Audience (image)]" or "[!UICONTROL Audience (feed)]"), ad groups (ad group type "[!UICONTROL Audience]"), and ads (creative type "[!UICONTROL Responsive Ad]") from the [!UICONTROL Campaigns] views and using bulksheets.</li><li>You can view your existing audience campaigns, with performance data in table and trend chart format, in the [!UICONTROL Campaigns] view. Ad-level performance data is also available in reports and in Adobe Analytics (for advertisers with an [!DNL Analytics] integration).</li></ul>You can include audience campaigns in either standard or hybrid portfolios. |
-|  | ([!DNL Microsoft&reg; Advertising] accounts; November 15 release) Multimedia ad support is now out of beta. You can create and manage multimedia ads in search campaigns from the [!UICONTROL Campaigns] view and using bulksheets. The ads have the creative type "[!UICONTROL Multimedia ad]."<br><br>You can include campaigns with multimedia ads in either standard portfolios or hybrid portfolios with any spend strategy except for [!UICONTROL Target Impression Share] (which isn't yet supported in hybrid portfolios).<br><br>You can view your existing audience campaigns, with performance data in table and trend chart format, in the [!UICONTROL Campaigns] view. Ad-level performance data is also available in reports and in [!DNL Analytics] (for advertisers with an [!DNL Analytics] integration). |
-| [!UICONTROL Audiences], [!UICONTROL Reports] | ([!DNL Microsoft&reg; Advertising] accounts; November 29 release) Support for dynamic remarketing audiences is now out of beta:<ul><li>Your dynamic remarketing audiences are synced and available in [!UICONTROL Campaigns] > [!UICONTROL Audiences] with the [!UICONTROL Audience Type] "[!UICONTROL Dynamic Remarketing] <*VisitorType*>" (such as "Dynamic Remarketing Past Buyers"). You can also create, update, and delete dynamic remarketing audiences.</li><li>You can use the audiences as campaign-level and ad group-level ad targets and exclusions. Targets can include bid modifiers. **Note:** Bid modifiers for dynamic remarketing audience targets aren't optimized in portfolios with the "[!UICONTROL Auto-optimize Bid Adjustment Values]" setting.</li><li>Data for dynamic remarketing audiences is available in the [!UICONTROL Audience Target Report].</li></ul> |
-| [!UICONTROL Import Campaigns] | (November 15 release) All options to import your [!DNL Google Ads] campaigns into [!DNL Microsoft&reg; Advertising] are now out of beta:<ul><li>Import [!DNL Google Display Network] campaigns into [!DNL Microsoft&reg; Advertising] audience campaigns on the [!DNL Microsoft&reg; Audience Network].</li><li>Import [!DNL Google Ads] performance max campaigns, including local inventory ads, into [!DNL Microsoft&reg; Advertising] smart shopping campaigns.</li><li>(Already out of beta) Import [!DNL Google Ads] search and display campaigns into [!DNL Microsoft&reg; Advertising] search and display campaigns.</li></ul>Once you import campaigns from [!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Import Campaigns], you can check the status of your import job, review any error logs, and edit, pause, or delete your import schedule. |
+| [!UICONTROL Campaigns] | (February 6 release; beta feature) Read-only sync and reporting support for [!DNL Google Ads] discovery campaigns. |
 
 {style="table-layout:auto"}
 
