@@ -5,9 +5,8 @@ doc-type: release notes
 last-update: February 2023
 author: mfrei
 mini-toc-levels: 2
-exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
-# Internal review - Adobe Experience Cloud Release Notes - February 2023
+# WIP - Adobe Experience Cloud Release Notes - February 2023
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
@@ -19,7 +18,13 @@ As an Experience Maker, your path to success starts with [Experience League](htt
 
 This page provides access to Experience Cloud product release notes pages and the latest tutorials, courses, and events on Experience League.
 
-Latest update: **February 4, 2023**
+Latest update: **January 18, 2023**
+
+## Experience League events
+
+## Product release notes
+
+## New tutorials and courses on Experience League
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -49,13 +54,12 @@ Need help? Visit [Experience League](https://experienceleague.adobe.com/#home) f
 
 Experience League events are a great place to learn, interact, and get answers from product experts at Adobe!
 
-* [!DNL Workfront] - **February 7** - _Learn Ten Communication Tips to Keep You and Your Users on Track_
+Upcoming events:
 
-* [!DNL Campaign Classic] - **February 8** - _How T. Rowe Price drives customer engagement_
+* [AEM Best Practices Analyzer for on premise & AMS environments](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-aem-best-practices-analyzer-for-on-premise-ams-environments/) - **January 18** - _Learn about the Adobe Experience Manager Best Practices Analyzer tool that provides analysis and reporting capabilities regarding AEM on-premise & AMS instances. It is not applicable to AEM as a Cloud Service._
+* [Adobe Experience League Live: Data collection highlights and roadmap](https://www.youtube.com/watch?v=Gj_FDCMgU8I) - **January 26** - _Data collection is important at Adobe! You need to be able to trust the data you work with. We've had an eventful last year with releases and have great things coming up. In this live stream event, join data collection experts to get a recap on important recent updates, as well as a glimpse into upcoming roadmap items._ [Details & registration](https://engage.adobe.com/ExpLeagueLive-230126.html).
 
-* [!DNL Campaign Standard] - **February 9** - Community Coffee Break - _Adobe [!DNL Campaign] Community Q&A Coffee Break - APAC_
-
-For event registration and a complete schedule, see [Events on Experience League](https://experienceleague.adobe.com/events/?lang=en).
+For a complete events schedule, see [Events on Experience League](https://experienceleague.adobe.com/events/?lang=en).
 
 ## ![Icon](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
@@ -86,14 +90,6 @@ New videos, tutorials, or courses published for Adobe Experience Platform.
 |October 2022|[Use enumerated fields and suggested values](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/use-enumerated-fields.html)|Video |Learn how to use enumerated fields and suggested values to create friendly dropdown menus in the segment builder interface.|Data Model (XDM) |
 |October 2022|[Manage sensitive data in datastreams](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/manage-sensitive-data-in-datastreams.html)|Video |Learn how to manage sensitive data in datastreams.|Web SDK |
 |October 2022|[Create a dashboard](https://experienceleague.adobe.com/docs/platform-learn/tutorials/dashboards/create-a-dashboard.html)|Video |Learn how to create a dashboard in Adobe Experience Platform. |Dashboards | -->
-
-### [!DNL Adobe Experience Platform] Support Knowledge Base
-
-New articles and updates to existing articles for [!DNL Adobe Experience Platform].
-
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|January 2023|[Unknown identity namespaces](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21306.html)|New article|Find out why there are non-standard identity namespaces in the [!DNL Adobe Experience Platform] (AEP) Identities User Interface (UI).|
 
 ### [!DNL Adobe Mobile] SDK
 
@@ -157,14 +153,7 @@ Latest release: **September 22, 2022**
 
 ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
 
-### [!DNL Adobe Audience Manager] Support Knowledge Base
-
-New articles and updates to existing articles for [!DNL Adobe Audience Manager]
-
-|Published|Name|Type|Description|
-|---------|--------|---------|---------|
-|January 2023|[Unable to Save Look-a-like Model](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21221.html)|New article| Find out the solution for when look-a-like model cannot be saved.|
-|January 2023|[How are AEP Identity Namespaces related to AAM Data Sources?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21305.html)|New article|Find out how AEP [!DNL Identity Namespaces] are related to AAM [!DNL Data Sources].|
+_Not updated_
 
 For self-help resources, see [Audience Manager documentation and tutorials](https://experienceleague.adobe.com/docs/audience-manager.html?lang=en) on Experience League.
 
@@ -209,7 +198,7 @@ _New features_
 
 * [Adaptive Forms wizard](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/create-an-adaptive-form-on-forms-cs/creating-adaptive-form.html?lang=en): Experience Manager Forms provides business user friendly wizard to quickly author Adaptive Forms. The wizard has a quick tab navigation to easily select pre-configured template, styling, fields, and submission options to create an adaptive form. This release brings following improvements to the wizard:
     * Select or deselect fields: The wizard allows you to create an Adaptive Form based on JSON and Form Data Model schemas. You can now select subset of fields within a schema to include in an Adaptive Form. The selected fields are converted to corresponding Adaptive Form data capture components to quickly create the desired adaptive forms.
-    * Use Static Templates: Customers with existing investments in legacy-static templates can continue their journey of cloud adoption by using static templates in the wizard to author adaptive forms. This provides additional time to customers to migrate old static templates to modern editable templates.
+    * Use Static Templates: Customers with existing investments in legacy-static templates can continue their journey of cloud adoption by using static templates in the wizard to create adaptive forms. This provides additional time to customers to migrate old static templates to modern editable templates.
 * [Remove hidden fields from a Document of Record (DoR) while server-side processing](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-an-adaptive-form/generate-document-of-record-for-non-xfa-based-adaptive-forms.html?lang=en): You can generate the document of record PDF for end users containing only those fields which were visible to them during data capture experience. Upon form submission, the server validates which fields were hidden to the end user based on submitted data and excludes from document of record for consistency.
 
 _New features available in prerelease channel_
@@ -232,9 +221,9 @@ _New features_
 
 _New features_
 
-* Notifications for [Experience Manager maintenance updates](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/what-is-new-and-different.html?lang=en#aem-updates) now appear in the Cloud Manager user interface. This change is being rolled out in a phased manner in the weeks following the 2022.12.0 release.
-* When an ingestion by way of the [CTT (Content Transfer Tool)](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/migration-journey/cloud-migration/content-transfer-tool/overview-content-transfer-tool.html?lang=en) is in progress, the environment status in both the developer console and in Cloud Manager now displays as _Ingestion in Progress_.
-* Improvements to the availability and reliability of [Cloud Manager pipelines](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/introduction-ci-cd-pipelines.html?lang=en) were made.
+* Notifications for Experience Manager maintenance updates now appear in the Cloud Manager user interface. This change is being rolled out in a phased manner in the weeks following the 2022.12.0 release.
+* When an ingestion by way of the CTT (Content Transfer Tool) is in progress, the environment status in both the developer console and in Cloud Manager now displays as _Ingestion in Progress_.
+* Improvements to the availability and reliability of Cloud Manager pipelines were made.
 
 ### [!DNL Workfront] for Experience Manager enhanced connector 
 
@@ -254,14 +243,17 @@ The latest version of the [!DNL Workfront] for Experience Manager enhanced conne
 
 >[!IMPORTANT]
 >
->Adobe recommends that you to [upgrade to the latest 1.9.6 version](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/update-workfront-enhanced-connector.html?lang=en) of the [!DNL Workfront] for Experience Manager enhanced connector.
-
+>Adobe recommends that you to upgrade to the latest 1.9.6 version of the [!DNL Workfront] for Experience Manager enhanced connector.
 
 ### Community
 
-* **Upcoming Experience Manager GEMs webinar:** _Accelerating Experience Manager as a Cloud Service development with Rapid Development Environments_. [Register here](https://bit.ly/3x1Cl8x).
-* **Recorded Experience Manager GEMs webinar:** _Experience Manager Best Practices Analyzer for On-premise and AMS (Adobe Manage Services) environments_ is [now available](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-gems-aem-best-practices-analyzer-for-on-premise-amp-ams/ba-p/565506). 
-* **Adobe Experience Manager Community Lens:** Highlights the latest updates from the Experience Manager Community, all in one place. [Read the 4th edition now](https://bit.ly/3CAxuy2).
+* **Upcoming Experience Manager GEMs webinar:** _Experience Manager Best Practices Analyzer for On-premise and AMS (Adobe Manage Services) environments_
+  
+  * Wednesday, January 18, 2023
+  * [Register for webinar](https://bit.ly/3iaHxTs)
+  * [Ask questions](https://bit.ly/3Z6AyM1)
+
+* Welcome to Adobe Experience Manager Community. [Introduce yourself](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/new-welcome-to-aem-community-please-introduce-yourself/ba-p/235306)!
 
 ### New Experience Manager courses and tutorials {#tutorials-aem}
 
@@ -298,22 +290,14 @@ All Experience Manager release notes are maintained at the following pages:
 * [Adobe Primetime release notes](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html)
 * [Livefyre release notes](https://experienceleague.adobe.com/docs/discontinued/using/livefyre.html)
 
-
-### [!DNL Adobe Experience Manager] Support Knowledge Base
-
-New article and updates to existing articles for [!DNL Adobe Experience Manager].
-
-|Published|Name|Type|Description|
-|---------|--------|---------|---------|
-|January 2023|[The incoming links don't show all linking pages](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21308.html)|New article|Find out the solution for the issue where the incoming links don't show all linking pages.|
-|January 2023|[Examples of request.log analysis \| AEP](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21309.html)|New article|Learn about the various information contained in the [!DNL Adobe Experience Manager] (AEM) `request.log`.|
-
 ### Other Help resources for Experience Manager
 
 * [Experience Manager as a Cloud Service Guides](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en)
 * [Cloud Manager User Guide](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=en)
 * [Experience Manager 6.5 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en)
 * [Experience Manager 6.4 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-64.html)
+* [Experience Manager 6.3 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)
+* [Experience Manager 6.2 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [Older Versions of Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [Dynamic Media Classic Help Home](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=en)
 * [Experience Manager Documentation: Recent Updates](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=en#aem-as-a-cloud-service)
@@ -349,14 +333,6 @@ New features and content available for [!DNL Adobe Commerce].
 |January 2023|[Get started with GraphQL for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-learn/graphql-rest/getting-started-graphql.html)|Video |Discover how to use GraphQL on Adobe Commerce and Magento Open Source. Learn about using queries, mutations, and schemas.|
 |January 2023|[Live Search for recommendations](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html)|Video |Learn how to add Live Search for product recommendations to your store and produce highly engaging, relevant, and personalized shopping experiences.|
 
-### Adobe Commerce Support Knowledge Base
-
-New articles and updates to existing articles for Adobe Commerce.
-
-|Published|Name|Type|Description|
-|---------|--------|---------|---------|
-|January 2023|[Quality Patches Tool(QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles|New articles on how to apply patches available in QPT 1.1.24 and QPT 1.1.25 were published and can be found in their respective sections.|
-
 {style="table-layout:auto"}
 
 ## ![Icon](/assets/target.png) [!DNL Adobe Target] {#target}
@@ -385,15 +361,6 @@ New videos, tutorials, or courses published for Adobe Campaign.
 {style="table-layout:auto"}
  -->
 
-### [!DNL Adobe Campaign] Support Knowledge Base
-
-New articles and updates to existing articles for [!DNL Adobe Campaign].
-
-|Published|Name|Type|Description|
-|---------|----|----|-----------|
-|January 2023|[V8 Low delivery preparation](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21226.html)|New article|Find out the solution for low delivery preparation in V8 8.3.8 versions of [!DNL Adobe Campaign Classic].|
-|January 2023|[Seed addresses get duplicated when recurring delivery is executed](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21292.html)|New article|Find out the workaround for the issue where seed addresses get duplicated when recurring delivery is executed.|
-
 ### Campaign help resources
 
 * Adobe Campaign v8: [Documentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) - [Implementation Guides](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/implement.html)
@@ -418,16 +385,6 @@ New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 |November 2022|[Create dynamic content with the condition rule builder](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/create-dynamic-content.html?lang=en)|Video |Learn how to create and save condition rules and how to apply these condition rules to content across all channels.|
 
 {style="table-layout:auto"} -->
-
-### [!DNL Adobe Journey Optimizer] Support Knowledge Base
-
-New articles and updates to existing articles for [!DNL Adobe Journey Optimizer].
-
-|Published|Name|Type|Description|
-|---------|-------|--------|---------|
-|January 2023|[Test profile not trigger event journey](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21213.html)|New article|Find out the solution for the issue where test profile does not trigger event journey.|
-|January 2023|[Assets Essentials access denied](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21212.html)|New article|Find out the solution when access to [!DNL Assets Essentials] is denied.|
-|January 2023|[Publishing journey in test mode fails](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21210.html)|New article|Find out the solution when publishing Journey in test mode fails.|
 
 ### More resources for [!DNL Journey Optimizer]
 
