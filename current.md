@@ -11,11 +11,11 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
-This page can keep you updated on product release dates, access to release notes information, and the latest tutorials, courses, and events on Experience League.
+Visit this page to stay updated on product release dates. You can find release notes information and the latest events, tutorials, courses, and KB articles on Experience League.
 
 >[!IMPORTANT]
 >
->To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening on Experience League.
+>To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening with Adobe's enterprise applications.
 
 **Need help?**
 
