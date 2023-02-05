@@ -19,7 +19,8 @@ As an Experience Maker, your path to success starts with [Experience League](htt
 
 This page provides access to Experience Cloud product release notes pages and the latest tutorials, courses, and events on Experience League.
 
-Latest update: **February 3, 2023**
+Release month: **January, 2023**
+Latest update: **February 5, 2023**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -51,10 +52,13 @@ Experience League events are a great place to learn, interact, and get answers f
 
 Upcoming events:
 
-* [AEM Best Practices Analyzer for on premise & AMS environments](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-aem-gems-aem-best-practices-analyzer-for-on-premise-ams-environments/) - **January 18** - _Learn about the Adobe Experience Manager Best Practices Analyzer tool that provides analysis and reporting capabilities regarding AEM on-premise & AMS instances. It is not applicable to AEM as a Cloud Service._
-* [Adobe Experience League Live: Data collection highlights and roadmap](https://www.youtube.com/watch?v=Gj_FDCMgU8I) - **January 26** - _Data collection is important at Adobe! You need to be able to trust the data you work with. We've had an eventful last year with releases and have great things coming up. In this live stream event, join data collection experts to get a recap on important recent updates, as well as a glimpse into upcoming roadmap items._ [Details & registration](https://engage.adobe.com/ExpLeagueLive-230126.html).
+* [!DNL Workfront] - **February 7** - _Learn Ten Communication Tips to Keep You and Your Users on Track_
 
-For a complete events schedule, see [Events on Experience League](https://experienceleague.adobe.com/events/?lang=en).
+* [!DNL Campaign Classic] - **February 8** - _How T. Rowe Price drives customer engagement_
+
+* [!DNL Campaign Standard] - **February 9** - Community Coffee Break - _Adobe [!DNL Campaign] Community Q&A Coffee Break - APAC_
+
+For event registration and a complete schedule, see [Events on Experience League](https://experienceleague.adobe.com/events/?lang=en).
 
 ## ![Icon](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
