@@ -79,9 +79,7 @@ See the [Experience Cloud Interface and Administration Guide](https://experience
 
 Latest release information and new documentation for [!DNL Experience Platform] and [!UICONTROL Mobile SDK]:
 
-Latest release: **January 25, 2023**
-
-* [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) - Available **January 25, 2023**
+* [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
 
 <!-- ### New Experience Platform tutorials and courses {#tutorials-platform}
 
@@ -99,7 +97,7 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2023|[Unknown identity namespaces](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21306.html)|Knowledge Base article|Find out why there are non-standard identity namespaces in the [!DNL Adobe Experience Platform] (AEP) Identities User Interface (UI).|
+|February 2023|[Unknown identity namespaces](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21306.html)|Knowledge Base article|Find out why there are non-standard identity namespaces in the [!DNL Adobe Experience Platform] (AEP) Identities User Interface (UI).|
 
 ### [!DNL Mobile] SDK
 
@@ -166,8 +164,8 @@ New articles and updates to existing articles for [!DNL Adobe Audience Manager]
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|January 2023|[Unable to Save Look-a-like Model](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21221.html)|New article| Find out the solution for when look-a-like model cannot be saved.|
-|January 2023|[How are AEP Identity Namespaces related to AAM Data Sources?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21305.html)|New article|Find out how AEP [!DNL Identity Namespaces] are related to AAM [!DNL Data Sources].|
+|February 2023|[Unable to Save Look-a-like Model](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21221.html)|New article| Find out the solution for when look-a-like model cannot be saved.|
+|February 2023|[How are AEP Identity Namespaces related to AAM Data Sources?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21305.html)|New article|Find out how AEP [!DNL Identity Namespaces] are related to AAM [!DNL Data Sources].|
 
 For self-help resources, see [Audience Manager documentation and tutorials](https://experienceleague.adobe.com/docs/audience-manager.html?lang=en) on Experience League.
 
@@ -306,8 +304,8 @@ New article and updates to existing articles for [!DNL Adobe Experience Manager]
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|January 2023|[The incoming links don't show all linking pages](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21308.html)|New article|Find out the solution for the issue where the incoming links don't show all linking pages.|
-|January 2023|[Examples of request.log analysis \| AEP](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21309.html)|New article|Learn about the various information contained in the [!DNL Adobe Experience Manager] (AEM) `request.log`.|
+|February 2023|[The incoming links don't show all linking pages](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21308.html)|New article|Find out the solution for the issue where the incoming links don't show all linking pages.|
+|February 2023|[Examples of request.log analysis \| AEP](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21309.html)|New article|Learn about the various information contained in the [!DNL Adobe Experience Manager] (AEM) `request.log`.|
 
 ### Other Help resources for Experience Manager
 
@@ -357,7 +355,7 @@ New articles and updates to existing articles for Adobe Commerce.
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|January 2023|[Quality Patches Tool(QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles|New articles on how to apply patches available in QPT 1.1.24 and QPT 1.1.25 were published and can be found in their respective sections.|
+|February 2023|[Quality Patches Tool(QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles|New articles on how to apply patches available in QPT 1.1.24 and QPT 1.1.25 were published and can be found in their respective sections.|
 
 {style="table-layout:auto"}
 
@@ -393,8 +391,8 @@ New articles and updates to existing articles for [!DNL Adobe Campaign].
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|January 2023|[V8 Low delivery preparation](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21226.html)|New article|Find out the solution for low delivery preparation in V8 8.3.8 versions of [!DNL Adobe Campaign Classic].|
-|January 2023|[Seed addresses get duplicated when recurring delivery is executed](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21292.html)|New article|Find out the workaround for the issue where seed addresses get duplicated when recurring delivery is executed.|
+|February 2023|[V8 Low delivery preparation](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21226.html)|New article|Find out the solution for low delivery preparation in V8 8.3.8 versions of [!DNL Adobe Campaign Classic].|
+|February 2023|[Seed addresses get duplicated when recurring delivery is executed](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21292.html)|New article|Find out the workaround for the issue where seed addresses get duplicated when recurring delivery is executed.|
 
 ### [!DNL Campaign] help resources
 
@@ -423,9 +421,9 @@ New articles and updates to existing articles for [!DNL Adobe Journey Optimizer]
 
 |Published|Name|Type|Description|
 |---------|-------|--------|---------|
-|January 2023|[Test profile not triggering event journey](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21213.html)|New article|Find out the solution for the issue where test profile does not trigger event journey.|
-|January 2023|[Assets Essentials access denied](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21212.html)|New article|Find out the solution when access to [!DNL Assets Essentials] is denied.|
-|January 2023|[Publishing journey in test mode fails](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21210.html)|New article|Find out the solution when publishing Journey in test mode fails.|
+|February 2023|[Test profile not triggering event journey](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21213.html)|New article|Find out the solution for the issue where test profile does not trigger event journey.|
+|February 2023|[Assets Essentials access denied](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21212.html)|New article|Find out the solution when access to [!DNL Assets Essentials] is denied.|
+|February 2023|[Publishing journey in test mode fails](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21210.html)|New article|Find out the solution when publishing Journey in test mode fails.|
 
 ### More resources for [!DNL Journey Optimizer]
 
