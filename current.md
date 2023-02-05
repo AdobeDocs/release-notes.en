@@ -11,7 +11,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
-Visit this page to stay updated on product release dates. You can find release notes information and the latest events, tutorials, courses, and KB articles on Experience League.
+This page helps you stay updated on product release information, events, and learning opportunities at Experience League.
 
 >[!IMPORTANT]
 >
@@ -21,7 +21,7 @@ Visit this page to stay updated on product release dates. You can find release n
 
 Your path to success starts with [Experience League](https://experienceleague.adobe.com/?lang=en#home). Browse our vast library of self-help [product documentation](https://experienceleague.adobe.com/docs/?lang=en) and guided [tutorial videos](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=en). Find [courses](https://experienceleague.adobe.com/?lang=en#courses) for all levels and roles, ask questions from our online [community](https://experienceleaguecommunities.adobe.com/?profile.language=en) of peers, and get expert [support](https://experienceleague.adobe.com/?support-tab=home#support) when you need it.
 
-## Product updates and events - February 2023
+## Product release updates and events - February 2023
 
 Content last updated: **February 5, 2023**
 
