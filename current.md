@@ -185,9 +185,9 @@ Adobe recommends visiting the following resources to stay updated on release inf
 * [Experience Manager as a Cloud Service release updates](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=en) - Watch feature video overviews of current and past releases of [!DNL Experience Manager as a Cloud Service].
 * [Current Release Notes for Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en) - Read the latest release notes for [!DNL Experience Manager as a Cloud Service].
 
-### Latest Release Overview video
+### Latest release overview video
 
-  Watch the [October 2022 Release Overview video](https://images-tv.adobe.com/mpcv3/6598/f98f7d11-bfc2-49c6-becf-82ae84e06207_1665697595.854x480at800_h264.mp4) for a summary of the features added in the 2022.10.0 (October 2022) release.
+  Watch the [October 2022 release overview video](https://images-tv.adobe.com/mpcv3/6598/f98f7d11-bfc2-49c6-becf-82ae84e06207_1665697595.854x480at800_h264.mp4) for a summary of the features added in the 2022.10.0 (October 2022) release.
 
 ### Experience Manager [!DNL Sites] as a [!DNL Cloud Service]
 
@@ -274,7 +274,7 @@ New videos, tutorials, and courses published over the past month.
 |Published|Name|Type|Description |Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
 |February 2023|[AEM image asset generation using OpenAI](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/content-fragments/example-extensions/image-generation-and-image-upload.html)|Video |Learn how to generate an AEM image asset using OpenAI.|AEM CS |
-|February 2023|[Token-based authentication to AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/overview.html?lang=en)|Video |Desc.|Explore how an external application can programmatically authenticate and interact with AEM as a Cloud Service over HTTP using Local Development Access Tokens and Service Credentials. |
+|February 2023|[Token-based authentication to AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/authentication/overview.html?lang=en)|Video |Explore how an external application can programmatically authenticate and interact with AEM as a Cloud Service over HTTP using Local Development Access Tokens and Service Credentials.|AEM CS |
 |February 2023|[Project setup](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/project-archetype/project-setup.html)|Video |Create a Maven Multi Module Project to manage the code and configurations for an Experience Manager Site.|AEM Sites |
 |February 2023|[Filtering SvelteKit app](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/simple-sveltekit-app.html)|AEM Headless Developer Portal |Explore AEM Headless GraphQL APIs ability to list data using a SvelteKit app. This SvelteKit app creates a list of WKND adventures, that can be selected to display the adventure's details.|AEM CS |
 |February 2023|[Filtering Express app](https://experienceleague.adobe.com/landing/experience-manager/headless/developer/code/fitlering-express-pug-app.html?lang=en)|AEM Headless Developer Portal |Explore AEM Headless GraphQL APIs ability to filter data using an Express and Pug app. This Express app creates a list of WKND adventures filterable by Activity Type.|AEM CS|
@@ -354,6 +354,8 @@ New features and content available for [!DNL Adobe Commerce].
 |February 2023|[Commerce on Cloud Infrastructure Guide](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html)|Product documentation |The Adobe Commerce on Cloud Infrastructure Guide provides reference material and guidance for technical users that are using the automated hosting platform to build, deploy, and manage the [!DNL Commerce] application in a cloud-native environment.|
 |February 2023|[Out-of-process extensibility](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/introduction-to-app-builder.html)|Video |Learn about Adobe App Builder and why it is an important aspect of out-of-process extensibility.|
 |February 2023|[App Builder for Adobe Commerce functional demonstration](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/app-builder-functional-demonstration.html)|Video |Learn about Adobe Developer App Builder used in Adobe Commerce with a technical demonstration.|
+
+{style="table-layout:auto"}
 
 ### [!DNL Commerce] Support Knowledge Base
 
