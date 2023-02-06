@@ -547,9 +547,7 @@ New tutorials and courses published for [!DNL Document Cloud], including [!DNL D
 
 |Published|Name|Type|Description |Application|
 | -----------| ---------- | ---------- | ---------- |---------- |
-|January 2023|[Protect PDFs using Microsoft&reg; Purview Information sensitivity labels](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/integrations/microsoftsensitivitylabels.html?lang=en)|Video |Learn how to protect PDFs by adding, editing, customizing, and deleting [!DNL Microsoft&reg; Purview] Information sensitivity labels directly in [!DNL Acrobat].|Acrobat|
-|January 2023|[Get a digital ID from Intesi Group (Qualified)](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/digital-id/intesi/intesi-qualified.html)|Updated video |Learn how to obtain a qualified digital signing certificate from Intesi Group. Once registered and your identity is verified, Intesi Group issues you with a digital ID that is used to apply an Acrobat Sign cloud signature.|Adobe Sign |
-|December 2022|[Set deadlines and reminders](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/set-deadlines-reminders.html?lang=en)|Video |Learn how to send regular email reminders and deadlines to help get your documents signed quickly.|Acrobat Sign |
+|February 2023|[Getting started with Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/new-sender.html)|Video |Are you new to using Acrobat Sign? This comprehensive tutorial is a great place to start because it focuses on all the basics to get you up and running quickly with Acrobat Sign.|Acrobat Sign|
 
 {style="table-layout:auto"}
 
@@ -559,7 +557,7 @@ For [!DNL Document Cloud] help, see:
 * [Adobe Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
 * [Document Cloud Learn & Support](https://helpx.adobe.com/support/document-cloud.html)
 
-## ![Icon](/assets/creative-cloud-24.png) [!DNL Creative Cloud] for enterprise {#creative-cloud}
+<!-- ## ![Icon](/assets/creative-cloud-24.png) [!DNL Creative Cloud] for enterprise {#creative-cloud}
 
 New videos, tutorials, or courses published for [!DNL Creative Cloud] for enterprise.
 
@@ -570,7 +568,7 @@ New videos, tutorials, or courses published for [!DNL Creative Cloud] for enterp
 |January 2023|[3D design and rendering](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/3doverview/3dtutorials/substance-3d-stager.html?lang=en)|PDF tutorial |Import content, arrange your scene, apply materials and textures, adjust image-based and physical lighting, save cameras with different resolutions, and render photorealistic imagery - all in Adobe Substance 3D Stager.|
 |January 2023|[Adobe Express: Content that stands out](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/adobe-express-content-that-stands-out.html?lang=en)|PDF tutorial |Create beautiful graphics, web pages, and video stories in minutes with Adobe Express (formerly known as Adobe Spark). Working from thousands of professionally designed templates, make social posts and stories, flyers, logos, booklets, posters, and more. Start for free, and make content that always stands out.|
 
-{style="table-layout:auto"}
+{style="table-layout:auto"} -->
 
 See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=en) for the latest tutorials.
 
