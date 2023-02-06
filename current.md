@@ -23,7 +23,7 @@ Your path to success starts with [Experience League](https://experienceleague.ad
 
 ## Product release updates and events - February 2023
 
-Content last updated: **February 5, 2023**
+Content last updated: **February 6, 2023**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -352,7 +352,7 @@ New features and content available for [!DNL Adobe Commerce].
 | -----------| ---------- | ---------- | ---------- |
 |February 2023|[Configuration Guide](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/overview.html)|Product documentation |The Configuration guide provides reference material and limited guidance for managing the configurable Commerce application features and services. Technical users who are responsible for configuring the [!DNL Commerce] application can find guidance for deployment methods, caching options, cron job management, command-line usage, search engine settings, storage methods, and more.|
 |February 2023|[Commerce on Cloud Infrastructure Guide](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html)|Product documentation |The Adobe Commerce on Cloud Infrastructure Guide provides reference material and guidance for technical users that are using the automated hosting platform to build, deploy, and manage the [!DNL Commerce] application in a cloud-native environment.|
-|February 2023|[Out-of-process extensibility](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/introduction-to-app-builder.html)|Video |Learn about Adobe App Builder and why it is an important aspect of out-of-process extensibility.|
+|February 2023|[Developer App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/app-builder-technical-overview.html?lang=en)|Video |Get a technical overview on connecting Adobe Commerce and Amazon Sales Channel. Learn how you can use Adobe App Builder for custom functionality and integrations.|
 |February 2023|[App Builder for Adobe Commerce functional demonstration](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/app-builder-functional-demonstration.html)|Video |Learn about Adobe Developer App Builder used in Adobe Commerce with a technical demonstration.|
 
 {style="table-layout:auto"}
