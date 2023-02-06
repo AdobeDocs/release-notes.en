@@ -357,7 +357,7 @@ New features and content available for [!DNL Adobe Commerce].
 
 {style="table-layout:auto"}
 
-### [!DNL Commerce] Support Knowledge Base
+### [!DNL Commerce] support knowledge base
 
 New articles and updates to existing articles for Adobe Commerce.
 
