@@ -23,7 +23,7 @@ Your path to success starts with [Experience League](https://experienceleague.ad
 
 ## Product release updates and events - February 2023
 
-Content last updated: **February 6, 2023**
+Content last updated: **February 7, 2023**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -65,7 +65,23 @@ And more! See [Experience League Events](https://experienceleague.adobe.com/even
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services outage, disruption, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
-For the latest release information, see Adobe System Status [release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2022/02162022.html?lang=en#status).
+Release date: **Jan 19, 2023**
+ 
+**What's new**
+
+* Status notifications are now available on [!DNL Slack]. With a one-time setup, you can add the [!DNL Adobe Status Slack] app to your [!DNL Slack] workspace and receive Status notifications in your [!DNL Slack] channel. Please use this link to manage your subscription preferences [https://status.adobe.com/proactive-notifications/manage](https://status.adobe.com/proactive-notifications/manage)
+
+
+| Feature | Description |
+| ------- | -------|
+|[!DNL Slack] notifications|<ul><li>We have introduced [!DNL Slack] as a new channel to receive [!DNL Status] notifications.</li><li>Subscribers can choose to receive [!DNL Slack] notifications in addition to email notifications.</li><li>One-time approval of [!DNL Adobe Status Slack] app by [!DNL Slack] workspace admin. After approval, users can add the [!DNL Adobe Status Slack] app to their [!DNL Slack] channels.</li><li>Multiple users can listen to one [!DNL Slack] channel right from where they work in their [!DNL Slack] Workspace.</li><li>Ability to quickly change a [!DNL Slack] channel association with [!DNL Adobe Status Slack] app from [Manage subscriptions](https://status.adobe.com/proactive-notifications/manage).</li></ul>|
+|Enhanced Product-level reporting of incidents|<ul><li>Product impact details like Impact scope, Impact type, Impact updates, and Customer facing statements are uniquely reported per Product.</li><li>Email and [!DNL Slack] notifications follow the same format of product-level impact reporting.</li></ul>|
+|Enhanced user experience and bug fixes|<ul><li>Canceled maintenances are reported correctly as Canceled instead of Completed.</li><li>Email notifications bug fixes and improvements.</li></ul>|
+|Enhanced subscriptions with Product offerings update|<ul><li>Ability to subscribe to [!DNL Adobe Campaign] and [!DNL Adobe Target] at a granular level of Product Offerings on the [Manage subscriptions](https://status.adobe.com/proactive-notifications/manage) page.</li></ul>|
+
+{style="table-layout:auto"}
+
+<!-- For the latest release information, see Adobe System Status [release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2022/02162022.html?lang=en#status). -->
 
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloud interface and administration {#ecloud}
 
@@ -380,18 +396,15 @@ Adobe [!DNL Campaign] provides an intuitive, automated way to deliver one-to-one
 
 Find out more about the latest capabilities, improvements, and fixes in the [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=en), and [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) release notes.
 
-<!-- ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
+### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
 
 New videos, tutorials, or courses published for Adobe Campaign.
 
 |Published|Name|Type|Description |Applications|
 | -----------| ---------- | ---------- | ---------- |---------- |
-|October 2022|[Getting started with decision management for marketers](https://experienceleague.adobe.com/docs/courses/using/experienceplatform-u-1-2020-1-offerdecisioning.html?lang=en)|Video |Learn how to use enumerated fields and suggested values to create friendly dropdown menus in the segment builder interface.|Campaign v8|
-|October 2022|[Set up SMS for Adobe Campaign](https://experienceleague.adobe.com/?recommended=Campaign-A-1-2022.classic.setupsms)|Course |Learn how to connect your Campaign instance to your SMTP provider and how to analyze and troubleshoot the configuration.|Campaign v8|
-|October 2022|[Full subdomain delegation](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/subdomains-and-certificates/subdomain-delegation.html?lang=en)|Updated video |Learn how to fully delegate a subdomain to Adobe Campaign. |Control Panel|
+|February 2023|_Ten best practices for Adobe Campaign success for marketers_|Article|Learn the ten best practices to help Adobe Campaign practitioners unlock and accelerate the digital consumer transformation and a better experience for their customers.|See: <ul><li>[Campaign v8](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/10-best-practices-for-marketers.html)<li>[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/strategy/10-best-practices-for-marketers.html)</li><li>[Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/strategy/10-best-practices-for-marketers.html?lang=en)|
 
 {style="table-layout:auto"}
- -->
 
 ### [!DNL Campaign] support knowledge base
 
@@ -532,7 +545,7 @@ Last updated: **February 6, 2023**
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (February 6 release; beta feature) Read-only sync support is now available for your [!DNL Google Ads] discovery campaigns. Discovery campaigns have [!UICONTROL Campaign Type] “[!UICONTROL Discovery],” [!UICONTROL Ad Group Type] “[!UICONTROL Discovery],” and [!UICONTROL Creative Type] “[!UICONTROL Discovery Ad]” (for single-image ads) or “[!UICONTROL Discovery Carousel Ad]” (for multi-image carousel ads). You can include discovery campaigns in standard and hybrid portfolios.<br><br>Ad-level data for your discovery campaigns is available in reports. For advertisers with an Adobe Analytics integration, ad-level data is available in [!DNL Analytics]. Similarly, [!DNL Analytics] data is available in [!DNL Search]; the data is sent using the upgraded `s_kwcid` tracking parameter, regardless of the `s_kwcid` format you normally use for the account. If you normally use the older version of the `s_kwcid`, then your click/cost data and revenue data are tracked using different `s_kwcids`, but both sets of data are fully classified and aggregated under the same campaign and account. |
+| [!UICONTROL Campaigns] | (February 6 release; beta feature) Read-only sync support is now available for your [!DNL Google Ads] discovery campaigns. Discovery campaigns have [!UICONTROL Campaign Type] "[!UICONTROL Discovery]," [!UICONTROL Ad Group Type] "[!UICONTROL Discovery]," and [!UICONTROL Creative Type] "[!UICONTROL Discovery Ad]" (for single-image ads) or "[!UICONTROL Discovery Carousel Ad]" (for multi-image carousel ads). You can include discovery campaigns in standard and hybrid portfolios.<br><br>Ad-level data for your discovery campaigns is available in reports. For advertisers with an Adobe Analytics integration, ad-level data is available in [!DNL Analytics]. Similarly, [!DNL Analytics] data is available in [!DNL Search]; the data is sent using the upgraded `s_kwcid` tracking parameter, regardless of the `s_kwcid` format you normally use for the account. If you normally use the older version of the `s_kwcid`, then your click/cost data and revenue data are tracked using different `s_kwcids`, but both sets of data are fully classified and aggregated under the same campaign and account. |
 
 {style="table-layout:auto"}
 
