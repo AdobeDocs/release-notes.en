@@ -69,7 +69,7 @@ Release date: **Jan 19, 2023**
  
 **What's new**
 
-* Status notifications are now available on [!DNL Slack]. With a one-time setup, you can add the [!DNL Adobe Status Slack] app to your [!DNL Slack] workspace and receive Status notifications in your [!DNL Slack] channel. Please use this link to manage your subscription preferences [https://status.adobe.com/proactive-notifications/manage](https://status.adobe.com/proactive-notifications/manage)
+* Status notifications are now available on [!DNL Slack]. With a one-time setup, you can add the [!DNL Adobe Status Slack] app to your [!DNL Slack] workspace and receive Status notifications in your [!DNL Slack] channel. Please use this link to manage your subscription preferences: [https://status.adobe.com/proactive-notifications/manage](https://status.adobe.com/proactive-notifications/manage).
 
 
 | Feature | Description |
