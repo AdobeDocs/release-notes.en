@@ -71,7 +71,6 @@ Release date: **Jan 19, 2023**
 
 * Status notifications are now available on [!DNL Slack]. With a one-time setup, you can add the [!DNL Adobe Status Slack] app to your [!DNL Slack] workspace and receive Status notifications in your [!DNL Slack] channel. Please use this link to manage your subscription preferences: [https://status.adobe.com/proactive-notifications/manage](https://status.adobe.com/proactive-notifications/manage).
 
-
 | Feature | Description |
 | ------- | -------|
 |[!DNL Slack] notifications|<ul><li>We have introduced [!DNL Slack] as a new channel to receive [!DNL Status] notifications.</li><li>Subscribers can choose to receive [!DNL Slack] notifications in addition to email notifications.</li><li>One-time approval of [!DNL Adobe Status Slack] app by [!DNL Slack] workspace admin. After approval, users can add the [!DNL Adobe Status Slack] app to their [!DNL Slack] channels.</li><li>Multiple users can listen to one [!DNL Slack] channel right from where they work in their [!DNL Slack] Workspace.</li><li>Ability to quickly change a [!DNL Slack] channel association with [!DNL Adobe Status Slack] app from [Manage subscriptions](https://status.adobe.com/proactive-notifications/manage).</li></ul>|
@@ -96,16 +95,6 @@ See the [Experience Cloud Interface and Administration Guide](https://experience
 Latest release information and new documentation for [!DNL Experience Platform] and [!UICONTROL Mobile SDK]:
 
 * [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
-
-<!-- ### New Experience Platform tutorials and courses {#tutorials-platform}
-
-New videos, tutorials, or courses published for Adobe Experience Platform.
-
-|Published|Name|Type|Description |Application|
-| -----------| ---------- | ---------- | ---------- |---------- |
-|October 2022|[Use enumerated fields and suggested values](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/use-enumerated-fields.html)|Video |Learn how to use enumerated fields and suggested values to create friendly dropdown menus in the segment builder interface.|Data Model (XDM) |
-|October 2022|[Manage sensitive data in datastreams](https://experienceleague.adobe.com/docs/platform-learn/data-collection/edge-network/manage-sensitive-data-in-datastreams.html)|Video |Learn how to manage sensitive data in datastreams.|Web SDK |
-|October 2022|[Create a dashboard](https://experienceleague.adobe.com/docs/platform-learn/tutorials/dashboards/create-a-dashboard.html)|Video |Learn how to create a dashboard in Adobe Experience Platform. |Dashboards | -->
 
 ### [!DNL Experience Platform] support knowledge base
 
@@ -550,7 +539,6 @@ Last updated: **January 18, 2022**
 | [!UICONTROL Import Campaigns] | (January 5 release: [!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns) - You can replicate your [!DNL Google Ads] ad customizers for your [!DNL Microsoft Advertising] campaigns from [!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Import Campaigns]. They're automatically replicated if you don't customize the import job. If you customize the import job by specifying what to import, make sure to select [!UICONTROL Feeds] > [!UICONTROL Ad customizer feeds.] |
 
 {style="table-layout:auto"}
-
 
 ## ![Icon](/assets/document-cloud-24.png) [!DNL Document Cloud] {#doc-cloud}
 
