@@ -7,7 +7,7 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
-# Internal review - Experience Cloud Release Notes - February 2023
+# Experience Cloud Release Notes - February 2023
 
 ![Banner](assets/experience-cloud-banner-3.png)
 
@@ -23,7 +23,7 @@ Your path to success starts with [Experience League](https://experienceleague.ad
 
 ## Product release updates and events - February 2023
 
-Content last updated: **February 7, 2023**
+Content last updated: **February 8, 2023**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -535,19 +535,22 @@ Last updated: **February 3, 2023**
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (February 3 release; beta features) You can now view change logs in chart form, and you can add notes to any entry. |
+| [!UICONTROL Deals] | (January 25 release) A new "PG Impression Pacing" spend column in the Inventory > Deals view reports pacing for guaranteed deals. |
+| [!UICONTROL Campaigns] | (January 4 release) A change log, which shows changes made during the selected date range, is now available for each campaign. Change logs were already available for packages and placements. |
 
 {style="table-layout:auto"}
 
 ### New features in [!DNL Advertising Search] {#advertising-search}
 
-Last updated: **February 6, 2023**
+Last updated: **January 18, 2022**
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (February 6 release; beta feature) Read-only sync support is now available for your [!DNL Google Ads] discovery campaigns. Discovery campaigns have [!UICONTROL Campaign Type] "[!UICONTROL Discovery]," [!UICONTROL Ad Group Type] "[!UICONTROL Discovery]," and [!UICONTROL Creative Type] "[!UICONTROL Discovery Ad]" (for single-image ads) or "[!UICONTROL Discovery Carousel Ad]" (for multi-image carousel ads). You can include discovery campaigns in standard and hybrid portfolios.<br><br>Ad-level data for your discovery campaigns is available in reports. For advertisers with an Adobe Analytics integration, ad-level data is available in [!DNL Analytics]. Similarly, [!DNL Analytics] data is available in [!DNL Search]; the data is sent using the upgraded `s_kwcid` tracking parameter, regardless of the `s_kwcid` format you normally use for the account. If you normally use the older version of the `s_kwcid`, then your click/cost data and revenue data are tracked using different `s_kwcids`, but both sets of data are fully classified and aggregated under the same campaign and account. |
+| [!UICONTROL Campaigns], [!UICONTROL Bulksheets], [!UICONTROL Advanced (ACM)] | (January 5 release: [!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns) - If you've created ad customizers in the ad network's editors, you can now use them as attributes in the text fields of responsive search ads in [!DNL Advertising Search]. Within ad headlines, descriptions, and the first and second paths of display URLs, use the following formats to include an ad customizer:<ul><li>[!DNL Google Ads]: <code>{CUSTOMIZER.AdCustomizerName:DefaultText}</code></li><li>[!DNL Microsoft Advertising]: <code>{CUSTOMIZER.Attribute name:default text}</code></li></ul>Example of an ad customizer in an ad title: "Huge inventory of rain boots at a `{CUSTOMIZER.Discount:10%}` discount." |
+| [!UICONTROL Import Campaigns] | (January 5 release: [!DNL Google Ads] and [!DNL Microsoft Advertising] campaigns) - You can replicate your [!DNL Google Ads] ad customizers for your [!DNL Microsoft Advertising] campaigns from [!UICONTROL Search] > [!UICONTROL Tools] > [!UICONTROL Import Campaigns]. They're automatically replicated if you don't customize the import job. If you customize the import job by specifying what to import, make sure to select [!UICONTROL Feeds] > [!UICONTROL Ad customizer feeds.] |
 
 {style="table-layout:auto"}
+
 
 ## ![Icon](/assets/document-cloud-24.png) [!DNL Document Cloud] {#doc-cloud}
 
