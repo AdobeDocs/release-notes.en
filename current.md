@@ -23,7 +23,7 @@ Your path to success starts with [Experience League](https://experienceleague.ad
 
 ## Product release updates and events - February 2023
 
-Content last updated: **February 8, 2023**
+Content last updated: **February 9, 2023**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -52,8 +52,6 @@ Content last updated: **February 8, 2023**
 Experience League events are a great place to learn, interact, and get answers from product experts at Adobe!
 
 * [!DNL Campaign Standard] - **February 9 | 9:30 a.m. IST** - Community Coffee Break - _Adobe [!DNL Campaign] Community Q&A Coffee Break - APAC_ - [Details & registration](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-standard/adobe-campaign-community-q-amp-a-coffee-break-february-9th-9/td-p/568425)
-
-* [!DNL Campaign Standard] - **February 9 | 9:00 a.m. PST** - Community Coffee Break - _[!DNL Campaign] Community Q&A Coffee Break - Americas/EMEA_ - [Details & registration](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-standard/adobe-campaign-community-q-amp-a-coffee-break-february-9th-9am/td-p/568421)
 
 * [!DNL Workfront] - **February 9 | 10:00 a.m. MT** - _Customer Panel - Logging Time_ - [Details & registration](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,ApJEa7JdN0is2sG3HRpLDA,9brRsWkVcEahJAdD813wug,Xm1T4YtdIEGZaxxbANkVRg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -534,7 +532,7 @@ Last updated: **February 8, 2023**
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (February 6 release; beta feature) Read-only sync support is now available for your [!DNL Google Ads] discovery campaigns. Discovery campaigns have [!UICONTROL Campaign Type] “[!UICONTROL Discovery],” [!UICONTROL Ad Group Type] “[!UICONTROL Discovery],” and [!UICONTROL Creative Type] “[!UICONTROL Discovery Ad]” (for single-image ads) or “[!UICONTROL Discovery Carousel Ad]” (for multi-image carousel ads). You can include discovery campaigns in standard and hybrid portfolios.<br><br>Ad-level data for your discovery campaigns is available in reports. For advertisers with an Adobe Analytics integration, ad-level data is available in [!DNL Analytics]. Similarly, [!DNL Analytics] data is available in [!DNL Search]; the data is sent using the upgraded `s_kwcid` tracking parameter, regardless of the `s_kwcid` format you normally use for the account. If you normally use the older version of the `s_kwcid`, then your click/cost data and revenue data are tracked using different `s_kwcids`, but both sets of data are fully classified and aggregated under the same campaign and account. |
+| [!UICONTROL Campaigns] | (February 6 release; beta feature) Read-only sync support is now available for your [!DNL Google Ads] discovery campaigns. Discovery campaigns have [!UICONTROL Campaign Type] "[!UICONTROL Discovery]," [!UICONTROL Ad Group Type] "[!UICONTROL Discovery]," and [!UICONTROL Creative Type] "[!UICONTROL Discovery Ad]" (for single-image ads) or "[!UICONTROL Discovery Carousel Ad]" (for multi-image carousel ads). You can include discovery campaigns in standard and hybrid portfolios.<br><br>Ad-level data for your discovery campaigns is available in reports. For advertisers with an Adobe Analytics integration, ad-level data is available in [!DNL Analytics]. Similarly, [!DNL Analytics] data is available in [!DNL Search]; the data is sent using the upgraded `s_kwcid` tracking parameter, regardless of the `s_kwcid` format you normally use for the account. If you normally use the older version of the `s_kwcid`, then your click/cost data and revenue data are tracked using different `s_kwcids`, but both sets of data are fully classified and aggregated under the same campaign and account. |
 
 {style="table-layout:auto"}
 
