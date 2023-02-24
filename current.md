@@ -6,7 +6,7 @@ last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
 badge: label="Exam ADO-E902" type="positive"
-badge2: label="Exam ADO-E904" type="positive"
+badgeWeb: label="Exam ADO-E904" type="positive"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
 # Internal Review - Experience Cloud Release Notes - March 2023
