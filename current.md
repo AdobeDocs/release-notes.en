@@ -21,6 +21,12 @@ This page helps you stay updated on product release information, events, and lea
 
 Your path to success starts with [Experience League](https://experienceleague.adobe.com/?lang=en#home). Browse our vast library of self-help [product documentation](https://experienceleague.adobe.com/docs/?lang=en) and guided [tutorial videos](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=en). Find [courses](https://experienceleague.adobe.com/?lang=en#courses) for all levels and roles, ask questions from our online [community](https://experienceleaguecommunities.adobe.com/?profile.language=en) of peers, and get expert [support](https://experienceleague.adobe.com/?support-tab=home#support) when you need it.
 
+## Adobe Summit 2023
+
+Join us in Las Vegas to expand your skillset, spark inspiration, and build connections that empower you to make the digital economy personal. For those unable to attend the world-class event in Vegas, join us virtually from anywhere for free.
+
+[!BADGE Register]{type=Informative url="https://summit.adobe.com/na/?promoid=VY36JX1S&mv=other" tooltip="Register for Summit"}
+
 ## Product release updates and events - March 2023
 
 Content last updated: **March 2023**
