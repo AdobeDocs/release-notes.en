@@ -101,7 +101,7 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |February 2023|[No audience size in [!DNL Microsoft Bing] AEP sestination](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21544.html)|New article|Learn the reasons why [!DNL Bing] does not show any audience size for the AEP segments sent to the AEP [!DNL Bing] destination.|
-|February 2023|[What is the number of environments (dev, staging, production) that comes with the RTCDP license](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21590.html)|New article|Learn more about the number of environments and sandboxes that comes with the RTCDP license|
+|February 2023|[What is the number of environments (dev, staging, production) that comes with the RTCDP license](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21590.html)|New article|Learn more about the number of environments and sandboxes that comes with the RTCDP license.|
 |February 2023|[Does the *Apply transformation* option on destination activation normalise (e.g. lower case) before hashing?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21591.html)|New article|Learn more about destination activation normalise and the workaround for it.|
 
 {style="table-layout:auto"}
