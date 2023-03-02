@@ -100,7 +100,9 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2023|[Unknown identity namespaces](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21306.html)|Knowledge Base article|Find out why there are non-standard identity namespaces in the [!DNL Adobe Experience Platform] (AEP) Identities User Interface (UI).|
+|February 2023|[No audience size in [!DNL Microsoft Bing] AEP sestination](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21544.html)|New article|Learn the reasons why [!DNL Bing] does not show any audience size for the AEP segments sent to the AEP [!DNL Bing] destination.|
+|February 2023|[What is the number of environments (dev, staging, production) that comes with the RTCDP license](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21590.html)|New article|Learn more about the number of environments and sandboxes that comes with the RTCDP license|
+|February 2023|[Does the *Apply transformation* option on destination activation normalise (e.g. lower case) before hashing?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21591.html)|New article|Learn more about destination activation normalise and the workaround for it.|
 
 {style="table-layout:auto"}
 
@@ -163,17 +165,12 @@ Latest release: **September 22, 2022**
 
 Updates and new content for [!DNL Audience Manager].
 
-### [!DNL Adobe Audience Manager] support knowledge base
+<!--### [!DNL Audience Manager] support knowledge base
 
 New articles and updates to existing articles for [!DNL Adobe Audience Manager]
 
-|Published|Name|Type|Description|
-|---------|--------|---------|---------|
-|February 2023|[Unable to Save Look-a-like Model](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21221.html)|New article| Find out the solution for when look-a-like model cannot be saved.|
-|February 2023|[How are AEP Identity Namespaces related to AAM Data Sources?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21305.html)|New article|Find out how AEP [!DNL Identity Namespaces] are related to AAM [!DNL Data Sources].|
-
 {style="table-layout:auto"}
-
+-->
 For self-help resources, see [Audience Manager documentation and tutorials](https://experienceleague.adobe.com/docs/audience-manager.html?lang=en) on Experience League.
 
 ## ![Icon](/assets/aem.png) Adobe Experience Manager {#aem}
@@ -311,8 +308,11 @@ New article and updates to existing articles for [!DNL Adobe Experience Manager]
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|February 2023|[The incoming links don't show all linking pages](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21308.html)|New article|Find out the solution for the issue where the incoming links don't show all linking pages.|
-|February 2023|[Examples of request.log analysis \| AEP](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21309.html)|New article|Learn about the various information contained in the [!DNL Adobe Experience Manager] (AEM) `request.log`.|
+|February 2023|[How to allow non-admin users to access Web Console](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21527.html)|New article|Learn how to allow non-admin users to access Web Console (OSGi Console).|
+|February 2023|[How to download assets with cURL](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21528.html)|New article|Learn how you can download assets with cURL.|
+|February 2023|[Error: BUILD_MAVEN_PACKAGE_ERROR in [!DNL Cloud Manager]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21577.html)|New article|Learn how to resolve the error - `Build_Maven_Package_Error` in [!DNL Cloud Manager].|
+|February 2023|[Pipeline deployment is failing during the build step](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21419.html)|New article|Find out the solution for th issue where pipeline execution is failing during the build step, due to errors in the `ui.frontend` code.|
+|February 2023|[No support of token refresh for encapsulated token](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21491.html)|New article| Find out the solution for th issue where no support for token refresh for encapsulated token.|
 
 {style="table-layout:auto"}
 
@@ -366,7 +366,7 @@ New articles and updates to existing articles for Adobe Commerce.
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|February 2023|[Quality Patches Tool(QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles|New articles on how to apply patches available in QPT 1.1.24 and QPT 1.1.25 were published and can be found in their respective sections.|
+|February 2023|[Quality Patches Tool(QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles|New articles on how to apply patches available in QPT 1.1.26 and QPT 1.1.27 were published and can be found in their respective sections.|
 
 {style="table-layout:auto"}
 
@@ -399,8 +399,8 @@ New articles and updates to existing articles for [!DNL Adobe Campaign].
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|February 2023|[V8 Low delivery preparation](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21226.html)|New article|Find out the solution for low delivery preparation in V8 8.3.8 versions of [!DNL Adobe Campaign Classic].|
-|February 2023|[Seed addresses get duplicated when recurring delivery is executed](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21292.html)|New article|Find out the workaround for the issue where seed addresses get duplicated when recurring delivery is executed.|
+|February 2023|[Is TLS 1.3 supported?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21516.html)|New article|Find out the support status of TLS 1.3.|
+|February 2023|[API updates to profiles and services do not show](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21517.html)|New article|Find out the workaround for the issue where APIs are not being updated when publishing custom resource changes to long-text attributes in the recent versions of ACS.|
 
 {style="table-layout:auto"}
 
@@ -431,9 +431,8 @@ New articles and updates to existing articles for [!DNL Adobe Journey Optimizer]
 
 |Published|Name|Type|Description|
 |---------|-------|--------|---------|
-|February 2023|[Test profile not triggering event journey](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21213.html)|New article|Find out the solution for the issue where test profile does not trigger event journey.|
-|February 2023|[Assets Essentials access denied](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21212.html)|New article|Find out the solution when access to [!DNL Assets Essentials] is denied.|
-|February 2023|[Publishing journey in test mode fails](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21210.html)|New article|Find out the solution when publishing Journey in test mode fails.|
+|February 2023|[Opt-ins not on landing page](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21416.html)|New article|Find out the solution for the issue where opt-ins are not on landing page.|
+|February 2023|[Missing dataflow notifications](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21415.html)|New article|Find out the solution for the issue where you are not receiving notifications about data flows.|
 
 {style="table-layout:auto"}
 
