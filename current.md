@@ -101,7 +101,7 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |February 2023|[No audience size in [!DNL Microsoft Bing] AEP sestination](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21544.html)|New article|Learn the reasons why [!DNL Bing] does not show any audience size for the AEP segments sent to the AEP [!DNL Bing] destination.|
-|February 2023|[What is the number of environments (dev, staging, production) that comes with the RTCDP license](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21590.html)|New article|Learn more about the number of environments and sandboxes that comes with the RTCDP license.|
+|February 2023|[What is the number of environments (dev, staging, production) that comes with the RTCDP license?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21590.html)|New article|Learn more about the number of environments and sandboxes that comes with the RTCDP license.|
 |February 2023|[Does the *Apply transformation* option on destination activation normalise (e.g. lower case) before hashing?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21591.html)|New article|Learn more about destination activation normalise and the workaround for it.|
 
 {style="table-layout:auto"}
@@ -308,8 +308,8 @@ New article and updates to existing articles for [!DNL Adobe Experience Manager]
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|February 2023|[How to allow non-admin users to access Web Console](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21527.html)|New article|Learn how to allow non-admin users to access Web Console (OSGi Console).|
-|February 2023|[How to download assets with cURL](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21528.html)|New article|Learn how you can download assets with cURL.|
+|February 2023|[How to allow non-admin users to access Web Console?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21527.html)|New article|Learn how to allow non-admin users to access Web Console (OSGi Console).|
+|February 2023|[How to download assets with cURL?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21528.html)|New article|Learn how you can download assets with cURL.|
 |February 2023|[Error: BUILD_MAVEN_PACKAGE_ERROR in [!DNL Cloud Manager]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21577.html)|New article|Learn how to resolve the error - `Build_Maven_Package_Error` in [!DNL Cloud Manager].|
 |February 2023|[Pipeline deployment is failing during the build step](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21419.html)|New article|Find out the solution for th issue where pipeline execution is failing during the build step, due to errors in the `ui.frontend` code.|
 |February 2023|[No support of token refresh for encapsulated token](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21491.html)|New article| Find out the solution for th issue where no support for token refresh for encapsulated token.|
