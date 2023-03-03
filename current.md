@@ -7,9 +7,11 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
-# Internal Review - Experience Cloud Release Notes - March 2023
+# Internal Review - Experience Cloud Release Notes
 
-![Banner](assets/experience-cloud-banner-3.png)
+![Banner](assets/release-notes-header.png)
+
+## March 2023
 
 This page helps you stay updated on product release information, events, and learning opportunities at Experience League.
 
@@ -21,9 +23,9 @@ This page helps you stay updated on product release information, events, and lea
 
 Your path to success starts with [Experience League](https://experienceleague.adobe.com/?lang=en#home). Browse our vast library of self-help [product documentation](https://experienceleague.adobe.com/docs/?lang=en) and guided [tutorial videos](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=en). Find [courses](https://experienceleague.adobe.com/?lang=en#courses) for all levels and roles, ask questions from our online [community](https://experienceleaguecommunities.adobe.com/?profile.language=en) of peers, and get expert [support](https://experienceleague.adobe.com/?support-tab=home#support) when you need it.
 
-## Product release updates and events - March 2023
+## Product release updates and events
 
-Content last updated: **March 2023**
+Latest update: **March 3, 2023**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -69,6 +71,12 @@ See [Experience League Events](https://experienceleague.adobe.com/events/?lang=e
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services outage, disruption, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
+* Status has added API support that allows you to directly call Adobe's servers to query and view events like on the [status.adobe.com](https://status.adobe.com/) UI. You can use these APIs to integrate into your monitoring system or dashboards to view real-time events from Adobe Status that can be filtered based on Product, Product Offering, Region, Environment (where available), Locale, and Event type.
+
+| Feature | Description |
+| ------- | -------|
+|Adobe Status APIs|<ul><li>Adobe Status APIs provide detailed information and real-time updates about Adobe cloud products and services outage, disruption, and maintenance events.</li><li>The APIs need to be set up in [Adobe Developer Console](https://developer.adobe.com/console) before they can be used. Your organization must have entitlements for at least one Adobe product to access Adobe APIs. A developer console account is required with the correct permissions.</li><li>Please check out the documentation [here](https://developer.adobe.com/adobe-status/) and follow the guides for setup.</li><li>Once the setup is done, you can use the [API reference document](https://developer.adobe.com/adobe-status/api/) to view the available APIs and the signatures to call them.
+</li></ul>|
 
 For the latest release information, see Adobe System Status [release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/02082023.html?lang=en#status).
 
