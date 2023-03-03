@@ -53,17 +53,17 @@ Latest update: **March 3, 2023**
 
 Experience League events are a great place to learn, interact, and get answers from product experts at Adobe!
 
-* [!DNL Analytics] | **March 9 @ 8:00 AM PT** | _Accelerate time to insight with Adobe Analytics_ | [Register](https://adobeanalyticsvirtualanalyst2023.experienceleague.adobeevents.com/)
+* [!DNL Analytics] | _Accelerate time to insight with Adobe Analytics_ | **March 9 @ 8:00 AM PT** |  [Register](https://adobeanalyticsvirtualanalyst2023.experienceleague.adobeevents.com/)
 
-* [!DNL Marketo Engage] | **March 9 @ 1:00 PM ET** | _Marketo & Mochas: Deliverability (Part 1)_ | [Register](https://register.gotowebinar.com/register/6250682251177513567)
+* [!DNL Marketo Engage] | _Marketo & Mochas: Deliverability (Part 1)_ | **March 9 @ 1:00 PM ET** | [Register](https://register.gotowebinar.com/register/6250682251177513567)
 
-* [!DNL Workfront] | **March 13 @ 7:00 AM MT** | _Connect: Strategic Admin Chat_ | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,lgDkllfW8EatH2CVDH9nVQ,JWCg6TzBMUS5dX7i0qHSsA,CjE7t_FXgEaepx27DZn_7g?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* [!DNL Workfront] | _Connect: Strategic Admin Chat_ | **March 13 @ 7:00 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,lgDkllfW8EatH2CVDH9nVQ,JWCg6TzBMUS5dX7i0qHSsA,CjE7t_FXgEaepx27DZn_7g?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* [!DNL Workfront] | **March 15 @ 8:00 AM PT** | _System Admin Essentials: Improving User Experience with Interface Design_ | [Register](https://webinars.on24.com/adobe_workfront/AdminEssentialsInterface?partnerref=exl)
+* [!DNL Workfront] | _System Admin Essentials: Improving User Experience with Interface Design_ | **March 15 @ 8:00 AM PT** | [Register](https://webinars.on24.com/adobe_workfront/AdminEssentialsInterface?partnerref=exl)
 
-* [!DNL Marketo Engage] | **March 15 @ 08:00 AM PT** | _Marketo Community Q&A Coffee Break_ | [Register](https://mecommunityqacoffeebreak0315.splashthat.com/?utm_source=email&utm_medium=Outbound&utm_campaign=coffee_talk_ME&utm_content=230315)
+* [!DNL Marketo Engage] | _Marketo Community Q&A Coffee Break_ | **March 15 @ 08:00 AM PT** | [Register](https://mecommunityqacoffeebreak0315.splashthat.com/?utm_source=email&utm_medium=Outbound&utm_campaign=coffee_talk_ME&utm_content=230315)
 
-* [!DNL Adobe Summit] | **March 19 @ 09:00 AM PT** |_The ultimate experience is back. Join us in Vegas to build skills, learn from the world's top brands, and be inspire_ | [Register](https://summit.adobe.com/na/?promoid=2K4PC9V3&mv=other)
+* [!DNL Adobe Summit] |_The ultimate experience is back. Join us in Vegas to build skills, learn from the world's top brands, and be inspire_ | **March 19 @ 09:00 AM PT** | [Register](https://summit.adobe.com/na/?promoid=2K4PC9V3&mv=other)
 
 See [Experience League Events](https://experienceleague.adobe.com/events/?lang=en) for a complete schedule of upcoming events and on demand past events.
 
