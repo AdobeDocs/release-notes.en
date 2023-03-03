@@ -133,6 +133,8 @@ Updated: **October 19, 2022** - See [Release notes and change logs](https://aep-
 
 Release date: **March 8, 2023**
 
++++Details
+
 * [!DNL Analytics] [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en) 
 * [!DNL Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/analytics.html)
 
@@ -151,6 +153,8 @@ New video tutorials, articles, and courses published for Adobe Analytics.
 |March 2023|[Rich text editor in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.html?lang=en)|Updated video |Learn about the features that allow analysts and marketers to apply editing to text visualizations (or descriptions) in Analysis Workspace: bold, italics, headings, links, and more.|
 
 {style="table-layout:auto"}
+
++++
 
 ## ![Icon](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
 
