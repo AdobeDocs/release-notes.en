@@ -84,7 +84,7 @@ Release date: **Jan 19, 2023**
 
 Updates to Experience Cloud interface home, administration (product and user management), user profile settings, preferences, search, and cookies. 
 
-_Not updated in February._
+_Not updated in March._
 
 See the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) for help on these features, [!UICONTROL Customer Attributes], and [!UICONTROL Audiences].
 
@@ -92,7 +92,7 @@ See the [Experience Cloud Interface and Administration Guide](https://experience
 
 Latest release information and new documentation for [!DNL Experience Platform] and [!UICONTROL Mobile SDK]:
 
-* [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
+* [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) (Planned release: **March 23, 2032**)
 
 ### [!DNL Experience Platform] support knowledge base
 
@@ -112,7 +112,7 @@ Updated: **October 19, 2022** - See [Release notes and change logs](https://aep-
 
 ## ![Icon](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
-Release date: **February 8, 2023**
+Release date: **March 8, 2023**
 
 * [!DNL Analytics] [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en) 
 * [!DNL Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/analytics.html)
@@ -136,7 +136,7 @@ New video tutorials, articles, and courses published for Adobe Analytics.
 
 ## ![Icon](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
 
-Next release: **February 8, 2023**
+Next release: **March 8, 2023**
 
 * Customer Journey Analytics [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en)
 * Customer Journey Analytics [product documentation and tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=en)
