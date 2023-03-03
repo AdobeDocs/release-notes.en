@@ -16,7 +16,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 This page helps you stay updated on product release information, events, and learning opportunities at Experience League.
 
->[!IMPORTANT]
+>[!TIP]
 >
 >To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening with Adobe's enterprise applications.
 
@@ -30,7 +30,7 @@ Latest update: **March 3, 2023**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
-* [Experience Cloud interface and administration](#ecloud)
+* [[!DNL Experience Cloud] interface and administration](#ecloud)
 * [[!DNL Experience Platform]](#platform)
 * [[!DNL Analytics]](#analytics)
 * [[!DNL Customer Journey Analytics]](#cja)<!-- * [[!DNL Streaming Media Analytics]](#sma) -->
@@ -183,6 +183,8 @@ For self-help resources, see [Audience Manager documentation and tutorials](http
 
 New features, fixes, and updates in Experience Manager. Adobe recommends customers with On-Premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
 
++++Details
+
 ### AEM roadmaps and release videos
 
 Adobe recommends visiting the following resources to stay updated on release information:
@@ -303,7 +305,6 @@ All Experience Manager release notes are maintained at the following pages:
 * [Adobe Primetime release notes](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html)
 * [Livefyre release notes](https://experienceleague.adobe.com/docs/discontinued/using/livefyre.html)
 
-
 ### [!DNL Experience Manager] support knowledge base
 
 New article and updates to existing articles for [!DNL Adobe Experience Manager].
@@ -327,6 +328,8 @@ New article and updates to existing articles for [!DNL Adobe Experience Manager]
 * [Older Versions of Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [Dynamic Media Classic Help Home](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=en)
 * [Experience Manager Documentation: Recent Updates](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=en#aem-as-a-cloud-service)
+
++++
 
 ## ![Icon](/assets/ec_appicon_24.png) Adobe [!DNL Experience Manager Guides] {#xml-doc}
 
