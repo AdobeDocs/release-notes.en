@@ -75,8 +75,9 @@ See [Experience League Events](https://experienceleague.adobe.com/events/?lang=e
 
 | Feature | Description |
 | ------- | -------|
-|Adobe Status APIs|<ul><li>Adobe Status APIs provide detailed information and real-time updates about Adobe cloud products and services outage, disruption, and maintenance events.</li><li>The APIs need to be set up in [Adobe Developer Console](https://developer.adobe.com/console) before they can be used. Your organization must have entitlements for at least one Adobe product to access Adobe APIs. A developer console account is required with the correct permissions.</li><li>Please check out the documentation [here](https://developer.adobe.com/adobe-status/) and follow the guides for setup.</li><li>Once the setup is done, you can use the [API reference document](https://developer.adobe.com/adobe-status/api/) to view the available APIs and the signatures to call them.
-</li></ul>|
+|Adobe Status APIs|<ul><li>Adobe Status APIs provide detailed information and real-time updates about Adobe cloud products and services outage, disruption, and maintenance events.</li><li>The APIs need to be set up in [Adobe Developer Console](https://developer.adobe.com/console) before they can be used. Your organization must have entitlements for at least one Adobe product to access Adobe APIs. A developer console account is required with the correct permissions.</li><li>Please check out the documentation [here](https://developer.adobe.com/adobe-status/) and follow the guides for setup.</li><li>Once the setup is done, you can use the [API reference document](https://developer.adobe.com/adobe-status/api/) to view the available APIs and the signatures to call them.</li></ul>|
+
+{style="table-layout:auto"}
 
 For the latest release information, see Adobe System Status [release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/02082023.html?lang=en#status).
 
@@ -101,6 +102,8 @@ New videos, tutorials, or courses published for Adobe Experience Platform.
 |Type|Product feature|Description |Application|
 | -----------| ---------- |---------- |---------- |
 |March 2023|[Ingest data using the Adobe Analytics source connector](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/ingest-data-from-adobe-analytics.html)|Updated video |Stream, map, and filter data from Adobe Analytics into Adobe Experience Platform's Real-Time Customer Profile and Experience data lake.|Data Ingestion |
+
+{style="table-layout:auto"}
 
 ### [!DNL Experience Platform] support knowledge base
 
