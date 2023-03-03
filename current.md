@@ -72,11 +72,15 @@ See [Experience League Events](https://experienceleague.adobe.com/events/?lang=e
 
 ## ![Icon](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
-[!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
+Learn about the latest features and updates in [!DNL Adobe System Status].
 
 +++Details
 
-* Status has added API support that allows you to directly call Adobe's servers to query and view events like on the [status.adobe.com](https://status.adobe.com/) UI. You can use these APIs to integrate into your monitoring system or dashboards to view real-time events from Adobe Status that can be filtered based on Product, Product Offering, Region, Environment (where available), Locale, and Event type.
+[!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
+
+**What's new**
+
+* [!DNL Status] has added API support that allows you to directly call Adobe's servers to query and view events like on the [status.adobe.com](https://status.adobe.com/) UI. You can use these APIs to integrate into your monitoring system or dashboards to view real-time events from Adobe Status that can be filtered based on Product, Product Offering, Region, Environment (where available), Locale, and Event type.
 
 | Feature | Description |
 | ------- | -------|
@@ -90,7 +94,7 @@ For the latest release information, see Adobe System Status [release notes](http
 
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloud interface and administration {#ecloud}
 
-Updates to the Experience Cloud interface home page, administration (product and user management), user profile settings, preferences, search, and cookies. 
+Find updates to the Experience Cloud interface home page, administration (product and user management), user profile settings, preferences, search, and cookies. 
 
 +++Details
 
@@ -102,7 +106,7 @@ For help, see the [Experience Cloud Interface and Administration Guide](https://
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Experience Platform] {#platform}
 
-Latest release information and new documentation for [!DNL Experience Platform] and [!UICONTROL Mobile SDK].
+Find latest release information and new documentation for [!DNL Experience Platform], [!UICONTROL Mobile SDK], and new tutorials on Experience League.
 
 +++Details
 
@@ -207,28 +211,17 @@ For self-help resources, see [Audience Manager documentation and tutorials](http
 
 ## ![Icon](/assets/aem.png) Adobe Experience Manager {#aem}
 
-New features, fixes, and updates in Experience Manager. Find the latest tutorials on Experience League.
+Learn about new features, fixes, and updates in Experience Manager. View the latest tutorials on Experience League.
 
 +++Details
+
+### [!DNL Experience Manager] release information
 
 For the latest [!DNL Experience Manager] release information, see:
 
 * [Current Release Notes for [!DNL Adobe Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en)
 
 * [Adobe Experience Manager 6.5 Latest Service Pack Release Notes](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=en)
-
-### New Experience Manager courses and tutorials {#tutorials-aem}
-
-New videos, tutorials, and courses published over the past month.
-
-|Published|Name|Type|Description |Applications |
-| -----------| ---------- | ---------- | ---------- | ------|
-|March 2023|[Rapid Development Environments](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/rde/overview.html)|Videos |Learn about Rapid Development Environment (RDE), how to set up and use it, and understand the development life cycle using RDE. |AEM CS |
-|March 2023|[Asset Share Commons Asset Kit](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/assets-share/asset-share-commons-asset-kits.html)|Video |Learn how to use Asset Share Common's asset kit functionality to generate bespoke, shareable web pages that list assets from AEM Assets folders or collections.|AEM Assets |
-
-{style="table-layout:auto"}
-
-### [!DNL Experience Manager] release information
 
 All [!DNL Experience Manager] release notes are maintained at the following pages:
 
@@ -246,6 +239,17 @@ All [!DNL Experience Manager] release notes are maintained at the following page
 * [Experience Manager Dispatcher release notes](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=en)
 * [Adobe Primetime release notes](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html)
 * [Livefyre release notes](https://experienceleague.adobe.com/docs/discontinued/using/livefyre.html)
+
+### New Experience Manager courses and tutorials {#tutorials-aem}
+
+New videos, tutorials, and courses published over the past month.
+
+|Published|Name|Type|Description |Applications |
+| -----------| ---------- | ---------- | ---------- | ------|
+|March 2023|[Rapid Development Environments](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/rde/overview.html)|Videos |Learn about Rapid Development Environment (RDE), how to set up and use it, and understand the development life cycle using RDE. |AEM CS |
+|March 2023|[Asset Share Commons Asset Kit](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/assets-share/asset-share-commons-asset-kits.html)|Video |Learn how to use Asset Share Common's asset kit functionality to generate bespoke, shareable web pages that list assets from AEM Assets folders or collections.|AEM Assets |
+
+{style="table-layout:auto"}
 
 ### [!DNL Experience Manager] support knowledge base
 
@@ -286,7 +290,7 @@ Learn more about [[!DNL Experience Manager Guides]](https://business.adobe.com/p
 
 ## ![Icon](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
 
-New features and content available for [!DNL Adobe Commerce].
+New features and content available for [!DNL Adobe Commerce] on Experience League.
 
 +++Details
 
@@ -320,7 +324,7 @@ New articles and updates to existing articles for Adobe Commerce.
 
 ## ![Icon](/assets/target.png) [!DNL Target] {#target}
 
-Get access to release notes and new tutorials for Adobe Target.
+Get access to pre-release notes, current release notes, and new tutorials for Adobe Target.
 
 +++Details
 
@@ -331,11 +335,13 @@ Get access to release notes and new tutorials for Adobe Target.
 
 ## ![Icon](/assets/campaign.png) [!DNL Campaign] {#ac}
 
-Adobe [!DNL Campaign] provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
+Get the latest updates for [!DNL Adobe Campaign], and find new tutorials and courses on Experience League.
 
 +++Details
 
 ### Latest Campaign product releases
+
+Go here for the latest capabilities, improvements, and fixes in [!DNL Adobe Campaign]:
 
 Find out more about the latest capabilities, improvements, and fixes in the [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=en), and [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) release notes.
 
