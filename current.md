@@ -33,8 +33,7 @@ Latest update: **March 3, 2023**
 * [Experience Cloud interface and administration](#ecloud)
 * [[!DNL Experience Platform]](#platform)
 * [[!DNL Analytics]](#analytics)
-* [[!DNL Customer Journey Analytics]](#cja)
-* [[!DNL Streaming Media Analytics]](#sma)
+* [[!DNL Customer Journey Analytics]](#cja)<!-- * [[!DNL Streaming Media Analytics]](#sma) -->
 * [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Experience Manager Guides]](#xml-doc)
