@@ -46,8 +46,7 @@ Latest update: **March 3, 2023**
 * [[!DNL Workfront]](#workfront)
 * [[!DNL Advertising]](#advertising)
 * [[!DNL Document Cloud]](#doc-cloud)
-* [[!DNL Creative Cloud for enterprise]](#creative-cloud)
-* [Digital Experience Blueprints - tutorials](#blueprints)
+* [[!DNL Creative Cloud for enterprise]](#creative-cloud)<!-- * [Digital Experience Blueprints - tutorials](#blueprints) -->
 
 ## ![Icon](/assets/experience-league.png) [!DNL Experience League] events {#events}
 
@@ -397,14 +396,24 @@ New articles and updates to existing articles for Adobe Commerce.
 
 {style="table-layout:auto"}
 
++++
+
 ## ![Icon](/assets/target.png) [!DNL Target] {#target}
+
+Get access to release notes and new tutorials for Adobe Target.
+
++++Details
 
 * For pre-release information, see [[!DNL Adobe Target] prerelease](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en)
 * For current information, see [[!DNL Adobe Target] release notes](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=en)
 
++++
+
 ## ![Icon](/assets/campaign.png) [!DNL Campaign] {#ac}
 
 Adobe [!DNL Campaign] provides an intuitive, automated way to deliver one-to-one messages across online and offline marketing channels. You can now anticipate what your clients want using experiences determined by their habits and preferences.
+
++++Details
 
 ### Latest Campaign product releases
 
@@ -438,9 +447,13 @@ New articles and updates to existing articles for [!DNL Adobe Campaign].
 * [!DNL Campaign] Classic: [Campaign Classic v7 Documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [How-to videos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html)
 * [!DNL Campaign] Control Panel: [Documentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en) - How-to-videos for [How-to videos](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html?lang=en)
 
++++
+
 ## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Journey Optimizer] {#journey-opt}
 
 With [!DNL Journey Optimizer], you can manage scheduled omnichannel campaigns and one-to-one moments for millions of customers from a single application--and the entire journey is optimized with intelligent decisioning and insights.
+
++++Details
 
 ### Latest [!DNL Journey Optimizer] product releases
 
@@ -471,9 +484,13 @@ New articles and updates to existing articles for [!DNL Adobe Journey Optimizer]
 * [Journey Optimizer documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html) - [Release rotes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
 * [Decision Management documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/get-started-decision/starting-offer-decisioning.html) - [Release notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html)
 
++++
+
 ## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Journey Orchestration] {#journey-orch}
 
 Use Experience Platform to orchestrate a customer's journey at scale across experience channels, by intelligently anticipating every individual's needs in real time.
+
++++Details
 
 ### Latest [!DNL Journey Orchestration] product releases
 
@@ -483,9 +500,13 @@ Find out more about the latest capabilities, improvements, and fixes in the [[!D
 
 * [Journey Orchestration documentation](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html) - [Release notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html)
 
++++
+
 ## ![Icon](/assets/marketo.png) [!DNL Marketo Engage] {#marketo}
 
 [!DNL Marketo Engage] is a complete application for lead management and B2B marketers looking to transform customer experiences by engaging across every stage of complex buying journeys.
+
++++Details
 
 ### Core Marketo Engage updates
 
@@ -504,9 +525,13 @@ New videos, tutorials, or courses published for Adobe Marketo.
 
 For the latest product documentation, see the [Marketo product documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en) home
 
++++
+
 ## ![Icon](/assets/workfront.png) [!DNL Workfront] {#workfront}
 
 [!DNL Workfront] is a unified work management application for sharing ideas, creating content, managing complex processes, and doing their best work.
+
++++Details
 
 ### New Adobe [!DNL Workfront] courses and tutorials {#tutorials-workfront}
 
@@ -523,9 +548,13 @@ New [!DNL Workfront] course and collections of tutorials on Experience League.
 
 See the [[!DNL Workfront] product releases](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html) page for a round-up of the latest information for all products.
 
++++
+
 ## ![Icon](/assets/advertising-cloud.png) Adobe Advertising {#advertising}
 
 Release notes for [!DNL Adobe Advertising].
+
++++Details
 
 <!-- * [New features across [!DNL Advertising]](#advertising-all) -->
 * [New features in [!DNL Advertising DSP]](#advertising-dsp)
@@ -567,9 +596,13 @@ Last updated: **February 10, 2023**
 
 {style="table-layout:auto"}
 
++++
+
 ## ![Icon](/assets/document-cloud-24.png) [!DNL Document Cloud] {#doc-cloud}
 
 New tutorials and courses published for [!DNL Document Cloud], including [!DNL Document Services] and [!DNL Acrobat Sign].
+
++++Details
 
 |Published|Name|Type|Description |Application|
 | -----------| ---------- | ---------- | ---------- |---------- |
@@ -583,9 +616,13 @@ For [!DNL Document Cloud] help, see:
 * [Adobe Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
 * [Document Cloud Learn & Support](https://helpx.adobe.com/support/document-cloud.html)
 
++++
+
 <!-- ## ![Icon](/assets/creative-cloud-24.png) [!DNL Creative Cloud] for enterprise {#creative-cloud}
 
 New videos, tutorials, or courses published for [!DNL Creative Cloud] for enterprise.
+
++++Details
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
@@ -594,11 +631,14 @@ New videos, tutorials, or courses published for [!DNL Creative Cloud] for enterp
 |January 2023|[3D design and rendering](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/3doverview/3dtutorials/substance-3d-stager.html?lang=en)|PDF tutorial |Import content, arrange your scene, apply materials and textures, adjust image-based and physical lighting, save cameras with different resolutions, and render photorealistic imagery - all in Adobe Substance 3D Stager.|
 |January 2023|[Adobe Express: Content that stands out](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/adobe-express-content-that-stands-out.html?lang=en)|PDF tutorial |Create beautiful graphics, web pages, and video stories in minutes with Adobe Express (formerly known as Adobe Spark). Working from thousands of professionally designed templates, make social posts and stories, flyers, logos, booklets, posters, and more. Start for free, and make content that always stands out.|
 
-{style="table-layout:auto"} -->
+{style="table-layout:auto"} 
 
 See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html?lang=en) for the latest tutorials.
 
-## ![Icon](/assets/experience-league.png) Customer Data Management - Voices {#voices}
++++
+-->
+
+<!-- ## ![Icon](/assets/experience-league.png) Customer Data Management - Voices {#voices}
 
 [Customer Data Management Voices](https://experienceleague.adobe.com/docs/customer-data-management-voices-events/events/overview.html?lang=en) is your destination as a customer data management technical and marketing practice leader and specialist. This collection of tutorials is your one-stop-shop to hear from your peers, get inspired, and learn about developments in MarTech. No registration required, simply click and watch.
 
@@ -610,6 +650,6 @@ See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2023|[Customer Journeys - AEP + Apps & AJO Architecture](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journeys/overview.html?lang=en)|Diagram updates|Deliver individual, just-in-time customer experiences across screens.|
+|January 2023|[Customer Journeys - AEP + Apps & AJO Architecture](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journeys/overview.html?lang=en)|Diagram updates|Deliver individual, just-in-time customer experiences across screens.| -->
 
 [Top](#events)
