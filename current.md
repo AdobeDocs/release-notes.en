@@ -83,13 +83,19 @@ For the latest release information, see Adobe System Status [release notes](http
 
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloud interface and administration {#ecloud}
 
++++Details
+
 Updates to Experience Cloud interface home, administration (product and user management), user profile settings, preferences, search, and cookies. 
 
 _Not updated in March._
 
 See the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) for help on these features, [!UICONTROL Customer Attributes], and [!UICONTROL Audiences].
 
++++
+
 ## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Experience Platform] {#platform}
+
++++Details
 
 Latest release information and new documentation for [!DNL Experience Platform] and [!UICONTROL Mobile SDK]:
 
@@ -120,6 +126,8 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 ### [!DNL Mobile] SDK
 
 Updated: **October 19, 2022** - See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-notes) for the Adobe Experience Platform Mobile SDKs.
+
++++
 
 ## ![Icon](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
