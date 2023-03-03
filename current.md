@@ -165,7 +165,6 @@ Updates and new content for [!DNL Audience Manager]. -->
 
 New articles and updates to existing articles for [!DNL Adobe Audience Manager]
 
-{style="table-layout:auto"}
 -->
 For self-help resources, see [Audience Manager documentation and tutorials](https://experienceleague.adobe.com/docs/audience-manager.html?lang=en) on Experience League.
 
