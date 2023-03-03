@@ -650,6 +650,6 @@ See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2023|[Customer Journeys - AEP + Apps & AJO Architecture](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journeys/overview.html?lang=en)|Diagram updates|Deliver individual, just-in-time customer experiences across screens.| -->
+|January 2023|[Customer Journeys - AEP + Apps & AJO Architecture](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journeys/overview.html?lang=en)|Diagram updates|Deliver individual, just-in-time customer experiences across screens.| 
+-->
 
-[Top](#events)
