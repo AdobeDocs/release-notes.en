@@ -106,7 +106,7 @@ For help, see the [Experience Cloud Interface and Administration Guide](https://
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Experience Platform] {#platform}
 
-Find latest release information and new documentation for [!DNL Experience Platform], [!UICONTROL Mobile SDK], and new tutorials on Experience League.
+Find latest release information and new documentation for [!DNL Experience Platform] and [!UICONTROL Mobile SDK]. View new tutorials and Knowledge Base articles on Experience League.
 
 +++Details
 
@@ -211,19 +211,19 @@ For self-help resources, see [Audience Manager documentation and tutorials](http
 
 ## ![Icon](/assets/aem.png) Adobe Experience Manager {#aem}
 
-Learn about new features, fixes, and updates in Experience Manager. View the latest tutorials on Experience League.
+Learn about new features, fixes, and updates in Experience Manager. View the latest tutorials and Knowledge Base articles on Experience League.
 
 +++Details
 
 ### [!DNL Experience Manager] release information
 
-For the latest [!DNL Experience Manager] release information, see:
+For the latest [!DNL Experience Manager] release notes, see:
 
 * [Current Release Notes for [!DNL Adobe Experience Manager as a Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en)
 
 * [Adobe Experience Manager 6.5 Latest Service Pack Release Notes](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=en)
 
-All [!DNL Experience Manager] release notes are maintained at the following pages:
+All [!DNL Experience Manager] release information can be found at:
 
 * [Experience Manager as a Cloud Service release information](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=en)
 * [Experience Manager as a Cloud Service release updates](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=en)
@@ -290,7 +290,7 @@ Learn more about [[!DNL Experience Manager Guides]](https://business.adobe.com/p
 
 ## ![Icon](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
 
-New features and content available for [!DNL Adobe Commerce] on Experience League.
+Get access to release notes, new tutorials, and Knowledge Base articles for [!DNL Adobe Commerce] on Experience League.
 
 +++Details
 
@@ -335,7 +335,7 @@ Get access to pre-release notes, current release notes, and new tutorials for Ad
 
 ## ![Icon](/assets/campaign.png) [!DNL Campaign] {#ac}
 
-Get the latest updates for [!DNL Adobe Campaign], and find new tutorials and courses on Experience League.
+Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials, courses, and Knowledge Base support articles on Experience League.
 
 +++Details
 
@@ -377,7 +377,7 @@ New articles and updates to existing articles for [!DNL Adobe Campaign].
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Journey Optimizer] {#journey-opt}
 
-With [!DNL Journey Optimizer], you can manage scheduled omnichannel campaigns and one-to-one moments for millions of customers from a single application--and the entire journey is optimized with intelligent decisioning and insights.
+Learn about the latest release information for [!DNL Journey Optimizer]. View the latest tutorials and Knowledge Base support articles on Experience League.
 
 +++Details
 
@@ -414,7 +414,7 @@ New articles and updates to existing articles for [!DNL Adobe Journey Optimizer]
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Journey Orchestration] {#journey-orch}
 
-Use Experience Platform to orchestrate a customer's journey at scale across experience channels, by intelligently anticipating every individual's needs in real time.
+Access the latest release notes for Journey Orchestration on Experience League.
 
 +++Details
 
@@ -424,19 +424,25 @@ Find out more about the latest capabilities, improvements, and fixes in the [[!D
 
 #### More resources for [!DNL Journey Orchestration]
 
-* [Journey Orchestration documentation](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html) - [Release notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html)
+* [Journey Orchestration documentation](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html)
+
+* [Release notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html)
+
+* [How-to videos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html)
+
+* [Latest documentation updates](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html)
 
 +++
 
 ## ![Icon](/assets/marketo.png) [!DNL Marketo Engage] {#marketo}
 
-[!DNL Marketo Engage] is a complete application for lead management and B2B marketers looking to transform customer experiences by engaging across every stage of complex buying journeys.
+Find out the latest release notes and release schedule for [!DNL Marketo Engage].
 
 +++Details
 
 ### Core Marketo Engage updates
 
-* See [January 2023 - current release notes](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html?lang=en) for the latest information
+* See [March 2023 - current release notes](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html?lang=en) for the latest information
 * See [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=en) for the latest release schedule information and release notes.
 
 <!-- ### New Marketo tutorials and courses {#tutorials-marketo}
@@ -455,11 +461,11 @@ For the latest product documentation, see the [Marketo product documentation](ht
 
 ## ![Icon](/assets/workfront.png) [!DNL Workfront] {#workfront}
 
-[!DNL Workfront] is a unified work management application for sharing ideas, creating content, managing complex processes, and doing their best work.
+Learn about the latest release notes for [!DNL Adobe Workfront]. Find new tutorials on Experience League.
 
 +++Details
 
-### New Adobe [!DNL Workfront] courses and tutorials {#tutorials-workfront}
+<!-- ### New Adobe [!DNL Workfront] courses and tutorials {#tutorials-workfront}
 
 New [!DNL Workfront] course and collections of tutorials on Experience League.
 
@@ -470,7 +476,7 @@ New [!DNL Workfront] course and collections of tutorials on Experience League.
 |February 2023|[Take charge of an existing Adobe Workfront instance](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance.html?lang=en)|Video |Learn the key phases to evaluate, understand, and optimize your instance of [!DNL Workfront] as a new system or group administrator.|
 |February 2023|[Customize project headers with layout templates](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-project-headers-with-layout-templates.html)|Video |Learn how to add and remove fields from project headers through layout templates.|
 
-{style="table-layout:auto"}
+{style="table-layout:auto"} -->
 
 See the [[!DNL Workfront] product releases](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html) page for a round-up of the latest information for all products.
 
@@ -502,23 +508,28 @@ Last updated: **August 9, 2022**
 
 ### New features in [!DNL Advertising DSP] {#advertising-dsp}
 
-Last updated: **February 8, 2023**
+Learn about the latest features for Adobe ADvertising.
+
++++Details
+
+Last updated: **March 2, 2023**
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (February 3 release; beta features) You can now view change logs in chart form, and you can add notes to any entry. |
+| [!UICONTROL Campaigns] | (February 15 release) You can now view change logs in chart form, and you can add notes to any entry. |
 
 {style="table-layout:auto"}
 
 ### New features in [!DNL Advertising Search] {#advertising-search}
 
-Last updated: **February 10, 2023**
+Last updated: **March 2, 2023**
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (February 6 release; beta feature) Read-only sync support is now available for your [!DNL Google Ads] discovery campaigns. Discovery campaigns have [!UICONTROL Campaign Type] "[!UICONTROL Discovery]," [!UICONTROL Ad Group Type] "[!UICONTROL Discovery]," and [!UICONTROL Creative Type] "[!UICONTROL Discovery Ad]" (for single-image ads) or "[!UICONTROL Discovery Carousel Ad]" (for multi-image carousel ads). You can include discovery campaigns in standard and hybrid portfolios.<br><br>Ad-level data for your discovery campaigns is available in reports. For advertisers with an Adobe Analytics integration, ad-level data is available in [!DNL Analytics]. Similarly, [!DNL Analytics] data is available in [!DNL Search]; the data is sent using the upgraded `s_kwcid` tracking parameter, regardless of the `s_kwcid` format you normally use for the account. If you normally use the older version of the `s_kwcid`, then your click/cost data and revenue data are tracked using different `s_kwcids`, but both sets of data are fully classified and aggregated under the same campaign and account. |
+| [!UICONTROL Campaigns] | (Google Ads accounts; open beta feature; February 23 release) Read-only sync support for [!DNL Google Ads] discovery campaigns is in beta mode for all advertisers.  Discovery campaigns have [!UICONTROL Campaign Type] "[!UICONTROL Discovery]," [!UICONTROL Ad Group Type] "[!UICONTROL Discovery]," and [!UICONTROL Creative Type] "[!UICONTROL Discovery Ad]" (for single-image ads) or "[!UICONTROL Discovery Carousel Ad]" (for multi-image carousel ads). You can include discovery campaigns in standard and hybrid portfolios.<br><br>Ad-level data for your discovery campaigns is available in reports. For advertisers with an Adobe Analytics integration, ad-level data is available in [!DNL Analytics]. Similarly, [!DNL Analytics] data is available in [!DNL Search]; the data is sent using the upgraded `s_kwcid` tracking parameter, regardless of the `s_kwcid` format you normally use for the account. If you normally use the older version of the `s_kwcid`, then your click/cost data and revenue data are tracked using different `s_kwcids`, but both sets of data are fully classified and aggregated under the same campaign and account. |
 |  | ([!DNL Google Ads] accounts; February 11 release) Support for the "[!UICONTROL Target Impression Share]" bid strategy is now available for campaigns on the search network only. For this bid strategy, [!DNL Google Ads] (not [!DNL Search]) optimizes bids in order to achieve a target impression share and ad position. You can optionally enter a [!UICONTROL Target Impression Share] as a percent, the [!UICONTROL Target Ad Position], and a [!UICONTROL Max CPC] (cost per click). This option isn't yet supported in hybrid portfolios. |
 | [!UICONTROL Bulksheets] | ([!DNL Microsoft] campaigns; February 11 release) Bulksheets now include "[!UICONTROL Call to Action]" and "[!UICONTROL Call to Action Language]" columns for multimedia ads (in responsive ad format), which use the "[!UICONTROL Creative (except RSA)]" row. |
+| Google Manager Accounts | (February 23 release) A new [!UICONTROL Admin] > [!UICONTROL Manager Accounts] feature allows you to provide authentication for [!DNL Google Ads] manager accounts to which [!DNL Search] will upload cross-account conversions. Use this feature if you want to a) upload [!DNL Adobe]-tracked, cross-account conversion metrics to a [!DNL Google Ads] manager account or b) upload portfolio objectives that include cross-account conversions to [!DNL Google Ads] for hybrid optimization.<br><br>Once you add credentials for a manager account, the optional "[!UICONTROL Manager Account for Cross-Account Conversions]" column in the [!UICONTROL Campaigns] > [!UICONTROL Accounts] view indicates the manager account ID for each child account, and the column shows an error when the manager account isn't authenticated. |
 
 {style="table-layout:auto"}
 
