@@ -347,6 +347,7 @@ New features and content available for [!DNL Adobe Commerce].
 |March 2023|[Configure Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/configure-commerce.html)|Video |Learn how to configure Adobe Commerce to expose the events.|
 |March 2023|[Get started using API Mesh](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/api-mesh/getting-started-api-mesh.html?lang=en)|Video |Discover how to use API Mesh on Adobe Commerce and Adobe App Builder. Learn about installing Adobe App Builder, working with projects, creating a graphql reverse proxy and much more.|
 |March 2023|[I/O events for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/2-4-5-installation.html?lang=en)|Video (multiple) |Learn how to install several new modules in Adobe Commerce using Composer for version 2.4.5, 2.4.6, and more. This sets up the required modules to be used in the Adobe Commerce application. |
+
 {style="table-layout:auto"}
 
 ### [!DNL Commerce] support knowledge base
