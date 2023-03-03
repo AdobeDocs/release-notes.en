@@ -53,23 +53,25 @@ Latest update: **March 3, 2023**
 
 Experience League events are a great place to learn, interact, and get answers from product experts at Adobe!
 
-* [!DNL Analytics] | _Accelerate time to insight with Adobe Analytics_ | **March 9 @ 8:00 AM PT** |  [Register](https://adobeanalyticsvirtualanalyst2023.experienceleague.adobeevents.com/)
+* **[!DNL Analytics]** | _Accelerate time to insight with Adobe Analytics_ | **March 9 @ 8:00 AM PT** |  [Register](https://adobeanalyticsvirtualanalyst2023.experienceleague.adobeevents.com/)
 
-* [!DNL Marketo Engage] | _Marketo & Mochas: Deliverability (Part 1)_ | **March 9 @ 1:00 PM ET** | [Register](https://register.gotowebinar.com/register/6250682251177513567)
+* **[!DNL Marketo Engage]** | _Marketo & Mochas: Deliverability (Part 1)_ | **March 9 @ 1:00 PM ET** | [Register](https://register.gotowebinar.com/register/6250682251177513567)
 
-* [!DNL Workfront] | _Connect: Strategic Admin Chat_ | **March 13 @ 7:00 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,lgDkllfW8EatH2CVDH9nVQ,JWCg6TzBMUS5dX7i0qHSsA,CjE7t_FXgEaepx27DZn_7g?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Connect: Strategic Admin Chat_ | **March 13 @ 7:00 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,lgDkllfW8EatH2CVDH9nVQ,JWCg6TzBMUS5dX7i0qHSsA,CjE7t_FXgEaepx27DZn_7g?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* [!DNL Workfront] | _System Admin Essentials: Improving User Experience with Interface Design_ | **March 15 @ 8:00 AM PT** | [Register](https://webinars.on24.com/adobe_workfront/AdminEssentialsInterface?partnerref=exl)
+* **[!DNL Workfront]** | _System Admin Essentials: Improving User Experience with Interface Design_ | **March 15 @ 8:00 AM PT** | [Register](https://webinars.on24.com/adobe_workfront/AdminEssentialsInterface?partnerref=exl)
 
-* [!DNL Marketo Engage] | _Marketo Community Q&A Coffee Break_ | **March 15 @ 08:00 AM PT** | [Register](https://mecommunityqacoffeebreak0315.splashthat.com/?utm_source=email&utm_medium=Outbound&utm_campaign=coffee_talk_ME&utm_content=230315)
+* **[!DNL Marketo Engage]** | _Marketo Community Q&A Coffee Break_ | **March 15 @ 08:00 AM PT** | [Register](https://mecommunityqacoffeebreak0315.splashthat.com/?utm_source=email&utm_medium=Outbound&utm_campaign=coffee_talk_ME&utm_content=230315)
 
-* [!DNL Adobe Summit] |_The ultimate experience is back. Join us in Vegas to build skills, learn from the world's top brands, and be inspire_ | **March 19 @ 09:00 AM PT** | [Register](https://summit.adobe.com/na/?promoid=2K4PC9V3&mv=other)
+* **[!DNL Adobe Summit]** |_The ultimate experience is back. Join us in Vegas to build skills, learn from the world's top brands, and be inspire_ | **March 19 @ 09:00 AM PT** | [Register](https://summit.adobe.com/na/?promoid=2K4PC9V3&mv=other)
 
 See [Experience League Events](https://experienceleague.adobe.com/events/?lang=en) for a complete schedule of upcoming events and on demand past events.
 
 ## ![Icon](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services outage, disruption, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
+
++++Details
 
 * Status has added API support that allows you to directly call Adobe's servers to query and view events like on the [status.adobe.com](https://status.adobe.com/) UI. You can use these APIs to integrate into your monitoring system or dashboards to view real-time events from Adobe Status that can be filtered based on Product, Product Offering, Region, Environment (where available), Locale, and Event type.
 
@@ -81,11 +83,13 @@ See [Experience League Events](https://experienceleague.adobe.com/events/?lang=e
 
 For the latest release information, see Adobe System Status [release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/02082023.html?lang=en#status).
 
++++
+
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloud interface and administration {#ecloud}
 
-+++Details
-
 Updates to Experience Cloud interface home, administration (product and user management), user profile settings, preferences, search, and cookies. 
+
++++Details
 
 _Not updated in March._
 
@@ -95,9 +99,9 @@ See the [Experience Cloud Interface and Administration Guide](https://experience
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Experience Platform] {#platform}
 
-+++Details
+Latest release information and new documentation for [!DNL Experience Platform] and [!UICONTROL Mobile SDK].
 
-Latest release information and new documentation for [!DNL Experience Platform] and [!UICONTROL Mobile SDK]:
++++Details
 
 * [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) - planned release - **March 23, 2032**
 
@@ -131,9 +135,11 @@ Updated: **October 19, 2022** - See [Release notes and change logs](https://aep-
 
 ## ![Icon](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
-Release date: **March 8, 2023**
+Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeasurement]. View new tutorials and courses on Experience League.
 
 +++Details
+
+Release date: **March 8, 2023**
 
 * [!DNL Analytics] [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en) 
 * [!DNL Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/analytics.html)
@@ -158,6 +164,10 @@ New video tutorials, articles, and courses published for Adobe Analytics.
 
 ## ![Icon](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
 
+Find the latest release information for [!DNL Customer Journey Analytics]. View new tutorials and courses on Experience League.
+
++++Details
+
 Next release: **March 8, 2023**
 
 * Customer Journey Analytics [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en)
@@ -172,6 +182,8 @@ New videos, tutorials, or courses published for CJA.
 |March 2023|[Connect Customer Journey Analytics to Experience Platform data sources](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/connecting-customer-journey-analytics-to-data-sources-in-platform.html?lang=en)|Video |Customer Journey Analytics leverages datasets ingested into Adobe Experience Platform. Before you begin data analysis in Workspace, you need to create a connection.|
 
 {style="table-layout:auto"}
+
++++
 
 <!-- ## ![Icon](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
@@ -188,8 +200,7 @@ Updates and new content for [!DNL Audience Manager]. -->
 
 New articles and updates to existing articles for [!DNL Adobe Audience Manager]
 
--->
-For self-help resources, see [Audience Manager documentation and tutorials](https://experienceleague.adobe.com/docs/audience-manager.html?lang=en) on Experience League.
+For self-help resources, see [Audience Manager documentation and tutorials](https://experienceleague.adobe.com/docs/audience-manager.html?lang=en) on Experience League.-->
 
 ## ![Icon](/assets/aem.png) Adobe Experience Manager {#aem}
 
@@ -343,7 +354,7 @@ New article and updates to existing articles for [!DNL Adobe Experience Manager]
 
 +++
 
-## ![Icon](/assets/ec_appicon_24.png) Adobe [!DNL Experience Manager Guides] {#xml-doc}
+<!-- ## ![Icon](/assets/ec_appicon_24.png) Adobe [!DNL Experience Manager Guides] {#xml-doc}
 
 [!DNL Experience Manager Guides] is an application deployed onto AEM. It is a powerful, enterprise-grade component content management solution (CCMS) which enables native DITA support in Adobe Experience Manager, empowering AEM to handle DITA-based content creation and delivery.
 
@@ -352,13 +363,13 @@ Learn more about [[!DNL Experience Manager Guides]](https://business.adobe.com/p
 ### Additional resources
 
 * [[!DNL Experience Manager Guides]](https://experienceleague.adobe.com/docs/experience-manager-guides-learn/videos/overview.html?lang=en) - tutorials on Experience League
-* [[!DNL Experience Manager Guides] Learn & Support](https://helpx.adobe.com/support/xml-documentation-for-experience-manager.html) - product documentation
+* [[!DNL Experience Manager Guides] Learn & Support](https://helpx.adobe.com/support/xml-documentation-for-experience-manager.html) - product documentation -->
 
 ## ![Icon](/assets/ec_appicon_24.png) [!DNL Adobe Commerce] {#commerce}
 
 New features and content available for [!DNL Adobe Commerce].
 
-<!-- ### Release notes for [!DNL Adobe Commerce]{#release-notes-commerce} -->
++++Details
 
 * See [Release notes for Adobe Commerce and Magento Open Source](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html) to stay current.
 
