@@ -392,7 +392,7 @@ New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |March 2023|[Journey Optimizer training sandbox tutorial](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=en)|Video |This tutorial is designed for administrators and data engineers who are tasked with providing an Adobe Journey Optimizer training environment. Learn the steps required to configure the schemas, ingest sample data, and create events. You also create three test profiles that allow the learners to check their work.|
-|March 2023|[Journey Optimizer challenges for Luma tutorial](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=en)|Video |Challenges provide a scenario and the requirements needed to practice what you learned in the Luma tutorial. Challenges help you evaluate your skill level and identify knowledge gaps.|
+|March 2023|[Journey Optimizer challenges](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=en)|Video |Challenges provide a scenario and the requirements needed to practice what you learned in the Luma tutorial. Challenges help you evaluate your skill level and identify knowledge gaps.|
 
 {style="table-layout:auto"}
 
