@@ -391,8 +391,8 @@ New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2023|[Journey Optimizer training sandbox tutorial](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=en)|Video |Learn how to configure a sandbox for training purposes. Go through the steps required to configure the schemas, ingest sample data, and create events.|
-|March 2023|[Journey Optimizer challenges](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=en)|Video |Understand the basics of building a journey in the journey canvas.|
+|March 2023|[Configure a training sandbox](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=en)|Tutorial |Learn how to configure a sandbox for training purposes. Go through the steps required to configure the schemas, ingest sample data, and create events.|
+|March 2023|[Journey Optimizer challenges](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=en)|Challenges|Challenges provide a scenario and the requirements needed to practice what you learned. Each challenge addresses a unique use case that you implement. <p>New challenges:<ul><li>[Create a summer collection announcement](https://experienceleague-review.corp.adobe.com/docs/journey-optimizer-learn/challenges/summer-collection-announcement-challenge.html?lang=en)</li><li>[Create an order confirmation](https://experienceleague-review.corp.adobe.com/docs/journey-optimizer-learn/challenges/order-confirmation-challenge.html?lang=en)</li><li>[Create a product replenishment notification](https://experienceleague-review.corp.adobe.com/docs/journey-optimizer-learn/challenges/product-replenishment-challenge.html?lang=en)</li></ul>|
 
 {style="table-layout:auto"}
 
