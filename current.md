@@ -429,6 +429,8 @@ Find out more about the latest capabilities, improvements, and fixes in the [Jou
 
 New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 
+|Published|Name|Type|Description|
+|---------|-------|--------|---------|
 |February 2023|[Configure SMS API credentials and channel surfaces](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/set-up-sms-channel.html?lang=en)|Video |Learn how to connect Journey Optimizer to an SMS service provider and how to create an SMS channel surface.|
 
 ### [!DNL Journey Optimizer] support knowledge base
