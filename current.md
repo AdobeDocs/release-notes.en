@@ -62,7 +62,7 @@ Find out what's happening on Experience League. Events are a great place to lear
 
 * **[!DNL Workfront]** | _Connect: Strategic Admin Chat_ | **March 13 @ 7:00 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,lgDkllfW8EatH2CVDH9nVQ,JWCg6TzBMUS5dX7i0qHSsA,CjE7t_FXgEaepx27DZn_7g?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _System Admin Essentials: Improving User Experience with Interface Design_ | **March 15 @ 8:00 AM PT** | [Register](https://webinars.on24.com/adobe_workfront/AdminEssentialsInterface?partnerref=exl)
+* **[!DNL Workfront]** | _System Admin Essentials: Improving User Experience with Interface Design_ | **March 15 @ 8:00 AM PT** | [Register](https://event.on24.com/wcc/r/4123271/D486841B3D743479F12BAC0C583C10ED?partnerref=exl)
 
 * **[!DNL Marketo Engage]** | _Marketo Community Q&A Coffee Break_ | **March 15 @ 08:00 AM PT** | [Register](https://mecommunityqacoffeebreak0315.splashthat.com/?utm_source=email&utm_medium=Outbound&utm_campaign=coffee_talk_ME&utm_content=230315)
 
@@ -122,7 +122,7 @@ New videos, tutorials, or courses published for Adobe Experience Platform.
 
 |Type|Product feature|Description |Application|
 | -----------| ---------- |---------- |---------- |
-|March 2023|[Ingest data using the Adobe Analytics source connector](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-ingestion/ingest-data-from-adobe-analytics.html)|Updated video |Stream, map, and filter data from Adobe Analytics into Adobe Experience Platform's Real-Time Customer Profile and Experience data lake.|Data Ingestion |
+|March 2023|[Ingest data using the Adobe Analytics source connector](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-adobe-analytics.html)|Updated video |Stream, map, and filter data from Adobe Analytics into Adobe Experience Platform's Real-Time Customer Profile and Experience data lake.|Data Ingestion |
 
 {style="table-layout:auto"}
 
@@ -132,7 +132,7 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2023|[No audience size in [!DNL Microsoft Bing] AEP sestination](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21544.html)|New article|Learn the reasons why [!DNL Bing] does not show any audience size for the AEP segments sent to the AEP [!DNL Bing] destination.|
+|February 2023|[No audience size in [!DNL Microsoft Bing] AEP destination](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21544.html)|New article|Learn the reasons why [!DNL Bing] does not show audience size for the AEP segments sent to the AEP [!DNL Bing] destination.|
 |February 2023|[What is the number of environments (dev, staging, production) that comes with the RTCDP license?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21590.html)|New article|Learn more about the number of environments and sandboxes that comes with the RTCDP license.|
 |February 2023|[Does the *Apply transformation* option on destination activation normalize (e.g. lower case) before hashing?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21591.html)|New article|Learn more about general data normalization and the workaround for it.|
 
@@ -480,7 +480,7 @@ New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |March 2023|[Configure a training sandbox](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=en)|Tutorial |Learn how to configure a sandbox for training purposes. Go through the steps required to configure the schemas, ingest sample data, and create events.|
-|March 2023|[Journey Optimizer challenges](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=en)|Challenges|Challenges provide a scenario and the requirements needed to practice what you learned. Each challenge addresses a unique use case that you implement. <p>New challenges:<ul><li>[Create a summer collection announcement](https://experienceleague-review.corp.adobe.com/docs/journey-optimizer-learn/challenges/summer-collection-announcement-challenge.html?lang=en)</li><li>[Create an order confirmation](https://experienceleague-review.corp.adobe.com/docs/journey-optimizer-learn/challenges/order-confirmation-challenge.html?lang=en)</li><li>[Create a product replenishment notification](https://experienceleague-review.corp.adobe.com/docs/journey-optimizer-learn/challenges/product-replenishment-challenge.html?lang=en)</li></ul>|
+|March 2023|[Journey Optimizer challenges](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=en)|Challenges|Challenges provide a scenario and the requirements needed to practice what you learned. Each challenge addresses a unique use case that you implement. <p>New challenges:<ul><li>[Create a summer collection announcement](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/summer-collection-announcement-challenge.html?lang=en)</li><li>[Create an order confirmation](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/order-confirmation-challenge.html?lang=en)</li><li>[Create a product replenishment notification](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/product-replenishment-challenge.html?lang=en)</li></ul>|
 
 {style="table-layout:auto"}
 
@@ -598,7 +598,7 @@ Last updated: **August 9, 2022**
 
 ### New features in [!DNL Advertising DSP] {#advertising-dsp}
 
-Learn about the latest features for Adobe ADvertising.
+Learn about the latest features for Adobe Advertising.
 
 +++Details
 
@@ -616,7 +616,7 @@ Last updated: **March 2, 2023**
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (Google Ads accounts; open beta feature; February 23 release) Read-only sync support for [!DNL Google Ads] discovery campaigns is in beta mode for all advertisers.  Discovery campaigns have [!UICONTROL Campaign Type] "[!UICONTROL Discovery]," [!UICONTROL Ad Group Type] "[!UICONTROL Discovery]," and [!UICONTROL Creative Type] "[!UICONTROL Discovery Ad]" (for single-image ads) or "[!UICONTROL Discovery Carousel Ad]" (for multi-image carousel ads). You can include discovery campaigns in standard and hybrid portfolios.<br><br>Ad-level data for your discovery campaigns is available in reports. For advertisers with an Adobe Analytics integration, ad-level data is available in [!DNL Analytics]. Similarly, [!DNL Analytics] data is available in [!DNL Search]; the data is sent using the upgraded `s_kwcid` tracking parameter, regardless of the `s_kwcid` format you normally use for the account. If you normally use the older version of the `s_kwcid`, then your click/cost data and revenue data are tracked using different `s_kwcids`, but both sets of data are fully classified and aggregated under the same campaign and account. |
+| [!UICONTROL Campaigns] | (Google Ads accounts; open beta feature; February 23 release) Read-only sync support for [!DNL Google Ads] discovery campaigns is in beta mode for all advertisers. Discovery campaigns have [!UICONTROL Campaign Type] "[!UICONTROL Discovery]," [!UICONTROL Ad Group Type] "[!UICONTROL Discovery]," and [!UICONTROL Creative Type] "[!UICONTROL Discovery Ad]" (for single-image ads) or "[!UICONTROL Discovery Carousel Ad]" (for multi-image carousel ads). You can include discovery campaigns in standard and hybrid portfolios.<br><br>Ad-level data for your discovery campaigns is available in reports. For advertisers with an Adobe Analytics integration, ad-level data is available in [!DNL Analytics]. Similarly, [!DNL Analytics] data is available in [!DNL Search]; the data is sent using the upgraded `s_kwcid` tracking parameter, regardless of the `s_kwcid` format you normally use for the account. If you normally use the older version of the `s_kwcid`, then your click/cost data and revenue data are tracked using different `s_kwcids`, but both sets of data are fully classified and aggregated under the same campaign and account. |
 |  | ([!DNL Google Ads] accounts; February 11 release) Support for the "[!UICONTROL Target Impression Share]" bid strategy is now available for campaigns on the search network only. For this bid strategy, [!DNL Google Ads] (not [!DNL Search]) optimizes bids in order to achieve a target impression share and ad position. You can optionally enter a [!UICONTROL Target Impression Share] as a percent, the [!UICONTROL Target Ad Position], and a [!UICONTROL Max CPC] (cost per click). This option isn't yet supported in hybrid portfolios. |
 | [!UICONTROL Bulksheets] | ([!DNL Microsoft] campaigns; February 11 release) Bulksheets now include "[!UICONTROL Call to Action]" and "[!UICONTROL Call to Action Language]" columns for multimedia ads (in responsive ad format), which use the "[!UICONTROL Creative (except RSA)]" row. |
 | Google Manager Accounts | (February 23 release) A new [!UICONTROL Admin] > [!UICONTROL Manager Accounts] feature allows you to provide authentication for [!DNL Google Ads] manager accounts to which [!DNL Search] will upload cross-account conversions. Use this feature if you want to a) upload [!DNL Adobe]-tracked, cross-account conversion metrics to a [!DNL Google Ads] manager account or b) upload portfolio objectives that include cross-account conversions to [!DNL Google Ads] for hybrid optimization.<br><br>Once you add credentials for a manager account, the optional "[!UICONTROL Manager Account for Cross-Account Conversions]" column in the [!UICONTROL Campaigns] > [!UICONTROL Accounts] view indicates the manager account ID for each child account, and the column shows an error when the manager account isn't authenticated. |
