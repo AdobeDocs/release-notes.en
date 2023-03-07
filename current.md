@@ -78,6 +78,8 @@ Learn about the latest features and updates in [!DNL Adobe System Status].
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
+Release date: **February 15, 2023**
+
 **What's new**
 
 * [!DNL Status] has added API support that allows you to directly call Adobe's servers to query and view events like on the [status.adobe.com](https://status.adobe.com/) UI. You can use these APIs to integrate into your monitoring system or dashboards to view real-time events from Adobe Status that can be filtered based on Product, Product Offering, Region, Environment (where available), Locale, and Event type.
