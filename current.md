@@ -16,8 +16,6 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 This page helps you stay updated on product release information, events, and learning opportunities at Experience League.
 
-[!BADGE PSI - Modality: Test center, remote online]{type=Neutral url="<https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E603> newtab=true"}
-
 >[!TIP]
 >
 >To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening with Adobe's enterprise applications.
@@ -66,7 +64,7 @@ Find out what's happening on Experience League. Events are a great place to lear
 
 * **[!DNL Marketo Engage]** | _Marketo Community Q&A Coffee Break_ | **March 15 @ 08:00 AM PT** | [Register](https://mecommunityqacoffeebreak0315.splashthat.com/?utm_source=email&utm_medium=Outbound&utm_campaign=coffee_talk_ME&utm_content=230315)
 
-* **[!DNL Adobe Summit]** |_The ultimate experience is back. Join us in Vegas to build skills, learn from the world's top brands, and be inspire_ | **March 19 @ 09:00 AM PT** | [Register](https://summit.adobe.com/na/?promoid=2K4PC9V3&mv=other)
+* **[!DNL Adobe Summit]** |_The ultimate experience is back. Join us in Vegas to build skills, learn from the world's top brands, and be inspired_ | **March 19 @ 09:00 AM PT** | [Register](https://summit.adobe.com/na/?promoid=2K4PC9V3&mv=other)
 
 See [Experience League Events](https://experienceleague.adobe.com/events/?lang=en) for a complete schedule of upcoming events and on demand past events.
 
@@ -114,7 +112,7 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 +++Details
 
-* [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) - planned release - **March 23, 2032**
+* [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) - planned release - **March 29, 2032**
 
 ### New [!DNL Experience Platform] tutorials and courses
 
