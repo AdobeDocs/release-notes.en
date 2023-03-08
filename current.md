@@ -137,7 +137,7 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 
 ### [!DNL Mobile] SDK
 
-Updated: **October 19, 2022** - See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-notes) for the [!DNL Adobe Experience Platform] [!DNL Mobile SDKs].
+Updated: **November 11, 2022** - See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-notes) for the [!DNL Adobe Experience Platform] [!DNL Mobile SDKs].
 
 +++
 
@@ -596,8 +596,6 @@ Last updated: **August 9, 2022**
 ### New features in [!DNL Advertising DSP] {#advertising-dsp}
 
 Learn about the latest features for Adobe Advertising.
-
-+++Details
 
 Last updated: **March 2, 2023**
 
