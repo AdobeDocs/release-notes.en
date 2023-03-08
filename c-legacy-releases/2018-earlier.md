@@ -2,7 +2,7 @@
 description: Previous release notes for Experience Cloud products and services. Find new help and tutorials for Creative Cloud for Enterprise and Document Cloud.
 seo-description: New features and fixes in the Adobe Experience Cloud - 2018 and earlier.
 title: Release Notes for 2019 and Earlier
-solution: Experience Cloud,Analytics,Target,Advertising Cloud
+solution: Experience Cloud,Analytics,Target,Advertising
 seo-title: Release Notes for 2018 and Earlier for Adobe Experience Cloud
 uuid: c56a1064-0f2c-4241-93c6-ca4b1f267763
 exl-id: 4e553328-1e96-48d6-addd-ff51be5eb6df
