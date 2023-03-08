@@ -5,18 +5,15 @@ doc-type: release notes
 last-update: March 2023
 author: mfrei
 mini-toc-levels: 2
-badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
-# Internal Review - Experience Cloud Release Notes
+# Experience Cloud Release Notes
 
 ![Banner](assets/release-notes-header.png)
 
 ## March 2023
 
 This page helps you stay updated on product release information, events, and learning opportunities at Experience League.
-
-[!BADGE PSI - Modality: Test center, remote online]{type=Neutral url="https://www.certmetrics.com/adobe/candidate/psi_sso_adobe.aspx?redir=yes&ec=AD0-E603 newtab=true"}
 
 >[!TIP]
 >
@@ -28,7 +25,7 @@ Your path to success starts with [Experience League](https://experienceleague.ad
 
 ## Product release updates and events
 
-Latest update: **March 3, 2023**
+Latest update: **March 8, 2023**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -68,7 +65,7 @@ Find out what's happening on Experience League. Events are a great place to lear
 
 * **[!DNL Adobe Summit]** |_The ultimate experience is back. Join us in Vegas to build skills, learn from the world's top brands, and be inspired_ | **March 19 @ 09:00 AM PT** | [Register](https://summit.adobe.com/na/?promoid=2K4PC9V3&mv=other)
 
-See [Experience League Events](https://experienceleague.adobe.com/events/?lang=en) for a complete schedule of upcoming events and on demand past events.
+See [Experience League Events](https://experienceleague.adobe.com/events/?lang=en) for a complete schedule of upcoming events and on-demand past events.
 
 +++
 
@@ -84,7 +81,7 @@ Release date: **February 15, 2023**
 
 **What's new**
 
-* [!DNL Status] has added API support that allows you to directly call Adobe's servers to query and view events like on the [status.adobe.com](https://status.adobe.com/) UI. You can use these APIs to integrate into your monitoring system or dashboards to view real-time events from Adobe Status that can be filtered based on Product, Product Offering, Region, Environment (where available), Locale, and Event type.
+* [!DNL Status] has added API support that allows you to directly call Adobe's servers to query and view events like on the [status.adobe.com](https://status.adobe.com/) UI. You can use these APIs to integrate into your monitoring system or dashboards to view real-time events from Adobe Status. Events can be filtered based on Product, Product Offering, Region, Environment (where available), Locale, and Event type.
 
 | Feature | Description |
 | ------- | -------|
@@ -132,15 +129,15 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2023|[No audience size in [!DNL Microsoft Bing] AEP destination](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21544.html)|New article|Learn the reasons why [!DNL Bing] does not show audience size for the AEP segments sent to the AEP [!DNL Bing] destination.|
+|February 2023|[No audience size in [!DNL Microsoft Bing] AEP destination](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21544.html)|New article|Learn why [!DNL Bing] does not show audience size for the AEP segments that are sent to the AEP [!DNL Bing] destination.|
 |February 2023|[What is the number of environments (dev, staging, production) that comes with the RTCDP license?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21590.html)|New article|Learn more about the number of environments and sandboxes that comes with the RTCDP license.|
-|February 2023|[Does the *Apply transformation* option on destination activation normalize (e.g. lower case) before hashing?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21591.html)|New article|Learn more about general data normalization and the workaround for it.|
+|February 2023|[Does the _Apply transformation_ option on destination activation normalize (e.g. lower case) before hashing?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21591.html)|New article|Learn more about general data normalization and the workaround for it.|
 
 {style="table-layout:auto"}
 
 ### [!DNL Mobile] SDK
 
-Updated: **October 19, 2022** - See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-notes) for the Adobe Experience Platform Mobile SDKs.
+Updated: **October 19, 2022** - See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-notes) for the [!DNL Adobe Experience Platform] [!DNL Mobile SDKs].
 
 +++
 
@@ -190,7 +187,7 @@ New videos, tutorials, or courses published for CJA.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2023|[Connect Customer Journey Analytics to Experience Platform data sources](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/connecting-customer-journey-analytics-to-data-sources-in-platform.html?lang=en)|Video |Customer Journey Analytics leverages datasets ingested into Adobe Experience Platform. Before you begin data analysis in Workspace, you need to create a connection.|
+|March 2023|[Connect Customer Journey Analytics to Experience Platform data sources](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/connecting-customer-journey-analytics-to-data-sources-in-platform.html?lang=en)|Video |Customer Journey Analytics uses datasets ingested into Adobe Experience Platform. Before you begin data analysis in Workspace, you need to create a connection.|
 
 {style="table-layout:auto"}
 
@@ -223,7 +220,7 @@ Learn about new features, fixes, and updates in Experience Manager. View the lat
 
 Adobe recommends visiting the following resources to stay updated on release information:
 
-* [[Experience Manager] release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) - Learn about the Experience Manager releases roadmap, previous release updates, and documentation updates.
+* [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) - Learn about the Experience Manager releases roadmap, previous release updates, and documentation updates.
 * [Experience Manager as a Cloud Service release updates](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=en) - Watch feature video overviews of current and past releases of [!DNL Experience Manager as a Cloud Service].
 * [Current Release Notes for Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en) - Read the latest release notes for [!DNL Experience Manager as a Cloud Service].
 
@@ -253,13 +250,13 @@ _New feature available in prerelease channel_
 
 _New features_
 
-* **[Workflow steps to generate non-interactive PDF documents and printable output](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-form-centric-workflows/aem-forms-workflow-step-reference.html?lang=en)** &ndash; Automate the creation of non-interactive PDF documents and printable output for your business processes with [!DNL Experience Manager] Workflow steps, streamlining your document generation process and saving time.
-* **[Use Footnotes to provide citations or extra information in Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/add-components-to-an-adaptive-form/footnotes-richtextsupport.html?lang=en)** &ndash; Use Footnotes in an adaptive form to display the information on how to complete or use a form. You can also use it to provide parenthetical information, copyright permissions, and other helpful information.
+* **[Workflow steps to generate non-interactive PDF documents and printable output](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-form-centric-workflows/aem-forms-workflow-step-reference.html?lang=en)** - Automate the creation of non-interactive PDF documents and printable output for your business processes with [!DNL Experience Manager] Workflow steps, streamlining your document generation process and saving time.
+* **[Use Footnotes to provide citations or extra information in Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/add-components-to-an-adaptive-form/footnotes-richtextsupport.html?lang=en)** - Use Footnotes in an adaptive form to display the information on how to complete or use a form. You can also use it to provide parenthetical information, copyright permissions, and other helpful information.
 
 
 _New features available in prerelease channel_
 
-* [Use data capture core components to build Adaptive Forms]https://experienceleague.adobe.com/docs/experience-manager-core-components/using/adaptive-forms/introduction.html?lang=en) &ndash; [Use Adaptive Forms editor](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/creating-adaptive-form-core-components.html?lang=en) to create forms based on standardized data capture components (Core Components). These components provide customization capabilities, reduced development time, and lower maintenance costs for your digital enrollment experiences.
+* [Use data capture core components to build Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/adaptive-forms/introduction.html?lang=en) &ndash; [Use Adaptive Forms editor](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/creating-adaptive-form-core-components.html?lang=en) to create forms based on standardized data capture components (Core Components). These components provide customization capabilities, reduced development time, and lower maintenance costs for your digital enrollment experiences.
 * [Frontend pipeline support for styling core component based Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/using-themes-in-core-components.html?lang=en) &ndash; Use easily customizable BEM-based themes for Core Components-based Adaptive Forms by deploying them with Frontend Deployment pipeline to enhance the look and feel of your forms.
 * [Generate Document of Record for core component based Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/generate-document-of-record-core-components.html?lang=en) &ndash; Create a record for core component based Adaptive Form on submission for long-term archival, in print or in the document format.
 * [Submit Adaptive Forms to Microsoft&reg; SharePoint and Microsoft&reg; OneDrive](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/configure-submit-actions-and-metadata-submission/configuring-submit-actions.html?lang=en) &ndash; Streamline data submission with the ability to directly send Adaptive Form data to both Microsoft&reg; SharePoint and Microsoft&reg; OneDrive. You can submit both schema-based and schema-less data. These submit actions are in addition to already available submit actions.
