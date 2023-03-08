@@ -89,8 +89,6 @@ Release date: **February 15, 2023**
 
 {style="table-layout:auto"}
 
-For the latest release information, see Adobe System Status [release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/02082023.html?lang=en#status).
-
 +++
 
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloud interface and administration {#ecloud}
