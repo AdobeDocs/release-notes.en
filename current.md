@@ -25,7 +25,7 @@ Your path to success starts with [Experience League](https://experienceleague.ad
 
 ## Product release updates and events
 
-Latest update: **March 15, 2023**
+Latest update: **March 20, 2023**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -595,6 +595,7 @@ Last updated: **August 9, 2022**
 
 Learn about the latest features for Adobe Advertising.
 
+ <!--
 Last updated: **March 2, 2023**
 
 | Feature | Description |
@@ -602,17 +603,16 @@ Last updated: **March 2, 2023**
 | [!UICONTROL Campaigns] | (February 15 release) You can now view change logs in chart form, and you can add notes to any entry. |
 
 {style="table-layout:auto"}
-
+-->
+  
 ### New features in [!DNL Advertising Search] {#advertising-search}
 
-Last updated: **March 2, 2023**
+Last updated: **March 2o, 2023**
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (Google Ads accounts; open beta feature; February 23 release) Read-only sync support for [!DNL Google Ads] discovery campaigns is in beta mode for all advertisers. Discovery campaigns have [!UICONTROL Campaign Type] "[!UICONTROL Discovery]," [!UICONTROL Ad Group Type] "[!UICONTROL Discovery]," and [!UICONTROL Creative Type] "[!UICONTROL Discovery Ad]" (for single-image ads) or "[!UICONTROL Discovery Carousel Ad]" (for multi-image carousel ads). You can include discovery campaigns in standard and hybrid portfolios.<br><br>Ad-level data for your discovery campaigns is available in reports. For advertisers with an Adobe Analytics integration, ad-level data is available in [!DNL Analytics]. Similarly, [!DNL Analytics] data is available in [!DNL Search]; the data is sent using the upgraded `s_kwcid` tracking parameter, regardless of the `s_kwcid` format you normally use for the account. If you normally use the older version of the `s_kwcid`, then your click/cost data and revenue data are tracked using different `s_kwcids`, but both sets of data are fully classified and aggregated under the same campaign and account. |
-|  | ([!DNL Google Ads] accounts; February 11 release) Support for the "[!UICONTROL Target Impression Share]" bid strategy is now available for campaigns on the search network only. For this bid strategy, [!DNL Google Ads] (not [!DNL Search]) optimizes bids in order to achieve a target impression share and ad position. You can optionally enter a [!UICONTROL Target Impression Share] as a percent, the [!UICONTROL Target Ad Position], and a [!UICONTROL Max CPC] (cost per click). This option isn't yet supported in hybrid portfolios. |
-| [!UICONTROL Bulksheets] | ([!DNL Microsoft] campaigns; February 11 release) Bulksheets now include "[!UICONTROL Call to Action]" and "[!UICONTROL Call to Action Language]" columns for multimedia ads (in responsive ad format), which use the "[!UICONTROL Creative (except RSA)]" row. |
-| Google Manager Accounts | (February 23 release) A new [!UICONTROL Admin] > [!UICONTROL Manager Accounts] feature allows you to provide authentication for [!DNL Google Ads] manager accounts to which [!DNL Search] will upload cross-account conversions. Use this feature if you want to a) upload [!DNL Adobe]-tracked, cross-account conversion metrics to a [!DNL Google Ads] manager account or b) upload portfolio objectives that include cross-account conversions to [!DNL Google Ads] for hybrid optimization.<br><br>Once you add credentials for a manager account, the optional "[!UICONTROL Manager Account for Cross-Account Conversions]" column in the [!UICONTROL Campaigns] > [!UICONTROL Accounts] view indicates the manager account ID for each child account, and the column shows an error when the manager account isn't authenticated. |
+| [!UICONTROL Campaigns] | ([!DNL Microsoft Advertising] audience campaigns; open beta feature; March 18 release) Audience campaigns can now use the enhanced CPC (eCPC) bid strategy. You can set bids within the child ad group settings.<br><br>Audience campaigns with eCPC can be included in portfolios for optimization.  |
+| [!UICONTROL Campaigns], [!UICONTROL Reports] | ([!DNL Google Ads] and [!DNL Microsoft Advertising] accounts; March 18 release) The following new prominence metrics are available in campaign management views and reports:<ul><li><p>[!UICONTROL Content IS]: The number of impressions you received for ads on the display/audience network divided by the estimated number of display ad impressions that you were eligible to receive.</p><p>This and the other "[!UICONTROL Content]*" metrics are available in all campaign management views for entities pertinent to content ads and in the related basic reports:  [!UICONTROL Search Engine], [!UICONTROL Search Engine Account], [!UICONTROL Campaign], [!UICONTROL Ad Group], and [!UICONTROL Portfolio].</p></li><li><p>[!UICONTROL Content lost IS (budget)]: The estimated percentage of impressions that your ads on the display/audience network didn't receive because your daily or monthly budget was too low.<p></li><li><p>[!UICONTROL Content lost IS (rank)]: The estimated percentage of impressions that your ads on the display/audience network weren't shown because of a poor ad rank.</p></li><li><p>[!UICONTROL Search exact match IS]: The number of impressions you received for searches that exactly matched your keyword divided by the estimated number of exact match impressions that you were eligible to receive.</p><p>This metric is available in all campaign management views for entities pertinent to search ads and in the related basic reports:  [!UICONTROL Search Engine], [!UICONTROL Search Engine Account], [!UICONTROL Campaign], [!UICONTROL Ad Group], [!UICONTROL Keyword], [!UICONTROL Product Group], and [!UICONTROL Portfolio]. They're also in the [!UICONTROL Constraint], [!UICONTROL Label Classification], and [!UICONTROL Label Value] reports.</p></li></ul> |
 
 {style="table-layout:auto"}
 
