@@ -25,7 +25,7 @@ Your path to success starts with [Experience League](https://experienceleague.ad
 
 ## Product release updates and events
 
-Latest update: **March 20, 2023**
+Latest update: **March 27, 2023**
 
 * [[!DNL Experience League] events](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -607,11 +607,12 @@ Last updated: **March 2, 2023**
   
 ### New features in [!DNL Advertising Search] {#advertising-search}
 
-Last updated: **March 2o, 2023**
+Last updated: **March 27, 2023**
 
 | Feature | Description |
 | ------- | ----------- |
 | [!UICONTROL Campaigns] | ([!DNL Microsoft Advertising] audience campaigns; open beta feature; March 18 release) Audience campaigns can now use the enhanced CPC (eCPC) bid strategy. You can set bids within the child ad group settings.<br><br>Audience campaigns with eCPC can be included in portfolios for optimization.  |
+| [!UICONTROL Campaigns], [!UICONTROL Portfolios] | ([!DNL Google Ads] accounts; open beta feature) Optimization support is now available for [!DNL Google Ads] performance max campaigns, and you can add them to hybrid portfolios. Bid strategy targets and campaign budgets are set at the campaign level. |
 | [!UICONTROL Campaigns], [!UICONTROL Reports] | ([!DNL Google Ads] and [!DNL Microsoft Advertising] accounts; March 18 release) The following new prominence metrics are available in campaign management views and reports:<ul><li><p>[!UICONTROL Content IS]: The number of impressions you received for ads on the display/audience network divided by the estimated number of display ad impressions that you were eligible to receive.</p><p>This and the other "[!UICONTROL Content]*" metrics are available in all campaign management views for entities pertinent to content ads and in the related basic reports:  [!UICONTROL Search Engine], [!UICONTROL Search Engine Account], [!UICONTROL Campaign], [!UICONTROL Ad Group], and [!UICONTROL Portfolio].</p></li><li><p>[!UICONTROL Content lost IS (budget)]: The estimated percentage of impressions that your ads on the display/audience network didn't receive because your daily or monthly budget was too low.<p></li><li><p>[!UICONTROL Content lost IS (rank)]: The estimated percentage of impressions that your ads on the display/audience network weren't shown because of a poor ad rank.</p></li><li><p>[!UICONTROL Search exact match IS]: The number of impressions you received for searches that exactly matched your keyword divided by the estimated number of exact match impressions that you were eligible to receive.</p><p>This metric is available in all campaign management views for entities pertinent to search ads and in the related basic reports:  [!UICONTROL Search Engine], [!UICONTROL Search Engine Account], [!UICONTROL Campaign], [!UICONTROL Ad Group], [!UICONTROL Keyword], [!UICONTROL Product Group], and [!UICONTROL Portfolio]. They're also in the [!UICONTROL Constraint], [!UICONTROL Label Classification], and [!UICONTROL Label Value] reports.</p></li></ul> |
 
 {style="table-layout:auto"}
