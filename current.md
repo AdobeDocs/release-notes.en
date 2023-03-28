@@ -61,7 +61,9 @@ See [Experience League Events](https://experienceleague.adobe.com/events/?lang=e
 
 ## ![Icon](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
-Learn about the latest features and updates in [!DNL Adobe System Status].
+>[!IMPORTANT]
+>
+>Learn about the latest features and updates in [!DNL Adobe System Status].
 
 +++Details
 
