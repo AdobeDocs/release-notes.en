@@ -119,8 +119,12 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2023|[Adobe Experience Platform: meta:enum can not be empty](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21767.html)|New article|Learn a workaround for the issue `meta:enum` can not be empty.|
-
+|March 2023|[Adobe Experience Platform: meta:enum cannot be emptied](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21767.html)|New article|Learn how to fix the issue where `meta:enum` cannot be emptied.|
+|March 2023|[Is it possible for a customer with AEP activation license to use event forwarding?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21592.html)|New article|Learn how a customer with an AEP activation license cab use event forwarding.|
+|March 2023|[How is AEP data secured when transmitted to different destinations?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21593.html)|New article|Learn about data security measures for AEP when transmitting out data to different destinations.|
+|March 2023|[Is the Adobe Experience Platform down?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21594.html)|New article|Learn what you can do if your AEP is not working as expected.|
+|March 2023|[Target destination stuck in 'delete-failed' status](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21626.html)|New article|Find out the solution for the issue where target destination stuck in _delete-failed_ status.|
+|March 2023|[Location Hints, AAM DCS Regional Nodes, and ID Service Location Hints](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21677.html)|New article|Learn about the relationship between AEP WebSDK Location Hints, Experience Cloud ID Service location hints, and AAM DCS Regional Nodes.|
 
 {style="table-layout:auto"}
 
@@ -200,6 +204,8 @@ New articles and updates to existing articles for [!DNL Adobe Audience Manager]
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |March 2023|[Adobe Audience Manager does not support opt-in after opt-out](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21682.html)|New article|Learn why [!DNL Adobe Audience Manager] does not support opt-in after opt-out.|
+|March 2023|[AAM Trait Population API Metrics Definitions](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21616.html)|New article|Learn about the AAM trait population API metrics.|
+|March 2023|[Update Actionable Log Files with Google Campaign Manager 360](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21633.html)|New article|Learn how to fix the actionable log files that have stopped updating with data from [!DNL Google Campaign Manager 360].|
 
 For self-help resources, see [Audience Manager documentation and tutorials](https://experienceleague.adobe.com/docs/audience-manager.html?lang=en) on Experience League.
 
@@ -338,6 +344,13 @@ New articles and updates to existing articles for [!DNL Adobe Experience Manager
 |March 2023|[Updating 'Structure Only' doesn't update content of a language copy](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21708.html)|New article|Learn how to resolve the issue where updating _Structure Only_ doesn't update content of a language copy.|
 |March 2023|[How to access your AEM instance in AEM as a Cloud Service with cURL](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21737.html)|New article|Learn how to access your AEM instance in AEM as a Cloud Service with cURL.|
 |March 2023|[Collecting status information for troubleshooting in Web Console](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21738.html)|New article|This article lists typical items to be checked and explains how to collect them.|
+|March 2023|[SSI/ESI Support in AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21610.html)|New article| Learn about the support status of SSI/ESI in AEM as a Cloud Service.|
+|March 2023|[Feature request: Add Next functionality in Asset Share Link detailed view](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21657.html)|New article| Learn about the support status of SSI/ESI in AEM as a Cloud Service.|
+|March 2023|[mod_security: Unable to upload large files/assets](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21662.html)|New article| Learn the solution for the issue where customers using version 9 of `mod_security` are unable to upload large files/assets.|
+|March 2023|[Distribution Queue blocked with AccessDeniedException](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21668.html)|New article| Learn how to fix the issue where distribution queue on author get blocked with `AccessDeniedException` error.|
+|March 2023|[Add Next functionality in Asset Share Link detailed view](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21657.html)|New article| Feature request ASSETS-21827 has been logged with engineering.|
+|March 2023|[Support for selected file formats by AEM Assets](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21609.html)|New article|Learn the answers to questions around support for file formats by AEM Assets.|
+
 {style="table-layout:auto"}
 
 ### Other Help resources for Experience Manager
