@@ -119,9 +119,8 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2023|[No audience size in [!DNL Microsoft Bing] AEP destination](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21544.html)|New article|Learn why [!DNL Bing] does not show audience size for the AEP segments that are sent to the AEP [!DNL Bing] destination.|
-|February 2023|[What is the number of environments (dev, staging, production) that comes with the RTCDP license?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21590.html)|New article|Learn more about the number of environments and sandboxes that comes with the RTCDP license.|
-|February 2023|[Does the _Apply transformation_ option on destination activation normalize (e.g. lower case) before hashing?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21591.html)|New article|Learn more about general data normalization and the workaround for it.|
+|March 2023|[Adobe Experience Platform: meta:enum can not be empty](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21767.html)|New article|Learn a workaround for the issue `meta:enum` can not be empty.|
+
 
 {style="table-layout:auto"}
 
@@ -188,17 +187,21 @@ New videos, tutorials, or courses published for CJA.
 Latest release: **September 22, 2022**
 
 * [!DNL Streaming Media Analytics] [release notes](https://experienceleague.adobe.com/docs/media-analytics/using/release-notes/release-notes.html?lang=en)
-* [!DNL Streaming Media Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=en)
+* [!DNL Streaming Media Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=en)-->
 
 ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
 
-Updates and new content for [!DNL Audience Manager]. -->
+Updates and new content for [!DNL Audience Manager].
 
-<!--### [!DNL Audience Manager] support knowledge base
+### [!DNL Audience Manager] support knowledge base
 
 New articles and updates to existing articles for [!DNL Adobe Audience Manager]
 
-For self-help resources, see [Audience Manager documentation and tutorials](https://experienceleague.adobe.com/docs/audience-manager.html?lang=en) on Experience League.-->
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|March 2023|[Adobe Audience Manager does not support opt-in after opt-out](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21682.html)|New article|Learn why [!DNL Adobe Audience Manager] does not support opt-in after opt-out.|
+
+For self-help resources, see [Audience Manager documentation and tutorials](https://experienceleague.adobe.com/docs/audience-manager.html?lang=en) on Experience League.
 
 ## ![Icon](/assets/aem.png) Adobe Experience Manager {#aem}
 
@@ -328,16 +331,13 @@ New videos, tutorials, and courses published over the past month.
 
 ### [!DNL Experience Manager] support knowledge base
 
-New article and updates to existing articles for [!DNL Adobe Experience Manager].
+New articles and updates to existing articles for [!DNL Adobe Experience Manager].
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|February 2023|[How to allow non-admin users to access Web Console?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21527.html)|New article|Learn how to allow non-admin users to access Web Console (OSGi Console).|
-|February 2023|[How to download assets with cURL?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21528.html)|New article|Learn how you can download assets with cURL.|
-|February 2023|[Error: BUILD_MAVEN_PACKAGE_ERROR in [!DNL Cloud Manager]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21577.html)|New article|Learn how to resolve the error - `Build_Maven_Package_Error` in [!DNL Cloud Manager].|
-|February 2023|[Pipeline deployment is failing during the build step](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21419.html)|New article|Find out the solution for the issue where pipeline execution is failing during the build step, due to errors in the `ui.frontend` code.|
-|February 2023|[No support of token refresh for encapsulated token](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21491.html)|New article| Find out the solution for the issue where no support for token refresh for encapsulated token.|
-
+|March 2023|[Updating 'Structure Only' doesn't update content of a language copy](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21708.html)|New article|Learn how to resolve the issue where updating _Structure Only_ doesn't update content of a language copy.|
+|March 2023|[How to access your AEM instance in AEM as a Cloud Service with cURL](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21737.html)|New article|Learn how to access your AEM instance in AEM as a Cloud Service with cURL.|
+|March 2023|[Collecting status information for troubleshooting in Web Console](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21738.html)|New article|This article lists typical items to be checked and explains how to collect them.|
 {style="table-layout:auto"}
 
 ### Other Help resources for Experience Manager
@@ -391,7 +391,7 @@ New articles and updates to existing articles for Adobe Commerce.
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|February 2023|[Quality Patches Tool (QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles|New articles on how to apply patches available in QPT 1.1.26 and QPT 1.1.27 were published and can be found in their respective sections.|
+|March 2023|[Quality Patches Tool (QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles|New articles on how to apply patches available in QPT 1.1.27 and QPT 1.1.28 were published and can be found in their respective sections.|
 
 {style="table-layout:auto"}
 
@@ -436,8 +436,10 @@ New articles and updates to existing articles for [!DNL Adobe Campaign].
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|February 2023|[Is TLS 1.3 supported?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21516.html)|New article|Find out the support status of TLS 1.3.|
-|February 2023|[API updates to profiles and services do not show](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21517.html)|New article|Find out the workaround for the issue where APIs are not being updated when publishing custom resource changes to long-text attributes in the recent versions of ACS.|
+|March 2023|[How to retrieve the verbose MTA logs?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21659.html)|New article|Learn the steps to enable verbose MTA logs.|
+|March 2023|[Negative Campaign metrics being sent in Adobe Analytics](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21660.html)|New article| Learn why negative values occur and the remedy to address negative campaign metrics.|
+|March 2023|[Negative Campaign metrics being sent in Adobe Analytics](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21660.html)|New article| Learn why negative values occur and the remedy to address negative campaign metrics.|
+|March 2023|[Discrepancy Between Delivered and Opened Emails in Delivery Summary Report](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21661.html)|New article| Learn why there is discrepancy between delivered and opened emails in elivery summary and the resolution for it.|
 
 {style="table-layout:auto"}
 
