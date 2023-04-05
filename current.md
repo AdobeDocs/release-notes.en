@@ -199,13 +199,13 @@ Updates and new content for [!DNL Audience Manager].
 
 ### [!DNL Audience Manager] support knowledge base
 
-New articles and updates to existing articles for [!DNL Adobe Audience Manager]
+New articles and updates to existing articles for [!DNL Adobe Audience Manager].
 
-|Published|Name|Type|Description |
+|Published|Name|Type|Description|
 | -----------| ---------- | ---------- | ---------- |
-|March 2023|[Adobe Audience Manager does not support opt-in after opt-out](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21682.html)|New article|Learn why [!DNL Adobe Audience Manager] does not support opt-in after opt-out.|
-|March 2023|[AAM Trait Population API Metrics Definitions](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21616.html)|New article|Learn about the AAM trait population API metrics.|
-|March 2023|[Update Actionable Log Files with Google Campaign Manager 360](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21633.html)|New article|Learn how to fix the actionable log files that have stopped updating with data from [!DNL Google Campaign Manager 360].|
+|March 2023|[Adobe Audience Manager does not support opt-in after opt-out](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21682.html)|New article|Learn why [!DNL Audience Manager] does not support opt-in after opt-out.|
+|March 2023|[AAM Trait Population API Metrics Definitions](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21616.html)|New article|Learn more about the AAM trait population API metrics.|
+|March 2023|[Update Actionable Log Files with [!DNL Google Campaign Manager 360]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21633.html)|New article|Learn how to fix Actionable Log Files that have stopped updating with data from [!DNL Google Campaign Manager 360].|
 
 For self-help resources, see [Audience Manager documentation and tutorials](https://experienceleague.adobe.com/docs/audience-manager.html?lang=en) on Experience League.
 
@@ -342,13 +342,13 @@ New articles and updates to existing articles for [!DNL Adobe Experience Manager
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
 |March 2023|[Updating 'Structure Only' doesn't update content of a language copy](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21708.html)|New article|Learn how to resolve the issue where updating _Structure Only_ doesn't update content of a language copy.|
-|March 2023|[How to access your AEM instance in AEM as a Cloud Service with cURL](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21737.html)|New article|Learn how to access your AEM instance in AEM as a Cloud Service with cURL.|
-|March 2023|[Collecting status information for troubleshooting in Web Console](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21738.html)|New article|This article lists typical items to be checked and explains how to collect them.|
+|March 2023|[How to access your AEM instance in AEM as a Cloud Service with cURL?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21737.html)|New article|Learn how to access your AEM instance in AEM as a Cloud Service with cURL.|
+|March 2023|[Collecting status information for troubleshooting in [!DNL Web Console]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21738.html)|New article|This article lists typical items to be checked and explains how to collect them in [!DNL Web Console].|
 |March 2023|[SSI/ESI Support in AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21610.html)|New article| Learn about the support status of SSI/ESI in AEM as a Cloud Service.|
 |March 2023|[Feature request: Add Next functionality in Asset Share Link detailed view](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21657.html)|New article| Learn about the support status of SSI/ESI in AEM as a Cloud Service.|
-|March 2023|[mod_security: Unable to upload large files/assets](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21662.html)|New article| Learn the solution for the issue where customers using version 9 of `mod_security` are unable to upload large files/assets.|
-|March 2023|[Distribution Queue blocked with AccessDeniedException](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21668.html)|New article| Learn how to fix the issue where distribution queue on author get blocked with `AccessDeniedException` error.|
-|March 2023|[Add Next functionality in Asset Share Link detailed view](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21657.html)|New article| Feature request ASSETS-21827 has been logged with engineering.|
+|March 2023|[[!DNL mod_security]: Unable to upload large files/assets](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21662.html)|New article| Learn how to fix the issue where customers using version 9 of [!DNL mod_security] are unable to upload large files/assets.|
+|March 2023|[Distribution Queue blocked with _AccessDeniedException_](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21668.html)|New article| Learn how to fix the issue where distribution queue on author gets blocked with _AccessDeniedException_ error.|
+|March 2023|[Add next functionality in Asset Share Link detailed view](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21657.html)|New article| Feature request ASSETS-21827 has been logged with engineering.|
 |March 2023|[Support for selected file formats by AEM Assets](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21609.html)|New article|Learn the answers to questions around support for file formats by AEM Assets.|
 
 {style="table-layout:auto"}
@@ -450,9 +450,8 @@ New articles and updates to existing articles for [!DNL Adobe Campaign].
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
 |March 2023|[How to retrieve the verbose MTA logs?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21659.html)|New article|Learn the steps to enable verbose MTA logs.|
-|March 2023|[Negative Campaign metrics being sent in Adobe Analytics](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21660.html)|New article| Learn why negative values occur and the remedy to address negative campaign metrics.|
-|March 2023|[Negative Campaign metrics being sent in Adobe Analytics](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21660.html)|New article| Learn why negative values occur and the remedy to address negative campaign metrics.|
-|March 2023|[Discrepancy Between Delivered and Opened Emails in Delivery Summary Report](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21661.html)|New article| Learn why there is discrepancy between delivered and opened emails in elivery summary and the resolution for it.|
+|March 2023|[Negative campaign metrics being sent in Adobe Analytics](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21660.html)|New article| Learn why negative values occur and the remedy to address negative campaign metrics.|
+|March 2023|[Discrepancy between delivered and opened emails in delivery summary report](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21661.html)|New article| Learn why there is discrepancy between delivered and opened emails in delivery summary and the resolution for it.|
 
 {style="table-layout:auto"}
 
@@ -486,16 +485,11 @@ New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 
 {style="table-layout:auto"}
 
-### [!DNL Journey Optimizer] support knowledge base
+<!--### [!DNL Journey Optimizer] support knowledge base
 
-New articles and updates to existing articles for [!DNL Adobe Journey Optimizer].
+New articles and updates to existing articles for [!DNL Journey Optimizer].
 
-|Published|Name|Type|Description|
-|---------|-------|--------|---------|
-|February 2023|[Opt-ins not on landing page](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21416.html)|New article|Find out the solution for the issue where opt-ins are not on landing page.|
-|February 2023|[Missing dataflow notifications](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21415.html)|New article|Find out the solution for the issue where you are not receiving notifications about data flows.|
-
-{style="table-layout:auto"}
+{style="table-layout:auto"}-->
 
 ### More resources for [!DNL Journey Optimizer]
 
