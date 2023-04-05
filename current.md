@@ -199,7 +199,7 @@ Updates and new content for [!DNL Audience Manager].
 
 ### [!DNL Audience Manager] support knowledge base
 
-New articles and updates to existing articles for [!DNL Adobe Audience Manager].
+New articles and updates to existing articles for [!DNL Audience Manager].
 
 |Published|Name|Type|Description|
 | -----------| ---------- | ---------- | ---------- |
@@ -337,7 +337,7 @@ New videos, tutorials, and courses published over the past month.
 
 ### [!DNL Experience Manager] support knowledge base
 
-New articles and updates to existing articles for [!DNL Adobe Experience Manager].
+New articles and updates to existing articles for [!DNL Experience Manager].
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
@@ -445,7 +445,7 @@ New videos, tutorials, or courses published for Adobe Campaign.
 
 ### [!DNL Campaign] support knowledge base
 
-New articles and updates to existing articles for [!DNL Adobe Campaign].
+New articles and updates to existing articles for [!DNL Campaign].
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
