@@ -25,9 +25,10 @@ Your path to success starts with [Experience League](https://experienceleague.ad
 
 ## Product release updates and events
 
-Latest update: **March 29, 2023**
+Latest update: **April 6, 2023**
 
-* [[!DNL Experience League] events](#events)
+* [[!DNL Experience League] events](#events) (**Updated April 6, 2023**)
+* [Certification](#certification) (**New! April 6, 2023**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] interface and administration](#ecloud)
 * [[!DNL Experience Platform]](#platform)
@@ -53,15 +54,31 @@ Find out what's happening on Experience League. Events are a great place to lear
 
 +++Upcoming events
 
-* **[!DNL Marketo]** | _Adobe Marketo Engage may be big, learn how a small team maximizes their instance_ | **March 30 @ 8:00 AM PT** |  [Register](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-adobe-marketo-engage-may-be-big-learn-how-a-small-team-maximizes-their-instance/)
+* **[!DNL Workfront]** | _Connect: Strategic Admin Chat_ | **April 10 @ 8:00 AM CT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-9nSc9EY3Um-uj0-EaoAPg,7VBCpt8DgEOLA67Jwa7ShA,-f6upnI-xUqzViVU-lSHMg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _Connect: Admin Chat for Marketing & Creative_ | **March 31 @ 10:00 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,zQqh7GuOYEKk9nj6La13sw,21mIvr6FckuR3RV6fXWwoA,rsGLF_yiOEma4deQintntQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Target]** | _Adobe Target Community Q&A Coffee Break with Matthew Baillie and Georgia Frailey_ | **April 12  @ 8:00 AM PT** |  [Register](https://adobe.ly/3ZV8gUG)
 
-* **[!DNL Marketo Engage]** | _Marketo & Mochas: Deliverability (Part 2)_ | **April 5 @ 1:00 PM ET** | [Register](https://register.gotowebinar.com/register/6818591002040103259)
+* **[!DNL Workfront]** | _Learn: Adobe Workfront 23.2 Release Round Up_ | **April 12 @ 12:30 PM CT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ridfURuXEU6az_bX9g1Cxg,pvTHbLZm3kSbU7ZxfauFMQ,ylMqSUM8BkCkwTFYT5Ve1A?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Adobe Summit]** |_Revisit Summit all year long!_ | **On demand** | [Details](https://business.adobe.com/summit/adobe-summit.html)
 
 See [Experience League Events](https://experienceleague.adobe.com/events/?lang=en) for a complete schedule of upcoming events and on-demand past events.
+
++++
+
+## ![Icon](/assets/certification-badge.png) Certification{#certification}
+
+Attention all Adobe certification candidates! Adobe is excited to announce the launch of the new Experience Cloud [Certification](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=en) site on Experience League. 
+
++++Details
+
+The Certification site is your one-stop shop for all [!DNL Experience Cloud] certification-related content, including:
+
+* Available certifications
+* Certification renewals for Adobe solutions
+* Certification program updates
+
+And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=en) on Experience League and start your certification journey today!
 
 +++
 
