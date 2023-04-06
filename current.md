@@ -247,9 +247,9 @@ Adobe recommends visiting the following resources to stay updated on release inf
 * [Experience Manager as a Cloud Service release updates](https://experienceleague.adobe.com/docs/experience-manager-release-overview-events/aemcsupdates/overview.html?lang=en) - Watch feature video overviews of current and past releases of [!DNL Experience Manager as a Cloud Service].
 * [Current Release Notes for Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en) - Read the latest release notes for [!DNL Experience Manager as a Cloud Service].
 
-### Latest Release Overview video
+<!-- ### Latest Release Overview video
 
-Watch the [February 2023 Release Overview video](https://video.tv.adobe.com/v/3416885) for a summary of the features added in the 2023.02.0 (February 2023) release.
+Watch the [February 2023 Release Overview video](https://video.tv.adobe.com/v/3416885) for a summary of the features added in the 2023.02.0 (February 2023) release. -->
 
 ### [!DNL Experience Manager Sites] as a [!DNL Cloud Service]
 
