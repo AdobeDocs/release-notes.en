@@ -25,10 +25,10 @@ Your path to success starts with [Experience League](https://experienceleague.ad
 
 ## Product release updates and events
 
-Latest update: **April 2023**
+Latest update: **April 6, 2023**
 
 * [[!DNL Experience League] events](#events)
-* [Certification at Adobe](#certification)
+* [Certification at Adobe](#certification) (**New!**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] interface and administration](#ecloud)
 * [[!DNL Experience Platform]](#platform)
@@ -54,17 +54,33 @@ Find out what's happening on Experience League. Events are a great place to lear
 
 +++Upcoming events
 
-* **[!DNL Analytics]** | _Accelerate time to insight with Adobe Analytics_ | **March 9 @ 8:00 AM PT** |  [Register](https://adobeanalyticsvirtualanalyst2023.experienceleague.adobeevents.com/)
+* **[!DNL Workfront]** | _Connect: Strategic Admin Chat_ | **April 10 @ 8:00 AM CT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-9nSc9EY3Um-uj0-EaoAPg,7VBCpt8DgEOLA67Jwa7ShA,-f6upnI-xUqzViVU-lSHMg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Target]** | _Adobe Target Community Q&A Coffee Break with Matthew Baillie and Georgia Frailey_ | **April 12  @ 8:00 AM PT** |  [Register](https://adobe.ly/3ZV8gUG)
+
+* **[!DNL Workfront]** | _Learn: Adobe Workfront 23.2 Release Round Up_ | **April 12 @ 12:30 PM CT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ridfURuXEU6az_bX9g1Cxg,pvTHbLZm3kSbU7ZxfauFMQ,ylMqSUM8BkCkwTFYT5Ve1A?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Adobe Summit]** |_Revisit Summit all year long!_ | **On demand** | [Details](https://business.adobe.com/summit/adobe-summit.html)
 
 See [Experience League Events](https://experienceleague.adobe.com/events/?lang=en) for a complete schedule of upcoming events and on-demand past events.
 
 +++
 
-## Certification at Adobe{#certification}
+## ![Icon](/assets/certification-badge.png) Certification{#certification}
 
-Attention all Adobe certification candidates! Adobe is excited to announce the launch of the new Certification Home on Experience League. This site is your one-stop shop for all certification-related content, including available certifications and renewals for Adobe solutions, certification program updates, and more. 
+Attention all Adobe certification candidates! Adobe is excited to announce the launch of the new Experience Cloud [Certification](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=en) site on Experience League. 
 
-Head over to [Adobe Certification](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=en) on Experience League and start your certification journey today!
++++Details
+
+The Certification site is your one-stop shop for all [!DNL Experience Cloud] certification-related content, including:
+
+* Available certifications
+* Certification renewals for Adobe solutions
+* Certification program updates
+
+And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=en) on Experience League and start your certification journey today!
+
++++Experience League and start your certification journey today!
 
 ## ![Icon](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
