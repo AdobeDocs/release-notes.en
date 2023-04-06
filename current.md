@@ -28,6 +28,7 @@ Your path to success starts with [Experience League](https://experienceleague.ad
 Latest update: **April 2023**
 
 * [[!DNL Experience League] events](#events)
+* [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] interface and administration](#ecloud)
 * [[!DNL Experience Platform]](#platform)
@@ -58,6 +59,12 @@ Find out what's happening on Experience League. Events are a great place to lear
 See [Experience League Events](https://experienceleague.adobe.com/events/?lang=en) for a complete schedule of upcoming events and on-demand past events.
 
 +++
+
+## Certification at Adobe{#certification}
+
+Attention all Adobe certification candidates! Adobe is excited to announce the launch of the new Certification Home on Experience League. This site is your one-stop shop for all certification-related content, including available certifications and renewals for Adobe solutions, certification program updates, and more. 
+
+Head over to [Adobe Certification](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=en) on Experience League and start your certification journey today!
 
 ## ![Icon](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
