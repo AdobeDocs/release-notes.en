@@ -249,7 +249,7 @@ Adobe recommends visiting the following resources to stay updated on release inf
 
 ### Latest Release Overview video
 
-Watch the [January 2023 Release Overview video](https://video.tv.adobe.com/v/3413479/?quality=12) for a summary of the features added in the 2023.01.0 (January 2023) release.
+Watch the [February 2023 Release Overview video](https://video.tv.adobe.com/v/3416885) for a summary of the features added in the 2023.02.0 (February 2023) release.
 
 ### [!DNL Experience Manager Sites] as a [!DNL Cloud Service]
 
