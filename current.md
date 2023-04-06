@@ -407,7 +407,7 @@ New articles and updates to existing articles for Adobe Commerce.
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|March 2023|[Quality Patches Tool (QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles|New articles on how to apply patches available in QPT 1.1.27 and QPT 1.1.28 were published and can be found in their respective sections.|
+|March 2023|[!DNL Quality Patches Tool (QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles|New articles on how to apply patches available in QPT 1.1.27 and QPT 1.1.28 were published and can be found in their respective sections.|
 
 {style="table-layout:auto"}
 
@@ -454,7 +454,7 @@ New articles and updates to existing articles for [!DNL Campaign].
 |---------|----|----|-----------|
 |March 2023|[How to retrieve the verbose MTA logs?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21659.html)|New article|Learn the steps to enable verbose MTA logs.|
 |March 2023|[Negative campaign metrics being sent in Adobe Analytics](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21660.html)|New article| Learn why negative values occur and the remedy to address negative campaign metrics.|
-|March 2023|[Discrepancy between delivered and opened emails in delivery summary report](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21661.html)|New article| Learn why there is discrepancy between delivered and opened emails in delivery summary and the resolution for it.|
+|March 2023|[Discrepancy between delivered and opened emails in delivery summary report](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21661.html)|New article| Learn why there is a discrepancy between delivered and opened emails in delivery summary and its resolution.|
 
 {style="table-layout:auto"}
 
