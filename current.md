@@ -112,7 +112,7 @@ Find updates to the Experience Cloud interface home page, administration (produc
 
 +++Details
 
-_Not updated in March._
+_Not updated in April._
 
 For help, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) (includes [!UICONTROL Customer Attributes] and [!UICONTROL Audiences]).
 
@@ -124,7 +124,7 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 +++Details
 
-* [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html) - planned release - **March 29, 2023**
+* [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
 
 ### New [!DNL Experience Platform] tutorials and courses
 
@@ -132,7 +132,8 @@ New videos, tutorials, or courses published for Adobe Experience Platform.
 
 |Type|Product feature|Description |Application|
 | -----------| ---------- |---------- |---------- |
-|March 2023|[Ingest data using the Adobe Analytics source connector](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-adobe-analytics.html)|Updated video |Stream, map, and filter data from Adobe Analytics into Adobe Experience Platform's Real-Time Customer Profile and Experience data lake.|Data Ingestion |
+|April 2023|[Stream data with HTTP API](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/streaming-ingestion-http-api.html)|Video |Learn how to stream data to Adobe Experience Platform in real-time using the HTTP API endpoint.|Data Ingestion |
+|April 2023|[Import sample data to Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html)|Video |Learn how to set up an Experience Platform sandbox environment with sample data. |Platform - general|
 
 {style="table-layout:auto"}
 
@@ -174,7 +175,7 @@ Release version: **2.23.0**
 
 * [AppMeasurement for JavaScript release notes](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html?lang=en)
 
-### New [!DNL Analytics] tutorials and courses {#tutorials-analytics}
+<!-- ### New [!DNL Analytics] tutorials and courses {#tutorials-analytics}
 
 New video tutorials, articles, and courses published for Adobe Analytics.
 
@@ -182,7 +183,7 @@ New video tutorials, articles, and courses published for Adobe Analytics.
 | -----------| ---------- | ---------- | ---------- |
 |March 2023|[Rich text editor in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.html?lang=en)|Updated video |Learn about the features that allow analysts and marketers to apply editing to text visualizations (or descriptions) in Analysis Workspace: bold, italics, headings, links, and more.|
 
-{style="table-layout:auto"}
+{style="table-layout:auto"} -->
 
 +++
 
@@ -203,7 +204,8 @@ New videos, tutorials, or courses published for CJA.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2023|[Connect Customer Journey Analytics to Experience Platform data sources](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/connecting-customer-journey-analytics-to-data-sources-in-platform.html?lang=en)|Video |Customer Journey Analytics uses datasets ingested into Adobe Experience Platform. Before you begin data analysis in Workspace, you need to create a connection.|
+|April 2023|[Add new data to a connection in [!DNL Customer Journey Analytics]](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/add-past-data-to-an-existing-connection-in-cja.html?lang=en)|Updated video |Get more value out of your analysis by adding new data from other channels to a [!DNL Customer Journey Analytics] connection. Moreover, understand the requirements for merging this new data, and the impacts to analysis and reports that are addressed using configuration settings.|
+|April 2023|[Configure a missing Person ID in [!DNL Customer Journey Analytics]](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/visitor-id/configure-missing-person-id.html)|Video |Learn how to address a dataset that doesn't have an available Person ID to configure.|
 
 {style="table-layout:auto"}
 
@@ -354,8 +356,13 @@ New videos, tutorials, and courses published over the past month.
 
 |Published|Name|Type|Description |Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
-|March 2023|[Rapid Development Environments](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/rde/overview.html)|Videos |Learn about Rapid Development Environment (RDE), how to set up and use it, and understand the development life cycle using RDE. |AEM CS |
-|March 2023|[Asset Share Commons Asset Kit](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/assets-share/asset-share-commons-asset-kits.html)|Video |Learn how to use Asset Share Common's asset kit functionality to generate bespoke, shareable web pages that list assets from AEM Assets folders or collections.|AEM Assets |
+|April 2023|[Report on form data field values and form field validation errors using [!DNL Analytics]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-analytics/introduction.html)|Video |Learn how to implement analytics on your adaptive forms using Tags and [!DNL Adobe Analytics]. This example guides you through the configuration and implementation steps to produce insightful reports about how visitors interact with your forms.|AEM [!DNL Forms] |
+|April 2023|[Integrating Experience Platform Data Collection Tags and AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform-data-collection-tags/overview.html)|Video |Learn how to integrate the Experience Platform Data Collection Tags (formerly know as Launch) with Adobe Experience Manager.|AEM [!DNL Sites] |
+|April 2023|[Remote SPA - Overview](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/spa-editor/remote-spa/overview.html?lang=en)|Video |Visit the multi-part tutorial for developers looking to augment an existing React-based (or Next.js) Remote SPAs with editable AEM content using AEM SPA Editor.|AEM CS |
+|April 2023|[Authenticate to AEM Author using OKTA](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/authentication/okta-saml-integration.html?lang=en)|Video |Understand various configuration settings for using single sign-on using OKTA.|AEM 6.5 |
+|April 2023|[Web-optimized image delivery Java APIs](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/advanced/web-optimized-image-delivery-java-apis.html)|Video |Learn how to use AEM as a Cloud Service's web-optimized image delivery Java APIs to develop highly performant web experiences.|AEM CS |
+|April 2023|[Content Fragment preview](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/preview.html)|Video |Learn how to use Content Fragment preview to all authors to quickly see how content changes impact your AEM Headless experiences.|AEM CS |
+|April 2023|[How to update the baseline set of [!DNL Apache] and [!DNL Dispatcher] configurations](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/local-development-environment-set-up/dispatcher-tools.html#how-to-update-the-baseline-set-of-apache-and-dispatcher-configurations)|Video |Learn how to update/sync the baseline apache, and dispatcher configs provided as part of the Dispatcher tools so that local development using Dispatcher SDK setup is not blocked and CM pipelines are not failing.|AEM CS |
 
 {style="table-layout:auto"}
 
@@ -418,9 +425,8 @@ Get access to release notes, new tutorials, and Knowledge Base articles for [!DN
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2023|[Configure Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/configure-commerce.html)|Video |Learn how to configure Adobe Commerce to expose the events.|
-|March 2023|[Get started using API Mesh](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/api-mesh/getting-started-api-mesh.html?lang=en)|Video |Discover how to use API Mesh on Adobe Commerce and Adobe App Builder. Learn about installing Adobe App Builder, working with projects, creating a graphql reverse proxy and much more.|
-|March 2023|[I/O events for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/2-4-5-installation.html?lang=en)|Video (multiple) |Learn how to install several new modules in Adobe Commerce using Composer for version 2.4.5, 2.4.6, and more. This sets up the required modules to be used in the Adobe Commerce application. |
+|April 2023|[Adobe Developer App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/first-app/overview.html)|Video |Learn how to use [!DNL App Builder] and communicate with your Adobe Commerce website. New tutorial videos are available to help you build your first [!DNL App Builder] app.|
+|April 2023|[Get started with API Mesh](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/api-mesh/getting-started-api-mesh.html)|Video |Discover how to use API Mesh on [!DNL Adobe Commerce] and [!DNL Adobe App Builder]. Learn about installing [!DNL Adobe App Builder], working with projects, creating a graphql reverse proxy and more.|
 
 {style="table-layout:auto"}
 
@@ -577,18 +583,23 @@ Learn about the latest release notes for [!DNL Adobe Workfront]. Find new tutori
 
 +++Details
 
-<!-- ### New Adobe [!DNL Workfront] courses and tutorials {#tutorials-workfront}
+### New Adobe [!DNL Workfront] courses and tutorials {#tutorials-workfront}
 
 New [!DNL Workfront] course and collections of tutorials on Experience League.
 
-**Note:** Translation on Experience League for all [[!DNL Workfront]](https://experienceleague.adobe.com/docs/workfront.html?lang=en) tutorials and product documentation is coming soon!
-
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2023|[Take charge of an existing Adobe Workfront instance](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/system-perfomance-and-maintenance/take-charge-of-an-existing-workfront-instance.html?lang=en)|Video |Learn the key phases to evaluate, understand, and optimize your instance of [!DNL Workfront] as a new system or group administrator.|
-|February 2023|[Customize project headers with layout templates](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-project-headers-with-layout-templates.html)|Video |Learn how to add and remove fields from project headers through layout templates.|
+|April 2023|[Set up your Fusion exercise files walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/set-up-your-fusion-exercise-files-walkthrough.html?lang=en)|Video |Updated exercise files to download.|
+|April 2023|[Create and mange job roles](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/organizational-setup/create-and-manage-job-roles.html?lang=en)|Video |Learn how to create job roles and associate them with users to make better assignments.|
+|April 2023|[Introduction to universal connectors](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-universal-connectors.html?lang=en)|Exercises |Expand your understanding of working with REST universal connectors and working with the data returned.|
+|April 2023|[Install the Microsoft Outlook Add-in](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/outlook/integrations-microsoft-outlook.html?lang=en)|Video |Learn how to install the Microsoft Outlook Add-in.|
+|April 2023|[Set up users with licenses and access levels](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.html?lang=en)|Video |Learn about how licenses and access levels control what access users have. Learn how job roles are used in the system.|
+|April 2023|[Initial scenario design walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=en)|Video |Create a new project in [!DNL Workfront] for each row in the Project List CSV file.|
+|April 2023|[Initial scenario design walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=en)|Updated video |Create a new project in [!DNL Workfront] for each row in the Project List CSV file.|
+|April 2023|[Align groups and teams to the strategy](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-goals/establish-a-vision-and-strategy/align-groups-and-teams-to-the-strategy.html?lang=en)|Updated video |Align Groups and Teams to the Strategy in Adobe Workfront. |
+|April 2023|[[!DNL Workfront] Goals](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-goals/create-goals/understand-how-to-use-workfront-goals.html?lang=en)|Updated videos |Learn how to navigate the Goal list, Graphs, and Goal Alignment.|
 
-{style="table-layout:auto"} -->
+{style="table-layout:auto"}
 
 See the [[!DNL Workfront] product releases](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html) page for a round-up of the latest information for all products.
 
