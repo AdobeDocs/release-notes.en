@@ -164,7 +164,7 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 +++Details
 
-Release date: **March 8, 2023**
+Release date: **April 12, 2023**
 
 * [!DNL Analytics] [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en) 
 * [!DNL Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/analytics.html)
@@ -193,7 +193,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 +++Details
 
-Next release: **March 8, 2023**
+Next release: **April 12, 2023**
 
 * Customer Journey Analytics [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en)
 * Customer Journey Analytics [product documentation and tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=en)
@@ -357,12 +357,12 @@ New videos, tutorials, and courses published over the past month.
 |Published|Name|Type|Description |Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
 |April 2023|[Report on form data field values and form field validation errors using [!DNL Analytics]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-analytics/introduction.html)|Video |Learn how to implement analytics on your adaptive forms using Tags and [!DNL Adobe Analytics]. This example guides you through the configuration and implementation steps to produce insightful reports about how visitors interact with your forms.|AEM [!DNL Forms] |
-|April 2023|[Integrating Experience Platform Data Collection Tags and AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform-data-collection-tags/overview.html)|Video |Learn how to integrate the Experience Platform Data Collection Tags (formerly know as Launch) with Adobe Experience Manager.|AEM [!DNL Sites] |
+|April 2023|[Integrating Experience Platform Data Collection Tags and AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform-data-collection-tags/overview.html)|Video |Learn how to integrate the Experience [!DNL Platform Data Collection] tags with Adobe Experience Manager.|AEM [!DNL Sites] |
 |April 2023|[Remote SPA - Overview](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/spa-editor/remote-spa/overview.html?lang=en)|Video |Visit the multi-part tutorial for developers looking to augment an existing React-based (or Next.js) Remote SPAs with editable AEM content using AEM SPA Editor.|AEM CS |
-|April 2023|[Authenticate to AEM Author using OKTA](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/authentication/okta-saml-integration.html?lang=en)|Video |Understand various configuration settings for using single sign-on using OKTA.|AEM 6.5 |
 |April 2023|[Web-optimized image delivery Java APIs](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/advanced/web-optimized-image-delivery-java-apis.html)|Video |Learn how to use AEM as a Cloud Service's web-optimized image delivery Java APIs to develop highly performant web experiences.|AEM CS |
 |April 2023|[Content Fragment preview](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/preview.html)|Video |Learn how to use Content Fragment preview to all authors to quickly see how content changes impact your AEM Headless experiences.|AEM CS |
 |April 2023|[How to update the baseline set of [!DNL Apache] and [!DNL Dispatcher] configurations](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/local-development-environment-set-up/dispatcher-tools.html#how-to-update-the-baseline-set-of-apache-and-dispatcher-configurations)|Video |Learn how to update/sync the baseline apache, and dispatcher configs provided as part of the Dispatcher tools so that local development using Dispatcher SDK setup is not blocked and CM pipelines are not failing.|AEM CS |
+|April 2023|[Authenticate to AEM Author using OKTA](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/authentication/okta-saml-integration.html?lang=en)|Video |Understand various configuration settings for using single sign-on using OKTA.|AEM 6.5 |
 
 {style="table-layout:auto"}
 
@@ -465,7 +465,7 @@ Go here for the latest capabilities, improvements, and fixes in [!DNL Adobe Camp
 
 Find out more about the latest capabilities, improvements, and fixes in the [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=en), and [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) release notes.
 
-### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
+<!-- ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
 
 New videos, tutorials, or courses published for Adobe Campaign.
 
@@ -473,7 +473,7 @@ New videos, tutorials, or courses published for Adobe Campaign.
 | -----------| ---------- | ---------- | ---------- |---------- |
 |February 2023|_Ten best practices for Adobe Campaign success for marketers_|Article|Learn the ten best practices to help Adobe Campaign practitioners unlock and accelerate the digital consumer transformation and a better experience for their customers.|See: <ul><li>[Campaign v8](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/10-best-practices-for-marketers.html)<li>[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/strategy/10-best-practices-for-marketers.html)</li><li>[Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/strategy/10-best-practices-for-marketers.html?lang=en)|
 
-{style="table-layout:auto"}
+{style="table-layout:auto"} -->
 
 ### [!DNL Campaign] support knowledge base
 
@@ -512,8 +512,7 @@ New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2023|[Configure a training sandbox](https://experienceleague.adobe.com/docs/journey-optimizer-learn/configure-a-training-sandbox/introduction-and-prerequisites.html?lang=en)|Tutorial |Learn how to configure a sandbox for training purposes. Go through the steps required to configure the schemas, ingest sample data, and create events.|
-|March 2023|[Journey Optimizer challenges](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/introduction-and-prerequisites.html?lang=en)|Challenges|Challenges provide a scenario and the requirements needed to practice what you learned. Each challenge addresses a unique use case that you implement. <p>New challenges:<ul><li>[Create a summer collection announcement](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/summer-collection-announcement-challenge.html?lang=en)</li><li>[Create an order confirmation](https://experienceleague.adobe.com/docs/journey-optimizer-learn/challenges/order-confirmation-challenge.html?lang=en)</li></ul>|
+|April 2023|[Create an in-app campaign](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-campaign.html)|Video |Understand what an in-app message is. Learn how to create, configure, and publish in-app messages in Campaigns.|
 
 {style="table-layout:auto"}
 
@@ -663,11 +662,11 @@ New tutorials and courses published for [!DNL Document Cloud], including [!DNL D
 
 +++Details
 
-|Published|Name|Type|Description |Application|
+<!-- |Published|Name|Type|Description |Application|
 | -----------| ---------- | ---------- | ---------- |---------- |
 |March 2023|[Send documents for notarization](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/notarize/send-document-notarize.html?lang=en)|Video |Learn how to send a document for notarization, view the signer's experience, and receive the results.|Acrobat Sign |
 
-{style="table-layout:auto"}
+{style="table-layout:auto"} -->
 
 For [!DNL Document Cloud] help, see:
 
