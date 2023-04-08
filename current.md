@@ -26,7 +26,7 @@ Your path to success starts with [Experience League](https://experienceleague.ad
 
 ## Product release updates and events
 
-Latest update: **April 6, 2023**
+Latest update: **April 8, 2023**
 
 * [[!DNL Experience League] events](#events)
 * [Certification at Adobe](#certification) (**New!**)
