@@ -81,6 +81,8 @@ The Certification site is your one-stop shop for all [!DNL Experience Cloud] cer
 
 And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=en) on Experience League and start your certification journey today!
 
+(Current production link: `https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=en`)
+
 +++
 
 ## ![Icon](/assets/system-status.png) [!DNL Adobe System Status] {#status}
@@ -223,6 +225,10 @@ Latest release: **September 22, 2022**
 
 Updates and new content for [!DNL Audience Manager].
 
+_Not updated._
+
++++Details
+
 ### [!DNL Audience Manager] support knowledge base
 
 New articles and updates to existing articles for [!DNL Audience Manager].
@@ -234,7 +240,11 @@ New articles and updates to existing articles for [!DNL Audience Manager].
 |March 2023|[Update Actionable Log Files with [!DNL Google Campaign Manager 360]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21633.html)|New article|Learn how to fix Actionable Log Files that have stopped updating with data from [!DNL Google Campaign Manager 360].|
 |March 2023|[Error: _Not allowed to delete due to segment sharing enabled_](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21790.html)|New article|Learn how to fix the error _Not allowed to delete due to segment sharing enabled_.|
 
+{style="table-layout:auto"}
+
 For self-help resources, see [Audience Manager documentation and tutorials](https://experienceleague.adobe.com/docs/audience-manager.html?lang=en) on Experience League.
+
++++
 
 ## ![Icon](/assets/aem.png) Adobe Experience Manager {#aem}
 
