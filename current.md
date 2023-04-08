@@ -81,7 +81,7 @@ The Certification site is your one-stop shop for all [!DNL Experience Cloud] cer
 
 And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/docs/certification/certification/overview.html?lang=en) on Experience League and start your certification journey today!
 
-+++Experience League and start your certification journey today!
++++
 
 ## ![Icon](/assets/system-status.png) [!DNL Adobe System Status] {#status}
 
