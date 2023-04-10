@@ -476,15 +476,27 @@ Go here for the latest capabilities, improvements, and fixes in [!DNL Adobe Camp
 
 Find out more about the latest capabilities, improvements, and fixes in the [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=en), and [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) release notes.
 
-<!-- ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
+### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
 
 New videos, tutorials, or courses published for Adobe Campaign.
 
 |Published|Name|Type|Description |Applications|
 | -----------| ---------- | ---------- | ---------- |---------- |
-|February 2023|_Ten best practices for Adobe Campaign success for marketers_|Article|Learn the ten best practices to help Adobe Campaign practitioners unlock and accelerate the digital consumer transformation and a better experience for their customers.|See: <ul><li>[Campaign v8](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/10-best-practices-for-marketers.html)<li>[Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/strategy/10-best-practices-for-marketers.html)</li><li>[Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/strategy/10-best-practices-for-marketers.html?lang=en)|
+|Published|Name|Type|Description |Application|
+| -----------| ---------- | ---------- | ---------- |---------- |
+|April 2023|[Query data](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/data-management/query-data.html?lang=en)|Video |Learn how to query data using the query editor.|Campaign v8|
+|April 2023|[Add attachments to an email delivery](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/add-attachments-to-an-email-delivery.html?lang=en)|Video |Learn how to add attachments to an email delivery and how to configure different types of email attachments.|Campaign v8|
+|April 2023|[Configure deliveries for A/B testing](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/configure-deliveries-for-ab-testing.html)|Video |Learn how to configure a delivery for A/B testing.|Campaign v8|
+|April 2023|[Configure Landing pages](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/landing-pages/configure-landingpages.html)|Video |Learn how to create and configure landing pages.|Campaign v8|
+|April 2023|[Configure scheduler activities](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/configure-scheduler-activities.html)|Video |Learn how to configure a scheduler activity in a workflow.|Campaign v8|
+|April 2023|[Create a preference center](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/landing-pages/create-a-preference-center.html)|Video |Learn how to create a preference center using Adobe Campaign's web application editor.|Campaign v8|
+|April 2023|[Manage time zones](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/manage-time-zones.html)|Video |Learn how to apply time zones to scheduled workflow activities.|Campaign v8|
+|April 2023|[Understand quarantine Management](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/monitoring-messages/quarantine-management.html)|Video |Understand how quarantine management works in Adobe Campaign and learn how to manage quarantined addresses.|Campaign v8|
+|April 2023|[Schedule messages](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/schedule-messages.html)|Video |Learn how to schedule an email delivery.|Campaign v8|
+|April 2023|[Understand quarantine Management](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/send-a-proof.html)|Video |Description|Campaign v8|
+|April 2023|[Send a proof for an email delivery](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/sending-test-preparing-sending-email.html)|Video |Learn how to test an email message before sending it to the final recipients.|Campaign v8|
 
-{style="table-layout:auto"} -->
+{style="table-layout:auto"}
 
 ### [!DNL Campaign] support knowledge base
 
