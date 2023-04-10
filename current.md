@@ -427,6 +427,7 @@ Get access to release notes, new tutorials, and Knowledge Base articles for [!DN
 +++Details
 
 * See [Release notes for Adobe Commerce and Magento Open Source](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html) to stay current.
+* See [Product Availability](https://experienceleague.adobe.com/docs/commerce-operations/release/product-availability.html?lang=en) to access individual product release notes and verify availability.
 
 >[!NOTE]
 >
