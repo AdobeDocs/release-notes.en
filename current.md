@@ -26,7 +26,7 @@ Your path to success starts with [Experience League](https://experienceleague.ad
 
 ## Product release updates and events
 
-Latest update: **April 8, 2023**
+Latest update: **April 10, 2023**
 
 * [[!DNL Experience League] events](#events)
 * [Certification at Adobe](#certification) (**New!**)
@@ -655,15 +655,13 @@ Last updated: **August 9, 2022**
 
 Learn about the latest features for Adobe Advertising.
 
- <!--
-Last updated: **March 2, 2023**
+Last updated: **April 10, 2023**
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | (February 15 release) You can now view change logs in chart form, and you can add notes to any entry. |
+| [!UICONTROL Reports] | (March release) A new [!UICONTROL Household] report shows impressions, reach, and frequency across various dimensions at a household level based on IP address, rather than at a device/cookie level. The report includes nine dimensions: [!UICONTROL Campaign], [!UICONTROL Package], [!UICONTROL Placement], [!UICONTROL Site/Apps], [!UICONTROL Media Type], [!UICONTROL Device], [!UICONTROL Audience], [!UICONTROL Creative Length], and user-created [!UICONTROL Tags]. |
 
 {style="table-layout:auto"}
--->
   
 ### New features in [!DNL Advertising Search] {#advertising-search}
 
