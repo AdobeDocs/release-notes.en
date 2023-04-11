@@ -26,7 +26,7 @@ Your path to success starts with [Experience League](https://experienceleague.ad
 
 ## Product release updates and events
 
-Latest update: **April 10, 2023**
+Latest update: **April 11, 2023**
 
 * [[!DNL Experience League] events](#events)
 * [Certification at Adobe](#certification) (**New!**)
@@ -433,12 +433,13 @@ Get access to release notes, new tutorials, and Knowledge Base articles for [!DN
 >
 >[!DNL Adobe Search&Promote] end-of-service occurred **September 1, 2022**. For product and commerce search, [Live Search](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=en) is Adobe's search application. See the [end-of-life announcement](https://experienceleague.adobe.com/docs/discontinued/using/search-promote.html?lang=en) for more information.
 
-### New tutorials and documentation for [!DNL Adobe Commerce] {#tutorials-commerce}
+### New tutorials for [!DNL Adobe Commerce] {#tutorials-commerce}
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |April 2023|[Adobe Developer App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/first-app/overview.html)|Video |Learn how to use [!DNL App Builder] and communicate with your Adobe Commerce website. New tutorial videos are available to help you build your first [!DNL App Builder] app.|
-|April 2023|[Get started with API Mesh](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/api-mesh/getting-started-api-mesh.html)|Video |Discover how to use API Mesh on [!DNL Adobe Commerce] and [!DNL Adobe App Builder]. Learn about installing [!DNL Adobe App Builder], working with projects, creating a graphql reverse proxy and more.|
+|April 2023|[Get started with API Mesh](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/api-mesh/getting-started-api-mesh.html)|Video |Discover how to use API Mesh on [!DNL Adobe Commerce] and [!DNL Adobe App Builder]. Learn about installing [!DNL Adobe App Builder], working with projects, creating a graphql reverse proxy and more. <p>Related: a new [entityId sample](https://experienceleague.adobe.com/docs/commerce-merchant-services/catalog-service/mesh.html?lang=en) was added to _API Mesh for Catalog Service_ product documentation.|
+|April 2023|[Experience Platform Connector Events](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/event-forwarding/events.html)|Product documentation |Added documentation for [B2B Events](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/event-forwarding/events.html#b2b-events) and [Back Office](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/event-forwarding/events.html#back-office-events) events for Experience Platform Connector.<p> [More...](https://experienceleague.adobe.com/docs/commerce-admin/b2b/release-notes.html?lang=en)|
 
 {style="table-layout:auto"}
 
