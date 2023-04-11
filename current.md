@@ -342,6 +342,25 @@ _API changes_
 * API changes were made to support [RDEs](https://developer.adobe.com/experience-cloud/cloud-manager/reference/api/#tag/Rapid-Development-Environments).
 * The API now allows retrieval of [execution artifacts](https://developer.adobe.com/experience-cloud/cloud-manager/reference/api/#tag/Execution-Artifacts).
 
+### [!DNL Workfront for Experience Manager] enhanced connector
+
+The release date for the latest version 1.9.8 of Workfront for Experience Manager enhanced connector was March 3, 2023.
+
+_Release highlights_
+
+* Performance improvements in Experience Manager while creating project linked folders in Workfront.
+* Comment deletions in Workfront are now reflected in Experience Manager.
+* Capability to manage blocking net-new customers on Experience Manager as a Cloud Service from configuring the connector.
+
+>[!IMPORTANT]
+>
+>Adobe recommends that you [upgrade to the latest 1.9.8 version](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/update-workfront-enhanced-connector.html?lang=en) of the Workfront for Experience Manager enhanced connector.
+
+_Known issues_
+
+* While configuring project linked folders with AEM 6.4, [!DNL Experience Manager] does not save the values for **sub-folders** and **Create linked folder in projects with portfolio** fields. The value for the **sub-folders** field updates to **undefined**. The value for the **Create linked folder in projects with portfolio** field updates to **Default Portfolio** automatically after saving the configuration.
+* When you are using the classic Workfront experience, the **Send to** option available in the **More** drop-down list does not let you select the target destination within Experience Manager. The **Send to** option works correctly using the **Document Actions** drop-down list. The **Send to** option works correctly for **More** drop-down list and the **Document Actions** drop-down list available in the new Workfront experience.
+
 ### Experience Manager release information
 
 All [!DNL Experience Manager] release information can be found at:
