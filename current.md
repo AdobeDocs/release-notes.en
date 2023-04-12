@@ -90,7 +90,7 @@ Learn about the latest features and updates in [!DNL Adobe System Status].
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
-See [release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/03082023.html?lang=en#status) for Adobe Status to view the latest updates.
+See [March 2023 release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/03082023.html?lang=en#status) for Adobe Status to view the latest updates.
 
 +++
 
