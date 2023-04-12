@@ -5,10 +5,9 @@ doc-type: release notes
 last-update: April 2023
 author: mfrei
 mini-toc-levels: 2
-badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
-# INTERNAL REVIEW - Experience Cloud Release Notes
+# Experience Cloud Release Notes
 
 ![Banner](assets/release-notes-header.png)
 
@@ -22,11 +21,11 @@ This page helps you stay updated on product release information, events, and lea
 
 **Need help?**
 
-Your path to success starts with [Experience League](https://experienceleague.adobe.com/?lang=en#home). Browse our vast library of self-help [product documentation](https://experienceleague.adobe.com/docs/?lang=en) and guided [tutorial videos](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=en). Find [courses](https://experienceleague.adobe.com/?lang=en#courses) for all levels and roles, ask questions from our online [community](https://experienceleaguecommunities.adobe.com/?profile.language=en) of peers, and get expert [support](https://experienceleague.adobe.com/?support-tab=home#support) when you need it. 
+Your path to success starts with [Experience League](https://experienceleague.adobe.com/?lang=en#home). Browse Adobe's vast library of self-help [product documentation](https://experienceleague.adobe.com/docs/?lang=en) and guided [tutorial videos](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=en). Find [courses](https://experienceleague.adobe.com/?lang=en#courses) for all levels and roles, ask questions from our online [community](https://experienceleaguecommunities.adobe.com/?profile.language=en) of peers, and get expert [support](https://experienceleague.adobe.com/?support-tab=home#support) when you need it. 
 
 ## Product release updates and events
 
-Latest update: **April 11, 2023**
+Latest update: **April 12, 2023**
 
 * [[!DNL Experience League] events](#events)
 * [Certification at Adobe](#certification) (**New!**)
@@ -103,7 +102,7 @@ Release date: **February 15, 2023**
 
 | Feature | Description |
 | ------- | -------|
-|Adobe Status APIs|<ul><li>Adobe Status APIs provide detailed information and real-time updates about Adobe cloud products and services outage, disruption, and maintenance events.</li><li>The APIs need to be set up in [Adobe Developer Console](https://developer.adobe.com/console) before they can be used. Your organization must have entitlements for at least one Adobe product to access Adobe APIs. A developer console account is required with the correct permissions.</li><li>Please check out the documentation [here](https://developer.adobe.com/adobe-status/) and follow the guides for setup.</li><li>Once the setup is done, you can use the [API reference document](https://developer.adobe.com/adobe-status/api/) to view the available APIs and the signatures to call them.</li></ul>|
+|Adobe Status APIs|<ul><li>Adobe Status APIs provide detailed information and real-time updates about Adobe cloud products and services outage, disruption, and maintenance events.</li><li>The APIs must be set up in [Adobe Developer Console](https://developer.adobe.com/console) before they can be used. Your organization must have entitlements for at least one Adobe product to access Adobe APIs. A developer console account is required with the correct permissions.</li><li>Check out the documentation [here](https://developer.adobe.com/adobe-status/) and follow the guides for setup.</li><li>Once the setup is done, you can use the [API reference document](https://developer.adobe.com/adobe-status/api/) to view the available APIs and the signatures to call them.</li></ul>|
 
 {style="table-layout:auto"}
 
@@ -135,7 +134,7 @@ New videos, tutorials, or courses published for Adobe Experience Platform.
 
 |Type|Product feature|Description |Application|
 | -----------| ---------- |---------- |---------- |
-|April 2023|[Stream data with HTTP API](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/streaming-ingestion-http-api.html)|Video |Learn how to stream data to Adobe Experience Platform in real-time using the HTTP API endpoint.|Data Ingestion |
+|April 2023|[Stream data with HTTP API](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/streaming-ingestion-http-api.html)|Video |Learn how to stream data to Adobe Experience Platform in real time using the HTTP API endpoint.|Data Ingestion |
 |April 2023|[Import sample data to Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html)|Video |Learn how to set up an Experience Platform sandbox environment with sample data. |Platform - general|
 
 {style="table-layout:auto"}
@@ -274,7 +273,7 @@ _New features_
 
 _New feature_
 
-* Assets Reports now include the ability for Administrators to [generate assets download reports](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/asset-reports.html?lang=en) from the [!DNL Experience Manager Assets] as a [!DNL Cloud Service] deployment. This data further empowers Admins to derive insights from key success metrics in order to measure the adoption of Assets within your enterprise and by customers.
+* Assets Reports now include the ability for Administrators to [generate assets download reports](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/asset-reports.html?lang=en) from the [!DNL Experience Manager Assets] as a [!DNL Cloud Service] deployment. This data further empowers Admins to derive insights from key success metrics to measure the adoption of Assets within your enterprise and by customers.
 * [!DNL Experience Manager Assets] now [supports SAS Token](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/add-assets.html?lang=en#asset-bulk-ingestor) in addition to the Access Key for authentication while connecting to Azure Blob Storage data source for ingesting assets using the Bulk Import tool.
 * Improved management of CMYK images in Asset Compute, letting you generate Smart Crop and Smart Tags for CMYK images.
 
@@ -389,10 +388,10 @@ New videos, tutorials, and courses published over the past month.
 |April 2023|[Report on form data field values and form field validation errors using [!DNL Analytics]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-analytics/introduction.html)|Video |Learn how to implement analytics on your adaptive forms using Tags and [!DNL Adobe Analytics]. This example guides you through the configuration and implementation steps to produce insightful reports about how visitors interact with your forms.|AEM [!DNL Forms] |
 |April 2023|[Integrating Experience Platform Data Collection Tags and AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform-data-collection-tags/overview.html)|Video |Learn how to integrate the Experience [!DNL Platform Data Collection] tags with Adobe Experience Manager.|AEM [!DNL Sites] |
 |April 2023|[Remote SPA - Overview](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/spa-editor/remote-spa/overview.html?lang=en)|Video |Visit the multi-part tutorial for developers looking to augment an existing React-based (or Next.js) Remote SPAs with editable AEM content using AEM SPA Editor.|AEM CS |
-|April 2023|[Web-optimized image delivery Java APIs](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/advanced/web-optimized-image-delivery-java-apis.html)|Video |Learn how to use AEM as a Cloud Service's web-optimized image delivery Java APIs to develop highly performant web experiences.|AEM CS |
+|April 2023|[Web-optimized image delivery Java&trade; APIs](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/advanced/web-optimized-image-delivery-java-apis.html)|Video |Learn how to use AEM as a Cloud Service's web-optimized image delivery Java&trade; APIs to develop highly performant web experiences.|AEM CS |
 |April 2023|[Content Fragment preview](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/preview.html)|Video |Learn how to use Content Fragment preview to all authors to quickly see how content changes impact your AEM Headless experiences.|AEM CS |
-|April 2023|[How to update the baseline set of [!DNL Apache] and [!DNL Dispatcher] configurations](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/local-development-environment-set-up/dispatcher-tools.html#how-to-update-the-baseline-set-of-apache-and-dispatcher-configurations)|Video |Learn how to update/sync the baseline apache, and dispatcher configs provided as part of the Dispatcher tools so that local development using Dispatcher SDK setup is not blocked and CM pipelines are not failing.|AEM CS |
-|April 2023|[Authenticate to AEM Author using OKTA](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/authentication/okta-saml-integration.html?lang=en)|Video |Understand various configuration settings for using single sign-on using OKTA.|AEM 6.5 |
+|April 2023|[How to update the baseline set of [!DNL Apache] and [!DNL Dispatcher] configurations](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/local-development-environment-set-up/dispatcher-tools.html#how-to-update-the-baseline-set-of-apache-and-dispatcher-configurations)|Video |Learn how to update or sync the baseline Apache, and Dispatcher configs provided as part of the Dispatcher tools. This action ensures that local development using Dispatcher SDK setup is not blocked and CM pipelines are not failing.|AEM CS |
+|April 2023|[Authenticate to AEM Author using OKTA](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/authentication/okta-saml-integration.html?lang=en)|Video |Understand various configuration settings for using single sign-on with OKTA.|AEM 6.5 |
 
 {style="table-layout:auto"}
 
@@ -633,11 +632,11 @@ New [!DNL Workfront] course and collections of tutorials on Experience League.
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |April 2023|[Set up your Fusion exercise files walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/set-up-your-fusion-exercise-files-walkthrough.html?lang=en)|Video |Updated exercise files to download.|
-|April 2023|[Create and mange job roles](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/organizational-setup/create-and-manage-job-roles.html?lang=en)|Video |Learn how to create job roles and associate them with users to make better assignments.|
+|April 2023|[Create and manage job roles](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/organizational-setup/create-and-manage-job-roles.html?lang=en)|Video |Learn how to create job roles and associate them with users to make better assignments.|
 |April 2023|[Introduction to universal connectors](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-universal-connectors.html?lang=en)|Exercises |Expand your understanding of working with REST universal connectors and working with the data returned.|
-|April 2023|[Install the Microsoft Outlook Add-in](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/outlook/integrations-microsoft-outlook.html?lang=en)|Video |Learn how to install the Microsoft Outlook Add-in.|
+|April 2023|[Install the Microsoft&reg; Outlook Add-in](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/outlook/integrations-microsoft-outlook.html?lang=en)|Video |Learn how to install the Microsoft&reg; Outlook Add-in.|
 |April 2023|[Set up users with licenses and access levels](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.html?lang=en)|Video |Learn about how licenses and access levels control what access users have. Learn how job roles are used in the system.|
-|April 2023|[Initial scenario design walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=en)|Updated video |Create a new project in [!DNL Workfront] for each row in the Project List CSV file.|
+|April 2023|[Initial scenario design walkthrough](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough.html?lang=en)|Updated video |Create a project in [!DNL Workfront] for each row in the Project List CSV file.|
 |April 2023|[Align groups and teams to the strategy](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-goals/establish-a-vision-and-strategy/align-groups-and-teams-to-the-strategy.html?lang=en)|Updated video |Align Groups and Teams to the Strategy in Adobe Workfront. |
 |April 2023|[[!DNL Workfront] Goals](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-goals/create-goals/understand-how-to-use-workfront-goals.html?lang=en)|Updated videos |Learn how to navigate the Goal list, Graphs, and Goal Alignment.|
 
@@ -689,9 +688,9 @@ Last updated: **March 27, 2023**
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | ([!DNL Microsoft Advertising] audience campaigns; open beta feature; March 18 release) Audience campaigns can now use the enhanced CPC (eCPC) bid strategy. You can set bids within the child ad group settings.<br><br>Audience campaigns with eCPC can be included in portfolios for optimization.  |
+| [!UICONTROL Campaigns] | ([!DNL Microsoft&reg; Advertising] audience campaigns; open beta feature; March 18 release) Audience campaigns can now use the enhanced CPC (eCPC) bid strategy. You can set bids within the child ad group settings.<br><br>Audience campaigns with eCPC can be included in portfolios for optimization.  |
 | [!UICONTROL Campaigns], [!UICONTROL Portfolios] | ([!DNL Google Ads] accounts; open beta feature) Optimization support is now available for [!DNL Google Ads] performance max campaigns, and you can add them to hybrid portfolios. Bid strategy targets and campaign budgets are set at the campaign level. |
-| [!UICONTROL Campaigns], [!UICONTROL Reports] | ([!DNL Google Ads] and [!DNL Microsoft Advertising] accounts; March 18 release) The following new prominence metrics are available in campaign management views and reports:<ul><li><p>[!UICONTROL Content IS]: The number of impressions you received for ads on the display/audience network divided by the estimated number of display ad impressions that you were eligible to receive.</p><p>This and the other "[!UICONTROL Content]*" metrics are available in all campaign management views for entities pertinent to content ads and in the related basic reports:  [!UICONTROL Search Engine], [!UICONTROL Search Engine Account], [!UICONTROL Campaign], [!UICONTROL Ad Group], and [!UICONTROL Portfolio].</p></li><li><p>[!UICONTROL Content lost IS (budget)]: The estimated percentage of impressions that your ads on the display/audience network didn't receive because your daily or monthly budget was too low.<p></li><li><p>[!UICONTROL Content lost IS (rank)]: The estimated percentage of impressions that your ads on the display/audience network weren't shown because of a poor ad rank.</p></li><li><p>[!UICONTROL Search exact match IS]: The number of impressions you received for searches that exactly matched your keyword divided by the estimated number of exact match impressions that you were eligible to receive.</p><p>This metric is available in all campaign management views for entities pertinent to search ads and in the related basic reports:  [!UICONTROL Search Engine], [!UICONTROL Search Engine Account], [!UICONTROL Campaign], [!UICONTROL Ad Group], [!UICONTROL Keyword], [!UICONTROL Product Group], and [!UICONTROL Portfolio]. They're also in the [!UICONTROL Constraint], [!UICONTROL Label Classification], and [!UICONTROL Label Value] reports.</p></li></ul> |
+| [!UICONTROL Campaigns], [!UICONTROL Reports] | ([!DNL Google Ads] and [!DNL Microsoft&reg; Advertising] accounts; March 18 release) The following new prominence metrics are available in campaign management views and reports:<ul><li><p>[!UICONTROL Content IS]: The number of impressions that you received for ads on the display/audience network divided by the estimated number of display ad impressions that you were eligible to receive.</p><p>This and the other [!UICONTROL Content] metrics are available in all campaign management views for entities pertinent to content ads and in the related basic reports:  [!UICONTROL Search Engine], [!UICONTROL Search Engine Account], [!UICONTROL Campaign], [!UICONTROL Ad Group], and [!UICONTROL Portfolio].</p></li><li><p>[!UICONTROL Content lost IS (budget)]: The estimated percentage of impressions that your ads on the display/audience network didn't receive because your daily or monthly budget was too low.<p></li><li><p>[!UICONTROL Content lost IS (rank)]: The estimated percentage of impressions that your ads on the display/audience network weren't shown because of a poor ad rank.</p></li><li><p>[!UICONTROL Search exact match IS]: The number of impressions that you received for searches that exactly matched your keyword divided by the estimated number of exact match impressions that you were eligible to receive.</p><p>This metric is available in all campaign management views for entities pertinent to search ads and in the related basic reports:  [!UICONTROL Search Engine], [!UICONTROL Search Engine Account], [!UICONTROL Campaign], [!UICONTROL Ad Group], [!UICONTROL Keyword], [!UICONTROL Product Group], and [!UICONTROL Portfolio]. They're also in the [!UICONTROL Constraint], [!UICONTROL Label Classification], and [!UICONTROL Label Value] reports.</p></li></ul> |
 
 {style="table-layout:auto"}
 
@@ -709,7 +708,7 @@ New tutorials and courses published for [!DNL Document Cloud], including [!DNL D
 
 {style="table-layout:auto"} -->
 
-For [!DNL Document Cloud] help, see:
+For [!DNL Document Cloud] tutorials, see:
 
 * [Adobe Acrobat](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/overview.html)
 * [Adobe Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
