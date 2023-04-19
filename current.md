@@ -25,7 +25,7 @@ Your path to success starts with [Experience League](https://experienceleague.ad
 
 ## Product release updates and events
 
-Latest update: **April 12, 2023**
+Latest update: **April 18, 2023**
 
 * [[!DNL Experience League] events](#events)
 * [Certification at Adobe](#certification) (**New!**)
@@ -52,13 +52,23 @@ Latest update: **April 12, 2023**
 
 Find out what's happening on Experience League. Events are a great place to learn, interact, and get answers from product experts at Adobe!
 
+Updated: **April 19, 2023**
+
 +++Upcoming events
 
-* **[!DNL Workfront]** | _Connect: Strategic Admin Chat_ | **April 10 @ 8:00 AM CT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-9nSc9EY3Um-uj0-EaoAPg,7VBCpt8DgEOLA67Jwa7ShA,-f6upnI-xUqzViVU-lSHMg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Ask the Experts: Advancing Workflow Cleanup Through Automation Webinar Follow-Up_ | **April 27 @ 10:30 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,pUGUw4e8dEaYTwHasipYnw,Qp_LrlOtoUKguf3gH4x3HQ,zWCOgeSX_Uy_Zmp7d-ZbTQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Target]** | _Adobe Target Community Q&A Coffee Break with Matthew Baillie and Georgia Frailey_ | **April 12  @ 8:00 AM PT** |  [Register](https://adobe.ly/3ZV8gUG)
+* **[!DNL Experience Manager Sites]** | _AEM Sites Supercharger Workshop_ | **April 25  @ 8:00 AM PT** |  [Register](https://adobe.ly/3ZV8gUG)
 
-* **[!DNL Workfront]** | _Learn: Adobe Workfront 23.2 Release Round Up_ | **April 12 @ 12:30 PM CT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ridfURuXEU6az_bX9g1Cxg,pvTHbLZm3kSbU7ZxfauFMQ,ylMqSUM8BkCkwTFYT5Ve1A?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Experience Platform]** | _Get data collection and event forwarding up and running with just a few clicks!_ | **April 25 @ 9:00 AM PT** | [Register](https://engage.adobe.com/ExpLeagueLive-230425.html)
+
+* **[!DNL Marketo Engage]** | _Marketo Champion Deep Dive: Email Nurture_ | **April 25 @ 10:00 AM PT** | [Register](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-marketo-champion-deep-dive-email-nurture/)
+
+* **[!DNL Experience Manager as a Cloud Service]** | _AEM Champion Office Hours - AEM as a Cloud Service_ | **April 27 @ 7:30 AM PT** | [Register](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-aem-as-a-cloud-service/)
+
+* **[!DNL Analytics]** | _Building a team of Adobe Analytics Experts_ | **April 27 @ 8:00 AM PT** | [Register](https://engage.adobe.com/Building_an_analytics_team.html?utm_source=experienceleague)
+
+* **[!DNL Target]** | _Adobe Target - Deliver personalized customer experiences, every time!_ | **April 27 @ 9:00 AM BST** | [Register](https://adobetargetemea2023.experienceleague.adobeevents.com/)
 
 * **[!DNL Adobe Summit]** |_Revisit Summit all year long!_ | **On demand** | [Details](https://business.adobe.com/summit/adobe-summit.html)
 
@@ -674,7 +684,7 @@ Last updated: **April 14, 2023**
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | ([!DNL Microsoft&reg; Advertising] audience campaigns; April 15 release) Audience campaigns can now use the "Manual CPM" bid strategy. You can set bids within the child ad group settings.<br><brOptimization support isn’t available for CPM campaigns. |
+| [!UICONTROL Campaigns] | ([!DNL Microsoft&reg; Advertising] audience campaigns; April 15 release) Audience campaigns can now use the "Manual CPM" bid strategy. You can set bids within the child ad group settings.<br><brOptimization support isn't available for CPM campaigns. |
 | [!UICONTROL Recommendations] | Six new ([!DNL Google Ads] recommendations are available from [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL Responsive search improve ad strength]: Suggestions to improve ad strength for a responsive search ad</li><li>[!UICONTROL Upgrade local campaign to performance max]: Upgrade a legacy local campaign to a performance max campaign</li><li>[!UICONTROL Upgrade smart shopping campaign to performance max]: Upgrade a legacy smart shopping campaign to a performance max campaign</li><li>[!UICONTROL Forecasting set Target ROAS]: Raise the budget before a seasonal event that is forecasted to increase traffic,and change the bidding strategy from [!DNL Maximize Conversion Value] to [!DNL Target ROAS]</li><li>[!UICONTROL Raise Target CPA bid too low]: Raise the [!DNL Target CPA] by a recommended amount when it's too low and there are few or no conversions</li><li>[!UICONTROL Display expansion opt in]: Expand reach by updating a campaign to use display expansion</li></ul>Because adding and removing assets, changing campaign types, and changing budgets and bid strategies can affect performance, we recommend discussing the pros and cons of each recommendation with your Adobe Account Team so that you can make an informed decision. |
 
 {style="table-layout:auto"}
