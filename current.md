@@ -269,7 +269,7 @@ _New features_
 
 ### [!DNL Experience Manager Assets] as a [!DNL Cloud Service]
 
-_New feature_
+_New features_
 
 * New protocol (DASH - Dynamic Adaptive Streaming over HTTP) support launched for Adaptive streaming in Dynamic Media video delivery (with CMAF enabled):
   * Adaptive streaming (DASH/HLS) ensures better end user viewing experience for videos.
