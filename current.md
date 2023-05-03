@@ -231,11 +231,9 @@ New articles and updates to existing articles for [!DNL Audience Manager].
 
 |Published|Name|Type|Description|
 | -----------| ---------- | ---------- | ---------- |
-|March 2023|[Adobe Audience Manager does not support opt-in after opt-out](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21682.html)|New article|Learn why [!DNL Audience Manager] does not support opt-in after opt-out.|
-|March 2023|[AAM Trait Population API Metrics Definitions](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21616.html)|New article|Learn more about the AAM trait population API metrics.|
-|March 2023|[Update Actionable Log Files with [!DNL Google Campaign Manager 360]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21633.html)|New article|Learn how to fix Actionable Log Files that have stopped updating with data from [!DNL Google Campaign Manager 360].|
-|March 2023|[Error: _Not allowed to delete due to segment sharing enabled_](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21790.html)|New article|Learn how to fix the error _Not allowed to delete due to segment sharing enabled_.|
-
+|April 2023|[Error: Not allowed to delete due to segment sharing enabled](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21790.html)|New article|Learn how to resolve the _Not allowed to delete due to segment sharing enabled_ error.|
+|April 2023|[Unexpected AAM UI access](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21831.html)|New article|Learn how to resolve the issue where users have access to the AAM UI but don't have specific AAM permissions|
+|April 2023|[Bulk export options](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21861.html)|New article|Learn how to export data from [!DNL Audience Manager] in bulk|
 {style="table-layout:auto"}
 
 For self-help resources, see [Audience Manager documentation and tutorials](https://experienceleague.adobe.com/docs/audience-manager.html?lang=en) on Experience League.
@@ -398,18 +396,9 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|March 2023|[Updating 'Structure Only' doesn't update content of a language copy](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21708.html)|New article|Learn how to resolve the issue where updating _Structure Only_ doesn't update content of a language copy.|
-|March 2023|[How to access your AEM instance in AEM as a Cloud Service with cURL?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21737.html)|New article|Learn how to access your AEM instance in AEM as a Cloud Service with cURL.|
-|March 2023|[Collecting status information for troubleshooting in [!DNL Web Console]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21738.html)|New article|This article lists typical items to be checked and explains how to collect them in [!DNL Web Console].|
-|March 2023|[SSI/ESI Support in AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21610.html)|New article| Learn about the support status of SSI/ESI in AEM as a Cloud Service.|
-|March 2023|[Feature request: Add Next functionality in Asset Share Link detailed view](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21657.html)|New article| Learn about the support status of SSI/ESI in AEM as a Cloud Service.|
-|March 2023|[[!DNL mod_security]: Unable to upload large files/assets](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21662.html)|New article| Learn how to fix the issue where customers using version 9 of [!DNL mod_security] are unable to upload large files/assets.|
-|March 2023|[Distribution Queue blocked with _AccessDeniedException_](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21668.html)|New article| Learn how to fix the issue where distribution queue on author gets blocked with _AccessDeniedException_ error.|
-|March 2023|[Add next functionality in Asset Share Link detailed view](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21657.html)|New article| Feature request ASSETS-21827 has been logged with engineering.|
-|March 2023|[Support for selected file formats by AEM Assets](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21609.html)|New article|Learn the answers to questions around support for file formats by AEM Assets.|
-|March 2023|[AEM GraphQL changes regarding handling of null values](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21792.html)|New article|Learn about the recent improvements in the GraphQL implementation that might cause unexpected behavior.|
-|March 2023|[References not updated during rollout for inner live copy](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21808.html)|New article|Learn how to fix the issue where references are not updated during rollout for inner live copy.|
-
+|April 2023|[Changes in GraphQL handling of null values](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21792.html)|New article|Learn how to resolve the possible unexpected behavior in the application code (in Experience Manager as a Cloud Service) due to the recent improvements made in the GraphQL implementation.|
+|April 2023|[References not updated during rollout for inner live copy](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21808.html)|New article|Learn how to resolve the issue where references are not updated during rollout for inner live copy|
+|April 2023|[Drag and drop of a folder of assets to AEM Assets Web UI fails with error, "1 of [n] assets failed"](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21865.html)|New article|Find out the workaround for the issue where drag and drop of a folder of assets to AEM Assets Web UI fails.|
 {style="table-layout:auto"}
 
 ### Other Help resources for Experience Manager
@@ -464,8 +453,7 @@ New articles and updates to existing articles for Adobe Commerce.
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|March 2023|[Quality Patches Tool (QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles|New articles on how to apply patches available in QPT 1.1.27 and QPT 1.1.28 were published and can be found in their respective sections.|
-
+|March 2023|[Quality Patches Tool (QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles|New articles on how to apply patches available in QPT 1.1.28, QPT 1.1.29, and QPT 1.1.30 were published and can be found in their respective sections.|
 {style="table-layout:auto"}
 
 +++
