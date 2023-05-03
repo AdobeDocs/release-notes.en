@@ -264,93 +264,65 @@ Watch the [February 2023 Release Overview video](https://video.tv.adobe.com/v/34
 
 _New features_
 
-* The [!DNL Experience Manager] GraphQL content delivery API now supports GraphQL [Paging](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/graphql-api/content-fragments.html?lang=en#paging) and [Sorting](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/headless/graphql-api/content-fragments.html?lang=en#sorting), to make fetching and rendering large content sets more efficient. GraphQL pagination improves query response time by returning results in subsets as opposed to all at once. GraphQL sorting lets you put content sets in a desired order, making it easier for a client application to process the content. Query response time is further improved with Hybrid Filtering in the [!DNL Experience Manager] GraphQL engine. Content is now read from JCR in smaller sets that correspond with query filters.
+* Export content fragments from AEM as a cloud service to Adobe target as JSON offers.
+* Support for GraphQL pagination and sorting, along with internal caching enhancements, now help improve the performance of decoupled client applications when fetching large content sets from AEM using complex GraphQL queries and filters.
 
 ### [!DNL Experience Manager Assets] as a [!DNL Cloud Service]
 
 _New feature_
 
-* Assets Reports now include the ability for Administrators to [generate assets download reports](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/admin/asset-reports.html?lang=en) from the [!DNL Experience Manager Assets] as a [!DNL Cloud Service] deployment. This data further empowers Admins to derive insights from key success metrics to measure the adoption of Assets within your enterprise and by customers.
-* [!DNL Experience Manager Assets] now [supports SAS Token](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/add-assets.html?lang=en#asset-bulk-ingestor) in addition to the Access Key for authentication while connecting to Azure Blob Storage data source for ingesting assets using the Bulk Import tool.
-* Improved management of CMYK images in Asset Compute, letting you generate Smart Crop and Smart Tags for CMYK images.
-
-_New feature available in prerelease channel_
-
-* [!DNL Experience Manager Assets] now supports [large-scale ingestion of assets from Google Cloud Platform](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/add-assets.html?lang=en#asset-bulk-ingestor) using the Bulk Import tool.
+* New protocol (DASH - Dynamic Adaptive Streaming over HTTP) support launched for Adaptive streaming in Dynamic Media video delivery (with CMAF enabled):
+  * Adaptive streaming (DASH/HLS) ensures better end user viewing experience for videos.
+  * DASH is the international standard protocol for adaptive video streaming and is widely adopted in the industry.
+  * Available in Asia-Pacific and North America; [enabled by way of a support ticket](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video.html?lang=en#enable-dash). Coming soon in Europe-Middle East-Africa.
+* Added support for WebP images to automatically extract metadata, generate thumbnails and custom renditions. Smart Tag and Smart Crop capabilities are also now supported for these files.
 
 ### [!DNL Experience Manager Forms] as a [!DNL Cloud Service]
 
 _New features_
 
-* **[Workflow steps to generate non-interactive PDF documents and printable output](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-form-centric-workflows/aem-forms-workflow-step-reference.html?lang=en)** - Automate the creation of non-interactive PDF documents and printable output for your business processes with [!DNL Experience Manager] Workflow steps, streamlining your document generation process and saving time.
-* **[Use Footnotes to provide citations or extra information in Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/add-components-to-an-adaptive-form/footnotes-richtextsupport.html?lang=en)** - Use Footnotes in an adaptive form to display the information on how to complete or use a form. You can also use it to provide parenthetical information, copyright permissions, and other helpful information.
+* **[Use data capture core components to build Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/adaptive-forms/introduction.html?lang=en)** &ndash; [Use Adaptive Forms editor](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/creating-adaptive-form-core-components.html?lang=en) to create forms based on standardized data capture components (Core Components). These components provide customization capabilities, reduced development time, and lower maintenance costs for your digital enrollment experiences.
+* **[Frontend pipeline support for styling core component based Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/using-themes-in-core-components.html?lang=en)** &ndash; Use standardized BEM-based themes for Core Components-based Adaptive Forms. You can deploy them with the Frontend Deployment pipeline to enhance the look and feel of your forms. It can also help align with your organization's brand approved design guidelines.
+* **[Generate Document of Record for core component based Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/generate-document-of-record-core-components.html?lang=en)** &ndash; Create a document of record containing submitted data for Adaptive Forms built using core components for archival or reference to end users, in print, or in the document format.
+* **[Efficient form-building with the Save an Adaptive Form as a template feature](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/create-an-adaptive-form-on-forms-cs/template-editor.html?lang=en#save-an-adaptive-form-as-template-saving-adaptive-form-as-template)** &ndash; Expedite and standardize form development by saving existing brand approved forms as form templates for quick reuse.
+* **[Connect AEM Forms to JDBC-Supported databases](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html?lang=en#configure-relational-database-configure-relational-database)** &ndash; Connect to enterprise databases directly from AEM Cloud service using JDBC protocol, without the need to expose them over REST API.
+* **[Integrate with REST Endpoints Using Open API 3.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html?lang=en#configure-restful-services-open-api-specification-version-20-configure-restful-services-swagger-version30)** &ndash; Seamlessly integrate into systems of record which support Open API 3.0 to store and fetch data using form data models.
+* **[Share an Adaptive Form for review](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/create-reviews-forms.html?lang=en)** &ndash; Use the Adaptive Forms review mechanism to allow one or more reviewers to review the form.
 
+### Headless Adaptive Forms early adopter program
 
-_New features available in prerelease channel_
+Use Headless Adaptive Forms to enable your developers to create, publish, and manage interactive forms that can be accessed and interacted with through APIs, rather than through a traditional graphical user interface. Headless adaptive forms help you:
 
-* [Use data capture core components to build Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/adaptive-forms/introduction.html?lang=en) &ndash; [Use Adaptive Forms editor](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/creating-adaptive-form-core-components.html?lang=en) to create forms based on standardized data capture components (Core Components). These components provide customization capabilities, reduced development time, and lower maintenance costs for your digital enrollment experiences.
-* [Frontend pipeline support for styling core component based Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/using-themes-in-core-components.html?lang=en) &ndash; Use easily customizable BEM-based themes for Core Components-based Adaptive Forms by deploying them with Frontend Deployment pipeline to enhance the look and feel of your forms.
-* [Generate Document of Record for core component based Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/generate-document-of-record-core-components.html?lang=en) &ndash; Create a record for core component based Adaptive Form on submission for long-term archival, in print or in the document format.
-* [Submit Adaptive Forms to Microsoft&reg; SharePoint and Microsoft&reg; OneDrive](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/configure-submit-actions-and-metadata-submission/configuring-submit-actions.html?lang=en) &ndash; Streamline data submission with the ability to directly send Adaptive Form data to both Microsoft&reg; SharePoint and Microsoft&reg; OneDrive. You can submit both schema-based and schema-less data. These submit actions are in addition to already available submit actions.
-* [Efficient form building with the Save an Adaptive Form as a template feature](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/create-an-adaptive-form-on-forms-cs/template-editor.html?lang=en#save-an-adaptive-form-as-template-saving-adaptive-form-as-template) &ndash; Streamline your form-building process by saving an Adaptive Form as a template and reusing the templates for your next Adaptive Form.
-* [Connect [!DNL Experience Manager Forms] to JDBC-supported databases](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html?lang=en#configure-relational-database-configure-relational-database) &ndash; Easily connect your [!DNL Experience Manager Forms] data model to databases that support JDBC, allowing you to read and write data seamlessly.
-* [Integrate with REST endpoints using Open API 3.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html?lang=en#configure-restful-services-open-api-specification-version-20-configure-restful-services-swagger-version30) &ndash; Connect [!DNL Experience Manager Forms] as a [!DNL Cloud Service] Form Data Models to REST endpoints that support Open API specification version 3.0, letting you send and receive data with ease.
-* [Share an Adaptive Form for review](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/create-reviews-forms.html?lang=en) &ndash; Use the Adaptive Forms review mechanism to let one or more people review the form.
+* Build high-quality multi-channel forms in the programming language of your choice.
+* Natively integrate forms to your desktop and mobile apps, websites, and chat applications
+* Reuse your proprietary UI components with forms applications
+* Use the power of Adobe Experience Manager Forms
 
-### CIF Add-on
-
-_New features_
-
-* Authors can dynamically enrich product lists with Experience Fragments (example: place banner between product listings).
-* The list component now supports associated product / category pages to dynamically show related pages.
-* Support for Peregrine 12.5 components was added.
-* Support for client-side price loading in product teaser and carousel was added.
-
-### [!DNL Experience Manager as a Cloud Service] Foundation
-
-_New features_
-
-* [Rapid Development Environment](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/rapid-development-environments.html?lang=en) &ndash; RDEs lets developers rapidly troubleshoot issues and deploy new features on [!DNL Experience Manager] as a [!DNL Cloud Service].
-
-  Rapid Development Environments are a new type of Cloud Environment intended as a fast, consistent, and extensible way of validating that code working locally also functions as expected in the Cloud. Using command-line tools, quickly "sync" content packages, bundles, content files, OSGI configuration, or Dispatcher configuration to the RDE.
-
-  After successfully validating code in RDE, you are encouraged to deploy it to a Cloud Development environment. In the environment, you can exercise the Cloud Manager quality gates before deploying by way of a production pipeline to stage and production environments.
-
-  Each program includes one RDE and optionally, more can be licensed.
-
-  >[!NOTE]
-  >
-  >RDEs are planned for gradual roll-out over the next few weeks. You can send an email to [aemcs-rde-support@adobe.com](mailto:aemcs-rde-support@adobe.com) to skip to the front of the line.
-
-* [Extended support for server-side API access tokens](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/generating-access-tokens-for-server-side-apis.html?lang=en) &ndash; You can now generate multiple credentials, which are useful for scenarios where APIs have different characteristics. It is also now possible to revoke credentials in a self-service manner.
+You can [send an email to aem-forms-headless@adobe.com](mailto:aem-forms-headless@adobe.com) from your official email ID to join the early adopter program.
 
 ### [!DNL Cloud Manager]
 
-_New features_
+* The [AEM Project Archetype](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html?lang=en) has been updated to version 41.
 
-* Users can download [custom UI test](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/ui-testing.html?lang=en) results from the UI.
-* [Rapid Development Environments](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/rapid-development-environments.html?lang=en) (RDEs) are a new type of Cloud Environment intended as a fast, consistent, and extensible way to validate that code that works locally also functions as expected in the Cloud.
-  * RDEs enable developers to rapidly troubleshoot issues and deploy new features on [!DNL Experience Manager] as a [!DNL Cloud Service].
-  * Using command-line tools, developers can quickly sync content packages, bundles, content files, OSGi configurations, or Dispatcher configurations to RDEs.
+**Bug fixes**
 
-_API changes_
-
-* API changes were made to support [RDEs](https://developer.adobe.com/experience-cloud/cloud-manager/reference/api/#tag/Rapid-Development-Environments).
-* The API now allows retrieval of [execution artifacts](https://developer.adobe.com/experience-cloud/cloud-manager/reference/api/#tag/Execution-Artifacts).
+* When a [certificate](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-ssl-certificates/introduction.html?lang=en) expires, [domain names](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-domain-names/introduction.html?lang=en) and [IP allowlists](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/ip-allow-lists/introduction.html?lang=en) associated with the certificate are no longer removed from the CDN. In such cases, the site is still reachable.
+* The Cloud Manager UI provides more visible warnings that the [SSL certificate](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-ssl-certificates/introduction.html?lang=en) is about to expire.
+* A rare situation was fixed where customers were unable to create or delete an environment.
 
 ### [!DNL Workfront for Experience Manager] enhanced connector
 
-The release date for the latest version 1.9.8 of Workfront for Experience Manager enhanced connector was March 3, 2023.
+The release date for the latest version 1.9.9 of Workfront for Experience Manager enhanced connector is April 10, 2023.
 
 _Release highlights_
 
-* Performance improvements in Experience Manager while creating project linked folders in Workfront.
-* Comment deletions in Workfront are now reflected in Experience Manager.
-* Capability to manage blocking net-new customers on Experience Manager as a Cloud Service from configuring the connector.
+* Experience Manager displays a DateTimeParseException exception when it receives last modified date from Workfront during linked folder creation.
+* Issues while creating multiple linked project folders within a short duration.
+* Inability to configure a threshold limit on the number of new set of project linked folders.
 
 >[!IMPORTANT]
 >
->Adobe recommends that you [upgrade to the latest 1.9.8 version](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/update-workfront-enhanced-connector.html?lang=en) of the Workfront for Experience Manager enhanced connector.
+>Adobe recommends that you [upgrade to the latest 1.9.9 version](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/update-workfront-enhanced-connector.html?lang=en) of the Workfront for Experience Manager enhanced connector.
 
 _Known issues_
 
