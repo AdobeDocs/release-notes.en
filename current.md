@@ -478,9 +478,9 @@ New articles and updates to existing articles for [!DNL Campaign].
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|March 2023|[How to retrieve the verbose MTA logs?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21659.html)|New article|Learn the steps to enable verbose MTA logs.|
-|March 2023|[Negative campaign metrics being sent in Adobe Analytics](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21660.html)|New article| Learn why negative values occur and the remedy to address negative campaign metrics.|
-|March 2023|[Discrepancy between delivered and opened emails in delivery summary report](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21661.html)|New article| Learn why there is a discrepancy between delivered and opened emails in delivery summary and its resolution.|
+|April 2023|[Retrieve data from external database where values exceed 255 characters](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21880.html)|New article|Learn how to retrieve data from external database where values exceed 255 characters.|
+|April 2023|[Error: XSV-350064 in Google BigQuery external account](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21895.html)|New article| Learn how to fix the _XSV-350064 in Google BigQuery external account_ error.|
+|April 2023|[Build 9356: External links still open in Internet Explorer post upgrade](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21907.html)|New article| Learn how to resolve the issue where the external links are still directed to Internet Explorer rather than Microsoft Edge after upgrading to 9356.|
 
 {style="table-layout:auto"}
 
