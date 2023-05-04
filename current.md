@@ -220,6 +220,7 @@ New articles and updates to existing articles for [!DNL Audience Manager].
 |April 2023|[Unexpected AAM UI access](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21831.html)|New article|Learn how to resolve the issue where users have access to the AAM UI but don't have specific AAM permissions|
 |April 2023|[Bulk export options](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21861.html)|New article|Learn how to export data from [!DNL Audience Manager] in bulk|
 |April 2023|[LiveRamp server-to-server destination](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21926.html)|New article|This article offers an overview of the [!UICONTROL LiveRamp] destination within [!DNL Audience Manager].|
+
 {style="table-layout:auto"}
 
 For self-help resources, see [Audience Manager documentation and tutorials](https://experienceleague.adobe.com/docs/audience-manager.html?lang=en) on Experience League.
@@ -357,8 +358,9 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 |April 2023|[Changes in GraphQL handling of null values](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21792.html)|New article|Learn how to resolve the possible unexpected behavior in the application code (in Experience Manager as a Cloud Service) due to the recent improvements made in the GraphQL implementation.|
 |April 2023|[References not updated during rollout for inner live copy](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21808.html)|New article|Learn how to resolve the issue where references are not updated during rollout for inner live copy.|
 |April 2023|[Drag and drop of a folder of assets to AEM Assets Web UI fails](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21865.html)|New article|Find out the workaround for the issue where drag and drop of a folder of assets to AEM Assets Web UI fails.|
-|April 2023|[Listing up published pages with Query Builder API](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21884.html)|New article|Learn how to list the pages published on an AEM author.|
-|April 2023|[How to customize the time format of the activation date for [UICONTROL Manage Publication]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21885.html)|New article|Learn how to customize the time format of the activation date for [!UICONTROL Manage Publication].|
+|April 2023|[Listing up published pages with [!UICONTROL Query Builder] API](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21884.html)|New article|Learn how to list the pages published on an AEM author.|
+|April 2023|[How to customize the time format of the activation date for [!UICONTROL Manage Publication]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21885.html)|New article|Learn how to customize the time format of the activation date for [!UICONTROL Manage Publication].|
+
 {style="table-layout:auto"}
 
 ### Other Help resources for Experience Manager
@@ -416,6 +418,7 @@ New articles and updates to existing articles for Adobe Commerce.
 |April 2023|[Quality Patches Tool (QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles|New articles on how to apply patches available in QPT 1.1.28, QPT 1.1.29, and QPT 1.1.30 were published and can be found in their respective sections.|
 |April 2023|[New domain is redirecting to default domain](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/new-domain-redirecting.html)|New article|Learn how to fix the issue where a new domain redirected to the default domain in the existing or different environment.|
 |April 2023|[How to change email address on Magento.com account when the field is grayed out?](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/change-email-address-on-magento-account.html)|New article|Learn how to change the email address on your [Magento.com](https://account.magento.com/customer/account/login) account when the field is grayed out.|
+
 {style="table-layout:auto"}
 
 +++
