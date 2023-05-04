@@ -25,10 +25,10 @@ Your path to success starts with [Experience League](https://experienceleague.ad
 
 ## Product release updates and events
 
-Latest update: **April 18, 2023**
+Latest update: **May 4, 2023**
 
-* [[!DNL Experience League] events](#events)
-* [Certification at Adobe](#certification) (**New!**)
+* [[!DNL Experience League] events](#events) (Updated: **May 4**)
+* [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] interface and administration](#ecloud)
 * [[!DNL Experience Platform]](#platform)
@@ -56,23 +56,15 @@ Updated: **April 19, 2023**
 
 +++Upcoming events
 
-* **[!DNL Workfront]** | _Ask the Experts: Advancing Workflow Cleanup Through Automation Webinar Follow-Up_ | **April 27 @ 10:30 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,pUGUw4e8dEaYTwHasipYnw,Qp_LrlOtoUKguf3gH4x3HQ,zWCOgeSX_Uy_Zmp7d-ZbTQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Connect: Admin Chat for Marketing & Creative_ | **May 5 @ 10:00 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,QZnzwwUzu0qWtspyd1Q-Ng,8nguBLkENEq0VpYFX3yJoA,D3ZwH_h7f0uQqBK-mZyEdQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Manager Sites]** | _AEM Sites Supercharger Workshop_ | **April 25  @ 8:00 AM PT** |  [Register](https://adobe.ly/3ZV8gUG)
+* **[!DNL Campaign]** | _Adobe Campaign: Get Email Marketing Right, Every Time!_ | **May 11  @ 9:00 AM BST** |  [Register](https://adobecampaignemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Experience Platform]** | _Get data collection and event forwarding up and running with just a few clicks!_ | **April 25 @ 9:00 AM PT** | [Register](https://engage.adobe.com/ExpLeagueLive-230425.html)
+* **[!DNL Workfront]** | _Learn: Calculated Custom Fields in Workfront_ | **May 11 @ 10:30 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,yCYVwQotCU2TAORLyPoHJA,_4xblJcMAkOcN_Yr0Ufvtw,LHF-Iz1B3kihhT_9ZlkFog?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Marketo Engage]** | _Marketo Champion Deep Dive: Email Nurture_ | **April 25 @ 10:00 AM PT** | [Register](https://mugs.marketo.com/events/details/marketo-adobe-deep-dive-mug-presents-marketo-champion-deep-dive-email-nurture/)
+* **[!DNL Commerce]** | _Commerce & Coffee: 7 Ways to Build Customer Loyalty & Retention_ | **May 11 @ 1:00 PM PT** | [Register](https://register.gotowebinar.com/#register/4149787110381957724)
 
-* **[!DNL Experience Manager as a Cloud Service]** | _AEM Champion Office Hours - AEM as a Cloud Service_ | **April 27 @ 7:30 AM PT** | [Register](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-aem-as-a-cloud-service/)
-
-* **[!DNL Analytics]** | _Building a team of Adobe Analytics Experts_ | **April 27 @ 8:00 AM PT** | [Register](https://engage.adobe.com/Building_an_analytics_team.html?utm_source=experienceleague)
-
-* **[!DNL Target]** | _Adobe Target - Deliver personalized customer experiences, every time!_ | **April 27 @ 9:00 AM BST** | [Register](https://adobetargetemea2023.experienceleague.adobeevents.com/)
-
-* **[!DNL Adobe Summit]** |_Revisit Summit all year long!_ | **On demand** | [Details](https://business.adobe.com/summit/adobe-summit.html)
-
-See [Experience League Events](https://experienceleague.adobe.com/events/?lang=en) for a complete schedule of upcoming events and on-demand past events.
+* **[!DNL Workfront]** | _Connect: Strategic Admin Chat_ | **May 15 @ 8:00 AM CT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,siKED3PdM0m9LF4Z0sfojg,HVuuM7Rf6EOsLsWLdiHO7w,5G5IR9qtoES1gH_rRVly8g?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 +++
 
