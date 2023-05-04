@@ -66,6 +66,8 @@ Updated: **May 4, 2023**
 
 * **[!DNL Workfront]** | _Connect: Strategic Admin Chat_ | **May 15 @ 8:00 AM CT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,siKED3PdM0m9LF4Z0sfojg,HVuuM7Rf6EOsLsWLdiHO7w,5G5IR9qtoES1gH_rRVly8g?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
+Go to [Events](https://experienceleague.adobe.com/events/?lang=en) on Experience League to view past events and see what's next.
+
 +++
 
 ## ![Icon](/assets/certification-badge.png) Certification{#certification}
