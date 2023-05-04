@@ -318,7 +318,7 @@ _Known issues_
 
 * [Adobe Experience Manager as a Cloud Service 2023.2.0 release update](https://adobe.ly/3KCfab0)
 * [Adobe Developers Live: Composable Experiences](https://adobe.ly/3GWSdOL) | Tuesday, May 23, 2023, 7:30 PM (GMT+5:30)
-* Adobe Developers Live - Composable Experiences, May 2023 | [Complete Session list](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-composable-experiences-may-2023-complete/td-p/591146)
+* Adobe Developers Live: Composable Experiences, May 2023 | [Complete Session list](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-composable-experiences-may-2023-complete/td-p/591146)
 * [Adobe Experience Manager Community Lens 5th Edition](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/adobe-experience-manager-community-lens-5th-edition-april-2023/ba-p/587822), April 2023
 
 ### Experience Manager release information
