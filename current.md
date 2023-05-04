@@ -216,9 +216,9 @@ New articles and updates to existing articles for [!DNL Audience Manager].
 
 |Published|Name|Type|Description|
 | -----------| ---------- | ---------- | ---------- |
-|April 2023|[Error: Not allowed to delete due to segment sharing enabled](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21790.html)|New article|Learn how to resolve the _Not allowed to delete due to segment sharing enabled_ error.|
-|April 2023|[Unexpected AAM UI access](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21831.html)|New article|Learn how to resolve the issue where users have access to the AAM UI but don't have specific AAM permissions|
-|April 2023|[Bulk export options](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21861.html)|New article|Learn how to export data from [!DNL Audience Manager] in bulk|
+|April 2023|[Error: _Not allowed to delete due to segment sharing enabled_](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21790.html)|New article|Learn how to resolve the _Not allowed to delete due to segment sharing enabled_ error.|
+|April 2023|[Unexpected AAM UI access](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21831.html)|New article|Learn how to resolve the issue where users have access to the AAM UI but don't have specific AAM permissions.|
+|April 2023|[Bulk export options](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21861.html)|New article|Learn how to export data from [!DNL Audience Manager] in bulk.|
 |April 2023|[LiveRamp server-to-server destination](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21926.html)|New article|This article offers an overview of the [!UICONTROL LiveRamp] destination within [!DNL Audience Manager].|
 
 {style="table-layout:auto"}
