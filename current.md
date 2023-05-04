@@ -52,7 +52,7 @@ Latest update: **May 4, 2023**
 
 Find out what's happening on Experience League. Events are a great place to learn, interact, and get answers from product experts at Adobe!
 
-Updated: **April 19, 2023**
+Updated: **May 4, 2023**
 
 +++Upcoming events
 
