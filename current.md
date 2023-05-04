@@ -314,6 +314,13 @@ _Known issues_
 * While configuring project linked folders with AEM 6.4, [!DNL Experience Manager] does not save the values for **sub-folders** and **Create linked folder in projects with portfolio** fields. The value for the **sub-folders** field updates to **undefined**. The value for the **Create linked folder in projects with portfolio** field updates to **Default Portfolio** automatically after saving the configuration.
 * When you are using the classic Workfront experience, the **Send to** option available in the **More** drop-down list does not let you select the target destination within Experience Manager. The **Send to** option works correctly using the **Document Actions** drop-down list. The **Send to** option works correctly for **More** drop-down list and the **Document Actions** drop-down list available in the new Workfront experience.
 
+### Community
+
+* [Adobe Experience Manager as a Cloud Service 2023.2.0 release update](https://adobe.ly/3KCfab0)
+* [Adobe Developers Live: Composable Experiences](https://adobe.ly/3GWSdOL) | Tuesday, May 23, 2023, 7:30 PM (GMT+5:30)
+* Adobe Developers Live - Composable Experiences, May 2023 | [Complete Session list](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-developers-live-composable-experiences-may-2023-complete/td-p/591146)
+* [Adobe Experience Manager Community Lens 5th Edition](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/adobe-experience-manager-community-lens-5th-edition-april-2023/ba-p/587822), April 2023
+
 ### Experience Manager release information
 
 All [!DNL Experience Manager] release information can be found at:
