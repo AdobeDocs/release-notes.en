@@ -136,21 +136,6 @@ New videos, tutorials, or courses published for Adobe Experience Platform.
 
 {style="table-layout:auto"}
 
-### [!DNL Experience Platform] support knowledge base
-
-New articles and updates to existing articles for [!DNL Experience Platform].
-
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|March 2023|[Adobe Experience Platform: meta:enum cannot be emptied](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21767.html)|New article|Learn how to fix the issue where `meta:enum` cannot be emptied.|
-|March 2023|[Is it possible for a customer with AEP activation license to use event forwarding?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21592.html)|New article|Learn how a customer with an AEP activation license cab use event forwarding.|
-|March 2023|[How is AEP data secured when transmitted to different destinations?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21593.html)|New article|Learn about data security measures for AEP when transmitting out data to different destinations.|
-|March 2023|[Is the Adobe Experience Platform down?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21594.html)|New article|Learn what you can do if your AEP is not working as expected.|
-|March 2023|[Target destination stuck in 'delete-failed' status](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21626.html)|New article|Find out the solution for the issue where target destination stuck in _delete-failed_ status.|
-|March 2023|[Location Hints, AAM DCS Regional Nodes, and ID Service Location Hints](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21677.html)|New article|Learn about the relationship between AEP WebSDK Location Hints, Experience Cloud ID Service location hints, and AAM DCS Regional Nodes.|
-
-{style="table-layout:auto"}
-
 ### [!DNL Mobile] SDK
 
 Updated: **November 11, 2022** - See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-notes) for the [!DNL Adobe Experience Platform] [!DNL Mobile SDKs].
@@ -429,8 +414,8 @@ New articles and updates to existing articles for Adobe Commerce.
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
 |April 2023|[Quality Patches Tool (QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles|New articles on how to apply patches available in QPT 1.1.28, QPT 1.1.29, and QPT 1.1.30 were published and can be found in their respective sections.|
-|April 2023|[New domain is redirecting to default domain](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/new-domain-redirecting.html)|New article|Learn how to fix the issue where the new domain redirects to the default domain in the existing or different environment.|
-|April 2023|[How to change email address on magento.com account when the field is grayed out?](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/change-email-address-on-magento-account.html)|New article|Learn how to change the email address on your [Magento.com](https://account.magento.com/customer/account/login) account when the field is grayed out.|
+|April 2023|[New domain is redirecting to default domain](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/new-domain-redirecting.html)|New article|Learn how to fix the issue where a new domain redirected to the default domain in the existing or different environment.|
+|April 2023|[How to change email address on Magento.com account when the field is grayed out?](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/change-email-address-on-magento-account.html)|New article|Learn how to change the email address on your [Magento.com](https://account.magento.com/customer/account/login) account when the field is grayed out.|
 {style="table-layout:auto"}
 
 +++
@@ -484,8 +469,8 @@ New articles and updates to existing articles for [!DNL Campaign].
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
 |April 2023|[Retrieve data from external database where values exceed 255 characters](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21880.html)|New article|Learn how to retrieve data from external database where values exceed 255 characters.|
-|April 2023|[Error: XSV-350064 in Google BigQuery external account](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21895.html)|New article| Learn how to fix the _XSV-350064 in Google BigQuery external account_ error.|
-|April 2023|[Build 9356: External links still open in Internet Explorer post upgrade](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21907.html)|New article| Learn how to resolve the issue where the external links are still directed to Internet Explorer rather than Microsoft Edge after upgrading to 9356.|
+|April 2023|[Error: XSV-350064 in [!DNL Google BigQuery] external account](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21895.html)|New article| Learn how to fix the _XSV-350064 in [!DNL Google BigQuery] external account_ error.|
+|April 2023|[Build 9356: External links still open in [!DNL Internet Explorer] post upgrade](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21907.html)|New article| Learn how to resolve the issue where the external links are still directed to [!DNL Internet Explorer] rather than [!DNL Microsoft Edge] after upgrading to 9356.|
 
 {style="table-layout:auto"}
 
