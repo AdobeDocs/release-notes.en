@@ -355,7 +355,7 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|April 2023|[Changes in GraphQL handling of null values](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21792.html)|New article|Learn how to resolve the possible unexpected behavior in the application code (in Experience Manager as a Cloud Service) due to the recent improvements made in the GraphQL implementation.|
+|April 2023|[Changes in GraphQL handling of null values](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21792.html)|New article|Learn how to resolve the possible unexpected behavior in the application code (in [!DNL Experience Manager as a Cloud Service]) due to the recent improvements made in the GraphQL implementation.|
 |April 2023|[References not updated during rollout for inner live copy](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21808.html)|New article|Learn how to resolve the issue where references are not updated during rollout for inner live copy.|
 |April 2023|[Drag and drop of a folder of assets to AEM Assets Web UI fails](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21865.html)|New article|Find out the workaround for the issue where drag and drop of a folder of assets to AEM Assets Web UI fails.|
 |April 2023|[Listing up published pages with [!UICONTROL Query Builder] API](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21884.html)|New article|Learn how to list the pages published on an AEM author.|
@@ -416,7 +416,7 @@ New articles and updates to existing articles for Adobe Commerce.
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
 |April 2023|[Quality Patches Tool (QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles|New articles on how to apply patches available in QPT 1.1.28, QPT 1.1.29, and QPT 1.1.30 were published and can be found in their respective sections.|
-|April 2023|[New domain is redirecting to default domain](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/new-domain-redirecting.html)|New article|Learn how to fix the issue where a new domain redirected to the default domain in the existing or different environment.|
+|April 2023|[New domain is redirecting to default domain](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/new-domain-redirecting.html)|New article|Learn how to fix the issue where a new domain is redirected to the default domain in the existing or different environment.|
 |April 2023|[How to change email address on Magento.com account when the field is grayed out?](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/change-email-address-on-magento-account.html)|New article|Learn how to change the email address on your [Magento.com](https://account.magento.com/customer/account/login) account when the field is grayed out.|
 
 {style="table-layout:auto"}
@@ -472,7 +472,7 @@ New articles and updates to existing articles for [!DNL Campaign].
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
 |April 2023|[Retrieve data from external database where values exceed 255 characters](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21880.html)|New article|Learn how to retrieve data from external database where values exceed 255 characters.|
-|April 2023|[Error: XSV-350064 in [!DNL Google BigQuery] external account](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21895.html)|New article| Learn how to fix the _XSV-350064 in [!DNL Google BigQuery] external account_ error.|
+|April 2023|[Error: _XSV-350064 in [!DNL Google BigQuery] external account_](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21895.html)|New article| Learn how to fix the _XSV-350064 in [!DNL Google BigQuery] external account_ error.|
 |April 2023|[Build 9356: External links still open in [!DNL Internet Explorer] post upgrade](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21907.html)|New article| Learn how to resolve the issue where the external links are still directed to [!DNL Internet Explorer] rather than [!DNL Microsoft Edge] after upgrading to 9356.|
 
 {style="table-layout:auto"}
@@ -591,6 +591,17 @@ New [!DNL Workfront] course and collections of tutorials on Experience League.
 |April 2023|[[!DNL Workfront] Goals](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-goals/create-goals/understand-how-to-use-workfront-goals.html?lang=en)|Updated videos |Learn how to navigate the Goal list, Graphs, and Goal Alignment.|
 
 {style="table-layout:auto"}
+
+### [!DNL Workfront] support knowledge base
+
+New articles and updates to existing articles for [!DNL Workfront].
+
+|Published|Name|Type|Description|
+| -----------| ---------- | ---------- | ---------- |
+|April 2023|[Unable to edit Custom Fields](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21913.html)|New article|Learn how to solve the issue where users encounter problems editing the custom fields.|
+
+{style="table-layout:auto"}
+
 
 See the [[!DNL Workfront] product releases](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html) page for a round-up of the latest information for all products.
 
