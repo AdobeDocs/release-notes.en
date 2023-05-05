@@ -72,7 +72,7 @@ Updated: **May 10, 2023**
 
 ## ![Icon](/assets/certification-badge.png) Certification{#certification}
 
-Attention all Adobe certification candidates! Adobe is excited to announce the launch of the new Experience Cloud [Certification](https://experienceleague.adobe.com/docs/certification/program/overview.html?lang=en) site on Experience League. 
+Attention all Adobe certification candidates! Visit the new Experience Cloud [Certification](https://experienceleague.adobe.com/docs/certification/program/overview.html?lang=en) site on Experience League. 
 
 +++Details
 
@@ -104,7 +104,7 @@ Find updates to the Experience Cloud interface home page, administration (produc
 
 +++Details
 
-_Not updated in April._
+_Not updated in May._
 
 For help, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) (includes [!UICONTROL Customer Attributes] and [!UICONTROL Audiences]).
 
@@ -140,7 +140,7 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 +++Details
 
-Release date: **April 12, 2023**
+Release date: **May 10, 2023**
 
 * [!DNL Analytics] [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en) 
 * [!DNL Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/analytics.html)
@@ -340,11 +340,11 @@ New videos, tutorials, and courses published over the past month.
 | -----------| ---------- | ---------- | ---------- | ------|
 |May 2023|[Integrate Experience Platform Web SDK](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/web-sdk.html#create-datastream---experience-platform)|Video |Learn how to integrate AEM as a Cloud Service with Experience Platform Web SDK.|AEM Sites|
 |May 2023|[Customize text editor in interactive communications](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/interactive-communications/customize-text-editor.html)|Video |Customize the text editor in interactive communications to add custom fonts and sizes.|AEM Forms |
-|May 2023|[How to work with large results in AEM Headless](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/large-result-sets.html?lang=en)|Video |Learn how to work with large result sets with AEM Headless.|AEM CS |
 |May 2023|[React app with AEM Forms and Acrobat Sign](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/react-ic-sign/introduction.html)|Video |Create an interactive communication document with the data submitted from a native react app and present it to the end user for signing using the Acrobat sign widget|AEM Forms |
 |May 2023|[Integrate Forms CS with Sharepoint](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-in-sharepoint.html)|Video |Learn to configure and integrate AEM Forms CS with Microsoft&reg; Sharepoint|AEM Forms CS|
 |May 2023|[Store form submission in One Drive](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-one-drive.html)|Video |Configure adaptive form to store form data in one drive.|AEM Forms CS |
 |May 2023|[How to use optimized images from AEM Headless](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/images.html)|Video |Learn how to use optimized images in AEM Headless.|AEM CS |
+|May 2023|[How to work with large results in AEM Headless](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/large-result-sets.html?lang=en)|Video |Learn how to work with large result sets with AEM Headless.|AEM CS |
 
 {style="table-layout:auto"}
 
@@ -446,7 +446,7 @@ Go here for the latest capabilities, improvements, and fixes in [!DNL Adobe Camp
 
 Find out more about the latest capabilities, improvements, and fixes in the [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=en), and [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) release notes.
 
-### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
+<!-- ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
 
 New videos, tutorials, or courses published for Adobe Campaign.
 
@@ -463,7 +463,7 @@ New videos, tutorials, or courses published for Adobe Campaign.
 |April 2023|[Schedule messages](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/schedule-messages.html)|Video |Learn how to schedule an email delivery.|Campaign v8|
 |April 2023|[Send a proof for an email delivery](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/sending-test-preparing-sending-email.html)|Video |Learn how to test an email message before sending it to the final recipients.|Campaign v8|
 
-{style="table-layout:auto"}
+{style="table-layout:auto"} -->
 
 ### [!DNL Campaign] support knowledge base
 
@@ -496,7 +496,7 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 Find out more about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
 
-### New [!DNL Journey Optimizer] tutorials and courses {#tutorials-ajo}
+<!-- ### New [!DNL Journey Optimizer] tutorials and courses {#tutorials-ajo}
 
 New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 
@@ -507,7 +507,7 @@ New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 |April 2023|[Create an in-app campaign](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-campaign.html)|Video |Understand what an in-app message is. Learn how to create, configure, and publish in-app messages in Campaigns.|
 |April 2023|[Author an in-app message](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/author-in-app-messages.html)|Video |Learn how to author and test an in-app message.|
 
-{style="table-layout:auto"}
+{style="table-layout:auto"} -->
 
 <!--### [!DNL Journey Optimizer] support knowledge base
 
