@@ -403,9 +403,9 @@ Get access to release notes, new tutorials, and Knowledge Base articles for [!DN
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |May 2023|[Headless Architecture session 1](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/headless-architecture/introduction-to-headless/session-1.html)|Video |Learn what is headless architecture, composable commerce, and personalized experiences.|
-|May 2023|[Full Demonstration on Live Search](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-full-demonstration.html)|Video |Watch a full demonstration on the features and flexibility of [!UICONTROL Live Search].|
-|May 2023|[Introduction to Live Search]()|Video |Learn how [!UICONTROL Live Search] from Adobe Commerce delivers a fast, relevant, and intuitive search experience.|
-|May 2023|[Self-hosting Adobe Commerce Overview](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/infrastructure/self-hosting/overview.html)|Video |Learn about self-hosting best practices to consider when moving to an e-commerce platform.|
+|May 2023|[Full Demonstration on [!UICONTROL Live Search]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-full-demonstration.html)|Video |Watch a full demonstration on the features and flexibility of [!UICONTROL Live Search].|
+|May 2023|[Introduction to [!UICONTROL Live Search]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html?lang=en)|Video |Learn how [!UICONTROL Live Search] from Adobe Commerce delivers a fast, relevant, and intuitive search experience.|
+|May 2023|[Self-hosting Adobe Commerce overview](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/infrastructure/self-hosting/overview.html)|Video |Learn about self-hosting best practices to consider when moving to an e-commerce platform.|
 
 {style="table-layout:auto"}
 
