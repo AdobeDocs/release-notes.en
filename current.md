@@ -58,8 +58,6 @@ Updated: **May 10, 2023**
 
 +++Upcoming events
 
-* **[!DNL Workfront]** | _Connect: Admin Chat for Marketing & Creative_ | **May 5 @ 10:00 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,QZnzwwUzu0qWtspyd1Q-Ng,8nguBLkENEq0VpYFX3yJoA,D3ZwH_h7f0uQqBK-mZyEdQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Campaign]** | _Adobe Campaign: Get Email Marketing Right, Every Time!_ | **May 11  @ 9:00 AM BST** |  [Register](https://adobecampaignemea2023.experienceleague.adobeevents.com/)
 
 * **[!DNL Workfront]** | _Learn: Calculated Custom Fields in Workfront_ | **May 11 @ 10:30 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,yCYVwQotCU2TAORLyPoHJA,_4xblJcMAkOcN_Yr0Ufvtw,LHF-Iz1B3kihhT_9ZlkFog?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
@@ -68,7 +66,7 @@ Updated: **May 10, 2023**
 
 * **[!DNL Workfront]** | _Connect: Strategic Admin Chat_ | **May 15 @ 8:00 AM CT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,siKED3PdM0m9LF4Z0sfojg,HVuuM7Rf6EOsLsWLdiHO7w,5G5IR9qtoES1gH_rRVly8g?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-Go to [Events](https://experienceleague.adobe.com/events/?lang=en) on Experience League to view past events and see what's scheduled.
+And more! Go to [Events](https://experienceleague.adobe.com/events/?lang=en) on Experience League to view past events and see what's scheduled.
 
 +++
 
