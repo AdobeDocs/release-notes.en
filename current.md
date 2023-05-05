@@ -33,6 +33,7 @@ Latest update: **May 6, 2023**
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] interface and administration](#ecloud)
 * [[!DNL Experience Platform]](#platform)
+* [[!DNL Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Analytics]](#analytics)
 * [[!DNL Customer Journey Analytics]](#cja)
 * [[!DNL Streaming Media Analytics]](#sma)
@@ -118,19 +119,29 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 * [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
 
-### New [!DNL Experience Platform] tutorials and courses
+<!-- ### New [!DNL Experience Platform] tutorials and courses
 
-New videos, tutorials, or courses published for Adobe Experience Platform.
-
-|Published|Name|Type|Description |Applications|
-| -----------| ---------- | ---------- | ---------- |---------- |
-|May 2023|[Configure the [!DNL Adobe Target] destination in [!DNL Real-Time Customer Data Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/configure-the-target-destination.html)|Video |Learn how to configure the Adobe Target destination in Real-Time Customer Data Platform to start sending segments and profile attributes from Real-Time CDP to Target. |[!DNL Real-Time CDP], [!DNL Target] |
-
-{style="table-layout:auto"}
+New videos, tutorials, or courses published for Adobe Experience Platform.-->
 
 ### [!DNL Mobile] SDK
 
 Updated: **November 11, 2022** - See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-notes) for the [!DNL Adobe Experience Platform] [!DNL Mobile SDKs].
+
++++
+
+## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Real-Time Customer Data Platform] {#rtcdp}
+
+Find the latest tutorials for Real-Time Customer Data Platform on Experience League.
+
++++Details
+
+New videos, tutorials, or courses published for Adobe [!DNL Real-Time Customer Data Platform].
+
+|Published|Name|Type|Description |Applications|
+| -----------| ---------- | ---------- | ---------- |---------- |
+|May 2023|[Configure the [!DNL Adobe Target] destination in [!DNL Real-Time Customer Data Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/configure-the-target-destination.html)|Video |Learn how to configure the Adobe Target destination in Real-Time Customer Data Platform to start sending segments and profile attributes from [!DNL Real-Time CDP] to [!DNL Adobe Target]. |[!DNL Real-Time CDP], [!DNL Adobe Target] |
+
+{style="table-layout:auto"}
 
 +++
 
