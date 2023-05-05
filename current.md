@@ -26,7 +26,7 @@ Your path to success starts with [Experience League](https://experienceleague.ad
 
 ## Product release updates and events
 
-Latest update: **May 5, 2023**
+Latest update: **May 6, 2023**
 
 * [[!DNL Experience League] events](#events)
 * [Certification at Adobe](#certification)
@@ -151,15 +151,15 @@ Release version: **2.23.0**
 
 * [AppMeasurement for JavaScript release notes](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html?lang=en)
 
-<!-- ### New [!DNL Analytics] tutorials and courses {#tutorials-analytics}
+### New [!DNL Analytics] tutorials and courses {#tutorials-analytics}
 
 New video tutorials, articles, and courses published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2023|[Rich text editor in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.html?lang=en)|Updated video |Learn about the features that allow analysts and marketers to apply editing to text visualizations (or descriptions) in Analysis Workspace: bold, italics, headings, links, and more.|
+|April 25, 2023|[Get data collection and event forwarding up and running with just a few clicks!](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-4-25-23.html?lang=en)|Experience League Live|If you are new to Adobe's modern data collection tools and nervous to jump into the deep end, you can now get up and running with a basic installation faster than ever, including sending event data to Meta on the server side. With a few clicks, Adobe's data collection quick start workflows can set up multiple things on the backend to save you time and make sure your setup is correct.|
 
-{style="table-layout:auto"} -->
+{style="table-layout:auto"}
 
 +++
 
