@@ -122,9 +122,9 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 New videos, tutorials, or courses published for Adobe Experience Platform.
 
-|Published|Name|Type|Description |Application|
+|Published|Name|Type|Description |Applications|
 | -----------| ---------- | ---------- | ---------- |---------- |
-|May 2023|[Configure the [!DNL Adobe Target] destination in [!DNL Real-Time Customer Data Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/configure-the-target-destination.html)|Video |Learn how to configure the Adobe Target destination in Real-Time Customer Data Platform to start sending segments and profile attributes from Real-Time CDP to Target. |Experience Platform<p>Adobe Target |
+|May 2023|[Configure the [!DNL Adobe Target] destination in [!DNL Real-Time Customer Data Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/configure-the-target-destination.html)|Video |Learn how to configure the Adobe Target destination in Real-Time Customer Data Platform to start sending segments and profile attributes from Real-Time CDP to Target. |[!DNL Real-Time CDP], [!DNL Target] |
 
 {style="table-layout:auto"}
 
