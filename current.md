@@ -674,6 +674,10 @@ Last updated: **April 14, 2023**
 
 New tutorials and courses published for [!DNL Document Cloud], including [!DNL Acrobat Services] and [!DNL Acrobat Sign].
 
+>[!NOTE]
+>
+>**Brand update:** _Adobe Document Services_ has changed to _Adobe Acrobat Services_.
+
 +++Details
 
 |Published|Name|Type|Description |Application|
