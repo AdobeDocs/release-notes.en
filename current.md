@@ -511,9 +511,7 @@ New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 
 <!--### [!DNL Journey Optimizer] support knowledge base
 
-New articles and updates to existing articles for [!DNL Journey Optimizer].
-
-{style="table-layout:auto"}-->
+New articles and updates to existing articles for [!DNL Journey Optimizer].-->
 
 ### More resources for [!DNL Journey Optimizer]
 
