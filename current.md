@@ -67,6 +67,12 @@ Updated: **May 10, 2023**
 
 * **[!DNL Workfront]** | _Connect: Strategic Admin Chat_ | **May 15 @ 8:00 AM CT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,siKED3PdM0m9LF4Z0sfojg,HVuuM7Rf6EOsLsWLdiHO7w,5G5IR9qtoES1gH_rRVly8g?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
+* **[!DNL Experience Manager Sites]** | _Adobe Experience Manager Sites Supercharger Workshop_ | **May 16 @ 9:00 AM BST** | [Register](https://landing.adobe.com/acs/AEM-ValueAcceleratorSeries-EMEA2023.html)
+
+* **[!DNL Experience Manager Sites]** | _Made for Content: Content and Experience Fragments Components_ | **May 16 @ 8:00 AM PT** | [Register](https://engage.adobe.com/adobe-experience-manager-building-blocks-registration-page.html)
+
+* **[!DNL Analytics]** | _Experience Makers The Skill Exchange for Adobe Analytics - APAC_ | **May 17 @ 1:30 PM AEST** | [Register](https://cvent.me/vWyONx?RefId=Experience+League)
+
 And more! Go to [Events](https://experienceleague.adobe.com/events/?lang=en) on Experience League to view past events and see what's scheduled.
 
 +++
