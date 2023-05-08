@@ -73,6 +73,8 @@ Updated: **May 10, 2023**
 
 * **[!DNL Analytics]** | _Experience Makers The Skill Exchange for Adobe Analytics - APAC_ | **May 17 @ 1:30 PM AEST** | [Register](https://cvent.me/vWyONx?RefId=Experience+League)
 
+* **[!DNL Experience Manager]** | _Developer's Live: Composable Experiences - One-day virtual conference featuring live sessions and community networking opportunities._ | **May 23 @ 8:00 AM MDT** | [Register](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-composable-experiences/?code=appu)
+
 And more! Go to [Events](https://experienceleague.adobe.com/events/?lang=en) on Experience League to view past events and see what's scheduled.
 
 +++
@@ -174,9 +176,9 @@ Release version: **2.23.0**
 
 New video tutorials, articles, and courses published for Adobe Analytics.
 
-|Published|Name|Type|Description |
+|Date|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|April 25, 2023|[Get data collection and event forwarding up and running with just a few clicks!](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-4-25-23.html?lang=en)|Experience League Live|If you are new to Adobe's modern data collection tools and nervous to jump into the deep end, you can now get up and running with a basic installation faster than ever, including sending event data to Meta on the server side. With a few clicks, Adobe's data collection quick start workflows can set up multiple things on the backend to save you time and make sure your setup is correct.|
+|On demand|[Get data collection and event forwarding up and running with just a few clicks!](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-4-25-23.html?lang=en)|Video event - Experience League Live|If you are new to Adobe's modern data collection tools and nervous to jump into the deep end, you can now get up and running with a basic installation faster than ever, including sending event data to Meta on the server side. With a few clicks, Adobe's data collection quick start workflows can set up multiple things on the backend to save you time and make sure your setup is correct.|
 
 {style="table-layout:auto"}
 
