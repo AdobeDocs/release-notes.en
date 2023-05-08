@@ -26,7 +26,7 @@ Your path to success starts with [Experience League](https://experienceleague.ad
 
 ## Product release updates and events
 
-Latest update: **May 6, 2023**
+Latest update: **May 8, 2023**
 
 * [[!DNL Experience League] events](#events)
 * [Certification at Adobe](#certification)
@@ -693,7 +693,7 @@ New tutorials and courses published for [!DNL Document Cloud], including [!DNL A
 
 |Published|Name|Type|Description |Application|
 | -----------| ---------- | ---------- | ---------- |---------- |
-|May 2023|[Integrations overview](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/integrations-overview.html)|Video |Learn how to add Acrobat Sign to your existing systems, processes, and applications.|Acrobat Sign |
+|May 2023|[Acrobat Sign + Workday new hire onboarding](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/workday/acrobat-sign-workday-onboarding.html?lang=en)|Video |You can use Acrobat Sign inside other applications your organization already uses, such as Microsoft, Salesforce, Workday, and Marketo to name a few. Learn how you can simplify your e-signature workflows in these integration guides and tutorials.|Acrobat Sign |
 |May 2023|[Send documents for notarization](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/notarize/send-document-notarize.html?lang=en)|Video |Learn how to send a document for notarization.|Acrobat Sign |
 
 {style="table-layout:auto"}
