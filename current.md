@@ -25,7 +25,7 @@ Your path to success starts with [Experience League](https://experienceleague.ad
 
 ## Product release updates and events
 
-Latest update: **May 8, 2023**
+Latest update: **May 9, 2023**
 
 * [[!DNL Experience League] events](#events)
 * [Certification at Adobe](#certification)
@@ -54,7 +54,7 @@ Latest update: **May 8, 2023**
 
 Find out what's happening on Experience League. Events are a great place to learn, interact, and get answers from product experts at Adobe!
 
-Updated: **May 10, 2023**
+Updated: **May 9, 2023**
 
 +++Upcoming events
 
@@ -189,7 +189,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 +++Details
 
-Next release: **May 10, 2023**
+Release date: **May 10, 2023**
 
 * Customer Journey Analytics [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en)
 * Customer Journey Analytics [product documentation and tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=en)
@@ -211,7 +211,7 @@ New videos, tutorials, or courses published for CJA.
 
 ## ![Icon](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
-Release: **May 10, 2023**
+Release date: **May 10, 2023**
 
 * [!DNL Streaming Media Analytics] [release notes](https://experienceleague.adobe.com/docs/media-analytics/using/release-notes/release-notes.html?lang=en)
 * [!DNL Streaming Media Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=en)
