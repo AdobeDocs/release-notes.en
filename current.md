@@ -25,7 +25,7 @@ Your path to success starts with [Experience League](https://experienceleague.ad
 
 ## Product release updates and events
 
-Latest update: **May 9, 2023**
+Latest update: **May 10, 2023**
 
 * [[!DNL Experience League] events](#events)
 * [Certification at Adobe](#certification)
@@ -41,8 +41,8 @@ Latest update: **May 9, 2023**
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Commerce]](#commerce)
 * [[!DNL Target]](#target)
-* [[!DNL Campaign]](#ac)
-* [[!DNL Journey Optimizer]](#journey-opt)
+* [[!DNL Campaign]](#ac) (Updated **May 10**)
+* [[!DNL Journey Optimizer]](#journey-opt) (updated **May 10**)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
