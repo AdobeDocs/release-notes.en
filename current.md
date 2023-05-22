@@ -25,9 +25,9 @@ Your path to success starts with [Experience League](https://experienceleague.ad
 
 ## Product release updates and events
 
-Latest update: **May 10, 2023**
+Latest update: **May 22, 2023**
 
-* [[!DNL Experience League] events](#events)
+* [[!DNL Experience League] events and updates](#events) (Updated **May 22**)
 * [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] interface and administration](#ecloud)
@@ -50,29 +50,34 @@ Latest update: **May 10, 2023**
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)<!-- * [Digital Experience Blueprints - tutorials](#blueprints) -->
 
-## ![Icon](/assets/experience-league.png) [!DNL Experience League] events {#events}
+## ![Icon](/assets/experience-league.png) [!DNL Experience League] events and updates {#events}
 
 Find out what's happening on Experience League. Events are a great place to learn, interact, and get answers from product experts at Adobe!
 
-Updated: **May 9, 2023**
+Updated: **May 22, 2023**
+
+**Improved content search on Experience League:** You can customize how to filter content search results for the products you own. Display results based on:
+
+* Tutorials
+* Courses
+* Documentation
+* Products
+* Events
+* Certifications
+
+Go to [Experience League](https://experienceleague.adobe.com/?lang=en#home) and check it out!
 
 +++Upcoming events
 
-* **[!DNL Campaign]** | _Adobe Campaign: Get Email Marketing Right, Every Time!_ | **May 11  @ 9:00 AM BST** |  [Register](https://adobecampaignemea2023.experienceleague.adobeevents.com/)
-
-* **[!DNL Workfront]** | _Learn: Calculated Custom Fields in Workfront_ | **May 11 @ 10:30 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,yCYVwQotCU2TAORLyPoHJA,_4xblJcMAkOcN_Yr0Ufvtw,LHF-Iz1B3kihhT_9ZlkFog?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Commerce]** | _Commerce & Coffee: 7 Ways to Build Customer Loyalty & Retention_ | **May 11 @ 1:00 PM PT** | [Register](https://register.gotowebinar.com/#register/4149787110381957724)
-
-* **[!DNL Workfront]** | _Connect: Strategic Admin Chat_ | **May 15 @ 8:00 AM CT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,siKED3PdM0m9LF4Z0sfojg,HVuuM7Rf6EOsLsWLdiHO7w,5G5IR9qtoES1gH_rRVly8g?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Experience Manager Sites]** | _Adobe Experience Manager Sites Supercharger Workshop_ | **May 16 @ 9:00 AM BST** | [Register](https://landing.adobe.com/acs/AEM-ValueAcceleratorSeries-EMEA2023.html)
-
-* **[!DNL Experience Manager Sites]** | _Made for Content: Content and Experience Fragments Components_ | **May 16 @ 8:00 AM PT** | [Register](https://engage.adobe.com/adobe-experience-manager-building-blocks-registration-page.html)
-
-* **[!DNL Analytics]** | _Experience Makers The Skill Exchange for Adobe Analytics - APAC_ | **May 17 @ 1:30 PM AEST** | [Register](https://cvent.me/vWyONx?RefId=Experience+League)
-
 * **[!DNL Experience Manager]** | _Developer's Live: Composable Experiences - One-day virtual conference featuring live sessions and community networking opportunities._ | **May 23 @ 8:00 AM MDT** | [Register](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-composable-experiences/?code=appu)
+
+* **[!DNL Workfront]** | _Learn: Intro to Scrum with Adobe Workfront_ | **May 23 @ 2:00 PM CT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,QaGO4Qe0Uk-LMovyPb35TQ,-EBsHYIo40a_VD4Dmswe3A,R_m0AnVWx0mewL7NJYbg4A?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Target]** | _Supercharge your organization to deliver data-driven personalization_ | **May 24 @ 8:00 AM PT** | [Register](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
+
+* **[!DNL Workfront]** | _Ask the Experts: Foundations of Project Templates Webinar Follow Up_ | **May 24 @ 10:00 AM CT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,deNNL500LUW5Jto2AEuCSw,sBjyEWYmKUiUlKPwPLs5_g,ox3gNJRu5ESoQKjm1G4AtA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Experience Manager Assets]** | _Espressos & Experience Manager - AEM Assets Migration_ | **May 25 @ 1:00 PM PT** | [Register](https://datadrivenpersonalization2023.experienceleague.adobeevents.com/)
 
 And more! Go to [Events](https://experienceleague.adobe.com/events/?lang=en) on Experience League to view past events and see what's scheduled.
 
