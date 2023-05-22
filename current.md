@@ -50,19 +50,20 @@ Latest update: **May 10, 2023**
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)<!-- * [Digital Experience Blueprints - tutorials](#blueprints) -->
 
-## ![Icon](/assets/experience-league.png) [!DNL Experience League] events and features {#events}
+## ![Icon](/assets/experience-league.png) [!DNL Experience League] events and updates {#events}
 
 Find out what's happening on Experience League. Events are a great place to learn, interact, and get answers from product experts at Adobe!
 
-Updated: **May 16, 2023**
+Updated: **May 22, 2023**
 
-**Improved search:** Check out the improved Search feature on [Experience League](https://experienceleague.adobe.com/?lang=en#home). Get improved search results and filter results based on:
+**Search Experience League:** Check out the improved content Search feature on [Experience League](https://experienceleague.adobe.com/?lang=en#home). Sign in and customize how to filter content search results for your products. You can display results based on:
 
 * Tutorials
 * Courses
 * Documentation
 * Products
-* And more!
+* Certifications
+* Events
 
 +++Upcoming events
 
