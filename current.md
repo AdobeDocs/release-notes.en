@@ -56,14 +56,16 @@ Find out what's happening on Experience League. Events are a great place to lear
 
 Updated: **May 22, 2023**
 
-**Search Experience League:** Check out the improved content Search feature on [Experience League](https://experienceleague.adobe.com/?lang=en#home). Sign in and customize how to filter content search results for your products. You can display results based on:
+**Improved content search on Experience League:** You can customize how to filter content search results for the products you own. Display results based on:
 
 * Tutorials
 * Courses
 * Documentation
 * Products
-* Certifications
 * Events
+* Certifications
+
+Go to [Experience League](https://experienceleague.adobe.com/?lang=en#home) and check it out!
 
 +++Upcoming events
 
