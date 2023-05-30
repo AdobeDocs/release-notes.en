@@ -46,7 +46,7 @@ Latest update: **May 30, 2023**
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
-* [[!DNL Advertising]](#advertising)
+* [[!DNL Advertising]](#advertising) (updated **May 30**)
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)<!-- * [Digital Experience Blueprints - tutorials](#blueprints) -->
 
