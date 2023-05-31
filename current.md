@@ -2,7 +2,7 @@
 title: Latest Release Notes
 description: Read the latest release notes for Adobe [!DNL Experience Cloud] products and services. Learn about upcoming events and new documentation on Experience League. Discover the latest tutorials and courses for [!DNL Experience Cloud] applications.
 doc-type: release notes
-last-update: May 2023
+last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
@@ -11,7 +11,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 ![Banner](assets/release-notes-header.png)
 
-## May 2023
+## June 2023
 
 This page helps you stay updated on product release information, events, and learning opportunities at Experience League.
 
@@ -25,9 +25,9 @@ Your path to success starts with [Experience League](https://experienceleague.ad
 
 ## Product release updates and events
 
-Latest update: **May 10, 2023**
+Latest update: **May 31, 2023**
 
-* [[!DNL Experience League] events](#events)
+* [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] interface and administration](#ecloud)
@@ -41,12 +41,12 @@ Latest update: **May 10, 2023**
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Commerce]](#commerce)
 * [[!DNL Target]](#target)
-* [[!DNL Campaign]](#ac) (Updated **May 10**)
-* [[!DNL Journey Optimizer]](#journey-opt) (updated **May 10**)
+* [[!DNL Campaign]](#ac)
+* [[!DNL Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
-* [[!DNL Advertising]](#advertising)
+* [[!DNL Advertising]](#advertising) (updated **May 30**)
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)<!-- * [Digital Experience Blueprints - tutorials](#blueprints) -->
 
@@ -54,7 +54,7 @@ Latest update: **May 10, 2023**
 
 Find out what's happening on Experience League. Events are a great place to learn, interact, and get answers from product experts at Adobe!
 
-Updated: **May 22, 2023**
+Updated: **May 30, 2023**
 
 **Improved content search on Experience League:** You can customize how to filter content search results for the products you own. Display results based on:
 
@@ -69,23 +69,13 @@ Go to [Experience League](https://experienceleague.adobe.com/?lang=en#home) and 
 
 +++Upcoming events
 
-* **[!DNL Campaign]** | _Adobe Campaign: Get Email Marketing Right, Every Time!_ | **May 11  @ 9:00 AM BST** |  [Register](https://adobecampaignemea2023.experienceleague.adobeevents.com/)
+* **[!DNL Experience Manager - Cloud Manager]** | _DAEM Champion Office Hours - AEM Cloud Manager_ | **May 31 @ 7:30 AM PT** | [Register](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-cloud-manager/)
 
-* **[!DNL Workfront]** | _Learn: Calculated Custom Fields in Workfront_ | **May 11 @ 10:30 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,yCYVwQotCU2TAORLyPoHJA,_4xblJcMAkOcN_Yr0Ufvtw,LHF-Iz1B3kihhT_9ZlkFog?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Journey Optimizer]** | _Adobe Journey Optimizer Community Q&A Coffee Break with Ivan Mironchuk Peter Fransen, Jason Hickey & Sandra Hausmann_ | **May 31 @ 8:00 AM PT** | [Register](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/adobe-journey-optimizer-community-q-amp-a-coffee-break-may-31st/td-p/593283)
 
-* **[!DNL Commerce]** | _Commerce & Coffee: 7 Ways to Build Customer Loyalty & Retention_ | **May 11 @ 1:00 PM PT** | [Register](https://register.gotowebinar.com/#register/4149787110381957724)
+* **[!DNL Audience Manager]** | _Maximizing Value with Adobe Audience Manager: Navigating Industry Changes and Transitioning to RTCDP_ | **June 1 @ 10:00 AM PT** | [Register](https://adobeint-mid-prod13-m.adobe-campaign.com/nl/jsp/m.jsp?c=%40jfezFOPoEnsrkA40AZ0d3VjOp%2B7K65ZgXxAbnn8Jwu4%3D)
 
-* **[!DNL Workfront]** | _Connect: Strategic Admin Chat_ | **May 15 @ 8:00 AM CT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,siKED3PdM0m9LF4Z0sfojg,HVuuM7Rf6EOsLsWLdiHO7w,5G5IR9qtoES1gH_rRVly8g?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Experience Manager Sites]** | _Adobe Experience Manager Sites Supercharger Workshop_ | **May 16 @ 9:00 AM BST** | [Register](https://landing.adobe.com/acs/AEM-ValueAcceleratorSeries-EMEA2023.html)
-
-* **[!DNL Experience Manager Sites]** | _Made for Content: Content and Experience Fragments Components_ | **May 16 @ 8:00 AM PT** | [Register](https://engage.adobe.com/adobe-experience-manager-building-blocks-registration-page.html)
-
-* **[!DNL Analytics]** | _Experience Makers The Skill Exchange for Adobe Analytics - APAC_ | **May 17 @ 1:30 PM AEST** | [Register](https://cvent.me/vWyONx?RefId=Experience+League)
-
-* **[!DNL Experience Manager]** | _Developer's Live: Composable Experiences - One-day virtual conference featuring live sessions and community networking opportunities._ | **May 23 @ 8:00 AM MDT** | [Register](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-composable-experiences/?code=appu)
-
-And more! Go to [Events](https://experienceleague.adobe.com/events/?lang=en) on Experience League to view past events and see what's scheduled.
+[More...](https://experienceleague.adobe.com/events/?lang=en)
 
 +++
 
@@ -671,11 +661,11 @@ Last updated: **August 9, 2022**
 
 Learn about the latest features for Adobe Advertising.
 
-Last updated: **April 10, 2023**
+Last updated: **May 30, 2023**
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Reports] | (March release) A new [!UICONTROL Household] report shows impressions, reach, and frequency across various dimensions at a household level based on IP address, rather than at a device/cookie level. The report includes nine dimensions: [!UICONTROL Campaign], [!UICONTROL Package], [!UICONTROL Placement], [!UICONTROL Site/Apps], [!UICONTROL Media Type], [!UICONTROL Device], [!UICONTROL Audience], [!UICONTROL Creative Length], and user-created [!UICONTROL Tags]. |
+| [!UICONTROL Campaigns] | (May 24 release) You can now pause or activate campaigns, packages, and ads. You could already pause and activate placements. |
 
 {style="table-layout:auto"}
   
