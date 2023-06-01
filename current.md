@@ -25,7 +25,7 @@ Your path to success starts with [Experience League](https://experienceleague.ad
 
 ## Product release updates and events
 
-Latest update: **May 31, 2023**
+Latest update: **June 1, 2023**
 
 * [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
@@ -48,7 +48,8 @@ Latest update: **May 31, 2023**
 * [[!DNL Workfront]](#workfront)
 * [[!DNL Advertising]](#advertising) (updated **May 30**)
 * [[!DNL Document Cloud]](#doc-cloud)
-* [[!DNL Creative Cloud for enterprise]](#creative-cloud)<!-- * [Digital Experience Blueprints - tutorials](#blueprints) -->
+* [[!DNL Creative Cloud for enterprise]](#creative-cloud)
+* [Digital Experience Blueprints - tutorials](#blueprints)
 
 ## ![Icon](/assets/experience-league.png) [!DNL Experience League] events and updates {#events}
 
@@ -786,6 +787,6 @@ See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2023|[Multi Sandbox Event Forwarding Data Collection](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=en)|Video |Desc.|
+|June 2023|[Multi Sandbox Event Forwarding Data Collection](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-ingestion/multi-sandbox-data-collection.html?lang=en)|Video |Learn how data collected with Experience Platform Web and Mobile SDKs can be configured to collect a single event and forward to multiple AEP Sandboxes.|
 
 
