@@ -362,7 +362,7 @@ _Known issues_
 
 ### Experience Manager release information
 
-All [!DNLExperience Manager] release notes are maintained at the following pages:
+All [!DNL Experience Manager] release notes are maintained at the following pages:
 
 * [Experience Manager as a Cloud Service release information](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=en)
 * [Adobe Experience Manager as a Cloud Service release updates](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=en)
@@ -405,7 +405,7 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 |May 2023|[How to redirect to custom login page in case of AEM OAuth flow failure](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21954.html)|New article| Learn why there is a need to redirect to custom login page in case of AEM OAuth flow failure and how to do it.|
 |May 2023|[Pipeline failing with error _The end_aem_createsegmentstore property is missing_](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22091.html)|New article| Learn the solution for the issue when the CI/CD pipeline fails with error _The end_aem_createsegmentstore property is missing_.|
 |May 2023|[How to monitor a replication queue](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22082.html)|New article| Learn how to monitor a replication queue.|
-|May 2023|[How to roll out a deleted [!UICONTROL Live Copy](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22081.html)|New article| Learn how to roll out a deleted [!UICONTROL Live Copy].|
+|May 2023|[How to roll out a deleted [!UICONTROL Live Copy]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22081.html)|New article| Learn how to roll out a deleted [!UICONTROL Live Copy].|
 |May 2023|[Activate Brand Portal using OAuth Sever-to-Server credentials](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22074.html)|New article| Learn why customers should use the JWT credentials method instead of [!DNL OAuth Sever-to-Server] credentials method to create the Adobe IMS Technical Account Configuration.|
 |May 2023|[AEM log out issue even after SAML SSO authentication](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22065.html)|New article| Learn the solution for the issue where users are not able to log out when AEM is authenticated using the SAML Single Sign-On (SSO).|
 |May 2023|[Deleting NetworkInfrastructure via CM API fails with 405](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22063.html)|New article| Learn the solution for the issue where deleting `NetworkInfrastructure` via CM API fails with 405.|
@@ -786,6 +786,6 @@ See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2023|[Multi Sandbox Event Forwarding Data Collection]()|Video |Desc.|
+|June 2023|[Multi Sandbox Event Forwarding Data Collection](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=en)|Video |Desc.|
 
 
