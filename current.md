@@ -127,9 +127,21 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 * [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
 
-<!-- ### New [!DNL Experience Platform] tutorials and courses
+### New Experience Platform tutorials and courses
 
-New videos, tutorials, or courses published for Adobe Experience Platform.-->
+New videos, tutorials, or courses published for Adobe Experience Platform.
+
+|Type|Product feature|Description |
+| -----------| ---------- |---------- |
+|June 2023|[Ingest data from Marketo Engage](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)|Video |Learn how to easily ingest data from Marketo Engage into Real-Time Customer Data Platform, B2B Edition, and Adobe Experience Platform using the source connector using two workflows.|
+|June 2023|[Ingest data using CRM source connectors - Salesforce](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-crm.html)|Video |Learn how to easily batch ingest data from CRM sources into Adobe Experience Platform's Real-Time Customer Profile and data lake seamlessly. |
+|June 2023|[Ingest data from Marketo Engage](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)|Video |Learn how to easily ingest data from Marketo Engage into Real-Time Customer Data Platform, B2B Edition, and Adobe Experience Platform using the source connector using two workflows.|
+|June 2023|[Use Real-Time CDP segments in Target](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/use-rtcdp-segments-in-target.html)|Video |Learn how to use Real-Time Customer Data Platform segments in Adobe Target to deliver personalized experiences on your website and mobile apps. |
+|June 2023|[Activate segments and profile attributes](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/activate-segments-and-profile-attributes.html)|Video |Learn how to activate segments and profile attributes from Adobe Real-Time Customer Data Platform to Adobe Target to display real-time personalized content in your websites, mobile apps, and other digital properties.| 
+|June 2023|[Classify data using labels](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-labels.html)|Video |Learn how to apply labels to your schemas and datasets. Data usage labels enable you to tag and classify data to reflect corporate policies, contractual obligations, compliance requirements, and regional regulations in Adobe Experience Platform.|
+|June 2023|[Use Real-Time CDP profile attributes in Adobe Target](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/use-rtcdp-profile-attributes-in-target.html)|Video |Learn how to use Adobe Real-Time Customer Data Platform profile attributes in Adobe Target to deliver personalized experiences on your website and mobile apps. | 
+
+{style="table-layout:auto"}
 
 ### [!DNL Mobile] SDK
 
@@ -176,9 +188,27 @@ Release version: **2.23.0**
 
 New video tutorials, articles, and courses published for Adobe Analytics.
 
-|Date|Name|Type|Description |
+|Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|On demand|[Get data collection and event forwarding up and running with just a few clicks!](https://experienceleague.adobe.com/docs/experience-league-live-events/events/episodes/exl-live-episode-4-25-23.html?lang=en)|Video event - Experience League Live|If you are new to Adobe's modern data collection tools and nervous to jump into the deep end, you can now get up and running with a basic installation faster than ever, including sending event data to Meta on the server side. With a few clicks, Adobe's data collection quick start workflows can set up multiple things on the backend to save you time and make sure your setup is correct.|
+|June 2023|[Take your data analysis to the next level with Calculated Metrics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.html?lang=en)|Article |Learn how a peer expert uses Calculated Metrics to create new metrics without changing their implementation and using the data already collected to help answer complex business questions.|
+|June 2023|[Use text visualizations and descriptions in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.html?lang=en)|Article |Learn how a peer expert uses Calculated Metrics to create new metrics without changing their implementation and using the data already collected to help answer complex business questions.|
+|June 2023|[Use segments to discover new insights in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/segmentation-to-discover-new-insights.html?lang=en)|Article |Learn how to use segments in Adobe Analytics to discover new insights from your Analysis Workspace visualizations and freeform tables.|
+|June 2023|[Use Cohort Analysis to Understand Customer Behavior](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/cohort-analysis/use-cohort-analysis-to-understand-customer-behavior.html)|Article |Use Cohort Analysis to help you comprehend engagement and retention, leading to actions like improving account creation and creating campaigns for high-volume months.|
+|June 2023|[Build Customer Journey Segments](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/building-customer-journey-segments.html)|Article |Learn how to create behavioral-based customer journey segments in Adobe Analytics and improve your customers' experience with Adobe Experience Cloud by following this step-by-step guide.|
+|June 2023|[Understand Adobe Analytics Attribution Panel & Look-back Windows](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.html)|Article |Learn how to use the Attribution Panel and Lookback Window to understand customer behavior and customize how dimension items get credit for success events.|
+|June 2023|[Goodbye Excel, hello calculated metrics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.html)|Article |Learn the benefits of using calculated metrics in Adobe Analytics and how they can provide you with a continuous, dynamic view of your data in this article.|
+|June 2023|[Unlock the power of read-only sharing in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.html)|Article |Learn how sharing Adobe Analysis Workspace projects as read-only can create executive-ready dashboard reports with a clean user interface and predefined filtering options.|
+|June 2023|[Start your analysis with a pre-built report](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/start-your-analysis-with-a-pre-built-report.html)|Video |Learn how to start your analysis in Workspace with a pre-built report.|
+
+{style="table-layout:auto"}
+
+### [Adobe Analytics] support knowledge base
+
+New articles and updates to existing articles for [!DNL Analytics].
+
+|Published|Name|Type|Description|
+| -----------| ---------- | ---------- | ---------- |
+|May 2023|[How to grant access permission to Data Warehouse](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21666.html)| Learn which permission should be added to grant access permission to Data Warehouse.|
 
 {style="table-layout:auto"}
 
@@ -201,10 +231,8 @@ New videos, tutorials, or courses published for CJA.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|May 2023|[What is Customer Journey Analytics?](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/cja-basics/what-is-customer-journey-analytics.html)|Video |Learn how to analyze your customer's journey across channels using any data available to you in Adobe Experience Platform.|
-|May 2023|[Use filters as dimensions in Analysis Workspace](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/filters/use-filters-as-dimensions.html)|Video |Learn how to compare and visualize filters when used as dimensions in Analysis Workspace projects.|
-|May 2023|[Introduction to Filters in Customer Journey Analytics](https://experienceleague.adobe.com/docs/platform-learn/tutorials/cja/introduction-to-filters-in-cja.html?lang=en)|Video |Desc.|
-|May 2023|[Filters overview](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/filters/introduction-to-filters-in-cja.html)|Video |Learn about the key components of Filter Builder in Customer Journey Analytics.|
+|June 2023|[Filters overview](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/filters/introduction-to-filters-in-cja.html)|Video |Filters identify subsets of visitors or customers based on attributes and events, like website visitors or call center engagement. Learn about the key components of Filter Builder in Customer Journey Analytics.|
+|June 2023|[Use filters as dimensions in Analysis Workspace](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/filters/use-filters-as-dimensions.html)|Video |Learn how to compare and visualize filters when used as dimensions in Analysis Workspace projects.|
 
 {style="table-layout:auto"}
 
@@ -351,19 +379,20 @@ All [!DNLExperience Manager] release notes are maintained at the following pages
 * [Adobe Primetime release notes](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html)
 * [Livefyre release notes](https://experienceleague.adobe.com/docs/discontinued/using/livefyre.html)
 
-### New Experience Manager courses and tutorials {#tutorials-aem}
+### New Experience Manager tutorials and courses {#tutorials-aem}
 
-New videos, tutorials, and courses published over the past month.
+New videos, tutorials, or courses published for Experience Manager.
 
 |Published|Name|Type|Description |Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
-|May 2023|[Integrate Experience Platform Web SDK](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/web-sdk.html#create-datastream---experience-platform)|Video |Learn how to integrate AEM as a Cloud Service with Experience Platform Web SDK.|AEM Sites|
-|May 2023|[Customize text editor in interactive communications](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/interactive-communications/customize-text-editor.html)|Video |Customize the text editor in interactive communications to add custom fonts and sizes.|AEM Forms |
-|May 2023|[React app with AEM Forms and Acrobat Sign](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/react-ic-sign/introduction.html)|Video |Create an interactive communication document with the data submitted from a native react app and present it to the end user for signing using the Acrobat sign widget|AEM Forms |
-|May 2023|[Integrate Forms CS with Sharepoint](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-in-sharepoint.html)|Video |Learn to configure and integrate AEM Forms CS with Microsoft&reg; Sharepoint|AEM Forms CS|
-|May 2023|[Store form submission in OneDrive](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/store-form-submission-one-drive.html)|Video |Configure adaptive form to store form data in OneDrive.|AEM Forms CS |
-|May 2023|[How to use optimized images from AEM Headless](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/images.html)|Video |Learn how to use optimized images in AEM Headless.|AEM CS |
-|May 2023|[How to work with large results in AEM Headless](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/large-result-sets.html?lang=en)|Video |Learn how to work with large result sets with AEM Headless.|AEM CS |
+|June 2023|[AEM Headless first tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/headless-first/overview.html?lang=en)|Video |Learn the process of creating a dynamic and interactive web application by combining the power of React, Adobe Experience Manager (AEM) Headless APIs, and GraphQL.|AEM CS |
+|June 2023|[Embed a headless Adaptive Form](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/introduction.html)|Video |Learn to embed an adaptive form in a headless manner in Single Page Application.|AEM Forms |
+|June 2023|[Content Fragments Console](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/basics/content-fragments-console.html?lang=en)|Multiple videos |Learn about the basic features and functionalities of the [!UICONTROL Content Fragments] authoring console in  [!DNL AEM as a Cloud Service].|AEM Sites |
+|June 2023|[Fetch and display the forms in card format](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-forms-card-view.html)|Video |Fetch the headless forms using listforms API and display the forms in card format.|AEM Forms |
+|June 2023|[Adobe IMS user groups](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html)|Videos |Adobe IMS user groups establish logical sets of users that are exposed to AEM, where they can be leveraged to define fine-tune permissions to AEM users.|AEM CS |
+|June 2023|[Adobe IMS product profiles](https://docs.adobe.com/content/help/en/experience-manager-learn/cloud-service/accessing/adobe-ims-product-profiles.html)|Video |Adobe IMS product profiles entitle users to log into an AEM Author service, and provide a baseline of access, depending on the which product profile they are are member of.|AEM CS |
+|June 2023|[GraphQL Video Series](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html?lang=en)|Video |Learn how to define and use Content Fragments in Adobe Experience Manager (AEM) for use with GraphQL.|AEM CS |
+|June 2023|[Configuring access to AEM walk-through](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/walk-through.html?lang=en)|Video |An abridged walk-though configuring Adobe IMS Users, User Groups and Product Profiles in Adobe AdminConsole, and how to leverage these Adobe IMS abstractions in AEM Author to define and manage specific group-based permissions.|AEM CS |
 
 {style="table-layout:auto"}
 
@@ -373,11 +402,14 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|April 2023|[Changes in GraphQL handling of null values](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21792.html)|New article|Learn how to resolve the possible unexpected behavior in the application code (in [!DNL Experience Manager as a Cloud Service]) due to the recent improvements made in the GraphQL implementation.|
-|April 2023|[References not updated during rollout for inner live copy](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21808.html)|New article|Learn how to resolve the issue where references are not updated during rollout for inner live copy.|
-|April 2023|[Drag and drop of a folder of assets to AEM Assets Web UI fails](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21865.html)|New article|Find out the workaround for the issue where drag and drop of a folder of assets to AEM Assets Web UI fails.|
-|April 2023|[Listing up published pages with [!UICONTROL Query Builder] API](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21884.html)|New article|Learn how to list the pages published on an AEM author.|
-|April 2023|[How to customize the time format of the activation date for [!UICONTROL Manage Publication]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21885.html)|New article|Learn how to customize the time format of the activation date for [!UICONTROL Manage Publication].|
+|May 2023|[How to redirect to custom login page in case of AEM OAuth flow failure](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21954.html)|New article| Learn why there is a need to redirect to custom login page in case of AEM OAuth flow failure and how to do it.|
+|May 2023|[Pipeline failing with error _The end_aem_createsegmentstore property is missing_](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22091.html)|New article| Learn the solution for the issue when the CI/CD pipeline fails with error _The end_aem_createsegmentstore property is missing_.|
+|May 2023|[How to monitor a replication queue](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22082.html)|New article| Learn how to monitor a replication queue.|
+|May 2023|[How to roll out a deleted [!UICONTROL Live Copy](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22081.html)|New article| Learn how to roll out a deleted [!UICONTROL Live Copy].|
+|May 2023|[Activate Brand Portal using OAuth Sever-to-Server credentials](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22074.html)|New article| Learn why customers should use the JWT credentials method instead of [!DNL OAuth Sever-to-Server] credentials method to create the Adobe IMS Technical Account Configuration.|
+|May 2023|[AEM log out issue even after SAML SSO authentication](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22065.html)|New article| Learn the solution for the issue where users are not able to log out when AEM is authenticated using the SAML Single Sign-On (SSO).|
+|May 2023|[Deleting NetworkInfrastructure via CM API fails with 405](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22063.html)|New article| Learn the solution for the issue where deleting `NetworkInfrastructure` via CM API fails with 405.|
+|May 2023|[Extracting content via Migration Set fails](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22031.html)|New article| Learn why extracting content via [!DNL Migration Set] could be failing.|
 
 {style="table-layout:auto"}
 
@@ -421,10 +453,9 @@ Get access to release notes, new tutorials, and Knowledge Base articles for [!DN
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|May 2023|[Headless Architecture session 1](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/headless-architecture/introduction-to-headless/session-1.html)|Video |Learn what is headless architecture, composable commerce, and personalized experiences.|
-|May 2023|[Full Demonstration on [!UICONTROL Live Search]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-full-demonstration.html)|Video |Watch a full demonstration on the features and flexibility of [!UICONTROL Live Search].|
-|May 2023|[Introduction to [!UICONTROL Live Search]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html?lang=en)|Video |Learn how [!UICONTROL Live Search] from Adobe Commerce delivers a fast, relevant, and intuitive search experience.|
-|May 2023|[Self-hosting Adobe Commerce overview](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/infrastructure/self-hosting/overview.html)|Video |Learn about self-hosting best practices to consider when moving to an e-commerce platform.|
+|June 2023|[Adobe Commerce on cloud infrastructure - Overview](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/cloud/1-overview.html)|Video |Identify the key technologies within the cloud stack. Describe the content delivery strategy for Adobe Commerce. Understand the value of the read-only file system.|
+|June 2023|[Adobe Commerce on cloud infrastructure - Hosting and accounts](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/cloud/2-accounts.html)|Video |Learn about existing hosting solutions for Adobe Commerce. Understand differences between Starter and Pro accounts.|
+|June 2023|[Create a Cart Price Rule](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/cart-price-rules.html)|Video |Learn how to create cart price rules that apply discounts in the shopping cart based on a set of conditions.|
 
 {style="table-layout:auto"}
 
@@ -448,6 +479,15 @@ Get access to pre-release notes, current release notes, and new tutorials for Ad
 
 +++Details
 
+### [!DNL Target] support knowledge base
+
+New articles and updates to existing articles for [!DNL Target].
+
+|Published|Name|Type|Description|
+|---------|----|----|-----------|
+|May 2023|[About importing Adobe Target feed files](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21827.html)|New article| Learn more whether the values are overwritten or not when importing Adobe Target feed files.|
+|May 2023|[About Backup Content that works with Adobe Target's "Criteria Sequence"](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22032.html)|New article| Learn more about backup content that works with Adobe Target's [!DNL Criteria Sequence].|
+
 * For pre-release information, see [[!DNL Adobe Target] prerelease](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en)
 * For current information, see [[!DNL Adobe Target] release notes](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=en)
 
@@ -465,16 +505,14 @@ Go here for the latest capabilities, improvements, and fixes in [!DNL Adobe Camp
 
 Find out more about the latest capabilities, improvements, and fixes in the [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=en), and [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) release notes.
 
-### New [!DNL Campaign] tutorials {#tutorials-campaign}
+### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
 
-New videos, tutorials, or courses published for [!DNL Adobe Campaign].
+New videos, tutorials, or courses published for Adobe Campaign.
 
 |Published|Name|Type|Description |Application|
 | -----------| ---------- | ---------- | ---------- |---------- |
-|May 2023|[Create a survey](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/content-creation/create-a-survey.html?lang=en)|Video |Learn how to create a survey in [!DNL Adobe Campaign] v8.|[!DNL Campaign] v8|
-|May 2023|[Create a survey](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/create-a-survey.html?lang=en)|Video |Learn how to create a survey in [!DNL Adobe Campaign Classic].|[!DNL Campaign Classic]|
-|May 2023|[Design email delivery content](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html)|Video |Learn how to configure, personalize, and test email delivery content. Understand how to use templates, upload images, add emoticons, and embed bar codes and QR codes.|[!DNL Campaign Classic]|
-|May 2023|[Monitor a delivery](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/reporting/monitor-a-delivery.html)|Video |Understand message logs, job logs, and delivery logs.|[!DNL Campaign Standard]|
+|June 2023|[Design email delivery content](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html)|Video |Learn how to configure, personalize, and test email delivery content. Understand how to use templates, upload images, add emoticons, and embed bar codes and QR codes.|Campaign Classic v7|
+|June 2023|[Troubleshooting for Marketers: 5 Common Workflow and Delivery Errors](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/strategy/troubleshooting-for-marketers.html?lang=en)|Video |Learn to avoid common errors and how to boost your productivity. These troubleshooting tips to help you effectively resolve similar errors as they occur.|Campaign Standard|
 
 {style="table-layout:auto"}
 
@@ -484,9 +522,13 @@ New articles and updates to existing articles for [!DNL Campaign].
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|April 2023|[Retrieve data from external database where values exceed 255 characters](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21880.html)|New article|Learn how to retrieve data from external database where values exceed 255 characters.|
-|April 2023|[Error: _XSV-350064 in [!DNL Google BigQuery] external account_](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21895.html)|New article| Learn how to fix the _XSV-350064 in [!DNL Google BigQuery] external account_ error.|
-|April 2023|[Build 9356: External links still open in [!DNL Internet Explorer] post upgrade](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21907.html)|New article| Learn how to resolve the issue where the external links are still directed to [!DNL Internet Explorer] rather than [!DNL Microsoft Edge] after upgrading to 9356.|
+|May 2023|[How to prevent slow email delivery because of Deco-mail recipients?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21942.html)|New article|Learn how to prevent slow email delivery because of Deco-mail recipients.|
+|May 2023|[How long do deliveries collect tracking data?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21990.html)|New article|Find out the length of time the tracking data is stored on the server.|
+|May 2023|[Compatibility between Adobe Campaign Classic and SOCKS5 Proxy](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22075.html)|New article| Find out if it is possible to transfer files with SOCKS5 Proxy in [!DNL Campaign Classic]|
+|May 2023|[Schema Definition Not Found - Unable to generate from schema error](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21964.html)|New article| Find out the solution when you are unable to re-draft and publish the custom resource.|
+|May 2023|[How long do deliveries collect tracking data?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21990.html)|New article|Find out the length of time the tracking data is stored on the server.|
+|May 2023|[Delivery failure with _Messages queued (connection quotas met)_ error](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22154.html)|New article| Find out the solution for the delivery failure with _Messages queued (connection quotas met)_ error.|
+|May 2023|[How to run post-upgrade for on-premises instances when there are multiple servers](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22055.html)|New article| Learn how to run post-upgrade for on-premises instances when there are multiple servers.|
 
 {style="table-layout:auto"}
 
@@ -515,9 +557,11 @@ New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|May 2023|[Author a web campaign](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/author-a-web-campaign.html?lang=en)|Video |Learn how to author a web experience using the web visual editor in [!DNL Journey Optimizer] campaigns.|
-|May 2023|[Create a web campaign](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en)|Video |Understand what a web campaign is. Learn how to configure the web campaign properties, review, and publish it.|
-|May 2023|[Export datasets to cloud storage locations](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-management/export-datasets.html?lang=en)|Video |Learn how to export a dataset from [!DNL Journey Optimizer] to an [!DNL Amazon] S3 destination.|
+|June 2023|[Create AI models](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/create-ai-models.html)|Video |Learn how to create an AI model for Offer Decisioning and how to apply it to a decision.|
+|June 2023|[Configure content experiments for emails](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/content-experiments-for-emails.html)|Video |Learn how to configure content experiments to A/B test and explore email content best drives your business objectives.|
+|June 2023|[Configure content experiments for in-app messages](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-experiments-for-in-app-messages.html)|Video |Learn how to configure and analyze content experiments to A/B test in-app messages.|
+|June 2023|[Manage, author, and use fragments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/manage-author-use-fragments.html)|Video |Learn how to manage, author, and use fragments in Adobe Journey Optimizer.|
+|June 2023|[Set up email channel](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/channel-configuration/set-up-email-channel.html)|Video |Learn how to create message presets, how to use them and how to delegate a sub domain and create an IP pool.|
 
 {style="table-layout:auto"}
 
@@ -565,15 +609,23 @@ Find out the latest release notes and release schedule for [!DNL Marketo Engage]
 * See [March 2023 - current release notes](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html?lang=en) for the latest information
 * See [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html?lang=en) for the latest release schedule information and release notes.
 
-<!-- ### New Marketo tutorials and courses {#tutorials-marketo}
+### New Marketo tutorials and courses {#tutorials-marketo}
 
 New videos, tutorials, or courses published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|August 2022 |[Marketo Engage tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)|Videos |Visit the [Marketo Engage tutorial home](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en) on Experience League for all past and new tutorials for Marketo Engage.|
+|June 2023|[Default Programs](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs/default-programs.html)|Video |Learn how to create and measure your first Default Program.|
+|June 2023|[Email Programs](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs/email-programs.html)|Video |Watch this step-by-step tutorial to learn how to create an email program with an A/B test.|
+|June 2023|[Engagement Programs](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs/engagement-programs-overview.html)|Video |Follow this step-by-step tutorial to build your first engagement program.|
+|June 2023|[Event Programs](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs/event-programs.html)|Video |Develop a foundational understanding and build your first Event Program by watching this video.|
+|June 2023|[Reporting and analytics](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/reporting-and-analytics.html?lang=en)|Video |Learn how to navigate the Analytics and Database section to pull different out-of-the-box reports in Marketo Engage.|
+|June 2023|[Understanding Marketo programs and campaigns](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/fundamentals/programs-and-campaigns.html?lang=en)|Video |Programs represent a single marketing initiative. Learn how to leverage them along with campaigns to reach your audience in a variety of ways.|
+|June 2023|[Navigate the Marketo Engage user interface](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/fundamentals/ui-navigation.html?lang=en)|Video |Learn how to navigate the user interface and get familiar with your way around the Marketo Engage platform.|
+|June 2023|[Create an event program](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=en)|Video |Learn how to create a trade show event program that is based on a pre-built program in Marketo.|
+|June 2023|[Default Programs](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs.html)|Video |Learn how to create and measure your first Default Program.|
 
-{style="table-layout:auto"} -->
+{style="table-layout:auto"}
 
 For the latest product documentation, see the [Marketo product documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html?lang=en) home
 
@@ -591,28 +643,7 @@ New [!DNL Workfront] course and collections of tutorials on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|May 2023|[Add and manage pins through a layout template](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/add-and-manage-pins-in-layout-template.html?lang=en)|Video |Learn what a pin is and how to pin important or pertinent pages for a set of users through layout templates.|
-|May 2023|[Create visibility with the Jira Integration](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/jira/jira.html?lang=en)|Article |Get a glimpse into how the Jira integration can create visibility into what your team is doing.|
-|May 2023|[Calculate goal progress](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-goals/monitor-goals/calculate-goal-progress.html?lang=en)|Article |Learn how goal progress is calculated in Workfront Goals.|
-|May 2023|[Communicate goal status](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-goals/monitor-goals/communicate-goal-status.html?lang=en)|Article |Learn how to communicate with others on the progress and status of your goals in Workfront Goals.|
-|May 2023|[Understand planned hours and duration views in Enhanced Analytics](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/8-planned-hours-and-duration-views.html?lang=en)|Article |In the Burndown and Project treemap charts, you can view the information by planned hours or duration.|
-|May 2023|[Learn four ways to create a project](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects.html?lang=en)|Video |Learn how to create a project from a template, create a project from scratch, copy an existing project, or import a Microsoft&reg; Project file.|
-|May 2023|[Find your projects](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.html?lang=en)|Article and videos |Learn how to find your projects in  Workfront using pins, favorites, dashboards, and the Projects page.|
-|May 2023|[Understand actions in Enhanced Analytics - hover, click and drag, and click in](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/9-actions-hover-click-and-drag-and-click-in.html?lang=en)|Video |Learn how to get more information by hovering over a chart, create a timeframe on a chart, and how to make additional charts appear, all in Enhanced Analytics.|
-|May 2023|[Resource management settings for users](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-resources/resource-management/settings-for-users.html?lang=en)|Video |Learn about the user settings needed to properly use the resource management tools.|
-|May 2023|[Introduction to Workfront Analytics](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/1-intro-to-workfront-analytics.html)|Video |Learn how analytics came about and the exciting capabilities it makes possible with Joel Pettigrew, product manager for Enhanced analytics.|
-|May 2023|[Update a request](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/update-a-request.html?lang=en)|Video |Learn how to find the requests you've submitted and make an update on those requests in Workfront.|
-|May 2023|[Understand the Graphs section](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-goals/monitor-goals/understand-the-graphs-section.html?lang=en)|Video |Learn how to read and interpret the Goal Health chart and Goal Progress chart in Goals.|
-|May 2023|[Set up your Workfront Fusion exercise files](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/set-up-your-fusion-exercise-files-walkthrough.html?lang=en)|Video |Learn how to download the exercise files and upload these files into a folder in Workfront, in Adobe Workfront Fusion.|
-|May 2023|[Share a project](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=en)|Video |Learn how to share a project so stakeholders and others interested in the project can have visibility into the work being done using  Workfront.|
-|May 2023|[Common questions about request queues](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/request-queue-faq.html?lang=en)|Article |Get answers to common questions about request queues in  Workfront.|
-|May 2023|[Understand the resource capacity chart in Enhanced Analytics](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/19-resource-capacity-chart.html?lang=en)|Video |Learn how the Resource capacity chart shows the number of planned hours assigned to a home team within the filtered time period compared to the team's total available hours.|
-|May 2023|[Understand the activity by team chart in Enhanced Analytics](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/18-activity-by-team-chart.html?lang=en)|Article |Learn how your organization's home teams spend their time in Workfront.|
-|May 2023|[Understand team capacity in Enhanced Analytics](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/20-team-capacity-overview.html?lang=en)|Article |Learn how the Team capacity chart shows when a home team was over-allocated or under-allocated.|
-|May 2023|[Close a goal once complete](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-goals/manage-goals/close-a-goal-once-complete.html?lang=en)|Video |Learn how to use [!UICONTROL Goals] to close a goal.|
-|May 2023|[Understand basic project creation](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation.html?lang=en)|Video |Learn the four steps to get a project up and running, the definition of a project, and the three most common ways of creating a project.|
-|May 2023|[Update progress on results and activities](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-goals/manage-goals/make-a-quantitative-update.html?lang=en)|Video |Learn how to update progress on results and activities in Workfront Goals.|
-|May 2023|[Fill in the project details](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details.html?lang=en)|Article |Learn which 12 project details fields Workfront recommends you fill in when creating a project.|
+|June 2023|[Workfront Tutorial updates](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en)|Videos and articles |Browse the [!DNL Workfront] tutorial library to access the latest video and article tutorials recently published to Experience League.|
 
 {style="table-layout:auto"}
 
@@ -622,7 +653,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 |Published|Name|Type|Description|
 | -----------| ---------- | ---------- | ---------- |
-|April 2023|[Unable to edit Custom Fields](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21913.html)|New article|Learn how to solve the issue where users encounter problems editing the custom fields.|
+|May 2023|[Incorrect request error when configuring the [!DNL Workfront] for [!DNL Jira] add-on](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22169.html)|New article|Learn the solution for the issue where an incorrect request error is present when attempting to establish a connection between [!DNL Workfront] and [!DNL Jira].|
 
 {style="table-layout:auto"}
 
@@ -692,8 +723,22 @@ New tutorials and courses published for [!DNL Document Cloud], including [!DNL A
 
 |Published|Name|Type|Description |Application|
 | -----------| ---------- | ---------- | ---------- |---------- |
-|May 2023|[Acrobat Sign + Workday new hire onboarding](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/workday/acrobat-sign-workday-onboarding.html?lang=en)|Video |You can use Acrobat Sign inside other applications your organization already uses, such as Microsoft, Salesforce, Workday, and Marketo to name a few. Learn how you can simplify your e-signature workflows in these integration guides and tutorials.|Acrobat Sign |
-|May 2023|[Send documents for notarization](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/notarize/send-document-notarize.html?lang=en)|Video |Learn how to send a document for notarization.|Acrobat Sign |
+|June 2023|[Redaction: The right way](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/redaction.html?lang=en)|Video |In this 60-second video tutorial, learn the right way to remove sensitive information from a PDF.|Acrobat Pro |
+|June 2023|[Share a PDF for commenting](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/share-comment.html?lang=en)|Video |In this 60-second video tutorial, learn how to share a PDF to collect feedback quickly from multiple people in a single file.|Acrobat |
+|June 2023|[Share and comment on PDF files in Teams](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/share-comment-teams.html?lang=en)|Video |In this 60-second video tutorial, learn how to collaborate in real-time on a PDF file in Microsoft Teams.|Acrobat |
+|June 2023|[Spot the differences with PDF compare](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/compare.html?lang=en)|Video |Description|In this 60-second video tutorial, learn how to spot the differences between two PDF files by using the Compare Files tool in Acrobat. |Acrobat Pro|
+|June 2023|[Wrangling PDF comments with Summarize](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/summarize-comments.html?lang=en)|Video |In this 60-second video tutorial, learn how to create a summary of all the comments and mark-ups in your PDF file.|Acrobat |
+|June 2023|[Convert a PDF to Word](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/convert-pdf-word.html)|Video |In this 60-second video tutorial, learn how to convert a PDF file to a fully editable Microsoft Word document.|Acrobat |
+|June 2023|[Create a PDF from Microsoft Word](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/word-to-pdf.html?lang=en)|Video |In this 60-second video tutorial, learn how to create a PDF from Microsoft Word.|Acrobat |
+|June 2023|[Conform a PDF to a standard format](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/conform.html)|Video |In this 60-second video tutorial, learn how to validate PDF content against PDF standard criteria such as PDF/X, PDF/A, or PDF/E.|jAcrobat Pro |
+|June 2023|[Create PDF files with Acrobat](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/create-from-acrobat.html?lang=en)|Video |In this 60-second video tutorial, learn how to create PDFs from Microsoft 365 files right inside the Acrobat desktop app.|Acrobat |
+|June 2023|[Convert a PDF to Excel](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/convert-pdf-excel.html)|Video |In this 60-second video tutorial, learn how to convert a PDF file to a fully editable Microsoft Excel document.|Acrobat |
+|June 2023|[Convert a PDF to PowerPoint](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/convert-pdf-powerpoint.html)|Video |In this 60-second video tutorial, learn how to convert a PDF file to a fully editable Microsoft PowerPoint document.|Acrobat |
+|June 2023|[Collaborate in real time](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate.html)|Video |With remote work everywhere, seamless collaboration is critical to delivering content with speed and scale. Move your projects forward by collecting comments, collaborating on responses, and tracking progress on your documents all in real-time, from anywhere. |Acrobat Sign|
+|June 2023|[Manage form data](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/manage-form-data.html)|Video |Learn how to consolidate form data from your documents, so you can view and manage it in a report or Excel spreadsheet.|Acrobat Sign |
+|June 2023|[Authentication methods in Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/authentication-methods.html?lang=en)|Video |Learn about the range of methods available in Acrobat Sign to authenticate the identity of someone signing a document. Identity authentication helps to reduce fraud and adds an additional layer of security to documents that are signed.| |
+|June 2023|[Adding users](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/add-users-to-your-account.html?lang=en)|Video |Learn how to add and manage users for Acrobat Sign. User management happens within the Admin Console.|Acrobat Sign |
+|June 2023|[Report options for users](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/report-options.html?lang=en)|Video |As an Acrobat Sign admin, learn how to set up report options for users.|Acrobat Sign |
 
 {style="table-layout:auto"}
 
@@ -733,10 +778,14 @@ See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com
 
 [Digital Experience Blueprints](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=en) are repeatable implementations that let you address strategy and quickly solve established business problems. Each Blueprint provides a series of artifacts that explain the high-value business problem, architectures, implementation steps, technical considerations, and links to the relevant documentation.
 
-### New Digital Experience Blueprints tutorials
+-->
+
+### New Digital Experience Blueprints tutorials {#blueprints}
+
+[Digital Experience Blueprints](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=en) are repeatable implementations that let you address strategy and quickly solve established business problems. Each Blueprint provides a series of artifacts that explain the high-value business problem, architectures, implementation steps, technical considerations, and links to the relevant documentation.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2023|[Customer Journeys - AEP + Apps & AJO Architecture](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/customer-journeys/overview.html?lang=en)|Diagram updates|Deliver individual, just-in-time customer experiences across screens.| 
--->
+|June 2023|[Multi Sandbox Event Forwarding Data Collection]()|Video |Desc.|
+
 
