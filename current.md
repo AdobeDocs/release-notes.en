@@ -55,6 +55,8 @@ Latest update: **June 2, 2023**
 
 Learn about exciting events on Experience League. It's a great place to learn, interact, and get answers from product experts at Adobe!
 
+**June 2023 update:** The [Experience League Event Recordings](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=en) page (browsing past events) now organizes events by series type and solution in the left-hand navigation.
+
 +++Upcoming events
 
 * **[!DNL Workfront]** | _Connect: Admin Chat for Marketing & Creative_ | **June 6 @ 3:00 PM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,xDk-NFOQNUSCrwRemwbIYw,hTUwAaMesk-RUHhGMuTCKQ,xpzBbYDs1kKxAlpGmXT1JQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
@@ -499,7 +501,7 @@ Find out more about the latest capabilities, improvements, and fixes in the [Cam
 
 ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
 
-New videos, tutorials, or courses published for Adobe Campaign.
+New videos, tutorials, or courses published for [!DNL Adobe Campaign].
 
 |Published|Name|Type|Description |Application|
 | -----------| ---------- | ---------- | ---------- |---------- |
