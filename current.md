@@ -353,7 +353,7 @@ _Known issues_
 
 ### Community
 
-* The recordings for all sessions of _Developer Live 2023_ are now available in the Experience Manager Community's Contextual Threads. Gain access to these valuable resources and unlock a world of knowledge and inspiration. Ready to dive in? Here are the recordings: [https://adobe.ly/3LRFDDv](https://adobe.ly/3LRFDDv). <!-- NEW. LEAVE IN FOR JUNE 7 -->
+* The recordings for all sessions of _Developer Live 2023_ are now available in the [!DNL Experience Manager] Community's Contextual Threads. Gain access to these valuable resources and unlock a world of knowledge and inspiration. Ready to dive in? Here are the recordings: [https://adobe.ly/3LRFDDv](https://adobe.ly/3LRFDDv). <!-- NEW. LEAVE IN FOR JUNE 7 -->
 
 ### Experience Manager release information
 
@@ -448,7 +448,7 @@ Get access to release notes, new tutorials, and Knowledge Base articles for [!DN
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2023|[Adobe [!DNL Commerce] on cloud infrastructure - Overview](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/cloud/1-overview.html)|Video |Identify the key technologies within the cloud stack. Describe the content delivery strategy for Adobe Commerce. Understand the value of the read-only file system.|
+|June 2023|[Adobe [!DNL Commerce] on cloud infrastructure - Overview](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/cloud/1-overview.html)|Video |Identify the key technologies within the cloud stack. Describe the content delivery strategy for [!DNL Adobe Commerce]. Understand the value of the read-only file system.|
 |June 2023|[Adobe [!DNL Commerce] on cloud infrastructure - Hosting and accounts](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/cloud/2-accounts.html)|Video |Learn about existing hosting solutions for Adobe [!DNL Commerce]. Understand differences between Starter and Pro accounts.|
 |June 2023|[Create a [!UICONTROL Cart Price Rule]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/cart-price-rules.html)|Video |Learn how to create cart price rules that apply discounts in the shopping cart based on a set of conditions.|
 
@@ -480,7 +480,7 @@ New articles and updates to existing articles for [!DNL Adobe Target].
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
 |May 2023|[About importing Adobe [!DNL Target] feed files](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21827.html)|New article| Learn more whether the values are overwritten or not when importing Adobe [!DNL Target] feed files.|
-|May 2023|[About Backup Content that works with Adobe Target's "Criteria Sequence"](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22032.html)|New article| Learn more about backup content that works with [!DNL Criteria Sequence]in Adobe Target.|
+|May 2023|[About Backup Content that works with Adobe Target's "Criteria Sequence"](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22032.html)|New article| Learn more about backup content that works with [!DNL Criteria Sequence]in [!DNL Adobe Target].|
 
 * For pre-release information, see [[!DNL Adobe Target] prerelease](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en)
 * For current information, see [[!DNL Adobe Target] release notes](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=en)
@@ -516,7 +516,7 @@ New articles and updates to existing articles for [!DNL Campaign].
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|May 2023|[How to prevent slow email delivery because of Deco-mail recipients?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21942.html)|New article|Learn how to prevent slow email delivery because of Deco-mail recipients.|
+|May 2023|[How to prevent slow email delivery because of Deco-mail recipients?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21942.html)|New article|Learn how to prevent slow email delivery because of [!UICONTROL Deco-mail] recipients.|
 |May 2023|[How long do deliveries collect tracking data?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21990.html)|New article|Find out the length of time the tracking data is stored on the server.|
 |May 2023|[Compatibility between Adobe Campaign Classic and SOCKS5 Proxy](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22075.html)|New article| Find out if it is possible to transfer files with SOCKS5 Proxy in [!DNL Campaign Classic]|
 |May 2023|[Schema Definition Not Found - Unable to generate from schema error](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21964.html)|New article| Find out the solution when you are unable to re-draft and publish the custom resource.|
@@ -551,10 +551,10 @@ New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2023|[Create AI models](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/create-ai-models.html)|Video |Learn how to create an AI model for Offer Decisioning and how to apply it to a decision.|
+|June 2023|[Create AI models](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/create-ai-models.html)|Video |Learn how to create an AI model for [!UICONTROL Offer Decisioning] and how to apply it to a decision.|
 |June 2023|[Configure content experiments for emails](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/content-experiments-for-emails.html)|Video |Learn how to configure content experiments to A/B test and explore email content best drives your business objectives.|
 |June 2023|[Configure content experiments for in-app messages](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/content-experiments-for-in-app-messages.html)|Video |Learn how to configure and analyze content experiments to A/B test in-app messages.|
-|June 2023|[Manage, author, and use fragments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/manage-author-use-fragments.html)|Video |Learn how to manage, author, and use fragments in Adobe Journey Optimizer.|
+|June 2023|[Manage, author, and use fragments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/manage-author-use-fragments.html)|Video |Learn how to manage, author, and use fragments in [!DNL Journey Optimizer].|
 |June 2023|[Set up email channel](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/set-up-email-channel.html)|Video |Learn how to create message presets, how to use them and how to delegate a sub domain and create an IP pool.|
 
 {style="table-layout:auto"}
@@ -572,7 +572,7 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].-->
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Journey Orchestration] {#journey-orch}
 
-Access the latest release notes for Journey Orchestration on Experience League.
+Access the latest release notes for [!DNL Journey Orchestration] on Experience League.
 
 +++Details
 
@@ -609,15 +609,14 @@ New videos, tutorials, or courses published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2023|[Default Programs](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs.html)|Video |Learn how to create and measure your first Default Program.|
+|June 2023|[Default Programs](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs.html)|Video |Learn how to create and measure your first [!UICONTROL Default Program].|
 |June 2023|[Email Programs](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/email-programs.html)|Video |Watch this step-by-step tutorial to learn how to create an email program with an A/B test.|
 |June 2023|[Engagement Programs](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs/engagement-programs-overview.html)|Video |Follow this step-by-step tutorial to build your first engagement program.|
 |June 2023|[Event Programs](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/event-programs.html)|Video |Develop a foundational understanding and build your first Event Program by watching this video.|
-|June 2023|[Reporting and analytics](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/reporting/reporting-and-analytics.html?lang=en)|Video |Learn how to navigate the Analytics and Database section to pull different out-of-the-box reports in Marketo Engage.|
+|June 2023|[Reporting and analytics](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/reporting/reporting-and-analytics.html?lang=en)|Video |Learn how to navigate the [!DNL Analytics] and [!UICONTROL Database] section to pull different out-of-the-box reports in [!DNL Marketo Engage].|
 |June 2023|[Understanding Marketo programs and campaigns](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/fundamentals/programs-and-campaigns.html?lang=en)|Video |Programs represent a single marketing initiative. Learn how to use them along with campaigns to reach your audience in various ways.|
-|June 2023|[Navigate the Marketo Engage user interface](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/fundamentals/ui-navigation.html?lang=en)|Video |Learn how to navigate the user interface and get familiar with your way around the Marketo Engage platform.|
-|June 2023|[Create an event program](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=en)|Video |Learn how to create a trade show event program that is based on a pre-built program in Marketo.|
-|June 2023|[Default Programs](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs.html)|Video |Learn how to create and measure your first Default Program.|
+|June 2023|[Navigate the Marketo Engage user interface](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/fundamentals/ui-navigation.html?lang=en)|Video |Learn how to navigate the user interface and get familiar with your way around the [!DNL Marketo Engage] platform.|
+|June 2023|[Create an event program](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=en)|Video |Learn how to create a trade show event program that is based on a pre-built program in [!DNL Marketo].|
 
 {style="table-layout:auto"}
 
