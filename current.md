@@ -30,7 +30,7 @@ Latest update: **May 30, 2023**
 * [[!DNL Experience League] events and updates](#events) (Updated **May 22**)
 * [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Experience Cloud] interface and administration](#ecloud)
+* [[!DNL Experience Cloud] interface and administration](#ecloud) (Updated **May 25**)
 * [[!DNL Experience Platform]](#platform)
 * [[!DNL Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Analytics]](#analytics)
