@@ -113,7 +113,9 @@ Find updates to the Experience Cloud interface home page, administration (produc
 
 +++Details
 
-_Not updated in May._
+Release: **May 25, 2023**
+
+* Updated the Help menu to include search results from Experience League tutorial videos, product documentation, and community posts. You can view the results in Experience League.
 
 For help, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) (includes [!UICONTROL Customer Attributes] and [!UICONTROL Audiences]).
 
