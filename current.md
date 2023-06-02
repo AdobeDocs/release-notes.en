@@ -395,11 +395,11 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|May 2023|[How to redirect to custom login page from an AEM OAuth flow failure](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21954.html)|New article| Learn why there is a need to redirect to custom login page in case of AEM OAuth flow failure and how to do it.|
+|May 2023|[How to redirect to custom login page from an AEM OAuth flow failure](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21954.html)|New article| Learn why there is a need to redirect to custom login page in case of AEM `OAuth` flow failure and how to do it.|
 |May 2023|[Pipeline failing with error _The end_aem_createsegmentstore property is missing_](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22091.html)|New article| Learn the solution for the issue when the CI/CD pipeline fails with error _The end_aem_createsegmentstore property is missing_.|
 |May 2023|[How to monitor a replication queue](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22082.html)|New article| Learn how to monitor a replication queue.|
 |May 2023|[How to roll out a deleted [!UICONTROL Live Copy]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22081.html)|New article| Learn how to roll out a deleted [!UICONTROL Live Copy].|
-|May 2023|[Activate Brand Portal using OAuth Sever-to-Server credentials](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22074.html)|New article| Learn why customers should use the JWT credentials method instead of [!DNL OAuth Sever-to-Server] credentials method to create the Adobe IMS Technical Account Configuration.|
+|May 2023|[Activate Brand Portal using OAuth Sever-to-Server credentials](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22074.html)|New article| Learn why customers should use the JWT credentials method instead of [!DNL OAuth Sever-to-Server] credentials method to create the Adobe [!UICONTROL IMS Technical Account Configuration].|
 |May 2023|[AEM log-out issue even after SAML SSO authentication](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22065.html)|New article| Learn the solution for the issue where users are not able to log out when AEM is authenticated using the SAML Single Sign-on (SSO).|
 |May 2023|[Deleting NetworkInfrastructure via CM API fails with 405](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22063.html)|New article| Learn the solution for the issue where deleting `NetworkInfrastructure` via CM API fails with 405.|
 |May 2023|[Extracting content via Migration Set fails](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22031.html)|New article| Learn why extracting content via [!DNL Migration Set] could be failing.|
@@ -446,9 +446,9 @@ Get access to release notes, new tutorials, and Knowledge Base articles for [!DN
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2023|[Adobe Commerce on cloud infrastructure - Overview](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/cloud/1-overview.html)|Video |Identify the key technologies within the cloud stack. Describe the content delivery strategy for Adobe Commerce. Understand the value of the read-only file system.|
-|June 2023|[Adobe Commerce on cloud infrastructure - Hosting and accounts](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/cloud/2-accounts.html)|Video |Learn about existing hosting solutions for Adobe Commerce. Understand differences between Starter and Pro accounts.|
-|June 2023|[Create a Cart Price Rule](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/cart-price-rules.html)|Video |Learn how to create cart price rules that apply discounts in the shopping cart based on a set of conditions.|
+|June 2023|[Adobe [!DNL Commerce] on cloud infrastructure - Overview](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/cloud/1-overview.html)|Video |Identify the key technologies within the cloud stack. Describe the content delivery strategy for Adobe Commerce. Understand the value of the read-only file system.|
+|June 2023|[Adobe [!DNL Commerce] on cloud infrastructure - Hosting and accounts](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/cloud/2-accounts.html)|Video |Learn about existing hosting solutions for Adobe [!DNL Commerce]. Understand differences between Starter and Pro accounts.|
+|June 2023|[Create a [!UICONTROL Cart Price Rule]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/cart-price-rules.html)|Video |Learn how to create cart price rules that apply discounts in the shopping cart based on a set of conditions.|
 
 {style="table-layout:auto"}
 
@@ -467,18 +467,18 @@ New articles and updates to existing articles for Adobe Commerce.
 
 ## ![Icon](/assets/target.png) [!DNL Target] {#target}
 
-Get access to pre-release notes, current release notes, and new tutorials for Adobe Target.
+Get access to pre-release notes, current release notes, and new tutorials for [!DNL Adobe Target].
 
 +++Details
 
 ### [!DNL Target] support knowledge base
 
-New articles and updates to existing articles for [!DNL Target].
+New articles and updates to existing articles for [!DNL Adobe Target].
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|May 2023|[About importing Adobe Target feed files](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21827.html)|New article| Learn more whether the values are overwritten or not when importing Adobe Target feed files.|
-|May 2023|[About Backup Content that works with Adobe Target's "Criteria Sequence"](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22032.html)|New article| Learn more about backup content that works with Adobe Target's [!DNL Criteria Sequence].|
+|May 2023|[About importing Adobe [!DNL Target] feed files](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21827.html)|New article| Learn more whether the values are overwritten or not when importing Adobe [!DNL Target] feed files.|
+|May 2023|[About Backup Content that works with Adobe Target's "Criteria Sequence"](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22032.html)|New article| Learn more about backup content that works with [!DNL Criteria Sequence]in Adobe Target.|
 
 * For pre-release information, see [[!DNL Adobe Target] prerelease](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html?lang=en)
 * For current information, see [[!DNL Adobe Target] release notes](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html?lang=en)
