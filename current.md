@@ -180,7 +180,7 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 +++Details
 
-Release date: **June 7, 2023**
+[!DNL Analytics] release date: **June 7, 2023**
 
 * [!DNL Analytics] [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html?lang=en) 
 * [!DNL Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/analytics.html)
@@ -227,7 +227,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 +++Details
 
-Release date: **May 10, 2023**
+[!DNL Customer Journey Analytics] release date: **June 7, 2023**
 
 * Customer Journey Analytics [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en)
 * Customer Journey Analytics [product documentation and tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics.html?lang=en)
@@ -247,7 +247,7 @@ New videos, tutorials, or courses published for CJA.
 
 ## ![Icon](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
-Release date: **May 10, 2023**
+[!DNL Analytics] release date: **June 7, 2023**
 
 * [!DNL Streaming Media Analytics] [release notes](https://experienceleague.adobe.com/docs/media-analytics/using/release-notes/release-notes.html?lang=en)
 * [!DNL Streaming Media Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html?lang=en)
@@ -472,9 +472,8 @@ New articles and updates to existing articles for Adobe Commerce.
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|April 2023|[Quality Patches Tool (QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles|New articles on how to apply patches available in QPT 1.1.28, QPT 1.1.29, and QPT 1.1.30 were published and can be found in their respective sections.|
-|April 2023|[New domain is redirecting to default domain](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/new-domain-redirecting.html)|New article|Learn how to fix the issue where a new domain is redirected to the default domain in the existing or different environment.|
-|April 2023|[How to change email address on Magento.com account when the field is grayed out?](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/change-email-address-on-magento-account.html)|New article|Learn how to change the email address on your [Magento.com](https://account.magento.com/customer/account/login) account when the field is grayed out.|
+|May 2023|[Quality Patches Tool (QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles|New articles on how to apply patches available in QPT 1.1.29, QPT 1.1.30 and QPT 1.1.31 were published and can be found in their respective sections.|
+|May 2023|[Unable to add user to Adobe Commerce cloud project](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-add-user-adobe-commerce-cloud-project.html)|New article| Find out the solution for the issue where you are trying to add a user to a cloud project, but it fails with an error: _User XXX does not exist_.|
 
 {style="table-layout:auto"}
 
