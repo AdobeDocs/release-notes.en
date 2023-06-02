@@ -5,9 +5,10 @@ doc-type: release notes
 last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
+badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
-# Experience Cloud Release Notes
+# Experience Cloud Release Notes - INTERNAL REVIEW
 
 ![Banner](assets/release-notes-header.png)
 
@@ -21,7 +22,7 @@ This page helps you stay updated on product release information, events, and lea
 
 **Need help?**
 
-Your path to success starts with [Experience League](https://experienceleague.adobe.com/?lang=en#home). Browse Adobe's vast library of self-help [product documentation](https://experienceleague.adobe.com/docs/?lang=en) and guided [tutorial videos](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=en). Find [courses](https://experienceleague.adobe.com/?lang=en#courses) for all levels and roles, ask questions from our online [community](https://experienceleaguecommunities.adobe.com/?profile.language=en) of peers, and get expert [support](https://experienceleague.adobe.com/?support-tab=home#support) when you need it. 
+Sign in to [Experience League](https://experienceleague.adobe.com/?lang=en#home) and customize your search experience across Adobe's library of self-help resources. Browse [product documentation](https://experienceleague.adobe.com/docs/?lang=en), [tutorial videos](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=en), [courses](https://experienceleague.adobe.com/?lang=en#courses), and [events](https://experienceleague.adobe.com/events/?lang=en) for all levels and roles. Ask questions from your online [community](https://experienceleaguecommunities.adobe.com/?profile.language=en) of peers, and get expert [support](https://experienceleague.adobe.com/?support-tab=home#support) when you need it most.
 
 ## Product release updates and events
 
@@ -33,39 +34,26 @@ Latest update: **June 2, 2023**
 * [[!DNL Experience Cloud] interface and administration](#ecloud)
 * [[!DNL Experience Platform]](#platform)
 * [[!DNL Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Analytics]](#analytics)
+* [[!DNL Adobe Analytics]](#analytics)
 * [[!DNL Customer Journey Analytics]](#cja)
 * [[!DNL Streaming Media Analytics]](#sma)<!-- * [[!DNL Audience Manager]](#aam) -->
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Experience Manager Guides]](#xml-doc)
-* [[!DNL Commerce]](#commerce)
-* [[!DNL Target]](#target)
-* [[!DNL Campaign]](#ac)
+* [[!DNL Adobe Commerce]](#commerce)
+* [[!DNL Adobe Target]](#target)
+* [[!DNL Adobe Campaign]](#ac)
 * [[!DNL Journey Optimizer]](#journey-opt)
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
-* [[!DNL Advertising]](#advertising)
+* [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)
-* [Digital Experience Blueprints - tutorials](#blueprints)
+* [Digital Experience Blueprints](#blueprints)
 
 ## ![Icon](/assets/experience-league.png) [!DNL Experience League] events and updates {#events}
 
-Find out what's happening on Experience League. Events are a great place to learn, interact, and get answers from product experts at Adobe!
-
-Updated: **May 30, 2023**
-
-**Improved content search on Experience League:** You can customize how to filter content search results for the products you own. Display results based on:
-
-* Tutorials
-* Courses
-* Documentation
-* Products
-* Events
-* Certifications
-
-Go to [Experience League](https://experienceleague.adobe.com/?lang=en#home) and check it out!
+Learn about exciting events on Experience League. It's a great place to learn, interact, and get answers from product experts at Adobe!
 
 +++Upcoming events
 
@@ -119,9 +107,9 @@ Find updates to the Experience Cloud interface home page, administration (produc
 
 Release: **May 25, 2023**
 
-* Updated the Help menu to include search results from Experience League tutorial videos, product documentation, and community posts. You can view the results in Experience League.
+* Updated the [!DNL Experience Cloud] **[!UICONTROL Help]** menu to include search results from Experience League tutorial videos, product documentation, and community posts. You can view the results in Experience League.
 
-For help, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) (includes [!UICONTROL Customer Attributes] and [!UICONTROL Audiences]).
+For help on Experience Cloud interface common components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
 
 +++
 
