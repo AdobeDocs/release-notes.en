@@ -671,14 +671,14 @@ Last updated: **May 30, 2023**
 
 {style="table-layout:auto"}
   
-### New features in [!DNL Advertising Search] {#advertising-search}
+### New features in [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
 
-Last updated: **April 14, 2023**
+Last updated: **June 1, 2023**
 
 | Feature | Description |
 | ------- | ----------- |
-| [!UICONTROL Campaigns] | ([!DNL Microsoft&reg; Advertising] audience campaigns; April 15 release) Audience campaigns can now use the "Manual CPM" bid strategy. You can set bids within the child ad group settings.<br><br>Optimization support isn't available for CPM campaigns. |
-| [!UICONTROL Recommendations] | Six new ([!DNL Google Ads] recommendations are available from [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations]:<ul><li>[!UICONTROL Responsive search improve ad strength]: Suggestions to improve ad strength for a responsive search ad</li><li>[!UICONTROL Upgrade local campaign to performance max]: Upgrade a legacy local campaign to a performance max campaign</li><li>[!UICONTROL Upgrade smart shopping campaign to performance max]: Upgrade a legacy smart shopping campaign to a performance max campaign</li><li>[!UICONTROL Forecasting set Target ROAS]: Raise the budget before a seasonal event that is forecasted to increase traffic, and change the bidding strategy from [!DNL Maximize Conversion Value] to [!DNL Target ROAS]</li><li>[!UICONTROL Raise Target CPA bid too low]: Raise the [!DNL Target CPA] by a recommended amount when it's too low and there are few or no conversions</li><li>[!UICONTROL Display expansion opt in]: Expand reach by updating a campaign to use display expansion</li></ul>Because adding and removing assets, changing campaign types, and changing budgets and bid strategies can affect performance, we recommend discussing the pros and cons of each recommendation with your Adobe Account Team so that you can make an informed decision. |
+| [!UICONTROL Campaigns], [!UICONTROL Reports], [!UICONTROL Objectives] | (Open beta; May 30 release) Conversions tracked by the [!DNL Microsoft Advertising] universal event tracking (UET) tag are new available in campaign management views and reports. You can also optimize for these conversions by including them in objectives for portfolios that contain [!DNL Microsoft Advertising] campaigns. |
+| [!UICONTROL Reports] | (Open beta; May 30 release) Three new specialty reports include data for [!DNL Microsoft Advertising] ad extensions: [!UICONTROL MSA Ad Extension Detail Report], [!UICONTROL MSA Ad Extension by Ad Report], and [!UICONTROL MSA Ad Extension by Keyword Report]. |
 
 {style="table-layout:auto"}
 
