@@ -70,11 +70,15 @@ Go to [Experience League](https://experienceleague.adobe.com/?lang=en#home) and 
 
 +++Upcoming events
 
-* **[!DNL Experience Manager - Cloud Manager]** | _DAEM Champion Office Hours - AEM Cloud Manager_ | **May 31 @ 7:30 AM PT** | [Register](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-champion-office-hours-presents-adobe-experience-manager-champion-office-hours-cloud-manager/)
+* **[!DNL Workfront]** | _Connect: Admin Chat for Marketing & Creative_ | **June 6 @ 3:00 PM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,xDk-NFOQNUSCrwRemwbIYw,hTUwAaMesk-RUHhGMuTCKQ,xpzBbYDs1kKxAlpGmXT1JQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Journey Optimizer]** | _Adobe Journey Optimizer Community Q&A Coffee Break with Ivan Mironchuk Peter Fransen, Jason Hickey & Sandra Hausmann_ | **May 31 @ 8:00 AM PT** | [Register](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-discussions/adobe-journey-optimizer-community-q-amp-a-coffee-break-may-31st/td-p/593283)
+* **[!DNL Marketo Engage]** | _Marketo & Mochas - Customer Journey Management: Lifecycle Modeling_ | **June 8 @ 1:00 PM ET** | [Register](https://register.gotowebinar.com/register/8576570459027384151)
 
-* **[!DNL Audience Manager]** | _Maximizing Value with Adobe Audience Manager: Navigating Industry Changes and Transitioning to RTCDP_ | **June 1 @ 10:00 AM PT** | [Register](https://adobeint-mid-prod13-m.adobe-campaign.com/nl/jsp/m.jsp?c=%40jfezFOPoEnsrkA40AZ0d3VjOp%2B7K65ZgXxAbnn8Jwu4%3D)
+* **[!DNL Workfront]** | _Ask the Experts: Leverage the no-cost Adobe Workfront + Creative Cloud integration_ | **June 8 @ 10:30 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,ueSOCVtFIkmna7wZj0qUpA,vIUNhWnBmkOH38v4q3nQ8A,VszLUMl3W0268EAiz1tQ_w?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Connect: Workfront Strategic Admin Chat_ | **June 12 @ 8:00 AM CT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,In1kkaMFJ0Kkz4rHJ_FjWA,VULVBg2HWUWGxssI6bizyQ,zDPownyw9EGwqszZO1cshQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Ask the Experts: Resource Management in Workfront Office Hours_ | **June 13 @ 2:00 PM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,f3xda2S9qUiQFiyPwkN8bw,X4tGbEP2nEaLWQC3N4UNng,9hWdr3sEFEe7-p-YB9u-yg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 [More...](https://experienceleague.adobe.com/events/?lang=en)
 
@@ -114,7 +118,9 @@ Find updates to the Experience Cloud interface home page, administration (produc
 
 +++Details
 
-_Not updated in May._
+Release: **May 25, 2023**
+
+* Updated the Help menu to include search results from Experience League tutorial videos, product documentation, and community posts. You can view the results in Experience League.
 
 For help, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) (includes [!UICONTROL Customer Attributes] and [!UICONTROL Audiences]).
 
