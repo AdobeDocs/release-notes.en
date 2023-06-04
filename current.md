@@ -109,7 +109,7 @@ Find updates to the Experience Cloud interface home page, administration (produc
 
 Release: **May 25, 2023**
 
-* Updated the [!DNL Experience Cloud] **[!UICONTROL Help]** menu to include search results from Experience League tutorial videos, product documentation, and community posts. You can view the results in Experience League.
+* In the [!DNL Experience Cloud] **[!UICONTROL Help]** menu, the content search has been updated to use the [Experience League](https://experienceleague.adobe.com/?lang=en#home) search engine.
 
 For help on Experience Cloud interface common components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
 
@@ -123,7 +123,7 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 * [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
 
-### New Experience Platform tutorials and courses
+### New Experience Platform tutorials and courses{#tutorials-aep}
 
 New videos, tutorials, or courses published for Adobe Experience Platform.
 
@@ -196,7 +196,7 @@ New video tutorials, articles, and courses published for Adobe Analytics.
 
 {style="table-layout:auto"}
 
-### [Adobe Analytics] support knowledge base
+### Adobe Analytics support knowledge base{#kb-analytics}
 
 New articles and updates to existing articles for [!DNL Analytics].
 
@@ -390,7 +390,7 @@ New videos, tutorials, or courses published for Experience Manager.
 
 {style="table-layout:auto"}
 
-### [!DNL Experience Manager] support knowledge base
+### [!DNL Experience Manager] support knowledge base{#kb-aem}
 
 New articles and updates to existing articles for [!DNL Experience Manager].
 
@@ -453,7 +453,7 @@ Get access to release notes, new tutorials, and Knowledge Base articles for [!DN
 
 {style="table-layout:auto"}
 
-### [!DNL Commerce] support knowledge base
+### [!DNL Commerce] support knowledge base{#kb-commerce}
 
 New articles and updates to existing articles for Adobe Commerce.
 
@@ -472,7 +472,7 @@ Get access to pre-release notes, current release notes, and new tutorials for [!
 
 +++Details
 
-### [!DNL Target] support knowledge base
+### [!DNL Target] support knowledge base{#kb-target}
 
 New articles and updates to existing articles for [!DNL Adobe Target].
 
@@ -509,7 +509,7 @@ New videos, tutorials, or courses published for [!DNL Adobe Campaign].
 
 {style="table-layout:auto"}
 
-### [!DNL Campaign] support knowledge base
+### [!DNL Campaign] support knowledge base{#kb-campaign}
 
 New articles and updates to existing articles for [!DNL Campaign].
 
@@ -772,9 +772,9 @@ See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com
 
 -->
 
-### New Digital Experience Blueprints tutorials {#blueprints}
+## New Digital Experience Blueprints {#blueprints}
 
-[Digital Experience Blueprints](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=en) are repeatable implementations that let you address strategy and quickly solve established business problems. Each Blueprint provides a series of artifacts that explain the high-value business problem, architectures, implementation steps, technical considerations, and links to the relevant documentation.
+[Digital Experience Blueprints tutorials](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html?lang=en) are repeatable implementations that let you address strategy and quickly solve established business problems. Each Blueprint provides a series of artifacts that explain the high-value business problem, architectures, implementation steps, technical considerations, and links to the relevant documentation.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
