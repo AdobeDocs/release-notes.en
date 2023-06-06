@@ -12,7 +12,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 ![Banner](assets/release-notes-header.png)
 
-## June 2023
+**June 2023**
 
 This page helps you stay updated on product release information, events, and learning opportunities at Experience League.
 
@@ -122,6 +122,7 @@ Find latest release information and new documentation for [!DNL Experience Platf
 +++Details
 
 * [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
+* [Experience Platform Mobile SDK release notes](https://developer.adobe.com/client-sdks/documentation/release-notes/)
 
 ### New Experience Platform tutorials and courses{#tutorials-aep}
 
