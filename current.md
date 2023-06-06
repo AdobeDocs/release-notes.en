@@ -494,11 +494,7 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials, courses, a
 
 ### Latest Campaign product releases
 
-* Campaign Control Panel May release, with Subdomains' SSL certificates delegation to Adobe. [Learn more...](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)
-
-* Adobe Journey Optimizer May release, with Content Experimentation and Email Fragments. [Learn more...](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=en)
-
-* Decision Management May release, with Personalized Optimization AI ranking model. [Learn more...](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=en)
+* [!DNL Campaign Control Panel] May release, with Subdomains' SSL certificates delegation to Adobe. [Learn more...](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)
 
 Go here for the latest capabilities, improvements, and fixes in [!DNL Adobe Campaign]:
 
@@ -547,6 +543,12 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 +++Details
 
 ### Latest [!DNL Journey Optimizer] product releases
+
+New features:
+
+* [!DNL Adobe Journey Optimizer] May release, with[!UICONTROL  Content Experimentation] and [!UICONTROL Email Fragments]. [Learn more...](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=en)
+
+* [!UICONTROL Decision Management] May release, with [!UICONTROL Personalized Optimization AI] ranking model. [Learn more...](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=en)
 
 Find out more about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
 
@@ -784,6 +786,4 @@ See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2023|[Multi Sandbox Event Forwarding Data Collection](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-ingestion/multi-sandbox-event-forwarding.html?lang=en)|Blueprint tutorial |Learn how data collected with Experience Platform Web and Mobile SDKs can be configured to collect a single event and forward to multiple AEP Sandboxes.|
-
-
+|June 2023|[Multi-sandbox event-forwarding data collection](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/data-ingestion/multi-sandbox-event-forwarding.html?lang=en)|Blueprint tutorial |Learn how data collected with Experience Platform Web and Mobile SDKs can be configured to collect a single event and forwarded to multiple AEP sandboxes.|
