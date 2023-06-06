@@ -26,7 +26,7 @@ Sign in to [Experience League](https://experienceleague.adobe.com/?lang=en#home)
 
 ## Product release updates and events
 
-Latest update: **June 2, 2023**
+Latest update: **June 6, 2023**
 
 * [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
@@ -109,7 +109,7 @@ Find updates to the Experience Cloud interface home page, administration (produc
 
 Release: **May 25, 2023**
 
-* In the [!DNL Experience Cloud] **[!UICONTROL Help]** menu, the content search has been updated to use the [Experience League](https://experienceleague.adobe.com/?lang=en#home) search engine.
+* In the [!DNL Experience Cloud] **[!UICONTROL Help]** menu, the content search has been updated to improve filtering from the [Experience League](https://experienceleague.adobe.com/?lang=en#home) search engine, showing results for the application you are currently using.
 
 For help on Experience Cloud interface common components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
 
@@ -493,6 +493,12 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials, courses, a
 +++Details
 
 ### Latest Campaign product releases
+
+* Campaign Control Panel May release, with Subdomains' SSL certificates delegation to Adobe. [Learn more...](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en)
+
+* Adobe Journey Optimizer May release, with Content Experimentation and Email Fragments. [Learn more...](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=en)
+
+* Decision Management May release, with Personalized Optimization AI ranking model. [Learn more...](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html?lang=en)
 
 Go here for the latest capabilities, improvements, and fixes in [!DNL Adobe Campaign]:
 
