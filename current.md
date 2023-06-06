@@ -138,10 +138,6 @@ New videos, tutorials, or courses published for Adobe Experience Platform.
 
 {style="table-layout:auto"}
 
-<!-- ### [!DNL Mobile] SDK
-
-Updated: **November 11, 2022** - See [Release notes and change logs](https://aep-sdks.gitbook.io/docs/release-notes) for the [!DNL Adobe Experience Platform] [!DNL Mobile SDKs]. -->
-
 +++
 
 <!-- ## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Real-Time Customer Data Platform] {#rtcdp}
