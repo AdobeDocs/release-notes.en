@@ -25,12 +25,12 @@ Sign in to [Experience League](https://experienceleague.adobe.com/?lang=en#home)
 
 ## Product release updates and events
 
-Latest update: **June 6, 2023**
+Latest update: **June 7, 2023**
 
 * [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Experience Cloud] interface and administration](#ecloud) (Updated **May 25**)
+* [[!DNL Experience Cloud] interface and administration](#ecloud)
 * [[!DNL Experience Platform]](#platform)
 * [[!DNL Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics)
