@@ -138,6 +138,8 @@ New videos, tutorials, or courses published for Adobe Experience Platform.
 |June 2023|[Classify data using labels](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-labels.html)|Video |Learn how to apply labels to your schemas and datasets. Data usage labels enable you to tag and classify data to reflect corporate policies, contractual obligations, compliance requirements, and regional regulations in [!DNL Experience Platform].|
 |June 2023|[Use [!DNL Real-Time CDP] profile attributes in Adobe [!DNL Target]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/use-rtcdp-profile-attributes-in-target.html)|Video |Learn how to use [!DNL Real-Time Customer Data Platform] profile attributes in Adobe [!DNL Target] to deliver personalized experiences on your website and mobile apps. | 
 
+{style="table-layout:auto"}
+
 +++
 
 <!-- ## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Real-Time Customer Data Platform] {#rtcdp}
