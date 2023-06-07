@@ -5,10 +5,9 @@ doc-type: release notes
 last-update: June 2023
 author: mfrei
 mini-toc-levels: 2
-badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
-# Experience Cloud Release Notes - INTERNAL REVIEW
+# Experience Cloud Release Notes
 
 ![Banner](assets/release-notes-header.png)
 
@@ -55,7 +54,7 @@ Latest update: **June 6, 2023**
 
 Learn about exciting events on Experience League. It's a great place to learn, interact, and get answers from product experts at Adobe!
 
-**June 2023 update:** The [Experience League Event Recordings](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=en) page (browsing past events) now organizes events by series type and solution in the left-hand navigation.
+**June 2023 Events update:** On the [Experience League Event Recordings](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html?lang=en) page, you can use the left-hand navigation to browse past events by series type and application.
 
 +++Upcoming events
 
@@ -109,7 +108,7 @@ Find updates to the Experience Cloud interface home page, administration (produc
 
 Release: **May 25, 2023**
 
-* In the [!DNL Experience Cloud] **[!UICONTROL Help]** menu, the content search has been updated to improve filtering from the [Experience League](https://experienceleague.adobe.com/?lang=en#home) search engine, showing results for the application you are currently using.
+* In the [!DNL Experience Cloud] **[!UICONTROL Help]** menu, the content search has been updated to filter by application in the [Experience League](https://experienceleague.adobe.com/?lang=en#home) search results.
 
 For help on Experience Cloud interface common components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=en) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
 
@@ -122,6 +121,8 @@ Find latest release information and new documentation for [!DNL Experience Platf
 +++Details
 
 * [Experience Platform release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
+
+
 * [Experience Platform Mobile SDK release notes](https://developer.adobe.com/client-sdks/documentation/release-notes/)
 
 ### New Experience Platform tutorials and courses{#tutorials-aep}
