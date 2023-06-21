@@ -25,7 +25,7 @@ Sign in to [Experience League](https://experienceleague.adobe.com/#home) and cus
 
 ## Product release updates and events
 
-Latest update: **June 7, 2023**
+Latest update: **June 21, 2023**
 
 * [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
@@ -58,15 +58,13 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 +++Upcoming events
 
-* **[!DNL Workfront]** | _Connect: Admin Chat for Marketing & Creative_ | **June 6 @ 3:00 PM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,xDk-NFOQNUSCrwRemwbIYw,hTUwAaMesk-RUHhGMuTCKQ,xpzBbYDs1kKxAlpGmXT1JQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Commerce]** | _Commerce & Coffee: Empowering B2B Success_ | **June 22 @ 1:00 PM ET** | [Register](https://register.gotowebinar.com/register/2180200047542819420)
 
-* **[!DNL Marketo Engage]** | _Marketo & Mochas - Customer Journey Management: Lifecycle Modeling_ | **June 8 @ 1:00 PM ET** | [Register](https://register.gotowebinar.com/register/8576570459027384151)
+* **[!DNL Experience Manager]** | _Master the Art of Experience Manager Certification - Get Ready, Get Set, Get Certified!_ | **June 28 @ 8:00 AM PT** | [Register](https://adobe.ly/3Ni6XeL)
 
-* **[!DNL Workfront]** | _Ask the Experts: Leverage the no-cost Adobe Workfront + Creative Cloud integration_ | **June 8 @ 10:30 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,ueSOCVtFIkmna7wZj0qUpA,vIUNhWnBmkOH38v4q3nQ8A,VszLUMl3W0268EAiz1tQ_w?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Marketo Engage]** | _Track, Analyze, and Optimize your Marketing Campaigns with Marketo Engage_ | **June 28 @ 8:00 AM PT** | [Register](https://engage.marketo.com/track_analyze_optimize_marketing_register.html?utm_source=exl)
 
-* **[!DNL Workfront]** | _Connect: Workfront Strategic Admin Chat_ | **June 12 @ 8:00 AM CT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,In1kkaMFJ0Kkz4rHJ_FjWA,VULVBg2HWUWGxssI6bizyQ,zDPownyw9EGwqszZO1cshQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Ask the Experts: Resource Management in Workfront Office Hours_ | **June 13 @ 2:00 PM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,f3xda2S9qUiQFiyPwkN8bw,X4tGbEP2nEaLWQC3N4UNng,9hWdr3sEFEe7-p-YB9u-yg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Ask the Experts: Establishing a Center of Excellence Webinar Follow Up_ | **June 28 @ 10:00 AM CT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,t2YLg66G70WfmpnGWvnwPA,8Vn5DyJFjU6zpT9DW3m_vg,t4QVQLoEzkq6Jf5IvbSRcg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 [More...](https://experienceleague.adobe.com/events/)
 
