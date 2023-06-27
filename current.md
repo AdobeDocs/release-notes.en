@@ -114,7 +114,7 @@ For help on Experience Cloud interface common components, see the [Experience Cl
 +++
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Experience Platform] {#platform}
-#
+
 Find latest release information and new documentation for [!DNL Experience Platform] and [!UICONTROL Mobile SDK]. View new tutorials and Knowledge Base articles on Experience League.
 
 +++Details
