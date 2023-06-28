@@ -346,7 +346,7 @@ _Release highlights_
 
 >[!IMPORTANT]
 >
->Adobe recommends that you [upgrade to the latest 1.9.10 version](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/update-workfront-enhanced-connector.html) of the Workfront for Experience Manager enhanced connector. <!-- NEW. LEAVE IN FOR JUNE 7 -->
+>Adobe recommends that you [upgrade to the latest 1.9.10 version](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets-view/integrations/workfront-connector-install.html?lang=en) of the Workfront for Experience Manager enhanced connector. <!-- NEW. LEAVE IN FOR JUNE 7 -->
 
 _Known issues_
 
