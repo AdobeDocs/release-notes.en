@@ -144,12 +144,10 @@ New videos, tutorials, or courses published for Adobe Experience Platform.
 
 |Type|Product feature|Description |
 | -----------| ---------- |---------- |
-|June 2023|[Ingest data from [!DNL Marketo Engage]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)|Video |Learn how to ingest data from [!DNL Marketo Engage] into [!DNL Real-Time Customer Data Platform], B2B Edition, and [!DNL Adobe Experience Platform] using the source connector and two workflows.|
-|June 2023|[Ingest data using CRM source connectors - Salesforce](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-crm.html)|Video |Learn how to batch-ingest data from CRM sources into [!UICONTROL Real-Time Customer Profile] and data lake seamlessly. |
-|June 2023|[Use [!DNL Real-Time CDP] segments in [!DNL Target]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/use-rtcdp-segments-in-target.html)|Video |Learn how to use [!DNL Real-Time Customer Data Platform] segments in Adobe [!DNL Target] to deliver personalized experiences on your website and mobile apps. |
-|June 2023|[Activate segments and profile attributes](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/activate-segments-and-profile-attributes.html)|Video |Learn how to activate segments and profile attributes from [!DNL Real-Time Customer Data Platform] to Adobe [!DNL Target]. Display real-time personalized content in your websites, mobile apps, and other digital properties.| 
-|June 2023|[Classify data using labels](https://experienceleague.adobe.com/docs/platform-learn/tutorials/data-governance/classify-data-using-labels.html)|Video |Learn how to apply labels to your schemas and datasets. Data usage labels enable you to tag and classify data to reflect corporate policies, contractual obligations, compliance requirements, and regional regulations in [!DNL Experience Platform].|
-|June 2023|[Use [!DNL Real-Time CDP] profile attributes in Adobe [!DNL Target]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/use-rtcdp-profile-attributes-in-target.html)|Video |Learn how to use [!DNL Real-Time Customer Data Platform] profile attributes in Adobe [!DNL Target] to deliver personalized experiences on your website and mobile apps. | 
+|July 2023|[Import sample data to Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html)|Updated video |Learn how to set up an Experience Platform sandbox environment with sample data. Using a Postman collection, you can create field groups, schemas, datasets and then import sample data into Experience Platform.|
+|July 2023|[Authenticate and access Experience Platform APIs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/apis/postman.html)|Updated video |Learn how to get started with Adobe Experience Platform APIs. This tutorial guides you through the process to create authentication credentials and start making Experience Platform API requests.| 
+|July 2023|[Get started with Experience Platform for Data Architects and Data Engineers](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/overview.html)|Updated tutorial |Getting Started with Adobe Experience Platform for Data Architects and Data Engineers is the perfect starting point to get hands-on with Experience Platform.|
+|July 2023|[Update specific profile attributes using upsert](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/update-a-specific-attribute-with-upsert.html)|Video |Learn how to update a specific attribute of a profile using the upsert feature of Adobe Experience Platform. | 
 
 {style="table-layout:auto"}
 
@@ -196,14 +194,9 @@ New video tutorials, articles, and courses published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2023|[Take your data analysis to the next level with [!UICONTROL Calculated Metrics]](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.html)|Article |Learn how a peer expert uses [!UICONTROL Calculated Metrics] to create metrics without changing their implementation and uses the data already collected to help answer complex business questions.|
-|June 2023|[Use text visualizations and descriptions in [!UICONTROL Analysis Workspace]](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.html)|Article |Learn how a peer expert uses [!UICONTROL Calculated Metrics] to create metrics without changing their implementation and using the data already collected to help answer complex business questions.|
-|June 2023|[Use segments to discover new insights in [!UICONTROL Analysis Workspace]](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/segmentation-to-discover-new-insights.html)|Article |Learn how to use segments in [!DNL Adobe Analytics] to discover new insights from your [!UICONTROL Analysis Workspace] visualizations and freeform tables.|
-|June 2023|[Use [!UICONTROL Cohort Analysis] to understand customer behavior](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/cohort-analysis/use-cohort-analysis-to-understand-customer-behavior.html)|Article |Use [!UICONTROL Cohort Analysis] to help you comprehend engagement and retention, leading to actions like improving account creation and creating campaigns for high-volume months.|
-|June 2023|[Build Customer Journey segments](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/building-customer-journey-segments.html)|Article |Follow this step-by-step guide to create behavioral-based customer journey segments in [!DNL Adobe Analytics] and improve your customers' experience with [!DNL Experience Cloud].|
-|June 2023|[Goodbye Excel, hello Calculated Metrics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.html)|Article |Learn the benefits of using [!UICONTROL Calculated Metrics] in [!DNL Adobe Analytics] and how they can provide you with a continuous, dynamic view of your data in this article.|
-|June 2023|[Unlock the power of read-only sharing in [!UICONTROL Analysis Workspace]](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.html)|Article |Learn how sharing [!UICONTROL Analysis Workspace] projects as read-only can create executive-ready dashboard reports with a clean user interface and predefined filtering options.|
-|June 2023|[Start your analysis with a pre-built report](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/start-your-analysis-with-a-pre-built-report.html)|Video |Learn how to start your analysis in Workspace with a pre-built report.|
+|July 2023|[Create bot reports in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/bot-reporting.html)|Video |Learn how to report on bot data in [!UICONTROL Analysis Workspace]. Bot data is available as summary data and can be analyzed in bot-enabled report suites.|
+|July 2023|[Create dynamic drop-down filters in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/tips-and-tricks/dynamic-drop-downs.html)|Video |Learn how to create drop-down filters based on an entire dimension. Dimension items dynamically update based on the date range used in the report panel and values selected in other drop-down filters in the same panel.|
+|July 2023|[Calculated metrics: Segmented metrics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/calculated-metrics/calculated-metrics-segmented-metrics.html)|Video |Learn how to create calculated metrics based on segments, so that you can more effectively analyze the visitors, visits, and page views that belong to it.|
 
 {style="table-layout:auto"}
 
@@ -236,8 +229,10 @@ New videos, tutorials, or courses published for [!DNL Customer Journey Analytics
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2023|[Filters overview](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/filters/introduction-to-filters-in-cja.html)|Video |Filters identify subsets of visitors or customers based on attributes and events, like website visitors or call center engagement. Learn about the key components of [!UICONTROL Filter Builder] in [!DNL Customer Journey Analytics].|
-|June 2023|[Use filters as dimensions in Analysis Workspace](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/filters/use-filters-as-dimensions.html)|Video |Learn how to compare and visualize filters when used as dimensions in Analysis Workspace projects.|
+|July 2023|[Share with anyone in Analysis Workspace](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.html)|Video |Learn about the **[!UICONTROL Share with anyone]** feature in Workspace. You can use this feature to grant read-only access to Workspace projects to people who do not have access to Adobe Analytics or Customer Journey Analytics, including recipients outside your organization.|
+|July 2023|[Understanding Basic Visitor Metrics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)|Video |Learn about Page Views, Visits, and Visitors, and how these fundamental metrics let you understanding Web site traffic.|
+|July 2023|[Assist executives to access mobile scorecards](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/dashboards/assist-executives-to-access-mobile-scorecards.html)|Video |Assist executives to access mobile scorecards created in Customer Journey Analytics using the Analytics dashboard mobile application. Mobile scorecards provide anytime access to key performance metrics and detailed views, or breakdowns.|
+|July 2023|[What's new in CJA tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/overview.html?lang=en)|Video |See what's new in Customer Journey Analytics tutorials.|
 
 {style="table-layout:auto"}
 
@@ -390,14 +385,17 @@ New videos, tutorials, or courses published for Experience Manager.
 
 |Published|Name|Type|Description |Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
-|June 2023|[AEM Headless first tutorial](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/headless-first/overview.html)|Video |Learn the process of creating a dynamic and interactive web application by combining the power of React, Adobe [!DNL Experience Manager] Headless APIs, and [!DNL GraphQL].|AEM CS |
-|June 2023|[Embed a headless Adaptive Form](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/introduction.html)|Video |Learn to embed an adaptive form in a headless manner in [!UICONTROL Single Page Application].|AEM Forms |
-|June 2023|[Content Fragments Console](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/basics/content-fragments-console.html)|Multiple videos |Learn about the basic features and functionalities of the [!UICONTROL Content Fragments] authoring console in  [!DNL AEM as a Cloud Service].|AEM Sites |
-|June 2023|[Fetch and display the forms in card format](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-forms-card-view.html)|Video |Fetch the headless forms using `listForms` API and display the forms in card format.|AEM Forms |
-|June 2023|[Adobe IMS user groups](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-user-groups.html)|Videos |Adobe IMS user groups establish logical sets of users that are exposed to AEM, where they can be used to define fine-tune permissions to AEM users.|AEM CS |
-|June 2023|[Adobe IMS product profiles](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/adobe-ims-product-profiles.html)|Video |Adobe IMS product profiles entitle users to log into an AEM Author service, and provide a baseline of access, depending on which product profile they are member of.|AEM CS |
-|June 2023|[GraphQL Video Series](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/video-series/modeling-basics.html)|Video |Learn how to define and use [!UICONTROL Content Fragments] in Adobe Experience Manager (AEM) for use with GraphQL.|AEM CS |
-|June 2023|[Configuring access to AEM walk-through](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/accessing/walk-through.html)|Video |An abridged walk-though about configuring Adobe IMS Users, User Groups, and [!UICONTROL Product Profiles] in [!UICONTROL Admin Console]. Learn how to leverage these Adobe IMS abstractions in [!UICONTROL AEM Author] to define and manage specific group-based permissions.|AEM CS |
+|July 2023|[Quick access](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/quick-access.html)|Video |Learn how Quick Access can boost your productivity and streamline your workflow by serving as your personal lens into AEM Assets, keeping all the assets you need for your assigned tasks at your fingertips.|AEM Assets |
+|July 2023|[Display _thank you_ message on headless form submission](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-thank-you-message.html)|Article |Display a thank you message on successful headless form submission.|AEM Forms |
+|July 2023|[Preview Bookmarklet - Code Sample](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/verify.html?lang=en#preview-bookmarklet)|Article |Learn how to create a JavaScript bookmarklet previews your App Builder Content Fragment  extension in context of the AEM Content Fragment pages.|Content Fragments |
+|July 2023|[Export Content Fragment to XML](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-export-to-xml.html)|Article |Custom buttons can be added to the Content Fragment Editor header menu using the headerMenu extension point. This example shows how to add a button to the header menu and how to handle the click event to export the active Content Fragment as XML or CSV.|Content Fragments |
+|July 2023|[Displaying the form on card click](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/open-form-card-view.html)|Article |Drill down on form from card view.| |
+|July 2023|[Add widgets to Rich Text Editor (RTE)](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-widget.html)|Video |Learn how to add widgets to Rich Text Editor (RTE) in the AEM Content Fragment Editor.|Content Fragments |
+|July 2023|[Add badges to Rich Text Editor](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-badges.html)|Video |Learn how to add badges to Rich Text Editor (RTE) in the AEM Content Fragment Editor.|Content Fragments |
+|July 2023|[3D assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/3d-assets.html?lang=en)|Video |Learn about 3D asset support in AEM Assets as a Cloud Service.|AEM Assets |
+|July 2023|[References](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/search/references.html)|Video |Learn how AEM's Content Fragment Console and Editor make it easy to understand and manage referenced content.|AEM Sites |
+|July 2023|[Customize response based on submitted data](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/custom-submit-headless-forms/introduction.html)|Video |Create a custom submit service to handle headless adaptive form submission.|AEM Forms |
+|July 2023|[Custom grid columns](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/custom-grid-columns.html)|Video |Learn how a custom grid column can be added to the Content Fragment Console.|AEM CS |
 
 {style="table-layout:auto"}
 
@@ -458,9 +456,8 @@ Get access to release notes, new tutorials, and Knowledge Base articles for [!DN
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2023|[Adobe [!DNL Commerce] on cloud infrastructure - Overview](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/cloud/1-overview.html)|Video |Identify the key technologies within the cloud stack. Describe the content delivery strategy for [!DNL Adobe Commerce]. Understand the value of the read-only file system.|
-|June 2023|[Adobe [!DNL Commerce] on cloud infrastructure - Hosting and accounts](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/cloud/2-accounts.html)|Video |Learn about existing hosting solutions for Adobe [!DNL Commerce]. Understand differences between Starter and Pro accounts.|
-|June 2023|[Create a [!UICONTROL Cart Price Rule]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/cart-price-rules.html)|Video |Learn how to create cart price rules that apply discounts in the shopping cart based on a set of conditions.|
+|July 2023|[Create a module](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html)|Updated video |Create a module that logs to the PSR logger.|
+|July 2023|[B2B for Adobe Commerce - Quotes](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/b2b/b2b-quote/sales-rep-initiates-quote.html?lang=en)|Multiple videos |View new tutorial videos about using the [!UICONTROL Quotes] page for B2B for [!DNL Adobe Commerce].|
 
 {style="table-layout:auto"}
 
@@ -484,13 +481,6 @@ Get access to pre-release notes, current release notes, and new tutorials for [!
 +++Details
 
 ### [!DNL Target] support knowledge base{#kb-target}
-
-New articles and updates to existing articles for [!DNL Adobe Target].
-
-|Published|Name|Type|Description|
-|---------|----|----|-----------|
-|May 2023|[About importing Adobe [!DNL Target] feed files](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21827.html)|New article| Learn more whether the values are overwritten or not when importing Adobe [!DNL Target] feed files.|
-|May 2023|[About Backup Content that works with Adobe Target's "Criteria Sequence"](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22032.html)|New article| Learn more about backup content that works with [!DNL Criteria Sequence]in [!DNL Adobe Target].|
 
 * For pre-release information, see [[!DNL Adobe Target] prerelease](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html)
 * For current information, see [[!DNL Adobe Target] release notes](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html)
@@ -567,11 +557,10 @@ New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2023|[Create AI models](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/create-ai-models.html)|Video |Learn how to create an AI model for [!UICONTROL Offer Decisioning] and how to apply it to a decision.|
-|June 2023|[Configure content experiments for emails](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/content-experiments-for-emails.html)|Video |Learn how to configure content experiments to A/B test and explore email content best drives your business objectives.|
-|June 2023|[Configure content experiments for in-app messages](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/content-experiments-for-in-app-messages.html)|Video |Learn how to configure and analyze content experiments to A/B test in-app messages.|
-|June 2023|[Manage, author, and use fragments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/manage-author-use-fragments.html)|Video |Learn how to manage, author, and use fragments in [!DNL Journey Optimizer].|
-|June 2023|[Set up email channel](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/set-up-email-channel.html)|Video |Learn how to create message presets, how to use them and how to delegate a sub domain and create an IP pool.|
+|July 2023|[Configure, author, and deliver SMS messages](https://experienceleague.corp.adobe.com/docs/journey-optimizer-learn/tutorials/sms-channel/author-sms-messages.html)|Video |Learn how to configure, author, and deliver SMS messages in Journey Optimizer campaigns and journeys.|
+|July 2023|[Use Case: Transactional Journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-transactional-journey.html)|Updated video |Understand the applicable use cases for transactional journeys. Learn how to build transactional journeys and which best practices to apply.|
+|July 2023|[Create content with the Email Designer](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html)|Video |Learn how to create emails from scratch. Understand how to use assets from the AEM Assets Essentials library, edit the responsive email design, and create emails from templates. |
+|July 2023|[Create schemas](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/get-started/data-configuration/create-schema.html)|Updated video |Learn how to create a schema, add field groups, create, and configure custom field groups.|
 
 {style="table-layout:auto"}
 
@@ -625,14 +614,9 @@ New videos, tutorials, or courses published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2023|[Default Programs](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs.html)|Video |Learn how to create and measure your first [!UICONTROL Default Program].|
-|June 2023|[Email Programs](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/email-programs.html)|Video |Watch this step-by-step tutorial to learn how to create an email program with an A/B test.|
-|June 2023|[Engagement Programs](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/engagement-programs.html)|Video |Follow this step-by-step tutorial to build your first engagement program.|
-|June 2023|[Event Programs](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/event-programs.html)|Video |Develop a foundational understanding and build your first Event Program by watching this video.|
-|June 2023|[Create an event program](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html)|Video |Learn how to create a trade show event program that is based on a pre-built program in [!DNL Marketo].|
-|June 2023|[Reporting and analytics](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/reporting/reporting-and-analytics.html)|Video |Learn how to navigate the [!DNL Analytics] and [!UICONTROL Database] section to pull different out-of-the-box reports in [!DNL Marketo Engage].|
-|June 2023|[Understanding Marketo programs and campaigns](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/fundamentals/programs-and-campaigns.html)|Video |Programs represent a single marketing initiative. Learn how to use them along with campaigns to reach your audience in various ways.|
-|June 2023|[Navigate the Marketo Engage user interface](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/fundamentals/ui-navigation.html)|Video |Learn how to navigate the user interface and get familiar with your way around the [!DNL Marketo Engage] platform.|
+|July 2023|[Leverage the flexibility of default programs](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/leverage-the-flexibility-of-default-programs.html)|Video |Out of the four program types, default programs are the most flexible and you can get creative with what to create.
+Learn about two common use cases: Webforms and paid media lead generation.|
+|July 2023|[Smart Campaigns 101](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/smart-campaigns-101.html)|Video |Learn how you can use Smart Campaigns for data normalization and automated alerts.|
 
 {style="table-layout:auto"}
 
@@ -648,11 +632,15 @@ Learn about the latest release notes for [!DNL Adobe Workfront]. Find new tutori
 
 ### New Adobe [!DNL Workfront] courses and tutorials {#tutorials-workfront}
 
-New [!DNL Workfront] course and collections of tutorials on Experience League.
+New [!DNL Workfront] tutorials on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2023|[Workfront Tutorial updates](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html)|Videos and articles |Browse the [!DNL Workfront] tutorial library to access the latest video and article tutorials recently published to Experience League.|
+|July 2023|[Understand and manage duration types and task constraints](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html)|Video |Understand duration types and task constraints and learn how to be sure you have them set up properly in your projects.|
+|July 2023|[Review and approve digital work using Workfront Home](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/review-and-approve-digital-work.html)|Video |Learn how to find and make approvals for projects, tasks, issues, documents, and proofs in Workfront Home.|
+|July 2023|[Create a basic view](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html)|Video |Learn what a view is, how to create a view, and how to share a view with other users in Workfront.|
+|July 2023|[Apply milestones](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/apply-milestones.html)|Video |Learn how to apply milestone paths to an  Workfront project and associate key tasks as milestone steps within the project.|
+|July 2023|[linktext](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/report-on-issues.html)|Video |Learn how to centralize issues by creating a report in Adobe Workfront.|
 
 {style="table-layout:auto"}
 
@@ -759,7 +747,7 @@ For [!DNL Document Cloud] tutorials, see:
 
 +++
 
-<!-- ## ![Icon](/assets/creative-cloud-24.png) [!DNL Creative Cloud] for enterprise {#creative-cloud}
+## ![Icon](/assets/creative-cloud-24.png) [!DNL Creative Cloud] for enterprise {#creative-cloud}
 
 New videos, tutorials, or courses published for [!DNL Creative Cloud] for enterprise.
 
@@ -767,17 +755,14 @@ New videos, tutorials, or courses published for [!DNL Creative Cloud] for enterp
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2023|[Professional motion graphics templates](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/videotutorials/motion-graphics-templates.html)|PDF tutorial|Using the Essential Graphics workflow in Adobe After Effects and Adobe Premiere Pro, editors can import MOGRTs and set properties. Properties include text, fonts, color, size, speed, or layout editable, while maintaining the sequence's consistent look and design.|
-|January 2023|[Collaboration: The Future of Creativity](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/collaboration-the-future-of-creativity.html)|PDF tutorial |Get free access to more than 20,000 professionally designed and curated fonts from Adobe Fonts. Originally known as Typekit, Adobe Fonts are available through a single licensing agreement that gives designers unlimited creative use for personal or commercial projects.|
-|January 2023|[3D design and rendering](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/3doverview/3dtutorials/substance-3d-stager.html)|PDF tutorial |Import content, arrange your scene, apply materials and textures, adjust image-based and physical lighting, save cameras with different resolutions, and render photorealistic imagery - all in Adobe Substance 3D Stager.|
-|January 2023|[Adobe Express: Content that stands out](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/cceoverview/ccetutorials/adobe-express-content-that-stands-out.html)|PDF tutorial |Create beautiful graphics, web pages, and video stories in minutes with Adobe Express (formerly known as Adobe Spark). Working from thousands of professionally designed templates, make social posts and stories, flyers, logos, booklets, posters, and more. Start for free, and make content that always stands out.|
+|July 2023|[Adobe [!DNL Express] overview](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/overview-express.html)|Multiple videos |Adobe [!DNL Express] is an easy-to-use creative tool, with no experience required. View the latest videos on Experience League about [!DNL Adobe Express].|
+|July 2023|[Adobe [!DNL Firefly] overview](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/overview-firefly.html)|Multiple videos |[!DNL Firefly] is the new family of creative generative AI models coming to Adobe products, focusing initially on image and text effect generation. Firefly offers new ways to ideate, create, and communicate while significantly improving creative workflows. View the latest videos on Experience League about [!DNL Adobe Firefly].|
 
 {style="table-layout:auto"} 
 
 See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html) for the latest tutorials.
 
 +++
--->
 
 <!-- ## ![Icon](/assets/experience-league.png) Customer Data Management - Voices {#voices}
 
