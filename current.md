@@ -59,13 +59,17 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 +++Upcoming events
 
-* **[!DNL Commerce]** | _Commerce & Coffee: Empowering B2B Success_ | **June 22 @ 1:00 PM ET** | [Register](https://register.gotowebinar.com/register/2180200047542819420)
+* **[!DNL Workfront]** | _Connect: Community Chat_ | **July 13 @ 10:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,uwMNG0gwA02-Wu9Xq90mrw,WUjKeYMc_UuHvDNaLK1fNQ,PtEPc-2kMU-u_LlbNihIRA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Manager]** | _Master the Art of Experience Manager Certification - Get Ready, Get Set, Get Certified!_ | **June 28 @ 8:00 AM PT** | [Register](https://adobe.ly/3Ni6XeL)
+* **[!DNL Analytics]** | _Measure marketing, up and close_ | **July 13 @ 9:00 AM BST** | [Register](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Marketo Engage]** | _Track, Analyze, and Optimize your Marketing Campaigns with Marketo Engage_ | **June 28 @ 8:00 AM PT** | [Register](https://engage.marketo.com/track_analyze_optimize_marketing_register.html?utm_source=exl)
+* **[!DNL Workfront]** | _Connect: Admin Chat for Marketing & Creative_ | **July 14 @ 10:00 AM MT** | [Register](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Workfront]** | _Ask the Experts: Establishing a Center of Excellence Webinar Follow Up_ | **June 28 @ 10:00 AM CT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,t2YLg66G70WfmpnGWvnwPA,8Vn5DyJFjU6zpT9DW3m_vg,t4QVQLoEzkq6Jf5IvbSRcg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Analytics]** | _Unlock the Value of your Marketing Channels_ | **July 18 @ 8:00 AM PT** | [Register](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
+
+* **[!DNL AEM as a Cloud Service]** | _Effective Security Strategies in Cloud Service_ | **July 18 @ 8:00 AM PT** | [Register](https://engage.adobe.com/Security-in-the-cloud-webinar-registration.com.html?sdid=3SH1B1RV)
+
+* **[!DNL Workfront]** | _Learn: Adobe Workfront 23.3 Release Round Up_ | **July 20 @ 11:00 AM CT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Je34nFV8mUmZdJPLSSyi5w,udIB9iEIOE-oBiAHzx2lFQ,t2YddgmhWkq780UhYr3y0Q?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 [More...](https://experienceleague.adobe.com/events/)
 
@@ -101,13 +105,23 @@ See [March 2023 release notes](https://experienceleague.adobe.com/docs/release-n
 
 ## ![Icon](/assets/ec_appicon_24.png) Experience Cloud interface and administration {#ecloud}
 
-Find updates to the Experience Cloud interface home page, administration (product and user management), user profile settings, preferences, search, and cookies. 
+Find updates to the [!DNL Experience Cloud] interface home page, administration (product and user management), user profile settings, preferences, search, and cookies. 
 
 +++Details
 
-Release: **May 25, 2023**
+Release: **July 20 - August 31, 2023**
 
-* In the [!DNL Experience Cloud] **[!UICONTROL Help]** menu, the content search has been updated to filter by application in the [Experience League](https://experienceleague.adobe.com/#home) search results.
+Adobe is updating its provisioning to provide all [!DNL Experience Cloud] customers access to foundational capabilities that aid interoperability between some [!DNL Experience Cloud] products. Users will have [!DNL Experience Platform] as a new entitlement added to their [!DNL Experience Cloud] organizations, with [Data Collection](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html) as an included service. [!DNL Experience Platform] [!UICONTROL Data Collection] includes tags for simplified universal tag management and offers a trusted, robust, and complete streaming data infrastructure. This update simplifies your experience data collection and streamlines experience delivery. 
+
+With this update, administrators may see changes or additions to the Admin Console:
+
+* The Adobe [!DNL Experience Platform] product card in the Admin Console will include: [Places](https://experienceleague.adobe.com/docs/places/using/home.html), [Assurance](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html), [Identity Namespace](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html), [Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html), [Experience Data Model](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html), [Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html), [Datastreams](https://experienceleague.adobe.com/docs/experience-platform/edge/datastreams/overview.html), and [Experience Cloud ID](https://experienceleague.adobe.com/docs/id-service/using/intro/overview.html).
+
+  * For organizations who are not currently using [!DNL Experience Platform], you will now see the [!DNL Experience Platform] product in the [!UICONTROL Admin Console], including the capabilities listed above.
+
+  * For organizations currently using [!DNL Experience Platform], note that [!UICONTROL Places] will be consolidated into the [!DNL Experience Platform] card.
+
+* Adobe [!DNL Experience Platform] [Data Collection](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html) (formerly [!DNL Launch]) and [Privacy](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html) will continue to appear as their own product cards, separate from the other Experience Platform capabilities
 
 For help on Experience Cloud interface common components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
 
