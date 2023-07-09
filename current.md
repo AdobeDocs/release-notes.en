@@ -498,14 +498,14 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials, courses, a
 
 Find out more about the latest capabilities, improvements, and fixes in the [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html), and [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) release notes.
 
-### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
+<!-- ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
 
 New videos, tutorials, or courses published for [!DNL Adobe Campaign].
 
 |Published|Name|Type|Description |Application|
 | -----------| ---------- | ---------- | ---------- |---------- |
 |June 2023|[Design email delivery content](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html)|Video |Learn how to configure, personalize, and test email delivery content. Understand how to use templates, upload images, add emoticons, and embed bar codes and QR codes.|Campaign Classic v7|
-|June 2023|[Troubleshooting for Marketers: 5 Common Workflow and Delivery Errors](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/strategy/troubleshooting-for-marketers.html)|Video |Learn to avoid common errors and how to boost your productivity. These troubleshooting tips to help you effectively resolve similar errors as they occur.|Campaign Standard|
+|June 2023|[Troubleshooting for Marketers: 5 Common Workflow and Delivery Errors](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/strategy/troubleshooting-for-marketers.html)|Video |Learn to avoid common errors and how to boost your productivity. These troubleshooting tips to help you effectively resolve similar errors as they occur.|Campaign Standard| -->
 
 {style="table-layout:auto"}
 
