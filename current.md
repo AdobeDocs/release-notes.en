@@ -613,8 +613,7 @@ New videos, tutorials, or courses published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|July 2023|[Leverage the flexibility of default programs](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/leverage-the-flexibility-of-default-programs.html)|Video |Out of the four program types, default programs are the most flexible and you can get creative with what to create.
-Learn about two common use cases: Webforms and paid media lead generation.|
+|July 2023|[Leverage the flexibility of default programs](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/leverage-the-flexibility-of-default-programs.html)|Video |Out of the four program types, default programs are the most flexible and you can get creative with what to create. Learn about two common use cases: Webforms and paid media lead generation.|
 |July 2023|[Smart Campaigns 101](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/smart-campaigns-101.html)|Video |Learn how you can use Smart Campaigns for data normalization and automated alerts.|
 
 {style="table-layout:auto"}
