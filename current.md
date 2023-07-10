@@ -523,7 +523,7 @@ New articles and updates to existing articles for [!DNL Campaign].
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|June 2023|[[!DNL Campaign Analytics] connection error: *AnalyticsAPIException: received 403, Forbidden*](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22296.html)|New article| Learn how to fix the [!DNL Campaign] [!DNL Analytics] connection error: *AnalyticsAPIException: received 403, Forbidden*.|
+|June 2023|[Campaign Analytics connection error: *AnalyticsAPIException: received 403, Forbidden*](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22296.html)|New article| Learn how to fix the [!DNL Campaign] [!DNL Analytics] connection error: *AnalyticsAPIException: received 403, Forbidden*.|
 |June 2023|[How to fix error when using .woff and .woff2 extensions](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22363.html)|New article| Learn how to fix the error that occurs after you whitelist `.woff` and `.woff2` on a mid instance and use these file extensions in a web app.|
 |June 2023|[Unable to receive email proofs sent through a midsourcing instance](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22350.html)|New article| Learn how to fix the issue where an email is not being received on the intended email address when the email proof is sent through a midsourcing instance.|
 |June 2023|[How to change cookie validity](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22362.html)|New article| Learn how to change cookie validity.|
