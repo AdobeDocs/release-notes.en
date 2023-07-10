@@ -108,7 +108,7 @@ Learn about the [!DNL Experience Cloud] interface. Manage products and users, co
 
 +++Details
 
-Release: **July 20 - August 31, 2023**
+<!-- Release: **July 20 - August 31, 2023**
 
 Adobe is updating its provisioning to provide all [!DNL Experience Cloud] customers access to foundational capabilities that aid interoperability between some [!DNL Experience Cloud] products. Users will have [!DNL Experience Platform] as a new entitlement added to their [!DNL Experience Cloud] organizations, with [Data Collection](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html) as an included service. [!DNL Experience Platform] [!UICONTROL Data Collection] includes tags for simplified universal tag management and offers a trusted, robust, and complete streaming data infrastructure. This update simplifies your experience data collection and streamlines experience delivery. 
 
@@ -120,7 +120,7 @@ With this update, administrators may see changes or additions to the Admin Conso
 
   * For organizations currently using [!DNL Experience Platform], [!UICONTROL Places] will be consolidated into the [!DNL Experience Platform] card.
 
-* Adobe [!DNL Experience Platform] [Data Collection](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html) (formerly [!DNL Launch]) and [Privacy](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html) will continue to appear as their own product cards, separate from the other [!DNL Experience Platform] capabilities
+* Adobe [!DNL Experience Platform] [Data Collection](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html) (formerly [!DNL Launch]) and [Privacy](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html) will continue to appear as their own product cards, separate from the other [!DNL Experience Platform] capabilities -->
 
 For help on Experience Cloud central interface components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
 
