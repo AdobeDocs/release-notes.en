@@ -25,9 +25,9 @@ Sign in to [Experience League](https://experienceleague.adobe.com/#home) and cus
 
 ## Product release updates and events
 
-Latest update: **June 21, 2023**
+Latest update: **July 10, 2023** (Events page)
 
-* [[!DNL Experience League] events and updates](#events)
+* [[!DNL Experience League] events and updates](#events) (updated **July 10**)
 * [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] interface and administration](#ecloud)
@@ -59,15 +59,19 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 +++Upcoming events
 
-* **[!DNL Commerce]** | _Commerce & Coffee: Empowering B2B Success_ | **June 22 @ 1:00 PM ET** | [Register](https://register.gotowebinar.com/register/2180200047542819420)
+* **[!DNL Workfront]** | _Connect: Community Chat_ | **July 13 @ 10:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,uwMNG0gwA02-Wu9Xq90mrw,WUjKeYMc_UuHvDNaLK1fNQ,PtEPc-2kMU-u_LlbNihIRA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Manager]** | _Master the Art of Experience Manager Certification - Get Ready, Get Set, Get Certified!_ | **June 28 @ 8:00 AM PT** | [Register](https://adobe.ly/3Ni6XeL)
+* **[!DNL Analytics]** | _Measure marketing, up and close_ | **July 13 @ 9:00 AM BST** | [Register](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Marketo Engage]** | _Track, Analyze, and Optimize your Marketing Campaigns with Marketo Engage_ | **June 28 @ 8:00 AM PT** | [Register](https://engage.marketo.com/track_analyze_optimize_marketing_register.html?utm_source=exl)
+* **[!DNL Workfront]** | _Connect: Admin Chat for Marketing & Creative_ | **July 14 @ 10:00 AM MT** | [Register](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL Workfront]** | _Ask the Experts: Establishing a Center of Excellence Webinar Follow Up_ | **June 28 @ 10:00 AM CT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,t2YLg66G70WfmpnGWvnwPA,8Vn5DyJFjU6zpT9DW3m_vg,t4QVQLoEzkq6Jf5IvbSRcg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Analytics]** | _Unlock the Value of your Marketing Channels_ | **July 18 @ 8:00 AM PT** | [Register](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-[More...](https://experienceleague.adobe.com/events/)
+* **[!DNL AEM as a Cloud Service]** | _Effective Security Strategies in Cloud Service_ | **July 18 @ 8:00 AM PT** | [Register](https://engage.adobe.com/Security-in-the-cloud-webinar-registration.com.html?sdid=3SH1B1RV)
+
+* **[!DNL Workfront]** | _Learn: Adobe Workfront 23.3 Release Round Up_ | **July 20 @ 11:00 AM CT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Je34nFV8mUmZdJPLSSyi5w,udIB9iEIOE-oBiAHzx2lFQ,t2YddgmhWkq780UhYr3y0Q?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [event recordings](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html). You can now use the left-hand navigation to look for recorded events based on series type or application.
 
 +++
 
