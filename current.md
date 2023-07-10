@@ -204,7 +204,7 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 |Published|Name|Type|Description|
 | -----------| ---------- | ---------- | ---------- |
-|June 2023|[Custom link is not named Link Click](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22339.html)|New article| Since AEP Web SDK version 2.15, Adobe stopped setting web.webInteraction.name to the static Link Click.|
+|June 2023|[Custom link is not named Link Click](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22339.html)|New article| Since AEP Web SDK version 2.15, Adobe stopped setting `web.webInteraction.name` to the static Link Click.|
 
 {style="table-layout:auto"}
 
