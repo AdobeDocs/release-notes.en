@@ -664,11 +664,6 @@ Release notes for [!DNL Adobe Advertising].
 
 +++Details
 
-<!-- * [New features across [!DNL Advertising]](#advertising-all) -->
-* [New features in [!DNL Advertising DSP]](#advertising-dsp)
-* [New features in [!DNL Advertising Search]](#advertising-search)
-<!-- * [New [!DNL Advertising] tutorials](#tutorials-advertising) -->
-
 <!--
 ### New features across [!DNL Advertising] {#advertising-all}
 
@@ -684,26 +679,11 @@ Last updated: **August 9, 2022**
 
 ### New features in [!DNL Advertising DSP] {#advertising-dsp}
 
-Learn about the latest features for Adobe Advertising.
-
-Last updated: **May 30, 2023**
-
-| Feature | Description |
-| ------- | ----------- |
-| [!UICONTROL Campaigns] | (May 24 release) You can now pause or activate campaigns, packages, and ads. You could already pause and activate placements. |
-
-{style="table-layout:auto"}
+See [What's New in [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/home.html)
   
 ### New features in [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
 
-Last updated: **June 1, 2023**
-
-| Feature | Description |
-| ------- | ----------- |
-| [!UICONTROL Campaigns], [!UICONTROL Reports], [!UICONTROL Objectives] | (Open beta) Conversions tracked by the [!DNL Microsoft Advertising] universal event tracking (UET) tag are new available in campaign management views and reports. You can also optimize for these conversions by including them in objectives for portfolios that contain [!DNL Microsoft Advertising] campaigns. |
-| [!UICONTROL Reports] | (Open beta) Three new specialty reports include data for [!DNL Microsoft Advertising] ad extensions: [!UICONTROL MSA Ad Extension Detail Report], [!UICONTROL MSA Ad Extension by Ad Report], and [!UICONTROL MSA Ad Extension by Keyword Report]. |
-
-{style="table-layout:auto"}
+See [What's New in [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/docs/advertising/search-social-commerce/home.html)
 
 +++
 
