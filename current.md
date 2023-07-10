@@ -108,20 +108,6 @@ Learn about the [!DNL Experience Cloud] interface. Manage products and users, co
 
 +++Details
 
-<!-- Release: **July 20 - August 31, 2023**
-
-Adobe is updating its provisioning to provide all [!DNL Experience Cloud] customers access to foundational capabilities that aid interoperability between some [!DNL Experience Cloud] products. Users will have [!DNL Experience Platform] as a new entitlement added to their [!DNL Experience Cloud] organizations, with [Data Collection](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html) as an included service. [!DNL Experience Platform] [!UICONTROL Data Collection] includes tags for simplified universal tag management and offers a trusted, robust, and complete streaming data infrastructure. This update simplifies your experience data collection and streamlines experience delivery. 
-
-With this update, administrators may see changes or additions to the Admin Console:
-
-* The Adobe [!DNL Experience Platform] product card in the Admin Console will include: [Places](https://experienceleague.adobe.com/docs/places/using/home.html), [Assurance](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/assurance.html), [Identity Namespace](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html), [Sandboxes](https://experienceleague.adobe.com/docs/experience-platform/sandbox/home.html), [Experience Data Model](https://experienceleague.adobe.com/docs/experience-platform/xdm/home.html), [Schemas](https://experienceleague.adobe.com/docs/experience-platform/xdm/schema/composition.html), [Datastreams](https://experienceleague.adobe.com/docs/experience-platform/edge/datastreams/overview.html), and [Experience Cloud ID](https://experienceleague.adobe.com/docs/id-service/using/intro/overview.html).
-
-  * For organizations who are not currently using [!DNL Experience Platform], you will now see the [!DNL Experience Platform] product in the [!UICONTROL Admin Console], including the capabilities listed above.
-
-  * For organizations currently using [!DNL Experience Platform], [!UICONTROL Places] will be consolidated into the [!DNL Experience Platform] card.
-
-* Adobe [!DNL Experience Platform] [Data Collection](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/reporting-interface/overview-data-collection.html) (formerly [!DNL Launch]) and [Privacy](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html) will continue to appear as their own product cards, separate from the other [!DNL Experience Platform] capabilities -->
-
 For help on Experience Cloud central interface components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
 
 +++
@@ -178,6 +164,7 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 [!DNL Analytics] release date: **July 12, 2023**
 
 * [!DNL Analytics] [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html) 
+
 * [!DNL Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/analytics.html)
 
 ### AppMeasurement {#appm}
@@ -219,6 +206,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 [!DNL Customer Journey Analytics] release date: **July 12, 2023**
 
 * [!DNL Customer Journey Analytics] [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html)
+
 * [!DNL Customer Journey Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics.html)
 
 ### New [!DNL Customer Journey Analytics] tutorials and courses {#tutorials-cja}
@@ -227,7 +215,7 @@ New videos, tutorials, or courses published for [!DNL Customer Journey Analytics
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|July 2023|[Share with anyone in Analysis Workspace](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.html)|Video |Learn about **[!UICONTROL Share with anyone]** in [!UICONTROL Analysis Workspace]. You can use this feature to grant read-only access to Workspace projects to people who do not have access to Adobe [!DNL Analytics] or [!DNL Customer Journey Analytics], including recipients outside your organization.|
+|July 2023|[Share with anyone in Analysis Workspace](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.html)|Video |Learn about **[!UICONTROL Share with anyone]** in [!UICONTROL Analysis Workspace]. You can use this feature to grant read-only access to [!UICONTROL Workspace] projects to people who do not have access to Adobe [!DNL Analytics] or [!DNL Customer Journey Analytics], including recipients outside your organization.|
 |July 2023|[Understanding Basic Visitor Metrics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)|Video |Learn about Page Views, Visits, and Visitors, and how these fundamental metrics let you understand Web site traffic.|
 |July 2023|[Assist executives to access mobile scorecards](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/dashboards/assist-executives-to-access-mobile-scorecards.html)|Video |Assist executives to access mobile scorecards created in [!DNL Customer Journey Analytics] using the [!DNL Analytics] dashboard mobile application. Mobile scorecards provide anytime access to key performance metrics and detailed views, or breakdowns.|
 |July 2023|[What's new in CJA tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/overview.html?lang=en)|Video |See what's new in [!DNL Customer Journey Analytics] tutorials for July.|
@@ -241,6 +229,7 @@ New videos, tutorials, or courses published for [!DNL Customer Journey Analytics
 [!DNL Analytics] release date: **July 12, 2023**
 
 * [!DNL Streaming Media Analytics] [release notes](https://experienceleague.adobe.com/docs/media-analytics/using/release-notes/release-notes.html)
+
 * [!DNL Streaming Media Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html)
 
 <!-- ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
@@ -380,11 +369,11 @@ New videos, tutorials, or courses published for Experience Manager.
 
 |Published|Name|Type|Description |Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
-|July 2023|[Quick access](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/quick-access.html)|Video |Learn how Quick Access can boost your productivity and streamline your workflow by serving as your personal lens into [!DNL AEM Assets], keeping all the assets you need for your assigned tasks at your fingertips.|[!DNL AEM Assets] |
-|July 2023|[Display _thank you_ message on headless form submission](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-thank-you-message.html)|Article |Display a thank you message on successful headless form submission.|[!DNL AEM Forms] |
+|July 2023|[Quick access](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/quick-access.html)|Video |Learn how [!UICONTROL Quick Access] can boost your productivity and streamline your workflow by serving as your personal lens into [!DNL AEM Assets], keeping all the assets you need for your assigned tasks at your fingertips.|[!DNL AEM Assets] |
+|July 2023|[Display _thank you_ message on headless form submission](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-thank-you-message.html)|Article |Display a _thank you_ message on successful headless form submission.|[!DNL AEM Forms] |
 |July 2023|[Preview Bookmarklet - Code Sample](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/verify.html?lang=en#preview-bookmarklet)|Article |Learn how to create a JavaScript bookmarklet previews your[!UICONTROL  App Builder Content Fragment] extension in context of the AEM [!UICONTROL Content Fragment] pages.|[!UICONTROL Content Fragments] |
 |July 2023|[Export Content Fragment to XML](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-export-to-xml.html)|Article |Custom buttons can be added to the [!UICONTROL Content Fragment Editor] header menu using the `headerMenu` extension point. This example shows how to add a button to the header menu and how to handle the click event to export the active [!UICONTROL Content Fragment] as XML or CSV.|[!UICONTROL Content Fragments] |
-|July 2023|[Displaying the form on card click](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/open-form-card-view.html)|Article |Drill down on form from card view.| |
+|July 2023|[Displaying the form on card click](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/open-form-card-view.html)|Article |Drill down on form from card view.|[!DNL AEM Forms] |
 |July 2023|[Add widgets to Rich Text Editor (RTE)](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-widget.html)|Video |Learn how to add widgets to Rich Text Editor (RTE) in the AEM [!UICONTROL Content Fragment Editor].|[!UICONTROL Content Fragments] |
 |July 2023|[Add badges to Rich Text Editor](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-badges.html)|Video |Learn how to add badges to Rich Text Editor (RTE) in the AEM [!UICONTROL Content Fragment Editor].|[!UICONTROL Content Fragments] |
 |July 2023|[Custom grid columns](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/custom-grid-columns.html)|Video |Learn how a custom grid column can be added to the [!UICONTROL Content Fragment Console].|[!UICONTROL Content Fragments] |
@@ -407,7 +396,7 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 |June 2023|[Disabling weak ciphers](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22348.html)|New article| Learn how to disabling weak ciphers.|
 |June 2023|[SAML error - *SAML response parameter was not provided or invalid*](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22367.html)|New article| Learn how to fix the *SAML response parameter was not provided or invalid* error.|
 |June 2023|[How to avoid package snapshot issues](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22341.html)|New article| Learn how to avoid package snapshot issues.|
-|June 2023|[Java 11 code is failing in cloud manager build](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22285.html)|New article| Learn the solution for the issue where Java 11 code is failing in cloud manager build.|
+|June 2023|[Java 11 code is failing in cloud manager build](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22285.html)|New article| Learn the solution for the issue where Java 11 code is failing in [!UICONTROL Cloud Manager] build.|
 |June 2023|[VLT RCP content sync fail](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22323.html)|New article| Learn the solution for the issue where VLT RCP content sync is failing.|
 
 {style="table-layout:auto"}
@@ -464,10 +453,10 @@ New articles and updates to existing articles for Adobe Commerce.
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
 |June 2023|[Quality Patches Tool (QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles| New articles on how to apply patches available in QPT 1.1.31, QPT 1.1.32 and QPT 1.1.33 were published and can be found in their respective sections.|
-|June 2023|[UPS APIs deprecated](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/ups-apis-deprecated.html)|New article| UPS APIs are temporarily deprecated as the Adobe Commerce integration with UPS does not currently support the OAuth 2.0 security model.|
+|June 2023|[UPS APIs deprecated](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/ups-apis-deprecated.html)|New article| UPS APIs are temporarily deprecated as the [!DNL Adobe Commerce] integration with UPS does not currently support the OAuth 2.0 security model.|
 |June 2023|[Deployment error: *error 7 while downloading … port 443: Connection refused*](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/deployment/deployment-error-downloading-connection-refused-adobe-commerce.html)|New article| Learn the solution for the issue where deployment fails with *error 7 while downloading* error.|
-|June 2023|[Adobe Commerce 2.4.6 error placing order from Admin panel](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/adobe-commerce-2.4.6-error-placing-order-from-admin-panel.html)|New article| Learn how to apply a patch for the known Adobe Commerce on cloud infrastructure 2.4.6 issue when you become stuck on store selection after you place an order from the Commerce Admin panel.|
-|June 2023|[Adobe Commerce 2.4.3-p2 - 2.4.5 security hotfix for CVE-2022-35698](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/adobe-commerce-2.4.3-p2-2.4.5-security-hotfix-for-cve-2022-35698.html)|New article| Find hotfix patches to resolves Cross-site Scripting vulnerability.|
+|June 2023|[Adobe Commerce 2.4.6 error placing order from Admin panel](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/adobe-commerce-2.4.6-error-placing-order-from-admin-panel.html)|New article| Learn how to apply a patch for the known [!DNL Adobe Commerce] on cloud infrastructure 2.4.6 issue when you become stuck on store selection after you place an order from the [!UICONTROL Commerce Admin] panel.|
+|June 2023|[Adobe Commerce 2.4.3-p2 - 2.4.5 security hotfix for CVE-2022-35698](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/adobe-commerce-2.4.3-p2-2.4.5-security-hotfix-for-cve-2022-35698.html)|New article| Find hotfix patches to resolves [!UICONTROL Cross-site Scripting] vulnerability.|
 
 {style="table-layout:auto"}
 
@@ -525,7 +514,7 @@ New articles and updates to existing articles for [!DNL Campaign].
 |---------|----|----|-----------|
 |June 2023|[Campaign Analytics connection error: *AnalyticsAPIException: received 403, Forbidden*](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22296.html)|New article| Learn how to fix the [!DNL Campaign] [!DNL Analytics] connection error: *AnalyticsAPIException: received 403, Forbidden*.|
 |June 2023|[How to fix error when using .woff and .woff2 extensions](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22363.html)|New article| Learn how to fix the error that occurs after you whitelist `.woff` and `.woff2` on a mid instance and use these file extensions in a web app.|
-|June 2023|[Unable to receive email proofs sent through a midsourcing instance](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22350.html)|New article| Learn how to fix the issue where an email is not being received on the intended email address when the email proof is sent through a midsourcing instance.|
+|June 2023|[Unable to receive email proofs sent through a mid-sourcing instance](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22350.html)|New article| Learn how to fix the issue where an email is not being received on the intended email address when the email proof is sent through a mid-sourcing instance.|
 |June 2023|[How to change cookie validity](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22362.html)|New article| Learn how to change cookie validity.|
 |June 2023|[SCM-120008 Cannot find key values for element 'Event'](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22036.html)|New article| Learn the solution when SCM-120008 cannot find key values for element 'Event'.|
 |June 2023|[Was the "Forward to a friend" designed to work with MID?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22174.html)|New article| Learn the solution for the issue where using the "Forward to a friend" throws and error.|
@@ -549,7 +538,7 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 ### Latest [!DNL Journey Optimizer] product releases
 
-New! Learn about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
+Learn about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
 
 ### New [!DNL Journey Optimizer] tutorials {#tutorials-ajo}
 
@@ -559,7 +548,7 @@ New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 | -----------| ---------- | ---------- | ---------- |
 |July 2023|[Configure, author, and deliver SMS messages](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/sms-channel/author-sms-messages.html)|Video |Learn how to configure, author, and deliver SMS messages in [!DNL Journey Optimizer] campaigns and journeys.|
 |July 2023|[Use Case: Transactional Journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-transactional-journey.html)|Updated video |Understand the applicable use cases for transactional journeys. Learn how to build transactional journeys and which best practices to apply.|
-|July 2023|[Create content with the [!UICONTROL Email Designer]](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html)|Video |Learn how to create emails from scratch. Understand how to use assets from the [!DNL AEM Assets] Essentials library, edit the responsive email design, and create emails from templates. |
+|July 2023|[Create content with the [!UICONTROL Email Designer]](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html)|Video |Learn how to create emails from scratch. Understand how to use assets from the [!DNL AEM Assets] [!UICONTROL Essentials] library, edit the responsive email design, and create emails from templates. |
 |July 2023|[Create schemas](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/get-started/data-configuration/create-schema.html)|Updated video |Learn how to create a schema, add field groups, create, and configure custom field groups.|
 
 {style="table-layout:auto"}
