@@ -129,7 +129,7 @@ New videos, tutorials, or courses published for Adobe [!DNL Experience Platform]
 |Type|Product feature|Description |
 | -----------| ---------- |---------- |
 |July 2023|[Import sample data to [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html)|Updated video |Learn how to set up an [!DNL Experience Platform] sandbox environment with sample data. Using a [!UICONTROL Postman] collection, you can create field groups, schemas, datasets and then import sample data into [!DNL Experience Platform].|
-|July 2023|[Authenticate and access [!DNL Experience Platform] APIs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/apis/postman.html)|Updated video |Get started with Adobe [!DNL Experience Platform] APIs. This tutorial guides you through the process of creating authentication credentials and making [!DNL Experience Platform] API requests.| 
+|July 2023|[Authenticate and access [!DNL Experience Platform] APIs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/platform-api-authentication.html)|Updated video |Get started with Adobe [!DNL Experience Platform] APIs. This tutorial guides you through the process of creating authentication credentials and making [!DNL Experience Platform] API requests.| 
 |July 2023|[Get started with [!DNL Experience Platform] for Data Architects and Data Engineers](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/overview.html)|Updated tutorial |This tutorial is the perfect starting point to get hands-on with [!DNL Experience Platform].|
 |July 2023|[Update specific profile attributes using [!UICONTROL upsert]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/update-a-specific-attribute-with-upsert.html)|Video |Learn how to update a specific attribute of a profile using the `upsert` feature of [!DNL Experience Platform]. | 
 
@@ -369,7 +369,7 @@ New videos, tutorials, or courses published for Experience Manager.
 
 |Published|Name|Type|Description |Applications |
 | -----------| ---------- | ---------- | ---------- | ------|
-|July 2023|[Quick access](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/quick-access.html)|Video |Learn how [!UICONTROL Quick Access] can boost your productivity and streamline your workflow by serving as your personal lens into [!DNL AEM Assets], keeping all the assets you need for your assigned tasks at your fingertips.|[!DNL AEM Assets] |
+|July 2023|[Quick access](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/quick-access.html)|Video |Learn how [!UICONTROL Quick Access] can boost your productivity and streamline your workflow by serving as your personal lens into [!DNL AEM Assets]. This feature keeps all the assets you need for your assigned tasks at your fingertips.|[!DNL AEM Assets] |
 |July 2023|[Display _thank you_ message on headless form submission](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-thank-you-message.html)|Article |Display a _thank you_ message on successful headless form submission.|[!DNL AEM Forms] |
 |July 2023|[Preview Bookmarklet - Code Sample](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/verify.html?lang=en#preview-bookmarklet)|Article |Learn how to create a JavaScript bookmarklet previews your[!UICONTROL  App Builder Content Fragment] extension in context of the AEM [!UICONTROL Content Fragment] pages.|[!UICONTROL Content Fragments] |
 |July 2023|[Export Content Fragment to XML](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-export-to-xml.html)|Article |Custom buttons can be added to the [!UICONTROL Content Fragment Editor] header menu using the `headerMenu` extension point. This example shows how to add a button to the header menu and how to handle the click event to export the active [!UICONTROL Content Fragment] as XML or CSV.|[!UICONTROL Content Fragments] |
@@ -391,12 +391,12 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 |---------|--------|---------|---------|
 |June 2023|[How to check the status of AEM-related services](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22310.html)|New article| Learn how to check the status of AEM-related services when you experience an availability issue.|
 |June 2023|[The dam:relativePath property is not updated automatically](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22302.html)|New article| Learn how to resolve the issue where the `dam:relativePath` property is not updated automatically.|
-|June 2023|[User profiles for brand portal not working as expected](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22298.html)|New article| Learn the solutions for the issue where user profiles for brand portal are not working as expected.|
+|June 2023|[User profiles for Brand Portal not working as expected](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22298.html)|New article| Learn the solutions for the issue where user profiles for Brand Portal are not working as expected.|
 |June 2023|[How to fetch log files for AEM cloud service](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22172.html)|New article| Learn how to fetch log files for AEM cloud service.|
-|June 2023|[Disabling weak ciphers](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22348.html)|New article| Learn how to disabling weak ciphers.|
+|June 2023|[Disabling weak ciphers](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22348.html)|New article| Learn how to disable weak ciphers.|
 |June 2023|[SAML error - *SAML response parameter was not provided or invalid*](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22367.html)|New article| Learn how to fix the *SAML response parameter was not provided or invalid* error.|
 |June 2023|[How to avoid package snapshot issues](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22341.html)|New article| Learn how to avoid package snapshot issues.|
-|June 2023|[Java 11 code is failing in cloud manager build](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22285.html)|New article| Learn the solution for the issue where Java 11 code is failing in [!UICONTROL Cloud Manager] build.|
+|June 2023|[Java&trade; 11 code is failing in cloud manager build](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22285.html)|New article| Learn the solution for the issue where Java 11 code is failing in [!UICONTROL Cloud Manager] build.|
 |June 2023|[VLT RCP content sync fail](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22323.html)|New article| Learn the solution for the issue where VLT RCP content sync is failing.|
 
 {style="table-layout:auto"}
@@ -456,7 +456,7 @@ New articles and updates to existing articles for Adobe Commerce.
 |June 2023|[UPS APIs deprecated](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/ups-apis-deprecated.html)|New article| UPS APIs are temporarily deprecated as the [!DNL Adobe Commerce] integration with UPS does not currently support the OAuth 2.0 security model.|
 |June 2023|[Deployment error: *error 7 while downloading … port 443: Connection refused*](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/deployment/deployment-error-downloading-connection-refused-adobe-commerce.html)|New article| Learn the solution for the issue where deployment fails with *error 7 while downloading* error.|
 |June 2023|[Adobe Commerce 2.4.6 error placing order from Admin panel](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/adobe-commerce-2.4.6-error-placing-order-from-admin-panel.html)|New article| Learn how to apply a patch for the known [!DNL Adobe Commerce] on cloud infrastructure 2.4.6 issue when you become stuck on store selection after you place an order from the [!UICONTROL Commerce Admin] panel.|
-|June 2023|[Adobe Commerce 2.4.3-p2 - 2.4.5 security hotfix for CVE-2022-35698](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/adobe-commerce-2.4.3-p2-2.4.5-security-hotfix-for-cve-2022-35698.html)|New article| Find hotfix patches to resolves [!UICONTROL Cross-site Scripting] vulnerability.|
+|June 2023|[Adobe Commerce 2.4.3-p2 - 2.4.5 security hotfix for CVE-2022-35698](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/adobe-commerce-2.4.3-p2-2.4.5-security-hotfix-for-cve-2022-35698.html)|New article| Find hotfix patches to resolve [!UICONTROL Cross-site Scripting] vulnerability.|
 
 {style="table-layout:auto"}
 
@@ -485,7 +485,7 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials, courses, a
 
 ### Latest Campaign product releases
 
-* New! Campaign v8.5.1 release: [Release notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/release-notes.html?lang=en)
+* New! Campaign v8.5.1 release: [Release notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=en)
 
 * Campaign Standard: [Release notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
 
@@ -549,7 +549,7 @@ New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 |July 2023|[Configure, author, and deliver SMS messages](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/sms-channel/author-sms-messages.html)|Video |Learn how to configure, author, and deliver SMS messages in [!DNL Journey Optimizer] campaigns and journeys.|
 |July 2023|[Use Case: Transactional Journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-transactional-journey.html)|Updated video |Understand the applicable use cases for transactional journeys. Learn how to build transactional journeys and which best practices to apply.|
 |July 2023|[Create content with the [!UICONTROL Email Designer]](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html)|Video |Learn how to create emails from scratch. Understand how to use assets from the [!DNL AEM Assets] [!UICONTROL Essentials] library, edit the responsive email design, and create emails from templates. |
-|July 2023|[Create schemas](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/get-started/data-configuration/create-schema.html)|Updated video |Learn how to create a schema, add field groups, create, and configure custom field groups.|
+|July 2023|[Create schemas](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/data-configuration/create-schema.html)|Updated video |Learn how to create a schema, add field groups, create, and configure custom field groups.|
 
 {style="table-layout:auto"}
 
@@ -625,10 +625,10 @@ New [!DNL Workfront] tutorials on Experience League.
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |July 2023|[Understand and manage duration types and task constraints](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html)|Video |Understand duration types and task constraints and learn how to be sure you have them set up properly in your projects.|
-|July 2023|[Review and approve digital work using Workfront Home](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/review-and-approve-digital-work.html)|Video |Learn how to find and make approvals for projects, tasks, issues, documents, and proofs in Workfront Home.|
-|July 2023|[Create a basic view](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html)|Video |Learn what a view is, how to create a view, and how to share a view with other users in Workfront.|
-|July 2023|[Apply milestones](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/apply-milestones.html)|Video |Learn how to apply milestone paths to an  Workfront project and associate key tasks as milestone steps within the project.|
-|July 2023|[linktext](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/report-on-issues.html)|Video |Learn how to centralize issues by creating a report in Adobe Workfront.|
+|July 2023|[Review and approve digital work using [!DNL Workfront] Home](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/review-and-approve-digital-work.html)|Video |Learn how to find and make approvals for projects, tasks, issues, documents, and proofs in [!DNL Workfront] Home.|
+|July 2023|[Create a basic view](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html)|Video |Learn what a view is, how to create a view, and how to share a view with other users in [!DNL Workfront].|
+|July 2023|[Apply milestones](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/apply-milestones.html)|Video |Learn how to apply milestone paths to a [!DNL Workfront] project and associate key tasks as milestone steps within the project.|
+|July 2023|[Centralize issues by creating a report](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/report-on-issues.html)|Video |Learn how to centralize issues by creating a report in [!DNL Workfront].|
 
 {style="table-layout:auto"}
 
@@ -734,7 +734,7 @@ See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com
 
 ## ![Icon](/assets/experience-league.png) Customer Data Management - Voices {#voices}
 
-[Customer Data Management Voices](https://experienceleague.adobe.com/docs/customer-data-management-voices-events/events/overview.html) is your destination as a customer data management technical and marketing practice leader and specialist. This collection of tutorials is your one-stop-shop to hear from your peers, get inspired, and learn about developments in MarTech. No registration required, simply click and watch.
+[Customer Data Management Voices](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html) is your destination as a customer data management technical and marketing practice leader and specialist. This collection of tutorials is your one-stop-shop to hear from your peers, get inspired, and learn about developments in MarTech. No registration required, simply click and watch.
 
 ## ![Icon](/assets/experience-league.png) Digital Experience Blueprints {#blueprints}
 
