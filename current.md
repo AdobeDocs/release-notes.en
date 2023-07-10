@@ -548,13 +548,7 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 ### Latest [!DNL Journey Optimizer] product releases
 
-New features:
-
-* [!DNL Adobe Journey Optimizer] May release, with[!UICONTROL  Content Experimentation] and [!UICONTROL Email Fragments]. [Learn more...](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html)
-
-* [!UICONTROL Decision Management] May release, with [!UICONTROL Personalized Optimization AI] ranking model. [Learn more...](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html)
-
-Find out more about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
+Find out about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
 
 ### New [!DNL Journey Optimizer] tutorials {#tutorials-ajo}
 
