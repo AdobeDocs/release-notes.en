@@ -557,7 +557,7 @@ New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|July 2023|[Configure, author, and deliver SMS messages](https://experienceleague.corp.adobe.com/docs/journey-optimizer-learn/tutorials/sms-channel/author-sms-messages.html)|Video |Learn how to configure, author, and deliver SMS messages in [!DNL Journey Optimizer] campaigns and journeys.|
+|July 2023|[Configure, author, and deliver SMS messages](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/sms-channel/author-sms-messages.html)|Video |Learn how to configure, author, and deliver SMS messages in [!DNL Journey Optimizer] campaigns and journeys.|
 |July 2023|[Use Case: Transactional Journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-transactional-journey.html)|Updated video |Understand the applicable use cases for transactional journeys. Learn how to build transactional journeys and which best practices to apply.|
 |July 2023|[Create content with the [!UICONTROL Email Designer]](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html)|Video |Learn how to create emails from scratch. Understand how to use assets from the [!DNL AEM Assets] Essentials library, edit the responsive email design, and create emails from templates. |
 |July 2023|[Create schemas](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/get-started/data-configuration/create-schema.html)|Updated video |Learn how to create a schema, add field groups, create, and configure custom field groups.|
