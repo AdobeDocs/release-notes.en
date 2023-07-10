@@ -204,7 +204,7 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 |Published|Name|Type|Description|
 | -----------| ---------- | ---------- | ---------- |
-|May 2023|[How to grant access permission to Data Warehouse](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21666.html)| Learn which permission should be added to grant access permission to Data Warehouse.|
+|June 2023|[Custom link is not named Link Click](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22339.html)|New article| Since AEP Web SDK version 2.15, Adobe stopped setting web.webInteraction.name to the static Link Click.|
 
 {style="table-layout:auto"}
 
@@ -255,10 +255,6 @@ New articles and updates to existing articles for [!DNL Audience Manager].
 
 |Published|Name|Type|Description|
 | -----------| ---------- | ---------- | ---------- |
-|April 2023|[Error: _Not allowed to delete due to segment sharing enabled_](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21790.html)|New article|Learn how to resolve the _Not allowed to delete due to segment sharing enabled_ error.|
-|April 2023|[Unexpected AAM UI access](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21831.html)|New article|Learn how to resolve the issue where users have access to the AAM UI but don't have specific AAM permissions.|
-|April 2023|[Bulk export options](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21861.html)|New article|Learn how to export data from [!DNL Audience Manager] in bulk.|
-|April 2023|[LiveRamp server-to-server destination](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21926.html)|New article|This article offers an overview of the [!UICONTROL LiveRamp] destination within [!DNL Audience Manager].|
 
 {style="table-layout:auto"}
 
@@ -404,14 +400,15 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|May 2023|[How to redirect to custom login page from an AEM OAuth flow failure](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21954.html)|New article| Learn why there is a need to redirect to custom login page in case of AEM `OAuth` flow failure and how to do it.|
-|May 2023|[Pipeline failing with error _The end_aem_createsegmentstore property is missing_](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22091.html)|New article| Learn the solution for the issue when the CI/CD pipeline fails with error _The end_aem_createsegmentstore property is missing_.|
-|May 2023|[How to monitor a replication queue](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22082.html)|New article| Learn how to monitor a replication queue.|
-|May 2023|[How to roll out a deleted [!UICONTROL Live Copy]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22081.html)|New article| Learn how to roll out a deleted [!UICONTROL Live Copy].|
-|May 2023|[Activate Brand Portal using OAuth Sever-to-Server credentials](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22074.html)|New article| Learn why customers should use the JWT credentials method instead of [!DNL OAuth Sever-to-Server] credentials method to create the Adobe [!UICONTROL IMS Technical Account Configuration].|
-|May 2023|[AEM log-out issue even after SAML SSO authentication](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22065.html)|New article| Learn the solution for the issue where users are not able to log out when AEM is authenticated using the SAML Single Sign-on (SSO).|
-|May 2023|[Deleting NetworkInfrastructure via CM API fails with 405](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22063.html)|New article| Learn the solution for the issue where deleting `NetworkInfrastructure` via CM API fails with 405.|
-|May 2023|[Extracting content via Migration Set fails](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22031.html)|New article| Learn why extracting content via [!DNL Migration Set] could be failing.|
+|June 2023|[How to check the status of AEM-related services](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22310.html)|New article| Learn how to check the status of AEM-related services when you experience an availability issue.|
+|June 2023|[The `dam:relativePath` property is not updated automatically](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22302.html)|New article| Learn how to resolve the issue where the `dam:relativePath` property is not updated automatically.|
+|June 2023|[User profiles for brand portal not working as expected](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22298.html)|New article| Learn the solutions for the issue where user profiles for brand portal are not working as expected.|
+|June 2023|[How to fetch log files for AEM cloud service](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22172.html)|New article| Learn how to fetch log files for AEM cloud service.|
+|June 2023|[Disabling weak ciphers](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22348.html)|New article| Learn how to disabling weak ciphers.|
+|June 2023|[SAML error - *SAML response parameter was not provided or invalid*](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22367.html)|New article| Learn how to fix the *SAML response parameter was not provided or invalid* error.|
+|June 2023|[How to avoid package snapshot issues](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22341.html)|New article| Learn how to avoid package snapshot issues.|
+|June 2023|[Java 11 code is failing in cloud manager build](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22285.html)|New article| Learn the solution for the issue where Java 11 code is failing in cloud manager build.|
+|June 2023|[VLT RCP content sync fail](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22323.html)|New article| Learn the solution for the issue where VLT RCP content sync is failing.|
 
 {style="table-layout:auto"}
 
@@ -466,8 +463,11 @@ New articles and updates to existing articles for Adobe Commerce.
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|May 2023|[Quality Patches Tool (QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles|New articles on how to apply patches available in QPT 1.1.29, QPT 1.1.30 and QPT 1.1.31 were published and can be found in their respective sections.|
-|May 2023|[Unable to add user to Adobe Commerce cloud project](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/unable-add-user-adobe-commerce-cloud-project.html)|New article| Find out the solution for the issue where you are trying to add a user to a cloud project, but it fails with an error: _User XXX does not exist_.|
+|June 2023|[[!DNL Quality Patches Tool] (QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles| New articles on how to apply patches available in QPT 1.1.31, QPT 1.1.32 and QPT 1.1.33 were published and can be found in their respective sections.|
+|June 2023|[UPS APIs deprecated](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/ups-apis-deprecated.html)|New article| UPS APIs are temporarily deprecated as the Adobe Commerce integration with UPS does not currently support the OAuth 2.0 security model.|
+|June 2023|[Deployment error: *error 7 while downloading … port 443: Connection refused*](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/deployment/deployment-error-downloading-connection-refused-adobe-commerce.html)|New article| Learn the solution for the issue where deployment fails with *error 7 while downloading* error.|
+|June 2023|[Adobe Commerce 2.4.6 error placing order from Admin panel](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/adobe-commerce-2.4.6-error-placing-order-from-admin-panel.html)|New article| Learn how to apply a patch for the known Adobe Commerce on cloud infrastructure 2.4.6 issue when you become stuck on store selection after you place an order from the Commerce Admin panel.|
+|June 2023|[Adobe Commerce 2.4.3-p2 - 2.4.5 security hotfix for CVE-2022-35698](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/adobe-commerce-2.4.3-p2-2.4.5-security-hotfix-for-cve-2022-35698.html)|New article| Find hotfix patches to resolves Cross-site Scripting vulnerability.|
 
 {style="table-layout:auto"}
 
@@ -479,7 +479,9 @@ Get access to pre-release notes, current release notes, and new tutorials for [!
 
 +++Details
 
+<!--
 ### [!DNL Target] support knowledge base{#kb-target}
+-->
 
 * For pre-release information, see [[!DNL Adobe Target] prerelease](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html)
 * For current information, see [[!DNL Adobe Target] release notes](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html)
@@ -521,13 +523,12 @@ New articles and updates to existing articles for [!DNL Campaign].
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|May 2023|[How to prevent slow email delivery because of Deco-mail recipients?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21942.html)|New article|Learn how to prevent slow email delivery because of [!UICONTROL Deco-mail] recipients.|
-|May 2023|[How long do deliveries collect tracking data?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21990.html)|New article|Find out the length of time the tracking data is stored on the server.|
-|May 2023|[Compatibility between Adobe Campaign Classic and SOCKS5 Proxy](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22075.html)|New article| Find out if it is possible to transfer files with SOCKS5 Proxy in [!DNL Campaign Classic].|
-|May 2023|[Schema Definition Not Found - Unable to generate from schema error](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21964.html)|New article| Find out the solution when you are unable to re-draft and publish the custom resource.|
-|May 2023|[How long do deliveries collect tracking data?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21990.html)|New article|Find out the length of time the tracking data is stored on the server.|
-|May 2023|[Delivery failure with _Messages queued (connection quotas met)_ error](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22154.html)|New article| Find out the solution for the delivery failure with _Messages queued (connection quotas met)_ error.|
-|May 2023|[How to run post-upgrade for on-premises instances when there are multiple servers](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22055.html)|New article| Learn how to run post-upgrade for on-premises instances when there are multiple servers.|
+|June 2023|[[!DNL Campaign Analytics] connection error: *AnalyticsAPIException: received 403, Forbidden*](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22296.html)|New article| Learn how to fix the [!DNL Campaign] [!DNL Analytics] connection error: *AnalyticsAPIException: received 403, Forbidden*.|
+|June 2023|[How to fix error when using `.woff` and `.woff2` extensions](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22363.html)|New article| Learn how to fix the error that occurs after you whitelist `.woff` and `.woff2` on a mid instance and use these file extensions in a web app.|
+|June 2023|[Unable to receive email proofs sent through a midsourcing instance](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22350.html)|New article| Learn how to fix the issue where an email is not being received on the intended email address when the email proof is sent through a midsourcing instance.|
+|June 2023|[How to change cookie validity](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22362.html)|New article| Learn how to change cookie validity.|
+|June 2023|[SCM-120008 Cannot find key values for element 'Event'](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22036.html)|New article| Learn the solution when SCM-120008 cannot find key values for element 'Event'.|
+|June 2023|[Was the "Forward to a friend" designed to work with MID?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22174.html)|New article| Learn the solution for the issue where using the "Forward to a friend" throws and error.|
 
 {style="table-layout:auto"}
 
@@ -648,7 +649,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 |Published|Name|Type|Description|
 | -----------| ---------- | ---------- | ---------- |
-|May 2023|[Incorrect request error when configuring the [!DNL Workfront] for [!DNL Jira] add-on](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22169.html)|New article|Learn the solution for the issue where an incorrect request error is present when attempting to establish a connection between [!DNL Workfront] and [!DNL Jira].|
+|June 2023|[Custom field not displaying on form](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22283.html)|New article| Learn how to fix the issue when the custom field is not displayed on form.|
 
 {style="table-layout:auto"}
 
