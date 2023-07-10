@@ -494,7 +494,13 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials, courses, a
 
 ### Latest Campaign product releases
 
-* [!DNL Campaign Control Panel] May release, with Subdomains' SSL certificates delegation to Adobe. [Learn more...](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html)
+* NEW Campaign v8.5.1 release: [Release notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/release-notes.html?lang=en)
+
+* Campaign Standard: [Release notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
+
+* Campaign Classic v7: [Release notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
+
+* NEW Control Panel June Release: [Release notes](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en) 
 
 Find out more about the latest capabilities, improvements, and fixes in the [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html), and [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) release notes.
 
