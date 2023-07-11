@@ -28,7 +28,7 @@ Sign in to [Experience League](https://experienceleague.adobe.com/#home) and cus
 
 Latest update: **July 10, 2023**
 
-* [[!DNL Experience League] events and updates](#events)
+* [[!DNL Experience League] events and updates](#events) (updated **July 10**)
 * [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] interface and administration](#ecloud)
@@ -36,7 +36,8 @@ Latest update: **July 10, 2023**
 * [[!DNL Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics)
 * [[!DNL Customer Journey Analytics]](#cja)
-* [[!DNL Streaming Media Analytics]](#sma)<!-- * [[!DNL Audience Manager]](#aam) -->
+* [[!DNL Streaming Media Analytics]](#sma)
+* [[!DNL Audience Manager]](#aam)
 * [[!DNL Experience Manager]](#aem)
 * [[!DNL Experience Manager Guides]](#xml-doc)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -68,7 +69,6 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 * **[!DNL AEM as a Cloud Service]** | _Effective Security Strategies in Cloud Service_ | **July 18 @ 8:00 AM PT** | [Register](https://engage.adobe.com/Security-in-the-cloud-webinar-registration.com.html?sdid=3SH1B1RV)
 
 * **[!DNL Workfront]** | _Learn: Adobe Workfront 23.3 Release Round Up_ | **July 20 @ 11:00 AM CT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Je34nFV8mUmZdJPLSSyi5w,udIB9iEIOE-oBiAHzx2lFQ,t2YddgmhWkq780UhYr3y0Q?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 
 View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [event recordings](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html). You can now use the left-hand navigation to look for recorded events based on series type or application.
 
@@ -232,12 +232,18 @@ New videos, tutorials, or courses published for [!DNL Customer Journey Analytics
 
 * [!DNL Streaming Media Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html)
 
-<!-- ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
+## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
 
 Updates and new content for [!DNL Audience Manager].
 
 +++Details
 
+Beginning in July 2023, Adobe has discontinued the development of the [!DNL Data Integration Library (DIL)] and the [!DNL DIL] extension.
+Existing customers can continue using their [!DNL DIL] implementation. However, Adobe will not be developing [!DNL DIL] beyond this point. Customers are encouraged to evaluate [Experience Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=en) for their long term data collection strategy. Customers looking to implement new data collection integrations after July 2023 should use [Experience Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=en) instead.
+
++++
+
+<!-- 
 ### [!DNL Audience Manager] support knowledge base
 
 New articles and updates to existing articles for [!DNL Audience Manager].
@@ -249,7 +255,7 @@ New articles and updates to existing articles for [!DNL Audience Manager].
 
 For self-help resources, see [Audience Manager documentation and tutorials](https://experienceleague.adobe.com/docs/audience-manager.html) on Experience League.
 
-+++ -->
+ -->
 
 ## ![Icon](/assets/aem.png) Adobe Experience Manager {#aem}
 
