@@ -517,7 +517,7 @@ New articles and updates to existing articles for [!DNL Campaign].
 |June 2023|[Unable to receive email proofs sent through a mid-sourcing instance](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22350.html)|New article| Learn how to fix the issue where an email is not being received on the intended email address when the email proof is sent through a mid-sourcing instance.|
 |June 2023|[How to change cookie validity](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22362.html)|New article| Learn how to change cookie validity.|
 |June 2023|[SCM-120008 Cannot find key values for element 'Event'](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22036.html)|New article| Learn the solution when SCM-120008 cannot find key values for element 'Event'.|
-|June 2023|[Was the "Forward to a friend" designed to work with MID?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22174.html)|New article| Learn the solution for the issue where using the "Forward to a friend" throws and error.|
+|June 2023|[Was the "Forward to a friend" designed to work with MID?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22174.html)|New article| Learn the solution for the issue where using the "Forward to a friend" throws an error.|
 
 {style="table-layout:auto"}
 
@@ -638,7 +638,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 |Published|Name|Type|Description|
 | -----------| ---------- | ---------- | ---------- |
-|June 2023|[Custom field not displaying on form](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22283.html)|New article| Learn how to fix the issue when the custom field is not displayed on form.|
+|June 2023|[Custom field not displaying on form](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22283.html)|New article| Learn how to fix the issue when the custom field is not displayed on the form.|
 
 {style="table-layout:auto"}
 
