@@ -67,7 +67,7 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 * **[!DNL AEM as a Cloud Service]** | _Effective Security Strategies in Cloud Service_ | **July 18 @ 8:00 AM PT** | [Register](https://engage.adobe.com/Security-in-the-cloud-webinar-registration.com.html?sdid=3SH1B1RV)
 
-* **[!DNL Analytics]** | _Actionable audiences in one place, from any source, with standard controls_ | **July 20 @ 9:00 AM PT** | [Register](https://engage.adobe.com/ExpLeagueLive-230720.html)
+* **[!DNL Analytics]** | EXL Live: _Actionable audiences in one place, from any source, with standard controls_ | **July 20 @ 9:00 AM PT** ([Event link](https://www.youtube.com/watch?v=QaJy9Tp-vTE)) | [Register](https://engage.adobe.com/ExpLeagueLive-230720.html) 
 
 * **[!DNL Workfront]** | _Learn: Adobe Workfront 23.3 Release Round Up_ | **July 20 @ 11:00 AM CT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Je34nFV8mUmZdJPLSSyi5w,udIB9iEIOE-oBiAHzx2lFQ,t2YddgmhWkq780UhYr3y0Q?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
