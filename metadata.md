@@ -2,6 +2,8 @@
 cloud: Experience Cloud
 type: Documentation
 solution: Experience Cloud
+role: User,Admin,Developer
+product: Experience Cloud
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/release-notes.en
 index: yes
