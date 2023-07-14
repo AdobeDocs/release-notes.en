@@ -57,7 +57,7 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 +++Upcoming events
 
-* **[!DNL Product]** | _Tag line_ | **Month, day @ 10:00 AM PT** | [Register]()
+* **[!DNL Product]** | _Tag line_ | **Month, day @ 10:00 AM PT** | link
 
 View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [event recordings](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html). You can now use the left-hand navigation to look for recorded events based on series type or application.
 
@@ -117,11 +117,11 @@ New videos, tutorials, or courses published for Adobe [!DNL Experience Platform]
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| August 2023 | Applications | [linktext]() | Video | Description |
-| August 2023 | Applications | [linktext]() | Video | Description |
-| August 2023 | Applications | [linktext]() | Video | Description |
-| August 2023 | Applications | [linktext]() | Video | Description |
-| August 2023 | Applications | [linktext]() | Video | Description |
+| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
 
 {style="table-layout:auto"}
 
@@ -137,11 +137,11 @@ New videos, tutorials, or courses published for Adobe [!DNL Real-Time Customer D
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| August 2023 | Applications | [linktext]() | Video | Description |
-| August 2023 | Applications | [linktext]() | Video | Description |
-| August 2023 | Applications | [linktext]() | Video | Description |
-| August 2023 | Applications | [linktext]() | Video | Description |
-| August 2023 | Applications | [linktext]() | Video | Description |
+| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
 
 |May 2023|[Share segments and profile attributes](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/activate-segments-and-profile-attributes.html)|Video |Learn how to share segments and profile attributes from Adobe [!DNL Real-Time Customer Data Platform] to [!DNL Adobe Target] to display real-time personalized content in your websites, mobile apps, and other digital properties.|[!DNL Adobe Target] |
 |May 2023|[Use Real-time CDP segments in Target](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/use-rtcdp-segments-in-target.html)|Video |Learn how to use [!DNL Real-Time Customer Data Platform] segments in [!DNL Adobe Target] to deliver personalized experiences on your website and mobile apps.|[!DNL Adobe Target] |
@@ -174,13 +174,13 @@ New video tutorials, articles, and courses published for Adobe [!DNL Analytics].
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-| August 2023 | [linktext]() |Video | Description |
-| August 2023 | [linktext]() |Video | Description |
-| August 2023 | [linktext]() |Video | Description |
-| August 2023 | [linktext]() |Video | Description |
-| August 2023 | [linktext]() |Video | Description |
-| August 2023 | [linktext]() |Video | Description |
-| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
 
 {style="table-layout:auto"}
 
@@ -214,13 +214,13 @@ New videos, tutorials, or courses published for [!DNL Customer Journey Analytics
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-| August 2023 | [linktext]() |Video | Description |
-| August 2023 | [linktext]() |Video | Description |
-| August 2023 | [linktext]() |Video | Description |
-| August 2023 | [linktext]() |Video | Description |
-| August 2023 | [linktext]() |Video | Description |
-| August 2023 | [linktext]() |Video | Description |
-| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
 
 {style="table-layout:auto"}
 
@@ -252,13 +252,13 @@ New articles and updates to existing articles for [!DNL Audience Manager].
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-| August 2023 | [linktext]() |Video | Description |
-| August 2023 | [linktext]() |Video | Description |
-| August 2023 | [linktext]() |Video | Description |
-| August 2023 | [linktext]() |Video | Description |
-| August 2023 | [linktext]() |Video | Description |
-| August 2023 | [linktext]() |Video | Description |
-| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
 
 {style="table-layout:auto"}
 
@@ -428,16 +428,16 @@ New videos, tutorials, or courses published for Experience Manager.
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| August 2023 | Applications | [linktext]() | Video | Description |
-| August 2023 | Applications | [linktext]() | Video | Description |
-| August 2023 | Applications | [linktext]() | Video | Description |
-| August 2023 | Applications | [linktext]() | Video | Description |
-| August 2023 | Applications | [linktext]() | Video | Description |
-| August 2023 | Applications | [linktext]() | Video | Description |
-| August 2023 | Applications | [linktext]() | Video | Description |
-| August 2023 | Applications | [linktext]() | Video | Description |
-| August 2023 | Applications | [linktext]() | Video | Description |
-| August 2023 | Applications | [linktext]() | Video | Description |
+| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
 
 {style="table-layout:auto"}
 
@@ -501,13 +501,13 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-| August 2023 | [linktext]() |Video | Description |
-| August 2023 | [linktext]() |Video | Description |
-| August 2023 | [linktext]() |Video | Description |
-| August 2023 | [linktext]() |Video | Description |
-| August 2023 | [linktext]() |Video | Description |
-| August 2023 | [linktext]() |Video | Description |
-| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
 
 {style="table-layout:auto"}
 
@@ -566,11 +566,11 @@ New videos, tutorials, or courses published for [!DNL Adobe Campaign].
 
 | Published | Version | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| August 2023 | Version | [linktext]() | Video | Description |
-| August 2023 | Version | [linktext]() | Video | Description |
-| August 2023 | Version | [linktext]() | Video | Description |
-| August 2023 | Version | [linktext]() | Video | Description |
-| August 2023 | Version | [linktext]() | Video | Description | 
+| August 2023 | Version | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Version | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Version | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Version | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Version | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description | 
 
 {style="table-layout:auto"}
 
@@ -614,11 +614,11 @@ New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 
 | Published | Version | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| August 2023 | Version | [linktext]() | Video | Description |
-| August 2023 | Version | [linktext]() | Video | Description |
-| August 2023 | Version | [linktext]() | Video | Description |
-| August 2023 | Version | [linktext]() | Video | Description |
-| August 2023 | Version | [linktext]() | Video | Description | 
+| August 2023 | Version | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Version | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Version | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Version | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Version | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description | 
 
 {style="table-layout:auto"}
 
@@ -672,12 +672,12 @@ New videos, tutorials, or courses published for Adobe Marketo.
 
 | Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
-| August 2023 | [linktext]() | Video | Description |
-| August 2023 | [linktext]() | Video | Description |
-| August 2023 | [linktext]() | Video | Description |
-| August 2023 | [linktext]() | Video | Description |
-| August 2023 | [linktext]() | Video | Description |
-| August 2023 | [linktext]() | Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
 
 {style="table-layout:auto"}
 
@@ -697,12 +697,12 @@ New [!DNL Workfront] tutorials on Experience League.
 
 | Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
-| August 2023 | [linktext]() | Video | Description |
-| August 2023 | [linktext]() | Video | Description |
-| August 2023 | [linktext]() | Video | Description |
-| August 2023 | [linktext]() | Video | Description |
-| August 2023 | [linktext]() | Video | Description |
-| August 2023 | [linktext]() | Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
 
 {style="table-layout:auto"}
 
@@ -762,11 +762,11 @@ New tutorials and courses published for [!DNL Document Cloud], including [!DNL A
 
 | Published | Application | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| August 2023 | Application | [linktext]() | Video | Description |
-| August 2023 | Application | [linktext]() | Video | Description |
-| August 2023 | Application | [linktext]() | Video | Description |
-| August 2023 | Application | [linktext]() | Video | Description |
-| August 2023 | Application | [linktext]() | Video | Description |
+| August 2023 | Application | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Application | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Application | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Application | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Application | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
 
 {style="table-layout:auto"}
 
@@ -786,12 +786,12 @@ New videos, tutorials, or courses published for [!DNL Creative Cloud] for enterp
 
 | Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
-| August 2023 | [linktext]() | Video | Description |
-| August 2023 | [linktext]() | Video | Description |
-| August 2023 | [linktext]() | Video | Description |
-| August 2023 | [linktext]() | Video | Description |
-| August 2023 | [linktext]() | Video | Description |
-| August 2023 | [linktext]() | Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
 
 {style="table-layout:auto"} 
 
