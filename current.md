@@ -115,34 +115,40 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 New videos, tutorials, or courses published for Adobe [!DNL Experience Platform].
 
-|Type|Product feature|Description |
-| -----------| ---------- |---------- |
-|August 2023|[linktext]()|Video |Description.|
-|July 2023|[Authenticate and access [!DNL Experience Platform] APIs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/platform-api-authentication.html)|Updated video |Get started with Adobe [!DNL Experience Platform] APIs. This tutorial guides you through the process of creating authentication credentials and making [!DNL Experience Platform] API requests.| 
-|July 2023|[Get started with [!DNL Experience Platform] for Data Architects and Data Engineers](https://experienceleague.adobe.com/docs/platform-learn/getting-started-for-data-architects-and-data-engineers/overview.html)|Updated tutorial |This tutorial is the perfect starting point to get hands-on with [!DNL Experience Platform].|
-|July 2023|[Update specific profile attributes using [!UICONTROL upsert]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/update-a-specific-attribute-with-upsert.html)|Video |Learn how to update a specific attribute of a profile using the `upsert` feature of [!DNL Experience Platform].  | 
+| Published | Applications | Name | Type | Description |
+| ----------| ---------- | ---------- | ---------- |---------- |
+| August 2023 | Applications | [linktext]() | Video | Description |
+| August 2023 | Applications | [linktext]() | Video | Description |
+| August 2023 | Applications | [linktext]() | Video | Description |
+| August 2023 | Applications | [linktext]() | Video | Description |
+| August 2023 | Applications | [linktext]() | Video | Description |
 
 {style="table-layout:auto"}
 
 +++
 
-<!-- ## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Real-Time Customer Data Platform] {#rtcdp}
+## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Real-Time Customer Data Platform] {#rtcdp}
 
-Find the latest tutorials for Real-Time Customer Data Platform on Experience League.
+Find the latest tutorials for [!DNL Real-Time Customer Data Platform] on Experience League.
 
 +++Details
 
 New videos, tutorials, or courses published for Adobe [!DNL Real-Time Customer Data Platform].
 
-|Published|Name|Type|Description |Applications|
-| -----------| ---------- | ---------- | ---------- |---------- |
-|May 2023|[Configure the [!DNL Adobe Target] destination in [!DNL Real-Time Customer Data Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/configure-the-target-destination.html)|Video |Learn how to configure the Adobe Target destination in [!DNL Real-Time Customer Data Platform] to start sending segments and profile attributes from [!DNL Real-Time CDP] to [!DNL Adobe Target]. |[!DNL Real-Time CDP], [!DNL Adobe Target] |
+| Published | Applications | Name | Type | Description |
+| ----------| ---------- | ---------- | ---------- |---------- |
+| August 2023 | Applications | [linktext]() | Video | Description |
+| August 2023 | Applications | [linktext]() | Video | Description |
+| August 2023 | Applications | [linktext]() | Video | Description |
+| August 2023 | Applications | [linktext]() | Video | Description |
+| August 2023 | Applications | [linktext]() | Video | Description |
+
 |May 2023|[Share segments and profile attributes](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/activate-segments-and-profile-attributes.html)|Video |Learn how to share segments and profile attributes from Adobe [!DNL Real-Time Customer Data Platform] to [!DNL Adobe Target] to display real-time personalized content in your websites, mobile apps, and other digital properties.|[!DNL Adobe Target] |
 |May 2023|[Use Real-time CDP segments in Target](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/target/use-rtcdp-segments-in-target.html)|Video |Learn how to use [!DNL Real-Time Customer Data Platform] segments in [!DNL Adobe Target] to deliver personalized experiences on your website and mobile apps.|[!DNL Adobe Target] |
 
 {style="table-layout:auto"}
 
-+++ -->
++++
 
 ## ![Icon](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
@@ -166,11 +172,15 @@ Release version: **2.23.0**
 
 New video tutorials, articles, and courses published for Adobe [!DNL Analytics].
 
-|Published|Name|Type|Description |
+| Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-|July 2023|[Create bot reports in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/bot-reporting.html)|Video |Learn how to report on bot data in [!UICONTROL Analysis Workspace]. Bot data is available as summary data and can be analyzed in bot-enabled report suites.|
-|July 2023|[Create dynamic drop-down filters in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/tips-and-tricks/dynamic-drop-downs.html)|Video |Learn how to create drop-down filters based on an entire dimension. Dimension items dynamically update based on the date range used in the report panel and values selected in other drop-down filters in the same panel.|
-|July 2023|[Calculated metrics: Segmented metrics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/calculated-metrics/calculated-metrics-segmented-metrics.html)|Video |Learn how to create calculated metrics based on segments, so that you can more effectively analyze the visitors, visits, and page views that belong to it.|
+| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext]() |Video | Description |
 
 {style="table-layout:auto"}
 
@@ -202,12 +212,15 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 New videos, tutorials, or courses published for [!DNL Customer Journey Analytics].
 
-|Published|Name|Type|Description |
+| Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-|July 2023|[Share with anyone in Analysis Workspace](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/curate-and-share/share-with-anyone-in-analysis-workspace.html)|Video |Learn about **[!UICONTROL Share with anyone]** in [!UICONTROL Analysis Workspace]. You can use this feature to grant read-only access to [!UICONTROL Workspace] projects to people who do not have access to Adobe [!DNL Analytics] or [!DNL Customer Journey Analytics], including recipients outside your organization.|
-|July 2023|[Understanding Basic Visitor Metrics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html)|Video |Learn about Page Views, Visits, and Visitors, and how these fundamental metrics let you understand Web site traffic.|
-|July 2023|[Assist executives to access mobile scorecards](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/dashboards/assist-executives-to-access-mobile-scorecards.html)|Video |Assist executives to access mobile scorecards created in [!DNL Customer Journey Analytics] using the [!DNL Analytics] dashboard mobile application. Mobile scorecards provide anytime access to key performance metrics and detailed views, or breakdowns.|
-|July 2023|[What's new in CJA tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/overview.html?lang=en)|Video |See what's new in [!DNL Customer Journey Analytics] tutorials for July.|
+| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext]() |Video | Description |
 
 {style="table-layout:auto"}
 
@@ -237,8 +250,15 @@ Existing customers can continue using their [!DNL DIL] implementation. However, 
 
 New articles and updates to existing articles for [!DNL Audience Manager].
 
-|Published|Name|Type|Description|
+| Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
+| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext]() |Video | Description |
 
 {style="table-layout:auto"}
 
@@ -406,19 +426,18 @@ All [!DNL Experience Manager] release notes are maintained at the following page
 
 New videos, tutorials, or courses published for Experience Manager.
 
-|Published|Applications|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- | ------|
-|July 2023|[!DNL AEM Assets] |[Quick access](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/basics/quick-access.html)|Video |Learn how [!UICONTROL Quick Access] can boost your productivity and streamline your workflow by serving as your personal lens into [!DNL AEM Assets]. This feature keeps all the assets you need for your assigned tasks at your fingertips.|
-|July 2023|[!DNL AEM Assets] |[3D assets](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/3d-assets.html?lang=en)|Video |Learn about 3D asset support in [!DNL AEM Assets as a Cloud Service].|
-|July 2023|[!DNL AEM Forms] |[Display _thank you_ message on headless form submission](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/display-thank-you-message.html)|Article |Display a _thank you_ message on successful headless form submission.|
-|July 2023|[!DNL AEM Forms] |[Displaying the form on card click](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/embed-form-spa/open-form-card-view.html)|Article |Drill down on form from card view.|
-|July 2023|[!DNL AEM Forms] |[Customize response based on submitted data](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/custom-submit-headless-forms/introduction.html)|Video |Create a custom submit service to handle headless adaptive form submission.|
-|July 2023|[!UICONTROL Content Fragments] |[Preview Bookmarklet](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/verify.html?lang=en#preview-bookmarklet)|Article |Learn how to create a JavaScript bookmarklet previews your[!UICONTROL  App Builder Content Fragment] extension in context of the AEM [!UICONTROL Content Fragment] pages.|
-|July 2023|[!UICONTROL Content Fragments] |[Export Content Fragment to XML](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-export-to-xml.html)|Article |Custom buttons can be added to the [!UICONTROL Content Fragment Editor] header menu using the `headerMenu` extension point. This example shows how to add a button to the header menu and how to handle the click event to export the active [!UICONTROL Content Fragment] as XML or CSV.|
-|July 2023|[!UICONTROL Content Fragments] |[Add widgets to Rich Text Editor (RTE)](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-widget.html)|Video |Learn how to add widgets to Rich Text Editor (RTE) in the AEM [!UICONTROL Content Fragment Editor].|
-|July 2023|[!UICONTROL Content Fragments] |[Add badges to Rich Text Editor](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-rte-badges.html)|Video |Learn how to add badges to Rich Text Editor (RTE) in the AEM [!UICONTROL Content Fragment Editor].|
-|July 2023|[!UICONTROL Content Fragments] |[Custom grid columns](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/custom-grid-columns.html)|Video |Learn how a custom grid column can be added to the [!UICONTROL Content Fragment Console].|
-|July 2023|[!DNL AEM Sites] |[References](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/search/references.html)|Video |Learn how AEM's Content Fragment Console and Editor make it easy to understand and manage referenced content.|
+| Published | Applications | Name | Type | Description |
+| ----------| ---------- | ---------- | ---------- |---------- |
+| August 2023 | Applications | [linktext]() | Video | Description |
+| August 2023 | Applications | [linktext]() | Video | Description |
+| August 2023 | Applications | [linktext]() | Video | Description |
+| August 2023 | Applications | [linktext]() | Video | Description |
+| August 2023 | Applications | [linktext]() | Video | Description |
+| August 2023 | Applications | [linktext]() | Video | Description |
+| August 2023 | Applications | [linktext]() | Video | Description |
+| August 2023 | Applications | [linktext]() | Video | Description |
+| August 2023 | Applications | [linktext]() | Video | Description |
+| August 2023 | Applications | [linktext]() | Video | Description |
 
 {style="table-layout:auto"}
 
@@ -478,10 +497,17 @@ Get access to release notes, new tutorials, and Knowledge Base articles for [!DN
 
 ### New tutorials for [!DNL Adobe Commerce] {#tutorials-commerce}
 
-|Published|Name|Type|Description |
+New tutorials for [!DNL Adobe Commerce] on Experience League.
+
+| Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-|July 2023|[Create a module](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/create-module.html)|Updated video |Create a module that logs to the PSR logger.|
-|July 2023|[B2B for Adobe Commerce - Quotes](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/b2b/b2b-quote/sales-rep-initiates-quote.html?lang=en)|Multiple videos |View new tutorial videos about using the [!UICONTROL Quotes] page for B2B for [!DNL Adobe Commerce].|
+| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext]() |Video | Description |
+| August 2023 | [linktext]() |Video | Description |
 
 {style="table-layout:auto"}
 
@@ -534,16 +560,19 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials, courses, a
 
 Find out more about the latest capabilities, improvements, and fixes in the [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html), and [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) release notes.
 
-<!-- ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
+### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
 
 New videos, tutorials, or courses published for [!DNL Adobe Campaign].
 
-|Published|Name|Type|Description |Application|
-| -----------| ---------- | ---------- | ---------- |---------- |
-|June 2023|[Design email delivery content](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/design-email-delivery-content.html)|Video |Learn how to configure, personalize, and test email delivery content. Understand how to use templates, upload images, add emoticons, and embed bar codes and QR codes.|Campaign Classic v7|
-|June 2023|[Troubleshooting for Marketers: 5 Common Workflow and Delivery Errors](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/strategy/troubleshooting-for-marketers.html)|Video |Learn to avoid common errors and how to boost your productivity. These troubleshooting tips to help you effectively resolve similar errors as they occur.|Campaign Standard| 
+| Published | Version | Name | Type | Description |
+| ----------| ---------- | ---------- | ---------- |---------- |
+| August 2023 | Version | [linktext]() | Video | Description |
+| August 2023 | Version | [linktext]() | Video | Description |
+| August 2023 | Version | [linktext]() | Video | Description |
+| August 2023 | Version | [linktext]() | Video | Description |
+| August 2023 | Version | [linktext]() | Video | Description | 
 
-{style="table-layout:auto"}-->
+{style="table-layout:auto"}
 
 ### [!DNL Campaign] support knowledge base{#kb-campaign}
 
@@ -583,12 +612,13 @@ Learn about the latest capabilities, improvements, and fixes in the [Journey Opt
 
 New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|July 2023|[Configure, author, and deliver SMS messages](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/sms-channel/author-sms-messages.html)|Video |Learn how to configure, author, and deliver SMS messages in [!DNL Journey Optimizer] campaigns and journeys.|
-|July 2023|[Use Case: Transactional Journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-transactional-journey.html)|Updated video |Understand the applicable use cases for transactional journeys. Learn how to build transactional journeys and which best practices to apply.|
-|July 2023|[Create content with the [!UICONTROL Email Designer]](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html)|Video |Learn how to create emails from scratch. Understand how to use assets from the [!DNL AEM Assets] [!UICONTROL Essentials] library, edit the responsive email design, and create emails from templates. |
-|July 2023|[Create schemas](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/data-configuration/create-schema.html)|Updated video |Learn how to create a schema, add field groups, create, and configure custom field groups.|
+| Published | Version | Name | Type | Description |
+| ----------| ---------- | ---------- | ---------- |---------- |
+| August 2023 | Version | [linktext]() | Video | Description |
+| August 2023 | Version | [linktext]() | Video | Description |
+| August 2023 | Version | [linktext]() | Video | Description |
+| August 2023 | Version | [linktext]() | Video | Description |
+| August 2023 | Version | [linktext]() | Video | Description | 
 
 {style="table-layout:auto"}
 
@@ -640,10 +670,14 @@ Find out the latest release notes and release schedule for [!DNL Marketo Engage]
 
 New videos, tutorials, or courses published for Adobe Marketo.
 
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|July 2023|[Leverage the flexibility of default programs](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/default-programs/leverage-the-flexibility-of-default-programs.html)|Video |Out of the four program types, default programs are the most flexible and you can get creative with what to create. Learn about two common use cases: Webforms and paid media lead generation.|
-|July 2023|[Smart Campaigns 101](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/smart-campaigns-101.html)|Video |Learn how you can use Smart Campaigns for data normalization and automated alerts.|
+| Published | Name | Type | Description |
+| ----------| ---------- | ---------- |---------- |
+| August 2023 | [linktext]() | Video | Description |
+| August 2023 | [linktext]() | Video | Description |
+| August 2023 | [linktext]() | Video | Description |
+| August 2023 | [linktext]() | Video | Description |
+| August 2023 | [linktext]() | Video | Description |
+| August 2023 | [linktext]() | Video | Description |
 
 {style="table-layout:auto"}
 
@@ -661,13 +695,14 @@ Learn about the latest release notes for [!DNL Adobe Workfront]. Find new tutori
 
 New [!DNL Workfront] tutorials on Experience League.
 
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|July 2023|[Understand and manage duration types and task constraints](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html)|Video |Understand duration types and task constraints and learn how to be sure you have them set up properly in your projects.|
-|July 2023|[Review and approve digital work using [!DNL Workfront] Home](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/review-and-approve-digital-work.html)|Video |Learn how to find and make approvals for projects, tasks, issues, documents, and proofs in [!DNL Workfront] Home.|
-|July 2023|[Create a basic view](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html)|Video |Learn what a view is, how to create a view, and how to share a view with other users in [!DNL Workfront].|
-|July 2023|[Apply milestones](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/apply-milestones.html)|Video |Learn how to apply milestone paths to a [!DNL Workfront] project and associate key tasks as milestone steps within the project.|
-|July 2023|[Centralize issues by creating a report](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/report-on-issues.html)|Video |Learn how to centralize issues by creating a report in [!DNL Workfront].|
+| Published | Name | Type | Description |
+| ----------| ---------- | ---------- |---------- |
+| August 2023 | [linktext]() | Video | Description |
+| August 2023 | [linktext]() | Video | Description |
+| August 2023 | [linktext]() | Video | Description |
+| August 2023 | [linktext]() | Video | Description |
+| August 2023 | [linktext]() | Video | Description |
+| August 2023 | [linktext]() | Video | Description |
 
 {style="table-layout:auto"}
 
@@ -715,7 +750,7 @@ See [What's New in [!DNL Advertising Search, Social, & Commerce]](https://experi
 
 +++
 
-<!-- ## ![Icon](/assets/document-cloud-24.png) [!DNL Document Cloud] {#doc-cloud}
+## ![Icon](/assets/document-cloud-24.png) [!DNL Document Cloud] {#doc-cloud}
 
 New tutorials and courses published for [!DNL Document Cloud], including [!DNL Acrobat Services] and [!DNL Acrobat Sign].
 
@@ -725,24 +760,13 @@ New tutorials and courses published for [!DNL Document Cloud], including [!DNL A
 
 +++Details
 
-|Published|Name|Type|Description |Application|
-| -----------| ---------- | ---------- | ---------- |---------- |
-|June 2023|[Redaction: The right way](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/redaction.html)|Video |In this 60-second video tutorial, learn the right way to remove sensitive information from a PDF.|Acrobat Pro |
-|June 2023|[Share a PDF for commenting](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/share-comment.html)|Video |In this 60-second video tutorial, learn how to share a PDF to collect feedback quickly from multiple people in a single file.|Acrobat |
-|June 2023|[Share and comment on PDF files in Teams](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/share-comment-teams.html)|Video |In this 60-second video tutorial, learn how to collaborate in real-time on a PDF file in Microsoft Teams.|Acrobat |
-|June 2023|[Spot the differences with PDF compare](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/compare.html)|Video |In this 60-second video tutorial, learn how to spot the differences between two PDF files by using the Compare Files tool in Acrobat. |Acrobat Pro|
-|June 2023|[Wrangling PDF comments with Summarize](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/summarize-comments.html)|Video |In this 60-second video tutorial, learn how to create a summary of all the comments and mark-ups in your PDF file.|Acrobat |
-|June 2023|[Convert a PDF to Word](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/convert-pdf-word.html)|Video |In this 60-second video tutorial, learn how to convert a PDF file to a fully editable Microsoft Word document.|Acrobat |
-|June 2023|[Create a PDF from Microsoft Word](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/word-to-pdf.html)|Video |In this 60-second video tutorial, learn how to create a PDF from Microsoft Word.|Acrobat |
-|June 2023|[Conform a PDF to a standard format](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/conform.html)|Video |In this 60-second video tutorial, learn how to validate PDF content against PDF standard criteria such as PDF/X, PDF/A, or PDF/E.|Acrobat Pro |
-|June 2023|[Create PDF files with Acrobat](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/create-from-acrobat.html)|Video |In this 60-second video tutorial, learn how to create PDFs from [!DNL Microsoft 365] files right inside the Acrobat desktop app.|Acrobat |
-|June 2023|[Convert a PDF to Excel](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/convert-pdf-excel.html)|Video |In this 60-second video tutorial, learn how to convert a PDF file to a fully editable Microsoft Excel document.|Acrobat |
-|June 2023|[Convert a PDF to PowerPoint](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/60-second/convert-pdf-powerpoint.html)|Video |In this 60-second video tutorial, learn how to convert a PDF file to a fully editable Microsoft PowerPoint document.|Acrobat |
-|June 2023|[Collaborate in real time](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate.html)|Video |With remote work everywhere, seamless collaboration is critical to delivering content with speed and scale. Move your projects forward by collecting comments, collaborating on responses, and tracking progress on your documents all in real time, from anywhere. |Acrobat Sign|
-|June 2023|[Manage form data](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/manage-form-data.html)|Video |Learn how to consolidate form data from your documents, so you can view and manage it in a report or Excel spreadsheet.|Acrobat Sign |
-|June 2023|[Authentication methods in Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/authentication-methods.html)|Video |Learn about the range of methods available in Acrobat Sign to authenticate the identity of someone signing a document. Identity authentication helps to reduce fraud and adds an extra layer of security to documents that are signed.| |
-|June 2023|[Adding users](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/add-users-to-your-account.html)|Video |Learn how to add and manage users for Acrobat Sign. User management happens within the Admin Console.|Acrobat Sign |
-|June 2023|[Report options for users](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/report-options.html)|Video |As an Acrobat Sign admin, learn how to set up report options for users.|Acrobat Sign |
+| Published | Application | Name | Type | Description |
+| ----------| ---------- | ---------- | ---------- |---------- |
+| August 2023 | Application | [linktext]() | Video | Description |
+| August 2023 | Application | [linktext]() | Video | Description |
+| August 2023 | Application | [linktext]() | Video | Description |
+| August 2023 | Application | [linktext]() | Video | Description |
+| August 2023 | Application | [linktext]() | Video | Description |
 
 {style="table-layout:auto"}
 
@@ -760,10 +784,14 @@ New videos, tutorials, or courses published for [!DNL Creative Cloud] for enterp
 
 +++Details
 
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|July 2023|[Adobe [!DNL Express] overview](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/overview-express.html)|Multiple videos |Adobe [!DNL Express] is an easy-to-use creative tool, with no experience required. View the latest videos on Experience League about [!DNL Adobe Express].|
-|July 2023|[Adobe [!DNL Firefly] overview](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/overview-firefly.html)|Multiple videos |[!DNL Firefly] is the new family of creative generative AI models coming to Adobe products, focusing initially on image and text effect generation. Firefly offers new ways to ideate, create, and communicate while significantly improving creative workflows. View the latest videos on Experience League about [!DNL Adobe Firefly].|
+| Published | Name | Type | Description |
+| ----------| ---------- | ---------- |---------- |
+| August 2023 | [linktext]() | Video | Description |
+| August 2023 | [linktext]() | Video | Description |
+| August 2023 | [linktext]() | Video | Description |
+| August 2023 | [linktext]() | Video | Description |
+| August 2023 | [linktext]() | Video | Description |
+| August 2023 | [linktext]() | Video | Description |
 
 {style="table-layout:auto"} 
 
