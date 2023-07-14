@@ -127,7 +127,7 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 New videos, tutorials, or courses published for Adobe [!DNL Experience Platform].
 
-|Type|Product feature|Description |
+|Published|Product feature|Description |
 | -----------| ---------- |---------- |
 |July 2023|[Import sample data to [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html)|Updated video |Learn how to set up an [!DNL Experience Platform] sandbox environment with sample data. Using a [!UICONTROL Postman] collection, you can create field groups, schemas, datasets and then import sample data into [!DNL Experience Platform].|
 |July 2023|[Authenticate and access [!DNL Experience Platform] APIs](https://experienceleague.adobe.com/docs/platform-learn/tutorials/platform-api-authentication.html)|Updated video |Get started with Adobe [!DNL Experience Platform] APIs. This tutorial guides you through the process of creating authentication credentials and making [!DNL Experience Platform] API requests.| 
