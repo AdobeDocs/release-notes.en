@@ -25,7 +25,7 @@ Sign in to [Experience League](https://experienceleague.adobe.com/#home) and cus
 
 ## Product release updates and events
 
-Latest update: **July 12, 2023**
+Latest update: **July 18, 2023**
 
 * [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
@@ -170,7 +170,7 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 ### AppMeasurement {#appm}
 
-Release version: **2.23.0**
+Release version: **2.24.0**
 
 * [AppMeasurement for JavaScript release notes](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html)
 
