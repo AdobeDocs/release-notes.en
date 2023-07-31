@@ -425,16 +425,9 @@ New videos, tutorials, or courses published for Experience Manager.
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | [!DNL AEM Forms] | [Persist form data in Azure Storage](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/prefill-azure-storage/introduction.html) | Article | Learn how to save and resume filling of an adaptive form using Azure Storage to persist the form data. |
+| August 2023 | [!DNL AEM Forms] | [Send emails using SendGrid from AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/some-useful-integrations/send-grid.html) | Article | Learn how to use SendGrid to send emails from AEM Forms. |
+| August 2023 | [!DNL AEM Sites] | [CSRF protection for developers](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/advanced/csrf-protection.html) | Article | Learn how to add AEM CSRF tokens to POST, PUT and DELETE requests to AEM for authenticated users. |
 
 {style="table-layout:auto"}
 
