@@ -273,7 +273,7 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
 
 Adobe recommends visiting the following resources to stay updated on release information:
 
-* [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) - Learn about the Experience Manager releases roadmap, previous release updates, and documentation updates.
+* [Experience Manager release updates and roadmaps](https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=WEM&title=09+-+July) - Learn about the Experience Manager releases roadmap, previous release updates, and documentation updates.
 * [Experience Manager as a Cloud Service release updates](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html) - Watch feature video overviews of current and past releases of [!DNL Experience Manager as a Cloud Service].
 * [Current Release Notes for Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) - Read the latest release notes for [!DNL Experience Manager as a Cloud Service].
 
