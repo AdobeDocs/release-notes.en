@@ -273,149 +273,125 @@ New features, fixes, and updates in Experience Manager. Adobe recommends custome
 
 Adobe recommends visiting the following resources to stay updated on release information:
 
-* [Experience Manager release updates and roadmaps](https://wiki.corp.adobe.com/pages/viewpage.action?spaceKey=WEM&title=09+-+July) - Learn about the Experience Manager releases roadmap, previous release updates, and documentation updates.
-* [Experience Manager as a Cloud Service release updates](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html) - Watch feature video overviews of current and past releases of [!DNL Experience Manager as a Cloud Service].
-* [Current Release Notes for Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) - Read the latest release notes for [!DNL Experience Manager as a Cloud Service].
+* [Experience Manager release updates and roadmaps](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/home.html) - Learn about the Experience Manager releases roadmap, previous release updates, and documentation updates.
+* [Experience Manager as a Cloud Service release updates](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=en) - Watch feature video overviews of current and past releases of [!DNL Experience Manager as a Cloud Service].
+* [Current Release Notes for Adobe Experience Manager (AEM) as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en) - Read the latest release notes for [!DNL Experience Manager as a Cloud Service].
 
 ### Latest Release Overview video
 
-Watch the [June 2023 Release Overview video](https://video.tv.adobe.com/v/3420971/) for a summary of the features added in the 2023.06.0 release. 
+Watch the [July 2023 Release Overview video](https://video.tv.adobe.com/v/3422016/) for a summary of the features added in the 2023.07.0 (July 2023) release.
 
 ### [!DNL Experience Manager Sites] as a [!DNL Cloud Service] 
 
-_New features_
+_New feature_
 
-* [!UICONTROL Content Fragments] and their references can now be published to the [AEM Preview Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=en#access-preview-service) using the [Content Fragment Console](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html), allowing users to preview the final experience on a decoupled preview application before going live.
-* Images can now be dynamically optimized for web-delivery in headless scenarios using AEM GraphQL. [Query variables](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/images.html?lang=en#query-variables) can be defined in GraphQL queries to allow decoupled client applications request accordingly optimized images from AEM.
-* Tags on [Content Fragment Variations](https://experienceleague.adobe.com/docs/experience-manager-65/assets/content-fragments/content-fragments-variations.html) can now be output to JSON using the AEM GraphQL content delivery API.
+* MSM for Content Fragments. Adobe Experience Manager (AEM) Multisite Manager is now available for Content Fragments, letting you create Content Fragment Live Copies for bulk content distribution. Granular inheritance controls are available down to Content Fragment Element and Variation level.
+
+_New feature in prerelease channel_
+
+* The [Content Fragments Console](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/content-fragments-console.html?lang=en) now lets users view tags and search by tags applied as metadata to Content Fragments. Users no longer have to switch to the Assets user interface for this capability, reducing context switching, and improving efficiency.
 
 ### [!DNL Experience Manager Assets] as a [!DNL Cloud Service]
 
 _New features_
 
-**New [!UICONTROL Assets] view**
-
-The new [Assets view](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/assets-view-introduction.html?lang=en) provides simplified user interface, which makes it easy to manage, discover, and distribute your digital assets. The experience is targeted to creatives, read-only asset consumers, and lighter-weight DAM users.
-
-**Search experience enhancements**
-
-[!DNL Experience Manager Assets] now empowers you to do more from the search results user interface. You can:
-
-* [Perform search within the current repository location](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/search-assets.html) by default instead of searching for the keyword in the entire repository.
-
-* [Navigate to the folder location](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/search-assets.html?#aftersearch) for assets that display in the search results.
-
-**Thumbnail previews for 3D assets**
-
-[!DNL Experience Manager Assets] now generates [thumbnail previews for common 3D file formats](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/file-format-support.html), including gLB, USDz, FBX, 3DS, OBJ, and SBSAR. When these files are uploaded, thumbnails are automatically generated by default.
-
-**Link share configuration**
-
-A new improved user experience for [creating link shares](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/share-assets.html) along with a brand new set of configurations that let administrators customize the default behavior of this capability for your users.
-
-**Dynamic Media: Updated Smart Crop-related fields in Image profile**
-
-The user interface for some Smart Crop-related fields in an Image Profile are now updated to reflect the current guidelines for defining a Smart Crop. See [Crop options](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/image-profiles.html?#crop-options).
-
-_New features in Assets view_
-
-**Hierarchical tagging of assets for faster search experience**
-
-Flat lists of controlled vocabularies become unmanageable over time. Assets view now supports [hierarchical tagging structure](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/tagging-management-assets-view.html), which facilitates applying relevant metadata, categorizing assets, supporting search, reusing tags, improving discoverability, and so on.
-
-**Pin files, folders, and collections for quick access**
-
-You can now [pin files, folders, and collections for faster access](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/my-workspace-assets-view.html) to these items when you need them later. The pinned items display in the Quick access section of My Workspace. You can access them using My Workspace instead of navigating to the location where they are saved within the repository.
-
-**Filter assets in the Trash folder**
-
-Assets view now enables you to [filter assets available in the Trash folder](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/navigate-assets-view.html). You can apply standard or custom filters to search appropriate assets within the Trash folder to either restore or permanently delete them.
-
-**Thumbnail previews for 3D assets**
-
-Assets view now generates thumbnail previews for common 3D file formats including gLB, USDz, FBX, 3DS, OBJ, and SBSAR. When these files are uploaded to Assets view, thumbnails are automatically generated by the system, by default.
-
-**View top searched terms**
-
-Assets view now supports viewing [top searched terms within your deployment](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/my-workspace-assets-view.html) using the **[!UICONTROL Insights]** section of **[!UICONTROL My Workspace]**. You can also navigate to detailed Insights to view top searches during the last 30 days or 12 months.
-
-**Metadata form enhancements**
-
-Assets view now enables you to [add multi-value text and drop-down list property components](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/metadata-assets-view.html?#property-components) to the metadata forms.
+* **Improved artificial intelligence framework for image Smart Tags** &ndash; Experience Manager Assets now uses an improved artificial intelligence framework for image Smart Tags. This content intelligence results in better relevancy and precision of Smart Tags available to all image assets on ingestion.
+* **Configure display of columns for Assets List view** &ndash; Assets Essentials now lets you select the columns that display in the Assets List view, such as Name, Status, Format, Dimensions, Size, and Modified.
+* **Sort search results based on relevance** &ndash; Assets Essentials now sorts the search results based on Relevance, by default. You can sort the searched assets in increasing or decreasing order of `Name`, `Relevance`, `Size`, `Modified`, and `Created`.
 
 ### [!DNL Experience Manager Forms] as a [!DNL Cloud Service]
 
-_New features available in Forms_
+_New features_
 
-* [Adaptive Forms within AEM Page Editor and Experience Fragment](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/create-or-add-an-adaptive-form-to-aem-sites-page.html): You can use AEM [!UICONTROL Page Editor] and [!UICONTROL Experience Fragments] to quickly create and add multiple forms to your AEM Sites pages. This capability allows content authors to create seamless data capture experiences within [!DNL Sites] pages using the power of [!UICONTROL Adaptive Forms] components including dynamic behavior, validations, data integration, generate document of record and business process automation.
+* **[Out of the box themes and templates](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/using-themes-in-core-components.html?lang=en)** &ndash; Kickstart your form creation process with Adobe's ready-to-use, out-of-the-box themes and templates, tailored to empower both seasoned professionals and new forms authors. Seamlessly built using Adaptive Forms Core Components, these meticulously curated themes and templates allow you to start creating forms swiftly for common use cases.
+* **React Components for Headless Forms** &ndash; You can now preview and customize Headless Adaptive Form renditions with the React components provided out of the box. These components use BEM classes from Adaptive Forms Core Components for styling, making it effortless for you to customize their appearance according to your specific requirements.
+* **[Create Adaptive Forms with repeatable sections](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/create-forms-repeatable-sections.html?lang=en)** &ndash; You can now make [Accordion](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/adaptive-forms/adaptive-forms-components/accordion.html?lang=en), [Wizard](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/adaptive-forms/adaptive-forms-components/wizard.html?lang=en), [Panel](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/adaptive-forms/adaptive-forms-components/panel-container.html?lang=en), and [Horizontal Tabs](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/adaptive-forms/adaptive-forms-components/horizontal-tabs.html?lang=en) components based Adaptive Form repeatable for multiple data record capture. These repeatable sections allow you to provide multiple data entries easily. It is useful when the required instances of data are unknown in advance. A form filler can easily add or remove sections, making forms adaptable to different data entry scenarios and simplifying collection of multiple occurrences of the same data record.
 
-* [Use Acrobat Sign Solutions for Government (HIPPA Complaint) with AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/adobe-sign-integration-adaptive-forms.html): [!DNL AEM Forms] now integrates with [!DNL Acrobat Sign Solutions] for Government. This integration provides an advanced level of compliance and security for e-Signatures with Adaptive Form submissions for government associated accounts (Government departments and agencies).
+_New feature in prerelease channel_
 
-Integration with Adobe Acrobat Sign Solutions for Government enables Adobe's partners and government customers to use electronic signatures in [!UICONTROL Adaptive Forms] for some of the most mission-critical and sensitive lines of business. This additional layer of security ensures that all e-signatures are fully compliant with FedRAMP Moderate compliance, providing Adobe's government customers with peace of mind.
+* **[Google reCAPTCHA enterprise support](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/add-components-to-an-adaptive-form/captcha-adaptive-forms.html?lang=en)** &ndash; Use Google reCAPTCHA Enterprise in an Adaptive Form to provide enhanced protection against fraudulent activity and spam, providing a safer user experience. With advanced risk analysis and seamless integration, genuine users can easily submit forms while bots are effectively blocked.
 
-* [Enhanced error handling with custom error handlers in rule editor](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/add-rules-and-use-expressions-in-an-adaptive-form/add-custom-error-handler-adaptive-forms.html): You can now invoke a custom function (using Client Library) in response to an error returned by an external service and provide a tailored response to end users. Or, you can take specific actions for errors returned by a service. For example, you can invoke a custom workflow in the backend for specific error codes or inform the customer that the service is down.
+### Headless Adaptive Forms early adopter program
 
-This functionality helps improve your overall error-handling capability by introducing standards-based error responses that are backward compatible with OOTB error handlers, with greater flexibility and control.
+Use [Headless Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-headless-adaptive-forms/using/overview.html?lang=en) to let developers create, publish, and manage interactive forms that can be accessed and interacted with through APIs, rather than through a traditional graphical user interface. Headless adaptive forms help you:
 
-[Enhanced authentication methods for Form Data Model](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/use-form-data-model/configure-data-sources.html): Experience heightened security with the introduction of Client Credentials based authentication to connect AEM Forms (Form Data Models) with compatible data sources. This enhancement eliminates the need for impersonation or user login, bolstering the protection of your data.
+* build high-quality multi-channel forms in the programming language of your choice
+* natively integrate forms to your desktop and mobile apps, websites, and chat applications
+* reuse your proprietary UI components with forms applications
+* use the power of AEM Forms
 
-[Create Adaptive Forms with repeatable sections](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/create-forms-repeatable-sections.html): You can now make Accordion, Wizard, Panel, and Horizontal Tabs components in a Core Components based Adaptive Form to create repeatable sections.
+You can [send an email to aem-forms-headless@adobe.com](mailto:aem-forms-headless@adobe.com) from your official email ID to join the early adopter program.
 
-These repeatable sections allow you to provide an unlimited number of entries without a fixed field count. It is useful when the required instances of data are unknown in advance. Forms users can easily add or remove sections, making forms adaptable to different data entry scenarios and simplifying collection of multiple occurrences of the same data.
+### [!DNL Experience Manager] as a [!DNL Cloud Service Foundation]
 
-[Submit Adaptive Forms to Microsoft&reg; SharePoint and Microsoft&reg; OneDrive](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/configure-submit-actions-and-metadata-submission/configuring-submit-actions.html): You can now submit [!UICONTROL Adaptive Forms] data to everyday tools like Microsoft&reg; SharePoint Site or Microsoft&reg; OneDrive.
+* **Actions Center** &ndash; Subscribe to email notifications that alert you when critical incidents happen requiring immediate action, and also with personalized recommendations to optimize your site. Actions Center serves as a hub where you can review these alerts, such as blocked replication queues or expiring credentials, and mark them as resolved.
+* **CDN and WAF Rules early adopter program** &ndash; Filter traffic at the CDN based on:
 
-#### [!UICONTROL Headless Adaptive Forms] early adopter program
+  * request headers and properties (for example, IP address)
+  * traffic patterns known to be associated with malicious traffic
 
-Use [Headless Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-headless-adaptive-forms/using/overview.html) to enable your developers to create, publish, and manage interactive forms that can be accessed and interacted with through APIs, rather than through a traditional graphical user interface. [!UICONTROL Headless Adaptive Forms] help you:
+  Interested in trying out the feature and sharing feedback? To learn more about the early adopter program, send an email to [aemcs-waf-adopter@adobe.com](mailto:aemcs-waf-adopter@adobe.com) from your official email ID. Space is limited.
 
-* Build high-quality multi-channel forms in the programming language of your choice
-* Natively integrate forms to your desktop and mobile apps, websites, and chat applications
-* Reuse your proprietary UI components with forms applications
-* Use the power of Adobe Experience Manager Forms
-
-You can send an email to [aem-forms-headless@adobe.com](mailto:certif@adobe.com) from your official email ID to join the early adopter program.
+  Learn more about the feature in the article [here](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/security/cdn-and-waf-rules.html?lang=en).
+* **Other Foundation changes** &ndash; During the week of August 7, 2023 AEM will return error code 429 instead of error code 503 when requests to AEM instances exceed a healthy level. [Learn more](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/development-guidelines.html?lang=en).
 
 ### [!DNL Cloud Manager]
 
 _New features_
 
-* Cards on the Cloud Manager landing page now indicate if [Enhanced Security](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/programs/creating-production-programs.html) is enabled for their programs.
-* If a development [pipeline](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/introduction-ci-cd-pipelines.html) contains no testing steps, users now have the option to include testing steps when they [start the pipeline](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/managing-pipelines.html?#running-pipelines).
-* This will be rolled out in a phased manner.
-* When [cancelling execution](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/managing-pipelines.html?#view-details), the pipeline execution approval step now asks the user to provide a reason for cancelling.
-* This will be rolled out in a phased manner.
+* Cards on the Cloud Manager landing page now indicate if [enhanced security](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/programs/creating-production-programs.html?lang=en) is enabled for their programs.
+* If a development [pipeline](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/introduction-ci-cd-pipelines.html?lang=en) contains no testing steps, users can optionally include testing steps when they [start the pipeline](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/managing-pipelines.html?lang=en#running-pipelines). This functionality is going to be rolled out in a phased manner.
+* When [canceling execution](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/cicd-pipelines/managing-pipelines.html?lang=en#view-details), the pipeline execution approval step now asks the user to provide a reason for canceling. This functionality is going to be rolled out in a phased manner.
+* Users can now access [logs from the copy content process](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/content-copy.html?lang=en#accessing-logs). This option is available only if both the source and destination environments are on AEM 2023.7.12549 or higher.
 
-_Bug fixes_
+**Bug fixes**
 
-* Navigating to the authoring UI from [!UICONTROL Cloud Manager] no longer fails to redirect into Unified Shell after login.
-* Editing the go-live date via the go-live widget now navigates to the **[!UICONTROL Go Live]** tab instead of the **[!UICONTROL Enhanced Security]** tab.
-* When starting a copy operation, a user will no longer be able to select an environment where a copy operation is already invoked.
+* Navigating to the authoring user interface from Cloud Manager no longer fails to redirect into Experience Cloud after login.
+* Editing the go-live date by way of the go-live widget now navigates to the Go Live tab instead of the Enhanced Security tab.
+* When starting a copy operation, a user can no longer select an environment where a copy operation is already invoked.
+
+### [!DNL Workfront for Experience Manager] enhanced connector
+
+The release date for the latest version 1.9.11 of Workfront for Experience Manager enhanced connector is June 19, 2023.
+
+_Release highlights_
+
+* When you have advanced networking configured, there are issues while sending content from Adobe Workfront to AEM as a Cloud Service.
+
+>[!NOTE]
+>
+>AEM 6.4 is now end of extended support. For more details, see Adobe's [technical support periods](https://helpx.adobe.com/support/programs/eol-matrix.html). Find the [supported versions here](https://experienceleague.adobe.com/docs/?lang=en).
+
+>[!IMPORTANT]
+>
+>Adobe recommends that you [upgrade to the latest 1.9.11 version](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/workfront-connector-install.html?lang=en) of the Workfront for Experience Manager enhanced connector.
+
+_Known issues_
+
+* While configuring project linked folders with AEM 6.4, [!DNL Experience Manager] does not save the values for **sub-folders** and **Create linked folder in projects with portfolio** fields. The value for the **sub-folders** field updates to **undefined**. The value for the **Create linked folder in projects with portfolio** field updates to **Default Portfolio** automatically after saving the configuration.
+* When you use the classic Workfront experience, the **Send to** option available in the **More** drop-down list does not let you select the target destination within Experience Manager. The **Send to** option works correctly using the **Document Actions** drop-down list. The **Send to** option works correctly for **More** drop-down list and the **Document Actions** drop-down list available in the new Workfront experience.
 
 ### Community
 
-**Webinar Recording:** _Master the Art of Experience Manager Certification: Get Ready, Get Set, Get Certified!_
-
-To ensure that everyone has access to the valuable content shared during the webinar, we are pleased to provide you with the recording. You can watch the recording at your convenience by visiting the AEM community thread at [Adobe Experience Manager Sites & More](https://adobe.ly/3p2CmbA)
-
-AEM as a Cloud Service [2023.6.0 - Release update](https://adobe.ly/444zA4U)
+* Experience Manager as a Cloud Service 2023.7.0 - Release Update: [https://adobe.ly/3Y6CC6J](https://adobe.ly/3Y6CC6J)
+* AEM GEMs, June 28, 2023 &ndash; Recording is available for "Master the Art of Experience Manager Certification: Get Ready, Get Set, Get Certified!": [https://adobe.ly/3p2CmbA](https://adobe.ly/3p2CmbA)
 
 ### Experience Manager release information
 
 All [!DNL Experience Manager] release notes are maintained at the following pages:
 
-* [Experience Manager as a Cloud Service release information](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html)
-* [Adobe Experience Manager as a Cloud Service release updates](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html)
-* [Current Release Notes for Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html)
-* [Experience Manager as a Cloud Service release information](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html)
-* [Experience Manager Cloud Manager release notes](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/current.html)
-* [Automated Forms Conversion Service release notes](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html)
-* [Experience Manager 6.5 Service Pack release notes](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html)
-* [Experience Manager 6.4 Cumulative Fix Pack release notes](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)
-* [Experience Manager Assets Dynamic Media release notes](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/release-notes/s7rn2017.html)
-* [Experience Manager Brand Portal release notes](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html)
-* [Experience Manager desktop app release notes](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/release-notes.html)
-* [Experience Manager Dispatcher release notes](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html)
+* [Experience Manager as a Cloud Service release information](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=en)
+* [Experience Manager as a Cloud Service release updates](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=en)
+* [Current Release Notes for Experience Manager as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en)
+* [Experience Manager as a Cloud Service release information](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=en)
+* [Experience Manager Cloud Manager release notes](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/release-notes/current.html?lang=en)
+* [Automated Forms Conversion Service release notes](https://experienceleague.adobe.com/docs/aem-forms-automated-conversion-service/using/release-notes.html?lang=en)
+* [Experience Manager 6.5 Service Pack release notes](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=en)
+* [Experience Manager 6.4 Cumulative Fix Pack release notes](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=en)
+* [Experience Manager Assets Dynamic Media release notes](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/release-notes/s7rn2017.html?lang=en)
+* [Experience Manager Brand Portal release notes](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html?lang=en)
+* [Experience Manager desktop app release notes](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/release-notes.html?lang=en)
+* [Experience Manager Dispatcher release notes](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html?lang=en)
 * [Adobe Primetime release notes](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html)
 * [Livefyre release notes](https://experienceleague.adobe.com/docs/discontinued/using/livefyre.html)
 
@@ -451,13 +427,13 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 
 ### Other Help resources for [!DNL Experience Manager]
 
-* [Experience Manager as a Cloud Service Guides](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html)
-* [Cloud Manager User Guide](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html)
-* [Experience Manager 6.5 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html)
+* [Experience Manager as a Cloud Service Guides](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html?lang=en)
+* [Cloud Manager User Guide](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html?lang=en)
+* [Experience Manager 6.5 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-65/deploying/home.html?lang=en)
 * [Experience Manager 6.4 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-64.html)
-* [Older Versions of Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html#previous-updates)
-* [Dynamic Media Classic Help Home](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html)
-* [Experience Manager Documentation: Recent Updates](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html#aem-as-a-cloud-service)
+* [Older Versions of Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
+* [Dynamic Media Classic Help Home](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=en)
+* [Experience Manager Documentation: Recent Updates](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?lang=en#aem-as-a-cloud-service)
 
 +++
 
