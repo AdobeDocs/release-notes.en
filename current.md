@@ -747,11 +747,11 @@ New tutorials and courses published for [!DNL Document Cloud], including [!DNL A
 
 | Published | Application | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| August 2023 | Application | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | Application | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | Application | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | Application | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | Application | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | Acrobat Sign | [Use Case: Custom workflow for education IEP process](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html) | Video | Learn how the Custom Workflow Designer is used to digitize an Individualized Education Program (IEP) process for a K-12 school. |
+| August 2023 | Acrobat Sign | [Use Case: Education web form internship application](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html) | Video | Learn how web forms are used to improve students' access to required forms that can be submitted from any device – and any location – speeding up educational approval processes. |
+| August 2023 | Acrobat Sign | [Use Case: Create an education web form internship application](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html) | Video | Learn how to create an internship web form to improve student access to required forms that can be submitted from any device – and any location. |
+| August 2023 | Acrobat Sign | [Integrate a web form with SharePoint Online](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/integrate-web-form-sharepoint-online.html) | Video | Learn how to map data collected from a web form into a SharePoint list, allowing you to share data collected across teams. |
+| August 2023 | Acrobat Sign | [Use Case: Government loan application with multiple unknown signers](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/webform-multiple-signers.html) | Video | Learn how a web form is used for a complex government loan application workflow that involves multiple unknown participants. |
 
 {style="table-layout:auto"}
 
@@ -762,7 +762,7 @@ For [!DNL Document Cloud] tutorials, see:
 * [Document Cloud Learn & Support](https://helpx.adobe.com/support/document-cloud.html)
 
 +++ -->
-
+<!--
 ## ![Icon](/assets/creative-cloud-24.png) [!DNL Creative Cloud] for enterprise {#creative-cloud}
 
 New videos, tutorials, or courses published for [!DNL Creative Cloud] for enterprise.
@@ -782,6 +782,7 @@ New videos, tutorials, or courses published for [!DNL Creative Cloud] for enterp
 
 See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html) for the latest tutorials.
 
+-->
 +++
 
 ## ![Icon](/assets/experience-league.png) Customer Data Management - Voices {#voices}
