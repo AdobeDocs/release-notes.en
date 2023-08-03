@@ -574,13 +574,11 @@ Learn about the latest capabilities, improvements, and fixes in the [Journey Opt
 
 New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 
-| Published | Version | Name | Type | Description |
-| ----------| ---------- | ---------- | ---------- |---------- |
-| August 2023 | Version | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | Version | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | Version | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | Version | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | Version | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description | 
+| Published | Name | Type | Description |
+| ----------| ---------- | ---------- |---------- |
+| July 2023 | [Configure and send a push notification campaign](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/push-channel/create-a-push-campaign.html) | Video | Learn how to configure and send a push notification with a campaign.|
+| July 2023 | [Profile and audience membership based personalization](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/profile-and-audience-membership-based-personalization.html) | Updated video | Learn how to add profile-based personalization to a message and how to use audience membership as a pre-condition to a personalization block.|
+| Juy 2023 | [Direct Mail Channel](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/direct-mail-channel/direct-mail.html) | Video | Learn how to set up the Direct Mail channel and how to create and preview direct mail campaigns. |
 
 {style="table-layout:auto"}
 
