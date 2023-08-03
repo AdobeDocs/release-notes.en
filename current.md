@@ -626,18 +626,18 @@ Find out the latest release notes and release schedule for [!DNL Marketo Engage]
 * See [July 2023 - current release notes](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html) for the latest information
 * See [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html) for the latest release schedule information and release notes.
 
-### New Marketo tutorials and courses {#tutorials-marketo}
+### New Marketo Engage tutorials and courses {#tutorials-marketo}
 
 New videos, tutorials, or courses published for Adobe Marketo.
 
 | Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| July 2023 | [Best practices for creating foundational programs](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/fundamentals/best-practices-for-creating-foundational-programs.html) | Video | Understand the four program types, how to import programs, lead scoring programs and defining channel tags. |
+| July 2023 | [Best practices to organize a new Marketo Engage instance](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance.html) | Video | Learn how to organize your navigation tree in Marketing Activities using folders, standard naming conventions, and features such as cloning to easily work with your coworkers in a new Marketo Engage instance. |
+| July 2023 | [Personalize with tokens](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/fundamentals/personalize-with-tokens.html) | Video | Learn how to use tokens in Marketo programs. |
+| August 2023 | [Engagement Map Overview](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/engagement-maps/engagement-map-overview.html) | Video |Learn how to build reusable campaigns and increase velocity using Engagement Map. |
+| August 2023 | [Engagement Map Nested Campaigns](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/engagement-maps/engagement-map-nested-campaign.html) | Video | Decipher interconnected and deeply nested campaigns to gain better visibility into the entire customer journey using Engagement Map.|
+| August 2023 | [Engagement map error detection and resolution](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/engagement-maps/engagement-map-error-detection-and-resolution.html) | Video | Learn how Engagement Map aids in troubleshooting and fixing campaign issues quickly. |
 
 {style="table-layout:auto"}
 
