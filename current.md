@@ -152,9 +152,11 @@ New videos, tutorials, or courses published for Adobe [!DNL Real-Time Customer D
 | August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
 | August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
 
+
 {style="table-layout:auto"}
 
-+++ -->
++++ 
+-->
 
 ## ![Icon](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
