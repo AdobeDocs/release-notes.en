@@ -411,9 +411,13 @@ New videos, tutorials, or courses published for Experience Manager.
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
+| August 2023 | [!DNL AEM] | [Security strategies in Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/navigation.html) | Video | Learn how to ensure your digital experiences are secure and protected.|
+| August 2023 | [!DNL AEM Assets] | [Basic AEM Assets navigation](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/navigation.html) | Updated video | Explore the basics of navigating AEM Assets. |
+| August 2023 | [!DNL AEM Cloud Manager] | [AEM Cloud Manager Champion office hours](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/2023/may.html) | Video | Learn about AEM Cloud Manager best practices from AEM Champions. |
 | August 2023 | [!DNL AEM Forms] | [Persist form data in Azure Storage](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/prefill-azure-storage/introduction.html) | Article | Learn how to save and resume filling of an adaptive form using Azure Storage to persist the form data. |
 | August 2023 | [!DNL AEM Forms] | [Send emails using SendGrid from AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/some-useful-integrations/send-grid.html) | Article | Learn how to use SendGrid to send emails from AEM Forms. |
 | August 2023 | [!DNL AEM Sites] | [CSRF protection for developers](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/advanced/csrf-protection.html) | Article | Learn how to add AEM CSRF tokens to POST, PUT and DELETE requests to AEM for authenticated users. |
+| August 2023 | [!DNL AEM Sites] | [AEM Sites Champion office hours](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/2023/march.html) | Video | Learn about AEM Sites best practices from AEM Champions. |
 
 {style="table-layout:auto"}
 
