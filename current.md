@@ -193,15 +193,14 @@ New video tutorials, articles, and courses published for Adobe [!DNL Analytics].
 | August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
 | August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |-->
 
-### Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
+<!--### Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
 
 New articles and updates to existing articles for [!DNL Analytics].
 
 |Published|Name|Type|Description|
 | -----------| ---------- | ---------- | ---------- |
-|June 2023|[Custom link is not named Link Click](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22339.html)|New article| Since AEP Web SDK version 2.15, Adobe stopped setting `web.webInteraction.name` to the static Link Click.|
 
-{style="table-layout:auto"}
+{style="table-layout:auto"}-->
 
 +++
 
@@ -427,15 +426,9 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|June 2023|[How to check the status of AEM-related services](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22310.html)|New article| Learn how to check the status of AEM-related services when you experience an availability issue.|
-|June 2023|[The dam:relativePath property is not updated automatically](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22302.html)|New article| Learn how to resolve the issue where the `dam:relativePath` property is not updated automatically.|
-|June 2023|[User profiles for Brand Portal not working as expected](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22298.html)|New article| Learn the solutions for the issue where user profiles for Brand Portal are not working as expected.|
-|June 2023|[How to fetch log files for AEM cloud service](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22172.html)|New article| Learn how to fetch log files for AEM cloud service.|
-|June 2023|[Disabling weak ciphers](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22348.html)|New article| Learn how to disable weak ciphers.|
-|June 2023|[SAML error - *SAML response parameter was not provided or invalid*](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22367.html)|New article| Learn how to fix the *SAML response parameter was not provided or invalid* error.|
-|June 2023|[How to avoid package snapshot issues](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22341.html)|New article| Learn how to avoid package snapshot issues.|
-|June 2023|[Java&trade; 11 code is failing in cloud manager build](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22285.html)|New article| Learn the solution for the issue where Java 11 code is failing in [!UICONTROL Cloud Manager] build.|
-|June 2023|[VLT RCP content sync fail](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22323.html)|New article| Learn the solution for the issue where VLT RCP content sync is failing.|
+|July 2023|[Assets Upload fails with an error message with bulk content](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22476.html)|New article| Learn the solution for the issue where uploading multiple assets to a folder throws an error.|
+|July 2023|[AEM installation error *No style has been found until search path threshold*](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22472.html)|New article| Learn the solution for the issue where the error *No style has been found until search path threshold* appears after installing AEM 6.5.17.|
+|July 2023|[How to customize the display format of the page published date on the Sites console?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22473.html)|New article| Learn how to customize the date/time format of the published date to include the time of day.|
 
 {style="table-layout:auto"}
 
@@ -492,11 +485,8 @@ New articles and updates to existing articles for Adobe Commerce.
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|June 2023|[Quality Patches Tool (QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles| New articles on how to apply patches available in QPT 1.1.31, QPT 1.1.32 and QPT 1.1.33 were published and can be found in their respective sections.|
-|June 2023|[UPS APIs deprecated](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/ups-apis-deprecated.html)|New article| UPS APIs are temporarily deprecated as the [!DNL Adobe Commerce] integration with UPS does not currently support the OAuth 2.0 security model.|
-|June 2023|[Deployment error: *error 7 while downloading … port 443: Connection refused*](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/deployment/deployment-error-downloading-connection-refused-adobe-commerce.html)|New article| Learn the solution for the issue where deployment fails with *error 7 while downloading* error.|
-|June 2023|[Adobe Commerce 2.4.6 error placing order from Admin panel](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/adobe-commerce-2.4.6-error-placing-order-from-admin-panel.html)|New article| Learn how to apply a patch for the known [!DNL Adobe Commerce] on cloud infrastructure 2.4.6 issue when you become stuck on store selection after you place an order from the [!UICONTROL Commerce Admin] panel.|
-|June 2023|[Adobe Commerce 2.4.3-p2 - 2.4.5 security hotfix for CVE-2022-35698](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/adobe-commerce-2.4.3-p2-2.4.5-security-hotfix-for-cve-2022-35698.html)|New article| Find hotfix patches to resolve [!UICONTROL Cross-site Scripting] vulnerability.|
+|July 2023|[Quality Patches Tool (QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles| New articles on how to apply patches available in QPT 1.1.32, QPT 1.1.33 and QPT 1.1.34 were published and can be found in their respective sections.|
+|July 2023|[*The file can't be deleted. Warning!unlink: No such file or directory error* from the Admin](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/file-cannot-be-deleated-no-file-or-directory.html)|New articles| Learn the solution for the issue where user sees an error *The file can't be deleted. Warning!unlink: No such file or directory error* from the Commerce Admin when you do a JavaScript/CSS flush.|
 
 {style="table-layout:auto"}
 
@@ -542,12 +532,16 @@ New articles and updates to existing articles for [!DNL Campaign].
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|June 2023|[Campaign Analytics connection error: *AnalyticsAPIException: received 403, Forbidden*](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22296.html)|New article| Learn how to fix the [!DNL Campaign] [!DNL Analytics] connection error: *AnalyticsAPIException: received 403, Forbidden*.|
-|June 2023|[How to fix error when using .woff and .woff2 extensions](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22363.html)|New article| Learn how to fix the error that occurs after you whitelist `.woff` and `.woff2` on a mid instance and use these file extensions in a web app.|
-|June 2023|[Unable to receive email proofs sent through a mid-sourcing instance](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22350.html)|New article| Learn how to fix the issue where an email is not being received on the intended email address when the email proof is sent through a mid-sourcing instance.|
-|June 2023|[How to change cookie validity](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22362.html)|New article| Learn how to change cookie validity.|
-|June 2023|[SCM-120008 Cannot find key values for element 'Event'](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22036.html)|New article| Learn the solution when SCM-120008 cannot find key values for element 'Event'.|
-|June 2023|[Was the "Forward to a friend" designed to work with MID?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22174.html)|New article| Learn the solution for the issue where using the "Forward to a friend" throws an error.|
+|July 2023|[Auto-reply to the emails received from ACC platform](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22514.html)|New article| Learn the workaround to implement an auto-response to emails that are sent from the platform.|
+|July 2023|[Data sync issues due to warehouse timeout in OOTB](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22499.html)|New article| Learn the solution for the issue where OOTB `ffdaReplicateStagingData` workflow is not syncing data.|
+|July 2023|[Inconsistencies in data retrieval from ACS through Adobe Analytics](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22483.html)|New article| Learn the solution for the issue of inconsistencies in data retrieval from ACS.|
+|July 2023|[Compatibility between Adobe Campaign Classic and HIGH-2023](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22496.html)|New article| Learn more about the compatibility between [!DNL Campaign Classic] v7.3 and HIGH-2023.|
+|July 2023|[Images not showing in email designer](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22179.html)|New article| Learn the solution for the issue where images uploaded to emails/deliveries are not showing (shows broken image icon) in the email designer interface.|
+|July 2023|[Cannot see email in delivery activity DCE mode](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22179.html)|New article| Learn the solution for the issue where the DCE mode scroll bar stops user from seeing the full email in delivery activity.|
+|July 2023|[Upload file to [!DNL Azure Blob] storage - CRL-290029 Forbidden](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22375.html)|New article| Learn how to resolve the error that appears when users try to add a file transfer activity (Action-File upload) to [!DNL Azure Blob].|
+|July 2023|[Workflow alerts not sent to users from supervisor group](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22371.html)|New article| Learn the solution for the issue where workflow alerts are not sent to users from supervisor group.|
+|July 2023|[Images not uploaded to public resources](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22395.html)|New article| Learn how to solve the error while trying to upload images in production in any public resources folder.|
+|July 2023|[Workflow crashes the client console](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22393.html)|New article| Learn how to resolve the issue where workflow crashes the client console.|
 
 {style="table-layout:auto"}
 
@@ -669,7 +663,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 |Published|Name|Type|Description|
 | -----------| ---------- | ---------- | ---------- |
-|June 2023|[Custom field not displaying on form](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22283.html)|New article| Learn how to fix the issue when the custom field is not displayed on the form.|
+|July 2023|[Proofing Issue while uploading proofs, blue bar scrolling indefinitely](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22364.html)|New article| Learn how to resolve the error that occurs when uploading a new proof.|
 
 {style="table-layout:auto"}
 
