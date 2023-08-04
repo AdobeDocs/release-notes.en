@@ -58,8 +58,6 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 +++Upcoming events
 
-* **[!DNL Product]** | _Tag line_ | **Month, day @ 10:00 AM PT** | link
-
 View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [event recordings](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html). You can now use the left-hand navigation to look for recorded events based on series type or application.
 
 +++
