@@ -196,11 +196,6 @@ New video tutorials, articles, and courses published for Adobe [!DNL Analytics].
 ### Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
 
 New articles and updates to existing articles for [!DNL Analytics].
-
-|Published|Name|Type|Description|
-| -----------| ---------- | ---------- | ---------- |
-
-{style="table-layout:auto"}
 -->
 
 +++
