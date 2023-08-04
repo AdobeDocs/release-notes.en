@@ -191,16 +191,17 @@ New video tutorials, articles, and courses published for Adobe [!DNL Analytics].
 | August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
 | August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
 | August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |-->
+| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
 
-<!--### Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
+### Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
 
 New articles and updates to existing articles for [!DNL Analytics].
 
 |Published|Name|Type|Description|
 | -----------| ---------- | ---------- | ---------- |
 
-{style="table-layout:auto"}-->
+{style="table-layout:auto"}
+-->
 
 +++
 
