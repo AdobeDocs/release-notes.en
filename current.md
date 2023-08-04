@@ -92,9 +92,9 @@ Learn about the latest features and updates in [!DNL Adobe System Status].
 
 | Feature | Description |
 | ------- | -------|
-| Announcements | Announcements are **Global**, **Cloud**, or **Product**-level messages with a wide impact. An example from the past would be a Covid-19 message. Other examples would be global security vulnerabilities like Log4j, or support center down, and so on. Announcements are not linked to an issue or maintenance. This feature will be used to communicate with customers about updates at the Cloud or Product level.<p>Subscribers can now create new or edit their subscriptions to include Announcements in addition to issues and maintenances. An announcement notification is sent to the subscribers, depending on whether the product they are subscribed to is impacted by the announcement. Subscribers receive these communications via the usual notification channels (email/Slack), and they can see the event on [status.adobe.com](https://status.adobe.com/) web pages. |
+| Announcements | Announcements are **Global**, **Cloud**, or **Product**-level messages with a wide impact. An example from the past would be a Covid-19 message. Other examples would be global security vulnerabilities like Log4j, or support center down, and so on. Announcements are not linked to an issue or maintenance. This feature is used to communicate with customers about updates at the Cloud or Product level.<p>Subscribers can now create new or edit their subscriptions to include Announcements in addition to issues and maintenances. An announcement notification is sent to the subscribers, depending on whether products they are subscribed to are impacted by the announcement. Subscribers receive these communications via the usual notification channels (email/Slack), and they can see the event on [status.adobe.com](https://status.adobe.com/) web pages. |
 | Enhancements |<ul><li>Performance improvements on the [status.adobe.com](https://status.adobe.com/) Overview page.</li><li>Enhanced Acrobat Online subscription offerings.</li><li>[!DNL Adobe Advertising] - The obsolete TV offering is retired, and subscribers are pointed to [!UICONTROL Demand Side Platform] offering.</li><li>Banner on product offering pages now reflects the status of the product offering instead of showing the events across all of the product.</li><li>When a product impact is closed and downgraded to trivial at the same time, a closure notification is sent to customers about the downgrade.</li></ul> |
-|Notification bug fixes |<ul><li>Canceled maintenance displays Scheduled/Started and Canceled dates correctly on banners.</li><li>In case of maintenance impacting multiple products, subscribers are notified only if their product is impacted. The email received shows the impact on their product only.</li></ul> |
+|Notification bug fixes |<ul><li>Canceled maintenance displays Scheduled/Started and Canceled dates correctly on banners.</li><li>If there is maintenance impacting multiple products, subscribers are notified only if their product is impacted. The email received shows the impact on their product only.</li></ul> |
 
 {style="table-layout:auto"}
 
@@ -247,7 +247,7 @@ Updates and new content for [!DNL Audience Manager].
 +++Details
 
 Beginning in July 2023, Adobe has discontinued the development of the [!DNL Data Integration Library (DIL)] and the [!DNL DIL] extension.
-Existing customers can continue using their [!DNL DIL] implementation. However, Adobe will not be developing [!DNL DIL] beyond this point. Customers are encouraged to evaluate [Experience Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=en) for their long term data collection strategy. Customers looking to implement new data collection integrations after July 2023 should use [Experience Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=en) instead.
+Existing customers can continue using their [!DNL DIL] implementation. However, Adobe will not be developing [!DNL DIL] beyond this point. Customers are encouraged to evaluate [Experience Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=en) for their long-term data collection strategy. Customers looking to implement new data collection integrations after July 2023 should use [Experience Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=en) instead.
 
 +++
 
@@ -572,8 +572,8 @@ New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 | Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
 | July 2023 | [Configure and send a push notification campaign](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/push-channel/create-a-push-campaign.html) | Video | Learn how to configure and send a push notification with a campaign.|
-| July 2023 | [Profile and audience membership based personalization](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/profile-and-audience-membership-based-personalization.html) | Updated video | Learn how to add profile-based personalization to a message and how to use audience membership as a pre-condition to a personalization block.|
-| Juy 2023 | [Direct Mail Channel](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/direct-mail-channel/direct-mail.html) | Video | Learn how to set up the Direct Mail channel and how to create and preview direct mail campaigns. |
+| July 2023 | [Profile and audience membership-based personalization](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/profile-and-audience-membership-based-personalization.html) | Updated video | Learn how to add profile-based personalization to a message and how to use audience membership as a pre-condition to a personalization block.|
+| July 2023 | [Direct Mail Channel](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/direct-mail-channel/direct-mail.html) | Video | Learn how to set up the Direct Mail channel and how to create and preview direct mail campaigns. |
 
 {style="table-layout:auto"}
 
