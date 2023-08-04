@@ -26,7 +26,7 @@ Sign in to [Experience League](https://experienceleague.adobe.com/#home) and cus
 
 ## Product release updates and events
 
-Latest update: **August 3, 2023**
+Latest update: **August 4, 2023**
 
 * [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
@@ -88,7 +88,15 @@ Learn about the latest features and updates in [!DNL Adobe System Status].
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
-See [March 2023 release notes](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/03082023.html#status) for Adobe Status to view the latest updates.
+**What's new**
+
+| Feature | Description |
+| ------- | -------|
+| Announcements | Announcements are **Global**, **Cloud**, or **Product**-level messages with a wide impact. An example from the past would be a Covid-19 message. Other examples would be global security vulnerabilities like Log4j, or support center down, and so on. Announcements are not linked to an issue or maintenance. This feature will be used to communicate with customers about updates at the Cloud or Product level.<p>Subscribers can now create new or edit their subscriptions to include Announcements in addition to issues and maintenances. An announcement notification is sent to the subscribers, depending on whether the product they are subscribed to is impacted by the announcement. Subscribers receive these communications via the usual notification channels (email/Slack), and they can see the event on [status.adobe.com](https://status.adobe.com/) web pages. |
+| Enhancements |<ul><li>Performance improvements on the [status.adobe.com](https://status.adobe.com/) Overview page.</li><li>Enhanced Acrobat Online subscription offerings.</li><li>[!DNL Adobe Advertising] - The obsolete TV offering is retired, and subscribers are pointed to [!UICONTROL Demand Side Platform] offering.</li><li>Banner on product offering pages now reflects the status of the product offering instead of showing the events across all of the product.</li><li>When a product impact is closed and downgraded to trivial at the same time, a closure notification is sent to customers about the downgrade.</li></ul> |
+|Notification bug fixes |<ul><li>Canceled maintenance displays Scheduled/Started and Canceled dates correctly on banners.</li><li>In case of maintenance impacting multiple products, subscribers are notified only if their product is impacted. The email received shows the impact on their product only.</li></ul> |
+
+{style="table-layout:auto"}
 
 +++
 
@@ -112,7 +120,7 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 * [[!DNL Experience Platform] Mobile SDK release notes](https://developer.adobe.com/client-sdks/documentation/release-notes/)
 
-### New [!DNL Experience Platform] tutorials and courses{#tutorials-aep}
+<!-- ### New [!DNL Experience Platform] tutorials and courses{#tutorials-aep}
 
 New videos, tutorials, or courses published for Adobe [!DNL Experience Platform].
 
@@ -124,11 +132,11 @@ New videos, tutorials, or courses published for Adobe [!DNL Experience Platform]
 | August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
 | August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
 
-{style="table-layout:auto"}
+{style="table-layout:auto"} -->
 
 +++
 
-## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Real-Time Customer Data Platform] {#rtcdp}
+<!-- ## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Real-Time Customer Data Platform] {#rtcdp}
 
 Find the latest tutorials for [!DNL Real-Time Customer Data Platform] on Experience League.
 
@@ -146,7 +154,7 @@ New videos, tutorials, or courses published for Adobe [!DNL Real-Time Customer D
 
 {style="table-layout:auto"}
 
-+++
++++ -->
 
 ## ![Icon](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
@@ -154,7 +162,7 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 +++Details
 
-[!DNL Analytics] release date: **July 12, 2023**
+[!DNL Analytics] release date: **August 9, 2023**
 
 * [!DNL Analytics] [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html) 
 
@@ -166,7 +174,7 @@ Release version: **2.23.0**
 
 * [AppMeasurement for JavaScript release notes](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html)
 
-### New [!DNL Analytics] tutorials and courses {#tutorials-analytics}
+<!-- ### New [!DNL Analytics] tutorials and courses {#tutorials-analytics}
 
 New video tutorials, articles, and courses published for Adobe [!DNL Analytics].
 
@@ -180,7 +188,7 @@ New video tutorials, articles, and courses published for Adobe [!DNL Analytics].
 | August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
 | August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
 
-{style="table-layout:auto"}
+{style="table-layout:auto"} -->
 
 ### Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
 
@@ -200,13 +208,13 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 +++Details
 
-[!DNL Customer Journey Analytics] release date: **July 12, 2023**
+[!DNL Customer Journey Analytics] release date: **August 9, 2023**
 
 * [!DNL Customer Journey Analytics] [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html)
 
 * [!DNL Customer Journey Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics.html)
 
-### New [!DNL Customer Journey Analytics] tutorials and courses {#tutorials-cja}
+<!-- ### New [!DNL Customer Journey Analytics] tutorials and courses {#tutorials-cja}
 
 New videos, tutorials, or courses published for [!DNL Customer Journey Analytics].
 
@@ -221,12 +229,12 @@ New videos, tutorials, or courses published for [!DNL Customer Journey Analytics
 | August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
 
 {style="table-layout:auto"}
-
+ -->
 +++
 
 ## ![Icon](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
-[!DNL Analytics] release date: **July 12, 2023**
+[!DNL Analytics] release date: **August 9, 2023**
 
 * [!DNL Streaming Media Analytics] [release notes](https://experienceleague.adobe.com/docs/media-analytics/using/release-notes/release-notes.html)
 
@@ -286,7 +294,7 @@ Watch the [July 2023 Release Overview video](https://video.tv.adobe.com/v/342201
 
 _New feature_
 
-* MSM for Content Fragments. Adobe Experience Manager (AEM) Multisite Manager is now available for Content Fragments, letting you create Content Fragment Live Copies for bulk content distribution. Granular inheritance controls are available down to Content Fragment Element and Variation level.
+* **MSM for Content Fragments:** Adobe Experience Manager (AEM) Multisite Manager is now available for Content Fragments, letting you create Content Fragment Live Copies for bulk content distribution. Granular inheritance controls are available down to Content Fragment Element and Variation level.
 
 _New feature in prerelease channel_
 
@@ -316,10 +324,10 @@ _New feature in prerelease channel_
 
 Use [Headless Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-headless-adaptive-forms/using/overview.html?lang=en) to let developers create, publish, and manage interactive forms that can be accessed and interacted with through APIs, rather than through a traditional graphical user interface. Headless adaptive forms help you:
 
-* build high-quality multi-channel forms in the programming language of your choice
-* natively integrate forms to your desktop and mobile apps, websites, and chat applications
-* reuse your proprietary UI components with forms applications
-* use the power of AEM Forms
+* Build high-quality multi-channel forms in the programming language of your choice
+* Natively integrate forms to your desktop and mobile apps, websites, and chat applications
+* Reuse your proprietary UI components with forms applications
+* Use the power of AEM Forms
 
 You can [send an email to aem-forms-headless@adobe.com](mailto:aem-forms-headless@adobe.com) from your official email ID to join the early adopter program.
 
@@ -328,8 +336,8 @@ You can [send an email to aem-forms-headless@adobe.com](mailto:aem-forms-headles
 * **Actions Center** &ndash; Subscribe to email notifications that alert you when critical incidents happen requiring immediate action, and also with personalized recommendations to optimize your site. Actions Center serves as a hub where you can review these alerts, such as blocked replication queues or expiring credentials, and mark them as resolved.
 * **CDN and WAF Rules early adopter program** &ndash; Filter traffic at the CDN based on:
 
-  * request headers and properties (for example, IP address)
-  * traffic patterns known to be associated with malicious traffic
+  * Request headers and properties (for example, IP address)
+  * Traffic patterns known to be associated with malicious traffic
 
   Interested in trying out the feature and sharing feedback? To learn more about the early adopter program, send an email to [aemcs-waf-adopter@adobe.com](mailto:aemcs-waf-adopter@adobe.com) from your official email ID. Space is limited.
 
@@ -468,8 +476,8 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-| August 2023 | [Slow MySQL replication explained](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html) |Video | Learn about Galera DB replication and related MySQL slow queries |
-| August 2023 | [MySQL Query cache](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/mysql-query-cache.html) |Video | Learn about Mysql Query Cache |
+| August 2023 | [Slow MySQL replication explained](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html) |Video | Learn about Galera DB replication and related MySQL slow queries. |
+| August 2023 | [MySQL Query cache](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/mysql-query-cache.html) |Video | Learn about Mysql Query Cache. |
 
 {style="table-layout:auto"}
 
@@ -619,9 +627,6 @@ New videos, tutorials, or courses published for Adobe Marketo.
 
 | Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
-| July 2023 | [Best practices for creating foundational programs](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/fundamentals/best-practices-for-creating-foundational-programs.html) | Video | Understand the four program types, how to import programs, lead scoring programs and defining channel tags. |
-| July 2023 | [Best practices to organize a new Marketo Engage instance](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/fundamentals/best-practices-to-organize-a-new-instance.html) | Video | Learn how to organize your navigation tree in Marketing Activities using folders, standard naming conventions, and features such as cloning to easily work with your coworkers in a new Marketo Engage instance. |
-| July 2023 | [Personalize with tokens](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/fundamentals/personalize-with-tokens.html) | Video | Learn how to use tokens in Marketo programs. |
 | August 2023 | [Engagement map overview](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/engagement-maps/engagement-map-overview.html) | Video |Learn how to build reusable campaigns and increase velocity using Engagement Map. |
 | August 2023 | [Engagement map nested campaigns](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/engagement-maps/engagement-map-nested-campaign.html) | Video | Decipher interconnected and deeply nested campaigns to gain better visibility into the entire customer journey using Engagement Map.|
 | August 2023 | [Engagement map error detection and resolution](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/engagement-maps/engagement-map-error-detection-and-resolution.html) | Video | Learn how Engagement Map aids in troubleshooting and fixing campaign issues quickly. |
@@ -638,7 +643,7 @@ Learn about the latest release notes for [!DNL Adobe Workfront]. Find new tutori
 
 +++Details
 
-### New Adobe [!DNL Workfront] courses and tutorials {#tutorials-workfront}
+<!-- ### New Adobe [!DNL Workfront] courses and tutorials {#tutorials-workfront}
 
 New [!DNL Workfront] tutorials on Experience League.
 
@@ -651,7 +656,7 @@ New [!DNL Workfront] tutorials on Experience League.
 | August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
 | August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
 
-{style="table-layout:auto"}
+{style="table-layout:auto"} -->
 
 ### [!DNL Workfront] support knowledge base
 
@@ -710,8 +715,8 @@ New tutorials and courses published for [!DNL Document Cloud], including [!DNL A
 | Published | Application | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
 | August 2023 | Acrobat Sign | [Use Case: Custom workflow for education IEP process](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html) | Video | Learn how the Custom Workflow Designer is used to digitize an Individualized Education Program (IEP) process for a K-12 school. |
-| August 2023 | Acrobat Sign | [Use Case: Education web form internship application](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html) | Video | Learn how web forms are used to improve students' access to required forms that can be submitted from any device – and any location – speeding up educational approval processes. |
-| August 2023 | Acrobat Sign | [Use Case: Create an education web form internship application](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html) | Video | Learn how to create an internship web form to improve student access to required forms that can be submitted from any device – and any location. |
+| August 2023 | Acrobat Sign | [Use Case: Education web form internship application](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html) | Video | Learn how web forms are used to improve students' access to required forms that can be submitted from any device - and any location - speeding up educational approval processes. |
+| August 2023 | Acrobat Sign | [Use Case: Create an education web form internship application](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html) | Video | Learn how to create an internship web form to improve student access to required forms that can be submitted from any device - and any location. |
 | August 2023 | Acrobat Sign | [Integrate a web form with SharePoint Online](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/integrate-web-form-sharepoint-online.html) | Video | Learn how to map data collected from a web form into a SharePoint list, allowing you to share data collected across teams. |
 | August 2023 | Acrobat Sign | [Use Case: Government loan application with multiple unknown signers](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/webform-multiple-signers.html) | Video | Learn how a web form is used for a complex government loan application workflow that involves multiple unknown participants. |
 
@@ -736,9 +741,6 @@ New videos, tutorials, or courses published for [!DNL Creative Cloud] for enterp
 | August 2023 | [Create graphic content for blogs with Firefly](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-blog-graphics.html) | Video | Learn how to use Text to Image, powered by Adobe Firefly, in Adobe Express to create unique graphic content for a blog. |
 | August 2023 | [Create recruiting and on-boarding content with Firefly](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-on-boarding.html) | Video | Learn how to use Text to Image, powered by Adobe Firefly, in Adobe Express to create unique graphics for employee recruiting and on-boarding content. |
 | August 2023 | [Create flyer content for marketing campaign with Firefly](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-local-marketing.html) | Video | Learn how to use Text to Image, powered by Adobe Firefly, in Adobe Express to create localized content from a global hotel marketing campaign. |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
 
 {style="table-layout:auto"} 
 
