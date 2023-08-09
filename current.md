@@ -656,20 +656,20 @@ Learn about the latest release notes for [!DNL Adobe Workfront]. Find new tutori
 
 +++Details
 
-<!-- ### New Adobe [!DNL Workfront] courses and tutorials {#tutorials-workfront}
+### New Adobe [!DNL Workfront] courses and tutorials {#tutorials-workfront}
 
 New [!DNL Workfront] tutorials on Experience League.
 
 | Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| August 2023 | [Project finances for administrators](https://experienceleague.adobe.com/docs/courses/using/workfront-a-1-2023-1-finances.html) | Course | Learn how to establish financial settings to ensure consistency in billing and reporting across your Workfront instance or group.|
+| August 2023 | [Project finances for users](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2023-1-finances.html) | Course | Learn how to track financial information for projects, set cost and revenue types, and override billing rates. |
+| August 2023 | [Understand settings for a flow request](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-settings-for-a-flow-request.html) | Video | Learn how the request flow process in  Workfront works. Then create routing rules, topic groups, and queue topics. |
+| August 2023 | [Understand cross-project predecessors](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html?lang=en) | Video | Learn how to use and keep track of predecessor tasks across 2 or more projects. |
+| August 2023 | [Understand project timelines](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/understand-project-timelines.html?lang=en) | Video | Learn how to schedule projects from the start or completion date. Then learn how duration, predecessors, and task constraints affect the project plan. |
+| August 2023 | [Share a project](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=en) | Video | Learn how to share a project so stakeholders and others interested in the project can have visibility into the work being done using  Workfront.|
 
-{style="table-layout:auto"} -->
+{style="table-layout:auto"}
 
 ### [!DNL Workfront] support knowledge base
 
