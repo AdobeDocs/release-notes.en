@@ -2,6 +2,8 @@
 cloud: Experience Cloud
 type: Documentation
 solution: Experience Cloud
+feature-set: Experience Cloud
+feature: Release Notes
 role: User,Admin,Developer
 product: Experience Cloud
 mini-toc-levels: 2
