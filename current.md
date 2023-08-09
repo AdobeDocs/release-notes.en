@@ -78,10 +78,9 @@ Lean about the most common Experience Cloud application integrations. Browse int
 
 * **[!DNL WORKFRONT]** |Customer workshop | _Learn with Workfront - Requested Queues_ | **August 22 @ 9:00 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Tu1ThXWIykiOZEfcg-DHeA,HXziSkoXUkm1SUYQGdEkZA,G-p3ztGJpkCWE8JFONuXNg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* [!DNL EXPERIENCE CLOUD] | Webinar | The Perfect Blend: Adobe Analytics + Adobe Commerce | **August 22 @ 11:00 AM MT** | [Register](https://attendee.gotowebinar.com/register/8741953502398625879?source=ExL)
+* [!DNL EXPERIENCE CLOUD] | Webinar | The Perfect Blend: Adobe Analytics + Adobe Commerce | **August 22 @ 11:00 AM MT** | [Register](https://register.gotowebinar.com/register/8741953502398625879?source=ExL)
 
-* [!DNL EXPERIENCE CLOUD] | Webinar | The Perfect Blend: Marketo + Workfront | **August 31 @ 11:00 AM MT** | [Register](https://attendee.gotowebinar.com/register/1243658035029822043?source=ExL)
-
+* [!DNL EXPERIENCE CLOUD] | Webinar | The Perfect Blend: Marketo + Workfront | **August 31 @ 11:00 AM MT** | [Register](https://register.gotowebinar.com/register/1243658035029822043?source=ExL)
 
 View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [event recordings](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html). You can now use the left-hand navigation to look for recorded events based on series type or application.
 
@@ -370,17 +369,17 @@ _New features_
 
 **Bug fixes**
 
-* Navigating to the authoring user interface from Cloud Manager no longer fails to redirect into Experience Cloud after login.
+* Navigating to the authoring user interface from [!DNL Cloud Manager] no longer fails to redirect into [!DNL Experience Cloud] after login.
 * Editing the go-live date by way of the go-live widget now navigates to the Go Live tab instead of the Enhanced Security tab.
 * When starting a copy operation, a user can no longer select an environment where a copy operation is already invoked.
 
 ### [!DNL Workfront for Experience Manager] enhanced connector
 
-The release date for the latest version 1.9.11 of Workfront for Experience Manager enhanced connector is June 19, 2023.
+The release date for the latest version 1.9.11 of [!DNL Workfront] for [!DNL Experience Manager] enhanced connector is June 19, 2023.
 
 _Release highlights_
 
-* When you have advanced networking configured, there are issues while sending content from Adobe Workfront to AEM as a Cloud Service.
+* When you have advanced networking configured, there are issues while sending content from Adobe Workfront to [!DNL AEM as a Cloud Service].
 
 >[!NOTE]
 >
@@ -393,14 +392,14 @@ _Release highlights_
 _Known issues_
 
 * While configuring project linked folders with AEM 6.4, [!DNL Experience Manager] does not save the values for **sub-folders** and **Create linked folder in projects with portfolio** fields. The value for the **sub-folders** field updates to **undefined**. The value for the **Create linked folder in projects with portfolio** field updates to **Default Portfolio** automatically after saving the configuration.
-* When you use the classic Workfront experience, the **Send to** option available in the **More** drop-down list does not let you select the target destination within Experience Manager. The **Send to** option works correctly using the **Document Actions** drop-down list. The **Send to** option works correctly for **More** drop-down list and the **Document Actions** drop-down list available in the new Workfront experience.
+* When you use the classic [!DNL Workfront] experience, the **Send to** option available in the **More** drop-down list does not let you select the target destination within Experience Manager. The **Send to** option works correctly using the **Document Actions** drop-down list. The **Send to** option works correctly for **More** drop-down list and the **Document Actions** drop-down list available in the new Workfront experience.
 
 ### Community
 
-* Experience Manager as a Cloud Service 2023.7.0 - Release Update: [https://adobe.ly/3Y6CC6J](https://adobe.ly/3Y6CC6J)
+* [!DNL Experience Manager as a Cloud Service] 2023.7.0 - Release Update: [https://adobe.ly/3Y6CC6J](https://adobe.ly/3Y6CC6J)
 * AEM GEMs, June 28, 2023 &ndash; Recording is available for "Master the Art of Experience Manager Certification: Get Ready, Get Set, Get Certified!": [https://adobe.ly/3p2CmbA](https://adobe.ly/3p2CmbA)
 
-### Experience Manager release information
+### [!DNL Experience Manager] release information
 
 All [!DNL Experience Manager] release notes are maintained at the following pages:
 
@@ -426,12 +425,12 @@ New videos, tutorials, or courses published for Experience Manager.
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
 | August 2023 | [!DNL AEM] | [Security strategies in Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/navigation.html) | Video | Learn how to ensure your digital experiences are secure and protected.|
-| August 2023 | [!DNL AEM Assets] | [Basic AEM Assets navigation](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/navigation.html) | Updated video | Explore the basics of navigating AEM Assets. |
-| August 2023 | [!DNL AEM Cloud Manager] | [AEM Cloud Manager Champion office hours](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/2023/may.html) | Video | Learn about AEM Cloud Manager best practices from AEM Champions. |
+| August 2023 | [!DNL AEM Assets] | [Basic AEM Assets navigation](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/navigation.html) | Updated video | Explore the basics of navigating [!DNL AEM Assets]. |
+| August 2023 | [!DNL AEM Cloud Manager] | [[!DNL AEM Cloud Manager] Champion office hours](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/2023/may.html) | Video | Learn about [!DNL AEM Cloud Manager] best practices from AEM Champions. |
 | August 2023 | [!DNL AEM Forms] | [Persist form data in Azure Storage](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/prefill-azure-storage/introduction.html) | Article | Learn how to save and resume filling of an adaptive form using Azure Storage to persist the form data. |
-| August 2023 | [!DNL AEM Forms] | [Send emails using SendGrid from AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/some-useful-integrations/send-grid.html) | Article | Learn how to use SendGrid to send emails from AEM Forms. |
+| August 2023 | [!DNL AEM Forms] | [Send emails using SendGrid from AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/some-useful-integrations/send-grid.html) | Article | Learn how to use [!DNL SendGrid] to send emails from AEM Forms. |
 | August 2023 | [!DNL AEM Sites] | [CSRF protection for developers](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/advanced/csrf-protection.html) | Article | Learn how to add AEM CSRF tokens to POST, PUT and DELETE requests to AEM for authenticated users. |
-| August 2023 | [!DNL AEM Sites] | [AEM Sites Champion office hours](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/2023/march.html) | Video | Learn about AEM Sites best practices from AEM Champions. |
+| August 2023 | [!DNL AEM Sites] | [[!DNL AEM Sites] Champion office hours](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/2023/march.html) | Video | Learn about [!DNL AEM Sites] best practices from AEM Champions. |
 
 {style="table-layout:auto"}
 
@@ -442,7 +441,7 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
 |July 2023|[Assets Upload fails with an error message with bulk content](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22476.html)|New article| Learn the solution for the issue where uploading multiple assets to a folder throws an error.|
-|July 2023|[AEM installation error *No style has been found until search path threshold*](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22472.html)|New article| Learn the solution for the issue where the error *No style has been found until search path threshold* appears after installing AEM 6.5.17.|
+|July 2023|[AEM installation error *No style has been found until search path threshold*](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22472.html)|New article| Learn the solution for the issue where the error _No style has been found until search path threshold_ appears after installing AEM 6.5.17.|
 |July 2023|[How to customize the display format of the page published date on the Sites console?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22473.html)|New article| Learn how to customize the date/time format of the published date to include the time of day.|
 
 {style="table-layout:auto"}
@@ -476,7 +475,7 @@ Get access to release notes, new tutorials, and Knowledge Base articles for [!DN
 
 +++Details
 
-* See [Release notes for Adobe Commerce and Magento Open Source](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html) to stay current.
+* See [Release notes for [!DNL Adobe Commerce] and [!DNL Magento Open Source]](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html) to stay current.
 * See [Product Availability](https://experienceleague.adobe.com/docs/commerce-operations/release/product-availability.html) to access individual product release notes and verify availability.
 
 >[!NOTE]
@@ -501,7 +500,7 @@ New articles and updates to existing articles for Adobe Commerce.
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
 |July 2023|[Quality Patches Tool (QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles| New articles on how to apply patches available in QPT 1.1.32, QPT 1.1.33, and QPT 1.1.34 were published and can be found in their respective sections.|
-|July 2023|[*The file can't be deleted. Warning!unlink: No such file or directory error* from the Admin](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/file-cannot-be-deleated-no-file-or-directory.html)|New articles| Learn the solution for the issue where user sees an error *The file can't be deleted. Warning!unlink: No such file or directory error* from the Commerce Admin when you do a JavaScript/CSS flush.|
+|July 2023|[_The file can't be deleted. Warning!unlink: No such file or directory error from the Admin_](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/file-cannot-be-deleated-no-file-or-directory.html)|New articles| Learn the solution for the issue where user sees an error _The file can't be deleted. Warning!unlink: No such file or directory error_ from the Commerce Admin when you do a JavaScript/CSS flush.|
 
 {style="table-layout:auto"}
 
@@ -530,13 +529,13 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials, courses, a
 
 ### Latest Campaign product releases
 
-* New! Campaign v8.5.1 release: [Release notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=en)
+* New! Campaign v8.5.2: [Release notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=en)
 
 * Campaign Standard: [Release notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
 
 * Campaign Classic v7: [Release notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
 
-* New! Control Panel June release: [Release notes](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en) 
+* New! Control Panel: [Release notes](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en) 
 
 Find out more about the latest capabilities, improvements, and fixes in the [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html), and [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) release notes.
 
@@ -632,7 +631,7 @@ Find out the latest release notes and release schedule for [!DNL Marketo Engage]
 
 ### Core Marketo Engage updates
 
-* See [July 2023 - current release notes](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html) for the latest information
+* See [September 2023 - current release notes](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html) for the latest information
 * See [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html) for the latest release schedule information and release notes.
 
 ### New Marketo Engage tutorials and courses {#tutorials-marketo}
@@ -641,9 +640,9 @@ New videos, tutorials, or courses published for Adobe Marketo.
 
 | Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
-| August 2023 | [Engagement map overview](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/engagement-maps/engagement-map-overview.html) | Video |Learn how to build reusable campaigns and increase velocity using Engagement Map. |
-| August 2023 | [Engagement map nested campaigns](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/engagement-maps/engagement-map-nested-campaign.html) | Video | Decipher interconnected and deeply nested campaigns to gain better visibility into the entire customer journey using Engagement Map.|
-| August 2023 | [Engagement map error detection and resolution](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/engagement-maps/engagement-map-error-detection-and-resolution.html) | Video | Learn how Engagement Map aids in troubleshooting and fixing campaign issues quickly. |
+| August 2023 | [Engagement map overview](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/engagement-maps/engagement-map-overview.html) | Video |Learn how to build reusable campaigns and increase velocity using [!UICONTROL Engagement Map]. |
+| August 2023 | [Engagement map nested campaigns](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/engagement-maps/engagement-map-nested-campaign.html) | Video | Decipher interconnected and deeply nested campaigns to gain better visibility into the entire customer journey using [!UICONTROL Engagement Map].|
+| August 2023 | [Engagement map error detection and resolution](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/engagement-maps/engagement-map-error-detection-and-resolution.html) | Video | Learn how [!UICONTROL Engagement Map] aids in troubleshooting and fixing campaign issues quickly. |
 
 {style="table-layout:auto"}
 
@@ -681,7 +680,6 @@ New articles and updates to existing articles for [!DNL Workfront].
 |July 2023|[Proofing Issue while uploading proofs, blue bar scrolling indefinitely](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22364.html)|New article| Learn how to resolve the error that occurs when uploading a new proof.|
 
 {style="table-layout:auto"}
-
 
 See the [[!DNL Workfront] product releases](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html) page for a round-up of the latest information for all products.
 
