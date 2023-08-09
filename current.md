@@ -5,7 +5,6 @@ doc-type: release notes
 last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
-badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
 # Experience Cloud Release Notes
@@ -26,7 +25,7 @@ Sign in to [Experience League](https://experienceleague.adobe.com/#home) and cus
 
 ## Product release updates and events
 
-Latest update: **August 4, 2023**
+Latest update: **August 9, 2023**
 
 * [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
@@ -47,7 +46,8 @@ Latest update: **August 4, 2023**
 * [[!DNL Journey Orchestration]](#journey-orch)
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
-* [[!DNL Adobe Advertising]](#advertising)<!-- * [[!DNL Document Cloud]](#doc-cloud) -->
+* [[!DNL Adobe Advertising]](#advertising)
+* [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)
 * [Customer Data Management - Voices](#voices)
 * [Digital Experience Blueprints](#blueprints)
@@ -56,13 +56,32 @@ Latest update: **August 4, 2023**
 
 Learn about exciting events on Experience League. It's a great place to learn, interact, and get answers from product experts at Adobe!
 
-### Integration configurations for Experience Cloud applications {#integrations}
+### Integration configuration tutorials for Experience Cloud applications {#integrations}
 
-Announcing our new [Integrations home for Experience Cloud applications](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/overview.html?) on Experience League!
+Announcing our new [Integration tutorials home for Experience Cloud applications](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/overview.html?) on Experience League!
 
 Lean about the most common Experience Cloud application integrations. Browse integration tutorials by [solution](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/overview.html?lang=en) or [application](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/integrations-between-applications/overview.html?lang=en).
 
+### Events on Experience League
+
 +++Upcoming events on Experience League
+
+* **[!DNL WORKFRONT]** | Customer workshop | _Connect - Workfront Strategic Admin Chat_ |** August 14 @ 7:00 AM CT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,jvUOpWGTjE-Ph64NemBUhA,ZNAqPMQNZkK7VD-MS7tTJQ,Hk32dXdY40OM3NXnqXTPhA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL EXPERIENCE MANAGER]** | Experience Makers | _The Skill Exchange for Adobe Experience Manager_ | **August 17 @ 9:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,jvUOpWGTjE-Ph64NemBUhA,ZNAqPMQNZkK7VD-MS7tTJQ,Hk32dXdY40OM3NXnqXTPhA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | Experience Makers | _The Skill Exchange for Adobe Workfront_ | **August 16 @ 9:00 AM PT** | [Register](https://cvent.me/OnVZk3?rt=GK3dI3eyIEu5Ln9oKu3x0Q&RefId=Experience+League
+)
+* **[!DNL ANALYTICS]** | Experience Makers | _The Skill Exchange for Adobe Analytics_ | **August 17 @ 9:00 AM PT** | [Register](https://cvent.me/OnVZk3?rt=GK3dI3eyIEu5Ln9oKu3x0Q&RefId=Experience+League)
+
+* **[!DNL TARGET]** | Webinar | _Strategize for maximum ROI impact with peak season readiness_ | **August 17 @ 8:00 AM PT** | [Register](https://adobepeakseasonreadiness2023.experienceleague.adobeevents.com/)
+
+* **[!DNL WORKFRONT]** |Customer workshop | _Learn with Workfront - Requested Queues_ | **August 22 @ 9:00 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Tu1ThXWIykiOZEfcg-DHeA,HXziSkoXUkm1SUYQGdEkZA,G-p3ztGJpkCWE8JFONuXNg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* [!DNL EXPERIENCE CLOUD] | Webinar | The Perfect Blend: Adobe Analytics + Adobe Commerce | **August 22 @ 11:00 AM MT** | [Register](https://attendee.gotowebinar.com/register/8741953502398625879?source=ExL)
+
+* [!DNL EXPERIENCE CLOUD] | Webinar | The Perfect Blend: Marketo + Workfront | **August 31 @ 11:00 AM MT** | [Register](https://attendee.gotowebinar.com/register/1243658035029822043?source=ExL)
+
 
 View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [event recordings](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html). You can now use the left-hand navigation to look for recorded events based on series type or application.
 
