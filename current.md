@@ -76,7 +76,7 @@ Lean about the most common Experience Cloud application integrations. Browse int
 
 * **[!DNL TARGET]** | Webinar | _Strategize for maximum ROI impact with peak season readiness_ | **August 17 @ 8:00 AM PT** | [Register](https://adobepeakseasonreadiness2023.experienceleague.adobeevents.com/)
 
-* **[!DNL WORKFRONT]** |Customer workshop | _Learn with Workfront - Requested Queues_ | **August 22 @ 9:00 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Tu1ThXWIykiOZEfcg-DHeA,HXziSkoXUkm1SUYQGdEkZA,G-p3ztGJpkCWE8JFONuXNg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Customer workshop | _Learn with Workfront - Requested Queues_ | **August 22 @ 9:00 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,Tu1ThXWIykiOZEfcg-DHeA,HXziSkoXUkm1SUYQGdEkZA,G-p3ztGJpkCWE8JFONuXNg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * [!DNL EXPERIENCE CLOUD] | Webinar | The Perfect Blend: Adobe Analytics + Adobe Commerce | **August 22 @ 11:00 AM MT** | [Register](https://register.gotowebinar.com/register/8741953502398625879?source=ExL)
 
