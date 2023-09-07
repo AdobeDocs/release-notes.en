@@ -95,17 +95,13 @@ Learn about the latest features and updates in [!DNL Adobe System Status].
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
-Release date: **July 18, 2023**
+For recent feature updates, see:
 
-**What's new**
+* [August 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/08092023.html#status)
+* [March 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/03082023.html#status)
+* [January 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/02082023.html#status)
 
-| Feature | Description |
-| ------- | -------|
-| Announcements | Announcements are **Global**, **Cloud**, or **Product**-level messages with a wide impact. An example from the past would be a Covid-19 message. Other examples would be global security vulnerabilities like Log4j, or support center down, and so on. Announcements are not linked to an issue or maintenance. This feature is used to communicate with customers about updates at the Cloud or Product level.<p>Subscribers can now create new or edit their subscriptions to include Announcements in addition to issues and maintenances. An announcement notification is sent to the subscribers, depending on whether products they are subscribed to are impacted by the announcement. Subscribers receive these communications via the usual notification channels (email/Slack), and they can see the event on [status.adobe.com](https://status.adobe.com/) web pages. |
-| Enhancements |<ul><li>Performance improvements on the [status.adobe.com](https://status.adobe.com/) Overview page.</li><li>Enhanced Acrobat Online subscription offerings.</li><li>[!DNL Adobe Advertising] - The obsolete TV offering is retired, and subscribers are pointed to [!UICONTROL Demand Side Platform] offering.</li><li>Banner on product offering pages now reflects the status of the product offering instead of showing the events across all of the product.</li><li>When a product impact is closed and downgraded to trivial at the same time, a closure notification is sent to customers about the downgrade.</li></ul> |
-|Notification bug fixes |<ul><li>Canceled maintenance displays Scheduled/Started and Canceled dates correctly on banners.</li><li>If there is maintenance impacting multiple products, subscribers are notified only if their product is impacted. The email received shows the impact on their product only.</li></ul> |
-
-{style="table-layout:auto"}
+To view or report Adobe product security vulnerabilities, visit [PSIRT](https://helpx.adobe.com/security.html).
 
 +++
 
