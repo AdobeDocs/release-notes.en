@@ -398,7 +398,7 @@ Be a part of Adobe's early adoption program and have a chance to test some upcom
   * Point-in-time backup restoration for the previous 24 hours.
   * Fixed time restorations for up to seven days.
 
-  If you are interested in testing this new feature and sharing your feedback, send an email to [aemcs-restorefrombackup-adopter@adobe.com](aemcs-restorefrombackup-adopter@adobe.com) from your email associated with your Adobe ID. Be aware of the following:
+  If you are interested in testing this new feature and sharing your feedback, send an email to [aemcs-restorefrombackup-adopter@adobe.com](mailto:aemcs-restorefrombackup-adopter@adobe.com) from your email associated with your Adobe ID. Be aware of the following:
 
   * The early adopter program is limited to development environments only.
   * Availability of the early adopter program of this feature is limited.
