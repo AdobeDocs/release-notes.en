@@ -54,6 +54,7 @@ Latest update: **Created: August 29, 2023**
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)
 * [Customer Data Management - Voices](#voices)
 * [Digital Experience Blueprints](#blueprints)
+* [Adobe product security vulnerabilities](https://helpx.adobe.com/security.html)
 
 ## ![Icon](/assets/experience-league.png) [!DNL Experience League] events and updates {#events}
 
@@ -114,8 +115,6 @@ For recent feature updates, see:
 * [August 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/08092023.html#status)
 * [March 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/03082023.html#status)
 * [January 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/02082023.html#status)
-
-To view or report Adobe product security vulnerabilities, visit [PSIRT](https://helpx.adobe.com/security.html).
 
 +++
 
