@@ -194,7 +194,7 @@ New video tutorials, articles, and courses published for Adobe [!DNL Analytics].
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |September 2023|[Unlocking insights with histograms: beyond averages in Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/unlocking-insights-with-histograms.html?lang=en)|Video |Discover the impact of histograms in analytics for insights beyond averages. Histograms reveal data patterns in customer behavior, visitor engagement, technical performance, and form errors, enabling deeper insights and informed decisions in Adobe Workspace.|
-|September 2023|[Link inside or outside of your project](https://experienceleague.corp.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/linking-inside-or-outside-of-your-project.html)|Video |Learn how to create internal or external links in your [!UICONTROL Analysis Workspace] project.|
+|September 2023|[Link inside or outside of your project](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/linking-inside-or-outside-of-your-project.html)|Video |Learn how to create internal or external links in your [!UICONTROL Analysis Workspace] project.|
 |September 2023|[Use dimensions in calculated metrics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/calculated-metrics/using-dimensions-in-calculated-metrics.html)|Updated video |Learn about using dimensions in [!UICONTROL calculated metric] builder. They can be added to any [!UICONTROL calculated metric] formula to limit the new metric to a dimension or dimension value.|
 
 <!-- ### Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
