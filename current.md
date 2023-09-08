@@ -27,7 +27,7 @@ Sign in to [Experience League](https://experienceleague.adobe.com/#home) and cus
 ## Product release updates and events
 
 
-Latest update: **Created: August 29, 2023**
+Latest update: **September 8, 2023**
 
 
 * [[!DNL Experience League] events and updates](#events)
@@ -60,11 +60,11 @@ Latest update: **Created: August 29, 2023**
 
 Learn about exciting events on Experience League. It's a great place to learn, interact, and get answers from product experts at Adobe!
 
-### Integration configuration tutorials for Experience Cloud applications {#integrations}
+|Published|Application|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |---------- |
+|Summer 2023|Experience Cloud|[Integration tutorials home for Experience Cloud applications]()|Videos| Learn about the most common Experience Cloud application integrations. Browse integration tutorials by [solution](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/overview.html?lang=en) or [application](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/integrations-between-applications/overview.html?lang=en). This content is updated often, so check back frequently.
 
-Announcing our new [Integration tutorials home for Experience Cloud applications](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/overview.html?) on Experience League!
-
-Lean about the most common Experience Cloud application integrations. Browse integration tutorials by [solution](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/overview.html?lang=en) or [application](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/integrations-between-applications/overview.html?lang=en).
+{style="table-layout:auto"}
 
 ### Events on Experience League
 
