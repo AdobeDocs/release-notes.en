@@ -210,7 +210,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 +++Details
 
-[!DNL Customer Journey Analytics] release date: **August 9, 2023**
+[!DNL Customer Journey Analytics] release date: **September 13, 2023**
 
 * [!DNL Customer Journey Analytics] [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html)
 
@@ -232,7 +232,7 @@ New videos, tutorials, or courses published for [!DNL Customer Journey Analytics
 
 ## ![Icon](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
-[!DNL Analytics] release date: **August 9, 2023**
+[!DNL Analytics] release date: **September 13, 2023**
 
 * [!DNL Streaming Media Analytics] [release notes](https://experienceleague.adobe.com/docs/media-analytics/using/release-notes/release-notes.html)
 
