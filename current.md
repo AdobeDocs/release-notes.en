@@ -473,7 +473,7 @@ New videos, tutorials, or courses published for Experience Manager.
 | September 2023 | AEM Forms | [Store form submissions in Azure Storage](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/some-useful-integrations/store-form-data-in-azure-storage.html?lang=en) | Video | Learn how to make REST calls to store submitted AEM Forms data in Azure Storage. |
 | September 2023 | AEM CS | [Asset-share-commons-3.4.0](https://github.com/adobe/asset-share-commons/releases/tag/asset-share-commons-3.4.0) | Code sample | Release of Asset Share Commons v3.4.0 reference asset share implementation with bug-fixes and vulnerability updates. |
 | September 2023 | AEM Foundation | [Call internal APIs having private certificates](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/security/call-internal-apis-having-private-certificate.html) | Article | Learn how to make HTTPS calls from AEM to web APIs using private or self-signed certificates. |
-| September 2023 | AEM Sites | [Launches](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html) | Updated video | Description |
+| September 2023 | AEM Sites | [Launches](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html) | Updated video | [!UICONTROL Launches] in [!DNL AEM Sites] provide a way to create, author, and review content for future release. |
 
 {style="table-layout:auto"}
 
