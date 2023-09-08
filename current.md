@@ -30,7 +30,7 @@ Sign in to [Experience League](https://experienceleague.adobe.com/#home) and cus
 Latest update: **Created: August 29, 2023**
 
 
-* [[!DNL Experience League] events and updates](#events) (Updated **August 29**)
+* [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Experience Cloud] interface and administration](#ecloud)
@@ -138,23 +138,19 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 * [[!DNL Experience Platform] Mobile SDK release notes](https://developer.adobe.com/client-sdks/documentation/release-notes/)
 
-<!-- ### New [!DNL Experience Platform] tutorials and courses{#tutorials-aep}
+### New [!DNL Experience Platform] tutorials and courses{#tutorials-aep}
 
 New videos, tutorials, or courses published for Adobe [!DNL Experience Platform].
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| September 2023 | Privacy Service | [Introduction to Privacy Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/introduction-to-privacy-services.html?lang=en) | Multiple videos | Learn about privacy regulations and their effect on data operations. Also, learn how Privacy Service handles these challenges. View the latest videos in the Privacy and Security section of the Experience Platform tutorials. |
 
--->
+{style="table-layout:auto"}
 
 +++
 
-<!-- ## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Real-Time Customer Data Platform] {#rtcdp}
+## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Real-Time Customer Data Platform] {#rtcdp}
 
 Find the latest tutorials for [!DNL Real-Time Customer Data Platform] on Experience League.
 
@@ -162,16 +158,16 @@ Find the latest tutorials for [!DNL Real-Time Customer Data Platform] on Experie
 
 New videos, tutorials, or courses published for Adobe [!DNL Real-Time Customer Data Platform].
 
-| Published | Applications | Name | Type | Description |
-| ----------| ---------- | ---------- | ---------- |---------- |
-| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
-| August 2023 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| Published | Name | Type | Description |
+| ----------| ---------- | ---------- |---------- |
+| September 2023 | [Personalize onsite experiences for unknown visitors using partner-aided visitor recognition](https://experienceleague.adobe.com/docs/platform-learn/tutorials/partner-data-support/unknown-visitor-personalization-partner-data.html) | Video | Learn how to collect third-party attributes from the Adobe Experience Platform Web SDK and personalize your onsite experience for unknown visitors using partner-aided visitor recognition. |
+| September 2023 | [Add partner attributes to first-party profiles in the Real-Time CDP](https://experienceleague.adobe.com/docs/platform-learn/tutorials/partner-data-support/partner-enrichment-partner-data.html) | Video | Learn how to add partner attributes to your first-party profiles to expand the reach through additional channels in the Real-Time CDP. |
+| September 2023 | [Partner data support overview in the Real-Time CDP](https://experienceleague.adobe.com/docs/platform-learn/tutorials/partner-data-support/partner-data-support-overview.html) | Video | Learn how the Real-Time Customer Data Platform supports full-funnel marketing using partner data for first-party data enrichment and prospecting use cases as third-party cookies continue to be deprecated. |
+| September 2023 | [Support offsite prospecting use cases using partner data in the Real-time CDP](https://experienceleague.adobe.com/docs/platform-learn/tutorials/partner-data-support/offsite-prospecting-partner-data.html) | Video | Learn about the workflow used to ingest new prospects from partners in the Real-Time CDP for pre-visit targeting. |
+
+{style="table-layout:auto"}
 
 +++ 
--->
 
 ## ![Icon](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
@@ -191,24 +187,20 @@ Release version: **2.24.0**
 
 * [AppMeasurement for JavaScript release notes](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html)
 
-<!-- ### New [!DNL Analytics] tutorials and courses {#tutorials-analytics}
+### New [!DNL Analytics] tutorials and courses {#tutorials-analytics}
 
 New video tutorials, articles, and courses published for Adobe [!DNL Analytics].
 
-| Published | Name | Type | Description |
+|Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
+|September 2023|[Unlocking insights with histograms: beyond averages in Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/unlocking-insights-with-histograms.html?lang=en)|Video |Discover the impact of histograms in analytics for insights beyond averages. Histograms reveal data patterns in customer behavior, visitor engagement, technical performance, and form errors, enabling deeper insights and informed decisions in Adobe Workspace.|
+|September 2023|[Link inside or outside of your project](https://experienceleague.corp.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/linking-inside-or-outside-of-your-project.html)|Video |Learn how to create internal or external links in your Analysis Workspace project.|
+|September 2023|[Use dimensions in calculated metrics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/calculated-metrics/using-dimensions-in-calculated-metrics.html)|Updated video |Learn about using dimensions in calculated metric builder. They can be added to any calculated metric formula to limit the new metric to a dimension or dimension value.|
 
-### Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
+<!-- ### Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
 
 New articles and updates to existing articles for [!DNL Analytics].
--->
+ -->
 
 +++
 
@@ -224,19 +216,17 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 * [!DNL Customer Journey Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics.html)
 
-<!-- ### New [!DNL Customer Journey Analytics] tutorials and courses {#tutorials-cja}
+### New [!DNL Customer Journey Analytics] tutorials and courses {#tutorials-cja}
 
 New videos, tutorials, or courses published for [!DNL Customer Journey Analytics].
 
-| Published | Name | Type | Description |
+|Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |-->
+|September 2023|[Use the Data Dictionary](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/data-dictionary/use-data-dictionary.html)|Video |Learn about the Data Dictionary in Analysis Workspace for Customer Journey Analytics. |
+|September 2023|[Analysis Workspace overview](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/workspace-projects/analysis-workspace-overview.html)|Video |Learn about the basic components used to create projects and dashboards in Analysis Workspace, a flexible, freeform analysis environment used to explore and visualize data from Experience Platform. |
+|September 2023|[Build a new project in Analysis Workspace](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/workspace-projects/build-a-new-project.html)|Video |Learn how to create a basic project in Analysis Workspace for Customer Journey Analytics.|
+
+{style="table-layout:auto"}
 
 +++
 
@@ -477,13 +467,13 @@ New videos, tutorials, or courses published for Experience Manager.
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| August 2023 | [!DNL AEM] | [Security strategies in Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/navigation.html) | Video | Learn how to ensure your digital experiences are secure and protected.|
-| August 2023 | [!DNL AEM Assets] | [Basic AEM Assets navigation](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/navigation.html) | Updated video | Explore the basics of navigating [!DNL AEM Assets]. |
-| August 2023 | [!DNL AEM Cloud Manager] | [[!DNL AEM Cloud Manager] Champion office hours](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/2023/may.html) | Video | Learn about [!DNL AEM Cloud Manager] best practices from AEM Champions. |
-| August 2023 | [!DNL AEM Forms] | [Persist form data in Azure Storage](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/prefill-azure-storage/introduction.html) | Article | Learn how to save and resume filling of an adaptive form using Azure Storage to persist the form data. |
-| August 2023 | [!DNL AEM Forms] | [Send emails using SendGrid from AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/some-useful-integrations/send-grid.html) | Article | Learn how to use [!DNL SendGrid] to send emails from AEM Forms. |
-| August 2023 | [!DNL AEM Sites] | [CSRF protection for developers](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/advanced/csrf-protection.html) | Article | Learn how to add AEM CSRF tokens to POST, PUT and DELETE requests to AEM for authenticated users. |
-| August 2023 | [!DNL AEM Sites] | [[!DNL AEM Sites] Champion office hours](https://experienceleague.adobe.com/docs/events/aem-champion-office-hours/2023/march.html) | Video | Learn about [!DNL AEM Sites] best practices from AEM Champions. |
+| September 2023 | AEM Foundation | [Use ModSecurity to protect your AEM site from DoS attacks](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/security/modsecurity-crs-dos-attack-protection.html) | Video | Learn how to enable ModSecurity to protect your site from Denial of Service (DoS) attacks using the OWASP ModSecurity Core Rule Set (CRS) on the Adobe Experience Manager (AEM) Publish Dispatcher. |
+| September 2023 | AEM Foundation | [Use the SSL Wizard in AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/security/use-the-ssl-wizard.html) | Video | Learn how to set up SSL in Adobe Experience Manager to make it run over HTTPS using the built-in SSL wizard. |
+| September 2023 | AEM Forms | [Log the variables value in AEM Workflow](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/variables-aem-workflow/part6.html%3Flang%3Dit) | Article | Log the value of AEM workflow variables. This helps developers track and understand how a AEM workflow is executing, diagnose issues, and monitor the flow of the data within an AEM workflow.|
+| September 2023 | AEM Forms | [Store form submissions in Azure Storage](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/some-useful-integrations/store-form-data-in-azure-storage.html?lang=en) | Video | Learn how to make REST calls to store submitted AEM Forms data in Azure Storage. |
+| September 2023 | AEM CS | [Asset-share-commons-3.4.0](https://github.com/adobe/asset-share-commons/releases/tag/asset-share-commons-3.4.0) | Code sample | Release of Asset Share Commons v3.4.0 reference asset share implementation with bug-fixes and vulnerability updates. |
+| September 2023 | AEM Foundation | [Call internal APIs having private certificates](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/security/call-internal-apis-having-private-certificate.html) | Article | Learn how to make HTTPS calls from AEM to web APIs using private or self-signed certificates. |
+| September 2023 | AEM Sites | [Launches](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/launches.html) | Updated video | Description |
 
 {style="table-layout:auto"}
 
@@ -645,11 +635,9 @@ Learn about the latest capabilities, improvements, and fixes in the [Journey Opt
 
 New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 
-| Published | Name | Type | Description |
-| ----------| ---------- | ---------- |---------- |
-| July 2023 | [Configure and send a push notification campaign](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/push-channel/create-a-push-campaign.html) | Video | Learn how to configure and send a push notification with a campaign.|
-| July 2023 | [Profile and audience membership-based personalization](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/personalize-content/profile-and-audience-membership-based-personalization.html) | Updated video | Learn how to add profile-based personalization to a message and how to use audience membership as a pre-condition to a personalization block.|
-| July 2023 | [Direct Mail Channel](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/direct-mail-channel/direct-mail.html) | Video | Learn how to set up the Direct Mail channel and how to create and preview direct mail campaigns. |
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|September 2023|[Create an in-app message in a journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-message-in-a-journey.html)|Video |Understand what an in-app message is and how it can be applied in a journey. Learn how to create an in-app message in a journey and how to test and publish your journey.|
 
 {style="table-layout:auto"}
 
@@ -701,11 +689,9 @@ Find out the latest release notes and release schedule for [!DNL Marketo Engage]
 
 New videos, tutorials, or courses published for Adobe Marketo.
 
-| Published | Name | Type | Description |
-| ----------| ---------- | ---------- |---------- |
-| August 2023 | [Engagement map overview](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/engagement-maps/engagement-map-overview.html) | Video |Learn how to build reusable campaigns and increase velocity using [!UICONTROL Engagement Map]. |
-| August 2023 | [Engagement map nested campaigns](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/engagement-maps/engagement-map-nested-campaign.html) | Video | Decipher interconnected and deeply nested campaigns to gain better visibility into the entire customer journey using [!UICONTROL Engagement Map].|
-| August 2023 | [Engagement map error detection and resolution](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/programs-and-campaigns/engagement-maps/engagement-map-error-detection-and-resolution.html) | Video | Learn how [!UICONTROL Engagement Map] aids in troubleshooting and fixing campaign issues quickly. |
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|September 2023|[How to audit an inherited Marketo Engage instance](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/fundamentals/inherted-instance-audit.html)|Video |Understand what is in the instance and to create a plan of action to update the configuration. This tutorial covers the most important sections within Marketo Engage, including Admin, Marketing Activities, Design Studio, and Database, and provide you with tips for auditing and optimization along the way.|
 
 {style="table-layout:auto"}
 
@@ -723,14 +709,9 @@ Learn about the latest release notes for [!DNL Adobe Workfront]. Find new tutori
 
 New [!DNL Workfront] tutorials on Experience League.
 
-| Published | Name | Type | Description |
-| ----------| ---------- | ---------- |---------- |
-| August 2023 | [Project finances for administrators](https://experienceleague.adobe.com/docs/courses/using/workfront-a-1-2023-1-finances.html) | Course | Learn how to establish financial settings to ensure consistency in billing and reporting across your [!DNL Workfront] instance or group.|
-| August 2023 | [Project finances for users](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2023-1-finances.html) | Course | Learn how to track financial information for projects, set cost and revenue types, and override billing rates. |
-| August 2023 | [Understand settings for a flow request](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-settings-for-a-flow-request.html) | Video | Learn how the request flow process in [!DNL Workfront] works. Then create routing rules, topic groups, and queue topics. |
-| August 2023 | [Understand cross-project predecessors](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html?lang=en) | Video | Learn how to use and keep track of predecessor tasks across two or more projects. |
-| August 2023 | [Understand project timelines](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/understand-project-timelines.html?lang=en) | Video | Learn how to schedule projects from the start or completion date, then learn how duration, predecessors, and task constraints affect the project plan. |
-| August 2023 | [Share a project](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=en) | Video | Learn how to share a project so stakeholders and others interested in the project can have visibility into the work being done using  [!DNL Workfront].|
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|September 2023|[What's new in Workfront tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en#what%E2%80%99s-new%3F)|Videos |View the latest tutorials released in the past month.|
 
 {style="table-layout:auto"}
 
@@ -788,12 +769,9 @@ New tutorials and courses published for [!DNL Document Cloud], including [!DNL A
 +++Details
 
 | Published | Application | Name | Type | Description |
-| ----------| ---------- | ---------- | ---------- |---------- |
-| August 2023 | Acrobat Sign | [Use Case: Custom workflow for education IEP process](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-iep.html) | Video | Learn how the Custom Workflow Designer is used to digitize an Individualized Education Program (IEP) process for a K-12 school. |
-| August 2023 | Acrobat Sign | [Use Case: Education web form internship application](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern.html) | Video | Learn how web forms are used to improve students' access to required forms that can be submitted from any device - and any location - speeding up educational approval processes. |
-| August 2023 | Acrobat Sign | [Use Case: Create an education web form internship application](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/edu/usecase-edu-intern-create.html) | Video | Learn how to create an internship web form to improve student access to required forms that can be submitted from any device - and any location. |
-| August 2023 | Acrobat Sign | [Integrate a web form with SharePoint Online](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/integrate-web-form-sharepoint-online.html) | Video | Learn how to map data collected from a web form into a SharePoint list, allowing you to share data collected across teams. |
-| August 2023 | Acrobat Sign | [Use Case: Government loan application with multiple unknown signers](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/expand/recipes/gov/webform-multiple-signers.html) | Video | Learn how a web form is used for a complex government loan application workflow that involves multiple unknown participants. |
+| -----------| ---------- | ---------- | ---------- |---------- |
+| September 2023 | Acrobat Sign | [Microsoft Dynamics 365 for Sales](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/dynamics-sales.html) | Video | Learn how Acrobat Sign and Microsoft Dynamics 365 for Sales are used to automate the sales quote signing process. In this example, Microsoft Dynamics 365 for Sales helps the sales team at [!DNL Contoso] to close deals faster and take better advantage of opportunities with a single customer view and integrated signing process. |
+| September 2023 | Acrobat Sign | [Microsoft Dynamics 365 for Field Service](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/dynamics-field-service.html?lang=en) | Video | Learn how a field service dispatcher and technician use [!DNL Acrobat Sign], [!DNL Power Automate], and [!DNL Dynamics 365] to streamline field service engagements. |
 
 {style="table-layout:auto"}
 
@@ -830,3 +808,7 @@ See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com
 ## ![Icon](/assets/experience-league.png) Digital Experience Blueprints {#blueprints}
 
 [Digital Experience Blueprints](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html) are repeatable implementations that let you address strategy and quickly solve established business problems. Each Blueprint provides a series of artifacts that explain the high-value business problem, architectures, implementation steps, technical considerations, and links to the relevant documentation.
+
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|September 2023|[Experience Cloud architecture diagrams](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/architecture-overview/experience-cloud.html)|Article |Learn how Experience Cloud applications, application services, and Experience Platform fit into an enterprise marketing architecture.|
