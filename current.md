@@ -70,7 +70,7 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 +++Upcoming events on Experience League
 
-* **[!DNL JOURNEY OPTIMIZER]** | Webinar | Community Q&A Coffee Break with Adobe Journey Optimizer experts Siddharth Jain, Chetan Prasad & Nikhil Sharma_ | **August 30 @ 8:00 AM pT** | [Register](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-august-30th-with-adobe-journey/ev-p/612867)
+* **[!DNL JOURNEY OPTIMIZER]** | Webinar | _Community Q&A Coffee Break with Adobe Journey Optimizer experts Siddharth Jain, Chetan Prasad & Nikhil Sharma_ | **August 30 @ 8:00 AM pT** | [Register](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-august-30th-with-adobe-journey/ev-p/612867)
 
 * **[!DNL EXPERIENCE CLOUD]** | Webinar | _The Perfect Blend: Marketo + Workfront_ | **August 31 @ 1:00 PM ET** | [Register](https://register.gotowebinar.com/register/1243658035029822043?source=ExL)
 
