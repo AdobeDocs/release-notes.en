@@ -711,7 +711,7 @@ New [!DNL Workfront] tutorials on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|September 2023|[What's new in Workfront tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en#what%E2%80%99s-new%3F)|Videos |View the latest tutorials released in the past month.|
+|September 2023|[What's new in Workfront tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en#what%E2%80%99s-new%3F)|Multiple videos |View the latest tutorials released in the past month.|
 
 {style="table-layout:auto"}
 
@@ -788,14 +788,6 @@ For [!DNL Document Cloud] tutorials, see:
 New videos, tutorials, or courses published for [!DNL Creative Cloud] for enterprise.
 
 +++Details
-
-| Published | Name | Type | Description |
-| ----------| ---------- | ---------- |---------- |
-| August 2023 | [Create graphic content for blogs with Firefly](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-blog-graphics.html) | Video | Learn how to use Text to Image, powered by Adobe Firefly, in Adobe Express to create unique graphic content for a blog. |
-| August 2023 | [Create recruiting and on-boarding content with Firefly](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-on-boarding.html) | Video | Learn how to use Text to Image, powered by Adobe Firefly, in Adobe Express to create unique graphics for employee recruiting and on-boarding content. |
-| August 2023 | [Create flyer content for marketing campaign with Firefly](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-local-marketing.html) | Video | Learn how to use Text to Image, powered by Adobe Firefly, in Adobe Express to create localized content from a global hotel marketing campaign. |
-
-{style="table-layout:auto"} 
 
 See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html) for the latest tutorials.
 
