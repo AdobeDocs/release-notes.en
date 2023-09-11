@@ -27,7 +27,7 @@ Sign in to [Experience League](https://experienceleague.adobe.com/#home) and cus
 ## Product release updates and events
 
 
-Latest update: **September 8, 2023**
+Latest update: **September 11, 2023**
 
 
 * [[!DNL Experience League] events and updates](#events)
@@ -770,6 +770,7 @@ New tutorials and courses published for [!DNL Document Cloud], including [!DNL A
 
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
+| September 2023| Acrobat Sign | [Sign documents on the go](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/mobile/mobile-tutorials/sign-mobile.html?lang=en)|Video| Learn how to sign documents using the Acrobat Sign mobile app for iOS or Android.|
 | September 2023 | Acrobat Sign | [Microsoft&reg; Dynamics 365 for Sales](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/dynamics-sales.html) | Video | Learn how Acrobat Sign and Microsoft&reg; Dynamics 365 for Sales are used to automate the sales quote signing process. In this example, Microsoft&reg; Dynamics 365 for Sales helps the sales team at [!DNL Contoso] to close deals faster and take better advantage of opportunities with a single customer view and integrated signing process. |
 | September 2023 | Acrobat Sign | [Microsoft&reg; Dynamics 365 for Field Service](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/dynamics-field-service.html?lang=en) | Video | Learn how a field service dispatcher and technician use [!DNL Acrobat Sign], [!DNL Power Automate], and [!DNL Dynamics 365] to streamline field service engagements. |
 
