@@ -153,6 +153,7 @@ New videos, tutorials, or courses published for Adobe [!DNL Experience Platform]
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
 | September 2023 | Privacy Service | [Introduction to Privacy Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/introduction-to-privacy-services.html?lang=en) | Multiple videos | Learn about privacy regulations and their effect on data operations. Also, learn how the [!UICONTROL Privacy Service] handles these challenges. View the latest videos in the Privacy and Security section of the [!DNL Experience Platform] tutorials. |
+| September 2023 |Administration | [Configure attribute-based access control](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/configure-attribute-based-access-control.html) | Video | Learn how to configure attribute-based access control to limit access to specific [!DNL Experience Platform] resources.|
 
 {style="table-layout:auto"}
 
@@ -294,7 +295,7 @@ Adobe recommends visiting the following resources to stay updated on release inf
 
 ### Latest Release Overview video
 
-Watch the [August 2023 Release Overview video](https://video.tv.adobe.com/v/3423535/?quality=12) for a summary of the features added in the 2023.08.0 (August 2023) release.
+Watch the [August 2023 Release Overview video](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/2023/2023-8-0.html) for a summary of the features added in the 2023.08.0 (August 2023) release.
 
 ### [!DNL Experience Manager Sites] as a [!DNL Cloud Service] 
 
