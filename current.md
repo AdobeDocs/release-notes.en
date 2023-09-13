@@ -5,10 +5,11 @@ doc-type: release notes
 last-update: August 2023
 author: mfrei
 mini-toc-levels: 2
-badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
 # Experience Cloud Release Notes
+
+<!-- badgeReview: label="Internal Review" type="Negative" -->
 
 ![Banner](assets/release-notes-header.png)
 
@@ -27,7 +28,7 @@ Sign in to [Experience League](https://experienceleague.adobe.com/#home) and cus
 ## Product release updates and events
 
 
-Latest update: **September 11, 2023**
+Latest update: **September 13, 2023**
 
 
 * [[!DNL Experience League] events and updates](#events)
@@ -70,17 +71,23 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 +++Upcoming events on Experience League
 
-* **[!DNL JOURNEY OPTIMIZER]** | Webinar | _Community Q&A Coffee Break with Adobe Journey Optimizer experts Siddharth Jain, Chetan Prasad & Nikhil Sharma_ | **August 30 @ 8:00 AM pT** | [Register](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-august-30th-with-adobe-journey/ev-p/612867)
+* **[!DNL COMMERCE]** | Webinar | _Peak Season Preparation_ | **September 14 @ 1:00 PM ET** | [Register](https://register.gotowebinar.com/register/1649826426335413079?source=ExL)
 
-* **[!DNL EXPERIENCE CLOUD]** | Webinar | _The Perfect Blend: Marketo + Workfront_ | **August 31 @ 1:00 PM ET** | [Register](https://register.gotowebinar.com/register/1243658035029822043?source=ExL)
+* **[!DNL WORKFRONT]** | Q&A Chat | _Ask the Experts: Skill Exchange Grow Track_ | **September 15 @ 10:00 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,ti9YHZqvVUyqJ5ooYWQSYQ,Vc_WBSS-uEGcM_vITdto1A,QitJ7x6tM0GLC9Ahpcgblg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Community event | _Adobe Workfront Connect: Admin Chat for Marketing & Creative_ | **September 1 @ 10:00 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KBvGRYIBNkS8UYZoXhEzyg,NxN8MJvklk2hHdVSkoIQlQ,IOANuFGpiEehM82GeIib2g?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Customer workshop | _Admin 101 - Getting Started with Workfront_ | **September 19 @ 10:00 AM CT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ro1ksXUe10a6IwM8fXCIHg,-FBAvqy1W0aUZDRPXCzn3A,JaIpLTwA3E2wq1vRimwKjQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL MARKETO ENGAGE]** | Community event | _Boost Email Deliverability with [!DNL Marketo Engage]_ | **September 7 @ 8:00 AM PT** | [Register](https://engage.marketo.com/Boost_Email_Deliverability.html?utm_source=exl)
+* **[!DNL EXPERIENCE MANAGER AS A CLOUD SERVICE]** | AEM GEMS | _Harness the Power of New Relic APM for AEM as a Cloud Service_ | **September 20 @ 8:00 AM PT** | [Register](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-harness-the-power-of-new-relic-apm-for-aem-as-a-cloud-service-boost-performance-amp-issue-resolution/)
 
-* **GENERAL** | Livestream | _App Builder Live - Migrating to OAuth_ | **September 7 @ 9:00 AM PT** | [Register](https://www.eventbrite.com/e/app-builder-live-migrating-to-oauth-tickets-687485968037?aff=explg)
+* **[!DNL WORKFRONT]** | Q&A chat | _Ask Customer Panel: Benefits & Best Practices with Fusion_ | **September 26 @ 11:00 AM CT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wwMNpBFpyU6JRZ7t-hkIIQ,SV8DFIlim0ivqJp7uYE5zg,-iWPFBz0s0aNbozaOGyGsQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Customer workshop | _Learn: Making the Case for a Full-Time Sys Admin_ | **September 7 @ 12:00 PM CT** | [Register](https://engage.marketo.com/Boost_Email_Deliverability.html?utm_source=exl)
+* **[!DNL EXPERIENCE MANAGER SITES]** | Learn from your peers | _A Deep Dive into Tools in AEM Sites_ | **September 28 @ 8:00 AM PT** | [Register](https://engage.adobe.com/AEM_Tools_Deep_Dive_Registration.html?utm_source=ExL)
+
+* **[!DNL WORKFRONT]** | Learn from your peers | _A Deep Dive into Tools in AEM Sites_ | **September 28 @ 8:00 AM PT** | [Register](https://engage.adobe.com/AEM_Tools_Deep_Dive_Registration.html?utm_source=ExL)
+
+* **[!DNL WORKFRONT]** | Community event | _Connect: Admin Chat for Marketing & Creative_ | **October 6 @ 10:00 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,GEPFgV3sAkazC0HNeX4Qiw,MfXhfQkRaEeNxpVhAjrevw,etCOBCAjk0iAVD0DNRskXQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | Customer workshop | _Admin 101: Getting Your Users to Use Workfront_ | **October 17 @ 9:00 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,omfk3au070S9BM8uw0Q-eQ,hQB5-0lLTEqbiy3szpaQ7Q,IAorw9UUG0Kzb9zZNhCeEA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [event recordings](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html). You can now use the left-hand navigation to look for recorded events based on series type or application.
 
@@ -144,7 +151,7 @@ New videos, tutorials, or courses published for Adobe [!DNL Experience Platform]
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| September 2023 | Privacy Service | [Introduction to Privacy Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/introduction-to-privacy-services.html?lang=en) | Multiple videos | Learn about privacy regulations and their effect on data operations. Also, learn how [!UICONTROL Privacy Service] handles these challenges. View the latest videos in the Privacy and Security section of the [!DNL Experience Platform] tutorials. |
+| September 2023 | Privacy Service | [Introduction to Privacy Service](https://experienceleague.adobe.com/docs/platform-learn/tutorials/privacy/introduction-to-privacy-services.html?lang=en) | Multiple videos | Learn about privacy regulations and their effect on data operations. Also, learn how the [!UICONTROL Privacy Service] handles these challenges. View the latest videos in the Privacy and Security section of the [!DNL Experience Platform] tutorials. |
 
 {style="table-layout:auto"}
 
@@ -245,7 +252,7 @@ Updates and new content for [!DNL Audience Manager].
 +++Details
 
 Beginning in July 2023, Adobe has discontinued the development of the [!DNL Data Integration Library (DIL)] and the [!DNL DIL] extension.
-Existing customers can continue using their [!DNL DIL] implementation. However, Adobe will not be developing [!DNL DIL] beyond this point. Customers are encouraged to evaluate [Experience Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=en) for their long-term data collection strategy. Customers looking to implement new data collection integrations after July 2023 should use [Experience Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=en) instead.
+Existing customers can continue using their [!DNL DIL] implementation. However, Adobe is not developing [!DNL DIL] beyond this point. Customers are encouraged to evaluate the [Experience Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=en) for their long-term data collection strategy. Customers looking to implement new data collection integrations after July 2023 should use [Experience Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=en) instead.
 
 +++
 
@@ -315,7 +322,7 @@ _New features in Assets view_
 
 * **Bulk import assets from data sources** &ndash; Administrators can now [import many assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/bulk-import-assets-view.html?lang=en) from a data source to AEM Assets. The administrators do not need to upload individual assets or folders to AEM Assets anymore. The supported data sources for bulk import include Azure, AWS, Google Cloud, and Dropbox.
 * **Image editing tools powered by Adobe Express** &ndash; Easy and intuitive [image editing tools powered by Adobe Express](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/edit-images-assets-view.html?lang=en) available directly within AEM Assets to increase content reuse and accelerate content velocity.
-* **Flexibility while pinning items for My Workspace Quick Access** &ndash; The ability to select and pin items for you, for your entire organization, or for a list of groups so that they display in the [Quick Access section of My Workspace](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/my-workspace-assets-view.html?lang=en) based on your selection.
+* **Flexibility while pinning items for My Workspace Quick Access** &ndash; The ability to select and pin items for your organization or for a list of groups so that they display in the [Quick Access section of My Workspace](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/my-workspace-assets-view.html?lang=en).
 
 _New features in Admin view_
 
@@ -337,7 +344,7 @@ _New features in prerelease channel_
 
 * **Adobe Analytics with Experience Cloud Setup Automation for Forms** &ndash; You can now enable Adobe Analytics with Experience Cloud Setup Automation with a flip of a couple of buttons. It enables you to connect [!DNL AEM Forms as a Cloud Service] with Experience Platform tags and Adobe Analytics to capture and track performance metrics for your published forms.
 * **Adobe Analytics report template for Adaptive Forms** &ndash; [!DNL Forms as a Cloud Service] now provides an Adobe Analytics report out-of-the-box. It helps you easily understand the performance of your forms. The form-level metrics provide you with an insight into how the form is performing on multiple key performance indicators (KPIs) like renditions, visitors, submissions, and average fill time. By tracking user behavior and feedback, you can identify areas of the form that are causing confusion and guide improvements to the form's design and functionality.
-* [Form Fragment in Adaptive Forms based on Core Components](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/adaptive-form-fragments-core-components.html?lang=en) &ndash; Say goodbye to duplication, optimize your digital inventory, and improve collaboration as you elevate your form-building experience with [!UICONTROL Form Fragments]. These reusable components seamlessly integrate into multiple forms, streamlining the creation of consistent and professional-looking forms. [!UICONTROL Form Fragments] ensure reusability, standardization, and brand consistency through _change once and reflect everywhere_ functionality. Experience greater maintainability and efficiency as updates made in one place are automatically propagated across all forms that use these fragments.
+* [[!UICONTROL Form Fragments] in [!UICONTROL Adaptive Forms] based on Core Components](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/adaptive-form-fragments-core-components.html?lang=en) &ndash; Say goodbye to duplication, optimize your digital inventory, and improve collaboration as you elevate your form-building experience with [!UICONTROL Form Fragments]. These reusable components seamlessly integrate into multiple forms, streamlining the creation of consistent and professional-looking forms. [!UICONTROL Form Fragments] ensure reusability, standardization, and brand consistency through _change once and reflect everywhere_ functionality. Experience greater maintainability and efficiency as updates made in one place are automatically propagated across all forms that use these fragments.
 * [Enhanced Acrobat Sign Workflow step](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-form-centric-workflows/aem-forms-workflow-step-reference.html?lang=en#sign-document-step-sign-document-step) &ndash; The [!DNL Acrobat Sign] Workflow step is enhanced to include the following:
 
   * **Government ID-Based Authentication for Acrobat Sign** &ndash; Acrobat Sign Government ID-Based Authentication offers an additional layer of verification by enabling users to authenticate their identity using government-issued IDs (driver's license, national ID, passport). By using trusted identification documents, this enhancement adds an extra level of confidence to the signing process, making it ideal for scenarios that require heightened security, compliance, and user validation.
@@ -432,7 +439,7 @@ _Release highlights_
 
 _Known issues_
 
-* While configuring project linked folders with AEM 6.4, [!DNL Experience Manager] does not save the values for **sub-folders** and **Create linked folder in projects with portfolio** fields. The value for the **sub-folders** field updates to **undefined**. The value for the **Create linked folder in projects with portfolio** field updates to **Default Portfolio** automatically after saving the configuration.
+* While configuring project linked folders with AEM 6.4, [!DNL Experience Manager] does not save the values for **subfolders** and **Create linked folder in projects with portfolio** fields. The value for the **subfolders** field updates to **undefined**. The value for the **Create linked folder in projects with portfolio** field updates to **Default Portfolio** automatically after saving the configuration.
 * When you use the classic Workfront experience, the **Send to** option available in the **More** drop-down list does not let you select the target destination within Experience Manager. The **Send to** option works correctly using the **Document Actions** drop-down list. The **Send to** option works correctly for **More** drop-down list and the **Document Actions** drop-down list available in the new Workfront experience.
 
 ### Community
@@ -485,7 +492,7 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 |---------|--------|---------|---------|
 | August 2023 |[Unable to select [!DNL Adobe Target] as the Cloud solution for an [!DNL IMS] configuration](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22693.html)|New article| Learn the solution to returning an error when attempting to create an [!DNL Adobe Target IMS] configuration to integrate [!DNL AEM] with [!DNL Adobe Target].|
 | August 2023 |[[!DNL Adobe Experience Manager]: How to enable the Search bar in Select Image of Page Thumbnail](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22690.html)|New article| Learn how to enable the Search bar in Select Image of Page Thumbnail.|
-| August 2023 |[[!DNL Adobe Experience Manager Forms]: How to change [!DNL JBoss&reg;] log path?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22689.html)|New article| Learn how to change the [!DNL JBoss] log path on [!DNL AEM Forms] in a [!DNL Windows Server] environment.|
+| August 2023 |[[!DNL Adobe Experience Manager Forms]: How to change [!DNL JBoss&reg;] log path?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22689.html)|New article| Learn how to change the [!DNL JBoss&reg;] log path on [!DNL AEM Forms] in a [!DNL Windows Server] environment.|
 | August 2023 |[Content not unpublished from Preview after deletion on Author](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22685.html)|New article| Learn the workaround to when a page which has been previously published to preview is then deleted without deactivating it from preview first; it won't be deleted from preview.|
 | August 2023 |[Thumbnail is black on uploaded mp4 video assets](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22671.html)|New article| Learn the workaround after uploading mp4 files; the generated thumbnails are black.|
 | August 2023 |[[!DNL GraphQL API] in [!DNL AEMaaCS] is not extensible](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22619.html)|New article| Learn information about the [!DNL GraphQL API] in [!DNL AEMaaCS] is not extensible.|
@@ -554,7 +561,7 @@ New articles and updates to existing articles for Adobe Commerce.
 | August 2023 |[[!DNL USPS Ground Advantage] shipping method support hotfix for [!DNL AC-9182]](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/usps-ground-advantage-shipping-method-support-hotfix-for-ac-9182.html)|New articles| Learn about a patch to resolve the issue [!DNL AC-9182] for the new [!DNL USPS Ground Advantage] shipping method in Adobe Commerce 2.4.4 - 2.4.6-p2.|
 | August 2023 |[_[!DNL Error opensearch search engine doesn't exist. Falling back to livesearch.]_](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/error-opensearch-search-engine-doesnt-exist-falling-back-to-livesearch.html)|New articles| Learn the solution for the issue where you see the error: _[!DNL Error: opensearch search engine doesn't exist. Falling back to livesearch.]_ in Adobe Commerce on cloud infrastructure where [!DNL Live Search] is used.|
 | August 2023 |[[!DNL JQuery UI] security vulnerability [!DNL CVE-2022-31160] fix for 2.4.4, 2.4.5, and 2.4.6 releases](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/jquery-cve-2022-31160-fix-2.4.4-2.4.5-2.4.6.html)|New articles| Learn the information about a security vulnerability [!DNL CVE-2022-31160] reported for [!DNL jQuery-UI] library version 1.13.1 which is used as a dependency in Adobe Commerce 2.4.4, 2.4.5, and 2.4.6.|
-| August 2023 |[Reduce expired _[!DNL oauth_tokens]_ before 2.4.6 upgrade](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/installation-and-upgrade/reduce-expired-oauth-tokens-before-2.4.6-upgrade.html)|New articles| Learn about a solution to the issue where you see a large number of *[!DNL oauth_tokens]* in your *[!DNL oauth_token]* table, which can cause a long delay in upgrading to version 2.4.6.|
+| August 2023 |[Reduce expired _[!DNL oauth_tokens]_ before 2.4.6 upgrade](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/installation-and-upgrade/reduce-expired-oauth-tokens-before-2.4.6-upgrade.html)|New articles| Learn about a solution to the issue where you see many *[!DNL oauth_tokens]* in your *[!DNL oauth_token]* table, which can cause a long delay in upgrading to version 2.4.6.|
 | August 2023 |[Deployment errors when committing incorrect files](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/deployment/deployment-error-when-committing-incorrect-files.html)|New articles| Learn the solution for the issue when getting deployment errors that are caused by incorrect commits to the repository of files/folders that shouldn't have been added.|
 | August 2023 |[Adobe Commerce 2024 release schedule](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/2024-release-schedule.html)|New articles| Learn about our updated 2023 release strategy to expand the support window, provide more security updates, and accelerate innovation adoption.|
 | August 2023 |[[!DNL Admin] login not working - allowed session max size exceeded](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/admin-login-not-working-allowed-session-max-size-exceed.html)|New articles| Learn the solution for when you try to log in to your [!DNL Admin] panel but the form just refreshes and you are unable to log in.|
@@ -786,7 +793,7 @@ For [!DNL Document Cloud] tutorials, see:
 
 ## ![Icon](/assets/creative-cloud-24.png) [!DNL Creative Cloud] for enterprise {#creative-cloud}
 
-New videos, tutorials, or courses published for [!DNL Creative Cloud] for enterprise.
+New videos, tutorials, or courses published for [!DNL Creative Cloud for enterprise].
 
 +++Details
 
