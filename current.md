@@ -63,8 +63,8 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 |Published|Application|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-|Summer 2023|Experience Cloud|[Integration tutorials home for Experience Cloud applications](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/overview.html)|Videos| Learn about the most common Experience Cloud application integrations. Browse integration tutorials by [solution](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/overview.html?lang=en) or [application](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/integrations-between-applications/overview.html?lang=en). This content is updated often, so check back frequently.|
 |September 2023 | Experience Cloud |Customer Success Webinar |[Setting an Effective Audience Activation Strategy](https://experienceleague.adobe.com/docs/events/adobe-customer-success-webinar-recordings/2023/audience-activation.html?lang=en) |This session covers the importance of a Data Management Strategy, Adobe Audience Manager Overview & Capabilities, Adobe Audience Manager Use Cases, Action Plan for Setting Up a Data Management Strategy|
+|Summer 2023|Experience Cloud|[Integration tutorials home for Experience Cloud applications](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/overview.html)|Videos| Learn about the most common Experience Cloud application integrations. Browse integration tutorials by [solution](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/overview.html?lang=en) or [application](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/integrations-between-applications/overview.html?lang=en). This content is updated often, so check back frequently.|
 
 {style="table-layout:auto"}
 
