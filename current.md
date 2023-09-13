@@ -190,7 +190,7 @@ The September release notes cover the release period of September 13, 2023 to Oc
 
 ## New features or enhancements {#features}
 
-| Feature | Description | [Rollout starts](releases.md) | [General Availability](releases.md) |
+| Feature | Description | [Rollout starts](https://experienceleague.adobe.com/docs/analytics/release-notes/releases.html) | [General Availability](https://experienceleague.adobe.com/docs/analytics/release-notes/releases.html) |
 | ----------- | ---------- | ------- | ---- |
 | **Classifications in API 2.0** |  Provides Adobe Analytics API 2.0 methods for saving, deleting, retrieving, importing, and exporting classification set data. [Learn more](https://developer.adobe.com/analytics-apis/docs/2.0/guides/endpoints/classifications/) | N/A | September 13, 2023 |
 | **Support for new `correlationID` field for A4T classifications** | The `_experience.decisioning.propositions.scopeDetails.correlationID` field is now available in the Adobe Analytics source connector schema. We are adding this ID for easy joining of classification data for Adobe Target activities and experience events. | N/A | September 13, 2023 |
@@ -231,7 +231,7 @@ For the latest updates on AppMeasurement releases (Version 2.24.0), please refer
 
 ## Related resources
 
-* [Previous release notes for 2022](/help/release-notes/2022.md)
+* [Previous release notes for 2022](https://experienceleague.adobe.com/docs/analytics/release-notes/previous/2022.html?lang=en)
 * [Customer Journey Analytics release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html)
 * [Media Analytics release notes](https://experienceleague.adobe.com/docs/media-analytics/using/additional-resources/release-notes.html)
 * The latest release updates for [Adobe Experience Cloud products](https://business.adobe.com/products/adobe-experience-cloud-products.html)
