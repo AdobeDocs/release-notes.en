@@ -27,7 +27,6 @@ Sign in to [Experience League](https://experienceleague.adobe.com/#home) and cus
 
 ## Product release updates and events
 
-
 Latest update: **September 13, 2023**
 
 * [[!DNL Experience League] events and updates](#events)
