@@ -768,6 +768,12 @@ See [What's New in [!DNL Advertising Search, Social, & Commerce]](https://experi
 
 ## ![Icon](/assets/pass.png) [!DNL Adobe Pass] {#pass}
 
+[!DNL Adobe Pass] is a multi-screen TV platform that helps broadcasters, cable networks, and service providers create and monetize engaging, personalized viewing experiences.
+
+>[!NOTE]
+>
+>_[!DNL Adobe Primetime]_ is now _[!DNL Adobe Pass]_.
+
 See [Adobe Pass Release Notes](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html) to find release-specific information, system requirements, limitations, fixed issues, and known issues.
 
 ## ![Icon](/assets/document-cloud-24.png) [!DNL Document Cloud] {#doc-cloud}
