@@ -27,7 +27,7 @@ Sign in to [Experience League](https://experienceleague.adobe.com/#home) and cus
 
 ## Product release updates and events
 
-Latest update: **September 13, 2023**
+Latest update: **September 18, 2023**
 
 * [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
@@ -35,7 +35,7 @@ Latest update: **September 13, 2023**
 * [[!DNL Experience Cloud] interface and administration](#ecloud)
 * [[!DNL Experience Platform]](#platform)
 * [[!DNL Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) **(September 13 release)**
+* [[!DNL Adobe Analytics]](#analytics)
 * [[!DNL Customer Journey Analytics]](#cja)
 * [[!DNL Streaming Media Analytics]](#sma)
 * [[!DNL Audience Manager]](#aam)
@@ -49,7 +49,7 @@ Latest update: **September 13, 2023**
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
 * [[!DNL Adobe Advertising]](#advertising)
-* [[!DNL Adobe Pass]](#pass)
+* [[!DNL Adobe Pass]](#pass) (formerly [!DNL Adobe Primetime])
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)
 * [Customer Data Management - Voices](#voices)
@@ -70,10 +70,6 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 ### Events on Experience League
 
 +++Upcoming events on Experience League
-
-* **[!DNL COMMERCE]** | Webinar | _Peak Season Preparation_ | **September 14 @ 1:00 PM ET** | [Register](https://register.gotowebinar.com/register/1649826426335413079?source=ExL)
-
-* **[!DNL WORKFRONT]** | Q&A Chat | _Ask the Experts: Skill Exchange Grow Track_ | **September 15 @ 10:00 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,ti9YHZqvVUyqJ5ooYWQSYQ,Vc_WBSS-uEGcM_vITdto1A,QitJ7x6tM0GLC9Ahpcgblg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Customer workshop | _Admin 101 - Getting Started with Workfront_ | **September 19 @ 10:00 AM CT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,ro1ksXUe10a6IwM8fXCIHg,-FBAvqy1W0aUZDRPXCzn3A,JaIpLTwA3E2wq1vRimwKjQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
