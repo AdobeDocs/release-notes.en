@@ -49,6 +49,7 @@ Latest update: **September 13, 2023**
 * [[!DNL Marketo Engage]](#marketo)
 * [[!DNL Workfront]](#workfront)
 * [[!DNL Adobe Advertising]](#advertising)
+* [[!DNL Adobe Pass]](#pass)
 * [[!DNL Document Cloud]](#doc-cloud)
 * [[!DNL Creative Cloud for enterprise]](#creative-cloud)
 * [Customer Data Management - Voices](#voices)
@@ -764,6 +765,10 @@ See [What's New in [!DNL Advertising DSP]](https://experienceleague.adobe.com/do
 See [What's New in [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/docs/advertising/search-social-commerce/home.html)
 
 +++
+
+## ![Icon](/assets/pass.png) [!DNL Adobe Pass] {#pass}
+
+See [Adobe Pass Release Notes](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html) to find release-specific information, system requirements, limitations, fixed issues, and known issues.
 
 ## ![Icon](/assets/document-cloud-24.png) [!DNL Document Cloud] {#doc-cloud}
 
