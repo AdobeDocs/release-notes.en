@@ -154,6 +154,17 @@ New videos, tutorials, or courses published for Adobe [!DNL Experience Platform]
 
 {style="table-layout:auto"}
 
+### [!DNL Experience Platform] support knowledge base{#kb-aep}
+
+New articles and updates to existing articles for [!DNL Experience Platform].
+
+|Published|Name|Type|Description|
+|---------|--------|---------|---------|
+|September 2023|[AEP - Compose Audience is read-only - What permissions do we need?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22841.html)|New article| Learn what permissions you need to select when accessing the [!UICONTROL Audiences] section to compose a new audience.|
+|September 2023|[[!UICONTROL Target Traces] does not appear in Adobe Experience Platform Debugger](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22635.html)|New article| Learn the solution for the issue where [!UICONTROL Target Traces] tab does not appear in Adobe Experience Platform Debugger.|
+
+{style="table-layout:auto"}
+
 +++
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Real-Time Customer Data Platform] {#rtcdp}
@@ -203,10 +214,16 @@ New video tutorials, articles, and courses published for Adobe [!DNL Analytics].
 |September 2023|[Link inside or outside of your project](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/linking-inside-or-outside-of-your-project.html)|Video |Learn how to create internal or external links in your [!UICONTROL Analysis Workspace] project.|
 |September 2023|[Use dimensions in calculated metrics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/calculated-metrics/using-dimensions-in-calculated-metrics.html)|Updated video |Learn about using dimensions in [!UICONTROL calculated metric] builder. They can be added to any [!UICONTROL calculated metric] formula to limit the new metric to a dimension or dimension value.|
 
-<!-- ### Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
+### Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
 
 New articles and updates to existing articles for [!DNL Analytics].
- -->
+
+|Published|Name|Type|Description|
+|---------|--------|---------|---------|
+|September 2023|[Unable to send Adobe Analytics data via Flutter AEP Core Libraries](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22809.html)|New article| Learn the resolution for the issues in sending the data in Adobe Analytics via Flutter AEP Core Libraries (Mobile SDK) using trackAction/trackState API.|
+|September 2023|[Cannot see Server Call Usage](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22784.html)|New article| Learn the solution for the issue where you are not seeing the [!UICONTROL Server Call Usage] dashboard.|
+
+{style="table-layout:auto"}
 
 +++
 
@@ -489,14 +506,12 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-| August 2023 |[Unable to select [!DNL Adobe Target] as the Cloud solution for an [!DNL IMS] configuration](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22693.html)|New article| Learn the solution to returning an error when attempting to create an [!DNL Adobe Target IMS] configuration to integrate [!DNL AEM] with [!DNL Adobe Target].|
-| August 2023 |[[!DNL Adobe Experience Manager]: How to enable the Search bar in Select Image of Page Thumbnail](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22690.html)|New article| Learn how to enable the Search bar in Select Image of Page Thumbnail.|
-| August 2023 |[[!DNL Adobe Experience Manager Forms]: How to change [!DNL JBoss&reg;] log path?](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22689.html)|New article| Learn how to change the [!DNL JBoss&reg;] log path on [!DNL AEM Forms] in a [!DNL Windows Server] environment.|
-| August 2023 |[Content not unpublished from Preview after deletion on Author](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22685.html)|New article| Learn the workaround to when a page which has been previously published to preview is then deleted without deactivating it from preview first; it won't be deleted from preview.|
-| August 2023 |[Thumbnail is black on uploaded mp4 video assets](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22671.html)|New article| Learn the workaround after uploading mp4 files; the generated thumbnails are black.|
-| August 2023 |[[!DNL GraphQL API] in [!DNL AEMaaCS] is not extensible](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22619.html)|New article| Learn information about the [!DNL GraphQL API] in [!DNL AEMaaCS] is not extensible.|
-| August 2023 |[[!DNL AEM GraphQL] configuration issues](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22615.html)|New article| Learn how the configuration when developing a website that should retrieve data from its [!DNL AEM] instances using [!DNL AEM] headless solution.|
-| August 2023 |[Absence of the production instance in [!DNL New Relic]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22582.html)|New article| Learn the solution to the production instance not appearing in the application monitoring service *[!DNL New Relic]*.|
+|September 2023|[Manual Translation Job stuck with status "In progress"](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22846.html)|New article| Learn the solution when a translation job is stuck in *In progress* after importing its translated content.|
+|September 2023|[Permissions disappear unexpectedly in AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22839.html)|New article| Learn the solution for the issue where permissions disappear unexpectedly in AEM as a Cloud Service.|
+|September 2023|[How to delete a remaining node on Publish/Preview](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22828.html)|New article| Learn how to delete a remaining node on [Publish/Preview] in [!DNL AEM as a Cloud Service].|
+|September 2023|[SSL certificates getting reverted after switching over the author manually](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22814.html)|New article| Learn how to fix SSL Certificates getting reverted after switching over the author manually.|
+|September 2023|[Unable to load DAM assets console in Author](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22786.html)|New article| Learn the solution for the issue where while trying to access the assets AEM console using `/assets.html/content/dam`, the screen is blank.|
+|September 2023|[*Smart Trainings* for custom tags are failing](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22781.html)|New article| Learn the solution for the issue where *Smart Trainings* for custom tags are failing.|
 
 {style="table-layout:auto"}
 
@@ -556,14 +571,11 @@ New articles and updates to existing articles for Adobe Commerce.
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-| August 2023 |[[!DNL Quality Patches Tool (QPT)]](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles| New articles on how to apply patches available in [!DNL QPT] 1.1.34, [!DNL QPT] 1.1.35, and [!DNL QPT] 1.1.36 were published and can be found in their respective sections.|
-| August 2023 |[[!DNL USPS Ground Advantage] shipping method support hotfix for [!DNL AC-9182]](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/usps-ground-advantage-shipping-method-support-hotfix-for-ac-9182.html)|New articles| Learn about a patch to resolve the issue [!DNL AC-9182] for the new [!DNL USPS Ground Advantage] shipping method in Adobe Commerce 2.4.4 - 2.4.6-p2.|
-| August 2023 |[_[!DNL Error opensearch search engine doesn't exist. Falling back to livesearch.]_](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/error-opensearch-search-engine-doesnt-exist-falling-back-to-livesearch.html)|New articles| Learn the solution for the issue where you see the error: _[!DNL Error: opensearch search engine doesn't exist. Falling back to livesearch.]_ in Adobe Commerce on cloud infrastructure where [!DNL Live Search] is used.|
-| August 2023 |[[!DNL JQuery UI] security vulnerability [!DNL CVE-2022-31160] fix for 2.4.4, 2.4.5, and 2.4.6 releases](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/jquery-cve-2022-31160-fix-2.4.4-2.4.5-2.4.6.html)|New articles| Learn the information about a security vulnerability [!DNL CVE-2022-31160] reported for [!DNL jQuery-UI] library version 1.13.1 which is used as a dependency in Adobe Commerce 2.4.4, 2.4.5, and 2.4.6.|
-| August 2023 |[Reduce expired _[!DNL oauth_tokens]_ before 2.4.6 upgrade](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/installation-and-upgrade/reduce-expired-oauth-tokens-before-2.4.6-upgrade.html)|New articles| Learn about a solution to the issue where you see many *[!DNL oauth_tokens]* in your *[!DNL oauth_token]* table, which can cause a long delay in upgrading to version 2.4.6.|
-| August 2023 |[Deployment errors when committing incorrect files](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/deployment/deployment-error-when-committing-incorrect-files.html)|New articles| Learn the solution for the issue when getting deployment errors that are caused by incorrect commits to the repository of files/folders that shouldn't have been added.|
-| August 2023 |[Adobe Commerce 2024 release schedule](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/2024-release-schedule.html)|New articles| Learn about our updated 2023 release strategy to expand the support window, provide more security updates, and accelerate innovation adoption.|
-| August 2023 |[[!DNL Admin] login not working - allowed session max size exceeded](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/admin-login-not-working-allowed-session-max-size-exceed.html)|New articles| Learn the solution for when you try to log in to your [!DNL Admin] panel but the form just refreshes and you are unable to log in.|
+|September 2023|[Quality Patches Tool (QPT)](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles| New articles on how to apply patches available in QPT 1.1.36 and QPT 1.1.37 were published and can be found in their respective sections.|
+|September 2023|[UPS shipping method integration migration from SOAP to RESTful API](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/ups-shipping-method-integration-migration-from-soap-to-restful-api.html)|New articles| This article provides a patch to resolve issues with the United Parcel Service (UPS) shipping method integration migration from SOAP to RESTful API for Adobe Commerce 2.4.4 - 2.4.6-pX.|
+|September 2023|[Configuring Adobe Commerce Intelligence connection for existing Cloud Starter projects](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/configure-mbi-connection-for-cloud-starter-projects.html)|New articles| Learn the solution for when you want to configure Adobe Commerce Intelligence connection for an existing Cloud Starter project.|
+|September 2023|[Vulnerabilities found by third-party security scans should go to HackerOne](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/third-party-test-reports-are-handled-by-hackerone.html)|New articles| Learn the solution to address vulnerabilities found by third-party security scans.|
+|September 2023|[Admin login not working - allowed session max size exceeded](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/admin-login-not-working-allowed-session-max-size-exceed.html)|New articles| Learn the solution for when you try to log in to your Admin panel but the form just refreshes and you are unable to log in.|
 
 {style="table-layout:auto"}
 
@@ -609,12 +621,11 @@ New articles and updates to existing articles for [!DNL Campaign].
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-| August 2023 |[[!DNL Error: "URL-140005 Unable to decode URLs of schema ' https'. Not implemented"]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22594.html)|New article| Learn the solution to getting an error when logging into an [!DNL ACC (Adobe Campaign Classic)] account.|
-| August 2023 |[[!DNL Adobe Campaign Classic: 'Feedback_loop_'] bounce for failed email deliveries](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22531.html)|New article| Learn the solution to [!DNL 'Feedback_loop_'] bounce for failed email deliveries.|
-| August 2023 |[Error sending deliveries to recipients not in database](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22570.html)|New article| Learn the workaround for when attempting to send deliveries tManual copy of database snapshot recipients that aren't stored in the database ([!DNL DB]) via an external file, an error is thrown during delivery preparation.|
-| August 2023 |[Manual copy of database snapshot](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22530.html)|New article| Learn how to create a manual copy of a database snapshot.|
-| August 2023 |[Admin users not notified of errors in [!DNL OOTB ffdaReplicateStagingData] workflow](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22525.html)|New article| Learn the solution to when as an Admin user, you are not notified when there are errors in the [!DNL OOTB ffdaReplicateStagingData] workflow.|
-| August 2023 |[[!DNL Campaign Classic]: error enriching [!DNL BigQuery] data](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22687.html)|New article| Learn the solution to when you create a workflow that reads data from a [!DNL BigQuery] view, then add an enrichment activity to enrich the data with an [!DNL ACC] table, and running the workflow throws an error.|
+|September 2023|[Maximum number of SMS sent in a day](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22848.html)|New article| Learn how to check the maximum limit of SMS that can be sent in a day.|
+|September 2023|[Change in the OOTB Schema service "Name" field](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22857.html)|New article| Learn why the *[!UICONTROL Name]* field is changed in the Out-of-the-box (OOTB) Schema.|
+|September 2023|[Registration token isn't stored in nms:appSubscriptionRcp table](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22844.html)|New article| Learn the solution to when the registration token is not getting stored in the `nms:appSubscriptionRcp` table.|
+|September 2023|[Branding of WebApps URLs in Campaign Classic](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22750.html)|New article| Learn the solution to the question whether a URL can be modified/personalized to have a particular company's name instead of Adobe servers, while still being hosted by Adobe servers.|
+|September 2023|[Unknown field error by *Update data* activity](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22755.html)|New article| Learn the solution for the issue where an error is thrown by the *Update data* activity when running a workflow.|
 
 {style="table-layout:auto"}
 
@@ -727,7 +738,8 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 |Published|Name|Type|Description|
 | -----------| ---------- | ---------- | ---------- |
-| August 2023 |[Cannot add a new version to a proof](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22747.html)|New article| Learn the solution to when an error occurs when trying to upload a new version of a proof to an existing proof.|
+|September 2023|["Whoops" error when loading a list of tasks or projects](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22882.html)|New article| Learn how to resolve the error message *Whoops. Something went wrong*, when loading a list of tasks or projects.|
+|September 2023|[Request queue becomes unpublished](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22753.html)|New article| Learn the solution for the issue where a request queue in Adobe Workfront becomes unpublished.|
 
 {style="table-layout:auto"}
 
