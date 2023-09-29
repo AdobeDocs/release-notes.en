@@ -258,11 +258,17 @@ New videos, tutorials, or courses published for [!DNL Customer Journey Analytics
 
 ## ![Icon](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
+Find the latest release information for [!DNL Streaming Media Analytics]. View new tutorials and courses on Experience League.
+
++++Details
+
 [!DNL Analytics] release date: **October 4, 2023**
 
 * [!DNL Streaming Media Analytics] [release notes](https://experienceleague.adobe.com/docs/media-analytics/using/release-notes/release-notes.html)
 
 * [!DNL Streaming Media Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html)
+
++++
 
 ## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
 
