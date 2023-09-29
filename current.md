@@ -430,7 +430,7 @@ Be a part of Adobe's early adopter program and have a chance to test some upcomi
   * Availability of the early adopter program of this feature is limited.
   * This feature is for recovering accidentally deleted content and is not intended for disaster recovery.
 
-* **Experience Audit Dashboard** &ndash; [The Cloud Manager Experience Audit dashboard]() includes a trended view of your page performance scores along with insights and recommendations to help you improve them. Experience Audit is included as a step in the Cloud Manager production pipeline.
+* **Experience Audit Dashboard** &ndash; [The Cloud Manager Experience Audit dashboard](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/experience-audit-dashboard.html) includes a trended view of your page performance scores along with insights and recommendations to help you improve them. Experience Audit is included as a step in the Cloud Manager production pipeline.
 
   The dashboard uses Google Lighthouse, an open-source, automated tool for improving the quality of your web apps. You can run it against any web page that is public, or requires authentication. It has audits for performance, accessibility, progressive web apps, SEO, and more.
 
