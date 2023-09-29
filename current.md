@@ -304,11 +304,13 @@ For self-help resources, see [Audience Manager documentation and tutorials](http
 
 ## ![Icon](/assets/aem.png) Adobe Experience Manager {#aem}
 
-New features, fixes, and updates in Experience Manager. Adobe recommends customers with On-Premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
+New features, fixes, and updates in [!DNL Experience Manager]. 
 
 +++Details
 
 ### [!DNL Experience Manager] roadmaps and release videos
+
+Adobe recommends customers with On-Premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
 
 Adobe recommends visiting the following resources to stay updated on release information:
 
