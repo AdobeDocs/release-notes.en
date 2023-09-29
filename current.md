@@ -316,13 +316,11 @@ For self-help resources, see [Audience Manager documentation and tutorials](http
 
 ## ![Icon](/assets/aem.png) Adobe Experience Manager {#aem}
 
-New features, fixes, and updates in [!DNL Experience Manager]. 
+New features, fixes, and updates in Experience Manager. Adobe recommends customers with On-Premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
 
 +++Details
 
 ### [!DNL Experience Manager] roadmaps and release videos
-
-Adobe recommends customers with On-Premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
 
 Adobe recommends visiting the following resources to stay updated on release information:
 
@@ -330,85 +328,78 @@ Adobe recommends visiting the following resources to stay updated on release inf
 * [Experience Manager as a Cloud Service release updates](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=en) - Watch feature video overviews of current and past releases of [!DNL Experience Manager as a Cloud Service].
 * [Current Release Notes for Adobe Experience Manager (AEM) as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en) - Read the latest release notes for [!DNL Experience Manager as a Cloud Service].
 
-### Latest Release Overview video
+<!-- ### Latest Release Overview video
 
-Watch the [August 2023 Release Overview video](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/2023/2023-8-0.html) for a summary of the features added in the 2023.08.0 (August 2023) release.
+Watch the [August 2023 Release Overview video](https://video.tv.adobe.com/v/3423535/?quality=12) for a summary of the features added in the 2023.08.0 (August 2023) release. -->
 
-### [!DNL Experience Manager Sites] as a [!DNL Cloud Service] 
+### Edge Delivery Services
 
-_New features_
+Edge Delivery is a new set of composable services focused on maximizing the impact of content to drive measurable business outcomes at the point of customer interaction.
 
-* The [Content Fragment Console](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/sites/administering/content-fragments/managing.html?lang=en) now allows users to view tags and search by tags applied as metadata to Content Fragments. Users no longer have to switch to the Assets user interface for this capability, reducing context switching and improving efficiency.
-
-* The new Content Fragment Editor is now available on AEM as a Cloud Service. It empowers content authors to be more productive by streamlining their authoring tasks and reducing the need to switch between different apps while editing content.
-
-The new Content Fragment editor provides the following benefits that are not available in the original editor:
-
-* Auto-saving for improved authoring efficiency and to prevent accidental loss of edits.
-* Hierarchical view of a Content Fragment and its references using the Structure tree for quick navigation within a deeply structured fragment.
-* In-line uploading of assets as content references without having to upload it to the Asset DAM first.
-* Ad-hoc preview of the rendered experience delivered by the content fragment to help authors to visualize the look and feel of the content on the frontend app.
-* 1-click publishing and unpublishing of the content fragment from the editor.
-* Viewing and navigating to language copies while editing a content fragment.
-* Viewing versions to help track the timeline of a content fragment.
-* Viewing parent references to help authors understand the impact of their edit.
-
-<!-- _New feature in prerelease channel_ -->
+[Learn more about Edge Delivery Services](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/edge-delivery/overview.html?lang=en).
 
 ### [!DNL Experience Manager Assets] as a [!DNL Cloud Service]
 
 _New features in Assets view_
 
-* **Bulk import assets from data sources** &ndash; Administrators can now [import many assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/bulk-import-assets-view.html?lang=en) from a data source to AEM Assets. The administrators do not need to upload individual assets or folders to AEM Assets anymore. The supported data sources for bulk import include Azure, AWS, Google Cloud, and Dropbox.
-* **Image editing tools powered by Adobe Express** &ndash; Easy and intuitive [image editing tools powered by Adobe Express](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/edit-images-assets-view.html?lang=en) available directly within AEM Assets to increase content reuse and accelerate content velocity.
-* **Flexibility while pinning items for My Workspace Quick Access** &ndash; The ability to select and pin items for your organization or for a list of groups so that they display in the [Quick Access section of My Workspace](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/assets-view/my-workspace-assets-view.html?lang=en).
+* **Assign metadata form to a folder** &ndash; You can now assign metadata form to a specific folder within your deployment. All assets in the folder, including assets in the subfolders, then display properties defined in the assigned metadata form.
 
 _New features in Admin view_
 
-* Administrators can now [configure the batch size of assets](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/search-assets.html?lang=en#configure-asset-batch-size) that display when you perform a search. The asset search results display in multiples of the configured batch size number when you further scroll down to load the results. You can select from the available batch sizes of 200, 500, and 1000 assets. Setting a lower batch size number results in faster search response times.
-* Experience Manager Assets now includes a new version 9 of the `damAssetLucene` index. `damAssetLucene-9` changes the behavior of Oak Query facet counting to [no longer evaluate access control on the facet counts](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/search-assets.html?lang=en) returned by the underlying search index, which results in the faster search response times.
+* **Integrate AEM Assets as a Cloud Service with document-based authoring for Edge Delivery Services** &ndash; Integrate AEM Assets with document-based authoring for Edge Delivery Services to enable website authors to [use images available in AEM Assets repositories while authoring documents in Microsoft&reg; Word or Google Docs](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/edge-delivery/using.html?lang=en#integrate-assets-edge).
+* **Extract ZIP archives** &ndash; Ability to select ZIP archives that are managed in Experience Manager and [extracting the files directly into Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets.html?lang=en#extract-zip-archives) without downloading them.
 
 _New features in prerelease channel_
 
-* **Dynamic Media** &ndash; [Support for multi-subtitles and multi-audio tracks in videos](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video.html?lang=en#about-msma). In [!DNL Dynamic Media], you can now easily add multiple subtitles and multiple audio tracks to a primary video. This capability means that your videos are accessible across a global audience. You can customize a single, published primary video to a global audience in multiple languages and adhere with accessibility guidelines for different geographical regions. Authors can also manage the subtitles and audio tracks from a single tab in the user interface.
-* **Assets** &ndash; Ability to select ZIP archives that are managed in Experience Manager and [extracting the files directly into Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/manage/manage-digital-assets.html?lang=en#extract-zip-archives) without downloading them.
+* **Dynamic Media** &ndash; [Multi-subtitle and multi-audio track support for videos in Dynamic Media](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/video.html?lang=en#about-msma). You can now easily add multiple subtitles and multiple audio tracks to a primary video. This capability means that your videos are accessible across a global audience. You can customize a single, published primary video to a global audience in multiple languages and adhere with accessibility guidelines for different geographical regions. Authors can also manage the subtitles and audio tracks from a single tab in the user interface.
+
+<!-- ### [!DNL Experience Manager Sites] as a [!DNL Cloud Service] 
+
+_New features_
+
+* 
+
+_New feature in prerelease channel_ 
+
+* -->
 
 ### [!DNL Experience Manager Forms] as a [!DNL Cloud Service]
 
 _New features_
 
 * **[Google reCAPTCHA enterprise support](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/add-components-to-an-adaptive-form/captcha-adaptive-forms.html?lang=en)** &ndash; Use Google reCAPTCHA Enterprise in an Adaptive Form to provide enhanced protection against fraudulent activity and spam, providing a safer user experience. With advanced risk analysis and seamless integration, genuine users can easily submit forms while bots are effectively blocked.
+* **[Adobe Analytics with Experience Cloud Setup Automation for Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/enable-adobe-analytics-adaptive-form-using-experience-cloud-setup-automation.html?lang=en)** &ndash; You can now enable Adobe Analytics with Experience Cloud Setup Automation with a flip of a couple of buttons. It enables you to connect AEM Forms as a Cloud Service with Experience Platform tags and Adobe Analytics to capture and track performance metrics for your published forms.
+* **[Adobe Analytics report template for Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/view-understand-aem-forms-analytics-reports.html?lang=en)** &ndash; Forms as a Cloud Service now provides an Adobe Analytics report OOTB. It helps you easily understand the performance of your forms. The form-level metrics provide you with an insight into how the form is performing on multiple key performance indicators (KPIs) like, renditions, visitors, submissions, Average fill time. By tracking user behavior and feedback, you can identify areas of the form that are causing confusion and guide improvements to the form's design and functionality.
+* **[Form Fragment in Adaptive Forms based on Core Components](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/adaptive-form-fragments-core-components.html?lang=en)** &ndash; Say goodbye to duplication, optimize your digital inventory, and improve collaboration as you elevate your form-building experience with Form Fragments. These reusable components seamlessly integrate into multiple forms, streamlining the creation of consistent and professional-looking forms. Form Fragments ensure reusability, standardization, and brand consistency through 'change once and reflect everywhere' functionality. Experience greater maintainability and efficiency as updates made in one place are automatically propagated across all forms that use these fragments.
+* **[Enhanced Adobe Sign Workflow step](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-form-centric-workflows/aem-forms-workflow-step-reference.html?lang=en#sign-document-step-sign-document-step)** &ndash; The Adobe Sign Workflow step is enhanced to include the following:
 
-_New features in prerelease channel_
-
-* **Adobe Analytics with Experience Cloud Setup Automation for Forms** &ndash; You can now enable Adobe Analytics with Experience Cloud Setup Automation with a flip of a couple of buttons. It enables you to connect [!DNL AEM Forms as a Cloud Service] with Experience Platform tags and Adobe Analytics to capture and track performance metrics for your published forms.
-* **Adobe Analytics report template for Adaptive Forms** &ndash; [!DNL Forms as a Cloud Service] now provides an Adobe Analytics report out-of-the-box. It helps you easily understand the performance of your forms. The form-level metrics provide you with an insight into how the form is performing on multiple key performance indicators (KPIs) like renditions, visitors, submissions, and average fill time. By tracking user behavior and feedback, you can identify areas of the form that are causing confusion and guide improvements to the form's design and functionality.
-* [[!UICONTROL Form Fragments] in [!UICONTROL Adaptive Forms] based on Core Components](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/adaptive-form-fragments-core-components.html?lang=en) &ndash; Say goodbye to duplication, optimize your digital inventory, and improve collaboration as you elevate your form-building experience with [!UICONTROL Form Fragments]. These reusable components seamlessly integrate into multiple forms, streamlining the creation of consistent and professional-looking forms. [!UICONTROL Form Fragments] ensure reusability, standardization, and brand consistency through _change once and reflect everywhere_ functionality. Experience greater maintainability and efficiency as updates made in one place are automatically propagated across all forms that use these fragments.
-* [Enhanced Acrobat Sign Workflow step](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-form-centric-workflows/aem-forms-workflow-step-reference.html?lang=en#sign-document-step-sign-document-step) &ndash; The [!DNL Acrobat Sign] Workflow step is enhanced to include the following:
-
-  * **Government ID-Based Authentication for Acrobat Sign** &ndash; Acrobat Sign Government ID-Based Authentication offers an additional layer of verification by enabling users to authenticate their identity using government-issued IDs (driver's license, national ID, passport). By using trusted identification documents, this enhancement adds an extra level of confidence to the signing process, making it ideal for scenarios that require heightened security, compliance, and user validation.
-  * **Audit Trail for Acrobat Sign Documents** &ndash; Use the Audit Trail feature for detailed insights into the lifecycle of your Acrobat Sign documents. With the Audit Trail, you can now maintain a comprehensive record of all actions and interactions related to your documents. This record includes details such as who viewed, edited, or signed the document, along with timestamps for each event. This record enhancement is crucial for maintaining compliance, resolving disputes, and ensuring the integrity of your digital agreements.
+  * **Government ID-Based Authentication for Adobe Sign** &ndash; Adobe Acrobat Sign's Government ID-Based Authentication offers an additional layer of verification by enabling users to authenticate their identity using government-issued IDs (driver's license, national ID, passport). By using trusted identification documents, this enhancement adds an extra level of confidence to the signing process, making it ideal for scenarios that require heightened security, compliance, and user validation.
+  * **Audit Trail for Adobe Sign Documents** &ndash; Use the Audit Trail feature for detailed insights into the lifecycle of your Adobe Sign documents. With the Audit Trail, you can now maintain a comprehensive record of all actions and interactions related to your documents. This record includes details such as who viewed, edited, or signed the document, along with timestamps for each event. This record enhancement is crucial for maintaining compliance, resolving disputes, and ensuring the integrity of your digital agreements.
   * **New roles for Agreement recipients beyond just the Signer** &ndash; Adobe Acrobat Sign now lets you expand the roles for Agreement recipients beyond just the Signer to better match their workflow requirements. When enabled, each recipient in an Agreement has their role individually configurable, with Signer being the default.
 
-* [Protect your documents with Document Assurance APIs (Part of Communication APIs)](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications-introduction.html?lang=en#document-assurance-doc-assurance) &ndash; The Document Assurance APIs empowers you to safeguard sensitive information by signing and encrypting the documents. Through encryption, the contents of a document are transformed into an unreadable format, ensuring that only authorized users can gain access. This fortified layer of protection not only shields valuable data from unauthorized eyes but also provides peace of mind. The Signature APIs let your organization protect the security and privacy of Adobe PDF documents that it distributes and receives. This service uses digital signatures and certification to ensure that only intended recipients can alter documents.
 * **Page Count Support in Communication APIs** &ndash; Now, along with retrieving your document through the Communication APIs, you can also receive the valuable information about the number of pages contained within the document.
-* [Error handling with custom error handlers in rule editor](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/add-custom-error-handler-adaptive-forms-core-components.html?lang=en) &ndash; You can now invoke a custom function in response to an error returned by an external service and provide a tailored response to end users. For example, you can invoke a custom workflow in the backend for specific error codes or inform the customer that the service is down.
+* **[Error handling with custom error handlers in rule editor](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/add-custom-error-handler-adaptive-forms-core-components.html?lang=en)** &ndash; You can now invoke a custom function in response to an error returned by an external service and provide a tailored response to end users. For example, you can invoke a custom workflow in the backend for specific error codes or inform the customer that the service is down.
+* **[64-bit Version of AEM Forms Designer](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/installing-configuring-designer.html?lang=en)** &ndash; The 64-bit version of AEM Forms Designer brings enhanced performance, scalability, and memory management to empower your form creation experience. With the 64-bit architecture, you can tackle even larger and more complex projects with ease, ensuring seamless design workflows and optimized efficiency. Elevate your form design capabilities and embrace the future of AEM Forms Designer with this cutting-edge release.
 
-### Headless Adaptive Forms early adopter program
+_Early adopter program_
 
-Use [Headless Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-headless-adaptive-forms/using/overview.html?lang=en) to let developers create, publish, and manage interactive forms that can be accessed and interacted with through APIs, rather than through a traditional graphical user interface. Headless adaptive forms help you:
+* **[Protect your documents with DocAssurance APIs (Part of Communication APIs)](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications-introduction.html?lang=en#document-assurance-doc-assurance)** &ndash; The DocAssurance APIs empower you to safeguard sensitive information by signing and encrypting the documents. Through encryption, the contents of a document are transformed into an unreadable format, ensuring that only authorized users can gain access. This fortified layer of protection not only shields valuable data from unauthorized eyes but also provides peace of mind. The Signature APIs let your organization protect the security and privacy of Adobe PDF documents that it distributes and receives. This service uses digital signatures and certification to ensure that only intended recipients can alter documents.
 
-* build high-quality multi-channel forms in the programming language of your choice
-* natively integrate forms to your desktop and mobile apps, websites, and chat applications
-* reuse your proprietary user interface components with forms applications
-* use the power of AEM Forms
+  Send an email to [aem-forms-early-adopter-program@adobe.com](mailto:aem-forms-early-adopter-program@adobe.com) from your official email id if you want to join the early adopter program.
 
-You can [send an email to aem-forms-headless@adobe.com](mailto:aem-forms-headless@adobe.com) from your official email ID to join the early adopter program.
+* **[Headless Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-headless-adaptive-forms/using/overview.html?lang=en)** &ndash; Use Headless adaptive forms to let developers create, publish, and manage interactive forms that can be accessed and interacted with through APIs, rather than through a traditional graphical user interface. Headless adaptive forms help you:
+
+  * build high-quality multi-channel forms in the programming language of your choice
+  * natively integrate forms to your desktop and mobile apps, websites, and chat applications
+  * reuse your proprietary user interface components with forms applications
+  * use the power of AEM Forms
+
+  Send an email to [aem-forms-headless@adobe.com](mailto:aem-forms-headless@adobe.com) from your official email ID to join the early adopter program.
 
 ### [!DNL Experience Manager] as a [!DNL Cloud Service Foundation]
 
-* **CDN Logs** &ndash; Download CDN logs from Cloud Manager, which is useful for cache-hit ratio optimization and greater visibility into the content delivery flow. Learn about the CDN log format. This feature is intended for rollout to customers in early September.
-* **CDN and WAF Rules early adopter program** &ndash; Filter traffic at the CDN based on:
+* **New CDN caching behavior for campaign-related URL parameters** &ndash; For new environments, the CDN removes marketing-related query parameters by default to increase marketing campaign performance and cache hit ratios. Existing environments are unaffected. [Learn more](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/content-delivery/caching.html?lang=en#marketing-parameters).
+* **Traffic Filter Rules (including WAF Rules) early adopter program** &ndash; Filter traffic at the CDN based on the following:
 
   * request headers and properties (for example, IP address)
   * known traffic patterns that are associated with malicious traffic
@@ -421,25 +412,25 @@ You can [send an email to aem-forms-headless@adobe.com](mailto:aem-forms-headles
 
 _New features_
 
-* When configuring a content set to [copy content, context-aware configurations](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/configurations.html?lang=en) are now permitted in content sets in the user interface.
-* Enhancements were made to improve the comprehensibility and surfacing of error messages in the Cloud Manager user interface.
+* CDN logs, when available, can be downloaded by way of the Cloud Manager UI.
+* Users can now opt-in to include Experience Audit testing powered by Google LightHouse in non-production, full-stack pipelines.
 
-_Early Adoption Program_
+_Early adopter program_
 
-Be a part of Adobe's early adoption program and have a chance to test some upcoming features.
+Be a part of Adobe's early adopter program and have a chance to test some upcoming features.
 
 * **Self-Service Content Restore** &ndash; [A new self-service content restore feature](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/restore.html?lang=en) now provides backup restoration for up to seven days and is available to early adopters for evaluation purposes featuring:
 
   * Point-in-time backup restoration for the previous 24 hours.
   * Fixed time restorations for up to seven days.
 
-  If you are interested in testing this new feature and sharing your feedback, send an email to [aemcs-restorefrombackup-adopter@adobe.com](mailto:aemcs-restorefrombackup-adopter@adobe.com) from your email associated with your Adobe ID. Be aware of the following:
+  If you are interested in testing this new feature and sharing your feedback, send an email to [aemcs-restorefrombackup-adopter@adobe.com](aemcs-restorefrombackup-adopter@adobe.com) from your email associated with your Adobe ID. Be aware of the following:
 
   * The early adopter program is limited to development environments only.
   * Availability of the early adopter program of this feature is limited.
   * This feature is for recovering accidentally deleted content and is not intended for disaster recovery.
 
-* **Experience Audit Dashboard** &ndash; [The Cloud Manager Experience Audit dashboard](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/experience-audit-dashboard.html) includes a trended view of your page performance scores along with insights and recommendations to help you improve them. Experience Audit is included as a step in the Cloud Manager production pipeline.
+* **Experience Audit Dashboard** &ndash; [The Cloud Manager Experience Audit dashboard]() includes a trended view of your page performance scores along with insights and recommendations to help you improve them. Experience Audit is included as a step in the Cloud Manager production pipeline.
 
   The dashboard uses Google Lighthouse, an open-source, automated tool for improving the quality of your web apps. You can run it against any web page that is public, or requires authentication. It has audits for performance, accessibility, progressive web apps, SEO, and more.
 
@@ -447,26 +438,21 @@ Be a part of Adobe's early adoption program and have a chance to test some upcom
 
 **Bug fixes**
 
-* The Environments menu now closes after triggering the [Copy Content](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/content-copy.html?lang=en) modal.
-* [A pipeline re-execution](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/deploy-code.html?lang=en#reexecute-deployment) is no longer allowed if the previous execution does not have a commitId set on the build phase state.
-* A more understandable message is now displayed for rare errors when a user selects a pipeline in the Activity or Pipeline screens.
-* The `contentSetName` value is no longer missing in logs and is now provided in the inputs when starting a [content copy](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developer-tools/content-copy.html?lang=en) operation.
-* It is no longer possible under certain rare circumstances to start two executions from the same pipeline leading to a "stuck" state.
-* When a certificate expires, domain names and IP allowlists associated with the certificate are no longer removed from the CDN.
-  * In such cases, the site remains reachable.
-  * The [Cloud Manager user interface](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-ssl-certificates/introduction.html?lang=en) provides more visible warnings that the SSL certificate is about to expire.
-* A problem with AEM losing access to a publish endpoint was fixed in situations when Sites is added as a solution to an Assets-only program.
+* When a program is deleted, any associated running pipeline is now also deleted.
+* If a pipeline is in progress, the Send button of the Go-live complete dialog is now disabled and informs the user that the go-live date can't be set because of the running pipeline.
+* An occasional error has been fixed where all steps of a pipeline execution were marked as completed, but the status of the pipeline was still running, giving the appearance of a stuck state.
 
 ### [!DNL Workfront for Experience Manager] enhanced connector
 
-The release date for the latest version 1.9.12 of Workfront for Experience Manager enhanced connector is August 9, 2023.
+The release date for the latest version 1.9.13 of Workfront for Experience Manager enhanced connector is September 11, 2023.
 
 _Release highlights_
 
-* The latest version of the Workfront for Experience Manager enhanced connector includes the following updates:
+The latest version of the Workfront for Experience Manager enhanced connector includes the following updates:
 
-  * Unable to create linked folders in Experience Manager, as there is no user account associated with the linked folder.
-  * Race conditions during metadata updates for an asset in Experience Manager.
+* Experience Manager enhanced connector fetches all event subscriptions from Workfront while deleting an event subscription for a project, which leads to a performance impact on the application.
+* When an asset is sent from Workfront to Experience Manager, the asset MIME type is not set to `dc:format` attribute within Experience Manager.
+* Workfront project IDs stored on Experience Manager enhanced connector include duplicates.
 
 >[!NOTE]
 >
@@ -474,18 +460,31 @@ _Release highlights_
 
 >[!IMPORTANT]
 >
->Adobe recommends that you [upgrade to the latest 1.9.12 version](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/workfront-connector-install.html?lang=en) of the Workfront for Experience Manager enhanced connector.
+>Adobe recommends that you [upgrade to the latest 1.9.13 version](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/workfront-connector-install.html?lang=en) of the Workfront for Experience Manager enhanced connector.
 
 _Known issues_
 
-* While configuring project linked folders with AEM 6.4, [!DNL Experience Manager] does not save the values for **subfolders** and **Create linked folder in projects with portfolio** fields. The value for the **subfolders** field updates to **undefined**. The value for the **Create linked folder in projects with portfolio** field updates to **Default Portfolio** automatically after saving the configuration.
+* While configuring project linked folders with AEM 6.4, [!DNL Experience Manager] does not save the values for **sub-folders** and **Create linked folder in projects with portfolio** fields. The value for the **sub-folders** field updates to **undefined**. The value for the **Create linked folder in projects with portfolio** field updates to **Default Portfolio** automatically after saving the configuration.
 * When you use the classic Workfront experience, the **Send to** option available in the **More** drop-down list does not let you select the target destination within Experience Manager. The **Send to** option works correctly using the **Document Actions** drop-down list. The **Send to** option works correctly for **More** drop-down list and the **Document Actions** drop-down list available in the new Workfront experience.
 
 ### Community
 
-* [Experience Manager as a Cloud Service 2023.8.0 - Release Update](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/aem-as-a-cloud-service-2023-8-0-release-update/ba-p/616365).
-* [AEM Community Lens 7th Edition, August 2023](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager-blogs/adobe-experience-manager-community-lens-7th-edition-august-2023/ba-p/614084).
-* [AEM Users &ndash; Share your feedback on Gartner Peer Insights!](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/adobe-experience-manager-users-share-your-feedback-on-gartner/td-p/613702)
+**Key Resources and Updates**
+
+* Recording for AEM Gems - Harness the Power of New Relic APM for AEM as a Cloud Service. Boost Performance & Issue Resolution at [https://adobe.ly/3sV67N5](https://adobe.ly/3sV67N5)
+* AEM as a Cloud Service 2023.8.0 - Release update at [https://adobe.ly/3syyBwe](https://adobe.ly/3syyBwe)
+* Adobe Experience Manager Community Lens 7th Edition, August 2023 at [https://adobe.ly/44gK2FL](https://adobe.ly/44gK2FL)
+
+**Essential Office Hours Sessions**
+
+* Foundation for Optimizing Indexes with AEM Cloud Service - [https://adobe.ly/3r7vI4X](https://adobe.ly/3r7vI4X)
+* AEM as a Cloud Service Deployment Failures Analysis - [https://adobe.ly/464gXPg](https://adobe.ly/464gXPg) 
+* AEM Forms Headless architecture - [https://adobe.ly/3sOxRD3](https://adobe.ly/3sOxRD3)
+
+**Critical Knowledge Base Articles**
+
+* How to export Local References of an asset in JSON format - [https://adobe.ly/3t83BU1](https://adobe.ly/3t83BU1) 
+* Load assets in the browser on the publisher instead of downloading them - [https://adobe.ly/3ZohYQb](https://adobe.ly/3ZohYQb) 
 
 
 ### [!DNL Experience Manager] release information
