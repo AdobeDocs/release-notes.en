@@ -28,7 +28,7 @@ Sign in to [Experience League](https://experienceleague.adobe.com/#home) and cus
 
 ## Product release updates and events
 
-Latest update: **September 28, 2023**
+Latest update: **September 29, 2023**
 
 * [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
@@ -113,6 +113,18 @@ Learn about the latest features and updates in [!DNL Adobe System Status].
 +++Details
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
+
+**What's new**
+
+* [!DNL Adobe Status] has added a **[!UICONTROL Help]** menu to provide a guided tour of the Overview/Home page and the functionality available to the customers.
+
+* Developers and admins can also check out the help section for more information on Status APIs.
+
+| Feature | Description |
+| ------- | ------- |
+| Help menu |<ul><li>Guided tours provide in-context help on the various sections and components of the Home page. It also highlights the actions users can take, such as subscribing to proactive notifications.</li><li>Developer's Guide points to the [!DNL Status] API documentation on the Adobe Developer console. It can help developers understand the steps to integrate [!DNL Status] APIs and the information that is available to them for their internal dashboards.</li></ul>  |
+| Enhancements | <ul><li>[!DNL Status] API documentation was updated with Oath 2.0, the preferred method of API authentication, as the JWT token is deprecated.</li><li>Events, incidents, and maintenance APIs now return English messages by default and, in addition, accept locale parameters for localized messages.<ul><li>No additional APIs need to be called to get events, and their messages-the message tokens and locale support are now built-in within these APIs.</li></ul></li></ul> |
+| Bug fixes |<ul><li>Cloud page banner now displays the correct maintenance count<ul><li>[!DNL Status] banner showed empty when there were only scheduled maintenances</li><li>Banner wasn't showing ongoing maintenances</li></ul><li>Closed Email sent correctly when an incident is closed and at the same time priority is updated from Major to Minor OR Minor to Major.</li><li>[!DNL Status] APIs - duplicate events removed</li><li>Stale subscription data was cleaned up and subscription service was fixed to ensure that all subscribers receive the required emails. This fix has improved the reliability and performance of our email service.</li></ul>  |
 
 For recent feature updates, see:
 
