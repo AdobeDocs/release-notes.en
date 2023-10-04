@@ -29,7 +29,7 @@ Sign in to [Experience League](https://experienceleague.adobe.com/#home) and cus
 
 Latest update: **October 4, 2023**
 
-* [[!DNL Experience League] events and updates](#events) (Updated: **September 28**)
+* [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
