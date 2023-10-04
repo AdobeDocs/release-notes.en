@@ -5,7 +5,6 @@ doc-type: release notes
 last-update: October 2023
 author: mfrei
 mini-toc-levels: 2
-badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
 # Experience Cloud Release Notes
@@ -28,7 +27,7 @@ Sign in to [Experience League](https://experienceleague.adobe.com/#home) and cus
 
 ## Product release updates and events
 
-Latest update: **September 29, 2023**
+Latest update: **October 4, 2023**
 
 * [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
@@ -854,7 +853,7 @@ New videos, tutorials, or courses published for [!DNL Creative Cloud for enterpr
 |September 2023|[Jumpstart creative ideation](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/jumpstart-ideation.html?lang=en)|Video |Learn how to get a head start on developing creative content for a marketing campaign.|
 |September 2023|[Adobe Express use case tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/overview-express-use-case-tutorials.html?lang=en)|Video |Discover how different teams within your organization can benefit from Adobe Express.|
 |September 2023|[Create compelling merchandising content](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/compelling-merchandise.html)|Video |Learn how a commerce team can easily create compelling imagery for a new set of inventory in their online store. |
-|September 2023|[Empower marketing teams to create multi-channel content](https://experienceleague.corp.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/multi-channel-marketing-content.html)|Video |Learn how event marketing teams can create unique content to attract viewers for online events. |
+|September 2023|[Empower marketing teams to create multi-channel content](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/multi-channel-marketing-content.html)|Video |Learn how event marketing teams can create unique content to attract viewers for online events. |
 |September 2023|[Empower distributed teams to localize content](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html?lang=en)|Video |Learn how distributed field marketing teams can easily customize content to their region for local marketing campaigns. |
 
 See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html) for the latest tutorials.
