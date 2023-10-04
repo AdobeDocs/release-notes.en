@@ -73,9 +73,9 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 * **[!DNL ANALYTICS]** | Webinar | _Discover and deliver actionable insights with Adobe Analytics_ | **October 5 @ 9:00 AM BST** | [Register](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
 
-* **[!DNL WORKFRONT]** | Webinar | _What's New in Adobe Workfront 23.10?_ | **October 5 @ 7:00 AM PT** | [Register](https://event.on24.com/wcc/r/4338212/18470D85C5958448AE20FC2AF0DA9977?partnerref=EXL)
+* **[!DNL WORKFRONT]** | Webinar | _What's New in Adobe Workfront 23.10?_ | **October 5 @ 10:00 AM ET** | [Register](https://event.on24.com/wcc/r/4338212/18470D85C5958448AE20FC2AF0DA9977?partnerref=EXL)
 
-* **[!DNL EXPERIENCE MANAGER]** | Webinar | _Espressos & Experience Manager: Upgrading to Dynamic Media_ | **October 5 @ 1:00 PM ET** | [Register](https://register.gotowebinar.com/register/401473910088026710?source%3CExL)
+* **[!DNL EXPERIENCE MANAGER]** | Webinar | _Espressos & Experience Manager: Upgrading to Dynamic Media_ | **October 5 @ 11:00 PM MDT** | [Register](https://register.gotowebinar.com/register/401473910088026710?source%3CExL)
 
 * **[!DNL WORKFRONT]** | Customer Workshop | _Ask the Experts: Automate Your Work Processes with Workfront Fusion_ | **October 5 @ 11:00 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,aYVhAxfDTEaHWan3DDKAJg,hP4GoDgz30K_R39XZWjjfQ,6wmf7dtjHkG6osxVzGe7nQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -83,7 +83,7 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 * **[!DNL WORKFRONT]** | Customer workshop | _Admin 101: Getting Your Users to Use Workfront_ | **October 17 @ 9:00 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,omfk3au070S9BM8uw0Q-eQ,hQB5-0lLTEqbiy3szpaQ7Q,IAorw9UUG0Kzb9zZNhCeEA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL AEM]** and **[!DNL COMMERCE]** | Developers Live | _Content and Commerce: A deep dive session on [!UICONTROL Edge Delivery Services], headless capabilities, extensibility, composability, and productivity tools_ | **November 6 @ 9:00 AM MT** | [Register](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
+* **[!DNL AEM]** and **[!DNL COMMERCE]** | Developers Live | _Content and Commerce: A deep dive session on [!UICONTROL Edge Delivery Services], headless capabilities, extensibility, composability, and productivity tools_ | **November 6 @ 8:00 AM MT** | [Register](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
 
 View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [event recordings](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html). You can now use the left-hand navigation to look for recorded events based on series type or application.
 
