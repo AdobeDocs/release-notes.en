@@ -48,6 +48,7 @@ Latest update: **October 4, 2023**
 * [[!DNL Adobe Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
+* [[!DNL Adobe Mix Modeler]](#mix-modeler)
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass) (formerly [!DNL Adobe Primetime])
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
@@ -776,6 +777,17 @@ New articles and updates to existing articles for [!DNL Workfront].
 {style="table-layout:auto"}
 
 See the [[!DNL Workfront] product releases](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html) page for a round-up of the latest information for all products.
+
++++
+
+## ![Icon](/assets/ec_appicon_24.png) [!DNL Adobe Mix Modeler] {#mix-modeler}
+
++++Details
+
+See the following pages for the latest information:
+
+* Mix Modeler [release notes](https://experienceleague.adobe.com/docs/mix-modeler/using/releases/latest.html)
+* Mix Modeler [product documentation](https://experienceleague.adobe.com/docs/mix-modeler.html?lang=en)
 
 +++
 
