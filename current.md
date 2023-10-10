@@ -27,7 +27,7 @@ Sign in to [Experience League](https://experienceleague.adobe.com/#home) and cus
 
 ## Product release updates and events
 
-Latest update: **October 4, 2023**
+Latest update: **October 9, 2023**
 
 * [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
@@ -48,7 +48,7 @@ Latest update: **October 4, 2023**
 * [[!DNL Adobe Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [[!DNL Adobe Mix Modeler]](#mix-modeler)
+* [[!DNL Adobe Mix Modeler]](#mix-modeler) (Update **October 9**)
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass) (formerly [!DNL Adobe Primetime])
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
