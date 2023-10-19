@@ -222,7 +222,7 @@ New video tutorials, articles, and courses published for Adobe [!DNL Analytics].
 <!-- 
 ### New Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
 
-New articles and updates to existing articles for [!DNL Analytics].-->
+New articles and updates to existing articles for [!DNL Analytics].
 
 {style="table-layout:auto"}-->
 
