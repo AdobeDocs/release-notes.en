@@ -395,7 +395,7 @@ _Early adopter program_
   * reuse your proprietary user interface components with forms applications
   * use the power of AEM Forms
 
-  Send an email to [aem-forms-headless@adobe.com](mailto:aem-forms-headless@adobe.com) from your official email ID to join the early adopter program.
+  Send an email to [aem-forms-headless@adobe.com](mailto:aem-forms-headless@adobe.com) from your official email ID so you can join the early adopter program.
 
 ### [!DNL Experience Manager] as a [!DNL Cloud Service Foundation]
 
@@ -413,47 +413,54 @@ _Early adopter program_
 
 _New features_
 
-* CDN logs, when available, can be downloaded by way of the Cloud Manager UI.
-* Users can now opt-in to include Experience Audit testing powered by Google LightHouse in non-production, full-stack pipelines.
+* Improvements to [indexing](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/indexing.html?lang=en) have reduced pipeline duration when deploying new indexes.
+  * Improvements vary depending on content profile.
+* Automatic [updates for development environments](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=en#updating-environments) are enabled by default for new programs, saving you the time having to run updates manually.
+  * This update is being rolled out in a phased manner.
+* With the October 2023 release of Cloud Manager, Java&trade; versions are being updated in phased roll-out.
+  * The minor versions for Java&trade; 8 and 11 and Maven have been updated and are being rolled out in a phased manner over the next two months. The new version has multiple security fixes and bug fixes. The new versions are:
+    * Maven: 3.8.8
+    * Java&trade; 8 version: `/usr/lib/jvm/jdk1.8.0_371`
+    * Java&trade; 11 version: `/usr/lib/jvm/jdk-11.0.20`
+    * [See the OpenJDK advisory](https://openjdk.org/groups/vulnerability/advisories/) for details on the security and bug fixes in these JDK updates.
 
 _Early adopter program_
 
 Be a part of Adobe's early adopter program and have a chance to test some upcoming features.
+
+* **Custom Permissions** &ndash; Cloud Manager custom permissions lets you create custom permission profiles with configurable permissions to restrict access to programs, pipelines, and environments for Cloud Manager users.
+
+  Interested in testing this new feature and sharing your feedback? Send an email [Grp-CloudManager-custom-permissions@adobe.com](mailto:Grp-CloudManager-custom-permissions@adobe.com) from your email address associated with your Adobe ID.
 
 * **Self-Service Content Restore** &ndash; [A new self-service content restore feature](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/operations/restore.html?lang=en) now provides backup restoration for up to seven days and is available to early adopters for evaluation purposes featuring:
 
   * Point-in-time backup restoration for the previous 24 hours.
   * Fixed time restorations for up to seven days.
 
-  If you are interested in testing this new feature and sharing your feedback, send an email to [aemcs-restorefrombackup-adopter@adobe.com](mailto:aemcs-restorefrombackup-adopter@adobe.com) from your email associated with your Adobe ID. Be aware of the following:
+  Interested in testing this new feature and sharing your feedback? Send an email to [aemcs-restorefrombackup-adopter@adobe.com](mailto:aemcs-restorefrombackup-adopter@adobe.com) from your email associated with your Adobe ID. Be aware of the following:
 
   * The early adopter program is limited to development environments only.
   * Availability of the early adopter program of this feature is limited.
   * This feature is for recovering accidentally deleted content and is not intended for disaster recovery.
 
-* **Experience Audit Dashboard** &ndash; [The Cloud Manager Experience Audit dashboard](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/experience-audit-dashboard.html) includes a trended view of your page performance scores along with insights and recommendations to help you improve them. Experience Audit is included as a step in the Cloud Manager production pipeline.
+* **Experience Audit Dashboard** &ndash; [The Cloud Manager Experience Audit dashboard](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/test-results/experience-audit-dashboard.html?lang=en) includes a trended view of your page performance scores along with insights and recommendations to help you improve them. Experience Audit is included as a step in the Cloud Manager production pipeline.
 
   The dashboard uses Google Lighthouse, an open-source, automated tool for improving the quality of your web apps. You can run it against any web page that is public, or requires authentication. It has audits for performance, accessibility, progressive web apps, SEO, and more.
 
-  Interested in test-driving the new dashboard? Send an email to [aem-lighthouse-pilot@adobe.com](mailto:aem-lighthouse-pilot@adobe.com) from your email associated with your Adobe ID and Adobe can get you started.
-
-**Bug fixes**
-
-* When a program is deleted, any associated running pipeline is now also deleted.
-* If a pipeline is in progress, the Send button of the Go-live complete dialog is now disabled and informs the user that the go-live date can't be set because of the running pipeline.
-* An occasional error has been fixed where all steps of a pipeline execution were marked as completed, but the status of the pipeline was still running, giving the appearance of a stuck state.
+  Interested in test-driving the new dashboard? Send an email to [aem-lighthouse-pilot@adobe.com](mailto:aem-lighthouse-pilot@adobe.com) from your email associated with your Adobe ID.
 
 ### [!DNL Workfront for Experience Manager] enhanced connector
 
-The release date for the latest version 1.9.13 of Workfront for Experience Manager enhanced connector is September 11, 2023.
+The release date for the latest version 1.9.14 of Workfront for Experience Manager enhanced connector is October 13, 2023.
 
 _Release highlights_
 
 The latest version of the Workfront for Experience Manager enhanced connector includes the following updates:
 
-* Experience Manager enhanced connector fetches all event subscriptions from Workfront while deleting an event subscription for a project, which leads to a performance impact on the application.
-* When an asset is sent from Workfront to Experience Manager, the asset MIME type is not set to `dc:format` attribute within Experience Manager.
-* Workfront project IDs stored on Experience Manager enhanced connector include duplicates.
+* When event subscriptions are disabled under Advanced Settings, you can still select the options to **Subscribe to document update events to update AEM asset metadata**, **Publish all project assets to Brand Portal upon project completion**, and **Enable Comment Sync**.
+* Some of the assets stored in Experience Manager do not render appropriately when you preview them in Workfront.
+* While reconfiguring Experience Manager connection with Workfront, event subscriptions such as comment sync update, delete, document update are not created successfully.
+* Major API performance improvements for linked folder creation, update, enable linked folder, comment sync enable and disable, advance settings save on connector.
 
 >[!NOTE]
 >
@@ -461,7 +468,7 @@ The latest version of the Workfront for Experience Manager enhanced connector in
 
 >[!IMPORTANT]
 >
->Adobe recommends that you [upgrade to the latest 1.9.13 version](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/workfront-connector-install.html?lang=en) of the Workfront for Experience Manager enhanced connector.
+>Adobe recommends that you [upgrade to the latest 1.9.14 version](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/integrations/workfront-connector-install.html?lang=en) of the Workfront for Experience Manager enhanced connector.
 
 _Known issues_
 
@@ -470,22 +477,26 @@ _Known issues_
 
 ### Community
 
-**Key Resources and Updates**
+**AEM Release**
+AEM as a Cloud Service 2023.9.0 - Release Update: [https://adobe.ly/3rMScIU](https://adobe.ly/3rMScIU) 
 
-* Recording for AEM Gems - Harness the Power of New Relic APM for AEM as a Cloud Service. Boost Performance & Issue Resolution at [https://adobe.ly/3sV67N5](https://adobe.ly/3sV67N5)
-* AEM as a Cloud Service 2023.8.0 - Release update at [https://adobe.ly/3syyBwe](https://adobe.ly/3syyBwe)
-* Adobe Experience Manager Community Lens 7th Edition, August 2023 at [https://adobe.ly/44gK2FL](https://adobe.ly/44gK2FL)
+**AEM Community Tech Tuesdays**
+Tuesday Tech Bytes: Unleashing AEM Insights Weekly: [https://adobe.ly/46OzP5j](https://adobe.ly/46OzP5j) 
 
-**Essential Office Hours Sessions**
+**Adobe Developer Live - November 2023**
+Adobe Developers Live: Content and Commerce, November 2023 | Complete AEM Session list
 
-* Foundation for Optimizing Indexes with AEM Cloud Service - [https://adobe.ly/3r7vI4X](https://adobe.ly/3r7vI4X)
-* AEM as a Cloud Service Deployment Failures Analysis - [https://adobe.ly/464gXPg](https://adobe.ly/464gXPg) 
-* AEM Forms Headless architecture - [https://adobe.ly/3sOxRD3](https://adobe.ly/3sOxRD3)
+* Complete list of Sessions for both NA and APAC: [https://adobe.ly/46LEmFk](https://adobe.ly/46LEmFk)  
 
-**Critical Knowledge Base Articles**
+Calling all AEM enthusiasts! Join Adobe Developers Live on Nov 6 (EMEA, LATAM, NA) and Nov 15 (APAC) for exclusive AEM insights and networking. Discover the latest AEM advancements, engage with industry experts, and build connections within the AEM community. Don't miss this opportunity to boost your expertise!
 
-* How to export Local References of an asset in JSON format - [https://adobe.ly/3t83BU1](https://adobe.ly/3t83BU1) 
-* Load assets in the browser on the publisher instead of downloading them - [https://adobe.ly/3ZohYQb](https://adobe.ly/3ZohYQb) 
+* Register now (EMEA, LATAM, NA) - November 06, 2023: [https://adobe.ly/3rOtcBa](https://adobe.ly/3rOtcBa)
+* Register now (APAC) - November 15, 2023:  [https://adobe.ly/3PSyBil](https://adobe.ly/3PSyBil)
+
+>[!NOTE]
+>
+>* You have the flexibility to register for either or both events, regardless of your time zone.
+>* The content offered in each event is distinct, ensuring a diverse and enriching experience tailored to your region's needs and preferences. 
 
 
 ### [!DNL Experience Manager] release information
@@ -507,7 +518,7 @@ All [!DNL Experience Manager] release notes are maintained at the following page
 * [Adobe Primetime release notes](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html)
 * [Livefyre release notes](https://experienceleague.adobe.com/docs/discontinued/using/livefyre.html)
 
-### New Experience Manager tutorials and courses {#tutorials-aem}
+### New [!DNL Experience Manager] tutorials and courses {#tutorials-aem}
 
 New videos, tutorials, or courses published for Experience Manager.
 
