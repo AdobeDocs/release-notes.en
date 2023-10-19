@@ -12,23 +12,17 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
-![Banner](assets/release-notes-header.png)
 
-**November 2023**
+<!-- ![Banner](assets/release-notes-header.png) -->
 
-This page helps you stay updated on product release information, events, and learning opportunities at Experience League.
-
->[!TIP]
->
->To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Check back frequently to stay on top of what's happening with Adobe's enterprise applications.
-
-**Need help?**
 
 Sign in to [Experience League](https://experienceleague.adobe.com/#home) and customize your search experience across Adobe's library of self-help resources. Browse [product documentation](https://experienceleague.adobe.com/docs/), [tutorial videos](https://experienceleague.adobe.com/docs/home-tutorials.html), [courses](https://experienceleague.adobe.com/#courses), and [events](https://experienceleague.adobe.com/events/) for all levels and roles. Ask questions from your online [community](https://experienceleaguecommunities.adobe.com/?profile.language=en) of peers and get expert [support](https://experienceleague.adobe.com/?support-tab=home#support) when you need it most.
 
-## Product release updates and events
+To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
-Latest update: **October 19, 2023**
+
+**October 9, 2023**
+
 
 * [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
