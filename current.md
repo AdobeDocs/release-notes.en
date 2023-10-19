@@ -166,9 +166,9 @@ New videos, tutorials, or courses published for Adobe [!DNL Experience Platform]
 <!-- 
 ### New [!DNL Experience Platform] support knowledge base{#kb-aep}
 
-New articles and updates to existing articles for [!DNL Experience Platform].-->
+New articles and updates to existing articles for [!DNL Experience Platform].
 
-{style="table-layout:auto"}
+{style="table-layout:auto"}-->
 
 +++
 
@@ -224,7 +224,7 @@ New video tutorials, articles, and courses published for Adobe [!DNL Analytics].
 
 New articles and updates to existing articles for [!DNL Analytics].-->
 
-{style="table-layout:auto"}
+{style="table-layout:auto"}-->
 
 +++
 
