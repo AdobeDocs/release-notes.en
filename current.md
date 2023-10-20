@@ -848,7 +848,7 @@ For [!DNL Document Cloud] tutorials, see:
 
 ## ![Icon](/assets/creative-cloud-24.png) [!DNL Creative Cloud] for enterprise {#creative-cloud}
 
-New videos, tutorials, or courses published for [!DNL Creative Cloud for enterprise].
+New videos, tutorials, or courses published for applications in [!DNL Adobe Creative Cloud for enterprise].
 
 +++Details
 
