@@ -315,11 +315,11 @@ Adobe recommends visiting the following resources to stay updated on release inf
 * [Experience Manager as a Cloud Service release updates](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/overview.html?lang=en) - Watch feature video overviews of current and past releases of [!DNL Experience Manager as a Cloud Service].
 * [Current Release Notes for Adobe Experience Manager (AEM) as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=en) - Read the latest release notes for [!DNL Experience Manager as a Cloud Service].
 
-<!-- ### Latest Release Overview video
+### Latest Release Overview video
 
-Watch the [August 2023 Release Overview video](https://video.tv.adobe.com/v/3423535/?quality=12) for a summary of the features added in the 2023.08.0 (August 2023) release. -->
+Watch the [September 2023 Release Overview video](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/2023/2023-9-0.html) for a summary of the features added in the 2023.09.0 (September 2023) release.
 
-### Edge Delivery Services
+### Edge Delivery Services for AEM as a Cloud Service
 
 Edge Delivery is a new set of composable services focused on maximizing the impact of content to drive measurable business outcomes at the point of customer interaction.
 
