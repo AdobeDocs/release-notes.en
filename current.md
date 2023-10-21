@@ -17,9 +17,9 @@ Sign in to [Experience League](https://experienceleague.adobe.com/#home) and cus
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
-**October 9, 2023**
+**October 20, 2023**
 
-* [[!DNL Experience League] events and updates](#events)
+* [[!DNL Experience League] events and updates](#events) (Updated **October 20**)
 * [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
@@ -62,17 +62,17 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 +++Upcoming events on Experience League
 
-* **[!DNL ANALYTICS]** | Webinar | _Discover and deliver actionable insights with Adobe Analytics_ | **October 5 @ 9:00 AM BST** | [Register](https://adobeanalyticsemea2023.experienceleague.adobeevents.com/)
+* **[!DNL Experience Manager as a Cloud Service]** | Livestream | _Cloud-Native Events for Adobe Experience Manager_ | **October 24 @ 8:00 AM PT** | [Register](https://www.eventbrite.com/e/app-builder-live-cloud-native-events-for-adobe-experience-manager-tickets-694888017767?aff=exlg)
 
-* **[!DNL WORKFRONT]** | Webinar | _What's New in Adobe Workfront 23.10?_ | **October 5 @ 10:00 AM ET** | [Register](https://event.on24.com/wcc/r/4338212/18470D85C5958448AE20FC2AF0DA9977?partnerref=EXL)
+* **[!DNL WORKFRONT]** | Customer workshop | _Ask the Experts: Connecting Systems and Applications with Workfront Fusion_ | **October 24 @ 10:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,FBqPQ3xqdE2fRH684eBr1w,mDVfeVEOMU-j3LBMxIsx1A,0KtOWSQCkUunbvAhiNDxzA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL EXPERIENCE MANAGER]** | Webinar | _Espressos & Experience Manager: Upgrading to Dynamic Media_ | **October 5 @ 11:00 PM MDT** | [Register](https://register.gotowebinar.com/register/401473910088026710?source%3CExL)
+* **[!DNL WORKFRONT]** | Coffee Break | _Workfront Coffee Break: Communication Methods for Adoption_ | **October 26 @ 8:30 AM PTT** | [Register](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-10-26-8-30am-9-30am-pdt-communication/ec-p/621879#M67)
 
-* **[!DNL WORKFRONT]** | Customer Workshop | _Ask the Experts: Automate Your Work Processes with Workfront Fusion_ | **October 5 @ 11:00 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,aYVhAxfDTEaHWan3DDKAJg,hP4GoDgz30K_R39XZWjjfQ,6wmf7dtjHkG6osxVzGe7nQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Experience League LIVE | _Workfront Release Deep Dive - New Workfront Home_ | **October 26 @ 9:00 AM PT** | [Register](https://engage.adobe.com/ExpLeagueLive-231026.html)
 
-* **[!DNL WORKFRONT]** | Community event | _Connect: Admin Chat for Marketing & Creative_ | **October 6 @ 10:00 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,GEPFgV3sAkazC0HNeX4Qiw,MfXhfQkRaEeNxpVhAjrevw,etCOBCAjk0iAVD0DNRskXQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Customer workshop | _Learn: Adobe Workfront Q4-2023 Release Roundup_ | **October 31 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,FZ_q0Nj-e0Sdz_UVakcklg,AheeuqBcdE6mNKFzR5xdKQ,UmZrNBnSp0-fUfkhbYAHYg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Customer workshop | _Admin 101: Getting Your Users to Use Workfront_ | **October 17 @ 9:00 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,omfk3au070S9BM8uw0Q-eQ,hQB5-0lLTEqbiy3szpaQ7Q,IAorw9UUG0Kzb9zZNhCeEA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE PLATFORM]** | Webinar | _Overcome omnichannel challenges in retail_ | **November 1 @ 9:00 AM PT** | [Register](https://adobeexpertconnectretail2023.experienceleague.adobeevents.com/)
 
 * **[!DNL AEM]** and **[!DNL COMMERCE]** | Developers Live | _Content and Commerce: A deep dive session on [!UICONTROL Edge Delivery Services], headless capabilities, extensibility, composability, and productivity tools_ | **November 6 @ 8:00 AM MT** | [Register](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-content-and-commerce/?code=release)
 
