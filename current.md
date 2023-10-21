@@ -27,8 +27,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 * [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
-* [[!DNL Adobe Experience Platform]](#platform)
-* [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
+* [[!DNL Adobe Experience Platform]](#platform)<!-- * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp) -->
 * [[!DNL Adobe Analytics]](#analytics)
 * [[!DNL Adobe Customer Journey Analytics]](#cja)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
@@ -124,6 +123,8 @@ Learn about [!DNL Experience Cloud] central interface components and administrat
 
 +++Details
 
+Not updated.
+
 For help on Experience Cloud central interface components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
 
 +++
@@ -144,6 +145,7 @@ New videos, tutorials, or courses published for Adobe [!DNL Experience Platform]
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
+|October 2023|Marketo Engage|[Ingest data from Marketo Engage](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=en)|Video |Learn how to easily ingest data from Marketo Engage into Real-Time Customer Data Platform, B2B Edition, and Adobe Experience Platform using the source connector using two workflows.|
 |October 2023|Sandboxes|[Copy objects between sandboxes](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/copy-objects-between-sandboxes.html)|Video |(Beta) Learn how to copy objects between Experience Platform sandboxes using packages. Easily replicate schemas, datasets, journeys, and more across your sandboxes to support release processes and multi-region/multi-brand deployments. |
 
 {style="table-layout:auto"}
@@ -157,7 +159,7 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 
 +++
 
-## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Real-Time Customer Data Platform] {#rtcdp}
+<!-- ## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Real-Time Customer Data Platform] {#rtcdp}
 
 Find the latest tutorials for [!DNL Real-Time Customer Data Platform] on Experience League.
 
@@ -174,7 +176,7 @@ New videos, tutorials, or courses published for Adobe [!DNL Real-Time Customer D
 
 {style="table-layout:auto"}
 
-+++ 
++++  -->
 
 ## ![Icon](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
@@ -182,7 +184,7 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 +++Details
 
-[!DNL Analytics] release date: **October 25, 2023** (November release)
+[!DNL Analytics] release date: **October 25, 2023**
 
 * [!DNL Analytics] [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html) 
 
@@ -200,9 +202,9 @@ New video tutorials, articles, and courses published for Adobe [!DNL Analytics].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|October 2023|[Dimension Models in Segmentation](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/dimension-models-in-segmentation.html?lang=en)|Video |Dimension models are available through the [!UICONTROL Attribution model] (gear icon) for any dimension in segmentation. These models are primarily helpful for sequential segmentation, and allow you to segment for persisted values of a dimension (default), instances, or non-repeating instances of a dimension.|
-|October 2023|[Segmentation on Distinct Dimension Counts](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/segmentation-on-distinct-dimension-counts.html?lang=en)|Video |Learn to use the distinct count operators in the segment builder to segment based on the number of unique items within any dimension.|
-|October 2023|[Rolling date ranges in segments](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/rolling-date-ranges-in-segments.html?lang=en)|Video |Learn how to use rolling date ranges in segments, allowing you to create segments like "people who purchased within the last week" or "people who visited my site within the last 60 days."|
+|October 2023|[Dimension Models in Segmentation](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/dimension-models-in-segmentation.html?lang=en)|Video |Dimension models are available through the [!UICONTROL Attribution model] (gear icon) for any dimension in segmentation. These models are primarily helpful for sequential segmentation. They allow you to segment for persisted values of a dimension (default), instances, or non-repeating instances of a dimension.|
+|October 2023|[Segmentation on Distinct Dimension Counts](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/segmentation-on-distinct-dimension-counts.html?lang=en)|Video |Learn to use the distinct count operators in the segment builder to create segments based on the number of unique items within any dimension.|
+|October 2023|[Rolling date ranges in segments](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/segmentation/rolling-date-ranges-in-segments.html?lang=en)|Video |Learn how to use rolling date ranges in segments, allowing you to create segments like "people who purchased within the last week," or "people who visited my site within the last 60 days."|
 
 <!-- 
 ### New Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
@@ -219,7 +221,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 +++Details
 
-[!DNL Customer Journey Analytics] release date: **October 25, 2023** (November release)
+[!DNL Customer Journey Analytics] release date: **October 25, 2023**
 
 * [!DNL Customer Journey Analytics] [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html)
 
@@ -231,8 +233,8 @@ New videos, tutorials, or courses published for [!DNL Customer Journey Analytics
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|October 2023|[Currency conversion in Customer Journey Analytics](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/currency-conversion.html)|Video |Perform currency conversion in customer journey analytics through a setting in Data Views. Use this functionality to create multiple metrics to display in different currencies. |
-|October 2023|[Use arrays of objects in Customer Journey Analytics](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/use-cases/complex-data/object-arrays-in-cja.html)|Video |Learn how to utilize object arrays from profile and lookup datasets in CJA to enrich your B2B and B2C analysis, from Connections, to Data Views, and Workspace.|
+|October 2023|[Currency conversion in Customer Journey Analytics](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/data-views/currency-conversion.html)|Video |Perform currency conversion in Customer Journey Analytics through a setting in [!UICONTROL Data Views]. Use this feature to create multiple metrics to display in different currencies. |
+|October 2023|[Use arrays of objects in Customer Journey Analytics](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/use-cases/complex-data/object-arrays-in-cja.html)|Video |Learn how to use object arrays from profile and lookup datasets in Customer Journey Analytics to enrich your B2B and B2C analysis from [!UICONTROL Connections], to [!UICONTROL Data Views], and [!UICONTROL Workspace].|
 
 {style="table-layout:auto"}
 
@@ -243,8 +245,6 @@ New videos, tutorials, or courses published for [!DNL Customer Journey Analytics
 Find the latest release information for [!DNL Streaming Media Analytics]. View new tutorials and courses on Experience League.
 
 +++Details
-
-[!DNL Analytics] release date: **October 25, 2023** (November)
 
 * [!DNL Streaming Media Analytics] [release notes](https://experienceleague.adobe.com/docs/media-analytics/using/release-notes/release-notes.html)
 
@@ -261,12 +261,12 @@ Updates and new content for [!DNL Audience Manager].
 Beginning in July 2023, Adobe has discontinued the development of the [!DNL Data Integration Library (DIL)] and the [!DNL DIL] extension.
 Existing customers can continue using their [!DNL DIL] implementation. However, Adobe is not developing [!DNL DIL] beyond this point. Customers are encouraged to evaluate the [Experience Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=en) for their long-term data collection strategy. Customers looking to implement new data collection integrations after July 2023 should use [Experience Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=en) instead.
 
+For self-help resources, see [Audience Manager documentation and tutorials](https://experienceleague.adobe.com/docs/audience-manager.html) on Experience League.
+
 +++
 
 <!-- 
 ### New [!DNL Audience Manager] support knowledge base
-
-New articles and updates to existing articles for [!DNL Audience Manager].
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
@@ -279,9 +279,6 @@ New articles and updates to existing articles for [!DNL Audience Manager].
 | August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
 
 {style="table-layout:auto"}
-
-For self-help resources, see [Audience Manager documentation and tutorials](https://experienceleague.adobe.com/docs/audience-manager.html) on Experience League.
-
  -->
 
 ## ![Icon](/assets/aem.png) Adobe Experience Manager {#aem}
@@ -597,7 +594,7 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials, courses, a
 
 ### Latest Campaign product releases
 
-* New! Campaign v8.5.2: [Release notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=en)
+* Campaign v8.5.2: [Release notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=en)
 
 * Campaign Standard: [Release notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
 
@@ -614,12 +611,12 @@ New articles and updates to existing articles for [!DNL Campaign].
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|October 2023|[Complete text in a push message is not displayed](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22980.html)|New article| This article works as a quick solution to display the complete text in a push message by adding an implementation of FirebaseMessagingService in the app.|
+|October 2023|[Complete text in a push message is not displayed](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22980.html)|New article| This article works as a quick solution to display the complete text in a push message by adding an implementation of `FirebaseMessagingService` in the app.|
 |October 2023|[Blocking an attachment in transactional email](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22969.html)|New article| Learn how to send an email with an attachment by building a delivery template on the Marketing instance with the attachment as a template.|
 |October 2023|[[!DNL OOTB] workflow `scheduledEnhancedMTATypologyRule` is throwing an error causing it to be paused](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22926.html)|New article| Learn about the resolution to if the [!DNL OOTB] workflow `scheduledEnhancedMTATypologyRule` is throwing an error causing it to be paused, delete the extra linked records from a deleted typology.|
 |October 2023|[Tracking data not synced from RT to MKT (on-premises)](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22897.html)|New article| Learn how to resolve when tracking data is retrieved correctly in the real-time messaging (RT) instance but is not synchronized back to the marketing (MKT) instance, by adjusting the scheduler activity frequency of the sync workflow of MKT.|
 |October 2023|[Event types stuck in Pending status](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22901.html)|New article| Learn how to resolve the issue where event types are going into Pending status despite no infrastructure issue, no long-running queries, and [!DNL MTA] working normally.|
-|October 2023|[Adobe Campaign Classic v7: non-admin operator cannot access Hot clicks report](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22908.html)|New article| Learn how to access Hot clicks report as a non-admin operator.|
+|October 2023|[Adobe Campaign Classic v7: non-admin operator cannot access Hot clicks report](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22908.html)|New article| Learn how to access [!UICONTROL Hot clicks] report as a non-admin operator.|
 |October 2023|[Addresses are quarantined randomly](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-22900.html)|New article| Learn how to resolve the issue where addresses are quarantined without reason or log info.|
 
 {style="table-layout:auto"}
@@ -643,7 +640,7 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 Learn about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
 
-### New [!DNL Journey Optimizer] tutorials {#tutorials-ajo}
+<!-- ### New [!DNL Journey Optimizer] tutorials {#tutorials-ajo}
 
 New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 
@@ -656,7 +653,7 @@ New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 |September 2023|[Single-page application (SPA) support in the web editor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html)|Video |Learn how to author single-page applications (SPA) in the Journey Optimizer web editor.|
 |September 2023|[Create an in-app message in a journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-message-in-a-journey.html)|Video |Understand what an in-app message is and how it can be applied in a journey. Learn how to create an in-app message in a journey and how to test and publish your journey.|
 
-{style="table-layout:auto"}
+{style="table-layout:auto"} -->
 
 <!--### New [!DNL Journey Optimizer] support knowledge base
 
@@ -710,9 +707,9 @@ New videos, tutorials, or courses published for Adobe Marketo.
 | -----------| ---------- | ---------- | ---------- |
 |October 2023|[Marketo Measure Tutorials home](https://experienceleague.adobe.com/docs/marketo-measure-learn/tutorials/overview.html?lang=en)|Video |Vew all the recently added video tutorials for Marketo Measure!|
 |October 2023|[Tips and Tricks for auditing an inherited Marketo Engage instance](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)|Video |This tutorial, sourced from Adobe Marketo Champions, provides step-by-step guidance for new administrators. It accompanies downloadable audit checklists and templates to help you jump-start an inherited instance.|
-|October 2023|[Getting started with Salesforce sync](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/salesforce-sync-setup.html?lang=en)|Video |Learn how Marketo Engage and Salesforce go together to keep your sales and marketing data in sync.|
-|October 2023|[Getting started with Microsoft Dynamics sync](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/microsoft-dynamics-sync-setup.html?lang=en)|Video |Learn how the Microsoft Dynamics 365 sync works and configure the setup properly to allow the two systems to speak to each other. |
-|October 2023|[Ingest data from Marketo Engage](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=en)|Video |Desc.|
+|October 2023|[Getting started with Salesforce sync](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/salesforce-sync-setup.html?lang=en)|Video |Learn how Marketo Engage and [!DNL Salesforce] go together to keep your sales and marketing data in sync.|
+|October 2023|[Getting started with Microsoft Dynamics sync](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/microsoft-dynamics-sync-setup.html?lang=en)|Video |Learn how the [!DNL Microsoft Dynamics 365] sync works and configure the setup properly to allow the two systems to speak to each other. |
+|October 2023|[Ingest data from Marketo Engage](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=en)|Video |Learn how to easily ingest data from Marketo Engage into Real-Time Customer Data Platform, B2B Edition, and Adobe Experience Platform using the source connector using two workflows.|
 
 {style="table-layout:auto"}
 
@@ -732,7 +729,7 @@ New [!DNL Workfront] tutorials on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|September 2023|[What's new in Workfront tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en#what%E2%80%99s-new%3F)|Multiple videos |View the latest tutorials released in the past month.|
+|October 2023|[What's new in Workfront tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en#what%E2%80%99s-new%3F)|Multiple videos |View the latest tutorials released in the past month.|
 
 {style="table-layout:auto"}
 
