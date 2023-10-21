@@ -111,7 +111,7 @@ Learn about the latest features and updates in [!DNL Adobe System Status].
 
 For recent feature updates, see:
 
-* [October 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/10042023.html#status)
+<!-- * [October 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/10042023.html#status) -->
 * [August 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/08092023.html#status)
 * [March 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/03082023.html#status)
 * [January 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/02082023.html#status)
