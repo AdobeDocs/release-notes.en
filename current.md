@@ -809,7 +809,8 @@ New tutorials and courses published for [!DNL Document Cloud], including [!DNL A
 
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| October 2023 | Applications | [Create a simple workflow with Power Automate](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/simple-workflow-power-automate.html?lang=en) | Video | Learn how non-technical members of your organization can create simple workflows that connect to other systems using the pre-built Microsoft Power Automate connectors that are included free with Acrobat Sign.  |
+| October 2023 | Acrobat Sign | [Create an advanced workflow with Power Automate](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/advanced-workflow-power-automate.html?lang=en) | Video | Learn how non-technical members of your organization can advanced simple workflows that connect to other systems using the pre-built Microsoft Power Automate connectors that are included free with Acrobat Sign.  |
+| October 2023 | Acrobat Sign | [Create a simple workflow with Power Automate](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/simple-workflow-power-automate.html?lang=en) | Video | Learn how non-technical members of your organization can create simple workflows that connect to other systems using the pre-built Microsoft Power Automate connectors that are included free with Acrobat Sign.  |
 | October 2023 | Adobe Express | [Stylize this PDF](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-PDF.html?lang=en) | Video | Learn how to create professional-looking PDFs with the integrated easy-to-use design tools in [!DNL Adobe Express].  |
 
 {style="table-layout:auto"}
