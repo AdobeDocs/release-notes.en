@@ -832,8 +832,8 @@ New videos, tutorials, or courses published for applications in [!DNL Adobe Crea
 
 +++Details
 
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
+|Published|Application|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |---------- |
 |October 2023|Adobe Express|[How to add effects and adjustments to a photo](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/image-effects.html)|Video |Learn how to add effects and adjustments to a photo.|
 |October 2023|Adobe Express|[How to remove a background from a photo in one click](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/remove-background.html?lang=en)|Video |Learn how to remove the background from your pictures.|
 |October 2023|Application|[Enable creative efficiency](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/enable-creative-efficiency.html?lang=en)|Video |Learn how to accelerate content creation with generative AI-powered tools in Adobe Photoshop and Illustrator. This tutorial uses Adobe Illustrator Prerelease.|
