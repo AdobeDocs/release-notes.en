@@ -5,7 +5,6 @@ doc-type: release notes
 last-update: November 2023
 author: mfrei
 mini-toc-levels: 2
-badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
 # Experience Cloud Release Notes
@@ -21,7 +20,7 @@ Sign in to [Experience League](https://experienceleague.adobe.com/#home) and cus
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
 
-**October 21, 2023**
+**October 24, 2023**
 
 * [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
@@ -105,7 +104,7 @@ Learn about the latest features and updates in [!DNL Adobe System Status].
 | Feature | Description |
 | ------- | ------- |
 | Help menu |<ul><li>Guided tours provide in-context help on the various sections and components of the Overview page. It also highlights the actions users can take, such as subscribing to proactive notifications.</li><li>Developer's Guide points to the [!DNL Status] API documentation on the Adobe Developer portal. It can help developers understand the steps to integrate [!DNL Status] APIs and the information that is available to them with their internal dashboards.</li></ul>  |
-| Enhancements | <ul><li>[!DNL Status] API documentation was updated with Oath 2.0, the preferred method of API authentication, as the JWT token is deprecated.</li><li>Events, incidents, and maintenance APIs now return English messages by default and, in addition, accept locale parameters for localized messages.<ul><li>No additional APIs need to be called to get events, and their messages-the message tokens and locale support are now built-in within these APIs.</li></ul></li></ul> |
+| Enhancements | <ul><li>[!DNL Status] API documentation was updated with Oath 2.0, the preferred method of API authentication, as the JWT token is deprecated.</li><li>Events, incidents, and maintenance APIs now return English messages by default and, in addition, accept locale parameters for localized messages.<ul><li>No additional APIs need to be called to get events, and their messages-the message tokens and locale support are now built in to these APIs.</li></ul></li></ul> |
 | Bug fixes |<ul><li>Cloud page banner now displays the correct maintenance count<ul><li>[!DNL Status] banner showed empty when there were only scheduled maintenances</li><li>Banner wasn't showing ongoing maintenances</li></ul><li>Closed Email sent correctly when an incident is closed and at the same time priority is updated from Major to Minor OR Minor to Major.</li><li>[!DNL Status] APIs - duplicate events removed</li><li>Stale subscription data was cleaned up and the subscription service was fixed to ensure that all subscribers receive the required emails. This fix has improved the reliability and performance of our email service.</li></ul>  |
 
 For recent feature updates, see:
@@ -335,8 +334,8 @@ _New feature in prerelease channel_
 _New features_
 
 * **[Google reCAPTCHA enterprise support](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/add-components-to-an-adaptive-form/captcha-adaptive-forms.html?lang=en)** &ndash; Use Google reCAPTCHA Enterprise in an Adaptive Form to provide enhanced protection against fraudulent activity and spam, providing a safer user experience. With advanced risk analysis and seamless integration, genuine users can easily submit forms while bots are effectively blocked.
-* **[Adobe Analytics with Experience Cloud Setup Automation for Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/enable-adobe-analytics-adaptive-form-using-experience-cloud-setup-automation.html?lang=en)** &ndash; You can now enable Adobe Analytics with Experience Cloud Setup Automation with a flip of a couple of buttons. It enables you to connect AEM Forms as a Cloud Service with Experience Platform tags and Adobe Analytics to capture and track performance metrics for your published forms.
-* **[Adobe Analytics report template for Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/view-understand-aem-forms-analytics-reports.html?lang=en)** &ndash; Forms as a Cloud Service now provides an Adobe Analytics report OOTB. It helps you easily understand the performance of your forms. The form-level metrics provide you with an insight into how the form is performing on multiple key performance indicators (KPIs) like, renditions, visitors, submissions, Average fill time. By tracking user behavior and feedback, you can identify areas of the form that are causing confusion and guide improvements to the form's design and functionality.
+* **[Adobe Analytics with Experience Cloud Setup Automation for Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/enable-adobe-analytics-adaptive-form-using-experience-cloud-setup-automation.html?lang=en)** &ndash; You can now enable Adobe Analytics with Experience Cloud Setup Automation with a flip of a couple of buttons. It enables you to connect AEM [!DNL Forms] as a Cloud Service with Experience Platform tags and Adobe Analytics to capture and track performance metrics for your published forms.
+* **[Adobe Analytics report template for Adaptive Forms](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/view-understand-aem-forms-analytics-reports.html?lang=en)** &ndash; [!DNL Forms as a Cloud Service] now provides an Adobe Analytics report OOTB. It helps you easily understand the performance of your forms. The form-level metrics provide you with an insight into how the form is performing on multiple key performance indicators (KPIs) like, renditions, visitors, submissions, Average fill time. By tracking user behavior and feedback, you can identify areas of the form that are causing confusion and guide improvements to the form's design and functionality.
 * **[Form Fragment in Adaptive Forms based on Core Components](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/adaptive-form-fragments-core-components.html?lang=en)** &ndash; Say goodbye to duplication, optimize your digital inventory, and improve collaboration as you elevate your form-building experience with Form Fragments. These reusable components seamlessly integrate into multiple forms, streamlining the creation of consistent and professional-looking forms. Form Fragments ensure reusability, standardization, and brand consistency through 'change once and reflect everywhere' functionality. Experience greater maintainability and efficiency as updates made in one place are automatically propagated across all forms that use these fragments.
 * **[Enhanced Adobe Sign Workflow step](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/create-form-centric-workflows/aem-forms-workflow-step-reference.html?lang=en#sign-document-step-sign-document-step)** &ndash; The Adobe Sign Workflow step is enhanced to include the following:
 
@@ -423,7 +422,7 @@ _Release highlights_
 
 The latest version of the Workfront for Experience Manager enhanced connector includes the following updates:
 
-* When event subscriptions are disabled under Advanced Settings, you can still select the options to **Subscribe to document update events to update AEM asset metadata**, **Publish all project assets to Brand Portal upon project completion**, and **Enable Comment Sync**.
+* When event subscriptions are disabled under [!UICONTROL Advanced Settings], you can still select the options to **Subscribe to document update events to update AEM asset metadata**, **Publish all project assets to Brand Portal upon project completion**, and **Enable Comment Sync**.
 * Some of the assets stored in Experience Manager do not render appropriately when you preview them in Workfront.
 * While reconfiguring Experience Manager connection with Workfront, event subscriptions such as comment sync update, delete, document update are not created successfully.
 * Major API performance improvements for linked folder creation, update, enable linked folder, comment sync enable and disable, advance settings save on connector.
@@ -490,10 +489,10 @@ New videos, tutorials, or courses published for Experience Manager.
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| October 2023 | AEM CS | [AEM as a Cloud Service videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html) | Updated video |Watch an updated overview video that includes Edge Delivery Services in Adobe Experience Manager as a Cloud Service.|
+| October 2023 | AEM CS | [[!DNL AEM as a Cloud Service] videos and tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/overview.html) | Updated video |Watch an updated overview video that includes Edge Delivery Services in Adobe Experience Manager as a Cloud Service.|
 | October 2023 | AEM CS  | [Call internal APIs having private certificates](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/security/call-internal-apis-having-private-certificate.html) | Video | Learn how to make HTTPS calls from AEM to web APIs using private or self-signed certificates. |
 |October 2023|AEM CS  |[What is AEM Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/introduction/what-is-aem-as-a-cloud-service.html) |Updated video |Explore what Experience Manager as a Cloud Service is, and how it differs from other version of Adobe Experience Manager. |
-| October 2023 | AEM CS | [Evolution of AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/introduction/evolution.html) | Updated video | Learn about AEM's evolution and the value it provides, from AEM 6.5 to AEM as a Cloud Service, and finally to Edge Delivery Services. |
+| October 2023 | AEM CS | [Evolution of AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/introduction/evolution.html) | Updated video | Learn about AEM's evolution and the value that it provides, from AEM 6.5 to AEM as a Cloud Service, and finally to Edge Delivery Services. |
 | October 2023 | Content Fragments | [Content Fragments Console videos](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html) | Updated video | Description |
 | October 2023 | Security | [Mutual Transport Layer Security (mTLS) authentication from AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/security/mutual-tls-authentication.html) | Video | Learn how to make HTTPS calls from AEM to web APIs that require Mutual Transport Layer Security (mTLS) authentication. |
 
@@ -712,7 +711,7 @@ New videos, tutorials, or courses published for Adobe Marketo.
 |October 2023|[Marketo Measure Tutorials home](https://experienceleague.adobe.com/docs/marketo-measure-learn/tutorials/overview.html?lang=en)|Video |Vew all the recently added video tutorials for Marketo Measure!|
 |October 2023|[Tips and Tricks for auditing an inherited Marketo Engage instance](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)|Video |This tutorial, sourced from Adobe Marketo Champions, provides step-by-step guidance for new administrators. It accompanies downloadable audit checklists and templates to help you jump-start an inherited instance.|
 |October 2023|[Getting started with Salesforce sync](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/salesforce-sync-setup.html?lang=en)|Video |Learn how Marketo Engage and [!DNL Salesforce] go together to keep your sales and marketing data in sync.|
-|October 2023|[Getting started with Microsoft Dynamics sync](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/microsoft-dynamics-sync-setup.html?lang=en)|Video |Learn how the [!DNL Microsoft Dynamics 365] sync works and configure the setup properly to allow the two systems to speak to each other. |
+|October 2023|[Getting started with Microsoft&reg; Dynamics sync](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/microsoft-dynamics-sync-setup.html?lang=en)|Video |Learn how the [!DNL Microsoft&reg; Dynamics 365] sync works and configure the setup properly to allow the two systems to speak to each other. |
 |October 2023|[Ingest data from Marketo Engage](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=en)|Video |Learn how to easily ingest data from Marketo Engage into Real-Time Customer Data Platform, B2B Edition, and Adobe Experience Platform using the source connector using two workflows.|
 
 {style="table-layout:auto"}
@@ -813,8 +812,8 @@ New tutorials and courses published for [!DNL Document Cloud], including [!DNL A
 
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| October 2023 | Acrobat Sign | [Create an advanced workflow with Power Automate](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/advanced-workflow-power-automate.html?lang=en) | Video | Learn how non-technical members of your organization can advanced simple workflows that connect to other systems using the pre-built Microsoft Power Automate connectors that are included free with Acrobat Sign.  |
-| October 2023 | Acrobat Sign | [Create a simple workflow with Power Automate](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/simple-workflow-power-automate.html?lang=en) | Video | Learn how non-technical members of your organization can create simple workflows that connect to other systems using the pre-built Microsoft Power Automate connectors that are included free with Acrobat Sign.  |
+| October 2023 | Acrobat Sign | [Create an advanced workflow with Power Automate](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/advanced-workflow-power-automate.html?lang=en) | Video | Learn how non-technical members of your organization can advanced simple workflows that connect to other systems using the pre-built Microsoft&reg; Power Automate connectors that are included free with Acrobat Sign.  |
+| October 2023 | Acrobat Sign | [Create a simple workflow with Power Automate](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/integrations/microsoft/simple-workflow-power-automate.html?lang=en) | Video | Learn how non-technical members of your organization can create simple workflows that connect to other systems using the pre-built Microsoft&reg; Power Automate connectors that are included free with Acrobat Sign.  |
 | October 2023 | Adobe Express | [Stylize this PDF](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-PDF.html?lang=en) | Video | Learn how to create professional-looking PDFs with the integrated easy-to-use design tools in [!DNL Adobe Express].  |
 
 {style="table-layout:auto"}
@@ -835,8 +834,8 @@ New videos, tutorials, or courses published for applications in [!DNL Adobe Crea
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|October 2023|Adobe Express|[How to add effects and adjustments to a photo](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/image-effects.html)|Video |Learn how to add effects and adjustments to a photo.|
-|October 2023|Adobe Express|[How to remove a background from a photo in one click](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/remove-background.html?lang=en)|Video |Learn how to remove the background from your pictures.|
+|October 2023|Adobe Express|[How to add effects and adjustments to a photo](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/image-effects.html)|Video |Learn how to add effects and adjustments to a photo.|
+|October 2023|Adobe Express|[How to remove a background from a photo in one click](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/remove-background.html?lang=en)|Video |Learn how to remove the background from your pictures.|
 |October 2023|Application|[Enable creative efficiency](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/enable-creative-efficiency.html?lang=en)|Video |Learn how to accelerate content creation with generative AI-powered tools in Adobe Photoshop and Illustrator. This tutorial uses Adobe Illustrator Prerelease.|
 
 See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html) for the latest tutorials.
