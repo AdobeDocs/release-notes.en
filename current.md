@@ -23,7 +23,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 Latest update: **October 25, 2023**
 
-* [[!DNL Experience League] events and updates](#events) (Updated **October 20**)
+* [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
