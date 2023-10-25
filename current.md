@@ -19,8 +19,9 @@ Sign in to [Experience League](https://experienceleague.adobe.com/#home) and cus
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
+**November 2023**
 
-**October 25, 2023**
+Latest update: **October 25, 2023**
 
 * [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
