@@ -11,7 +11,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
-![Banner](assets/release-notes-header.png)
+<!-- ![Banner](assets/release-notes-header.png) -->
 
 This page helps you find release notes for Experience Cloud and Adobe enterprise applications. 
 
