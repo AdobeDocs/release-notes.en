@@ -13,9 +13,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-This page helps you find release notes for Experience Cloud and Adobe enterprise applications. 
-
-For the best self-help experience, sign in to [Experience League](https://experienceleague.adobe.com/#home) and customize your search experience across Adobe's free library of self-help resources, including:
+This page helps you find release notes for Experience Cloud and Adobe enterprise applications. For the best self-help experience, sign in to [Experience League](https://experienceleague.adobe.com/#home) and customize your search experience across Adobe's free library of self-help resources, including:
 
 * [Product documentation](https://experienceleague.adobe.com/docs/)
 * [Tutorial videos](https://experienceleague.adobe.com/docs/home-tutorials.html)
