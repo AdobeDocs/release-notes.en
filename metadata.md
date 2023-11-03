@@ -4,7 +4,6 @@ type: Documentation
 solution: Experience Cloud
 feature-set: Experience Cloud
 feature: Release Notes
-role: User,Admin,Developer
 product: Experience Cloud
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/release-notes.en
