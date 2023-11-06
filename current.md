@@ -554,6 +554,7 @@ Get access to release notes, new tutorials, and Knowledge Base articles for [!DN
 +++Details
 
 * See [Release notes for [!DNL Adobe Commerce] and [!DNL Magento Open Source]](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html) to stay current.
+* See [Adobe Commerce Services Guides](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/home.html) to see Commerce Services release information and documentation.
 * See [Product Availability](https://experienceleague.adobe.com/docs/commerce-operations/release/product-availability.html) to access individual product release notes and verify availability.
 
 >[!NOTE]
