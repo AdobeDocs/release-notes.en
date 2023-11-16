@@ -13,18 +13,9 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-This page helps you find release notes for Experience Cloud and Adobe enterprise applications. For the best self-help experience, sign in to [Experience League](https://experienceleague.adobe.com/#home) and customize your search experience across Adobe's free library of self-help resources, including:
-
-* [Product documentation](https://experienceleague.adobe.com/docs/)
-* [Tutorial videos](https://experienceleague.adobe.com/docs/home-tutorials.html)
-* [Courses](https://experienceleague.adobe.com/#courses)
-* [Events on Experience League](https://experienceleague.adobe.com/events/)
-* [Communities by product](https://experienceleaguecommunities.adobe.com/?profile.language=en)
-* [Application support](https://experienceleague.adobe.com/?support-tab=home#support)
+This page helps you find release notes for Experience Cloud and Adobe enterprise applications. For the best self-help experience, sign in to [Experience League](https://experienceleague.adobe.com/#home) and customize your search experience across Adobe's free library of [documentation](https://experienceleague.adobe.com/docs/), [courses](https://experienceleague.adobe.com/#courses), [events](https://experienceleague.adobe.com/events/), [community forums](https://experienceleaguecommunities.adobe.com/?profile.language=en), and [support](https://experienceleague.adobe.com/?support-tab=home#support).
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
-
-<!-- Browse [product documentation](https://experienceleague.adobe.com/docs/), [tutorial videos](https://experienceleague.adobe.com/docs/home-tutorials.html), [courses](https://experienceleague.adobe.com/#courses), and [events](https://experienceleague.adobe.com/events/) for all levels and roles. Ask questions from your online [community](https://experienceleaguecommunities.adobe.com/?profile.language=en) of peers and get expert [support](https://experienceleague.adobe.com/?support-tab=home#support) when you need it most. -->
 
 ## November 2023
 
