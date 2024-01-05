@@ -201,12 +201,7 @@ New video tutorials, articles, and courses published for Adobe [!DNL Analytics].
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2024|[linktext]()|Video |Description|
-|January 2024|[linktext]()|Video |Description|
-|January 2024|[linktext]()|Video |Description|
-|January 2024|[linktext]()|Video |Description|
-|January 2024|[linktext]()|Video |Description|
-|January 2024|[linktext]()|Video |Description|
+|January 2024|[linktext](adobe.com)|Video |Description|
 
 <!-- 
 ### New Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
