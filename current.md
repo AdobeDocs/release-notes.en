@@ -71,9 +71,9 @@ Updated **January 5, 2024**
 
 * **[!DNL WORKFRONT]** | Customer workshop | _Connect: Admin Chat for Marketing & Creative_ | Are you a system admin for a marketing or creative team? This customer-driven session will connect you with other admins to discuss best practices as well as tips and tricks. | **February 2 @ 9:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Customer workshop | _Admin 101: Getting Your Users to Use Workfront_ | New to Workfront? Join our monthly meetup for new admins! This month, we'll discuss best practices for user adoption. | **February 14 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL WORKFRONT]** | Customer workshop | _Connect: Industry Circle - Higher Education_ | Brand new in 2024, this first industry circle is an informal roundtable discussion designed to bring together Workfront Admins in Higher Education to network, share experiences, learning and best practices. | **February 8 @ 9:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | Customer workshop | _Admin 101: Getting Your Users to Use Workfront_ | New to Workfront? Join our monthly meetup for new admins! This month, we'll discuss best practices for user adoption. | **February 14 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 View more [upcoming events](https://experienceleague.adobe.com/events/) or browse [event recordings](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) on Experience League.
 
