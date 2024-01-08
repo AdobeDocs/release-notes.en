@@ -707,7 +707,7 @@ Find out the latest release notes and release schedule for [!DNL Marketo Engage]
 
 ### Core Marketo Engage updates
 
-* See [October 2023 - current release notes](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html) for the latest information
+* See [January 2024 - current release notes](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html) for the latest information
 * See [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html) for the latest release schedule information and release notes.
 
 ### New Marketo Engage tutorials and courses {#tutorials-marketo}
@@ -740,7 +740,7 @@ New [!DNL Workfront] tutorials on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|October 2023|[What's new in Workfront tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en#what%E2%80%99s-new%3F)|Multiple videos |View the latest tutorials released in the past month.|
+|January 2024|[What's new in Workfront tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en#what%E2%80%99s-new%3F)|Multiple videos |View the latest tutorials released in the past month.|
 
 {style="table-layout:auto"}
 
