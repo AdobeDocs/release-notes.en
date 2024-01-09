@@ -199,8 +199,7 @@ New video tutorials, articles, and courses published for Adobe [!DNL Analytics].
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2024|[linktext](adobe.com)|Video |Description|
-
+|January 2024|[linktext](https://experienceleague.adobe.com/?lang=en#home
 <!-- 
 ### New Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
 
@@ -229,7 +228,7 @@ New videos, tutorials, or courses published for [!DNL Customer Journey Analytics
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
 |January 2024|[linktext](https://experienceleague.adobe.com/)|Video |Desc.|
-|January 2024|[linktext](https://experienceleague.adobe.com/)|Video |Desc.|
+|January 2024|[linktext](https://experienceleague.https://experienceleague.adobe.com//)|Video |Desc.|
 |January 2024|[linktext](https://experienceleague.adobe.com/)|Video |Desc.|
 |January 2024|[linktext](https://experienceleague.adobe.com/)|Video |Desc.|
 
@@ -487,7 +486,7 @@ New videos, tutorials, or courses published for Experience Manager.
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| January 2024 | Applications | [linktext](adobe.com) | Video | Description |
+| January 2024 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
 
 {style="table-layout:auto"}
 
@@ -544,7 +543,7 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2024|[linktext](adobe.com)|Video |Desc.|
+|January 2024|[linktext](https://experienceleague.adobe.com/?lang=en#home)|Video |Desc.|
 
 {style="table-layout:auto"}
 
@@ -783,7 +782,7 @@ New tutorials and courses published for [!DNL Document Cloud], including [!DNL A
 
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| January 2024 | Acrobat Sign | [linktext](adobe.com) | Video | Learn how non-technical members of your organization can advanced simple workflows that connect to other systems using the pre-built Microsoft&reg; Power Automate connectors that are included free with Acrobat Sign.  |
+| January 2024 | Acrobat Sign | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Learn how non-technical members of your organization can advanced simple workflows that connect to other systems using the pre-built Microsoft&reg; Power Automate connectors that are included free with Acrobat Sign.  |
 
 {style="table-layout:auto"}
 
@@ -803,7 +802,7 @@ New videos, tutorials, or courses published for applications in [!DNL Adobe Crea
 
 |Published|Application|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-|January 2024|Adobe Express|[linkext](adobe.com)|Video |Learn how to add effects and adjustments to a photo.|
+|January 2024|Adobe Express|[linkext](https://experienceleague.adobe.com/?lang=en#home)|Video |Learn how to add effects and adjustments to a photo.|
 
 See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html) for the latest tutorials.
 
