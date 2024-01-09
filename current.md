@@ -226,6 +226,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 New videos, tutorials, or courses published for [!DNL Customer Journey Analytics].
 
+| Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
 |January 2024|[linktext](https://experienceleague.adobe.com/)|Video |Desc.|
 |January 2024|[linktext](https://experienceleague.adobe.com/)|Video |Desc.|
