@@ -5,6 +5,7 @@ doc-type: release notes
 last-update: January 2024
 author: mfrei
 mini-toc-levels: 2
+badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
 # Experience Cloud Release Notes
@@ -19,13 +20,14 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## January 2024
 
-Latest update: **January 10, 2024**
+Latest update: **January 11, 2024**
 
 * [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
-* [[!DNL Adobe Experience Platform]](#platform)<!-- * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp) -->
+* [[!DNL Adobe Experience Platform]](#platform)
+* [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics)
 * [[!DNL Adobe Customer Journey Analytics]](#cja)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
@@ -53,13 +55,9 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 ### Events on Experience League
 
-Updated **January 5, 2024**
+Updated **January 11, 2024**
 
 +++Upcoming events on Experience League
-
-* **[!DNL WORKFRONT]** | Community event | _Connect: Workfront Collective_ | Join other Workfront customers for a collective problem-solving and success-sharing session! | **January 8 @ 6:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,P4UOkToG0EG2lSFnXW0zww,7Mik09hqxEW8tNXlzaPNEA,l7ip8UiiKkyv8QRJ6i6FCg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | Webinar | _What's new in Workfront 24.1?_ | Workfront 24.1 customer-facing release webinar | **January 11 @ 8:00 AM MT** | [Register](https://webinars.on24.com/adobe_workfront/whatsnewin241?partnerref=ExperienceLeagueEvents)
 
 * **[!DNL WORKFRONT]** | Customer workshop | _Admin 101 - Getting Started with Workfront_ | New to Workfront? This event provide new system admins with an intro to resources, a rundown of system navigation and best practices for initial setup. | **January 17 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -141,12 +139,21 @@ New videos, tutorials, or courses published for Adobe [!DNL Experience Platform]
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| January 2024 | Applications | [linktext](https://experienceleague.adobe.com/) | Video | Description |
-| January 2024 | Applications | [linktext](https://experienceleague.adobe.com/) | Video | Description |
-| January 2024 | Applications | [linktext](https://experienceleague.adobe.com/) | Video | Description |
+| December 2023 | Mobile SDK | [Implement Adobe Experience Cloud in mobile apps tutorial](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | Updated tutorial (multiple articles) | Learn how to implement Adobe Experience Cloud applications in your mobile app using Adobe Experience Platform Mobile SDK. |
+| December 2023 | Administration | [Add product administrators](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/add-product-administrators.html) | Video | Learn how to add new administrators for Adobe Experience Platform in Admin Console. Administrators are able to add and manage additional administrators, users, developers, and API credentials.  |
+| December 2023 | Platform, Journey Optimizer | [Create and send push notifications](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-push.html) | Article | Learn how to create push notifications for mobile apps with Experience Platform Mobile SDK and Journey Optimizer. |
+| December 2023 | Mobile SDK, Journey Optimizer | [Create and send in-app messages](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp.html) | Article | Learn how to create in-app messages for mobile apps with Experience Platform Mobile SDK and Journey Optimizer. |
+| December 2023 | Platform, Journey Optimizer | [Create and display offers with Decision Management](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-offers.html) | Article | Learn how to show offers from Journey Optimizer Decision Management in your mobile apps with Experience Platform Mobile SDK. |
+| December 2023 | Administration | [Add developers and give permissions to API credentials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/add-developers.html) | Video | Learn how to add developers to Adobe Experience Platform-based applications like Real-Time Customer Data Platform and Journey Optimizer.  |
+| December 2023 | Administration | [Add users and manage permissions](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/add-users.html) | Updated video | Learn how to add users and manage permissions in Adobe Experience Platform-based applications like Real-Time Customer Data Platform and Journey Optimizer.  |
+| December 2023 | Data Collection | [Create a datastream](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/initial-configuration/create-datastream.html) | Video | Learn how to create a datastream in Experience Platform. |
+| December 2023 | Data Collection | [Configure a tag property](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/initial-configuration/configure-tags.html) | Video | Learn how to configure a tag property in the Data Collection interface. |
+| December 2023 | Data Collection | [Install Adobe Experience Platform Mobile SDKs](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/install-sdks.html) | Articles | Learn how to implement the Adobe Experience Platform Mobile SDK in a mobile app. |
+| December 2023 | Profiles | [Create a computed attribute for the sum of purchases](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/create-a-computed-attribute-for-sum-of-purchases.html) | Video | Learn how to use computed attributes to sum the purchase amounts made by a user across multiple sales channels. |
+| December 2023 | Data Collection | [Create a tags property](https://experienceleague.adobe.com/docs/platform-learn/data-collection/tags/create-a-property.html) | Updated video | Learn how to create tag properties to manage the marketing tags on your website. |
+| December 2023 | Administration | Add product administrators | [linktext](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/add-product-administrators.html) | Updated video | Learn how to add product administrators for Adobe Experience Platform. |
 
 {style="table-layout:auto"}
-
 
 ### New [!DNL Experience Platform] support knowledge base{#kb-aep}
 
@@ -162,7 +169,7 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 
 +++
 
-<!-- ## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Real-Time Customer Data Platform] {#rtcdp}
+## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Real-Time Customer Data Platform] {#rtcdp}
 
 Find the latest tutorials for [!DNL Real-Time Customer Data Platform] on Experience League.
 
@@ -172,10 +179,7 @@ New videos, tutorials, or courses published for Adobe [!DNL Real-Time Customer D
 
 | Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
-| September 2023 | [Personalize onsite experiences for unknown visitors using partner-aided visitor recognition](https://experienceleague.adobe.com/docs/platform-learn/tutorials/partner-data-support/unknown-visitor-personalization-partner-data.html) | Video | Learn how to collect third-party attributes from the [!DNL Experience Platform] [!UICONTROL Web SDK] and personalize your onsite experience for unknown visitors using partner-aided visitor recognition. |
-| September 2023 | [Add partner attributes to first-party profiles in Real-Time CDP](https://experienceleague.adobe.com/docs/platform-learn/tutorials/partner-data-support/partner-enrichment-partner-data.html) | Video | Learn how to add partner attributes to your first-party profiles to expand the reach through additional channels in the [!DNL Real-Time CDP]. |
-| September 2023 | [Partner data support overview in the Real-Time CDP](https://experienceleague.adobe.com/docs/platform-learn/tutorials/partner-data-support/partner-data-support-overview.html) | Video | Learn how the [!DNL Real-Time Customer Data Platform] supports full-funnel marketing using partner data for first-party data enrichment and prospecting use cases as third-party cookies continue to be deprecated. |
-| September 2023 | [Support offsite prospecting use cases using partner data in the Real-time CDP](https://experienceleague.adobe.com/docs/platform-learn/tutorials/partner-data-support/offsite-prospecting-partner-data.html) | Video | Learn about the workflow used to ingest new prospects from partners in the [!DNL Real-Time CDP] for pre-visit targeting. |
+| December 2023 | [Import sample data to Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html) | Updated article | Learn how to set up an Experience Platform sandbox environment with sample data.  |
 
 {style="table-layout:auto"}
 
@@ -203,12 +207,17 @@ Release version: **2.24.0**
 
 New video tutorials, articles, and courses published for Adobe [!DNL Analytics].
 
-| Published | Name | Type | Description |
+|Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2024|[linktext](https://experienceleague.adobe.com/?lang=en#home)|
+|January 2024|[Share a read-only project in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.html)|Video |Learn how to share read-only Workspace Analysis projects to users, and understand the features available for this permission level.|
+|December 2023|[A helpful checklist for auditing your Data Dictionary](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/admin-tips/audit-your-data-dictionary.html)|Article |Enhance data efficiency and reliability with our Adobe Analytics and Customer Journey Analytics Data Dictionary audit checklist. |
+|December 2023|[Introduction to conversion variables (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)|Video |Learn about how conversion variables, also known as eVars, are used in Adobe Analytics, including how they relate to conversion events and differ from traffic variables.|
+|December 2023|[Basic configuration of the Analytics extension in Experience Platform Tags](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.html)|Video |Watch how to configure the Analytics extension in Experience Platform Tags for a basic site.|
+|December 2023|[Configure library management for the Analytics extension in Adobe Tags](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.html)|Video |Learn about the library management configuration options for the Analytics extension in Adobe Tags, including selecting report suites for data collection.|
+|December 2023|[Configure global variable settings for the Analytics extension in Experience Platform Tags](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.html)|Video |Learn how to configure the global variable settings in the Analytics Tags extension for a basic website.|
+|December 2023|[Configure general settings for the Analytics extension in Experience Platform Tags](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.html)|Video |Learn about the general configuration options for the Analytics extension in Adobe Tags, including setting the tracking server. |
 
 {style="table-layout:auto"}
-
 
 ### New Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
 
@@ -239,12 +248,9 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 New videos, tutorials, or courses published for [!DNL Customer Journey Analytics].
 
-| Published | Name | Type | Description |
+|Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2024|[linktext](https://experienceleague.adobe.com/)|Video |Desc.|
-|January 2024|[linktext](https://experienceleague.https://experienceleague.adobe.com//)|Video |Desc.|
-|January 2024|[linktext](https://experienceleague.adobe.com/)|Video |Desc.|
-|January 2024|[linktext](https://experienceleague.adobe.com/)|Video |Desc.|
+|January 2024|[CJA lookups for lookup and profile data](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/cja-lookup-data.html)|Video |Learn how to add lookup data to lookup and profile datasets and to plan out and map your key fields.|
 
 {style="table-layout:auto"}
 
@@ -427,7 +433,22 @@ New videos, tutorials, or courses published for Experience Manager.
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| January 2024 | Applications | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Description |
+| January 2024 | AEM Sites | [References](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/search/references.html) | Video | Learn how [!UICONTROL Content Fragment] Console and Editor makes it easy to understand and manage referenced content. |
+| January 2024 | AEM Assets | [Switch Views](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/switch-views.html) | Video | Learn how to efficiently switch between views in AEM Assets as a Cloud Service, ensuring seamless asset management. |
+| January 2024 | AEM Assets | [Find Similar Images](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/find-similar-images.html) | Video | Learn how [!UICONTROL Find Similar Image] in AEM Assets makes it easy to find the best image for your needs. |
+| January 2024 | AEM Assets | [Extract Archive](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/extract-archive.html?lang=en) | Video | Learn how to master efficient digital asset management in AEM Assets with our informative video, showcasing the Extract ZIP feature for effortlessly organizing and uploading your asset hierarchies directly into the DAM.|
+| January 2024 | AEM foundation | [Indexing best practices in AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/development/understand-indexing-best-practices.html?lang=en) | Article | Learn about indexing best practices in Experience Manager.  |
+| December 2023 | AEM Sites | [Document authoring videos](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/overview.html?lang=en) | Videos | Understand how to configure document authoring allowing AEM authors to edit and publish documents using Microsoft Word or Google Docs. |
+| December 2023 | AEM Sites | [Edge Delivery Services videos](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/edge-delivery-services/overview.html?lang=en) | Article | Learn how to make web sites fast with Edge Delivery. |
+| December 2023 | AEM CS | [How to enable CDN caching](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/caching/how-to/enable-caching.html) | Video | Learn how to enable the caching of HTTP responses in AEM as a Cloud Service's CDN.|
+| December 2023 | AEM Forms | [Pre-populate core component-based adaptive form](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/prefill-core-component-based-form/introduction.html?lang=en) | Articles | Learn about a use case for prefilling component-based adaptive forms. |
+| December 2023 | AEM Forms | [Get started storing form submissions in Azure](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/store-submiited-data-with-metadata-tags/introduction.html) | Articles | Learn a simple use case for storing form submissions in Azure storage with blob index tags.  |
+| December 2023 | Cloud Manager | [Cloud Manager custom permissions](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/cloud-permissions.html) | Video | Learn how to use Cloud Manager custom permissions in AEM to strategically manage access for different teams, ensuring efficient and secure project management and deployment. |
+| December 2023 | AEM Sites | [Blocks and autoblocks](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/blocks-and-autoblocks.html?lang=en) | Video | Explore how blocks and autoblocks are used in document authoring and how these can improve the site and authoring experience. |
+| December 2023 | AEM Forms | [Register a servlet using resource type](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/developing-for-cloud-service/registering-servlet-using-resourcetype.html?lang=en) | Video |Learn about submitting adaptive form to a custom submit handler. You can bind servlets by resource type instead of paths.|
+| December 2023 | AEM Sites | [Deleting pages](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/edge-delivery-services/how-to/delete-page.html) | Video | Learn how to delete a page in Edge Delivery Services. |
+| December 2023 | AEM Sites | [Social media sharing](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/edge-delivery-services/how-to/social-media-sharing.html) | Video | Learn how to optimize your content for social media sharing using Edge Delivery Services. |
+| December 2023 | AEM Assets | [AEM Assets and Adobe Express](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express.html) | Video | Discover how to effortlessly create and edit content within Adobe Experience Manager Assets using Adobe Express.  |
 
 {style="table-layout:auto"}
 
@@ -496,7 +517,12 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2024|[linktext](https://experienceleague.adobe.com/?lang=en#home)|Video |Desc.|
+|December 2023|[Getting Started with IO Events for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/getting-started-io-events.html)|Video |Learn about Adobe I/O events. In this demonstration, an event from Adobe Commerce is sent to a Slack channel using Adobe Developer App Builder and the event from Adobe Commerce.|
+|December 2023|[Create a grouped product](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/create-products/create-grouped-product.html)|Video |Learn how to create a grouped product using the REST API and the Adobe Commerce Admin.|
+|December 2023|[Create a configurable product](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/create-products/create-configurable-product.html?lang=en)|Video |Learn how to create a configurable product using the REST API and the Adobe Commerce Admin.|
+|December 2023|[Create a downloadable product](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/create-products/create-downloadable-product.html)|Video |Learn how to create a downloadable product using the REST API and the Adobe Commerce Admin.|
+|December 2023|[Best practices for modifying or overriding core and third-party PHP code](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-code.html)|Video |Learn the best practices when the need arises to modify the functionality, result, or input of any code you did not author or do not directly control. In other words, core code and third-party code.|
+
 
 {style="table-layout:auto"}
 
@@ -596,20 +622,16 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 Learn about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
 
-<!-- ### New [!DNL Journey Optimizer] tutorials {#tutorials-ajo}
+### New [!DNL Journey Optimizer] tutorials {#tutorials-ajo}
 
 New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|September 2023|[Manage, author, and use fragments](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/manage-author-use-fragments.html)|Video |Learn how to manage, author, and use fragments in Adobe Journey Optimizer.|
-|September 2023|[Single-page application (SPA) support in the web editor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html)|Video |Learn how to author single-page applications (SPA) in the Journey Optimizer web editor.|
-|September 2023|[Channel level reports](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/channel-level-reports.html)|Video |Learn how to access, navigate, and export reports on the channel level. |
-|September 2023|[Export reports in CSV format](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/export-reports-in-csv-format.html)|Video |Understand how to download a CSV report for a report and for a single widget.|
-|September 2023|[Single-page application (SPA) support in the web editor](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/singel-page-application-support.html)|Video |Learn how to author single-page applications (SPA) in the Journey Optimizer web editor.|
-|September 2023|[Create an in-app message in a journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/in-app-channel/create-an-in-app-message-in-a-journey.html)|Video |Understand what an in-app message is and how it can be applied in a journey. Learn how to create an in-app message in a journey and how to test and publish your journey.|
+|December 2023|[Create and execute an IP warmup plan](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/create-and-execute-an-ip-warmup-plan.html)|Video |Learn how to create and execute an IP warmup plan.|
+|December 2023|[Trigger campaigns using APIs](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-campaigns/api-triggered-campaigns.html)|Video |Learn how to create a campaign and trigger it from an external system based on user interactions, using the Interactive Message Execution REST API.|
 
-{style="table-layout:auto"} -->
+{style="table-layout:auto"}
 
 ### New [!DNL Journey Optimizer] support knowledge base
 
@@ -670,6 +692,8 @@ New videos, tutorials, or courses published for Adobe Marketo.
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |January 2024|[Marketo Measure Tutorials home](https://experienceleague.adobe.com/docs/marketo-measure-learn/tutorials/overview.html?lang=en)|Video |Vew all the recently added video tutorials for Marketo Measure!|
+|December 2023|[Getting started with Microsoft Dynamics sync](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/microsoft-dynamics-sync-setup.html?lang=en)|Video |Learn how the Microsoft Dynamics 365 sync works and configure the setup properly to allow the two systems to speak to each other. |
+|December 2023|[Marketing Attribution and Metrics](https://experienceleague.adobe.com/docs/marketo-measure-learn/tutorials/evangelist/attribution-and-metrics.html)|Video |Learn what questions to ask while in the sales process, how to decipher what software is marketing attribution or metric specific, and how to scale your marketing attribution needs.|
 
 {style="table-layout:auto"}
 
