@@ -250,7 +250,7 @@ New videos, tutorials, or courses published for [!DNL Customer Journey Analytics
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2024|[CJA lookups for lookup and profile data](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/cja-lookup-data.html)|Video |Learn how to add lookup data to lookup and profile datasets and to plan out and map your key fields.|
+|December 2023|[CJA lookups for lookup and profile data](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/cja-lookup-data.html)|Video |Learn how to add lookup data to lookup and profile datasets and to plan out and map your key fields.|
 
 {style="table-layout:auto"}
 
