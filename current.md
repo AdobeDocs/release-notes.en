@@ -60,6 +60,8 @@ Updated **January 11, 2024**
 
 +++Upcoming events on Experience League
 
+* **[!DNL ANALYTICS and CJA]** | Experience League LIVE | _Bringing your Adobe Analytics data and analyses into Customer Journey Analytics_ | Don't miss this Experience League LIVE event about Analytics and Customer Journey Analytics. | **January 17 @ 10:00 AM PT** | [Register](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/overview.html?lang=en)
+
 * **[!DNL WORKFRONT]** | Customer workshop | _Admin 101 - Getting Started with Workfront_ | New to Workfront? This event provides new system admins with an intro to resources, a rundown of system navigation and best practices for initial setup. | **January 17 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL MARKETO ENGAGE]** | Learn from your peers | _Person Scoring Mastery with Marketo Engage: Localized Nuances in a Global Framework_ | Join this webinar on Jan 18th, 2024 as Marketo Engage Champion shares how to allow local influences in your scoring model when working globally without losing consistency across your organization. | **January 18 @ 8:00 AM PT** | [Register](https://engage.adobe.com/marketo-engage-person-scoring-localized-webinar-registration.html?sdid=S36FMPSR&mv=email)
