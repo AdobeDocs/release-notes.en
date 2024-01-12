@@ -20,7 +20,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## January 2024
 
-Latest update: **January 11, 2024**
+Latest update: **January 12, 2024**
 
 * [[!DNL Experience League] events and updates](#events)
 * [[!DNL Adobe GenStudio]](#genstudio) - **New!**
@@ -43,7 +43,7 @@ Latest update: **January 11, 2024**
 * [[!DNL Adobe Workfront]](#workfront)
 * [[!DNL Adobe Mix Modeler]](#mix-modeler)
 * [[!DNL Adobe Advertising]](#advertising)
-* [[!DNL Adobe Pass]](#pass) (formerly [!DNL Adobe Primetime])
+* [[!DNL Adobe Pass]](#pass)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [Customer Data Management - Voices](#voices)
@@ -60,7 +60,7 @@ Updated **January 11, 2024**
 
 +++Upcoming events on Experience League
 
-* **[!DNL WORKFRONT]** | Customer workshop | _Admin 101 - Getting Started with Workfront_ | New to Workfront? This event provide new system admins with an intro to resources, a rundown of system navigation and best practices for initial setup. | **January 17 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Customer workshop | _Admin 101 - Getting Started with Workfront_ | New to Workfront? This event provides new system admins with an intro to resources, a rundown of system navigation and best practices for initial setup. | **January 17 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL MARKETO ENGAGE]** | Learn from your peers | _Person Scoring Mastery with Marketo Engage: Localized Nuances in a Global Framework_ | Join this webinar on Jan 18th, 2024 as Marketo Engage Champion shares how to allow local influences in your scoring model when working globally without losing consistency across your organization. | **January 18 @ 8:00 AM PT** | [Register](https://engage.adobe.com/marketo-engage-person-scoring-localized-webinar-registration.html?sdid=S36FMPSR&mv=email)
 
@@ -68,9 +68,9 @@ Updated **January 11, 2024**
 
 * **[!DNL WORKFRONT]** | Customer workshop | _Connect: Admin Chat for Marketing & Creative_ | Are you a system admin for a marketing or creative team? This customer-driven session will connect you with other admins to discuss best practices as well as tips and tricks. | **February 2 @ 9:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Customer workshop | _Connect: Industry Circle - Higher Education_ | Brand new in 2024, this first industry circle is an informal roundtable discussion designed to bring together Workfront Admins in Higher Education to network, share experiences, learning and best practices. | **February 8 @ 9:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Customer workshop | _Connect: Industry Circle - Higher Education_ | Brand new in 2024, this first industry circle is an informal roundtable discussion designed to bring together Workfront Admins in Higher Education to network, share experiences, learning, and best practices. | **February 8 @ 9:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Customer workshop | _Admin 101: Getting Your Users to Use Workfront_ | New to Workfront? Join our monthly meetup for new admins! This month, we'll discuss best practices for user adoption. | **February 14 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Customer workshop | _Admin 101: Getting Your Users to Use Workfront_ | New to Workfront? Join our monthly meetup for new admins! This month, we discuss best practices for user adoption. | **February 14 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 View more [upcoming events](https://experienceleague.adobe.com/events/) or browse [event recordings](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) on Experience League.
 
@@ -84,11 +84,11 @@ View more [upcoming events](https://experienceleague.adobe.com/events/) or brows
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2024|[GenStudio Tutorials](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/overview.html?lang=en)|Videos |View all-new Adobe GenStudio tutorials home page on Experience League.|
-|January 2024|[Workflow and Planning: Streamline and accelerate work](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/workflow-and-planning.html?lang=en)|Videos |For the company struggling to connect and track their  content requirements through the planning process to content production and  completion. Lack of effective process, planning, approvals, and data  consistency across projects is robbing this company's content supply chain of  both productivity and efficiency.|
-|January 2024|[Creative Productivity: Supercharge creative teams](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/creative-productivity.html?lang=en)|Videos |For the company that has rockstar creatives but needs to turn up their content creation. GenStudio provides tools supercharged with GenAI that will help this team boost their content production, delivery and discoverability.|
-|January 2024|[Marketing Agility: Empower non-creatives to scale](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/marketing-agility.html?lang=en)|Videos |With Adobe GenStudio, sometimes a content request can be addressed without the full creative team/studio treatment. Adobe puts tools in the hands of marketers and other potential content creators so that quick turns on creating content variations and updates can be executed by an expanded, broader group of individuals connected to the Content Supply Chain, dramatically increasing the content throughput and time-to-market.|
-|January 2024|[Delivery and Activation: power experiences and performance](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/delivery-and-activation.html?lang=en)|Videos |For the company that needs support getting the right content in front of the right individual on the right channel. GenStudio makes that connection better than any other solution, while also providing the analytics to ensure overall content performance.|
+|January 2024|[GenStudio Tutorials](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/overview.html?lang=en)|Videos |View Experience League tutorials on the new [!DNL Adobe GenStudio]. GenStudio is an end-to-end solution to accelerate and simplify your content supply chain with generative AI and intelligent automation.|
+|January 2024|[Workflow and planning: Streamline and accelerate work](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/workflow-and-planning.html?lang=en)|Videos |For the company struggling to connect and track their content requirements through the planning process to content production and completion. Lack of effective process, planning, approvals, and data consistency across projects are robbing this company's content supply chain of  both productivity and efficiency.|
+|January 2024|[Creative productivity: Supercharge creative teams](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/creative-productivity.html?lang=en)|Videos |For the company that has rock star creatives but needs to turn up their content creation. GenStudio provides tools supercharged with GenAI that help this team boost their content production, delivery, and discoverability.|
+|January 2024|[Marketing agility: Empower non-creatives to scale](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/marketing-agility.html?lang=en)|Videos |With Adobe GenStudio, sometimes a content request can be addressed without the full creative team/studio treatment. Adobe puts tools in the hands of marketers and other potential content creators. These tools enable quick turns on creating content variations. Updates can be executed by an expanded, broader group of individuals connected to the content supply chain, dramatically increasing the content throughput and time-to-market.|
+|January 2024|[Delivery and Activation: power experiences and performance](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/delivery-and-activation.html?lang=en)|Videos |For the company that needs support on getting the right content in front of the right individual on the right channel. GenStudio makes that connection better than any other solution, while also providing the analytics to ensure overall content performance.|
 
 +++
 
@@ -371,12 +371,12 @@ _CDN Configuration Early Adopter Program_
 In addition to the recently released [Traffic Filter Rules](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/security/traffic-filter-rules-including-waf.html?lang=en), which includes the optionally licensable Web Application Firewall (WAF) rules, there is an opportunity to use the Configuration Pipeline to declare and deploy other types of CDN configuration. Adobe wants to hear about your use cases, including the following:
 
 * 301/302 client-side redirects
-* proxying requests at the edge to arbitrary origins
+* Proxy requests at the edge to arbitrary origins
 * URL transformations
-* setting or modifying request or response headers
-* custom error pages when the CDN can't reach AEM
-* authentication by username/password
-* any other useful CDN configurations
+* Setting or modifying request or response headers
+* Custom error pages when the CDN can't reach AEM
+* Authentication by username/password
+* Any other useful CDN configurations
 
 Send an email to [aemcs-cdn-config-adopter@adobe.com](mailto:aemcs-cdn-config-adopter@adobe.com) from your official email ID with your feedback.
 
@@ -478,7 +478,7 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 |December 2023|[Performance Issues while editing content](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23222.html)|New article| Learn to troubleshoot and the resolution to performance issues when editing content in the browser developer console.|
 |December 2023|[Missing [!UICONTROL Index Manager] on [!DNL AEMaaCS]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23195.html)|New article| Learn about how [!UICONTROL Index Manager] in [!DNL AEMaaCS] does not support checking the sizes or statuses of indexes, like in [!DNL AEM Managed Services] and [!DNL AEM] on-premises.|
 |December 2023|[Images on Remote [!DNL DAM] do not appear due to permission](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23185.html)|New article| Learn about the Add images on Remote [!DNL DAM (Digital Asset Management)] by granting the necessary permissions for [!UICONTROL Connected Assets].|
-|December 2023|[[!UICONTROL Pipeline Build] fails due to [!DNL Python] not available error](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23141.html)|New article| Learn the resolution to fix the [!UICONTROL Pipeline Build] failure due to a [!DNL Python] error by creating a [!DNL Maven] project that uses the exec plugin to install [!DNL Python3].|
+|December 2023|[[!UICONTROL Pipeline Build] fails due to [!DNL Python] not available error](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23141.html)|New article| Learn the resolution to fix the [!UICONTROL Pipeline Build] failure due to a [!DNL Python] error by creating a [!DNL Maven] project that uses the exec plugin to install [!DNL Python 3].|
 |December 2023|[Steps to get [!DNL Oak-run] tool for the [!DNL AEM] version](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23130.html)|New article| Learn how to get the [!DNL Oak-run] tool depending on the [!DNL AEM] version.|
 |December 2023|[Clicking "[!DNL Adobe Experience Manager]" in top left corner to go to main navigation screen opens "[!UICONTROL Assets]" view](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23111.html)|New article| Learn about when [!UICONTROL Global Navigation] is used from a location inside [!UICONTROL Assets], clicking on [!DNL Adobe Experience Manager] in the top left corner to go to the main navigation screen always opens the [!UICONTROL Assets] view instead of the main one.|
 |December 2023|[Frontend pipeline deployment breaks the website](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23070.html)|New article| Learn the solution to the issue where frontend pipelines are not successfully applied to websites, even when deployment finishes successfully.|
@@ -492,9 +492,9 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 
 ### Other Help resources for [!DNL Experience Manager]
 
-* [Experience Manager as a Cloud Service Guides](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html)
+* [Experience Manager as a Cloud Service Guides](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html)
 * [Cloud Manager User Guide](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html)
-* [Experience Manager 6.5 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-65/content/implementing/deploying/home.html)
+* [Experience Manager 6.5 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-65/content/implementing/deploying/introduction/platform.html)
 * [Experience Manager 6.4 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-64.html)
 * [Older Versions of Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en#previous-updates)
 * [Dynamic Media Classic Help Home](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html)
@@ -533,7 +533,7 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-|December 2023|[Getting Started with IO Events for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/getting-started-io-events.html)|Video |Learn about Adobe I/O events. In this demonstration, an event from Adobe Commerce is sent to a Slack channel using Adobe Developer App Builder and the event from Adobe Commerce.|
+|December 2023|[Getting Started with IO Events for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/getting-started-io-events.html)|Video |Learn about Adobe I/O Events. In this demonstration, an event from Adobe Commerce is sent to a Slack channel using Adobe Developer App Builder and the event from Adobe Commerce.|
 |December 2023|[Create a grouped product](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/create-products/create-grouped-product.html)|Video |Learn how to create a grouped product using the REST API and the Adobe Commerce Admin.|
 |December 2023|[Create a configurable product](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/create-products/create-configurable-product.html?lang=en)|Video |Learn how to create a configurable product using the REST API and the Adobe Commerce Admin.|
 |December 2023|[Create a downloadable product](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/create-products/create-downloadable-product.html)|Video |Learn how to create a downloadable product using the REST API and the Adobe Commerce Admin.|
@@ -608,7 +608,7 @@ New articles and updates to existing articles for [!DNL Campaign].
 |December 2023|[Machine-Specific login error: [!DNL XTK-170092] The expression on a condition of the query is too complex.](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23188.html)|New article| Learn how to perform the hard cache clear to resolve the machine-specific login error: XTK-170092 The expression on a condition of the query is too complex.|
 |December 2023|[Campaign: [!DNL PGS-220000] ERROR: operator does not exist: character varying = integer](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23137.html)|New article| Learn about the resolution to a [!DNL Campaign Classic v7] issue where you get the [!DNL PGS-220000 Error] `PostgreSQL: ERROR: operator does not exist: character varying = integer` error, when running a workflow that contains an alert activity.|
 |December 2023|[Control panel doesn't display all non-out-of-the-box tables and running workflows)](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23124.html)|New article| Learn why the Campaign control panel doesn't display all the non-out-of-the-box tables and running workflows.|
-|December 2023|[Migrating [!DNL Adobe Campaign Classic] from [!DNL Linux] 7.9 to 8.8: A Comprehensive Guide](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23123.html)|New article| Learn how to migrate your existing [!DNL Adobe Campaign Classic] instance from [!DNL Linux] 7.9 to [!DNL Linux] 8.8 by following this comprehensive step-by-step guide.|
+|December 2023|[Migrating [!DNL Adobe Campaign Classic] from [!DNL Linux] 7.9 to 8.8: A Comprehensive Guide](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23123.html)|New article| Learn how to migrate your existing [!DNL Adobe Campaign Classic] instance from [!DNL Linux&reg;] 7.9 to [!DNL Linux&reg;] 8.8 by following this comprehensive step-by-step guide.|
 |December 2023|[Limitation on configuring multiple workflows for marketing campaigns](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23013.html)|New article| Discover why errors occur within campaigns and how adjusting the "[!UICONTROL Nature Property]" to *[!UICONTROL Not Specified]* can resolve the issue effectively.|
 |December 2023|[[!DNL X-Env-sender] is different than the from domain](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23053.html)|New article| Learn from this detailed guide on how to fix the issue when a [!DNL X-Env-sender] is different than the from domain by reviewing the route to the correct external account.|
 |December 2023|[Customer unable to delete records from custom schema](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23001.html)|New article| Learn how to troubleshoot data deletion issues in custom schemas.|
@@ -708,8 +708,8 @@ New videos, tutorials, or courses published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2024|[Marketo Measure Tutorials home](https://experienceleague.adobe.com/docs/marketo-measure-learn/tutorials/overview.html?lang=en)|Video |Vew all the recently added video tutorials for Marketo Measure!|
-|December 2023|[Getting started with Microsoft Dynamics sync](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/microsoft-dynamics-sync-setup.html?lang=en)|Video |Learn how the Microsoft Dynamics 365 sync works and configure the setup properly to allow the two systems to speak to each other. |
+|January 2024|[Marketo Measure Tutorials home](https://experienceleague.adobe.com/docs/marketo-measure-learn/tutorials/overview.html?lang=en)|Video |View all the recently added video tutorials for Marketo Measure!|
+|December 2023|[Getting started with Microsoft&reg; Dynamics sync](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/microsoft-dynamics-sync-setup.html?lang=en)|Video |Learn how the Microsoft&reg; Dynamics 365 sync works and configure the setup properly to allow the two systems to speak to each other. |
 |December 2023|[Marketing Attribution and Metrics](https://experienceleague.adobe.com/docs/marketo-measure-learn/tutorials/evangelist/attribution-and-metrics.html)|Video |Learn what questions to ask while in the sales process, how to decipher what software is marketing attribution or metric specific, and how to scale your marketing attribution needs.|
 
 {style="table-layout:auto"}
@@ -788,7 +788,7 @@ See [What's New in [!DNL Advertising Search, Social, & Commerce]](https://experi
 
 >[!NOTE]
 >
->_[!DNL Adobe Primetime]_ is now _[!DNL Adobe Pass]_. You might see both brand names in documentation in the near future, until the re-brand work is complete.
+>_[!DNL Adobe Primetime]_ is now _[!DNL Adobe Pass]_. You might see both brand names in documentation soon, until the rebrand work is complete.
 
 See [Adobe Pass Release Notes](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html) to find release-specific information, system requirements, limitations, fixed issues, and known issues.
 
