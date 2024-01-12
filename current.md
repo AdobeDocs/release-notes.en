@@ -23,6 +23,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 Latest update: **January 11, 2024**
 
 * [[!DNL Experience League] events and updates](#events)
+* [[!DNL Adobe GenStudio]](#genstudio) - **New!**
 * [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
@@ -72,6 +73,22 @@ Updated **January 11, 2024**
 * **[!DNL WORKFRONT]** | Customer workshop | _Admin 101: Getting Your Users to Use Workfront_ | New to Workfront? Join our monthly meetup for new admins! This month, we'll discuss best practices for user adoption. | **February 14 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 View more [upcoming events](https://experienceleague.adobe.com/events/) or browse [event recordings](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) on Experience League.
+
++++
+
+## ![Icon](/assets/experience-league.png) Adobe GenStudio {#genstudio}
+
+[Adobe GenStudio](https://business.adobe.com/solutions/adobe-genstudio.html) is an end-to-end solution to accelerate and simplify your content supply chain with generative AI and intelligent automation. 
+
++++Details
+
+| Published | Name | Type | Description |
+| -----------| ---------- | ---------- | ---------- |
+|January 2024|[GenStudio Tutorials](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/overview.html?lang=en)|Videos |View all-new Adobe GenStudio tutorials home page on Experience League.|
+|January 2024|[Workflow and Planning: Streamline and accelerate work](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/workflow-and-planning.html?lang=en)|Videos |For the company struggling to connect and track their  content requirements through the planning process to content production and  completion. Lack of effective process, planning, approvals, and data  consistency across projects is robbing this company's content supply chain of  both productivity and efficiency.|
+|January 2024|[Creative Productivity: Supercharge creative teams](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/creative-productivity.html?lang=en)|Videos |For the company that has rockstar creatives but needs to turn up their content creation. GenStudio provides tools supercharged with GenAI that will help this team boost their content production, delivery and discoverability.|
+|January 2024|[Marketing Agility: Empower non-creatives to scale](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/marketing-agility.html?lang=en)|Videos |With Adobe GenStudio, sometimes a content request can be addressed without the full creative team/studio treatment. Adobe puts tools in the hands of marketers and other potential content creators so that quick turns on creating content variations and updates can be executed by an expanded, broader group of individuals connected to the Content Supply Chain, dramatically increasing the content throughput and time-to-market.|
+|January 2024|[Delivery and Activation: power experiences and performance](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/delivery-and-activation.html?lang=en)|Videos |For the company that needs support getting the right content in front of the right individual on the right channel. GenStudio makes that connection better than any other solution, while also providing the analytics to ensure overall content performance.|
 
 +++
 
@@ -561,9 +578,11 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials, courses, a
 
 ### Latest Campaign product releases
 
+Campaign Standard 24.1 Winter Release on Jan 15 
+
 * Campaign v8.5.2: [Release notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=en)
 
-* Campaign Standard: [Release notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
+* Campaign Standard: [v24.1 Winter Release notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
 
 * Campaign Classic v7.3.4: [Release notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
 
