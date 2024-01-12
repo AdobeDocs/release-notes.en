@@ -140,10 +140,10 @@ New videos, tutorials, or courses published for Adobe [!DNL Experience Platform]
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
 | December 2023 | Mobile SDK | [Implement Adobe Experience Cloud in mobile apps tutorial](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | Updated tutorial (multiple articles) | Learn how to implement Adobe Experience Cloud applications in your mobile app using Adobe Experience Platform Mobile SDK. |
-| December 2023 | Administration | [Add product administrators](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/add-product-administrators.html) | Video | Learn how to add new administrators for Adobe Experience Platform in Admin Console. Administrators are able to add and manage additional administrators, users, developers, and API credentials.  |
 | December 2023 | Platform, Journey Optimizer | [Create and send push notifications](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-push.html) | Article | Learn how to create push notifications for mobile apps with Experience Platform Mobile SDK and Journey Optimizer. |
 | December 2023 | Mobile SDK, Journey Optimizer | [Create and send in-app messages](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp.html) | Article | Learn how to create in-app messages for mobile apps with Experience Platform Mobile SDK and Journey Optimizer. |
 | December 2023 | Platform, Journey Optimizer | [Create and display offers with Decision Management](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-offers.html) | Article | Learn how to show offers from Journey Optimizer Decision Management in your mobile apps with Experience Platform Mobile SDK. |
+| December 2023 | Administration | [Add product administrators](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/add-product-administrators.html) | Video | Learn how to add new administrators for Adobe Experience Platform in Admin Console. Administrators are able to add and manage additional administrators, users, developers, and API credentials.  |
 | December 2023 | Administration | [Add developers and give permissions to API credentials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/add-developers.html) | Video | Learn how to add developers to Adobe Experience Platform-based applications like Real-Time Customer Data Platform and Journey Optimizer.  |
 | December 2023 | Administration | [Add users and manage permissions](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/add-users.html) | Updated video | Learn how to add users and manage permissions in Adobe Experience Platform-based applications like Real-Time Customer Data Platform and Journey Optimizer.  |
 | December 2023 | Data Collection | [Create a datastream](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/initial-configuration/create-datastream.html) | Video | Learn how to create a datastream in Experience Platform. |
@@ -151,7 +151,6 @@ New videos, tutorials, or courses published for Adobe [!DNL Experience Platform]
 | December 2023 | Data Collection | [Install Adobe Experience Platform Mobile SDKs](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/install-sdks.html) | Articles | Learn how to implement the Adobe Experience Platform Mobile SDK in a mobile app. |
 | December 2023 | Profiles | [Create a computed attribute for the sum of purchases](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/create-a-computed-attribute-for-sum-of-purchases.html) | Video | Learn how to use computed attributes to sum the purchase amounts made by a user across multiple sales channels. |
 | December 2023 | Data Collection | [Create a tags property](https://experienceleague.adobe.com/docs/platform-learn/data-collection/tags/create-a-property.html) | Updated video | Learn how to create tag properties to manage the marketing tags on your website. |
-| December 2023 | Administration | Add product administrators | [linktext](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/add-product-administrators.html) | Updated video | Learn how to add product administrators for Adobe Experience Platform. |
 
 {style="table-layout:auto"}
 
@@ -183,7 +182,7 @@ New videos, tutorials, or courses published for Adobe [!DNL Real-Time Customer D
 
 {style="table-layout:auto"}
 
-+++  -->
++++
 
 ## ![Icon](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
@@ -782,16 +781,11 @@ New tutorials and courses published for [!DNL Document Cloud], including [!DNL A
 
 +++Details
 
-| Published | Application | Name | Type | Description |
-| -----------| ---------- | ---------- | ---------- |---------- |
-| January 2024 | Acrobat Sign | [linktext](https://experienceleague.adobe.com/?lang=en#home) | Video | Learn how non-technical members of your organization can advanced simple workflows that connect to other systems using the pre-built Microsoft&reg; Power Automate connectors that are included free with Acrobat Sign.  |
-
-{style="table-layout:auto"}
-
 For [!DNL Document Cloud] tutorials, see:
 
 * [Adobe Acrobat](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/overview.html)
 * [Adobe Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
+* [Adobe Acrobat Services API tutorials](https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html?lang=en)
 * [Document Cloud Learn & Support](https://helpx.adobe.com/support/document-cloud.html)
 
 +++
@@ -801,12 +795,6 @@ For [!DNL Document Cloud] tutorials, see:
 New videos, tutorials, or courses published for applications in [!DNL Adobe Creative Cloud for enterprise].
 
 +++Details
-
-|Published|Application|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |---------- |
-|January 2024|Adobe Express|[linkext](https://experienceleague.adobe.com/?lang=en#home)|Video |Learn how to add effects and adjustments to a photo.|
-
-{style="table-layout:auto"}
 
 See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html) for the latest tutorials.
 
