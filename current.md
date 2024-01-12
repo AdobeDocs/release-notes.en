@@ -138,9 +138,9 @@ Learn about [!DNL Experience Cloud] central interface components and administrat
 | ------- | ------- |
 | Log-in page | Log-in page automatically rotates background images on each load. (No new functionality.) |
 
-For help on Experience Cloud central interface components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
-
 {style="table-layout:auto"}
+
+For help on Experience Cloud central interface components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
 
 +++
 
@@ -582,13 +582,11 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials, courses, a
 
 ### Latest Campaign product releases
 
-Campaign Standard 24.1 Winter Release on Jan 15 
-
 * Campaign v8.5.2: [Release notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=en)
 
 * Campaign Standard: [v24.1 Winter Release notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
 
-* Campaign Classic v7.3.4: [Release notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
+* Campaign Classic v7.3.5: [Release notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
 
 * Control Panel: [Release notes](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en) 
 
