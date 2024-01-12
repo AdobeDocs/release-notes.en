@@ -19,9 +19,9 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## November/December 2023
 
-Latest update: **January 5, 2024**
+Latest update: **January 12, 2024**
 
-* [[!DNL Experience League] events and updates](#events) (updated **January 5**)
+* [[!DNL Experience League] events and updates](#events) (updated **January 12**)
 * [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
@@ -53,7 +53,7 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 ### Events on Experience League
 
-Updated **January 5, 2024**
+Updated **January 12, 2024**
 
 +++Upcoming events on Experience League
 
