@@ -22,6 +22,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 Latest update: **January 12, 2024**
 
 * [[!DNL Experience League] events and updates](#events) (updated **January 12**)
+* [[!DNL Adobe GenStudio]](#genstudio) - **New!**
 * [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
@@ -74,6 +75,23 @@ Updated **January 12, 2024**
 View more [upcoming events](https://experienceleague.adobe.com/events/) or browse [event recordings](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) on Experience League.
 
 +++
+
+## ![Icon](/assets/experience-league.png) Adobe GenStudio {#genstudio}
+
+[Adobe GenStudio](https://business.adobe.com/solutions/adobe-genstudio.html) is an end-to-end solution to accelerate and simplify your content supply chain with generative AI and intelligent automation. 
+
++++Details
+
+| Published | Name | Type | Description |
+| -----------| ---------- | ---------- | ---------- |
+|January 2024|[GenStudio Tutorials](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/overview.html?lang=en)|Videos |View Experience League tutorials on the new [!DNL Adobe GenStudio]. GenStudio is an end-to-end solution to accelerate and simplify your content supply chain with generative AI and intelligent automation.|
+|January 2024|[Workflow and planning: Streamline and accelerate work](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/workflow-and-planning.html?lang=en)|Videos |For the company struggling to connect and track their content requirements through the planning process to content production and completion. Lack of effective process, planning, approvals, and data consistency across projects are robbing this company's content supply chain of  both productivity and efficiency.|
+|January 2024|[Creative productivity: Supercharge creative teams](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/creative-productivity.html?lang=en)|Videos |For the company that has rock star creatives but needs to turn up their content creation. GenStudio provides tools supercharged with GenAI that help this team boost their content production, delivery, and discoverability.|
+|January 2024|[Marketing agility: Empower non-creatives to scale](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/marketing-agility.html?lang=en)|Videos |With Adobe GenStudio, sometimes a content request can be addressed without the full creative team/studio treatment. Adobe puts tools in the hands of marketers and other potential content creators. These tools enable quick turns on creating content variations. Updates can be executed by an expanded, broader group of individuals connected to the content supply chain, dramatically increasing the content throughput and time-to-market.|
+|January 2024|[Delivery and Activation: power experiences and performance](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/delivery-and-activation.html?lang=en)|Videos |For the company that needs support on getting the right content in front of the right individual on the right channel. GenStudio makes that connection better than any other solution, while also providing the analytics to ensure overall content performance.|
+
+{style="table-layout:auto"}
+
 
 ## ![Icon](/assets/certification-badge.png) Certification{#certification}
 
