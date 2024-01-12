@@ -58,7 +58,9 @@ Updated **January 12, 2024**
 
 +++Upcoming events on Experience League
 
-* **[!DNL ANALYTICS and CJA]** | Experience League LIVE | _Bringing your Adobe Analytics data and analyses into Customer Journey Analytics_ | Learn about using automated processes to move data and analyses from Adobe Analytics to Customer Journey Analytics, as well as any gotchas to consider along the way. | **January 17 @ 10:00 AM PT** | [Register](https://engage.adobe.com/ExpLeagueLive-240117.html)
+* **[!DNL TARGET]** | Webinar | _Adobe Target Personalization Maturity Series_ | Brands are looking for a blueprint on intelligent optimization to drive business impact and mature their personalization strategies. Join us as we explore AI and automation in a three-part webinar series! | **January 16 @ 8:00 AM PT** | [Register](https://adobe-target-personalization-maturity-webinar-series-q1-2024.dxfieldmarketing.adobeevents.com/)
+
+* **[!DNL ANALYTICS] and CJA** | Experience League LIVE | _Bringing your Adobe Analytics data and analyses into Customer Journey Analytics_ | Learn about using automated processes to move data and analyses from Adobe Analytics to Customer Journey Analytics, as well as any gotchas to consider along the way. | **January 17 @ 10:00 AM PT** | [Register](https://engage.adobe.com/ExpLeagueLive-240117.html)
 
 * **[!DNL WORKFRONT]** | Customer workshop | _Admin 101 - Getting Started with Workfront_ | New to Workfront? This event provides new system admins with an intro to resources, a rundown of system navigation and best practices for initial setup. | **January 17 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
