@@ -90,6 +90,8 @@ View more [upcoming events](https://experienceleague.adobe.com/events/) or brows
 |January 2024|[Marketing agility: Empower non-creatives to scale](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/marketing-agility.html?lang=en)|Videos |With Adobe GenStudio, sometimes a content request can be addressed without the full creative team/studio treatment. Adobe puts tools in the hands of marketers and other potential content creators. These tools enable quick turns on creating content variations. Updates can be executed by an expanded, broader group of individuals connected to the content supply chain, dramatically increasing the content throughput and time-to-market.|
 |January 2024|[Delivery and Activation: power experiences and performance](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/delivery-and-activation.html?lang=en)|Videos |For the company that needs support on getting the right content in front of the right individual on the right channel. GenStudio makes that connection better than any other solution, while also providing the analytics to ensure overall content performance.|
 
+{style="table-layout:auto"}
+
 +++
 
 ## ![Icon](/assets/certification-badge.png) Certification{#certification}
@@ -137,6 +139,8 @@ Learn about [!DNL Experience Cloud] central interface components and administrat
 | Log-in page | Log-in page automatically rotates background images on each load. (No new functionality.) |
 
 For help on Experience Cloud central interface components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
+
+{style="table-layout:auto"}
 
 +++
 
