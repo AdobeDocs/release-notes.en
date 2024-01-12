@@ -523,7 +523,6 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 |December 2023|[Create a downloadable product](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/create-products/create-downloadable-product.html)|Video |Learn how to create a downloadable product using the REST API and the Adobe Commerce Admin.|
 |December 2023|[Best practices for modifying or overriding core and third-party PHP code](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-code.html)|Video |Learn the best practices when the need arises to modify the functionality, result, or input of any code you did not author or do not directly control. In other words, core code and third-party code.|
 
-
 {style="table-layout:auto"}
 
 ### New [!DNL Commerce] support knowledge base{#kb-commerce}
@@ -806,6 +805,8 @@ New videos, tutorials, or courses published for applications in [!DNL Adobe Crea
 |Published|Application|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
 |January 2024|Adobe Express|[linkext](https://experienceleague.adobe.com/?lang=en#home)|Video |Learn how to add effects and adjustments to a photo.|
+
+{style="table-layout:auto"}
 
 See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html) for the latest tutorials.
 
