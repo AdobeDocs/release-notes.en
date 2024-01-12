@@ -649,7 +649,6 @@ New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |December 2023|[Create and execute an IP warmup plan](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/create-and-execute-an-ip-warmup-plan.html)|Video |Learn how to create and execute an IP warmup plan.|
-|December 2023|[Trigger campaigns using APIs](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-campaigns/api-triggered-campaigns.html)|Video |Learn how to create a campaign and trigger it from an external system based on user interactions, using the Interactive Message Execution REST API.|
 
 {style="table-layout:auto"}
 
