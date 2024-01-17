@@ -1,6 +1,6 @@
 ---
 title: Latest Release Notes
-description: Find the latest release notes for Adobe [!DNL Experience Cloud] products and services. Learn about upcoming events and new documentation on Experience League. Discover the latest tutorials and courses for [!DNL Experience Cloud] applications.
+description: Find the latest release notes and knowledge base issues for Adobe [!DNL Experience Cloud] products and services. Learn about upcoming events and new documentation on Experience League. Discover the latest tutorials and courses for [!DNL Experience Cloud] applications.
 doc-type: release notes
 last-update: January 2024
 author: mfrei
@@ -13,7 +13,12 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-Come here to find the latest release notes, events, and new video tutorials for Experience Cloud and Adobe enterprise applications. 
+This page helps you locate the following self-help resources for Experience Cloud and Adobe enterprise applications:
+
+* Release notes and product documentation
+* Support knowledge base articles
+* Upcoming events on Experience League
+* Latest video tutorials and courses 
 
 For the best self-help experience, sign in to [Experience League](https://experienceleague.adobe.com/#home) and customize your search experience across Adobe's free library of [documentation](https://experienceleague.adobe.com/docs/), [courses](https://experienceleague.adobe.com/#courses), [events](https://experienceleague.adobe.com/events/), [community forums](https://experienceleaguecommunities.adobe.com/?profile.language=en), and [support](https://experienceleague.adobe.com/?support-tab=home#support).
 
@@ -30,7 +35,7 @@ Latest update: **January 17, 2024**
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (**Released January 17, 2024**)
+* [[!DNL Adobe Analytics]](#analytics)
 * [[!DNL Adobe Customer Journey Analytics]](#cja)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
@@ -161,16 +166,16 @@ New videos, tutorials, or courses published for Adobe [!DNL Experience Platform]
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| December 2023 | Mobile SDK | [Implement Adobe Experience Cloud in mobile apps tutorial](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | Updated tutorial (multiple articles) | Learn how to implement Adobe Experience Cloud applications in your mobile app using Adobe Experience Platform Mobile SDK. |
-| December 2023 | Platform, Journey Optimizer | [Create and send push notifications](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-push.html) | Article | Learn how to create push notifications for mobile apps with Experience Platform Mobile SDK and Journey Optimizer. |
-| December 2023 | Mobile SDK, Journey Optimizer | [Create and send in-app messages](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp.html) | Article | Learn how to create in-app messages for mobile apps with Experience Platform Mobile SDK and Journey Optimizer. |
-| December 2023 | Platform, Journey Optimizer | [Create and display offers with Decision Management](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-offers.html) | Article | Learn how to show offers from Journey Optimizer Decision Management in your mobile apps with Experience Platform Mobile SDK. |
-| December 2023 | Administration | [Add product administrators](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/add-product-administrators.html) | Video | Learn how to add new administrators for Adobe Experience Platform in Admin Console. Administrators are able to add and manage additional administrators, users, developers, and API credentials.  |
-| December 2023 | Administration | [Add developers and give permissions to API credentials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/add-developers.html) | Video | Learn how to add developers to Adobe Experience Platform-based applications like Real-Time Customer Data Platform and Journey Optimizer.  |
-| December 2023 | Administration | [Add users and manage permissions](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/add-users.html) | Updated video | Learn how to add users and manage permissions in Adobe Experience Platform-based applications like Real-Time Customer Data Platform and Journey Optimizer.  |
+| December 2023 | Mobile SDK | [Implement Adobe Experience Cloud in mobile apps tutorial](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | Updated tutorial (multiple articles) | Learn how to implement Adobe [!DNL Experience Cloud] applications in your mobile app using Adobe [!DNL Experience Platform Mobile SDK]. |
+| December 2023 | Platform, Journey Optimizer | [Create and send push notifications](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-push.html) | Article | Learn how to create push notifications for mobile apps with [!DNL Experience Platform Mobile SDK] and [!DNL Journey Optimizer]. |
+| December 2023 | Mobile SDK, Journey Optimizer | [Create and send in-app messages](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp.html) | Article | Learn how to create in-app messages for mobile apps with [!DNL Experience Platform Mobile SDK] and [!DNL Journey Optimizer]. |
+| December 2023 | Platform, Journey Optimizer | [Create and display offers with Decision Management](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-offers.html) | Article | Learn how to show offers from [!DNL Journey Optimizer] [!UICONTROL Decision Management] in your mobile apps with [!DNL Experience Platform Mobile SDK]. |
+| December 2023 | Administration | [Add product administrators](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/add-product-administrators.html) | Video | Learn how to add new administrators for Adobe [!DNL Experience Platform] in [!DNL Admin Console]. Administrators are able to add and manage additional administrators, users, developers, and API credentials.  |
+| December 2023 | Administration | [Add developers and give permissions to API credentials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/add-developers.html) | Video | Learn how to add developers to Adobe Experience Platform-based applications like [!DNL Real-Time Customer Data Platform] and [!DNL Journey Optimizer].  |
+| December 2023 | Administration | [Add users and manage permissions](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/add-users.html) | Updated video | Learn how to add users and manage permissions in Adobe Experience Platform-based applications like [!DNL Real-Time Customer Data Platform] and [!DNL Journey Optimizer].  |
 | December 2023 | Data Collection | [Create a datastream](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/initial-configuration/create-datastream.html) | Video | Learn how to create a datastream in Experience Platform. |
-| December 2023 | Data Collection | [Configure a tag property](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/initial-configuration/configure-tags.html) | Video | Learn how to configure a tag property in the Data Collection interface. |
-| December 2023 | Data Collection | [Install Adobe Experience Platform Mobile SDKs](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/install-sdks.html) | Articles | Learn how to implement the Adobe Experience Platform Mobile SDK in a mobile app. |
+| December 2023 | Data Collection | [Configure a tag property](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/initial-configuration/configure-tags.html) | Video | Learn how to configure a tag property in the [!UICONTROL Data Collection] interface. |
+| December 2023 | Data Collection | [Install Adobe Experience Platform Mobile SDKs](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/install-sdks.html) | Articles | Learn how to implement the Adobe [!DNL Experience Platform Mobile SDK] in a mobile app. |
 | December 2023 | Profiles | [Create a computed attribute for the sum of purchases](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/create-a-computed-attribute-for-sum-of-purchases.html) | Video | Learn how to use computed attributes to sum the purchase amounts made by a user across multiple sales channels. |
 | December 2023 | Data Collection | [Create a tags property](https://experienceleague.adobe.com/docs/platform-learn/data-collection/tags/create-a-property.html) | Updated video | Learn how to create tag properties to manage the marketing tags on your website. |
 
@@ -200,7 +205,7 @@ New videos, tutorials, or courses published for Adobe [!DNL Real-Time Customer D
 
 | Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
-| December 2023 | [Import sample data to Adobe Experience Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html) | Updated article | Learn how to set up an Experience Platform sandbox environment with sample data.  |
+| December 2023 | [Import sample data to Adobe [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html) | Updated article | Learn how to set up an Experience Platform sandbox environment with sample data.  |
 
 {style="table-layout:auto"}
 
@@ -230,13 +235,13 @@ New video tutorials, articles, and courses published for Adobe [!DNL Analytics].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2024|[Share a read-only project in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.html)|Video |Learn how to share read-only Workspace Analysis projects to users, and understand the features available for this permission level.|
-|December 2023|[A helpful checklist for auditing your Data Dictionary](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/admin-tips/audit-your-data-dictionary.html)|Article |Enhance data efficiency and reliability with our Adobe Analytics and Customer Journey Analytics Data Dictionary audit checklist. |
-|December 2023|[Introduction to conversion variables (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)|Video |Learn about how conversion variables, also known as eVars, are used in Adobe Analytics, including how they relate to conversion events and differ from traffic variables.|
-|December 2023|[Basic configuration of the Analytics extension in Experience Platform Tags](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.html)|Video |Watch how to configure the Analytics extension in Experience Platform Tags for a basic site.|
-|December 2023|[Configure library management for the Analytics extension in Adobe Tags](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.html)|Video |Learn about the library management configuration options for the Analytics extension in Adobe Tags, including selecting report suites for data collection.|
+|January 2024|[Share a read-only project in [!UICONTROL Analysis Workspace]](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.html)|Video |Learn how to share read-only [!UICONTROL Workspace] projects to users, and understand the features available for this permission level.|
+|December 2023|[A helpful checklist for auditing your Data Dictionary](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/admin-tips/audit-your-data-dictionary.html)|Article |Enhance data efficiency and reliability with our Adobe [!DNL Analytics] and [!DNL Customer Journey Analytics] [!UICONTROL Data Dictionary] audit checklist. |
+|December 2023|[Introduction to conversion variables (eVars)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)|Video |Learn about how conversion variables, also known as eVars, are used in Adobe [!DNL Analytics], including how they relate to conversion events and differ from traffic variables.|
+|December 2023|[Basic configuration of the Analytics extension in Experience Platform Tags](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.html)|Video |Watch how to configure the [!DNL Analytics] extension in [!DNL Experience Platform] Tags for a basic site.|
+|December 2023|[Configure library management for the Analytics extension in Adobe Tags](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.html)|Video |Learn about the library management configuration options for the [!DNL Analytics] extension in Experience Platform Tags, including selecting report suites for data collection.|
 |December 2023|[Configure global variable settings for the Analytics extension in Experience Platform Tags](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.html)|Video |Learn how to configure the global variable settings in the Analytics Tags extension for a basic website.|
-|December 2023|[Configure general settings for the Analytics extension in Experience Platform Tags](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.html)|Video |Learn about the general configuration options for the Analytics extension in Adobe Tags, including setting the tracking server. |
+|December 2023|[Configure general settings for the Analytics extension in Experience Platform Tags](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.html)|Video |Learn about the general configuration options for the Analytics extension in Experience Platform tags, including setting the tracking server. |
 
 {style="table-layout:auto"}
 
@@ -351,8 +356,8 @@ If you are interested in testing this new feature and sharing your feedback, sen
 
 _New features in Assets view_
 
-* **Create GenAI images with Adobe Firefly** &ndash; Create images based on search queries with an integration of Adobe Firefly text-to-image feature (requires Adobe Firefly license).
-* **Find similar images** &ndash; Now you can easily find content by selecting an image and viewing similar images in the Experience Manager Assets repository.
+* **Create [!DNL GenAI] images with Adobe [!DNL Firefly]** &ndash; Create images based on search queries with an integration of Adobe [!DNL Firefly] text-to-image feature (requires Adobe [!DNL Firefly] license).
+* **Find similar images** &ndash; Now you can easily find content by selecting an image and viewing similar images in the [!DNL Experience Manager Assets] repository.
 
 ### [!DNL Experience Manager Forms] as a [!DNL Cloud Service]
 
@@ -362,11 +367,11 @@ _New features_
 
 _Early Adopter Program_
 
-* **[Submit an Adaptive Form to Adobe Workfront Fusion Scenario](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/submit-adaptive-form-to-workfront-fusion.html?lang=en)** &ndash; Forms as a Cloud Service offers an out-of-the-box option to effortlessly connect an Adaptive Form with Adobe Workfront. This connection simplifies the process of submitting an Adaptive Form to an Adobe Workfront scenario, letting you trigger a Workfront Fusion scenario on submission of an Adaptive Form.
+* **[Submit an [!UICONTROL Adaptive Form] to Adobe [!DNL Workfront] Fusion Scenario](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/integrate/services/submit-adaptive-form-to-workfront-fusion.html?lang=en)** &ndash; Forms as a Cloud Service offers an out-of-the-box option to effortlessly connect an [!UICONTROL Adaptive Form] with Adobe [!DNL Workfront]. This connection simplifies the process of submitting an [!UICONTROL Adaptive Form] to an Adobe [!DNL Workfront] scenario, letting you trigger a [!DNL Workfront] Fusion scenario on submission of an [!UICONTROL Adaptive Form].
 
-* **[Right to left languages support](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/supporting-new-language-localization-core-components.html?lang=en)** &ndash; Adaptive Forms built on Core Components can now be presented in a Right-to-Left (RTL) language like Arabic, Persian, and Urdu. RTL languages are spoken by more than 2 billion people globally. Using a form in RTL language lets you extend the reach of your adaptive forms to cater to these diverse audiences and select into RTL markets. In certain regions, it is also a legal mandate to provide forms in the local language. By accommodating local languages, you open doors to a broader audience and ensure compliance with relevant laws and regulations.
+* **[Right to left languages support](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-core-components/create-an-adaptive-form-on-forms-cs/supporting-new-language-localization-core-components.html?lang=en)** &ndash; [!UICONTROL Adaptive Forms] built on Core Components can now be presented in a Right-to-Left (RTL) language like Arabic, Persian, and Urdu. RTL languages are spoken by more than 2 billion people globally. Using a form in RTL language lets you extend the reach of your adaptive forms to cater to these diverse audiences and select into RTL markets. In certain regions, it is also a legal mandate to provide forms in the local language. By accommodating local languages, you open doors to a broader audience and ensure compliance with relevant laws and regulations.
 
-* **[Protect your documents with DocAssurance APIs (Part of Communication APIs)](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications-introduction.html?lang=en#document-assurance-doc-assurance)** &ndash; The DocAssurance APIs empower you to safeguard sensitive information by signing and encrypting the documents. Through encryption, the contents of a document are transformed into an unreadable format, ensuring that only authorized users can gain access. This fortified layer of protection not only shields valuable data from unauthorized eyes but also provides peace of mind. The Signature APIs let your organization protect the security and privacy of Adobe PDF documents that it distributes and receives. This service uses digital signatures and certification to ensure that only intended recipients can alter documents.
+* **[Protect your documents with DocAssurance APIs (Part of Communication APIs)](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/forms/using-communications/aem-forms-cloud-service-communications-introduction.html?lang=en#document-assurance-doc-assurance)** &ndash; The [!DNL DocAssurance] APIs empower you to safeguard sensitive information by signing and encrypting the documents. Through encryption, the contents of a document are transformed into an unreadable format, ensuring that only authorized users can gain access. This fortified layer of protection not only shields valuable data from unauthorized eyes but also provides peace of mind. The Signature APIs let your organization protect the security and privacy of Adobe PDF documents that it distributes and receives. This service uses digital signatures and certification to ensure that only intended recipients can alter documents.
 
 You can write to [aem-forms-early-adopter-program@adobe.com](mailto:aem-forms-early-adopter-program@adobe.com) from your official email ID to join the early adopter program and request access to the capability.
 
@@ -374,7 +379,7 @@ You can write to [aem-forms-early-adopter-program@adobe.com](mailto:aem-forms-ea
 
 _CDN Configuration Early Adopter Program_
 
-In addition to the recently released [Traffic Filter Rules](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/security/traffic-filter-rules-including-waf.html?lang=en), which includes the optionally licensable Web Application Firewall (WAF) rules, there is an opportunity to use the Configuration Pipeline to declare and deploy other types of CDN configuration. Adobe wants to hear about your use cases, including the following:
+In addition to the recently released [Traffic Filter Rules](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/security/traffic-filter-rules-including-waf.html?lang=en), which includes the optionally licensable Web Application Firewall (WAF) rules, there is an opportunity to use the [!UICONTROL Configuration Pipeline] to declare and deploy other types of CDN configuration. Adobe wants to hear about your use cases, including the following:
 
 * 301/302 client-side redirects
 * Proxy requests at the edge to arbitrary origins
@@ -390,7 +395,7 @@ Send an email to [aemcs-cdn-config-adopter@adobe.com](mailto:aemcs-cdn-config-ad
 
 _New features_
 
-* [Cloud Manager custom permissions](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-permissions.html?lang=en) let you create custom permission profiles with configurable permissions to restrict access to programs, pipelines, and environments for Cloud Manager users.
+* [Cloud Manager custom permissions](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/custom-permissions.html?lang=en) let you create custom permission profiles with configurable permissions to restrict access to programs, pipelines, and environments for [!DNL Cloud Manager] users.
   * This feature is being rolled out in a phased manner with completion expected with the February 2024 Cloud Manager release.
   * Send an email to [Grp-CloudManager-custom-permissions@adobe.com](mailto:Grp-CloudManager-custom-permissions@adobe.com) from the email address associated with your Adobe ID, if you want to be enabled sooner.
 * Build containers now support Node.js version 18 for [frontend pipelines](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/developing-with-front-end-pipelines.html?lang=en).
@@ -415,7 +420,7 @@ _Release highlights_
 The latest version of the Workfront for Experience Manager enhanced connector includes the following bug fixes:
 
 * While viewing the list of AEM folders, the dialog takes more than a minute to load.
-* Authorized Workfront users are consistently receiving authentication failure error logs.
+* Authorized [!DNL Workfront] users are consistently receiving authentication failure error logs.
 
 >[!NOTE]
 >
@@ -427,8 +432,8 @@ The latest version of the Workfront for Experience Manager enhanced connector in
 
 _Known issues_
 
-* While configuring project linked folders with AEM 6.4, [!DNL Experience Manager] does not save the values for **sub-folders** and **Create linked folder in projects with portfolio** fields. The value for the **sub-folders** field updates to **undefined**. The value for the **Create linked folder in projects with portfolio** field updates to **Default Portfolio** automatically after saving the configuration.
-* When you use the classic Workfront experience, the **Send to** option available in the **More** drop-down list does not let you select the target destination within Experience Manager. The **Send to** option works correctly using the **Document Actions** drop-down list. The **Send to** option works correctly for **More** drop-down list and the **Document Actions** drop-down list available in the new Workfront experience.
+* While configuring project linked folders with AEM 6.4, [!DNL Experience Manager] does not save the values for **[!UICONTROL sub-folders]** and **[!UICONTROL Create linked folder in projects with portfolio]** fields. The value for the **[!UICONTROL sub-folders]** field updates to **[!UICONTROL undefined]**. The value for the **[!UICONTROL Create linked folder in projects with portfolio]** field updates to **[!UICONTROL Default Portfolio]** automatically after saving the configuration.
+* When you use the classic Workfront experience, the **[!UICONTROL Send to]** option available in the **[!UICONTROL More]** drop-down list does not let you select the target destination within Experience Manager. The **[!UICONTROL Send to]** option works correctly using the **Document Actions** drop-down list. The **[!UICONTROL Send to]** option works correctly for **[!UICONTROL More]** drop-down list and the **[!UICONTROL Document Actions]** drop-down list available in the new Workfront experience.
 
 ### Experience Manager release information
 
@@ -455,22 +460,22 @@ New videos, tutorials, or courses published for Experience Manager.
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| January 2024 | AEM Sites | [References](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/search/references.html) | Video | Learn how [!UICONTROL Content Fragment] Console and Editor makes it easy to understand and manage referenced content. |
-| January 2024 | AEM Assets | [Switch Views](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/switch-views.html) | Video | Learn how to efficiently switch between views in AEM Assets as a Cloud Service, ensuring seamless asset management. |
-| January 2024 | AEM Assets | [Find Similar Images](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/find-similar-images.html) | Video | Learn how [!UICONTROL Find Similar Image] in AEM Assets makes it easy to find the best image for your needs. |
-| January 2024 | AEM Assets | [Extract Archive](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/extract-archive.html?lang=en) | Video | Learn how to master efficient digital asset management in AEM Assets with our informative video, showcasing the Extract ZIP feature for effortlessly organizing and uploading your asset hierarchies directly into the DAM.|
-| January 2024 | AEM foundation | [Indexing best practices in AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/development/understand-indexing-best-practices.html?lang=en) | Article | Learn about indexing best practices in Experience Manager.  |
-| December 2023 | AEM Sites | [Document authoring videos](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/overview.html?lang=en) | Videos | Understand how to configure document authoring allowing AEM authors to edit and publish documents using Microsoft Word or Google Docs. |
-| December 2023 | AEM Sites | [Edge Delivery Services videos](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/edge-delivery-services/overview.html?lang=en) | Article | Learn how to make web sites fast with Edge Delivery. |
-| December 2023 | AEM CS | [How to enable CDN caching](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/caching/how-to/enable-caching.html) | Video | Learn how to enable the caching of HTTP responses in AEM as a Cloud Service's CDN.|
-| December 2023 | AEM Forms | [Pre-populate core component-based adaptive form](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/prefill-core-component-based-form/introduction.html?lang=en) | Articles | Learn about a use case for prefilling component-based adaptive forms. |
-| December 2023 | AEM Forms | [Get started storing form submissions in Azure](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/store-submiited-data-with-metadata-tags/introduction.html) | Articles | Learn a simple use case for storing form submissions in Azure storage with blob index tags.  |
-| December 2023 | Cloud Manager | [Cloud Manager custom permissions](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/cloud-permissions.html) | Video | Learn how to use Cloud Manager custom permissions in AEM to strategically manage access for different teams, ensuring efficient and secure project management and deployment. |
-| December 2023 | AEM Sites | [Blocks and autoblocks](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/blocks-and-autoblocks.html?lang=en) | Video | Explore how blocks and autoblocks are used in document authoring and how these can improve the site and authoring experience. |
-| December 2023 | AEM Forms | [Register a servlet using resource type](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/developing-for-cloud-service/registering-servlet-using-resourcetype.html?lang=en) | Video |Learn about submitting adaptive form to a custom submit handler. You can bind servlets by resource type instead of paths.|
-| December 2023 | AEM Sites | [Deleting pages](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/edge-delivery-services/how-to/delete-page.html) | Video | Learn how to delete a page in Edge Delivery Services. |
-| December 2023 | AEM Sites | [Social media sharing](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/edge-delivery-services/how-to/social-media-sharing.html) | Video | Learn how to optimize your content for social media sharing using Edge Delivery Services. |
-| December 2023 | AEM Assets | [AEM Assets and Adobe Express](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express.html) | Video | Discover how to effortlessly create and edit content within Adobe Experience Manager Assets using Adobe Express.  |
+| January 2024 | [!DNL AEM Sites] | [References](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/search/references.html) | Video | Learn how [!UICONTROL Content Fragment] Console and Editor makes it easy to understand and manage referenced content. |
+| January 2024 | [!DNL AEM Assets] | [Switch Views](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/switch-views.html) | Video | Learn how to efficiently switch between views in [!DNL AEM Assets as a Cloud Service], ensuring seamless asset management. |
+| January 2024 | [!DNL AEM Assets] | [Find Similar Images](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/find-similar-images.html) | Video | Learn how [!UICONTROL Find Similar Image] in [!DNL AEM Assets] makes it easy to find the best image for your needs. |
+| January 2024 | [!DNL AEM Assets] | [Extract Archive](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/extract-archive.html?lang=en) | Video | Learn how to master efficient digital asset management in [!DNL AEM Assets] with our informative video, showcasing the [!UICONTROL Extract ZIP] feature for effortlessly organizing and uploading your asset hierarchies directly into the DAM.|
+| January 2024 | [!DNL AEM CS] | [Indexing best practices in AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/development/understand-indexing-best-practices.html?lang=en) | Article | Learn about indexing best practices in Experience Manager.  |
+| December 2023 | [!DNL AEM Sites] | [Document authoring videos](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/overview.html?lang=en) | Videos | Understand how to configure document authoring allowing AEM authors to edit and publish documents using Microsoft Word or Google Docs. |
+| December 2023 | [!DNL AEM Sites] | [Edge Delivery Services videos](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/edge-delivery-services/overview.html?lang=en) | Article | Learn how to make web sites fast with Edge Delivery. |
+| December 2023 | [!DNL AEM CS] | [How to enable CDN caching](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/caching/how-to/enable-caching.html) | Video | Learn how to enable the caching of HTTP responses in AEM as a Cloud Service's CDN.|
+| December 2023 | [!DNL AEM Forms] | [Pre-populate core component-based adaptive form](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/prefill-core-component-based-form/introduction.html?lang=en) | Articles | Learn about a use case for prefilling component-based adaptive forms. |
+| December 2023 | [!DNL AEM Forms] | [Get started storing form submissions in Azure](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/store-submiited-data-with-metadata-tags/introduction.html) | Articles | Learn a simple use case for storing form submissions in Azure storage with blob index tags.  |
+| December 2023 | [!DNL Cloud Manager] | [Cloud Manager custom permissions](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/cloud-permissions.html) | Video | Learn how to use Cloud Manager custom permissions in AEM to strategically manage access for different teams, ensuring efficient and secure project management and deployment. |
+| December 2023 | [!DNL AEM Sites] | [Blocks and autoblocks](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/blocks-and-autoblocks.html?lang=en) | Video | Explore how blocks and autoblocks are used in document authoring and how these can improve the site and authoring experience. |
+| December 2023 | [!DNL AEM Forms] | [Register a servlet using resource type](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/developing-for-cloud-service/registering-servlet-using-resourcetype.html?lang=en) | Video |Learn about submitting adaptive form to a custom submit handler. You can bind servlets by resource type instead of paths.|
+| December 2023 | [!DNL AEM Sites] | [Deleting pages](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/edge-delivery-services/how-to/delete-page.html) | Video | Learn how to delete a page in Edge Delivery Services. |
+| December 2023 | [!DNL AEM Sites] | [Social media sharing](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/edge-delivery-services/how-to/social-media-sharing.html) | Video | Learn how to optimize your content for social media sharing using Edge Delivery Services. |
+| December 2023 | [!DNL AEM Assets] | [AEM Assets and Adobe Express](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express.html) | Video | Discover how to effortlessly create and edit content within Adobe [!DNL Experience Manager Assets] using [!DNL Adobe Express].  |
 
 {style="table-layout:auto"}
 
@@ -539,7 +544,7 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-|December 2023|[Getting Started with IO Events for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/getting-started-io-events.html)|Video |Learn about Adobe I/O Events. In this demonstration, an event from Adobe Commerce is sent to a Slack channel using Adobe Developer App Builder and the event from Adobe Commerce.|
+|December 2023|[Getting Started with IO Events for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/getting-started-io-events.html)|Video |Learn about Adobe I/O Events. In this demonstration, an event from Adobe Commerce is sent to a Slack channel using [!DNL Adobe Developer App Builder] and the event from Adobe Commerce.|
 |December 2023|[Create a grouped product](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/create-products/create-grouped-product.html)|Video |Learn how to create a grouped product using the REST API and the Adobe Commerce Admin.|
 |December 2023|[Create a configurable product](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/create-products/create-configurable-product.html?lang=en)|Video |Learn how to create a configurable product using the REST API and the Adobe Commerce Admin.|
 |December 2023|[Create a downloadable product](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/create-products/create-downloadable-product.html)|Video |Learn how to create a downloadable product using the REST API and the Adobe Commerce Admin.|
@@ -593,7 +598,6 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials, courses, a
 * Control Panel: [Release notes](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en) 
 
 Find out more about the latest capabilities, improvements, and fixes in the [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html), and [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) release notes.
-
 
 ### New [!DNL Campaign] support knowledge base{#kb-campaign}
 
