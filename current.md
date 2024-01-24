@@ -18,7 +18,7 @@ This page helps you locate the following self-help resources for Experience Clou
 * Release notes and product documentation
 * Support knowledge base articles
 * Upcoming events on Experience League
-* Latest video tutorials and courses 
+* Latest video tutorials 
 
 For the best self-help experience, sign in to [Experience League](https://experienceleague.adobe.com/#home) and customize your search experience across Adobe's free library of [documentation](https://experienceleague.adobe.com/docs/), [courses](https://experienceleague.adobe.com/#courses), [events](https://experienceleague.adobe.com/events/), [community forums](https://experienceleaguecommunities.adobe.com/?profile.language=en), and [support](https://experienceleague.adobe.com/?support-tab=home#support).
 
@@ -26,7 +26,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## January 2024
 
-Latest update: **January 17, 2024**
+Latest update: **January 24, 2024**
 
 * [[!DNL Experience League] events and updates](#events)
 * [[!DNL Adobe GenStudio]](#genstudio) - **New!**
@@ -62,15 +62,15 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 ### Events on Experience League
 
+Updated **January 24, 2024**
+
 +++Upcoming events on Experience League
 
-* **[!DNL ANALYTICS] and [!DNL Customer Journey Analytics]** | Experience League LIVE | _Bringing your [!DNL Adobe Analytics] data and analyses into [!DNL Customer Journey Analytics]_ | Learn about using automated processes to move data and analyses from Adobe Analytics to [!DNL Customer Journey Analytics], as well as any gotchas to consider along the way. | **January 17 @ 10:00 AM PT** | [Register](https://engage.adobe.com/ExpLeagueLive-240117.html)
+* **[!DNL WORKFRONT]** | Webinar | _Marketo & Mochas: Fundamentals of Attribution Dashboards_ | Are your attribution models and MPI dashboards configured to leverage the critical performance metrics at your fingertips? Join our Adobe experts and learn how to use these tools to drive your marketing team's success. | **January 25 @ 1:00 PM ET** | [Register](https://adobeevents.adobeconnect.com/exxuez7gobns/event/registration.html?campaign-id=ExL)
 
-* **[!DNL WORKFRONT]** | Customer workshop | _Admin 101 - Getting Started with [!DNL Workfront_] | New to [!DNL Workfront]? This event provides new system admins with an intro to resources, a rundown of system navigation and best practices for initial setup. | **January 17 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,mO8IGPam00mi-XGVtohT-g,6dMGxrqXb0-eeS7HnaPDYQ,DnVW5SmEPU6HFB5j97ATFA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE MANAGER SITES]** | Webinar | _Unlock efficiencies in content creation and management._ | Discover how to enhance content velocity with Adobe Experience Manager Sites experience fragments. Get tips on delivering varied and personalised experiences at scale across any channel. | **February 1 @ 9:00 AM GMT** | [Register](https://adobexperiencemanageremea2024.experienceleague.adobeevents.com/)
 
-* **[!DNL MARKETO ENGAGE]** | Learn from your peers | _Person Scoring Mastery with [!DNL Marketo Engage]: Localized Nuances in a Global Framework_ | Join this webinar on Jan 18th, 2024 as [!DNL Marketo Engage] Champion shares how to allow local influences in your scoring model when working globally without losing consistency across your organization. | **January 18 @ 8:00 AM PT** | [Register](https://engage.adobe.com/marketo-engage-person-scoring-localized-webinar-registration.html?sdid=S36FMPSR&mv=email)
-
-* **[!DNL WORKFRONT]** | Customer workshop | _Learn: Adobe [!DNL Workfront] 24.1 Release Round Up_ | Join other [!DNL Workfront] customers as we discuss the latest release features, the benefits, and ideas on rollout plans and managing change. | **January 24 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Qie4feC5SEqgbRCYwnOV7g,Aw1yfkW4WEOnrD_kuVUspA,_lvF5TmeCES46V-oNW0O5g?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL COMMERCE]** | Webinar | _Commerce & Coffee: Personalizing eCommerce Experiences with AI_ | It has never been easier to personalize eCommerce experiences for the individual customer. Join Adobe's own Corey Gelato to learn how AI helps effortlessly tailor your products, emails, and websites in Adobe Commerce. | **February 1 @ 1:00 PM ET** | [Register](https://adobeevents.adobeconnect.com/e1yzux2yrk00/event/registration.html?campaign-id=ExL)
 
 * **[!DNL WORKFRONT]** | Customer workshop | _Connect: Admin Chat for Marketing & Creative_ | Are you a system admin for a marketing or creative team? This customer-driven session connects you with other administrators to discuss best practices and tips and tricks. | **February 2 @ 9:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
