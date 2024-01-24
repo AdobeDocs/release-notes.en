@@ -28,7 +28,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 Latest update: **January 24, 2024**
 
-* [[!DNL Experience League] events and updates](#events)
+* [[!DNL Experience League] events and updates](#events) (Updated **January 24**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **New!**
 * [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -51,7 +51,7 @@ Latest update: **January 24, 2024**
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
-* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
+* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud) (Updated **January 24**)
 * [Customer Data Management - Voices](#voices)
 * [Digital Experience Blueprints](#blueprints)
 * [Adobe product security vulnerabilities](https://helpx.adobe.com/security.html)
@@ -820,11 +820,13 @@ For [!DNL Document Cloud] tutorials, see:
 
 New videos, tutorials, or courses published for applications in [!DNL Adobe Creative Cloud for enterprise].
 
+Updated **January 24, 2024**
+
 +++Details
 
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| January 2024 | Adobe Express | [Tutorials for Adobe Express](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | Videos | Get started creating amazing work that stands out with generative AI powered by Adobe Firefly. Design flyers, TikToks, resumes, and Reels with Adobe Express.|
+| January 2024 | [!DNL Adobe Express] | [Tutorials for Adobe Express](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | Videos | Get started creating amazing work that stands out with generative AI powered by [!DNL Adobe Firefly]. Design flyers, TikToks, resumes, and Reels with [!DNL Adobe Express].|
 
 See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html) for the latest tutorials.
 
