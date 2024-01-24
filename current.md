@@ -822,6 +822,10 @@ New videos, tutorials, or courses published for applications in [!DNL Adobe Crea
 
 +++Details
 
+| Published | Application | Name | Type | Description |
+| -----------| ---------- | ---------- | ---------- |---------- |
+| January 2024 | Adobe Express | [Tutorials for Adobe Express](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | Video | Get started creating amazing work that stands out with generative AI powered by Adobe Firefly. Design flyers, TikToks, resumes, and Reels with Adobe Express.|
+
 See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html) for the latest tutorials.
 
 +++
