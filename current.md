@@ -340,7 +340,7 @@ Adobe recommends visiting the following resources to stay updated on release inf
 
 ### Latest Release Overview video
 
-Watch the [November 2023 Release Overview video](https://experienceleague.adobe.com/docs/events/aemcs-release-update-recordings/2023/2023-11-0.html?lang=en) for a summary of the features added in the 2023.11.0 (November 2023) release.
+Watch the [January 2024 Release Overview video](https://video.tv.adobe.com/v/3427041?quality=12") for a summary of the features added in the 2024.01.0 (January 2024) release.
 
 ### [!DNL Experience Manager Sites] as a [!DNL Cloud Service] 
 
