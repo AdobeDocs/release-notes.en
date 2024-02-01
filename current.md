@@ -26,9 +26,9 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## January 2024
 
-Latest update: **January 29, 2024**
+Latest update: **February 1, 2024**
 
-* [[!DNL Experience League] events and updates](#events) (Updated **January 29**)
+* [[!DNL Experience League] events and updates](#events) (Updated **February 1**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **New!**
 * [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -62,13 +62,9 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 ### Events on Experience League
 
-Updated **January 29, 2024**
+Updated **February 1, 2024**
 
 +++Upcoming events on Experience League
-
-* **[!DNL EXPERIENCE MANAGER SITES]** | Webinar | _Unlock efficiencies in content creation and management._ | Discover how to enhance content velocity with Adobe Experience Manager Sites experience fragments. Get tips on delivering varied and personalised experiences at scale across any channel. | **February 1 @ 9:00 AM GMT** | [Register](https://adobexperiencemanageremea2024.experienceleague.adobeevents.com/)
-
-* **[!DNL COMMERCE]** | Webinar | _Commerce & Coffee: Personalizing eCommerce Experiences with AI_ | It has never been easier to personalize eCommerce experiences for the individual customer. Join Adobe's own Corey Gelato to learn how AI helps effortlessly tailor your products, emails, and websites in Adobe Commerce. | **February 1 @ 1:00 PM ET** | [Register](https://adobeevents.adobeconnect.com/e1yzux2yrk00/event/registration.html?campaign-id=ExL)
 
 * **[!DNL WORKFRONT]** | Customer workshop | _Connect: Admin Chat for Marketing & Creative_ | Are you a system admin for a marketing or creative team? This customer-driven session connects you with other administrators to discuss best practices and tips and tricks. | **February 2 @ 9:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
