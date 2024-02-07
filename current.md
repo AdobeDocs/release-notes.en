@@ -26,9 +26,9 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## January 2024
 
-Latest update: **February 1, 2024**
+Latest update: **February 7, 2024**
 
-* [[!DNL Experience League] events and updates](#events) (Updated **February 1**)
+* [[!DNL Experience League] events and updates](#events) (Updated **February 7**)
 * [[!DNL Adobe GenStudio]](#genstudio) - **New!**
 * [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -62,11 +62,11 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 ### Events on Experience League
 
-Updated **February 1, 2024**
+Updated **February 7, 2024**
 
 +++Upcoming events on Experience League
 
-* **[!DNL WORKFRONT]** | Customer workshop | _Connect: Admin Chat for Marketing & Creative_ | Are you a system admin for a marketing or creative team? This customer-driven session connects you with other administrators to discuss best practices and tips and tricks. | **February 2 @ 9:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL EXPERIENCE PLATFORM]** | Experience League LIVE | _Use Case Playbooks: self-serve templates to deploy use cases in a few clicks_ | Learn how Use Case Playbooks can translate your marketing goals into implementation objects in just a few clicks! | **February 8 @ 9:00 AM PT** | [Register](https://engage.adobe.com/ExpLeagueLive-240208.html)
 
 * **[!DNL WORKFRONT]** | Customer workshop | _Connect: Industry Circle - Higher Education_ | Brand new in 2024, this first industry circle is an informal round-table discussion designed to bring together [!DNL Workfront] Admins in Higher Education to network, share experiences, learning, and best practices. | **February 8 @ 9:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
