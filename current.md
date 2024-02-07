@@ -198,7 +198,7 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
 |January 2024|[How developers can view [!DNL Assurance] logs via [!DNL API]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23389.html)|New article| Learn how developers can view the [!DNL Assurance] logs via [!DNL API].|
-|January 2024|[Data is not populating for newly added attribute](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23416.html)|New article| Learn the solution to the issue when after updating a schema and ingesting data in [!DNL Adobe Experience Platform], a newly defined attribute does not populate causing production issues.|
+|January 2024|[Data is not populating for newly added attribute](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23416.html)|New article| Learn the solution to the issue when after updating a schema and ingesting data in [!DNL Adobe Experience Platform], a newly defined attribute does not populate, causing production issues.|
 |January 2024|[[!DNL AEP] Data Collection - *[!UICONTROL Error: "has maximum number of rule components"]* when adding a custom event to a rule](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23486.html)|New article| Learn the solution to the issue when adding events to a rule in an [!DNL Experience Platform Data Collection] property, if an error occurs stating: *has maximum number of rule components*.|
 
 {style="table-layout:auto"}
