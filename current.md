@@ -620,15 +620,15 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials, courses, a
 
 ### Latest Campaign product releases
 
-* Campaign v8.5.2: [Release notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html?lang=en)
+* **New!** - [!DNL Campaign Web Interface]: [What's new](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=en) | [Product documentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html)
 
-* Campaign Standard v24.1 - Winter: [Release notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
+* **New!** - [!DNL Campaign] v8.6: [Release notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html) | [Product documentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=en)
+
+* [!DNL Campaign Standard] v24.1 - Winter: [Release notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
 
 * Campaign Classic v7.3.5: [Release notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
 
 * Control Panel: [Release notes](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en) 
-
-Find out more about the latest capabilities, improvements, and fixes in the [Campaign v7](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html), [Campaign v8](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html), and [Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) release notes.
 
 ### New [!DNL Campaign] support knowledge base{#kb-campaign}
 
@@ -843,13 +843,13 @@ For [!DNL Document Cloud] tutorials, see:
 
 New videos, tutorials, or courses published for applications in [!DNL Adobe Creative Cloud for enterprise].
 
-Updated **January 24, 2024**
+Updated **February 2024**
 
 +++Details
 
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| January 2024 | [!DNL Adobe Express] | [Tutorials for Adobe Express](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | Videos | Get started creating amazing work that stands out with generative AI powered by [!DNL Adobe Firefly]. Design flyers, TikToks, resumes, and Reels with [!DNL Adobe Express].|
+| February 2024 | [!DNL Adobe Express] | [Tutorials for Adobe Express](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | Videos | Get started creating amazing work that stands out with generative AI powered by [!DNL Adobe Firefly]. Design flyers, [!DNL TikToks], resumes, and [!DNL Reels] with [!DNL Adobe Express].|
 
 See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html) for the latest tutorials.
 
