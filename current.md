@@ -121,6 +121,14 @@ Learn about the latest features and updates in [!DNL Adobe System Status].
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
+Release date: **January 30, 2024**
+
+| Feature | Description |
+| ------- | ------- |
+| Announcement APIs | <ul><li>Announcements are Global, Cloud, or Product level messages with a wider impact; an example from the past would be a Covid-19 message. Other examples would be global security vulnerabilities like log4j, and support center down, etc. Announcements are not linked to an issue or maintenance, they are used to communicate with customers on Cloud or Product level updates.</li><li>Announcements are now part of the Status API collection. Customers can query and get announcements to integrate with their internal dashboards. Check out the new endpoints here.</li></ul> |
+| Bug fixes | <ul><li>UI performance improvements</li></ul> |
+
+{style="table-layout:auto"}
 
 For recent release notes, see:
 
