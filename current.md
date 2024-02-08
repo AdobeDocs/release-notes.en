@@ -523,11 +523,11 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-|December 2023|[Getting Started with IO Events for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/io-events/getting-started-io-events.html)|Video |Learn about Adobe I/O Events. In this demonstration, an event from Adobe Commerce is sent to a Slack channel using [!DNL Adobe Developer App Builder] and the event from Adobe Commerce.|
-|December 2023|[Create a grouped product](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/create-products/create-grouped-product.html)|Video |Learn how to create a grouped product using the REST API and the Adobe Commerce Admin.|
-|December 2023|[Create a configurable product](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/create-products/create-configurable-product.html?lang=en)|Video |Learn how to create a configurable product using the REST API and the Adobe Commerce Admin.|
-|December 2023|[Create a downloadable product](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/create-products/create-downloadable-product.html)|Video |Learn how to create a downloadable product using the REST API and the Adobe Commerce Admin.|
-|December 2023|[Best practices for modifying or overriding core and third-party PHP code](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-code.html)|Video |Learn the best practices when the need arises to modify the functionality, result, or input of any code you did not author or do not directly control. In other words, core code and third-party code.|
+|February 2024|[Create a gift card product](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/create-products/create-gift-card-product.html)|Video |Learn how to create a gift card product using the REST API and the Commerce Admin.|
+|February 2024|[Integrate Adobe Commerce and Adobe Journey Optimizer](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/integrate-commerce-ajo.html?lang=en)|Video |Learn how to integrate Adobe Commerce and Adobe Journey Optimizer.|
+|February 2024|[View and set admin configurations using the command line](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/view-update-store-configuration-cli.html?lang=en)|Video |Learn how to view and set admin configurations using the command line.|
+|February 2024|[Configure the Adobe Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/adobe-commerce-services/configure-adobe-commerce-services-connector.html)|Video |Learn how to configure the Adobe Commerce Services Connector for use with Commerce SaaS products and learn how to resolve common issues.|
+|February 2024|[Configure Payment Services for Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/admin/adobe-commerce-services/configure-adobe-payment-services.html)|Video |Learn how to configure Adobe Commerce Payment Services.|
 
 {style="table-layout:auto"}
 
