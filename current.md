@@ -2,10 +2,11 @@
 title: Latest Release Notes
 description: Find the latest release notes and knowledge base issues for Adobe [!DNL Experience Cloud] products and services. Learn about upcoming events and new documentation on Experience League. Discover the latest tutorials and courses for [!DNL Experience Cloud] applications.
 doc-type: release notes
-last-update: January 2024
+last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
+badgeReview: label="Internal Review" type="Negative"
 ---
 # Experience Cloud Release Notes
 
@@ -24,12 +25,12 @@ For the best self-help experience, sign in to [Experience League](https://experi
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
-## January 2024
+## February 2024
 
-Latest update: **January 29, 2024**
+Latest update: **February 8, 2024**
 
-* [[!DNL Experience League] events and updates](#events) (Updated **January 29**)
-* [[!DNL Adobe GenStudio]](#genstudio) - **New!**
+* [[!DNL Experience League] events and updates](#events) 
+* [[!DNL Adobe GenStudio]](#genstudio) 
 * [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
@@ -39,7 +40,7 @@ Latest update: **January 29, 2024**
 * [[!DNL Adobe Customer Journey Analytics]](#cja)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Audience Manager]](#aam)
-* [[!DNL Adobe Experience Manager]](#aem) (Updated **January 29**)
+* [[!DNL Adobe Experience Manager]](#aem) 
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
@@ -51,7 +52,7 @@ Latest update: **January 29, 2024**
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
-* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud) (Updated **January 24**)
+* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud) 
 * [Customer Data Management - Voices](#voices)
 * [Digital Experience Blueprints](#blueprints)
 * [Adobe product security vulnerabilities](https://helpx.adobe.com/security.html)
@@ -62,19 +63,9 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 ### Events on Experience League
 
-Updated **January 29, 2024**
+Updated **February 9, 2024**
 
 +++Upcoming events on Experience League
-
-* **[!DNL EXPERIENCE MANAGER SITES]** | Webinar | _Unlock efficiencies in content creation and management._ | Discover how to enhance content velocity with Adobe Experience Manager Sites experience fragments. Get tips on delivering varied and personalised experiences at scale across any channel. | **February 1 @ 9:00 AM GMT** | [Register](https://adobexperiencemanageremea2024.experienceleague.adobeevents.com/)
-
-* **[!DNL COMMERCE]** | Webinar | _Commerce & Coffee: Personalizing eCommerce Experiences with AI_ | It has never been easier to personalize eCommerce experiences for the individual customer. Join Adobe's own Corey Gelato to learn how AI helps effortlessly tailor your products, emails, and websites in Adobe Commerce. | **February 1 @ 1:00 PM ET** | [Register](https://adobeevents.adobeconnect.com/e1yzux2yrk00/event/registration.html?campaign-id=ExL)
-
-* **[!DNL WORKFRONT]** | Customer workshop | _Connect: Admin Chat for Marketing & Creative_ | Are you a system admin for a marketing or creative team? This customer-driven session connects you with other administrators to discuss best practices and tips and tricks. | **February 2 @ 9:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,hmjerL5Xn0S-Xzf8VvpiLw,1qocJF5WrkOnYtT1VJFyfA,CySUm8_nZU2OrsID2CBZ9A?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | Customer workshop | _Connect: Industry Circle - Higher Education_ | Brand new in 2024, this first industry circle is an informal round-table discussion designed to bring together [!DNL Workfront] Admins in Higher Education to network, share experiences, learning, and best practices. | **February 8 @ 9:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL ANALYTICS]** | Webinar | _Data Drip: Marketing Channels & Attribution Modeling_ | Do you know the impact your customer interactions have on conversions? Join our Adobe experts as they show us how to configure marketing channels and leverage AI in Adobe Analytics to build custom attribution models. | **February 8 @ 1:00 PM ET** | [Register](https://adobeevents.adobeconnect.com/e1smupitvxor/event/registration.html?campaign-id=ExL)
 
 * **[!DNL WORKFRONT]** | Community event | _Workfront Collective_ | Join other Workfront customers for our monthly collective problem-solving and success-sharing session! | **February 12 @ 6:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Xn9a7-beEEy24cKL2PXNNg,7zi14AC4xkabCHqKTayiIA,IqLjAD7pD0iArKvVqEuvXg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -94,17 +85,13 @@ View more [upcoming events](https://experienceleague.adobe.com/events/) or brows
 
 ## ![Icon](/assets/experience-league.png) Adobe GenStudio {#genstudio}
 
-[Adobe [!DNL GenStudio]](https://business.adobe.com/solutions/adobe-genstudio.html) is an end-to-end solution to accelerate and simplify your content supply chain with generative AI and intelligent automation. 
+Adobe [GenStudio](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/overview.html) is an end-to-end solution to accelerate and simplify your content supply chain with generative AI and intelligent automation. 
 
 +++Details
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
 |January 2024|[GenStudio Tutorials](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/overview.html?lang=en)|Videos |View Experience League tutorials on the new [!DNL Adobe GenStudio]. [!DNL GenStudio] is an end-to-end solution to accelerate and simplify your content supply chain with generative AI and intelligent automation.|
-|January 2024|[Workflow and planning: Streamline and accelerate work](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/workflow-and-planning.html?lang=en)|Videos |This one's for the company struggling to connect and track their content requirements from planning, production, and to completion. Lack of effective process, planning, approvals, and data consistency across projects are robbing this company's content supply chain of both productivity and efficiency.|
-|January 2024|[Creative productivity: Supercharge creative teams](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/creative-productivity.html?lang=en)|Videos |For the company that has rock star creatives but needs to turn up their content creation. [!DNL GenStudio] provides tools supercharged with [!DNL GenAI] that help this team boost their content production, delivery, and discoverability.|
-|January 2024|[Marketing agility: Empower non-creatives to scale](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/marketing-agility.html?lang=en)|Videos |With Adobe [!DNL GenStudio], sometimes a content request can be addressed without the full creative team/studio treatment. Adobe puts tools in the hands of marketers and other potential content creators. These tools enable quick turns on creating content variations. Updates can be executed by an expanded, broader group of individuals connected to the content supply chain, dramatically increasing the content throughput and time-to-market.|
-|January 2024|[Delivery and Activation: power experiences and performance](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/delivery-and-activation.html?lang=en)|Videos |For the company that needs support on getting the right content in front of the right individual on the right channel. [!DNL GenStudio] makes that connection better than any other solution, while also providing the analytics to ensure overall content performance.|
 
 {style="table-layout:auto"}
 
@@ -148,13 +135,13 @@ For recent release notes, see:
 
 Learn about [!DNL Experience Cloud] central interface components and administration. Manage products and users, configure profile settings and preferences, search Experience Cloud objects, and manage cookies. 
 
-+++Details
+<!-- +++Details
 
 | Feature | Description |
 | ------- | ------- |
 | Log-in page | Log-in page automatically rotates background images on each load. (No new functionality.) |
 
-{style="table-layout:auto"}
+{style="table-layout:auto"} -->
 
 For help on Experience Cloud central interface components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
 
@@ -177,17 +164,6 @@ New videos, tutorials, or courses published for Adobe [!DNL Experience Platform]
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
 | December 2023 | Mobile SDK | [Implement Adobe Experience Cloud in mobile apps tutorial](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | Updated tutorial (multiple articles) | Learn how to implement Adobe [!DNL Experience Cloud] applications in your mobile app using Adobe [!DNL Experience Platform Mobile SDK]. |
-| December 2023 | Platform, Journey Optimizer | [Create and send push notifications](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-push.html) | Article | Learn how to create push notifications for mobile apps with [!DNL Experience Platform Mobile SDK] and [!DNL Journey Optimizer]. |
-| December 2023 | Mobile SDK, Journey Optimizer | [Create and send in-app messages](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-inapp.html) | Article | Learn how to create in-app messages for mobile apps with [!DNL Experience Platform Mobile SDK] and [!DNL Journey Optimizer]. |
-| December 2023 | Platform, Journey Optimizer | [Create and display offers with Decision Management](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/experience-cloud/journey-optimizer/journey-optimizer-offers.html) | Article | Learn how to show offers from [!DNL Journey Optimizer] [!UICONTROL Decision Management] in your mobile apps with [!DNL Experience Platform Mobile SDK]. |
-| December 2023 | Administration | [Add product administrators](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/add-product-administrators.html) | Video | Learn how to add new administrators for Adobe [!DNL Experience Platform] in [!DNL Admin Console]. Administrators are able to add and manage additional administrators, users, developers, and API credentials.  |
-| December 2023 | Administration | [Add developers and give permissions to API credentials](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/add-developers.html) | Video | Learn how to add developers to Adobe Experience Platform-based applications like [!DNL Real-Time Customer Data Platform] and [!DNL Journey Optimizer].  |
-| December 2023 | Administration | [Add users and manage permissions](https://experienceleague.adobe.com/docs/platform-learn/tutorials/admin/add-users.html) | Updated video | Learn how to add users and manage permissions in Adobe Experience Platform-based applications like [!DNL Real-Time Customer Data Platform] and [!DNL Journey Optimizer].  |
-| December 2023 | Data Collection | [Create a datastream](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/initial-configuration/create-datastream.html) | Video | Learn how to create a datastream in Experience Platform. |
-| December 2023 | Data Collection | [Configure a tag property](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/initial-configuration/configure-tags.html) | Video | Learn how to configure a tag property in the [!UICONTROL Data Collection] interface. |
-| December 2023 | Data Collection | [Install Adobe Experience Platform Mobile SDKs](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/app-implementation/install-sdks.html) | Articles | Learn how to implement the Adobe [!DNL Experience Platform Mobile SDK] in a mobile app. |
-| December 2023 | Profiles | [Create a computed attribute for the sum of purchases](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/create-a-computed-attribute-for-sum-of-purchases.html) | Video | Learn how to use computed attributes to sum the purchase amounts made by a user across multiple sales channels. |
-| December 2023 | Data Collection | [Create a tags property](https://experienceleague.adobe.com/docs/platform-learn/data-collection/tags/create-a-property.html) | Updated video | Learn how to create tag properties to manage the marketing tags on your website. |
 
 {style="table-layout:auto"}
 
