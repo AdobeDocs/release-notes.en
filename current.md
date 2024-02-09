@@ -739,10 +739,6 @@ Find out the latest release notes and release schedule for [!DNL Marketo Engage]
 * See [January 2024 - current release notes](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html) for the latest information
 * See [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html) for the latest release schedule information and release notes.
 
-### New Marketo Engage tutorials and courses {#tutorials-marketo}
-
-New videos, tutorials, or courses published for Adobe Marketo.
-
 ### New Marketo tutorials and courses {#tutorials-marketo}
 
 New videos, tutorials, or courses published for Adobe Marketo.
