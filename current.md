@@ -207,7 +207,7 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 +++Details
 
-[!DNL Analytics] release date: **January 17, 2024**
+[!DNL Analytics] release date: **February 16, 2024**
 
 * [!DNL Analytics] [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html) 
 
@@ -252,7 +252,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 +++Details
 
-[!DNL Customer Journey Analytics] release date: **January 17, 2024**
+[!DNL Customer Journey Analytics] release date: **February 16, 2024**
 
 * [!DNL Customer Journey Analytics] [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html)
 
@@ -264,7 +264,7 @@ New videos, tutorials, or courses published for [!DNL Customer Journey Analytics
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|December 2023|[CJA lookups for lookup and profile data](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/cja-lookup-data.html)|Video |Learn how to add lookup data to lookup and profile datasets and to plan out and map your key fields.|
+|February 2023|[CJA lookups for lookup and profile data](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/cja-lookup-data.html)|Video |Learn how to add lookup data to lookup and profile datasets and to plan out and map your key fields.|
 
 {style="table-layout:auto"}
 
@@ -397,7 +397,7 @@ _Bug fixes_
 
 ### [!DNL Workfront for Experience Manager] enhanced connector
 
-The release date for the latest version 1.9.16 of Workfront for Experience Manager enhanced connector is January 19, 2024.
+The release date for the latest version 1.9.16 of Workfront for Experience Manager enhanced connector was January 19, 2024.
 
 _Release highlights_
 
@@ -468,7 +468,7 @@ New videos, tutorials, or courses published for Experience Manager.
 | February 2024 | [!DNL AEM Assets] | [Find Similar Images](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/find-similar-images.html) | Video | Learn how [!UICONTROL Find Similar Image] in [!DNL AEM Assets] makes it easy to find the best image for your needs. |
 | February 2024 | [!DNL AEM Assets] | [Switch Views](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/switch-views.html) | Video | Learn how to efficiently switch between views in [!DNL AEM Assets as a Cloud Service], ensuring seamless asset management. |
 | February 2024 | AEM Forms | [Prefill adaptive form with share point list data](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/prefill-data-from-sharepoint-list.html) | Video | Learn how to prefill adaptive form using form data model backed by share point list. |
-| February 2024 | AEM CS | [AEM Eventing](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-eventing/overview.html?lang=en) | Multiple video | Learn about AEM eventing, what it is, why and when to use it and examples of it. |
+| February 2024 | AEM CS | [AEM Eventing](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-eventing/overview.html?lang=en) | Multiple videos | Learn about AEM eventing, what it is, why and when to use it and examples of it. |
 | February 2024 | AEM Forms | [Developing with Output and Forms Services in AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/output-and-forms-services-article-develop.html) | Video | Learn about developing with Output and Forms Service API in AEM Forms. |
 | February 2024 | AEM Assets | [Blocked Tags](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/blocked-tags.html) | Video | Learn how to enhance asset management in AEM by using Blocked Tags to prevent the application of culturally sensitive, irrelevant, or controversial Smart Tags. |
 | February 2024 | AEM Headless | [Bulk property update example extension](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/console-bulk-property-update.html) | Video | An example AEM Content Fragments Console extension that bulk updates a property of Content Fragments. |
@@ -499,7 +499,7 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 * [Cloud Manager User Guide](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html)
 * [Experience Manager 6.5 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-65/content/implementing/deploying/home.html)
 * [Experience Manager 6.4 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-64.html)
-* * [Experience Manager Documentation: Recent Updates](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?#aem-as-a-cloud-service)
+* [Experience Manager Documentation: Recent Updates](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?#aem-as-a-cloud-service)
 * [Older Versions of Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?#previous-updates)
 
 +++
@@ -524,10 +524,6 @@ Get access to release notes, new tutorials, and Knowledge Base articles for [!DN
 * See [Release notes for [!DNL Adobe Commerce] and [!DNL Magento Open Source]](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html) to stay current.
 * See [Adobe Commerce Services Guides](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/home.html) to see Commerce Services release information and documentation.
 * See [Product Availability](https://experienceleague.adobe.com/docs/commerce-operations/release/product-availability.html) to access individual product release notes and verify availability.
-
->[!NOTE]
->
->[!DNL Adobe Search&Promote] end-of-service occurred **September 1, 2022**. For product and commerce search, [Live Search](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html) is Adobe's search application. See the [end-of-life announcement](https://experienceleague.adobe.com/docs/discontinued/using/search-promote.html) for more information.
 
 ### New tutorials for [!DNL Adobe Commerce] {#tutorials-commerce}
 
@@ -581,9 +577,9 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials, courses, a
 
 ### Latest Campaign product releases
 
-* **New!** - [!DNL Campaign Web Interface]: [What's new](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=en) | [Product documentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html)
+* **New!** [!DNL Campaign Web Interface]: [What's new](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=en) | [Product documentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html)
 
-* **New!** - [!DNL Campaign] v8.6: [Release notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html) | [Product documentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=en)
+* **New!** [!DNL Campaign] v8.6: [Release notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html) | [Product documentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=en)
 
 * [!DNL Campaign Standard] v24.1 - Winter: [Release notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
 
@@ -618,6 +614,7 @@ New articles and updates to existing articles for [!DNL Campaign].
 
 ### [!DNL Campaign] help resources
 
+* [!DNL Campaign] Web Interface: [What's new](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=en) - [Product documentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html?lang=en)
 * [!DNL Campaign] v8: [Documentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) - [Implementation Guides](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/implement.html)
 * [!DNL Campaign] Standard: [Campaign Standard Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html) - [Release Planning](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html)
 * [!DNL Campaign] Classic: [Campaign Classic v7 Documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [How-to videos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html)
@@ -701,7 +698,7 @@ Find out the latest release notes and release schedule for [!DNL Marketo Engage]
 
 ### Core Marketo Engage updates
 
-* See [January 2024 - current release notes](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html) for the latest information
+* See [March 2024 - current release notes](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html) for the latest information
 * See [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html) for the latest release schedule information and release notes.
 
 ### New Marketo tutorials and courses {#tutorials-marketo}
