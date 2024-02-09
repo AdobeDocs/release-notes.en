@@ -39,7 +39,6 @@ Latest update: **February 9, 2024**
 * [[!DNL Adobe Analytics]](#analytics)
 * [[!DNL Adobe Customer Journey Analytics]](#cja)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
-* [[!DNL Adobe Audience Manager]](#aam)
 * [[!DNL Adobe Experience Manager]](#aem) 
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
@@ -125,8 +124,8 @@ Release date: **January 30, 2024**
 
 | Feature | Description |
 | ------- | ------- |
-| Announcement APIs | <ul><li>Announcements are Global, Cloud, or Product level messages with a wider impact; an example from the past would be a Covid-19 message. Other examples would be global security vulnerabilities like log4j, and support center down, etc. Announcements are not linked to an issue or maintenance, they are used to communicate with customers on Cloud or Product level updates.</li><li>Announcements are now part of the Status API collection. Customers can query and get announcements to integrate with their internal dashboards. Check out the new endpoints here.</li></ul> |
-| Bug fixes | <ul><li>UI performance improvements</li></ul> |
+| Announcement APIs | <ul><li>Announcements are global, cloud, or product-level messages with a wider impact. An example from the past would be a Covid-19 message. Other examples would be global security vulnerabilities like log4j, and support center down, and so on. Announcements are not linked to an issue or maintenance. They are used to communicate with customers on cloud or product-level updates.</li><li>Announcements are now part of the Status API collection. Customers can query and get announcements to integrate with their internal dashboards. Check out the new endpoints [here](https://developer.adobe.com/adobe-status/api/#tag/Events/operation/announcementsUsingGET).</li></ul> |
+| Bug fixes | <ul><li>Interface performance improvements.</li></ul> |
 
 {style="table-layout:auto"}
 
@@ -143,13 +142,13 @@ For recent release notes, see:
 
 Learn about [!DNL Experience Cloud] central interface components and administration. Manage products and users, configure profile settings and preferences, search Experience Cloud objects, and manage cookies. 
 
-<!-- +++Details
++++Details
 
 | Feature | Description |
 | ------- | ------- |
 | Log-in page | Log-in page automatically rotates background images on each load. (No new functionality.) |
 
-{style="table-layout:auto"} -->
+{style="table-layout:auto"}
 
 For help on Experience Cloud central interface components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
 
@@ -171,7 +170,7 @@ New videos, tutorials, or courses published for Adobe [!DNL Experience Platform]
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| February 2024 | Real-Time Customer Data Platform, Journey Optimizer | [Use Case Playbooks](https://experienceleague.adobe.com/docs/platform-learn/tutorials/use-case-playbooks/overview.html) | Multiple video | Learn how Use Case Playbooks can help customers of Real-Time Customer Data Platform and Journey Optimizer get faster time-to-value. Use Case Playbooks is a catalog of dozens of templates covering multiple industries and marketing goals.  |
+| February 2024 | Real-Time Customer Data Platform, Journey Optimizer | [Use Case Playbooks](https://experienceleague.adobe.com/docs/platform-learn/tutorials/use-case-playbooks/overview.html) | Multiple videos | Learn how Use Case Playbooks can help customers of Real-Time Customer Data Platform and Journey Optimizer get faster time-to-value. Use Case Playbooks is a catalog of dozens of templates covering multiple industries and marketing goals.  |
 | February 2024 | Tags | [Use tag environments and embed codes](https://experienceleague.adobe.com/docs/platform-learn/data-collection/tags/use-environments-and-embed-codes.html) | Video | Learn how to use development, staging, and production environments and embed codes to develop and validate your tag property.  |
 
 {style="table-layout:auto"}
@@ -196,13 +195,9 @@ Find the latest tutorials for [!DNL Real-Time Customer Data Platform] on Experie
 
 +++Details
 
-New videos, tutorials, or courses published for Adobe [!DNL Real-Time Customer Data Platform].
+* Video tutorials: [Understanding Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform.html?lang=en)
 
-| Published | Name | Type | Description |
-| ----------| ---------- | ---------- |---------- |
-| December 2023 | [Import sample data to Adobe [!DNL Experience Platform]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/import-sample-data.html) | Updated article | Learn how to set up an Experience Platform sandbox environment with sample data.  |
-
-{style="table-layout:auto"}
+* Product documentation: [Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/real-time-customer-data-platform.html?lang=en)
 
 +++
 
@@ -286,36 +281,6 @@ Find the latest release information for [!DNL Streaming Media Analytics]. View n
 * [!DNL Streaming Media Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html)
 
 +++
-
-## ![Icon](/assets/audience-manager.png) Audience Manager {#aam}
-
-Updates and new content for [!DNL Audience Manager].
-
-+++Details
-
-Beginning in July 2023, Adobe has discontinued the development of the [!DNL Data Integration Library (DIL)] and the [!DNL DIL] extension.
-
-Existing customers can continue using their [!DNL DIL] implementation. However, Adobe is not developing [!DNL DIL] beyond this point. Customers are encouraged to evaluate the [Experience Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=en) for their long-term data collection strategy. Customers looking to implement new data collection integrations after July 2023 should use [Experience Platform Web SDK](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=en) instead.
-
-For self-help resources, see [Audience Manager documentation and tutorials](https://experienceleague.adobe.com/docs/audience-manager.html) on Experience League.
-
-+++
-
-<!-- 
-### New [!DNL Audience Manager] support knowledge base
-
-| Published | Name | Type | Description |
-| -----------| ---------- | ---------- | ---------- |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
-| August 2023 | [linktext](https://experienceleague.adobe.com/?lang=en#home) |Video | Description |
-
-{style="table-layout:auto"}
- -->
 
 ## ![Icon](/assets/aem.png) Adobe Experience Manager {#aem}
 
