@@ -171,7 +171,8 @@ New videos, tutorials, or courses published for Adobe [!DNL Experience Platform]
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| December 2023 | Mobile SDK | [Implement Adobe Experience Cloud in mobile apps tutorial](https://experienceleague.adobe.com/docs/platform-learn/implement-mobile-sdk/overview.html) | Updated tutorial (multiple articles) | Learn how to implement Adobe [!DNL Experience Cloud] applications in your mobile app using Adobe [!DNL Experience Platform Mobile SDK]. |
+| February 2024 | Real-Time Customer Data Platform, Journey Optimizer | [Use Case Playbooks](https://experienceleague.adobe.com/docs/platform-learn/tutorials/use-case-playbooks/overview.html) | Multiple video | Learn how Use Case Playbooks can help customers of Real-Time Customer Data Platform and Journey Optimizer get faster time-to-value. Use Case Playbooks is a catalog of dozens of templates covering multiple industries and marketing goals.  |
+| February 2024 | Tags | [Use tag environments and embed codes](https://experienceleague.adobe.com/docs/platform-learn/data-collection/tags/use-environments-and-embed-codes.html) | Video | Learn how to use development, staging, and production environments and embed codes to develop and validate your tag property.  |
 
 {style="table-layout:auto"}
 
@@ -229,13 +230,12 @@ New video tutorials, articles, and courses published for Adobe [!DNL Analytics].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2024|[Share a read-only project in [!UICONTROL Analysis Workspace]](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.html)|Video |Learn how to share read-only [!UICONTROL Workspace] projects to users, and understand the features available for this permission level.|
-|December 2023|[A helpful checklist for auditing your Data Dictionary](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/admin-tips/audit-your-data-dictionary.html)|Article |Enhance data efficiency and reliability with our Adobe [!DNL Analytics] and [!DNL Customer Journey Analytics] [!UICONTROL Data Dictionary] audit checklist. |
-|December 2023|[Introduction to conversion variables ([!DNL eVars])](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)|Video |Learn about how conversion variables, also known as [!DNL eVars], are used in Adobe [!DNL Analytics], including how they relate to conversion events and differ from traffic variables.|
-|December 2023|[Basic configuration of the Analytics extension in Experience Platform Tags](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.html)|Video |Watch how to configure the [!DNL Analytics] extension in [!DNL Experience Platform] Tags for a basic site.|
-|December 2023|[Configure library management for the Analytics extension in Adobe Tags](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.html)|Video |Learn about the library management configuration options for the [!DNL Analytics] extension in Experience Platform Tags, including selecting report suites for data collection.|
-|December 2023|[Configure global variable settings for the Analytics extension in Experience Platform Tags](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.html)|Video |Learn how to configure the global variable settings in the Analytics Tags extension for a basic website.|
-|December 2023|[Configure general settings for the Analytics extension in Experience Platform Tags](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.html)|Video |Learn about the general configuration options for the Analytics extension in Experience Platform tags, including setting the tracking server. |
+|February 2024|[Configure general settings for the [!DNL Analytics] extension in Experience Platform tags](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/experience-platform-tags/configuring-general-settings-in-the-tags-analytics-extension.html)|Updated video |Learn about the general configuration options for the Analytics extension in tags including setting the tracking server. |
+|February 2024|[Configure exit link tracking in Experience Platform tags](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/experience-platform-tags/configuring-easy-exit-link-tracking.html)|Updated video |Learn how to track exit links on your site (links that go to another site) in just a few clicks in the Adobe Analytics extension in Experience Platform tags.|
+|February 2024|[Use a data layer to set [!DNL Analytics] variables in Experience Platform tags](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.html)|Updated video |Learn how to pull values out of the data layer and use them in Experience Platform tags to populate variables in Adobe Analytics. Using a data layer for Analytics and other Experience Cloud solutions is a best practice.|
+|February 2024|[Configure download link tracking in Experience Platform tags](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/experience-platform-tags/configuring-easy-download-link-tracking.html)|Updated video |Track download links on your site (links that download non-browser files to your machine) in just a few clicks in the Adobe Analytics extension in Experience Platform tags.|
+|February 2024|[Use doPlugins and implementation plug-ins in Experience Platform tags](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/experience-platform-tags/use-doplugins-and-implementation-plugins.html?lang=en)|Updated video |Learn about the benefits of using the doPlugins function, and add Analytics implementation plug-ins to enrich data collection. |
+|February 2024|[Create Experience Platform tags rules for special pages](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/experience-platform-tags/creating-tags-rules-for-special-pages.html?lang=en)|Video |In addition to data collected on every page, you have other data that must be collected on specific pages. This video shows you how to merge that data with the common data and send it into Adobe Analytics.|
 
 {style="table-layout:auto"}
 
@@ -496,22 +496,18 @@ New videos, tutorials, or courses published for Experience Manager.
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| January 2024 | [!DNL AEM Sites] | [References](https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/search/references.html) | Video | Learn how [!UICONTROL Content Fragment] Console and Editor makes it easy to understand and manage referenced content. |
-| January 2024 | [!DNL AEM Assets] | [Switch Views](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/switch-views.html) | Video | Learn how to efficiently switch between views in [!DNL AEM Assets as a Cloud Service], ensuring seamless asset management. |
-| January 2024 | [!DNL AEM Assets] | [Find Similar Images](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/find-similar-images.html) | Video | Learn how [!UICONTROL Find Similar Image] in [!DNL AEM Assets] makes it easy to find the best image for your needs. |
-| January 2024 | [!DNL AEM Assets] | [Extract Archive](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/extract-archive.html?lang=en) | Video | Learn how to master efficient digital asset management in [!DNL AEM Assets] with our informative video, showcasing the [!UICONTROL Extract ZIP] feature for effortlessly organizing and uploading your asset hierarchies directly into the DAM.|
-| January 2024 | [!DNL AEM CS] | [Indexing best practices in AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/development/understand-indexing-best-practices.html?lang=en) | Article | Learn about indexing best practices in Experience Manager.  |
-| December 2023 | [!DNL AEM Sites] | [Document authoring videos](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/overview.html?lang=en) | Videos | Understand how to configure document authoring allowing AEM authors to edit and publish documents using Microsoft Word or Google Docs. |
-| December 2023 | [!DNL AEM Sites] | [Edge Delivery Services videos](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/edge-delivery-services/overview.html?lang=en) | Article | Learn how to make web sites fast with Edge Delivery. |
-| December 2023 | [!DNL AEM CS] | [How to enable CDN caching](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/caching/how-to/enable-caching.html) | Video | Learn how to enable the caching of HTTP responses in AEM as a Cloud Service's CDN.|
-| December 2023 | [!DNL AEM Forms] | [Pre-populate core component-based adaptive form](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/prefill-core-component-based-form/introduction.html?lang=en) | Articles | Learn about a use case for prefilling component-based adaptive forms. |
-| December 2023 | [!DNL AEM Forms] | [Get started storing form submissions in Azure](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/store-submiited-data-with-metadata-tags/introduction.html) | Articles | Learn a simple use case for storing form submissions in Azure storage with blob index tags.  |
-| December 2023 | [!DNL Cloud Manager] | [Cloud Manager custom permissions](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/cloud-manager/cloud-permissions.html) | Video | Learn how to use Cloud Manager custom permissions in AEM to strategically manage access for different teams, ensuring efficient and secure project management and deployment. |
-| December 2023 | [!DNL AEM Sites] | [Blocks and autoblocks](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/blocks-and-autoblocks.html?lang=en) | Video | Explore how blocks and autoblocks are used in document authoring and how these can improve the site and authoring experience. |
-| December 2023 | [!DNL AEM Forms] | [Register a servlet using resource type](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/developing-for-cloud-service/registering-servlet-using-resourcetype.html?lang=en) | Video |Learn about submitting adaptive form to a custom submit handler. You can bind servlets by resource type instead of paths.|
-| December 2023 | [!DNL AEM Sites] | [Deleting pages](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/edge-delivery-services/how-to/delete-page.html) | Video | Learn how to delete a page in Edge Delivery Services. |
-| December 2023 | [!DNL AEM Sites] | [Social media sharing](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/edge-delivery-services/how-to/social-media-sharing.html) | Video | Learn how to optimize your content for social media sharing using Edge Delivery Services. |
-| December 2023 | [!DNL AEM Assets] | [AEM Assets and Adobe Express](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express.html) | Video | Discover how to effortlessly create and edit content within Adobe [!DNL Experience Manager Assets] using [!DNL Adobe Express].  |
+| February 2024 | AEM Sites | [Journaling and AEM Events](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-eventing/examples/journaling.html) | Video | Learn how to retrieve the initial set of AEM Events from the journal and explore the details about each event. |
+| February 2024 | AEM Sites | [AEM Events processing using Adobe I/O Runtime Action](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-eventing/examples/event-processing-using-runtime-action.html) | Video | Learn how to process received AEM Events using Adobe I/O Runtime Action.|
+| February 2024 | AEM Sites | [Adobe I/O Runtime Action and AEM Events](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-eventing/examples/runtime-action.html) | Video | Learn how to receive AEM Events using Adobe I/O Runtime Action and review the event details such as payload, headers, and metadata. |
+| February 2024 | AEM Assets | [Using Bulk Import](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/bulk-import.html) | Video | Learn to use the Bulk Import tool in AEM as a Cloud Service to import assets in bulk from cloud storage in a safe and efficient manner. |
+| February 2024 | [!DNL AEM Assets] | [Find Similar Images](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/search-and-discovery/find-similar-images.html) | Video | Learn how [!UICONTROL Find Similar Image] in [!DNL AEM Assets] makes it easy to find the best image for your needs. |
+| February 2024 | [!DNL AEM Assets] | [Switch Views](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/switch-views.html) | Video | Learn how to efficiently switch between views in [!DNL AEM Assets as a Cloud Service], ensuring seamless asset management. |
+| February 2024 | AEM Forms | [Prefill adaptive form with share point list data](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/one-drive/prefill-data-from-sharepoint-list.html) | Video | Learn how to prefill adaptive form using form data model backed by share point list. |
+| February 2024 | AEM CS | [AEM Eventing](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-eventing/overview.html?lang=en) | Multiple video | Learn about AEM eventing, what it is, why and when to use it and examples of it. |
+| February 2024 | AEM Forms | [Developing with Output and Forms Services in AEM Forms](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/output-and-forms-services-article-develop.html) | Video | Learn about developing with Output and Forms Service API in AEM Forms. |
+| February 2024 | AEM Assets | [Blocked Tags](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/advanced/blocked-tags.html) | Video | Learn how to enhance asset management in AEM by using Blocked Tags to prevent the application of culturally sensitive, irrelevant, or controversial Smart Tags. |
+| February 2024 | AEM Headless | [Bulk property update example extension](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/console-bulk-property-update.html) | Video | An example AEM Content Fragments Console extension that bulk updates a property of Content Fragments. |
+| February 2024 | AEM Headless | [AEM image asset generation using OpenAI](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/console-image-generation-and-image-upload.html) | Video | Learn how to generate an image using OpenAI or DALL·E 2 and upload it to AEM DAM for content velocity. |
 
 {style="table-layout:auto"}
 
@@ -630,6 +626,14 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials, courses, a
 
 * Control Panel: [Release notes](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en) 
 
+### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
+
+New videos, tutorials, or courses published for Adobe Campaign.
+
+| Published | Version | Name | Type | Description |
+| ----------| ---------- | ---------- | ---------- |---------- |
+| February 2024 | Version | [Introduction to Adobe Campaign V8](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/getting-started/introduction-to-adobe-campaign.html) | Updated video | Understand how Adobe Campaign fits into the Adobe Digital Experience portfolio and learn about the primary features and capabilities. |
+
 ### New [!DNL Campaign] support knowledge base{#kb-campaign}
 
 New articles and updates to existing articles for [!DNL Campaign].
@@ -672,7 +676,12 @@ New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|December 2023|[Create and execute an IP warmup plan](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/create-and-execute-an-ip-warmup-plan.html)|Video |Learn how to create and execute an IP warmup plan.|
+|February 2024|[Preview, proof, and publish](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/preview-proof-and-publish.html)|Video |Learn how to test email rendering across inboxes using Litmus, how to preview your personalized emails against test profiles, send proofs, and publish your email.|
+|February 2024|[Publish a journey and journey statuses](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/publish-a-journey.html)|Video |Understand the different states of a journey and the impact of publishing.|
+|February 2024|[Mobile capabilities for marketers](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/mobile-capabilities.html)|Video |Understand which mobile capabilities Adobe Journey Optimizer offers marketers.|
+|February 2024|[Double opt-in for Sinch and Infobip](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/sms-channel/sms-double-opt-in.html)|Video |Learn how to configure double opt-in for SMS.|
+|February 2024|[Key capabilities and the user interface](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface.html)|Video |Understand the Journey Optimizer's key capabilities and personas. Learn how to navigate the user interface.|
+|February 2024|[Introduction to building a journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html)|Video |Understand the basics of building a journey in the journey canvas.|
 
 {style="table-layout:auto"}
 
@@ -734,11 +743,13 @@ Find out the latest release notes and release schedule for [!DNL Marketo Engage]
 
 New videos, tutorials, or courses published for Adobe Marketo.
 
+### New Marketo tutorials and courses {#tutorials-marketo}
+
+New videos, tutorials, or courses published for Adobe Marketo.
+
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2024|[Marketo Measure Tutorials home](https://experienceleague.adobe.com/docs/marketo-measure-learn/tutorials/overview.html?lang=en)|Video |View all the recently added video tutorials for Marketo Measure!|
-|December 2023|[Getting started with Microsoft&reg; Dynamics sync](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/integrations/microsoft-dynamics-sync-setup.html?lang=en)|Video |Learn how the Microsoft&reg; Dynamics 365 sync works and configure the setup properly to allow the two systems to speak to each other. |
-|December 2023|[Marketing Attribution and Metrics](https://experienceleague.adobe.com/docs/marketo-measure-learn/tutorials/evangelist/attribution-and-metrics.html)|Video |Learn what questions to ask while in the sales process, how to decipher what software is marketing attribution or metric specific, and how to scale your marketing attribution needs.|
+|February 2024|[Marketing attribution maturity](https://experienceleague.adobe.com/docs/marketo-measure-learn/tutorials/evangelist/marketing-attribution-maturity.html)|Video |Learn from experts about how MOPs teams go from no attribution reporting to how Fortune 100 companies are using Marketo Measure.|
 
 {style="table-layout:auto"}
 
@@ -758,7 +769,7 @@ New [!DNL Workfront] tutorials on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2024|[What's new in Workfront tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en#what%E2%80%99s-new%3F)|Multiple videos |View the latest tutorials released in the past month.|
+|February 2024|[What's new in Workfront tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en#what%E2%80%99s-new%3F)|Multiple videos |View the latest tutorials released in the past month.|
 
 {style="table-layout:auto"}
 
