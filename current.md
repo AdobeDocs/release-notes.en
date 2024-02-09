@@ -27,7 +27,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## February 2024
 
-Latest update: **February 8, 2024**
+Latest update: **February 9, 2024**
 
 * [[!DNL Experience League] events and updates](#events) 
 * [[!DNL Adobe GenStudio]](#genstudio) 
@@ -85,13 +85,13 @@ View more [upcoming events](https://experienceleague.adobe.com/events/) or brows
 
 ## ![Icon](/assets/experience-league.png) Adobe GenStudio {#genstudio}
 
-Adobe [GenStudio](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/overview.html) is an end-to-end solution to accelerate and simplify your content supply chain with generative AI and intelligent automation. 
+[Adobe [!DNL GenStudio]](https://business.adobe.com/solutions/adobe-genstudio.html) is an end-to-end solution to accelerate and simplify your content supply chain with generative AI and intelligent automation. 
 
 +++Details
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2024|[GenStudio Tutorials](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/overview.html?lang=en)|Videos |View Experience League tutorials on the new [!DNL Adobe GenStudio]. [!DNL GenStudio] is an end-to-end solution to accelerate and simplify your content supply chain with generative AI and intelligent automation.|
+|February 2024|[GenStudio Tutorials](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/overview.html?lang=en)|Videos |View Experience League tutorials on the new [!DNL Adobe GenStudio]. [!DNL GenStudio] is an end-to-end solution to accelerate and simplify your content supply chain with generative AI and intelligent automation.|
 
 {style="table-layout:auto"}
 
