@@ -452,7 +452,7 @@ All [!DNL Experience Manager] release notes are maintained at the following page
 * [Experience Manager Brand Portal release notes](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html)
 * [Experience Manager desktop app release notes](https://experienceleague.adobe.com/docs/experience-manager-desktop-app/using/release-notes.html)
 * [Experience Manager Dispatcher release notes](https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/getting-started/release-notes.html)
-* [Adobe Primetime release notes](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html)
+* [Adobe Primetime release notes](https://experienceleague.adobe.com/docs/pass.html)
 * [Livefyre release notes](https://experienceleague.adobe.com/docs/discontinued/using/livefyre.html)
 
 ### New [!DNL Experience Manager] tutorials and courses {#tutorials-aem}
@@ -483,7 +483,7 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
 |January 2024|[Image oversizing with [!UICONTROL Smart Imaging] on [!UICONTROL Dynamic Media]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23359.html)|New article| Learn the solution for when using [!UICONTROL Smart Imaging] on [!UICONTROL Dynamic Media], image size can sometimes be larger than expected.|
-|January 2024|[User group changes in [!UICONTROL admin console] not reflected in [!DNL AEM]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23390.html)|New article| Learn the solution for the issue when you modify the user groups in the [!UICONTROL Admin Console], the changes might not be immediately visible in [!DNL Adobe Experience Manager (AEM)].|
+|January 2024|[User group changes in [!UICONTROL Admin Console] not reflected in [!DNL AEM]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23390.html)|New article| Learn the solution for the issue when you modify the user groups in the [!UICONTROL Admin Console], the changes might not be immediately visible in [!DNL Adobe Experience Manager (AEM)].|
 |January 2024|[Not able to move [!UICONTROL experience fragments]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23391.html)|New article| Learn the solution for the issue when someone attempts to move a [!UICONTROL content fragment] in [!DNL Adobe Experience Manager 6.5], the [!DNL UI] will spin, and the move operation is not processed completely.|
 |January 2024|[Error *[!DNL org.apache.sling.api.request.TooManyCallsException]* in Custom Console](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23463.html)|New article| Learn how to solve the *[!DNL org.apache.sling.api.request.TooManyCallsException]* error in Custom Console.|
 |January 2024|[[!UICONTROL Replication Queue] blocked in [!DNL AEMaaCS]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23465.html)|New article| Learn the solution for the issue when the [!UICONTROL Replication Queue] in [!DNL Adobe Experience Manager as a Cloud Service (AEMaaCS)] gets blocked.|
@@ -495,9 +495,9 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 ### Other Help resources for [!DNL Experience Manager]
 
 * [Dynamic Media Classic Help Home](https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=en)
-* [Experience Manager as a Cloud Service Guides](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/home.html)
+* [Experience Manager as a Cloud Service Guides](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/overview/introduction.html)
 * [Cloud Manager User Guide](https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/content/introduction.html)
-* [Experience Manager 6.5 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-65/content/implementing/deploying/home.html)
+* [Experience Manager 6.5 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-65/content/implementing/deploying/introduction/platform.html)
 * [Experience Manager 6.4 Learn & Support Home](https://experienceleague.adobe.com/docs/experience-manager-64.html)
 * [Experience Manager Documentation: Recent Updates](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/doc-updates/documentation-updates.html?#aem-as-a-cloud-service)
 * [Older Versions of Experience Manager Documentation](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?#previous-updates)
@@ -548,7 +548,7 @@ New articles and updates to existing articles for Adobe Commerce.
 |January 2024|[[!DNL Quality Patches Tool (QPT)]](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles| New articles on how to apply patches available in [!DNL QPT] 1.1.40, [!DNL QPT] 1.1.42, and [!DNL QPT] 1.1.43 were published and can be found in their respective sections.|
 |January 2024|[[!DNL SendGrid] limitation for Adobe Commerce Cloud](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/sendgrid-file-limitation.html)|New articles| This article provides some workarounds to the [!DNL SendGrid] limitation for Adobe Commerce on cloud infrastructure.|
 |January 2024|[Can't change search engine in `app/etc/env.php`](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/cannot-change-search-engine-in-admin-fields-locked.html)|New articles| This article provides a solution to the issue where you try to remove the search engine configuration from the `app/etc/env.php` file, but after redeployment, the configuration reverts to the previous setting or is changed to [!DNL OpenSearch] by default.|
-|January 2024|[Deployment errors where patches not found](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/deployment/deployment-errors-where-patches-not-found.html)|New articles| This article provides a solution to the issue when upgrading your instance, the deployment fails, and you see an error in the deployment logs: *Next patches weren't found: MDVA-XXXXX, ACSD-XXXXX. Please, check with "status" command availability of these patches for the current Magento version.*|
+|January 2024|[Deployment errors where patches not found](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/deployment/deployment-errors-where-patches-not-found.html)|New articles| This article provides a solution to the issue when upgrading your instance, the deployment fails, and you see an error in the deployment logs: *Next patches weren't found: MDVA-XXXXX, ACSD-XXXXX. Please check with "status" command availability of these patches for the current Magento version.*|
 
 {style="table-layout:auto"}
 
@@ -789,7 +789,7 @@ See [What's New in [!DNL Advertising Search, Social, & Commerce]](https://experi
 >
 >_[!DNL Adobe Primetime]_ is now _[!DNL Adobe Pass]_. You might see both brand names in documentation soon, until the rebrand work is complete.
 
-See [Adobe Pass Release Notes](https://experienceleague.adobe.com/docs/primetime/release-notes/home.html) to find release-specific information, system requirements, limitations, fixed issues, and known issues.
+See [Adobe Pass Release Notes](https://experienceleague.adobe.com/docs/pass.html) to find release-specific information, system requirements, limitations, fixed issues, and known issues.
 
 +++
 
