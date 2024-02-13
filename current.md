@@ -27,7 +27,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## February 2024
 
-Latest update: **February 9, 2024**
+Latest update: **February 13, 2024**
 
 * [[!DNL Experience League] events and updates](#events) 
 * [[!DNL Adobe GenStudio]](#genstudio) 
@@ -121,6 +121,10 @@ Learn about the latest features and updates in [!DNL Adobe System Status].
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
 Release date: **January 30, 2024**
+
+**What's new**
+
+* Announcements are now part of Status APIs.
 
 | Feature | Description |
 | ------- | ------- |
