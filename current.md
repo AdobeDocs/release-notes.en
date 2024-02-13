@@ -64,17 +64,7 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 Updated **February 7, 2024**
 
-+++Upcoming events on Experience League
-
-* **[!DNL EXPERIENCE PLATFORM]** | Experience League LIVE | _Use Case Playbooks: self-serve templates to deploy use cases in a few clicks_ | Learn how Use Case Playbooks can translate your marketing goals into implementation objects in just a few clicks! | **February 8 @ 9:00 AM PT** | [Register](https://engage.adobe.com/ExpLeagueLive-240208.html)
-
-* **[!DNL WORKFRONT]** | Customer workshop | _Connect: Industry Circle - Higher Education_ | Brand new in 2024, this first industry circle is an informal round-table discussion designed to bring together [!DNL Workfront] Admins in Higher Education to network, share experiences, learning, and best practices. | **February 8 @ 9:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,HXNYzHfgZEyqwzniykMx3A,PncbLSMUO0uljcEW9Br4Yw,MM54OINvfUGLghA2cPG1Rg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL ANALYTICS]** | Webinar | _Data Drip: Marketing Channels & Attribution Modeling_ | Do you know the impact your customer interactions have on conversions? Join our Adobe experts as they show us how to configure marketing channels and leverage AI in Adobe Analytics to build custom attribution models. | **February 8 @ 1:00 PM ET** | [Register](https://adobeevents.adobeconnect.com/e1smupitvxor/event/registration.html?campaign-id=ExL)
-
-* **[!DNL WORKFRONT]** | Community event | _Workfront Collective_ | Join other Workfront customers for our monthly collective problem-solving and success-sharing session! | **February 12 @ 6:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,Xn9a7-beEEy24cKL2PXNNg,7zi14AC4xkabCHqKTayiIA,IqLjAD7pD0iArKvVqEuvXg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL DATA COLLECTION]** | Webinar | _Data Stream Prioritization_ | Learn how to manage data stream prioritization for campaign orchestration to supercharge your organization's ability to execute data driven personalization. | **February 13 @ 9:30 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,wz2PUDDYrkiC_tdIA9Fmjg,zxRtJEK2-EOEMRsAgHTASw,_oHPrghx30--nY9ZXaZoOQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
++++Details
 
 * **[!DNL WORKFRONT]** | Customer workshop | _Admin 101: Getting Your Users to Use [!DNL Workfront]_ | New to [!DNL Workfront]? Join our monthly meetup for new admins! This month, we discuss best practices for user adoption. | **February 14 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
