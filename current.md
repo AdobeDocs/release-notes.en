@@ -71,7 +71,7 @@ Updated **February 14, 2024**
 
 * **[!DNL WORKFRONT]** | Q & A Chat | _Ask Customer Support - Troubleshooting Common Layout Template and View Issues_ | Join the Workfront Customer Support team for an "Ask the Expert" type session to learn best practices and troubleshooting tips focused around Layout Templates and Views. | **February 22 @ 9:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!ADOBE SUMMIT]** | The Digital Experience Conference | _Expand your skills, discover the latest trends, and explore the future of experience-led growth_ | Learn from leading brands, discover the future of generative AI, and get ready for experience-led growth. | **March 25 - 28 @ Las Vegas and online** | [Register](https://summit.adobe.com/na/?promoid=QGMZPBSP&mv=other)
+* **ADOBE SUMMIT** | The Digital Experience Conference | _Expand your skills, discover the latest trends, and explore the future of experience-led growth_ | Learn from leading brands, discover the future of generative AI, and get ready for experience-led growth. | **March 25 - 28 @ Las Vegas and online** | [Register](https://summit.adobe.com/na/?promoid=QGMZPBSP&mv=other)
 
 View more [upcoming events](https://experienceleague.adobe.com/events/) or browse [event recordings](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) on Experience League.
 
