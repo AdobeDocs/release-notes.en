@@ -6,7 +6,6 @@ last-update: February 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-badgeReview: label="Internal Review" type="Negative"
 ---
 # Experience Cloud Release Notes
 
@@ -27,7 +26,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## February 2024
 
-Latest update: **February 13, 2024**
+Latest update: **February 14, 2024**
 
 * [[!DNL Experience League] events and updates](#events) 
 * [[!DNL Adobe GenStudio]](#genstudio) 
@@ -36,8 +35,8 @@ Latest update: **February 13, 2024**
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)
+* [[!DNL Adobe Analytics]](#analytics) (released **February 14**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (released **February 14**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem) 
 * [[!DNL Adobe Commerce]](#commerce)
@@ -66,13 +65,13 @@ Updated **February 14, 2024**
 
 +++Details
 
-* **[!DNL WORKFRONT]** | Customer workshop | _Admin 101: Getting Your Users to Use [!DNL Workfront]_ | New to [!DNL Workfront]? Join our monthly meetup for new admins! This month, we discuss best practices for user adoption. | **February 14 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MDL_x5737EWfNcssbhAZ1A,5pHR-aY5vUuDZD_W7b413Q,6Q3YA7w40kC8sjrpjua41Q?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL EXPERIENCE PLATFORM]** | Webinar | _Strategic Leadership Unleashed: The Power of Executive Sponsorship_ | Acquire the tactics to effectively achieve organizational goals through strategic influence. This session is designed to empower executives seeking to elevate their executive sponsorship. | **February 15 @ 10:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,GhrB9xJg0Ue2T4RaLzkJLw,B3p-ouZzS0iARXaZhi5IXA,WnJS96CGxkWMxRYwMJAa8A?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL EXPERIENCE PLATFORM]** | Webinar | _Lean Team Advantages: Unlock the capabilities for streamlined success_ | Discover how product integrations can streamline digital workflows, enhance team efficiency, and scale business processes. Learn techniques to improve collaboration within lean teams for maximum productivity. | **February 20 @ 10:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,ARjQDHG3k02Eo-6lKFWC2g,VAiqxCIG6Eyfezx39qUWCQ,lzo8X450K0WiX2CQ1QsnUg,6GQkKH8YT0GizXdcl-r83A,qfG_3T7YZE-rhyNf2XFx-g?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Q & A Chat | _Ask Customer Support - Troubleshooting Common Layout Template and View Issues_ | Join the Workfront Customer Support team for an "Ask the Expert" type session to learn best practices and troubleshooting tips focused around Layout Templates and Views. | **February 22 @ 9:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Q & A Chat | _Ask Customer Support - Troubleshooting Common Layout Template and View Issues_ | Learn from leading brands, discover the future of generative AI, and get ready for experience-led growth. | **February 22 @ 9:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!ADOBE SUMMIT]** | The Digital Experience Conference  | _Expand your skills, discover the latest trends, and explore the future of experience-led growth_ | Join the Workfront Customer Support team for an "Ask the Expert" type session to learn best practices and troubleshooting tips focused around Layout Templates and Views. | **March 25 - 28 @ Las Vegas and online** | [Register](https://summit.adobe.com/na/?promoid=QGMZPBSP&mv=other)
 
 View more [upcoming events](https://experienceleague.adobe.com/events/) or browse [event recordings](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) on Experience League.
 
