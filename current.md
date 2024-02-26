@@ -26,9 +26,9 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## February 2024
 
-Latest update: **February 14, 2024**
+Latest update: **February 26, 2024**
 
-* [[!DNL Experience League] events and updates](#events) 
+* [[!DNL Experience League] events and updates](#events)  (updated **February 26**)
 * [[!DNL Adobe GenStudio]](#genstudio) 
 * [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -61,11 +61,11 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 ### Events on Experience League
 
-Updated **February 14, 2024**
+Updated **February 26, 2024**
 
 +++Details
 
-* **[!DNL WORKFRONT]** | Q & A Chat | _Ask Customer Support - Troubleshooting Common Layout Template and View Issues_ | Join the Workfront Customer Support team for an "Ask the Expert" type session to learn best practices and troubleshooting tips focused around Layout Templates and Views. | **February 22 @ 9:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,SHy3noeahk-cVr1c56xN3g,LabzJZ5I2ESS1IfzddF1Lw,rj5S03F0xUmcsyxTeJTtTg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Q&A chat | _Ask Customer Panel: Advance Your Career with Workfront_ | The first panel of 2024 kicks off with three inspiring Workfront customers who have built a successful career using their Workfront expertise. Join us for a 1-hour discussion to learn the skills needed to succeed. | **February 27 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,2fZ2UKkqy0WZ22Alb9JdRQ,qGWMHwKiJ06A_XgUeGVhYg,cta_ZoLBA06u-8UH8SlbCQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **ADOBE SUMMIT** | The Digital Experience Conference | _Expand your skills, discover the latest trends, and explore the future of experience-led growth_ | Learn from leading brands, discover the future of generative AI, and get ready for experience-led growth. | **March 25 - 28 @ Las Vegas and online** | [Register](https://summit.adobe.com/na/?promoid=QGMZPBSP&mv=other)
 
