@@ -26,9 +26,9 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## February 2024
 
-Latest update: **February 26, 2024**
+Latest update: **February 28, 2024**
 
-* [[!DNL Experience League] events and updates](#events)  (updated **February 26**)
+* [[!DNL Experience League] events and updates](#events)  (updated **February 28**)
 * [[!DNL Adobe GenStudio]](#genstudio) 
 * [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
@@ -61,11 +61,27 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 ### Events on Experience League
 
-Updated **February 26, 2024**
+Updated **February 28, 2024**
 
 +++Details
 
-* **WORKFRONT** | Q&A chat | _Ask Customer Panel: Advance Your Career with Workfront_ | The first panel of 2024 kicks off with three inspiring Workfront customers who have built a successful career using their Workfront expertise. Join us for a 1-hour discussion to learn the skills needed to succeed. | **February 27 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,2fZ2UKkqy0WZ22Alb9JdRQ,qGWMHwKiJ06A_XgUeGVhYg,cta_ZoLBA06u-8UH8SlbCQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **EXPERIENCE MANAGER** | Webinar | _EMEA AEM Community event_ | We will have a great interactive session on Content Supply Chain to discuss your objectives, your achievements so far, the challenges you face and how to address them. | **February 29 @ 3:00 PM GMT** | [Register](https://registration.adobe.com/AdobeAEM24/)
+
+* **ADMIN and CAMPAIGN** | Experience League LIVE | _Leaping ahead with the new Adobe Campaign Web User Interface_ | Join us on February 29th to learn how to plan, launch and measure cross-channel strategies using the new Adobe Campaign Web User Interface and to get a preview of the new Generative AI capabilities. | **February 29 @ 8:00 AM PT** | [Register](https://engage.adobe.com/ExpLeagueLive-240229.html)
+
+* **EXPERIENCE MANAGER** | Livestream | _App Builder turns 10.0_ | Join the App Builder engineering team to learn what's new with their latest CLI release as well as what's on the horizon including some new approaches to make debugging much easier and more! | **February 29 @ 9:00 AM PT** | [Register](https://streamyard.com/watch/i7TEbhnR73h9)
+
+* **WORKFRONT** | Customer workshop | _Learn: Workfront for Legal & Compliance_ | Join us for a workshop on how collaborating with your Legal & Compliance teams can streamline your processes, expand your Workfront platform to a larger audience in your org, and grow your adoption. | **February 29 @ 9:30 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,-RtTT5LkeU2OT5UN6pjZiA,y4-cs7fHjEmhjyMRZ1Igcw,hjYyoGdB9UiGT2SRWhnc7A?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Community event | _Connect: Admin Chat for Marketing & Creative_ | Are you a system admin for a marketing or creative team? This customer-driven session will connect you with other admins to discuss best practices as well as tips and tricks. | **March 1 @ 9:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,bm8peHjA-k-iHyuhPz3AYQ,bo2nqNAMPkWK1pTv9uBkvg,mc8vdHlpqkGI-aXgy1J5ug?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Webinar | _Wake Up with Workfront: Resource Management_ | Explore one of Workfront's most impactful use cases, Resource Management, as Adobe's Workfront Business Advisor walks through using Blueprints to easily create work management systems that evolve with your needs. | **March 7 @ 1:00 PM ET** | [Register](https://adobeevents.adobeconnect.com/exdj5n4atw60/event/registration.html?campaign-id=ExL)
+
+* **WORKFRONT** | Community event | _Connect: Workfront Collective_ | Join other Workfront customers for a collective problem-solving and success-sharing session! | **March 11 @ 6:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Community event | _Connect: Workfront Collective_ | Join other Workfront customers for a collective problem-solving and success-sharing session! | **March 11 @ 6:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **EXPERIENCE MANAGER** | Webinar | _Espressos & Experience Manager: Why AEM is More Powerful in the Cloud_ | Join Adobe's experts as they discuss how to ensure a smooth transition to the Cloud through content assessment and migration planning with tools like Best Practice Analyzer & Cloud Acceleration Manager. | **March 14 @ 1:00 PM ET** | [Register](https://adobeevents.adobeconnect.com/e8jc5prppkfr/event/registration.html?campaign-id=ExL)
 
 * **ADOBE SUMMIT** | The Digital Experience Conference | _Expand your skills, discover the latest trends, and explore the future of experience-led growth_ | Learn from leading brands, discover the future of generative AI, and get ready for experience-led growth. | **March 25 - 28 @ Las Vegas and online** | [Register](https://summit.adobe.com/na/?promoid=QGMZPBSP&mv=other)
 
