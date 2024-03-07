@@ -633,12 +633,7 @@ New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2024|[Preview, proof, and publish](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/preview-proof-and-publish.html)|Video |Learn how to test email rendering across inboxes using Litmus, how to preview your personalized emails against test profiles, send proofs, and publish your email.|
-|February 2024|[Publish a journey and journey statuses](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/publish-a-journey.html)|Video |Understand the different states of a journey and the impact of publishing.|
-|February 2024|[Mobile capabilities for marketers](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/mobile-capabilities.html)|Video |Understand which mobile capabilities Adobe Journey Optimizer offers marketers.|
 |February 2024|[Double opt-in for Sinch and Infobip](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/sms-channel/sms-double-opt-in.html)|Video |Learn how to configure double opt-in for SMS.|
-|February 2024|[Key capabilities and the user interface](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/introduction-to-journey-optimizer/key-capabilities-and-user-interface.html)|Video |Understand the Journey Optimizer's key capabilities and personas. Learn how to navigate the user interface.|
-|February 2024|[Introduction to building a journey](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey.html)|Video |Understand the basics of building a journey in the journey canvas.|
 
 {style="table-layout:auto"}
 
@@ -699,6 +694,7 @@ New videos, tutorials, or courses published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
+|February 2024|[Marketing attribution and data silos](https://experienceleague.adobe.com/docs/marketo-measure-learn/tutorials/evangelist/marketing-attribution-and-data-silos.html)|Video |In this session of Measure Evangelist talks we invite Drew Smith, CEO of Attributa, to discuss the challenges faces with growing companies and their data silos. Andy Schneider, Adobe Solutions Consultant (Marketo Measure), and Ian Michels, Adobe Marketo evangelist guide the conversation around how these challenges can lead to bad data and poor decision making.|
 |February 2024|[Marketing attribution maturity](https://experienceleague.adobe.com/docs/marketo-measure-learn/tutorials/evangelist/marketing-attribution-maturity.html)|Video |Learn from experts about how MOPs teams go from no attribution reporting to how Fortune 100 companies are using Marketo Measure.|
 
 {style="table-layout:auto"}
