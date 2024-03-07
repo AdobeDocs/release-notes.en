@@ -588,11 +588,19 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials, courses, a
 
 ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
 
-New videos, tutorials, or courses published for Adobe Campaign.
+New or updated videos tutorials published for Adobe Campaign.
 
 | Published | Version | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| February 2024 | Version | [Introduction to Adobe Campaign V8](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/getting-started/introduction-to-adobe-campaign.html) | Updated video | Understand how Adobe Campaign fits into the Adobe Digital Experience portfolio and learn about the primary features and capabilities. |
+| February 2024 | Campaign Web User Interface | [Explore the Campaign Web User Interface](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/getting-started/explore-the-web-ui.html) | Video | Description |
+| February 2024 | Campaign Web User Interface | [Design email content from scratch](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-email-content-from-scratch.html) | Video | Understand how to navigate the Email Designer. Learn how to structure and design an email from scratch, how to personalize, and test your email. |
+| February 2024 | Campaign Web User Interface | [Manage and build audiences](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/profiles-and-audiences/manage-and-build-audiences.html) | Video | Learn how to build and manage audiences, how to select audiences for a delivery, and define control groups. |
+| February 2024 | Campaign Web User Interface | [Create a targeting workflow](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/workflows/create-a-targeting-workflow.html) | Video | Understand how workflows work and how to create a targeting workflow. |
+| February 2024 | Campaign Web User Interface | [Create an email delivery](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-an-email-delivery.html) | Video | Learn how to create an email delivery from scratch, define the audience, design the content, simulate preview, and send a proof. |
+| February 2024 | Campaign Web User Interface | [Design email content from scratch](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-email-content-from-scratch.html) | Video | Understand how to navigate the Email Designer. Learn how to structure and design an email from scratch, how to personalize, and test your email. |
+| February 2024 | Campaign Web User Interface, Experience Platform | [Create an audience with Experience Platform](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-an-audience-with-experience-platform.html) | Video | Learn how to create a destination to use an Experience Platform audience in Adobe Campaign. |
+| February 2024 | Campaign Web User Interface | [Create an email by uploading HTML](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-an-email-by-uploading-html.html) | Video | Learn how to create an email by uploading HTML, how to make it compatible with the email designer and how to convert it to a template. |
+| February 2024 | Campaign Web User Interface | [Unsubscribe Dos and Don'ts](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/additional-resources/unsubscribe-dos-and-do-nots.html) | Article | Use a list of things to do and things to avoid when managing unsubscribes. |
 
 ### New [!DNL Campaign] support knowledge base{#kb-campaign}
 
