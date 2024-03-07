@@ -29,8 +29,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 Latest update: **February 29, 2024**
 
-* [[!DNL Experience League] events and updates](#events)
-* [[!DNL Adobe GenStudio]](#genstudio) 
+* [[!DNL Experience League] events and updates](#events)<!-- * [[!DNL Adobe GenStudio]](#genstudio)  -->
 * [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
@@ -74,7 +73,7 @@ View more [upcoming events](https://experienceleague.adobe.com/events/) or brows
 
 +++
 
-## ![Icon](/assets/experience-league.png) Adobe GenStudio {#genstudio}
+<!-- ## ![Icon](/assets/experience-league.png) Adobe GenStudio {#genstudio}
 
 [Adobe [!DNL GenStudio]](https://business.adobe.com/solutions/adobe-genstudio.html) is an end-to-end solution to accelerate and simplify your content supply chain with generative AI and intelligent automation. 
 
@@ -86,7 +85,7 @@ View more [upcoming events](https://experienceleague.adobe.com/events/) or brows
 
 {style="table-layout:auto"}
 
-+++
++++ -->
 
 ## ![Icon](/assets/certification-badge.png) Certification{#certification}
 
