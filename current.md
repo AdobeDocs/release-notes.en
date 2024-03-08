@@ -65,10 +65,6 @@ Updated **February 28, 2024**
 
 +++Details
 
-* **CAMPAIGN (V7, V8)** | Coffee Break | _Adobe Campaign Community Q&A Coffee Break_ | Join us for an hour long chat session around the new Adobe Campaign web user interface with our Adobe Campaign Product team. | **March 7 @ 8:00 AM PT** | [Register](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
-
-* **WORKFRONT** | Webinar | _Wake Up with Workfront: Resource Management_ | Explore one of Workfront's most impactful use cases, Resource Management, as Adobe's Workfront Business Advisor walks through using Blueprints to easily create work management systems that evolve with your needs. | **March 7 @ 1:00 PM ET** | [Register](https://experienceleaguecommunities.adobe.com/t5/campaign-classic-events/community-q-amp-a-coffee-break-march-7th-with-adobe-campaign/ev-p/656010)
-
 * **WORKFRONT** | Community event | _Connect: Workfront Collective_ | Join other Workfront customers for a collective problem-solving and success-sharing session! | **March 11 @ 6:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **WORKFRONT** | Community event | _Connect: Workfront Collective_ | Join other Workfront customers for a collective problem-solving and success-sharing session! | **March 11 @ 6:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
