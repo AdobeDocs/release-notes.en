@@ -80,15 +80,15 @@ View more [upcoming events](https://experienceleague.adobe.com/events/) or brows
 
 +++
 
-## ![Icon](/assets/experience-league.png) Adobe content supply chain {#genstudio}
+## ![Icon](/assets/experience-league.png) Adobe content supply chain {#content-supply-chain}
 
-[Adobe [!DNL GenStudio]](https://business.adobe.com/solutions/adobe-genstudio.html) is an end-to-end solution to accelerate and simplify your content supply chain with generative AI and intelligent automation. 
+Learn about [content supply chain](https://business.adobe.com/solutions/adobe-genstudio.html), Adobe's an end-to-end solution to accelerate and simplify your content with generative AI and intelligent automation. 
 
 +++Details
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2024|[Content Supply Chain Tutorials](https://experienceleague.adobe.com/docs/genstudio-learn/tutorials/overview.html?lang=en)|Videos |View content supply chain tutorials on Experience League. Content supply chain is Adobe's an end-to-end solution to accelerate and simplify your content supply chain with generative AI and intelligent automation.|
+|February 2024|[Content Supply Chain Tutorials](https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/overview.html)|Videos |View content supply chain tutorials on Experience League. Content supply chain is Adobe's an end-to-end solution to accelerate and simplify your content supply chain with generative AI and intelligent automation.|
 
 {style="table-layout:auto"}
 
