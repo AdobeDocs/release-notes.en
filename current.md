@@ -245,7 +245,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 [!DNL Customer Journey Analytics] release date: **March 13, 2024**
 
-* [!DNL Customer Journey Analytics] [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html)
+* [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html)
 
 * [!DNL Customer Journey Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics.html)
 
