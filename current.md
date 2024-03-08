@@ -165,8 +165,10 @@ New videos, tutorials, or courses published for Adobe [!DNL Experience Platform]
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| February 2024 | Real-Time Customer Data Platform, Journey Optimizer | [Use Case Playbooks](https://experienceleague.adobe.com/docs/platform-learn/tutorials/use-case-playbooks/overview.html) | Multiple videos | Learn how Use Case Playbooks can help customers of Real-Time Customer Data Platform and Journey Optimizer get faster time-to-value. Use Case Playbooks is a catalog of dozens of templates covering multiple industries and marketing goals.  |
-| February 2024 | Tags | [Use tag environments and embed codes](https://experienceleague.adobe.com/docs/platform-learn/data-collection/tags/use-environments-and-embed-codes.html) | Video | Learn how to use development, staging, and production environments and embed codes to develop and validate your tag property.  |
+| February 2024 | Tags | [Add and configure tag extensions](https://experienceleague.adobe.com/docs/platform-learn/data-collection/tags/add-and-configure-extensions.html) | Video | Learn how to add and configure extensions in your tag property. Extensions are pre-packaged "apps" you install on your site to give you the tracking, personalization, or other capabilities you need.  |
+| February 2024 | Tags | [Create data elements](https://experienceleague.adobe.com/docs/platform-learn/data-collection/tags/create-data-elements.html) | Video | Learn how to create data elements to store values pulled from your data layer and make them available to rules and extensions in your tag property.  |
+| February 2024 | Tags | [Build tag rules](https://experienceleague.adobe.com/docs/platform-learn/data-collection/tags/build-rules.html) | Video | Learn how to create rules so you can execute commands in tags. Events and conditions determine when to do stuff while actions determine what to do. |
+| February 2024 | Tags | [Build and publish a tag library](https://experienceleague.adobe.com/docs/platform-learn/data-collection/tags/build-and-publish-a-library.html) | Video | Learn how to create a library in your tag property and push changes through your development, staging, and production environments. Learn how to use multiple development environments to help multiple teams update the property in parallel work-streams.  |
 
 {style="table-layout:auto"}
 
@@ -587,7 +589,8 @@ New or updated videos tutorials published for Adobe Campaign.
 
 | Published | Version | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| February 2024 | Campaign Web User Interface | [Explore the Campaign Web User Interface](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/getting-started/explore-the-web-ui.html) | Video | Description |
+| February 2024 | Campaign Web User Interface, Experience Platform | [Create an audience with Experience Platform](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-an-audience-with-experience-platform.html) | Video | Learn how to create a destination to use an Experience Platform audience in Adobe Campaign.|
+| February 2024 | Campaign Web User Interface | [Explore the Campaign Web User Interface](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/getting-started/explore-the-web-ui.html) | Video | Learn how to access and navigate the Campaign Web User Interface and how to customize the inventory lists. Discover the AI powered Knowledge Assistant. |
 | February 2024 | Campaign Web User Interface | [Design email content from scratch](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-email-content-from-scratch.html) | Video | Understand how to navigate the Email Designer. Learn how to structure and design an email from scratch, how to personalize, and test your email. |
 | February 2024 | Campaign Web User Interface | [Manage and build audiences](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/profiles-and-audiences/manage-and-build-audiences.html) | Video | Learn how to build and manage audiences, how to select audiences for a delivery, and define control groups. |
 | February 2024 | Campaign Web User Interface | [Create a targeting workflow](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/workflows/create-a-targeting-workflow.html) | Video | Understand how workflows work and how to create a targeting workflow. |
@@ -806,6 +809,7 @@ Updated **February 2024**
 
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
+| February 2024 | [!DNL Adobe Firefly] | [Text effects](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-effects.html?lang=en) | Videos | Learn how to create unique and inspiring text for your projects using simple text prompts. Text effects allows you to enhance your creativity and create extraordinary text for your projects. |
 | February 2024 | [!DNL Adobe Express] | [Tutorials for Adobe Express](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/overview-express-how-to.html?lang=en) | Videos | Get started creating amazing work that stands out with generative AI powered by [!DNL Adobe Firefly]. Design flyers, [!DNL TikToks], resumes, and [!DNL Reels] with [!DNL Adobe Express].|
 
 See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html) for the latest tutorials.
