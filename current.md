@@ -134,8 +134,6 @@ Fixes:
 * You can now search for an API credential by name when viewing or modifying your credentials.
 * User group membership information is now available for each role when viewing a user's list of roles in the roles tab. The **[!UICONTROL Remove Role]** option is disabled for users who have been assigned a role through a user group only.
 
-{style="table-layout:auto"}
-
 For help on Experience Cloud central interface components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
 
 +++
