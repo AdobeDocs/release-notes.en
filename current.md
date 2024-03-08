@@ -27,7 +27,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## March 2024
 
-Latest update: **February 29, 2024**
+Latest update: **March 7, 2024**
 
 * [[!DNL Experience League] events and updates](#events)<!-- * [[!DNL Adobe GenStudio]](#genstudio)  -->
 * [Certification at Adobe](#certification)
@@ -111,21 +111,9 @@ Learn about the latest features and updates in [!DNL Adobe System Status].
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
-Release date: **January 30, 2024**
-
-**What's new**
-
-* Announcements are now part of Status APIs.
-
-| Feature | Description |
-| ------- | ------- |
-| Announcement APIs | <ul><li>Announcements are global, cloud, or product-level messages with a wider impact. An example from the past would be a Covid-19 message. Other examples would be global security vulnerabilities like log4j, and support center down, and so on. Announcements are not linked to an issue or maintenance. They are used to communicate with customers on cloud or product-level updates.</li><li>Announcements are now part of the Status API collection. Customers can query and get announcements to integrate with their internal dashboards. Check out the new endpoints [here](https://developer.adobe.com/adobe-status/api/#tag/Events/operation/announcementsUsingGET).</li></ul> |
-| Bug fixes | <ul><li>Interface performance improvements.</li></ul> |
-
-{style="table-layout:auto"}
-
 For recent release notes, see:
 
+* [January 30, 2024](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2024/02142024.html#status)
 * [October 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/10042023.html#status)
 * [August 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/08092023.html#status)
 * [March 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/03082023.html#status)
