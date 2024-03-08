@@ -76,6 +76,16 @@ Updated **March 2024**
 
 * **ADOBE SUMMIT** | The Digital Experience Conference | _Expand your skills, discover the latest trends, and explore the future of experience-led growth_ | Learn from leading brands, discover the future of generative AI, and get ready for experience-led growth. | **March 25 - 28 @ Las Vegas and online** | [Register](https://summit.adobe.com/na/?promoid=QGMZPBSP&mv=other)
 
+* **ANALYTICS** | Experience Makers: The Skill Exchange | _Skill Exchange at Adobe Summit for Adobe Analytics_ | On March 28, 2024, we'll be hosting the Adobe Analytics Skill Exchange at Summit in Las Vegas! Pre-register now to learn tips, tricks & best practices from Analytics customers & champions. | **March 28 @ 9:00 AM PT** | [Register](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&search=952%20953)
+
+*    **EXPERIENCE MANAGER** | Experience Makers: The Skill Exchange | _Skill Exchange at Adobe Summit for AEM_ | On March 28, 2024, we'll be hosting the AEM Skill Exchange at Summit in Las Vegas! Pre-register now to learn tips, tricks & best practices from AEM customers & Champions. | **March 28 @ 9:00 AM PT** | [Register](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&search=950%20951)
+
+*    **EXPERIENCE MANAGER** | Experience Makers: The Skill Exchange | _Skill Exchange at Adobe Summit for Marketo Engage_ | On March 28, 2024, we'll be hosting the Marketo Engage Skill Exchange at Summit in Las Vegas! Pre-register now to learn tips, tricks & best practices from Marketo Engage customers & Champions. | **March 28 @ 9:00 AM PT** | [Register](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&search=954%20955)
+
+*    **WORKFRONT** | Experience Makers: The Skill Exchange | _Skill Exchange at Adobe Summit for Workfront_ | On March 28, 2024, we'll be hosting the Adobe Workfront Skill Exchange at Summit in Las Vegas! Pre-register now to learn tips, tricks & best practices from Workfront customers. | **March 28 @ 9:00 AM PT** | [Register](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&search=956%20957)
+
+*    **WORKFRONT** | Community event | _Connect: Admin Chat for Marketing & Creative_ | Are you a system admin for a marketing or creative team? This customer-driven session will connect you with other admins to discuss best practices as well as tips and tricks. | **April 5 @ 9:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,S3qiBpspOUyiG7Vl_PtPXg,rFPUK2gma0OCogFhuCyzjw,nTcEntnvgkePuH01JzrsQw?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 View more [upcoming events](https://experienceleague.adobe.com/events/) or browse [event recordings](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) on Experience League.
 
 +++
