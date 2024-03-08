@@ -455,6 +455,7 @@ All [!DNL Experience Manager] release notes are maintained at the following page
 
 New videos, tutorials, or courses published for Experience Manager.
 
+| Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
 | February 2024 | Experience Manager Assets | [Auto-start Workflows](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/auto-start-workflows.html) | Video | Learn how auto-start workflows extend asset processing in [!DNL AEM as a Cloud Service] by automatically invoking custom workflow upon upload or re-processing once the asset processing is complete. |
 | February 2024 | Experience Manager Sites | [Set up document authoring](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/set-up.html) | Video | A guide on how to set up document authoring for authors. |
