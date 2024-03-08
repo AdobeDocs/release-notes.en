@@ -205,7 +205,7 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 ### AppMeasurement {#appm}
 
-Release version: **2.24.0**
+Release version: **2.26.0**
 
 * [AppMeasurement for JavaScript release notes](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html)
 
