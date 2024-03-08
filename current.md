@@ -127,9 +127,12 @@ Learn about [!DNL Experience Cloud] central interface components and administrat
 
 +++Details
 
-| Feature | Description |
-| ------- | ------- |
-| Log-in page | Log-in page automatically rotates background images on each load. (No new functionality.) |
+**Experience Platform Permissions**
+
+Fixes:
+
+* You can now search for an API credential by name when viewing or modifying your credentials.
+* User group membership information is now available for each role when viewing a user's list of roles in the roles tab. The **[!UICONTROL Remove Role]** option is disabled for users who have been assigned a role through a user group only.
 
 {style="table-layout:auto"}
 
