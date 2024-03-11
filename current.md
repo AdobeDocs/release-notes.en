@@ -90,9 +90,9 @@ View more [upcoming events](https://experienceleague.adobe.com/events/) or brows
 
 +++
 
-## ![Icon](/assets/experience-league.png) Adobe content supply chain {#content-supply-chain}
+## ![Icon](/assets/experience-league.png) Adobe Content Supply Chain {#content-supply-chain}
 
-Learn about [content supply chain](https://business.adobe.com/solutions/adobe-genstudio.html), Adobe's an end-to-end solution to accelerate and simplify your content with generative AI and intelligent automation. 
+Learn about [Content Supply Chain](https://business.adobe.com/solutions/adobe-genstudio.html), Adobe's an end-to-end solution to accelerate and simplify your content with generative AI and intelligent automation. 
 
 +++Details
 
