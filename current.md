@@ -5,7 +5,6 @@ doc-type: release notes
 last-update: March 2024
 author: mfrei
 mini-toc-levels: 2
-badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
 # Experience Cloud Release Notes
@@ -27,7 +26,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## March 2024
 
-Latest update: **March 7, 2024**
+Latest update: **March 13, 2024**
 
 * [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
@@ -65,8 +64,6 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 Updated **March 2024**
 
 +++Details
-
-* **WORKFRONT** | Community event | _Connect: Workfront Collective_ | Join other Workfront customers for a collective problem-solving and success-sharing session! | **March 11 @ 6:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,50kttP5-9UCWhh1BbCHcww,POUnBQTORE-I_fyzEM2lfA,bUuoFqpHqEqgxVRm7ajYUg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **WORKFRONT** | Customer workshop | _Admin 101: Getting Workfront Data_ | New to Workfront? Join our "New Admin" monthly meetups to ask questions, get resources and recommendations, meet other new admins, and for this session, learn best practices for all things reporting in Workfront. | **March 13 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,POtiORmhEE2cwlhRFM2JMw,dUgy5MAHzkeSpm357qe4Ww,lKFY7SPny0-i8YfbN5Ow3g?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -210,7 +207,7 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 [!DNL Analytics] release date: **March 13, 2024**
 
-* [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) 
+* [!DNL Analytics] [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html) 
 
 * [!DNL Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/analytics.html)
 
@@ -256,7 +253,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 [!DNL Customer Journey Analytics] release date: **March 13, 2024**
 
-* [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html)
+* [!DNL Customer Journey Analytics] [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html)
 
 * [!DNL Customer Journey Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics.html)
 
