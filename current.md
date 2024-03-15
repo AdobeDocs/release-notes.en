@@ -26,7 +26,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## March 2024
 
-Latest update: **March 13, 2024**
+Latest update: **March 15, 2024**
 
 * [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
@@ -34,8 +34,8 @@ Latest update: **March 13, 2024**
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)
+* [[!DNL Adobe Analytics]](#analytics) (released **March 13**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (released **March 13**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem) 
 * [[!DNL Adobe Commerce]](#commerce)
@@ -61,15 +61,11 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 ### Events on Experience League
 
-Updated **March 2024**
+Updated **March 15, 2024**
 
 +++Details
 
-* **WORKFRONT** | Customer workshop | _Admin 101: Getting Workfront Data_ | New to Workfront? Join our "New Admin" monthly meetups to ask questions, get resources and recommendations, meet other new admins, and for this session, learn best practices for all things reporting in Workfront. | **March 13 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,POtiORmhEE2cwlhRFM2JMw,dUgy5MAHzkeSpm357qe4Ww,lKFY7SPny0-i8YfbN5Ow3g?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **EXPERIENCE MANAGER** | AEM GEMS | _Getting started with AEM Authoring and Edge Delivery Services_ | Join AEM GEMs webinar for getting started with AEM authoring with Edge Delivery Services. Learn how to create an AEM enabled project development alongside WYSIWYG authoring using AEM cloud service. | **March 13 @ 9:00 AM PT** | [Register](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aem-learning-chapter-presents-getting-started-with-aem-authoring-and-edge-delivery-services/)
-
-* **EXPERIENCE MANAGER** | Webinar | _Espressos & Experience Manager: Why AEM is More Powerful in the Cloud_ | Join Adobe's experts as they discuss how to ensure a smooth transition to the Cloud through content assessment and migration planning with tools like Best Practice Analyzer & Cloud Acceleration Manager. | **March 14 @ 1:00 PM ET** | [Register](https://adobeevents.adobeconnect.com/e8jc5prppkfr/event/registration.html?campaign-id=ExL)
+* **WORKFRONT** | Customer workshop | _Admin 101 - Bring Your Workfront Questions_ | Did you miss the previous Admin 101 sessions or do you still have questions? Join us for an hour-long follow-up to the series where we'll summarize the sessions and open it up for Q&A! | **March 20 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,1YdEYKuO-0KE3ermHwWEfg,UN_LlgnRokKfDGTmj7vhVg,XjCFMeclLEmuHQZslDQYHw?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **ADOBE SUMMIT** | The Digital Experience Conference | _Expand your skills, discover the latest trends, and explore the future of experience-led growth_ | Learn from leading brands, discover the future of generative AI, and get ready for experience-led growth. | **March 25 - 28 @ Las Vegas and online** | [Register](https://summit.adobe.com/na/?promoid=QGMZPBSP&mv=other)
 
