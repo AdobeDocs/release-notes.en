@@ -708,6 +708,12 @@ Learn about the latest release notes for [!DNL Adobe Workfront]. Find new tutori
 
 +++Details
 
+### [!DNL Adobe Workfront] updates
+
+* See the [Adobe Workfront product releases](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases) page for Workfront release schedule information and release notes.
+
+* See the [Adobe Workfront Fusion release activity overview](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/fusion-release/fusion-release-activity) for the latest information about Fusion.
+
 ### New Adobe [!DNL Workfront] courses and tutorials {#tutorials-workfront}
 
 New [!DNL Workfront] tutorials on Experience League.
@@ -735,7 +741,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 {style="table-layout:auto"}
 -->
 
-See the [[!DNL Workfront] product releases](https://experienceleague.adobe.com/docs/workfront/using/product-announcements/product-releases/product-releases.html) page for a round-up of the latest information for all products.
+For the latest product documentation, see the [Adobe [!DNL Workfront] documentation home page](https://experienceleague.adobe.com/en/docs/workfront/using/home).
 
 +++
 
