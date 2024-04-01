@@ -26,7 +26,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## March 2024
 
-Latest update: **March 29, 2024**
+Latest update: **March 31, 2024**
 
 * [[!DNL Experience League] events and updates](#events) (Updated **March 29**)
 * [Certification at Adobe](#certification)
@@ -61,7 +61,7 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 ### Events on Experience League
 
-Updated **March 29, 2024**
+Updated **March 31, 2024**
 
 +++Details
 
@@ -75,11 +75,11 @@ Updated **March 29, 2024**
 
 * **WORKFRONT** | Customer workshop | _Learn: 10 Text Mode Tips in Adobe Workfront_ | Want to expand your reporting knowledge with text mode? Look no further! This workshop will provide a brief introduction to text mode fundamentals and the API Explorer followed by 10 text mode tips in Adobe Workfront. | **April 18 @ 9:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-View more [upcoming events](https://experienceleague.adobe.com/events/) or browse [event recordings](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) on Experience League.
-
 * **WORKFRONT** | Community event | _Connect: Workfront Collective_ | Join your fellow Workfront Sys Admins for this monthly collective brainstorming and sharing session, where we discuss the latest updates and best practices. | **April 22 @ 6:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **WORKFRONT** | Q&A chat | _Ask: Migrating to the Adobe Business Platform_ | Join us for a Q&A with our Technical Support Engineers to learn what to expect and how to best prepare for the Adobe Business Platform Migration. | **April 23 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wXdzewqwQEO_SiY5SC4i2Q,r3bZVp0PVkObL30IXUw5iA,1p0c3CZ2qEGQBAZpsDvvEw?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+View more [upcoming events](https://experienceleague.adobe.com/events/) or browse [event recordings](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) on Experience League.
 
 +++
 
