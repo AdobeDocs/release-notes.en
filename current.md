@@ -2,12 +2,12 @@
 title: Latest Release Notes
 description: Find the latest release notes and knowledge base issues for Adobe [!DNL Experience Cloud] products and services. Learn about upcoming events and new documentation on Experience League. Discover the latest tutorials and courses for [!DNL Experience Cloud] applications.
 doc-type: release notes
-last-update: March 2024
+last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
-# Experience Cloud Release Notes
+# Experience Cloud Release Notes - April 2024
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -24,9 +24,9 @@ For the best self-help experience, sign in to [Experience League](https://experi
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
-## March 2024
+## April 2024
 
-Latest update: **March 22, 2024**
+Latest update: **April 2, 2024**
 
 * [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
@@ -34,8 +34,8 @@ Latest update: **March 22, 2024**
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (released **March 13**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (released **March 13**)
+* [[!DNL Adobe Analytics]](#analytics) 
+* [[!DNL Adobe Customer Journey Analytics]](#cja) 
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem) 
 * [[!DNL Adobe Commerce]](#commerce)
@@ -64,16 +64,6 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 Updated **March 15, 2024**
 
 +++Details
-
-* **ADOBE SUMMIT** | The Digital Experience Conference | _Expand your skills, discover the latest trends, and explore the future of experience-led growth_ | Learn from leading brands, discover the future of generative AI, and get ready for experience-led growth. | **March 25 - 28 @ Las Vegas and online** | [Register](https://summit.adobe.com/na/?promoid=QGMZPBSP&mv=other)
-
-* **ANALYTICS** | Experience Makers: The Skill Exchange | _Skill Exchange at Adobe Summit for Adobe Analytics_ | On March 28, 2024, we'll be hosting the Adobe Analytics Skill Exchange at Summit in Las Vegas! Pre-register now to learn tips, tricks & best practices from Analytics customers & champions. | **March 28 @ 9:00 AM PT** | [Register](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&search=952%20953)
-
-* **EXPERIENCE MANAGER** | Experience Makers: The Skill Exchange | _Skill Exchange at Adobe Summit for AEM_ | On March 28, 2024, we'll be hosting the AEM Skill Exchange at Summit in Las Vegas! Pre-register now to learn tips, tricks & best practices from AEM customers & Champions. | **March 28 @ 9:00 AM PT** | [Register](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&search=950%20951)
-
-* **EXPERIENCE MANAGER** | Experience Makers: The Skill Exchange | _Skill Exchange at Adobe Summit for Marketo Engage_ | On March 28, 2024, we'll be hosting the Marketo Engage Skill Exchange at Summit in Las Vegas! Pre-register now to learn tips, tricks & best practices from Marketo Engage customers & Champions. | **March 28 @ 9:00 AM PT** | [Register](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&search=954%20955)
-
-* **WORKFRONT** | Experience Makers: The Skill Exchange | _Skill Exchange at Adobe Summit for Workfront_ | On March 28, 2024, we'll be hosting the Adobe Workfront Skill Exchange at Summit in Las Vegas! Pre-register now to learn tips, tricks & best practices from Workfront customers. | **March 28 @ 9:00 AM PT** | [Register](https://reg.adobe.com/flow/adobe/as24/sessions/page/catalog?tab.allsessions=1643149273691001NFtR&search=956%20957)
 
 * **WORKFRONT** | Community event | _Connect: Admin Chat for Marketing & Creative_ | Are you a system admin for a marketing or creative team? This customer-driven session will connect you with other admins to discuss best practices as well as tips and tricks. | **April 5 @ 9:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,S3qiBpspOUyiG7Vl_PtPXg,rFPUK2gma0OCogFhuCyzjw,nTcEntnvgkePuH01JzrsQw?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
