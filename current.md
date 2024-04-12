@@ -622,29 +622,6 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 Learn about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
 
-<!-- ### New [!DNL Journey Optimizer] tutorials {#tutorials-ajo}
-
-New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
-
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|February 2024|[Double opt-in for [!DNL Sinch] and [!DNL Infobip]](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/sms-channel/sms-double-opt-in.html)|Video |Learn how to configure double opt-in for SMS.|
-
-{style="table-layout:auto"} -->
-
-<!--
-### New [!DNL Journey Optimizer] support knowledge base
-
-New articles and updates to existing articles for [!DNL Journey Optimizer].
-
-|Published|Name|Type|Description|
-|---------|----|----|-----------|
-|February 2024|[Encapsulate functions when building expressions using the "+" operator](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23749.html)|New article| Learn how any function call must be encapsulated with parentheses when using the "+" operator.|
-
-{style="table-layout:auto"}
-
--->
-
 ### More resources for [!DNL Journey Optimizer]
 
 * [Journey Optimizer documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html) - [Release rotes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
