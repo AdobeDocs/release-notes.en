@@ -65,10 +65,6 @@ Updated **March 31, 2024**
 
 +++Details
 
-* **WORKFRONT** | Community event | _Connect: Admin Chat for Marketing & Creative_ | Are you a system admin for a marketing or creative team? This customer-driven session will connect you with other admins to discuss best practices as well as tips and tricks. | **April 5 @ 9:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,S3qiBpspOUyiG7Vl_PtPXg,rFPUK2gma0OCogFhuCyzjw,nTcEntnvgkePuH01JzrsQw?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | Customer workshop | _Admin 101: Getting Started with Workfront_ | New to Workfront? Join our Admin 101 monthly meetups to ask questions, get resources, learn best practices, and meet other new admins. This session focuses on initial setup and configuration. | **April 10 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,8EcZ9ObE6E6vfXJJKbUE-Q,c4BGCPZ3kEetwRnBo4FL-A,AfPWNe36XUiXIb3Ne0B3mQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **WORKFRONT** | Customer workshop | _Learn: Adobe Workfront 2nd Quarter 2024 Release Round Up_ | Join other Workfront Sys Admins as we review the latest enhancements included in the 2nd Quarter 2024 release. We'll discuss benefits, rollout plans, and managing change. | **April 16 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,e3igCVj87kW2XCHT56EQog,RwH5xRVhtUSV93mv6mLh6w,HHrnE5sxuUyzPXNKDAYCdg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **MARKETO ENGAGE** | Learn from your peers | _Unlocking Powerful Workflow Automation: Practical Applications of Marketo Engage REST API_ | Join us live and be inspired by real-world use cases of how the REST API can be used to streamline workflows such as merging leads in bulk, creating UTM tracking programs, and leveraging ChatGPT to optimize send times. | **April 17 @ 8:00 AM PT** | [Register](https://engage.adobe.com/marketo-Unlocking-Powerful-Workflow-Automation-registration.html?cgen=4SC98Z4B&mv=other)
@@ -85,7 +81,7 @@ View more [upcoming events](https://experienceleague.adobe.com/events/) or brows
 
 ## ![Icon](/assets/experience-league.png) Adobe Content Supply Chain {#content-supply-chain}
 
-Learn about [Content Supply Chain](https://business.adobe.com/solutions/adobe-genstudio.html), Adobe's an end-to-end solution to accelerate and simplify your content with generative AI and intelligent automation. 
+Learn about [Content Supply Chain](https://business.adobe.com/solutions/adobe-genstudio.html), Adobe's end-to-end solution to accelerate and simplify your content with generative AI and intelligent automation. 
 
 +++Details
 
