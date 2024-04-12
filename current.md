@@ -622,7 +622,7 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 Learn about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
 
-### New [!DNL Journey Optimizer] tutorials {#tutorials-ajo}
+<!-- ### New [!DNL Journey Optimizer] tutorials {#tutorials-ajo}
 
 New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 
@@ -630,7 +630,7 @@ New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 | -----------| ---------- | ---------- | ---------- |
 |February 2024|[Double opt-in for [!DNL Sinch] and [!DNL Infobip]](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/sms-channel/sms-double-opt-in.html)|Video |Learn how to configure double opt-in for SMS.|
 
-{style="table-layout:auto"}
+{style="table-layout:auto"} -->
 
 <!--
 ### New [!DNL Journey Optimizer] support knowledge base
