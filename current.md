@@ -188,7 +188,7 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 +++Details
 
-[!DNL Analytics] release date: **March 13, 2024**
+[!DNL Analytics] release date: **April 17, 2024**
 
 * [!DNL Analytics] [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html) 
 
@@ -230,7 +230,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 +++Details
 
-[!DNL Customer Journey Analytics] release date: **March 13, 2024**
+[!DNL Customer Journey Analytics] release date: **April 17, 2024**
 
 * [!DNL Customer Journey Analytics] [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html)
 
@@ -765,6 +765,17 @@ See [Adobe Pass Release Notes](https://experienceleague.adobe.com/docs/pass.html
 New tutorials and courses published for [!DNL Document Cloud], including [!DNL Acrobat Services] and [!DNL Acrobat Sign].
 
 +++Details
+
+| Published | Application | Name | Type | Description |
+| -----------| ---------- | ---------- | ---------- |---------- |
+| April 2024 | Acrobat Services | [Automate content extraction](https://experienceleague.adobe.com/en/docs/acrobat-services-learn/tutorials/pdfextract/automate-content-extraction) | Video | Learn how to automate the extraction of content from a PDF document using the PDF Extract API. Extracting PDF content helps unlock critical business data, which can then be used for a variety of downstream processes. |
+| April 2024 | Acrobat Services | [Automate document generation](https://experienceleague.adobe.com/en/docs/acrobat-services-learn/tutorials/docgen/automate-doc-gen) | Video | Learn how to automatically generate documents at scale by calling the Document Generation API using the Adobe PDF Services Connector in Microsoft Power Automate. |
+| April 2024 | Acrobat Services | [Automatically tag documents for accessibility](https://experienceleague.adobe.com/en/docs/acrobat-services-learn/tutorials/pdfaccessibility/automatically-add-tags) | Video | Learn how to automatically tag for accessibility at scale using AI. Automatically tagging reduces the time and cost required to reach compliance. |
+| April 2024 | Acrobat Sign | [Gather high-volume documents using GigaSign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/gigasign.html?lang=en#gather-high-volume-documents-using-gigasign) | Video | Learn how Gigasign allows you to send, collect, and track documents for signature to thousands of people at the same time. |
+| March 2024 | Applications | [linktext]() | Video | Description |
+| March 2024 | Applications | [linktext]() | Video | Description |
+| March 2024 | Applications | [linktext]() | Video | Description |
+| March 2024 | Applications | [linktext]() | Video | Description |
 
 For [!DNL Document Cloud] tutorials, see:
 
