@@ -712,11 +712,12 @@ Learn about the latest release notes for [!DNL Adobe Workfront]. Find new tutori
 
 ### New Adobe [!DNL Workfront] courses and tutorials {#tutorials-workfront}
 
-New [!DNL Workfront] tutorials on Experience League.
+New [!DNL Workfront] tutorials ane events on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|April 2024|[What's new in Workfront tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en#what%E2%80%99s-new%3F)|Multiple videos |View the latest tutorials released in the past month.|
+|April 2024|[What's new in [!DNL Workfront] tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en#what%E2%80%99s-new%3F)|Multiple videos |View the latest tutorials released in the past month.|
+|April 2024|[[!DNL Workfront] events](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/overview)|Multiple videos |View all the recent [!DNL Workfront] events on Experience League.|
 
 {style="table-layout:auto"}
 
