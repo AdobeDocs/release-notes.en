@@ -126,12 +126,7 @@ Learn about [!DNL Experience Cloud] central interface components and administrat
 
 +++Details
 
-**Experience Platform Permissions**
-
-Fixes:
-
-* You can now search for an API credential by name when viewing or modifying your credentials.
-* User group membership information is now available for each role when viewing a user's list of roles in the roles tab. The **[!UICONTROL Remove Role]** option is disabled for users who have been assigned a role through a user group only.
+Not updated.
 
 For help on Experience Cloud central interface components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
 
@@ -153,12 +148,10 @@ New videos, tutorials, or courses published for Adobe [!DNL Experience Platform]
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| February 2024 | Tags | [Add and configure tag extensions](https://experienceleague.adobe.com/docs/platform-learn/data-collection/tags/add-and-configure-extensions.html) | Video | Learn how to add and configure extensions in your tag property. Extensions are pre-packaged "apps" you install on your site to give you the tracking, personalization, or other capabilities you need.  |
-| February 2024 | Tags | [Create data elements](https://experienceleague.adobe.com/docs/platform-learn/data-collection/tags/create-data-elements.html) | Video | Learn how to create data elements to store values pulled from your data layer and make them available to rules and extensions in your tag property.  |
-| February 2024 | Tags | [Build tag rules](https://experienceleague.adobe.com/docs/platform-learn/data-collection/tags/build-rules.html) | Video | Learn how to create rules so you can execute commands in tags. Events and conditions determine when to do stuff while actions determine what to do. |
-| February 2024 | Tags | [Build and publish a tag library](https://experienceleague.adobe.com/docs/platform-learn/data-collection/tags/build-and-publish-a-library.html) | Video | Learn how to create a library in your tag property and push changes through your development, staging, and production environments. Learn how to use multiple development environments to help multiple teams update the property in parallel work-streams.  |
+| April 2024 | Experience Platform | [Create and activate account audiences for B2B and B2P](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/create-audiences-with-b2b-data) | Video | Learn about Account-Based Marketing capabilities in the B2B and B2P editions of Real-Time Customer Data Platform, including creating and activating account audiences.  |
 
 {style="table-layout:auto"}
+
 <!--
 ### New [!DNL Experience Platform] support knowledge base{#kb-aep}
 
