@@ -670,7 +670,7 @@ Find out more about the latest capabilities, improvements, and fixes in the [[!D
 
 * [How-to videos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html)
 
-* [Latest documentation updates](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html)
+* [Latest documentation updates](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html) 
 
 +++
 
