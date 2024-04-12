@@ -27,7 +27,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## April 2024
 
-Latest update: **April 2, 2024**
+Latest update: **April 12, 2024**
 
 * [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
@@ -35,8 +35,8 @@ Latest update: **April 2, 2024**
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) 
-* [[!DNL Adobe Customer Journey Analytics]](#cja) 
+* [[!DNL Adobe Analytics]](#analytics) (releasing **April 17**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (releasing **April 17**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem) 
 * [[!DNL Adobe Commerce]](#commerce)
@@ -66,15 +66,17 @@ Updated **April 12, 2024**
 
 +++Details
 
+Content forthcoming
+
 See [upcoming events](https://experienceleague.adobe.com/events/) or browse [event recordings](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) on Experience League.
 
 +++
 
 ## ![Icon](/assets/experience-league.png) Adobe Content Supply Chain {#content-supply-chain}
 
-Learn about [Content Supply Chain](https://business.adobe.com/solutions/adobe-genstudio.html), Adobe's end-to-end solution to accelerate and simplify your content with generative AI and intelligent automation. 
+See [Content Supply Chain](https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/overview.html) for the latest tutorials on Experience League. 
 
-+++Details
+<!-- +++Details
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
@@ -82,7 +84,7 @@ Learn about [Content Supply Chain](https://business.adobe.com/solutions/adobe-ge
 
 {style="table-layout:auto"}
 
-+++
++++ -->
 
 ## ![Icon](/assets/certification-badge.png) Certification{#certification}
 
