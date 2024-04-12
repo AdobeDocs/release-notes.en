@@ -5,6 +5,7 @@ doc-type: release notes
 last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
+badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
 # Experience Cloud Release Notes - April 2024
@@ -61,13 +62,11 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 ### Events on Experience League
 
-Updated **March 15, 2024**
+Updated **April 12, 2024**
 
 +++Details
 
-* **WORKFRONT** | Community event | _Connect: Admin Chat for Marketing & Creative_ | Are you a system admin for a marketing or creative team? This customer-driven session will connect you with other admins to discuss best practices as well as tips and tricks. | **April 5 @ 9:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,S3qiBpspOUyiG7Vl_PtPXg,rFPUK2gma0OCogFhuCyzjw,nTcEntnvgkePuH01JzrsQw?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-View more [upcoming events](https://experienceleague.adobe.com/events/) or browse [event recordings](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) on Experience League.
+See [upcoming events](https://experienceleague.adobe.com/events/) or browse [event recordings](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) on Experience League.
 
 +++
 
@@ -207,13 +206,9 @@ New or updated videos, tutorials, or courses published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2024|[Create data elements in Experience Platform tags for Analytics implementation](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/experience-platform-tags/creating-data-elements-in-tags-for-the-analytics-implementation.html)|Video |Create data elements for your [!DNL Analytics] implementation in tags based on the variables and events documented in a Solution Design Reference (SDR) document.|
-|February 2024|[Create a global page rule in Experience Platform tags](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/experience-platform-tags/creating-a-global-page-rule-in-tags.html)|Video |Learn how to set up a global page rule for data points you want to send to Adobe Analytics on every page using Experience Platform tags.|
-|February 2024|[Validate the global page load rule in Experience Platform tags](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/experience-platform-tags/validating-your-global-page-load-rule-in-tags.html)|Video |Learn how to validate your global page load rule with the Experience Platform debugger.|
-|February 2024|[Create Experience Platform tags rules for success events](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/experience-platform-tags/creating-tags-rules-for-success-events.html?lang=en)|Video |Learn how to use rules in tags to track conversion events (success events) on your site.|
-|February 2024|[Use doPlugins and implementation plug-ins in Experience Platform tags](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/experience-platform-tags/use-doplugins-and-implementation-plugins.html?lang=en)|Video |Learn about the benefits of using the doPlugins function, and add Analytics implementation plug-ins to enrich data collection. |
-|February 2024|[Set Internal URL Filters](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/manage-report-suites/set-internal-url-filters.html?lang=en)|Video |learn about the settings regarding referrers, setting them as either internal referrers (to power the pathing reports) or external referrers (to power the referrer/referring domain reports). |
-|February 2024|[Tags - your personal assistant](https://experienceleague.adobe.com/docs/experiences-by-you/experiences-by-you/analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.html)|Article |Discover how Experience Platform tags can streamline your digital analytics, serving as your personal assistant to find what you need efficiently. Jeff Bloomer, Adobe Analytics Champion, shares expert insights on maximizing the tool's potential for your benefit.|
+|March 2024|[Prepare Experience Platform tags for your Analytics implementation](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation)|Video |Learn what you need to know to prepare AEP tags for your Analytics implementation.|
+|March 2024|[Publish Experience Platform tags libraries to stage and production](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/implementation/experience-platform-tags/publishing-tags-libraries-to-stage-and-production)|Video |Learn how to publish your site's analytics code from development to stage and production in Experience Platform tags, as well as setting up the report suites for correctly receiving the proper data.|
+|March 2024|[The magic behind the curtain: Complex segments: excludes, containers, and attribution](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/analytics/analysis-workspace/segmentation/the-magic-behind-the-curtain-complex-segments)|Article |Uncover the intricacies of complex data segmentation, exploring excludes, containers, and attribution models. Like a magician's sleight of hand, mastering these techniques empowers analysts to perform data magic, transforming insights with precision and finesse.|
 
 {style="table-layout:auto"}
 <!--
@@ -247,7 +242,8 @@ New videos, tutorials, or courses published for [!DNL Customer Journey Analytics
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2023|[CJA lookups for lookup and profile data](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/connections/cja-lookup-data.html)|Video |Learn how to add lookup data to lookup and profile datasets and to plan out and map your key fields.|
+|March 2024|[User stream timeline analysis](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/guided-analysis/user-stream/user-stream-timeline-analysis)|Video |Learn about how the user stream view in Adobe Product Analytics helps you find experience patterns, tell better user stories, and validate implementation.|
+|March 2024|[Add forecasting to your visualization](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/forecasting)|Video |Learn how to add forecasting numbers to your time series visualization in Customer Journey Analytics.|
 
 {style="table-layout:auto"}
 
@@ -421,18 +417,13 @@ New videos, tutorials, or courses published for Experience Manager.
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| February 2024 | Experience Manager Assets | [Auto-start Workflows](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/configuring/auto-start-workflows.html) | Video | Learn how auto-start workflows extend asset processing in [!DNL AEM as a Cloud Service] by automatically invoking custom workflow upon upload or re-processing once the asset processing is complete. |
-| February 2024 | Experience Manager Sites | [Set up document authoring](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/set-up.html) | Video | A guide on how to set up document authoring for authors. |
-| February 2024 | Experience Manager Sites | [Document workflows](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/how-to/document-workflows.html) | Video | Explore how to use document workflows with AEM document authoring. |
-| February 2024 | Experience Manager Sites | [Document versions](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/how-to/document-versions.html) | Video | Learn how to version documents authored using AEM document authoring. |
-| February 2024 | AEM CS | [Cloud 5 - third-party search](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-3rd-party-search.html) | Video | Explore how third-party search can best be integrated into Edge Delivery Services. |
-| February 2024 | Experience Manager Assets | [AEM Assets events for PIM integration](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-eventing/examples/assets-pim-integration.html) | Video | Learn how to integrate AEM Assets with a third-party system, such as a Product Information Management (PIM) or Product Line Management (PLM) system, to update asset metadata using native AEM IO events. |
-| February 2024 | AEM Headless | [Custom fields](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/developing/extensibility/ui/content-fragments/examples/editor-custom-field.html?lang=en) | Video | Learn how to create custom fields in the AEM Content Fragment Editor. |
-| February 2024 | Experience Manager, AEM Cloud Manager, Marketo Engage | [AEM Champion Tips and Tricks - Using Logs in Cloud Manager](https://experienceleague.adobe.com/docs/experiences-by-you/experiences-by-you/experience-manager/cloud-service/cloud-manager-best-practices/cloud-manager-using-logs.html) | Video | Check out these tips from your fellow AEM champion, Rami EL Gamal. In this video, Rami walks you through how to download logs in Cloud Manager, while sharing best practice tips along the way. |
-| February 2024 | AEM CS | [Cloud 5 - Real User Monitoring (RUM)](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-rum.html?lang=en) | Video | Explore the Real user monitoring (RUM) analytics that Adobe offers to it's AEM sites delivered with Edge Delivery Services, and how RUM can be used to improve a web site. |
-| February 2024 | Experience Manager Forms | [Generate PDF with data from core component based form submission](https://experienceleague.adobe.com/docs/experience-manager-learn/forms/document-services/generate-pdf-from-core-component-form-submission.html) | Video | Merge data from core component based form submission with XDP template in workflow. |
-| February 2024 | AEM Cloud Manager | [AEM Champion Best Practices and Tips - Preparing and planning a migration to AEM as a Cloud Service](https://experienceleague.adobe.com/docs/experiences-by-you/experiences-by-you/experience-manager/cloud-service/cloud-manager-best-practices/migration.html) | Video | Explore expert advice and best practices from your fellow AEM champion, Wilson Faure. In this video, he navigates the intricacies of planning and preparation for migrating to AEM as a Cloud Service.  |
-| February 2024 | Experience Manager Sites | [Cloud 5 - Edge workers](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-edge-workers.html?lang=en) | Video | Explore the importance of edge workers in AEM Sites and Edge Delivery Services and how to integrate them with your back end systems. |
+| March 2024 | AEM Forms | [AEM Forms Designer](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/forms-designer/design-view) | Videos | View the new short videos for [!DNL Experience Manager Forms]. |
+| March 2024 | AEM CS | [AEM Champion Best Practices and Tips - Addressing common challenges when migrating to AEM as a Cloud Service](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/experience-manager/cloud-service/cloud-manager-best-practices/migration-challenges) | Video | Discover invaluable insights and best practices shared by your fellow AEM expert, Wilson Faure. In this video, he delves into common challenges encountered during the migration to AEM as a Cloud Service, offering recommendations and expert tips to facilitate a smooth and successful transition. |
+| March 2024 | AEM Sites | [Cloud 5 - Publish, unpublish events in [!DNL Edge Delivery Services]](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-publish-events) | Video | Explore events that are triggered upon publish and unpublish in [!DNL Edge Delivery Services] as well as use cases and examples for using these events. |
+| March 2024 | AEM Sites | [Query indexes and Excel formulas](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-query-indexes) | Video | Explore query indexes and how to write Excel formulas for manipulating and sorting datasets with [!DNL Edge Delivery Services]. |
+| March 2024 | Adobe Cloud Manager | [Add custom domain name](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/cloud-manager/custom-domain-names) | Video | Learn how to add a custom domain name to AEM as a Cloud Service web site. |
+| March 2024 | AEM Assets | [AEM Assets videos and tutorials](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/overview) | Video | Find new videos and tutorials for AEM Assets on Experience League. |
+| March 2024 | Videos | [Get started with [!DNL Edge Delivery Services]](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/edge-delivery-services/overview#getting-started-with-edge-delivery-services) | Video | Description |
 
 {style="table-layout:auto"}
 
@@ -505,8 +496,13 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2024|[Connect and run queries against the Adobe Commerce database](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/remote-db-connection-execute-queries.html?lang=en)|Video |Learn how to connect to an Adobe Commerce on-cloud project, dump a database for use offsite, and mask PII and remove it.|
-|February 2024|[Commerce Cloud technical onboarding and hardware handoff - Launch Process Timeline](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-commerce-cloud/technical-onboarding-hardware-handoff/launch-process-timeline.html)|Video |Learn about the Adobe Commerce Cloud technical onboarding for the launch process timeline.|
+|March 2024|[Technical onboarding - Infrastructure and development best practices](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/technical-onboarding-hardware-handoff/infrastructure-development-best-practices)|Video |Learn about the cloud infrastructure and some development best practices for Adobe Commerce.|
+|March 2024|[Technical onboarding - [!DNL Fastly]](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/technical-onboarding-hardware-handoff/fastly)|Video |Learn about the cloud usage of [!DNL Fastly] for Adobe Commerce.|
+|March 2024|[Technical onboarding - Configuration and debugging](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/technical-onboarding-hardware-handoff/configuration-and-debugging)|Video |Learn how to configure and debug the Adobe Commerce Cloud.|
+|March 2024|[Technical onboarding - Deployments, testing, monitoring, and security](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/technical-onboarding-hardware-handoff/deployments-testing-monitoring-security)|Video |Learn about the Adobe Commerce Cloud deployment strategies, testing best practices, monitoring, and security tools.|
+|March 2024|[Technical onboarding - Deployments, testing, monitoring, and security](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/technical-onboarding-hardware-handoff/saas-offerings-support-communications-next-steps)|Video |Learn about the Adobe Commerce Cloud SaaS offerings, support, and other communications and some next steps.|
+|March 2024|[Get started with Adobe Commerce Intelligence](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/mbi/getting-started)|Video |Learn about Adobe Commerce Intelligence. This tutorial provides an overview of the tool, a few naming conventions to be aware of, and the initial steps to set it up. Adobe Commerce Intelligence is made up of three parts: data sources, data warehousing, and reporting.|
+|March 2024|[Adobe Commerce Innovation Spotlight Webinar](https://experienceleague.adobe.com/en/docs/events/apac-commerce-recordings/2024/innovation-spotlight)|Event video |Get inspiration on how to adopt the latest features and architecture to deliver the best experience to your customers and grow your business.|
 
 {style="table-layout:auto"}
 
@@ -566,17 +562,11 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials, courses, a
 
 New or updated videos tutorials published for Adobe Campaign.
 
-| Published | Version | Name | Type | Description |
+| Published | Application | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| February 2024 | Campaign Web User Interface, Experience Platform | [Create an audience with Experience Platform](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-an-audience-with-experience-platform.html) | Video | Learn how to create a destination to use an Experience Platform audience in Adobe Campaign.|
-| February 2024 | Campaign Web User Interface | [Explore the Campaign Web User Interface](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/getting-started/explore-the-web-ui.html) | Video | Learn how to access and navigate the Campaign Web User Interface and how to customize the inventory lists. Discover the AI-powered Knowledge Assistant. |
-| February 2024 | Campaign Web User Interface | [Design email content from scratch](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-email-content-from-scratch.html) | Video | Understand how to navigate the Email Designer. Learn how to structure and design an email from scratch, how to personalize, and test your email. |
-| February 2024 | Campaign Web User Interface | [Manage and build audiences](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/profiles-and-audiences/manage-and-build-audiences.html) | Video | Learn how to build and manage audiences, how to select audiences for a delivery, and define control groups. |
-| February 2024 | Campaign Web User Interface | [Create a targeting workflow](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/workflows/create-a-targeting-workflow.html) | Video | Understand how workflows work and how to create a targeting workflow. |
-| February 2024 | Campaign Web User Interface | [Create an email delivery](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-an-email-delivery.html) | Video | Learn how to create an email delivery from scratch, define the audience, design the content, simulate preview, and send a proof. |
-| February 2024 | Campaign Web User Interface, Experience Platform | [Create an audience with Experience Platform](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-an-audience-with-experience-platform.html) | Video | Learn how to create a destination to use an Experience Platform audience in Adobe Campaign. |
-| February 2024 | Campaign Web User Interface | [Create an email by uploading HTML](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-an-email-by-uploading-html.html) | Video | Learn how to create an email by uploading HTML, how to make it compatible with the email designer and how to convert it to a template. |
-| February 2024 | Campaign Web User Interface | [Unsubscribe Dos and Don'ts](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/additional-resources/unsubscribe-dos-and-do-nots.html) | Article | Use a list of things to do and things to avoid when managing unsubscribes. |
+|March 2024|Control Panel |[Full subdomain delegation](https://experienceleague.adobe.com/en/docs/control-panel-learn/tutorials/subdomains-and-certificates/subdomain-delegation)|Video |Learn how to fully delegate a subdomain to Adobe Campaign.|
+|March 2024|Campaign v8 Web |[Preview and proof an email delivery](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/messages-and-deliveries/preview-and-proof-an-email-delivery)|Video |Learn how to preview email message content and personalization, send test deliveries (proofs) to specific recipients or subscribers for testing and validation, and check the email rendering in popular desktop, mobile and web-based clients.|
+|March 2024|Campaign v8 |[Leaping ahead with the new Adobe Campaign Web User Interface](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24)|Event video |View this Experience League Live session, where Adobe Campaign product experts showcase how to plan, launch, and measure cross-channel campaigns in the new user experience.|
 
 ### New [!DNL Campaign] support knowledge base{#kb-campaign}
 
@@ -678,8 +668,7 @@ New videos, tutorials, or courses published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2024|[Marketing attribution and data silos](https://experienceleague.adobe.com/docs/marketo-measure-learn/tutorials/evangelist/marketing-attribution-and-data-silos.html)|Video |In this session of Measure Evangelist talks, we invite Drew Smith, CEO of Attributa, to discuss the challenges faces with growing companies and their data silos. Andy Schneider, Adobe Solutions Consultant (Marketo Measure), and Ian Michels, Adobe Marketo evangelist guide the conversation around how these challenges can lead to bad data and poor decision making.|
-|February 2024|[Marketing attribution maturity](https://experienceleague.adobe.com/docs/marketo-measure-learn/tutorials/evangelist/marketing-attribution-maturity.html)|Video |Learn from experts about how MOPs teams go from no attribution reporting to how Fortune 100 companies are using Marketo Measure.|
+|March 2024|[Executable Campaigns - Learn how executables can drive efficiency and impact](https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/executable-campaigns)|Event video |The session is tailored for Marketo admins and campaign operations professionals and focuses on understanding and deploying executable campaigns to add value to campaigns and programs, create efficiencies, and drive growth.|
 
 {style="table-layout:auto"}
 
@@ -705,7 +694,7 @@ New [!DNL Workfront] tutorials on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2024|[What's new in Workfront tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en#what%E2%80%99s-new%3F)|Multiple videos |View the latest tutorials released in the past month.|
+|April 2024|[What's new in Workfront tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en#what%E2%80%99s-new%3F)|Multiple videos |View the latest tutorials released in the past month.|
 
 {style="table-layout:auto"}
 
