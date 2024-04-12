@@ -772,10 +772,6 @@ New tutorials and courses published for [!DNL Document Cloud], including [!DNL A
 | April 2024 | Acrobat Services | [Automate document generation](https://experienceleague.adobe.com/en/docs/acrobat-services-learn/tutorials/docgen/automate-doc-gen) | Video | Learn how to automatically generate documents at scale by calling the Document Generation API using the Adobe PDF Services Connector in Microsoft Power Automate. |
 | April 2024 | Acrobat Services | [Automatically tag documents for accessibility](https://experienceleague.adobe.com/en/docs/acrobat-services-learn/tutorials/pdfaccessibility/automatically-add-tags) | Video | Learn how to automatically tag for accessibility at scale using AI. Automatically tagging reduces the time and cost required to reach compliance. |
 | April 2024 | Acrobat Sign | [Gather high-volume documents using GigaSign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/develop/custom/gigasign.html?lang=en#gather-high-volume-documents-using-gigasign) | Video | Learn how Gigasign allows you to send, collect, and track documents for signature to thousands of people at the same time. |
-| March 2024 | Applications | [linktext]() | Video | Description |
-| March 2024 | Applications | [linktext]() | Video | Description |
-| March 2024 | Applications | [linktext]() | Video | Description |
-| March 2024 | Applications | [linktext]() | Video | Description |
 
 For [!DNL Document Cloud] tutorials, see:
 
