@@ -642,6 +642,7 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].
 |February 2024|[Encapsulate functions when building expressions using the "+" operator](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23749.html)|New article| Learn how any function call must be encapsulated with parentheses when using the "+" operator.|
 
 {style="table-layout:auto"}
+
 -->
 
 ### More resources for [!DNL Journey Optimizer]
