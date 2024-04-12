@@ -1,6 +1,6 @@
 ---
 title: Latest Release Notes
-description: Find the latest release notes and knowledge base issues for Adobe [!DNL Experience Cloud] products and services. Learn about upcoming events and new documentation on Experience League. Discover the latest tutorials and courses for [!DNL Experience Cloud] applications.
+description: Find the latest release notes and Knowledge Base issues for Adobe [!DNL Experience Cloud] products and services. Learn about upcoming events and new documentation on Experience League. Discover the latest tutorials and courses for [!DNL Experience Cloud] applications.
 doc-type: release notes
 last-update: April 2024
 author: mfrei
@@ -72,7 +72,7 @@ See [upcoming events](https://experienceleague.adobe.com/events/) or browse [eve
 
 ## ![Icon](/assets/experience-league.png) Adobe Content Supply Chain {#content-supply-chain}
 
-Learn about [Content Supply Chain](https://business.adobe.com/solutions/adobe-genstudio.html), Adobe's an end-to-end solution to accelerate and simplify your content with generative AI and intelligent automation. 
+Learn about [Content Supply Chain](https://business.adobe.com/solutions/adobe-genstudio.html), Adobe's end-to-end solution to accelerate and simplify your content with generative AI and intelligent automation. 
 
 +++Details
 
@@ -330,7 +330,7 @@ You can write to [aem-forms-early-adopter-program@adobe.com](mailto:aem-forms-ea
 
 * **Dynatrace customers may monitor their AEM usage** &ndash; [Read how](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/dynatrace) to request connectivity with your Dynatrace environment for application performance monitoring. The New Relic APM, which is available to all customers, stops collecting data if Dynatrace is enabled.
 
-* **RDE Support for Front-End Code using Site Themes and Site Templates** &ndash; [Rapid Development Environments (RDEs)](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/developing/rapid-development-environments) now support front-end code for [site themes](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/administering/site-creation/site-themes) and [site templates](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/administering/site-creation/site-templates), for early adopters. With RDEs, this is done using a command-line directive, rather than a [front-end pipeline](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/administering/site-creation/enable-front-end-pipeline). Send an email to [aemcs-rde-support@adobe.com](aemcs-rde-support@adobe.com) if you want to try it out and provide feedback.
+* **RDE Support for Front-End Code using Site Themes and Site Templates** &ndash; [Rapid Development Environments (RDEs)](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/developing/rapid-development-environments) now support front-end code for [site themes](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/administering/site-creation/site-themes) and [site templates](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/administering/site-creation/site-templates), for early adopters. With RDEs, this is done using a command-line directive, rather than a [front-end pipeline](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/sites/administering/site-creation/enable-front-end-pipeline). Send an email to [aemcs-rde-support@adobe.com](mailto:aemcs-rde-support@adobe.com) if you want to try it out and provide feedback.
 
 ### [!DNL Cloud Manager]
 
