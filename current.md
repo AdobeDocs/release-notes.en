@@ -201,15 +201,16 @@ New or updated videos, tutorials, or courses published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
+|April 2024|[Bring your Adobe Analytics data and analyses into Customer Journey Analytics](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-01-17-24.html)|Event video |See Bryan, Eric, and Doug as they discuss how to get moving with Customer Journey Analytics (CJA). You'll learn about using automated processes to move data and analyses from Adobe Analytics to CJA, as well as any gotchas to consider during the process. |
 |April 2024|[Get help in Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/intro-to-analytics/getting-help/getting-help)|Video |At some point, we are all going to need help with Adobe Analytics. This video shows you some of the great resources that are at your fingertips as you hit a snag and need some help.|
 |April 2024|[Submit an in-product support ticket to Customer Care](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/intro-to-analytics/getting-help/in-product-support-ticket-submission)|Video |Learn how to submit a support ticket to Customer Care at Adobe from directly in the product, streamlining the process toward resolution.|
-|April 2024|[Bring your Adobe Analytics data and analyses into Customer Journey Analytics](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-01-17-24.html)|Event video |See Bryan, Eric, and Doug as they discuss how to get moving with Customer Journey Analytics (CJA). You'll learn about using automated processes to move data and analyses from Adobe Analytics to CJA, as well as any gotchas to consider during the process. |
 |April 2024|[Export to CSV from Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/from-the-ui/export-to-csv-from-analysis-workspace.html?lang=en#)|Video |Learn how to export entire projects or individual tables to CSV for analysis in Excel and other BI tools.|
 |March 2024|[Prepare Experience Platform tags for your Analytics implementation](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation)|Video |Learn what you need to know to prepare AEP tags for your Analytics implementation.|
 |March 2024|[Publish Experience Platform tags libraries to stage and production](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/implementation/experience-platform-tags/publishing-tags-libraries-to-stage-and-production)|Video |Learn how to publish your site's analytics code from development to stage and production in Experience Platform tags, as well as setting up the report suites for correctly receiving the proper data.|
 |March 2024|[The magic behind the curtain: Complex segments: excludes, containers, and attribution](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/analytics/analysis-workspace/segmentation/the-magic-behind-the-curtain-complex-segments)|Article |Uncover the intricacies of complex data segmentation, exploring excludes, containers, and attribution models. Like a magician's sleight of hand, mastering these techniques empowers analysts to perform data magic, transforming insights with precision and finesse.|
 
 {style="table-layout:auto"}
+
 <!--
 ### New Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
 
@@ -221,6 +222,7 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 {style="table-layout:auto"}
 -->
+
 +++
 
 ## ![Icon](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
@@ -440,7 +442,7 @@ New videos, tutorials, or courses published for Experience Manager.
 | March 2024 | AEM Sites | [Query indexes and Excel formulas](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-query-indexes) | Video | Explore query indexes and how to write Excel formulas for manipulating and sorting datasets with [!DNL Edge Delivery Services]. |
 | March 2024 | Adobe Cloud Manager | [Add custom domain name](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/cloud-manager/custom-domain-names) | Video | Learn how to add a custom domain name to AEM as a Cloud Service web site. |
 | March 2024 | AEM Assets | [AEM Assets videos and tutorials](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/overview) | Video | Find new videos and tutorials for AEM Assets on Experience League. |
-| March 2024 | Videos | [Get started with [!DNL Edge Delivery Services]](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/edge-delivery-services/overview#getting-started-with-edge-delivery-services) | Video | Description |
+| March 2024 | Videos | [Get started with [!DNL Edge Delivery Services]](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/edge-delivery-services/overview#getting-started-with-edge-delivery-services) | Video | Learn how to make web sites fast with Edge Delivery Services. |
 
 {style="table-layout:auto"}
 
