@@ -27,7 +27,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## April 2024
 
-Latest update: **April 12, 2024**
+Latest update: **April 15, 2024**
 
 * [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
@@ -692,10 +692,16 @@ Learn about the latest release notes for [!DNL Adobe Workfront]. Find new tutori
 
 New [!DNL Workfront] tutorials ane events on Experience League.
 
+|April 2024|[[!DNL Workfront] events](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/overview)|Multiple videos |View all the recent [!DNL Workfront] events on Experience League.|
+
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|April 2024|[What's new in [!DNL Workfront] tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en#what%E2%80%99s-new%3F)|Multiple videos |View the latest tutorials released in the past month.|
-|April 2024|[[!DNL Workfront] events](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/overview)|Multiple videos |View all the recent [!DNL Workfront] events on Experience League.|
+|April 2024|[What's new in Workfront tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en#what%E2%80%99s-new%3F)|Videos |View the latest tutorials released in the past month.|
+|April 2024|[Understand cross-project predecessors](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors)|Video |Learn how to use and keep track of predecessor tasks across 2 or more projects.|
+|April 2024|[Understand portfolios](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/overview-of-adobe-workfront-portfolios)|Article |Learn what portfolios are in Workfront and how they can help you prioritize projects and compare projects against one another.|
+|April 2024|[How to access Enhanced Analytics](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates)|Video |Learn how to access Enhanced Analytics. Like most other features in Workfront, you access Enhanced Analytics from the main menu. But Analytics is not on the main menu by default.|
+|April 2024|[Set up your Workfront Fusion exercise files](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/set-up-your-fusion-exercise-files-walkthrough)|Video |Learn how to set up your Fusion exercise files.|
+|April 2024|[Navigate the project page](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/navigate-the-project-page)|Video |Learn how to view the details of a project, what information shows in the task list, where to upload documents, and how to view the update history in  Workfront.|
 
 {style="table-layout:auto"}
 
