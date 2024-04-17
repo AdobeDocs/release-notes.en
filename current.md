@@ -5,7 +5,6 @@ doc-type: release notes
 last-update: April 2024
 author: mfrei
 mini-toc-levels: 2
-badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
 # Experience Cloud Release Notes - April 2024
@@ -17,17 +16,17 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 This page helps you locate the following self-help resources for Experience Cloud and Adobe enterprise applications:
 
 * Release notes and product documentation
-* Support knowledge base articles
+* Support Knowledge Base articles
 * Upcoming events on Experience League
 * Latest video tutorials 
 
-For the best self-help experience, sign in to [Experience League](https://experienceleague.adobe.com/#home) and customize your search experience across Adobe's free library of [documentation](https://experienceleague.adobe.com/docs/), [courses](https://experienceleague.adobe.com/#courses), [events](https://experienceleague.adobe.com/events/), [community forums](https://experienceleaguecommunities.adobe.com/?profile.language=en), and [support](https://experienceleague.adobe.com/?support-tab=home#support).
+For the best self-help experience, sign in to [Experience League](https://experienceleague.adobe.com/#home) and customize your search experience across Adobe's free library of [documentation](https://experienceleague.adobe.com/en/docs), [courses](https://experienceleague.adobe.com/#courses), [events](https://experienceleague.adobe.com/events/), [community forums](https://experienceleaguecommunities.adobe.com/?profile.language=en), and [support](https://experienceleague.adobe.com/?support-tab=home#support).
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
 ## April 2024
 
-Latest update: **April 15, 2024**
+Latest update: **April 17, 2024**
 
 * [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
@@ -66,15 +65,19 @@ Updated **April 12, 2024**
 
 +++Details
 
-Content forthcoming
+* **WORKFRONT** | Customer workshop | _Learn: 10 Text Mode Tips in Adobe Workfront_ | Want to expand your reporting knowledge with text mode? Look no further! This workshop will provide a brief introduction to text mode fundamentals and the API Explorer followed by 10 text mode tips in Adobe Workfront. | **April 18 @ 9:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,--xUIfX6gEqCcuYNDuE5IA,S8LJKpyI4kywiEO88_bvdg,Z6HaWjLNV0CaMzwT0JeWQg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-See [upcoming events](https://experienceleague.adobe.com/events/) or browse [event recordings](https://experienceleague.adobe.com/docs/events/experience-league-recorded-events/overview.html) on Experience League.
+* **WORKFRONT** | Community event | _Connect: Workfront Collective_ | Join your fellow Workfront Sys Admins for this monthly collective brainstorming and sharing session, where we discuss the latest updates and best practices. | **April 22 @ 6:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,PLjes69h2kitBUQrGr_tSQ,9hwaemfUG0uEqL-RwJW9fQ,OzGfEfueq0yp19zAhpjfwA?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Q&A chat | _Ask: Migrating to the Adobe Business Platform_ | Join us for a Q&A with our Technical Support Engineers to learn what to expect and how to best prepare for the Adobe Business Platform Migration. | **April 23 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wXdzewqwQEO_SiY5SC4i2Q,r3bZVp0PVkObL30IXUw5iA,1p0c3CZ2qEGQBAZpsDvvEw?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+See [upcoming events](https://experienceleague.adobe.com/events/) or browse [event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
 +++
 
 ## ![Icon](/assets/experience-league.png) Adobe Content Supply Chain {#content-supply-chain}
 
-See [Content Supply Chain](https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/overview.html) for the latest tutorials on Experience League. 
+See [Content Supply Chain](https://experienceleague.adobe.com/en/docs/content-supply-chain-learn/tutorials/overview) for the latest tutorials on Experience League. 
 
 <!-- +++Details
 
@@ -88,17 +91,17 @@ See [Content Supply Chain](https://experienceleague.adobe.com/docs/content-suppl
 
 ## ![Icon](/assets/certification-badge.png) Certification{#certification}
 
-Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/docs/certification/program/overview.html) site on Experience League. 
+Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site on Experience League. 
 
 +++Details
 
-The [Experience Cloud Certification](https://experienceleague.adobe.com/docs/certification/program/overview.html) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
+The [Experience Cloud Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
 
 * Available certifications
 * Certification renewals for Adobe applications
 * Certification program updates
 
-And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/docs/certification/program/overview.html) on Experience League and start your certification journey today!
+And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) on Experience League and start your certification journey today!
 
 +++
 
@@ -112,11 +115,11 @@ Learn about the latest features and updates in [!DNL Adobe System Status].
 
 For recent release notes, see:
 
-* [January 30, 2024](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2024/02142024.html#status)
-* [October 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/10042023.html#status)
-* [August 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/08092023.html#status)
-* [March 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/03082023.html#status)
-* [January 2023](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/previous/2023/02082023.html#status)
+* [January 30, 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/02142024)
+* [October 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/10042023)
+* [August 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/08092023)
+* [March 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/03082023)
+* [January 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/02082023)
 
 +++
 
@@ -128,7 +131,7 @@ Learn about [!DNL Experience Cloud] central interface components and administrat
 
 Not updated.
 
-For help on Experience Cloud central interface components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
+For help on Experience Cloud central interface components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
 
 +++
 
@@ -138,7 +141,7 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 +++Details
 
-* [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/docs/experience-platform/release-notes/latest.html)
+* [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest)
 
 * [[!DNL Experience Platform] Mobile SDK release notes](https://developer.adobe.com/client-sdks/documentation/release-notes/)
 
@@ -171,9 +174,9 @@ Find the latest tutorials for [!DNL Real-Time Customer Data Platform] on Experie
 
 +++Details
 
-* Video tutorials: [Understanding Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform.html?lang=en)
+* Video tutorials: [Understanding Real-Time Customer Data Platform](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform)
 
-* Product documentation: [Real-Time Customer Data Platform](https://experienceleague.adobe.com/docs/real-time-customer-data-platform.html?lang=en)
+* Product documentation: [Real-Time Customer Data Platform](https://experienceleague.adobe.com/en/docs/real-time-customer-data-platform)
 
 +++
 
@@ -185,15 +188,15 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 [!DNL Analytics] release date: **April 17, 2024**
 
-* [!DNL Analytics] [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html) 
+* [!DNL Analytics] [release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest) 
 
-* [!DNL Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/analytics.html)
+* [!DNL Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/analytics)
 
 ### AppMeasurement {#appm}
 
 Release version: **2.26.0**
 
-* [AppMeasurement for JavaScript release notes](https://experienceleague.adobe.com/docs/analytics/implementation/appmeasurement-updates.html)
+* [AppMeasurement for JavaScript release notes](https://experienceleague.adobe.com/en/docs/analytics/implementation/appmeasurement-updates)
 
 ### New [!DNL Analytics] tutorials and courses {#tutorials-analytics}
 
@@ -201,10 +204,10 @@ New or updated videos, tutorials, or courses published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|April 2024|[Bring your Adobe Analytics data and analyses into Customer Journey Analytics](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-01-17-24.html)|Event video |See Bryan, Eric, and Doug as they discuss how to get moving with Customer Journey Analytics (CJA). You'll learn about using automated processes to move data and analyses from Adobe Analytics to CJA, as well as any gotchas to consider during the process. |
+|April 2024|[Bring your Adobe Analytics data and analyses into Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-01-17-24)|Event video |See Bryan, Eric, and Doug as they discuss how to get moving with Customer Journey Analytics (CJA). You'll learn about using automated processes to move data and analyses from Adobe Analytics to CJA, as well as any gotchas to consider during the process. |
 |April 2024|[Get help in Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/intro-to-analytics/getting-help/getting-help)|Video |At some point, we are all going to need help with Adobe Analytics. This video shows you some of the great resources that are at your fingertips as you hit a snag and need some help.|
 |April 2024|[Submit an in-product support ticket to Customer Care](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/intro-to-analytics/getting-help/in-product-support-ticket-submission)|Video |Learn how to submit a support ticket to Customer Care at Adobe from directly in the product, streamlining the process toward resolution.|
-|April 2024|[Export to CSV from Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/from-the-ui/export-to-csv-from-analysis-workspace.html?lang=en#)|Video |Learn how to export entire projects or individual tables to CSV for analysis in Excel and other BI tools.|
+|April 2024|[Export to CSV from Analysis Workspace](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/exporting/from-the-ui/export-to-csv-from-analysis-workspace)|Video |Learn how to export entire projects or individual tables to CSV for analysis in Excel and other BI tools.|
 |March 2024|[Prepare Experience Platform tags for your Analytics implementation](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation)|Video |Learn what you need to know to prepare AEP tags for your Analytics implementation.|
 |March 2024|[Publish Experience Platform tags libraries to stage and production](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/implementation/experience-platform-tags/publishing-tags-libraries-to-stage-and-production)|Video |Learn how to publish your site's analytics code from development to stage and production in Experience Platform tags, as well as setting up the report suites for correctly receiving the proper data.|
 |March 2024|[The magic behind the curtain: Complex segments: excludes, containers, and attribution](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/analytics/analysis-workspace/segmentation/the-magic-behind-the-curtain-complex-segments)|Article |Uncover the intricacies of complex data segmentation, exploring excludes, containers, and attribution models. Like a magician's sleight of hand, mastering these techniques empowers analysts to perform data magic, transforming insights with precision and finesse.|
@@ -233,9 +236,9 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 [!DNL Customer Journey Analytics] release date: **April 17, 2024**
 
-* [!DNL Customer Journey Analytics] [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html)
+* [!DNL Customer Journey Analytics] [release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest)
 
-* [!DNL Customer Journey Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/customer-journey-analytics.html)
+* [!DNL Customer Journey Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/customer-journey-analytics)
 
 ### New [!DNL Customer Journey Analytics] tutorials and courses {#tutorials-cja}
 
@@ -244,7 +247,7 @@ New videos, tutorials, or courses published for [!DNL Customer Journey Analytics
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |April 2024|[Add forecasting to your visualization](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/forecasting)|Video |Learn how to add forecasting numbers to your time series visualization in Customer Journey Analytics.|
-|March 2024|[User stream timeline analysis](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/guided-analysis/user-stream/user-stream-timeline-analysis)|Video |Learn about how the user stream view in Adobe Product Analytics helps you find experience patterns, tell better user stories, and validate implementation.|
+|March 2024|[User stream timeline analysis](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/guided-analysis/user-stream/user-stream-timeline-analysis)|Video |Learn about how the [!UICONTROL User stream] view in [!DNL Adobe Product Analytics] helps you find experience patterns, tell better user stories, and validate implementation.|
 |March 2024|[Add forecasting to your visualization](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/forecasting)|Video |Learn how to add forecasting numbers to your time series visualization in Customer Journey Analytics.|
 
 {style="table-layout:auto"}
@@ -257,9 +260,9 @@ Find the latest release information for [!DNL Streaming Media Analytics]. View n
 
 +++Details
 
-* [!DNL Streaming Media Analytics] [release notes](https://experienceleague.adobe.com/docs/media-analytics/using/release-notes/release-notes.html)
+* [!DNL Streaming Media Analytics] [release notes](https://experienceleague.adobe.com/en/docs/media-analytics/using/release-notes/release-notes)
 
-* [!DNL Streaming Media Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/docs/media-analytics/using/media-overview.html)
+* [!DNL Streaming Media Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/media-analytics/using/media-overview)
 
 +++
 
@@ -307,7 +310,7 @@ _Admin view pre-release features_
 
 _Assets view_
 
-* **Smart tags blocklist** &ndash; In Assets Essentials, create a blocklist that is composed of words that you may not want added as [!UICONTROL Smart Tags] to assets when they are uploaded to the repository. This capability helps you to maintain brand compliance and reduces effort to moderate Smart Tags.
+* **[!UICONTROL Smart Tags] blocklist** &ndash; In Assets Essentials, create a blocklist that is composed of words that you may not want added as [!UICONTROL Smart Tags] to assets when they are uploaded to the repository. This capability helps you to maintain brand compliance and reduces the effort to moderate Smart Tags.
 
 ### [!DNL Experience Manager Forms] as a [!DNL Cloud Service]
 
@@ -428,12 +431,12 @@ New videos, tutorials, or courses published for Experience Manager.
 | April 2024 | AEM Assets | [Export assets](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/export) | Video | Learn how to export assets to your local machine using a customizable Node.js script.  |
 | April 2024 | AEM Headless | [Protecting content in AEM Headless](https://experienceleague.adobe.com/en/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/protected-content) | Video | Ensuring the integrity and security of your data when serving AEM Headless content from AEM Publish is crucial when serving sensitive content. This tutorial walks through securing the content served by AEM Headless GraphQL API endpoints. |
 | April 2024 | AEM CS | [AEM Champion Best Practices and Tips - Post Migration](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/experience-manager/cloud-service/cloud-manager-best-practices/post-migration) | Video | Discover invaluable insights from AEM expert Wilson Faure. In this video, he delves into essential post-migration strategies and tips to optimize your transition. Gain clarity on what to focus on in the days and weeks following your migration. |
-| April 2024 | AEM Assets | [Cloud 5 - Integrate AEM Assets document authoring](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-integrate-assets.html?lang=en) | Video | Explore how to integrate AEM Assets with document authoring to deliver exceptional experiences with Edge Delivery Services. |
-| April 2024 | AEM Sites | [Generate Variations in Edge Delivery Services](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations.html?lang=en) | Video | Introduction to Generate Variations in Edge Delivery Services and understanding how it can be useful to marketers. |
-| April 2024 | AEM Sites | [Configure Sidekick for Generate Variations in Edge Delivery Services](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations-sidekick-config.html?lang=en) | Video | Explore how to configure sidekick for Generate Variations in Edge Delivery Services document authoring. |
-| April 2024 | AEM Sites | [Generative AI prompt templates in Edge Delivery Services](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/how-to/prompt-templates-for-content-variations.html?lang=en) | Video | Explore how to use the generative AI prompt templates in Edge Delivery Services document authoring for generating content variations.|
-| April 2024 | AEM Sites | [Generative AI custom prompt templates in Edge Delivery Services](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/how-to/custom-prompt-templates.html?lang=en) | Video | Explore how to build the generative AI custom prompt templates in Edge Delivery Services document authoring for generating content variations. |
-| April 2024 | AEM Sites | [Generative AI save custom prompt templates in Edge Delivery Services](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/how-to/save-custom-prompt-template.html?lang=en) | Video | Explore how to save the generative AI custom prompt templates in Edge Delivery Services document authoring for generating content variations. |
+| April 2024 | AEM Assets | [Cloud 5 - Integrate AEM Assets document authoring](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-integrate-assets) | Video | Explore how to integrate AEM Assets with document authoring to deliver exceptional experiences with Edge Delivery Services. |
+| April 2024 | AEM Sites | [Generate Variations in Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations) | Video | Introduction to Generate Variations in Edge Delivery Services and understanding how it can be useful to marketers. |
+| April 2024 | AEM Sites | [Configure Sidekick for Generate Variations in Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations-sidekick-config) | Video | Explore how to configure sidekick for Generate Variations in Edge Delivery Services document authoring. |
+| April 2024 | AEM Sites | [Generative AI prompt templates in Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/prompt-templates-for-content-variations) | Video | Explore how to use the generative AI prompt templates in Edge Delivery Services document authoring for generating content variations.|
+| April 2024 | AEM Sites | [Generative AI custom prompt templates in Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/custom-prompt-templates) | Video | Explore how to build the generative AI custom prompt templates in Edge Delivery Services document authoring for generating content variations. |
+| April 2024 | AEM Sites | [Generative AI save custom prompt templates in Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/save-custom-prompt-template) | Video | Explore how to save the generative AI custom prompt templates in Edge Delivery Services document authoring for generating content variations. |
 | March 2024 | AEM Forms | [AEM Forms Designer](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/forms-designer/design-view) | Videos | View the new short videos for [!DNL Experience Manager Forms]. |
 | March 2024 | AEM CS | [AEM Champion Best Practices and Tips - Addressing common challenges when migrating to AEM as a Cloud Service](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/experience-manager/cloud-service/cloud-manager-best-practices/migration-challenges) | Video | Discover invaluable insights and best practices shared by your fellow AEM expert, Wilson Faure. In this video, he delves into common challenges encountered during the migration to AEM as a Cloud Service, offering recommendations and expert tips to facilitate a smooth and successful transition. |
 | March 2024 | AEM Sites | [Cloud 5 - Publish, unpublish events in [!DNL Edge Delivery Services]](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-publish-events) | Video | Explore events that are triggered upon publish and unpublish in [!DNL Edge Delivery Services] as well as use cases and examples for using these events. |
@@ -503,9 +506,9 @@ Get access to release notes, new tutorials, and Knowledge Base articles for [!DN
 
 +++Details
 
-* See [Release notes for [!DNL Adobe Commerce] and [!DNL Magento Open Source]](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html) to stay current.
-* See [Adobe Commerce Services Guides](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/home.html) to see Commerce Services release information and documentation.
-* See [Product Availability](https://experienceleague.adobe.com/docs/commerce-operations/release/product-availability.html) to access individual product release notes and verify availability.
+* See [Release notes for [!DNL Adobe Commerce] and [!DNL Magento Open Source]](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview) to stay current.
+* See [Adobe Commerce Services Guides](https://experienceleague.adobe.com/en/docs/commerce-merchant-services/user-guides/home) to see Commerce Services release information and documentation.
+* See [Product Availability](https://experienceleague.adobe.com/en/docs/commerce-operations/release/product-availability) to access individual product release notes and verify availability.
 
 ### New tutorials for [!DNL Adobe Commerce] {#tutorials-commerce}
 
@@ -532,7 +535,7 @@ New articles and updates to existing articles for Adobe Commerce.
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|March 2024|[[!DNL Quality Patches Tool (QPT)]](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview.html)|New articles| New articles on how to apply patches available in [!DNL QPT] 1.1.45 and [!DNL QPT] 1.1.46 were published and can be found in their respective sections.|
+|March 2024|[[!DNL Quality Patches Tool (QPT)]](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview)|New articles| New articles on how to apply patches available in [!DNL QPT] 1.1.45 and [!DNL QPT] 1.1.46 were published and can be found in their respective sections.|
 |March 2024|[How to check why [!DNL cron] was disabled](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/how-to-check-why-cron-was-disabled)|New articles| This article offers troubleshooting solutions for issues with [!DNL cron] in [!DNL Adobe Commerce] on cloud infrastructure products.|
 |March 2024|[[!DNL Adobe Commerce on cloud infrastructure]: [!DNL CPU] allocation calculation](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-cpu-allocation-calculation)|New articles| The attachment is a new article that provides detailed guidelines on what metrics should be used when making decisions about [!DNL CPU] allocation, and how to calculate them.|
 
@@ -555,8 +558,8 @@ Get access to pre-release notes, current release notes, and new tutorials for [!
 
 {style="table-layout:auto"}
 
-* For pre-release information, see [[!DNL Adobe Target] prerelease](https://experienceleague.adobe.com/docs/target/using/release-notes/target-release-notes.html)
-* For current information, see [[!DNL Adobe Target] release notes](https://experienceleague.adobe.com/docs/target/using/release-notes/release-notes.html)
+* For pre-release information, see [[!DNL Adobe Target] prerelease](https://experienceleague.adobe.com/en/docs/target/using/release-notes/target-release-notes)
+* For current information, see [[!DNL Adobe Target] release notes](https://experienceleague.adobe.com/en/docs/target/using/release-notes/release-notes)
 
 +++
 
@@ -568,15 +571,15 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials, courses, a
 
 ### Latest Campaign product releases
 
-* [!DNL Campaign Web Interface]: [What's new](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=en) | [Product documentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html)
+* [!DNL Campaign Web Interface]: [What's new](https://experienceleague.adobe.com/en/docs/campaign-web/v8/whats-new) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
 
-* [!DNL Campaign] v8.6: [Release notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/releases/release-notes.html) | [Product documentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html?lang=en)
+* [!DNL Campaign] v8.6: [Release notes](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
 
-* [!DNL Campaign Standard] v24.1 - Winter: [Release notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html?lang=en)
+* [!DNL Campaign Standard] v24.1 - Winter: [Release notes](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes)
 
-* Campaign Classic v7.3.5: [Release notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en)
+* Campaign Classic v7.3.5: [Release notes](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release)
 
-* Control Panel: [Release notes](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html?lang=en) 
+* Control Panel: [Release notes](https://experienceleague.adobe.com/en/docs/control-panel/using/release-notes/release-notes) 
 
 ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
 
@@ -604,11 +607,11 @@ New articles and updates to existing articles for [!DNL Campaign].
 
 ### [!DNL Campaign] help resources
 
-* [!DNL Campaign] Web Interface: [What's new](https://experienceleague.adobe.com/docs/campaign-web/v8/whats-new.html?lang=en) - [Product documentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html?lang=en)
-* [!DNL Campaign] v8: [Documentation](https://experienceleague.adobe.com/docs/campaign/campaign-v8/campaign-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/campaign/campaign-v8/new/whats-new.html) - [Implementation Guides](https://experienceleague.adobe.com/docs/campaign/campaign-v8/config/implement/implement.html)
-* [!DNL Campaign] Standard: [Campaign Standard Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html) - [Release Planning](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/release-planning.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/campaign-standard/using/documentation-updates.html)
-* [!DNL Campaign] Classic: [Campaign Classic v7 Documentation](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html) - [How-to videos](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/campaign-classic/using/documentation-updates.html)
-* [!DNL Campaign] Control Panel: [Documentation](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html) - [Release Notes](https://experienceleague.adobe.com/docs/control-panel/using/release-notes/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-overview.html)
+* [!DNL Campaign] Web Interface: [What's new](https://experienceleague.adobe.com/en/docs/campaign-web/v8/whats-new) - [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Campaign] v8: [Documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home) - [Release Notes](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/new/whats-new) - [Implementation Guides](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/config/implement/implement)
+* [!DNL Campaign] Standard: [Campaign Standard Documentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home) - [Release Notes](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) - [How-to videos](https://experienceleague.adobe.com/en/docs/campaign-standard-learn/tutorials/overview) - [Release Planning](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-planning) - [Latest documentation updates](https://experienceleague.adobe.com/en/docs/campaign-standard/using/documentation-updates)
+* [!DNL Campaign] Classic: [Campaign Classic v7 Documentation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/campaign-classic-home) - [Release Notes](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release) - [How-to videos](https://experienceleague.adobe.com/en/docs/campaign-classic-learn/tutorials/overview) - [Latest documentation updates](https://experienceleague.adobe.com/en/docs/campaign-classic/using/documentation-updates)
+* [!DNL Campaign] Control Panel: [Documentation](https://experienceleague.adobe.com/en/docs/control-panel/using/control-panel-home) - [Release Notes](https://experienceleague.adobe.com/en/docs/control-panel/using/release-notes/release-notes) - [How-to videos](https://experienceleague.adobe.com/en/docs/control-panel-learn/tutorials/control-panel-overview)
 
 +++
 
@@ -620,12 +623,12 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 ### Latest [!DNL Journey Optimizer] product releases
 
-Learn about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html).
+Learn about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes).
 
 ### More resources for [!DNL Journey Optimizer]
 
-* [Journey Optimizer documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/ajo-home.html) - [Release rotes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/overview.html)
-* [Decision Management documentation](https://experienceleague.adobe.com/docs/journey-optimizer/using/offer-decisioning/get-started-decision/starting-offer-decisioning.html) - [Release notes](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/release-notes.html) - [How-to videos](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management.html) - [Latest documentation updates](https://experienceleague.adobe.com/docs/journey-optimizer/using/whats-new/documentation-updates.html)
+* [Journey Optimizer documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/ajo-home) - [Release rotes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) - [How-to videos](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/overview)
+* [Decision Management documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/offer-decisioning/get-started-decision/starting-offer-decisioning) - [Release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) - [How-to videos](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management) - [Latest documentation updates](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/documentation-updates)
 
 +++
 
@@ -637,17 +640,17 @@ Access the latest release notes for [!DNL Journey Orchestration] on Experience L
 
 ### Latest [!DNL Journey Orchestration] product releases
 
-Find out more about the latest capabilities, improvements, and fixes in the [[!DNL Journey Orchestration] release notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html).
+Find out more about the latest capabilities, improvements, and fixes in the [[!DNL Journey Orchestration] release notes](https://experienceleague.adobe.com/en/docs/journeys/using/release-notes/release-notes).
 
 #### More resources for [!DNL Journey Orchestration]
 
-* [Journey Orchestration documentation](https://experienceleague.adobe.com/docs/journeys/using/journey-orchestration-home.html)
+* [Journey Orchestration documentation](https://experienceleague.adobe.com/en/docs/journeys/using/journey-orchestration-home)
 
-* [Release notes](https://experienceleague.adobe.com/docs/journeys/using/release-notes/release-notes.html)
+* [Release notes](https://experienceleague.adobe.com/en/docs/journeys/using/release-notes/release-notes)
 
-* [How-to videos](https://experienceleague.adobe.com/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration.html)
+* [How-to videos](https://experienceleague.adobe.com/en/docs/journey-orchestration-learn/tutorials/understanding-journey-orchestration)
 
-* [Latest documentation updates](https://experienceleague.adobe.com/docs/journeys/using/release-notes/documentation-updates.html) 
+* [Latest documentation updates](https://experienceleague.adobe.com/en/docs/journeys/using/release-notes/documentation-updates) 
 
 +++
 
@@ -659,8 +662,8 @@ Find out the latest release notes and release schedule for [!DNL Marketo Engage]
 
 ### Core Marketo Engage updates
 
-* See [March 2024 - current release notes](https://experienceleague.adobe.com/docs/marketo/using/release-notes/current.html) for the latest information
-* See [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/docs/marketo/using/release-notes/release-schedule.html) for the latest release schedule information and release notes.
+* See [March 2024 - current release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current) for the latest information
+* See [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/release-schedule) for the latest release schedule information and release notes.
 
 ### New Marketo tutorials and courses {#tutorials-marketo}
 
@@ -672,7 +675,7 @@ New videos, tutorials, or courses published for Adobe Marketo.
 
 {style="table-layout:auto"}
 
-For the latest product documentation, see the [Marketo product documentation](https://experienceleague.adobe.com/docs/marketo/using/home.html) home
+For the latest product documentation, see the [Marketo product documentation](https://experienceleague.adobe.com/en/docs/marketo/using/home) home
 
 +++
 
@@ -696,7 +699,7 @@ New [!DNL Workfront] tutorials ane events on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|April 2024|[What's new in Workfront tutorials](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home.html?lang=en#what%E2%80%99s-new%3F)|Videos |View the latest tutorials released in the past month.|
+|April 2024|[What's new in Workfront tutorials](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/home)|Videos |View the latest tutorials released in the past month.|
 |April 2024|[Understand cross-project predecessors](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors)|Video |Learn how to use and keep track of predecessor tasks across 2 or more projects.|
 |April 2024|[Understand portfolios](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/overview-of-adobe-workfront-portfolios)|Article |Learn what portfolios are in Workfront and how they can help you prioritize projects and compare projects against one another.|
 |April 2024|[How to access Enhanced Analytics](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates)|Video |Learn how to access Enhanced Analytics. Like most other features in Workfront, you access Enhanced Analytics from the main menu. But Analytics is not on the main menu by default.|
@@ -732,8 +735,8 @@ For the latest product documentation, see the [Adobe [!DNL Workfront] documentat
 
 See the following pages for the latest information:
 
-* Mix Modeler [release notes](https://experienceleague.adobe.com/docs/mix-modeler/using/releases/latest.html)
-* Mix Modeler [product documentation](https://experienceleague.adobe.com/docs/mix-modeler.html?lang=en)
+* Mix Modeler [release notes](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest)
+* Mix Modeler [product documentation](https://experienceleague.adobe.com/en/docs/mix-modeler)
 
 +++
 
@@ -745,11 +748,11 @@ Release notes for [!DNL Adobe Advertising].
 
 ### New features in [!DNL Advertising DSP] {#advertising-dsp}
 
-See [What's New in [!DNL Advertising DSP]](https://experienceleague.adobe.com/docs/advertising/dsp/home.html)
+See [What's new in [!DNL Advertising DSP]](https://experienceleague.adobe.com/en/docs/advertising/dsp/home)
   
 ### New features in [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
 
-See [What's New in [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/docs/advertising/search-social-commerce/home.html)
+See [What's new in [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/home)
 
 +++
 
@@ -763,7 +766,7 @@ See [What's New in [!DNL Advertising Search, Social, & Commerce]](https://experi
 >
 >_[!DNL Adobe Primetime]_ is now _[!DNL Adobe Pass]_. You might see both brand names in documentation soon, until the rebrand work is complete.
 
-See [Adobe Pass Release Notes](https://experienceleague.adobe.com/docs/pass.html) to find release-specific information, system requirements, limitations, fixed issues, and known issues.
+See [Adobe Pass Release Notes](https://experienceleague.adobe.com/en/docs/pass) to find release-specific information, system requirements, limitations, fixed issues, and known issues.
 
 +++
 
@@ -781,9 +784,9 @@ New tutorials and courses published for [!DNL Document Cloud], including [!DNL A
 
 For [!DNL Document Cloud] tutorials, see:
 
-* [Adobe Acrobat](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/overview.html)
-* [Adobe Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/overview.html)
-* [Adobe Acrobat Services API tutorials](https://experienceleague.adobe.com/docs/acrobat-services-learn/tutorials/overview.html?lang=en)
+* [Adobe Acrobat](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/overview)
+* [Adobe Acrobat Sign](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/overview)
+* [Adobe Acrobat Services API tutorials](https://experienceleague.adobe.com/en/docs/acrobat-services-learn/tutorials/overview)
 * [Document Cloud Learn & Support](https://helpx.adobe.com/support/document-cloud.html)
 
 +++
@@ -799,14 +802,14 @@ New videos, tutorials, or courses published for applications in [!DNL Adobe Crea
 | April 2024 | [!DNL Firefly] | [Create a Custom Model using a subject](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model-subject) | Video | Learn how to build [!UICONTROL Custom Models] in [!DNL Firefly] to create fresh new imagery for your organization's brand using a specific subject.  |
 | April 2024 | [!DNL Firefly] | [Create a Custom Model using styles](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model-style) | Video | Learn how to build [!UICONTROL Custom Models] in [!DNL Firefly] to create fresh new imagery for your organization's brand using specific types of styles--such as backgrounds, colors, and hues. Custom Models allow you to create relevant, personalized content at scale.  |
 
-See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview.html) for the latest tutorials.
+See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) for the latest tutorials.
 
 +++
 
 ## ![Icon](/assets/experience-league.png) Customer Data Management - Voices {#voices}
 
-[Customer Data Management Voices](https://experienceleague.adobe.com/docs/events/customer-data-management-voices-recordings/overview.html) is your destination as a customer data management technical and marketing practice leader and specialist. This collection of tutorials is your one-stop-shop to hear from your peers, get inspired, and learn about developments in MarTech. No registration required, simply click and watch.
+[Customer Data Management Voices](https://experienceleague.adobe.com/en/docs/events/customer-data-management-voices-recordings/overview) is your destination as a customer data management technical and marketing practice leader and specialist. This collection of tutorials is your one-stop-shop to hear from your peers, get inspired, and learn about developments in MarTech. No registration required, simply click and watch.
 
 ## ![Icon](/assets/experience-league.png) Digital Experience Blueprints {#blueprints}
 
-[Digital Experience Blueprints](https://experienceleague.adobe.com/docs/blueprints-learn/architecture/overview.html) are repeatable implementations that let you address strategy and quickly solve established business problems. Each Blueprint provides a series of artifacts that explain the high-value business problem, architectures, implementation steps, technical considerations, and links to the relevant documentation.
+[Digital Experience Blueprints](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/overview) are repeatable implementations that let you address strategy and quickly solve established business problems. Each Blueprint provides a series of artifacts that explain the high-value business problem, architectures, implementation steps, technical considerations, and links to the relevant documentation.
