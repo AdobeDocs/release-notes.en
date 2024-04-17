@@ -71,6 +71,13 @@ Updated **April 12, 2024**
 
 * **WORKFRONT** | Q&A chat | _Ask: Migrating to the Adobe Business Platform_ | Join us for a Q&A with our Technical Support Engineers to learn what to expect and how to best prepare for the Adobe Business Platform Migration. | **April 23 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,wXdzewqwQEO_SiY5SC4i2Q,r3bZVp0PVkObL30IXUw5iA,1p0c3CZ2qEGQBAZpsDvvEw?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
+
+* **WORKFRONT** | Learn from your peers | _Staffing Your System Admin Practice_ | How many Admins do you need to support Workfront? It depends! Join us on April 25 to hear from your peers at Dell and Adobe on how hiring the right Admins today can help you avoid costly mistakes down the road. | **April 23 @ 8:00 AM PT** | [Register](https://webinars.on24.com/adobe_workfront/AdoptionStaffingAdmin?partnerref=exl)
+
+* **WORKFRONT** | Ask the Expert: Fusion Operations | _Staffing Your System Admin Practice_ | Join expert Andy Hess to learn more about operations in Adobe Workfront Fusion including how to quantify them, as well as tips and tricks to optimize their usage in your scenarios. | **April 30 @ 10:30 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,XHiAwIIUlkqflbNCknr0rg,0-0SB3dRmU-HJRCgnAYtvA,T-_WWmP7z0q7uBFxnmdNLw?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **JOURNEY OPTIMIZER** | Coffee Break | _Adobe Journey Optimizer Community Q&A Coffee Break_ | Join Adobe Journey Optimizer experts to ask your questions and chat around the new code based experience channel in Journey Optimizer. | **May 8 @ 8:00 AM PT** | [Register](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-may-1st-with-adobe-journey/ev-p/666816)
+
 See [upcoming events](https://experienceleague.adobe.com/events/) or browse [event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
 +++
@@ -695,7 +702,8 @@ Learn about the latest release notes for [!DNL Adobe Workfront]. Find new tutori
 
 New [!DNL Workfront] tutorials ane events on Experience League.
 
-|April 2024|[[!DNL Workfront] events](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/overview)|Multiple videos |View all the recent [!DNL Workfront] events on Experience League.|
+|April 2024|[[!DNL Workfront] recent events](https://experienceleague.adobe.com/en/docs/events/workfront-recordings/overview)|Multiple videos |View all the recent [!DNL Workfront] events on Experience League.|
+|April 2024|[All upcoming events](https://experienceleague.adobe.com/events)|Multiple videos |View all upcoming events on Experience League (all applications).|
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
