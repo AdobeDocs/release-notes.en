@@ -61,7 +61,7 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 ### Events on Experience League
 
-Updated **April 19, 2024**
+Updated **April 26, 2024**
 
 +++Details
 
@@ -71,7 +71,9 @@ Updated **April 19, 2024**
 
 * **COMMERCE** | Webinar | _Commerce & Coffee: Mastering Ecommerce Essentials_ | Join Senior Commerce Strategy Consultant, Corey Gelato, as he shares e-commerce essentials for success including personalized customer promotions, loyalty programs, and optimized payment and shipping processes. | **May 2 @ 10:00 AM PT** | [Register](https://adobeevents.adobeconnect.com/ewpnh2ilj4ee/event/registration.html?campaign-id=ExL)
 
-* **COMMERCE** | Customer workshop | _Admin 101: Getting Users to Use Workfront_ | JNew to Workfront? Join our Admin 101 monthly meetups to ask questions, get resources, learn best practices, and meet other new admins. This month, we'll discuss user adoption! | **May 8 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MYqYLHh3CEGjU5wABOZ3YQ,dCdeXlXv8EaBK4cc0csabA,Rc4VZTp9mkmagh_nu3e3hg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Customer workshop | _Admin 101: Getting Users to Use Workfront_ | New to Workfront? Join our Admin 101 monthly meetups to ask questions, get resources, learn best practices, and meet other new admins. This month, we'll discuss user adoption! | **May 8 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,MYqYLHh3CEGjU5wABOZ3YQ,dCdeXlXv8EaBK4cc0csabA,Rc4VZTp9mkmagh_nu3e3hg?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **WORKFRONT** | Community event | _Workfront Industry Circle: Higher Education_ | If you are a Workfront customer in Higher Education and are interested in collective problem solving and sharing learnings with other admins, join us for a 1-hour open discussion in partnership with WGU. | **May 9 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,PiX3iDTmREqs2eOICcUIoA,5KJVGb6S_Uiiki7ErNALgw,jHukwQBRqkKZAQQmjDUyUg,MMnd2IdMvUmPnHLRw6PKLg,Cp-GtpugCkeOq3zdsIZDsQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 See [upcoming events](https://experienceleague.adobe.com/events/) or browse [event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
