@@ -61,7 +61,7 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 ### Events on Experience League
 
-Updated **April 26, 2024**
+Updated **April 29, 2024**
 
 +++Details
 
