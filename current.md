@@ -59,9 +59,9 @@ Latest update: **April 24, 2024**
 
 Learn about exciting events on Experience League. It's a great place to learn, interact, and get answers from product experts at Adobe!
 
-### Events on Experience League
+### Events on Experience League 
 
-Updated **April 29, 2024**
+Updated **April 30, 2024**
 
 +++Details
 
