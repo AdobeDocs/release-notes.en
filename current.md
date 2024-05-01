@@ -26,7 +26,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## April 2024
 
-Latest update: **April 24, 2024**
+Latest update: **May 1, 2024**
 
 * [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
@@ -61,11 +61,9 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 ### Events on Experience League 
 
-Updated **April 30, 2024**
+Updated **May 1, 2024**
 
 +++Details
-
-* **WORKFRONT** | Ask the Expert: Fusion Operations | _Staffing Your System Admin Practice_ | Join expert Andy Hess to learn more about operations in Adobe Workfront Fusion including how to quantify them, as well as tips and tricks to optimize their usage in your scenarios. | **April 30 @ 10:30 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,XHiAwIIUlkqflbNCknr0rg,0-0SB3dRmU-HJRCgnAYtvA,T-_WWmP7z0q7uBFxnmdNLw?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1) 
 
 * **JOURNEY OPTIMIZER** | Coffee Break | _Adobe Journey Optimizer Community Q&A Coffee Break_ | Join Adobe Journey Optimizer experts to ask your questions and chat around the new code based experience channel in Journey Optimizer. | **May 8 @ 8:00 AM PT** | [Register](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-may-1st-with-adobe-journey/ev-p/666816)
 
