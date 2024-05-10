@@ -192,17 +192,15 @@ New videos, tutorials, or courses published for Adobe [!DNL Experience Platform]
 
 {style="table-layout:auto"}
 
-<!--
 ### New [!DNL Experience Platform] support knowledge base{#kb-aep}
 
 New articles and updates to existing articles for [!DNL Experience Platform].
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|February 2024|[[!UICONTROL Default Value Ingestion] in [!DNL Adobe Experience Platform]](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-23641.html)|New article| Learn about how if you need to set a default value during ingestion in [!DNL Adobe Experience Platform (AEP)], particularly for [!DNL upsert] operations, you must use explicit mappings in your data ingestion process.|
+|April 2024|[[!DNL AEP - Adobe Experience Platform] Use Case [!UICONTROL Playbooks] menu is missing](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24108)|New article| Learn about the solution for when the [!UICONTROL Playbooks] menu is missing from your [!UICONTROL sandbox].|
 
 {style="table-layout:auto"}
--->
 +++
 
 ## ![Icon](/assets/experience_platform_appicon_24.png) [!DNL Real-Time Customer Data Platform] {#rtcdp}
@@ -251,17 +249,16 @@ New or updated videos, tutorials, or courses published for Adobe Analytics.
 
 {style="table-layout:auto"}
 
-<!--
 ### New Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
 
 New articles and updates to existing articles for [!DNL Analytics].
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|February 2024|[Project link (URL) generated changes when you share an Adobe Analytics workspace](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-21698.html)|New article| This article offers a solution to the Adobe Analytics issue where a project link changes each time a workspace project link is retrieved in a shared Adobe Analytics workspace. You can use either the newly generated link or the previously generated link for access to the target project.|
+|April 2024|[The "`visit_num`", "`visit_page_num`" and other parameters are displayed as "*0*" in [!UICONTROL Data Feed columns]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-22625)|New article| Learn about when In the [!UICONTROL Data Feed columns], some data, such as "`visit_num`" and "`visit_page_num`" are displayed as "*0*".|
+|April 2024|[[!UICONTROL Report Builder's] calendar still loading after you selected [!UICONTROL Fixed Dates]](hhttps://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23621)|New article| Learn about how [!UICONTROL Report Builder's] calendar may still be loaded after you selected `[Fixed Dates]`.|
 
 {style="table-layout:auto"}
--->
 
 +++
 
@@ -485,27 +482,24 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|March 2024|[Renamed default `OOTB` administrators group and lost admin privileges](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23602)|New article| Learn how to recreate a product profile when you have renamed the default `OOTB` administrators' group and have lost admin privileges.|
-|March 2024|[Intermittent slowness on [!DNL AEM] Cloud](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23840)|New article| Learn about the recommended approach for handling launches within [!DNL Adobe Experience Manager as a Cloud Service] ([!DNL AEM] Cloud).|
-|March 2024|[Does [!UICONTROL CTT (Content Transfer Tool)] work between cloud instances](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23865)|New article| This article addresses whether the [!UICONTROL CTT (Content Transfer Tool)] can migrate existing content between cloud instances in [!DNL AEM as a Cloud Service].|
-|March 2024|[Content Author can't select [!UICONTROL Translation Config] in project](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23880)|New article| This article provides an in-depth analysis of the issue faced by content authors where they can't select the "[!UICONTROL Cloud Configuration]" under an [!DNL AEM] project.|
-|March 2024|[[!DNL Adobe Experience Manager]: Link Adjustment in Launch Pages](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23939)|New article| Learn about how [!DNL AEM] adjusts the links in the launch pages when there are cases where the cross-links placed within launch pages should be rewritten to the paths under `/content/launches`, but aren't rewritten.|
-|March 2024|[`SegmentNotFoundException` in [!DNL AEM] logs and instance aren't working](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23644)|New article| Learn how to solve the `SegmentNotFoundException` issue in [!DNL AEM] logs and instance.|
-|March 2024|[No ability to use [!DNL Fastly CDN] to redirect to maintenance pages hosted elsewhere for [!DNL AEM]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23691)|New article| Learn about how currently there isn't a feature to add a rule in [!DNL Fastly CDN] to redirect to maintenance pages hosted elsewhere for [!DNL AEM].|
-|March 2024|[[!DNL Adobe Experience Manager]: serve stale content when no render available](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23695)|New article| Learn how to enable the [!UICONTROL Dispatcher module] to serve stale content, an additional flag `/serveStaleOnError` has to be set in the `/cache` section.|
-|March 2024|[`Unclosed ResourceResolver` warning at `com.day.cq.search.impl.builder.QueryBuilderImpl`](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23761)|New article| Learn how to solve the `unclosed ResourceResolver` warning at `com.day.cq.search.impl.builder.QueryBuilderImpl`.|
-|March 2024|[[!DNL AEM] Maintenance update error](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23764)|New article| Learn how to solve the maintenance update error in [!DNL AEM].|
-|March 2024|[Production pipeline failure](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23838)|New article| Learn how to resolve the issue of production pipeline failures within [!DNL Adobe Cloud Manager] due to the presence of invalid solution [!DNL KPI]s.|
-|March 2024|[Fixing pipeline failures due to incorrect [!UICONTROL Assets Performance] test configuration](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23839)|New article| This article provides a solution for pipeline failures that occur when the [!UICONTROL Assets Performance] test is incorrectly included in the [!UICONTROL Cloud Manager] configuration.|
-|March 2024|[Need to deploy replication configs via code build](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23882)|New article| This article provides steps to resolve the issue of the need to deploy replication configuration via code build. You need to manage these configurations using content packages.|
-|March 2024|[[!DNL Adobe Experience Manager]: How to resolve `BUILD_NPM_AUDIT_ERROR` in [!DNL AEM] Cloud Service [!UICONTROL front-end pipeline]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23895)|New article| Learn about how to solve the issue when the first execution of the front-end pipeline fails with an internal error.|
-|March 2024|[`client_secret` in the [!UICONTROL IMS] configuration is getting unset](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23909)|New article| Learn about how to solve the issue when in some [!DNL Adobe Experience Manager] ([!DNL AEM]) environments, particularly those upgraded from earlier versions, administrators may encounter an issue where the [!UICONTROL IMS] configuration fails after an [!DNL AEM] restart.|
-|March 2024|[When a [!DNL Tiff] file with [!DNL ZIP] compression format uploads to [!DNL AEM Assets], no renditions generate](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23916)|New article| Learn how to upload a [!DNL Tiff] file with [!DNL ZIP] compression format to [!DNL AEM Assets] along with renditions generated.|
-|March 2024|[[!DNL AEM Dynamic Media] video viewers share embed but [!DNL URL] not visible](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23941)|New article| This article provides a resolution to the issue where [!DNL Adobe Experience Manager] ([!DNL AEM Dynamic Media]) video viewers share an embed, but the [!DNL URL] isn't visible.|
-|March 2024|[Default [!DNL GraphQL Query Executor] configuration options](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23945)|New article| Learn how to address [!DNL Denial of Service] errors in [!DNL GraphQL] queries caused by default parser options in the latest [!DNL GraphQL Java] update.|
-|March 2024|[`javax.jcr.nodetype.ConstraintViolationException: OakConstraint0027` error when migrating users and groups in [!DNL AEM]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23947)|New article| Learn about how to solve the issue when packaging users and groups, make sure to avoid packaging [!DNL out-of-the-box] users, including the admin and anonymous users.|
-|March 2024|[Tags inheritance issues in [!DNL Live Copy] rollout](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23961)|New article| Learn about how to solve the issue when adding tags via the [!UICONTROL Page Properties] dialog on a [!DNL Blueprint] site, ensure that they are rolled out to [!DNL Live Copies] on rollout by adding `tags` to the regular expression.|
-|March 2024|[Unable to view subdirectories in [!UICONTROL Package Manager] when creating new filters](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23975)|New article| Learn the resolution for users needing to create packages that include subdirectories. When in [!DNL Adobe Experience Manager] ([!DNL AEM]), administrators encounter an issue where subdirectories are not visible in the [!UICONTROL Package Manager UI] while trying to add new filters.|
+|April 2024|[Convert [!DNL URLs] to lowercase and [!DNL docx] to [!DNL HTML] using [!DNL Apache] rewrite rules](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23705)|New article| Learn about the steps to learn how to convert [!DNL URLs] to lowercase and [!DNL docx] extensions to [!DNL HTML] using the [!DNL Apache] rewrite rules in the [!DNL AEM Dispatcher].|
+|April 2024|[Understanding and Resolving Immediate Image Expiration in Browser Caches with [!DNL Dynamics Media]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23899)|New article| Learn how images on websites sometimes disappear or fail to load despite being available. This article explores why this happens and how [!DNL Content Delivery Networks (CDNs)] and [!DNL TTL (Time-To-Live)] settings play a role.|
+|April 2024|[[!DNL AEM]: Partial page load with `TooManyCallsException`](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23902)|New article| Learn how to resolve the error with `TooManyCallsException`, increase by a small increment (500) the value of Number of Calls per Request in the [!DNL Apache] [!UICONTROL Sling Main Servlet] bundle.|
+|April 2024|[Granting access to [!UICONTROL Felix console] for non-admin users](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23931)|New article| Learn how the [!DNL Apache] [!UICONTROL Sling Web Console] security provider [!DNL OSGI] component facilitates authentication for [!DNL AEM] users.|
+|April 2024|[Analyzing the `request.log` file for traffic patterns](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23936)|New article| Learn about how to analyze `request.log` by generating a traffic graph and then generating cross-references to the output of the `request.log` and `rlog.jar` tools.|
+|April 2024|[How to find conflicts when getting "`OakState0001`" error in [!DNL AEM]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23983)|New article| Learn about If you encounter the `OakState0001` error in the [!DNL Adobe Experience Manager], refer to the steps outlined in this article to identify any conflicts.|
+|April 2024|[The initial node doesn't get replicated when publishing templates](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23996)|New article| Learn about the unique behavior of the [!UICONTROL "initial" node] in [!DNL Adobe Experience Manager (AEM)] templates and why it doesn't replicate onto the publish environment during the publishing process.|
+|April 2024|[Maximum character limit for environment variables in the [!DNL AEMaaCS's Cloud Manager]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24014)|New article| Learn about the details on the maximum character limits for environment variables in [!DNL Adobe Experience Manager as a Cloud Service's (AEMaaCS)] [!UICONTROL Cloud Manager] across various environments, including staging, production, and development.|
+|April 2024|[[!DNL Marcom] - Revision cleanup doesn't show under daily maintenance - [!DNL AEM]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24037)|New article| Learn about the visibility of the [!UICONTROL Revision Clean Up] task in the [!DNL Adobe Experience Manager (AEM)] UI under [!UICONTROL Daily Maintenance], particularly after an upgrade to [!DNL SP17], and provides insights into the management of  [!UICONTROL Revision Garbage Collection] when using [!DNL MongoDB] as a datastore.|
+|April 2024|[Disabling full-text search by [!DNL mime] type with custom [!DNL Tika] configuration in [!DNL AEM]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24046)|New article| Learn about how to customize the [!DNL Tika] configuration to disable full-text search based on file [!DNL mime] types.|
+|April 2024|[[!DNL Scene7]: Select the poster frame or video thumbnail](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24053)|New article| Learn how to specify a specific video thumbnail or poster image in [!DNL Adobe Experience Manager (AEM)] in the context of [!DNL Scene7], now known as **[!DNL Dynamic Media]**.|
+|April 2024|[How to add `stricthostcheck` in [!DNL AEMaaCS] dispatcher configuration](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24069)|New article| Learn about how to add `stricthostcheck` in [!DNL AEMaaCS] dispatcher configuration.|
+|April 2024|[[!DNL Adobe Experience Manager]: Unable to view [!DNL Java] source of [!DNL JSP/HTL] under `/libs`](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24079)|New article| Learn how to view the [!DNL Java] source of [!DNL JSP/HTL] under `/libs` by disabling the [!DNL Adobe Experience Manager as a Cloud Service's aem-precompiled-scripts] bundle.|
+|April 2024|[[!DNL Adobe Experience Manager]: The first investigation step for "`No renderer for extension html`"](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24080)|New article| Learn about the cause of the error message: `No renderer for extension html`, encountered when attempting to open a webpage in [!DNL Adobe Experience Manager].|
+|April 2024|[Purging [!DNL Fastly CDN] cache when using a [!DNL WAF] or [!DNL BYOCDN]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24097)|New article| Learn about how to configure cache purging for [!DNL AEM as a Cloud Service] when using a [!DNL Web Application Firewall (WAF)] or a custom [!DNL CDN] solution ([!DNL BYOCDN]). Understanding how to navigate these complex setups is crucial for maintaining efficient content delivery.|
+|April 2024|[Understanding [!UICONTROL Cumulative Query Execution Times] in [!DNL AEM]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24128)|New article| Learn about understanding query performance troubleshooting in [!DNL AEM].|
+|April 2024|[Pages are not displaying properly on preview](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24147)|New article|Learn about the solution to when a page is previewed on the cloud ([!DNL AEMaaCS]) preview environment, the page may appear to not load any [!DNL CSS], formatting, or experience fragments that are included in the template for the page.|
+|April 2024|[How to [!DNL flush] the dispatcher cache when there are farms with separate cache folders](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24023)|New article| Learn how to [!DNL flush] the dispatcher cache when there are farms with separate cache folders.|
 
 {style="table-layout:auto"}
 
@@ -563,9 +557,12 @@ New articles and updates to existing articles for Adobe Commerce.
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|March 2024|[[!DNL Quality Patches Tool (QPT)]](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview)|New articles| New articles on how to apply patches available in [!DNL QPT] 1.1.45 and [!DNL QPT] 1.1.46 were published and can be found in their respective sections.|
-|March 2024|[How to check why [!DNL cron] was disabled](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/how-to-check-why-cron-was-disabled)|New articles| This article offers troubleshooting solutions for issues with [!DNL cron] in [!DNL Adobe Commerce] on cloud infrastructure products.|
-|March 2024|[[!DNL Adobe Commerce on cloud infrastructure]: [!DNL CPU] allocation calculation](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/magento-commerce-cloud-cpu-allocation-calculation)|New articles| The attachment is a new article that provides detailed guidelines on what metrics should be used when making decisions about [!DNL CPU] allocation, and how to calculate them.|
+|April 2024|[[!DNL Quality Patches Tool (QPT)]](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview)|New articles| New articles on how to apply patches available in [!DNL QPT] 1.1.46, [!DNL QPT] 1.1.47, and [!DNL QPT] 1.1.48 were published and can be found in their respective sections.|
+|April 2024|[Falling back to [!DNL Elasticsearch7] when search engine set to [!DNL Opensearch]](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/elasticsearch/falling-back-to-elasticsearch7-when-search-engine-set-to-opensearch)|New articles| Learn about the solution for the issue when a `Falling back to Elasticsearch7` error occurs when the search engine is set to [!DNL OpenSearch] in Adobe Commerce.|
+|April 2024|[Troubleshoot create order page in [!UICONTROL CSP restricted mode]](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/payments/admin-create-order-page-in-csp-restricted-mode)|New articles| Learn about explanations and fixes for the Adobe Commerce 2.4.7 issues while creating an order on the [!UICONTROL Admin] side with [!UICONTROL CSP restricted mode] is *Enabled*, with the "`Refused to execute inline script because it violates the following Content Security Policy directive: "script-src …`" error message in the browser console log.|
+|April 2024|[Troubleshoot storefront checkout page in [!UICONTROL CSP restricted mode]](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/payments/storefront-checkout-page-in-csp-restricted-mode)|New articles| Learn about explanations and fixes for the Adobe Commerce 2.4.7 issues while viewing the checkout page in [!UICONTROL CSP restricted mode], with the "`Refused to execute inline script because it violates the following Content Security Policy directive: "script-src …`" error message in the browser console log.|
+|April 2024|[How to obtain and apply a security patch](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/how-to-obtain-and-apply-security-patches)|New articles| Learn about instructions on how to obtain and apply a security patch that has been released, but instructions are unavailable.|
+|April 2024|[How to update the cloud account profile](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/how-to/how-to-update-the-cloud-account-profile)|New articles| Learn about the steps on how to modify the profile on the cloud account.|
 
 {style="table-layout:auto"}
 
@@ -577,7 +574,7 @@ Get access to pre-release notes, current release notes, and new tutorials for [!
 
 +++Details
 
-
+<!--
 ### New [!DNL Target] support knowledge base{#kb-target}
 
 |Published|Name|Type|Description|
@@ -585,6 +582,7 @@ Get access to pre-release notes, current release notes, and new tutorials for [!
 |March 2024|[How to create an audience of [!DNL PC] users in [!DNL Adobe Target]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-21826)|New article| Learn how to target [!DNL PC] users effectively by leveraging the `OR` operator and setting other device types to `FALSE`.|
 
 {style="table-layout:auto"}
+-->
 
 * For pre-release information, see [[!DNL Adobe Target] prerelease](https://experienceleague.adobe.com/en/docs/target/using/release-notes/target-release-notes)
 * For current information, see [[!DNL Adobe Target] release notes](https://experienceleague.adobe.com/en/docs/target/using/release-notes/release-notes)
@@ -625,11 +623,9 @@ New articles and updates to existing articles for [!DNL Campaign].
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|March 2024|[Troubleshooting `TargetData` display [!DNL Campaign] issue for custom target mapping in direct mail deliveries](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23799)|New article| Learn how to navigate data display challenges in direct mail campaigns by integrating custom target mappings with [!DNL Campaign]'s broad log schema.|
-|March 2024|[[!DNL Adobe Campaign]: [!DNL SMS] tracking displays incorrect [!UICONTROL Opens]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23877)|New article| The article below details the logic and enhancement that has been logged to address confusion around the [!UICONTROL Opens] and [!UICONTROL Clicks] tracking for [!DNL SMS] delivery reports.|
-|March 2024|[Typology rule to add [!DNL SMTP] header applied but doesn't change the internet header in the delivered message](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23879)|New article| This article guides you through correctly applying typology rules to add a [!DNL Simple Mail Transfer Protocol (SMTP)] header and modify the encoding of deliveries in [!DNL Adobe Campaign Classic].|
-|March 2024|[How to find workflows that are in progress](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23881)|New article| Learn a couple of tricks for finding active workflows in [!DNL Adobe Campaign].|
-|March 2024|[Troubleshooting `nlserver` failure after [!DNL Red Hat&reg;] upgrade to version 8.9](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23889)|New article| Learn how upgrading [!DNL Red Hat&reg;] from version 7.9 to version 8.9 can lead to `nlserver` startup issues, including shared library errors and `systemd` failures.|
+|April 2024|[Tracking workflow fails with `broadlogRcp` and [!DNL Oracle] error](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24054)|New article| Learn about how to correct the target mappings to use a tracking log schema for the schema where tracking logs are stored and save the modification.|
+|April 2024|[[!DNL Adobe Campaign Standard]: Inflated [!DNL Campaign] numbers from [!DNL ACS] in [!DNL Adobe Analytics]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24076)|New article| Learn about how to resolve the [!DNL Adobe Campaign Standard (ACS)] issue where the data in [!DNL Campaign] and [!DNL Analytics] differ. An important step in this is to validate that the two workflows in [!DNL ACS], `kpiReconciliation`, and `kpiSharing`, are processing the current date data.|
+|April 2024|[Waves scheduled are sent in seconds instead of hours - [!DNL Adobe Campaign Classic]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24109)|New article| Learn about the solution to the issues created when scheduled email waves are sent within seconds instead of hours.|
 
 {style="table-layout:auto"}
 
@@ -716,6 +712,16 @@ New videos, tutorials, or courses published for Adobe Marketo.
 {style="table-layout:auto"}
 
 For the latest product documentation, see the [Marketo product documentation](https://experienceleague.adobe.com/en/docs/marketo/using/home) home
+
+### New [!DNL Marketo] support knowledge base
+
+New articles and updates to existing articles for [!DNL Marketo].
+
+|Published|Name|Type|Description|
+| -----------| ---------- | ---------- | ---------- |
+|April 2024|[What happens when the [!UICONTROL Default Dashboard] object is changed in [!DNL Marketo Measure]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24085)|New article| Learn about the effects of changing the [!UICONTROL Default Dashboard] object in [!DNL Marketo Measure] settings.|
+
+{style="table-layout:auto"}
 
 +++
 
