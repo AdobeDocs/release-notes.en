@@ -256,7 +256,7 @@ New articles and updates to existing articles for [!DNL Analytics].
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
 |April 2024|[The "`visit_num`", "`visit_page_num`" and other parameters are displayed as "*0*" in [!UICONTROL Data Feed columns]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-22625)|New article| Learn about when In the [!UICONTROL Data Feed columns], some data, such as "`visit_num`" and "`visit_page_num`" are displayed as "*0*".|
-|April 2024|[[!UICONTROL Report Builder's] calendar still loading after you selected [!UICONTROL Fixed Dates]](hhttps://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23621)|New article| Learn about how [!UICONTROL Report Builder's] calendar may still be loaded after you selected `[Fixed Dates]`.|
+|April 2024|[[!UICONTROL Report Builder's] calendar still loading after you selected [!UICONTROL Fixed Dates]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-23621)|New article| Learn about how [!UICONTROL Report Builder's] calendar may still be loaded after you selected `[Fixed Dates]`.|
 
 {style="table-layout:auto"}
 
