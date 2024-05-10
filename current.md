@@ -8,7 +8,7 @@ mini-toc-levels: 2
 badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
-# Experience Cloud Release Notes - May 2024
+# Experience Cloud release notes - May 2024
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -116,7 +116,7 @@ Learn about the latest features and updates in [!DNL Adobe System Status].
 
 Release date: **April 11, 2024**
 
-What's new
+**What's new**
 
 * Subscription Help page
 * Notification improvements
@@ -169,23 +169,23 @@ New videos, tutorials, or courses published for Adobe [!DNL Experience Platform]
 | May 2024 | [!DNL Experience Platform], [!DNL Analytics] | [Set up Adobe Analytics with Adobe Experience Platform Web SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/applications-setup/setup-analytics) | Article | Learn how to set up Adobe Analytics using Adobe Experience Platform Web SDK, create tag rules to send data to Adobe Analytics, and validate that Analytics is capturing data as expected. |
 | May 2024 | [!DNL Experience Platform] | [Applications built on Experience Platform](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/intro-to-platform/native-applications) | Video | Learn about the applications built natively on top of Adobe Experience Platform: Customer Journey Analytics, Real-Time Customer Data Platform, Journey Optimizer, and Mix Modeler. |
 | May 2024 | [!DNL Experience Platform], [!DNL Journey Optimizer] | [Set up Journey Optimizer web channel with Web SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/applications-setup/setup-web-channel) | Article | Learn how to implement the Adobe Journey Optimizer web channel using Adobe Experience Platform Web SDK.  |
-| May 2024 | [!DNL Experience Platform], [!DNL Journey Optimizer] | [Set up Decision Management with Platform Web SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/applications-setup/setup-decision-management) | Video | Learn how to implement Adobe Journey Optimizer's Decision Management capability using Platform Web SDK.  |
+| May 2024 | [!DNL Experience Platform], [!DNL Journey Optimizer] | [Set up Decision Management with Platform Web SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/applications-setup/setup-decision-management) | Article | Learn how to implement Adobe Journey Optimizer's Decision Management capability using Platform Web SDK.  |
 | May 2024 | Experience Platform | [Pseudonymous profile and Experience Event expirations](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/data-hygiene/pseudonymous-profile-and-event-expiration) | Video | Learn how to configure expiration settings for pseudonymous profiles and events in Experience Platform and the benefits. |
 | May 2024 | Data Collection, [!DNL Experience Platform] | [Stack tag rules](https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/tags/stack-rules) | Video | Learn how to stack rules a tag property. Rule stacking uses the order feature in tag rule events to sequence rules so you can manage scalable tag implementations.  |
-| May 2024 | [!DNL Experience Platform] | [Configure a datastream](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/initial-configuration/configure-datastream) | Video | Learn how to configure a datastream for Adobe Experience Platform Web SDK. |
-| May 2024 | [!DNL Experience Platform] | [Create an XDM schema for web data](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/initial-configuration/configure-schemas) | Video | Learn how to create an XDM schema for web data in the Adobe Experience Platform Data Collection interface. |
-| May 2024 | [!DNL Experience Platform] | [Configure an identity namespace](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/initial-configuration/configure-identities) | Video | Learn how to configure identity namespaces to use with Adobe Experience Platform Web SDK. |
+| May 2024 | [!DNL Experience Platform] | [Configure a datastream](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/initial-configuration/configure-datastream) | Article | Learn how to configure a datastream for Adobe Experience Platform Web SDK. |
+| May 2024 | [!DNL Experience Platform] | [Create an XDM schema for web data](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/initial-configuration/configure-schemas) | Article | Learn how to create an XDM schema for web data in the Adobe Experience Platform Data Collection interface. |
+| May 2024 | [!DNL Experience Platform] | [Configure an identity namespace](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/initial-configuration/configure-identities) | Article | Learn how to configure identity namespaces to use with Adobe Experience Platform Web SDK. |
 | May 2024 | [!DNL Experience Platform] | [Validate Web SDK implementations with Experience Platform Debugger](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/tags-configuration/validate-with-debugger) | Video | Learn how to validate your Adobe Experience Platform Web SDK implementation with Adobe Experience Platform Debugger. |
-| May 2024 | [!DNL Experience Platform] | [Validate Web SDK implementations with Experience Platform Assurance](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/tags-configuration/validate-with-assurance) | Video | Learn how to validate your Platform Web SDK implementation with Adobe Experience Platform Assurance. This lesson is part of the Implement Adobe Experience Cloud with Web SDK tutorial. |
-| May 2024 | [!DNL Experience Platform] | [Create tag rules](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/tags-configuration/create-tag-rule) | Video | Learn how to send events to the Adobe Experience Platform Edge Network with your XDM object using tag rules. |
-| May 2024 | [!DNL Experience Platform] | [Install Adobe Experience Platform Web SDK tag extension](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/tags-configuration/install-web-sdk) | Video | Learn how to install and configure the Adobe Experience Platform Web SDK tag extension.  |
-| May 2024 | [!DNL Experience Platform] | [Stream data to Experience Platform with Web SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/applications-setup/setup-experience-platform) | Video | Learn how to stream web data to Adobe Experience Platform with Platform Web SDK. |
-| May 2024 | [!DNL Experience Platform] | [Implement Adobe Experience Cloud with Web SDK tutorial](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/overview) | Video | Learn how to implement Experience Cloud applications using Adobe Experience Platform Web SDK. |
+| May 2024 | [!DNL Experience Platform] | [Validate Web SDK implementations with Experience Platform Assurance](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/tags-configuration/validate-with-assurance) | Article | Learn how to validate your Platform Web SDK implementation with Adobe Experience Platform Assurance. This lesson is part of the Implement Adobe Experience Cloud with Web SDK tutorial. |
+| May 2024 | [!DNL Experience Platform] | [Create tag rules](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/tags-configuration/create-tag-rule) | Article | Learn how to send events to the Adobe Experience Platform Edge Network with your XDM object using tag rules. |
+| May 2024 | [!DNL Experience Platform] | [Install Adobe Experience Platform Web SDK tag extension](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/tags-configuration/install-web-sdk) | Article | Learn how to install and configure the Adobe Experience Platform Web SDK tag extension.  |
+| May 2024 | [!DNL Experience Platform] | [Stream data to Experience Platform with Web SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/applications-setup/setup-experience-platform) | Article | Learn how to stream web data to Adobe Experience Platform with Platform Web SDK. |
+| May 2024 | [!DNL Experience Platform] | [Implement Adobe Experience Cloud with Web SDK tutorial](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/overview) | Article | Learn how to implement Experience Cloud applications using Adobe Experience Platform Web SDK. |
 | May 2024 | [!DNL Experience Platform] | [Set up event forwarding with Platform Web SDK data](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/event-forwarding/setup-event-forwarding) | Video | Learn how to use event forwarding with Adobe Experience Platform Web SDK data. |
-| May 2024 | [!DNL Experience Platform] | [Set up consent with Platform Web SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/consent-management/setup-consent) | Video | Learn how to configure the privacy settings of the Adobe Experience Platform Web SDK tag extension. |
-| May 2024 | [!DNL Experience Platform] | [Set up Adobe Target with Platform Web SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/applications-setup/setup-target) | Video | Learn how to implement Adobe Target using Adobe Experience Platform Web SDK. Learn how to deliver experiences and how to pass additional parameters to Target. |
-| May 2024 | [!DNL Experience Platform] | [Create data elements](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/tags-configuration/create-data-elements) | Video | Learn how to create data elements in tags for content, commerce, and identity data on the Luma demo site.  |
-| May 2024 | [!DNL Experience Platform] | [Create identities](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/tags-configuration/create-identities) | Video | Learn how to capture identities with Adobe Experience Platform Web SDK. Capture both unauthenticated and authenticated identity data on the Luma demo site. |
+| May 2024 | [!DNL Experience Platform] | [Set up consent with Platform Web SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/consent-management/setup-consent) | Article | Learn how to configure the privacy settings of the Adobe Experience Platform Web SDK tag extension. |
+| May 2024 | [!DNL Experience Platform] | [Set up Adobe Target with Platform Web SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/applications-setup/setup-target) | Article | Learn how to implement Adobe Target using Adobe Experience Platform Web SDK. Learn how to deliver experiences and how to pass additional parameters to Target. |
+| May 2024 | [!DNL Experience Platform] | [Create data elements](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/tags-configuration/create-data-elements) | Article | Learn how to create data elements in tags for content, commerce, and identity data on the Luma demo site.  |
+| May 2024 | [!DNL Experience Platform] | [Create identities](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/tags-configuration/create-identities) | Article | Learn how to capture identities with Adobe Experience Platform Web SDK. Capture both unauthenticated and authenticated identity data on the Luma demo site. |
 | May 2024 | [!DNL Experience Platform] | [Key capabilities of Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/intro-to-platform/key-capabilities) | Updated video | Learn about the key capabilities of Experience Platform and how they bring value to your business. |
 | May 2024 | [!DNL Experience Platform] | [Integrations between Adobe Experience Platform and Adobe Experience Cloud applications](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/intro-to-platform/integrations-with-experience-cloud-applications) | Video | Learn about how Experience Platform integrates with Experience Cloud applications. |
 | May 2024 | [!DNL Experience Platform] | [Key use cases of Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/intro-to-platform/key-use-cases) | Video | Get an overview of the five key use cases of Experience Platform-Intelligent Re-engagement, "Don't Lose" Campaigns, Customer Conversion Optimization, Contextual Recognition, and One-Time Value to Lifetime Value. |
@@ -239,12 +239,12 @@ New or updated videos, tutorials, or courses published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|May 2024|[Unlocking analytical insight: Harnessing the power of annotations](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/analytics/analysis-workspace/curate-and-share-projects/harnessing-the-power-of-annotations)|Video |Discover the crucial role Annotations play in Adobe Analysis Workspace and gain practical tips for maximizing their usage. Elevate your data understanding and collaboration to new heights,extracting richer analytical insights along the way.|
+|May 2024|[Unlocking analytical insight: Harnessing the power of annotations](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/analytics/analysis-workspace/curate-and-share-projects/harnessing-the-power-of-annotations)|Article |Discover the crucial role Annotations play in Adobe Analysis Workspace and gain practical tips for maximizing their usage. Elevate your data understanding and collaboration to new heights,extracting richer analytical insights along the way.|
 |May 2024|[Starting your first project in Analysis Workspace](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace)|Video |Learn how to create new Analysis Workspace projects, either from scratch or by leveraging templates. |
 |May 2024|[Overview of Cohort tables in Analysis Workspace](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/cohort-analysis/overview-of-cohort-tables-in-analysis-workspace)|Updated video |Learn about the Rolling Calculation setting within Cohort tables for analyzing cohorts period-over-period. Understand how the same users are retained (or churn) over time.|
 |May 2024|[Churn Analysis with Cohort tables](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/cohort-analysis/churn-analysis-with-cohort-tables)|Updated video |Learn about [!UICONTROL Retention] and [!UICONTROL Churn] with [!UICONTROL Cohort] tables. While [!UICONTROL Retention] shows how many users are retained over time, the [!UICONTROL Churn] option depicts how many users were lost.|
 |May 2024|[Cohort table settings](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/cohort-analysis/cohort-table-settings)|Updated video |Learn about the settings that let you customize your view of [!UICONTROL Retention] or [!UICONTROL Churn]. |
-|May 2024|[Building data culture and a better solution design reference](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/analytics/administration/admin-tips/better-sdr)|Updated video |Revolutionize your data strategy and empower your team to create a solid solution design reference (SDR) document. Eliminate measurement gaps and foster a collaborative data culture through step-by-step methodologies.|
+|May 2024|[Building data culture and a better solution design reference](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/analytics/administration/admin-tips/better-sdr)|Article |Revolutionize your data strategy and empower your team to create a solid solution design reference (SDR) document. Eliminate measurement gaps and foster a collaborative data culture through step-by-step methodologies.|
 |May 2024|[Cohort Analysis in Analysis Workspace](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/cohort-analysis/cohort-analysis-workspace)|Updated video |Learn how to build a [!UICONTROL Cohort Analysis] table in Analysis Workspace.|
 
 {style="table-layout:auto"}
@@ -274,7 +274,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 * [!DNL Customer Journey Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/customer-journey-analytics)
 
-### New [!DNL Customer Journey Analytics] tutorials and courses {#tutorials-cja}
+<!-- ### New [!DNL Customer Journey Analytics] tutorials and courses {#tutorials-cja}
 
 New videos, tutorials, or courses published for [!DNL Customer Journey Analytics].
 
@@ -286,7 +286,7 @@ New videos, tutorials, or courses published for [!DNL Customer Journey Analytics
 
 {style="table-layout:auto"}
 
-+++
++++ -->
 
 ## ![Icon](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
@@ -456,23 +456,23 @@ New videos, tutorials, or courses published for Experience Manager.
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| May 2024 | AEM Sites | [Cloud 5 season 3](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/cloud5-season-3) | Videos | Season three lets you learn about AEM Edge Delivery service through in-depth interviews with experts who have worked on complicated projects. |
+| May 2024 | AEM Sites | [Cloud 5 season 3](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/cloud5-season-3) | Videos | Season three helps you learn about AEM Edge Delivery service through in-depth interviews with experts who have worked on complicated projects. |
 | May 2024 | AEM Sites | [Cloud 5 - Integrate AEM Assets document authoring](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-integrate-assets) | Video | Explore how to integrate AEM Assets with document authoring to deliver exceptional experiences with Edge Delivery Services. |
 | May 2024 | AEM Sites | [Generate Variations in Edge Delivery Services](https://experienceleague.corp.adobe.com/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations.html?lang=en) | Video | Introduction to Generate Variations in Edge Delivery Services and understanding how it can be useful to marketers. |
 | May 2024 | AEM Sites | [Configure Sidekick for Generate Variations in Edge Delivery Services](https://experienceleague.corp.adobe.com/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations-sidekick-config.html?lang=en) | Video | Explore how to configure sidekick for Generate Variations in Edge Delivery Services document authoring. |
 | May 2024 | AEM Sites | [Generative AI prompt templates in Edge Delivery Services](https://experienceleague.corp.adobe.com/docs/experience-manager-learn/sites/document-authoring/how-to/prompt-templates-for-content-variations.html?lang=en) | Video | Explore how to use the generative AI prompt templates in Edge Delivery Services document authoring for generating content variations. |
 | May 2024 | AEM Sites | [Generative AI custom prompt templates in Edge Delivery Services](https://experienceleague.corp.adobe.com/docs/experience-manager-learn/sites/document-authoring/how-to/custom-prompt-templates.html?lang=en) | Video | Explore how to build the generative AI custom prompt templates in Edge Delivery Services document authoring for generating content variations. |
 | May 2024 | AEM Sites | [Generative AI save custom prompt templates in Edge Delivery Services](https://experienceleague.corp.adobe.com/docs/experience-manager-learn/sites/document-authoring/how-to/save-custom-prompt-template.html?lang=en) | Video | Explore how to save the generative AI custom prompt templates in Edge Delivery Services document authoring for generating content variations. |
-| May 2024 | AEM Assets | [Export assets](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/export) | Video | Learn how to export assets to your local machine using a customizable `Node.js` script. This export script provides an example of how to programmatically download assets from AEM using AEM Assets HTTP APIs, specifically focusing on the original renditions to ensure the highest quality.  |
-| May 2024 | AEM Forms | [Using GuideBridge API to POST form data](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/core-component-based-forms/submit-data-using-guidebridge-api) | Video | Use [!UICONTROL Save and Resume] for a form to save the progress of filling out the form and resume it later. |
+| May 2024 | AEM Assets | [Export assets](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/export) | Article | Learn how to export assets to your local machine using a customizable `Node.js` script. This export script provides an example of how to programmatically download assets from AEM using AEM Assets HTTP APIs, specifically focusing on the original renditions to ensure the highest quality.  |
+| May 2024 | AEM Forms | [Using GuideBridge API to POST form data](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/core-component-based-forms/submit-data-using-guidebridge-api) | Article | Use [!UICONTROL Save and Resume] for a form to save the progress of filling out the form and resume it later. |
 | May 2024 | AEM Sites | [Generative AI in AEM Sites](https://experienceleague.corp.adobe.com/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-generative-ai-for-aem-sites.html) | Video | Explore the new Generative AI features available in AEM Sites document authoring.  |
 | May 2024 | AEM Forms | [Fill out a PDF form using ChatBot](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/chatbot-and-aem-forms/introduction) | Video | Learn how to fill out a PDF form using Chatbot. |
-| May 2024 | AEM Headless | [Protecting content in AEM Headless](https://experienceleague.adobe.com/en/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/protected-content) | Video | Learn how to protect content in AEM Headless. |
-| May 2024 | AEM CS | [Advanced networking](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/networking/advanced-networking) | Video | Learn about AEM as a Cloud Service's advanced networking options. |
+| May 2024 | AEM Headless | [Protecting content in AEM Headless](https://experienceleague.adobe.com/en/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/protected-content) | Article | Learn how to protect content in AEM Headless. |
+| May 2024 | AEM CS | [Advanced networking](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/networking/advanced-networking) | Article | Learn about AEM as a Cloud Service's advanced networking options. |
 | May 2024 | AEM CS | [Flexible port egress](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/networking/flexible-port-egress) | Video | Learn how to set up and use flexible port egress to support external connections from AEM as a Cloud Service to external services. |
 | May 2024 | AEM Assets | [AEM Assets and Adobe Express](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/creative-workflows/adobe-express) | Video | Discover how to effortlessly create and edit content within Adobe Experience Manager Assets using Adobe Express.  |
-| May 2024 | AEM Assets | [Metadata-Driven Permissions](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/advanced/metadata-driven-permissions) | Video | Learn to restrict access based on asset metadata properties rather than folder structure. |
-| May 2024 | AEM CS | [Blocking DoS and DDoS attacks using traffic filter rules](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/blocking-dos-attack-using-traffic-filter-rules) | Video | Learn how to block Denial of Service (DoS) and Distributed Denial of Service (DDoS) attacks using rate limit traffic filter rules and other strategies at the AEM as a Cloud Service (AEMCS) managed CDN.  |
+| May 2024 | AEM Assets | [Metadata-Driven Permissions](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/advanced/metadata-driven-permissions) | Article | Learn to restrict access based on asset metadata properties rather than folder structure. |
+| May 2024 | AEM CS | [Blocking DoS and DDoS attacks using traffic filter rules](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/blocking-dos-attack-using-traffic-filter-rules) | Article | Learn how to block Denial of Service (DoS) and Distributed Denial of Service (DDoS) attacks using rate limit traffic filter rules and other strategies at the AEM as a Cloud Service (AEMCS) managed CDN.  |
 
 {style="table-layout:auto"}
 
@@ -599,7 +599,7 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials, courses, a
 
 * [!DNL Campaign Web Interface]: [What's new](https://experienceleague.adobe.com/en/docs/campaign-web/v8/whats-new) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
 
-* [!DNL Campaign] v8.6: [Release notes](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
+* [!DNL Campaign] v8.7.1 - **May 2, 2024**: [Release notes](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
 
 * [!DNL Campaign Standard] v24.1 - Winter: [Release notes](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes)
 
@@ -698,10 +698,10 @@ Find out the latest release notes and release schedule for [!DNL Marketo Engage]
 
 ### Core Marketo Engage updates
 
-* See [March 2024 - current release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current) for the latest information
+* See [June 2024 - current release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current) for the latest information
 * See [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/release-schedule) for the latest release schedule information and release notes.
 
-### New Marketo tutorials and courses {#tutorials-marketo}
+<!-- ### New Marketo tutorials and courses {#tutorials-marketo}
 
 New videos, tutorials, or courses published for Adobe Marketo.
 
@@ -709,7 +709,7 @@ New videos, tutorials, or courses published for Adobe Marketo.
 | -----------| ---------- | ---------- | ---------- |
 |March 2024|[Executable Campaigns - Learn how executables can drive efficiency and impact](https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/executable-campaigns)|Event video |The session is tailored for Marketo admins and campaign operations professionals and focuses on understanding and deploying executable campaigns to add value to campaigns and programs, create efficiencies, and drive growth.|
 
-{style="table-layout:auto"}
+{style="table-layout:auto"} -->
 
 For the latest product documentation, see the [Marketo product documentation](https://experienceleague.adobe.com/en/docs/marketo/using/home) home
 
@@ -807,11 +807,7 @@ See [What's new in [!DNL Advertising Search, Social, & Commerce]](https://experi
 
 +++Details
 
->[!NOTE]
->
->_[!DNL Adobe Primetime]_ is now _[!DNL Adobe Pass]_. You might see both brand names in documentation soon, until the rebrand work is complete.
-
-See [Adobe Pass Release Notes](https://experienceleague.adobe.com/en/docs/pass) to find release-specific information, system requirements, limitations, fixed issues, and known issues.
+See [Adobe Pass Documentation](https://experienceleague.adobe.com/en/docs/pass) to find release-specific information, system requirements, limitations, fixed issues, and known issues.
 
 +++
 
