@@ -838,10 +838,10 @@ New videos, tutorials, or courses published for applications in [!DNL Adobe Crea
 
 +++Details
 
-<!-- | Published | Application | Name | Type | Description |
-| -----------| ---------- | ---------- | ---------- |---------- |
-| April 2024 | [!DNL Firefly] | [Create a Custom Model using a subject](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model-subject) | Video | Learn how to build [!UICONTROL Custom Models] in [!DNL Firefly] to create fresh new imagery for your organization's brand using a specific subject.  |
-| April 2024 | [!DNL Firefly] | [Create a Custom Model using styles](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model-style) | Video | Learn how to build [!UICONTROL Custom Models] in [!DNL Firefly] to create fresh new imagery for your organization's brand using specific types of styles--such as backgrounds, colors, and hues. Custom Models allow you to create relevant, personalized content at scale.  | -->
+|Published|Application|Name|Type|Description |
+| -----------| -----------|---------- | ---------- | ---------- |
+|May 2024|[!DNL Firefly]|[Create reusable scenes for merchandise](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/reusable-scenes)|Video |Learn how to create reusable scenes for merchandise such as handbags and accessories. Creating reusable scenes accelerates digital merchandising by allowing you to refresh your website merchandise seasonally or whenever you choose. |
+|May 2024|[!DNL Firefly]|[Accelerate creative ideation](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas)|Video |Learn how to quickly visualize ideas and explore concepts for business campaigns. Accelerating creative ideation allows organizations to produce high-quality content at a rapid pace. |
 
 See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) for the latest tutorials.
 
