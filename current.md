@@ -596,13 +596,15 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials, courses, a
 
 ### Latest Campaign product releases
 
-* [!DNL Campaign Web Interface]: [What's new](https://experienceleague.adobe.com/en/docs/campaign-web/v8/whats-new) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Campaign] v8: 
 
-* [!DNL Campaign] v8.7.1 - **May 2, 2024**: [Release notes](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
+  * Client Console: [Release notes](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
 
-* [!DNL Campaign Standard] v24.1 - Winter: [Release notes](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes)
+  * Web User Interface: [Release notes](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
 
-* Campaign Classic v7.3.5: [Release notes](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release)
+* [!DNL Campaign Classic] v7: [Release notes](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/campaign-classic-home)
+
+* [!DNL Campaign Standard]: [Release notes](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
 
 * Control Panel: [Release notes](https://experienceleague.adobe.com/en/docs/control-panel/using/release-notes/release-notes) 
 
