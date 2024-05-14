@@ -606,8 +606,6 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials, courses, a
 
 * [!DNL Campaign Standard]: [Release notes](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
 
-* Control Panel: [Release notes](https://experienceleague.adobe.com/en/docs/control-panel/using/release-notes/release-notes) 
-
 <!-- ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
 
 New or updated videos tutorials published for Adobe Campaign.
