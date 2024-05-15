@@ -71,7 +71,7 @@ Updated **May 15, 2024**
 
 * **WORKFRONT** | Coffee Break | _Adobe Workfront Community Q&A Coffee Break: Adobe Business Platform Migration_ | Join Workfront experts on the Community and ask any questions you have about Adobe Business Platform, your organization's migration to Adobe Admin Console, and more! | **May 29 @ 8:00 AM PT** | [Register](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
 
-See [upcoming events](https://experienceleague.adobe.com/events/) or browse [event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
+See more [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
 +++
 
