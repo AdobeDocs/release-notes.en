@@ -27,7 +27,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## May 2024
 
-Latest update: **May 10, 2024**
+Latest update: **May 15, 2024**
 
 * [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
@@ -165,12 +165,12 @@ New videos, tutorials, or courses published for Adobe [!DNL Experience Platform]
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| May 2024 | [!DNL Experience Platform], [!DNL Audience Manager] | [Set up Audience Manager with Platform Web SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/applications-setup/setup-audience-manager) | Article | Learn how to set up Adobe Audience Manager using the Adobe Experience Platform Web SDK and validate the implementation using a cookie destination. |
-| May 2024 | [!DNL Experience Platform], [!DNL Analytics] | [Set up Adobe Analytics with Adobe Experience Platform Web SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/applications-setup/setup-analytics) | Article | Learn how to set up Adobe Analytics using Adobe Experience Platform Web SDK, create tag rules to send data to Adobe Analytics, and validate that Analytics is capturing data as expected. |
-| May 2024 | [!DNL Experience Platform] | [Applications built on Experience Platform](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/intro-to-platform/native-applications) | Video | Learn about the applications built natively on top of Adobe Experience Platform: Customer Journey Analytics, Real-Time Customer Data Platform, Journey Optimizer, and Mix Modeler. |
-| May 2024 | [!DNL Experience Platform], [!DNL Journey Optimizer] | [Set up Journey Optimizer web channel with Web SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/applications-setup/setup-web-channel) | Article | Learn how to implement the Adobe Journey Optimizer web channel using Adobe Experience Platform Web SDK.  |
-| May 2024 | [!DNL Experience Platform], [!DNL Journey Optimizer] | [Set up Decision Management with Platform Web SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/applications-setup/setup-decision-management) | Article | Learn how to implement Adobe Journey Optimizer's Decision Management capability using Platform Web SDK.  |
-| May 2024 | Experience Platform | [Pseudonymous profile and Experience Event expirations](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/data-hygiene/pseudonymous-profile-and-event-expiration) | Video | Learn how to configure expiration settings for pseudonymous profiles and events in Experience Platform and the benefits. |
+| May 2024 | [!DNL Experience Platform], [!DNL Audience Manager] | [Set up [!DNL Audience Manager] with Platform Web SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/applications-setup/setup-audience-manager) | Article | Learn how to set up Adobe Audience Manager using the Adobe Experience Platform Web SDK and validate the implementation using a cookie destination. |
+| May 2024 | [!DNL Experience Platform], [!DNL Analytics] | [Set up Adobe [!DNL Analytics] with Adobe [!DNL Experience Platform] Web SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/applications-setup/setup-analytics) | Article | Learn how to set up Adobe Analytics using Adobe Experience Platform Web SDK, create tag rules to send data to Adobe Analytics, and validate that Analytics is capturing data as expected. |
+| May 2024 | [!DNL Experience Platform] | [Applications built on [!DNL Experience Platform]](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/intro-to-platform/native-applications) | Video | Learn about the applications built natively on top of Adobe Experience Platform: Customer Journey Analytics, Real-Time Customer Data Platform, [!DNL Journey Optimizer], and Mix Modeler. |
+| May 2024 | [!DNL Experience Platform], [!DNL Journey Optimizer] | [Set up [!DNL Journey Optimizer] web channel with Web SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/applications-setup/setup-web-channel) | Article | Learn how to implement the Adobe [!DNL Journey Optimizer] web channel using Adobe Experience Platform Web SDK.  |
+| May 2024 | [!DNL Experience Platform], [!DNL Journey Optimizer] | [Set up Decision Management with Platform Web SDK](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/applications-setup/setup-decision-management) | Article | Learn how to implement Adobe [!DNL Journey Optimizer]'s Decision Management capability using Platform Web SDK.  |
+| May 2024 | [!DNL Experience Platform] | [Pseudonymous profile and Experience Event expirations](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/data-hygiene/pseudonymous-profile-and-event-expiration) | Video | Learn how to configure expiration settings for pseudonymous profiles and events in Experience Platform and the benefits. |
 | May 2024 | Data Collection, [!DNL Experience Platform] | [Stack tag rules](https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/tags/stack-rules) | Video | Learn how to stack rules a tag property. Rule stacking uses the order feature in tag rule events to sequence rules so you can manage scalable tag implementations.  |
 | May 2024 | [!DNL Experience Platform] | [Configure a datastream](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/initial-configuration/configure-datastream) | Article | Learn how to configure a datastream for Adobe Experience Platform Web SDK. |
 | May 2024 | [!DNL Experience Platform] | [Create an XDM schema for web data](https://experienceleague.adobe.com/en/docs/platform-learn/implement-web-sdk/initial-configuration/configure-schemas) | Article | Learn how to create an XDM schema for web data in the Adobe Experience Platform Data Collection interface. |
@@ -223,7 +223,7 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 [!DNL Analytics] release date: **May 15, 2024**
 
-* [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) 
+* [!DNL Analytics] [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html) 
 
 * [!DNL Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/analytics)
 
@@ -270,7 +270,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 [!DNL Customer Journey Analytics] release date: **May 15, 2024**
 
-* [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html)
+* [!DNL Customer Journey Analytics] [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html)
 
 * [!DNL Customer Journey Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/customer-journey-analytics)
 
@@ -320,11 +320,11 @@ Watch the [November 2023 Release Overview video](https://experienceleague.adobe.
 
 ### [!DNL Experience Manager Sites] as a [!DNL Cloud Service] 
 
-_Extension Manager in AEM Sites_
+_Extension Manager in [!DNL AEM Sites]_
 
-Explore the new [Extension Manager in AEM Sites](https://developer.adobe.com/uix/docs/extension-manager/) so you can personalize your AEM setup by configuring UI extensions.
+Explore the new [Extension Manager in [!DNL AEM Sites]](https://developer.adobe.com/uix/docs/extension-manager/) so you can personalize your AEM setup by configuring UI extensions.
 
-The Extension Manager in AEM Sites enables developers and practitioners to access, manage, and customize [UI extensions](https://developer.adobe.com/uix/docs/) built with [Adobe App Builder](https://developer.adobe.com/app-builder/) to enhance the functionality of AEM Sites.
+The Extension Manager in [!DNL AEM Sites] enables developers and practitioners to access, manage, and customize [UI extensions](https://developer.adobe.com/uix/docs/) built with [Adobe App Builder](https://developer.adobe.com/app-builder/) to enhance the functionality of [!DNL AEM Sites].
 
 With the Extension Manager, you can do the following:
 
@@ -456,21 +456,21 @@ New videos, tutorials, or courses published for Experience Manager.
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| May 2024 | AEM Sites | [Cloud 5 season 3](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/cloud5-season-3) | Videos | Season three helps you learn about AEM Edge Delivery service through in-depth interviews with experts who have worked on complicated projects. |
-| May 2024 | AEM Sites | [Cloud 5 - Integrate AEM Assets document authoring](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-integrate-assets) | Video | Explore how to integrate AEM Assets with document authoring to deliver exceptional experiences with Edge Delivery Services. |
-| May 2024 | AEM Sites | [Generate Variations - Prompt templates in Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/prompt-templates) | Video | Explore how to use the generative AI prompt templates in Edge Delivery Services document authoring for generating content variations. |
-| May 2024 | AEM Sites | [Generate Variations - Custom prompt templates in Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/custom-prompt-templates) | Video | Explore how to build the custom prompt templates for Generate Variations in Edge Delivery Services document authoring. |
-| May 2024 | AEM Sites | [Generate Variations - Save custom prompt templates in Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/save-custom-prompt-template) | Video | Explore how to save the generative AI custom prompt templates in Edge Delivery Services document authoring for generating content variations. |
-| May 2024 | AEM Sites | [Configure Sidekick for Generate Variations in Edge Delivery Services](https://experienceleague.corp.adobe.com/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations-sidekick-config.html?lang=en) | Video | Explore how to configure sidekick for Generate Variations in Edge Delivery Services document authoring. |
-| May 2024 | AEM Assets | [Export assets](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/export) | Article | Learn how to export assets to your local machine using a customizable `Node.js` script. This export script provides an example of how to programmatically download assets from AEM using AEM Assets HTTP APIs, specifically focusing on the original renditions to ensure the highest quality.  |
-| May 2024 | AEM Forms | [Using GuideBridge API to POST form data](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/core-component-based-forms/submit-data-using-guidebridge-api) | Article | Use [!UICONTROL Save and Resume] for a form to save the progress of filling out the form and resume it later. |
-| May 2024 | AEM Sites | [Generative AI in AEM Sites](https://experienceleague.corp.adobe.com/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-generative-ai-for-aem-sites.html) | Video | Explore the new Generative AI features available in AEM Sites document authoring.  |
-| May 2024 | AEM Forms | [Fill out a PDF form using ChatBot](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/chatbot-and-aem-forms/introduction) | Video | Learn how to fill out a PDF form using Chatbot. |
+| May 2024 | [!DNL AEM Sites] | [Cloud 5 season 3](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/cloud5-season-3) | Videos | Season three helps you learn about AEM Edge Delivery service through in-depth interviews with experts who have worked on complicated projects. |
+| May 2024 | [!DNL AEM Sites] | [Cloud 5 - Integrate [!DNL AEM Assets] document authoring](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-integrate-assets) | Video | Explore how to integrate [!DNL AEM Assets] with document authoring to deliver exceptional experiences with Edge Delivery Services. |
+| May 2024 | [!DNL AEM Sites] | [Generate Variations - Prompt templates in Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/prompt-templates) | Video | Explore how to use the generative AI prompt templates in Edge Delivery Services document authoring for generating content variations. |
+| May 2024 | [!DNL AEM Sites] | [Generate Variations - Custom prompt templates in Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/custom-prompt-templates) | Video | Explore how to build the custom prompt templates for Generate Variations in Edge Delivery Services document authoring. |
+| May 2024 | [!DNL AEM Sites] | [Generate Variations - Save custom prompt templates in Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/save-custom-prompt-template) | Video | Explore how to save the generative AI custom prompt templates in Edge Delivery Services document authoring for generating content variations. |
+| May 2024 | [!DNL AEM Sites] | [Configure Sidekick for Generate Variations in Edge Delivery Services](https://experienceleague.adobe.com/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations-sidekick-config.html?lang=en) | Video | Explore how to configure sidekick for Generate Variations in Edge Delivery Services document authoring. |
+| May 2024 | [!DNL AEM Assets] | [Export assets](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/export) | Article | Learn how to export assets to your local machine using a customizable `Node.js` script. This export script provides an example of how to programmatically download assets from AEM using [!DNL AEM Assets] HTTP APIs, specifically focusing on the original renditions to ensure the highest quality.  |
+| May 2024 | [!DNL AEM Forms] | [Using GuideBridge API to POST form data](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/core-component-based-forms/submit-data-using-guidebridge-api) | Article | Use [!UICONTROL Save and Resume] for a form to save the progress of filling out the form and resume it later. |
+| May 2024 | [!DNL AEM Sites] | [Generative AI in [!DNL AEM Sites]](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-generative-ai-for-aem-sites.html) | Video | Explore the new Generative AI features available in [!DNL AEM Sites] document authoring.  |
+| May 2024 | [!DNL AEM Forms] | [Fill out a PDF form using ChatBot](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/chatbot-and-aem-forms/introduction) | Video | Learn how to fill out a PDF form using Chatbot. |
 | May 2024 | AEM Headless | [Protecting content in AEM Headless](https://experienceleague.adobe.com/en/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/protected-content) | Article | Learn how to protect content in AEM Headless. |
 | May 2024 | AEM CS | [Advanced networking](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/networking/advanced-networking) | Article | Learn about AEM as a Cloud Service's advanced networking options. |
 | May 2024 | AEM CS | [Flexible port egress](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/networking/flexible-port-egress) | Video | Learn how to set up and use flexible port egress to support external connections from AEM as a Cloud Service to external services. |
-| May 2024 | AEM Assets | [AEM Assets and Adobe Express](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/creative-workflows/adobe-express) | Video | Discover how to effortlessly create and edit content within Adobe Experience Manager Assets using Adobe Express.  |
-| May 2024 | AEM Assets | [Metadata-Driven Permissions](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/advanced/metadata-driven-permissions) | Article | Learn to restrict access based on asset metadata properties rather than folder structure. |
+| May 2024 | [!DNL AEM Assets] | [[!DNL AEM Assets] and Adobe Express](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/creative-workflows/adobe-express) | Video | Discover how to effortlessly create and edit content within Adobe Experience Manager Assets using Adobe Express.  |
+| May 2024 | [!DNL AEM Assets] | [Metadata-Driven Permissions](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/advanced/metadata-driven-permissions) | Article | Learn to restrict access based on asset metadata properties rather than folder structure. |
 | May 2024 | AEM CS | [Blocking DoS and DDoS attacks using traffic filter rules](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/blocking-dos-attack-using-traffic-filter-rules) | Article | Learn how to block Denial of Service (DoS) and Distributed Denial of Service (DDoS) attacks using rate limit traffic filter rules and other strategies at the AEM as a Cloud Service (AEMCS) managed CDN.  |
 
 {style="table-layout:auto"}
@@ -532,7 +532,7 @@ Get access to release notes, new tutorials, and Knowledge Base articles for [!DN
 +++Details
 
 * See [Release notes for [!DNL Adobe Commerce] and [!DNL Magento Open Source]](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview) to stay current.
-* See [Adobe Commerce Services Guides](https://experienceleague.adobe.com/en/docs/commerce-merchant-services/user-guides/home) to see Commerce Services release information and documentation.
+* See [Adobe [!DNL Commerce] Services Guides](https://experienceleague.adobe.com/en/docs/commerce-merchant-services/user-guides/home) to see Commerce Services release information and documentation.
 * See [Product Availability](https://experienceleague.adobe.com/en/docs/commerce-operations/release/product-availability) to access individual product release notes and verify availability.
 
 ### New tutorials for [!DNL Adobe Commerce] {#tutorials-commerce}
@@ -544,9 +544,9 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 |May 2024|[Starter kit demo for back office integrations](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/back-office-integration-starter-kit/starter-kit-demo)|Video |Learn about the Adobe Commerce back office integration starter kit. This video tutorial shows the entire process for this sample integration.|
 |May 2024|[Reports and dashboards](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/mbi/reports-and-dashboards)|Video |Learn about the different report builder options, and how to read and understand the original reports. Learn how to manage dashboards, filter them and why you should make duplicates instead of modifying the original.|
 |May 2024|[Commerce Cloud Pre-Launch Checklist](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/commerce-cloud-best-practices/pre-launch-checklist)|Article |Learn about the Adobe Commerce Cloud pre-launch checklist.|
-|May 2024|[Lowering the TOC for Adobe Commerce integrations](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/enablement-series/lower-total-cost-of-owership-commerce-integrations)|Video |Learn about methods to lower the cost of ownership for integrations with Adobe Commerce. This webinar discusses the challenges and costs associated with integrations, the importance of reducing technical debt, and the benefits of using extension points provided by Adobe Commerce.|
-|May 2024|[Planning the modern Adobe Commerce implementation](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/enablement-series/planning-the-modern-adobe-commerce-implementation)|Video |Get a comprehensive overview of various topics related to Adobe Commerce, including catalog service, understanding customer architecture, and Edge Delivery Services.|
-|May 2024|[Launch, monitoring, and troubleshooting Adobe Commerce Cloud](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/enablement-series/launch-post-launch-monitoring-and-troubleshooting)|Video |Learn a few of the best practices and tips for preparing and launching a website. This video emphasizes the importance of selecting the appropriate staging environment and providing accurate details in support tickets to facilitate effective communication with the support team.|
+|May 2024|[Lowering the TOC for Adobe [!DNL Commerce] integrations](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/enablement-series/lower-total-cost-of-owership-commerce-integrations)|Video |Learn about methods to lower the cost of ownership for integrations with Adobe Commerce. This webinar discusses the challenges and costs associated with integrations, the importance of reducing technical debt, and the benefits of using extension points provided by Adobe Commerce.|
+|May 2024|[Planning the modern Adobe [!DNL Commerce] implementation](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/enablement-series/planning-the-modern-adobe-commerce-implementation)|Video |Get a comprehensive overview of various topics related to Adobe Commerce, including catalog service, understanding customer architecture, and Edge Delivery Services.|
+|May 2024|[Launch, monitoring, and troubleshooting Adobe [!DNL Commerce] Cloud](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/enablement-series/launch-post-launch-monitoring-and-troubleshooting)|Video |Learn a few of the best practices and tips for preparing and launching a website. This video emphasizes the importance of selecting the appropriate staging environment and providing accurate details in support tickets to facilitate effective communication with the support team.|
 
 {style="table-layout:auto"}
 
@@ -600,7 +600,7 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials, courses, a
 
   * Client Console: [Release notes](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
 
-  * Web User Interface: [Release notes](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
+  * [!DNL Web User Interface]: [Release notes](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
 
 * [!DNL Campaign Classic] v7: [Release notes](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/campaign-classic-home)
 
@@ -646,23 +646,23 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 ### Latest [!DNL Journey Optimizer] product releases
 
-Learn about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes).
+**April 2024 release:** Learn about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes).
 
-### New Journey Optimizer tutorials and courses {#tutorials-ajo}
+### New [!DNL Journey Optimizer] tutorials and courses {#tutorials-ajo}
 
-New videos, tutorials, or courses published for Adobe Journey Optimizer.
+New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|May 2024|[Create actions](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/journey-configuration/create-actions.html)|Video |Learn what an action is, how to use the Edit Profile and Jump action in Journey Optimizer, and how to configure a custom action.|
+|May 2024|[Create actions](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/journey-configuration/create-actions.html)|Video |Learn what an action is, how to use the Edit Profile and Jump action in [!DNL Journey Optimizer], and how to configure a custom action.|
 |May 2024|[Import and author HTML email content with the message editor](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content)|Video |Learn how to import existing HTML content, tweak the design, add mirror page and unsubscribe links, and how to code your content.|
-|May 2024|[Configure MMS API credentials and channel surfaces](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/configure-mms-api-credentials-and-channel-surfaces)|Video |Learn how to connect Journey Optimizer to an MMS service provider and how to create an MMS channel surface.|
+|May 2024|[Configure MMS API credentials and channel surfaces](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/configure-mms-api-credentials-and-channel-surfaces)|Video |Learn how to connect [!DNL Journey Optimizer] to an MMS service provider and how to create an MMS channel surface.|
 |May 2024|[Create a code-based experience campaign](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/code-based-experience-channel/create-a-code-based-experience-campaign)|Video |Learn how to create a code-based experience campaign to scale personalization with support for server-side, API-based, or SDK-based implementation methods to seamlessly integrate with development environments.|
 |May 2024|[Discover the new Journey Designer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/new-journey-designer)|Video |Discover the new redesigned journey canvas and how to leverage live reporting in journeys.|
 
 ### More resources for [!DNL Journey Optimizer]
 
-* [Journey Optimizer documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/ajo-home) - [Release rotes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) - [How-to videos](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/overview)
+* [[!DNL Journey Optimizer] documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/ajo-home) - [Release rotes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) - [How-to videos](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/overview)
 * [Decision Management documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning) - [Release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) - [How-to videos](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management) - [Latest documentation updates](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/documentation-updates)
 
 +++
@@ -818,10 +818,10 @@ New tutorials and courses published for [!DNL Document Cloud], including [!DNL A
 
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| May 2024 | Acrobat Services | [Automate document generation](https://experienceleague.adobe.com/en/docs/acrobat-services-learn/tutorials/docgen/automate-doc-gen) | Video | Learn how to automatically generate documents at scale by calling the Document Generation API using the Adobe PDF Services Connector in Microsoft Power Automate. |
-| May 2024 | Acrobat Services | [Automatically tag documents for accessibility](https://experienceleague.adobe.com/en/docs/acrobat-services-learn/tutorials/pdfaccessibility/automatically-add-tags) | Video | Learn how to automatically tag for accessibility at scale using AI. Automatically tagging reduces the time and cost required to reach compliance. |
-| May 2024 | Acrobat Services | [Automate content extraction](https://experienceleague.adobe.com/en/docs/acrobat-services-learn/tutorials/pdfextract/automate-content-extraction) | Video | Learn how to automate the extraction of content from a PDF document using the PDF Extract API. Extracting PDF content helps unlock critical business data, which can then be used for a variety of downstream processes. |
-| May 2024 | Acrobat Services | [Automatically apply an electronic seal](https://experienceleague.adobe.com/en/docs/acrobat-services-learn/tutorials/eseal/automatically-apply-electronic-seal) | Video | Learn how to apply a tamper-evident electronic seal to PDFs at scale using a cloud-based third-party digital certificate.  |
+| May 2024 | [!DNL Acrobat Services] | [Automate document generation](https://experienceleague.adobe.com/en/docs/acrobat-services-learn/tutorials/docgen/automate-doc-gen) | Video | Learn how to automatically generate documents at scale by calling the Document Generation API using the Adobe PDF Services Connector in Microsoft Power Automate. |
+| May 2024 | [!DNL Acrobat Services] | [Automatically tag documents for accessibility](https://experienceleague.adobe.com/en/docs/acrobat-services-learn/tutorials/pdfaccessibility/automatically-add-tags) | Video | Learn how to automatically tag for accessibility at scale using AI. Automatically tagging reduces the time and cost required to reach compliance. |
+| May 2024 | [!DNL Acrobat Services] | [Automate content extraction](https://experienceleague.adobe.com/en/docs/acrobat-services-learn/tutorials/pdfextract/automate-content-extraction) | Video | Learn how to automate the extraction of content from a PDF document using the PDF Extract API. Extracting PDF content helps unlock critical business data, which can then be used for a variety of downstream processes. |
+| May 2024 | [!DNL Acrobat Services] | [Automatically apply an electronic seal](https://experienceleague.adobe.com/en/docs/acrobat-services-learn/tutorials/eseal/automatically-apply-electronic-seal) | Video | Learn how to apply a tamper-evident electronic seal to PDFs at scale using a cloud-based third-party digital certificate.  |
 
 For [!DNL Document Cloud] tutorials, see:
 
