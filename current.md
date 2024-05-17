@@ -65,7 +65,7 @@ Updated **May 15, 2024**
 
 +++Details
 
-* **WORKFRONT** | Q & A chat | _Ask the Experts: Staffing Your Admin Practice - Webinar Follow-up_ | Join your peers and our experts from Dell and Adobe on our webinar follow-up event to continue the conversation on staffing your admin practice. | **May 16 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,GXUvIFWKiEanOME_WMN1Hw,BMP5cgCS5UOxsAdDHNDUyw,RoMIPwb8AkKNMLe_k5S2ww?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **REAL-TIME CUSTOMER DATA PLATFORM AND TARGET** | Webinar | _The Perfect Blend: RTCDP, Target, and Friends_ | Join Senior Solutions Consultant, Josh Kimball, as he shares how RTCDP unifies cross-channel data into customer profiles and seamlessly connects to Adobe Target to activate a personalized strategy for these segments. | **May 23 @ 1:00 AM ET** | [Register](https://adobeevents.adobeconnect.com/ev550gaxnx7r/event/registration.html?campaign-id=ExL)
 
 * **WORKFRONT** | Community event | _Adobe Workfront Industry Circle: Retail_ | If you are a Workfront customer in Retail and are interested in collective problem solving and sharing learnings with other admins, join us for a 1-hour open discussion, led by admins from DSW and Nordstrom. | **May 23 @ 11:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,vFfS8Q7qMUCtqS73wkJMig,sz-whm3Hyka_fhpfall8TA,DCY8aPpdN069tKqlYeJMyQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
