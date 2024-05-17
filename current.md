@@ -61,7 +61,7 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 ### Events on Experience League 
 
-Updated **May 15, 2024**
+Updated **May 17, 2024**
 
 +++Details
 
@@ -70,6 +70,10 @@ Updated **May 15, 2024**
 * **WORKFRONT** | Community event | _Adobe Workfront Industry Circle: Retail_ | If you are a Workfront customer in Retail and are interested in collective problem solving and sharing learnings with other admins, join us for a 1-hour open discussion, led by admins from DSW and Nordstrom. | **May 23 @ 11:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,vFfS8Q7qMUCtqS73wkJMig,sz-whm3Hyka_fhpfall8TA,DCY8aPpdN069tKqlYeJMyQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **WORKFRONT** | Coffee Break | _Adobe Workfront Community Q&A Coffee Break: Adobe Business Platform Migration_ | Join Workfront experts on the Community and ask any questions you have about Adobe Business Platform, your organization's migration to Adobe Admin Console, and more! | **May 29 @ 8:00 AM PT** | [Register](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
+
+* **WORKFRONT** | Webinar | _Wake Up with Workfront: Optimize & Maintain Your Environment_ | Join Adobe's Business Advisors as they share insights to optimize your work management environment in Adobe Workfront through clean-up and training strategies, implementation plans, and continuous improvement practices. | **June 6 @ 1:00 PM ET** | [Register](https://adobeevents.adobeconnect.com/e9nff5afn9gr/event/registration.html?campaign-id=ExL)
+
+* **WORKFRONT** | Community event | _Connect: Admin Chat for Marketing & Creative_ | Are you a system admin for a marketing or creative team? This customer-driven session will connect you with other admins to discuss best practices as well as tips and tricks. | **June 7 @ 9:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KyjOwAGj_USpALk5Js5HDw,8bpwiT-VHkKc85B9WBuDIA,IRnBiA6r006OKoJtEKx3Vw?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 See more [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
