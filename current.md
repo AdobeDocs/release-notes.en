@@ -26,7 +26,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## May 2024
 
-Latest update: **May 16, 2024**
+Latest update: **May 28, 2024**
 
 * [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
@@ -34,8 +34,8 @@ Latest update: **May 16, 2024**
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (releasing **May 15**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (releasing **May 15**)
+* [[!DNL Adobe Analytics]](#analytics) (released **May 15**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (released **May 15**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem) 
 * [[!DNL Adobe Commerce]](#commerce)
@@ -61,10 +61,11 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 ### Events on Experience League 
 
-Updated **May 24, 2024**
+Updated **May 28, 2024**
 
 +++Details
 
+* **EXPERIENCES BY YOU** | Videos | _Experiences by You_ features content created by everyday users who have attained a level of expertise and influence with their Adobe DX solutions. find the inspiration needed to level up your product expertise. | [Available on-demand](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/overview)
 * **WORKFRONT** | Coffee Break | _Adobe Workfront Community Q&A Coffee Break: Adobe Business Platform Migration_ | Join Workfront experts on the Community and ask any questions you have about Adobe Business Platform, your organization's migration to Adobe Admin Console, and more! | **May 29 @ 8:00 AM PT** | [Register](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
 
 * **WORKFRONT** | Webinar | _Wake Up with Workfront: Optimize & Maintain Your Environment_ | Join Adobe's Business Advisors as they share insights to optimize your work management environment in Adobe Workfront through clean-up and training strategies, implementation plans, and continuous improvement practices. | **June 6 @ 1:00 PM ET** | [Register](https://adobeevents.adobeconnect.com/e9nff5afn9gr/event/registration.html?campaign-id=ExL)
