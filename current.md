@@ -26,9 +26,9 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## May 2024
 
-Latest update: **May 28, 2024**
+Latest update: **May 30, 2024**
 
-* [[!DNL Experience League] events and updates](#events)
+* [[!DNL Experience League] events and updates](#events) (**May 30**)
 * [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
@@ -61,16 +61,19 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 ### Events on Experience League 
 
-Updated **May 28, 2024**
+Updated **May 30, 2024**
 
 +++Details
 
 * **EXPERIENCES BY YOU** | Videos | _Experiences by You_ features content created by everyday users who have attained a level of expertise and influence with their Adobe DX solutions. find the inspiration needed to level up your product expertise. | [Available on-demand](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/overview)
-* **WORKFRONT** | Coffee Break | _Adobe Workfront Community Q&A Coffee Break: Adobe Business Platform Migration_ | Join Workfront experts on the Community and ask any questions you have about Adobe Business Platform, your organization's migration to Adobe Admin Console, and more! | **May 29 @ 8:00 AM PT** | [Register](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
 
 * **WORKFRONT** | Webinar | _Wake Up with Workfront: Optimize & Maintain Your Environment_ | Join Adobe's Business Advisors as they share insights to optimize your work management environment in Adobe Workfront through clean-up and training strategies, implementation plans, and continuous improvement practices. | **June 6 @ 1:00 PM ET** | [Register](https://adobeevents.adobeconnect.com/e9nff5afn9gr/event/registration.html?campaign-id=ExL)
 
 * **WORKFRONT** | Community event | _Connect: Admin Chat for Marketing & Creative_ | Are you a system admin for a marketing or creative team? This customer-driven session will connect you with other admins to discuss best practices as well as tips and tricks. | **June 7 @ 9:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,1qnTSsu1BE6bJ4ijFsYafg,COdPeWL3z0qsME9nhjnRwg,KyjOwAGj_USpALk5Js5HDw,8bpwiT-VHkKc85B9WBuDIA,IRnBiA6r006OKoJtEKx3Vw?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **COMMERCE** | Webinar | _Behind the Brew: Adobe Commerce Intelligence (fka MBI)_ | Join us for a deep dive of Adobe Commerce Intelligence (formerly Magento Business Intelligence), a powerful tool designed to transform your eCommerce data into actionable insights through custom dashboards and reports. | **June 11 @ 1:00 PM ET** | [Register](https://adobeevents.adobeconnect.com/ex795wtgzy1v/event/registration.html?campaign-id=ExL)
+
+* **MARKETO ENGAGE** | Coffee Break | _Generative AI Capabilities for Adobe Dynamic Chat_ | Don't miss this opportunity to ask our experts all about the newly added capabilities for Adobe Dynamic Chat, which enables freeform, two-way conversations in your chatbot and more! | **June 12 @ 8:00 AM PT** | [Register](https://mugs.marketo.com/events/details/marketo-marketo-coffee-breaks-presents-adobe-marketo-engage-community-coffee-break-gen-ai-for-dynamic-chat/)
 
 See more [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
