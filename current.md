@@ -353,6 +353,8 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 |May 2024|[Unable to create a package using [!DNL CURL] in build 15977/16145](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24225)|New article| Learn about the issue of users being unable to create or update packages using [!DNL CURL] commands in [!DNL Adobe Experience Manager as a Cloud Service (AEMaaCS)] after recent platform updates.|
 |May 2024|[[!DNL Splunk] logs aren't parsed correctly](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24176)|New article| Learn about the common symptoms of the issue and the steps to correct the log entry format for proper parsing in [!DNL Splunk].|
 |May 2024|[Unable to create [!UICONTROL Viewer Presets] in [!DNL AEMaaCS]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24149)|New article| Learn about the steps to resolve the issue of not being able to view and create new [!UICONTROL Viewer Presets] in [!DNL Adobe Experience Manager as a Cloud Service (AEMaaCS)].|
+|May 2024|[[!DNL Dynamic Media] assets are not published with the correct `scene7FileStatus` metadata attribute](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24318)|New article| Learn about the solution to the issue when [!DNL Dynamic Media] assets aren't published with the correct `scene7FileStatus` metadata attribute in [!DNL AEM].|
+|May 2024|[Unexpected image missing or broken links after asset move and publish in [!DNL Adobe Experience Manager]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24285)|New article| Learn about the issue in [!DNL AEM] when you publish assets before the move operation fully completes, it may result in images going missing or links breaking on the published pages.|
 
 {style="table-layout:auto"}
 
@@ -460,6 +462,7 @@ New articles and updates to existing articles for [!DNL Campaign].
 |May 2024|[Circular dependency on [!UICONTROL schema extension] error](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24175)|New article| Learn about the solution to the issue when the [!DNL Adobe Campaign Classic] error:  circular dependency on [!UICONTROL schema extension] `nms:recipient`.|
 |May 2024|[Production subdomains are listed under stage instance in [!UICONTROL Control Panel]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24167)|New article| Learn about the solution steps to fix the [!DNL Adobe Campaign] issue where production subdomains are displayed even under stage instance in the [!UICONTROL Control Panel].|
 |May 2024|[Difference between [!DNL SMS] delivery statuses: [!UICONTROL Sent, Sent to the provider], and [!UICONTROL Received on Mobile]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24025)|New article| Learn about the [!DNL out-of-the-box] delivery status documentation.|
+|May 2024|[[!DNL Adobe Campaign Standard]: Users not removed from [!DNL Adobe Campaign] [!UICONTROL Security Groups]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24286)|New article| Learn how to remove disabled users from the workflow supervisors groups in [!DNL ACS].|
 
 {style="table-layout:auto"}
 
