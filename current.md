@@ -158,9 +158,9 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 * [[!DNL Experience Platform] Mobile SDK release notes](https://developer.adobe.com/client-sdks/documentation/release-notes/)
 
-### New [!DNL Experience Platform] tutorials and courses{#tutorials-aep}
+### New [!DNL Experience Platform] tutorials{#tutorials-aep}
 
-New videos, tutorials, or courses published for Adobe [!DNL Experience Platform].
+New tutorials published for Adobe [!DNL Experience Platform] on Experience League.
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
@@ -216,7 +216,7 @@ Find the latest tutorials for [!DNL Real-Time Customer Data Platform] on Experie
 
 ## ![Icon](/assets/analytics.png) [!DNL Analytics] {#analytics}
 
-Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeasurement]. View new tutorials and courses on Experience League.
+Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeasurement]. View new tutorials Experience League.
 
 +++Details
 
@@ -232,9 +232,9 @@ Release version: **2.26.0**
 
 * [AppMeasurement for JavaScript release notes](https://experienceleague.adobe.com/en/docs/analytics/implementation/appmeasurement-updates)
 
-### New [!DNL Analytics] tutorials and courses {#tutorials-analytics}
+### New [!DNL Analytics] tutorials {#tutorials-analytics}
 
-New or updated videos, tutorials, or courses published for Adobe Analytics.
+New tutorials published for Adobe [!DNL Analytics] on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
@@ -262,7 +262,7 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 ## ![Icon](/assets/analytics.png) [!DNL Customer Journey Analytics] {#cja}
 
-Find the latest release information for [!DNL Customer Journey Analytics]. View new tutorials and courses on Experience League.
+Find the latest release information for [!DNL Customer Journey Analytics]. View new tutorials on Experience League.
 
 +++Details
 
@@ -272,9 +272,9 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 * [!DNL Customer Journey Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/customer-journey-analytics)
 
-<!-- ### New [!DNL Customer Journey Analytics] tutorials and courses {#tutorials-cja}
+<!-- ### New [!DNL Customer Journey Analytics] tutorials {#tutorials-cja}
 
-New videos, tutorials, or courses published for [!DNL Customer Journey Analytics].
+New tutorials published for [!DNL Customer Journey Analytics].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
@@ -288,7 +288,7 @@ New videos, tutorials, or courses published for [!DNL Customer Journey Analytics
 
 ## ![Icon](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
-Find the latest release information for [!DNL Streaming Media Analytics]. View new tutorials and courses on Experience League.
+Find the latest release information for [!DNL Streaming Media Analytics]. View new tutorials on Experience League.
 
 +++Details
 
@@ -318,9 +318,9 @@ All [!DNL Experience Manager] release notes are maintained at the following page
 * [Experience Manager Desktop App release notes](https://experienceleague.adobe.com/en/docs/experience-manager-desktop-app/using/release-notes)
 * [Experience Manager Dispatcher release notes](https://experienceleague.adobe.com/en/docs/experience-manager-dispatcher/using/getting-started/release-notes)
 
-### New [!DNL Experience Manager] tutorials and courses {#tutorials-aem}
+### New [!DNL Experience Manager] tutorials {#tutorials-aem}
 
-New videos, tutorials, or courses published for Experience Manager.
+New tutorials published for [!DNL Experience Manager] on Experience Manager.
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
@@ -422,7 +422,7 @@ Get access to pre-release notes, current release notes, and new tutorials for [!
 
 ## ![Icon](/assets/campaign.png) [!DNL Campaign] {#ac}
 
-Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials, courses, and Knowledge Base support articles on Experience League.
+Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials and Knowledge Base support articles on Experience League.
 
 +++Details
 
@@ -438,7 +438,7 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials, courses, a
 
 * [!DNL Campaign Standard]: [Release notes](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
 
-<!-- ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
+<!-- ### New [!DNL Campaign] tutorials {#tutorials-campaign}
 
 New or updated videos tutorials published for Adobe Campaign.
 
@@ -483,9 +483,9 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 **April 2024 release:** Learn about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes).
 
-### New [!DNL Journey Optimizer] tutorials and courses {#tutorials-ajo}
+### New [!DNL Journey Optimizer] tutorials {#tutorials-ajo}
 
-New videos, tutorials, or courses published for Adobe [!DNL Journey Optimizer].
+New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
@@ -535,9 +535,9 @@ Find out the latest release notes and release schedule for [!DNL Marketo Engage]
 * See [June 2024 - current release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current) for the latest information
 * See [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/release-schedule) for the latest release schedule information and release notes.
 
-<!-- ### New Marketo tutorials and courses {#tutorials-marketo}
+<!-- ### New Marketo tutorials {#tutorials-marketo}
 
-New videos, tutorials, or courses published for Adobe Marketo.
+New tutorials published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
@@ -571,7 +571,7 @@ Learn about the latest release notes for [!DNL Adobe Workfront]. Find new tutori
 
 * See the [Adobe Workfront Fusion release activity overview](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/fusion-release/fusion-release-activity) for the latest information about Fusion.
 
-### New Adobe [!DNL Workfront] courses and tutorials {#tutorials-workfront}
+### New Adobe [!DNL Workfront] tutorials {#tutorials-workfront}
 
 New [!DNL Workfront] tutorials and events on Experience League.
 
@@ -647,7 +647,7 @@ See [Adobe Pass Documentation](https://experienceleague.adobe.com/en/docs/pass) 
 
 ## ![Icon](/assets/document-cloud-24.png) [!DNL Document Cloud] {#doc-cloud}
 
-New tutorials and courses published for [!DNL Document Cloud], including [!DNL Acrobat Services] and [!DNL Acrobat Sign].
+New tutorials published for [!DNL Document Cloud], including [!DNL Acrobat Services] and [!DNL Acrobat Sign].
 
 +++Details
 
@@ -669,7 +669,7 @@ For [!DNL Document Cloud] tutorials, see:
 
 ## ![Icon](/assets/creative-cloud-24.png) [!DNL Creative Cloud] for enterprise {#creative-cloud}
 
-New videos, tutorials, or courses published for applications in [!DNL Adobe Creative Cloud for enterprise].
+New tutorials published for applications in [!DNL Adobe Creative Cloud for enterprise].
 
 +++Details
 
