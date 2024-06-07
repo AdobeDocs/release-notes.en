@@ -66,11 +66,11 @@ Updated **June 7, 2024**
 
 +++Details
 
-* **WORKFRONT** | Q & A chat | _Ask the Experts: Staffing Your Admin Practice - Webinar Follow-up_ | Join your peers and our experts from Dell and Adobe on our webinar follow-up event to continue the conversation on staffing your admin practice. | **May 16 @ 8:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,GXUvIFWKiEanOME_WMN1Hw,BMP5cgCS5UOxsAdDHNDUyw,RoMIPwb8AkKNMLe_k5S2ww?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **CREATIVE CLOUD, EXPERIENCE MANAGER, AND WORKFRONT** | Q & A chat | _Ask: Building the Content Supply Chain with Workfront, Creative Cloud, and AEM_ | Join Adobe Customer Success teams and City National Bank for a 1-hour interview-style discussion on best practices, benefits, and driving value with Workfront, Creative Cloud, and AEM integrations. | **June 18 @ 10:30 AM PT** | [Register](https://events.teams.microsoft.com/event/ff76e5c9-8c8c-4dc4-927c-902a446215b7@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **WORKFRONT** | Community event | _Adobe Workfront Industry Circle: Retail_ | If you are a Workfront customer in Retail and are interested in collective problem solving and sharing learnings with other admins, join us for a 1-hour open discussion, led by admins from DSW and Nordstrom. | **May 23 @ 11:00 AM PT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,vFfS8Q7qMUCtqS73wkJMig,sz-whm3Hyka_fhpfall8TA,DCY8aPpdN069tKqlYeJMyQ?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **MARKETO MEASURE** | Webinar | _Marketo Measure & Mochas: Activities & Custom Models_ | Join Adobe Marketo Measure experts as they share how to use Custom Attribution Models and Activities Attribution to align your Sales and Marketing data using touch-points directly from your CRM Activity records. | **June 20 @ 1:00 PM ET** | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5696306635/event_landing.html?sco-id=5696306640&campaign-id=ExL&_charset_=utf-8)
 
-* **WORKFRONT** | Coffee Break | _Adobe Workfront Community Q&A Coffee Break: Adobe Business Platform Migration_ | Join Workfront experts on the Community and ask any questions you have about Adobe Business Platform, your organization's migration to Adobe Admin Console, and more! | **May 29 @ 8:00 AM PT** | [Register](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-wednesday-may-29th-at-8am-pt-best/ev-p/668763)
+* **WORKFRONT** | Customer workshop | _Learn: Prioritizing and Strategically Planning Work in Workfront_ | Join the Workfront Customer Success Team to learn best practices for annual planning, how to create a formal process for prioritization, and recommended views to surface project data to ensure overall alignment. | **June 25 @ 9:30 AM PT** | [Register](https://events.teams.microsoft.com/event/f765ea5b-c5a6-41d1-ac0d-ffea34ae1b11@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 See [upcoming events](https://experienceleague.adobe.com/events/) or browse [event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
@@ -114,21 +114,9 @@ Learn about the latest features and updates in [!DNL Adobe System Status].
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
-Release date: **April 11, 2024**
-
-**What's new**
-
-* Subscription Help page
-* Notification improvements
-
-| Feature | Description |
-| ------- | ------- |
-| Subscription Help page | <ul><li>A dedicated help page to guide new subscribers in setting up their proactive notification profile and preferences.</li><li>Adobe Status overview page > Help menu has a new menu item ([!UICONTROL How to subscribe]) that points to this new page.</li><li>All the Adobe surfaces that reference [!DNL Adobe Status] subscriptions are now pointing to the new help page.</li></ul> |
-| Notification improvements | <ul><li>Improved CSO closed notifications via email and Slack</li></ul> |
-| Bug fixes | <ul><li>Better environment filters on Adobe Connect, Adobe Marketo and Adobe Sign product pages.</li><li>Clicks on the 40-day history grid lands on the respective day and with relevant events for that day.</li><li>Interface improvements</li></ul> |
-
 For recent release notes, see:
 
+* [May 15, 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/05152024)
 * [January 30, 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/02142024)
 * [October 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/10042023)
 * [August 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/08092023)
@@ -199,9 +187,9 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 +++Details
 
-[!DNL Analytics] release date: **May 15, 2024**
+[!DNL Analytics] release date: **June 13, 2024**
 
-* [!DNL Analytics] [release notes](https://experienceleague.adobe.com/docs/analytics/release-notes/latest.html) 
+* [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html?lang=en) 
 
 * [!DNL Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/analytics)
 
@@ -218,7 +206,7 @@ New tutorials published for Adobe [!DNL Analytics] on Experience League.
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |June 2024|[Create product profiles in the Experience Cloud Admin Console](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/administration/user-management/create-product-profiles)|Video |Create Analytics product profiles in the Experience Cloud Admin Console to manage access to report suites, metrics, dimensions, and tools.|
-|June 2024|[A strategic guide to implementing Web SDK](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/analytics/implementation/strategic-guide-to-implementing-web-sdk)|_Experiences by You_ - Article |Download our strategic guide to implementing Web SDK for optimized web performance, efficient tag management, Adobe-side processing, server-side third-party tag integration, support for cookie-less environments, and improved data quality in today's digital landscape.|
+|June 2024|[A strategic guide to implementing the Web SDK](https://experienceleague.adobe.com/en/docs/experiences-by-you/experiences-by-you/analytics/implementation/strategic-guide-to-implementing-web-sdk)|_Experiences by You_ - Article |Download our strategic guide to implementing Web SDK for optimized web performance and efficient tag management. You can get Adobe-side processing, server-side third-party tag integration, support for cookie-less environments, and improved data quality in today's digital landscape.|
 |June 2024|[Activity Map overview in Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/activity-map/activity-map-overview)|Video |Learn about Activity Map, a tool to help you visualize user activity data directly on your web site. See the number of clicks or other metrics directly on the links of your page.|
 |June 2024|[Send Data Warehouse reports in Tableau Data Extract](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract)|Updated video |Learn how Data Warehouse can deliver reports in Tableau Data Extract (TDE) file format to let you democratize and combine data from outside Adobe Analytics.|
 
@@ -244,7 +232,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 [!DNL Customer Journey Analytics] release date: **May 15, 2024**
 
-* [!DNL Customer Journey Analytics] [release notes](https://experienceleague.adobe.com/docs/analytics-platform/using/releases/latest.html)
+* [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en#releases)
 
 * [!DNL Customer Journey Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/customer-journey-analytics)
 
@@ -296,7 +284,7 @@ New tutorials published for [!DNL Experience Manager] on Experience Manager.
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| June 2024 | AEM Assets | [Contextual search](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/contextual-search) | Video | Learn how to use Contextual Search in Adobe Experience Manager Assets to efficiently find assets with natural language queries. |
+| June 2024 | AEM Assets | [Contextual search](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/contextual-search) | Video | Learn how to use Contextual Search in Adobe Experience Manager Assets to find assets with natural language queries. |
 | June 2024 | AEM Assets | [Adobe Express integration with AEM Assets](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/creative-workflows/adobe-express-aem-assets) | Video | Learn how to use Adobe Express' integration with AEM Assets to optimize content supply chains and enhance productivity and accessibility for all team members. |
 | June 2024 | AEM Sites | [Generate Variations - Using CSV file audiences in Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/using-csv-file-audiences) | Video | Explore how to use the CSV file audiences to target the right audience with the relevant content in Edge Delivery Services document authoring. |
 | June 2024 | AEM Sites | [Generate Variations - Using Adobe Target audiences in Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/using-target-audiences) | Video | Explore how to use Adobe Target audiences to target the right audience with the relevant content in Edge Delivery Services document authoring. |
@@ -309,7 +297,7 @@ New tutorials published for [!DNL Experience Manager] on Experience Manager.
 | June 2024 | Cloud Service | [CDN log analysis tooling](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/cloud-manager/devops/cdn-log-analysis) | Video | Learn about the AEM Cloud Service CDN Log Analysis Tooling that Adobe provides and how it helps to get insights into both your CDN performance and AEM implementation. |
 | June 2024 | Cloud Services | [Using DocAssurance API](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/using-doc-assurance-api) | Video | Sample code to invoke DocAssurance API using Apache HTTP Components in Java |
 | June 2024 | AEM Forms | [Using DocAssurance API](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/using-doc-assurance-api) | Video |Perform various digital signature or encryption operations with PDF documents, such as signing, certification, addition of signature fields, encryption, decryption etc.|
-| June 2024 | AEM Assets | [Search and Adobe Firefly](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/adobe-firefly) | Video | Learn how Adobe Experience Manager Assets, integrated with Adobe Firefly, transforms empty search results into a productive asset-generation experience, empowering users to effortlessly find and upload assets directly within their workflow. |
+| June 2024 | AEM Assets | [Search and Adobe Firefly](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/adobe-firefly) | Video | Learn how Adobe Experience Manager Assets, integrated with Adobe Firefly, transforms empty search results into a productive asset-generation experience, empowering users to find and upload assets directly within their workflow. |
 | June 2024 | AEM Sites | [Generate Variations - Trust and Privacy in Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/generate-variations/trust-privacy) | Video | Explore how Adobe handles trust and privacy for Generate Variations in Edge Delivery Services document authoring. |
 | June 2024 | AEM Sites | [Setting up experimentation framework in Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/setup-experimentation-framework) | Video | Explore how to set up the experimentation framework in Edge Delivery Services document authoring. |
 | June 2024 | AEM Sites | [Overview of experimentation framework in Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/document-authoring/how-to/experimentation-framework) | Video | Explore the experimentation framework that allows marketers to test which content variations are most effective in Edge Delivery Services document authoring. |
@@ -434,8 +422,8 @@ New articles and updates to existing articles for [!DNL Campaign].
 |---------|----|----|-----------|
 |May 2024|[Delivery fails with `Replication not confirmed: schema:'nms:delivery'` error](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24269)|New article| Learn about the solution to the issue when the delivery preparation process fails in [!DNL Adobe Campaign Classic] with the following error: `Replication not confirmed: schema:'nms:delivery'`, use the [!DNL Campaign] [!UICONTROL burst warehouse], if available.|
 |May 2024|[[!DNL Campaign]: [!UICONTROL Org unit folder] not visible when user associated with multiple organizational units](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24202)|New article| Learn about the solution to the issue when the [!UICONTROL org unit folder] doesn't display when you're assigned to multiple organization units.|
-|May 2024|[Audit log doesn't log any error when [!DNL OOTB] workflow fails](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24179)|New article| Learn about the solution to the issue when encountering an [!DNL Out-of-the-box (OOTB)] or [!UICONTROL custom workflow] in [!DNL Adobe Campaign Classic v7] in a failed state with no error(s) in the audit log.|
-|May 2024|[Circular dependency on [!UICONTROL schema extension] error](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24175)|New article| Learn about the solution to the issue when the [!DNL Adobe Campaign Classic] error:  circular dependency on [!UICONTROL schema extension] `nms:recipient`.|
+|May 2024|[Audit log doesn't log any error when [!DNL OOTB] workflow fails](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24179)|New article| Learn about the solution to the issue when encountering an [!DNL Out-of-the-box (OOTB)] or [!UICONTROL custom workflow] in [!DNL Adobe Campaign Classic v7] in a failed state with no errors in the audit log.|
+|May 2024|[Circular dependency on [!UICONTROL schema extension] error](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24175)|New article| Learn about the solution to the issue when the [!DNL Adobe Campaign Classic] error: circular dependency on [!UICONTROL schema extension] `nms:recipient`.|
 |May 2024|[Production subdomains are listed under stage instance in [!UICONTROL Control Panel]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24167)|New article| Learn about the solution steps to fix the [!DNL Adobe Campaign] issue where production subdomains are displayed even under stage instance in the [!UICONTROL Control Panel].|
 |May 2024|[Difference between [!DNL SMS] delivery statuses: [!UICONTROL Sent, Sent to the provider], and [!UICONTROL Received on Mobile]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24025)|New article| Learn about the [!DNL out-of-the-box] delivery status documentation.|
 |May 2024|[[!DNL Adobe Campaign Standard]: Users not removed from [!DNL Adobe Campaign] [!UICONTROL Security Groups]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24286)|New article| Learn how to remove disabled users from the workflow supervisors groups in [!DNL ACS].|
@@ -468,7 +456,7 @@ New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|May 2024|[Create actions](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/journey-configuration/create-actions.html)|Video |Learn what an action is, how to use the Edit Profile and Jump action in [!DNL Journey Optimizer], and how to configure a custom action.|
+|May 2024|[Create actions](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/journey-configuration/create-actions)|Video |Learn what an action is, how to use the Edit Profile and Jump action in [!DNL Journey Optimizer], and how to configure a custom action.|
 |May 2024|[Import and author HTML email content with the message editor](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content)|Video |Learn how to import existing HTML content, tweak the design, add mirror page and unsubscribe links, and how to code your content.|
 |May 2024|[Configure MMS API credentials and channel surfaces](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/configure-mms-api-credentials-and-channel-surfaces)|Video |Learn how to connect [!DNL Journey Optimizer] to an MMS service provider and how to create an MMS channel surface.|
 |May 2024|[Create a code-based experience campaign](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/code-based-experience-channel/create-a-code-based-experience-campaign)|Video |Learn how to create a code-based experience campaign to scale personalization with support for server-side, API-based, or SDK-based implementation methods to seamlessly integrate with development environments.|
@@ -525,7 +513,7 @@ New tutorials published for Adobe Marketo.
 |June 2024|[Interactive Webinars Post Event Insights and Actions](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)|Video |Learn where to find detailed information on the performance and engagement of your Interactive Webinars event that was delivered. |
 |June 2024|[Interactive Webinars Event Program Creation](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-event-program-creation)|Video |Learn how to set up an Event Program allowing you to create and schedule Interactive Webinars events in Marketo Engage.|
 |June 2024|[Interactive Webinars Event Delivery](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-event-delivery)|Video |Learn how to deliver your Interactive Webinars Event in an optimal fashion to achieve your objective and engage the attendees. |
-|June 2024|[Interactive Webinars Event Configuration](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-event-configuration)|Video |Learn how to configure your Interactive Webinars event before delivery to suit the objective of the webinar and ensure the delivery is effective enough to engage the participants to generate interest and solicit intent for the brand, product, services. etc.|
+|June 2024|[Interactive Webinars Event Configuration](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-event-configuration)|Video |Learn how to configure your Interactive Webinars event before delivery to suit the objective of the webinar and ensure that the delivery is effective enough to engage the participants to generate interest and solicit intent for the brand, product, services. etc.|
 
 {style="table-layout:auto"}
 
@@ -562,11 +550,11 @@ New [!DNL Workfront] tutorials and events on Experience League.
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |June 2024|[Understand Work Effort](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort)|Video |Learn how you can use Work Effort to get a rough estimate of planned hours in your project timeline.|
-|June 2024|[Work with tasks](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks)|Video |Learn how to edit existing tasks,add and delete tasks,and change the task order on a project in Workfront.|
+|June 2024|[Work with tasks](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks)|Video |Learn how to edit existing tasks, add and delete tasks,and change the task order on a project in Workfront.|
 |June 2024|[Understand parent-child tasks](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-parent-child-tasks)|Video |Learn how tasks are structured using a parent-child relationship in a Workfront project.|
 |June 2024|[Take a project live](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/take-a-project-live)|Video |Learn how to take your Adobe Workfront project live using the project status.|
-|June 2024|[Assign tasks from the project plan](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)|Video |Learn how to assign tasks in an Adobe Workfront project using inline edit,bulk edit,job roles,and teams.|
-|June 2024|[Understand task durations](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)|Video |Learn how durations affect start and completion dates of tasks,how durations factor into project timelines,and some best practices for using task durations.|
+|June 2024|[Assign tasks from the project plan](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)|Video |Learn how to assign tasks in an Adobe Workfront project using inline edit, bulk edit,job roles,and teams.|
+|June 2024|[Understand task durations](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)|Video |Learn how durations affect start and completion dates of tasks, how durations factor into project timelines,and some best practices for using task durations.|
 
 {style="table-layout:auto"}
 
