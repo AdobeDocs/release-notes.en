@@ -230,7 +230,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 +++Details
 
-[!DNL Customer Journey Analytics] release date: **May 15, 2024**
+[!DNL Customer Journey Analytics] release date: **June 12, 2024**
 
 * [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html?lang=en#releases)
 
@@ -450,7 +450,7 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 **April 2024 release:** Learn about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes).
 
-### New [!DNL Journey Optimizer] tutorials {#tutorials-ajo}
+<!-- ### New [!DNL Journey Optimizer] tutorials {#tutorials-ajo}
 
 New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 
@@ -460,7 +460,7 @@ New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 |May 2024|[Import and author HTML email content with the message editor](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/email-channel/import-and-author-html-email-content)|Video |Learn how to import existing HTML content, tweak the design, add mirror page and unsubscribe links, and how to code your content.|
 |May 2024|[Configure MMS API credentials and channel surfaces](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/configure-mms-api-credentials-and-channel-surfaces)|Video |Learn how to connect [!DNL Journey Optimizer] to an MMS service provider and how to create an MMS channel surface.|
 |May 2024|[Create a code-based experience campaign](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/code-based-experience-channel/create-a-code-based-experience-campaign)|Video |Learn how to create a code-based experience campaign to scale personalization with support for server-side, API-based, or SDK-based implementation methods to seamlessly integrate with development environments.|
-|May 2024|[Discover the new Journey Designer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/new-journey-designer)|Video |Discover the new redesigned journey canvas and how to leverage live reporting in journeys.|
+|May 2024|[Discover the new Journey Designer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/new-journey-designer)|Video |Discover the new redesigned journey canvas and how to leverage live reporting in journeys.| -->
 
 ### More resources for [!DNL Journey Optimizer]
 
