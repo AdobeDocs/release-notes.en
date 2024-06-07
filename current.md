@@ -36,7 +36,7 @@ Latest update: **June 7, 2024**
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics) (releasing **June 12**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (releasing **May 12**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (releasing **June 12**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem) 
 * [[!DNL Adobe Commerce]](#commerce)
