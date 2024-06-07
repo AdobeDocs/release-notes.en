@@ -246,6 +246,8 @@ New tutorials published for [!DNL Customer Journey Analytics].
 
 {style="table-layout:auto"}
 
++++
+
 ## ![Icon](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
 
 Find the latest release information for [!DNL Streaming Media Analytics]. View new tutorials on Experience League.
