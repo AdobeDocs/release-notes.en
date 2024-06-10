@@ -627,6 +627,7 @@ New tutorials published for [!DNL Document Cloud], including [!DNL Acrobat Servi
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | June 2024 | Acrobat | [Create a PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/create-pdf) | Updated video | Learn how to create PDFs from all different types of documents. Start with a file created in Microsoft Office or a Creative Cloud app, or use an image, a scan, or even a website.  |
+| June 2024 | Acrobat | [Edit text in a PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/edit-pdf) | Video | Learn how to edit words, phrases, or even entire pages in your PDF. Editing text directly in Acrobat allows you to accurately and professionally update content without jumping back and forth between apps.  |
 
 For [!DNL Document Cloud] tutorials, see:
 
