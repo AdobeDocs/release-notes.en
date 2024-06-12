@@ -554,7 +554,7 @@ New [!DNL Workfront] tutorials and events on Experience League.
 |June 2024|[Work with tasks](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks)|Video |Learn how to edit existing tasks, add and delete tasks, and change the task order on a project in Workfront.|
 |June 2024|[Understand parent-child tasks](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-parent-child-tasks)|Video |Learn how tasks are structured using a parent-child relationship in a Workfront project.|
 |June 2024|[Take a project live](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/take-a-project-live)|Video |Learn how to take your Adobe Workfront project live using the project status.|
-|June 2024|[Assign tasks from the project plan](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)|Video |Learn how to assign tasks in an Adobe Workfront project using inline edit, bulk edit, job roles,and teams.|
+|June 2024|[Assign tasks from the project plan](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)|Video |Learn how to assign tasks in an Adobe Workfront project using inline edit, bulk edit, job roles, and teams.|
 |June 2024|[Understand task durations](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)|Video |Learn how durations affect start and completion dates of tasks, how durations factor into project timelines, and some best practices for using task durations.|
 
 {style="table-layout:auto"}
@@ -646,7 +646,7 @@ New tutorials published for applications in [!DNL Adobe Creative Cloud for enter
 |Published|Application|Name|Type|Description |
 | -----------| -----------|---------- | ---------- | ---------- |
 |May 2024|[!DNL Firefly]|[Create reusable scenes for merchandise](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/reusable-scenes)|Video |Learn how to create reusable scenes for merchandise such as handbags and accessories. Creating reusable scenes accelerates digital merchandising by allowing you to refresh your website merchandise seasonally or whenever you choose. |
-|May 2024|[!DNL Firefly]|[Accelerate creative ideation](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas)|Video |Learn how to quickly visualize ideas and explore concepts for business campaigns. Accelerating creative ideation allows organizations to produce high-quality content at a rapid pace. |
+|May 2024|[!DNL Firefly]|[Accelerate creative ideation](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas)|Video |Learn how to visualize ideas and explore concepts for business campaigns. Accelerating creative ideation allows organizations to produce high-quality content at a rapid pace. |
 
 See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) for the latest tutorials.
 
