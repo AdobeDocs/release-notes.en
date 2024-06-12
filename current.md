@@ -28,7 +28,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 Latest update: **June 12, 2024**
 
-* [[!DNL Experience League] events and updates](#events)
+* [[!DNL Experience League] events and updates](#events) (**May 30**)
 * [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
@@ -74,7 +74,6 @@ Updated **June 12, 2024**
 * **WORKFRONT** | Customer workshop | _Learn: Prioritizing and Strategically Planning Work in Workfront_ | Join the Workfront Customer Success Team to learn best practices for annual planning, how to create a formal process for prioritization, and recommended views to surface project data to ensure overall alignment. | **June 25 @ 9:30 AM PT** | [Register](https://events.teams.microsoft.com/event/f765ea5b-c5a6-41d1-ac0d-ffea34ae1b11@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
-
 +++
 
 ## ![Icon](/assets/experience-league.png) Adobe Content Supply Chain {#content-supply-chain}
@@ -246,7 +245,6 @@ New tutorials published for [!DNL Customer Journey Analytics].
 |June 2024|[Graph-based stitching overview](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/visitor-id/graph-based-stitching-overview)|Video |Harness the power of the Identity Graph to align identities across AEP applications and allow for more datasets to be joined in CJA by having a common person identifier in them.|
 
 {style="table-layout:auto"}
-
 +++
 
 ## ![Icon](/assets/analytics.png) [!DNL Streaming Media Analytics] {#sma}
