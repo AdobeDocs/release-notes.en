@@ -65,14 +65,6 @@ Updated **June 25, 2024**
 
 +++Details
 
-* **WORKFRONT** | Customer workshop | _Learn: Prioritizing and Strategically Planning Work in Workfront_ | Join the Workfront Customer Success Team to learn best practices for annual planning, how to create a formal process for prioritization, and recommended views to surface project data to ensure overall alignment. | **June 25 @ 9:30 AM PT** | [Register](https://events.teams.microsoft.com/event/f765ea5b-c5a6-41d1-ac0d-ffea34ae1b11@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | Customer workshop | _Admin 101: Bring Your Workfront Questions_ | Did you miss any of our Admin 101 sessions? Join us for the hour-long Q&A session where we'll summarize the previous events and then open it up for general discussion and questions. | **June 26 @ 9:00 AM MT** | [Register](https://teams.microsoft.com/registration/Wht7-jR7h0OUrtLBeN7O4Q,mjTFCSLTbkuVKavNdopApA,dndSyq-qPkqd5A929WkXkw,s9AzVDbQGkujSdPhs9lVDw,_ptlrrxSw0uslhILWOmKGg,C_k9EDSbrk652sjpeJ13Dw?mode=read&tenantId=fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **WORKFRONT** | Webinar | _What's new in 24.7_ | Join the Adobe Workfront Product team June 26th at 10:00 AM EST to learn about upcoming features and enhancements in the 24.7 release. | **June 27 @ 8:00 AM MT** | [Register](https://webinars.on24.com/adobe_workfront/whatsnewin247?partnerref=ExperienceLeagueEvents)
-
-* **JOURNEY OPTIMIZER** | Q&A chat | _Career Discovery Webinar - Adobe Journey Optimizer_ | In this webinar, you will learn from guest panelists about their work and expertise in Adobe Journey Optimizer and discover how you can get started on the path to new career opportunities. | **June 28 @ 8:00 AM MT** | [Register](https://event.adobe.com/careerdiscovery)
-
 * **WORKFRONT** | Customer workshop | _Admin 101 - Getting Started with Workfront_ | New to Workfront? Join our "New Admin" monthly meetups to ask questions, get resources and recommendations, meet other new admins, and for this session, learn the best practices for setting up your Workfront environment. | **July 9 @ 9:00 AM MT** | [Register]https://events.teams.microsoft.com/event/49c249c9-81d9-4a54-a0cb-6d6313ed429c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
