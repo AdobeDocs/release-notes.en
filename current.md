@@ -2,12 +2,13 @@
 title: Latest Release Notes
 description: Find the latest release notes and Knowledge Base issues for Adobe [!DNL Experience Cloud] products and services. Learn about upcoming events and new documentation on Experience League. Discover the latest tutorials and courses for [!DNL Experience Cloud] applications.
 doc-type: release notes
-last-update: June 2024
+last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
+badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
-# Experience Cloud release notes - June 2024
+# Experience Cloud release notes - July 2024
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -24,18 +25,18 @@ For the best self-help experience, sign in to [Experience League](https://experi
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).  
 
-## June 2024
+## July 2024
 
-Latest update: **June 25, 2024**
+Latest update: **July 9, 2024**
 
-* [[!DNL Experience League] events and updates](#events) (**June 25**)
+* [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (released **June 12**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (released **June 12**)
+* [[!DNL Adobe Analytics]](#analytics) 
+* [[!DNL Adobe Customer Journey Analytics]](#cja) 
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem) 
 * [[!DNL Adobe Commerce]](#commerce)
@@ -60,8 +61,6 @@ Latest update: **June 25, 2024**
 Learn about exciting events on Experience League. It's a great place to learn, interact, and get answers from product experts at Adobe!
 
 ### Events on Experience League 
-
-Updated **June 25, 2024**
 
 +++Details
 
@@ -181,7 +180,7 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 +++Details
 
-[!DNL Analytics] release date: **June 13, 2024**
+[!DNL Analytics] release date: **July 17, 2024**
 
 * [!DNL Analytics] [release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest) 
 
@@ -224,7 +223,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 +++Details
 
-[!DNL Customer Journey Analytics] release date: **June 12, 2024**
+[!DNL Customer Journey Analytics] release date: **July 17, 2024**
 
 * [!DNL Customer Journey Analytics] [release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases)
 
