@@ -64,9 +64,15 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 +++Details
 
-* **WORKFRONT** | Customer workshop | _Admin 101 - Getting Started with Workfront_ | New to Workfront? Join our "New Admin" monthly meetups to ask questions, get resources and recommendations, meet other new admins, and for this session, learn the best practices for setting up your Workfront environment. | **July 9 @ 9:00 AM MT** | [Register]https://events.teams.microsoft.com/event/49c249c9-81d9-4a54-a0cb-6d6313ed429c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **WORKFRONT** | Community event | _Connect: Admin Chat for Marketing & Creative_ | Are you a system admin for a marketing or creative team? This customer-driven session will connect you with other admins to discuss best practices as well as tips and tricks. | **July 12 @ 10:00 AM MT** | [Register](https://events.teams.microsoft.com/event/99afa4e1-61be-4f51-8ec6-ddb5f3676d6d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
+* **WORKFRONT** | Coffee break | _Coffee Break Sweepstakes: Creative Briefs Intakes & Best Practices_ | Join us for our second Coffee Break Sweepstakes on Creative Brief best practices! Discover new strategies and share your insights. Submit a question, comment, or tip for a chance to win Workfront swag. Don't miss out! | **July 16 @ 11:00 AM MT** | [Register](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-sweepstakes-tuesday-july-16th-at-10am-pt/ev-p/682461)
+
+* **WORKFRONT** | Customer workshop | _Learn: Adobe Workfront 3rd Quarter 2024 Release Round Up + Environment Promotion_ | Join us for our quarterly release review session where we discuss the latest release features and their benefits. In this session, we'll also discuss the highly anticipated 'Environment Promotion' capability. | **July 18 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **EXPERIENCE MANAGER, EXPERIENCE MANAGER ASSETS, AND EXPERIENCE MANAGER SITES** | Webinar | _Espressos & Experience Manager: Digital Agility with AEM_ | Learn about the newest innovations in AEM Sites and Assets that make AEM your solution to the most common challenges in the CMS space. We'll explore Universal Editor, Headless & Document-based Authoring, and Assets UI. | **July 18 @ 11:00 AM MT** | [Register](https://adobeevents.adobeconnect.com/ev3w9wtf5th2/event/registration.html?campaign-id=ExL)
+
+And more! View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 +++
 
 ## ![Icon](/assets/experience-league.png) Adobe Content Supply Chain {#content-supply-chain}
