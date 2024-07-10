@@ -325,7 +325,6 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 |June 2024|[Enable [!DNL Geo-blocking] with [!DNL Dynamic Media CDN]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24475)|New article| Learn how to enable [!DNL Geo-blocking] at [!DNL Dynamic Media CDN] in order to make [!DNL URLs] available in certain countries only.|
 |June 2024|[[!DNL Adobe Experience Manager]: How to unlock a page locked by another user](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24486)|New article| Learn how to unlock a page when neither the user who locked it nor the admin can unlock it.|
 
-
 {style="table-layout:auto"}
 
 +++
