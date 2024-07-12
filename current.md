@@ -153,7 +153,7 @@ New tutorials published for Adobe [!DNL Experience Platform] on Experience Leagu
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|July 2024| [!DNL Experience Platform] | [AI Assistant](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/admin/ai-assistant)|Video | Learn what you can do with AI Assistant in Adobe Experience Platform-based applications like Real-Time Customer Data Platform, Journey Optimizer, and Customer Journey Analytics.  |
+|July 2024| [!DNL Experience Platform], [!DNL Real-Time CDP], [!DNL Journey Optimizer], [!DNL Customer Journey Analytics] | [AI Assistant](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/admin/ai-assistant)|Video | Learn what you can do with AI Assistant in Adobe Experience Platform-based applications like Real-Time Customer Data Platform, Journey Optimizer, and Customer Journey Analytics.  |
 |July 2024| [!DNL Experience Platform] | [Delete datasets and batches](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/data-hygiene/delete-datasets-and-batches)|Video | Learn how to delete datasets and batches in Adobe Experience Platform.  |
 |July 2024| [!DNL Experience Platform] | [Delete profiles](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/profiles/delete-profiles)|Video | Learn how to delete data from the Profile Store using the Real-Time Customer Profile API. |
 |July 2024| [!DNL Experience Platform] | [Set up customer-managed keys (CMK)](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/privacy/set-up-customer-managed-keys)|Video | Manage data-at-rest encryption using your own encryption keys.  |
