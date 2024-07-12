@@ -449,11 +449,11 @@ New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|July 2024|[Manage, author, and use fragments](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/manage-author-use-fragments)|Updated video |Learn how to manage, author, and use fragments in Adobe Journey Optimizer.|
+|July 2024|[Manage fragments](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/manage-author-use-fragments)|Updated video |Learn how to manage, author, and use fragments in Adobe Journey Optimizer.|
 |July 2024|[Use Case: Business Event](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/use-case-business-event)|Video |Learn how to use business events in Journey Optimizer. Business events allow brands to trigger journeys based on non-people-related events, such as notifying subscribers when a news publication has new content or sending communications during a sporting event.|
 |July 2024|[Introduction to building a journey](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey)|Video |Understand the basics of building a journey in the journey canvas.|
-|July 2024|[Set up multilingual messages](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/set-up-multilingual-messages)|Video |The Adobe Journey Optimizer multilingual message feature allows you to effortlessly create content in multiple languages within a single campaign or journey. |
-|July 2024|[Create multilingual messages](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/create-multilingual-messages)|Video |Learn how to create multilingual messages in Adobe Journey Optimizer.|
+|July 2024|[Set up multilingual messaging](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/set-up-multilingual-messages)|Video |The Adobe Journey Optimizer multilingual message feature allows you to effortlessly create content in multiple languages within a single campaign or journey. |
+|July 2024|[Create a multilingual message](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/create-multilingual-messages)|Video |Learn how to create multilingual messages in Adobe Journey Optimizer.|
 |July 2024|[Overview of the journey canvas](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/overview-over-the-journey-canvas)|Video |Understand the features & capabilities of the Journey Canvas.|
 
 ### More resources for [!DNL Journey Optimizer]
