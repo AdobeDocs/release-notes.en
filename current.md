@@ -454,7 +454,7 @@ New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 |July 2024|[Introduction to building a journey](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/introduction-to-building-a-journey)|Video |Understand the basics of building a journey in the journey canvas.|
 |July 2024|[Set up multilingual messages](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/set-up-multilingual-messages)|Video |The Adobe Journey Optimizer multilingual message feature allows you to effortlessly create content in multiple languages within a single campaign or journey. |
 |July 2024|[Create multilingual messages](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/create-multilingual-messages)|Video |Learn how to create multilingual messages in Adobe Journey Optimizer.|
-|July 2024|[Overview over the journey canvas](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/overview-over-the-journey-canvas)|Video |Understand the features & capabilities of the Journey Canvas.|
+|July 2024|[Overview of the journey canvas](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/overview-over-the-journey-canvas)|Video |Understand the features & capabilities of the Journey Canvas.|
 
 ### More resources for [!DNL Journey Optimizer]
 
@@ -498,7 +498,7 @@ Find out the latest release notes and release schedule for [!DNL Marketo Engage]
 
 ### New Marketo tutorials {#tutorials-marketo}
 
-New tutorials published for Adobe Marketo.
+<!-- New tutorials published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
@@ -509,7 +509,7 @@ New tutorials published for Adobe Marketo.
 |June 2024|[Interactive Webinars Event Delivery](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-event-delivery)|Video |Learn how to deliver your Interactive Webinars Event in an optimal fashion to achieve your objective and engage the attendees. |
 |June 2024|[Interactive Webinars Event Configuration](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-event-configuration)|Video |Learn how to configure your Interactive Webinars event before delivery to suit the objective of the webinar and ensure that the delivery is effective enough to engage the participants to generate interest and solicit intent for the brand, product, services. etc.|
 
-{style="table-layout:auto"}
+{style="table-layout:auto"} -->
 
 For the latest product documentation, see the [Marketo product documentation](https://experienceleague.adobe.com/en/docs/marketo/using/home) home
 
