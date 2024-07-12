@@ -27,7 +27,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## July 2024
 
-Latest update: **July 9, 2024**
+Latest update: **July 11, 2024**
 
 * [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
@@ -60,6 +60,8 @@ Latest update: **July 9, 2024**
 Learn about exciting events on Experience League. It's a great place to learn, interact, and get answers from product experts at Adobe!
 
 ### Events on Experience League 
+
+Updated **July 11, 2024**
 
 +++Details
 
