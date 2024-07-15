@@ -27,7 +27,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## July 2024
 
-Latest update: **July 11, 2024**
+Latest update: **July 15, 2024**
 
 * [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
@@ -49,7 +49,8 @@ Latest update: **July 11, 2024**
 * [[!DNL Adobe Mix Modeler]](#mix-modeler)
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
-* [[!DNL Adobe Document Cloud]](#doc-cloud)<!-- * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)  -->
+* [[!DNL Adobe Document Cloud]](#doc-cloud)
+* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [[!DNL Adobe Content Supply Chain Tutorials]](#content-supply-chain)
 * [Customer Data Management - Voices](#voices)
 * [Digital Experience Blueprints](#blueprints)
@@ -632,21 +633,15 @@ For [!DNL Document Cloud] tutorials, see:
 
 +++
 
-<!-- ## ![Icon](/assets/creative-cloud-24.png) [!DNL Creative Cloud] for enterprise {#creative-cloud}
+## ![Icon](/assets/creative-cloud-24.png) [!DNL Creative Cloud] for enterprise {#creative-cloud}
 
 New tutorials published for applications in [!DNL Adobe Creative Cloud for enterprise].
 
 +++Details
 
-|Published|Application|Name|Type|Description |
-| -----------| -----------|---------- | ---------- | ---------- |
-|May 2024|[!DNL Firefly]|[Create reusable scenes for merchandise](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/reusable-scenes)|Video |Learn how to create reusable scenes for merchandise such as handbags and accessories. Creating reusable scenes accelerates digital merchandising by allowing you to refresh your website merchandise seasonally or whenever you choose. |
-|May 2024|[!DNL Firefly]|[Accelerate creative ideation](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/accelerate-ideas)|Video |Learn how to visualize ideas and explore concepts for business campaigns. Accelerating creative ideation allows organizations to produce high-quality content at a rapid pace. |
-
 See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) for the latest tutorials.
 
 +++
--->
 
 ## ![Icon](/assets/experience-league.png) Customer Data Management - Voices {#voices}
 
