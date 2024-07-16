@@ -440,7 +440,7 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 ### Latest [!DNL Journey Optimizer] product releases
 
-**June 2024 release:** Learn about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes).
+**July 30:** Learn about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes).
 
 ### New [!DNL Journey Optimizer] tutorials {#tutorials-ajo}
 
