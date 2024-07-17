@@ -216,7 +216,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 ### New [!DNL Customer Journey Analytics] tutorials {#tutorials-cja}
 
-New tutorials published for [!DNL Customer Journey Analytics].
+New tutorials published for [!DNL Customer Journey Analytics]. 
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
