@@ -5,7 +5,6 @@ doc-type: release notes
 last-update: July 2024
 author: mfrei
 mini-toc-levels: 2
-badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
 # Experience Cloud release notes - July 2024
@@ -27,7 +26,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## July 2024
 
-Latest update: **July 16, 2024**
+Latest update: **July 17, 2024**
 
 * [[!DNL Experience League] events and updates](#events)
 * [Certification at Adobe](#certification)
@@ -35,8 +34,8 @@ Latest update: **July 16, 2024**
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) 
-* [[!DNL Adobe Customer Journey Analytics]](#cja) 
+* [[!DNL Adobe Analytics]](#analytics) (July 17)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (July 17)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem) 
 * [[!DNL Adobe Commerce]](#commerce)
@@ -62,17 +61,21 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 ### Events on Experience League 
 
-Updated **July 11, 2024**
+Updated **July 17, 2024**
 
 +++Details
-
-* **[!DNL WORKFRONT]** | Community event | _Connect: Admin Chat for Marketing & Creative_ | Are you a system admin for a marketing or creative team? This customer-driven session will connect you with other admins to discuss best practices as well as tips and tricks. | **July 12 @ 10:00 AM MT** | [Register](https://events.teams.microsoft.com/event/99afa4e1-61be-4f51-8ec6-ddb5f3676d6d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL WORKFRONT]** | Coffee break | _Coffee Break Sweepstakes: Creative Briefs Intakes & Best Practices_ | Join us for our second Coffee Break Sweepstakes on Creative Brief best practices! Discover new strategies and share your insights. Submit a question, comment, or tip for a chance to win Workfront swag. Don't miss out! | **July 16 @ 11:00 AM MT** | [Register](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-coffee-break-sweepstakes-tuesday-july-16th-at-10am-pt/ev-p/682461)
 
 * **[!DNL WORKFRONT]** | Customer workshop | _Learn: Adobe Workfront 3rd Quarter 2024 Release Round Up + Environment Promotion_ | Join us for our quarterly release review session where we discuss the latest release features and their benefits. In this session, we'll also discuss the highly anticipated 'Environment Promotion' capability. | **July 18 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL EXPERIENCE MANAGER], [!DNL EXPERIENCE MANAGER ASSETS], AND [!DNL EXPERIENCE MANAGER SITES]** | Webinar | _Espressos & Experience Manager: Digital Agility with AEM_ | Learn about the newest innovations in AEM Sites and Assets that make AEM your solution to the most common challenges in the CMS space. We'll explore Universal Editor, Headless & Document-based Authoring, and Assets UI. | **July 18 @ 11:00 AM MT** | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5705674188/event_landing.html?sco-id=5705710312&campaign-id=ExL&_charset_=utf-8)
+
+* **[!DNL WORKFRONT]** | Community event | _Connect: Workfront Collective_ | Join our monthly Monday Workfront Collective meetups, designed to connect with other customers, discuss Workfront features, share ideas, and brainstorm together to solve common challenges. | **July 22 @ 7:00 AM MT** | [Register](https://events.teams.microsoft.com/event/61a9a387-0f0f-4d1d-9aa4-123f97eda635@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | Customer workshop | _Learn with Customers: Using Workfront for Reorgs_ | Join us for a 1-hour presentation from customers and former customers as they share their experience and recommendations on how to use Workfront to help the structural and process changes of organizational reorgs. | **July 23 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/64ea4bad-fbbb-4051-8f21-c96a38daee79@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL MARKETO AND MARKETO ENGAGE]** | Webinar | _Marketo & Mochas: Laying the Foundation - Maturity Part 1_ | Join Adobe's Business Advisors and learn how to best develop your org's Marketo usage. We'll review everything from instance governance to the program library, which hosts several programs to start your program building. | **July 25 @ 11:00 AM MT** | [Register](https://adobeevents.adobeconnect.com/ezavx8y6t6hh/event/registration.html?campaign-id=ExL)
+
+* **[!DNL WORKFRONT]** | Webinar | _Ask Workfront Customer Support - Troubleshooting Calculated Expressions_ | Join the Workfront Customer Support team for a 1-hour on calculated expressions. Between common examples, troubleshooting tips, key learnings, and a live demo, this session is not one to be missed! | **July 31 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 And more! View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 +++
@@ -211,7 +214,7 @@ New tutorials published for Adobe [!DNL Analytics] on Experience League.
 |July 2024|[Create hyperlinks in freeform tables](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/tips-and-tricks/create-hyperlinks-in-freeform-tables)|Video |Learn how to create hyperlinks for one or more dimension items, making them clickable within a freeform table in Analysis Workspace. |
 |July 2024|[Use multi-select drop-down filters](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/use-multi-select-drop-down-filters)|Video |Learn about the option to multi-select fields in drop-down filters in Analysis Workspace, allowing users to display data from any of the selected fields. |
 |July 2024|[Overview of Classifications in Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/classifications/overview-of-classifications)|Updated video |Learn about using classifications to add metadata (descriptive attributes) to your products, campaigns, pages, customers, and more. These attributes can help you better understand your marketing and experience efforts by allowing you to group similar elements and break down data to dive deeply into what is and isn't working for you.|
-|July 2024|[Create a Table of Contents in Analysis Workspace](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace)|Video |Learn about the Table of Contents in Analysis Workspace, which provides links that enable users to quickly jump to panels and visualizations within the project. |
+|July 2024|[Create a Table of Contents in Analysis Workspace](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace)|Video |Learn about the Table of Contents in Analysis Workspace, which provides links that enable users to jump to panels and visualizations within the project. |
 
 {style="table-layout:auto"}
 <!--
@@ -353,9 +356,9 @@ New articles and updates to existing articles for Adobe Commerce.
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
 |June 2024|[[!DNL Quality Patches Tool (QPT)]](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview)|New articles| New articles on how to apply patches available in [!DNL QPT] 1.1.48 were published and can be found in their respective sections.|
-|June 2024|[Security update available for Adobe Commerce - [!DNL APSB24-40] Revised to include isolated patch for [!DNL CVE-2024-34102]](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/security-update-available-for-adobe-commerce-apsb24-40-revised-to-include-isolated-patch-for-cve-2024-34102)|New articles| On June 11, 2024, Adobe released a security update for Adobe Commerce,  Magento Open Source, and Adobe Commerce [!DNL Webhooks Plugin]. This update resolves critical and important vulnerabilities. Successful exploitation could lead to arbitrary code execution, security feature bypass, and privilege escalation.|
+|June 2024|[Security update available for Adobe Commerce - [!DNL APSB24-40] Revised to include isolated patch for [!DNL CVE-2024-34102]](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/security-update-available-for-adobe-commerce-apsb24-40-revised-to-include-isolated-patch-for-cve-2024-34102)|New articles| On June 11, 2024, Adobe released a security update for Adobe Commerce, Magento Open Source, and Adobe Commerce [!DNL Webhooks Plugin]. This update resolves critical and important vulnerabilities. Successful exploitation could lead to arbitrary code execution, security feature bypass, and privilege escalation.|
 |June 2024|[Revised patches for [!DNL Google Maps] access loss on all Adobe Commerce versions](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/site-down-or-unresponsive/revised-patches-for-google-maps-access-loss-on-all-adobe-commerce-versions)|New articles| This article provides a fix for Adobe Commerce merchants who aren't compatible with any recent [!DNL Google Maps] versions from 3.54+. This fix is to solve the issue where Adobe Commerce merchants have no access to [!DNL Google Maps] in any version of Adobe Commerce anymore.|
-|June 2024|[Adobe Commerce support intake process migration to [!DNL Experience League]](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/adobe-commerce-support-intake-process-migration)|New articles| We're excited to announce that in our journey to be better connected to the Adobe family of solutions, Adobe Commerce is migrating our support intake process from the Adobe Commerce Help Center to Adobe [!DNL Experience League] on July 15th, 2024. [!DNL Experience League] is currently home to Adobe Commerce self-help documentation, user guides, and best practices. It will become your primary resource for all support needs from self-service to agent-driven communication. We appreciate your understanding and support as we make this important transition.|
+|June 2024|[Adobe Commerce support intake process migration to [!DNL Experience League]](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/adobe-commerce-support-intake-process-migration)|New articles| We're excited to announce that in our journey to be better connected to the Adobe family of solutions, Adobe Commerce is migrating our support intake process from the Adobe Commerce Help Center to Adobe [!DNL Experience League] on July 15, 2024. [!DNL Experience League] is currently home to Adobe Commerce self-help documentation, user guides, and best practices. It will become your primary resource for all support needs from self-service to agent-driven communication. We appreciate your understanding and support as we make this important transition.|
 
 {style="table-layout:auto"}
 
@@ -415,7 +418,7 @@ New articles and updates to existing articles for [!DNL Campaign].
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
 |June 2024|[Error *[!DNL JST-310034 Function logonEscalation used by 'Anonymous account' to become 'Interaction account (interaction)']*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24392)|New article| Learn how to resolve the *[!DNL JST-310034 Function logonEscalation used by 'Anonymous account']* error that appears multiple times in the web log. Update [!DNL Adobe Campaign Classic] to version 7.3.2 or above to fix the issue.|
-|June 2024|[Checking [!DNL spam] score fails with error *[!DNL DLV-490066 Anti-spam checking failed]*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24427)|New article| This article will help you explore the steps to follow for checking the [!DNL spam] score on a delivery when the error *[!DNL DLV-490066 Anti-spam checking failed]* is displayed in [!DNL Adobe Campaign Classic] v7.|
+|June 2024|[Checking [!DNL spam] score fails with error *[!DNL DLV-490066 Anti-spam checking failed]*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24427)|New article| This article helpS you explore the steps to follow for checking the [!DNL spam] score on a delivery when the error *[!DNL DLV-490066 Anti-spam checking failed]* is displayed in [!DNL Adobe Campaign Classic] v7.|
 |June 2024|[[!DNL ACS workflow] fails with error *[!DNL The AWS Access Key Id you provided does not exist]*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24479)|New article| Learn how to resolve the [!DNL Adobe Campaign Standard] issue where workflow fails with error *[!DNL The AWS Access Key Id you provided does not exist in our records.]*|
 |June 2024|[Alert activity sending delivery fails with *[!DNL Error while compiling script]*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24478)|New article| Learn how to resolve the [!DNL Adobe Campaign Classic] issue where the alert activity delivery fails with *[!DNL Error while compiling script 'SMTP headers' line XX: recipient is not defined.]*|
 |June 2024|[Modification and expressions section missing from Edit schema activity](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24495)|New article| Learn how to resolve the issue where the Modifications and expressions section is missing from the Edit schema activity in [!DNL Adobe Campaign Classic].|
