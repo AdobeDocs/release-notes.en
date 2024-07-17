@@ -29,7 +29,6 @@ To receive a monthly email notification about updates to this page, subscribe to
 Latest update: **July 17, 2024**
 
 * [[!DNL Experience League] events and updates](#events)
-* [Certification at Adobe](#certification)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -47,12 +46,13 @@ Latest update: **July 17, 2024**
 * [[!DNL Adobe Workfront]](#workfront)
 * [[!DNL Adobe Mix Modeler]](#mix-modeler)
 * [[!DNL Adobe Advertising]](#advertising)
+* [[!DNL Adobe Content Supply Chain Tutorials]](#content-supply-chain)
 * [[!DNL Adobe Pass]](#pass)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
-* [[!DNL Adobe Content Supply Chain Tutorials]](#content-supply-chain)
 * [Customer Data Management - Voices](#voices)
 * [Digital Experience Blueprints](#blueprints)
+* [Certification at Adobe](#certification)
 * [Adobe product security vulnerabilities](https://helpx.adobe.com/security.html)
 
 ## ![Icon](/assets/experience-league.png) [!DNL Experience League] events and updates {#events}
@@ -76,37 +76,8 @@ Updated **July 17, 2024**
 * **[!DNL MARKETO AND MARKETO ENGAGE]** | Webinar | _Marketo & Mochas: Laying the Foundation - Maturity Part 1_ | Join Adobe's Business Advisors and learn how to best develop your org's Marketo usage. We'll review everything from instance governance to the program library, which hosts several programs to start your program building. | **July 25 @ 11:00 AM MT** | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5706378570/event_landing.html?sco-id=5706388344&campaign-id=ExL&_charset_=utf-8)
 
 * **[!DNL WORKFRONT]** | Webinar | _Ask Workfront Customer Support - Troubleshooting Calculated Expressions_ | Join the Workfront Customer Support team for a 1-hour on calculated expressions. Between common examples, troubleshooting tips, key learnings, and a live demo, this session is not one to be missed! | **July 31 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 And more! View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
-
-+++
-
-## ![Icon](/assets/experience-league.png) Adobe Content Supply Chain {#content-supply-chain}
-
-See [Content Supply Chain](https://experienceleague.adobe.com/en/docs/content-supply-chain-learn/tutorials/overview) for the latest tutorials on Experience League. 
-
-<!-- +++Details
-
-| Published | Name | Type | Description |
-| -----------| ---------- | ---------- | ---------- |
-|February 2024|[Content Supply Chain Tutorials](https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/overview.html)|Videos |View content supply chain tutorials on Experience League. Content supply chain is Adobe's an end-to-end solution to accelerate and simplify your content supply chain with generative AI and intelligent automation.|
-
-{style="table-layout:auto"}
-
-+++ -->
-
-## ![Icon](/assets/certification-badge.png) Certification{#certification}
-
-Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site on Experience League. 
-
-+++Details
-
-The [Experience Cloud Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
-
-* Available certifications
-* Certification renewals for Adobe applications
-* Certification program updates
-
-And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) on Experience League and start your certification journey today!
 
 +++
 
@@ -601,7 +572,19 @@ See [What's new in [!DNL Advertising DSP]](https://experienceleague.adobe.com/en
 
 See [What's new in [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/home)
 
-+++
++++## ![Icon](/assets/experience-league.png) Adobe Content Supply Chain {#content-supply-chain}
+
+See [Content Supply Chain](https://experienceleague.adobe.com/en/docs/content-supply-chain-learn/tutorials/overview) for the latest tutorials on Experience League. 
+
+<!-- +++Details
+
+| Published | Name | Type | Description |
+| -----------| ---------- | ---------- | ---------- |
+|February 2024|[Content Supply Chain Tutorials](https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/overview.html)|Videos |View content supply chain tutorials on Experience League. Content supply chain is Adobe's an end-to-end solution to accelerate and simplify your content supply chain with generative AI and intelligent automation.|
+
+{style="table-layout:auto"}
+
++++ -->
 
 ## ![Icon](/assets/pass.png) [!DNL Adobe Pass] {#pass}
 
@@ -652,3 +635,19 @@ See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com
 ## ![Icon](/assets/experience-league.png) Digital Experience Blueprints {#blueprints}
 
 [Digital Experience Blueprints](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/overview) are repeatable implementations that let you address strategy and quickly solve established business problems. Each Blueprint provides a series of artifacts that explain the high-value business problem, architectures, implementation steps, technical considerations, and links to the relevant documentation.
+
+## ![Icon](/assets/certification-badge.png) Certification{#certification}
+
+Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site on Experience League. 
+
++++Details
+
+The [Experience Cloud Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site is your one-stop shop for all [!DNL Experience Cloud] certification-related content and is updated regularly with:
+
+* Available certifications
+* Certification renewals for Adobe applications
+* Certification program updates
+
+And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) on Experience League and start your certification journey today!
+
++++
