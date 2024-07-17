@@ -76,8 +76,8 @@ Updated **July 17, 2024**
 * **[!DNL MARKETO AND MARKETO ENGAGE]** | Webinar | _Marketo & Mochas: Laying the Foundation - Maturity Part 1_ | Join Adobe's Business Advisors and learn how to best develop your org's Marketo usage. We'll review everything from instance governance to the program library, which hosts several programs to start your program building. | **July 25 @ 11:00 AM MT** | [Register](https://adobeevents.adobeconnect.com/ezavx8y6t6hh/event/registration.html?campaign-id=ExL)
 
 * **[!DNL WORKFRONT]** | Webinar | _Ask Workfront Customer Support - Troubleshooting Calculated Expressions_ | Join the Workfront Customer Support team for a 1-hour on calculated expressions. Between common examples, troubleshooting tips, key learnings, and a live demo, this session is not one to be missed! | **July 31 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 And more! View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
+
 +++
 
 ## ![Icon](/assets/experience-league.png) Adobe Content Supply Chain {#content-supply-chain}
