@@ -52,7 +52,7 @@ Latest update: **July 17, 2024**
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [Customer Data Management - Voices](#voices)
 * [Digital Experience Blueprints](#blueprints)
-* [Certification at Adobe](#certification)
+* [Certification at Adobe](https://experienceleague.adobe.com/en/docs/certification/program/overview)
 * [Adobe product security vulnerabilities](https://helpx.adobe.com/security.html)
 
 ## ![Icon](/assets/experience-league.png) [!DNL Experience League] events and updates {#events}
@@ -638,7 +638,7 @@ See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com
 
 [Digital Experience Blueprints](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/overview) are repeatable implementations that let you address strategy and quickly solve established business problems. Each Blueprint provides a series of artifacts that explain the high-value business problem, architectures, implementation steps, technical considerations, and links to the relevant documentation.
 
-## ![Icon](/assets/certification-badge.png) Certification{#certification}
+<!-- ## ![Icon](/assets/certification-badge.png) Certification{#certification}
 
 Attention all Adobe certification candidates! Visit the Experience Cloud [Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) site on Experience League. 
 
@@ -652,4 +652,4 @@ The [Experience Cloud Certification](https://experienceleague.adobe.com/en/docs/
 
 And more! Head over to [Adobe Certification](https://experienceleague.adobe.com/en/docs/certification/program/overview) on Experience League and start your certification journey today!
 
-+++
++++ -->
