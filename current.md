@@ -71,6 +71,10 @@ Updated **July 17, 2024**
 
 * **[!DNL WORKFRONT]** | Webinar | _Ask [!DNL Workfront] Customer Support - Troubleshooting Calculated Expressions_ | Join the [!DNL Workfront] Customer Support team for a 1-hour on calculated expressions. Between common examples, troubleshooting tips, key learnings, and a live demo, this session is not one to be missed! | **July 31 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
+* **[!DNL COMMERCE]** | Webinar | _Commerce and Coffee: Strategies for B2B eCommerce Success_ | Join Sr. Commerce Strategy Consultant, Corey Gelato, as he highlights some of the most impactful B2B e-commerce trends and reviews strategies that customers can leverage within Adobe Commerce. | **August 1 @ 11:00 AM MT** | [Register](https://adobeevents.adobeconnect.com/edcpz7z8zmnb/event/registration.html?campaign-id=ExL)
+
+* **[!DNL WORKFRONT]** | Community event | _Connect: Admin Chat for Marketing & Creative_ | Are you a system admin for a marketing or creative team? This customer-driven session will connect you with other admins to discuss best practices as well as tips and tricks. | **August 2 @ 10:00 AM MT** | [Register](https://events.teams.microsoft.com/event/80518fbb-f97e-49ee-b7b8-d93c82991b2b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 And more! View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
 +++
