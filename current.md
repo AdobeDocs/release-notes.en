@@ -26,7 +26,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## July 2024
 
-Latest update: **July 17, 2024**
+Latest update: **July 23, 2024**
 
 * [[!DNL Experience League] events and updates](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -64,12 +64,6 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 Updated **July 17, 2024**
 
 +++Details
-
-* **[!DNL WORKFRONT]** | Customer workshop | _Learn: Adobe [!DNL Workfront] 3rd Quarter 2024 Release Round Up + Environment Promotion_ | Join us for our quarterly release review session where we discuss the latest release features and their benefits. In this session, we'll also discuss the highly anticipated 'Environment Promotion' capability. | **July 18 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/8bf3c919-e511-41db-8d55-ba151ccfbca3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL EXPERIENCE MANAGER], [!DNL EXPERIENCE MANAGER ASSETS], AND [!DNL EXPERIENCE MANAGER SITES]** | Webinar | _Espressos & [!DNL Experience Manager:]: Digital Agility with AEM_ | Learn about the newest innovations in AEM Sites and Assets that make AEM your solution to the most common challenges in the CMS space. We'll explore Universal Editor, Headless & Document-based Authoring, and Assets UI. | **July 18 @ 11:00 AM MT** | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5705674188/event_landing.html?sco-id=5705710312&campaign-id=ExL&_charset_=utf-8)
-
-* **[!DNL WORKFRONT]** | Community event | _Connect: [!DNL Workfront] Collective_ | Join our monthly Monday [!DNL Workfront] Collective meetups, designed to connect with other customers, discuss [!DNL Workfront] features, share ideas, and brainstorm together to solve common challenges. | **July 22 @ 7:00 AM MT** | [Register](https://events.teams.microsoft.com/event/61a9a387-0f0f-4d1d-9aa4-123f97eda635@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Customer workshop | _Learn with Customers: Using [!DNL Workfront] for Reorgs_ | Join us for a 1-hour presentation from customers and former customers as they share their experience and recommendations on how to use [!DNL Workfront] to help the structural and process changes of organizational reorgs. | **July 23 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/64ea4bad-fbbb-4051-8f21-c96a38daee79@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
