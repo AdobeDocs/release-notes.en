@@ -61,19 +61,23 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 ### Events on Experience League 
 
-Updated **July 17, 2024**
+Updated **July 26, 2024**
 
 +++Details
-
-* **[!DNL WORKFRONT]** | Customer workshop | _Learn with Customers: Using [!DNL Workfront] for Reorgs_ | Join us for a 1-hour presentation from customers and former customers as they share their experience and recommendations on how to use [!DNL Workfront] to help the structural and process changes of organizational reorgs. | **July 23 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/64ea4bad-fbbb-4051-8f21-c96a38daee79@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL MARKETO AND MARKETO ENGAGE]** | Webinar | _Marketo & Mochas: Laying the Foundation - Maturity Part 1_ | Join Adobe's Business Advisors and learn how to best develop your org's Marketo usage. We'll review everything from instance governance to the program library, which hosts several programs to start your program building. | **July 25 @ 11:00 AM MT** | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5706378570/event_landing.html?sco-id=5706388344&campaign-id=ExL&_charset_=utf-8)
 
 * **[!DNL WORKFRONT]** | Webinar | _Ask [!DNL Workfront] Customer Support - Troubleshooting Calculated Expressions_ | Join the [!DNL Workfront] Customer Support team for a 1-hour on calculated expressions. Between common examples, troubleshooting tips, key learnings, and a live demo, this session is not one to be missed! | **July 31 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL COMMERCE]** | Webinar | _Commerce and Coffee: Strategies for B2B eCommerce Success_ | Join Sr. Commerce Strategy Consultant, Corey Gelato, as he highlights some of the most impactful B2B e-commerce trends and reviews strategies that customers can leverage within Adobe Commerce. | **August 1 @ 11:00 AM MT** | [Register](https://adobeevents.adobeconnect.com/edcpz7z8zmnb/event/registration.html?campaign-id=ExL)
 
 * **[!DNL WORKFRONT]** | Community event | _Connect: Admin Chat for Marketing & Creative_ | Are you a system admin for a marketing or creative team? This customer-driven session will connect you with other admins to discuss best practices as well as tips and tricks. | **August 2 @ 10:00 AM MT** | [Register](https://events.teams.microsoft.com/event/80518fbb-f97e-49ee-b7b8-d93c82991b2b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL WORKFRONT]** | Customer workshop | _Admin 101: Getting Users to Use Workfront_ | New to Workfront? Join our Admin 101 monthly meetups to ask questions, get resources, learn best practices, and meet other new admins. This month, we'll discuss user adoption! | **August 6 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/25756c69-c2ae-41d5-a5b8-b257193b1313@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL ANALYTICS]** | Experience Makers | _The Skill Exchange for Adobe Analytics_ | Join us on August 7th for this free digital customer learning event. You will hear from experts & peers on how they use Adobe Analytics. There's also time to get your questions answered. | **August 7 @ 10:00 AM MT** | [Register](https://adobe.ly/4c7TAqZ)
+
+* **[!DNL MARKETO]** | Experience Makers | _The Skill Exchange for Adobe Marketo Engage_ | Join us August 8th for this free digital customer learning event. You will hear from experts & peers on how they use Marketo Engage. There's also time to have your questions answered. | **August 8 @ 10:00 AM MT** | [Register](https://adobe.ly/4c7TAqZ)
+
+* **[!DNL COMMERCE]** | Experience Makers | _Behind the Brew: Adobe Developer App Builder_ | Join Adobe's Technical Account Manager and learn everything you need to know to integrate Adobe Commerce with any other eCommerce application through Adobe Developer App Builder's third-party extensibility framework | **August 8 @ 11:00 AM MT** | [Register](https://adobeevents.adobeconnect.com/expphv5tkyoc/event/registration.html?campaign-id=ExL)
 
 And more! View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
