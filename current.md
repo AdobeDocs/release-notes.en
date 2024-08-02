@@ -26,7 +26,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## July 2024
 
-Latest update: **July 23, 2024**
+Latest update: **August 2, 2024**
 
 * [[!DNL Experience League] events and updates](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -61,15 +61,9 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 ### Events on Experience League 
 
-Updated **July 26, 2024**
+Updated **August 2, 2024**
 
 +++Details
-
-* **[!DNL WORKFRONT]** | Webinar | _Ask [!DNL Workfront] Customer Support - Troubleshooting Calculated Expressions_ | Join the [!DNL Workfront] Customer Support team for a 1-hour on calculated expressions. Between common examples, troubleshooting tips, key learnings, and a live demo, this session is not one to be missed! | **July 31 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/4d5cffba-77b5-480c-b6c9-a0ace4115b2d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL COMMERCE]** | Webinar | _Commerce and Coffee: Strategies for B2B eCommerce Success_ | Join Sr. Commerce Strategy Consultant, Corey Gelato, as he highlights some of the most impactful B2B e-commerce trends and reviews strategies that customers can leverage within Adobe Commerce. | **August 1 @ 11:00 AM MT** | [Register](https://adobeevents.adobeconnect.com/edcpz7z8zmnb/event/registration.html?campaign-id=ExL)
-
-* **[!DNL WORKFRONT]** | Community event | _Connect: Admin Chat for Marketing & Creative_ | Are you a system admin for a marketing or creative team? This customer-driven session will connect you with other admins to discuss best practices as well as tips and tricks. | **August 2 @ 10:00 AM MT** | [Register](https://events.teams.microsoft.com/event/80518fbb-f97e-49ee-b7b8-d93c82991b2b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Customer workshop | _Admin 101: Getting Users to Use Workfront_ | New to Workfront? Join our Admin 101 monthly meetups to ask questions, get resources, learn best practices, and meet other new admins. This month, we'll discuss user adoption! | **August 6 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/25756c69-c2ae-41d5-a5b8-b257193b1313@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
