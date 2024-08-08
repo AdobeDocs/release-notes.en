@@ -121,10 +121,7 @@ New tutorials published for Adobe [!DNL Experience Platform] on Experience Leagu
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|July 2024| [!DNL Experience Platform], [!DNL Real-Time CDP], [!DNL Journey Optimizer], [!DNL Customer Journey Analytics] | [AI Assistant](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/admin/ai-assistant)|Video | Learn what you can do with AI Assistant in Adobe Experience Platform-based applications like Real-Time Customer Data Platform, Journey Optimizer, and Customer Journey Analytics.  |
-|July 2024| [!DNL Experience Platform] | [Delete datasets and batches](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/data-hygiene/delete-datasets-and-batches)|Video | Learn how to delete datasets and batches in Adobe Experience Platform.  |
-|July 2024| [!DNL Experience Platform] | [Delete profiles](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/profiles/delete-profiles)|Video | Learn how to delete data from the Profile Store using the Real-Time Customer Profile API. |
-|July 2024| [!DNL Experience Platform] | [Set up customer-managed keys (CMK)](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/privacy/set-up-customer-managed-keys)|Video | Manage data-at-rest encryption using your own encryption keys.  |
+|August 2024| [!DNL Experience Platform] | [Use time constraints in segment definitions](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/time-constraints)|Video | Learn how to use the various date and time options in the Adobe Experience Platform audience builder interface.  |
 
 ### New [!DNL Experience Platform] support knowledge base{#kb-aep}
 
@@ -158,7 +155,7 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 [!DNL Analytics] release date: **July 17, 2024**
 
-* [!DNL Analytics] [release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest) 
+* [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html?lang=en) 
 
 * [!DNL Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/analytics)
 
@@ -168,7 +165,7 @@ Release version: **2.26.0**
 
 * [AppMeasurement for JavaScript release notes](https://experienceleague.adobe.com/en/docs/analytics/implementation/appmeasurement-updates)
 
-### New [!DNL Analytics] tutorials {#tutorials-analytics}
+<!-- ### New [!DNL Analytics] tutorials {#tutorials-analytics}
 
 New tutorials published for Adobe [!DNL Analytics] on Experience League.
 
@@ -179,7 +176,7 @@ New tutorials published for Adobe [!DNL Analytics] on Experience League.
 |July 2024|[Overview of Classifications in Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/classifications/overview-of-classifications)|Updated video |Learn about using classifications to add metadata (descriptive attributes) to your products, campaigns, pages, customers, and more. These attributes can help you better understand your marketing and experience efforts by allowing you to group similar elements and break down data to dive deeply into what is and isn't working for you.|
 |July 2024|[Create a Table of Contents in Analysis Workspace](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace)|Video |Learn about the Table of Contents in Analysis Workspace, which provides links that enable users to jump to panels and visualizations within the project. |
 
-+++
++++ -->
 
 <!--
 ### New Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
@@ -200,7 +197,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 [!DNL Customer Journey Analytics] release date: **July 17, 2024**
 
-* [!DNL Customer Journey Analytics] [release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases)
+* [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html)
 
 * [!DNL Customer Journey Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/customer-journey-analytics)
 
