@@ -34,8 +34,8 @@ Latest update: **August 8, 2024**
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (Release date: August 14)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (Release date: August 14)
+* [[!DNL Adobe Analytics]](#analytics) (Release date: **August 14**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (Release date: **August 14**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem) 
 * [[!DNL Adobe Commerce]](#commerce)
@@ -381,9 +381,12 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 +++Details
 
-### Latest [!DNL Journey Optimizer] product releases
+### [!DNL Journey Optimizer] product release updates
 
-**July 30:** Learn about the latest capabilities, improvements, and fixes in the [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes).
+Visit the following pages for the [!DNL Journey Optimizer] release updates:
+
+* [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes).
+* [Journey Optimizer B2B Edition documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/guide-overview)
 
 ### New [!DNL Journey Optimizer] tutorials {#tutorials-ajo}
 
