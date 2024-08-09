@@ -5,7 +5,7 @@ doc-type: release notes
 last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
-<!-- badgeReview: label="Internal Review" type="Negative" -->
+badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
 # Experience Cloud release notes - August 2024
