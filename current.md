@@ -386,7 +386,7 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 ### [!DNL Journey Optimizer] product release updates
 
-See [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) for updates and help.
+* See [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) for updates and help
 
 ### New [!DNL Journey Optimizer] tutorials {#tutorials-ajo}
 
@@ -409,9 +409,8 @@ Find release notes and new documentation for Adobe Journey Optimizer B2b Edition
 
 +++Details
 
-See [Journey Optimizer B2B Edition documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/guide-overview) for updates and help.
-
-Learn more about [Journey Optimizer B2B Edition](https://business.adobe.com/products/journey-optimizer-b2b-edition.html) in Experience Cloud.
+* See [Journey Optimizer B2B Edition documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/guide-overview) for release notes and self-help.
+* See [Journey Optimizer B2B Edition](https://business.adobe.com/products/journey-optimizer-b2b-edition.html) for product information.
 
 +++
 
@@ -445,7 +444,7 @@ Find out the latest release notes and release schedule for [!DNL Marketo Engage]
 
 ### Core Marketo Engage updates
 
-* See [June 2024 - current release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current) for the latest information
+* See [June 2024 - current release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current) for the latest information.
 * See [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/release-schedule) for the latest release schedule information and release notes.
 
 ### New Marketo tutorials {#tutorials-marketo}
