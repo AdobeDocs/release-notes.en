@@ -573,7 +573,8 @@ New tutorials published for [!DNL Document Cloud], including [!DNL Acrobat Servi
 
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| August 2024 | Acrobat | [Audit reports](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/audit-reports) | Video | Learn how to access, utilize, and configure audit reports to suit your organization's needs.|
+| August 2024 | Acrobat Sign | [How to set up webhooks](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/develop/custom/webhooks) | Video | Learn how to create a webhook to automate processes that normally require manual intervention. A webhook is a user-defined HTTPS request triggered when a subscribed event occurs.|
+| August 2024 | Acrobat Sign | [Audit reports](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/audit-reports) | Video | Learn how to access, utilize, and configure audit reports to suit your organization's needs.|
 | August 2024 | Acrobat | [Stylize this PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-pdf) | Updated video | Learn how to create professional-looking PDFs with the integrated easy-to-use design tools in Adobe Express.  |
 
 For [!DNL Document Cloud] tutorials, see:
