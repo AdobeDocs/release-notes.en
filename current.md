@@ -5,7 +5,6 @@ doc-type: release notes
 last-update: August 2024
 author: mfrei
 mini-toc-levels: 2
-badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
 # Experience Cloud release notes - August 2024
@@ -27,7 +26,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## August 2024
 
-Latest update: **August 13, 2024**
+Latest update: **August 14, 2024**
 
 * [[!DNL Experience League] events and updates](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -70,6 +69,10 @@ Updated **August 14, 2024**
 * **[!DNL EXPERIENCE MANAGER]** | Experience Makers | _The Skill Exchange for Adobe Experience Manager_ | Join us August 14 for this free digital customer learning event. You will hear from experts & peers on how they best use AEM. There's event time to answer your questions. | **August 14 @ 10:00 AM MT** | [Register](https://adobe.ly/4c7TAqZ%60)
 
 * **[!DNL WORKFRONT]** | Experience Makers | _The Skill Exchange for Adobe Workfront_ | Join us August 15 for a free digital customer learning event with content all focused on Workfront. You will hear from experts & peers on how they use Workfront in their daily business. | **August 15 @ 10:00 AM MT** | [Register](https://adobe.ly/4c7TAqZ)
+
+* **[!DNL WORKFRONT]** | Community event | _Connect: Workfront Collective_ | Join our monthly Monday Workfront Collective events, designed to connect with other customers, discuss Workfront features, share ideas, and brainstorm together to solve common challenges. | **August 19 @ 7:00 AM MT** | [Register](https://events.teams.microsoft.com/event/96be978b-7cb2-453d-b8a8-991101596488@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL REAL-TIME CUSTOMER DATA PLATFORM]** | Community event | _AEP/RTCDP Timings and What to Expect_ | Join us for an insightful webinar with Seth Burke, Adobe's Global Lead, as he delves into the best practices for navigating the Real-Time Customer Data Platform (RTCDP). | **August 20 @ 12:00 PM MT** | [Register](https://adobeevents.adobeconnect.com/tech-sessions/event/registration.html)
 
 And more! View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
