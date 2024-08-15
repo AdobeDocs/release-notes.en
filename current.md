@@ -60,6 +60,18 @@ Latest update: **August 14, 2024**
 
 Learn about exciting events on Experience League. It's a great place to learn, interact, and get answers from product experts at Adobe!
 
+<!-- ### Playlists on Experience League (new!)
+
+Update: **August 15, 2024**
+
+On Experience League, a [playlists](https://experienceleague.adobe.com/en/playlists) is an expertly curated collection of videos designed to quickly help you gain the skills and knowledge you seek.
+
+Navigate to **[!UICONTROL Learn]** > [Playlists](https://experienceleague.adobe.com/en/playlists) to browse playlists.
+
+>[!NOTE]
+>
+>Courses are being retired from Experience League. If you have a bookmark to a course, it now redirects to a corresponding playlist. -->
+
 ### Events on Experience League 
 
 Updated **August 14, 2024**
