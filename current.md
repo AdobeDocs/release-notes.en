@@ -26,7 +26,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## August 2024
 
-Latest update: **August 14, 2024**
+Latest update: **August 16, 2024**
 
 * [[!DNL Experience League] events and updates](#events) (Updated: **August 16**)
 * [[!DNL Adobe System Status]](#status)
@@ -66,7 +66,7 @@ Update: **August 16, 2024**
 
 Video [playlists](https://experienceleague.adobe.com/en/playlists) are new on Experience League. A playlist is a curated collection of videos designed to quickly help you gain the skills and knowledge you seek.
 
-To browse playlists, navigate to **[!UICONTROL Learn]** > **[!UICONTROL Playlists]**.
+To browse playlists, navigate to **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]**.
 
 >[!NOTE]
 >
