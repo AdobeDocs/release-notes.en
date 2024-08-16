@@ -28,7 +28,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 Latest update: **August 14, 2024**
 
-* [[!DNL Experience League] events and updates](#events)
+* [[!DNL Experience League] events and updates](#events) (Updated: **August 16**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -60,25 +60,23 @@ Latest update: **August 14, 2024**
 
 Learn about exciting events on Experience League. It's a great place to learn, interact, and get answers from product experts at Adobe!
 
-<!-- ### Playlists on Experience League (new!)
+### Playlists on Experience League (new!)
 
-Update: **August 15, 2024**
+Update: **August 16, 2024**
 
-On Experience League, a [playlists](https://experienceleague.adobe.com/en/playlists) is an expertly curated collection of videos designed to quickly help you gain the skills and knowledge you seek.
+Video [playlists](https://experienceleague.adobe.com/en/playlists) are new on Experience League. A playlist is a curated collection of videos designed to quickly help you gain the skills and knowledge you seek.
 
-Navigate to **[!UICONTROL Learn]** > [Playlists](https://experienceleague.adobe.com/en/playlists) to browse playlists.
+To browse playlists, navigate to **[!UICONTROL Learn]** > **[!UICONTROL Playlists]**.
 
 >[!NOTE]
 >
->Courses are being retired from Experience League. If you have a bookmark to a course, it now redirects to a corresponding playlist. -->
+>**Courses** are being retired from Experience League. If you have a bookmark to a course, you are redirected to a corresponding playlist.
+
+If you want to submit feedback to Experience League about playlists or any help issue, use the Feedback pop-up at the bottom of each page.
 
 ### Events on Experience League 
 
-Updated **August 14, 2024**
-
 +++Details
-
-* **[!DNL EXPERIENCE MANAGER]** | Experience Makers | _The Skill Exchange for Adobe Experience Manager_ | Join us August 14 for this free digital customer learning event. You will hear from experts & peers on how they best use AEM. There's event time to answer your questions. | **August 14 @ 10:00 AM MT** | [Register](https://adobe.ly/4c7TAqZ%60)
 
 * **[!DNL WORKFRONT]** | Experience Makers | _The Skill Exchange for Adobe Workfront_ | Join us August 15 for a free digital customer learning event with content all focused on Workfront. You will hear from experts & peers on how they use Workfront in their daily business. | **August 15 @ 10:00 AM MT** | [Register](https://adobe.ly/4c7TAqZ)
 
