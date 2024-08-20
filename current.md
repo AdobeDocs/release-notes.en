@@ -26,9 +26,9 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## August 2024
 
-Latest update: **August 16, 2024**
+Latest update: **August 20, 2024**
 
-* [[!DNL Experience League] events and updates](#events) (Updated: **August 16**)
+* [[!DNL Experience League] events and updates](#events) (Updated: **August 20**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -78,11 +78,15 @@ If you want to submit feedback to Experience League about playlists or any help 
 
 +++Details
 
-* **[!DNL WORKFRONT]** | Experience Makers | _The Skill Exchange for Adobe Workfront_ | Join us August 15 for a free digital customer learning event with content all focused on Workfront. You will hear from experts & peers on how they use Workfront in their daily business. | **August 15 @ 10:00 AM MT** | [Register](https://adobe.ly/4c7TAqZ)
+* **[!DNL EXPERIENCE CLOUD]** | Community event | _2025 Adobe Experience Maker Awards_ | Submissions are now open for the 2025 Adobe Experience Maker Awards. Extraordinary is just the beginning. Bold visionaries. Exceptional customer experiences. | **N/A** | [Apply now](https://www.adobeexperienceawards.com/?cgen=98SH4H11&mv=other)
 
-* **[!DNL WORKFRONT]** | Community event | _Connect: Workfront Collective_ | Join our monthly Monday Workfront Collective events, designed to connect with other customers, discuss Workfront features, share ideas, and brainstorm together to solve common challenges. | **August 19 @ 7:00 AM MT** | [Register](https://events.teams.microsoft.com/event/96be978b-7cb2-453d-b8a8-991101596488@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Customer workshop | _Learn: Using Workfront Request Queues for Intake Processes_ | JJoin us for a discussion on the benefits and best practices of Workfront Request Queues for tracking, organizing, and reporting on your organization's work. | **August 21 @ 9:30 AM MT** | [Register](https://events.teams.microsoft.com/event/ba631a2b-d656-42ca-99e9-3a78d0229c7b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL REAL-TIME CUSTOMER DATA PLATFORM]** | Community event | _AEP/RTCDP Timings and What to Expect_ | Join us for an insightful webinar with Seth Burke, Adobe's Global Lead, as he delves into the best practices for navigating the Real-Time Customer Data Platform (RTCDP). | **August 20 @ 12:00 PM MT** | [Register](https://adobeevents.adobeconnect.com/tech-sessions/event/registration.html)
+* **[!DNL ANALYTICS]** | Community event | _Data Drip: Adobe Analytics Basics and Beyond_ | Join Adobe Analytics experts as they guide us through best practices for organizing your workspace, navigating Adobe Analytics' learning paths for beginners, and connecting it with 3rd party data visualization tools. | **August 22 @ 11:00 AM MT** | [Register](https://adobeevents.adobeconnect.com/et45xd86xdq9/event/registration.html?campaign-id=ExL)
+
+* **[!DNL WORKFRONT]** | Customer workshop | _Learn: Making the Case for Workfront Fusion_ | Join the Customer Success team for a 1-hour interactive workshop with Deloitte and Adobe Workfront Integrations Consulting to learn how to quantify time savings and build a strong business case for Workfront Fusion. | **August 27 @ 10:00 AM MT** | [Register](https://events.teams.microsoft.com/event/734d96e0-861a-48af-84e7-206a2e5c5ff5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL JOURNEY OPTIMIZER]** | Coffee Break | _Adobe Journey Optimizer Community Q&A Coffee Break_ | It is an hour long AMA-like chat session with Journey Optimizer experts around the 3 must try features of Journey Optimizer- journey experimentation, frequency capping and multi-lingual messaging. | **September 4 @ 9:00 AM MT** | [Register](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-september-4th-with-adobe-journey/ev-p/691101)
 
 And more! View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
