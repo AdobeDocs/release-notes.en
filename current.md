@@ -26,9 +26,9 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## August 2024
 
-Latest update: **August 20, 2024**
+Latest update: **August 22, 2024**
 
-* [[!DNL Experience League] events and updates](#events) (Updated: **August 20**)
+* [[!DNL Experience League] events and updates](#events) (Updated: **August 22**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -62,17 +62,22 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 ### Playlists on Experience League (new!)
 
-Update: **August 16, 2024**
+Update: **August 22, 2024**
 
-Video [playlists](https://experienceleague.adobe.com/en/playlists) are new on Experience League. A playlist is a curated collection of videos designed to quickly help you gain the skills and knowledge you seek.
+New video [playlists](https://experienceleague.adobe.com/en/playlists) are new on Experience League. A playlist is a curated collection of videos designed to quickly help you gain the skills and knowledge you seek.
+
+Playlist features include:
+
+*    Auto-play videos 
+*    Chapter selection and playback speed 
+*    Resume where you left off 
+*    Video transcripts 
 
 To browse playlists, navigate to **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]**.
 
 >[!NOTE]
 >
->**Courses** are being retired from Experience League. If you have a bookmark to a course, you are redirected to a corresponding playlist.
-
-If you want to submit feedback to Experience League about playlists or any help issue, use the Feedback pop-up at the bottom of each page.
+>**Courses** are being retired from Experience League. If you have a bookmark to a course, you are redirected to a corresponding playlist if one exists. In some cases, you might need to browse to a suitable playlist that covers the topics you're looking for.
 
 ### Events on Experience League 
 
@@ -80,13 +85,11 @@ If you want to submit feedback to Experience League about playlists or any help 
 
 * **[!DNL EXPERIENCE CLOUD]** | Community event | _2025 Adobe Experience Maker Awards_ | Submissions are now open for the 2025 Adobe Experience Maker Awards. Extraordinary is just the beginning. Bold visionaries. Exceptional customer experiences. | **N/A** | [Apply now](https://www.adobeexperienceawards.com/?cgen=98SH4H11&mv=other)
 
-* **[!DNL WORKFRONT]** | Customer workshop | _Learn: Using Workfront Request Queues for Intake Processes_ | JJoin us for a discussion on the benefits and best practices of Workfront Request Queues for tracking, organizing, and reporting on your organization's work. | **August 21 @ 9:30 AM MT** | [Register](https://events.teams.microsoft.com/event/ba631a2b-d656-42ca-99e9-3a78d0229c7b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL ANALYTICS]** | Community event | _Data Drip: Adobe Analytics Basics and Beyond_ | Join Adobe Analytics experts as they guide us through best practices for organizing your workspace, navigating Adobe Analytics' learning paths for beginners, and connecting it with 3rd party data visualization tools. | **August 22 @ 11:00 AM MT** | [Register](https://adobeevents.adobeconnect.com/et45xd86xdq9/event/registration.html?campaign-id=ExL)
-
 * **[!DNL WORKFRONT]** | Customer workshop | _Learn: Making the Case for Workfront Fusion_ | Join the Customer Success team for a 1-hour interactive workshop with Deloitte and Adobe Workfront Integrations Consulting to learn how to quantify time savings and build a strong business case for Workfront Fusion. | **August 27 @ 10:00 AM MT** | [Register](https://events.teams.microsoft.com/event/734d96e0-861a-48af-84e7-206a2e5c5ff5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL JOURNEY OPTIMIZER]** | Coffee Break | _Adobe Journey Optimizer Community Q&A Coffee Break_ | It is an hour long AMA-like chat session with Journey Optimizer experts around the 3 must try features of Journey Optimizer- journey experimentation, frequency capping and multi-lingual messaging. | **September 4 @ 9:00 AM MT** | [Register](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-september-4th-with-adobe-journey/ev-p/691101)
+
+* **[!DNL WORKFRONT]** | Community event | _Connect: Admin Chat for Marketing & Creative_ | Are you a system admin for a marketing or creative team? This customer-driven session will connect you with other admins to discuss best practices as well as tips and tricks. | **September 6 @ 10:00 AM MT** | [Register](https://events.teams.microsoft.com/event/a481891f-b025-4a36-8672-601e8ca1819c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 And more! View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
