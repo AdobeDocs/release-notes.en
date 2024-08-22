@@ -64,7 +64,7 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 Update: **August 22, 2024**
 
-New video [playlists](https://experienceleague.adobe.com/en/playlists) are new on Experience League. A playlist is a curated collection of videos designed to quickly help you gain the skills and knowledge you seek.
+New video [playlists](https://experienceleague.adobe.com/en/playlists) are available on Experience League. A playlist is a curated collection of videos designed to quickly help you gain the skills and knowledge you seek.
 
 Playlist features include:
 
@@ -77,7 +77,7 @@ To browse playlists, navigate to **[!UICONTROL Learn]** > **[!UICONTROL Browse a
 
 >[!NOTE]
 >
->**Courses** are being retired from Experience League. If you have a bookmark to a course, you are redirected to a corresponding playlist if one exists. In some cases, you might need to browse to a suitable playlist that covers the topics you're looking for.
+>**Courses** are being retired from Experience League. If you bookmarked a course, you are redirected to a corresponding playlist if one exists. In some cases, you might need to browse to a new playlist that covers the topics you're looking for.
 
 ### Events on Experience League 
 
