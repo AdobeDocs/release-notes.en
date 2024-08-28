@@ -22,13 +22,19 @@ This page helps you locate the following self-help resources for Experience Clou
 
 For the best self-help experience, sign in to [Experience League](https://experienceleague.adobe.com/#home) and customize your search experience across Adobe's free library of [documentation](https://experienceleague.adobe.com/en/docs), [courses](https://experienceleague.adobe.com/#courses), [events](https://experienceleague.adobe.com/events/), [community forums](https://experienceleaguecommunities.adobe.com/?profile.language=en), and [support](https://experienceleague.adobe.com/?support-tab=home#support).
 
+**Leave feedback**
+
+Look for the **_Was this content helpful?_** pop-up at the bottom of each page. Your feedback is curated and delivered to content authors.
+
+**Get notified**
+
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).  
 
 ## August 2024
 
-Latest update: **August 22, 2024**
+Latest update: **August 28, 2024**
 
-* [[!DNL Experience League] events and updates](#events) (Updated: **August 22**)
+* [[!DNL Experience League] events and updates](#events) (Updated: **August 28**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -85,9 +91,9 @@ To browse playlists, navigate to **[!UICONTROL Learn]** > **[!UICONTROL Browse a
 
 * **[!DNL EXPERIENCE CLOUD]** | Community event | _2025 Adobe Experience Maker Awards_ | Submissions are now open for the 2025 Adobe Experience Maker Awards. Extraordinary is just the beginning. Bold visionaries. Exceptional customer experiences. | **N/A** | [Apply now](https://www.adobeexperienceawards.com/?cgen=98SH4H11&mv=other)
 
-* **[!DNL WORKFRONT]** | Customer workshop | _Learn: Making the Case for Workfront Fusion_ | Join the Customer Success team for a 1-hour interactive workshop with Deloitte and Adobe Workfront Integrations Consulting to learn how to quantify time savings and build a strong business case for Workfront Fusion. | **August 27 @ 10:00 AM MT** | [Register](https://events.teams.microsoft.com/event/734d96e0-861a-48af-84e7-206a2e5c5ff5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL JOURNEY OPTIMIZER]** | Coffee Break | _Adobe Journey Optimizer Community Q&A Coffee Break_ | It is an hour long AMA-like chat session with Journey Optimizer experts around the 3 must try features of Journey Optimizer- journey experimentation, frequency capping and multi-lingual messaging. | **September 4 @ 9:00 AM MT** | [Register](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-september-4th-with-adobe-journey/ev-p/691101)
+
+* **[!DNL EXPERIENCE MANAGER AS A CLOUD SERVICE]** | AEM GEMS | _What's new in Rapid Development Environments for AEM?_ | Join us to get to know how to use RDEs to reduce development turn-around times and get near instant feedback for code changes. We will introduce the latest features like improved logging, frontend support, and more. | **September 4 @ 9:00 AM MT** | [Register](https://adobe.ly/4cwc5W4)
 
 * **[!DNL WORKFRONT]** | Community event | _Connect: Admin Chat for Marketing & Creative_ | Are you a system admin for a marketing or creative team? This customer-driven session will connect you with other admins to discuss best practices as well as tips and tricks. | **September 6 @ 10:00 AM MT** | [Register](https://events.teams.microsoft.com/event/a481891f-b025-4a36-8672-601e8ca1819c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
