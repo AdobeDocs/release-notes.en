@@ -32,11 +32,11 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## August 2024
 
-Latest update: **August 28, 2024**
+Latest update: **September 3, 2024**
 
-* [[!DNL Experience League] events and updates](#events) (Updated: **August 28**)
+* [[!DNL Experience League] events and updates](#events) 
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
+* [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud) (Updated: **September 3**)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics) (Release date: **August 14**)
@@ -126,7 +126,11 @@ Learn about [!DNL Experience Cloud] central interface components and administrat
 
 +++Details
 
-Not updated.
+Release: **September 2, 2024**
+
+| Feature    | Description  |
+| -----------| ---------- |
+|Slack notifications |You can configure your account preferences to send Experience Cloud notifications to Slack. See _Slack notifications_ in [Account preferences and notifications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) help for details.|
 
 For help on Experience Cloud central interface components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
 
