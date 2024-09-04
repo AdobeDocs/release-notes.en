@@ -33,7 +33,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## September 2024
 
-Latest update: **September 3, 2024**
+Latest update: **September 4, 2024**
 
 * [[!DNL Experience League] events and updates](#events) 
 * [[!DNL Adobe System Status]](#status)
@@ -101,6 +101,17 @@ Learn about the latest features and updates in [!DNL Adobe System Status].
 +++Details
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
+
+Release date: **August 19, 2024**
+
+**What's new**
+
+* Product-based maintenance notifications, bug fixes, and improvements
+
+| Feature | Description |
+| ------- | ------- |
+| Product based maintenances | <ul><li>Enhanced UI and notifications per product impacted instead of per maintenance.</li><li>Impact attributes of each update provide details on how a product is impacted during maintenance.</li></ul> |
+| Bug fixes and improvements | <ul><li>Customers were not able to filter the incidents by event status using Status APIs.</li><li>Localized the _How to subscribe_ help page.</li><li>Added support contact information on [!DNL Slack] set up instructions page.</li></ul> |
 
 For recent release notes, see:
 
@@ -259,6 +270,7 @@ New features, fixes, and updates in [!DNL Experience Manager]. Adobe recommends 
 
 All [!DNL Experience Manager] release notes are maintained at the following pages:
 
+* [Latest release overview video](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/2024/2024-7-0)
 * [[!DNL Experience Manager] release updates and roadmaps](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/home) - Learn about the [!DNL Experience Manager] release roadmap, previous release updates, and documentation updates.
 * [Current Release Notes for [!DNL Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
 * [[!DNL Experience Manager] 6.5 Service Pack release notes](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes)
