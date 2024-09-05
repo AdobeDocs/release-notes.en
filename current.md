@@ -181,9 +181,7 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|July 2024|[[!DNL AEP - RT-CDP] activation ([!DNL LinkedIn, Google Customer Match, Facebook]) - Supported identities and what to send](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24608)|New article| Learn about the solution for when the [!UICONTROL Playbooks] menu is missing from your [!UICONTROL sandbox].|
-|July 2024|[Why are some [!DNL AJO] [!UICONTROL datasets] still visible upon resetting a [!UICONTROL sandbox]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24605)|New article| Learn about the [!DNL Adobe Experience Platform] issue where all non-[!DNL AJO] schemas and datasets are removed after a [!UICONTROL sandbox] reset, but not the [!DNL AJO] schemas and [!UICONTROL datasets].|
-|July 2024|[[!DNL AEP] - Advice about [!DNL IP range whitelisting] for [!UICONTROL Event Forwarding] instances](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24661)|New article| Learn about advice regarding [!UICONTROL Event Forwarding] in relation to [!DNL whitelisting] of [!DNL IP addresses] in [!DNL AEP].|
+|August 2024|[Schema update access error in [!DNL Adobe Experience Platform]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24746)|New article| Learn about how to resolve the *[!DNL XDM Schema] update is not allowed* error in [!DNL Adobe Experience Platform].|
 
 +++
 
@@ -225,15 +223,16 @@ New tutorials published for Adobe [!DNL Analytics] on Experience League.
 | -----------| ---------- | ---------- | ---------- |
 |September 2024|[Using the Classification Rule Builder in Adobe Analytics](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/components/classifications/using-the-classification-rule-builder.html?lang=en)|Video |Learn to use the Classification Rule Builder to automatically apply rule-based classifications in Adobe Analytics.|
 
-<!--
+
 ### New Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
 
 New articles and updates to existing articles for [!DNL Analytics].
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|May 2024|[[!UICONTROL Segment names] created in [!DNL Adobe Audience Manager] aren't displayed correctly under the [!UICONTROL Audience Names dimension] in [!DNL Adobe Analytics]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24204)|New article|Learn about the solution for the issue when [!UICONTROL segment names] created in [!DNL Adobe Audience Manager] aren't displayed correctly under the [!UICONTROL Audience Names dimension] in [!DNL Adobe Analytics].|
--->
+|August 2024|[Disable server-side forwarding in [!DNL Analytics Mobile SDK] extension](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24569)|New article|Learn how to disable server-side forwarding of an [!DNL Analytics] hit to [!DNL Audience Manager] from the [!DNL Mobile SDK].|
+|August 2024|[[!DNL Android 10] traffic increasing from May 2023 in dimension **[!DNL Operating System]**](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24442)|New article|Learn about why there's been an increase in [!DNL Android 10] traffic in the dimension **[!DNL Operating System]** in [!DNL Adobe Analytics].|
+
 
 +++ 
 
@@ -321,12 +320,11 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|July 2024|[[!DNL AEM DAM] - [!DNL ImageMagick] memory consumption](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24624)|New article| Learn about how to restrict memory consumption in the [!DNL ImageMagick] the conversion process.|
-|July 2024|[[!DNL URLs] authored under `/language-masters` aren't being correctly localized in the corresponding live copy page](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24583)|New article| Learn about how to fix the issue where URLs aren't being localized in live copy pages during rollout due to nested live copies in [!DNL Adobe Experience Manager (AEM)].|
-|July 2024|[How to stop email from [!DNL AEM] to user who no longer uses [!DNL AEM]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24558)|New article| Learn about how to stop [!DNL AEM] emails to users who no longer have access.|
-|July 2024|[[!DNL AEMaaCS]: How to add custom headers in [!DNL CDN] response](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24559)|New article| Learn about how to add custom response headers at the [!DNL CDN] layer.|
-|July 2024|[Configuring version [!UICONTROL purge] parameters to avoid erasing all versions in [!DNL AEM]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24611)|New article| Learn about the correct configurations of version [!UICONTROL purge] parameters across different use cases to help you avoid erasing all versions of a page in [!DNL AEM].|
-|July 2024|[[!DNL AEM] to [!DNL Adobe Launch Integration]: Migration from [!DNL Service Account (JWT)] to [!DNL OAuth] Server-to-Server credentials](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24660)|New article| Learn about the relevant sources to learn about the migration of [!DNL AMS AEM] ([!DNL Adobe Launch Integration] using developer console API) from your [!DNL Service Account (JWT)] credentials to [!DNL OAuth] Server-to-Server credentials.|
+|August 2024|[CF references in [!UICONTROL Content Fragments] aren't adjusted based on the language copy](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24819)|New article| Learn how to solve the problem when references in [!UICONTROL Content Fragments] aren't updated based on the [!UICONTROL Language Copy] in [!DNL AEM].|
+|August 2024|[[!DNL Akamai] Cache Clearing via [!DNL API]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24795)|New article| Learn how to programmatically sync [!DNL CDN] invalidation in [!DNL Dynamic Media Classic] while clearing all child caches of the parent asset in [!DNL Akamai].|
+|August 2024|[[!DNL PDF] files not publishing automatically](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24689)|New article| Learn how to resolve the issue of [!DNL PDFs] not being automatically published along with their thumbnails in [!DNL Adobe Experience Manager as a Cloud Service (AEMaaCS)].|
+|August 2024|[How to check the version of [!DNL Apache Jackrabbit Oak]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24785)|New article| Learn about how to identify the version of [!DNL Apache Jackrabbit Oak] used by [!DNL AEM].|
+|August 2024|[Configuring [!UICONTROL Workflow Purge] in [!DNL AEM as a Cloud Service]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24590)|New article| Learn how to configure [!UICONTROL workflow purge] settings step-by-step in [!DNL Adobe Experience Manager as a Cloud Service (AEMaaCS)].|
 
 +++
 
@@ -357,11 +355,13 @@ New articles and updates to existing articles for Adobe Commerce.
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|July 2024|[[!DNL Quality Patches Tool (QPT)]](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview)|New articles| New articles on how to apply patches available in [!DNL QPT] 1.1.48 were published and can be found in their respective sections.|
-|July 2024|[Troubleshooting [!DNL Encryption Key] Rotation: [!DNL CVE-2024-34102]](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/troubleshooting-encryption-key-rotation-cve-2024-34102)|New articles| This article is intended to help merchants troubleshoot [!DNL encryption key] rotation after they have already followed the steps outlined in this article on [!DNL CVE-2024-34102].|
-|July 2024|[Poor performance in integration environments](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/poor-performance-in-integration-environments)|New articles| Learn about the solution for the issue when the [!DNL Pro integration] environments and [!DNL Starter staging] environments are performing poorly.|
-|July 2024|[Customer profiles not appearing in [!DNL Experience Platform]](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/data-connection-customer-profiles-not-exported)|New articles| Learn the troubleshooting steps if your customer profile data is not appearing in the [!DNL Experience Platform] when using the [!DNL Data Connection] extension.|
-|July 2024|[[!DNL Live Search] dashboard and search result ranking is incorrect](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/live-search-dashboard-ranking-incorrect)|New articles| Learn about the solutions for the issue if you notice that the data displayed in the [!DNL Live Search] dashboard is incorrect, or if the ranking of the search results isn't what you expect.|
+|August 2024|[[!DNL Quality Patches Tool (QPT)]](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/support-tools/patches/patches-available-in-qpt-tool-overview)|New articles| New articles on how to apply patches available in [!DNL QPT] 1.1.49 and [!DNL QPT] 1.1.50 were published and can be found in their respective sections.|
+|August 2024|[[!DNL Live Search] facets are not alphabetically sorted](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/live-search-facets-not-sorted)|New articles| Learn about the workaround for when [!DNL Live Search] facets aren't alphabetically sorted.|
+|August 2024|[Decommissioning of [!DNL Adobe Commerce Help Center]](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/announcements/news/decommissioning-of-adobe-commerce-help-center)|New articles| Adobe Commerce has migrated our support intake process from [!DNL Adobe Commerce Help Center] to [!DNL Adobe Experience League]. On July 29, 2024, [!DNL Adobe Commerce Help Center] was placed in a read-only status, and all new support cases are now submitted through [[!DNL Adobe Experience League]](https://experienceleague.adobe.com).|
+|August 2024|[Fix data not updated in [!DNL Commerce Data Exporter] feeds and [!DNL cron] logs errors with changelog table don't exist](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mdee-table-does-not-exist)|New articles| Learn about a solution for fixing data synchronization issues caused by using the wrong view ID in the [!DNL Data Exporter] [[!DNL Mview]](https://developer.adobe.com/commerce/php/development/components/indexing/#mview) subscription. |
+|August 2024|[Security update available for Adobe Commerce - [!DNL APSB24-61]](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/security-update-available-for-adobe-commerce-apsb24-61)|New articles| Learn about when on August 13, 2024, Adobe released a regularly scheduled security update for Adobe Commerce, [!DNL Magento Open Source], and [!DNL Adobe Commerce Webhooks Plugin].|
+|August 2024|[Troubleshooting Encryption Key Rotation: [!DNL CVE-2024-34102]](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/troubleshooting-encryption-key-rotation-cve-2024-34102)|New articles| Learn how to troubleshoot encryption key rotation after you've already followed the steps outlined in this [article](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/security-update-available-for-adobe-commerce-apsb24-40-revised-to-include-isolated-patch-for-cve-2024-34102) on [!DNL CVE-2024-34102].|
+|August 2024|[Guidance on securing your store and rotating encryption keys: [!DNL CVE-2024-34102]](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/guidance-on-securing-your-store-and-rotating-encryptionkeys-cve-2024-34102)|New articles| Learn additional guidance on securing your store and rotating encryption keys regarding [!DNL CVE-2024-34102].|
 
 +++
 
@@ -371,11 +371,12 @@ Get access to pre-release notes, current release notes, and new tutorials for [!
 
 +++Details
 
-### New [!DNL Target] support knowledge base{#kb-target}
+<!-- ### New [!DNL Target] support knowledge base{#kb-target}
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
 |July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
+-->
 
 * For pre-release information, see [[!DNL Adobe Target] prerelease](https://experienceleague.adobe.com/en/docs/target/using/release-notes/target-release-notes)
 * For current information, see [[!DNL Adobe Target] release notes](https://experienceleague.adobe.com/en/docs/target/using/release-notes/release-notes)
@@ -406,17 +407,17 @@ New or updated videos tutorials published for Adobe Campaign.
 | ----------| ---------- | ---------- | ---------- |---------- |
 |September 2024| |[Explore the Campaign Web User Interface](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/getting-started/explore-the-web-ui)|Video |Learn how to access and navigate the Campaign Web User Interface and how to customize the inventory lists.|
 
-<!-- ### New [!DNL Campaign] support knowledge base{#kb-campaign}
+### New [!DNL Campaign] support knowledge base{#kb-campaign}
 
 New articles and updates to existing articles for [!DNL Campaign].
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|June 2024|[Error *[!DNL JST-310034 Function logonEscalation used by 'Anonymous account' to become 'Interaction account (interaction)']*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24392)|New article| Learn how to resolve the *[!DNL JST-310034 Function logonEscalation used by 'Anonymous account']* error that appears multiple times in the web log. Update [!DNL Adobe Campaign Classic] to version 7.3.2 or above to fix the issue.|
-|June 2024|[Checking [!DNL spam] score fails with error *[!DNL DLV-490066 Anti-spam checking failed]*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24427)|New article| This article helpS you explore the steps to follow for checking the [!DNL spam] score on a delivery when the error *[!DNL DLV-490066 Anti-spam checking failed]* is displayed in [!DNL Adobe Campaign Classic] v7.|
-|June 2024|[[!DNL ACS workflow] fails with error *[!DNL The AWS Access Key Id you provided does not exist]*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24479)|New article| Learn how to resolve the [!DNL Adobe Campaign Standard] issue where workflow fails with error *[!DNL The AWS Access Key Id you provided does not exist in our records.]*|
-|June 2024|[Alert activity sending delivery fails with *[!DNL Error while compiling script]*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24478)|New article| Learn how to resolve the [!DNL Adobe Campaign Classic] issue where the alert activity delivery fails with *[!DNL Error while compiling script 'SMTP headers' line XX: recipient is not defined.]*|
-|June 2024|[Modification and expressions section missing from Edit schema activity](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24495)|New article| Learn how to resolve the issue where the Modifications and expressions section is missing from the Edit schema activity in [!DNL Adobe Campaign Classic].|-->
+|August 2024|[[!DNL Web Analytics] connection fail](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24657)|New article| Learn about the solution to the issue when [!DNL Web Analytics] are getting connection failure for [!DNL Adobe Analytics] when connecting to [!DNL web analytics] external connections.|
+|August 2024|[Slowness and [!DNL 500 Timeout] error when opening deliveries or delivery templates](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24723)|New article| Learn about the solution to the issue where on-premises instances using [!DNL Oracle] as a database encounter slowness and a [!DNL 500 Timeout] error when opening deliveries or delivery templates.|
+|August 2024|[Directory creation after upgrading to [!DNL Campaign Classic v8]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24762)|New article| Learn about the solution to the issue when after upgrading [!DNL Adobe Campaign Classic] from v7 to v8, workflows encounter errors from missing directory paths.|
+|August 2024|[Configuring [!DNL FTP] key-based connection - [!DNL Adobe Campaign]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24447)|New article| Learn how to configure a [!DNL FTP (File Transfer Protocol)] key-based connection.|
+|August 2024|[[!DNL Campaign Classic v7]: Workflows "No space left on device error"](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24557)|New article| Learn about what to do when there's no more space left on a database server and workflows/deliveries result in a *No space left on device* error.|
 
 ### [!DNL Campaign] help resources
 
