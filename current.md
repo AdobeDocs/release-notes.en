@@ -33,7 +33,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## September 2024
 
-Latest update: **September 11, 2024**
+Latest update: **September 6, 2024**
 
 * [[!DNL Experience League] events and updates](#events) 
 * [[!DNL Adobe System Status]](#status)
