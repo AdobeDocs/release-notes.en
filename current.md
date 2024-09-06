@@ -124,8 +124,8 @@ Release date: **August 19, 2024**
 
 | Feature | Description |
 | ------- | ------- |
-| Product based maintenances | <ul><li>Enhanced UI and notifications per product impacted instead of per maintenance.</li><li>Impact attributes of each update provide details on how a product is impacted during maintenance.</li></ul> |
-| Bug fixes and improvements | <ul><li>Customers were not able to filter the incidents by event status using Status APIs.</li><li>Localized the _How to subscribe_ help page.</li><li>Added support contact information on [!DNL Slack] set up instructions page.</li></ul> |
+| Product based maintenances | <ul><li>Enhanced UI and notifications per product instead of per maintenance.</li><li>Impact attributes of each update provide product-specific details of the impact.</li></ul> |
+| Bug fixes and improvements | <ul><li>_How to subscribe_ help page localization.</li><li>Added support contact information on Slack set up instructions page.</li><li>Fixed the bug on incidents not filtered correctly by event status using Status APIs.</li></ul> |
 
 For recent release notes, see:
 
