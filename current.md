@@ -149,7 +149,7 @@ Release: **September 10, 2024**
 
 | Feature    | Description  |
 | -----------| ---------- |
-|Slack notifications |You can configure your account preferences to send Experience Cloud notifications to Slack. See [Subscribe to Slack notifications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) for details. Production URL: `https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences`|
+|Slack notifications |You can configure your account preferences to send Experience Cloud notifications to Slack. See [Subscribe to Slack notifications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) for details.|
 
 For help on Experience Cloud central interface components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
 
