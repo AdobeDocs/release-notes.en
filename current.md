@@ -32,11 +32,11 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## August 2024
 
-Latest update: **September 3, 2024**
+Latest update: **September 10, 2024**
 
-* [[!DNL Experience League] events and updates](#events) 
+* [[!DNL Experience League] events and updates](#events) (Updated: **September 10**)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud) (Updated: **September 3**)
+* [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud) (Updated: **September 10**)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics) (Release date: **August 14**)
@@ -89,13 +89,21 @@ To browse playlists, navigate to **[!UICONTROL Learn]** > **[!UICONTROL Browse a
 
 +++Details
 
-* **[!DNL EXPERIENCE CLOUD]** | Community event | _2025 Adobe Experience Maker Awards_ | Submissions are now open for the 2025 Adobe Experience Maker Awards. Extraordinary is just the beginning. Bold visionaries. Exceptional customer experiences. | **N/A** | [Apply now](https://www.adobeexperienceawards.com/?cgen=98SH4H11&mv=other)
+* **[!DNL MARKETO ENGAGE]** | Community event | _Marketo & Mochas: Optimizing Your Marketo Usage (Maturity Pt 2)_ | Learn how to optimize your Marketo usage at Part 2 of our Marketo Maturity series. This session focuses on best practices for data management, integrations, and program optimization for improved personalization. | **September 12 @ 11:00 AM MT** | [Register](https://adobeevents.adobeconnect.com/eaawduywkndj/event/registration.html?campaign-id=ExL)
 
-* **[!DNL JOURNEY OPTIMIZER]** | Coffee Break | _Adobe Journey Optimizer Community Q&A Coffee Break_ | It is an hour long AMA-like chat session with Journey Optimizer experts around the 3 must try features of Journey Optimizer- journey experimentation, frequency capping and multi-lingual messaging. | **September 4 @ 9:00 AM MT** | [Register](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/community-q-amp-a-coffee-break-september-4th-with-adobe-journey/ev-p/691101)
+* **[!DNL WORKFRONT]** | Customer workshop | _Learn: Back to Workfront Boards with Adobe Product_ | Looking for new and creative ways to use Workfront Boards? Join our Product Managers to learn about Boards best practices and how to use the feature to improve adoption. | **September 12 @ 12:00 PM MT** | [Register](https://events.teams.microsoft.com/event/e1e4a956-0115-4a60-b7f8-f519e6f26013@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL EXPERIENCE MANAGER AS A CLOUD SERVICE]** | AEM GEMS | _What's new in Rapid Development Environments for AEM?_ | Join us to get to know how to use RDEs to reduce development turn-around times and get near instant feedback for code changes. We will introduce the latest features like improved logging, frontend support, and more. | **September 4 @ 9:00 AM MT** | [Register](https://adobe.ly/4cwc5W4)
+* **[!DNL WORKFRONT]** | Community event | _Connect: Workfront Collective_ | Join our monthly Monday Workfront Collective event to connect with other customers, discuss Workfront features, and brainstorm together to solve common challenges. | **September 16 @ 7:00 AM MT** | [Register](https://events.teams.microsoft.com/event/ecc08357-a15e-4058-a062-8efe038c81cc@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Community event | _Connect: Admin Chat for Marketing & Creative_ | Are you a system admin for a marketing or creative team? This customer-driven session will connect you with other admins to discuss best practices as well as tips and tricks. | **September 6 @ 10:00 AM MT** | [Register](https://events.teams.microsoft.com/event/a481891f-b025-4a36-8672-601e8ca1819c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Customer workshop | _Admin 101: Bring Your Workfront Questions_ | New to Workfront? Did you miss any of the previous Admin 101 sessions? Join our summary session to ask questions, get resources and recommendations, and meet other new admins. | **September 17 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/ea6802af-b1dc-441a-aedb-79ed8607e02d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL MARKETO ENGAGE]** | Webinar | _Master complex customer journeys with Multi-Stream Engagement Programs_ | Join Adobe Marketo Engage Champion Max Garrett to explore how to systematically engage and nurture customer relationships with multi-touch and multi-stream Engagement Programs at every step of their journey. | **September 17 @ 9:00 AM MT** | [Register](https://engage.adobe.com/Master-Muti-Stream-Engagement-Program-Marketo-Engage.html?trackingid=CJ1327K1&mv=email)
+
+* **[!DNL WORKFRONT]** | Customer workshop | _Learn: Value Realization - Getting the most from Workfront_ | Looking for guidance on how to realize the most value from your Workfront efforts? Join Senior Customer Success Manager, Kait Winchell, as she shares industry best practices to get the most from Workfront. | **September 19 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/6fae993e-73b5-49e6-97a1-1aa0a64b83c8@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL COMMERCE]** | Webinar | _Commerce & Coffee: Peak Season Prep_ | Join Corey Gelato for an overview of how to prepare your site for a peak season at any time of year. Learn how to optimize website performance, manage inventory, fulfill orders, and proactively ramp up support. | **September 19 @ 11:00 AM MT** | [Register](https://adobeevents.adobeconnect.com/e47se7d9nn63/event/registration.html?campaign-id=ExL)
+
+* **[!DNL DYNAMIC MEDIA CLASSIC], [!DNL EXPERIENCE MANAGER ASSETS]** | Webinar | _Dynamic Media Experience: Unveiling the Latest Innovations_ | New innovations in AEM Dynamic Media are now available to elevate your customer experience! Join us for a value-focused rundown and a walkthrough of a compelling user experience built with the latest technologies. | **September 25 @ 10:00 AM MT** | [Register](https://events.teams.microsoft.com/event/043c6637-cfaf-486b-8924-2e562d28c833@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 And more! View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
@@ -108,6 +116,17 @@ Learn about the latest features and updates in [!DNL Adobe System Status].
 +++Details
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
+
+Release date: **August 19, 2024**
+
+**What's new**
+
+* Product-based maintenance notifications, bug fixes, and improvements
+
+| Feature | Description |
+| ------- | ------- |
+| Product based maintenances | <ul><li>Enhanced UI and notifications per product instead of per maintenance.</li><li>Impact attributes of each update provide product-specific details of the impact.</li></ul> |
+| Bug fixes and improvements | <ul><li>_How to subscribe_ help page localization.</li><li>Added support contact information on Slack set up instructions page.</li><li>Fixed the bug on incidents not filtered correctly by event status using Status APIs.</li></ul> |
 
 For recent release notes, see:
 
@@ -126,11 +145,11 @@ Learn about [!DNL Experience Cloud] central interface components and administrat
 
 +++Details
 
-Release: **September 2, 2024**
+Release: **September 10, 2024**
 
 | Feature    | Description  |
 | -----------| ---------- |
-|Slack notifications |You can configure your account preferences to send Experience Cloud notifications to Slack. See _Slack notifications_ in [Account preferences and notifications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) help for details.|
+|Slack notifications |You can configure your account preferences to send Experience Cloud notifications to Slack. See [Subscribe to Slack notifications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) for details. Production URL: `https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences`|
 
 For help on Experience Cloud central interface components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
 
