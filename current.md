@@ -2,12 +2,12 @@
 title: Latest Release Notes
 description: Find the latest release notes and Knowledge Base issues for Adobe [!DNL Experience Cloud] products and services. Learn about upcoming events and new documentation on Experience League. Discover the latest tutorials and courses for [!DNL Experience Cloud] applications.
 doc-type: release notes
-last-update: September 2024
+last-update: October 2024
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
-# Experience Cloud release notes - September 2024
+# Experience Cloud release notes - October 2024
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -30,9 +30,9 @@ Look for the **_Was this content helpful?_** pop-up at the bottom of each page. 
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
-## September 2024
+## October 2024
 
-Latest update: **September 11, 2024**
+Latest update: **October 2, 2024**
 
 * [[!DNL Experience League] events and updates](#events) (Updated: **September 10**)
 * [[!DNL Adobe System Status]](#status)
@@ -202,7 +202,7 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 +++Details
 
-[!DNL Analytics] release date: **September 11, 2024**
+[!DNL Analytics] release date: **October 2, 2024**
 
 * [!DNL Analytics] [release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest) <!-- * [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html)  -->
 
