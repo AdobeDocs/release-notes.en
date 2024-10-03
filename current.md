@@ -7,7 +7,7 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
-# Experience Cloud release notes - October 2024
+# Experience Cloud release notes - September/October 2024
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -30,7 +30,7 @@ Look for the **_Was this content helpful?_** pop-up at the bottom of each page. 
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
-## October 2024
+## September - October 2024
 
 Latest update: **October 3, 2024**
 
