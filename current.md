@@ -2,12 +2,13 @@
 title: Latest Release Notes
 description: Find the latest release notes and Knowledge Base issues for Adobe [!DNL Experience Cloud] products and services. Learn about upcoming events and new documentation on Experience League. Discover the latest tutorials and courses for [!DNL Experience Cloud] applications.
 doc-type: release notes
-last-update: October 2024
+last-update: November 2024
 author: mfrei
 mini-toc-levels: 2
+badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
-# Experience Cloud release notes - September/October 2024
+# Experience Cloud release notes - November 2024
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -30,9 +31,9 @@ Look for the **_Was this content helpful?_** pop-up at the bottom of each page. 
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
-## September - October 2024
+## November 2024
 
-Latest update: **October 3, 2024**
+Latest update: **October 9, 2024**
 
 * [[!DNL Experience League] events and updates](#events) (Updated: **September 10**)
 * [[!DNL Adobe System Status]](#status)
