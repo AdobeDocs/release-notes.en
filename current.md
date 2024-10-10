@@ -33,7 +33,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## November 2024
 
-Latest update: **October 9, 2024**
+Latest update: **October 10, 2024**
 
 * [[!DNL Experience League] events and updates](#events) (Updated: **September 10**)
 * [[!DNL Adobe System Status]](#status)
@@ -88,9 +88,9 @@ To browse playlists, navigate to **[!UICONTROL Learn]** > **[!UICONTROL Browse a
 
 +++Details
 
-* **[!DNL WORKFRONT]** | Community event | _Connect: Admin Chat for Marketing & Creative_ | Are you a system admin for a marketing or creative team? This customer-driven session will connect you with other Workfront admins to discuss best practices as well as tips and tricks. | **October 4 @ 10:00 AM MT** | [Register](https://events.teams.microsoft.com/event/b9fa4c50-7e49-4853-a04f-98120542240a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Community event | _Connect: Workfront Collective_ | Join the Customer Success team for a Monday morning open discussion designed to connect you with other Workfront Admins, talk through the latest features, share ideas, and brainstorm solutions for common challenges. | **October 14 @ 7:00 AM MT** | [Register](https://events.teams.microsoft.com/event/0759bd35-9bb0-434a-a61b-b7c681ccfebd@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL WORKFRONT]** | Community event | _Admin 101: Getting Started with Workfront_ | New to Workfront? Join us for the first session of the 3-part, Admin 101, series. You can expect to learn best practices and recommendations around system setup and navigation, as well as must-have resources. | **October 8 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/b9940fcc-4993-4f87-8b05-111fe841dc98@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL WORKFRONT]** | Customer workshop | _Learn: Enhancing Efficiency - How Cognizant Utilizes Adobe Workfront for Project Excellence_ | Join Sujatha T S, Creative Operations Senior Manager and Global Brand and Creative, System Admin, as she shares how Cognizant optimized their system and processes to enhance efficiency for project excellence. | **October 17 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/eab3de7d-a781-45fa-be77-e96c00b1fa32@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 And more! View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
