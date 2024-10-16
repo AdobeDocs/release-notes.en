@@ -87,11 +87,13 @@ To browse playlists, navigate to **[!UICONTROL Learn]** > **[!UICONTROL Browse a
 
 +++Details
 
-* **[!DNL WORKFRONT]** | Community event | _Connect: Workfront Collective_ | Join the Customer Success team for a Monday morning open discussion designed to connect you with other Workfront Admins, talk through the latest features, share ideas, and brainstorm solutions for common challenges. | **October 14 @ 7:00 AM MT** | [Register](https://events.teams.microsoft.com/event/0759bd35-9bb0-434a-a61b-b7c681ccfebd@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL WORKFRONT]** | Customer workshop | _Learn: Enhancing Efficiency - How Cognizant Utilizes Adobe Workfront for Project Excellence_ | Join Sujatha T S, Creative Operations Senior Manager and Global Brand and Creative, System Admin, as she shares how Cognizant optimized their system and processes to enhance efficiency for project excellence. | **October 17 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/eab3de7d-a781-45fa-be77-e96c00b1fa32@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-And more! View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
+* **[!DNL COMMERCE]** | Webinar | _Behind the Brew: Optimize Your Commerce Storefront_ | Looking for strategies to maintain and optimize your storefront efficiently? Come learn how to prevent against common data blockers, strategies for mitigating bot activity, and planning for disk space and database size. | **October 17 @ 11:00 AM MT** | [Register](https://adobeevents.adobeconnect.com/ekboarwqotqv/event/registration.html?campaign-id=ExL)
+
+* **[!DNL WORKFRONT]** | Q & A chat | _Learn: Qualcomm's Journey to the Adoption of Adobe Workfront_ | Come learn about the strategic approach Becky Barus, the Certified Technical Adobe Workfront Lead at Qualcomm, utilized to significantly boost user adoption of Adobe Workfront. | **October 23 @ 10:00 AM MT** | [Register](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+And many more! View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
 +++
 
