@@ -133,9 +133,10 @@ Learn about [!DNL Experience Cloud] central interface components and administrat
 
 Release: **September 10, 2024**
 
-| Feature    | Description  |
-| -----------| ---------- |
-|[!DNL Slack] notifications in [!DNL Experience Cloud] |You can configure your account preferences to send [!DNL Experience Cloud] notifications to Slack. See [Subscribe to Slack notifications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) for details.|
+| Release date |Feature | Description  |
+| -----------| -----------| ---------- |
+|September 10 |[!DNL Slack] notifications in [!DNL Experience Cloud] |You can configure your account preferences to send [!DNL Experience Cloud] notifications to Slack. See [Subscribe to Slack notifications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) for details.|
+|October 2 |Customizable home |On the Experience Cloud landing page, click **[!UICONTROL Edit]**. [!UICONTROL Edit] mode enables you to personalize your Experience Cloud home page with access to a widget library and custom backgrounds. [!UICONTROL Edit] mode provides seamless, intuitive controls for moving, resizing, and managing widgets, including bulk actions and layout adjustments, offering a more aesthetic and tailored experience.alize your Experience Cloud home page with access to a widget library and custom backgrounds.|
 
 For help on [!DNL Experience Cloud] central interface components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
 
