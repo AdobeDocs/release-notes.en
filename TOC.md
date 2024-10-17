@@ -12,6 +12,7 @@ user-guide-url: https://www.adobe.com
 + [Current release notes](current.md)
 + Previous release notes {#previous}
   + 2024 {#2024}
+    + [September 2024](c-legacy-releases/2024/09122024.md)
     + [August 2024](c-legacy-releases/2024/09142023.md) 
     + [July 2024](c-legacy-releases/2024/07172024.md)
     + [June 2024](c-legacy-releases/2024/06122024.md)
