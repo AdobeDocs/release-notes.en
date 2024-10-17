@@ -33,15 +33,15 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## November 2024
 
-Latest update: **October 10, 2024**
+Latest update: **October 23, 2024**
 
-* [[!DNL Experience League] events and updates](#events) (Updated: **September 10**)
+* [[!DNL Experience League] events and updates](#events)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (Release: **October 2**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (Release: **October 2**)
+* [[!DNL Adobe Analytics]](#analytics) (Release: **October 23**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (Release: **October 23**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem) 
 * [[!DNL Adobe Commerce]](#commerce)
