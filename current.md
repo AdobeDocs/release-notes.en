@@ -52,9 +52,9 @@ Latest update: **October 23, 2024**
 * [[!DNL Adobe Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
+* [[!DNL GenStudio for Performance Marketing]](#genstudio-marketing) (**New!**)
 * [[!DNL Adobe Mix Modeler]](#mix-modeler)
 * [[!DNL Adobe Advertising]](#advertising)
-* [[!DNL Adobe Content Supply Chain Tutorials]](#content-supply-chain)
 * [[!DNL Adobe Pass]](#pass)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -91,6 +91,8 @@ To browse playlists, navigate to **[!UICONTROL Learn]** > **[!UICONTROL Browse a
 * **[!DNL WORKFRONT]** | Community event | _Connect: Workfront Collective_ | Join the Customer Success team for a Monday morning open discussion designed to connect you with other Workfront Admins, talk through the latest features, share ideas, and brainstorm solutions for common challenges. | **October 14 @ 7:00 AM MT** | [Register](https://events.teams.microsoft.com/event/0759bd35-9bb0-434a-a61b-b7c681ccfebd@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Customer workshop | _Learn: Enhancing Efficiency - How Cognizant Utilizes Adobe Workfront for Project Excellence_ | Join Sujatha T S, Creative Operations Senior Manager and Global Brand and Creative, System Admin, as she shares how Cognizant optimized their system and processes to enhance efficiency for project excellence. | **October 17 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/eab3de7d-a781-45fa-be77-e96c00b1fa32@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL MULTIPLE APPLICATIONS]** | Adobe Developers Live | _Adobe Developers Live 2024_ | Join us for Adobe Developers Live in person at Adobe's HQ in San Jose! Connect with AEM and Commerce developers, explore the latest innovations and learn best practices. Nov 12, in-person or online. Register now! | **November 12 @ 9:00 AM MT** | [Register](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&utm_medium=website&utm_campaign=adl2024)
 
 And more! View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
@@ -158,10 +160,7 @@ New tutorials published for Adobe [!DNL Experience Platform] on Experience Leagu
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|September 2024| [!DNL Experience Platform] | [Overview of [!UICONTROL Federated Audience Composition]](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/overview-of-federated-audience-composition)|Video | Learn how Experience Platform Federated Audience Composition provides Adobe Real-Time CDP and Adobe Journey Optimizer users with data management flexibility and efficiency. |
-|September 2024| [!DNL Experience Platform] | [Create a [!UICONTROL Federated Audience Composition]](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/create-a-federated-audience-composition)|Video | Learn how to create a Federated Audience Composition, and how to create the query in the UI that reaches into your data warehouse and selects the right data.  |
-|September 2024| [!DNL Experience Platform] | [Connect and configure [!UICONTROL Federated Audience Composition]](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/connect-and-configure-federated-audience-composition)|Video | Learn how to connect to your data warehouse and configure that connection for [!UICONTROL Federated Audience Composition]. |
-|September 2024| [!DNL Experience Platform] | [Create and publish playbook instances](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/use-case-playbooks/create-and-publish-a-playbook-instance)|Video | Learn how to discover, create, publish, and troubleshoot an instance of a Use Case Playbook from this end-to-end demonstration video. |
+|October 2024| [!DNL Experience Platform] | [Unlock your marketing data with event forwarding](https://experienceleague.adobe.com/en/docs/platform-learn/data-collection/event-forwarding/webinar)|Video | Learn about the use cases and capabilities of event forwarding in Adobe Experience Platform, such as managing conversion API calls to third-party destinations and sending event data to your data warehouse.|
 
 ### New [!DNL Experience Platform] support knowledge base{#kb-aep}
 
@@ -210,7 +209,7 @@ New tutorials published for Adobe [!DNL Analytics] on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|September 2024|[Using the [!UICONTROL Classification Rule Builder] in Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/classifications/using-the-classification-rule-builder)|Video |Learn to use the [!UICONTROL Classification Rule Builder] to apply rule-based classifications automatically in Adobe Analytics.|
+|October 2024|[Upgrade and reschedule [!DNL Report Builder] workbooks](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/exporting/report-builder/upgrade-and-reschedule-workbooks)|Video |Learn how to upgrade and reschedule legacy [!DNL Report Builder] workbooks to the latest version of Adobe Analytics [!DNL Report Builder].|
 
 
 ### New Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
@@ -236,14 +235,13 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 * [!DNL Customer Journey Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/customer-journey-analytics)
 
-<!-- ### New [!DNL Customer Journey Analytics] tutorials {#tutorials-cja}
+### New [!DNL Customer Journey Analytics] tutorials {#tutorials-cja}
 
 New tutorials published for [!DNL Customer Journey Analytics]. 
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|August 2024|[Overview of stitching](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/visitor-id/overview-of-stitching)|Video |View a quick overview into the process of stitching. With many individuals interacting with your content across multiple channels and devices, it becomes ever more important to connect these unauthenticated events to authenticated ones. |
-|August 2024|[Funnel friction analysis](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/guided-analysis/funnel/funnel-friction-analysis)|Updated video |Learn how to use the funnel friction view in Customer Journey Analytics. This view provides a visual representation of a critical user journey in your product and helps you determine where there is friction in it.| -->
+|October 2024|[Create summary-level data sources in Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-views/create-summary-level-data-sources)|Video |Learn how [!DNL Customer Journey Analytics] supports summary-level data that enables you to aggregate and analyze data that isn't organized by individual IDs, such as campaign or product data.|
 
 +++
 
@@ -286,21 +284,16 @@ New tutorials published for [!DNL Experience Manager] on [!DNL Experience Manage
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| September 2024 | AEM CS | [Adobe CDN - Advanced features beyond caching](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/content-delivery/adobe-cdn-beyond-caching) | Video | Learn about advanced features of Adobe Content Delivery Network (CDN) beyond caching, such as configuring traffic at the CDN, setting up tokens and credentials, CDN error pages, and more. |
-| September 2024 | AEM CS | [Custom domain name with customer-managed CDN](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/content-delivery/custom-domain-names-with-customer-managed-cdn) | Video | Learn how to add a custom domain name to an AEM as a Cloud Service web site that uses a customer-managed CDN. |
-| September 2024 | AEM CS | [How to purge the CDN cache](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/caching/how-to/purge-cache) | Video | Learn how to purge or remove the cached HTTP response from the AEM as a Cloud Service's CDN. Using the self-service feature called Purge API Token, you can purge the cache for a specific resource, a group of resources, and the entire cache. |
-| September 2024 | AEM CS | [Parameterize Sling Models from HTL](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/developing/advanced/sling-model-parameters) | Video | Learn about creating a parameterized Sling Model. Use it in HTL (HTML Template Language) to render dynamic content.|
-| September 2024 | AEM Sites | [Custom domain name with Adobe CDN](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/content-delivery/custom-domain-name-with-adobe-managed-cdn) | Multiple videos | Learn how to implement a custom domain name for an AEM as a Cloud Service web site that uses the Adobe Content Delivery Network (CDN). |
-| September 2024 | AEM Sites | [Custom domain name options](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/content-delivery/custom-domain-names) | Video | Learn how to manage and implement domain names for your AEM as a Cloud Service hosted website. |
-| September 2024 | AEM Sites | [Import sites into AEM Sites with Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-import-sites-to-edge-delivery-services) | Video | Learn about best practices for using and customizing the Importer tool to make it easy to import existing sites into AEM Sites with Edge Delivery Services.  |
-| September 2024 | AEM Forms | [Introduction to vertical tabs](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/using-vertical-tabs/introduction) | Video | Create an Adaptive Form using vertical tabs. |
-| September 2024 | AEM Forms | [Introduction to clickable images](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/clickable-image-component/introduction) | Video | Create clickable image components in AEM Forms Cloud Service. |
-| September 2024 | Foundation | [JWT-To-OAuth credential migration for AEM](https://experienceleague.adobe.com/en/docs/experience-manager-learn/foundation/authentication/jwt-to-oauth-migration) | Video | Learn how to migrate other Adobe solutions to the new OAuth Server-to-Server credentials from the deprecated Service Account (JWT) credentials. |
-| September 2024 | AEM Assets | [Uploading assets and approval process](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/uploading-assets-and-approval-process) | Video | Learn how to upload assets, apply tags, and understand the approval workflow in Adobe Experience Manager Assets Content Hub. |
-| September 2024 | AEM Assets | [Accessing and downloading assets](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/accessing-and-downloading-assets) | Video | Learn how to navigate, search for assets, filter the assets, and download them in Adobe Experience Manager Assets Content Hub. |
-| September 2024 | AEM Assets | [Video closed captions in Dynamic Media](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/advanced/video-closed-captions) | Video | Learn about closed captions in Dynamic Media. Closed captions are auto-generated once a video file is uploaded to AEM Assets with Dynamic Media. |
-| September 2024 | AEM Assets | [Reports](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets-essentials/basics/reports) | Video | Learn how to use assets reports in AEM Assets to gain insights into your DAM activity. |
-| September 2024 | AEM Assets | [Creative Cloud Libraries and AEM Assets](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets-essentials/creative-cloud) | Video | Learn how AEM Assets integrates with the Adobe Creative Cloud Libraries. |
+| October 2024 | AEM CS | [2024.9.0 AEM Release Overview Video](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/2024/2024-9-0) | Video | Learn about the latest Experience Manager Assets and Cloud Service innovations. Updates include AEM Assets - Asset Selector Enhancement to Support Collections; Assets Content Hub - support DRM (expired and licensed assets); AEM Cloud Service -  Cloud Manager Support for Edge Delivery; Edge Side Includes (ESI); Basic Authentication; and Interactive AEM Developer Console.|
+| October 2024 | AEM Sites | [Lighthouse Score Optimization - Part 1](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-lighthouse-score-optimization-part1) | Video | Learn about what a lighthouse score is and techniques for getting the best possible lighthouse score in Edge Delivery Services, with Varun Mitra, Cloud Architect. |
+| October 2024 | AEM Sites | [Lighthouse Score Optimization - Part 2](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-lighthouse-score-optimization-part2) | Video | Learn about techniques to improve total blocking time and get the highest possible lighthouse scores on your Edge Delivery Services project. |
+| October 2024 | AEM Sites | [Lighthouse Score Optimization - Part 3](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-lighthouse-score-optimization-part3) | Video | Learn about techniques to improve Largest Contentful Paint (LCP) and get the highest possible lighthouse scores on your Edge Delivery Services project. |
+| October 2024 | AEM Sites | [Lighthouse score optimization ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/cloud5-season-3) | Video | Learn about what a lighthouse score is and techniques for getting the best possible lighthouse score. Parts 1 - 3 are available on the Cloud 5 - Season 3 page.|
+| October 2024 | AEM Sites | [Generate Experience Platform FPIDs with AEM Sites](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/integrations/experience-platform/fpid) | Video | Learn how to generate or refresh Adobe Experience Platform FPID cookies using AEM Sites. |
+| October 2024 | AEM Assets | [Setting Up Experience Manager Assets Content Hub](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/settingup-content-hub) | Video | Learn how to set up the Experience Manager Assets Content Hub using the Adobe Cloud Manager program and assets add-on. Also learn how to configure access for users using product profiles. |
+| October 2024 | AEM Assets | [Manage assets in Assets view](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets-essentials/basics/managing) | Video | Learn the basics of creating a folder structure and other simple operations like _move_, _copy_, and _rename_. |
+| October 2024 | Experience Manager Learn | [Install third party artifacts - not available in the public Maven repository](https://experienceleague.adobe.com/en/docs/experience-manager-learn/foundation/development/install-third-party-artifacts) | Video | Learn how to install third-party artifacts that are not available in the public Maven repository when building and deploying an AEM project. |
+| October 2024 | AEM CS | [Custom error pages](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/content-delivery/custom-error-pages) | Video | Learn how to implement custom error pages for your AEM as a Cloud Service hosted website. |
 
 ### New [!DNL Experience Manager] support knowledge base{#kb-aem}
 
@@ -333,10 +326,9 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-|September 2024|[Add and remove watchers, close and reopen tickets](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/help-and-support/add-remove-watchers-close-reopen-support-ticket)|Video |Learn how to add and remove watchers as well as close and reopen a support ticket within Experience League for Adobe Commerce.|
-|September 2024|[Manage support tickets](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/help-and-support/search-track-comment-escalate-support-ticket)|Video |Learn how to create a search, review, commend and escalate a support ticket within Experience League for Adobe Commerce.|
-|September 2024|[New Relic alert notification setup](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/new-relic/new-relic-alert-notification-setup)|Video |Learn how to find alerts, policy, workflows, and destinations in New Relic. Observer how easy it is to add an email to an existing policy.|
-|September 2024|[Using Experience League to create a support ticket](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/help-and-support/create-a-support-ticket)|Video |Learn how to create a support ticket using Experience League for Adobe Commerce.|
+|October 2024|[Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/migrating-to-adobe-commerce/qa/code-freeze)|Multiple videos |View new videos about Commerce marketecture, global delivery model, admin roles, storefront options, and more.|
+|October 2024|[Migrating to Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/migrating-to-adobe-commerce/overview)|Video |An overview covering preparation, custom code, QA, performance, and security when migrating to Adobe Commerce.|
+|October 2024|[Reset the admin URI using the cli](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/admin/reset-admin-uri)|Video |Learn how to reset the admin URI using the Adobe Commerce Cloud cli command. This is useful if the admin URL was changed from the admin but a mistake was made and you are no longer able to access the admin.|
 
 ### New [!DNL Commerce] support knowledge base{#kb-commerce}
 
@@ -394,7 +386,7 @@ New or updated videos tutorials published for Adobe Campaign.
 
 | Published | Application | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|September 2024| |[Explore the Campaign Web User Interface](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/getting-started/explore-the-web-ui)|Video |Learn how to access and navigate the [!UICONTROL Campaign Web] User Interface and how to customize the inventory lists.|
+|October 2024|Campaign Web |[Create a direct mail delivery](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-a-direct-mail-delivery)|Video |Learn how to create a direct mail delivery in the Adobe Campaign v8 web user interface.|
 
 ### New [!DNL Campaign] support knowledge base{#kb-campaign}
 
@@ -434,9 +426,30 @@ New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|September 2024|[Guided channel setup](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/guided-channel-setup)|Video |Learn how to set up and validate a push channel notification on a sample iOS mobile marketing app.|
-|September 2024|[Configure channels](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/configure-channels)|Video |Learn what channel configurations are and how they are used in Adobe [!DNL Journey Optimizer].|
-|September 2024|[Set up and execute an IP warm-up plan](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/set-up-and-execute-an-ip-warmup-plan)|Video |Understand what IP warming is and learn how to set up and execute an IP warmup plan in Adobe [!DNL Journey Optimizer].|
+|October 2024|[Create Data Usage Policies](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/create-data-usage-policies)|Video |Learn how to create and manage data usage policies. Data usage policies allow you to restrict data usage for specific purposes based on the labeling of data. |
+|October 2024|[Create content using the AI Assistant Content Accelerator](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/content-accelerator/create-content-using-the-ai-assistant-content-accelerator)|Video |Learn how to use the AI Assistant Content Accelerator to generate proactive content variation suggestions for both text and images.|
+|October 2024|[Classify data using labels](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/classify-data-using-lables)|Video |Learn how to apply labels to your schemas and datasets. Data usage labels enable you to tag and classify data to reflect corporate policies, contractual obligations, compliance requirements, and regional regulations in Adobe Experience Platform.|
+|October 2024|[Create content using the AI Assistant Content Accelerator](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/content-accelerator/create-content-using-the-ai-assistant-content-accelerator)|Video |Learn how to use the AI Assistant Content Accelerator to generate proactive content variation suggestions for both text and images.|
+|October 2024|[Experimentation - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/experimentation-overview)|Video |Understand how to run tests and simulations in Journey Optimizer to refine your content to optimize the customer's journey based on data driven insights.|
+|October 2024|[AI Assistant Content Accelerator - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/content-accelerator/ai-assistant-content-accelerator-overview)|Video |Understand how the AI Assistant Content Accelerator can help marketers by providing proactive content variation suggestions for both text and images.|
+|October 2024|[Measurement & Reporting - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview)|Video |Learn about reporting in Journey Optimizer.|
+|October 2024|[Measurement & Reporting - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview)|Video |Learn about reporting in Journey Optimizer.|
+|October 2024|[Personalization editor - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/personalization-editor-overview)|Video |Understand which content can be personalized in Journey Optimizer.|
+|October 2024|[Enforce data usage policies in Journey Optimizer channels](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/enforce-data-usage-policies-in-journey-optimizer-channels.html)|Video |Learn how data usage policies are enforced in Journey Optimizer channels.|
+|October 2024|[Guided channel setup](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/guided-channel-setup)|Video |Learn how to set up and validate a push channel notification on a sample iOS mobile marketing app.|
+|October 2024|[Create content cards](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/content-cards/create-content-cards)|Video |Learn how to create content cards for your application.|
+|October 2024|[Push notifications- Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/push-channel/push-notifications-overview)|Video |Understand how to build push notifications, to engage mobile app users at any time with personalized targeted messages.|
+|October 2024|[SMS/MMS messages - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/sms-channel/sms-mms-messages-overview)|Video |Understand how to to create, schedule, and distribute SMS and MMS messages to reach your customers easily on the go.|
+|October 2024|[Message authoring - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/message-authoring-overview)|Video |Understand the email message authoring options in Journey Optimizer.|
+|October 2024|[Profiles and audiences- Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/profiles-and-audiences-overview)|Video |Learn about unified customer profiles and audiences in Journey Optimizer.|
+|October 2024|[Data Governance Framework Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework)|Video |Understand the Data Governance Framework in Adobe Experience Platform.|
+|October 2024|[Email Design & Personalization - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/email-design-and-personalization-overview)|Video |Understand the functionality of Journey Optimizer's email designer.|
+|October 2024|[Email Channel - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/email-channel-overview)|Video |Desc.|
+|October 2024|[Email Channel - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/web-channel/web-personalization-overview)|Video |Understand how Journey Optimizer handles all email use cases with the comprehensive email creation, orchestration, and delivery capabilities.|
+|October 2024|[Mobile App Optimization - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/mobile-app-optimization-overview)|Video |Discover how Adobe Journey Optimizer's mobile app capabilities transform your customer engagement using real-time personalized experiences.|
+|October 2024|[In-app messages - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/in-app-messages-overview)|Video |Understand how to create and send in-app messages that are relevant to individual customers.|
+|October 2024|[Journey Designer - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/journey-designer-overview)|Video |This video gives you an overview over how to design and manage customer journeys using the Journey designer.|
+|October 2024|[Configure business rules - Frequency capping](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/configuration/business-rules/configure-frequency-capping-rules.html)|Video |Learn how to configure frequency capping rules.|
 
 ### More resources for [!DNL Journey Optimizer]
 
@@ -489,7 +502,7 @@ Find out the latest release notes and release schedule for [!DNL Marketo Engage]
 * See [June 2024 - current release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current) for the latest information.
 * See [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/release-schedule) for the latest release schedule information and release notes.
 
-### New Marketo tutorials {#tutorials-marketo}
+<!-- ### New Marketo tutorials {#tutorials-marketo}
 
 New tutorials published for Adobe Marketo.
 
@@ -498,7 +511,7 @@ New tutorials published for Adobe Marketo.
 |September 2024|[Attribution AI overview](https://experienceleague.adobe.com/en/docs/marketo-measure-learn/tutorials/marketo-measure-ultimate/attribution-ai-overview)|Video |Discover how Adobe's Attribution AI enhances B2B marketing measurement with sophisticated AI/ML modeling, offering precise attribution insights and eliminating biases for accurate analysis.|
 |September 2024|[Marketo Measure Ultimate overview](https://experienceleague.adobe.com/en/docs/marketo-measure-learn/tutorials/marketo-measure-ultimate/overview)|Video |Learn how Marketo Measure Ultimate allows B2B marketers to gather data from almost any source, including multiple sources of the same type, for thorough attribution. |
 |September 2024|[API Help - How to set the Access token in a variable](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/integrations/api-set-access-token-variable)|Video |Learn how to set up the Postman application and leverage variables to save data into the variable for reusability purposes. You will also learn how to make your first Marketo Engage REST API call to get the access token.|
-|September 2024|[Go live with Dynamic Chat in just 15 minutes](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/go-live-in-15-minutes)|Video |Watch a step by step guide to help you go live with your first dialogue using Dynamic Chat in just 15 minutes.|
+|September 2024|[Go live with Dynamic Chat in just 15 minutes](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/go-live-in-15-minutes)|Video |Watch a step by step guide to help you go live with your first dialogue using Dynamic Chat in just 15 minutes.| -->
 
 For the latest product documentation, see the [Marketo product documentation](https://experienceleague.adobe.com/en/docs/marketo/using/home) home
 
@@ -532,14 +545,31 @@ New [!DNL Workfront] tutorials and events on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|September 2024|[Add section breaks and logic to a custom form](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form)|Video |Learn how to add section breaks to organize your custom form fields as well as use the Skip and Display logics to make fields available when they're needed.|
-|September 2024|[Complete approvals](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/close-a-project/complete-approvals)|Video |Learn how to identify incomplete approvals and resolve them so you can close your project in [!DNL Workfront].|
-|September 2024|[Share custom fields](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/share-custom-fields)|Video |Learn how to determine who can view and/or edit a custom field.|
-|September 2024|[Understand the settings for a request flow](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/understand-settings-for-a-flow-request)|Video |Learn about request flows and how to create one using routing rules, topic groups,and queue topics.|
-|September 2024|[Create a request queue](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue)|Video |Learn how to set up a request queue and establish queue details. Follow these steps to help your organization manage work intake.|
-|September 2024|[Attach a custom form to an object](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-using-a-custom-form)|Video |Learn how to attach a custom form to an object and make custom fields visible on reports.|
-|September 2024|[Create and share a custom form](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form)|Video |Learn how to create a custom form, add unique fields to the form,and share forms with users.|
-|September 2024|[Edit an automated workflow template](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-proof/proof-workflows/edit-an-automated-workflow-template)|Video |Learn how to make changes to an existing automated proofing workflow template in Workfront.|
+|October 2024|[Understand and manage duration types and task constraints](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints)|Video |Understand duration types and task constraints and learn how to be sure you have them set up properly in your projects.|
+|October 2024|[Understand performance metrics](https://experienceleague.adobe.com/docs/courses/using/workfront-a-1-2023-1-finances.html)|Video |Learn how to use the performance metrics - the Performance Index Method (PIM) and the Estimate at Completion (EAC).|
+|October 2024|[Understand basic text mode for groupings](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.6.reporting)|Video |Learn about text mode, camel case, and some basic plug-and-play text modes that you can use in your views in Workfront. |
+|October 2024|[Understand basic text mode for views](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.5.reporting)|Video |Learn about text mode, camel case, and some basic plug-and-play text modes that you can use in your views in Workfront.|
+|October 2024|[Update and review finances](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2023-1-finances.html)|Video |Learn how to review the financial information associated with a project in  Workfront.|
+|October 2024|[Learn the benefits of proofing](https://experienceleague.adobe.com/?recommended=Workfront-A-1-2022.3.proof)|Video |Learn what proofing is and the benefits of using digital proofing in  Workfront.|
+|October 2024|[Get started managing a project](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.planners)|Video |Learn how to monitor project progress,drill down to see task details,and how to communicate with stakeholders.|
+|October 2024|[Understand performance metrics](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-finances/understand-performance-metrics.html?lang=en)|Video |Learn how to use the performance metrics - the Performance Index Method (PIM) and the Estimate at Completion (EAC).|
+|October 2024|[Understand portfolios](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.portfolios)|Video |Learn what portfolios are in Workfront and how they can help you prioritize projects and compare projects against one another.|
+|October 2024|[Understand reporting elements](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.reporting)|Video |Learn how to use existing reporting elements--filters, views, and groupings--to access information being tracked in Workfront.|
+|October 2024|[Create filters with user-based wildcards](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.reporting)|Video |Learn how to use user-based wildcards and how to build a filter based on the logged in user.|
+|October 2024|[Create a simple report](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.reporting)|Video |Learn how to create a simple report using an existing filter,view,and grouping in Workfront.|
+|October 2024|[Learn the benefits of proofing](https://experienceleague.adobe.com/?recommended=Workfront-L-1-2022.1.proof)|Video |Learn what proofing is and the benefits of using digital proofing in  Workfront.|
+|October 2024|[What is a proof version?](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.proof)|Video |Discover how versions can help you manage the review and approval process across multiple iterations of a file using Workfront's proofing features.|
+|October 2024|[Get started managing a project](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.planners)|Video |Learn how to monitor project progress,drill down to see task details,and how to communicate with stakeholders.|
+|October 2024|[A Moment with Product -- Enhanced analytic](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.analytics)|Video |Watch this video with Workfront's Joel Pettigrew, product manager for Enhanced analytics, to learn how analytics came about and the exciting capabilities it makes possible.|
+|October 2024|[Dig deeper using timeframes and additional charts](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.2.analytics)|Video |Learn to drill down on a project in the Flight plan chart to make the [!UICONTROL Burndown] chart and the Tasks in flight chart appear in Enhanced Analytics.|
+|October 2024|[Understand the activity by team chart](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.3.analytics)|Video |The Activity by team chart in Enhanced Analytics allows you to understand how your organization's home teams spend their time in Workfront.|
+|October 2024|[Delegate tasks, issues, and approvals](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/delegate-approvals.html?lang=en)|Video |Learn how to delegate task and issue assignments, and approvals for projects, tasks, and issues, to another Workfront user.|
+|October 2024|[Create a global and a single-use approval process](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.html?lang=en)|Video |Learn how to create a single-use approval process on a project,task,or issue in Workfront.|
+|October 2024|[Create a request flow](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=en)|Video |Learn how to configure queue topics,topic groups,and routing rules to help manage request and work intake.|
+|October 2024|[View milestones](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/view-milestones.html?lang=en)|Video |Learn how to view milestones in a project,plus use the milestone view in the Project area.|
+|October 2024|[Create a project template and learn about Blueprints](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template.html?lang=en)|Video |Learn to create a project template from scratch and from an existing project, and understand how Blueprints can give you access to a world of useful project templates created by Workfront experts.|
+|October 2024|[Share a template](https://experienceleague.adobe.com/docs/workfront/using/basics/grant-request-object-permissions/share-a-template.html?lang=en)|Video |As an Adobe Workfront administrator,you can grant users access to view or edit templates when you assign their access level. A user must have a Plan license to have access to Edit templates.|
+|October 2024|[Understand basic text mode for filters](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-filters.html?lang=en)|Video |Learn what text mode is,what camel case is,and some basic |
 
 <!--
 ### New [!DNL Workfront] support knowledge base
@@ -559,6 +589,24 @@ New articles and updates to existing articles for [!DNL Workfront].
 -->
 
 For the latest product documentation, see the [Adobe [!DNL Workfront] documentation home page](https://experienceleague.adobe.com/en/docs/workfront/using/home).
+
++++
+
+## ![Icon](/assets/ec_appicon_24.png) GenStudio for Performance Marketing {#genstudio-marketing}
+
+Find latest release information and new documentation for GenStudio for Performance Marketing.
+
++++Details
+
+* [Release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes) for GenStudio for Performance Marketing
+* [Product documentation](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing) for GenStudio for Performance Marketing
+
+New video tutorials for GenStudio for Performance Marketing.
+
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|October 2024|[Create on-brand marketing emails](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing-learn/tutorials/creating-experiences/creating-on-brand-emails)|Video |View a step by step explanation of how to create on-brand marketing emails with Adobe's GenStudio for Performance Marketing.|
+|October 2024|[Create on-brand meta ads](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing-learn/tutorials/creating-experiences/creating-on-meta-ads)|Video |View a step-by-step product walk-thru of creating a meta ad in GenStudio for Performance Marketing.|
 
 +++
 
@@ -586,20 +634,6 @@ See [What's new in [!DNL Advertising DSP]](https://experienceleague.adobe.com/en
 ### New features in [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
 
 See [What's new in [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/home)
-
-+++## ![Icon](/assets/experience-league.png) Adobe Content Supply Chain {#content-supply-chain}
-
-See [Content Supply Chain](https://experienceleague.adobe.com/en/docs/content-supply-chain-learn/tutorials/overview) for the latest tutorials on Experience League. 
-
-<!-- +++Details
-
-| Published | Name | Type | Description |
-| -----------| ---------- | ---------- | ---------- |
-|February 2024|[Content Supply Chain Tutorials](https://experienceleague.adobe.com/docs/content-supply-chain-learn/tutorials/overview.html)|Videos |View content supply chain tutorials on Experience League. Content supply chain is Adobe's an end-to-end solution to accelerate and simplify your content supply chain with generative AI and intelligent automation.|
-
-{style="table-layout:auto"}
-
-+++ -->
 
 ## ![Icon](/assets/pass.png) [!DNL Adobe Pass] {#pass}
 
@@ -643,6 +677,10 @@ For [!DNL Document Cloud] tutorials, see:
 New tutorials published for applications in [!DNL Adobe Creative Cloud for enterprise].
 
 +++Details
+
+|Published|Application|Name|Type|Description |
+| -----------| -----------|---------- | ---------- | ---------- |
+|October 2024|Express|[Create multi-channel HR content for events](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-hr-content)|Video |Learn how to quickly create multi-channel HR content that is consistent with your organization's brand. Delivering multi-channel content quickly allows you to reach more employees with your communications, helping them stay informed on the latest news. |
 
 See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) for the latest tutorials.
 
