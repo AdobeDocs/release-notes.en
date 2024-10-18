@@ -67,7 +67,7 @@ Latest update: **October 23, 2024**
 
 Learn about exciting events on Experience League. It's a great place to learn, interact, and get answers from product experts at Adobe!
 
-### Playlists on Experience League (new!)
+### Playlists on Experience League
 
 New video [playlists](https://experienceleague.adobe.com/en/playlists) are available on Experience League. A playlist is a curated collection of videos designed to help you gain the skills and knowledge you seek.
 
@@ -82,13 +82,11 @@ To browse playlists, navigate to **[!UICONTROL Learn]** > **[!UICONTROL Browse a
 
 >[!NOTE]
 >
->**Courses** are being retired from Experience League. If you bookmarked a course, you are redirected to a corresponding playlist if one exists. In some cases, you might need to browse to a new playlist that covers the topics you're looking for.
+>If you bookmarked a course on Experience League, you are redirected to a corresponding playlist. In some cases, you might need to browse to a new playlist that covers the topics you are looking for.
 
 ### Events on Experience League 
 
 +++Details
-
-* **[!DNL WORKFRONT]** | Community event | _Connect: Workfront Collective_ | Join the Customer Success team for a Monday morning open discussion designed to connect you with other Workfront Admins, talk through the latest features, share ideas, and brainstorm solutions for common challenges. | **October 14 @ 7:00 AM MT** | [Register](https://events.teams.microsoft.com/event/0759bd35-9bb0-434a-a61b-b7c681ccfebd@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL WORKFRONT]** | Customer workshop | _Learn: Enhancing Efficiency - How Cognizant Utilizes Adobe Workfront for Project Excellence_ | Join Sujatha T S, Creative Operations Senior Manager and Global Brand and Creative, System Admin, as she shares how Cognizant optimized their system and processes to enhance efficiency for project excellence. | **October 17 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/eab3de7d-a781-45fa-be77-e96c00b1fa32@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -134,11 +132,10 @@ Learn about [!DNL Experience Cloud] central interface components and administrat
 
 +++Details
 
-Release: **September 10, 2024**
-
-| Feature    | Description  |
-| -----------| ---------- |
-|[!DNL Slack] notifications in [!DNL Experience Cloud] |You can configure your account preferences to send [!DNL Experience Cloud] notifications to Slack. See [Subscribe to Slack notifications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) for details.|
+| Release date |Feature | Description  |
+| -----------| -----------| ---------- |
+|September 10 |[!DNL Slack] notifications in [!DNL Experience Cloud] |You can configure your account preferences to send [!DNL Experience Cloud] notifications to Slack. See [Subscribe to Slack notifications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) for details.|
+|October 2 |Customizable home |On the Experience Cloud landing page, click **[!UICONTROL Edit]**. [!UICONTROL Edit] mode enables you to personalize your Experience Cloud home page with access to a widget library and custom backgrounds. [!UICONTROL Edit] mode provides seamless, intuitive controls for moving, resizing, and managing widgets, including bulk actions and layout adjustments, offering a more aesthetic and tailored experience.alize your Experience Cloud home page with access to a widget library and custom backgrounds.|
 
 For help on [!DNL Experience Cloud] central interface components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
 
@@ -292,7 +289,7 @@ New tutorials published for [!DNL Experience Manager] on [!DNL Experience Manage
 | October 2024 | AEM Sites | [Generate Experience Platform FPIDs with AEM Sites](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/integrations/experience-platform/fpid) | Video | Learn how to generate or refresh Adobe Experience Platform FPID cookies using AEM Sites. |
 | October 2024 | AEM Assets | [Setting Up Experience Manager Assets Content Hub](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/settingup-content-hub) | Video | Learn how to set up the Experience Manager Assets Content Hub using the Adobe Cloud Manager program and assets add-on. Also learn how to configure access for users using product profiles. |
 | October 2024 | AEM Assets | [Manage assets in Assets view](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets-essentials/basics/managing) | Video | Learn the basics of creating a folder structure and other simple operations like _move_, _copy_, and _rename_. |
-| October 2024 | Experience Manager Learn | [Install third party artifacts - not available in the public Maven repository](https://experienceleague.adobe.com/en/docs/experience-manager-learn/foundation/development/install-third-party-artifacts) | Video | Learn how to install third-party artifacts that are not available in the public Maven repository when building and deploying an AEM project. |
+| October 2024 | AEM CS | [Install third party artifacts - not available in the public Maven repository](https://experienceleague.adobe.com/en/docs/experience-manager-learn/foundation/development/install-third-party-artifacts) | Video | Learn how to install third-party artifacts that are not available in the public Maven repository when building and deploying an AEM project. |
 | October 2024 | AEM CS | [Custom error pages](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/content-delivery/custom-error-pages) | Video | Learn how to implement custom error pages for your AEM as a Cloud Service hosted website. |
 
 ### New [!DNL Experience Manager] support knowledge base{#kb-aem}
