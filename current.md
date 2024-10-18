@@ -369,13 +369,13 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials and Knowled
 
 ### Latest Campaign product releases
 
-* [!DNL Web User Interface]: **September 3** - [Release notes](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Web User Interface]: [Release notes](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
 
-* [!DNL Campaign] v8: **September 3** - [Release notes](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
+* [!DNL Campaign] v8: [Release notes](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
 
 * [!DNL Campaign Classic] v7: [Release notes](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/campaign-classic-home)
 
-* [!DNL Campaign Standard]: **August 2024** - [Release notes](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
+* [!DNL Campaign Standard]: [Release notes](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
 
 ### New [!DNL Campaign] tutorials {#tutorials-campaign}
 
@@ -430,7 +430,6 @@ New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 |October 2024|[Experimentation - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/experimentation-overview)|Video |Understand how to run tests and simulations in Journey Optimizer to refine your content to optimize the customer's journey based on data driven insights.|
 |October 2024|[AI Assistant Content Accelerator - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/content-accelerator/ai-assistant-content-accelerator-overview)|Video |Understand how the AI Assistant Content Accelerator can help marketers by providing proactive content variation suggestions for both text and images.|
 |October 2024|[Measurement & Reporting - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview)|Video |Learn about reporting in Journey Optimizer.|
-|October 2024|[Measurement & Reporting - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/measurement-and-reporting-overview)|Video |Learn about reporting in Journey Optimizer.|
 |October 2024|[Personalization editor - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/personalization-editor-overview)|Video |Understand which content can be personalized in Journey Optimizer.|
 |October 2024|[Enforce data usage policies in Journey Optimizer channels](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/enforce-data-usage-policies-in-journey-optimizer-channels.html)|Video |Learn how data usage policies are enforced in Journey Optimizer channels.|
 |October 2024|[Guided channel setup](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/guided-channel-setup)|Video |Learn how to set up and validate a push channel notification on a sample iOS mobile marketing app.|
@@ -441,7 +440,7 @@ New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 |October 2024|[Profiles and audiences- Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/profiles-and-audiences-overview)|Video |Learn about unified customer profiles and audiences in Journey Optimizer.|
 |October 2024|[Data Governance Framework Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/data-governance-and-privacy/data-governance-framework)|Video |Understand the Data Governance Framework in Adobe Experience Platform.|
 |October 2024|[Email Design & Personalization - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/email-design-and-personalization-overview)|Video |Understand the functionality of Journey Optimizer's email designer.|
-|October 2024|[Email Channel - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/email-channel-overview)|Video |Desc.|
+|October 2024|[Email Channel - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/email-channel/email-channel-overview)|Video |Understand how Journey Optimizer handles all email use cases with the comprehensive email creation, orchestration, and delivery capabilities.|
 |October 2024|[Email Channel - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/web-channel/web-personalization-overview)|Video |Understand how Journey Optimizer handles all email use cases with the comprehensive email creation, orchestration, and delivery capabilities.|
 |October 2024|[Mobile App Optimization - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/mobile-app-optimization-overview)|Video |Discover how Adobe Journey Optimizer's mobile app capabilities transform your customer engagement using real-time personalized experiences.|
 |October 2024|[In-app messages - Overview](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/in-app-channel/in-app-messages-overview)|Video |Understand how to create and send in-app messages that are relevant to individual customers.|
