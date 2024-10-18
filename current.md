@@ -33,7 +33,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## November 2024
 
-Latest update: **October 23, 2024**
+Latest update: **October 23**
 
 * [[!DNL Experience League] events and updates](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -104,7 +104,7 @@ Learn about the latest features and updates in [!DNL Adobe System Status].
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
-Released: **August 19, 2024**
+Released: **August 19**
 
 **What's new**
 
@@ -117,8 +117,8 @@ Released: **August 19, 2024**
 
 For recent release notes, see:
 
-* [May 15, 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/05152024#status)
-* [January 30, 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/02142024#status)
+* [May 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/05152024#status)
+* [January 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/02142024#status)
 * [October 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/10042023#status)
 * [August 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/08092023#status)
 * [March 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/03082023#status)
@@ -135,7 +135,7 @@ Learn about [!DNL Experience Cloud] central interface components and administrat
 | Release date |Feature | Description  |
 | -----------| -----------| ---------- |
 |September 10 |[!DNL Slack] notifications in [!DNL Experience Cloud] |You can configure your account preferences to send [!DNL Experience Cloud] notifications to Slack. See [Subscribe to Slack notifications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) for details.|
-|October 2 |Customizable home |On the Experience Cloud landing page, click **[!UICONTROL Edit]**. [!UICONTROL Edit] mode enables you to personalize your Experience Cloud home page with access to a widget library and custom backgrounds. [!UICONTROL Edit] mode provides seamless, intuitive controls for moving, resizing, and managing widgets, including bulk actions and layout adjustments, offering a more aesthetic and tailored experience.alize your Experience Cloud home page with access to a widget library and custom backgrounds.|
+|October 2 |Customizable home |On the Experience Cloud landing page, click **[!UICONTROL Edit]**. [!UICONTROL Edit] mode enables you to personalize your Experience Cloud home page with access to a widget library and custom backgrounds. [!UICONTROL Edit] mode provides seamless, intuitive controls for moving, resizing, and managing widgets. This feature including bulk actions and layout adjustments, offering a more aesthetic and tailored experience. Customize your Experience Cloud home page with access to a widget library and custom backgrounds.|
 
 For help on [!DNL Experience Cloud] central interface components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
 
@@ -281,7 +281,7 @@ New tutorials published for [!DNL Experience Manager] on [!DNL Experience Manage
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-| October 2024 | AEM CS | [2024.9.0 AEM Release Overview Video](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/2024/2024-9-0) | Video | Learn about the latest Experience Manager Assets and Cloud Service innovations. Updates include AEM Assets - Asset Selector Enhancement to Support Collections; Assets Content Hub - support DRM (expired and licensed assets); AEM Cloud Service -  Cloud Manager Support for Edge Delivery; Edge Side Includes (ESI); Basic Authentication; and Interactive AEM Developer Console.|
+| October 2024 | AEM CS | [2024.9.0 AEM Release Overview Video](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/2024/2024-9-0) | Video | Learn about the latest [!DNL Experience Manager as a Cloud Service] innovations.|
 | October 2024 | AEM Sites | [Lighthouse Score Optimization - Part 1](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-lighthouse-score-optimization-part1) | Video | Learn about what a lighthouse score is and techniques for getting the best possible lighthouse score in Edge Delivery Services, with Varun Mitra, Cloud Architect. |
 | October 2024 | AEM Sites | [Lighthouse Score Optimization - Part 2](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-lighthouse-score-optimization-part2) | Video | Learn about techniques to improve total blocking time and get the highest possible lighthouse scores on your Edge Delivery Services project. |
 | October 2024 | AEM Sites | [Lighthouse Score Optimization - Part 3](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-3/cloud5-lighthouse-score-optimization-part3) | Video | Learn about techniques to improve Largest Contentful Paint (LCP) and get the highest possible lighthouse scores on your Edge Delivery Services project. |
@@ -590,7 +590,7 @@ For the latest product documentation, see the [Adobe [!DNL Workfront] documentat
 
 ## ![Icon](/assets/ec_appicon_24.png) GenStudio for Performance Marketing {#genstudio-marketing}
 
-Find latest release information and new documentation for GenStudio for Performance Marketing.
+New! Find latest release information and new documentation for [GenStudio for Performance Marketing](https://business.adobe.com/products/genstudio-for-performance-marketing.html).
 
 +++Details
 
