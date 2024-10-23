@@ -89,7 +89,7 @@ To browse playlists, navigate to **[!UICONTROL Learn]** > **[!UICONTROL Browse a
 
 * **[!DNL Workfront]** | Q & A chat | _Learn: Qualcomm's Journey to the Adoption of Adobe Workfront_ | Come learn about the strategic approach Becky Barus, the Certified Technical Adobe Workfront Lead at Qualcomm, utilized to significantly boost user adoption of Adobe Workfront. | **October 23 @ 10:00 AM MT** | [Register](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Experience Platform, Journey Optimizer, and Real-Time Customer Data Platform Collaboration]** | Experience League LIVE | _Adobe Experience League Live: Harmonize Audiences in Experience Ecosystems - Federated Audience Composition in Experience Platform_ | Learn about how Federated Audience Composition provides a comprehensive approach to audience curation and activation with Real-Time CDP and Journey Optimizer. | **October 24 @ 8:30 AM MT** | [Register](https://engage.adobe.com/ExpLeagueLive-241024.html)
+* **[!DNL Experience Platform, Journey Optimizer, and Real-Time Customer Data Platform Collaboration]** | Experience League LIVE | _Adobe Experience League Live: Harmonize Audiences in Experience Ecosystems - Federated Audience Composition in Experience Platform_ | Learn about how Federated Audience Composition provides a comprehensive approach to audience curation and activation with Real-Time CDP and Journey Optimizer. | **October 24 @ 9:30 AM MT** | [Register](https://engage.adobe.com/ExpLeagueLive-241024.html)
 
 * **[!DNL Workfront]** | Q & A chat | _Customer Panel: Lessons Learned from Veteran Workfront Admins_ | Join four experienced Adobe Workfront customers for a 1-hour interactive panel discussion to learn what to do (or not to do) when implementing, inheriting, managing, and expanding an instance of Workfront. | **October 29 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/bfdd4c24-1a60-447d-a91b-ad52806626a5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -580,14 +580,15 @@ For the latest product documentation, see the [Adobe [!DNL Workfront] documentat
 
 ## ![Icon](/assets/ec_appicon_24.png) GenStudio for Performance Marketing {#genstudio-marketing}
 
-New! Find latest release information and new documentation for [GenStudio for Performance Marketing](https://business.adobe.com/products/genstudio-for-performance-marketing.html).
+Find latest release information and new documentation for [!DNL GenStudio for Performance Marketing].
 
 +++Details
 
 * [Release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes) for GenStudio for Performance Marketing
 * [Product documentation](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing) for GenStudio for Performance Marketing
+* [GenStudio for Performance Marketing](https://business.adobe.com/products/genstudio-for-performance-marketing.html) product information
 
-New video tutorials for GenStudio for Performance Marketing.
+Latest video tutorials for [!DNL GenStudio for Performance Marketing].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
@@ -613,6 +614,8 @@ Release notes for [!DNL Adobe Advertising].
 
 +++Details
 
+To browse Adobe [!DNL Advertising] help, visit [Adobe Advertising Documentation](https://experienceleague.adobe.com/en/docs/advertising).
+
 ### New features in [!DNL Advertising DSP] {#advertising-dsp}
 
 See [What's new in [!DNL Advertising DSP]](https://experienceleague.adobe.com/en/docs/advertising/dsp/home)
@@ -620,6 +623,8 @@ See [What's new in [!DNL Advertising DSP]](https://experienceleague.adobe.com/en
 ### New features in [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
 
 See [What's new in [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/home)
+
++++
 
 ## ![Icon](/assets/pass.png) [!DNL Adobe Pass] {#pass}
 
