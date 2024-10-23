@@ -95,7 +95,9 @@ To browse playlists, navigate to **[!UICONTROL Learn]** > **[!UICONTROL Browse a
 
 * **[!DNL Experience Cloud] (multi-product)** | Adobe Developers Live | _Adobe Developers Live 2024_ | Join us for Adobe Developers Live in person at Adobe's HQ in San Jose! Connect with AEM and Commerce developers, explore the latest innovations and learn best practices. Nov 12, in-person or online. Register now! | **November 12 @ 9:00 AM MT** | [Register](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&utm_medium=website&utm_campaign=adl2024)
 
-And more! View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
+* **[!DNL MULTIPLE APPLICATIONS]** | Adobe Developers Live | _Adobe Developers Live 2024_ | Join us for Adobe Developers Live in person at Adobe's HQ in San Jose! Connect with AEM and Commerce developers, explore the latest innovations and learn best practices. Nov 12, in-person or online. Register now! | **November 12 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+And many more! View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
 +++
 
