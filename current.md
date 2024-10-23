@@ -59,7 +59,7 @@ Latest update: **October 23**
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [Customer Data Management - Voices](#voices)
 * [Digital Experience Blueprints](#blueprints)
-* [Certification at Adobe](https://experienceleague.adobe.com/en/docs/certification/program/overview)
+* [Certification at Adobe](https://experienceleague.adobe.com/en/certification-home)
 * [Adobe product security vulnerabilities](https://helpx.adobe.com/security.html)
 
 ## ![Icon](/assets/experience-league.png) [!DNL Experience League] events and updates {#events}
@@ -107,19 +107,9 @@ Learn about the latest features and updates in [!DNL Adobe System Status].
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
-Released: **August 19**
+Recent release notes are found here:
 
-**What's new**
-
-* Product-based maintenance notifications, bug fixes, and improvements
-
-| Feature | Description |
-| ------- | ------- |
-| Product based maintenances | <ul><li>Enhanced UI and notifications per product instead of per maintenance.</li><li>Impact attributes of each update provide product-specific details of the impact.</li></ul> |
-| Bug fixes and improvements | <ul><li>_How to subscribe_ help page localization.</li><li>Added support contact information on [!DNL Slack] set up instructions page.</li><li>Fixed the bug on incidents not filtered correctly by event status using Status APIs.</li></ul> |
-
-For recent release notes, see:
-
+* [August 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/09142023#status)
 * [May 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/05152024#status)
 * [January 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/02142024#status)
 * [October 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/10042023#status)
@@ -137,7 +127,6 @@ Learn about [!DNL Experience Cloud] central interface components and administrat
 
 | Release date |Feature | Description  |
 | -----------| -----------| ---------- |
-|September 10 |[!DNL Slack] notifications in [!DNL Experience Cloud] |You can configure your account preferences to send [!DNL Experience Cloud] notifications to Slack. See [Subscribe to Slack notifications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) for details.|
 |October 2 |Customizable home |On the Experience Cloud landing page, click **[!UICONTROL Edit]**. [!UICONTROL Edit] mode enables you to personalize your Experience Cloud home page with access to a widget library and custom backgrounds. [!UICONTROL Edit] mode provides seamless, intuitive controls for moving, resizing, and managing widgets. This feature including bulk actions and layout adjustments, offering a more aesthetic and tailored experience. Customize your Experience Cloud home page with access to a widget library and custom backgrounds.|
 
 For help on [!DNL Experience Cloud] central interface components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
@@ -193,7 +182,7 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 [!DNL Analytics] release date: **October 2, 2024**
 
-* [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html)<!-- (https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest) -->
+* [!DNL Analytics] [release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest)<!-- (https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) -->
 
 * [!DNL Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/analytics)
 
@@ -231,7 +220,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 [!DNL Customer Journey Analytics] release date: **October 2, 2024**
 
-* [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) <!-- * [!DNL Customer Journey Analytics] [release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases) -->
+* [!DNL Customer Journey Analytics] [release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases) <!-- [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
 
 * [!DNL Customer Journey Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/customer-journey-analytics)
 
@@ -548,25 +537,25 @@ New [!DNL Workfront] tutorials and events on Experience League.
 |October 2024|[Understand performance metrics](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-performance-metrics)|Video |Learn how to use the performance metrics - the Performance Index Method (PIM) and the Estimate at Completion (EAC).|
 |October 2024|[Understand basic text mode for groupings](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings)|Video |Learn about text mode, camel case, and some basic plug-and-play text modes that you can use in your views in Workfront. |
 |October 2024|[Understand basic text mode for views](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views)|Video |Learn about text mode, camel case, and some basic plug-and-play text modes that you can use in your views in Workfront.|
-|October 2024|[Update and review finances](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/project-finances-users/update-and-review-finances)|Video |Learn how to review the financial information associated with a project in  Workfront.|
-|October 2024|[Learn the benefits of proofing](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-proof/benefits-of-proofing-in-workfront)|Video |Learn what proofing is and the benefits of using digital proofing in  Workfront.|
+|October 2024|[Update and review finances](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/project-finances-users/update-and-review-finances)|Video |Learn how to review the financial information associated with a project in Workfront.|
+|October 2024|[Learn the benefits of proofing](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-proof/benefits-of-proofing-in-workfront)|Video |Learn what proofing is and the benefits of using digital proofing in Workfront.|
 |October 2024|[Get started managing a project](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project)|Video |Learn how to monitor project progress, drill down to see task details, and how to communicate with stakeholders.|
-|October 2024|[Understand performance metrics](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-performance-metrics.html?lang=en)|Video |Learn how to use the performance metrics - the Performance Index Method (PIM) and the Estimate at Completion (EAC).|
+|October 2024|[Understand performance metrics](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-performance-metrics)|Video |Learn how to use the performance metrics - the Performance Index Method (PIM) and the Estimate at Completion (EAC).|
 |October 2024|[Understand portfolios](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/overview-of-adobe-workfront-portfolios)|Video |Learn what portfolios are in Workfront and how they can help you prioritize projects and compare projects against one another.|
 |October 2024|[Understand reporting elements](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements)|Video |Learn how to use existing reporting elements--filters, views, and groupings--to access information being tracked in Workfront.|
 |October 2024|[Create filters with user-based wildcards](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards)|Video |Learn how to use user-based wildcards and how to build a filter based on the logged in user.|
-|October 2024|[Create a simple report](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-simple-report)|Video |Learn how to create a simple report using an existing filter,view,and grouping in Workfront.|
+|October 2024|[Create a simple report](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-simple-report)|Video |Learn how to create a simple report using an existing filter, view,and grouping in Workfront.|
 |October 2024|[What is a proof version?](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-proof/upload-proofs/what-is-a-proof-version)|Video |Discover how versions can help you manage the review and approval process across multiple iterations of a file using Workfront's proofing features.|
-|October 2024|[Get started managing a project](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project)|Video |Learn how to monitor project progress,drill down to see task details,and how to communicate with stakeholders.|
-|October 2024|[Dig deeper using timeframes and additional charts](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/12-digging-deeper-using-timeframes-and-additional-charts)|Video |Learn to drill down on a project in the Flight plan chart to make the [!UICONTROL Burndown] chart and the Tasks in flight chart appear in Enhanced Analytics.|
+|October 2024|[Get started managing a project](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project)|Video |Learn how to monitor project progress, drill down to see task details,and how to communicate with stakeholders.|
+|October 2024|[Dig deeper using timeframes and additional charts](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/12-digging-deeper-using-timeframes-and-additional-charts)|Video |Learn to drill down on a project in the Flight plan chart to make the [!UICONTROL Burndown] chart and the [!UICONTROL Tasks in flight] chart appear in Enhanced Analytics.|
 |October 2024|[Understand the activity by team chart](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/enhanced-analytics/18-activity-by-team-chart)|Video |The Activity by team chart in Enhanced Analytics allows you to understand how your organization's home teams spend their time in Workfront.|
 |October 2024|[Delegate tasks, issues, and approvals](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/delegate-approvals)|Video |Learn how to delegate task and issue assignments, and approvals for projects, tasks, and issues, to another Workfront user.|
-|October 2024|[Create a global and a single-use approval process](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)|Video |Learn how to create a single-use approval process on a project,task,or issue in Workfront.|
-|October 2024|[Create a request flow](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)|Video |Learn how to configure queue topics,topic groups,and routing rules to help manage request and work intake.|
-|October 2024|[View milestones](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/view-milestones)|Video |Learn how to view milestones in a project,plus use the milestone view in the Project area.|
+|October 2024|[Create a global and a single-use approval process](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)|Video |Learn how to create a single-use approval process on a project, task,or issue in Workfront.|
+|October 2024|[Create a request flow](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)|Video |Learn how to configure queue topics, topic groups,and routing rules to help manage request and work intake.|
+|October 2024|[View milestones](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/view-milestones)|Video |Learn how to view milestones in a project, plus use the milestone view in the Project area.|
 |October 2024|[Create a project template and learn about Blueprints](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template)|Video |Learn to create a project template from scratch and from an existing project, and understand how Blueprints can give you access to a world of useful project templates created by Workfront experts.|
-|October 2024|[Share a template](https://experienceleague.adobe.com/en/docs/workfront/using/basics/grant-request-object-permissions/share-a-template)|Video |As an Adobe Workfront administrator,you can grant users access to view or edit templates when you assign their access level. A user must have a Plan license to have access to Edit templates.|
-|October 2024|[Understand basic text mode for filters](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-filters)|Video |Learn what text mode is,what camel case is,and some basic |
+|October 2024|[Share a template](https://experienceleague.adobe.com/en/docs/workfront/using/basics/grant-request-object-permissions/share-a-template)|Video |As an Adobe Workfront administrator, you can grant users access to view or edit templates when you assign their access level. A user must have a Plan license to have access to Edit templates.|
+|October 2024|[Understand basic text mode for filters](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-filters)|Video |Learn what text mode is, what camel case is,and some basic |
 
 <!--
 ### New [!DNL Workfront] support knowledge base
@@ -652,8 +641,8 @@ New tutorials published for [!DNL Document Cloud], including [!DNL Acrobat Servi
 | -----------| ---------- | ---------- | ---------- |---------- |
 | September 2024 | Acrobat | [How to promote a user to an admin role](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/promote-admin) | Video | Learn how to promote a user to an Acrobat Sign admin role using the Adobe Admin Console. | 
 | September 2024 | Acrobat Sign | [Audit reports](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/audit-reports) | Video | Learn how to access, use, and configure audit reports to suit your organization's needs. Every document in Acrobat Sign passes through a series of event "milestones" that define the progress of a transaction. These milestones are thoroughly documented in an audit report for every transaction. |
-| September 2024 | Acrobat Sign | [Bulk Download tool](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/bulk-download-tool) | Video | Learn how to use the Bulk Download tool to quickly download all your signed agreements-saving you significant time. The Bulk Download tool is available for Windows and Mac OS X. |
-| September 2024 | Acrobat Sign | [Set up automatic updates](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/salesforce-automatic-updates) | Video | Learn how to easily link your account to Salesforce to get automatic updates-streamlining operations and accuracy. |
+| September 2024 | Acrobat Sign | [Bulk Download tool](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/bulk-download-tool) | Video | Learn how to use the Bulk Download tool to download all your signed agreements-saving you significant time. The Bulk Download tool is available for Windows and Mac OS X. |
+| September 2024 | Acrobat Sign | [Set up automatic updates](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/salesforce-automatic-updates) | Video | Learn how to link your account to Salesforce to get automatic updates-streamlining operations and accuracy. |
 | September 2024 | Acrobat Sign | [How to set up privacy admins](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/privacy) | Video | Learn how to set up and use privacy admins for Acrobat Sign workflows in the Admin Console. |
 | September 2024 | Acrobat Sign | [Set up large files and push mappings](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/integrations/salesforce/salesforce-large-files) | Video | Learn how to set up large documents and push agreement services in Acrobat Sign for Salesforce. Push agreements allow you to send documents, create a web form, and have agreements pushed just as if they were created in Salesforce. |
 | September 2024 | Acrobat Sign | [How to set up webhooks](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/develop/custom/webhooks) | Video | Learn how to create a webhook to automate processes that normally require manual intervention. A webhook is a user-defined HTTPS request triggered when a subscribed event occurs. |
@@ -677,7 +666,7 @@ New tutorials published for applications in [!DNL Adobe Creative Cloud for enter
 
 |Published|Application|Name|Type|Description |
 | -----------| -----------|---------- | ---------- | ---------- |
-|October 2024|Express|[Create multi-channel HR content for events](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-hr-content)|Video |Learn how to quickly create multi-channel HR content that is consistent with your organization's brand. Delivering multi-channel content quickly allows you to reach more employees with your communications, helping them stay informed on the latest news. |
+|October 2024|Express|[Create multi-channel HR content for events](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-hr-content)|Video |Learn how to create multi-channel HR content that is consistent with your organization's brand. Delivering multi-channel content quickly allows you to reach more employees with your communications, helping them stay informed on the latest news. |
 
 See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) for the latest tutorials.
 
