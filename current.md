@@ -32,7 +32,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## November 2024
 
-Latest update: **October 23**
+Latest update: **October 30**
 
 * [[!DNL Experience League] events and updates](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -86,12 +86,6 @@ To browse playlists, navigate to **[!UICONTROL Learn]** > **[!UICONTROL Browse a
 ### Events on Experience League 
 
 +++Details
-
-* **[!DNL Workfront]** | Q & A chat | _Learn: Qualcomm's Journey to the Adoption of Adobe Workfront_ | Come learn about the strategic approach Becky Barus, the Certified Technical Adobe Workfront Lead at Qualcomm, utilized to significantly boost user adoption of Adobe Workfront. | **October 23 @ 10:00 AM MT** | [Register](https://events.teams.microsoft.com/event/075df7a9-74b3-496f-8408-92bd7dee6099@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Experience Platform, Journey Optimizer, and Real-Time Customer Data Platform Collaboration]** | Experience League LIVE | _Adobe Experience League Live: Harmonize Audiences in Experience Ecosystems - Federated Audience Composition in Experience Platform_ | Learn about how Federated Audience Composition provides a comprehensive approach to audience curation and activation with Real-Time CDP and Journey Optimizer. | **October 24 @ 9:30 AM MT** | [Register](https://engage.adobe.com/ExpLeagueLive-241024.html)
-
-* **[!DNL Workfront]** | Q & A chat | _Customer Panel: Lessons Learned from Veteran Workfront Admins_ | Join four experienced Adobe Workfront customers for a 1-hour interactive panel discussion to learn what to do (or not to do) when implementing, inheriting, managing, and expanding an instance of Workfront. | **October 29 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/bfdd4c24-1a60-447d-a91b-ad52806626a5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Experience Cloud] (multi-product)** | Adobe Developers Live | _Adobe Developers Live 2024_ | Join us for Adobe Developers Live in person at Adobe's HQ in San Jose! Connect with AEM and Commerce developers, explore the latest innovations and learn best practices. Nov 12, in-person or online. Register now! | **November 12 @ 9:00 AM MT** | [Register](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&utm_medium=website&utm_campaign=adl2024)
 
@@ -182,7 +176,7 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 +++Details
 
-[!DNL Analytics] release date: **October 2, 2024**
+[!DNL Analytics] release date: **October 23, 2024**
 
 * [!DNL Analytics] [release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest)<!-- (https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) -->
 
@@ -220,7 +214,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 +++Details
 
-[!DNL Customer Journey Analytics] release date: **October 2, 2024**
+[!DNL Customer Journey Analytics] release date: **October 23, 2024**
 
 * [!DNL Customer Journey Analytics] [release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases) <!-- [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
 
