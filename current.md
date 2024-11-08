@@ -87,7 +87,13 @@ To browse playlists, navigate to **[!UICONTROL Learn]** > **[!UICONTROL Browse a
 
 +++Details
 
+* **[!DNL Workfront]** | Community event | _Connect: Workfront Collective_ | Join our monthly Monday Workfront Collective events designed to connect with other customers, discuss Workfront features, share ideas, and brainstorm together to solve common challenges. | **November 11 @ 7:00 AM MT** | [Register](https://events.teams.microsoft.com/event/ffc976b3-a3a9-44d3-bea7-ff315460495a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Customer workshop | _Admin 101: Getting Users to Use Workfront_ | New to Workfront? Join us for the second session of the 3-part Admin 101 series to discuss all things related to user adoption. Come with your questions! | **November 12 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/e9e4e06c-b492-4759-afda-b5d3fb31859e@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
 * **[!DNL Experience Cloud] (multi-product)** | Adobe Developers Live | _Adobe Developers Live 2024_ | Join us for Adobe Developers Live in person at Adobe's HQ in San Jose! Connect with AEM and Commerce developers, explore the latest innovations and learn best practices. Nov 12, in-person or online. Register now! | **November 12 @ 9:00 AM MT** | [Register](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&utm_medium=website&utm_campaign=adl2024)
+
+* **[!DNL Experience Platform and Real-Time CDP]** | Experience League LIVE | _Introducing AI Assistant for Audiences for Marketers in Real-Time CDP_ | Join Adobe product experts for a sneak peek at AI Assistant for Audiences coming soon to Adobe Real-Time CDP to supercharge audience insights and actions. Get your questions answered from Adobe product experts ! | **November 13 @ 10:00 AM MT** | [Register](https://engage.adobe.com/ExpLeagueLive-241113.html)
 
 And many more! View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
