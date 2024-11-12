@@ -32,7 +32,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## November 2024
 
-Latest update: **November 8**
+Latest update: **November 12**
 
 * [[!DNL Experience League] events and updates](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -87,13 +87,13 @@ To browse playlists, navigate to **[!UICONTROL Learn]** > **[!UICONTROL Browse a
 
 +++Details
 
-* **[!DNL Workfront]** | Community event | _Connect: Workfront Collective_ | Join our monthly Monday Workfront Collective events designed to connect with other customers, discuss Workfront features, share ideas, and brainstorm together to solve common challenges. | **November 11 @ 7:00 AM MT** | [Register](https://events.teams.microsoft.com/event/ffc976b3-a3a9-44d3-bea7-ff315460495a@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | Customer workshop | _Admin 101: Getting Users to Use Workfront_ | New to Workfront? Join us for the second session of the 3-part Admin 101 series to discuss all things related to user adoption. Come with your questions! | **November 12 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/e9e4e06c-b492-4759-afda-b5d3fb31859e@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Experience Cloud] (multi-product)** | Adobe Developers Live | _Adobe Developers Live 2024_ | Join us for Adobe Developers Live in person at Adobe's HQ in San Jose! Connect with AEM and Commerce developers, explore the latest innovations and learn best practices. Nov 12, in-person or online. Register now! | **November 12 @ 9:00 AM MT** | [Register](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&utm_medium=website&utm_campaign=adl2024)
 
 * **[!DNL Experience Platform and Real-Time CDP]** | Experience League LIVE | _Introducing AI Assistant for Audiences for Marketers in Real-Time CDP_ | Join Adobe product experts for a sneak peek at AI Assistant for Audiences coming soon to Adobe Real-Time CDP to supercharge audience insights and actions. Get your questions answered from Adobe product experts ! | **November 13 @ 10:00 AM MT** | [Register](https://engage.adobe.com/ExpLeagueLive-241113.html)
+
+* **[!DNL Marketo]** | Marketo Engage Champions | _November 2024 Marketo Engage Champion Office Hours_ | Join us for our November Marketo Champion Office Hours on Thursday, November 14th with our panel of Champions Miray Vu, Maria Cruz, AJ Navarro and Lucas Goncalves Machado, moderated by Alsyha Khan. | **November 14 @ 9:00 AM MT** | [Register](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-november-2024-marketo-engage-champion-office-hours/)
+
+* **[!DNL Analytics and Customer Journey Analytics]** | Experience Cloud Tech Sessions | _Adobe Customer Journey Analytics Product Innovations: A Quarterly Overview - Q4 2025_ | Join the Adobe Analytics product experts to discover the very latest innovations with Adobe Customer Journey Analytics. The Q4 2025 session is happening soon, so register now to ensure your spot. | **November 14 @ 10:00 AM MT** | [Register](https://event.adobe.com/customerjourneyanalytics)
 
 And many more! View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
@@ -315,6 +315,9 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
+|November 2024|[Configuration values](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/config-values)| Video |Learn how to locate, validate, and manage configuration values in Adobe Commerce using `core_config_data`, XML files, and administration settings.|
+|November 2024|[Resolve common errors](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/config-values)| Video |Resolve two common Adobe Cloud project errors that prevent the site from loading.|
+|November 2024|[Expired SSL Certificate](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/invalid-ssl)| Video |Learn how to identify an expired ssl certificate, then how to re-generate one for the Adobe Commerce Cloud integration or other dev environments.|
 |October 2024|[Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/migrating-to-adobe-commerce/qa/code-freeze)|Multiple videos |View new videos about Commerce marketecture, global delivery model, admin roles, storefront options, and more.|
 |October 2024|[Migrating to Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/migrating-to-adobe-commerce/overview)|Video |An overview covering preparation, custom code, QA, performance, and security when migrating to Adobe Commerce.|
 |October 2024|[Reset the admin URI using the cli](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/admin/reset-admin-uri)|Video |Learn how to reset the admin URI using the Adobe Commerce Cloud cli command. This is useful if the admin URL was changed from the admin but a mistake was made and you are no longer able to access the admin.|
