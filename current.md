@@ -315,6 +315,9 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
+|November 2024|[Configuration values](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/config-values)| Video |Learn how to locate, validate, and manage configuration values in Adobe Commerce using `core_config_data`, XML files, and administration settings.|
+|November 2024|[Resolve common errors](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/config-values)| Video |Resolve two common Adobe Cloud project errors that prevent the site from loading.|
+|November 2024|[Expired SSL Certificate](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/invalid-ssl)| Video |Learn how to identify an expired ssl certificate, then how to re-generate one for the Adobe Commerce Cloud integration or other dev environments.|
 |October 2024|[Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/migrating-to-adobe-commerce/qa/code-freeze)|Multiple videos |View new videos about Commerce marketecture, global delivery model, admin roles, storefront options, and more.|
 |October 2024|[Migrating to Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/migrating-to-adobe-commerce/overview)|Video |An overview covering preparation, custom code, QA, performance, and security when migrating to Adobe Commerce.|
 |October 2024|[Reset the admin URI using the cli](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/admin/reset-admin-uri)|Video |Learn how to reset the admin URI using the Adobe Commerce Cloud cli command. This is useful if the admin URL was changed from the admin but a mistake was made and you are no longer able to access the admin.|
