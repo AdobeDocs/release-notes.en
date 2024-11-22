@@ -32,15 +32,15 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 ## November 2024
 
-Latest update: **November 12**
+Latest update: **November 22**
 
-* [[!DNL Experience League] events and updates](#events)
+* [[!DNL Experience League] events and updates](#events) (**November 24**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time Customer Data Platform]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (Release: **October 23**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (Release: **October 23**)
+* [[!DNL Adobe Analytics]](#analytics) (Released: **October 23**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (Released: **October 23**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem) 
 * [[!DNL Adobe Commerce]](#commerce)
@@ -51,7 +51,7 @@ Latest update: **November 12**
 * [[!DNL Adobe Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [[!DNL GenStudio for Performance Marketing]](#genstudio-marketing) (**New!**)
+* [[!DNL GenStudio for Performance Marketing]](#genstudio-marketing)
 * [[!DNL Adobe Mix Modeler]](#mix-modeler)
 * [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
@@ -65,6 +65,17 @@ Latest update: **November 12**
 ## ![Icon](/assets/experience-league.png) [!DNL Experience League] events and updates {#events}
 
 Learn about exciting events on Experience League. It's a great place to learn, interact, and get answers from product experts at Adobe!
+
+### Table of contents enhancements
+
+Update: **November 22, 2024**
+
+The following updates have been made to each table of contents in Experience League:
+
+* **[!UICONTROL Expand all sections]**: Displays the entire table of contents on any Experience League guide. (This toggle turns off after a page load. This issue will be fixed in a future update.) The **[!UICONTROL View more]** and **[!UICONTROL View less]** options have been removed.
+* **Scroll**: Enables scrolling through a long table of contents.
+* **[!UICONTROL Filter by keyword]**: Lets you filter table of contents entries by typing keywords. A dropdown displays relevant results, and you can clear the filter by clicking **[!UICONTROL Clear]**.
+* **Active page visibility**: The active page is always highlighted in the table of contents.
 
 ### Playlists on Experience League
 
@@ -87,15 +98,7 @@ To browse playlists, navigate to **[!UICONTROL Learn]** > **[!UICONTROL Browse a
 
 +++Details
 
-* **[!DNL Experience Cloud] (multi-product)** | Adobe Developers Live | _Adobe Developers Live 2024_ | Join us for Adobe Developers Live in person at Adobe's HQ in San Jose! Connect with AEM and Commerce developers, explore the latest innovations and learn best practices. Nov 12, in-person or online. Register now! | **November 12 @ 9:00 AM MT** | [Register](https://developerevents.adobe.com/events/details/adobe-developer-events-developer-experience-presents-adobe-developers-live-2024/?utm_source=exl&utm_medium=website&utm_campaign=adl2024)
-
-* **[!DNL Experience Platform and Real-Time CDP]** | Experience League LIVE | _Introducing AI Assistant for Audiences for Marketers in Real-Time CDP_ | Join Adobe product experts for a sneak peek at AI Assistant for Audiences coming soon to Adobe Real-Time CDP to supercharge audience insights and actions. Get your questions answered from Adobe product experts ! | **November 13 @ 10:00 AM MT** | [Register](https://engage.adobe.com/ExpLeagueLive-241113.html)
-
-* **[!DNL Marketo]** | Marketo Engage Champions | _November 2024 Marketo Engage Champion Office Hours_ | Join us for our November Marketo Champion Office Hours on Thursday, November 14th with our panel of Champions Miray Vu, Maria Cruz, AJ Navarro and Lucas Goncalves Machado, moderated by Alsyha Khan. | **November 14 @ 9:00 AM MT** | [Register](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-november-2024-marketo-engage-champion-office-hours/)
-
-* **[!DNL Analytics and Customer Journey Analytics]** | Experience Cloud Tech Sessions | _Adobe Customer Journey Analytics Product Innovations: A Quarterly Overview - Q4 2025_ | Join the Adobe Analytics product experts to discover the very latest innovations with Adobe Customer Journey Analytics. The Q4 2025 session is happening soon, so register now to ensure your spot. | **November 14 @ 10:00 AM MT** | [Register](https://event.adobe.com/customerjourneyanalytics)
-
-And many more! View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
+View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
 +++
 
@@ -124,6 +127,10 @@ Recent release notes are found here:
 Learn about [!DNL Experience Cloud] central interface components and administration. Manage products and users, configure profile settings and preferences, search Experience Cloud objects, and manage cookies. 
 
 +++Details
+
+To make it easier to control Experience Cloud product usage data preferences, we streamlined our Experience Cloud preference page to remove duplicative options. For simplicity, we have preserved current user preferences, and you can update your preferences at any time at https://experience.adobe.com/preferences. 
+
+
 
 | Release date |Feature | Description  |
 | -----------| -----------| ---------- |
