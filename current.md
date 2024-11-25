@@ -28,7 +28,7 @@ For the best self-help experience, sign in to [Experience League](https://experi
 
 **November 2024**
 
-Latest update: **November 22, 2024**
+Latest update: **November 24, 2024**
 
 * [[!DNL Experience League] events and updates](#events) (**November 24**)
 * [[!DNL Adobe System Status]](#status)
