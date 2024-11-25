@@ -28,7 +28,7 @@ For the best self-help experience, sign in to [Experience League](https://experi
 
 **November 2024**
 
-Latest update: **November 22, 2024**
+Latest update: **November 24, 2024**
 
 * [[!DNL Experience League] events and updates](#events) (**November 24**)
 * [[!DNL Adobe System Status]](#status)
@@ -58,17 +58,17 @@ Latest update: **November 22, 2024**
 * [Certification at Adobe](https://experienceleague.adobe.com/en/certification-home)
 * [Adobe product security vulnerabilities](https://helpx.adobe.com/security.html)
 
-## [!DNL Experience League] events and updates {#events}
+## [!DNL Experience League] updates and events {#events}
 
 Learn about exciting events on Experience League. It's a great place to learn, interact, and get answers from product experts at Adobe!
 
-+++Details
+### Updates to Experience League
 
-### Table of contents enhancements
++++Details
 
 Update: **November 22, 2024**
 
-The following updates have been made to each table of contents in Experience League:
+**Table of contents updates:** The following updates have been made to each table of contents in Experience League:
 
 * **[!UICONTROL Expand all sections]**: Displays the entire table of contents on any Experience League guide. (This toggle turns off after a page load. This issue will be fixed in a future update.) The **[!UICONTROL View more]** and **[!UICONTROL View less]** options have been removed.
 * **Scroll**: Enables scrolling through a long table of contents.
