@@ -28,15 +28,15 @@ For the best self-help experience, sign in to [Experience League](https://experi
 
 **November 2024**
 
-Latest update: **November 24, 2024**
+Latest update: **December 11, 2024**
 
-* [[!DNL Experience League] events and updates](#events) (**November 24**)
+* [[!DNL Experience League] events and updates](#events) (**December 11**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (Released: **October 23**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (Released: **October 23**)
+* [[!DNL Adobe Analytics]](#analytics) (Latest release: **October 23**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (Latest release: **October 23**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem) 
 * [[!DNL Adobe Commerce]](#commerce)
@@ -97,6 +97,10 @@ To browse playlists, navigate to **[!UICONTROL Learn]** > **[!UICONTROL Browse a
 ### Events on Experience League 
 
 +++Details
+
+* **[!DNL Workfront]** | Community event | _Connect: Workfront Collective_ | Join our monthly Monday Workfront Collective events designed to connect with other customers, discuss Workfront features, share ideas, and brainstorm together to solve common challenges. | **December 16 @ 7:00 AM MT** | [Register](https://events.teams.microsoft.com/event/d79e528e-b2ad-43fc-a37b-7ebefa30e2b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Q&A chat | _Admin 101: Bring Your Workfront Questions_ | New to Workfront? Did you miss any of the previous Admin 101 sessions? Join our summary session to ask questions, get resources and recommendations, and meet other new admins. | **December 17 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/d5af4ff8-c7f0-4ec1-bb45-91ab8ee45704@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
