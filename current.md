@@ -26,11 +26,11 @@ For the best self-help experience, sign in to [Experience League](https://experi
 
 **Get notified:** To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
-**November 2024**
+**November/December 2024**
 
-Latest update: **December 11, 2024**
+Latest update: **December 16, 2024**
 
-* [[!DNL Experience League] events and updates](#events) (**December 11**)
+* [[!DNL Experience League] events and updates](#events) (**December 16**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform)
@@ -98,9 +98,11 @@ To browse playlists, navigate to **[!UICONTROL Learn]** > **[!UICONTROL Browse a
 
 +++Details
 
-* **[!DNL Workfront]** | Community event | _Connect: Workfront Collective_ | Join our monthly Monday Workfront Collective events designed to connect with other customers, discuss Workfront features, share ideas, and brainstorm together to solve common challenges. | **December 16 @ 7:00 AM MT** | [Register](https://events.teams.microsoft.com/event/d79e528e-b2ad-43fc-a37b-7ebefa30e2b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Workfront]** | Q&A chat | _Admin 101: Bring Your Workfront Questions_ | New to Workfront? Did you miss any of the previous Admin 101 sessions? Join our summary session to ask questions, get resources and recommendations, and meet other new admins. | **December 17 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/d5af4ff8-c7f0-4ec1-bb45-91ab8ee45704@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Workfront | _Adobe Workfront First Quarter Release Webinar_ | Hosted in partnership with Jeremy Flores, Sr. Product Manager, this webinar will highlight the latest Adobe Workfront feature enhancements that are scheduled to release next week in the First Quarter 2025 Release. | **January 9 @ 10:30 AM MT** | [Register](https://events.teams.microsoft.com/event/5807575a-bfd0-4c7a-a052-47d055008417@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | Workfront | _Connect: Admin Chat for Marketing & Creative_ | Are you a System Admin for a marketing or creative team? This customer-driven session hosted in partnership with Catholic Relief Services will provide best practices as well as free time for questions. | **January 10 @ 10:00 AM MT** | [Register](https://events.teams.microsoft.com/event/5650f441-e8c5-469b-a95b-37742e5d875f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
