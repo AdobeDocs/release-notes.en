@@ -7,7 +7,7 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
-# Experience Cloud release notes - November 2024
+# Experience Cloud release notes - November/December 2024
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -28,15 +28,15 @@ For the best self-help experience, sign in to [Experience League](https://experi
 
 **November/December 2024**
 
-Latest update: **December 16, 2024**
+Latest update: **January 9, 2024**
 
 * [[!DNL Experience League] events and updates](#events) (**December 16**)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
+* [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud) (**January 9**)
 * [[!DNL Adobe Experience Platform]](#platform)
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (Latest release: **October 23**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (Latest release: **October 23**)
+* [[!DNL Adobe Analytics]](#analytics) (Next release: **January 22**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (Next release: **January 22**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem) 
 * [[!DNL Adobe Commerce]](#commerce)
@@ -98,8 +98,6 @@ To browse playlists, navigate to **[!UICONTROL Learn]** > **[!UICONTROL Browse a
 
 +++Details
 
-* **[!DNL Workfront]** | Q&A chat | _Admin 101: Bring Your Workfront Questions_ | New to Workfront? Did you miss any of the previous Admin 101 sessions? Join our summary session to ask questions, get resources and recommendations, and meet other new admins. | **December 17 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/d5af4ff8-c7f0-4ec1-bb45-91ab8ee45704@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Workfront]** | Workfront | _Adobe Workfront First Quarter Release Webinar_ | Hosted in partnership with Jeremy Flores, Sr. Product Manager, this webinar will highlight the latest Adobe Workfront feature enhancements that are scheduled to release next week in the First Quarter 2025 Release. | **January 9 @ 10:30 AM MT** | [Register](https://events.teams.microsoft.com/event/5807575a-bfd0-4c7a-a052-47d055008417@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | Workfront | _Connect: Admin Chat for Marketing & Creative_ | Are you a System Admin for a marketing or creative team? This customer-driven session hosted in partnership with Catholic Relief Services will provide best practices as well as free time for questions. | **January 10 @ 10:00 AM MT** | [Register](https://events.teams.microsoft.com/event/5650f441-e8c5-469b-a95b-37742e5d875f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
@@ -138,7 +136,9 @@ To make it easier to control Experience Cloud product usage data preferences, we
 
 | Release date |Feature | Description  |
 | -----------| -----------| ---------- |
-|October 2 |Customizable home |On the Experience Cloud landing page, click **[!UICONTROL Edit]**. [!UICONTROL Edit] mode enables you to personalize your Experience Cloud home page with access to a widget library and custom backgrounds. [!UICONTROL Edit] mode provides seamless, intuitive controls for moving, resizing, and managing widgets. This feature including bulk actions and layout adjustments, offering a more aesthetic and tailored experience. Customize your Experience Cloud home page with access to a widget library and custom backgrounds.|
+| **January 9** |Product usage data |To make it easier to control Experience Cloud product usage data preferences, we streamlined our Experience Cloud [Preferences](https://experienceleague.adobe.com/docs/core-services/interface/features/account-preferences.html#product-usage-data) page to remove duplicative options. With this simplification, we've preserved current user preferences, and you can update your preferences at any time on [Experience Cloud preferences](https://experience.adobe.com/preferences). |
+| **January 30** (planned release date) |Spectrum 2 |The Experience Cloud application frame, which includes the header bar and components accessed from the header bar, as well as left navigation rail for certain applications will be updated to Spectrum 2, Adobe's latest design system. This refreshed design includes updated iconography, but the same functionality. However, several elements in the header are re-positioned to align with other Adobe sites and applications. |
+|**October 2** |Customizable home |On the Experience Cloud landing page, click **[!UICONTROL Edit]**. [!UICONTROL Edit] mode enables you to personalize your Experience Cloud home page with access to a widget library and custom backgrounds. [!UICONTROL Edit] mode provides seamless, intuitive controls for moving, resizing, and managing widgets. This feature including bulk actions and layout adjustments, offering a more aesthetic and tailored experience. Customize your Experience Cloud home page with access to a widget library and custom backgrounds.|
 
 For help on [!DNL Experience Cloud] central interface components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
 
