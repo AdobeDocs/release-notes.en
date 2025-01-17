@@ -621,8 +621,8 @@ Find latest release information and new documentation for [!DNL GenStudio for Pe
 
 +++Details
 
-* [Release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes) for GenStudio for Performance Marketing
-* [Product documentation](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing) for GenStudio for Performance Marketing
+* [Release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest) for GenStudio for Performance Marketing
+* [Product documentation](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home) for GenStudio for Performance Marketing
 * [GenStudio for Performance Marketing](https://business.adobe.com/products/genstudio-for-performance-marketing.html) product information
 
 Latest video tutorials for [!DNL GenStudio for Performance Marketing].
