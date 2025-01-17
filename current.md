@@ -14,14 +14,13 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-[Experience League](https://experienceleague.adobe.com/#home) helps you find self-help resources for Experience Cloud and Adobe enterprise applications, including:
+[Experience League](https://experienceleague.adobe.com/#home) helps you learn about Experience Cloud and Adobe enterprise applications. For the best experience, sign in and customize your search across our free library of resources, including:
 
-* Release notes and product documentation
-* Support Knowledge Base articles
-* Upcoming events on Experience League
-* Latest video tutorials and playlists
-
-For the best experience, sign in and customize your search across our free library of [product documentation](https://experienceleague.adobe.com/en/docs), [video playlists](https://experienceleague.adobe.com/en/playlists), [events](https://experienceleague.adobe.com/events/), [community forums](https://experienceleaguecommunities.adobe.com/?profile.language=en), and [support](https://experienceleague.adobe.com/?support-tab=home#support).
+* [Product documentation](https://experienceleague.adobe.com/en/docs)
+* [Video playlists](https://experienceleague.adobe.com/en/playlists)
+* [Events](https://experienceleague.adobe.com/events/)
+* [Community forums](https://experienceleaguecommunities.adobe.com/?profile.language=en)
+* [Support](https://experienceleague.adobe.com/?support-tab=home#support)
 
 **Stay notified:** To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
