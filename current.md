@@ -211,7 +211,7 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 +++Details
 
-[!DNL Analytics] release date: **January 22, 2024**
+[!DNL Analytics] release date: **January 22, 2025**
 
 * [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html)<!-- (https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest) -->
 
@@ -250,7 +250,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 +++Details
 
-[!DNL Customer Journey Analytics] release date: **January 22, 2024**
+[!DNL Customer Journey Analytics] release date: **January 22, 2025**
 
 * [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html)<!-- [release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases) -->
 
