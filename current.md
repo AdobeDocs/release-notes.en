@@ -24,7 +24,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 **Stay notified:** To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
-**Leave feedback:** Look for the **_Was this content helpful?_** pop-up at the bottom of each page. Your feedback is curated and delivered to content authors.
+**Leave feedback:** Look for the **_Was this content helpful?_** pop-up at the bottom of each article or video. Your feedback is curated and delivered to content authors.
 
 ## January 2025
 
