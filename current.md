@@ -679,6 +679,12 @@ New tutorials published for [!DNL Document Cloud], including [!DNL Acrobat Servi
 
 +++Details
 
+New tutorials and courses published for Adobe Document Cloud.
+
+| Published | Application | Name | Type | Description |
+| -----------| ---------- | ---------- | ---------- |---------- |
+| January 2025 | Acrobat, Adobe Express | [Design a new page](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/add-custom-page) | Video | Learn how to create new professional-looking page in your PDF using Adobe Express. Designing a new page gives you the ability to create professional-looking on-brand custom content in a matter of minutes that really stands apart. This video tutorial uses the new [workspace experience](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace). |
+
 For [!DNL Document Cloud] tutorials, see:
 
 * [Adobe Acrobat](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/overview)
