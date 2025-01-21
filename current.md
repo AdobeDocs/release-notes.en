@@ -684,6 +684,7 @@ New tutorials and courses published for Adobe Document Cloud.
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | January 2025 | Acrobat, Adobe Express | [Design a new page](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/add-custom-page) | Video | Learn how to create new professional-looking page in your PDF using Adobe Express. Designing a new page gives you the ability to create professional-looking on-brand custom content in a matter of minutes that really stands apart. This video tutorial uses the new [workspace experience](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace). |
+| January 2025 | Acrobat, Adobe Express | [Collaborate in real time](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate.html) | Video | With remote work everywhere, seamless collaboration is critical to delivering content with speed and scale. Move your projects forward by collecting comments, collaborating on responses, and tracking progress on your documents all in real-time, from anywhere. Learn how to create a document review process that not only enhances efficiency but boosts content quality as well. This video tutorial uses the new [workspace experience](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace). |
 
 For [!DNL Document Cloud] tutorials, see:
 
