@@ -99,9 +99,17 @@ To browse playlists, navigate to **[!UICONTROL Learn]** > **[!UICONTROL Browse a
 
 +++Details
 
-* **[!DNL Workfront]** | Workfront | _Adobe Workfront First Quarter Release Webinar_ | Hosted in partnership with Jeremy Flores, Sr. Product Manager, this webinar will highlight the latest Adobe Workfront feature enhancements that are scheduled to release next week in the First Quarter 2025 Release. | **January 9 @ 10:30 AM MT** | [Register](https://events.teams.microsoft.com/event/5807575a-bfd0-4c7a-a052-47d055008417@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Wake Up With Workfront: Ask Me Anything_ | In this "Ask Me Anything" session, Adobe Workfront Business Advisors Samantha Miller, Aaron Baker and Mary Ann Erickson, will take live questions and share best practices in Workfront to help customers succeed in 2025. | **January 23 @ 11:00 AM MT** | [Register](https://adobeevents.adobeconnect.com/eqfnatfznj47/event/registration.html?campaign-id=ExL)
 
-* **[!DNL Workfront]** | Workfront | _Connect: Admin Chat for Marketing & Creative_ | Are you a System Admin for a marketing or creative team? This customer-driven session hosted in partnership with Catholic Relief Services will provide best practices as well as free time for questions. | **January 10 @ 10:00 AM MT** | [Register](https://events.teams.microsoft.com/event/5650f441-e8c5-469b-a95b-37742e5d875f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Connect: Workfront Collective_ | Join our monthly Monday Workfront Collective events designed to connect with other customers, discuss Workfront features, share ideas, and brainstorm together to solve common challenges. | **January 27 @ 7:00 AM MT** | [Register](https://events.teams.microsoft.com/event/7eabf155-b410-401e-8415-97306c28b9ca@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Learn: Overcoming Resistance to Change on your Workfront Journey_ | Join our Workfront change management experts to discuss best practices for identifying and overcoming resistance with your users. | **January 30 @ 10:00 AM MT** | [Register](https://events.teams.microsoft.com/event/ba4df540-2f36-427f-8893-978da4b26450@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Target]** | _Adobe Target Maturity Webinar Series_ | Adobe Target innovations, including GenAI, and best practices on AI-powered personalization and experimentation at scale. | **February 4 @ 9:00 AM MT** | [Register](https://event.adobe.com/adobetargetmaturitywebinars)
+
+* **[!DNL Target]** | _Marketo & Mochas: 5 Marketo Features to Know in 2025_ | In our first Marketo & Mochas session of the year, Marketo experts Carly Gaver and Kate Colbert will go over 5 capability-rich features that can help elevate customer experience and drive demand in 2025. | **February 6 @ 11:00 AM MT** | [Register](https://adobeevents.adobeconnect.com/ewh8dja8xr45/event/registration.html?campaign-id=ExL)
+
+* **[!DNL Commerce]** | _Commerce & Coffee: The Rise of Self-Service in B2B_ | Start the year strong with our Commerce experts, Corey Gelato & Agbi Bajrushi, as they explore the latest B2B trends and an approach to leveraging new Adobe Commerce features to stay ahead of the competition all year. | **February 13 @ 11:00 AM MT** | [Register](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
 
 View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
