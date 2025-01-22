@@ -67,7 +67,7 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 +++Details
 
-Released: **Fall 2024**
+Released: **Fall 2024** 
 
 **Table of contents updates:** The following updates have been made to each table of contents in Experience League:
 
