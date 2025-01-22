@@ -285,6 +285,8 @@ New features, fixes, and updates in [!DNL Experience Manager]. Adobe recommends 
 
 ### Experience Manager release information
 
+Next AEM CS release: **January 30**
+
 All [!DNL Experience Manager] release notes are maintained at the following pages:
 
 * [Latest release overview video](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview)
