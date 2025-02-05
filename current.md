@@ -27,7 +27,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 ## January 2025
 
-Latest update: **January 22, 2025**
+Latest update: **February 5, 2025**
 
 For specific application release dates, see the product's release notes.
 
@@ -63,35 +63,23 @@ For specific application release dates, see the product's release notes.
 
 Learn about exciting events on Experience League. It's a great place to learn, interact, and get answers from product experts at Adobe!
 
-### Updates to Experience League
+### Updates to Experience League (February 2025)
 
 +++Details
 
-Released: **Fall 2024** 
+**Personalized home page**
 
-**Table of contents updates:** The following updates have been made to each table of contents in Experience League:
+Released: **February 5, 2025** 
 
-* **[!UICONTROL Expand all sections]**: Displays the entire table of contents on any Experience League guide. (This toggle turns off after a page load. This issue will be fixed in a future update.) The **[!UICONTROL View more]** and **[!UICONTROL View less]** options have been removed.
-* **Scroll**: Enables scrolling through a long table of contents.
-* **[!UICONTROL Filter by keyword]**: Lets you filter table of contents entries by typing keywords. A dropdown displays relevant results, and you can clear the filter by clicking **[!UICONTROL Clear]**.
-* **Active page visibility**: The active page is always highlighted in the table of contents.
+The all-new [Experience League home](https://experienceleague.adobe.com/?lang=en) features personalized learning recommendations powered by [!DNL Adobe Target].
 
-### Playlists on Experience League
+Key features:
 
-New video [playlists](https://experienceleague.adobe.com/en/playlists) are available on Experience League. A playlist is a curated collection of videos designed to help you gain the skills and knowledge you seek.
-
-Playlist features include:
-
-*    Auto-play videos 
-*    Chapter selection and playback speed 
-*    Resume where you left off 
-*    Video transcripts 
-
-To browse playlists, navigate to **[!UICONTROL Learn]** > **[!UICONTROL Browse all playlists]**.
-
->[!NOTE]
->
->If you bookmarked a course on Experience League, you are redirected to a corresponding playlist. In some cases, you might need to browse to a new playlist that covers the topics you are looking for.
+* Recommended content based on role, product, and recent activity
+* Recently viewed content 
+* Suggested on-demand events and certifications 
+* Newly published content for your product 
+* Redesigned, refreshed interface
 
 +++
 
@@ -99,15 +87,17 @@ To browse playlists, navigate to **[!UICONTROL Learn]** > **[!UICONTROL Browse a
 
 +++Details
 
-* **[!DNL Workfront]** | _Wake Up With Workfront: Ask Me Anything_ | In this "Ask Me Anything" session, Adobe [!DNL Workfront] Business Advisors Samantha Miller, Aaron Baker and Mary Ann Erickson, will take live questions and share best practices in [!DNL Workfront] to help customers succeed in 2025. | **January 23 @ 11:00 AM MT** | [Register](https://adobeevents.adobeconnect.com/eqfnatfznj47/event/registration.html?campaign-id=ExL)
-
-* **[!DNL Workfront]** | _Connect: [!DNL Workfront] Collective_ | Join our monthly Monday [!DNL Workfront] Collective events designed to connect with other customers, discuss [!DNL Workfront] features, share ideas, and brainstorm together to solve common challenges. | **January 27 @ 7:00 AM MT** | [Register](https://events.teams.microsoft.com/event/7eabf155-b410-401e-8415-97306c28b9ca@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Learn: Overcoming Resistance to Change on your [!DNL Workfront] Journey_ | Join our [!DNL Workfront] change management experts to discuss best practices for identifying and overcoming resistance with your users. | **January 30 @ 10:00 AM MT** | [Register](https://events.teams.microsoft.com/event/ba4df540-2f36-427f-8893-978da4b26450@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Target]** | _Adobe Target Maturity Webinar Series_ | Adobe Target innovations, including GenAI, and best practices on AI-powered personalization and experimentation at scale. | **February 4 @ 9:00 AM MT** | [Register](https://event.adobe.com/adobetargetmaturitywebinars)
+* **[!DNL Adobe Summit]** | _The Digital Experience Conference_ | Join peers and hear from executives from the Coca-Cola Company, JPMorganChase, ServiceNow, and more. | **March 18 - 19 @ Las Vegas & Online** | [Register](https://summit.adobe.com/na/?promoid=G4FRYKWG&mv=other)
 
 * **[!DNL Target]** | _Marketo & Mochas: 5 Marketo Features to Know in 2025_ | In our first [!DNL Marketo] & Mochas session of the year, [!DNL Marketo] experts Carly Gaver and Kate Colbert describe 5 capability-rich features that can help elevate customer experience and drive demand in 2025. | **February 6 @ 11:00 AM MT** | [Register](https://adobeevents.adobeconnect.com/ewh8dja8xr45/event/registration.html?campaign-id=ExL)
+
+* **[!DNL Workfront]** | _Connect: Admin Chat for Marketing & Creative_ | Are you a Workfront System Admin for a marketing or creative team? Join our interactive discussion to connect with other admins and share best practices! | **February 7 @ 10:00 AM MT** | [Register](https://events.teams.microsoft.com/event/5c409c21-d39e-4239-9853-5e69569711d0@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Admin 101: Getting Users to Use Workfront_ | New to Workfront? Join the 2nd session of our 3-part series, where we offer best practices around project intake and user adoption. | **February 11 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/66877127-5d68-4f56-aeb6-ca6769551fb3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Ask Me Anything about Workfront Governance_ | Ask our in-house experts about how you can improve your Workfront processes, policies, and controls to better align with your organization's strategic objectives! | **February 12 @ 9:00 AM MT** | [Register](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-governance/ev-p/729202)
+
+* **[!DNL Marketo and Marketo Engage]** | _Adobe Marketo Engage Champion Office Hours - February 2025_ | Join us for a North American and LATAM time friendly Champion Office Hours led by the 2024/25 Marketo Engage Champions. | **February 13 @ 8:00 AM MT** | [Register](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-february-2025-adobe-marketo-engage-champion-office-hours/?cgen=5JRH85H1&mv=other)
 
 * **[!DNL Commerce]** | _Commerce & Coffee: The Rise of Self-Service in B2B_ | Start the year strong with our [!DNL Commerce] experts, Corey Gelato & Agbi Bajrushi, as they explore the latest B2B trends and an approach to leveraging new Adobe [!DNL Commerce] features to stay ahead of the competition all year. | **February 13 @ 11:00 AM MT** | [Register](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
 
