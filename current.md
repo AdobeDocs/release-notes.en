@@ -27,7 +27,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 ## February 2025
 
-Latest update: **February 10, 2025**
+Latest update: **February 13, 2025**
 
 For specific application release dates, see the product's release notes.
 
