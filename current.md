@@ -14,23 +14,17 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-[Experience League](https://experienceleague.adobe.com/#home) helps you learn about Experience Cloud and Adobe enterprise applications. For the best experience, sign in and customize your search across our free library of resources, including:
+[Experience League](https://experienceleague.adobe.com/#home) helps you learn about Experience Cloud and Adobe enterprise applications. For the best experience, sign in and customize your search across our free library of resources.
 
-* [Product documentation](https://experienceleague.adobe.com/en/docs)
-* [Video playlists](https://experienceleague.adobe.com/en/playlists)
-* [Events](https://experienceleague.adobe.com/events/)
-* [Community forums](https://experienceleaguecommunities.adobe.com/?profile.language=en)
-* [Support](https://experienceleague.adobe.com/?support-tab=home#support)
+* **Stay notified:** To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
-**Stay notified:** To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
-
-**Leave feedback:** Look for the **_Was this content helpful?_** pop-up at the bottom of each article or video. Your feedback is curated and delivered to content authors.
+* **Leave feedback:** Look for the **_Was this content helpful?_** pop-up at the bottom of each article or video. Your feedback is curated and delivered to content authors.
 
 ## February 2025
 
 Latest update: **February 13, 2025**
 
-For specific application release dates, see the product's release notes.
+Use these links to find application release notes, events, new tutorials, and the latest Knowledge Base support articles:
 
 * [[!DNL Experience League] events and updates](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -126,7 +120,6 @@ Learn about [!DNL Experience Cloud] central interface components and administrat
 
 | Date | Feature    | Description  |
 | -----------| -----------| ---------- |
-| January 9 |Product usage data |To make it easier to control [!DNL Experience Cloud] product usage data preferences, we streamlined our [!DNL Experience Cloud] [Preferences](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) page to remove duplicative options. With this simplification, we've preserved current user preferences, and you can update your preferences at any time on [Experience Cloud preferences](https://experience.adobe.com/preferences). |
 | February 13 (planned release date) |Spectrum 2 |The [!DNL Experience Cloud] application frame, including the header bar and components accessed from the header bar (and left navigation rail for certain applications) will be updated to Spectrum 2. Spectrum is Adobe's design standard. This refreshed design includes updated iconography but the same functionality. However, several elements in the header are re-positioned to align with other Adobe sites and applications. |
 
 For help on [!DNL Experience Cloud] central interface components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
@@ -149,8 +142,8 @@ New tutorials published for Adobe [!DNL Experience Platform] on Experience Leagu
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|February 2025| [!DNL AI Assistant] | [Get operational insights with AI Assistant](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/operational-insights)|Video | Learn how to use AI Assistant to uncover operational insights about business objects such as audiences, datasets, schemas, destinations, and journeys in Adobe Experience Platform |
-|February 2025| [!DNL Experience Platform] | [Identity graph linking rules - Graph Simulation](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/identities/graph-linking-rules/graph-simulation)|Video | Learn how to use the graph simulator to test identity graph linking rules in Experience Platform. Experiment with different scenarios and play with _unique per graph_ and priority settings to verify what rules you need for your business to avoid graph collapse.  |
+|February 2025| [!DNL AI Assistant] | [Get operational insights with AI Assistant](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/operational-insights)|New video | Learn how to use AI Assistant to uncover operational insights about business objects such as audiences, datasets, schemas, destinations, and journeys in Adobe Experience Platform |
+|February 2025| [!DNL Experience Platform] | [Identity graph linking rules - Graph Simulation](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/identities/graph-linking-rules/graph-simulation)|New video | Learn how to use the graph simulator to test identity graph linking rules in Experience Platform. Experiment with different scenarios and play with _unique per graph_ and priority settings to verify what rules you need for your business to avoid graph collapse.  |
 
 ### New [!DNL Experience Platform] support knowledge base{#kb-aep}
 
@@ -181,9 +174,9 @@ Find the latest tutorials for [!DNL Real-Time CDP] on Experience League.
 
 | Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
-|February 2025 | [Intelligently re-engage your customers to return](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/intelligent-re-engagement)|Video | Deliver compelling and connected experiences during the key conversion moments to intelligently re-engage infrequent customers. |
+|February 2025 | [Intelligently re-engage your customers to return](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/intelligent-re-engagement)|New video | Deliver compelling and connected experiences during the key conversion moments to intelligently re-engage infrequent customers. |
 |February 2025| [Destinations overview](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/understanding-destinations)|Updated video | Learn about the destination types that you can use to get data out of Real-Time CDP,Experience Platform,and Tags to support a wide variety of use cases. |
-|February 2025| [Connect to destinations](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/connecting-to-destinations.html)|Video | Before you can send data to destination partners from the Real-Time CDP,you need to configure the connections to those partners. Learn how in this video. |
+|February 2025| [Connect to destinations](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/connecting-to-destinations.html)|New video | Before you can send data to destination partners from the Real-Time CDP, you need to configure the connections to those partners. Learn how in this video. |
 
 For more information, see:
 
@@ -211,14 +204,14 @@ Release version: **2.26.0**
 
 * [AppMeasurement for JavaScript release notes](https://experienceleague.adobe.com/en/docs/analytics/implementation/appmeasurement-updates)
 
-### New [!DNL Analytics] tutorials {#tutorials-analytics}
+<!-- ### New [!DNL Analytics] tutorials {#tutorials-analytics}
 
 New tutorials published for Adobe [!DNL Analytics] on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |January 2025|[Adobe [!DNL Analytics] & CJA: Quick Start for Basic to Intermediate Analysis Capabilities](https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2024/basic-to-intermediate-analysis-capabilities)|Event |Learn about Adobe [!DNL Analytics] and [!DNL Customer Journey Analytics] with a focus on basic to intermediate analysis capabilities.|
-|January 2025|[AEP Web SDK Troubleshooting, Assurance, and Tips and Tricks](https://experienceleague.adobe.com/en/docs/events/tech-sessions/2024/rtcdp-office-hours-2024/aep-web-sdk-troubleshooting)|Event |Gain insights into troubleshooting, assurance, and tips and tricks for the Adobe [!DNL Experience Platform] (AEP) Web SDK.|
+|January 2025|[AEP Web SDK Troubleshooting, Assurance, and Tips and Tricks](https://experienceleague.adobe.com/en/docs/events/tech-sessions/2024/rtcdp-office-hours-2024/aep-web-sdk-troubleshooting)|Event |Gain insights into troubleshooting, assurance, and tips and tricks for the Adobe [!DNL Experience Platform] (AEP) Web SDK.| -->
 
 ### New Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
 
@@ -248,8 +241,8 @@ New tutorials published for [!DNL Customer Journey Analytics].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2025|[Analysis Workspace templates](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/workspace-projects/analysis-workspace-templates)|Video | Learn how to start your analysis in Workspace with a Workspace template. You can choose from a curated Adobe template or create your own for a custom organizational template. |
-|February 2025|[Create intelligent captions](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/intelligent-captions)|Video |Learn how to enable intelligent captions in your visualizations so that you can get natural language insights automatically created for you about your data.|
+|February 2025|[Analysis Workspace templates](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/workspace-projects/analysis-workspace-templates)|New video | Learn how to start your analysis in Workspace with a Workspace template. You can choose from a curated Adobe template or create your own for a custom organizational template. |
+|February 2025|[Create intelligent captions](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/intelligent-captions)|New video |Learn how to enable intelligent captions in your visualizations so that you can get natural language insights automatically created for you about your data.|
 
 +++
 
@@ -295,7 +288,7 @@ New tutorials published for [!DNL Experience Manager] on [!DNL Experience Manage
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
 |February 2025| [!DNL Experience Manager] | [Edge Delivery Services and Universal Editor developer tutorial](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/edge-delivery-services/developing/universal-editor/0-overview)|Multiple | Learn the basics of developing a new website authored in AEM Universal Editor and delivered using Edge Delivery Services. |
-|February 2025| [!DNL Experience Manager] | [AEM Eventing](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-eventing/overview)|Video | Learn about AEM eventing, what it is, why and when to use it and examples of it. |
+|February 2025| [!DNL Experience Manager] | [AEM Eventing](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-eventing/overview)|New video | Learn about AEM eventing, what it is, why and when to use it and examples of it. |
 |February 2025| [!DNL Experience Manager] | [OpenAPI-Based APIs](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/developing/open-api-based-apis)|Article | Learn about AEM as a Cloud Service support for OpenAPI-based APIs |
 |February 2025| [!DNL Experience Manager] | [Print channel tutorial](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/ic-print-channel-tutorial/introduction)|Multiple | Create your first interactive communication for the print channel. Interactive Communications is new to AEM Forms 6.4. |
 
@@ -332,10 +325,10 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2025|[Customize an address layout](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/edge-delivery-services/getting-started/customize-address-new-account-link)|Video |Learn how to customize e-commerce checkout forms and integrate Google Address Lookup for improved user experience and reduced input errors.|
-|February 2025|[Monorepo Global Reference Architecture pattern](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/global-reference-architecture-implementation-techniques/monorepo)|Video |Learn how to set up Adobe Commerce with the Monorepo Global Reference Architecture (GRA) Pattern.|
+|February 2025|[Customize an address layout](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/edge-delivery-services/getting-started/customize-address-new-account-link)|New video |Learn how to customize e-commerce checkout forms and integrate Google Address Lookup for improved user experience and reduced input errors.|
+|February 2025|[Monorepo Global Reference Architecture pattern](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/global-reference-architecture-implementation-techniques/monorepo)|New video |Learn how to set up Adobe Commerce with the Monorepo Global Reference Architecture (GRA) Pattern.|
 |February 2025|[Introduction to Inventory Management](https://experienceleague.adobe.com/en/docs/commerce-admin/inventory/introduction)|Article |Learn how to use Inventory Management features to manage stock in multiple locations so that your Commerce store accurately reflects the physical inventory.|
-|February 2025|[Adobe Commerce Marketplace](https://experienceleague.adobe.com/en/docs/commerce-admin/start/resources/commerce-marketplace)|Video |Learn about the Commerce Marketplace,which offers merchants a curated selection of solutions,and provides qualified developers the tools,platform,and prime location to build a thriving business.|
+|February 2025|[Adobe Commerce Marketplace](https://experienceleague.adobe.com/en/docs/commerce-admin/start/resources/commerce-marketplace)|New video |Learn about the Commerce Marketplace,which offers merchants a curated selection of solutions,and provides qualified developers the tools,platform,and prime location to build a thriving business.|
 
 ### New [!DNL Commerce] support knowledge base{#kb-commerce}
 
@@ -368,10 +361,10 @@ Get access to pre-release notes, current release notes, and new tutorials for [!
 
 | Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
-| February 2025 | [Create an Adobe Target Recommendations activity](https://experienceleague.adobe.com/en/docs/target-learn/tutorials/recommendations/create-a-recommendations-activity) | Video | Learn how to create an Adobe [!DNL Target] Recommendations activity. |
-| February 2025 | [Create an A/B test](https://experienceleague.adobe.com/en/docs/target-learn/tutorials/activities/create-ab-tests) | Video | Learn the key workflow for creating A/B activities in [!DNL Adobe Target]. Create a basic A/B activity using the Visual Experience Composer (VEC). |
-| February 2025 | [Create Multivariate Tests](https://experienceleague.adobe.com/en/docs/target-learn/tutorials/activities/create-multivariate-tests) | Video | Learn about creating a Multivariate Test (MVT) in Adobe Target. Learn the steps for creating and interpreting MVTs. |
-| February 2025 | [Create Experience Targeting Activities](https://experienceleague.adobe.com/en/docs/target-learn/tutorials/activities/create-experience-targeting-activities) | Video | Experience Targeting (XT) activities enable marketers to target specific content to a specific audience. Learn the benefits of XT activities and how to create and use them. |
+| February 2025 | [Create an Adobe Target Recommendations activity](https://experienceleague.adobe.com/en/docs/target-learn/tutorials/recommendations/create-a-recommendations-activity) | New video | Learn how to create an Adobe [!DNL Target] Recommendations activity. |
+| February 2025 | [Create an A/B test](https://experienceleague.adobe.com/en/docs/target-learn/tutorials/activities/create-ab-tests) | New video | Learn the key workflow for creating A/B activities in [!DNL Adobe Target]. Create a basic A/B activity using the Visual Experience Composer (VEC). |
+| February 2025 | [Create Multivariate Tests](https://experienceleague.adobe.com/en/docs/target-learn/tutorials/activities/create-multivariate-tests) | New video | Learn about creating a Multivariate Test (MVT) in Adobe Target. Learn the steps for creating and interpreting MVTs. |
+| February 2025 | [Create Experience Targeting Activities](https://experienceleague.adobe.com/en/docs/target-learn/tutorials/activities/create-experience-targeting-activities) | New video | Experience Targeting (XT) activities enable marketers to target specific content to a specific audience. Learn the benefits of XT activities and how to create and use them. |
 
 * For pre-release information, see [[!DNL Adobe Target] prerelease](https://experienceleague.adobe.com/en/docs/target/using/release-notes/target-release-notes)
 * For current information, see [[!DNL Adobe Target] release notes](https://experienceleague.adobe.com/en/docs/target/using/release-notes/release-notes)
@@ -400,8 +393,8 @@ New or updated videos tutorials published for Adobe Campaign.
 
 | Published | Application | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|January 2025| |[Create and manage test profiles](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-and-manage-test-profiles)|Video |Learn how to create a test profile in the client console and how to manage, and edit profiles in the Adobe Campaign Web UI.|
-|January 2025| |[Enhance a delivery with dynamic content](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content)|Video |Learn how to make message content dynamic by using the expression editor to personalize your message or add conditional content.|
+|January 2025| |[Create and manage test profiles](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-and-manage-test-profiles)|New video |Learn how to create a test profile in the client console and how to manage, and edit profiles in the Adobe Campaign Web UI.|
+|January 2025| |[Enhance a delivery with dynamic content](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content)|New video |Learn how to make message content dynamic by using the expression editor to personalize your message or add conditional content.|
 
 ### New [!DNL Campaign] support knowledge base{#kb-campaign}
 
@@ -447,8 +440,8 @@ New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|Video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
-|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|Video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.|
+|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
+|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.|
 
 ### More resources for [!DNL Journey Optimizer]
 
@@ -468,8 +461,8 @@ New videos, tutorials, or courses published for Journey Optimizer B2B Edition.
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |February 2025|[Account Journeys](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|Multiple videos |Visit the Account Journey's tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
-|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|Video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
-|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|Video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.|
+|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
+|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.|
 
 For more information, see: 
 
@@ -517,10 +510,10 @@ New tutorials published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|September 2024|[Attribution AI overview](https://experienceleague.adobe.com/en/docs/marketo-measure-learn/tutorials/marketo-measure-ultimate/attribution-ai-overview)|Video |Discover how Adobe's Attribution AI enhances B2B marketing measurement with sophisticated AI/ML modeling, offering precise attribution insights and eliminating biases for accurate analysis.|
-|September 2024|[Marketo Measure Ultimate overview](https://experienceleague.adobe.com/en/docs/marketo-measure-learn/tutorials/marketo-measure-ultimate/overview)|Video |Learn how Marketo Measure Ultimate allows B2B marketers to gather data from almost any source, including multiple sources of the same type, for thorough attribution. |
-|September 2024|[API Help - How to set the Access token in a variable](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/integrations/api-set-access-token-variable)|Video |Learn how to set up the Postman application and leverage variables to save data into the variable for reusability purposes. You will also learn how to make your first Marketo Engage REST API call to get the access token.|
-|September 2024|[Go live with Dynamic Chat in just 15 minutes](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/go-live-in-15-minutes)|Video |Watch a step by step guide to help you go live with your first dialogue using Dynamic Chat in just 15 minutes.| -->
+|September 2024|[Attribution AI overview](https://experienceleague.adobe.com/en/docs/marketo-measure-learn/tutorials/marketo-measure-ultimate/attribution-ai-overview)|New video |Discover how Adobe's Attribution AI enhances B2B marketing measurement with sophisticated AI/ML modeling, offering precise attribution insights and eliminating biases for accurate analysis.|
+|September 2024|[Marketo Measure Ultimate overview](https://experienceleague.adobe.com/en/docs/marketo-measure-learn/tutorials/marketo-measure-ultimate/overview)|New video |Learn how Marketo Measure Ultimate allows B2B marketers to gather data from almost any source, including multiple sources of the same type, for thorough attribution. |
+|September 2024|[API Help - How to set the Access token in a variable](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/integrations/api-set-access-token-variable)|New video |Learn how to set up the Postman application and leverage variables to save data into the variable for reusability purposes. You will also learn how to make your first Marketo Engage REST API call to get the access token.|
+|September 2024|[Go live with Dynamic Chat in just 15 minutes](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/go-live-in-15-minutes)|New video |Watch a step by step guide to help you go live with your first dialogue using Dynamic Chat in just 15 minutes.| -->
 
 For the latest product documentation, see the [Marketo product documentation](https://experienceleague.adobe.com/en/docs/marketo/using/home) home
 
@@ -591,8 +584,8 @@ Latest video tutorials for [!DNL GenStudio for Performance Marketing].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|Fall 2024|[Create on-brand marketing emails](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing-learn/tutorials/creating-experiences/creating-on-brand-emails)|Video |View a step by step explanation of how to create on-brand marketing emails with Adobe's GenStudio for Performance Marketing.|
-|Fall 2024|[Create on-brand meta ads](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing-learn/tutorials/creating-experiences/creating-on-meta-ads)|Video |View a step-by-step product walk-thru of creating a meta ad in GenStudio for Performance Marketing.|
+|Fall 2024|[Create on-brand marketing emails](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing-learn/tutorials/creating-experiences/creating-on-brand-emails)|New video |View a step by step explanation of how to create on-brand marketing emails with Adobe's GenStudio for Performance Marketing.|
+|Fall 2024|[Create on-brand meta ads](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing-learn/tutorials/creating-experiences/creating-on-meta-ads)|New video |View a step-by-step product walk-thru of creating a meta ad in GenStudio for Performance Marketing.|
 
 +++
 
@@ -645,8 +638,8 @@ New tutorials and courses published for Adobe Document Cloud.
 
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| February 2025 | Applications | [Effortless brand consistency with templates](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/use-templates.html?lang=en) | Video | Learn how to create on-brand content quickly and efficiently across your entire organization. This tutorial walks through how to create fresh new on-brand content that can immediately be shared and localized.|
-| February 2025 | Applications | [Maximize efficiency: Create reusable templates](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-templates.html?lang=en) | Video | Learn how bring brand consistency,efficiency,professionalism,and cost savings to your organization with Adobe Express templates. |
+| February 2025 | Applications | [Effortless brand consistency with templates](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/use-templates.html?lang=en) | New video | Learn how to create on-brand content quickly and efficiently across your entire organization. This tutorial walks through how to create fresh new on-brand content that can immediately be shared and localized.|
+| February 2025 | Applications | [Maximize efficiency: Create reusable templates](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-templates.html?lang=en) | New video | Learn how bring brand consistency,efficiency,professionalism,and cost savings to your organization with Adobe Express templates. |
 
 For [!DNL Document Cloud] tutorials, see:
 
