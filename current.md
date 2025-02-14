@@ -90,19 +90,11 @@ Key features:
 
 * **[!DNL Adobe Summit]** | _The Digital Experience Conference_ | Join peers and hear from executives from the Coca-Cola Company, JPMorganChase, ServiceNow, and more. | **March 18 - 19 @ Las Vegas & Online** | [Register](https://summit.adobe.com/na/?promoid=G4FRYKWG&mv=other)
 
-* **[!DNL Target]** | _Marketo & Mochas: 5 Marketo Features to Know in 2025_ | In our first [!DNL Marketo] & Mochas session of the year, [!DNL Marketo] experts Carly Gaver and Kate Colbert describe 5 capability-rich features that can help elevate customer experience and drive demand in 2025. | **February 6 @ 11:00 AM MT** | [Register](https://adobeevents.adobeconnect.com/ewh8dja8xr45/event/registration.html?campaign-id=ExL)
+* **[!DNL Experience Cloud]** | _Adobe Digital Insights: Unwrapping 2024 holiday results and early 2025 trends_ | A comprehensive recap of 2024 holiday shopping trends and a look ahead to the first half of 2025. Use these insights to help you forecast and surpass customer expectations in the year ahead. | **February 20 @ 10:00 AM MST** | [Register](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
 
-* **[!DNL Workfront]** | _Connect: Admin Chat for Marketing & Creative_ | Are you a Workfront System Admin for a marketing or creative team? Join our interactive discussion to connect with other admins and share best practices! | **February 7 @ 10:00 AM MT** | [Register](https://events.teams.microsoft.com/event/5c409c21-d39e-4239-9853-5e69569711d0@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Connect: Workfront Collective_ | Join our monthly Monday Workfront Collective events designed to connect with other customers, discuss Workfront features, share ideas, and brainstorm together to solve common challenges. | **February 24 @ 7:00 AM MST** | [Register](https://events.teams.microsoft.com/event/d3b3a3c3-9563-4499-a147-8b966d13a30d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _Admin 101: Getting Users to Use Workfront_ | New to Workfront? Join the 2nd session of our 3-part series, where we offer best practices around project intake and user adoption. | **February 11 @ 9:00 AM MT** | [Register](https://events.teams.microsoft.com/event/66877127-5d68-4f56-aeb6-ca6769551fb3@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Ask Me Anything about Workfront Governance_ | Ask our in-house experts about how you can improve your Workfront processes, policies, and controls to better align with your organization's strategic objectives! | **February 12 @ 9:00 AM MT** | [Register](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-governance/ev-p/729202)
-
-* **[!DNL Marketo and Marketo Engage]** | _Adobe Marketo Engage Champion Office Hours - February 2025_ | Join us for a North American and LATAM time friendly Champion Office Hours led by the 2024/25 Marketo Engage Champions. | **February 13 @ 8:00 AM MT** | [Register](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-february-2025-adobe-marketo-engage-champion-office-hours/?cgen=5JRH85H1&mv=other)
-
-* **[!DNL Commerce]** | _Commerce & Coffee: The Rise of Self-Service in B2B_ | Start the year strong with our [!DNL Commerce] experts, Corey Gelato & Agbi Bajrushi, as they explore the latest B2B trends and an approach to leveraging new Adobe [!DNL Commerce] features to stay ahead of the competition all year. | **February 13 @ 11:00 AM MT** | [Register](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
-
-View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
+And many more! View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
 +++
 
@@ -135,7 +127,7 @@ Learn about [!DNL Experience Cloud] central interface components and administrat
 | Date | Feature    | Description  |
 | -----------| -----------| ---------- |
 | January 9 |Product usage data |To make it easier to control [!DNL Experience Cloud] product usage data preferences, we streamlined our [!DNL Experience Cloud] [Preferences](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) page to remove duplicative options. With this simplification, we've preserved current user preferences, and you can update your preferences at any time on [Experience Cloud preferences](https://experience.adobe.com/preferences). |
-| February 5 (planned release date) |Spectrum 2 |The [!DNL Experience Cloud] application frame, including the header bar and components accessed from the header bar (and left navigation rail for certain applications) will be updated to Spectrum 2. Spectrum is Adobe's design standard. This refreshed design includes updated iconography but the same functionality. However, several elements in the header are re-positioned to align with other Adobe sites and applications. |
+| February 13 (planned release date) |Spectrum 2 |The [!DNL Experience Cloud] application frame, including the header bar and components accessed from the header bar (and left navigation rail for certain applications) will be updated to Spectrum 2. Spectrum is Adobe's design standard. This refreshed design includes updated iconography but the same functionality. However, several elements in the header are re-positioned to align with other Adobe sites and applications. |
 
 For help on [!DNL Experience Cloud] central interface components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
 
@@ -157,7 +149,8 @@ New tutorials published for Adobe [!DNL Experience Platform] on Experience Leagu
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|January 2025| [!DNL Experience Platform] | [AI Assistant](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/overview)|Multiple videos | Learn how to use AI Assistant with Experience Platform. Multiple new tutorial videos are available to help you get up to speed.  |
+|February 2025| [!DNL AI Assistant] | [Get operational insights with AI Assistant](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/operational-insights)|Video | Learn how to use AI Assistant to uncover operational insights about business objects such as audiences, datasets, schemas, destinations, and journeys in Adobe Experience Platform |
+|February 2025| [!DNL Experience Platform] | [Identity graph linking rules - Graph Simulation](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/identities/graph-linking-rules/graph-simulation)|Video | Learn how to use the graph simulator to test identity graph linking rules in Experience Platform. Experiment with different scenarios and play with _unique per graph_ and priority settings to verify what rules you need for your business to avoid graph collapse.  |
 
 ### New [!DNL Experience Platform] support knowledge base{#kb-aep}
 
@@ -185,6 +178,14 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 Find the latest tutorials for [!DNL Real-Time CDP] on Experience League.
 
 +++Details
+
+| Published | Name | Type | Description |
+| ----------| ---------- | ---------- |---------- |
+|February 2025 | [Intelligently re-engage your customers to return](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/intelligent-re-engagement)|Video | Deliver compelling and connected experiences during the key conversion moments to intelligently re-engage infrequent customers. |
+|February 2025| [Destinations overview](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/understanding-destinations)|Updated video | Learn about the destination types that you can use to get data out of Real-Time CDP,Experience Platform,and Tags to support a wide variety of use cases. |
+|February 2025| [Connect to destinations](https://experienceleague.adobe.com/docs/platform-learn/tutorials/destinations/connecting-to-destinations.html)|Video | Before you can send data to destination partners from the Real-Time CDP,you need to configure the connections to those partners. Learn how in this video. |
+
+For more information, see:
 
 * Video tutorials: [Understanding Real-Time Customer Data Platform](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform)
 
@@ -241,13 +242,14 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 * [!DNL Customer Journey Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/customer-journey-analytics)
 
-<!-- ### New [!DNL Customer Journey Analytics] tutorials {#tutorials-cja}
+### New [!DNL Customer Journey Analytics] tutorials {#tutorials-cja}
 
 New tutorials published for [!DNL Customer Journey Analytics]. 
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|October 2024|[Create summary-level data sources in Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-views/create-summary-level-data-sources)|Video |Learn how [!DNL Customer Journey Analytics] supports summary-level data that enables you to aggregate and analyze data that isn't organized by individual IDs, such as campaign or product data.| -->
+|February 2025|[Analysis Workspace templates](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/workspace-projects/analysis-workspace-templates)|Video | Learn how to start your analysis in Workspace with a Workspace template. You can choose from a curated Adobe template or create your own for a custom organizational template. |
+|February 2025|[Create intelligent captions](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/intelligent-captions)|Video |Learn how to enable intelligent captions in your visualizations so that you can get natural language insights automatically created for you about your data.|
 
 +++
 
@@ -292,12 +294,10 @@ New tutorials published for [!DNL Experience Manager] on [!DNL Experience Manage
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|January 2025| [!DNL AEM Sites] | [Cloud 5 - Search optimization in Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-4/cloud5-search-optimization#_blank)|Video | Get your lighthouse score to 100 buy using query and search optimization when dealing with large numbers of records.  |
-|January 2025| [!DNL AEM Sites] | [Cloud 5 - Integrate with Google Maps](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-4/cloud5-google-maps#_blank)|Video | Tales from the trenches - explore how to integrate Edge Delivery Services with Google Maps and how to optimize performance with integrations. |
-|January 2025| [!DNL AEM Sites] | [Cloud 5 - Development best practices for Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-4/cloud5-edge-delivery-services-best-practices#_blank)|Video |Explore techniques for developing in Edge Delivery Services with a seasoned architect. Kiran walks you through many of the issues he has faced on projects and how to solve them.| 
-|January 2025| [!DNL AEM CS] | [Invoke OpenAPI-based AEM APIs with user authentication from a web app](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/invoke-openapi-based-aem-apis-from-web-app#setup-and-run-web-app)|Video | Learn how to invoke OpenAPI-based AEM APIs on AEM as a Cloud Service using user-based authentication from an external web app with OAuth Web App authentication. |
-|January 2025| [!DNL ADM Assets] | [Content credentials](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/advanced/content-credentials)|Video | Learn how AEM Assets content credentials provide verifiable metadata to ensure the authenticity and integrity of digital assets, fostering trust and transparency in content creation. |
-|January 2025| [!DNL AEM Forms] | [Integrate Turnstile CAPTCHA with Adaptive Forms](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/add-components-to-an-adaptive-form/integrate-adaptive-forms-turnstile)|Video | Enhance form security with Turnstile service effortlessly. Step-by-step guide inside! |
+|February 2025| [!DNL Experience Manager] | [Edge Delivery Services and Universal Editor developer tutorial](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/edge-delivery-services/developing/universal-editor/0-overview)|Multiple | Learn the basics of developing a new website authored in AEM Universal Editor and delivered using Edge Delivery Services. |
+|February 2025| [!DNL Experience Manager] | [AEM Eventing](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-eventing/overview)|Video | Learn about AEM eventing, what it is, why and when to use it and examples of it. |
+|February 2025| [!DNL Experience Manager] | [OpenAPI-Based APIs](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/developing/open-api-based-apis)|Article | Learn about AEM as a Cloud Service support for OpenAPI-based APIs |
+|February 2025| [!DNL Experience Manager] | [Print channel tutorial](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/ic-print-channel-tutorial/introduction)|Multiple | Create your first interactive communication for the print channel. Interactive Communications is new to AEM Forms 6.4. |
 
 ### New [!DNL Experience Manager] support knowledge base{#kb-aem}
 
@@ -332,16 +332,10 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2025|[Customize checkout experience](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/edge-delivery-services/getting-started/customize-checkout)|Video |Learn how to customize the checkout experience in Adobe Commerce from the Edge Delivery Services cart drop-in component. This video focuses on modifying shipping options and implementing a multi-step checkout process.|
-|January 2025|[The Bulk Packages global reference architecture pattern](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/global-reference-architecture-implementation-techniques/bulk-packages)|Video |Learn how to set up Adobe Commerce with the Bulk Packages Global Reference Architecture (GRA) Pattern.|
-|January 2025|[The Split Git global reference architecture pattern](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/global-reference-architecture-implementation-techniques/split-git)|Video |Learn how to set up Adobe Commerce with the Split Git Global Reference Architecture (GRA) Pattern.|
-|January 2025|[The Separate Packages global reference architecture pattern](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/global-reference-architecture-implementation-techniques/separate-packages)|Video |Learn how to set up Adobe Commerce with the Separate Packages Global Reference Architecture (GRA) Pattern.|
-|January 2025|[Add BOPIS to check out](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/edge-delivery-services/getting-started/add-bopis-to-checkout)|Video |Learn how to add the necessary components to the Edge Delivery Services checkout that accommodates a buy online and pickup in store otherwise known as BOPIS.|
-|January 2025|[Adjust transactional flow for checkout](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/edge-delivery-services/getting-started/transactional-flow)|Video |Learn how to adjust the transactional flow for checkout using Edge Delivery Services cart drop-in.|
-|January 2025|[Use product attributes for cart items](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/edge-delivery-services/getting-started/product-attributes-cart-items)|Video |Learn how to customize and extend the Adobe Commerce shopping cart.|
-|January 2025|[Global Reference Architecture Implementation Techniques](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/global-reference-architecture-implementation-techniques/overview)|Video |Learn how to optimize code reuse in Adobe Commerce with Global Reference Architecture patterns,enhancing performance and compliance across multiple instances.|
-|January 2025|[Custom Address Form Layout and Google Address Lookup Integration](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/edge-delivery-services/getting-started/customize-address-new-account-link)|Video |Learn how to customize the address form layout at checkout to ensure that all fields are 50% width, with the exception for the text area.|
-|January 2025|[Monorepo Global Reference Architecture pattern](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/global-reference-architecture-implementation-techniques/monorepo)|Video |Learn how to set up Adobe Commerce with the Monorepo Global Reference Architecture (GRA) Pattern.|
+|February 2025|[Customize an address layout](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/edge-delivery-services/getting-started/customize-address-new-account-link)|Video |Learn how to customize e-commerce checkout forms and integrate Google Address Lookup for improved user experience and reduced input errors.|
+|February 2025|[Monorepo Global Reference Architecture pattern](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/global-reference-architecture-implementation-techniques/monorepo)|Video |Learn how to set up Adobe Commerce with the Monorepo Global Reference Architecture (GRA) Pattern.|
+|February 2025|[Introduction to Inventory Management](https://experienceleague.adobe.com/en/docs/commerce-admin/inventory/introduction)|Article |Learn how to use Inventory Management features to manage stock in multiple locations so that your Commerce store accurately reflects the physical inventory.|
+|February 2025|[Adobe Commerce Marketplace](https://experienceleague.adobe.com/en/docs/commerce-admin/start/resources/commerce-marketplace)|Video |Learn about the Commerce Marketplace,which offers merchants a curated selection of solutions,and provides qualified developers the tools,platform,and prime location to build a thriving business.|
 
 ### New [!DNL Commerce] support knowledge base{#kb-commerce}
 
@@ -374,8 +368,10 @@ Get access to pre-release notes, current release notes, and new tutorials for [!
 
 | Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
-| January 2025 | [Create an Adobe Target Recommendations activity](https://experienceleague.adobe.com/en/docs/target-learn/tutorials/recommendations/create-a-recommendations-activity) | Video | Learn how to create an Adobe [!DNL Target] Recommendations activity. |
-| January 2025 | [Create an A/B test](https://experienceleague.adobe.com/en/docs/target-learn/tutorials/activities/create-ab-tests) | Video | Learn the key workflow for creating A/B activities in [!DNL Adobe Target]. Create a basic A/B activity using the Visual Experience Composer (VEC). |
+| February 2025 | [Create an Adobe Target Recommendations activity](https://experienceleague.adobe.com/en/docs/target-learn/tutorials/recommendations/create-a-recommendations-activity) | Video | Learn how to create an Adobe [!DNL Target] Recommendations activity. |
+| February 2025 | [Create an A/B test](https://experienceleague.adobe.com/en/docs/target-learn/tutorials/activities/create-ab-tests) | Video | Learn the key workflow for creating A/B activities in [!DNL Adobe Target]. Create a basic A/B activity using the Visual Experience Composer (VEC). |
+| February 2025 | [Create Multivariate Tests](https://experienceleague.adobe.com/en/docs/target-learn/tutorials/activities/create-multivariate-tests) | Video | Learn about creating a Multivariate Test (MVT) in Adobe Target. Learn the steps for creating and interpreting MVTs. |
+| February 2025 | [Create Experience Targeting Activities](https://experienceleague.adobe.com/en/docs/target-learn/tutorials/activities/create-experience-targeting-activities) | Video | Experience Targeting (XT) activities enable marketers to target specific content to a specific audience. Learn the benefits of XT activities and how to create and use them. |
 
 * For pre-release information, see [[!DNL Adobe Target] prerelease](https://experienceleague.adobe.com/en/docs/target/using/release-notes/target-release-notes)
 * For current information, see [[!DNL Adobe Target] release notes](https://experienceleague.adobe.com/en/docs/target/using/release-notes/release-notes)
@@ -445,13 +441,14 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 * See [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) for updates and help
 
-<!-- ### New [!DNL Journey Optimizer] tutorials {#tutorials-ajo}
+### New [!DNL Journey Optimizer] tutorials {#tutorials-ajo}
 
 New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|October 2024|[Configure business rules - Frequency capping](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/business-rules/configure-frequency-capping-rules)|Video |Learn how to configure frequency capping rules.| -->
+|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|Video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
+|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|Video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.|
 
 ### More resources for [!DNL Journey Optimizer]
 
@@ -462,12 +459,22 @@ New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 
 ## [!DNL Journey Optimizer B2B Edition] {#ajo-b2b}
 
-Find release notes and new documentation for Adobe [!DNL Journey Optimizer B2b Edition].
+Find release notes and new tutorials [!DNL Journey Optimizer B2b Edition].
 
 +++Details
 
-* See [[!DNL Journey Optimizer B2B Edition] documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/guide-overview) for release notes and self-help.
-* See [[!DNL Journey Optimizer B2B Edition]](https://business.adobe.com/products/journey-optimizer-b2b-edition.html) for product information.
+New videos, tutorials, or courses published for Journey Optimizer B2B Edition.
+
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|February 2025|[Account Journeys](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|Multiple videos |Visit the Account Journey's tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
+|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|Video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
+|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|Video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.|
+
+For more information, see: 
+
+* [[!DNL Journey Optimizer B2B Edition] documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/guide-overview) for release notes and self-help.
+* [[!DNL Journey Optimizer B2B Edition]](https://business.adobe.com/products/journey-optimizer-b2b-edition.html) for product information.
 
 +++
 
@@ -547,11 +554,7 @@ New [!DNL Workfront] tutorials and events on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2025|[Understand the Business Case](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case)|Video |Learn how to use the Business Case in [!DNL Workfront] to evaluate requested projects and compare them with other projects in your portfolio.|
-|January 2025|[Manage in-app and email event notifications](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications)|Video |Learn how users can control which in-app and email notifications they receive so they're getting relevant, helpful emails regarding their work.|
-|January 2025|[Find and manage requests](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests)|Video |Learn how to find requests you're assigned to, requests you've created, and requests that you manage.|
-|January 2025|[Understand portfolios](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/overview-of-adobe-workfront-portfolios)|Video |Learn what portfolios are and how they can help you compare and prioritize your projects.|
-|January 2025|[Manage proof versions](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-proof/upload-proofs/manage-proof-versions)|Video |Learn how to find the details of when a proof was uploaded, download all versions of a proof, and delete a proof version in  Workfront.|
+|February 2025|[New Workfront tutorials](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/home)|Multiple videos |View the latest tutorials for Workfront.|
 
 <!--
 ### New [!DNL Workfront] support knowledge base
@@ -642,8 +645,8 @@ New tutorials and courses published for Adobe Document Cloud.
 
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| January 2025 | Acrobat, Adobe Express | [Design a new page](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/add-custom-page) | Video | Learn how to create new professional-looking page in your PDF using Adobe Express. Designing a new page gives you the ability to create professional-looking on-brand custom content in a matter of minutes that really stands apart. This video tutorial uses the new [workspace experience](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace). |
-| January 2025 | Acrobat, Adobe Express | [Collaborate in real time](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate.html) | Video | With remote work everywhere, seamless collaboration is critical to delivering content with speed and scale. Move your projects forward by collecting comments, collaborating on responses, and tracking progress on your documents all in real-time, from anywhere. Learn how to create a document review process that not only enhances efficiency but boosts content quality as well. This video tutorial uses the new [workspace experience](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace). |
+| February 2025 | Applications | [Effortless brand consistency with templates](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/use-templates.html?lang=en) | Video | Learn how to create on-brand content quickly and efficiently across your entire organization. This tutorial walks through how to create fresh new on-brand content that can immediately be shared and localized.|
+| February 2025 | Applications | [Maximize efficiency: Create reusable templates](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-templates.html?lang=en) | Video | Learn how bring brand consistency,efficiency,professionalism,and cost savings to your organization with Adobe Express templates. |
 
 For [!DNL Document Cloud] tutorials, see:
 
