@@ -89,10 +89,6 @@ Key features:
 
 * **[!DNL Adobe Summit]** | _The Digital Experience Conference_ | Join peers and hear from executives from the Coca-Cola Company, JPMorganChase, ServiceNow, and more. | **March 18 - 19 @ Las Vegas & Online** | [Register](https://summit.adobe.com/na/?promoid=G4FRYKWG&mv=other)
 
-* **[!DNL Marketo and Marketo Engage]** | _Adobe Marketo Engage Champion Office Hours - February 2025_ | Join us for a North American and LATAM time friendly Champion Office Hours led by the 2024/25 Marketo Engage Champions. | **February 13 @ 8:00 AM MT** | [Register](https://mugs.marketo.com/events/details/marketo-champion-office-hours-mug-presents-february-2025-adobe-marketo-engage-champion-office-hours/?cgen=5JRH85H1&mv=other)
-
-* **[!DNL Commerce]** | _Commerce & Coffee: The Rise of Self-Service in B2B_ | Start the year strong with our [!DNL Commerce] experts, Corey Gelato & Agbi Bajrushi, as they explore the latest B2B trends and an approach to leveraging new Adobe [!DNL Commerce] features to stay ahead of the competition all year. | **February 13 @ 11:00 AM MT** | [Register](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
-
 View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
 +++
