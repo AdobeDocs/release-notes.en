@@ -258,7 +258,7 @@ Find the latest release information for [!DNL Streaming Media Analytics]. View n
 
 +++
 
-## Adobe [!DNL Experience Manager] {#aem}
+## [!DNL Experience Manager] {#aem}
 
 New features, fixes, and updates in [!DNL Experience Manager]. Adobe recommends customers with On-Premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
 
@@ -309,7 +309,7 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 
 +++
 
-## [!DNL Adobe Commerce] {#commerce}
+## [!DNL Commerce] {#commerce}
 
 Get access to release notes, new tutorials, and Knowledge Base articles for [!DNL Adobe Commerce] on Experience League.
 
