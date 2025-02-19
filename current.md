@@ -22,7 +22,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 ## February 2025
 
-Latest update: **February 14, 2025**
+Latest update: **February 19, 2025**
 
 Use these links to find application release notes, events, new tutorials, and the latest Knowledge Base support articles:
 
@@ -43,7 +43,7 @@ Use these links to find application release notes, events, new tutorials, and th
 * [[!DNL Adobe Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [[!DNL GenStudio for Performance Marketing]](#genstudio-marketing) 
+* [[!DNL Adobe GenStudio for Performance Marketing]](#genstudio-marketing) 
 * [[!DNL Adobe Mix Modeler]](#mix-modeler)
 * [[!DNL Adobe Advertising]](#advertising) 
 * [[!DNL Adobe Pass]](#pass)
@@ -132,6 +132,8 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 +++Details
 
+Release: **Feburary 18, 2025**
+
 * [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest)
 
 * [[!DNL Experience Platform] Mobile SDK release notes](https://developer.adobe.com/client-sdks/documentation/release-notes/)
@@ -142,8 +144,8 @@ New tutorials published for Adobe [!DNL Experience Platform] on Experience Leagu
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|February 2025| [!DNL AI Assistant] | [Get operational insights with AI Assistant](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/operational-insights)|New video | Learn how to use AI Assistant to uncover operational insights about business objects such as audiences, datasets, schemas, destinations, and journeys in Adobe Experience Platform |
-|February 2025| [!DNL Experience Platform] | [Identity graph linking rules - Graph Simulation](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/identities/graph-linking-rules/graph-simulation)|New video | Learn how to use the graph simulator to test identity graph linking rules in Experience Platform. Experiment with different scenarios and play with _unique per graph_ and priority settings to verify what rules you need for your business to avoid graph collapse.  |
+|February 2025| [!DNL AI Assistant] | [Get operational insights with AI Assistant](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/operational-insights)|New video | Learn how to use [!DNL AI Assistant] to uncover operational insights about business objects such as audiences, datasets, schemas, destinations, and journeys in Adobe [!DNL Experience Platform]. |
+|February 2025| [!DNL Experience Platform] | [Identity graph linking rules - Graph Simulation](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/identities/graph-linking-rules/graph-simulation)|New video | Learn how to use the graph simulator to test identity graph linking rules in [!DNL Experience Platform]. Experiment with different scenarios and play with _unique per graph_ and priority settings to verify what rules you need for your business to avoid graph collapse.  |
 
 ### New [!DNL Experience Platform] support knowledge base{#kb-aep}
 
@@ -583,7 +585,7 @@ Find latest release information and new documentation for [!DNL GenStudio for Pe
 
 +++
 
-## [!DNL Adobe Mix Modeler] {#mix-modeler}
+## [!DNL Mix Modeler] {#mix-modeler}
 
 +++Details
 
@@ -653,7 +655,7 @@ New tutorials published for applications in [!DNL Adobe Creative Cloud for enter
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | February 2025 | Applications | [Effortless brand consistency with templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/use-templates) | New video | Learn how to create on-brand content quickly and efficiently across your entire organization. This tutorial walks through how to create fresh new on-brand content that can immediately be shared and localized.|
-| February 2025 | Applications | [Maximize efficiency: Create reusable templates](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/create-templates.html?lang=en) | New video | Learn how to bring brand consistency, efficiency, professionalism,and cost savings to your organization with Adobe Express templates. |
+| February 2025 | Applications | [Maximize efficiency: Create reusable templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/create-templates) | New video | Learn how to bring brand consistency, efficiency, professionalism,and cost savings to your organization with Adobe Express templates. |
 
 See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) for the latest tutorials.
 
