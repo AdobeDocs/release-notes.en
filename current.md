@@ -2,34 +2,28 @@
 title: Latest Release Notes
 description: Find the latest release notes and Knowledge Base issues for Adobe [!DNL Experience Cloud] products and services. Learn about upcoming events and new documentation on Experience League. Discover the latest tutorials and courses for [!DNL Experience Cloud] applications.
 doc-type: release notes
-last-update: January 2025
+last-update: February 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
-# Experience Cloud release notes - January 2025
+# Experience Cloud release notes - February 2025
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-[Experience League](https://experienceleague.adobe.com/#home) helps you learn about Experience Cloud and Adobe enterprise applications. For the best experience, sign in and customize your search across our free library of resources, including:
+[Experience League](https://experienceleague.adobe.com/#home) helps you learn about Experience Cloud and Adobe enterprise applications. For the best experience, sign in and customize your search across our free library of resources.
 
-* [Product documentation](https://experienceleague.adobe.com/en/docs)
-* [Video playlists](https://experienceleague.adobe.com/en/playlists)
-* [Events](https://experienceleague.adobe.com/events/)
-* [Community forums](https://experienceleaguecommunities.adobe.com/?profile.language=en)
-* [Support](https://experienceleague.adobe.com/?support-tab=home#support)
+* **Stay notified:** To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
-**Stay notified:** To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
+* **Leave feedback:** Look for the **_Was this content helpful?_** pop-up at the bottom of each article or video. Your feedback is curated and delivered to content authors.
 
-**Leave feedback:** Look for the **_Was this content helpful?_** pop-up at the bottom of each article or video. Your feedback is curated and delivered to content authors.
+## February 2025
 
-## January 2025
+Latest update: **February 19, 2025**
 
-Latest update: **February 12, 2025**
-
-For specific application release dates, see the product's release notes.
+Use these links to find application release notes, events, new tutorials, and the latest Knowledge Base support articles:
 
 * [[!DNL Experience League] events and updates](#events)
 * [[!DNL Adobe System Status]](#status)
@@ -48,7 +42,7 @@ For specific application release dates, see the product's release notes.
 * [[!DNL Adobe Journey Orchestration]](#journey-orch)
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
-* [[!DNL GenStudio for Performance Marketing]](#genstudio-marketing) 
+* [[!DNL Adobe GenStudio for Performance Marketing]](#genstudio-marketing) 
 * [[!DNL Adobe Mix Modeler]](#mix-modeler)
 * [[!DNL Adobe Advertising]](#advertising) 
 * [[!DNL Adobe Pass]](#pass)
@@ -89,7 +83,11 @@ Key features:
 
 * **[!DNL Adobe Summit]** | _The Digital Experience Conference_ | Join peers and hear from executives from the Coca-Cola Company, JPMorganChase, ServiceNow, and more. | **March 18 - 19 @ Las Vegas & Online** | [Register](https://summit.adobe.com/na/?promoid=G4FRYKWG&mv=other)
 
-View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
+* **[!DNL Experience Cloud]** | _Adobe Digital Insights: Unwrapping 2024 holiday results and early 2025 trends_ | A comprehensive recap of 2024 holiday shopping trends and a look ahead to the first half of 2025. Use these insights to help you forecast and surpass customer expectations in the year ahead. | **February 20 @ 10:00 AM MST** | [Register](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
+
+* **[!DNL Workfront]** | _Connect: Workfront Collective_ | Join our monthly Monday Workfront Collective events designed to connect with other customers, discuss Workfront features, share ideas, and brainstorm together to solve common challenges. | **February 24 @ 7:00 AM MST** | [Register](https://events.teams.microsoft.com/event/d3b3a3c3-9563-4499-a147-8b966d13a30d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+And many more! View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
 +++
 
@@ -121,8 +119,7 @@ Learn about [!DNL Experience Cloud] central interface components and administrat
 
 | Date | Feature    | Description  |
 | -----------| -----------| ---------- |
-| January 9 |Product usage data |To make it easier to control [!DNL Experience Cloud] product usage data preferences, we streamlined our [!DNL Experience Cloud] [Preferences](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences) page to remove duplicative options. With this simplification, we've preserved current user preferences, and you can update your preferences at any time on [Experience Cloud preferences](https://experience.adobe.com/preferences). |
-| February 13 (planned release date) |Spectrum 2 |The [!DNL Experience Cloud] application frame, including the header bar and components accessed from the header bar (and left navigation rail for certain applications) will be updated to Spectrum 2. Spectrum is Adobe's design standard. This refreshed design includes updated iconography but the same functionality. However, several elements in the header are re-positioned to align with other Adobe sites and applications. |
+| February 13 |Spectrum 2 |The [!DNL Experience Cloud] application frame, including the header bar and components accessed from the header bar (and left navigation rail for certain applications) will be updated to Spectrum 2. Spectrum is Adobe's design standard. This refreshed design includes updated iconography but the same functionality. However, several elements in the header are re-positioned to align with other Adobe sites and applications. |
 
 For help on [!DNL Experience Cloud] central interface components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
 
@@ -134,6 +131,8 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 +++Details
 
+Release: **Feburary 18, 2025**
+
 * [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest)
 
 * [[!DNL Experience Platform] Mobile SDK release notes](https://developer.adobe.com/client-sdks/documentation/release-notes/)
@@ -144,7 +143,8 @@ New tutorials published for Adobe [!DNL Experience Platform] on Experience Leagu
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|January 2025| [!DNL Experience Platform] | [AI Assistant](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/overview)|Multiple videos | Learn how to use AI Assistant with Experience Platform. Multiple new tutorial videos are available to help you get up to speed.  |
+|February 2025| [!DNL AI Assistant] | [Get operational insights with AI Assistant](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/operational-insights)|New video | Learn how to use [!DNL AI Assistant] to uncover operational insights about business objects such as audiences, datasets, schemas, destinations, and journeys in Adobe [!DNL Experience Platform]. |
+|February 2025| [!DNL Experience Platform] | [Identity graph linking rules - Graph Simulation](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/identities/graph-linking-rules/graph-simulation)|New video | Learn how to use the graph simulator to test identity graph linking rules in [!DNL Experience Platform]. Experiment with different scenarios and play with _unique per graph_ and priority settings to verify what rules you need for your business to avoid graph collapse.  |
 
 ### New [!DNL Experience Platform] support knowledge base{#kb-aep}
 
@@ -152,22 +152,18 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|November 2024|[Resolving *[!DNL UPAPI-113434-400]* error when deleting audiences via [!DNL AEP] [!DNL API]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25337)|New article| Learn how to solve the issue when the *[!DNL UPAPI-113434-400]* error occurs when attempting to delete an audience via the [!DNL Adobe Experience Platform (AEP)] [!DNL API].|
-|November 2024|[Create a privacy request with multiple users and identity types in [!DNL Privacy Service API]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25330)|New article| Learn how to create a privacy [!DNL JSON] request with multiple users and identity types using the [!DNL Privacy Service API].|
-|December 2024|[Understanding the changes in [!DNL Adobe Experience Platform] tags embed code with [!DNL HTTPS]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-22265)|New article| Learn about if you need to update the embed code for [!DNL Adobe Experience Platform Data Collection] (Tags) when the script source changes from `//assets.adobedtm.com/xxxx` to `https://assets.adobedtm.com/xxxx`.|
-|December 2024|[Resolving *[!DNL 400 BAD_REQUEST]* activation errors for [!DNL Eloqua Destinations] in [!DNL Adobe Experience Platform]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25463)|New article| Learn how to solve the issue when the *[!DNL 400 BAD_REQUEST]* error occurs when activating audiences from [!DNL Adobe Experience Platform (AEP)] to [!DNL Oracle Eloqua] [!DNL API]-based destinations.|
-|December 2024|[Unable to add more accounts for [!DNL HTTP] [!DNL API] source in [!DNL Adobe Experience Platform]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25431)|New article| Learn how to solve the issue when an error occurs that prevents adding more than one [!DNL HTTP] [!DNL API] account as a source.|
-|December 2024|[[!DNL Adobe Experience Platform]: streaming validation fails on hashed emails](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25489)|New article| Learn how to resolve the [!DNL Adobe Experience Platform] issue when streaming validation fails on hashed emails.|
-|December 2024|[Discrepancy in profile delete request processing using [!DNL Privacy API] in [!DNL AEP]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25442)|New article| Learn how to solve the issue when a discrepancy occurs in the profile delete request processing when using the [!DNL privacy API].|
-|December 2024|[[!DNL ImportError] when importing [!DNL DatasetWriter] module in [!DNL AEP Notebooks]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25472)|New article| Learn how to solve the issue when an [!DNL ImportError] occurs with [!DNL DatasetWriter] in [!DNL Adobe Experience Platform Notebooks].|
-|December 2024|[Small audience size shown on [!DNL Facebook] despite large audiences in [!DNL Adobe Experience Platform]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25440)|New article| Learn how to solve the issue when the [!DNL Facebook] audience appears significantly smaller than the large audience sizes within Adobe when transferring audience segments from the [!DNL Adobe Experience Platform] to [!DNL Facebook].|
-|December 2024|[Unable to push [!UICONTROL Segments] to [!DNL Freewheel] destination](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25350)|New article| Learn how to resolve errors when pushing audience [!UICONTROL Segments] from [!DNL Adobe Experience Platform (AEP)] to the [!DNL Freewheel] destination.|
-|December 2024|[Access computed attributes in non-production environments in [!DNL Adobe Experience Platform]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25432)|New article| Learn how to resolve issues related to computed attributes not being accessible in non-production environments of [!DNL Adobe Experience Platform (AEP)].|
-|December 2024|[[!DNL Adobe Experience Platform]: Resolve *[!DNL 500 Internal Server Error]* when streaming data from [!DNL Azure Data Factory]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25359)|New article| Learn how to solve the issue when integrating [!DNL Azure Data Factory (ADF)] with [!DNL Adobe Experience Platform (AEP)], a *[!DNL 500 Internal Server Error]* occurs due to duplicated [!DNL Content-Type] headers.|
-|December 2024|[[!DNL AEP]: locked custom field group can't be edited in Schema editor](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25400)|New article| Learn how to resolve the issue of locked custom field groups in [!DNL Adobe Experience Platform]'s Schema editor by modifying `enum` values in the [!UICONTROL Data Types] editor.|
-|December 2024|[[!DNL AEP]: merge policy for profile snapshot export](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25407)|New article| Learn how to identify merge policies attached to profile snapshot export datasets in [!DNL Adobe Experience Platform (AEP)].|
-|December 2024|[[!DNL HTML] fragments not displaying in [!DNL Adobe Journey Optimizer] emails](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25441)|New article| Learn how to solve the issue when [!DNL HTML] fragments fail to display correctly in [!DNL Adobe Journey Optimizer] emails.|
-|December 2024|[Delete unwanted profiles resulting from data ingestion error from [!DNL Adobe Experience Platform]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25449)|New article| Learn how to delete unwanted profiles from [!DNL Adobe Experience Platform] due to a data ingestion error.|
+|January 2025|[Resolve streaming dataflow UI discrepancies in [!DNL Adobe Experience Platform]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25576)|New article| Learn how to solve discrepancies in the dataflow user interface, such as inaccurate processing durations and incorrect ingestion statuses in [!DNL AEP].|
+|January 2025|[Understanding monitoring options for [!DNL Experience Platform Solutions]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25523)|New article| Learn how to monitor system status and identify performance issues programmatically in [!DNL Adobe Experience Platform (AEP)] environments.|
+|January 2025|[[!UICONTROL Dataflow] ingestion from incorrect source folder in [!DNL Adobe Experience Platform]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25581)|New article| Learn how to solve the issue where a [!UICONTROL dataflow] configured to ingest data from [!DNL Azure Blob Storage] reads files from an incorrect folder.|
+|January 2025|[Support for [!DNL KMS-encrypted S3 buckets] in [!DNL Adobe Experience Platform]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25534)|New article| Learn about [!DNL Adobe Experience Platform]'s support for encryption methods, detailing data ingestion and export options.|
+|January 2025|[Resolving [!DNL DULE] errors in [!DNL Adobe Experience Platform] for audience activation](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25552)|New article| Learn how to solve the issue of [!DNL DULE] errors due to conflicts between data labels and marketing actions.|
+|January 2025|[Fields not displaying in [!DNL AEP Segment Builder]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25544)|New article| Learn how to solve the issue where attributes or fields from a dataset don't appear in [!DNL Adobe Experience Platform] [!DNL Segment Builder], even after successful data ingestion.|
+|January 2025|[[!DNL Adobe Experience Platform]: outdated sample profiles](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25549)|New article| Learn how to solve the issue of outdated sample profiles in [!DNL Adobe Experience Platform], which can cause inaccurate audience profiles.|
+|January 2025|[[!UICONTROL Launch/Data Collection] feature of [!DNL Adobe Experience Platform] not working in [!DNL Safari 17] incognito mode](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25416)|New article| Learn how to solve the issue when using [!DNL Safari 17] in incognito mode, the [!UICONTROL Launch/Data Collection] feature of [!DNL Adobe Experience Platform] may not start, preventing [!DNL Analytics] data capture.|
+|January 2025|[[!DNL Jupyter Notebooks] environment access issue in [!DNL AEP]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25468)|New article| Learn how to solve the issue where the [!DNL Jupyter Notebooks] environment within Adobe Experience Platform [!DNL Data Science Workspace] becomes inaccessible, displaying a timeout error.|
+|January 2025|[Issue with [!DNL Adobe Launch ("Tags")] releases not propagating in [!DNL Adobe Experience Platform]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25531)|New article| Learn how to solve the issue where [!DNL Adobe Launch] (Experience Platform tags) releases fail to propagate correctly, ensuring that updates are effectively reflected for all website visitors.|
+|January 2025|[Understanding [!DNL GDPR] privacy request delays in [!DNL Adobe Experience Platform]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25522)|New article| Learn how to solve the issue of delays in processing [!DNL GDPR] privacy requests for deleting campaign data within [!DNL Adobe Experience Platform].|
+|January 2025|[[!DNL Adobe Experience Platform]: Count for failed identities seems disproportionate in relation to destination activation](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25658)|New article| Learn how to solve the issue where the count for failed identities seems disproportionate in relation to destination activation.|
 
 +++
 
@@ -176,6 +172,14 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 Find the latest tutorials for [!DNL Real-Time CDP] on Experience League.
 
 +++Details
+
+| Published | Name | Type | Description |
+| ----------| ---------- | ---------- |---------- |
+|February 2025 | [Intelligently re-engage your customers to return](https://experienceleague.adobe.com/en/docs/experience-platform/rtcdp/use-cases/personalization-insights-engagement/intelligent-re-engagement)|New video | Deliver compelling and connected experiences during the key conversion moments to intelligently re-engage infrequent customers. |
+|February 2025| [Destinations overview](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/understanding-destinations)|Updated video | Learn about the destination types that you can use to get data out of Real-Time CDP, Experience Platform, and Platform tags to support a wide variety of use cases. |
+|February 2025| [Connect to destinations](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/connecting-to-destinations)|New video | Before you can send data to destination partners from the Real-Time CDP, you need to configure the connections to those partners. Learn how in this video. |
+
+For more information, see:
 
 * Video tutorials: [Understanding Real-Time Customer Data Platform](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform)
 
@@ -189,9 +193,9 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 +++Details
 
-[!DNL Analytics] latest release date: **January 22, 2025**
+[!DNL Analytics] release date: **February 19, 2025**
 
-* [!DNL Analytics] [release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest)<!-- [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) -->
+* [!DNL Analytics][release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest)
 
 * [!DNL Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/analytics)
 
@@ -201,14 +205,14 @@ Release version: **2.26.0**
 
 * [AppMeasurement for JavaScript release notes](https://experienceleague.adobe.com/en/docs/analytics/implementation/appmeasurement-updates)
 
-### New [!DNL Analytics] tutorials {#tutorials-analytics}
+<!-- ### New [!DNL Analytics] tutorials {#tutorials-analytics}
 
 New tutorials published for Adobe [!DNL Analytics] on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |January 2025|[Adobe [!DNL Analytics] & CJA: Quick Start for Basic to Intermediate Analysis Capabilities](https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2024/basic-to-intermediate-analysis-capabilities)|Event |Learn about Adobe [!DNL Analytics] and [!DNL Customer Journey Analytics] with a focus on basic to intermediate analysis capabilities.|
-|January 2025|[AEP Web SDK Troubleshooting, Assurance, and Tips and Tricks](https://experienceleague.adobe.com/en/docs/events/tech-sessions/2024/rtcdp-office-hours-2024/aep-web-sdk-troubleshooting)|Event |Gain insights into troubleshooting, assurance, and tips and tricks for the Adobe [!DNL Experience Platform] (AEP) Web SDK.|
+|January 2025|[AEP Web SDK Troubleshooting, Assurance, and Tips and Tricks](https://experienceleague.adobe.com/en/docs/events/tech-sessions/2024/rtcdp-office-hours-2024/aep-web-sdk-troubleshooting)|Event |Gain insights into troubleshooting, assurance, and tips and tricks for the Adobe [!DNL Experience Platform] (AEP) Web SDK.| -->
 
 ### New Adobe [!DNL Analytics] support knowledge base{#kb-analytics}
 
@@ -216,8 +220,7 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|December 2024|[Permissions to use [!UICONTROL Cohort] visualization](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25318)|New article| Learn about permissions needed to use [!UICONTROL Cohort] visualization in [!DNL Adobe Analytics].|
-|December 2024|[Missing hits in [!UICONTROL Livestream]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25364)|New article| Learn about missing hits in [!UICONTROL Livestream] output [!DNL Adobe Analytics].|
+|January 2025|[[!DNL Virtual Report Suite (VRS)] and funnel discrepancies in [!DNL Adobe Analytics]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25603)|New article| Learn how to solve funnel discrepancies in [!DNL Adobe Analytics] [!DNL Virtual Report Suite] (VRS) by comparing it to parent suite data and applying the correct segments.|
 
 +++ 
 
@@ -227,19 +230,20 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 +++Details
 
-[!DNL Customer Journey Analytics] latest release date: **January 22, 2025**
+[!DNL Customer Journey Analytics] release date: **February 19, 2025**
 
-* [!DNL Customer Journey Analytics] [release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases)<!-- [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
+* [!DNL Customer Journey Analytics] [release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases)
 
 * [!DNL Customer Journey Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/customer-journey-analytics)
 
-<!-- ### New [!DNL Customer Journey Analytics] tutorials {#tutorials-cja}
+### New [!DNL Customer Journey Analytics] tutorials {#tutorials-cja}
 
 New tutorials published for [!DNL Customer Journey Analytics]. 
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|October 2024|[Create summary-level data sources in Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-views/create-summary-level-data-sources)|Video |Learn how [!DNL Customer Journey Analytics] supports summary-level data that enables you to aggregate and analyze data that isn't organized by individual IDs, such as campaign or product data.| -->
+|February 2025|[Analysis Workspace templates](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/workspace-projects/analysis-workspace-templates)|New video | Learn how to start your analysis in [!UICONTROL Workspace] with a [!UICONTROL Workspace] template. You can choose from a curated Adobe template or create your own for a custom organizational template. |
+|February 2025|[Create intelligent captions](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/intelligent-captions)|New video |Learn how to enable intelligent captions in your visualizations so that you can get natural language insights automatically created for you about your data.|
 
 +++
 
@@ -255,7 +259,7 @@ Find the latest release information for [!DNL Streaming Media Analytics]. View n
 
 +++
 
-## Adobe [!DNL Experience Manager] {#aem}
+## [!DNL Experience Manager] {#aem}
 
 New features, fixes, and updates in [!DNL Experience Manager]. Adobe recommends customers with On-Premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
 
@@ -263,7 +267,7 @@ New features, fixes, and updates in [!DNL Experience Manager]. Adobe recommends 
 
 ### Experience Manager release information
 
-Next [!DNL Experience Manager as a Cloud Service] release: **January 30**
+Latest [!DNL Experience Manager as a Cloud Service] maintenance release: **February 10-12, 2025**
 
 All [!DNL Experience Manager] release notes are maintained at the following pages:
 
@@ -284,12 +288,10 @@ New tutorials published for [!DNL Experience Manager] on [!DNL Experience Manage
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|January 2025| [!DNL AEM Sites] | [Cloud 5 - Search optimization in Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-4/cloud5-search-optimization#_blank)|Video | Get your lighthouse score to 100 buy using query and search optimization when dealing with large numbers of records.  |
-|January 2025| [!DNL AEM Sites] | [Cloud 5 - Integrate with Google Maps](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-4/cloud5-google-maps#_blank)|Video | Tales from the trenches - explore how to integrate Edge Delivery Services with Google Maps and how to optimize performance with integrations. |
-|January 2025| [!DNL AEM Sites] | [Cloud 5 - Development best practices for Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/expert-resources/cloud-5/season-4/cloud5-edge-delivery-services-best-practices#_blank)|Video |Explore techniques for developing in Edge Delivery Services with a seasoned architect. Kiran walks you through many of the issues he has faced on projects and how to solve them.| 
-|January 2025| [!DNL AEM CS] | [Invoke OpenAPI-based AEM APIs with user authentication from a web app](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/invoke-openapi-based-aem-apis-from-web-app#setup-and-run-web-app)|Video | Learn how to invoke OpenAPI-based AEM APIs on AEM as a Cloud Service using user-based authentication from an external web app with OAuth Web App authentication. |
-|January 2025| [!DNL ADM Assets] | [Content credentials](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/advanced/content-credentials)|Video | Learn how AEM Assets content credentials provide verifiable metadata to ensure the authenticity and integrity of digital assets, fostering trust and transparency in content creation. |
-|January 2025| [!DNL AEM Forms] | [Integrate Turnstile CAPTCHA with Adaptive Forms](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/forms/adaptive-forms-authoring/authoring-adaptive-forms-foundation-components/add-components-to-an-adaptive-form/integrate-adaptive-forms-turnstile)|Video | Enhance form security with Turnstile service effortlessly. Step-by-step guide inside! |
+|February 2025| [!DNL Experience Manager] | [Edge Delivery Services and Universal Editor developer tutorial](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/edge-delivery-services/developing/universal-editor/0-overview)|Multiple | Learn the basics of developing a new website authored in AEM Universal Editor and delivered using [!DNL Edge Delivery Services]. |
+|February 2025| [!DNL Experience Manager] | [AEM Eventing](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-eventing/overview)|New video | Learn about AEM eventing, what it is, why and when to use it and examples of it. |
+|February 2025| [!DNL Experience Manager] | [OpenAPI-Based APIs](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/implementing/developing/open-api-based-apis)|New article | Learn about AEM as a Cloud Service support for OpenAPI-based APIs |
+|February 2025| [!DNL Experience Manager] | [Print channel tutorial](https://experienceleague.adobe.com/en/docs/experience-manager-learn/forms/ic-print-channel-tutorial/introduction)|Multiple | Create your first interactive communication for the print channel. Interactive Communications is new to AEM Forms 6.4. |
 
 ### New [!DNL Experience Manager] support knowledge base{#kb-aem}
 
@@ -297,27 +299,18 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|November 2024|[How to fix Dynamic Media video loading and playback issues in browsers](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25308)|New article| Learn how to resolve issues with [!DNL Dynamic Media] (DM) videos that fail to load, buffer frequently, or don't allow users to reposition within the video on certain browsers or devices.|
-|November 2024|[[!DNL Dynamic Media] General Settings page doesn't open up](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25294)|New article| Learn how to solve the issue where the [!DNL Dynamic Media] General Settings page isn't loading even with a correctly configured [!DNL Dynamic Media] [!UICONTROL CloudConfig] and successful asset synchronization to [!DNL DMS7].|
-|November 2024|[Image preview isn't working](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25297)|New article| Learn how to resolve an issue with image previews not working correctly in [!DNL Adobe Experience Manager (AEM) as a Cloud Service] by adjusting JPEG quality settings.|
-|November 2024|[[!DNL AEM Content Fragment] model fields](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25300)|New article| Learn about the limitations and configurations for the number of fields in an [!DNL Adobe Experience Manager (AEM) Content Fragment (CF)] model.|
-|November 2024|[Parameter `includeChildren` not working in [!UICONTROL Publish Content Tree Workflow] (preview agent)](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25257)|New article| Learn how to solve the issue where a customer-created workflow for publishing content fragments ([!DNL CFs]) to a preview server has stopped replicating nested fragments and unpublished assets, despite the inclusion of the `includeChildren` option.|
-|November 2024|[Version purge failures in [!DNL AEM 6.5.18] due to *[!DNL NullPointerException]*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25299)|New article| Learn how to solve the issue when in [!DNL Adobe Experience Manager (AEM) version 6.5.18], a known issue occurs where version purge tasks fail, resulting in a `java.lang.NullPointerException`.|
-|November 2024|[Preventing accidental deletion of referenced topics/files in [!DNL AEM] guides](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25255)|New article| Learn how to solve the issue for when, if you hit delete guides' topics/files in [!DNL Adobe Experience Manager (AEM)] that are referenced in `maps/rootmaps`, you aren't prompted with a [!UICONTROL Force Delete] option to confirm the deletion.|
-|November 2024|[How to differentiate conditional text and draft comments in [!DNL AEM] guides review tool](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25309)|New article| Learn how to distinguish between conditional text and draft comments in the [!DNL AEM Guides Review Tool].|
-|November 2024|[*[!DNL Fail to load data]* error for [!DNL DMS7] assets in [!DNL Brand Portal]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25296)|New article| Learn how to resolve the `Fail to load data` error in [!DNL Brand Portal] when opening folders containing [!DNL DMS7] assets.|
-|November 2024|[Troubleshooting [!DNL HTTP 5XX] errors in [!DNL AEM as a Cloud Service]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25099)|New article| Learn how to solve the issue when [!DNL HTTP 5XX] errors occur in the [!UICONTROL Publish] tier, often displayed as a `Service Unavailable` message.|
-|November 2024|[Troubleshooting [!DNL HTTP 429] error responses in [!DNL AEM as a Cloud Service]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25100)|New article| Learn how to solve the issue when [!DNL AEMaaCS] receives [!DNL HTTP 429] errors from too many requests that results in performance issues.|
-|December 2024|[Dynamic media synchronization user recommendations](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25471)|New article| Learn about recommendations for [!DNL AEM] to [!DNL Dynamic Media] synchronization.|
-|December 2024|[Please help me find out who deleted images from [!DNL Dynamic Media] / [!DNL Scene7]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25461)|New article| Learn how to solve the issue when a customer's assets have gone missing that are supposed to be live on a website.|
-|December 2024|[[!DNL Adobe Experience Manager]: Verifying Successful Loading of [!DNL JavaScript] Overlays](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25495)|New article| Learn how to solve the issue when your overlaid [!DNL JavaScript] isn't functioning as expected, you may want to verify if it's being loaded correctly.|
-|December 2024|[[!DNL Adobe Experience Manager: Service Pack 21] installation stuck with *[!DNL org.apache.sling.installer.core]* error](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25476)|New article| Learn how to solve the issue when the installation of [!DNL AEM 6.5.21] doesn't proceed, depending on a particular bundle version, after the `org.apache.sling.installer.core` error message appears in the `error.log`.|
-|December 2024|[Custom user groups locked in read-only mode in new [!UICONTROL Content Fragment] editor in [!DNL AEM]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25396)|New article| This article explains how to resolve an issue in [!DNL Adobe Experience Manager (AEM) as a Cloud Service], where custom user groups are locked in read-only mode when accessing the new [!UICONTROL Content Fragment (CF)] editor.|
-|December 2024|[Default metadata schema not populated with values](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25371)|New article| Learn how to solve the issue when modifying field labels within the `dm_video` metadata schema, default metadata values may not populate, causing fields to appear empty.|
+|January 2025|[Language search filter not functioning in [!DNL Adobe Experience Manager as a Cloud Service (AEMaaCS)]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25501)|New article| Learn how to solve the issue where the language search filter in [!DNL Adobe Experience Manager as a Cloud Service] doesn't function as expected when attempting to search for assets by language name.|
+|January 2025|[[!DNL Adobe Asset Link plug-in] Network Error: *[!DNL server is unreachable]*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25506)|New article| Learn how to resolve connectivity issues with the [!DNL Adobe Asset Link] plug-in in [!DNL Adobe Photoshop].|
+|January 2025|[Resolving [!DNL Adobe Experience Manager (AEM)] asset link connection issues in [!DNL InDesign]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25562)|New article| Learn how to solve intermittent connection issues experienced when using [!DNL Adobe Asset Link] (AAL) within [!DNL InDesign].|
+|January 2025|[Text extraction limitations for large [!DNL PDF]s in [!DNL Adobe Experience Manager as a Cloud Service (AEMaaCS)]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25518)|New article| Learn how to solve the issue of incomplete text extraction for large [!DNL PDF] documents in [!DNL Adobe Experience Manager as a Cloud Service] due to character limitations.|
+|January 2025|[PAllowing users to impersonate other users in [!DNL AEM as a Cloud Service]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25539)|New article| Learn about the new setting in [!DNL AEM as a Cloud Service] version 2024.10 that allows anyone to impersonate users in [!DNL AEM Author].|
+|January 2025|[Custom [!DNL JCR] property loss on authoring change and replication in [!DNL AEMaaCS]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25541)|New article| Learn how to solve the issue of custom [!DNL JCR] properties being lost when authoring changes are made and content is replicated in [!DNL Adobe Experience Manager as a Cloud Service] (AEMaaCS).|
+|January 2025|[Resolving asset processing issues in [!DNL AEM as a Cloud Service - Assets]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25525)|New article| Learn how to solve the issue of asset processing issues in [!DNL Adobe AEM's Dynamic Media] module caused by password synchronization problems.|
+|January 2025|[[!UICONTROL Content fragments] not removed from the references tab of assets](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25533)|New article| Learn how to solve the issue in [!DNL Adobe Experience Manager as a Cloud Service - Assets], where references to [!UICONTROL content fragments] persist in the references tab of an asset's metadata UI, even after the asset has been successfully removed from the content fragment.|
 
 +++
 
-## [!DNL Adobe Commerce] {#commerce}
+## [!DNL Commerce] {#commerce}
 
 Get access to release notes, new tutorials, and Knowledge Base articles for [!DNL Adobe Commerce] on Experience League.
 
@@ -333,16 +326,10 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2025|[Customize checkout experience](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/edge-delivery-services/getting-started/customize-checkout)|Video |Learn how to customize the checkout experience in Adobe Commerce from the Edge Delivery Services cart drop-in component. This video focuses on modifying shipping options and implementing a multi-step checkout process.|
-|January 2025|[The Bulk Packages global reference architecture pattern](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/global-reference-architecture-implementation-techniques/bulk-packages)|Video |Learn how to set up Adobe Commerce with the Bulk Packages Global Reference Architecture (GRA) Pattern.|
-|January 2025|[The Split Git global reference architecture pattern](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/global-reference-architecture-implementation-techniques/split-git)|Video |Learn how to set up Adobe Commerce with the Split Git Global Reference Architecture (GRA) Pattern.|
-|January 2025|[The Separate Packages global reference architecture pattern](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/global-reference-architecture-implementation-techniques/separate-packages)|Video |Learn how to set up Adobe Commerce with the Separate Packages Global Reference Architecture (GRA) Pattern.|
-|January 2025|[Add BOPIS to check out](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/edge-delivery-services/getting-started/add-bopis-to-checkout)|Video |Learn how to add the necessary components to the Edge Delivery Services checkout that accommodates a buy online and pickup in store otherwise known as BOPIS.|
-|January 2025|[Adjust transactional flow for checkout](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/edge-delivery-services/getting-started/transactional-flow)|Video |Learn how to adjust the transactional flow for checkout using Edge Delivery Services cart drop-in.|
-|January 2025|[Use product attributes for cart items](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/edge-delivery-services/getting-started/product-attributes-cart-items)|Video |Learn how to customize and extend the Adobe Commerce shopping cart.|
-|January 2025|[Global Reference Architecture Implementation Techniques](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/global-reference-architecture-implementation-techniques/overview)|Video |Learn how to optimize code reuse in Adobe Commerce with Global Reference Architecture patterns,enhancing performance and compliance across multiple instances.|
-|January 2025|[Custom Address Form Layout and Google Address Lookup Integration](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/edge-delivery-services/getting-started/customize-address-new-account-link)|Video |Learn how to customize the address form layout at checkout to ensure that all fields are 50% width, with the exception for the text area.|
-|January 2025|[Monorepo Global Reference Architecture pattern](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/global-reference-architecture-implementation-techniques/monorepo)|Video |Learn how to set up Adobe Commerce with the Monorepo Global Reference Architecture (GRA) Pattern.|
+|February 2025|[Customize an address layout](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/edge-delivery-services/getting-started/customize-address-new-account-link)|New video |Learn how to customize e-commerce checkout forms and integrate Google Address Lookup for improved user experience and reduced input errors.|
+|February 2025|[Monorepo Global Reference Architecture pattern](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/global-reference-architecture-implementation-techniques/monorepo)|New video |Learn how to set up Adobe Commerce with the Monorepo Global Reference Architecture (GRA) Pattern.|
+|February 2025|[Introduction to Inventory Management](https://experienceleague.adobe.com/en/docs/commerce-admin/inventory/introduction)|New article |Learn how to use Inventory Management features to manage stock in multiple locations so that your Commerce store accurately reflects the physical inventory.|
+|February 2025|[Adobe Commerce Marketplace](https://experienceleague.adobe.com/en/docs/commerce-admin/start/resources/commerce-marketplace)|New video |Learn about the Commerce Marketplace, which offers merchants a curated selection of solutions. It also provides qualified developers the tools, platform, and prime location to build a thriving business.|
 
 ### New [!DNL Commerce] support knowledge base{#kb-commerce}
 
@@ -350,13 +337,13 @@ New articles and updates to existing articles for Adobe Commerce.
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|December 2024|[[!DNL Quality Patches Tool (QPT)]](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/patches-available-in-qpt/patches-available-in-qpt-tool-overview)|New articles| New articles on how to apply patches available in [!DNL QPT] 1.1.52, [!DNL QPT] 1.1.53, [!DNL QPT] 1.1.54, [!DNL QPT] 1.1.55, [!DNL QPT] 1.1.56, and [!DNL QPT] 1.1.57 were published and can be found in their respective sections.|
-|November 2024|[Backwards incompatible changes for [!DNL GraphQL] `placeOrder` [!DNL API] in Adobe Commerce 2.4.6-p8](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/backwards-incompatible-changes-for-graphql-placeorder-api-in-adobe-commerce-2-4-6-p8)|New articles| This article provides a patch for the known Adobe Commerce version 2.4.6-p8 Cloud and On-premises issue where the `placeOrder` [!DNL GraphQL API] doesn't return an expected error response, as seen in previous 2.4.6 patch versions.|
-|November 2024|[Resolve [!DNL New Relic] agent issues with [!DNL PHP] 8.2 to 8.3 upgrade in Adobe Commerce](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25301)|New articles| Learn how to solve the issue when you upgrade [!DNL PHP] from version 8.2 to 8.3, you notice that the [!DNL New Relic] agent stops working in your Adobe [!DNL Commerce] environment.|
-|November 2024|[[!DNL Security Scan Tool] returns *[!DNL APSByy-xx security updates available]* even if the patch is already applied](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25321)|New articles| Learn how to solve the issue when the [!DNL Security Scan Tool] reports `APSByy-xx security updates available` for Adobe [!DNL Commerce] and [!DNL Magento Open Source] even though you have already applied the patch.|
-|November 2024|[Security updates available for Adobe Commerce ([!DNL APSB24-90])](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25289)|New articles| Learn about when on November 12, 2024, Adobe released a security update for Adobe [!DNL Commerce] (on Cloud and On-premises) and [!DNL Magento Open Source] features powered by [!DNL Commerce Services] and deployed as [!DNL SaaS (Software as a Service)].|
-|December 2024|[Resolving stuck database imports in Adobe Commerce Cloud](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25510)|New articles| Learn how to solve the issue when database imports in Adobe Commerce Cloud become stuck due to [!DNL InnoDB] [!DNL Full-Text Search (FTS)] limitations or other configuration constraints. |
-|December 2024|[Can't submit [!DNL Adobe Commerce Marketplace] support requests via [!UICONTROL Admin Console] or [!DNL Adobe Experience League]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25312)|New articles| Learn how to solve the issue when you are having trouble submitting support requests for the [!DNL Adobe Commerce Marketplace] through the Adobe Commerce [!UICONTROL Admin Console] or the [!DNL Adobe Experience League] site.|
+|January 2025|[[!DNL Quality Patches Tool (QPT)]](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/patches-available-in-qpt/patches-available-in-qpt-tool-overview)|New articles| New articles on how to apply patches available in [!DNL QPT] 1.1.57 and [!DNL QPT] 1.1.58 were published and can be found in their respective sections.|
+|January 2025|[*[!DNL Resolve Database Restore Failure: ERROR 1105 (HY000) - Maximum Writeset Size Exceeded]* on Adobe Commerce on Cloud infrastructure](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25651)|New articles| Learn how to solve the issue when restoring a [!DNL MariaDB] backup on a [!DNL Galera] cluster, you may encounter the `Maximum Writeset Size Exceeded` error due to a 2GB transaction size limit.|
+|January 2025|[[!DNL Fastly] backend checks in Adobe Commerce on Cloud infrastructure](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25574)|New articles| Learn how to solve the issue when backend checks with [!DNL Fastly] tester tool may display errors related to cacheability and surrogate keys.|
+|January 2025|[[!DNL Git] force push permission issue in Adobe Commerce on Cloud infrastructure](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25609)|New articles| Learn how to resolve permission-related challenges encountered while attempting a force push operation in Adobe Commerce on Cloud infrastructure.|
+|January 2025|[Resolving ticket creation issues for Adobe Commerce support](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25467)|New articles| Learn how to resolve issues faced by system administrators who are unable to create support tickets for Adobe Commerce.|
+|January 2025|[Resolving *[!DNL queue file size limit exceeded]* email errors in Adobe Commerce](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25514)|New articles| Learn how to solve the issue when handling large email attachments in Adobe Commerce on Cloud infrastructure results in errors like `queue file size limit exceeded`, disrupting email functionality.|
+|January 2025|[Deployment error when upgrading to [!DNL OpenSearch 1.3] Adobe Commerce on Cloud infrastructure](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25526)|New articles| Learn how to solve the issue of deployment errors after upgrading [!DNL OpenSearch] from version 1.2 to 1.3 in Adobe Commerce on Cloud infrastructure.|
 
 +++
 
@@ -375,8 +362,10 @@ Get access to pre-release notes, current release notes, and new tutorials for [!
 
 | Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
-| January 2025 | [Create an Adobe Target Recommendations activity](https://experienceleague.adobe.com/en/docs/target-learn/tutorials/recommendations/create-a-recommendations-activity) | Video | Learn how to create an Adobe [!DNL Target] Recommendations activity. |
-| January 2025 | [Create an A/B test](https://experienceleague.adobe.com/en/docs/target-learn/tutorials/activities/create-ab-tests) | Video | Learn the key workflow for creating A/B activities in [!DNL Adobe Target]. Create a basic A/B activity using the Visual Experience Composer (VEC). |
+| February 2025 | [Create an Adobe Target Recommendations activity](https://experienceleague.adobe.com/en/docs/target-learn/tutorials/recommendations/create-a-recommendations-activity) | New video | Learn how to create an Adobe [!DNL Target] Recommendations activity. |
+| February 2025 | [Create an A/B test](https://experienceleague.adobe.com/en/docs/target-learn/tutorials/activities/create-ab-tests) | New video | Learn the key workflow for creating A/B activities in [!DNL Adobe Target]. Create a basic A/B activity using the Visual Experience Composer (VEC). |
+| February 2025 | [Create Multivariate Tests](https://experienceleague.adobe.com/en/docs/target-learn/tutorials/activities/create-multivariate-tests) | New video | Learn about creating a Multivariate Test (MVT) in Adobe Target. Learn the steps for creating and interpreting MVTs. |
+| February 2025 | [Create Experience Targeting Activities](https://experienceleague.adobe.com/en/docs/target-learn/tutorials/activities/create-experience-targeting-activities) | New video | Experience Targeting (XT) activities enable marketers to target specific content to a specific audience. Learn the benefits of XT activities and how to create and use them. |
 
 * For pre-release information, see [[!DNL Adobe Target] prerelease](https://experienceleague.adobe.com/en/docs/target/using/release-notes/target-release-notes)
 * For current information, see [[!DNL Adobe Target] release notes](https://experienceleague.adobe.com/en/docs/target/using/release-notes/release-notes)
@@ -391,9 +380,9 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials and Knowled
 
 ### Latest Campaign product releases
 
-* [!DNL Campaign] v8: [January 15, 2025 - Release notes](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
+* [!DNL Campaign] v8: (February 5, 2025) [Release notes](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
 
-* [!DNL Web User Interface]: (Releasing February 5) [Release notes](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Web User Interface]: (February 5, 2025) [Release notes](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
 
 * [!DNL Campaign Classic] v7: [Release notes](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/campaign-classic-home)
 
@@ -405,8 +394,8 @@ New or updated videos tutorials published for Adobe Campaign.
 
 | Published | Application | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|January 2025| |[Create and manage test profiles](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-and-manage-test-profiles)|Video |Learn how to create a test profile in the client console and how to manage, and edit profiles in the Adobe Campaign Web UI.|
-|January 2025| |[Enhance a delivery with dynamic content](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content)|Video |Learn how to make message content dynamic by using the expression editor to personalize your message or add conditional content.|
+|January 2025| |[Create and manage test profiles](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-and-manage-test-profiles)|New video |Learn how to create a test profile in the client console and how to manage, and edit profiles in the Adobe Campaign Web UI.|
+|January 2025| |[Enhance a delivery with dynamic content](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content)|New video |Learn how to make message content dynamic by using the expression editor to personalize your message or add conditional content.|
 
 ### New [!DNL Campaign] support knowledge base{#kb-campaign}
 
@@ -414,23 +403,15 @@ New articles and updates to existing articles for [!DNL Campaign].
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|November 2024|[[!DNL Adobe Campaign Classic]: fix *[!DNL bad mirror link]* error for batch event preview](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25302)|New article| Learn how to solve the issue when attempting to access the **Preview** tab of batch RT `eventType` in [!DNL Adobe Campaign Classic], a `bad mirror link` error occurs.|
-|December 2024|[Differentiate [!DNL Mac] vs. [!DNL Windows] device records in [!DNL Adobe Campaign Classic] tracking logs](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25360)|New article| Learn how to solve the issue when in the tracking log table of [!DNL Adobe Campaign Classic], you see device records displayed as [!DNL PC] without differentiating between [!DNL MAC] and [!DNL Windows] devices.|
-|December 2024|[Resolving [!DNL AEM] to [!DNL Adobe Campaign Classic] synchronization issues](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25484)|New article| Learn how to solve the issue when users face synchronization errors when transferring email content from [!DNL Adobe Experience Manager (AEM)] to [!DNL Adobe Campaign Classic (ACC)].|
-|December 2024|["*[!DNL Oops. Something went wrong. Check your [!DNL URI] and try again]*"](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25415)|New article| Learn how to solve the issue when the `Oops. Something went wrong. Check your URI and try again` error encountered when making [!DNL API] calls to [!DNL Adobe Campaign Standard] in a production environment.|
-|December 2024|[Workflows failing due to missing delivery template in [!DNL Adobe Campaign Classic]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25410)|New article| Learn how to solve the issue when workflow failures in [!DNL Adobe Campaign Classic] resulting from the manual deletion of a delivery template in the `nmsDelivery` schema.|
-|December 2024|[Resolving [!DNL LDAP] over [!DNL TLS] connection issues in [!DNL Adobe Campaign Classic]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25404)|New article| Learn how to resolve sign-in issues when using [!DNL LDAP] over [!DNL TLS] in [!DNL Adobe Campaign Classic].|
-|December 2024|[[!DNL Adobe Campaign Classic v7]: *[!DNL Error loading private key file: permission denied]*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25413)|New article| Learn how to solve the `Error loading private key file: permission denied` error when trying to connect [!DNL Adobe Campaign Classic v7] to [!DNL Snowflake] database via [!DNL FDA].|
-
-### [!DNL Campaign] help resources
-
-* [!DNL Web User Interface]: **September 3** - [Release notes](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
-
-* [!DNL Campaign] v8: **September 3** - [Release notes](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
-
-* [!DNL Campaign Classic] v7: [Release notes](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/campaign-classic-home)
-
-* [!DNL Campaign Standard]: **August 2024** - [Release notes](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
+|January 2025|[Managing file system space in [!DNL Adobe Campaign]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25586)|New article| Learn how to solve for managing file system space issues in [!DNL Adobe Campaign].|
+|January 2025|[[!DNL IP Whitelisting] in [!DNL Adobe Campaign Standard]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25610)|New article| Learn how to whitelist IP addresses in [!DNL Adobe Campaign Standard].|
+|January 2025|[Configuring [!DNL Adobe Campaign Classic V7] to access [!DNL Google BigQuery]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25618)|New article| Learn how to integrate [!DNL Adobe Campaign Classic] (ACC) with [!DNL Google Cloud Platform (GCP) BigQuery]. |
+|January 2025|[Tracking workflow performance issue in [!DNL Adobe Campaign Classic]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25628)|New article| Learn how to improve processing times for your Strategic instance's tracking workflow in [!DNL Adobe Campaign Classic].|
+|January 2025|[Schema saving issue in [!DNL Adobe Campaign Classic]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25604)|New article| Learn how to solve schema saving issues in the [!DNL Adobe Campaign Classic] development environment.|
+|January 2025|[Delivery activity objects slow to open in [!DNL Adobe Campaign Classic]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25451)|New article| Learn how to solve the issue of slow performance when opening delivery activity objects in [!DNL Adobe Campaign Classic].|
+|January 2025|[Resolve `No available deliveries` in [!DNL Adobe Campaign] reports](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25538)|New article| Learn how to solve the issue of the `No available deliveries` warning in [!DNL Adobe Campaign] reports.|
+|January 2025|[Default language code for Serbian (Cyrillic or Latin) in [!DNL Adobe Campaign Standard]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25598)|New article| Learn about the default language code for the Serbian language in [!DNL Adobe Campaign Standard].|
+|January 2025|[Resolve target mapping selection error in [!DNL Adobe Campaign Managed Cloud]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25592)|New article| Learn how to solve the issue when a target mapping selection error occurs in [!DNL Adobe Campaign Managed Cloud].|
 
 +++
 
@@ -442,15 +423,18 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 ### [!DNL Journey Optimizer] product release updates
 
+Latest release: February 18-19, 2025
+
 * See [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) for updates and help
 
-<!-- ### New [!DNL Journey Optimizer] tutorials {#tutorials-ajo}
+### New [!DNL Journey Optimizer] tutorials {#tutorials-ajo}
 
 New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|October 2024|[Configure business rules - Frequency capping](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/business-rules/configure-frequency-capping-rules)|Video |Learn how to configure frequency capping rules.| -->
+|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
+|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.|
 
 ### More resources for [!DNL Journey Optimizer]
 
@@ -461,12 +445,22 @@ New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 
 ## [!DNL Journey Optimizer B2B Edition] {#ajo-b2b}
 
-Find release notes and new documentation for Adobe [!DNL Journey Optimizer B2b Edition].
+Find release notes and new tutorials [!DNL Journey Optimizer B2B Edition].
 
 +++Details
 
-* See [[!DNL Journey Optimizer B2B Edition] documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/guide-overview) for release notes and self-help.
-* See [[!DNL Journey Optimizer B2B Edition]](https://business.adobe.com/products/journey-optimizer-b2b-edition.html) for product information.
+New videos, tutorials, or courses published for Journey Optimizer B2B Edition.
+
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|February 2025|[Account Journeys](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|New videos |Visit the Account Journeys tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
+|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
+|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.|
+
+For more information, see: 
+
+* [[!DNL Journey Optimizer B2B Edition] documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/guide-overview) for release notes and self-help.
+* [[!DNL Journey Optimizer B2B Edition]](https://business.adobe.com/products/journey-optimizer-b2b-edition.html) for product information.
 
 +++
 
@@ -509,10 +503,10 @@ New tutorials published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|September 2024|[Attribution AI overview](https://experienceleague.adobe.com/en/docs/marketo-measure-learn/tutorials/marketo-measure-ultimate/attribution-ai-overview)|Video |Discover how Adobe's Attribution AI enhances B2B marketing measurement with sophisticated AI/ML modeling, offering precise attribution insights and eliminating biases for accurate analysis.|
-|September 2024|[Marketo Measure Ultimate overview](https://experienceleague.adobe.com/en/docs/marketo-measure-learn/tutorials/marketo-measure-ultimate/overview)|Video |Learn how Marketo Measure Ultimate allows B2B marketers to gather data from almost any source, including multiple sources of the same type, for thorough attribution. |
-|September 2024|[API Help - How to set the Access token in a variable](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/integrations/api-set-access-token-variable)|Video |Learn how to set up the Postman application and leverage variables to save data into the variable for reusability purposes. You will also learn how to make your first Marketo Engage REST API call to get the access token.|
-|September 2024|[Go live with Dynamic Chat in just 15 minutes](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/go-live-in-15-minutes)|Video |Watch a step by step guide to help you go live with your first dialogue using Dynamic Chat in just 15 minutes.| -->
+|September 2024|[Attribution AI overview](https://experienceleague.adobe.com/en/docs/marketo-measure-learn/tutorials/marketo-measure-ultimate/attribution-ai-overview)|New video |Discover how Adobe's Attribution AI enhances B2B marketing measurement with sophisticated AI/ML modeling, offering precise attribution insights and eliminating biases for accurate analysis.|
+|September 2024|[Marketo Measure Ultimate overview](https://experienceleague.adobe.com/en/docs/marketo-measure-learn/tutorials/marketo-measure-ultimate/overview)|New video |Learn how Marketo Measure Ultimate allows B2B marketers to gather data from almost any source, including multiple sources of the same type, for thorough attribution. |
+|September 2024|[API Help - How to set the Access token in a variable](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/integrations/api-set-access-token-variable)|New video |Learn how to set up the Postman application and leverage variables to save data into the variable for reusability purposes. You will also learn how to make your first Marketo Engage REST API call to get the access token.|
+|September 2024|[Go live with Dynamic Chat in just 15 minutes](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/go-live-in-15-minutes)|New video |Watch a step by step guide to help you go live with your first dialogue using Dynamic Chat in just 15 minutes.| -->
 
 For the latest product documentation, see the [Marketo product documentation](https://experienceleague.adobe.com/en/docs/marketo/using/home) home
 
@@ -538,7 +532,7 @@ Learn about the latest release notes for [!DNL Adobe Workfront]. Find new tutori
 
 * See the [Adobe [!DNL Workfront] product releases](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases) page for [!DNL Workfront] release schedule information and release notes.
 
-* See the [Adobe [!DNL Workfront] Fusion release activity overview](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/fusion-release/fusion-release-activity) for the latest information about Fusion.
+* See the [Adobe [!DNL Workfront] Fusion release activity overview](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity) for the latest information about Fusion.
 
 ### New Adobe [!DNL Workfront] tutorials {#tutorials-workfront}
 
@@ -546,11 +540,7 @@ New [!DNL Workfront] tutorials and events on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2025|[Understand the Business Case](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case)|Video |Learn how to use the Business Case in [!DNL Workfront] to evaluate requested projects and compare them with other projects in your portfolio.|
-|January 2025|[Manage in-app and email event notifications](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications)|Video |Learn how users can control which in-app and email notifications they receive so they're getting relevant, helpful emails regarding their work.|
-|January 2025|[Find and manage requests](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests)|Video |Learn how to find requests you're assigned to, requests you've created, and requests that you manage.|
-|January 2025|[Understand portfolios](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/overview-of-adobe-workfront-portfolios)|Video |Learn what portfolios are and how they can help you compare and prioritize your projects.|
-|January 2025|[Manage proof versions](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-proof/upload-proofs/manage-proof-versions)|Video |Learn how to find the details of when a proof was uploaded, download all versions of a proof, and delete a proof version in  Workfront.|
+|February 2025|[New Workfront tutorials](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/home)|Multiple videos |View the latest tutorials for Workfront.|
 
 <!--
 ### New [!DNL Workfront] support knowledge base
@@ -579,20 +569,14 @@ Find latest release information and new documentation for [!DNL GenStudio for Pe
 
 +++Details
 
+* [GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/browse/genstudio-for-performance-marketing) (All self-help)
 * [Release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest) for GenStudio for Performance Marketing
 * [Product documentation](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home) for GenStudio for Performance Marketing
 * [GenStudio for Performance Marketing](https://business.adobe.com/products/genstudio-for-performance-marketing.html) product information
 
-Latest video tutorials for [!DNL GenStudio for Performance Marketing].
-
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|Fall 2024|[Create on-brand marketing emails](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing-learn/tutorials/creating-experiences/creating-on-brand-emails)|Video |View a step by step explanation of how to create on-brand marketing emails with Adobe's GenStudio for Performance Marketing.|
-|Fall 2024|[Create on-brand meta ads](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing-learn/tutorials/creating-experiences/creating-on-meta-ads)|Video |View a step-by-step product walk-thru of creating a meta ad in GenStudio for Performance Marketing.|
-
 +++
 
-## [!DNL Adobe Mix Modeler] {#mix-modeler}
+## [!DNL Mix Modeler] {#mix-modeler}
 
 +++Details
 
@@ -613,9 +597,13 @@ To browse Adobe [!DNL Advertising] help, visit [Adobe Advertising Documentation]
 
 ### New features in [!DNL Advertising DSP] {#advertising-dsp}
 
+Latest release: February 3, 2025
+
 See [What's new in [!DNL Advertising DSP]](https://experienceleague.adobe.com/en/docs/advertising/dsp/home)
   
 ### New features in [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
+
+December 5, 2024
 
 See [What's new in [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/home)
 
@@ -637,12 +625,12 @@ New tutorials published for [!DNL Document Cloud], including [!DNL Acrobat Servi
 
 +++Details
 
-New tutorials and courses published for Adobe Document Cloud.
+<!-- New tutorials and courses published for Adobe Document Cloud.
 
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| January 2025 | Acrobat, Adobe Express | [Design a new page](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/add-custom-page) | Video | Learn how to create new professional-looking page in your PDF using Adobe Express. Designing a new page gives you the ability to create professional-looking on-brand custom content in a matter of minutes that really stands apart. This video tutorial uses the new [workspace experience](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace). |
-| January 2025 | Acrobat, Adobe Express | [Collaborate in real time](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/collaborate.html) | Video | With remote work everywhere, seamless collaboration is critical to delivering content with speed and scale. Move your projects forward by collecting comments, collaborating on responses, and tracking progress on your documents all in real-time, from anywhere. Learn how to create a document review process that not only enhances efficiency but boosts content quality as well. This video tutorial uses the new [workspace experience](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/new-workspace). |
+| February 2025 | Applications | [Effortless brand consistency with templates](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/use-templates.html?lang=en) | New video | Learn how to create on-brand content quickly and efficiently across your entire organization. This tutorial walks through how to create fresh new on-brand content that can immediately be shared and localized.|
+| February 2025 | Applications | [Maximize efficiency: Create reusable templates](https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-templates.html?lang=en) | New video | Learn how bring brand consistency,efficiency,professionalism,and cost savings to your organization with Adobe Express templates. | -->
 
 For [!DNL Document Cloud] tutorials, see:
 
@@ -658,6 +646,11 @@ For [!DNL Document Cloud] tutorials, see:
 New tutorials published for applications in [!DNL Adobe Creative Cloud for enterprise].
 
 +++Details
+
+| Published | Application | Name | Type | Description |
+| -----------| ---------- | ---------- | ---------- |---------- |
+| February 2025 | Applications | [Effortless brand consistency with templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/use-templates) | New video | Learn how to create on-brand content quickly and efficiently across your entire organization. This tutorial walks through how to create fresh new on-brand content that can immediately be shared and localized.|
+| February 2025 | Applications | [Maximize efficiency: Create reusable templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/create-templates) | New video | Learn how to bring brand consistency, efficiency, professionalism,and cost savings to your organization with Adobe Express templates. |
 
 See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) for the latest tutorials.
 
