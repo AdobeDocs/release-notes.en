@@ -21,7 +21,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 ## February 2025
 
-Latest update: **February 19, 2025**
+Latest update: **February 24, 2025**
 
 Use these links to find application release notes, events, new tutorials, and the latest Knowledge Base support articles:
 
@@ -81,11 +81,13 @@ Key features:
 
 +++Details
 
-* **[!DNL Adobe Summit]** | _The Digital Experience Conference_ | Join peers and hear from executives from the Coca-Cola Company, JPMorganChase, ServiceNow, and more. | **March 18 - 19 @ Las Vegas & Online** | [Register](https://summit.adobe.com/na/?promoid=G4FRYKWG&mv=other)
+* **[!DNL Experience Cloud]** | Adobe Summit | _The Digital Experience Conference_ | Join peers and hear from executives from the Coca-Cola Company, JPMorganChase, ServiceNow, and more. | **March 18 - 19 @ Las Vegas & Online** | [Register](https://summit.adobe.com/na/?promoid=G4FRYKWG&mv=other)
 
-* **[!DNL Experience Cloud]** | _Adobe Digital Insights: Unwrapping 2024 holiday results and early 2025 trends_ | A comprehensive recap of 2024 holiday shopping trends and a look ahead to the first half of 2025. Use these insights to help you forecast and surpass customer expectations in the year ahead. | **February 20 @ 10:00 AM MST** | [Register](https://adobeevents.adobeconnect.com/eezfyv5cqz0c/event/registration.html?campaign-id=ExL)
+* **[!DNL Workfront]** | Learn from your peers | _How to Measure and Share Workfront Value_ | Join us on Feb 26, 2025, as your peers from Synchrony and EMMsphere share how they created their ultimate "Workfront Why," and how they communicate measurable outcomes like time and cost savings.| **February 26 @ 8:00 AM PT** | [Register](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
 
-* **[!DNL Workfront]** | _Connect: Workfront Collective_ | Join our monthly Monday Workfront Collective events designed to connect with other customers, discuss Workfront features, share ideas, and brainstorm together to solve common challenges. | **February 24 @ 7:00 AM MST** | [Register](https://events.teams.microsoft.com/event/d3b3a3c3-9563-4499-a147-8b966d13a30d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | Webinar | _Securing Executive Sponsorship for Adobe Workfront_ | Discover how AI Assistant can unlock valuable operational insights, boosting productivity and redefining work in Adobe Experience Platform and its platform-based applications.| **February 27 @ 9:00 AM MST** | [Register](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Experience Platform]** | Experience League LIVE | _Unlocking operational insights with AI Assistant in Adobe Experience Platform_ | Discover how AI Assistant can unlock valuable operational insights, boosting productivity and redefining work in Adobe Experience Platform and its platform-based applications.| **February 27 @ 8:30 AM PST** | [Register](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
 And many more! View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
