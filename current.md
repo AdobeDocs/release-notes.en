@@ -81,7 +81,7 @@ Key features:
 
 +++Details
 
-* **[!DNL Experience Cloud]** | Adobe Summit | _The Digital Experience Conference_ | Join peers and hear from executives from the Coca-Cola Company, JPMorganChase, ServiceNow, and more. | **March 18 - 19 @ Las Vegas & Online** | [Register](https://summit.adobe.com/na/?promoid=G4FRYKWG&mv=other)
+* **[!DNL Experience Cloud]** | Adobe Summit | _The Digital Experience Conference_ | Join peers and hear from executives from the Coca-Cola Company, JPMorganChase, ServiceNow, and more. | **March 18 - 19 @ Las Vegas & Online** | [Register](https://summit.adobe.com/na/?promoid=G4FRYKWG&mv=other) 
 
 * **[!DNL Workfront]** | Learn from your peers | _How to Measure and Share Workfront Value_ | Join us on Feb 26, 2025, as your peers from Synchrony and EMMsphere share how they created their ultimate "Workfront Why," and how they communicate measurable outcomes like time and cost savings.| **February 26 @ 8:00 AM PT** | [Register](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
 
