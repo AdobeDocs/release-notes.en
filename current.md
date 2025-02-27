@@ -21,11 +21,11 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 ## February 2025
 
-Latest update: **February 24, 2025**
+Latest update: **February 27, 2025**
 
 Use these links to find application release notes, events, new tutorials, and the latest Knowledge Base support articles:
 
-* [[!DNL Experience League] events and updates](#events)
+* [[!DNL Experience League] events and updates](#events) (**February 26**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform) 
@@ -63,8 +63,6 @@ Learn about exciting events on Experience League. It's a great place to learn, i
 
 **Personalized home page**
 
-Released: **February 5, 2025** 
-
 The all-new [Experience League home](https://experienceleague.adobe.com/?lang=en) features personalized learning recommendations powered by [!DNL Adobe Target].
 
 Key features:
@@ -75,15 +73,13 @@ Key features:
 * Newly published content for your product 
 * Redesigned, refreshed interface
 
+[Learn more...](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud/discover-smarter-faster-learning-with-experience-league-s-new/td-p/739750)
+
 +++
 
 ### Events on Experience League 
 
 +++Details
-
-* **[!DNL Workfront]** | Learn from your peers | _How to Measure and Share Workfront Value_ | **February 26 @ 8:00 AM PT** | Join us on Feb 26, 2025, as your peers from Synchrony and EMMsphere share how they created their ultimate "Workfront Why," and how they communicate measurable outcomes like time and cost savings. | [Register](https://engage.adobe.com/Workfront_Value_Realization.html?utm_source=exl-ac-events)
-
-* **[!DNL Workfront]** | Webinar | _Securing Executive Sponsorship for Adobe Workfront_ | **February 27 @ 9:00 AM MST** | Discover how AI Assistant can unlock valuable operational insights, boosting productivity and redefining work in Adobe Experience Platform and its platform-based applications. | [Register](https://events.teams.microsoft.com/event/b9159f41-1aac-4fe5-8756-f1315c146c30@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Experience Platform]** | Experience League LIVE | _Unlocking operational insights with AI Assistant in Adobe Experience Platform_ | **February 27 @ 8:30 AM PST** | Discover how AI Assistant can unlock valuable operational insights, boosting productivity and redefining work in Adobe Experience Platform and its platform-based applications. | [Register](https://engage.adobe.com/ExpLeagueLive-250227.html)
 
