@@ -21,11 +21,11 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 ## February 2025
 
-Latest update: **February 27, 2025**
+Latest update: **March 4, 2025**
 
 Use these links to find application release notes, events, new tutorials, and the latest Knowledge Base support articles:
 
-* [[!DNL Experience League] events and updates](#events) (**February 26**)
+* [[!DNL Experience League] events and updates](#events) (**March 4**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform) 
@@ -81,9 +81,13 @@ Key features:
 
 +++Details
 
-* **[!DNL Experience Platform]** | Experience League LIVE | _Unlocking operational insights with AI Assistant in Adobe Experience Platform_ | **February 27 @ 8:30 AM PST** | Discover how AI Assistant can unlock valuable operational insights, boosting productivity and redefining work in Adobe Experience Platform and its platform-based applications. | [Register](https://engage.adobe.com/ExpLeagueLive-250227.html)
+* **[!DNL Experience Manager Forms]** | _Espressos & Experience Manager: AEM Forms_ | **March 6** | Join Adobe's AEM product team as they highlight AEM Forms' latest innovations, including: the new Gen AI Assistant, Unified Composition with AEM Sites, and new ways to deploy forms through conversations. | [Register](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
 
-* **[!DNL Experience Cloud]** | Adobe Summit | _The Digital Experience Conference_ | **March 18 - 19 @ Las Vegas & Online**| Join peers and hear from executives from the Coca-Cola Company, JPMorganChase, ServiceNow, and more. |  [Register](https://summit.adobe.com/na/?promoid=G4FRYKWG&mv=other) 
+* **[!DNL Workfront]** | _Connect: Admin Chat for Marketing & Creative_ | **March 7** | Whether you are a Workfront System Admin for a marketing, creative, or any other team, this interactive discussion will focus on best practices and collective brainstorming. | [Register](https://adobeevents.adobeconnect.com/e1r30baigxln/event/registration.html?campaign-id=Events+Hub)
+
+* **[!DNL Workfront]** | _Admin 101: Getting Workfront Data_ | **March 11** | New to Workfront? Join us for the third session of the Admin 101 series to learn all things reporting. You can expect an interactive discussion on Blueprints, Dashboards, Custom Forms and more. | [Register](https://events.teams.microsoft.com/event/eda5b596-f91d-4834-80a0-e77205101a92@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Experience Cloud]** | _Adobe Summit - The Digital Experience Conference_ | **March 18 - 19 @ Las Vegas & Online**| Join peers and hear from executives from the Coca-Cola Company, JPMorganChase, ServiceNow, and more. |  [Register](https://summit.adobe.com/na/?promoid=G4FRYKWG&mv=other) 
 
 And many more! View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
