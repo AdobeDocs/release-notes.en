@@ -144,7 +144,7 @@ New tutorials published for Adobe [!DNL Experience Platform] on Experience Leagu
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|March 2025| [!DNL Experience Platform] | [Identity graph linking rules overview](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/identities/graph-linking-rules/overview)|Video | Get an overview of how identity graph linking rules help data architects maintain accurate customer profiles and prevent graph collapse. |
+|March 2025| [!DNL Experience Platform] | [Identity graph linking rules overview](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/identities/graph-linking-rules/overview)| New video | Get an overview of how identity graph linking rules help data architects maintain accurate customer profiles and prevent graph collapse. |
 
 ### New [!DNL Experience Platform] support knowledge base{#kb-aep}
 
@@ -170,9 +170,9 @@ Find the latest tutorials for [!DNL Real-Time CDP] on Experience League.
 
 | Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
-| March 2025 | [Connect to destinations](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/connecting-to-destinations) | Video | Learn about sending data to destination partners from the Real-Time CDP and how to configure the connections to those partners. |
-| March 2025 | [Activate profiles and audiences to a destination](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination) | Video | Learn how to activate profiles and audiences to destinations in the Real-Time CDP.  |
-| March 2025 | [ Create destinations and activate data](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data) | Video | Learn how to create destinations and activate data in Adobe's Real-Time Customer Data Platform. |
+| March 2025 | [Connect to destinations](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/connecting-to-destinations) |  New video | Learn about sending data to destination partners from the Real-Time CDP and how to configure the connections to those partners. |
+| March 2025 | [Activate profiles and audiences to a destination](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination) |  New video | Learn how to activate profiles and audiences to destinations in the Real-Time CDP.  |
+| March 2025 | [ Create destinations and activate data](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data) |  New video | Learn how to create destinations and activate data in Adobe's Real-Time Customer Data Platform. |
 
 For more information, see:
 
@@ -236,7 +236,7 @@ New tutorials published for [!DNL Customer Journey Analytics].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2025|[Use Guided Analysis in Analysis Workspace](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/guided-analysis/guided-analysis-in-workspace)|Video |Use Guided Analysis in Analysis Workspace to self-serve high-quality data insights through guided workflows.|
+|March 2025|[Use Guided Analysis in Analysis Workspace](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/guided-analysis/guided-analysis-in-workspace)| New video |Use Guided Analysis in Analysis Workspace to self-serve high-quality data insights through guided workflows.|
 
 +++
 
@@ -281,15 +281,15 @@ New tutorials published for [!DNL Experience Manager] on [!DNL Experience Manage
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|March 2025| [!DNL Experience Manager as a Cloud Service] | [Implementing pipeline-free URL redirects](https://experienceleague.adobe.com/en/docs/experience-manager-learn/foundation/administration/implementing-pipeline-free-url-redirects)|Video | Learn how to implement pipeline-free URL redirects in AEM as a Cloud Service to enable the marketing team to manage the redirects without needing a developer. |
-|March 2025| [!DNL Experience Manager Sites] | [AEM Eventing](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-eventing/overview.html)|Video | Learn about AEM eventing, what it is, why and when to use it and examples of it. |
-|March 2025| [!DNL AEM Headless as a Cloud Service] | [Next.js App](https://experienceleague.adobe.com/en/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/example-apps/next-js)|Video | Example applications are a great way to explore the headless capabilities of Adobe Experience Manager (AEM). This Next.js application demonstrates how to query content using AEM's GraphQL APIs using persisted queries. |
-|March 2025| [!DNL Experience Manager Sites] | [Develop a block with options](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/edge-delivery-services/developing/universal-editor/how-to/block-options)|Video | Learn how to build a block with multiple display options. |
-|March 2025| [!DNL Experience Manager Sites] | [Develop a header and footer](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/edge-delivery-services/developing/universal-editor/how-to/header-and-footer)|Video | Learn how header and footers are developed in Edge Delivery Services and Universal Editor. |
-|March 2025| [!DNL Experience Manager as a Cloud Service] | [OpenAPI-based AEM APIs](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/overview)|Video | Learn about the OpenAPI-based AEM APIs, including authentication support, key concepts, and how to access Adobe APIs. |
-|March 2025| [!DNL Experience Manager as a Cloud Service] | [API Credentials and Product Profile management](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/how-to/credentials-and-product-profile-management)|Video | Learn how to manage Credentials and Product Profiles for AEM APIs. |
-|March 2025| [!DNL Experience Manager as a Cloud Service] | [Set up OpenAPI-based AEM APIs](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/setup)|Video | Learn how to set up your AEM as a Cloud Service environment to enable access to the OpenAPI-based AEM APIs. |
-|March 2025| [!DNL Experience Manager as a Cloud Service] | [Product Profile and Services user group permission management](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/how-to/services-user-group-permission-management)|Video | Lean how to manage permissions for the Product Profile and Services user groups in AEM as a Cloud Service. |
+|March 2025| [!DNL Experience Manager as a Cloud Service] | [Implementing pipeline-free URL redirects](https://experienceleague.adobe.com/en/docs/experience-manager-learn/foundation/administration/implementing-pipeline-free-url-redirects)| New video | Learn how to implement pipeline-free URL redirects in AEM as a Cloud Service to enable the marketing team to manage the redirects without needing a developer. |
+|March 2025| [!DNL Experience Manager Sites] | [AEM Eventing](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-eventing/overview.html)| New video | Learn about AEM eventing, what it is, why and when to use it and examples of it. |
+|March 2025| [!DNL AEM Headless as a Cloud Service] | [Next.js App](https://experienceleague.adobe.com/en/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/example-apps/next-js)| New video | Example applications are a great way to explore the headless capabilities of Adobe Experience Manager (AEM). This Next.js application demonstrates how to query content using AEM's GraphQL APIs using persisted queries. |
+|March 2025| [!DNL Experience Manager Sites] | [Develop a block with options](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/edge-delivery-services/developing/universal-editor/how-to/block-options)| New video | Learn how to build a block with multiple display options. |
+|March 2025| [!DNL Experience Manager Sites] | [Develop a header and footer](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/edge-delivery-services/developing/universal-editor/how-to/header-and-footer)| New video | Learn how header and footers are developed in Edge Delivery Services and Universal Editor. |
+|March 2025| [!DNL Experience Manager as a Cloud Service] | [OpenAPI-based AEM APIs](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/overview)| New video | Learn about the OpenAPI-based AEM APIs, including authentication support, key concepts, and how to access Adobe APIs. |
+|March 2025| [!DNL Experience Manager as a Cloud Service] | [API Credentials and Product Profile management](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/how-to/credentials-and-product-profile-management)| New video | Learn how to manage Credentials and Product Profiles for AEM APIs. |
+|March 2025| [!DNL Experience Manager as a Cloud Service] | [Set up OpenAPI-based AEM APIs](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/setup)| New video | Learn how to set up your AEM as a Cloud Service environment to enable access to the OpenAPI-based AEM APIs. |
+|March 2025| [!DNL Experience Manager as a Cloud Service] | [Product Profile and Services user group permission management](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/how-to/services-user-group-permission-management)| New video | Lean how to manage permissions for the Product Profile and Services user groups in AEM as a Cloud Service. |
 
 ### New [!DNL Experience Manager] support knowledge base{#kb-aem}
 
@@ -428,8 +428,8 @@ New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|Video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.|
-|March 2025|[Work with rule sets](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/business-rules/work-with-rule-sets)|Video |Learn how to create a customer frequency capping rule set to limit the number of communications sent to customers based on communication type.|
+|March 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)| New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.|
+|March 2025|[Work with rule sets](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/business-rules/work-with-rule-sets)| New video |Learn how to create a customer frequency capping rule set to limit the number of communications sent to customers based on communication type.|
 
 ### More resources for [!DNL Journey Optimizer]
 
@@ -444,13 +444,13 @@ Find release notes and new tutorials [!DNL Journey Optimizer B2B Edition].
 
 +++Details
 
-New videos, tutorials, or courses published for Journey Optimizer B2B Edition.
+<!-- New videos, tutorials, or courses published for Journey Optimizer B2B Edition.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |February 2025|[Account Journeys](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|New videos |Visit the Account Journeys tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
 |February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
-|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.|
+|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.| -->
 
 For more information, see: 
 
@@ -476,7 +476,7 @@ New tutorials published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)|Video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.|
+|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.|
 
 For the latest product documentation, see the [Marketo product documentation](https://experienceleague.adobe.com/en/docs/marketo/using/home) home
 
@@ -510,16 +510,16 @@ New [!DNL Workfront] tutorials and events on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2025|[Create and manage table views](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-table-views)|Video |Learn to create, manage, and customize record type table views in Adobe Workfront Planning to enhance project organization and collaboration.|
-|March 2025|[Create and manage a record type](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-a-record-type)|Video |Learn to create, import, and manage custom record types in Adobe Workfront Planning to organize and track work-related items efficiently.|
-|March 2025|[Add Planning to your instance](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/add-planning-to-your-instance)|Video |Learn what requirements are needed to add the Workfront Planning tool and make it visible to users in your instance.|
-|March 2025|[Create a workspace](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-workspace)|Video |Discover how to create workspaces in Adobe Workfront Planning.|
-|March 2025|[Prioritize and manage work](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios)|Video |Learn how to use the Portfolio Optimizer to compare and prioritize projects within a portfolio.|
-|March 2025|[Find and manage requests](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests)|Video |Learn how to use filters, manage team assignments, create custom reports and dashboards, and clarify the meaning of _my_ in different contexts for effective request management. |
-|March 2025|[Create a project template and learn about Blueprints](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template)|Video |Learn to create a project template from scratch and from an existing project, and understand how Blueprints can give you access to a world of useful project templates created by Workfront experts.|
-|March 2025|[Review and approve a proof](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof)|Video |Learn how to access and comment on a proof, use markup to indicate necessary changes, reply to proof comments, and make a decision on a proof in Workfront.|
-|March 2025|[Understand project timelines](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/understand-project-timelines)|Video |Learn how to assign tasks, use Gantt charts and Critical Path features, monitor projects via views, schedule tasks efficiently, and apply constraints for optimal project planning.|
-|March 2025|[Understand the new filter experience](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/understand-the-new-filter-experience)|Video |Learn to enable and disable the new filter experience, create and edit filters, and stack filters.|
+|March 2025|[Create and manage table views](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-table-views)| New video |Learn to create, manage, and customize record type table views in Adobe Workfront Planning to enhance project organization and collaboration.|
+|March 2025|[Create and manage a record type](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-a-record-type)| New video |Learn to create, import, and manage custom record types in Adobe Workfront Planning to organize and track work-related items efficiently.|
+|March 2025|[Add Planning to your instance](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/add-planning-to-your-instance)| New video |Learn what requirements are needed to add the Workfront Planning tool and make it visible to users in your instance.|
+|March 2025|[Create a workspace](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-workspace)| New video |Discover how to create workspaces in Adobe Workfront Planning.|
+|March 2025|[Prioritize and manage work](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios)| New video |Learn how to use the Portfolio Optimizer to compare and prioritize projects within a portfolio.|
+|March 2025|[Find and manage requests](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests)| New video |Learn how to use filters, manage team assignments, create custom reports and dashboards, and clarify the meaning of _my_ in different contexts for effective request management. |
+|March 2025|[Create a project template and learn about Blueprints](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template)| New video |Learn to create a project template from scratch and from an existing project, and understand how Blueprints can give you access to a world of useful project templates created by Workfront experts.|
+|March 2025|[Review and approve a proof](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof)| New video |Learn how to access and comment on a proof, use markup to indicate necessary changes, reply to proof comments, and make a decision on a proof in Workfront.|
+|March 2025|[Understand project timelines](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/project-timelines/understand-project-timelines)| New video |Learn how to assign tasks, use Gantt charts and Critical Path features, monitor projects via views, schedule tasks efficiently, and apply constraints for optimal project planning.|
+|March 2025|[Understand the new filter experience](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/understand-the-new-filter-experience)| New video |Learn to enable and disable the new filter experience, create and edit filters, and stack filters.|
 
 <!--
 ### New [!DNL Workfront] support knowledge base
