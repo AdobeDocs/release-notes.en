@@ -22,7 +22,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 ## March 2025
 
-Latest update: **March 3, 2025**
+Latest update: **March 7, 2025**
 
 Use these links to find application release notes, events, new tutorials, and the latest Knowledge Base support articles:
 
