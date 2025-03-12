@@ -22,7 +22,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 ## March 2025
 
-Latest update: **March 7, 2025**
+Latest update: **March 11, 2025**
 
 Use these links to find application release notes, events, new tutorials, and the latest Knowledge Base support articles:
 
@@ -514,7 +514,7 @@ New [!DNL Workfront] tutorials and events on Experience League.
 |March 2025|[Create and manage a record type](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-a-record-type)| New video |Learn to create, import, and manage custom record types in Adobe Workfront Planning to organize and track work-related items efficiently.|
 |March 2025|[Add Planning to your instance](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/add-planning-to-your-instance)| New video |Learn what requirements are needed to add the Workfront Planning tool and make it visible to users in your instance.|
 |March 2025|[Create a workspace](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-workspace)| New video |Discover how to create workspaces in Adobe Workfront Planning.|
-|March 2025|[Prioritize and manage work](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios)| New video |Learn how to use the Portfolio Optimizer to compare and prioritize projects within a portfolio.|
+|March 2025|[Understand the Portfolio Optimizer](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios)| New video |Learn how to use the Portfolio Optimizer to compare and prioritize projects within a portfolio.|
 |March 2025|[Find and manage requests](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests)| New video |Learn how to use filters, manage team assignments, create custom reports and dashboards, and clarify the meaning of _my_ in different contexts for effective request management. |
 |March 2025|[Create a project template and learn about Blueprints](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-template)| New video |Learn to create a project template from scratch and from an existing project, and understand how Blueprints can give you access to a world of useful project templates created by Workfront experts.|
 |March 2025|[Review and approve a proof](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/review-and-approve-a-proof)| New video |Learn how to access and comment on a proof, use markup to indicate necessary changes, reply to proof comments, and make a decision on a proof in Workfront.|
