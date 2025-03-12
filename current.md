@@ -5,7 +5,6 @@ doc-type: release notes
 last-update: March 2025
 author: mfrei
 mini-toc-levels: 2
-badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
 # Experience Cloud release notes - March 2025
@@ -22,7 +21,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 ## March 2025
 
-Latest update: **March 11, 2025**
+Latest update: **March 12, 2025**
 
 Use these links to find application release notes, events, new tutorials, and the latest Knowledge Base support articles:
 
@@ -87,7 +86,15 @@ Key features:
 
 * **[!DNL Workfront]** | _Admin 101: Bring Your Workfront Questions_ | **March 25** | New to Workfront? Did you miss any of the previous Admin 101 sessions? Join our summary session to ask questions, get resources and recommendations, and meet other new admins. | [Register](https://events.teams.microsoft.com/event/98217af7-6ba1-423a-a744-817df52b9b1d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Target]** | _Personalization at Scale Insights, Intelligence and Impact_ | **April 1** | Adobe Target innovations, including Gen AI, and best practices on AI-powered personalization and experimentation at scale. | [Register](https://event.adobe.com/adobetargetmaturitywebinars03)
+* **[!DNL Workfront]** | _Learn: 10 Text Mode Tips in Adobe Workfront_ | **March 27** | Want to expand your reporting knowledge with text mode? Look no further! This workshop will introduce you to text mode fundamentals and the API Explorer followed by 10 basic tips in Adobe Workfront. | [Register](https://events.teams.microsoft.com/event/72b8860b-e330-4fcf-ad71-bb3c94265961@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Connect: Workfront Collective_ | **March 31** | Join our monthly Monday Workfront Collective events designed to connect with other customers, discuss Workfront features, share ideas, and brainstorm together to solve common challenges. | [Register](https://events.teams.microsoft.com/event/384ea292-adf1-41ab-a608-cc6a0ec70988@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Target]** | _Personalization at Scale Insights, Intelligence and Impact_ | **April 1** | Adobe Target innovations, including [!DNL Gen AI], and best practices on AI-powered personalization and experimentation at scale. | [Register](https://event.adobe.com/adobetargetmaturitywebinars03)
+
+* **[!DNL Experience Manager, Experience Manager Assets, Experience Manager Forms, Experience Manager Sites, and Workfront]** | _The Perfect Blend: A New Era of Collaboration with AEM and Workfront_ | **April 2** | Explore how Adobe Experience Manager and Workfront integrate to help teams move from ideation to delivery without the usual bottlenecks, ensuring content is organized, on-brand, and ready to go live faster. | [Register](https://adobeevents.adobeconnect.com/eaqjw1zixw1f/event/registration.html?campaign-id=ExL)
+
+* **[!DNL Analytics]** | _Data Drip: Benefits of migrating from an old system to WebSDK_ | **April 10** | Join us as Adobe Technical Advisor, Arindam Agarwal, guides us through the benefits of implementing Adobe WebSDK. Arindam will provide an in-depth overview and answer questions live during the Q&A. Register today! | [Register](https://adobeevents.adobeconnect.com/ev85zdg37u8w/event/registration.html?campaign-id=ExL)
 
 And many more! View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
@@ -171,8 +178,8 @@ Find the latest tutorials for [!DNL Real-Time CDP] on Experience League.
 | Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
 | March 2025 | [Connect to destinations](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/connecting-to-destinations) |  New video | Learn about sending data to destination partners from the Real-Time CDP and how to configure the connections to those partners. |
-| March 2025 | [Activate profiles and audiences to a destination](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination) |  New video | Learn how to activate profiles and audiences to destinations in the Real-Time CDP.  |
-| March 2025 | [ Create destinations and activate data](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data) |  New video | Learn how to create destinations and activate data in Adobe's Real-Time Customer Data Platform. |
+| March 2025 | [Activate profiles and audiences to a destination](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/activate-profiles-and-segments-to-a-destination) |  New video | Learn how to activate profiles and audiences to destinations in the [!DNL Real-Time CDP].  |
+| March 2025 | [ Create destinations and activate data](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/create-destinations-and-activate-data) |  New video | Learn how to create destinations and activate data in [!DNL Real-Time Customer Data Platform]. |
 
 For more information, see:
 
@@ -190,13 +197,13 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 [!DNL Analytics] release date: **March 12, 2025**
 
-* [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html)
+* [!DNL Analytics][release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest)<!-- * [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) -->
 
 * [!DNL Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/analytics)
 
 ### AppMeasurement {#appm}
 
-Release version: **2.26.0**
+Release version: **2.27.0**
 
 * [AppMeasurement for JavaScript release notes](https://experienceleague.adobe.com/en/docs/analytics/implementation/appmeasurement-updates)
 
@@ -226,7 +233,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 [!DNL Customer Journey Analytics] release date: **March 12, 2025**
 
-* [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html)
+* [!DNL Customer Journey Analytics] [release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases)<!-- * [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html) -->
 
 * [!DNL Customer Journey Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/customer-journey-analytics)
 
@@ -281,15 +288,15 @@ New tutorials published for [!DNL Experience Manager] on [!DNL Experience Manage
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|March 2025| [!DNL Experience Manager as a Cloud Service] | [Implementing pipeline-free URL redirects](https://experienceleague.adobe.com/en/docs/experience-manager-learn/foundation/administration/implementing-pipeline-free-url-redirects)| New video | Learn how to implement pipeline-free URL redirects in AEM as a Cloud Service to enable the marketing team to manage the redirects without needing a developer. |
-|March 2025| [!DNL Experience Manager Sites] | [AEM Eventing](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-eventing/overview.html)| New video | Learn about AEM eventing, what it is, why and when to use it and examples of it. |
-|March 2025| [!DNL AEM Headless as a Cloud Service] | [Next.js App](https://experienceleague.adobe.com/en/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/example-apps/next-js)| New video | Example applications are a great way to explore the headless capabilities of Adobe Experience Manager (AEM). This Next.js application demonstrates how to query content using AEM's GraphQL APIs using persisted queries. |
+|March 2025| [!DNL Experience Manager as a Cloud Service] | [Implementing pipeline-free URL redirects](https://experienceleague.adobe.com/en/docs/experience-manager-learn/foundation/administration/implementing-pipeline-free-url-redirects)| New video | Learn how to implement pipeline-free URL redirects in [!DNL AEM as a Cloud Service] to enable the marketing team to manage the redirects without needing a developer. |
+|March 2025| [!DNL Experience Manager Sites] | [AEM Eventing](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-eventing/overview)| New video | Learn about AEM eventing, what it is, why and when to use it and examples of it. |
+|March 2025| [!DNL AEM Headless as a Cloud Service] | [Next.js App](https://experienceleague.adobe.com/en/docs/experience-manager-learn/getting-started-with-aem-headless/how-to/example-apps/next-js)| New video | Example applications are a great way to explore the headless capabilities of Adobe [!DNL Experience Manager] (AEM). This `Next.js` application demonstrates how to query content using AEM's GraphQL APIs using persisted queries. |
 |March 2025| [!DNL Experience Manager Sites] | [Develop a block with options](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/edge-delivery-services/developing/universal-editor/how-to/block-options)| New video | Learn how to build a block with multiple display options. |
-|March 2025| [!DNL Experience Manager Sites] | [Develop a header and footer](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/edge-delivery-services/developing/universal-editor/how-to/header-and-footer)| New video | Learn how header and footers are developed in Edge Delivery Services and Universal Editor. |
+|March 2025| [!DNL Experience Manager Sites] | [Develop a header and footer](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/edge-delivery-services/developing/universal-editor/how-to/header-and-footer)| New video | Learn how header and footers are developed in [!DNL Edge Delivery Services] and [!DNL Universal Editor]. |
 |March 2025| [!DNL Experience Manager as a Cloud Service] | [OpenAPI-based AEM APIs](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/overview)| New video | Learn about the OpenAPI-based AEM APIs, including authentication support, key concepts, and how to access Adobe APIs. |
-|March 2025| [!DNL Experience Manager as a Cloud Service] | [API Credentials and Product Profile management](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/how-to/credentials-and-product-profile-management)| New video | Learn how to manage Credentials and Product Profiles for AEM APIs. |
-|March 2025| [!DNL Experience Manager as a Cloud Service] | [Set up OpenAPI-based AEM APIs](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/setup)| New video | Learn how to set up your AEM as a Cloud Service environment to enable access to the OpenAPI-based AEM APIs. |
-|March 2025| [!DNL Experience Manager as a Cloud Service] | [Product Profile and Services user group permission management](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/how-to/services-user-group-permission-management)| New video | Lean how to manage permissions for the Product Profile and Services user groups in AEM as a Cloud Service. |
+|March 2025| [!DNL Experience Manager as a Cloud Service] | [API Credentials and Product Profile management](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/how-to/credentials-and-product-profile-management)| New video | Learn how to manage [!UICONTROL Credentials] and [!UICONTROL Product Profiles] for AEM APIs. |
+|March 2025| [!DNL Experience Manager as a Cloud Service] | [Set up OpenAPI-based AEM APIs](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/setup)| New video | Learn how to set up your [!DNL AEM as a Cloud Service] environment to enable access to the OpenAPI-based AEM APIs. |
+|March 2025| [!DNL Experience Manager as a Cloud Service] | [Product Profile and Services user group permission management](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/how-to/services-user-group-permission-management)| New video | Learn how to manage permissions for the Product Profile and Services user groups in AEM as a Cloud Service. |
 
 ### New [!DNL Experience Manager] support knowledge base{#kb-aem}
 
@@ -309,10 +316,10 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 |February 2025|[Resolve [!DNL Java Runtime] version mismatch in AEM Production Pipeline](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25689)|New article| Learn how to solve the issue when Adobe Experience Manager (AEM) as a Cloud Service build and unit test stages fail due to a [!DNL Java Runtime] version mismatch.|
 |February 2025|[Pipeline failures in AEM Sites due to user name conflicts in [!DNL RepoInit] scripts](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25780)|New article| Learn how to solve the issue during a production pipeline in Adobe Experience Manager (AEM) as a Cloud Service, the pipeline fails to progress beyond the Deployment phase due to service user name conflicts with existing user group names in [!DNL RepoInit] scripts.|
 |February 2025|[Adobe Experience Manager: Unable to delete the cache/html directory of [!UICONTROL Dispatcher Tools]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25915)|New article| Learn how to solve the issue when attempting to uninstall the [!UICONTROL Dispatcher Tools] deployed on [!DNL Linux], the cache directory can't be deleted due to insufficient permissions.|
-|February 2025|[Adobe Experience Manager: sample configuration of Workflow Purge Task for AEM as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25921)|New article| Learn about a sample configuration for setting up workflow purge as a maintenance task in AEM as a Cloud Service.|
-|February 2025|[AEM 6.5: Dispatcher cache issue with Last-Modified header](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25892)|New article| Learn how to solve the issue when the Last-Modified header isn't being stored in the dispatcher cache for HTML resources, while it's correctly stored for [!DNL JavaScript] files.|
-|February 2025|[Updating custom thumbnails for video assets in AEM as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25829)|New article| Learn how to solve the issue when updating custom thumbnails for video assets in AEM as a Cloud Service, specifically when using the [!DNL Microsoft Edge] browser.|
-|February 2025|[Resolve folder visibility issues on publish instances in AEM as a Cloud Service - Assets](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25830)|New article| Learn how to solve the issue when folders aren't appearing on publish instances in AEM as a Cloud Service - Assets, due to configuration discrepancies between authoring and publishing environments.|
+|February 2025|[Adobe Experience Manager: sample configuration of Workflow Purge Task for AEM as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25921)|New article| Learn about a sample configuration for setting up workflow purge as a maintenance task in [!DNL AEM as a Cloud Service].|
+|February 2025|[AEM 6.5: Dispatcher cache issue with Last-Modified header](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25892)|New article| Learn how to solve the issue when the Last-Modified header isn't being stored in the Dispatcher cache for HTML resources, while it's correctly stored for [!DNL JavaScript] files.|
+|February 2025|[Updating custom thumbnails for video assets in AEM as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25829)|New article| Learn how to solve the issue when updating custom thumbnails for video assets in [!DNL AEM as a Cloud Service], specifically when using the [!DNL Microsoft Edge] browser.|
+|February 2025|[Resolve folder visibility issues on publish instances in AEM as a Cloud Service - Assets](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25830)|New article| Learn how to solve the issue when folders aren't appearing on publish instances in [!DNL AEM as a Cloud Service] - Assets, due to configuration discrepancies between authoring and publishing environments.|
 |February 2025|[Asset synchronization failure in Adobe Experience Manager (AEM) Dynamic Media](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25885)|New article| Learn how to solve the issue when attempting to upload video assets larger than 2GB to the AEM Dynamic Media environment, the synchronization process fails.|
 |February 2025|[Image metadata discrepancy in Adobe Experience Manager (AEM) Assets](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25828)|New article| Learn how to solve the issue of image metadata discrepancies in Adobe Experience Manager (AEM) Assets, where height and width values are displayed incorrectly.|
 |February 2025|[Delivery redirection issue in Adobe Experience Manager Sites](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25772)|New article| Learn how to resolve the Adobe Experience Manager issue where redirection for a certain delivery domain may not function as expected.|
@@ -326,7 +333,7 @@ Get access to release notes, new tutorials, and Knowledge Base articles for [!DN
 +++Details
 
 * See [Release notes for [!DNL Adobe Commerce] and [!DNL Magento Open Source]](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview) to stay current.
-* See [Adobe [!DNL Commerce] Services Guides](https://experienceleague.adobe.com/en/docs/commerce-merchant-services/user-guides/home) to see Commerce Services release information and documentation.
+* See [Adobe [!DNL Commerce] Services Guides](https://experienceleague.adobe.com/en/docs/commerce/user-guides/home) to see Commerce Services release information and documentation.
 * See [Product Availability](https://experienceleague.adobe.com/en/docs/commerce-operations/release/product-availability) to access individual product release notes and verify availability.
 
 <!-- ### New tutorials for [!DNL Adobe Commerce] {#tutorials-commerce}
@@ -347,10 +354,10 @@ New articles and updates to existing articles for Adobe Commerce.
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
 |February 2025|[[!DNL Quality Patches Tool (QPT)]](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/patches-available-in-qpt/patches-available-in-qpt-tool-overview)|New articles| New articles on how to apply patches available in [!DNL QPT] 1.1.58 and [!DNL QPT] 1.1.59 were published and can be found in their respective sections.|
-|February 2025|[Security update available for Adobe Commerce - APSB25-08](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/security-update-available-for-adobe-commerce-apsb25-0)|New articles| On February 11, 2025, Adobe released a regularly scheduled security update for Adobe Commerce and Magento Open Source. This update resolves critical, important, and moderate vulnerabilities.|
+|February 2025|[Security update available for Adobe Commerce - APSB25-08](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/security-update-available-for-adobe-commerce-apsb25-08)|New articles| On February 11, 2025, Adobe released a regularly scheduled security update for Adobe Commerce and Magento Open Source. This update resolves critical, important, and moderate vulnerabilities.|
 |February 2025|[Adobe Commerce 2.4.7-p4 HIPAA 1.2.0 compatibility package Hotfix](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/hotfix-for-hipaa-package-1-2-0-compatibility-with-adobe-commerce-2-4-7-p4)|New articles| This article provides a hotfix to add compatibility for the new HIPAA package 1.2.0 with Adobe Commerce on Cloud infrastructure 2.4.7-p4.|
-|February 2025|[Downloading from `repo.magento.com` fails for Adobe Commerce on-premises installationse](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25756)|New articles| Learn how to solve the Adobe Commerce issue where downloading from `repo.magento.com` fails with an error for on-premises installations.|
-|February 2025|[Can't access the correct cloud account/project or the project is missing from your account](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25742)|New articles| Learn how to solve the issue when you're unable to access the correct Adobe Commerce on cloud infrastructure project when there are changes in ownerships or changes in email addresses.|
+|February 2025|[Downloading from `repo.magento.com` fails for Adobe Commerce on-premises installations](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25756)|New articles| Learn how to solve the Adobe Commerce issue where downloading from `repo.magento.com` fails with an error for on-premises installations.|
+|February 2025|[Can't access the correct cloud account/project or the project is missing from your account](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25742)|New articles| Learn to solve the issue when you're unable to access the correct [!DNL Commerce] on-cloud infrastructure project when there are changes in ownerships or email addresses.|
 |February 2025|[Issue with tracking information in Adobe Commerce](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25778)|New articles| Learn how to solve the issue when tracking shipments for carriers, such as UPS, on the Shipments page in Adobe Commerce shows an error message that the *Tracking information is currently not available.*|
 |February 2025|[Deployment failed on cache flush: *There are no commands defined in the 'cache' namespace* error](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25860)|New articles| Learn how to solve the issue when deployment fails in Adobe Commerce on cloud infrastructure with a *There are no commands defined in the 'cache' namespace* error, identify the invalid rows left from those configurations.|
 
@@ -434,7 +441,7 @@ New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 ### More resources for [!DNL Journey Optimizer]
 
 * [[!DNL Journey Optimizer] documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/ajo-home) - [Release rotes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) - [How-to videos](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/overview)
-* [Decision Management documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning) - [Release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) - [How-to videos](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-management/introduction-to-decision-management) - [Latest documentation updates](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/documentation-updates)
+* [Decision Management documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning) - [Release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) - [How-to videos](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decisioning/introduction-to-decision-management) - [Latest documentation updates](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/documentation-updates)
 
 +++
 
