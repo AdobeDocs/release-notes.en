@@ -131,7 +131,7 @@ Learn about [!DNL Experience Cloud] central interface components and administrat
 | March 6, 2025 | Right-click menu option fix | Experience Cloud header navigation tabs now allow right-click, browser drop-down menu functions. This fixes an issue introduced in February's release of Spectrum 2 design system. |
 | February 13 |Spectrum 2 |The [!DNL Experience Cloud] application frame, including the header bar and components accessed from the header bar (and left navigation rail for certain applications) will be updated to Spectrum 2. Spectrum is Adobe's design standard. This refreshed design includes updated iconography but the same functionality. However, several elements in the header are re-positioned to align with other Adobe sites and applications. |
 
-For help on [!DNL Experience Cloud] central interface components, see the [Experience Cloud Interface and Administration Guide](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) (includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences]).
+For help on [!DNL Experience Cloud] central interface components and user and product administration, see the [Experience Cloud interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) guide. (Includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences].)
 
 +++
 
