@@ -21,7 +21,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 * [Get certified](https://experienceleague.adobe.com/en/certification-home): The new Adobe Certification Portal makes honing your skills and getting certified a simple process.
 * [Engage with a community of peers](https://experienceleaguecommunities.adobe.com/): Join groups, meet our Experience League Community Advisors, and even learn how to become one.
 
-To receive a quarterly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
+To receive a quarterly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
 ## March 2025
 
