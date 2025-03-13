@@ -13,15 +13,19 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-[Experience League](https://experienceleague.adobe.com/#home) helps you learn about Experience Cloud and Adobe enterprise applications. For the best experience, sign in and customize your search across our free library of resources.
+[Experience League](https://experienceleague.adobe.com/#home) is your library of resources that can help you learn about Experience Cloud and Adobe enterprise applications. Sign in and:
 
-* **Stay notified:** To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
+* [Customize your learning](https://experienceleague.adobe.com/en/home/profile-settings): Help us customize your learning experience. Select your role, industry, and the products that interest you.
+* [Browse and discover](https://experienceleague.adobe.com/en/browse): Find popular content, new tutorials, documentation, upcoming events, and more!
+* [Get fresh perspectives](https://experienceleague.adobe.com/en/perspectives): We've gathered a variety of real-world use cases and best practices, written by your peers and Adobe product experts. 
+* [Get certified](https://experienceleague.adobe.com/en/certification-home): The new Adobe Certification Portal makes honing your skills and getting certified a simple process.
+* [Engage with a community of peers](https://experienceleaguecommunities.adobe.com/): Join groups, meet our Experience League Community Advisors, and even learn how to become one.
 
-* **Leave feedback:** Look for the **_Was this content helpful?_** pop-up at the bottom of each article or video. Your feedback is curated and delivered to content authors.
+To receive a quarterly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
 ## March 2025
 
-Latest update: **March 12, 2025**
+Latest update: **March 13, 2025**
 
 Use these links to find application release notes, events, new tutorials, and the latest Knowledge Base support articles:
 
@@ -52,37 +56,13 @@ Use these links to find application release notes, events, new tutorials, and th
 * [Certification at Adobe](https://experienceleague.adobe.com/en/certification-home)
 * [Adobe product security vulnerabilities](https://helpx.adobe.com/security.html)
 
-## [!DNL Experience League] updates and events {#events}
+## Events on [!DNL Experience League] {#events}
 
-Learn about exciting events on Experience League. It's a great place to learn, interact, and get answers from product experts at Adobe!
+Find [events](https://experienceleague.adobe.com/events/) and register for the ones that interest you.
 
-### Updates to Experience League
-
-+++Details
-
-**Personalized home page**
-
-The all-new [Experience League home](https://experienceleague.adobe.com/?lang=en) features personalized learning recommendations powered by [!DNL Adobe Target].
-
-Key features:
-
-* Recommended content based on role, product, and recent activity
-* Recently viewed content 
-* Suggested on-demand events and certifications 
-* Newly published content for your product 
-* Redesigned, refreshed interface
-
-[Learn more...](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-cloud/discover-smarter-faster-learning-with-experience-league-s-new/td-p/739750)
-
-+++
-
-### Events on Experience League 
-
-+++Details
++++Events
 
 * **[!DNL Adobe Summit]** | _The Digital Experience Conference_ | **March 18 - 19 @ Las Vegas & Online**| Join peers and hear from executives from the Coca-Cola Company, JPMorganChase, ServiceNow, and more. |  [Register](https://summit.adobe.com/na/?promoid=G4FRYKWG&mv=other)
-
-* **[!DNL Workfront]** | _Learn: Chart Your Course to Success with Adobe Workfront Planning_ | **March 13** | Join our Adobe Product Managers for an in-depth introductory session on Workfront Planning, where they will share how this feature can provide comprehensive visibility into the operational details of your organization. | [Register](https://events.teams.microsoft.com/event/2b79ba76-86bb-4100-9db7-c3d399e5d457@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | _Admin 101: Bring Your Workfront Questions_ | **March 25** | New to Workfront? Did you miss any of the previous Admin 101 sessions? Join our summary session to ask questions, get resources and recommendations, and meet other new admins. | [Register](https://events.teams.microsoft.com/event/98217af7-6ba1-423a-a744-817df52b9b1d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -104,7 +84,9 @@ And many more! View all [upcoming events](https://experienceleague.adobe.com/eve
 
 Learn about the latest features and updates in [!DNL Adobe System Status].
 
-+++Details
+No March updates.
+
++++Release notes
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
@@ -124,7 +106,7 @@ Recent release notes are found here:
 
 Learn about [!DNL Experience Cloud] central interface components and administration. Manage products and users, configure profile settings and preferences, search Experience Cloud objects, and manage cookies. 
 
-+++Details
++++New features
 
 | Date | Update    | Description  |
 | -----------| -----------| ---------- |
