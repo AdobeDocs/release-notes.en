@@ -64,10 +64,6 @@ Find [events](https://experienceleague.adobe.com/events/) and register for the o
 
 * **[!DNL Adobe Summit]** | _The Digital Experience Conference_ | **March 18 - 19 @ Las Vegas & Online**| Join peers and hear from executives from the Coca-Cola Company, JPMorganChase, ServiceNow, and more. |  [Register](https://summit.adobe.com/na/?promoid=G4FRYKWG&mv=other)
 
-* **[!DNL Workfront]** | _Admin 101: Bring Your Workfront Questions_ | **March 25** | New to Workfront? Did you miss any of the previous Admin 101 sessions? Join our summary session to ask questions, get resources and recommendations, and meet other new admins. | [Register](https://events.teams.microsoft.com/event/98217af7-6ba1-423a-a744-817df52b9b1d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Learn: 10 Text Mode Tips in Adobe Workfront_ | **March 27** | Want to expand your reporting knowledge with text mode? Look no further! This workshop will introduce you to text mode fundamentals and the API Explorer followed by 10 basic tips in Adobe Workfront. | [Register](https://events.teams.microsoft.com/event/72b8860b-e330-4fcf-ad71-bb3c94265961@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Workfront]** | _Connect: Workfront Collective_ | **March 31** | Join our monthly Monday Workfront Collective events designed to connect with other customers, discuss Workfront features, share ideas, and brainstorm together to solve common challenges. | [Register](https://events.teams.microsoft.com/event/384ea292-adf1-41ab-a608-cc6a0ec70988@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Target]** | _Personalization at Scale Insights, Intelligence and Impact_ | **April 1** | Adobe Target innovations, including [!DNL Gen AI], and best practices on AI-powered personalization and experimentation at scale. | [Register](https://event.adobe.com/adobetargetmaturitywebinars03)
