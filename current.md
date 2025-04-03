@@ -467,6 +467,12 @@ Learn about the latest release notes for [!DNL Adobe Workfront]. Find new tutori
 
 ### [!DNL Adobe Workfront] updates
 
+Latest release: 
+
+* [Second Quarter 2025 release overview](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q2/25-q2-release-overview)
+
+For all release information:
+
 * See the [Adobe [!DNL Workfront] product releases](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases) page for [!DNL Workfront] release schedule information and release notes.
 
 * See the [Adobe [!DNL Workfront] Fusion release activity overview](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity) for the latest information about Fusion.
