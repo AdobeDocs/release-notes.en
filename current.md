@@ -25,11 +25,9 @@ To receive a quarterly email notification about updates to this page, subscribe 
 
 ## March 2025
 
-Latest update: **March 13, 2025**
-
 Use these links to find application release notes, events, new tutorials, and the latest Knowledge Base support articles:
 
-* [[!DNL Experience League] events and updates](#events) 
+* [[!DNL Experience League] events and updates](#events) (Updated **April 8**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform) 
@@ -62,17 +60,9 @@ Find [events](https://experienceleague.adobe.com/events/) and register for the o
 
 +++Events
 
-* **[!DNL Adobe Summit]** | _The Digital Experience Conference_ | **March 18 - 19 @ Las Vegas & Online**| Join peers and hear from executives from the Coca-Cola Company, JPMorganChase, ServiceNow, and more. |  [Register](https://summit.adobe.com/na/?promoid=G4FRYKWG&mv=other)
-
-* **[!DNL Workfront]** | _Connect: Workfront Collective_ | **March 31** | Join our monthly Monday Workfront Collective events designed to connect with other customers, discuss Workfront features, share ideas, and brainstorm together to solve common challenges. | [Register](https://events.teams.microsoft.com/event/384ea292-adf1-41ab-a608-cc6a0ec70988@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Target]** | _Personalization at Scale Insights, Intelligence and Impact_ | **April 1** | Adobe Target innovations, including [!DNL Gen AI], and best practices on AI-powered personalization and experimentation at scale. | [Register](https://event.adobe.com/adobetargetmaturitywebinars03)
-
-* **[!DNL Experience Manager, Experience Manager Assets, Experience Manager Forms, Experience Manager Sites, and Workfront]** | _The Perfect Blend: A New Era of Collaboration with AEM and Workfront_ | **April 2** | Explore how Adobe Experience Manager and Workfront integrate to help teams move from ideation to delivery without the usual bottlenecks, ensuring content is organized, on-brand, and ready to go live faster. | [Register](https://adobeevents.adobeconnect.com/eaqjw1zixw1f/event/registration.html?campaign-id=ExL)
-
 * **[!DNL Analytics]** | _Data Drip: Benefits of migrating from an old system to WebSDK_ | **April 10** | Join us as Adobe Technical Advisor, Arindam Agarwal, guides us through the benefits of implementing Adobe WebSDK. Arindam will provide an in-depth overview and answer questions live during the Q&A. Register today! | [Register](https://adobeevents.adobeconnect.com/ev85zdg37u8w/event/registration.html?campaign-id=ExL)
 
-And many more! View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
+View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
 +++
 
