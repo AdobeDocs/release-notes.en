@@ -27,7 +27,7 @@ To receive a quarterly email notification about updates to this page, subscribe 
 
 Use these links to find application release notes, events, new tutorials, and the latest Knowledge Base support articles:
 
-* [[!DNL Experience League] events and updates](#events) (Updated **April 8**)
+* [[!DNL Experience League] events and updates](#events) (Updated **April 9**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform) 
@@ -61,6 +61,10 @@ Find [events](https://experienceleague.adobe.com/events/) and register for the o
 +++Events
 
 * **[!DNL Analytics]** | _Data Drip: Benefits of migrating from an old system to WebSDK_ | **April 10** | Join us as Adobe Technical Advisor, Arindam Agarwal, guides us through the benefits of implementing Adobe WebSDK. Arindam will provide an in-depth overview and answer questions live during the Q&A. Register today! | [Register](https://adobeevents.adobeconnect.com/ev85zdg37u8w/event/registration.html?campaign-id=ExL)
+
+* **[!DNL Real-Time Customer Data Platform]** | _Don’t Wait… Collaborate! Introducing Real-Time CDP Collaboration_ | **April 10** | Now available for US customers, Real-Time CDP Collaboration provides purpose-built, user-friendly, privacy-centric data collaboration for brands and publishers. It helps you discover, activate, and measure audiences to maximize ad revenue and power paid media efforts at the pace of paid marketing. The best part is that if you are a customer of Real-Time CDP, you ALREADY HAVE ACCESS to this amazing new capability! | [Register](https://engage.adobe.com/ExpLeagueLive-250410.html)
+
+* **[!DNL Workfront]** | _Connect: Admin Chat for Marketing & Creative_ | **April 11** | This interactive discussion is geared towards connecting you with other admins, sharing best practices as well as tips and tricks to help you get the most out of Workfront for you and your users. | [Register](https://events.teams.microsoft.com/event/f0e497b7-4f44-457f-bfa0-6d9b8c5f4e7b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
