@@ -54,7 +54,7 @@ Latest update: **April 11, 2025**
 
 ## Events on [!DNL Experience League] {#events}
 
-Find [events](https://experienceleague.adobe.com/events/) and register for the ones that interest you.
+Find [events](https://experienceleague.adobe.com/en/events) and register for the ones that interest you.
 
 +++Events
 
@@ -266,7 +266,7 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 |March 2025|[Problems upgrading to [!DNL Java] version 21 in [!DNL AEMaaCS - Assets]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26109)|New article| Learn how to solve the issue when attempting to upgrade to [!DNL Java] version 21 for Adobe Experience Manager (AEM) as a Cloud Service - Assets results in build failures.|
 |March 2025|[Error syncing email content from AEM to Adobe Campaign Classic](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26144)|New article| Learn how to solve the issue when attempting to sync email content from Adobe Experience Manager (AEM) into Adobe Campaign Classic, the system may fetch content from the parent AEM page instead of the intended duplicated page.|
 |March 2025|[[!UICONTROL Smart Tags] functionality not working after JWT to OAuth migration in AEM](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25889)|New article| Learn how to solve the issue when the [!UICONTROL Smart Tags] functionality fails to operate correctly after migrating from JWT to OAuth, resulting in a *NullPointerException* error during configuration validation.|
-|March 2025|[Change thumbnail not working for video assets](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26132)|New article| Learn how to solve the *403 error* when trying to save a video frame as thumbnail using the [!UICONTROL Change Thumbnail] option available in the properties of the video asset synced with [!DNL Dynamic Media].|
+|March 2025|[Change thumbnail not working for video assets](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26132)|New article| Learn how to solve the *403 error* when trying to save a video frame as a thumbnail using the [!UICONTROL Change Thumbnail] option available in the properties of the video asset synced with [!DNL Dynamic Media].|
 |March 2025|[How to serve images with transparent background from [!DNL Dynamic Media]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26165)|New article| Learn how to solve the issue when serving an image from [!DNL Dynamic Media] results in a white background despite uploading that image in PNG format with a transparent background.|
 
 +++
@@ -356,11 +356,11 @@ New articles and updates to existing articles for [!DNL Campaign].
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|March 2025|[API Network Error IOB-090007 in Adobe Campaign Classic](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25844)|New article| Learn how to solve the error *IOB-090007 Network error (send(), errno=0: Success)* in an API call within a workflow in Adobe Campaign Classic v7.|
+|March 2025|[API Network Error IOB-090007 in Adobe Campaign Classic](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25844)|New article| Learn how to solve the error _IOB-090007 Network error (send(), errno=0: Success)_ in an API call within a workflow in Adobe Campaign Classic v7.|
 |March 2025|[Tracking workflow performance issues in Adobe Campaign Classic v7.4.1 Build 9384](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25908)|New article| Learn how to solve the performance issues with the tracking workflow in Adobe Campaign Classic after upgrading to v7.4.1 Build 9384.|
-|March 2025|[Adobe Campaign Managed Cloud: SMS deliveries are not sent due to invalid source address](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25964)|New article| Learn how to solve the issue when SMS deliveries fail with an error stating *SMPP command submit_sm failed* in Adobe Campaign Managed Cloud due to an invalid source address.|
-|March 2025|[Adobe Campaign Classic: Invalid signature in a test send email](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25974)|New article| Learn how to solve the issue when a test *send email* operation in Adobe Campaign Classic returns an invalid signature error, preventing emails from being sent successfully.|
-|March 2025|[Remote SFTP connection issue in Adobe Campaign Standard](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25987)|New article| Learn how to solve the issue when connecting to an external [!DNL Secure File Transfer Protocol] (SFTP) server from Adobe Campaign results in a connection error, disrupting workflows that rely on successful data transfers via SFTP.|
+|March 2025|[Adobe Campaign Managed Cloud: SMS deliveries are not sent due to invalid source address](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25964)|New article| Learn how to solve the issue when SMS deliveries fail with an error stating _SMPP command submit_sm failed_ in Adobe Campaign Managed Cloud due to an invalid source address.|
+|March 2025|[Adobe Campaign Classic: Invalid signature in a test sends email](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25974)|New article| Learn how to solve the issue when a test _send email_ operation in Adobe Campaign Classic returns an invalid signature error, preventing emails from being sent successfully.|
+|March 2025|[Remote SFTP connection issue in Adobe Campaign Standard](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25987)|New article| Learn how to solve the issue when connecting to an external Secure File Transfer Protocol (SFTP) server from Adobe Campaign results in a connection error, disrupting workflows that rely on successful data transfers via SFTP.|
 |March 2025|[Control panel visibility issue in Adobe Campaign Classic Hosted](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26039)|New article| Learn how to solve the issue when the [!UICONTROL Control Panel] doesn't display certain temporary resources under the [!UICONTROL Top 10 temporary resources] section in Adobe Campaign Classic Hosted.|
 |March 2025|[Proof deliveries are not sent in Adobe Campaign Classic (ACC)](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26058)|New article| Learn how to solve the issue when push notification proofs of delivery aren't sent to [!DNL iPhone] devices, despite the delivery process showing completion at 100%.|
 |March 2025|[Restoring [!DNL GPG] keys in Adobe Campaign Classic Hosted](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26046)|New article| Learn how to solve the issue when [!DNL GPG (GnuPG)] keys, crucial for encrypting incoming data, are accidentally removed from the [!UICONTROL Control Panel], disrupting data processing.|
@@ -564,7 +564,7 @@ New tutorials published for [!DNL Document Cloud], including [!DNL Acrobat Servi
 
 +++Details
 
-New tutorials and courses published for Adobe Document Cloud.
+New tutorials published for Adobe Document Cloud.
 
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
