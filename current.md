@@ -27,7 +27,7 @@ To receive a quarterly email notification about updates to this page, subscribe 
 
 Use these links to find application release notes, events, new tutorials, and the latest Knowledge Base support articles:
 
-* [[!DNL Experience League] events and updates](#events) (Updated **April 9**)
+* [[!DNL Experience League] events and updates](#events) (Updated **April 15**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform) 
@@ -60,11 +60,11 @@ Find [events](https://experienceleague.adobe.com/events/) and register for the o
 
 +++Events
 
-* **[!DNL Analytics]** | _Data Drip: Benefits of migrating from an old system to WebSDK_ | **April 10** | Join us as Adobe Technical Advisor, Arindam Agarwal, guides us through the benefits of implementing Adobe WebSDK. Arindam will provide an in-depth overview and answer questions live during the Q&A. Register today! | [Register](https://adobeevents.adobeconnect.com/ev85zdg37u8w/event/registration.html?campaign-id=ExL)
+* **[!DNL Marketo]** | _Marketo & Mochas: Auditing an Inherited or Current Instance_ | **April 17** | Did you recently inherit a Marketo instance? Or perhaps are looking to perform regular audits on your current instance to maximize its potential? Join us for this Marketo & Mochas webinar with our Adobe Business Advisors, Cynthia Chang and Carly Gaver, centered on how to run a deep dive audit to understand the current state of your instance. | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746113037/event_landing.html)
 
-* **[!DNL Real-Time Customer Data Platform]** | _Don’t Wait… Collaborate! Introducing Real-Time CDP Collaboration_ | **April 10** | Now available for US customers, Real-Time CDP Collaboration provides purpose-built, user-friendly, privacy-centric data collaboration for brands and publishers. It helps you discover, activate, and measure audiences to maximize ad revenue and power paid media efforts at the pace of paid marketing. The best part is that if you are a customer of Real-Time CDP, you ALREADY HAVE ACCESS to this amazing new capability! | [Register](https://engage.adobe.com/ExpLeagueLive-250410.html)
+* **[!DNL Workfront]** | _Connect: Workfront Collective_ | **April 21** | This event has no formal presentation or agenda. The topics of discussion are based on your engagement. Think of this workshop as a collective problem-solving session if there is something you are challenged with in Workfront (or a success that you want to share and promote!) and want to talk through solutions with other customers, this is the perfect event for you. | [Register](https://events.teams.microsoft.com/event/ba1a80ab-01c0-4675-83e5-d6d96f1aa9b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _Connect: Admin Chat for Marketing & Creative_ | **April 11** | This interactive discussion is geared towards connecting you with other admins, sharing best practices as well as tips and tricks to help you get the most out of Workfront for you and your users. | [Register](https://events.teams.microsoft.com/event/f0e497b7-4f44-457f-bfa0-6d9b8c5f4e7b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Multisolution** | _Behind the Brew: A Full Breakdown on Proactive Monitoring Tools_ | **April 24** | Join us for an insightful session on leveraging cutting-edge monitoring tools like SWAT, Fastly, and New Relic to optimize system health and performance.  | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746562317/event_landing.html?sco-id=5746562295&campaign-id=ExL&_charset_=utf-8)
 
 View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past event recordings](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
@@ -343,11 +343,13 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials and Knowled
 
 ### Latest Campaign product releases
 
-* [!DNL Campaign] v8: (February 14, 2025) [Release notes](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
+* [!DNL Campaign] v8.7.4: [Release notes](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
 
-* [!DNL Web User Interface]: (February 18, 2025) [Release notes](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Web User Interface]: [Release notes](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
 
-* [!DNL Campaign Standard]: [25.1 - 2025 Release notes](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
+* [!DNL Campaign Standard]: [Release notes](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
+
+* [!DNL Campaign Classic] 7.4.2: [Release notes](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2)
 
 <!-- ### New [!DNL Campaign] tutorials {#tutorials-campaign}
 
