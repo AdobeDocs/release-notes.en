@@ -23,7 +23,7 @@ This page helps you find application-specific release notes, upcoming events, ne
 
 To receive a quarterly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
-Updated: **April 15, 2025**
+Updated: **April 16, 2025**
 
 * [[!DNL Experience League] events and updates](#events) 
 * [[!DNL Adobe System Status]](#status)
@@ -64,7 +64,9 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 * **Multisolution** | _Behind the Brew: A Full Breakdown on Proactive Monitoring Tools_ | **April 24** | Join us for an insightful session on leveraging cutting-edge monitoring tools like SWAT, Fastly, and New Relic to optimize system health and performance.  | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746562317/event_landing.html?sco-id=5746562295&campaign-id=ExL&_charset_=utf-8)
 
-View all [upcoming events](https://experienceleague.adobe.com/en/events) or browse [past events](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview).
+* **[!DNL Campaign Classic]** | _Adobe ACC Delivery Performance - Troubleshooting_ | **April 25** | In this session, we will explore common challenges faced when delivering optimal performance with Adobe Campaign Classic (ACC) and provide actionable strategies for troubleshooting and resolving issues. Learn how to identify performance bottlenecks, address delivery preparation / configuration inconsistencies, and implement best practices to ensure smooth communications. | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/default_template/event_landing.html?sco-id=5748224915&_charset_=utf-8)
+
+View the complete listing of [upcoming events](https://experienceleague.adobe.com/en/events) or browse [past events](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) on Experience League.
 
 +++
 
