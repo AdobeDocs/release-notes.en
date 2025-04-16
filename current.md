@@ -25,6 +25,8 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 Updated: **April 16, 2025**
 
++++View all products
+
 * [[!DNL Experience League] events and updates](#events) (Updated **April 15**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
@@ -52,11 +54,13 @@ Updated: **April 16, 2025**
 * [Certification at Adobe](https://experienceleague.adobe.com/en/certification-home)
 * [Adobe product security vulnerabilities](https://helpx.adobe.com/security.html)
 
++++ 
+
 ## Events on [!DNL Experience League] {#events}
 
 Find [events](https://experienceleague.adobe.com/en/events) and register for the ones that interest you.
 
-+++Events
++++Upcoming events
 
 * **[!DNL Marketo]** | _Marketo & Mochas: Auditing an Inherited or Current Instance_ | **April 17** | Did you recently inherit a Marketo instance? Or perhaps are looking to perform regular audits on your current instance to maximize its potential? Join us for this Marketo & Mochas webinar with our Adobe Business Advisors, Cynthia Chang and Carly Gaver, centered on how to run a deep dive audit to understand the current state of your instance. | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746113037/event_landing.html)
 
