@@ -60,7 +60,7 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 * **[!DNL Marketo]** | _Marketo & Mochas: Auditing an Inherited or Current Instance_ | **April 17** | Did you recently inherit a Marketo instance? Or perhaps are looking to perform regular audits on your current instance to maximize its potential? Join us for this Marketo & Mochas webinar with our Adobe Business Advisors, Cynthia Chang and Carly Gaver, centered on how to run a deep dive audit to understand the current state of your instance. | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746113037/event_landing.html)
 
-* **[!DNL Workfront]** | _Connect: Workfront Collective_ | **April 21** | This event has no formal presentation or agenda. The topics of discussion are based on your engagement. Think of this workshop as a collective problem-solving session if there is something you are challenged with in Workfront (or a success that you want to share and promote!) and want to talk through solutions with other customers, this is the perfect event for you. | [Register](https://events.teams.microsoft.com/event/ba1a80ab-01c0-4675-83e5-d6d96f1aa9b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Connect: Workfront Collective_ | **April 21** | This event has no formal presentation or agenda. The topics of discussion are based on your engagement. Think of this workshop as a collective problem-solving session. If there is something you are challenged with in Workfront (or a success that you want to share and promote!) and want to talk through solutions with other customers, this event is perfect for you. | [Register](https://events.teams.microsoft.com/event/ba1a80ab-01c0-4675-83e5-d6d96f1aa9b2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **Multisolution** | _Behind the Brew: A Full Breakdown on Proactive Monitoring Tools_ | **April 24** | Join us for an insightful session on leveraging cutting-edge monitoring tools like SWAT, Fastly, and New Relic to optimize system health and performance.  | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746562317/event_landing.html?sco-id=5746562295&campaign-id=ExL&_charset_=utf-8)
 
@@ -70,7 +70,7 @@ View all [upcoming events](https://experienceleague.adobe.com/events/) or browse
 
 ## [!DNL Adobe System Status] {#status}
 
-Receive detailed information, status updates, and email notifications about Adobe products and services with [!DNL Adobe System Status]. Get notified about outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
+[!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
 +++Latest release notes
 
