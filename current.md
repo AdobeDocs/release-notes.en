@@ -70,20 +70,17 @@ View all [upcoming events](https://experienceleague.adobe.com/events/) or browse
 
 ## [!DNL Adobe System Status] {#status}
 
-Learn about the latest features and updates in [!DNL Adobe System Status].
+Receive detailed information, status updates, and email notifications about Adobe products and services with [!DNL Adobe System Status]. Get notified about outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
 +++Latest release notes
 
-[!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
-
 Release date: **March 20th, 2025**
 
-What's new
+**What's new**
 
 * Virtual Assistant beta
 * New Event glossary help page
 * Bug fixes and improvements
-
 
 | Feature | Description |
 | ------- | ------- |
@@ -91,7 +88,7 @@ What's new
 | **New Event glossary help page** | <ul><li>A dedicated help page to guide [!DNL Adobe Status] users on all event types, iconography and their statuses in detail so that it's easier to navigate the website.</li><li>Adobe Status overview page > Help menu, has a new menu item (Event Glossary) that points to this new page.</li><li>Any of the Adobe surfaces that reference [!DNL Adobe Status] may add links to the new help page.</li></ul> |
 | **Bug fixes and improvements** | <ul><li>Slack notifications - Reminder message shows up as Scheduled</li><li>Retired product events should not show on Overview page</li><li>_Closed_ > _Dismissed CSO_ update message and notifications are not sent</li><li>Status web header and footer taking long time to load on refresh</li><li>Status localization menu on the footer is broken</li></ul> |
 
-Recent release notes are found here:
+Previous release notes for [!DNL Adobe System Status]:
 
 * [August 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/09142023#status)
 * [May 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/05152024#status)
