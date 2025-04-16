@@ -25,7 +25,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 Updated: **April 16, 2025**
 
-* [[!DNL Experience League] events and updates](#events) 
+* [[!DNL Experience League] events and updates](#events) (Updated **April 15**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform) 
