@@ -124,7 +124,7 @@ See the [Experience Cloud interface and administration](https://experienceleague
 
 Find latest release information and new documentation for [!DNL Experience Platform] and [!UICONTROL Mobile SDK]. View new tutorials and Knowledge Base support articles.
 
-+++Release notes and tutorials
++++Release notes, tutorials, and support articles
 
 * [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest)
 
@@ -157,7 +157,7 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 
 Find the latest tutorials for [!DNL Real-Time CDP].
 
-+++Details
++++New tutorials
 
 | Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
@@ -178,7 +178,7 @@ For more information, see:
 
 Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeasurement]. View new tutorials and Support articles.
 
-+++Details
++++Release notes and new tutorials
 
 [!DNL Analytics] release date: **April 16, 2025**
 
@@ -204,7 +204,7 @@ New or updated video tutorials published for Adobe Analytics.
 
 Find the latest release information for [!DNL Customer Journey Analytics]. View new tutorials on Experience League.
 
-+++Details
++++Release notes and new tutorials
 
 [!DNL Customer Journey Analytics] release date: **April 16, 2025**
 
@@ -226,7 +226,7 @@ New tutorials published for [!DNL Customer Journey Analytics].
 
 Find the latest release information for [!DNL Streaming Media Analytics]. View new tutorials on Experience League.
 
-+++Details
++++Release notes
 
 Not updated.
 
@@ -240,7 +240,7 @@ Not updated.
 
 New features, fixes, and updates in [!DNL Experience Manager]. Adobe recommends customers with On-Premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
 
-+++Details
++++Release notes, new tutorials, and support articles
 
 ### Experience Manager release information
 
@@ -295,7 +295,7 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 
 Get access to release notes, new tutorials, and Knowledge Base support articles for [!DNL Adobe Commerce].
 
-+++Details
++++Release notes, new tutorials, and support articles
 
 * See [Release notes for [!DNL Adobe Commerce] and [!DNL Magento Open Source]](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview) to stay current.
 * See [Adobe [!DNL Commerce] Services Guides](https://experienceleague.adobe.com/en/docs/commerce/user-guides/home) to see Commerce Services release information and documentation.
@@ -332,7 +332,7 @@ New articles and updates to existing articles for Adobe Commerce.
 
 Get access to pre-release notes, current release notes, and new tutorials for [!DNL Adobe Target].
 
-+++Details
++++Release notes
 
 <!-- ### New [!DNL Target] support knowledge base{#kb-target}
 
@@ -350,7 +350,7 @@ Get access to pre-release notes, current release notes, and new tutorials for [!
 
 Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials and Knowledge Base support articles on Experience League.
 
-+++Details
++++Release notes and support articles
 
 ### Latest Campaign product releases
 
@@ -395,7 +395,7 @@ New articles and updates to existing articles for [!DNL Campaign].
 
 Learn about the latest release information for [!DNL Journey Optimizer]. View the latest tutorials and Knowledge Base support articles on Experience League.
 
-+++Details
++++Release notes and new tutorials
 
 ### [!DNL Journey Optimizer] product release updates
 
@@ -424,7 +424,7 @@ New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 
 Find release notes and new tutorials [!DNL Journey Optimizer B2B Edition].
 
-+++Details
++++Release notes
 
 Not updated.
 
@@ -447,7 +447,7 @@ For more information, see:
 
 Find out the latest release notes and release schedule for [!DNL Marketo Engage].
 
-+++Details
++++Release notes, tutorials, and support articles
 
 ### Core Marketo Engage updates
 
@@ -478,7 +478,7 @@ New articles and updates to existing articles for [!DNL Marketo].
 
 Learn about the latest release notes for [!DNL Adobe Workfront]. Find new tutorials on Experience League.
 
-+++Details
++++Release notes and new tutorials
 
 ### [!DNL Adobe Workfront] updates
 
@@ -529,7 +529,7 @@ For the latest product documentation, see the [Adobe [!DNL Workfront] documentat
 
 Find latest release information and new documentation for [!DNL GenStudio for Performance Marketing].
 
-+++Details
++++Release notes and documentation
 
 * [GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/browse/genstudio-for-performance-marketing) (All self-help)
 * [Release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest) for GenStudio for Performance Marketing
@@ -540,7 +540,7 @@ Find latest release information and new documentation for [!DNL GenStudio for Pe
 
 ## [!DNL Mix Modeler] {#mix-modeler}
 
-+++Details
++++Release notes and documentation
 
 See the following pages for the latest information:
 
@@ -549,11 +549,11 @@ See the following pages for the latest information:
 
 +++
 
-## Adobe Advertising {#advertising}
+## Adobe [!DNL Advertising] {#advertising}
 
-Release notes for [!DNL Adobe Advertising].
+[!DNL Adobe Advertising] is the only independent ad platform that unifies and automates all media, data, audiences, and creative at scale.
 
-+++Details
++++Release notes
 
 To browse Adobe [!DNL Advertising] help, visit [Adobe Advertising Documentation](https://experienceleague.adobe.com/en/docs/advertising).
 
@@ -575,7 +575,7 @@ See [What's new in [!DNL Advertising Search, Social, & Commerce]](https://experi
 
 [!DNL Adobe Pass] is a multi-screen TV platform that helps broadcasters, cable networks, and service providers create and monetize engaging, personalized viewing experiences.
 
-+++Details
++++Documentation
 
 See [Adobe Pass Documentation](https://experienceleague.adobe.com/en/docs/pass) to find release-specific information, system requirements, limitations, fixed issues, and known issues.
 
@@ -585,7 +585,7 @@ See [Adobe Pass Documentation](https://experienceleague.adobe.com/en/docs/pass) 
 
 New tutorials published for [!DNL Document Cloud], including [!DNL Acrobat Services] and [!DNL Acrobat Sign].
 
-+++Details
++++New tutorials
 
 New tutorials published for Adobe Document Cloud.
 
@@ -608,7 +608,7 @@ For [!DNL Document Cloud] tutorials, see:
 
 New tutorials published for applications in [!DNL Adobe Creative Cloud for enterprise].
 
-+++Details
++++Recent tutorials
 
 <!-- | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
