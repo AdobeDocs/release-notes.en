@@ -551,7 +551,7 @@ See the following pages for the latest information:
 
 ## Adobe [!DNL Advertising] {#advertising}
 
-[!DNL Adobe Advertising] is the only independent ad platform that unifies and automates all media, data, audiences, and creative at scale.
+Find latest release information and new documentation for [!DNL Adobe Advertising].
 
 +++Release notes
 
