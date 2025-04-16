@@ -72,9 +72,7 @@ View all [upcoming events](https://experienceleague.adobe.com/events/) or browse
 
 Learn about the latest features and updates in [!DNL Adobe System Status].
 
-No April updates.
-
-+++Previous release notes
++++Latest release notes
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
