@@ -23,11 +23,10 @@ This page helps you find application-specific release notes, upcoming events, ne
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
-Updated: **April 16, 2025**
+**Updated April 16, 2025**
 
 +++View all products
 
-* [[!DNL Experience League] events and updates](#events) (Updated **April 15**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
 * [[!DNL Adobe Experience Platform]](#platform) 
