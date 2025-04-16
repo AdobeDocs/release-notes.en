@@ -352,7 +352,7 @@ Get access to pre-release notes, current release notes, and new tutorials for [!
 
 ## [!DNL Campaign] {#ac}
 
-Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials and Knowledge Base support articles on Experience League.
+Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials and Knowledge Base support articles on Experience League. 
 
 +++Release notes and support articles
 
