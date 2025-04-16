@@ -102,21 +102,27 @@ Previous release notes for [!DNL Adobe System Status]:
 
 ## [!DNL Experience Cloud] - central interface and administration {#ecloud}
 
-Learn about [!DNL Experience Cloud] central interface components and administration. Manage products and users, configure profile settings and preferences, search Experience Cloud objects, and manage cookies. 
+Learn about updates to [!DNL Experience Cloud] administration interface and central interface components. 
 
 +++New features
 
-No updates.
+No updates in April.
 
-For help on [!DNL Experience Cloud] central interface components and user and product administration, see the [Experience Cloud interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) guide. (Includes [!UICONTROL Customer Attributes], [!DNL Experience Cloud Assets], and [!UICONTROL Audiences].)
+See the [Experience Cloud interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) guide for help on:
+
+* User management and product licenses
+* Customer Attributes
+* Audience Library
+* Assets in Experience Cloud
+* Cookies in Experience Cloud
 
 +++
 
 ## [!DNL Experience Platform] {#platform}
 
-Find latest release information and new documentation for [!DNL Experience Platform] and [!UICONTROL Mobile SDK]. View new tutorials and Knowledge Base articles on Experience League.
+Find latest release information and new documentation for [!DNL Experience Platform] and [!UICONTROL Mobile SDK]. View new tutorials and Knowledge Base support articles.
 
-+++Details
++++Release notes and tutorials
 
 * [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest)
 
@@ -147,7 +153,7 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 
 ## [!DNL Real-Time CDP] {#rtcdp}
 
-Find the latest tutorials for [!DNL Real-Time CDP] on Experience League.
+Find the latest tutorials for [!DNL Real-Time CDP].
 
 +++Details
 
@@ -168,13 +174,13 @@ For more information, see:
 
 ## [!DNL Analytics] {#analytics}
 
-Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeasurement]. View new tutorials Experience League.
+Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeasurement]. View new tutorials and Support articles.
 
 +++Details
 
 [!DNL Analytics] release date: **April 16, 2025**
 
-* [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html)<!-- * [!DNL Analytics] [release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest) -->
+* [!DNL Analytics] [release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest)
 
 * [!DNL Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/analytics)
 
@@ -182,7 +188,7 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 * [AppMeasurement for JavaScript release notes](https://github.com/adobe/appmeasurement/releases)
 
-### New Analytics tutorials and courses {#tutorials-analytics}
+### New Analytics tutorials {#tutorials-analytics}
 
 New or updated video tutorials published for Adobe Analytics.
 
@@ -200,7 +206,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 [!DNL Customer Journey Analytics] release date: **April 16, 2025**
 
-* [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html)<!-- * [!DNL Customer Journey Analytics] [release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases) -->
+* [!DNL Customer Journey Analytics] [release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases)
 
 * [!DNL Customer Journey Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/customer-journey-analytics)
 
@@ -210,7 +216,7 @@ New tutorials published for [!DNL Customer Journey Analytics].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2025|[Use Guided Analysis in Analysis Workspace](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/guided-analysis/guided-analysis-in-workspace)| New video |Use Guided Analysis in Analysis Workspace to self-serve high-quality data insights through guided workflows.|
+|March 2025|[Use Guided Analysis in Analysis Workspace](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/guided-analysis/guided-analysis-in-workspace)| New video |Use [!UICONTROL Guided Analysis] in [!UICONTROL Analysis Workspace] to self-serve high-quality data insights through guided workflows.|
 
 +++
 
@@ -219,6 +225,8 @@ New tutorials published for [!DNL Customer Journey Analytics].
 Find the latest release information for [!DNL Streaming Media Analytics]. View new tutorials on Experience League.
 
 +++Details
+
+Not updated.
 
 * [!DNL Streaming Media Analytics] [release notes](https://experienceleague.adobe.com/en/docs/media-analytics/using/release-notes/release-notes)
 
@@ -283,7 +291,7 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 
 ## [!DNL Commerce] {#commerce}
 
-Get access to release notes, new tutorials, and Knowledge Base articles for [!DNL Adobe Commerce] on Experience League.
+Get access to release notes, new tutorials, and Knowledge Base Support articles for [!DNL Adobe Commerce].
 
 +++Details
 
@@ -297,11 +305,10 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-|April 2025|[Truncate logs](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/truncate-logs)| New video |Learn how to triage and a failed deployment due to a full hard drive. Learn how to find and what commands can be run to free up space in your Adobe Commerce Cloud environment.|
-|April 2025|[Overview of Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)| New video |Learn how Adobe Commerce Optimizer can Enhance your storefront with high performance, increased traffic, and seamless integration.|
-|April 2025|[Overview of Adobe Commerce as a Service](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/commerce-as-a-cloud-service/overview)| New video |Learn about Adobe Commerce as a Cloud Service. A Flexible, scalable, and efficient solution for dynamic digital operations with a composable architecture.|
+|April 2025|[Truncate logs](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/truncate-logs)| New video |Learn how to triage and a failed deployment due to a full hard drive. Learn how to find and what commands can be run to free up space in your [!DNL Adobe Commerce Cloud] environment.|
+|April 2025|[Overview of Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)| New video |Learn how Adobe [!DNL Commerce Optimizer] can Enhance your storefront with high performance, increased traffic, and seamless integration.|
+|April 2025|[Overview of Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/commerce-as-a-cloud-service/overview)| New video |Learn about Adobe [!DNL Commerce as a Cloud Service]. A Flexible, scalable, and efficient solution for dynamic digital operations with a composable architecture.|
 |April 2025|[Adobe Commerce as a Service architecture](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/commerce-as-a-cloud-service/architecture)| New video |Discover Adobe Commerce as a cloud service architecture and key features for scalable, secure, and flexible e-commerce solutions.|
-|April 2025|[Adobe Commerce as a Service overview](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/commerce-as-a-cloud-service/overview)| New video |Learn about Adobe Commerce as a Cloud Service. A Flexible, scalable, and efficient solution for dynamic digital operations with a composable architecture.|
 |April 2025|[Detect IP addresses for different environments](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/detect-ip-address)| New video |Learn how to detect IP addresses for all the types of environments in your Commerce Cloud project|
 
 ### New [!DNL Commerce] support knowledge base{#kb-commerce}
@@ -416,6 +423,8 @@ New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 Find release notes and new tutorials [!DNL Journey Optimizer B2B Edition].
 
 +++Details
+
+Not updated.
 
 <!-- New videos, tutorials, or courses published for Journey Optimizer B2B Edition.
 
