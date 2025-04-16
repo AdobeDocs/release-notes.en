@@ -64,7 +64,7 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 * **Multisolution** | _Behind the Brew: A Full Breakdown on Proactive Monitoring Tools_ | **April 24** | Join us for an insightful session on leveraging cutting-edge monitoring tools like SWAT, Fastly, and New Relic to optimize system health and performance.  | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5746562317/event_landing.html?sco-id=5746562295&campaign-id=ExL&_charset_=utf-8)
 
-View all [upcoming events](https://experienceleague.adobe.com/events/) or browse [past events](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview).
+View all [upcoming events](https://experienceleague.adobe.com/en/events) or browse [past events](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview).
 
 +++
 
@@ -74,7 +74,7 @@ View all [upcoming events](https://experienceleague.adobe.com/events/) or browse
 
 +++Latest release notes
 
-Release date: **March 20th, 2025**
+Release date: **March 20, 2025**
 
 **What's new**
 
@@ -86,7 +86,7 @@ Release date: **March 20th, 2025**
 | ------- | ------- |
 | **Virtual Assistant beta** | <ul><li>Virtual assistance is a feature that allows [!DNL Adobe Status] customers on the web and mobile to get answers to their questions and help perform quick actions without leaving the home page. It can serve as one place where they can get all their queries resolved. If you would like to participate in customer beta, please email [statuscom-adobe-support@adobe.com](mailto:statuscom-adobe-support@adobe.com). </li></ul>|
 | **New Event glossary help page** | <ul><li>A dedicated help page to guide [!DNL Adobe Status] users on all event types, iconography and their statuses in detail so that it's easier to navigate the website.</li><li>Adobe Status overview page > Help menu, has a new menu item (Event Glossary) that points to this new page.</li><li>Any of the Adobe surfaces that reference [!DNL Adobe Status] may add links to the new help page.</li></ul> |
-| **Bug fixes and improvements** | <ul><li>Slack notifications - Reminder message shows up as Scheduled</li><li>Retired product events should not show on Overview page</li><li>_Closed_ > _Dismissed CSO_ update message and notifications are not sent</li><li>Status web header and footer taking long time to load on refresh</li><li>Status localization menu on the footer is broken</li></ul> |
+| **Bug fixes and improvements** | <ul><li>Slack notifications - Reminder message shows up as Scheduled</li><li>Retired product events should not show on the Overview page</li><li>_Closed_ > _Dismissed CSO_ update message and notifications are not sent</li><li>Status web header and footer taking long time to load on refresh</li><li>Status localization menu on the footer is broken</li></ul> |
 
 Previous release notes for [!DNL Adobe System Status]:
 
@@ -145,8 +145,8 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
 |March 2025|[Inability to split audiences using [!UICONTROL Compose Audience] in Adobe Experience Platform Segment Builder](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25992)|New article| Learn how to solve the issue when an audience split doesn't populate into two equal parts using the [!UICONTROL Compose Audience] feature in Adobe Experience Platform.|
-|March 2025|[Resolve data ingestion issues from app SDK to AEP profile dataset](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26094)|New article| Learn how to solve the issue when data tracked via the Adobe Experience Platform (AEP) mobile app SDK isn't sent to the [!UICONTROL AEP Profile] dataset when using the [!DNL React Native] wrapper in an AEP Sandbox environment.|
-|March 2025|[Resolving audience selection issues and browser errors when saving journeys in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26145)|New article| Learn how to solve issues in Adobe Journey Optimizer (AJO) where adding audiences to conditions causes application crashes, showing an *Aw Snap* error in [!DNL Chrome].|
+|March 2025|[Resolve data ingestion issues from app SDK to AEP profile dataset](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26094)|New article| Learn how to solve a data ingestion issue occurring when data tracked using the AEP mobile app SDK is not sent to the [!UICONTROL AEP Profile] dataset when using the [!UICONTROL React Native] wrapper in an AEP Sandbox environment.|
+|March 2025|[Resolving audience selection issues and browser errors when saving journeys in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26145)|New article| Learn how to solve issues in Adobe Journey Optimizer (AJO) where adding audiences to conditions causes application crashes, showing an _Aw Snap_ error in [!DNL Chrome].|
 |March 2025|[Adobe Journey Optimizer: Expression lost during creation of new journey version](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26152)|New article| Learn how to solve the issue when creating a new version of an existing journey in Adobe Journey Optimizer (AJO) results in an error message and expressions within specific steps to be lost.|
 
 +++
@@ -162,7 +162,7 @@ Find the latest tutorials for [!DNL Real-Time CDP].
 | April 2025 | [Reference audiences as an advertiser in Real-Time CDP Collaboration](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/reference-audiences-as-an-advertiser) |  New video | As an advertiser, learn how to reference audiences, bringing them into your interface so that they can be used as you collaborate with partners. |
 | April 2025 | [Set up an Advertiser account in Real-Time CDP Collaboration](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/set-up-an-advertiser-account) |  New video | Learn how to set up an Advertiser account (organization) in Real-Time CDP Collaboration.  |
 | April 2025 | [Set permissions for Real-Time CDP Collaboration](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/set-permissions-for-collaboration) |  New video | Learn how to set up the needed permissions to access and use Real-Time CDP Collaboration.  |
-| April 2025 | [Connect with publishers in Real-Time CDP Collaboration](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/connect-with-publishers) |  New video | As an advertiser, learn how to make a connection with a publisher in order to collaborate with them.  |
+| April 2025 | [Connect with publishers in Real-Time CDP Collaboration](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/connect-with-publishers) |  New video | As an advertiser, learn how to make a connection with a publisher to collaborate with them.  |
 
 For more information, see:
 
@@ -279,7 +279,7 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 |March 2025|[[!DNL RWS Trados TMS] connector user permissions in Adobe Experience Manager 6.5](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25975)|New article| Learn how to solve the issue when translations work correctly for initial submissions but fail with modified pages, as translated content is processed in the [!DNL Trados] connector but not returned to AEM.|
 |March 2025|[Resolve shared link issues in [!DNL AEM Managed Services]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25903)|New article| Learn how to solve the issue when sharing a link from AEM results in external users receiving a blank page due to incorrect configuration settings.|
 |March 2025|[Activate Restricted Assets access to [!DNL Dynamic Media] with Open APIs based on IMS User Groups](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26103)|New article| Learn how to activate access to restricted assets in [!DNL Dynamic Media] with open APIs based on IMS user groups.|
-|March 2025|[Duplicate target offer ID when copying experience fragments in [!DNL AEM Sites]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25905)|New article| Learn how to solve the issue when copying an experience fragment (XF) results in the duplication of the target offer ID, leading to unintended overwriting of offers in Adobe Target when the copied XF is exported.|
+|March 2025|[Duplicate target offer ID when copying experience fragments in [!DNL AEM Sites]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25905)|New article| Learn how to solve the issue when copying an Experience Fragment (XF) results in the duplication of the target offer ID, leading to unintended overwriting of offers in Adobe Target when the copied XF is exported.|
 |March 2025|[Pages published when a content fragment is published in AEM](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26097)|New article| Learn how to solve the issue when publishing a content fragment in Adobe Experience Manager (AEM) causes all its references, including pages, to be published automatically.|
 |March 2025|[Problems upgrading to [!DNL Java] version 21 in [!DNL AEMaaCS - Assets]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26109)|New article| Learn how to solve the issue when attempting to upgrade to [!DNL Java] version 21 for Adobe Experience Manager (AEM) as a Cloud Service - Assets results in build failures.|
 |March 2025|[Error syncing email content from AEM to Adobe Campaign Classic](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26144)|New article| Learn how to solve the issue when attempting to sync email content from Adobe Experience Manager (AEM) into Adobe Campaign Classic, the system may fetch content from the parent AEM page instead of the intended duplicated page.|
@@ -291,7 +291,7 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 
 ## [!DNL Commerce] {#commerce}
 
-Get access to release notes, new tutorials, and Knowledge Base Support articles for [!DNL Adobe Commerce].
+Get access to release notes, new tutorials, and Knowledge Base support articles for [!DNL Adobe Commerce].
 
 +++Details
 
@@ -321,7 +321,7 @@ New articles and updates to existing articles for Adobe Commerce.
 |March 2025|[Coupon code tracking discrepancy in Adobe Commerce](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25898)|New articles| Learn how to solve the issue when a coupon configured to be usable X times per customer, can be applied more than X times without having their usage count updated after placing the order.|
 |March 2025|[Error: XXX search engine doesn't exist. Falling back to livesearch.](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26014)|New articles| Learn how to solve the issue when the error stating *XXX search engine doesn't exist. Falling back to livesearch.* appears in the logs.|
 |March 2025|[Can't access Adobe Commerce on cloud repo: *403 Forbidden* or *404 Not Found* error when deploying](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25968)|New articles| Learn how to solve the issue when deploying Adobe Commerce on cloud infrastructure causes errors indicating that the repository URL could not be accessed, resulting in deployment failure.|
-|March 2025|[Adobe Commerce cloud deployment failed - APSB25-08 isolated patch can't be applied](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26126)|New articles| Learn how to solve the issue when you receive an error stating *patch can't be applied* when trying to apply the APSB25-08 isolated security patch on the Adobe Commerce on cloud infrastructure environment.|
+|March 2025|[Adobe Commerce cloud deployment failed - APSB25-08 isolated patch can't be applied](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26126)|New articles| Learn how to solve the issue when you receive an error stating _patch can't be applied_ when trying to apply the APSB25-08 isolated security patch on the Adobe Commerce on cloud infrastructure environment.|
 |March 2025|[Viewing a ticket in [!DNL Adobe Experience League] as a Watcher](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26164)|New articles| Learn how to solve the issue when watchers can't view support tickets in [!DNL Adobe Experience League] unless they have an entitled [!DNL Commerce] account.|
 
 +++
@@ -414,7 +414,7 @@ New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 ### More resources for [!DNL Journey Optimizer]
 
 * [[!DNL Journey Optimizer] documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/ajo-home) - [Release rotes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) - [How-to videos](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/overview)
-* [Decision Management documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning) - [Release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) - [How-to videos](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decisioning/introduction-to-decision-management) - [Latest documentation updates](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/documentation-updates)
+* [Decision Management documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning) - [Release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) - [How-to videos](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decisioning/introduction-to-decisioning) - [Latest documentation updates](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/documentation-updates)
 
 +++
 
