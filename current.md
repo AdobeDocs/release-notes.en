@@ -85,13 +85,13 @@ Release date: **March 20, 2025**
 **What's new**
 
 * Virtual Assistant beta
-* New Event glossary help page
+* New Event Glossary help page
 * Bug fixes and improvements
 
 | Feature | Description |
 | ------- | ------- |
-| **Virtual Assistant beta** | <ul><li>Virtual assistance is a feature that allows [!DNL Adobe Status] customers on the web and mobile to get answers to their questions and help perform quick actions without leaving the home page. It can serve as one place where they can get all their queries resolved. If you would like to participate in customer beta, please email [statuscom-adobe-support@adobe.com](mailto:statuscom-adobe-support@adobe.com). </li></ul>|
-| **New Event glossary help page** | <ul><li>A dedicated help page to guide [!DNL Adobe Status] users on all event types, iconography and their statuses in detail so that it's easier to navigate the website.</li><li>Adobe Status overview page > Help menu, has a new menu item (Event Glossary) that points to this new page.</li><li>Any of the Adobe surfaces that reference [!DNL Adobe Status] may add links to the new help page.</li></ul> |
+| **Virtual Assistant beta** | <ul><li>Virtual Assistant is a feature that will allow Status customers on the web and mobile to get answers to their questions and help perform quick actions without leaving the home page. It can serve as one place to get all the queries resolved. If you would like to participate in customer beta, please email [statuscom-adobe-support@adobe.com](mailto:statuscom-adobe-support@adobe.com). </li></ul>|
+| **New Event Glossary** | <ul><li>A dedicated help page to guide [!DNL Adobe Status] users on all event types, iconography and their statuses in detail so that it's easier to navigate the website.</li><li>Adobe Status overview page > Help menu, has a new menu item (Event Glossary) that points to this new page.</li><li>Any of the Adobe surfaces that reference [!DNL Adobe Status] may add links to the new help page.</li></ul> |
 | **Bug fixes and improvements** | <ul><li>Slack notifications - Reminder message shows up as Scheduled</li><li>Retired product events should not show on the Overview page</li><li>_Closed_ > _Dismissed CSO_ update message and notifications are not sent</li><li>Status web header and footer taking long time to load on refresh</li><li>Status localization menu on the footer is broken</li></ul> |
 
 Previous release notes for [!DNL Adobe System Status]:
