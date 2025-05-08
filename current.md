@@ -539,11 +539,19 @@ New [!DNL Workfront] tutorials and events on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|April 2025|[Apply an issue approval process in a request queue](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue)|New video |Implement a default approval process to streamline request workflows, ensuring approved requests change their status appropriately to |
-|April 2025|[Benefits of Workfront Planning for UX Design teams](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams)|New video |Learn how Workfront Planning boosts UX team efficiency by centralizing project tracking and aligning design work with business goals.|
-|April 2025|[Understand the Portfolio Optimizer](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios)|New video |Optimize project management in Workfront. Complete business cases for fair comparisons, filter projects by status, adjust scores dynamically, and more.|
-|April 2025|[Create a global and a single-use approval process](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)|New video |Enhance approval workflows by leveraging both global and single-use approval processes for tasks, projects, or issues. Implement multi-level staged approvals and promote efficiency through reusability in project templates.|
-|April 2025|[Create a project directly from a template](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template)|New video |Learn how to create a project from a template. |
+|May 2025|[Create a timeline view](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-timeline-views)|New video |Learn to manage and customize timeline views in Workfront Planning.|
+|May 2025|[Understand multiple billing rates](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-finances/multiple-billing-rates.html?lang=en)|New video |Learn how to manage and customize billing rates for job roles within a project. |
+|May 2025|[Set up exchange rates](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-finances/set-up-exchange-rates.html?lang=en)|New video |Customize currency settings with flexible exchange rate management, global and project-level customization, and manual input options for accurate financial tracking.|
+|May 2025|[Update finances](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-finances/update-and-review-finances.html?lang=en)|New video |Streamline cost tracking and billing by defining rates, assigning cost and revenue types to tasks, managing expenses, and creating billing records. Workfront does not do the actual billing.|
+|May 2025|[Understand performance metrics](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-finances/understand-performance-metrics.html?lang=en)|New video |Discover adaptable financial performance metrics with flexible calculation methods, global defaults, and project-level overrides.|
+|May 2025|[Set up task revenue & cost defaults](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.html?lang=en)|New video |Learn where the revenue type and cost types are used and how to set up the system defaults.|
+|May 2025|[Understand financial access](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-finances/understand-financial-access.html?lang=en)|New video |Learn to control financial data access through customizable permissions, ensuring secure management, project-level oversight, and tailored sharing options for financial visibility.|
+|May 2025|[Set up expense types](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-finances/set-up-expense-types.html?lang=en)|New video |Learn how to use pre-built expense types when entering expenses, and how to create new expense types.|
+|May 2025|[Create a basic filter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=en)|New video | Learn how to create and use filters in Workfront to customize list reports based on specific criteria. |
+|May 2025|[Understand reporting components](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)|New video |Learn reporting components to refine data visualization with object-based filters, dynamic views, structured groupings, and wildcard functionality for tailored insights.|
+|May 2025|[Find financial information](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-finances/find-financial-information.html?lang=en)|New video |Discover how to efficiently access, analyze, and manage financial data for projects and tasks, covering budgets, revenue, costs, and performance metrics at both project and task levels.|
+|May 2025|[Create reports with charts](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-reports-with-charts.html?lang=en)|New video | Learn how to use charts to visualize data effectively, particularly for tracking project tasks.|
+|May 2025|[Install the Microsoft Outlook add-in](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/outlook/integrations-microsoft-outlook.html?lang=en)|New video |Learn how to install the Microsoft Outlook Add-in to integrate the Microsoft Outlook calendar with the Workfront Home calendar.|
 
 
 ### New [!DNL Workfront] support knowledge base
@@ -613,6 +621,12 @@ See [What's new in [!DNL Advertising Search, Social, & Commerce]](https://experi
 [!DNL Adobe Pass] is a multi-screen TV platform that helps broadcasters, cable networks, and service providers create and monetize engaging, personalized viewing experiences.
 
 +++Documentation
+
+New tutorials published for Adobe Pass.
+
+| Published | Name | Type | Description |
+| -----------| ---------- | ---------- |---------- |
+| April 2025 | [Adobe Pass - new REST API v2](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/solution/hidden/adobe-pass-rest-api-v2) |  New video | Learn about Adobe's new REST API v2 and its migration process. |
 
 See [Adobe Pass Documentation](https://experienceleague.adobe.com/en/docs/pass) to find release-specific information, system requirements, limitations, fixed issues, and known issues.
 
