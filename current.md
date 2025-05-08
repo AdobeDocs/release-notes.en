@@ -159,10 +159,7 @@ Find the latest tutorials for [!DNL Real-Time CDP].
 
 | Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
-| April 2025 | [Reference audiences as an advertiser in Real-Time CDP Collaboration](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/reference-audiences-as-an-advertiser) |  New video | As an advertiser, learn how to reference audiences, bringing them into your interface so that they can be used as you collaborate with partners. |
-| April 2025 | [Set up an Advertiser account in Real-Time CDP Collaboration](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/set-up-an-advertiser-account) |  New video | Learn how to set up an Advertiser account (organization) in Real-Time CDP Collaboration.  |
-| April 2025 | [Set permissions for Real-Time CDP Collaboration](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/set-permissions-for-collaboration) |  New video | Learn how to set up the needed permissions to access and use Real-Time CDP Collaboration.  |
-| April 2025 | [Connect with publishers in Real-Time CDP Collaboration](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/connect-with-publishers) |  New video | As an advertiser, learn how to make a connection with a publisher to collaborate with them.  |
+| May 2025 | [Configure the Azure Blob Destination](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination) |  Updated video | Learn how to set up a connection and send data to the Azure Blob Storage destination in Real-Time Customer Data Platform. This destination supports exporting datasets and audiences, and allows you to customize the file headers and data attributes. |
 
 For more information, see:
 
@@ -216,7 +213,7 @@ New tutorials published for [!DNL Customer Journey Analytics].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2025|[Use Guided Analysis in Analysis Workspace](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/guided-analysis/guided-analysis-in-workspace)| New video |Use [!UICONTROL Guided Analysis] in [!UICONTROL Analysis Workspace] to self-serve high-quality data insights through guided workflows.|
+|May 2025|[Use the quick insights panel](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/panels/use-the-quick-insights-panel)| New video |Learn how to answer business questions quickly and easily using the quick insights panel in Customer Journey Analytics. |
 
 +++
 
@@ -263,9 +260,10 @@ New tutorials published for [!DNL Experience Manager] on [!DNL Experience Manage
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|April 2025| [!DNL Experience Manager Assets] | [Video closed captions in Dynamic Media](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/advanced/video-closed-captions)| New video | Learn to create closed captions via AI. Closed captions are auto-generated once a video file is uploaded to AEM Assets with Dynamic Media. |
-|April 2025| [!DNL Experience Manager] | [Using Forms Document Services API](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/forms-document-services-api/introduction)| New video | Learn to use OpenAPI based Forms Document Services API. |
-|April 2025| [!DNL Experience Manager] | [OpenAPI-based AEM APIs using User Authentication from SPA](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/invoke-api-using-oauth-single-page-app#wknd-spa-overview-and-functional-flow)| New video | Learn how to use the OAuth Single Page App authentication flow to enable user-based authentication for OpenAPI-based EEM APIs. |
+|May 2025| [!DNL Experience Manager Sites] | [AEM Sites videos and tutorials](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/overview)| Updated tutorial home | Browse videos and tutorials about the features and capabilities of Adobe Experience Manager Sites. AEM Sites is a leading experience management platform. |
+|May 2025| [!DNL Experience Manager as a Cloud Service] | [Set up OpenAPI-based AEM APIs](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/setup)| New video | Learn how to set up your AEM as a Cloud Service environment to enable access to the OpenAPI-based AEM APIs. |
+|May 2025| [!DNL Experience Manager Forms] | [Create a form using Adaptive Forms Block](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/edge-delivery/build-forms/getting-started-edge-delivery-services-forms/create-forms)| New video | Get started with Edge Delivery Services for AEM Forms. Craft perfect forms, fast! AEM Forms Edge Delivery doc-based authoring = blazing speed & SEO-friendly forms for happier users & search engines. |
+|May 2025| [!DNL Experience Manager Sites] - Headless | [Advanced Concepts of AEM Headless](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/advanced-tutorial/overview.html)| New video | An end-to-end tutorial illustrating advanced concepts of Adobe Experience Manager (AEM) GraphQL APIs. |
 
 ### New [!DNL Experience Manager] support knowledge base{#kb-aem}
 
@@ -308,11 +306,13 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-|April 2025|[Truncate logs](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/troubleshooting/truncate-logs)| New video |Learn how to triage and a failed deployment due to a full hard drive. Learn how to find and what commands can be run to free up space in your [!DNL Adobe Commerce Cloud] environment.|
-|April 2025|[Overview of Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview)| New video |Learn how Adobe [!DNL Commerce Optimizer] can Enhance your storefront with high performance, increased traffic, and seamless integration.|
-|April 2025|[Overview of Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/commerce-as-a-cloud-service/overview)| New video |Learn about Adobe [!DNL Commerce as a Cloud Service]. A Flexible, scalable, and efficient solution for dynamic digital operations with a composable architecture.|
-|April 2025|[Adobe Commerce as a Service architecture](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/commerce-as-a-cloud-service/architecture)| New video |Discover Adobe Commerce as a cloud service architecture and key features for scalable, secure, and flexible e-commerce solutions.|
-|April 2025|[Detect IP addresses for different environments](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/detect-ip-address)| New video |Learn how to detect IP addresses for all the types of environments in your Commerce Cloud project|
+|May 2025|[Success Accelerators organizational readiness](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/commerce-conversations/success-accelerators-organizational-readiness)| New video |Learn about Adobe's success accelerators for organizational readiness.|
+|May 2025|[Commerce support add-ons](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/commerce-conversations/commerce-support-add-ons)| New video |Learn about enhanced customer support plans, including Expert Success, Ultimate Success, and various add-ons for strategic assistance.|
+|May 2025|[What is Expert Success?](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/commerce-conversations/what-is-expert-success)| New video |Learn about the Adobe Commerce expert success plan. Learn more about the details including the three support channels and service level targets.|
+|May 2025|[Success Accelerators technical readiness](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/commerce-conversations/success-accelerators-technical-readiness)| New video |Learn about Commerce Success Accelerator Technical readiness, solution review, event planning, and 24/7 monitoring for optimal performance.|
+|May 2025|[Success Accelerators adoption and enablement](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/commerce-conversations/success-accelerators-adoption-and-enablement)| New video |Learn about Adobe Commerce Success Accelerator adoption and enablement for strategic development, skill enhancement, and governance.|
+|May 2025|[What is Ultimate Success?](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/commerce-conversations/what-is-ultimate-success)| New video |Learn about Adobe Commerce Ultimate Success proactive support and strategic guidance for high-performing digital experiences.|
+|May 2025|[Technical onboarding - SaaS offerings](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/technical-onboarding-hardware-handoff/saas-offerings-support-communications-next-steps)| New video |Learn about the Adobe Commerce Cloud SaaS offerings, support, and other communications and some next steps.|
 
 ### New [!DNL Commerce] support knowledge base{#kb-commerce}
 
@@ -413,9 +413,10 @@ New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|April 2025 |[!DNL Journey Optimizer], [!DNL GenStudio for Performance Marketing] |[Create an email using [!DNL GenStudio for Performance Marketing]](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/create-an-email-using-genstudio)|New video |Discover the process of exporting an email template from [!DNL Journey Optimizer] to [!DNL GenStudio for Performance Marketing]. Craft brand-compliant emails using the template, then import them back into Journey Optimizer.|
-|April 2025 |[!DNL Journey Optimizer]|[Introduction to Decisioning](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/introduction-to-decisioning)|New video |Learn about Decisioning capabilities in Journey Optimizer.|
-|April 2025|[!DNL Journey Optimizer]|[Lock content in templates](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/content-templates/content-locking)|New video |Learn how to lock content in templates. This tutorial covers locking templates fully or partially, using read-only and content locking modes, and how to manage editable areas within a locked template.|
+|May 2025|[!DNL Journey Optimizer]|[Scale orchestration to omnichannel engagement in Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/scaling-orchestration-to-omnichannel-engagement/introduction)| Video | Learn how to transform business communications from basic outbound messaging to sophisticated omnichannel experiences. Through practical examples, you create a customer journey that combines proactive outreach with responsive engagement. Originally presented at Adobe Summit 2025 as Lab L535.|
+|May 2025|[!DNL Journey Optimizer]|[Edit assets with Adobe Express](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/assets/edit-assets-with-adobe-express)|Video |Learn how to edit your assets in Adobe Journey Optimizer using Adobe Express tools.|
+|May 2025|[!DNL Journey Optimizer]|[Personalization editor playground](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/personalization-editor-playground)| New video | Learn how to leverage predefined code samples, edit dummy profile payloads, and preview the output of your personalization code in real-time. |
+|May 2025|[!DNL Journey Optimizer]|[Creating AJO Audiences Based on User Investment Preferences (Stocks, Bonds, CDs)](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)|Video | Learn how to capture user preferences through a web form, send that data to Adobe Experience Platform (AEP) in real time, and dynamically qualify users into targeted audiences based on their selections.|
 
 ### New [!DNL Journey Optimizer] support knowledge base{#kb-ajo}
 
@@ -642,9 +643,7 @@ New tutorials published for Adobe Document Cloud.
 
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| April 2025 | Acrobat Sign | [Assign Product & Support Admin roles](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/promote-admin) |  New video | Learn how to assign an Acrobat Sign user Product Admin and Support Admin role in the Admin Console. |
-| April 2025 | Acrobat Sign | [Add a new account administrator](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/add-admin) |  New video | Learn how to create a new user or promote an existing user to the Acrobat Sign Admin role in the Admin Console. |
-| April 2025 | Acrobat Sign | [Add a new user](https://experienceleague.corp.adobe.com/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/add-users-to-your-account.html?lang=en) |  New video | Learn how to add new users to Acrobat Sign within the Admin Console. |
+| May 2025 | Applications | [Comment on a PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files) |  Updated video | Learn how to add comments on a shared PDF using just a web browser. Whether you're collaborating with a team or proofreading a document, Acrobat's commenting tools make it simple to provide clear and actionable feedback.  |
 
 For [!DNL Document Cloud] tutorials, see:
 
