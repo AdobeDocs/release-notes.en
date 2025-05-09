@@ -130,7 +130,7 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 * [[!DNL Experience Platform] Mobile SDK release notes](https://developer.adobe.com/client-sdks/documentation/release-notes/)
 
-### New [!DNL Experience Platform] tutorials{#tutorials-aep}
+<!-- ### New [!DNL Experience Platform] tutorials{#tutorials-aep}
 
 New tutorials published for Adobe [!DNL Experience Platform] on Experience League.
 
@@ -139,6 +139,7 @@ New tutorials published for Adobe [!DNL Experience Platform] on Experience Leagu
 |April 2025| [!DNL Experience Platform] | [Evaluate batch audiences on demand](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)| New video | Evaluate batch audiences on demand with flexible audience evaluation. |
 |April 2025| [!DNL Experience Platform] | [Migrate a mobile app from Target to Journey Optimizer](https://experienceleague.adobe.com/en/docs/platform-learn/migrate-target-to-mobile-sdk-decisioning/overview)| New video | Learn how to migrate your mobile app implementation from the Adobe Target to the Adobe Journey Optimizer - Decisioning extension|
 |April 2025| [!DNL Experience Platform] | [Configure a dataset export destination in Experience Platform](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/configure-dataset-export-destination)| Updated video | Learn about the configuration, workflow, and use cases for exporting datasets from Adobe Experience Platform to a cloud storage location using a destination connection. |
+ -->
 
 ### New [!DNL Experience Platform] support knowledge base{#kb-aep}
 
@@ -189,13 +190,13 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 * [AppMeasurement for JavaScript release notes](https://github.com/adobe/appmeasurement/releases)
 
-### New Analytics tutorials {#tutorials-analytics}
+<!-- ### New Analytics tutorials {#tutorials-analytics}
 
 New or updated video tutorials published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|April 2025|[Configure variables in Report Suite Manager](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-variables-in-the-admin-console)| New video |Configure variables and events in [!UICONTROL Report Suite Manager], ensuring that the reports, dimensions, and metrics have the right names and behavior.|
+|April 2025|[Configure variables in Report Suite Manager](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-variables-in-the-admin-console)| New video |Configure variables and events in [!UICONTROL Report Suite Manager], ensuring that the reports, dimensions, and metrics have the right names and behavior.| -->
 
 +++ 
 
@@ -456,8 +457,6 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].
 |April 2025|[Journey Optimizer: Misconfigured `AFTER` date function sends emails to unintended audience](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26173)|New article| Learn about the solution to a misconfigured `AFTER` date function issue in Adobe Journey Optimizer (AJO), which results in emails being sent to members who don't qualify as part of the intended audience.|
 |April 2025|[Unable to establish file routing for [!DNL Azure] in AJO](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26323)|New article| Learn about the solution to the issue when setting up file routing for [!UICONTROL delivery management] (DM) output files from Adobe Journey Optimizer (AJO) to [!DNL Azure], an error occurs due to incorrect configuration of the [!DNL Azure] connection string and container.|
 |April 2025|[Journey not triggering for profile despite meeting event conditions](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26305)|New article| Learn about the solution to the issue where in Adobe Experience Platform's (AEP) [!DNL Journey Orchestration], there are instances where a journey doesn't trigger for a specific profile, even though the event conditions are met.|
-
-+++
 
 ### More resources for [!DNL Journey Optimizer]
 
