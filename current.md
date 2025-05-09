@@ -66,11 +66,11 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 * **Multisolution** | _Level Up with Adobe: How to Apply and Stand out as a Champion_ | Join Adobe's Adoption Marketing team and current Adobe Champions for an exclusive webinar where we'll guide you through the program and share tips on submitting a standout application. | **Thursday, May 15** | [Register](https://engage.adobe.com/Champion_applications.html)
 
-* **[!DNL Workfront]** | _This is the Workfront Collective event - A crowdsourcing opportunity for all Workfronters!_ | This event has no formal presentation or agenda; the topic(s) of discussion are purely based on attendee engagement. | **Monday, May 19** | [Register](https://events-ar.adobeconnect.com/content/adobeconnect/1/655548740/en/events/event/shared/1243343674/event_landing.html?sco-id=1273286511&_charset_=utf-8)
+* **[!DNL Workfront]** | _This is the Workfront Collective event - A crowdsourcing opportunity for all Workfronters!_ | This event has no formal presentation or agenda. The topics of discussion are purely based on attendee engagement. | **Monday, May 19** | [Register](https://events-ar.adobeconnect.com/content/adobeconnect/1/655548740/en/events/event/shared/1243343674/event_landing.html?sco-id=1273286511&_charset_=utf-8)
 
-* **[!DNL Workfront]** | _Creative Ways of Managing Resources in Workfront_ | Are you interested in learning how to effectively manage resources in Workfront without relying on traditional tools like the Resource Planner or Workload Balancer? If so, this session is for you! | **Tuesday, May 20** | [Register](https://events.teams.microsoft.com/event/126180b0-7153-414f-8ef3-a2bbc53176bb@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Creative Ways of Managing Resources in Workfront_ | Are you interested in learning how to manage resources in Workfront without relying on traditional tools like the Resource Planner or Workload Balancer? If so, this session is for you! | **Tuesday, May 20** | [Register](https://events.teams.microsoft.com/event/126180b0-7153-414f-8ef3-a2bbc53176bb@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Commerce]** | _Commerce & Coffee: Driving Growth with SEO_ | In this session, Sr. Commerce Strategy Consultant, Corey Gelato, and Commerce Strategy Consultant, Agbi Bajrushi, will do a deep dive into SEO. | **Wednesday, May 21** | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5750600822/event_landing.html?sco-id=5750592916&campaign-id=ExL&_charset_=utf-8)
+* **[!DNL Commerce]** | _Commerce & Coffee: Driving Growth with SEO_ | In this session, Sr. Commerce Strategy Consultant, Corey Gelato, and Commerce Strategy Consultant, Agbi Bajrushi, will take a deep dive into SEO. | **Wednesday, May 21** | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5750600822/event_landing.html?sco-id=5750592916&campaign-id=ExL&_charset_=utf-8)
 
 * **[!DNL Workfront]** | _Start Fast, Scale Smart: Activating Team-Level Success with Workfront Planning_ | Rolling out a new planning solution across an enterprise can feel like boiling the ocean--costly, slow, and disconnected from the needs of the teams who just want to get things done now. In this session, we'll unpack the federal vs. state model of implementation and show you how early adopters are using Workfront Planning to unlock value fast--without waiting on enterprise-wide consensus.  | **Wednesday, May 28** | [Register](https://events.teams.microsoft.com/event/2fa2a2f4-ada5-4810-9014-aa7fe34d0354@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -267,7 +267,7 @@ New tutorials published for [!DNL Experience Manager] on [!DNL Experience Manage
 |May 2025| [!DNL Experience Manager Sites] | [AEM Sites videos and tutorials](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/overview)| Updated tutorial home | Browse videos and tutorials about the features and capabilities of Adobe Experience Manager Sites. AEM Sites is a leading experience management platform. |
 |May 2025| [!DNL Experience Manager as a Cloud Service] | [Set up OpenAPI-based AEM APIs](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-apis/openapis/setup)| New video | Learn how to set up your AEM as a Cloud Service environment to enable access to the OpenAPI-based AEM APIs. |
 |May 2025| [!DNL Experience Manager Forms] | [Create a form using Adaptive Forms Block](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/edge-delivery/build-forms/getting-started-edge-delivery-services-forms/create-forms)| New video | Get started with Edge Delivery Services for AEM Forms. Craft perfect forms, fast! AEM Forms Edge Delivery doc-based authoring = blazing speed & SEO-friendly forms for happier users & search engines. |
-|May 2025| [!DNL Experience Manager Sites] - Headless | [Advanced Concepts of AEM Headless](https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/advanced-tutorial/overview.html)| New video | An end-to-end tutorial illustrating advanced concepts of Adobe Experience Manager (AEM) GraphQL APIs. |
+|May 2025| [!DNL Experience Manager Sites] - Headless | [Advanced Concepts of AEM Headless](https://experienceleague.adobe.com/en/docs/experience-manager-learn/getting-started-with-aem-headless/graphql/advanced-tutorial/overview)| New video | An end-to-end tutorial illustrating advanced concepts of Adobe Experience Manager (AEM) GraphQL APIs. |
 
 ### New [!DNL Experience Manager] support knowledge base{#kb-aem}
 
@@ -442,7 +442,7 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].
 |April 2025|[Unable to create a dashboard from a query in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26201)|New article| Learn about the solution to the issue when users can't create dashboards directly from queries.|
 |April 2025|[Adobe Journey Optimizer: Multilingual feature gets *Message validation error (CJMMAS - 1069-500)*](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26168)|New article| Learn about the solution to the issue when a *Message Validation Error (CJMMAS - 1069-500)* linked to the multilingual feature, prevents journeys from being set to test mode or published.|
 |April 2025|[Profiles exiting due to event capping in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26018)|New article| Learn about the solution to the issue when profiles unexpectedly exit a journey due to event capping, leading to missed communications.|
-|April 2025|[Discrepancy in link behavior on using HTML component in AJO email templates](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26221)|New article| Learn about the solution to the issue when adding an HTML component to an email content template in Adobe Journey Optimizer (AJO), discrepancies occur in how links behave depending on the email client and viewing mode.|
+|April 2025|[Discrepancy in link behavior on using HTML component in AJO email templates](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26221)|New article| Learn about the solution to the issue when adding an HTML component to an email content template.|
 |April 2025|[Event not triggering journey in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26031)|New article| Learn about the solution to the issue when events sometimes fail to trigger the intended journey, even when all criteria are met.|
 |April 2025|[Adobe Journey Optimizer: External third-party endpoint in custom action times out](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26156)|New article| Learn about the solution to the issue when configuring a custom action in Adobe Journey Optimizer (AJO) to call an external third-party endpoint, timeout errors occur.|
 |April 2025|[Increase in [!UICONTROL Engageable Profiles] count in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26161)|New article| Learn about why the [!UICONTROL Engageable Profiles] count in Adobe Journey Optimizer (AJO) can increase significantly in a short period.|
@@ -462,7 +462,7 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].
 ### More resources for [!DNL Journey Optimizer]
 
 * [[!DNL Journey Optimizer] documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/ajo-home) - [Release rotes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) - [How-to videos](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/overview)
-* [Decision Management documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning) - [Release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) - [How-to videos](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decisioning/introduction-to-decisioning) - [Latest documentation updates](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/documentation-updates)
+* [Decision Management documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning) - [Release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) - [How-to videos](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decision-management/introduction-to-decision-management) - [Latest documentation updates](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/documentation-updates)
 
 +++
 
@@ -500,13 +500,13 @@ Find out the latest release notes and release schedule for [!DNL Marketo Engage]
 * See [Current release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current) for the latest information.
 * See [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/release-schedule) for the latest release schedule information and release notes.
 
-### New Marketo tutorials {#tutorials-marketo}
+<!-- ### New Marketo tutorials {#tutorials-marketo}
 
 New tutorials published for Adobe Marketo.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.|
+|March 2025|[Best practices to implement live chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)| New video |Learn about the best practices to follow when you're implementing the live chat feature in Dynamic Chat.| -->
 
 For the latest product documentation, see the [Marketo product documentation](https://experienceleague.adobe.com/en/docs/marketo/using/home) home
 
@@ -545,18 +545,18 @@ New [!DNL Workfront] tutorials and events on Experience League.
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |May 2025|[Create a timeline view](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-and-manage-timeline-views)|New video |Learn to manage and customize timeline views in Workfront Planning.|
-|May 2025|[Understand multiple billing rates](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-finances/multiple-billing-rates.html?lang=en)|New video |Learn how to manage and customize billing rates for job roles within a project. |
-|May 2025|[Set up exchange rates](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-finances/set-up-exchange-rates.html?lang=en)|New video |Customize currency settings with flexible exchange rate management, global and project-level customization, and manual input options for accurate financial tracking.|
-|May 2025|[Update finances](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-finances/update-and-review-finances.html?lang=en)|New video |Streamline cost tracking and billing by defining rates, assigning cost and revenue types to tasks, managing expenses, and creating billing records. Workfront does not do the actual billing.|
-|May 2025|[Understand performance metrics](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-finances/understand-performance-metrics.html?lang=en)|New video |Discover adaptable financial performance metrics with flexible calculation methods, global defaults, and project-level overrides.|
-|May 2025|[Set up task revenue & cost defaults](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.html?lang=en)|New video |Learn where the revenue type and cost types are used and how to set up the system defaults.|
-|May 2025|[Understand financial access](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-finances/understand-financial-access.html?lang=en)|New video |Learn to control financial data access through customizable permissions, ensuring secure management, project-level oversight, and tailored sharing options for financial visibility.|
-|May 2025|[Set up expense types](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-finances/set-up-expense-types.html?lang=en)|New video |Learn how to use pre-built expense types when entering expenses, and how to create new expense types.|
-|May 2025|[Create a basic filter](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=en)|New video | Learn how to create and use filters in Workfront to customize list reports based on specific criteria. |
-|May 2025|[Understand reporting components](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)|New video |Learn reporting components to refine data visualization with object-based filters, dynamic views, structured groupings, and wildcard functionality for tailored insights.|
-|May 2025|[Find financial information](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-finances/find-financial-information.html?lang=en)|New video |Discover how to efficiently access, analyze, and manage financial data for projects and tasks, covering budgets, revenue, costs, and performance metrics at both project and task levels.|
-|May 2025|[Create reports with charts](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-reports-with-charts.html?lang=en)|New video | Learn how to use charts to visualize data effectively, particularly for tracking project tasks.|
-|May 2025|[Install the Microsoft Outlook add-in](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/integrations/outlook/integrations-microsoft-outlook.html?lang=en)|New video |Learn how to install the Microsoft Outlook Add-in to integrate the Microsoft Outlook calendar with the Workfront Home calendar.|
+|May 2025|[Understand multiple billing rates](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-finances-users/multiple-billing-rates.html?lang=en)|New video |Learn how to manage and customize billing rates for job roles within a project. |
+|May 2025|[Set up exchange rates](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-exchange-rates.html?lang=en)|New video |Customize currency settings with flexible exchange rate management, global and project-level customization, and manual input options for accurate financial tracking.|
+|May 2025|[Update finances](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-finances-users/update-and-review-finances.html?lang=en)|New video |Streamline cost tracking and billing by defining rates, assigning cost and revenue types to tasks, managing expenses, and creating billing records. Workfront does not do the actual billing.|
+|May 2025|[Understand performance metrics](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-performance-metrics.html?lang=en)|New video |Discover adaptable financial performance metrics with flexible calculation methods, global defaults, and project-level overrides.|
+|May 2025|[Set up task revenue & cost defaults](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-task-revenue-and-cost-defaults.html?lang=en)|New video |Learn where the revenue type and cost types are used and how to set up the system defaults.|
+|May 2025|[Understand financial access](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-financial-access.html?lang=en)|New video |Learn to control financial data access through customizable permissions, ensuring secure management, project-level oversight, and tailored sharing options for financial visibility.|
+|May 2025|[Set up expense types](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-expense-types.html?lang=en)|New video |Learn how to use pre-built expense types when entering expenses, and how to create new expense types.|
+|May 2025|[Create a basic filter](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter)|New video | Learn how to create and use filters in Workfront to customize list reports based on specific criteria. |
+|May 2025|[Understand reporting components](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components)|New video |Learn reporting components to refine data visualization with object-based filters, dynamic views, structured groupings, and wildcard functionality for tailored insights.|
+|May 2025|[Find financial information](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-finances-users/find-financial-information.html?lang=en)|New video |Discover how to efficiently access, analyze, and manage financial data for projects and tasks, covering budgets, revenue, costs, and performance metrics at both project and task levels.|
+|May 2025|[Create reports with charts](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-reports-with-charts)|New video | Learn how to use charts to visualize data effectively, particularly for tracking project tasks.|
+|May 2025|[Install the Microsoft Outlook add-in](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/integrations/outlook/integrations-microsoft-outlook)|New video |Learn how to install the Microsoft Outlook Add-in to integrate the Microsoft Outlook calendar with the Workfront Home calendar.|
 
 
 ### New [!DNL Workfront] support knowledge base
@@ -568,9 +568,6 @@ New articles and updates to existing articles for [!DNL Workfront].
 |April 2025|[Resolving 500 errors in [!DNL Adobe Workfront Fusion] scenarios](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26250)|New article| Learn about the solution to the issue where [!DNL Adobe Workfront Fusion] scenarios return a 500 error with the message: *`[ 500] Cannot invoke "java.lang.Class.getName()" because "cls" is null.`* |
 |April 2025|[Resolving inability to delete personal projects in Adobe Workfront](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26238)|New article| Learn about the solution to the issue where administrators can't delete or complete personal projects created in error.|
 
-{style="table-layout:auto"}
-
-
 For the latest product documentation, see the [Adobe [!DNL Workfront] documentation home page](https://experienceleague.adobe.com/en/docs/workfront/using/home).
 
 +++
@@ -581,8 +578,8 @@ Find latest release information and new documentation for [!DNL GenStudio for Pe
 
 +++Release notes and documentation
 
+* [2025.04.10 - Release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest) for GenStudio for Performance Marketing
 * [GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/browse/genstudio-for-performance-marketing) (All self-help)
-* [Release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest) for GenStudio for Performance Marketing
 * [Product documentation](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home) for GenStudio for Performance Marketing
 * [GenStudio for Performance Marketing](https://business.adobe.com/products/genstudio-for-performance-marketing.html) product information
 
@@ -594,7 +591,7 @@ Find latest release information and new documentation for [!DNL GenStudio for Pe
 
 See the following pages for the latest information:
 
-* Mix Modeler [release notes](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest)
+* Mix Modeler [March / April 2025 - Release notes](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest)
 * Mix Modeler [product documentation](https://experienceleague.adobe.com/en/docs/mix-modeler)
 
 +++
@@ -609,7 +606,7 @@ To browse Adobe [!DNL Advertising] help, visit [Adobe Advertising Documentation]
 
 ### New features in [!DNL Advertising DSP] {#advertising-dsp}
 
-March 26, 2025
+May 7, 2025
 
 See [What's new in [!DNL Advertising DSP]](https://experienceleague.adobe.com/en/docs/advertising/dsp/home)
   
