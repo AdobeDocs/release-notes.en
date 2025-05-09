@@ -417,11 +417,17 @@ New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 
 ## [!DNL Journey Optimizer B2B Edition] {#ajo-b2b}
 
-Find release notes and new tutorials [!DNL Journey Optimizer B2B Edition].
+Learn about the latest release information for [!DNL Journey Optimizer B2B Edition]. View the latest documentation updates and videos on Experience League.
 
-+++Release notes
++++Release notes and documentation
 
-Not updated.
+Latest release: April 29, 2025
+
+* [Journey Optimizer B2B Edition](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b) (All self-help)
+* [Release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes) for Journey Optimizer B2B Edition
+* [Product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/guide-overview) for Journey Optimizer B2B Edition
+* [Video overviews and tutorials](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/overview) for Journey Optimizer B2B Edition
+* [Product description and licensing](https://helpx.adobe.com/legal/product-descriptions/adobe-journey-optimizer-b2b.html#_blankl) for Journey Optimizer B2B Edition
 
 <!-- New videos, tutorials, or courses published for Journey Optimizer B2B Edition.
 
@@ -433,7 +439,6 @@ Not updated.
 
 For more information, see: 
 
-* [[!DNL Journey Optimizer B2B Edition] documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/guide-overview) for release notes and self-help.
 * [[!DNL Journey Optimizer B2B Edition]](https://business.adobe.com/products/journey-optimizer-b2b-edition.html) for product information.
 
 +++
