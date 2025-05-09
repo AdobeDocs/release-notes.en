@@ -88,21 +88,7 @@ View the complete listing of [upcoming](https://experienceleague.adobe.com/en/ev
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
-+++Latest release notes
-
-Release date: **May 5, 2025**
-
-**What's new**
-
-* Virtual Assistant beta
-* New Event Glossary help page
-* Bug fixes and improvements
-
-| Feature | Description |
-| ------- | ------- |
-| **Virtual Assistant beta** | <ul><li>Virtual Assistant is a feature that will allow Status customers on the web and mobile to get answers to their questions and help perform quick actions without leaving the home page. It can serve as one place to get all the queries resolved. If you would like to participate in customer beta, please email [statuscom-adobe-support@adobe.com](mailto:statuscom-adobe-support@adobe.com). </li></ul>|
-| **New Event Glossary** | <ul><li>A dedicated help page to guide [!DNL Adobe Status] users on all event types, iconography and their statuses in detail so that it's easier to navigate the website.</li><li>Adobe Status overview page > Help menu, has a new menu item (Event Glossary) that points to this new page.</li><li>Any of the Adobe surfaces that reference [!DNL Adobe Status] may add links to the new help page.</li></ul> |
-| **Bug fixes and improvements** | <ul><li>Slack notifications - Reminder message shows up as Scheduled</li><li>Retired product events should not show on the Overview page</li><li>_Closed_ > _Dismissed CSO_ update message and notifications are not sent</li><li>Status web header and footer taking long time to load on refresh</li><li>Status localization menu on the footer is broken</li></ul> |
++++Previous release notes
 
 Previous release notes for [!DNL Adobe System Status]:
 
@@ -116,7 +102,7 @@ Previous release notes for [!DNL Adobe System Status]:
 
 +++
 
-## [!DNL Experience Cloud] - central interface and administration {#ecloud}
+## [!DNL Experience Cloud] - Central interface and administration {#ecloud}
 
 Learn about updates to [!DNL Experience Cloud] administration interface and central interface components. 
 
@@ -177,7 +163,7 @@ Find the latest tutorials for [!DNL Real-Time CDP].
 
 | Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
-| May 2025 | [Configure the Azure Blob Destination](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination) |  Updated video | Learn how to set up a connection and send data to the Azure Blob Storage destination in Real-Time Customer Data Platform. This destination supports exporting datasets and audiences, and allows you to customize the file headers and data attributes. |
+| May 2025 | [Configure the Azure Blob Destination](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination) |  Updated video | Learn how to set up a connection and send data to the Azure Blob Storage destination in [!DNL Real-Time Customer Data Platform]. This destination supports exporting datasets and audiences, and allows you to customize the file headers and data attributes. |
 
 For more information, see:
 
@@ -209,7 +195,7 @@ New or updated video tutorials published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|April 2025|[Configure variables in Report Suite Manager](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-variables-in-the-admin-console)| New video |Configure variables and events in Report Suite Manager, ensuring that the reports, dimensions, and metrics have the right names and behavior.|
+|April 2025|[Configure variables in Report Suite Manager](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-variables-in-the-admin-console)| New video |Configure variables and events in [!UICONTROL Report Suite Manager], ensuring that the reports, dimensions, and metrics have the right names and behavior.|
 
 +++ 
 
@@ -219,11 +205,11 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 +++Release notes and new tutorials
 
-[!DNL Customer Journey Analytics] release date: **May 14, 2025**
+* [Release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html)
 
-* [!DNL Customer Journey Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html)
+    Releases for [!DNL Customer Journey Analytics] occur on a continuing basis. As such, release notes are updated several times a month. Please check them regularly.
 
-* [!DNL Customer Journey Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/customer-journey-analytics)
+* [Product documentation and tutorials](https://experienceleague.adobe.com/en/docs/customer-journey-analytics)
 
 ### New [!DNL Customer Journey Analytics] tutorials {#tutorials-cja}
 
@@ -231,7 +217,7 @@ New tutorials published for [!DNL Customer Journey Analytics].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|May 2025|[Use the quick insights panel](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/panels/use-the-quick-insights-panel)| New video |Learn how to answer business questions quickly and easily using the quick insights panel in Customer Journey Analytics. |
+|May 2025|[Use the [!UICONTROL Quick insights] panel](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/panels/use-the-quick-insights-panel)| New video |Learn how to answer business questions quickly and easily using the _[!UICONTROL Quick insights]_ panel in [!DNL Customer Journey Analytics]. |
 
 +++
 
@@ -257,13 +243,13 @@ New features, fixes, and updates in [!DNL Experience Manager]. Adobe recommends 
 
 ### Experience Manager release information
 
-Latest [!DNL Experience Manager as a Cloud Service] maintenance release: **March 27, 2025**
+[!DNL Experience Manager as a Cloud Service] maintenance release [2025.4.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current).
 
 All [!DNL Experience Manager] release notes are maintained at the following pages:
 
+* [Latest release notes for [!DNL Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
 * [Latest release overview video](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview)
 * [[!DNL Experience Manager] release updates and roadmaps](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/home) 
-* [Current Release Notes for [!DNL Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
 * [[!DNL Experience Manager] 6.5 Service Pack release notes](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes)
 * [[!DNL Experience Manager] Cloud Manager release notes](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/release-notes/current)
 * [Automated Forms Conversion Service release notes](https://experienceleague.adobe.com/en/docs/aem-forms-automated-conversion-service/using/release-notes)
@@ -377,9 +363,9 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials and Knowled
 
 ### Latest Campaign product releases
 
-* [!DNL Campaign] v8.7.4: April 10, 2025 - [Release notes](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
+* [!DNL Web User Interface]: April 29, 2025 - [Release notes](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
 
-* [!DNL Web User Interface]: February 18, 2025 - [Release notes](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Campaign] v8.7.4: April 10, 2025 - [Release notes](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
 
 * [!DNL Campaign Standard]: 25.1 - [Release notes](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
 
@@ -421,7 +407,7 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 ### [!DNL Journey Optimizer] product release updates
 
-Latest release: April 2025
+Latest release: **May 9, 2025**
 
 * See [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) for updates and help
 
