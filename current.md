@@ -23,12 +23,12 @@ This page helps you find application-specific release notes, upcoming events, ne
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
-**Updated April 25, 2025**
+**Updated May 12, 2025**
 
 +++View all products
 
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
+* [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud) (Updated: **May 12**)
 * [[!DNL Adobe Experience Platform]](#platform) 
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics) 
@@ -60,6 +60,24 @@ To receive a monthly email notification about updates to this page, subscribe to
 Find [events](https://experienceleague.adobe.com/en/events) and register for the ones that interest you.
 
 +++Upcoming events
+
+* **Multisolution** | _Adobe Digital Insights: State of Digital & GenAI Adoption Webinar_ | Powered by data from over one trillion visits to US Sites, Adobe Digital Insights will share key trends across Retail and Travel, including the rise of mobile, GenAI adoption, and the fragmentation of consumer attention. | **Thursday, May 15** | [Register](https://events.teams.microsoft.com/event/c63a6057-465d-486a-a447-f644cd3648e4@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Multisolution** | _Level Up with Adobe: How to Apply and Stand out as a Champion_ | Join Adobe's Adoption Marketing team and current Adobe Champions for an exclusive webinar where we'll guide you through the program and share tips on submitting a standout application. | **Thursday, May 15** | [Register](https://engage.adobe.com/Champion_applications.html)
+
+* **[!DNL Workfront]** | _This is the Workfront Collective event - A crowdsourcing opportunity for all Workfronters!_ | This event has no formal presentation or agenda. The topics of discussion are purely based on attendee engagement. | **Monday, May 19** | [Register](https://events-ar.adobeconnect.com/content/adobeconnect/1/655548740/en/events/event/shared/1243343674/event_landing.html?sco-id=1273286511&_charset_=utf-8)
+
+* **[!DNL Workfront]** | _Creative Ways of Managing Resources in Workfront_ | Are you interested in learning how to manage resources in Workfront without relying on traditional tools like the Resource Planner or Workload Balancer? If so, this session is for you! | **Tuesday, May 20** | [Register](https://events.teams.microsoft.com/event/126180b0-7153-414f-8ef3-a2bbc53176bb@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Commerce]** | _Commerce & Coffee: Driving Growth with SEO_ | In this session, Sr. Commerce Strategy Consultant, Corey Gelato, and Commerce Strategy Consultant, Agbi Bajrushi, will take a deep dive into SEO. | **Wednesday, May 21** | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5750600822/event_landing.html?sco-id=5750592916&campaign-id=ExL&_charset_=utf-8)
+
+* **[!DNL Workfront]** | _Start Fast, Scale Smart: Activating Team-Level Success with Workfront Planning_ | Rolling out a new planning solution across an enterprise can feel like boiling the ocean--costly, slow, and disconnected from the needs of the teams who just want to get things done now. In this session, we'll unpack the federal vs. state model of implementation and show you how early adopters are using Workfront Planning to unlock value fast--without waiting on enterprise-wide consensus.  | **Wednesday, May 28** | [Register](https://events.teams.microsoft.com/event/2fa2a2f4-ada5-4810-9014-aa7fe34d0354@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Unlock the Power of Workfront Data Connect_ | Want to take your Workfront reporting to the next level? Included in the Ultimate package, but available as an add-on ($) for Select or Prime customers, this 1-hour webinar hosted in partnership with Adobe Workfront Product Management, will introduce you to Data Connect and everything it can do.  | **Thursday, May 29** | [Register](https://events.teams.microsoft.com/event/5adb7454-e13d-408d-a430-eb3a69a08510@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Experience Manager Guides]** | _Adobe DITAWORLD 2025_ | Make plans to join us from June 3 - 5, 2025, for three days packed with presentations by industry experts and amazing chats with industry peers. | **June 3 - 5** | [Register](https://2025-adobe-dita-world.meetus.adobeevents.com/?utm_campaign=community_forum&utm_source=experience_league)
+
+* **[!DNL Workfront]** | _Wake Up With Workfront: Optimize to Elevate. Auditing and Aligning your Adobe Workfront Instance_ | Description | **Month, day @ 10:00 AM MT** | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5748588430/event_landing.html?sco-id=5748605291&campaign-id=ExL&_charset_=utf-8)
 
 View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
 
