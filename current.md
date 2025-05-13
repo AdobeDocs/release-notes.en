@@ -5,7 +5,6 @@ doc-type: release notes
 last-update: May 2025
 author: mfrei
 mini-toc-levels: 2
-badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
 # Experience Cloud release notes - May 2025
@@ -24,9 +23,9 @@ This page helps you find application-specific release notes, upcoming events, ne
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
-**Updated May 9, 2025**
+**Updated May 13, 2025**
 
-+++View all products
++++View product links
 
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud)
@@ -88,11 +87,12 @@ View the complete listing of [upcoming](https://experienceleague.adobe.com/en/ev
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
-+++Previous release notes
++++Release notes
 
 Previous release notes for [!DNL Adobe System Status]:
 
-* [August 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/09142023#status)<!-- * [April 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2025/04162025#status) -->
+* [April 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2025/04162025#status)
+* [August 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/09142023#status)
 * [May 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/05152024#status)
 * [January 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/02142024#status)
 * [October 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/10042023#status)
@@ -147,11 +147,11 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
-|April 2025|[AEP: low audience volumes on [!DNL TikTok] destination despite high activation rate](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26380)|New article| Learn about the solution to the issue when [!DNL TikTok] destination in Adobe Experience Platform (AEP) reports lower audience volumes despite a high activation rate (~99%).|
-|April 2025|[Resolve dataset export issues in Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26413)|New article| Learn about the solution when dataset export issues in Adobe Experience Platform occur due to limitations with API-created datasets.|
-|April 2025|[Resolve batch ingestion failure and duplicate ingestion in Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26349)|New article| Learn about the solution to the issue where batch ingestion in Adobe Experience Platform fails while creating a duplicate ingestion.|
-|April 2025|[[!DNL Snowflake] connector authentication failure in Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26294)|New article| Learn about the solution to the issue when authentication failures in Adobe Experience Platform (AEP) and [!DNL Snowflake] stem from private key formatting or configuration issues.|
-|April 2025|[*406 (Not Acceptable)* error when promoting content template](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26320)|New article| Learn how to resolve the *406 (Not Acceptable)* error in Adobe Experience Platform's [!UICONTROL Journey Orchestration] by adjusting API headers.|
+|April 2025|[AEP: low audience volumes on [!DNL TikTok] destination despite high activation rate](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26380)|New article| Learn about the solution to the issue when [!DNL TikTok] destination in Adobe [!DNL Experience Platform] (AEP) reports lower audience volumes despite a high activation rate (~99%).|
+|April 2025|[Resolve dataset export issues in Adobe [!DNL Experience Platform]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26413)|New article| Learn about the solution when dataset export issues in Adobe [!DNL Experience Platform] occur due to limitations with API-created datasets.|
+|April 2025|[Resolve batch ingestion failure and duplicate ingestion in Adobe [!DNL Experience Platform]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26349)|New article| Learn about the solution to the issue where batch ingestion in Adobe [!DNL Experience Platform] fails while creating a duplicate ingestion.|
+|April 2025|[[!DNL Snowflake] connector authentication failure in Adobe [!DNL Experience Platform]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26294)|New article| Learn about the solution to the issue when authentication failures in Adobe [!DNL Experience Platform] (AEP) and [!DNL Snowflake] stem from private key formatting or configuration issues.|
+|April 2025|[*406 (Not Acceptable)* error when promoting content template](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26320)|New article| Learn how to resolve the *406 (Not Acceptable)* error in Adobe [!DNL Experience Platform]'s [!UICONTROL Journey Orchestration] by adjusting API headers.|
 |April 2025|[AEP - What is the difference between HTTP API Destination and Destination SDK?](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26316)|New article| Learn about how the HTTP API Destination and Destination SDK are distinct in their functionality and goals, and how they differ.|
 
 +++
@@ -182,7 +182,7 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 [!DNL Analytics] release date: **May 14, 2025**
 
-* [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html)
+* [!DNL Analytics] [release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest)
 
 * [!DNL Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/analytics)
 
@@ -206,7 +206,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 +++Release notes and new tutorials
 
-* [Release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html)
+* [Release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases)
 
     Releases for [!DNL Customer Journey Analytics] occur on a continuing basis. As such, release notes are updated several times a month. Please check them regularly.
 
@@ -245,6 +245,8 @@ New features, fixes, and updates in [!DNL Experience Manager]. Adobe recommends 
 ### Experience Manager release information
 
 [!DNL Experience Manager as a Cloud Service] maintenance release [2025.4.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current).
+
+Next planned release is **June 5, 2025**.
 
 All [!DNL Experience Manager] release notes are maintained at the following pages:
 
@@ -422,8 +424,8 @@ New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 |May 2025 |Journey Optimizer|[Trigger daily journey runs after batch segmentation completion](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/trigger-daily-journey-runs-after-batch-segmentation-completion)|New video |Learn how to configure read audience journeys to start only after segmentation jobs are complete, ensuring data accuracy and compliance.|
 |May 2025 |Journey Optimizer; Adobe Express|[Edit assets with Adobe Express](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/assets/edit-assets-with-adobe-express)|New video |Learn how to edit your assets in Adobe Journey Optimizer using Adobe Express tools.|
 |May 2025|[!DNL Journey Optimizer]|[Personalization editor playground](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/personalize-content/personalization-editor-playground)| New video | Learn how to leverage predefined code samples, edit dummy profile payloads, and preview the output of your personalization code in real-time. |
-|May 2025|[!DNL Journey Optimizer]; Experience Platform|[Use Decisioning to personalize web offers](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction?lang=en)|New articles |Learn how to use Journey Optimizer (AJO) [!UICONTROL Decisioning] to deliver personalized offers on a web page by leveraging audience segmentation built in Experience Platform (AEP).|
-|May 2025|[!DNL Journey Optimizer]; Experience Platform|[Create audiences using Web SDK](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)| New articles | Learn how to capture user preferences through a web form, send that data to Adobe Experience Platform (AEP) in real time, and dynamically qualify users into targeted audiences based on their selections.|
+|May 2025|[!DNL Journey Optimizer]; [!DNL Experience Platform]|[Use Decisioning to personalize web offers](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/use-decisioning-to-personalize-web-offers/introduction?lang=en)|New articles |Learn how to use Journey Optimizer (AJO) [!UICONTROL Decisioning] to deliver personalized offers on a web page by leveraging audience segmentation built in [!DNL Experience Platform] (AEP).|
+|May 2025|[!DNL Journey Optimizer]; [!DNL Experience Platform]|[Create audiences using Web SDK](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/tutorial-creating-audiences/introduction)| New articles | Learn how to capture user preferences through a web form, send that data to Adobe [!DNL Experience Platform] (AEP) in real time, and dynamically qualify users into targeted audiences based on their selections.|
 
 ### New [!DNL Journey Optimizer] support knowledge base{#kb-ajo}
 
@@ -451,14 +453,14 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].
 |April 2025|[Increase in [!UICONTROL Engageable Profiles] count in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26161)|New article| Learn about why the [!UICONTROL Engageable Profiles] count in Adobe Journey Optimizer (AJO) can increase significantly in a short period.|
 |April 2025|[Troubleshooting **[!UICONTROL Capping rules]** dropdown issues in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26204)|New article| Learn about the solution to issues with the **[!UICONTROL Capping rules]** dropdown menu in Adobe Journey Optimizer (AJO).|
 |April 2025|[Profiles exit journey prematurely in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26127)|New article| Learn about the solution to the issue when profiles unexpectedly exit a journey without passing through a designated node.|
-|April 2025|[Adobe Journey Optimizer checkbox missing in [!UICONTROL Datastream] configuration](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26131)|New article| Learn about the solution to the issue when the Adobe Journey Optimizer checkbox is missing in the [!UICONTROL Datastream] configuration under the Adobe Experience Platform (AEP) service.|
+|April 2025|[Adobe Journey Optimizer checkbox missing in [!UICONTROL Datastream] configuration](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26131)|New article| Learn about the solution to the issue when the Adobe Journey Optimizer checkbox is missing in the [!UICONTROL Datastream] configuration under the Adobe [!DNL Experience Platform] (AEP) service.|
 |April 2025|[[!UICONTROL Preheader] field not displaying in **[!UICONTROL Code your own]** mode in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26174)|New article| Learn about the solution to the issue when the [!UICONTROL Preheader] input field doesn't appear for the  **[!UICONTROL Code your own]** mode under the **[!UICONTROL Edit Email Body]** feature.|
 |April 2025|[Unable to access **[!UICONTROL Offer Decisioning]** in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26175)|New article| Learn about the solution to the issue where a warning appears when integrating Adobe Target into an application using Adobe Journey Optimizer (AJO), indicating that the **[!UICONTROL Offer Decisioning]**  option is inaccessible within the [!UICONTROL Datastream] configuration.|
 |April 2025|[Resolve access issues with [!DNL Adobe Journey Optimizer Query Service API]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26196)|New article| Learn about the solution to the issue when trying to access the [!DNL Adobe Journey Optimizer Query Service API] through [!DNL Postman] or similar tools, access errors occur due to insufficient permissions.|
 |April 2025|[Mail Exchanger error on setting up API-triggered transactional email campaigns in AJO](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26200)|New article| Learn about the solution to the issue when you can't create a new channel configuration due to a Mail Exchanger (MX) error when setting up an API-triggered transactional email campaign in Adobe Journey Optimizer (AJO).|
 |April 2025|[Journey Optimizer: Misconfigured `AFTER` date function sends emails to unintended audience](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26173)|New article| Learn about the solution to a misconfigured `AFTER` date function issue in Adobe Journey Optimizer (AJO), which results in emails being sent to members who don't qualify as part of the intended audience.|
 |April 2025|[Unable to establish file routing for [!DNL Azure] in AJO](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26323)|New article| Learn about the solution to the issue when setting up file routing for [!UICONTROL delivery management] (DM) output files from Adobe Journey Optimizer (AJO) to [!DNL Azure], an error occurs due to incorrect configuration of the [!DNL Azure] connection string and container.|
-|April 2025|[Journey not triggering for profile despite meeting event conditions](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26305)|New article| Learn about the solution to the issue where in Adobe Experience Platform's (AEP) [!DNL Journey Orchestration], there are instances where a journey doesn't trigger for a specific profile, even though the event conditions are met.|
+|April 2025|[Journey not triggering for profile despite meeting event conditions](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26305)|New article| Learn about the solution to the issue where in Adobe [!DNL Experience Platform]'s (AEP) [!DNL Journey Orchestration], there are instances where a journey doesn't trigger for a specific profile, even though the event conditions are met.|
 
 ### More resources for [!DNL Journey Optimizer]
 
