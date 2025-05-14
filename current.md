@@ -471,13 +471,11 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].
 
 ## [!DNL Journey Optimizer B2B Edition] {#ajo-b2b}
 
-Learn about the latest release information for [!DNL Journey Optimizer B2B Edition]. View the latest documentation updates and videos on Experience League.
-
-Learn about the latest release information for [!DNL Journey Optimizer B2B Edition]. View the latest documentation updates and videos on Experience League.
+Learn about the latest release information for [!DNL Journey Optimizer B2B Edition]. 
 
 +++Release notes and documentation
 
-Latest release: April 29, 2025
+Latest release: **April 10, 2025**
 
 * [Journey Optimizer B2B Edition](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b) (All self-help)
 * [Release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes) for Journey Optimizer B2B Edition
