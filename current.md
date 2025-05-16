@@ -23,12 +23,12 @@ This page helps you find application-specific release notes, upcoming events, ne
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
-**Updated May 14, 2025**
+**Updated May 16, 2025**
 
 +++View product links
 
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud) (Updated: **May 12**)
+* [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud) 
 * [[!DNL Adobe Experience Platform]](#platform) 
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics) 
@@ -60,10 +60,6 @@ To receive a monthly email notification about updates to this page, subscribe to
 Find [events](https://experienceleague.adobe.com/en/events) and register for the ones that interest you.
 
 +++Upcoming events
-
-* **Multisolution** | _Adobe Digital Insights: State of Digital & GenAI Adoption Webinar_ | Powered by data from over one trillion visits to US Sites, Adobe Digital Insights will share key trends across Retail and Travel, including the rise of mobile, GenAI adoption, and the fragmentation of consumer attention. | **Thursday, May 15** | [Register](https://events.teams.microsoft.com/event/c63a6057-465d-486a-a447-f644cd3648e4@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **Multisolution** | _Level Up with Adobe: How to Apply and Stand out as a Champion_ | Join Adobe's Adoption Marketing team and current Adobe Champions for an exclusive webinar where we'll guide you through the program and share tips on submitting a standout application. | **Thursday, May 15** | [Register](https://engage.adobe.com/Champion_applications.html)
 
 * **[!DNL Workfront]** | _This is the Workfront Collective event - A crowdsourcing opportunity for all Workfronters!_ | This event has no formal presentation or agenda. The topics of discussion are purely based on attendee engagement. | **Monday, May 19** | [Register](https://events-ar.adobeconnect.com/content/adobeconnect/1/655548740/en/events/event/shared/1243343674/event_landing.html?sco-id=1273286511&_charset_=utf-8)
 
@@ -414,6 +410,8 @@ Latest release: **May 2025**
 
 * See [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) for updates and help
 
+**Note:** [Journey Optimizer for B2B Edition](#journey-optimizer-b2b-edition) is a separate product.
+
 ### New [!DNL Journey Optimizer] tutorials {#tutorials-ajo}
 
 New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
@@ -477,11 +475,11 @@ Learn about the latest release information for [!DNL Journey Optimizer B2B Editi
 
 Latest release: **April 10, 2025**
 
-* [Journey Optimizer B2B Edition](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b) (All self-help)
-* [Release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes) for Journey Optimizer B2B Edition
-* [Product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/guide-overview) for Journey Optimizer B2B Edition
-* [Video overviews and tutorials](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/overview) for Journey Optimizer B2B Edition
-* [Product description and licensing](https://helpx.adobe.com/legal/product-descriptions/adobe-journey-optimizer-b2b.html#_blankl) for Journey Optimizer B2B Edition
+* [[!DNL Journey Optimizer B2B Edition]](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b) (All self-help)
+* [Release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes) for [!DNL Journey Optimizer B2B Edition]
+* [Product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/guide-overview) for [!DNL Journey Optimizer B2B Edition]
+* [Video overviews and tutorials](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/overview) for [!DNL Journey Optimizer B2B Edition]
+* [Product description and licensing](https://helpx.adobe.com/legal/product-descriptions/adobe-journey-optimizer-b2b.html#_blankl) for [!DNL Journey Optimizer B2B Edition]
 
 <!-- New videos, tutorials, or courses published for Journey Optimizer B2B Edition.
 
