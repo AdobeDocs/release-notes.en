@@ -23,7 +23,7 @@ This page helps you find application-specific release notes, upcoming events, ne
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
-**Updated May 16, 2025**
+**Updated May 19, 2025**
 
 +++View product links
 
@@ -60,8 +60,6 @@ To receive a monthly email notification about updates to this page, subscribe to
 Find [events](https://experienceleague.adobe.com/en/events) and register for the ones that interest you.
 
 +++Upcoming events
-
-* **[!DNL Workfront]** | _This is the Workfront Collective event - A crowdsourcing opportunity for all Workfronters!_ | This event has no formal presentation or agenda. The topics of discussion are purely based on attendee engagement. | **Monday, May 19** | [Register](https://events-ar.adobeconnect.com/content/adobeconnect/1/655548740/en/events/event/shared/1243343674/event_landing.html?sco-id=1273286511&_charset_=utf-8)
 
 * **[!DNL Workfront]** | _Creative Ways of Managing Resources in Workfront_ | Are you interested in learning how to manage resources in Workfront without relying on traditional tools like the Resource Planner or Workload Balancer? If so, this session is for you! | **Tuesday, May 20** | [Register](https://events.teams.microsoft.com/event/126180b0-7153-414f-8ef3-a2bbc53176bb@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
