@@ -23,7 +23,7 @@ This page helps you find application-specific release notes, upcoming events, ne
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
-**Updated May 20, 2025**
+**Updated May 22, 2025**
 
 +++View product links
 
@@ -59,13 +59,11 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 Find [events](https://experienceleague.adobe.com/en/events) and register for the ones that interest you.
 
-Updated: **May 20, 2025**
+Updated: **May 22, 2025**
 
 +++Upcoming events
 
-* **[!DNL Commerce]** | _Commerce & Coffee: Driving Growth with SEO_ | In this session, Sr. Commerce Strategy Consultant, Corey Gelato, and Commerce Strategy Consultant, Agbi Bajrushi, will take a deep dive into SEO. | **Wednesday, May 21** | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5750600822/event_landing.html?sco-id=5750592916&campaign-id=ExL&_charset_=utf-8)
-
-* **[!DNL Content Analytics]** | _Adobe Experience League LIVE: Content Analytics: Optimize performance with AI insights_ | Join us for an insightful one-hour livestream event where we dive into the transformative world of Content Analytics, powered by Adobe's cutting-edge AI technology. This session will explore how Content Analytics can revolutionize the way you measure, understand, and optimize content performance.  | **Thursday, May 22 @ 9:00 a.m. PT** | [Register](https://engage.adobe.com/ExpLeagueLive-250522.html?sdid=NGWGR6CF&mv=other)
+* **[!DNL Content Analytics]** | _Adobe Experience League LIVE: Content Analytics: Optimize performance with AI insights_ | Join us for an insightful one-hour livestream event where we dive into the transformative world of Content Analytics, powered by Adobe's cutting-edge AI technology. This session will explore how Content Analytics can revolutionize the way you measure, understand, and optimize content performance.  | **RESCHEDULED** | [Register](https://engage.adobe.com/ExpLeagueLive-250522.html?sdid=NGWGR6CF&mv=other) **NOTE:** This event is being rescheduled due to technical issues.
 
 * **[!DNL Workfront]** | _Start Fast, Scale Smart: Activating Team-Level Success with Workfront Planning_ | Rolling out a new planning solution across an enterprise can feel like boiling the ocean - costly, slow, and disconnected from the needs of the teams who just want to get things done now. In this session, we'll unpack the federal vs. state model of implementation and show you how early adopters are using Workfront Planning to unlock value fast - without waiting on enterprise-wide consensus.  | **Wednesday, May 28** | [Register](https://events.teams.microsoft.com/event/2fa2a2f4-ada5-4810-9014-aa7fe34d0354@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
