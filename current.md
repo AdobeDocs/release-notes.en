@@ -59,11 +59,11 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 Find [events](https://experienceleague.adobe.com/en/events) and register for the ones that interest you.
 
-Updated: **May 22, 2025**
+Updated: **May 27, 2025**
 
 +++Upcoming events
 
-* **[!DNL Content Analytics]** | _Adobe Experience League LIVE: Content Analytics: Optimize performance with AI insights_ | Join us for an insightful one-hour livestream event where we dive into the transformative world of Content Analytics, powered by Adobe's cutting-edge AI technology. This session will explore how Content Analytics can revolutionize the way you measure, understand, and optimize content performance.  | **RESCHEDULED** | [Register](https://engage.adobe.com/ExpLeagueLive-250522.html?sdid=NGWGR6CF&mv=other) **NOTE:** This event is being rescheduled due to technical issues.
+* **[!DNL Content Analytics]** | _Adobe Experience League LIVE: Content Analytics: Optimize performance with AI insights_ | Join us for an insightful one-hour livestream event where we dive into the transformative world of Content Analytics, powered by Adobe's cutting-edge AI technology. This session will explore how Content Analytics can revolutionize the way you measure, understand, and optimize content performance.  | **Rescheduled for May 28** | [Register](https://engage.adobe.com/ExpLeagueLive-250522.html?sdid=NGWGR6CF&mv=other)
 
 * **[!DNL Workfront]** | _Start Fast, Scale Smart: Activating Team-Level Success with Workfront Planning_ | Rolling out a new planning solution across an enterprise can feel like boiling the ocean - costly, slow, and disconnected from the needs of the teams who just want to get things done now. In this session, we'll unpack the federal vs. state model of implementation and show you how early adopters are using Workfront Planning to unlock value fast - without waiting on enterprise-wide consensus.  | **Wednesday, May 28** | [Register](https://events.teams.microsoft.com/event/2fa2a2f4-ada5-4810-9014-aa7fe34d0354@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -104,15 +104,11 @@ Learn about updates to [!DNL Experience Cloud] administration interface and cent
 
 +++New features
 
-No updates in May.
-
 See the [Experience Cloud interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) guide for help on:
 
-* User management and product licenses (Admin Console)
-* Generative AI in Experience Cloud applications
-* Customer Attributes and Audience Library
-* Assets in Experience Cloud
-* Cookies in Experience Cloud
+* **New!** [Generative AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai)
+* [User management and product licenses](https://experienceleague.adobe.com/en/docs/core-services/interface/administration/admin-console) (Admin Console)
+* [Customer Attributes, Audience Library, Assets](https://experienceleague.adobe.com/en/docs/core-services/interface/services/overview), and more
 
 +++
 
