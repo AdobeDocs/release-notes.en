@@ -23,7 +23,7 @@ This page helps you find application-specific release notes, upcoming events, ne
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
-**Updated May 22, 2025**
+**Updated May 28, 2025**
 
 +++View product links
 
@@ -59,13 +59,9 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 Find [events](https://experienceleague.adobe.com/en/events) and register for the ones that interest you.
 
-Updated: **May 27, 2025**
+Updated: **May 28, 2025**
 
 +++Upcoming events
-
-* **[!DNL Content Analytics]** | _Adobe Experience League LIVE: Content Analytics: Optimize performance with AI insights_ | Join us for an insightful one-hour livestream event where we dive into the transformative world of Content Analytics, powered by Adobe's cutting-edge AI technology. This session will explore how Content Analytics can revolutionize the way you measure, understand, and optimize content performance.  | **Rescheduled for May 28** | [Register](https://engage.adobe.com/ExpLeagueLive-250522.html?sdid=NGWGR6CF&mv=other)
-
-* **[!DNL Workfront]** | _Start Fast, Scale Smart: Activating Team-Level Success with Workfront Planning_ | Rolling out a new planning solution across an enterprise can feel like boiling the ocean - costly, slow, and disconnected from the needs of the teams who just want to get things done now. In this session, we'll unpack the federal vs. state model of implementation and show you how early adopters are using Workfront Planning to unlock value fast - without waiting on enterprise-wide consensus.  | **Wednesday, May 28** | [Register](https://events.teams.microsoft.com/event/2fa2a2f4-ada5-4810-9014-aa7fe34d0354@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | _Unlock the Power of Workfront Data Connect_ | Want to take your Workfront reporting to the next level? Included in the Ultimate package, but available as an add-on ($) for Select or Prime customers, this 1-hour webinar hosted in partnership with Adobe Workfront Product Management, will introduce you to Data Connect and everything it can do.  | **Thursday, May 29** | [Register](https://events.teams.microsoft.com/event/5adb7454-e13d-408d-a430-eb3a69a08510@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
