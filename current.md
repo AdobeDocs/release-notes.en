@@ -63,12 +63,6 @@ Updated: **May 28, 2025**
 
 +++Upcoming events
 
-* **[!DNL Workfront]** | _Unlock the Power of Workfront Data Connect_ | Want to take your Workfront reporting to the next level? Included in the Ultimate package, but available as an add-on ($) for Select or Prime customers, this 1-hour webinar hosted in partnership with Adobe Workfront Product Management, will introduce you to Data Connect and everything it can do.  | **Thursday, May 29** | [Register](https://events.teams.microsoft.com/event/5adb7454-e13d-408d-a430-eb3a69a08510@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Experience Manager Guides]** | _Adobe DITAWORLD 2025_ | Make plans to join us from June 3 - 5, 2025, for three days packed with presentations by industry experts and amazing chats with industry peers. | **June 3 - 5** | [Register](https://2025-adobe-dita-world.meetus.adobeevents.com/?utm_campaign=community_forum&utm_source=experience_league)
-
-* **[!DNL Workfront]** | _Wake Up With Workfront: Optimize to Elevate. Auditing and Aligning your Adobe Workfront Instance_ | Whether you've just inherited an Adobe Workfront instance or you've been managing one for years, a structured review is your first step toward long-term success. We'll walk through how to assess your instance with clarity and purpose - identifying what's working, where opportunities lie, and how to set the stage for scalable improvement. | **Thursday, June 5** | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5748588430/event_landing.html?sco-id=5748605291&campaign-id=ExL&_charset_=utf-8)
-
 * **[!DNL Workfront]** | _Admin 101: Getting Workfront Data_ | Welcome to Workfront! Designed for beginner system administrators, this series of events will provide new admins with an introduction to available resources, a rundown of system navigation, and best practices around initial setup, intake, and basic reporting. | **Tuesday, June 6** | [Register](https://events.teams.microsoft.com/event/91b3c81f-d8b8-4f30-94e1-8d532b2853e1@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
