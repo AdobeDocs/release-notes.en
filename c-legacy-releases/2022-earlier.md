@@ -1,7 +1,6 @@
 ---
-description: Archived release notes for Experience Cloud products and services.
-seo-description: New features and fixes in the Adobe Experience Cloud - 2018 and earlier.
-title: Release Notes for 2021 and Earlier
+description: Archived PDF release notes for Experience Cloud products and services.
+title: Release Notes for 2022 and Earlier
 solution: Experience Cloud,Analytics,Target,Advertising
 seo-title: Release Notes for 2021 and Earlier for Adobe Experience Cloud
 uuid: c56a1064-0f2c-4241-93c6-ca4b1f267763
