@@ -23,7 +23,7 @@ This page helps you find application-specific release notes, upcoming events, ne
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
-**Updated May 28, 2025**
+**Updated June 3, 2025**
 
 +++View product links
 
@@ -59,11 +59,9 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 Find [events](https://experienceleague.adobe.com/en/events) and register for the ones that interest you.
 
-Updated: **May 28, 2025**
+Updated: **June 3, 2025**
 
 +++Upcoming events
-
-* **[!DNL Workfront]** | _Unlock the Power of Workfront Data Connect_ | Want to take your Workfront reporting to the next level? Included in the Ultimate package, but available as an add-on ($) for Select or Prime customers, this 1-hour webinar hosted in partnership with Adobe Workfront Product Management, will introduce you to Data Connect and everything it can do.  | **Thursday, May 29** | [Register](https://events.teams.microsoft.com/event/5adb7454-e13d-408d-a430-eb3a69a08510@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Experience Manager Guides]** | _Adobe DITAWORLD 2025_ | Make plans to join us from June 3 - 5, 2025, for three days packed with presentations by industry experts and amazing chats with industry peers. | **June 3 - 5** | [Register](https://2025-adobe-dita-world.meetus.adobeevents.com/?utm_campaign=community_forum&utm_source=experience_league)
 
