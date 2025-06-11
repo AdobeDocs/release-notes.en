@@ -2,12 +2,12 @@
 title: Latest Release Notes
 description: Find the latest release notes and Knowledge Base issues for Adobe [!DNL Experience Cloud] products and services. Learn about upcoming events and new documentation on Experience League. Discover the latest tutorials and courses for [!DNL Experience Cloud] applications.
 doc-type: release notes
-last-update: May 2025
+last-update: June 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
-# Experience Cloud release notes - May 2025
+# Experience Cloud release notes - June 2025
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -23,7 +23,7 @@ This page helps you find application-specific release notes, upcoming events, ne
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
-**Updated May 28, 2025**
+**Updated June 10, 2025**
 
 +++View product links
 
@@ -59,11 +59,11 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 Find [events](https://experienceleague.adobe.com/en/events) and register for the ones that interest you.
 
-Updated: **May 28, 2025**
+Updated: **June 10, 2025**
 
 +++Upcoming events
 
-* **[!DNL Workfront]** | _Admin 101: Getting Workfront Data_ | Welcome to Workfront! Designed for beginner system administrators, this series of events will provide new admins with an introduction to available resources, a rundown of system navigation, and best practices around initial setup, intake, and basic reporting. | **Tuesday, June 6** | [Register](https://events.teams.microsoft.com/event/91b3c81f-d8b8-4f30-94e1-8d532b2853e1@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL AEM Sites]** | _[AEM GEMs]  Maximize the impact of your web experience with AEM Sites Optimizer_ | Dive into the technical details behind AEM Sites Optimizer, the newest AI-first application in the AEM portfolio that helps brands optimize the business impact of their websites by leveraging agents to identify, suggest, and fix issues around traffic acquisition and engagement. | **Wednesday, June 18** | [Register](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aemug-aem-learning-chapter-presents-aem-gems-maximize-the-impact-of-your-web-experience-with-aem-sites-optimizer-1/)
 
 View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
 
