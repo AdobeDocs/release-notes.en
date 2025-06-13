@@ -40,16 +40,5 @@ user-guide-url: https://www.adobe.com
     + [March 2023](c-legacy-releases/2023/03082023.md)
     + [February 2023](c-legacy-releases/2023/02082023.md)  
     + [January 2023](c-legacy-releases/2023/01112023.md)    
-  + 2022 {#2022}
-    + [October 2022](c-legacy-releases/2022/10052022.md)  
-    + [September 2022](c-legacy-releases/2022/09072022.md)   
-    + [August 2022](c-legacy-releases/2022/08172022.md)   
-    + [July 2022](c-legacy-releases/2022/07202022.md)  
-    + [June 2022](c-legacy-releases/2022/06152022.md)   
-    + [May 2022](c-legacy-releases/2022/05182022.md)
-    + [April 2022](c-legacy-releases/2022/04202022.md)
-    + [March 2022](c-legacy-releases/2022/03232022.md)
-    + [February 2022](c-legacy-releases/2022/02162022.md)
-    + [January 2022](c-legacy-releases/2022/01192022.md)
-  + 2021 and earlier {#legacy-rns}
-    + [2021 and earlier](c-legacy-releases/2022-earlier.md)
+  + 2022 and earlier {#legacy-rns}
+    + [2022 and earlier](c-legacy-releases/2022-earlier.md)
