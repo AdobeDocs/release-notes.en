@@ -15,6 +15,12 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 This page helps you find application-specific release notes, upcoming events, new tutorials, and the latest Support articles on Experience League. 
 
+What's new at Experience League
+
+* Personalized homepage tailored to your Adobe interests
+* Smart certification recommendations that support your up-skilling journey
+* Free learning resources, detailed documentation, and community support to explore
+
 <!-- * [Customize your learning](https://experienceleague.adobe.com/en/home/profile-settings): Help us customize your learning experience. Select your role, industry, and the products that interest you.
 * [Browse and discover](https://experienceleague.adobe.com/en/browse): Find popular content, new tutorials, documentation, upcoming events, and more!
 * [Get fresh perspectives](https://experienceleague.adobe.com/en/perspectives): We've gathered a variety of real-world use cases and best practices, written by your peers and Adobe product experts. 
@@ -216,7 +222,13 @@ New tutorials published for [!DNL Customer Journey Analytics].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|May 2025|[Use the [!UICONTROL Quick insights] panel](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/panels/use-the-quick-insights-panel)| New video |Learn how to answer business questions quickly and easily using the _[!UICONTROL Quick insights]_ panel in [!DNL Customer Journey Analytics]. |
+|June 2025|[Introduction to the Data Insights Agent](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-insights-agent/introduction-to-the-data-insights-agent)| New video |Learn about the Data Insights Agent in Customer Journey Analytics. This AI-driven solution breaks through enterprise bottlenecks by providing instant, transparent insights to marketers.|
+|June 2025|[Use the Data Insights Agent](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-insights-agent/use-the-data-insights-agent)| New video |Analyze data using natural language prompts, generating freeform tables, visualizations, and data comparisons, reducing reliance on data analysts.|
+|June 2025|[Data Insights Agent use cases](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-insights-agent/data-insights-agent-use-cases)| New video |Streamline analysis using natural language queries, real-time visualizations, and freeform tables. Boost efficiency across marketing strategy development, campaign management, and business performance reporting.|
+|June 2025|[Content Analytics - Create configuration](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/create-configuration)| New video |Learn how to use the Content Analytics guided workflow. It simplifies the setup process for Marketers, enabling efficient data collection, processing, and reporting within Customer Journey Analytics.|
+|June 2025|[Add components to the freeform panel](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/panels/add-components-to-the-freeform-panel)| New video |Use freeform panels to explore, compare, and correlate your customer experience data through a flexible, drag-and-drop interface.|
+|June 2025|[Content Analytics - Edit configuration](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/edit-configuration)| New video |Efficiently edit Content Analytics configurations by adjusting names, data views, and experience capture settings. This action automatically updates metrics and performs fine-tuning via the Content Analytics Tags extension for optimized insights.|
+|June 2025|[Set up permissions](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/access-control/set-up-permissions)| New video |Learn to set up role-based permissions in Customer Journey Analytics. Learn to assign users, configure product profiles, and manage access levels. See how to apply granular data controls, such as row-level and metric-level filtering, using segments within data views|
 
 +++
 
@@ -391,14 +403,13 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials and Knowled
 
 * [!DNL Campaign Classic] 7.4.2: May 12, 2025 - [Release notes](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/campaign-classic-home)
 
-<!-- ### New [!DNL Campaign] tutorials {#tutorials-campaign}
+### New [!DNL Campaign] tutorials {#tutorials-campaign}
 
 New or updated videos tutorials published for Adobe Campaign.
 
 | Published | Application | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|January 2025| |[Create and manage test profiles](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/profiles-and-audiences/create-and-manage-test-profiles)|New video |Learn how to create a test profile in the client console and how to manage, and edit profiles in the Adobe Campaign Web UI.|
-|January 2025| |[Enhance a delivery with dynamic content](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content)|New video |Learn how to make message content dynamic by using the expression editor to personalize your message or add conditional content.| -->
+|June 2025| |[Create content using the AI Assistant for content generation](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-content-using-the-ai-assistant)| New video |Learn how to use Adobe's AI Assistant Content Accelerator to quickly generate and customize marketing emails, including subject lines, body text, and images, while integrating brand-approved assets for consistency and compliance.|
 
 ### New [!DNL Campaign] support knowledge base{#kb-campaign}
 
