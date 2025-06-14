@@ -23,7 +23,7 @@ This page helps you find application-specific release notes, upcoming events, ne
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
-**Updated June 13, 2025**
+**Updated June 14, 2025**
 
 +++View product links
 
@@ -59,7 +59,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 Find [events](https://experienceleague.adobe.com/en/events) and register for the ones that interest you.
 
-Updated: **June 14, 2025**
+Updated: **June 18, 2025**
 
 +++Upcoming events
 
@@ -458,7 +458,7 @@ New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 |June 2025|[!DNL Journey Optimizer]|[Identify potential conflicts](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts)|New video |Discover how to identify and manage potential conflicts - such as overlapping audiences, concurrent timelines, shared communication channels, and frequency constraints across journeys and campaigns to ensure a seamless and customer-friendly communication experience.  |
 |June 2025|[!DNL Journey Optimizer]|[Journey Frequency capping and prioritization](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization)|New video | Learn how to prioritize inbound actions, ensuring that the highest priority content is delivered to a customer when they qualify for multiple inbound actions using the same channel configuration. |
 |June 2025|[!DNL Journey Optimizer]|[Assign priority scores to inbound actions](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score)|New video |Learn how to prioritize inbound actions, ensuring that the highest priority content is delivered to a customer when they qualify for multiple inbound actions using the same channel configuration.  |
-|June 2025|[!DNL Journey Optimizer]|[Use case description](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/introduction)|New video | Establish identity stitching between a known user (CRMID) and an anonymous web visitor (ECID), enabling unified profiles for real-time personalization and offer decisioning in Adobe Journey Optimizer (AJO). |
+|June 2025|[!DNL Journey Optimizer]|[Identity stitching in AEP](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/introduction)|New video | Establish identity stitching between a known user (CRMID) and an anonymous web visitor (ECID), enabling unified profiles for real-time personalization and offer decisioning in Adobe Journey Optimizer (AJO). |
 |June 2025|[!DNL Journey Optimizer]|[Configure an email channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/email-channel/configure-email-channel)|New video |Learn how to configure the email channel in Adobe Journey Optimizer. The video walks through setting up email configurations, including subdomains, IP pools, unsubscribe management, sender personalization, BCC and seed lists, retry logic, and tracking parameters. |
 |June 2025|[!DNL Journey Optimizer]|[Guide to the Formula Builder Interface in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/formula-builder-ui)|New video |Learn how to adjust real time scores of Adobe Decisioning AI models based on conditions relating to the offer, the profile, or the context. |
 |June 2025|[!DNL Journey Optimizer]|[Use case description](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)|New article |Learn how to deliver dynamic, weather-aware offers in Adobe Journey Optimizer using real-time contextual data and the Adobe Web SDK Personalization API.  |
@@ -654,15 +654,15 @@ See [Adobe Pass Documentation](https://experienceleague.adobe.com/en/docs/pass) 
 
 New tutorials published for [!DNL Document Cloud], including [!DNL Acrobat Services] and [!DNL Acrobat Sign].
 
-+++New tutorials
++++Latest tutorials
 
-New tutorials published for Adobe Document Cloud.
+<!-- New tutorials published for Adobe Document Cloud.
 
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| May 2025 | Applications | [Comment on a PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files) |  Updated video | Learn how to add comments on a shared PDF using just a web browser. Whether you're collaborating with a team or proofreading a document, Acrobat's commenting tools make it simple to provide clear and actionable feedback.  |
+| May 2025 | Applications | [Comment on a PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files) |  Updated video | Learn how to add comments on a shared PDF using just a web browser. Whether you're collaborating with a team or proofreading a document, Acrobat's commenting tools make it simple to provide clear and actionable feedback.  | -->
 
-For [!DNL Document Cloud] tutorials, see:
+To browse [!DNL Document Cloud] tutorials, see:
 
 * [Adobe Acrobat](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/overview)
 * [Adobe Acrobat Sign](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/overview)
@@ -675,14 +675,14 @@ For [!DNL Document Cloud] tutorials, see:
 
 New tutorials published for applications in [!DNL Adobe Creative Cloud for enterprise].
 
-+++Recent tutorials
++++Latest tutorials
 
 <!-- | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | February 2025 | Applications | [Effortless brand consistency with templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/use-templates) | New video | Learn how to create on-brand content quickly and efficiently across your entire organization. This tutorial walks through how to create fresh new on-brand content that can immediately be shared and localized.|
 | February 2025 | Applications | [Maximize efficiency: Create reusable templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/create-templates) | New video | Learn how to bring brand consistency, efficiency, professionalism, and cost savings to your organization with Adobe Express templates. | -->
 
-See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) for the latest tutorials.
+See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) to find the latest tutorials.
 
 +++
 
