@@ -13,13 +13,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-This page helps you find application-specific release notes, upcoming events, new tutorials, and the latest Support articles on Experience League. 
-
-What's new at Experience League
-
-* Personalized homepage tailored to your Adobe interests
-* Smart certification recommendations that support your up-skilling journey
-* Free learning resources, detailed documentation, and community support to explore
+This page helps you find application-specific release notes, upcoming events, new tutorials, and the latest Support articles on Experience League. Your personalized homepage on Experience League is tailored to your interests.
 
 <!-- * [Customize your learning](https://experienceleague.adobe.com/en/home/profile-settings): Help us customize your learning experience. Select your role, industry, and the products that interest you.
 * [Browse and discover](https://experienceleague.adobe.com/en/browse): Find popular content, new tutorials, documentation, upcoming events, and more!
@@ -29,7 +23,7 @@ What's new at Experience League
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
-**Updated June 10, 2025**
+**Updated June 13, 2025**
 
 +++View product links
 
@@ -65,11 +59,16 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 Find [events](https://experienceleague.adobe.com/en/events) and register for the ones that interest you.
 
-Updated: **June 10, 2025**
+Updated: **June 13, 2025**
 
 +++Upcoming events
 
 * **[!DNL AEM Sites]** | _[AEM GEMs]  Maximize the impact of your web experience with AEM Sites Optimizer_ | Dive into the technical details behind AEM Sites Optimizer, the newest AI-first application in the AEM portfolio that helps brands optimize the business impact of their websites by leveraging agents to identify, suggest, and fix issues around traffic acquisition and engagement. | **Wednesday, June 18** | [Register](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aemug-aem-learning-chapter-presents-aem-gems-maximize-the-impact-of-your-web-experience-with-aem-sites-optimizer-1/)
+
+* **[!DNL AJO]** | _Experience League LIVE: Master Frequency Capping & Conflict Prioritization - Adobe Journey Optimizer_ | Join us for an engaging Adobe Experience League LIVE episode where Adobe experts dive into new features in Adobe Journey Optimizer to help you govern and prioritize customer messages with precision. Learn how to reduce messaging fatigue, resolve conflicts, and deliver impactful experiences that resonate. | **Wednesday, June 18** | [Register](https://engage.adobe.com/ExpLeagueLive-250618.html?sdid=MV79RSYQ&mv=other)
+
+* **[!DNL Customer Journey Analytics]** | _The Perfect Blend: Improve Your Data Reporting & Visualization with Customer Journey Analytics_ | Join us for an in-depth session on how Customer Journey Analytics (CJA) can immediately boost your cross-channel data analysis and reporting. Whether you're using Adobe Analytics, Adobe Target, or Adobe Journey Optimizer (AJO), this session will show you how CJA enables a new level of reporting and decision making with enhanced insights.  | **Thursday, June 19** | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5751870235/event_landing.html?sco-id=5751870273&campaign-id=ExL&_charset_=utf-8)
+
 
 View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
 
@@ -255,7 +254,7 @@ New features, fixes, and updates in [!DNL Experience Manager]. Adobe recommends 
 
 [!DNL Experience Manager as a Cloud Service] maintenance release [2025.4.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current).
 
-Next planned release is **June 5, 2025**.
+Next planned release is **June 26, 2025**.
 
 All [!DNL Experience Manager] release notes are maintained at the following pages:
 
@@ -432,7 +431,7 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 ### [!DNL Journey Optimizer] product release updates
 
-Latest release: **May 2025**
+Latest release: **June 2025**
 
 * See [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) for updates and help
 
@@ -481,7 +480,7 @@ Learn about the latest release information for [!DNL Journey Optimizer B2B Editi
 
 +++Release notes and documentation
 
-Latest release: **April 10, 2025**
+Latest release: **June 3, 2025**
 
 * [[!DNL Journey Optimizer B2B Edition]](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b) (All self-help)
 * [Release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes) for [!DNL Journey Optimizer B2B Edition]
@@ -510,6 +509,8 @@ Find out the latest release notes and release schedule for [!DNL Marketo Engage]
 +++Release notes, tutorials, and support articles
 
 ### Core Marketo Engage updates
+
+Release: **May 2025**
 
 * See [Current release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current) for the latest information.
 * See [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/release-schedule) for the latest release schedule information and release notes.
@@ -563,14 +564,13 @@ New [!DNL Workfront] tutorials and events on Experience League.
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |June 2025|[Copy a report](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/copy-a-report.html)|New video |Learn how to quickly create a new report by copying and editing a similar report.|
-|June 2025|[Initial scenario design exercise](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/initial-scenario-design.html?lang=en)|New article |Learn some basic navigation tips for when you first log into Workfront Fusion, as well as building your first scenario.|
 |June 2025|[linCreate basic filter activitiesktext](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html?lang=en)|New article |In this activity you will create a project filter named "All projects in the Marketing portfolio" in the Legacy filter experience. This will show you all the projects in the portfolio named "Marketing Portfolio" regardless of their status.|
 |June 2025|[Create a matrix report](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-matrix-report.html?lang=en)|New video |Learn when a matrix report can be useful and how to create a matrix report in Workfront.|
 |June 2025|[Send and share reports](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html?lang=en)|New video |Learn how to send reports to users, teams, or any email address, and how to share reports with anyone in Workfront.|
 |June 2025|[Create dashboards](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en)|New video |Organize and display project data with Workfront dashboards, which can be customized, accessed easily, shared, and printed for seamless project management and collaboration.|
 |June 2025|[Understand report settings](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html?lang=en)|New video |Learn how to access Workfront report settings and what some common report settings are used for.|
 |June 2025|[Create a basic view](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)|New video |Learn what a view is, how to create a view, and how to share a view with other users in Workfront.|
-|June 2025|[Track proof progress](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/track-proof-progress.html?lang=en)|New video |Learn how to use SOCD indicators, proof progress, and reports to track the progress of a proof in  Workfront.|
+|June 2025|[Track proof progress](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/track-proof-progress.html?lang=en)|New article |Learn how to use SOCD indicators, proof progress, and reports to track the progress of a proof in  Workfront.|
 |June 2025|[Create a task report](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en)|New video |Learn how to create a task report with a complex filter and find the reports you create in Workfront.|
 |June 2025|[Connect record types](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/connect-record-types)|New video |Learn how to connect record types in Workfront Planning to streamline workflows, boost clarity, and enhance team accountability and efficiency. ​|
 
@@ -594,7 +594,7 @@ Find latest release information and new documentation for [!DNL GenStudio for Pe
 
 +++Release notes and documentation
 
-* [2025.04.10 - Release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest) for GenStudio for Performance Marketing
+* [2025.06 - Release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest) for GenStudio for Performance Marketing
 * [GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/browse/genstudio-for-performance-marketing) (All self-help)
 * [Product documentation](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home) for GenStudio for Performance Marketing
 * [GenStudio for Performance Marketing](https://business.adobe.com/products/genstudio-for-performance-marketing.html) product information
@@ -607,7 +607,7 @@ Find latest release information and new documentation for [!DNL GenStudio for Pe
 
 See the following pages for the latest information:
 
-* Mix Modeler [March / April 2025 - Release notes](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest)
+* Mix Modeler [May - June 2025 - Release notes](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest)
 * Mix Modeler [product documentation](https://experienceleague.adobe.com/en/docs/mix-modeler)
 
 +++
@@ -622,13 +622,13 @@ To browse Adobe [!DNL Advertising] help, visit [Adobe Advertising Documentation]
 
 ### New features in [!DNL Advertising DSP] {#advertising-dsp}
 
-May 7, 2025
+June 4, 2025
 
 See [What's new in [!DNL Advertising DSP]](https://experienceleague.adobe.com/en/docs/advertising/dsp/home)
   
 ### New features in [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
 
-March 26, 2024
+March 26, 2026
 
 See [What's new in [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/home)
 
@@ -639,12 +639,6 @@ See [What's new in [!DNL Advertising Search, Social, & Commerce]](https://experi
 [!DNL Adobe Pass] is a multi-screen TV platform that helps broadcasters, cable networks, and service providers create and monetize engaging, personalized viewing experiences.
 
 +++Documentation
-
-New tutorials published for Adobe Pass.
-
-| Published | Name | Type | Description |
-| -----------| ---------- | ---------- |---------- |
-| April 2025 | [Adobe Pass - new REST API v2](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/solution/hidden/adobe-pass-rest-api-v2) |  New video | Learn about Adobe's new REST API v2 and its migration process. |
 
 See [Adobe Pass Documentation](https://experienceleague.adobe.com/en/docs/pass) to find release-specific information, system requirements, limitations, fixed issues, and known issues.
 
