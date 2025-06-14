@@ -118,16 +118,13 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 * [[!DNL Experience Platform] Mobile SDK release notes](https://developer.adobe.com/client-sdks/documentation/release-notes/)
 
-<!-- ### New [!DNL Experience Platform] tutorials{#tutorials-aep}
+### New [!DNL Experience Platform] tutorials{#tutorials-aep}
 
 New tutorials published for Adobe [!DNL Experience Platform] on Experience League.
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|April 2025| [!DNL Experience Platform] | [Evaluate batch audiences on demand](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/evaluate-audiences-on-demand)| New video | Evaluate batch audiences on demand with flexible audience evaluation. |
-|April 2025| [!DNL Experience Platform] | [Migrate a mobile app from Target to Journey Optimizer](https://experienceleague.adobe.com/en/docs/platform-learn/migrate-target-to-mobile-sdk-decisioning/overview)| New video | Learn how to migrate your mobile app implementation from the Adobe Target to the Adobe Journey Optimizer - Decisioning extension|
-|April 2025| [!DNL Experience Platform] | [Configure a dataset export destination in Experience Platform](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/configure-dataset-export-destination)| Updated video | Learn about the configuration, workflow, and use cases for exporting datasets from Adobe Experience Platform to a cloud storage location using a destination connection. |
- -->
+|June 2025| [!DNL Experience Platform] | [Identity graph linking rules - Identity settings](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/identities/graph-linking-rules/identity-settings)| New video | Learn how to enable and configure identity graph linking rules in Adobe Experience Platform to build accurate customer profiles. This video covers namespace prioritization, uniqueness settings, and validation, so you can start using these features in your sandboxes effectively.  |
 
 ### New [!DNL Experience Platform] support knowledge base{#kb-aep}
 
