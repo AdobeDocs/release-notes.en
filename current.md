@@ -155,7 +155,9 @@ Find the latest tutorials for [!DNL Real-Time CDP].
 
 | Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
-| May 2025 | [Configure the Azure Blob Destination](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/configure-the-azure-blob-destination) |  Updated video | Learn how to set up a connection and send data to the Azure Blob Storage destination in [!DNL Real-Time Customer Data Platform]. This destination supports exporting datasets and audiences, and allows you to customize the file headers and data attributes. |
+| June 2025 | [Segment Match receiving data](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/segment-match-receiving-data) |  New video | With Segment Match, data can be shared to you by your strategic partners. In this video, learn how to approve and receive the data, and where you can see it and add it to your own segments. |
+| June 2025 | [Segment Match connection setup](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/segment-match-connection-setup) |  New video | learn how to set up the connection between you and a partner so that you can share audiences. After configuring this Segment Match feature, you will be able to share data back and forth with your data partner.  |
+| June 2025 | [Segment Match configuration flow](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/segment-match-configuration-flow) |  New video | Once a segment share with a data partner has been connected, you can explore and start sharing data with partners. This video walks you through the process of configuring a Segment Match instance for a data share.  |
 
 For more information, see:
 
