@@ -59,7 +59,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 Find [events](https://experienceleague.adobe.com/en/events) and register for the ones that interest you.
 
-Updated: **June 13, 2025**
+Updated: **June 14, 2025**
 
 +++Upcoming events
 
@@ -67,8 +67,13 @@ Updated: **June 13, 2025**
 
 * **[!DNL AJO]** | _Experience League LIVE: Master Frequency Capping & Conflict Prioritization - Adobe Journey Optimizer_ | Join us for an engaging Adobe Experience League LIVE episode where Adobe experts dive into new features in Adobe Journey Optimizer to help you govern and prioritize customer messages with precision. Learn how to reduce messaging fatigue, resolve conflicts, and deliver impactful experiences that resonate. | **Wednesday, June 18** | [Register](https://engage.adobe.com/ExpLeagueLive-250618.html?sdid=MV79RSYQ&mv=other)
 
-* **[!DNL Customer Journey Analytics]** | _The Perfect Blend: Improve Your Data Reporting & Visualization with Customer Journey Analytics_ | Join us for an in-depth session on how Customer Journey Analytics (CJA) can immediately boost your cross-channel data analysis and reporting. Whether you're using Adobe Analytics, Adobe Target, or Adobe Journey Optimizer (AJO), this session will show you how CJA enables a new level of reporting and decision making with enhanced insights.  | **Thursday, June 19** | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5751870235/event_landing.html?sco-id=5751870273&campaign-id=ExL&_charset_=utf-8)
+* **[!DNL Customer Journey Analytics]** | _The Perfect Blend: Improve Your Data Reporting & Visualization with Customer Journey Analytics_ | Join us for an in-depth session on how Customer Journey Analytics (CJA) can immediately boost your cross-channel data analysis and reporting. Whether you're using Adobe Analytics, Adobe Target, or Adobe Journey Optimizer (AJO), this session shows you how CJA enables a new level of reporting and decision making with enhanced insights.  | **Thursday, June 19** | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5751870235/event_landing.html?sco-id=5751870273&campaign-id=ExL&_charset_=utf-8)
 
+* **[!DNL Marketo Engage]** | _Foundations of Marketo Engage: Programs, Campaigns & Beyond_ | Join us for an exciting introductory session. Ideal for new and early-stage users looking to build confidence and capability in Marketo Engage. | **Thursday, June 19** | [Register](https://mugs.marketo.com/events/details/marketo-foundational-marketo-user-group-presents-foundations-of-marketo-engage-programs-campaigns-amp-beyond/)
+
+* **[!DNL Workfront]** | _Connect: Workfront Collective_ | This is the Workfront Collective event - a crowdsourcing opportunity for all Workfronters! This event has no formal presentation or agenda; the topics of discussion are purely based on attendee engagement. Think of this workshop as a collective problem-solving session. If there is something you are challenged with in Workfront (or a success that you want to share and promote!) and want to talk through solutions with other customers, this is the perfect event for you. | **Monday, June 23** | [Register](https://events.teams.microsoft.com/event/c9512e95-6ad0-4def-b178-1d8103702076@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Navigating the Workfront API and Fusion Changes for Multi-Select Fields with Ease_ | Calling all Workfront Fusion users! This webinar, hosted in partnership with Professional Services, serves as a call to action for system administrators to stay informed and proactive about the upcoming changes to the Workfront API, ensuring that they can navigate the transition smoothly.  | **Wednesday, June 25** | [Register](https://events.teams.microsoft.com/event/0f04ff7b-89ae-4685-ab3a-0825b7aea2ca@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
 
@@ -93,15 +98,15 @@ Previous release notes for [!DNL Adobe System Status]:
 
 +++
 
-## [!DNL Experience Cloud] - Central interface and administration {#ecloud}
+## [!DNL Experience Cloud] admin and central interface {#ecloud}
 
-Learn about updates to [!DNL Experience Cloud] administration interface and central interface components. 
+Learn about updates to [!DNL Experience Cloud] administration and central interface components. 
 
 +++New features
 
 See the [Experience Cloud interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) guide for help on:
 
-* **New!** [Generative AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai)
+* [Generative AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai)
 * [User management and product licenses](https://experienceleague.adobe.com/en/docs/core-services/interface/administration/admin-console) (Admin Console)
 * [Customer Attributes, Audience Library, Assets](https://experienceleague.adobe.com/en/docs/core-services/interface/services/overview), and more
 
@@ -112,6 +117,8 @@ See the [Experience Cloud interface and administration](https://experienceleague
 Find latest release information and new documentation for [!DNL Experience Platform] and [!UICONTROL Mobile SDK]. View new tutorials and Knowledge Base support articles.
 
 +++Release notes, tutorials, and support articles
+
+Planned release: **June 18, 2025**
 
 * [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest)
 
@@ -141,7 +148,7 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 |May 2025|[Resolving profile count discrepancies in Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26648)|New article| Learn about the solutions to the issue in the [!UICONTROL Real-Time Customer Data Platform] (CDP), when the profile snapshot count differs from the source system view in Adobe Experience Platform (AEP).|
 |May 2025|[Capping logic inconsistencies across placements in AEP offer decisioning](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26682)|New article| Learn about the solutions to the issue where the capping logic behaves inconsistently between 1:1 message and email placements in the **[!UICONTROL Offer Decisioning]** feature in Adobe Experience Platform.|
 |May 2025|[AEP: Data ingestion error due to request payload exceeding maximum allowed size](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26712)|New article| Learn about the solutions to the issue when Adobe Experience Platform (AEP) returns a payload size error when the request exceeds the 1MB limit during streaming ingestion.|
-|May 2025|[AEP - Request for service availability – [!UICONTROL Streaming Ingestion API]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26456)|New article| Learn about inquiries regarding the service availability of the [!UICONTROL Streaming Ingestion API] within Adobe Experience Platform.|
+|May 2025|[AEP - Request for service availability - [!UICONTROL Streaming Ingestion API]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26456)|New article| Learn about inquiries regarding the service availability of the [!UICONTROL Streaming Ingestion API] within Adobe Experience Platform.|
 |May 2025|[AEP - Filtering data ingestion through [!DNL Microsoft Dynamics] source connector](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26458)|New article| Learn about the solutions to when AEP users have issues when attempting to filter specific data during ingestion from [!DNL Microsoft Dynamics] using the native source connector.|
 
 +++
@@ -172,7 +179,7 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 +++Release notes and new tutorials
 
-[!DNL Analytics] release date: **May 14, 2025**
+[!DNL Analytics] release date: **June 18, 2025**
 
 * [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html)
 
@@ -254,7 +261,7 @@ New features, fixes, and updates in [!DNL Experience Manager]. Adobe recommends 
 
 [!DNL Experience Manager as a Cloud Service] maintenance release [2025.4.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current).
 
-Next planned release is **June 26, 2025**.
+Planned release: **June 26, 2025**.
 
 All [!DNL Experience Manager] release notes are maintained at the following pages:
 
@@ -292,9 +299,9 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 |May 2025|[Stored Cross-Site Scripting (XSS) vulnerabilities in AEM 6.5.21](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26452)|New article| Learn about the solutions to the issue where a security vulnerability, **[!DNL CVE-2024-43726]**, characterized as a stored Cross-Site Scripting (XSS) vulnerability (**[!DNL CWE-79]**) was identified in Adobe Experience Manager (AEM) version 6.5.21 and earlier.|
 |May 2025|[[!DNL AI] Assistance not visible in AEM Guides](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26453)|New article| Learn about the solutions to the issue where you're unable to use the [!DNL AI] Assistance functionality within Adobe Experience Manager (AEM) Guides.|
 |May 2025|[Resolve [!DNL Scene7] asset name discrepancies across AEM environments for PDF files](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26461)|New article| Learn about the solutions to the issue where PDF assets have different [!DNL Scene7] asset names across AEM environments due to variations in PDF processing settings.|
-|May 2025|[Migrating content deltas using [!DNL ACS Commons] Query Packager](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26575)|New article| Learn about the solutions to the issue when upgrading or migrating Adobe Experience Manager (AEM), you need to move only the content that's changed—like updated tags, assets, or pages.|
+|May 2025|[Migrating content deltas using [!DNL ACS Commons] Query Packager](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26575)|New article| Learn about the solutions to the issue when upgrading or migrating Adobe Experience Manager (AEM), you need to move only the content that's changed--like updated tags, assets, or pages.|
 |May 2025|[Asset processing failed for large MP4 files in AEM as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26610)|New article| Learn about the solutions to the issue when the *Asset Processing Failed* error occurs when uploading large MP4 video files (~6.8 GB) to Adobe Experience Manager (AEM) as a Cloud Service.|
-|May 2025|[Background color change issue for [!DNL TIFF] image renditions in Dynamic Media](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26637)|New article| Learn about the solutions to the issue when Dynamic Media background color changes don't apply to [!DNL TIFF] image renditions when using Dynamic Media API parameters such as `bgc`, `clippathe`, and `croppathe`.|
+|May 2025|[Background color change issue for [!DNL TIFF] image renditions in Dynamic Media](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26637)|New article| Learn about the solutions to the issue when Dynamic Media background color changes don't apply to [!DNL TIFF] image renditions when using Dynamic Media API parameters, such as `bgc`, `clippathe`, and `croppathe`.|
 |May 2025|[[!DNL OAuth] based client credentials rotation works in [!UICONTROL Author] but not in [!UICONTROL Publish]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26706)|New article| Learn about the solutions to the issue when rotating [!DNL OAuth] client credentials in Adobe Experience Manager (AEM) Forms, authentication fails on the [!UICONTROL Publish] instance despite working in [!UICONTROL Author].|
 |May 2025|[Blank pages and *Uncaught SlingException* Error after AEM Service Pack 21 upgrade](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26321)|New article| Learn about the solutions to the issue where after upgrading Adobe Experience Manager (AEM) to Service Pack 21 (version 6.5.21), [!UICONTROL Publisher] instances show blank pages and *Uncaught SlingException* errors in the logs.|
 |May 2025|[Hyperlinks missing in Word to PDF conversion using **[!UICONTROL PDFG]** and **[!UICONTROL PageOverlay]** in AEM](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26343)|New article| Learn about the solutions to the issue when converting Word documents to PDF using the AEM **[!UICONTROL PDFG]** service with the **[!UICONTROL PageOverlay]** option of the [!UICONTROL Assembler Service], hyperlinks don't appear in the resulting PDF.|
@@ -304,7 +311,7 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 |May 2025|[AEM [!DNL Forms Designer] 6.5 not opening after upgrade](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26558)|New article| Learn about the solutions to the issue when after an upgrade, Adobe Experience Manager (AEM) [!DNL Forms Designer] 6.5 fails to open with the error *The application was unable to start correctly (0xc000007b)* and can't be uninstalled.|
 |May 2025|[Resolving hidden fields visible in AEM Forms after Service Pack upgrade](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26532)|New article| Learn about the solutions to the issue of hidden fields being visible in Adobe Experience Manager (AEM) Forms after a Service Pack upgrade.|
 |May 2025|[Connectivity issues in AEM Rapid Development Environment over internal network](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26315)|New article| Learn about the solutions to the issue when using Adobe Experience Manager (AEM) as a Cloud Service results in connectivity issues when accessing the Rapid Development Environment (RDE) through VPN or internal networks.|
-|May 2025|[Resolving `auth_checker` configuration issue in AEM Cloud Services Dispatcher](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26392)|New article| Learn about the solutions to the issue where a validation error occurs when deploying dispatcher code with the `auth_checker` configuration in Adobe Experience Manager (AEM) Cloud Services Dispatcher. |
+|May 2025|[Resolving `auth_checker` configuration issue in AEM Cloud Services Dispatcher](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26392)|New article| Learn about the solutions to the issue where a validation error occurs when deploying Dispatcher code with the `auth_checker` configuration in Adobe Experience Manager (AEM) Cloud Services Dispatcher. |
 |May 2025|[Unable to connect Adobe CLI due to *403 Forbidden* error](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26412)|New article| Learn about the solutions to the issue when retrieving programs via the Cloud Manager API in Adobe Experience Manager (AEM) as a Cloud Service, you get a *403 Forbidden* error.|
 |May 2025|[Edge Delivery Services Sites not rendering correct AEM **Stage**/**Production** content](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26425)|New article| Learn about the solutions to the issue when using Edge Delivery Services (EDS) in repoless configurations in the Adobe Experience Manager (AEM) as a Cloud Service, the rendered content isn't as expected in the **Stage** and **Production** environments.|
 |May 2025|[Resolving nested Adobe I/O web action authorization issues in AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26427)|New article| Learn about the solutions to the issue when calling an Adobe I/O web action from within another web action when authorization is required.|
@@ -318,7 +325,7 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 |May 2025|[Page can't be unpublished in AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26551)|New article| Learn about the solutions to the issue when a page in Adobe Experience Manager as a Cloud Service (AEMaaCS) remains accessible even after being unpublished or deleted due to a vanity URL or alias pointing to another page.|
 |May 2025|[Resolving connection timeout errors with dedicated egress IP in AEM as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26556)|New article| Learn about the solutions to the issue when connection timeout errors occur when configuring a dedicated egress IP in Adobe Experience Manager as a Cloud Service (AEMaaCS) to securely route external API calls.|
 |May 2025|[Repository Browser visibility issues in AEM Developer Console for publish instances](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26599)|New article| Learn about the solutions to the issue where the Repository Browser is missing in the developer console for **Publish** instances in Adobe Experience Manager (AEM) as a Cloud Service – Sites.|
-|May 2025|[UI test failures in AEMaaCS due to IP Whitelisting](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26654)|New article| Learn about the solutions to the issue of IP restrictions on AEM **Author** and **Publish** servers block pipeline access during end-to-end or UI testing.|
+|May 2025|[UI test failures in AEMaaCS due to IP Whitelisting](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26654)|New article| Learn about the solutions to the issue of IP restrictions on AEM **Author** and **Publish** servers that block pipeline access during end-to-end or UI testing.|
 |May 2025|[Resolving metadata schema visibility issues for non-admin users in AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26655)|New article| Learn about the solutions to the issue when in AEM as a Cloud Service (AEMaaCS) – Assets, users like Contributors or Digital Access Management (DAM) Users can't see custom metadata schemas, because they don't have read access to the schema folder, but administrators can.|
 |May 2025|[Fixing `jcr:mixinTypes ValueFormatException` in AEM Builds](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26660)|New article| Learn about the solutions to the issue when Pipeline builds in Adobe Experience Manager (AEM) as a Cloud Service fail due to an outdated `org.apache.sling.jcr.repoinit` bundle.|
 |May 2025|[Understanding RTO and RPO for AEM as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26664)|New article| Learn about the Recovery Time Objective (RTO) and Recovery Point Objective (RPO) for AEM Cloud.|
@@ -407,7 +414,7 @@ New or updated videos tutorials published for Adobe Campaign.
 
 | Published | Application | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|June 2025| |[Create content using the AI Assistant for content generation](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-content-using-the-ai-assistant)| New video |Learn how to use Adobe's AI Assistant Content Accelerator to quickly generate and customize marketing emails, including subject lines, body text, and images, while integrating brand-approved assets for consistency and compliance.|
+|June 2025| |[Create content using the AI Assistant for content generation](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-content-using-the-ai-assistant)| New video |Learn how to use Adobe's AI Assistant Content Accelerator to generate and customize marketing emails, including subject lines, body text, and images, while integrating brand-approved assets for consistency and compliance.|
 
 ### New [!DNL Campaign] support knowledge base{#kb-campaign}
 
@@ -563,17 +570,16 @@ New [!DNL Workfront] tutorials and events on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2025|[Copy a report](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/copy-a-report.html)|New video |Learn how to quickly create a new report by copying and editing a similar report.|
-|June 2025|[linCreate basic filter activitiesktext](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html?lang=en)|New article |In this activity you will create a project filter named "All projects in the Marketing portfolio" in the Legacy filter experience. This will show you all the projects in the portfolio named "Marketing Portfolio" regardless of their status.|
-|June 2025|[Create a matrix report](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-matrix-report.html?lang=en)|New video |Learn when a matrix report can be useful and how to create a matrix report in Workfront.|
-|June 2025|[Send and share reports](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports.html?lang=en)|New video |Learn how to send reports to users, teams, or any email address, and how to share reports with anyone in Workfront.|
-|June 2025|[Create dashboards](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en)|New video |Organize and display project data with Workfront dashboards, which can be customized, accessed easily, shared, and printed for seamless project management and collaboration.|
-|June 2025|[Understand report settings](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html?lang=en)|New video |Learn how to access Workfront report settings and what some common report settings are used for.|
-|June 2025|[Create a basic view](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)|New video |Learn what a view is, how to create a view, and how to share a view with other users in Workfront.|
-|June 2025|[Track proof progress](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/track-proof-progress.html?lang=en)|New article |Learn how to use SOCD indicators, proof progress, and reports to track the progress of a proof in  Workfront.|
-|June 2025|[Create a task report](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en)|New video |Learn how to create a task report with a complex filter and find the reports you create in Workfront.|
-|June 2025|[Connect record types](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/connect-record-types)|New video |Learn how to connect record types in Workfront Planning to streamline workflows, boost clarity, and enhance team accountability and efficiency. ​|
-
+|June 2025|[Copy a report](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/copy-a-report)|New video |Learn how to quickly create a new report by copying and editing a similar report.|
+|June 2025|[Create basic filter activities](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity)|New article |In this activity, you create a project filter named "All projects in the Marketing portfolio" in the Legacy filter experience. This will show you all the projects in the portfolio named "Marketing Portfolio" regardless of their status.|
+|June 2025|[Create a matrix report](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-matrix-report)|New video |Learn when a matrix report can be useful and how to create a matrix report in Workfront.|
+|June 2025|[Send and share reports](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/how-to-send-and-share-reports)|New video |Learn how to send reports to users, teams, or any email address, and how to share reports with anyone in Workfront.|
+|June 2025|[Create dashboards](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards)|New video |Organize and display project data with Workfront dashboards, which can be customized, accessed easily, shared, and printed for seamless project management and collaboration.|
+|June 2025|[Understand report settings](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings)|New video |Learn how to access Workfront report settings and what some common report settings are used for.|
+|June 2025|[Create a basic view](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view)|New video |Learn what a view is, how to create a view, and how to share a view with other users in Workfront.|
+|June 2025|[Track proof progress](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-proof/review-and-approve-work-for-proof/track-proof-progress)|New article |Learn how to use SOCD indicators, proof progress, and reports to track the progress of a proof in  Workfront.|
+|June 2025|[Create a task report](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report)|New video |Learn how to create a task report with a complex filter and find the reports you create in Workfront.|
+|June 2025|[Connect record types](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/connect-record-types)|New video |Learn how to connect record types in Workfront Planning to streamline workflows, boost clarity, and enhance team accountability and efficiency. |
 
 ### New [!DNL Workfront] support knowledge base
 
