@@ -5,6 +5,7 @@ doc-type: release notes
 last-update: June 2025
 author: mfrei
 mini-toc-levels: 2
+badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
 # Experience Cloud release notes - June 2025
@@ -23,7 +24,7 @@ This page helps you find application-specific release notes, upcoming events, ne
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
-**Updated June 14, 2025**
+**Updated June 16, 2025**
 
 +++View product links
 
