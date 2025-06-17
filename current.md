@@ -488,7 +488,7 @@ Learn about the latest release information for [!DNL Journey Optimizer B2B Editi
 
 +++Release notes and documentation
 
-Latest release: **June 3, 2025**
+Latest release: **2025.5**
 
 * [[!DNL Journey Optimizer B2B Edition]](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b) (All self-help)
 * [Release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes) for [!DNL Journey Optimizer B2B Edition]
