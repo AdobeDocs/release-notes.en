@@ -124,7 +124,7 @@ New tutorials published for Adobe [!DNL Experience Platform] on Experience Leagu
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|June 2025| [!DNL Experience Platform] | [Identity graph linking rules - Identity settings](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/identities/graph-linking-rules/identity-settings)| New video | Learn how to enable and configure identity graph linking rules in Adobe Experience Platform to build accurate customer profiles. This video covers namespace prioritization, uniqueness settings, and validation, so you can start using these features in your sandboxes effectively.  |
+|June 2025| [!DNL Experience Platform] | [Identity graph linking rules - Identity settings](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/identities/graph-linking-rules/identity-settings)| New video | Learn how to enable and configure identity graph linking rules in Adobe Experience Platform to build accurate customer profiles. This video covers namespace prioritization, uniqueness settings, and validation, so you can start using these features in your sandboxes effectively. |
 
 ### New [!DNL Experience Platform] support knowledge base{#kb-aep}
 
