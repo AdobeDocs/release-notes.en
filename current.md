@@ -5,7 +5,6 @@ doc-type: release notes
 last-update: June 2025
 author: mfrei
 mini-toc-levels: 2
-badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
 # Experience Cloud release notes - June 2025
@@ -24,7 +23,7 @@ This page helps you find application-specific release notes, upcoming events, ne
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
-**Updated June 16, 2025**
+**Updated June 18, 2025**
 
 +++View product links
 
@@ -63,10 +62,6 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 Updated: **June 18, 2025**
 
 +++Upcoming events
-
-* **[!DNL AEM Sites]** | _[AEM GEMs]  Maximize the impact of your web experience with AEM Sites Optimizer_ | Dive into the technical details behind AEM Sites Optimizer, the newest AI-first application in the AEM portfolio that helps brands optimize the business impact of their websites by leveraging agents to identify, suggest, and fix issues around traffic acquisition and engagement. | **Wednesday, June 18** | [Register](https://aem-augs.adobe.com/events/details/adobe-experience-manager-aemug-aem-learning-chapter-presents-aem-gems-maximize-the-impact-of-your-web-experience-with-aem-sites-optimizer-1/)
-
-* **[!DNL AJO]** | _Experience League LIVE: Master Frequency Capping & Conflict Prioritization - Adobe Journey Optimizer_ | Join us for an engaging Adobe Experience League LIVE episode where Adobe experts dive into new features in Adobe Journey Optimizer to help you govern and prioritize customer messages with precision. Learn how to reduce messaging fatigue, resolve conflicts, and deliver impactful experiences that resonate. | **Wednesday, June 18** | [Register](https://engage.adobe.com/ExpLeagueLive-250618.html?sdid=MV79RSYQ&mv=other)
 
 * **[!DNL Customer Journey Analytics]** | _The Perfect Blend: Improve Your Data Reporting & Visualization with Customer Journey Analytics_ | Join us for an in-depth session on how Customer Journey Analytics (CJA) can immediately boost your cross-channel data analysis and reporting. Whether you're using Adobe Analytics, Adobe Target, or Adobe Journey Optimizer (AJO), this session shows you how CJA enables a new level of reporting and decision making with enhanced insights.  | **Thursday, June 19** | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5751870235/event_landing.html?sco-id=5751870273&campaign-id=ExL&_charset_=utf-8)
 
@@ -182,7 +177,7 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 [!DNL Analytics] release date: **June 18, 2025**
 
-* [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html)
+* [!DNL Analytics] [release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest)
 
 * [!DNL Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/analytics)
 
@@ -216,7 +211,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 +++Release notes and new tutorials
 
-* [Release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html)
+* [Release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases)
 
     Releases for [!DNL Customer Journey Analytics] occur on a continuing basis. As such, release notes are updated several times a month. Please check them regularly.
 
