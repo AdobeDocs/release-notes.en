@@ -25,7 +25,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 **Updated June 18, 2025**
 
-+++View product links
+<!-- +++View product links
 
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud) 
@@ -53,13 +53,11 @@ To receive a monthly email notification about updates to this page, subscribe to
 * [Certification at Adobe](https://experienceleague.adobe.com/en/certification-home)
 * [Adobe product security vulnerabilities](https://helpx.adobe.com/security.html)
 
-+++ 
++++  -->
 
 ## Events on [!DNL Experience League] {#events}
 
 Find [events](https://experienceleague.adobe.com/en/events) and register for the ones that interest you.
-
-Updated: **June 18, 2025**
 
 +++Upcoming events
 
