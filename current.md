@@ -23,7 +23,7 @@ This page helps you find application-specific release notes, upcoming events, ne
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
-**Updated June 18, 2025**
+**Updated June 19, 2025**
 
 <!-- +++View product links
 
@@ -61,13 +61,13 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 +++Upcoming events
 
-* **[!DNL Customer Journey Analytics]** | _The Perfect Blend: Improve Your Data Reporting & Visualization with Customer Journey Analytics_ | Join us for an in-depth session on how Customer Journey Analytics (CJA) can immediately boost your cross-channel data analysis and reporting. Whether you're using Adobe Analytics, Adobe Target, or Adobe Journey Optimizer (AJO), this session shows you how CJA enables a new level of reporting and decision making with enhanced insights.  | **Thursday, June 19** | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5751870235/event_landing.html?sco-id=5751870273&campaign-id=ExL&_charset_=utf-8)
-
-* **[!DNL Marketo Engage]** | _Foundations of Marketo Engage: Programs, Campaigns & Beyond_ | Join us for an exciting introductory session. Ideal for new and early-stage users looking to build confidence and capability in Marketo Engage. | **Thursday, June 19** | [Register](https://mugs.marketo.com/events/details/marketo-foundational-marketo-user-group-presents-foundations-of-marketo-engage-programs-campaigns-amp-beyond/)
-
 * **[!DNL Workfront]** | _Connect: Workfront Collective_ | This is the Workfront Collective event - a crowdsourcing opportunity for all Workfronters! This event has no formal presentation or agenda; the topics of discussion are purely based on attendee engagement. Think of this workshop as a collective problem-solving session. If there is something you are challenged with in Workfront (or a success that you want to share and promote!) and want to talk through solutions with other customers, this is the perfect event for you. | **Monday, June 23** | [Register](https://events.teams.microsoft.com/event/c9512e95-6ad0-4def-b178-1d8103702076@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
+* **[!DNL Journey Optimizer]** | _Ask Me Anytything_ | June 25th with Journey Optimizer Product Experts on Agile Workflows for Personalized Content at Scale & Master Frequency Capping & Conflict Prioritization. | **Wednesday, June 25** | [Register](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-june-25th-with-journey-optimizer-product-experts/ev-p/757473)
+
 * **[!DNL Workfront]** | _Navigating the Workfront API and Fusion Changes for Multi-Select Fields with Ease_ | Calling all Workfront Fusion users! This webinar, hosted in partnership with Professional Services, serves as a call to action for system administrators to stay informed and proactive about the upcoming changes to the Workfront API, ensuring that they can navigate the transition smoothly.  | **Wednesday, June 25** | [Register](https://events.teams.microsoft.com/event/0f04ff7b-89ae-4685-ab3a-0825b7aea2ca@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Summoning Success: Unlocking the Latest in Workfront Planning_ | Join us for an interactive webinar designed to help you get the most out of Adobe Workfront Planning. Whether you're just getting started or looking to optimize your current setup, this session will guide you through the latest features, proven best practices, and expert tips to streamline your planning workflows.  | **Thursday, June 26** | [Register](https://events.teams.microsoft.com/event/46bd7591-c67b-43a4-aeec-f674f33e780c@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
 
