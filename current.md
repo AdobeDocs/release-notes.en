@@ -13,7 +13,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 <!-- ![Banner](assets/release-notes-header.png) -->
 
-This page helps you find application-specific release notes, upcoming events, new tutorials, and the latest Support articles on Experience League. Your personalized homepage on Experience League is tailored to your interests.
+This page is a central release notes resource for Experience Cloud products. Find links to application-specific release notes, upcoming events, new tutorials, and the latest Support articles on Experience League. Your personalized homepage on Experience League is tailored to your interests.
 
 <!-- * [Customize your learning](https://experienceleague.adobe.com/en/home/profile-settings): Help us customize your learning experience. Select your role, industry, and the products that interest you.
 * [Browse and discover](https://experienceleague.adobe.com/en/browse): Find popular content, new tutorials, documentation, upcoming events, and more!
@@ -23,7 +23,7 @@ This page helps you find application-specific release notes, upcoming events, ne
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
-**Updated June 19, 2025**
+**Updated June 26, 2025**
 
 <!-- +++View product links
 
@@ -54,6 +54,31 @@ To receive a monthly email notification about updates to this page, subscribe to
 * [Adobe product security vulnerabilities](https://helpx.adobe.com/security.html)
 
 +++  -->
+
+## June updates
+
+| Product   | Release / Announcement Date            | Key Highlights |
+|-------|------------|----------------|
+| Experience Cloud admin & central interface   | [June 1, 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/current) | Generative AI support in Admin Console, improved user/product license management |
+| Adobe Experience Platform | [June 18, 2025](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest)  | New dashboard email exports, updated tutorials & support articles |
+| Adobe Real-Time CDP  | [June 12, 2025](https://experienceleague.adobe.com/en/docs/real-time-cdp-collaboration/using/latest) | Self-serve destination support, audience refresh frequency |
+| Adobe Analytics  | [June 18-24, 2025](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest)  | Secure cloud exports, new preview bar chart, enhanced attribution |
+| Adobe Customer Journey Analytics | [June 2-18, 2025](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest)  | Fixed panel hover, new B2B Edition GA with account-level modeling |
+| Adobe Streaming Media Analytics  | _(Not updated)_  | No new release notes - last updated December 2024 | 
+| Adobe Experience Manager | [June 10, 2025](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-6-0)  | Maintenance release 21193, feature release 2025.6.0 scheduled June 26 |
+| Adobe Commerce (Magento)  | [June 10, 2025](https://experienceleague.adobe.com/en/docs/commerce-operations/release/versions)  | Commerce 2.4.9‑alpha & patch 2.4.8‑p1, security fixes via APSB25‑50 |
+| Adobe Commerce B2B Edition | [June 10, 2025](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/release-notes)  | B2B module v1.5.2‑p1 and v1.4.2‑p6 released with security compatibility |
+| Adobe Target   | _(Not updated)_  | No new official release info published in June 2025 |
+| Adobe Campaign   | _(Not updated)_   | Bundled under central Experience Cloud updates |
+| Adobe Journey Optimizer  | [June 18, 2025](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) | Beta: AEP dataset decisioning |
+| Adobe Journey Optimizer B2B Edition  | *Included in Journey Optimizer June GA* via CJA B2B mention  | Account-level journey insights |
+| Adobe Marketo Engage   | _(Not updated)_ | No public release notes published in June |
+| Adobe Workfront | _(Not updated)_ | No public release notes published in June |
+| Adobe GenStudio for Performance Marketing    | *(Included in central AI updates)* | Announced along with LLM Optimizer (June 16) |
+| Adobe Mix Modeler   | [June 18, 2025](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest)  | Introduced goal-based plans and spend pattern configurations |
+| Adobe Advertising   | _(Not updated)_ | No separate public June notes |
+| Adobe Pass   | _(Not updated)_   | No public release notes published in June |
+| Adobe Document Cloud  | _(Not updated)_    | No public release notes published in June |
 
 ## Events on [!DNL Experience League] {#events}
 
@@ -318,9 +343,9 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 |May 2025|[AEMaaCS Asset rotation issue makes subsequent rotations invisible](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26528)|New article| Learn about the solutions to the issue when rotating image assets in Adobe Experience Manager as a Cloud Service (AEMaaCS) - Assets, only the first rotation appears immediately, while subsequent rotations don't due to background asset processing workflows.|
 |May 2025|[Page can't be unpublished in AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26551)|New article| Learn about the solutions to the issue when a page in Adobe Experience Manager as a Cloud Service (AEMaaCS) remains accessible even after being unpublished or deleted due to a vanity URL or alias pointing to another page.|
 |May 2025|[Resolving connection timeout errors with dedicated egress IP in AEM as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26556)|New article| Learn about the solutions to the issue when connection timeout errors occur when configuring a dedicated egress IP in Adobe Experience Manager as a Cloud Service (AEMaaCS) to securely route external API calls.|
-|May 2025|[Repository Browser visibility issues in AEM Developer Console for publish instances](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26599)|New article| Learn about the solutions to the issue where the Repository Browser is missing in the developer console for **Publish** instances in Adobe Experience Manager (AEM) as a Cloud Service – Sites.|
+|May 2025|[Repository Browser visibility issues in AEM Developer Console for publish instances](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26599)|New article| Learn about the solutions to the issue where the Repository Browser is missing in the developer console for **Publish** instances in Adobe Experience Manager (AEM) as a Cloud Service - Sites.|
 |May 2025|[UI test failures in AEMaaCS due to IP Whitelisting](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26654)|New article| Learn about the solutions to the issue of IP restrictions on AEM **Author** and **Publish** servers that block pipeline access during end-to-end or UI testing.|
-|May 2025|[Resolving metadata schema visibility issues for non-admin users in AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26655)|New article| Learn about the solutions to the issue when in AEM as a Cloud Service (AEMaaCS) – Assets, users like Contributors or Digital Access Management (DAM) Users can't see custom metadata schemas, because they don't have read access to the schema folder, but administrators can.|
+|May 2025|[Resolving metadata schema visibility issues for non-admin users in AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26655)|New article| Learn about the solutions to the issue when in AEM as a Cloud Service (AEMaaCS) - Assets, users like Contributors or Digital Access Management (DAM) Users can't see custom metadata schemas, because they don't have read access to the schema folder, but administrators can.|
 |May 2025|[Fixing `jcr:mixinTypes ValueFormatException` in AEM Builds](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26660)|New article| Learn about the solutions to the issue when Pipeline builds in Adobe Experience Manager (AEM) as a Cloud Service fail due to an outdated `org.apache.sling.jcr.repoinit` bundle.|
 |May 2025|[Understanding RTO and RPO for AEM as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26664)|New article| Learn about the Recovery Time Objective (RTO) and Recovery Point Objective (RPO) for AEM Cloud.|
 |May 2025|[Intermittent StackOverflow errors during AEMaaCS pipeline build](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26669)|New article| Learn about the solutions to the issue when a *StackOverflowError* occurs during the build phase in Adobe Experience Manager as a Cloud Service (AEMaaCS), caused by inconsistent dependency resolution across cloud providers.|
