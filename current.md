@@ -24,7 +24,7 @@ This page is a central release notes resource for Experience Cloud products. Fin
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
-**Updated July 7, 2025**
+**Updated July 8, 2025**
 
 +++View product links
 
@@ -87,11 +87,27 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 +++Upcoming events
 
-* **[!DNL Workfront]** | _Admin 101 - Getting Started with Workfront_ | Designed for beginner system administrators, this series of events will provide new admins with an introduction to available resources, a rundown of system navigation, and best practices around initial setup, intake, and basic reporting. Have questions and not sure where to go? Come join us for a 1-hour workshop where participation is encouraged, and all questions are relevant! | **Tuesday, July 8** | [Register](https://events.teams.microsoft.com/event/8fc563fe-d0f1-4b2c-bae6-a68bd28a22f4@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Adobe Workfront** | _Third Quarter Release Webinar_ | Highlights the latest Workfront features scheduled for the July 2025 release | **July 10, 2025** | [Register](https://events.teams.microsoft.com/event/0481924a-fc34-4781-b7fc-ed4a54e6fa1f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront]** | _Adobe Workfront Third Quarter 2025 Release Webinar_ | Hosted in partnership with Adobe Workfront Product Management, this 1-hour webinar will highlight the latest Workfront feature enhancements that are scheduled to roll out next week in the Third Quarter 2025 Release. | **Thursday, July 10** | [Register](https://events.teams.microsoft.com/event/0481924a-fc34-4781-b7fc-ed4a54e6fa1f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Adobe Marketo Engage** | _User Group_ | Learn to power campaigns with Marketo Personalization in this foundational session | **July 10, 2025** | [Register](https://mugs.marketo.com/events/details/marketo-foundational-marketo-user-group-presents-foundations-of-marketo-engage-powering-campaigns-with-marketo-personalization/)
 
-* **[!DNL Marketo Engage]** | _Foundations of Marketo Engage: Powering Campaigns with Marketo Personalization_ | Discover how to elevate your marketing impact with a foundational overview of Marketo Engage's personalization capabilities. In this session, we'll explore why personalization matters and how it can drive stronger engagement and conversion across your campaigns. | **Thursday, July 10** | [Register](https://mugs.marketo.com/events/details/marketo-foundational-marketo-user-group-presents-foundations-of-marketo-engage-powering-campaigns-with-marketo-personalization/)
+* **Adobe Workfront** | _Connect: Admin Chat for Marketing & Creative_ | Peer-led session to discuss best practices and tips for Workfront admins | **July 11, 2025** | [Register](https://events.teams.microsoft.com/event/14f0c251-136d-4a61-befc-54673bf58cd6@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Adobe Commerce (Multisolution)** | _Behind the Brew: App Builder_ | Covers integrating Adobe Commerce with other platforms using App Builder | **July 17, 2025** | [Register](https://adobeevents.adobeconnect.com/erocxh4d6bbu/event/registration.html?campaign-id=ExL)
+
+* **Adobe Workfront** | _Workfront Collective_ | Monthly meetup to share features, brainstorm, and solve challenges | **July 17, 2025** | [Register](https://events.teams.microsoft.com/event/cce5eabe-e2e7-435f-aefb-14956ec192d0@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Adobe Workfront** | _Reimagining Content Approvals in Workfront_ | Deep dive into future approval workflows, Frame.io integration, and roadmap | **July 22, 2025** | [Register](https://events.teams.microsoft.com/event/0d5f80d1-9cb1-42f9-a199-ea0ca6f8fe99@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Adobe Experience Manager Assets** | _Unlock the Power of AEM Content Hub_ | Learn how to reuse, activate, and centralize on-brand content across regions | **July 22, 2025** | [Register](https://events.teams.microsoft.com/event/04f70202-48dc-4ddb-954b-5b60fad1b693@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Adobe Experience Manager Forms** | _Modernizing the Payers' Enrollment Journey_ | Automate and enhance member enrollment using AEM Forms | **July 23, 2025** | [Register](https://events.teams.microsoft.com/event/958401be-1c2c-4e4b-87b0-a3939ff8ff6b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Adobe Workfront** | _Workfront Planning: The Smart Start_ | Learn base setup best practices from the Workfront Product Management team | **July 31, 2025** | [Register](https://events.teams.microsoft.com/event/adbabe72-e591-464e-87f8-1f1947d49f38@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Adobe Marketo Engage (Multisolution)** | _Marketo & Mochas: Salesforce Sync_ | Tips and strategy to sync and optimize Salesforce + Marketo | **July 31, 2025** | [Register](https://adobeevents.adobeconnect.com/eeb0ucvtg1l0/event/registration.html?campaign-id=ExL)
+
+* **Adobe Workfront** | _Designing Simplicity: How Kohler Reimagined Creative Briefs_ | Case study on creative brief process innovation in Workfront | **August 6, 2025** | [Register](https://events.teams.microsoft.com/event/fbfa9ecf-7042-4ed8-b7a5-58351dae561f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 And more! View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
 
