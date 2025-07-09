@@ -12,19 +12,11 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
-<!-- ![Banner](assets/release-notes-header.png) -->
-
 This page is a central release notes resource for Experience Cloud products. Find links to application-specific release notes, upcoming events, new tutorials, and the latest Support articles on Experience League. Your personalized homepage on Experience League is tailored to your interests.
-
-<!-- * [Customize your learning](https://experienceleague.adobe.com/en/home/profile-settings): Help us customize your learning experience. Select your role, industry, and the products that interest you.
-* [Browse and discover](https://experienceleague.adobe.com/en/browse): Find popular content, new tutorials, documentation, upcoming events, and more!
-* [Get fresh perspectives](https://experienceleague.adobe.com/en/perspectives): We've gathered a variety of real-world use cases and best practices, written by your peers and Adobe product experts. 
-* [Get certified](https://experienceleague.adobe.com/en/certification-home): The new Adobe Certification Portal makes honing your skills and getting certified a simple process.
-* [Engage with a community of peers](https://experienceleaguecommunities.adobe.com/): Join groups, meet our Experience League Community Advisors, and even learn how to become one. -->
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
-**Updated July 8, 2025**
+**Updated July 9, 2025**
 
 +++View product links
 
@@ -55,21 +47,6 @@ To receive a monthly email notification about updates to this page, subscribe to
 * [Adobe product security vulnerabilities](https://helpx.adobe.com/security.html)
 
 +++
-
-## June updates
-
-| Product   | Release / Announcement Date            | Key Highlights |
-|-------|------------|----------------|
-| Adobe Experience Platform | [June 18, 2025](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest)  | Requirement for Export Dashboard Data permission, advanced data lifecycle management for programmatic deletions, enhanced dataset preview capabilities in the Catalog Service, access control linked with Adobe Admin Console product profiles, and the ability to delete individual records based on identity fields. |
-| Adobe Real-Time CDP  | [June 12, 2025](https://experienceleague.adobe.com/en/docs/real-time-cdp-collaboration/using/latest) | Federated Audience Composition for better data application, Use Case Playbooks to assist users in creating assets, sandbox tooling for improved configuration accuracy, computed attributes for enhanced segmentation and personalization, dataset export functionality, and partner data support for executing upper-funnel marketing with partner-sourced profiles. |
-| Adobe Analytics  | [June 18-24, 2025](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest)  | Support for secure cloud destinations in the new Report Builder, a new preview experience with horizontal bar visualization, a modified attribution model dialog, direct navigation to the Customer Attributes UI, and the ability to upload scheduled data for live Streaming Media content. |
-| Adobe Customer Journey Analytics | [June 2-18, 2025](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest)  | Federated Audience Composition for better data application; Use Case Playbooks to assist users in creating assets; Sandbox tooling for improved configuration accuracy; Computed attributes for enhanced segmentation and personalization; Dataset export functionality, and partner data support for executing upper-funnel marketing with partner-sourced profiles.|
-| Adobe Experience Manager | [June 10, 2025](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-6-0)  | Integration of the AEM Assets picker into Figma for designers, the ability to generate content variations quickly, suggested filters in the Assets view, a split production pipeline for targeted deployments, and secure connection and automation using the Customer Encryption Key.  |
-| Adobe Commerce (Magento)  | [June 10, 2025](https://experienceleague.adobe.com/en/docs/commerce-operations/release/versions)  | Commerce 2.4.9‑alpha & patch 2.4.8‑p1, security fixes via APSB25‑50 |
-| Adobe Commerce B2B Edition | [June 10, 2025](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/release-notes)  | B2B module v1.5.2‑p1 and v1.4.2‑p6 released with security compatibility |
-| Adobe Journey Optimizer  | [June 18, 2025](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) | Beta: AEP dataset decisioning |
-| Adobe GenStudio for Performance Marketing    | [June 12, 2025](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes?lang=en#latest) |Starter templates, Generative Expand AI functionality, Add videos to ads. |
-| Adobe Mix Modeler   | [June 18, 2025](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest)  | Introduced goal-based plans and spend pattern configurations |
 
 ## Events on [!DNL Experience League] {#events}
 
