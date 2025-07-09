@@ -56,30 +56,20 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 +++
 
-<!-- ## June updates
+## June updates
 
 | Product   | Release / Announcement Date            | Key Highlights |
 |-------|------------|----------------|
-| Experience Cloud admin & central interface   | [June 1, 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/current) | Generative AI support in Admin Console, improved user/product license management |
-| Adobe Experience Platform | [June 18, 2025](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest)  | New dashboard email exports, updated tutorials & support articles |
-| Adobe Real-Time CDP  | [June 12, 2025](https://experienceleague.adobe.com/en/docs/real-time-cdp-collaboration/using/latest) | Self-serve destination support, audience refresh frequency |
-| Adobe Analytics  | [June 18-24, 2025](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest)  | Secure cloud exports, new preview bar chart, enhanced attribution |
-| Adobe Customer Journey Analytics | [June 2-18, 2025](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest)  | Fixed panel hover, new B2B Edition GA with account-level modeling |
-| Adobe Streaming Media Analytics  | _(Not updated)_  | No new release notes - last updated December 2024 | 
-| Adobe Experience Manager | [June 10, 2025](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-6-0)  | Maintenance release 21193, feature release 2025.6.0 scheduled June 26 |
+| Adobe Experience Platform | [June 18, 2025](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest)  | Requirement for Export Dashboard Data permission, advanced data lifecycle management for programmatic deletions, enhanced dataset preview capabilities in the Catalog Service, access control linked with Adobe Admin Console product profiles, and the ability to delete individual records based on identity fields. |
+| Adobe Real-Time CDP  | [June 12, 2025](https://experienceleague.adobe.com/en/docs/real-time-cdp-collaboration/using/latest) | Federated Audience Composition for better data application, Use Case Playbooks to assist users in creating assets, sandbox tooling for improved configuration accuracy, computed attributes for enhanced segmentation and personalization, dataset export functionality, and partner data support for executing upper-funnel marketing with partner-sourced profiles. |
+| Adobe Analytics  | [June 18-24, 2025](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest)  | Support for secure cloud destinations in the new Report Builder, a new preview experience with horizontal bar visualization, a modified attribution model dialog, direct navigation to the Customer Attributes UI, and the ability to upload scheduled data for live Streaming Media content. |
+| Adobe Customer Journey Analytics | [June 2-18, 2025](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest)  | Federated Audience Composition for better data application; Use Case Playbooks to assist users in creating assets; Sandbox tooling for improved configuration accuracy; Computed attributes for enhanced segmentation and personalization; Dataset export functionality, and partner data support for executing upper-funnel marketing with partner-sourced profiles.|
+| Adobe Experience Manager | [June 10, 2025](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-6-0)  | Integration of the AEM Assets picker into Figma for designers, the ability to generate content variations quickly, suggested filters in the Assets view, a split production pipeline for targeted deployments, and secure connection and automation using the Customer Encryption Key.  |
 | Adobe Commerce (Magento)  | [June 10, 2025](https://experienceleague.adobe.com/en/docs/commerce-operations/release/versions)  | Commerce 2.4.9‑alpha & patch 2.4.8‑p1, security fixes via APSB25‑50 |
 | Adobe Commerce B2B Edition | [June 10, 2025](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/release-notes)  | B2B module v1.5.2‑p1 and v1.4.2‑p6 released with security compatibility |
-| Adobe Target   | _(Not updated)_  | No new official release info published in June 2025 |
-| Adobe Campaign   | _(Not updated)_   | Bundled under central Experience Cloud updates |
 | Adobe Journey Optimizer  | [June 18, 2025](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) | Beta: AEP dataset decisioning |
-| Adobe Journey Optimizer B2B Edition  | *Included in Journey Optimizer June GA* via CJA B2B mention  | Account-level journey insights |
-| Adobe Marketo Engage   | _(Not updated)_ | No public release notes published in June |
-| Adobe Workfront | _(Not updated)_ | No public release notes published in June |
-| Adobe GenStudio for Performance Marketing    | *(Included in central AI updates)* | Announced along with LLM Optimizer (June 16) |
+| Adobe GenStudio for Performance Marketing    | [June 12, 2025](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes?lang=en#latest) |Starter templates, Generative Expand AI functionality, Add videos to ads. |
 | Adobe Mix Modeler   | [June 18, 2025](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest)  | Introduced goal-based plans and spend pattern configurations |
-| Adobe Advertising   | _(Not updated)_ | No separate public June notes |
-| Adobe Pass   | _(Not updated)_   | No public release notes published in June |
-| Adobe Document Cloud  | _(Not updated)_    | No public release notes published in June | -->
 
 ## Events on [!DNL Experience League] {#events}
 
@@ -109,7 +99,23 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 * **Adobe Workfront** | _Designing Simplicity: How Kohler Reimagined Creative Briefs_ | Case study on creative brief process innovation in Workfront | **August 6, 2025** | [Register](https://events.teams.microsoft.com/event/fbfa9ecf-7042-4ed8-b7a5-58351dae561f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-And more! View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
+* **Adobe Commerce (Multisolution)** | _Behind the Brew: App Builder_ | Covers integrating Adobe Commerce with other platforms using App Builder | **July 17, 2025** | [Register](https://adobeevents.adobeconnect.com/erocxh4d6bbu/event/registration.html?campaign-id=ExL)
+
+* **Adobe Workfront** | _Workfront Collective_ | Monthly meetup to share features, brainstorm, and solve challenges | **July 17, 2025** | [Register](https://events.teams.microsoft.com/event/cce5eabe-e2e7-435f-aefb-14956ec192d0@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Adobe Workfront** | _Reimagining Content Approvals in Workfront_ | Deep dive into future approval workflows, Frame.io integration, and roadmap | **July 22, 2025** | [Register](https://events.teams.microsoft.com/event/0d5f80d1-9cb1-42f9-a199-ea0ca6f8fe99@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Adobe Experience Manager Assets** | _Unlock the Power of AEM Content Hub_ | Learn how to reuse, activate, and centralize on-brand content across regions | **July 22, 2025** | [Register](https://events.teams.microsoft.com/event/04f70202-48dc-4ddb-954b-5b60fad1b693@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Adobe Experience Manager Forms** | _Modernizing the Payers' Enrollment Journey_ | Automate and enhance member enrollment using AEM Forms | **July 23, 2025** | [Register](https://events.teams.microsoft.com/event/958401be-1c2c-4e4b-87b0-a3939ff8ff6b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Adobe Workfront** | _Workfront Planning: The Smart Start_ | Learn base setup best practices from the Workfront Product Management team | **July 31, 2025** | [Register](https://events.teams.microsoft.com/event/adbabe72-e591-464e-87f8-1f1947d49f38@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Adobe Marketo Engage (Multisolution)** | _Marketo & Mochas: Salesforce Sync_ | Tips and strategy to sync and optimize Salesforce + Marketo | **July 31, 2025** | [Register](https://adobeevents.adobeconnect.com/eeb0ucvtg1l0/event/registration.html?campaign-id=ExL)
+
+* **Adobe Workfront** | _Designing Simplicity: How Kohler Reimagined Creative Briefs_ | Case study on creative brief process innovation in Workfront | **August 6, 2025** | [Register](https://events.teams.microsoft.com/event/fbfa9ecf-7042-4ed8-b7a5-58351dae561f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
 
 +++
 
