@@ -80,6 +80,10 @@ View the complete listing of [upcoming](https://experienceleague.adobe.com/en/ev
 
 +++
 
+## AI learning resources on Experience League
+
+Come here to find the latest documentation and videos about generative AI (genAI) and agentic AI in Experience Cloud.
+
 ## [!DNL Adobe System Status] {#status}
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
@@ -373,7 +377,7 @@ New articles and updates to existing articles for Adobe Commerce.
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
 |June 2025|[[!DNL Quality Patches Tool] (QPT)](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/patches-available-in-qpt/patches-available-in-qpt-tool-overview)|New articles| New articles on how to apply patches available in QPT 1.1.63, QPT 1.1.64, and QPT 1.1.65 were published and can be found in their respective sections.|
-|June 2025|[Security update available for Adobe Commerce - APSB25-50](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/security-update-available-for-adobe-commerce-apsb25-50)|New articles| On June 10, 2025, Adobe released a regularly scheduled security update for Adobe Commerce and Magento Open Source.|
+|June 2025|[Security update available for Adobe Commerce - APSB25-50](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/known-issues-patches-attached/security-update-available-for-adobe-commerce-apsb25-50)|New articles| On June 10, 2025, Adobe released a regularly scheduled security update for Adobe Commerce and Magento Open Source.|
 |June 2025|[PayPal sandbox account not verified](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26836)|New articles| Learn about the solutions to the issue when your PayPal sandbox account isn't verified so that you won't be able to finish onboarding with [!UICONTROL Payment Services] in Adobe Commerce.|
 |June 2025|[Resolve version mismatch in Adobe Commerce on Cloud infrastructure](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26788)|New articles| Learn about the solutions to the issue when deployment from [!UICONTROL Staging] to Production fails if the Adobe Commerce on Cloud infrastructure version in [!UICONTROL Staging] is older than in Production.|
 |June 2025|[Payment methods not displayed on checkout with multiple addresses](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26824)|New articles| Learn about the solutions to the issue when most payment methods aren't shown at checkout when multiple shipping addresses are used.|
