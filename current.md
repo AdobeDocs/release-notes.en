@@ -84,6 +84,16 @@ View the complete listing of [upcoming](https://experienceleague.adobe.com/en/ev
 
 Come here to find the latest documentation and videos about generative AI (genAI) and agentic AI in Experience Cloud.
 
++++Details
+
+| Resource | Description |
+| ------- | ------- |
+| [Generative AI in Experience Cloud](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai) | Find help on generative AI (GenAI) and AI Assistant in Experience Cloud applications. |
+| [Agentic AI](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | Learn about agentic AI (GenAI) and how Experience Cloud applications use Adobe's agentic framework. |
+| [Introduction to Content Analytics](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics) | Learn how Content Analytics uses AI and Experience Platform infrastructure to reveal what makes content effective. Teams can better optimize engagement, drive conversions, and make smarter, data-backed decisions. |
+
++++
+
 ## [!DNL Adobe System Status] {#status}
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
