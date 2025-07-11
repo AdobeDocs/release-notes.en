@@ -139,7 +139,7 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 +++Release notes, tutorials, and support articles
 
-Planned release: **June 18, 2025**
+Planned release: **July 29, 2025**
 
 * [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest)
 
