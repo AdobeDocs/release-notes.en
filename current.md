@@ -20,6 +20,8 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 +++View product links
 
+* [New learning resources about AI](#ai)
+* [Upcoming events](#events)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud) 
 * [[!DNL Adobe Experience Platform]](#platform) 
@@ -54,10 +56,6 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 +++Upcoming events
 
-* **Adobe Workfront** | _Third Quarter Release Webinar_ | Highlights the latest Workfront features scheduled for the July 2025 release. | [Jul 10, 2025 - 9:00 AM MT] | [Register](https://events.teams.microsoft.com/event/0481924a-fc34-4781-b7fc-ed4a54e6fa1f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **Adobe Marketo Engage** | _User Group_ | Learn to power campaigns with Marketo Personalization in this foundational session. | Jul 10, 2025 | [Register](https://mugs.marketo.com/events/details/marketo-foundational-marketo-user-group-presents-foundations-of-marketo-engage-powering-campaigns-with-marketo-personalization/)
-
 * **Adobe Workfront** | _Connect: Admin Chat for Marketing & Creative_ | Discuss with peers the best practices and tips for Workfront admins. | Jul 11, 2025 - 10:00 AM MT | [Register](https://events.teams.microsoft.com/event/14f0c251-136d-4a61-befc-54673bf58cd6@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **Adobe Commerce (Multisolution)** | _Behind the Brew: App Builder_ | Covers integrating Adobe Commerce with other platforms using App Builder. | Jul 17, 2025 - 11:00 AM MT | [Register](https://adobeevents.adobeconnect.com/erocxh4d6bbu/event/registration.html?campaign-id=ExL)
@@ -80,7 +78,7 @@ View the complete listing of [upcoming](https://experienceleague.adobe.com/en/ev
 
 +++
 
-## AI learning resources on Experience League
+## AI learning resources on Experience League {#ai}
 
 Come here to find the latest learning resources for generative AI (genAI) and agentic AI in Experience Cloud.
 
