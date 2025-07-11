@@ -82,15 +82,16 @@ View the complete listing of [upcoming](https://experienceleague.adobe.com/en/ev
 
 ## AI learning resources on Experience League
 
-Come here to find the latest documentation and videos about generative AI (genAI) and agentic AI in Experience Cloud.
+Come here to find the latest learning resources for generative AI (genAI) and agentic AI in Experience Cloud.
 
 +++Details
 
-| Resource | Description |
-| ------- | ------- |
-| [Generative AI in Experience Cloud](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai) | Find help on generative AI (GenAI) and AI Assistant in Experience Cloud applications. |
-| [Agentic AI](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | Learn about agentic AI (GenAI) and how Experience Cloud applications use Adobe's agentic framework. |
-| [Introduction to Content Analytics](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics) | Learn how Content Analytics uses AI and Experience Platform infrastructure to reveal what makes content effective. Teams can better optimize engagement, drive conversions, and make smarter, data-backed decisions. |
+| Product | Resource | Description |
+| ------- | ------- | ------- |
+| [!DNL Experience Cloud] | [Generative AI in [!DNL Experience Cloud]](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai) | Find help on generative AI (GenAI) and AI Assistant in Experience Cloud applications. |
+| [!DNL Experience Cloud] | [Agentic AI](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | Learn about Product Support Agent and Data Insights Agent (agentic AI). |
+| [!DNL Customer Journey Analytics] | [Introduction to [!DNL Content Analytics]](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics) | Learn how Content Analytics uses AI and Experience Platform infrastructure to reveal what makes content effective. Teams can better optimize engagement, drive conversions, and make smarter, data-backed decisions. |
+| [!DNL Journey Optimizer] |[Guide to the Formula Builder interface in Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/formula-builder-ui)| Learn how to use the AI Formula Builder in Adobe Journey Optimizer to create custom offer ranking strategies. |
 
 +++
 
@@ -194,7 +195,7 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 [!DNL Analytics] release date: **June 18, 2025**
 
-* [!DNL Analytics] [release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest)
+* [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html)
 
 * [!DNL Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/analytics)
 
@@ -229,7 +230,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 +++Release notes and new tutorials
 
-* [Release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases)
+* [Release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html)
 
     Releases for [!DNL Customer Journey Analytics] occur on a continuing basis. As such, release notes are updated several times a month. Please check them regularly.
 
@@ -509,19 +510,13 @@ New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|June 2025|[!DNL Journey Optimizer]|[Use Adobe Experience Manager Content Fragments](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/fragments/aem-content-fragments)|New video | Discover how Adobe Experience Manager (AEM) integrates seamlessly with Adobe Journey Optimizer to streamline content management and ensure brand consistency across channels. Learn to create, approve, and render content fragments, and effortlessly swap and simulate new content. Ideal for those seeking efficient content management and consistent branding. |
-|June 2025|[!DNL Journey Optimizer]|[Adobe Experience Manager Dynamic Media integration](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/assets/aem-dynamic-media-integration)|New video |Learn how to integrate Adobe Experience Manager Dynamic Media with Adobe Journey Optimizer to enable real-time content updates and personalization.  |
-|June 2025|[!DNL Journey Optimizer]|[Configure a custom SMS provider](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/configure-custom-sms-provider)|New video |Learn how to configure an SMS provider other than Sinch, Twilio, or Infobip in Adobe Journey Optimizer, set up API credentials and webhooks for inbound messaging, manage opt-in/opt-out keywords, and launch personalized SMS campaigns using native tools and custom payloads.  |
-|June 2025|[!DNL Journey Optimizer]|[Create an IP pool](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/email-channel/create-ip-pool)|New video | Learn to create an IP pool to protect your sender reputation and boost email deliverability. |
-|June 2025|[!DNL Journey Optimizer]|[Set up a subdomain](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/email-channel/set-up-subdomain)|New video | Learn how to set up a subdomain for your email channel in Adobe Journey Optimizer. |
-|June 2025|[!DNL Journey Optimizer]|[Identify potential conflicts](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/identify-potential-conflicts)|New video |Discover how to identify and manage potential conflicts - such as overlapping audiences, concurrent timelines, shared communication channels, and frequency constraints across journeys and campaigns to ensure a seamless and customer-friendly communication experience.  |
-|June 2025|[!DNL Journey Optimizer]|[Journey Frequency capping and prioritization](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/journey-frequency-capping-and-prioritization)|New video | Learn how to prioritize inbound actions, ensuring that the highest priority content is delivered to a customer when they qualify for multiple inbound actions using the same channel configuration. |
-|June 2025|[!DNL Journey Optimizer]|[Assign priority scores to inbound actions](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/conflict-management/assign-priority-score)|New video |Learn how to prioritize inbound actions, ensuring that the highest priority content is delivered to a customer when they qualify for multiple inbound actions using the same channel configuration.  |
-|June 2025|[!DNL Journey Optimizer]|[Identity stitching in AEP](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/introduction)|New video | Establish identity stitching between a known user (CRMID) and an anonymous web visitor (ECID), enabling unified profiles for real-time personalization and offer decisioning in Adobe Journey Optimizer (AJO). |
-|June 2025|[!DNL Journey Optimizer]|[Configure an email channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/email-channel/configure-email-channel)|New video |Learn how to configure the email channel in Adobe Journey Optimizer. The video walks through setting up email configurations, including subdomains, IP pools, unsubscribe management, sender personalization, BCC and seed lists, retry logic, and tracking parameters. |
-|June 2025|[!DNL Journey Optimizer]|[Guide to the Formula Builder Interface in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/formula-builder-ui)|New video |Learn how to adjust real time scores of Adobe Decisioning AI models based on conditions relating to the offer, the profile, or the context. |
-|June 2025|[!DNL Journey Optimizer]|[Use case description](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/introduction)|New article |Learn how to deliver dynamic, weather-aware offers in Adobe Journey Optimizer using real-time contextual data and the Adobe Web SDK Personalization API.  |
-|June 2025|[!DNL Journey Optimizer]|[Personalize offers with ranking formulas based on user zip code and income](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)|New article |Use ranking formulas to dynamically serve the most relevant financial offers--tailored to each user's ZIP code and income level--for higher engagement and smarter personalization.  |
+|July 2025|[!DNL Journey Optimizer]|[Guide to the Formula Builder Interface](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/formula-builder-ui)|New video | Learn how to use the AI Formula Builder in Adobe Journey Optimizer to create custom offer ranking strategies. |
+|July 2025|[!DNL Journey Optimizer]|[Configure an email channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/email-channel/configure-email-channel)|New video |Learn how to configure the email channel in Adobe Journey Optimizer.   |
+|July 2025|[!DNL Journey Optimizer]|[Add Rich Text to an Editable Fragment](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/fragments/add-rich-text-to-editable-fragments)|New video |Learn how to make HTML components within a fragment editable, allowing for dynamic updates to both content and styling.   |
+|July 2025|[!DNL Journey Optimizer]|[Use editable form fields in AJO code-based experiences](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/editable-fields)|New article | Learn how to create editable content blocks using inline form fields in Journey Optimizer's Code-Based Experience templates to empower marketers with dynamic, reusable campaign content. |
+|July 2025|[!DNL Journey Optimizer]|[Deliver personalization with JSON content in Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/json-content-type)|New article | Leverage the JSON content type in Adobe Journey Optimizer (AJO) to build flexible, data-driven personalization experiences. |
+|July 2025|[!DNL Journey Optimizer]|[Add form fields to code-based experience channel templates](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences.html)|New video | Discover how developers can streamline collaboration with marketing teams by enabling editable fields within code-based experience channels.|
+|July 2025|[!DNL Journey Optimizer]|[Personalize offers with Ranking formulas based on zip code and income](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)|New article |Use Adobe Journey Optimizer's ranking formulas to dynamically serve the most relevant financial offers--tailored to each user's ZIP code and income level--for higher engagement and smarter personalization.  |
 
 ### New [!DNL Journey Optimizer] support knowledge base{#kb-ajo}
 
