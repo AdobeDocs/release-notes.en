@@ -196,7 +196,7 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 +++Release notes and new tutorials
 
-[!DNL Analytics] release date: **June 18, 2025**
+[!DNL Analytics] release date: **July 16, 2025**
 
 * [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html)
 
