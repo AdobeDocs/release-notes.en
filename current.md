@@ -20,7 +20,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 +++View product links
 
-* [New learning resources about AI](#ai)
+* [New learning resources about AI in [!DNL Experience Cloud]](#ai)
 * [Upcoming events](#events)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud) 
@@ -78,7 +78,7 @@ View the complete listing of [upcoming](https://experienceleague.adobe.com/en/ev
 
 +++
 
-## AI in Experience Cloud {#ai}
+## New learning resources about AI in [!DNL Experience Cloud] {#ai}
 
 Find the latest learning resources published for generative AI (genAI) and agentic AI in Experience Cloud.
 
@@ -252,8 +252,6 @@ New tutorials published for [!DNL Customer Journey Analytics].
 |June 2025|[Add components to the freeform panel](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/panels/add-components-to-the-freeform-panel)| New video |Use freeform panels to explore, compare, and correlate your customer experience data through a flexible, drag-and-drop interface.|
 |June 2025|[Content Analytics - Edit configuration](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/edit-configuration)| New video |Efficiently edit Content Analytics configurations by adjusting names, data views, and experience capture settings. This action automatically updates metrics and performs fine-tuning via the Content Analytics Tags extension for optimized insights.|
 |June 2025|[Set up permissions](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/access-control/set-up-permissions)| New video |Learn to set up role-based permissions in Customer Journey Analytics. Learn to assign users, configure product profiles, and manage access levels. See how to apply granular data controls, such as row-level and metric-level filtering, using segments within data views|
-
-+++
 
 ### New [!DNL Customer Journey Analytics] support knowledge base{#kb-cja}
 
