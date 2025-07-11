@@ -287,9 +287,10 @@ New features, fixes, and updates in [!DNL Experience Manager]. Adobe recommends 
 
 [!DNL Experience Manager as a Cloud Service] maintenance release [2025.6.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current).
 
-Planned release: **June 26, 2025**.
+* Current [maintenance release notes](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)
+* Next planned release: **July 31, 2025**
 
-All [!DNL Experience Manager] release notes are maintained at the following pages:
+[!DNL Experience Manager] release notes are maintained at the following pages:
 
 * [Latest release notes for [!DNL Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
 * [Latest release overview video](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview)
