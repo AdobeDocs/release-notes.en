@@ -78,9 +78,9 @@ View the complete listing of [upcoming](https://experienceleague.adobe.com/en/ev
 
 +++
 
-## AI learning resources on Experience League {#ai}
+## AI in Experience Cloud {#ai}
 
-Come here to find the latest learning resources for generative AI (genAI) and agentic AI in Experience Cloud.
+Find the latest learning resources published for generative AI (genAI) and agentic AI in Experience Cloud.
 
 +++Details
 
