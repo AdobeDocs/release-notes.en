@@ -86,27 +86,23 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 +++Upcoming events
 
-* **Adobe Workfront** | _Third Quarter Release Webinar_ | Highlights the latest Workfront features scheduled for the July 2025 release. | [Jul 10, 2025 - 9:00 AM MT] | [Register](https://events.teams.microsoft.com/event/0481924a-fc34-4781-b7fc-ed4a54e6fa1f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Adobe Workfront** | _Connect: Admin Chat for Marketing & Creative_ | Discuss with peers the best practices and tips for Workfront admins. | July 11, 2025 - 10:00 AM MT | [Register](https://events.teams.microsoft.com/event/14f0c251-136d-4a61-befc-54673bf58cd6@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **Adobe Marketo Engage** | _User Group_ | Learn to power campaigns with Marketo Personalization in this foundational session. | Jul 10, 2025 | [Register](https://mugs.marketo.com/events/details/marketo-foundational-marketo-user-group-presents-foundations-of-marketo-engage-powering-campaigns-with-marketo-personalization/)
+* **Adobe Commerce (Multisolution)** | _Behind the Brew: App Builder_ | Covers integrating Adobe Commerce with other platforms using App Builder. | July 17, 2025 - 11:00 AM MT | [Register](https://adobeevents.adobeconnect.com/erocxh4d6bbu/event/registration.html?campaign-id=ExL)
 
-* **Adobe Workfront** | _Connect: Admin Chat for Marketing & Creative_ | Discuss with peers the best practices and tips for Workfront admins. | Jul 11, 2025 - 10:00 AM MT | [Register](https://events.teams.microsoft.com/event/14f0c251-136d-4a61-befc-54673bf58cd6@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Adobe Workfront** | _Workfront Collective_ | Monthly meet-up to share features, brainstorm, and solve challenges. | July 17, 2025 - 7:00 AM MT | [Register](https://events.teams.microsoft.com/event/cce5eabe-e2e7-435f-aefb-14956ec192d0@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **Adobe Commerce (Multisolution)** | _Behind the Brew: App Builder_ | Covers integrating Adobe Commerce with other platforms using App Builder. | Jul 17, 2025 - 11:00 AM MT | [Register](https://adobeevents.adobeconnect.com/erocxh4d6bbu/event/registration.html?campaign-id=ExL)
+* **Adobe Workfront** | _Reimagining Content Approvals in Workfront_ | Deep dive into future approval workflows, Frame.io integration, and roadmap. | July 22, 2025 - 9:00 AM MT | [Register](https://events.teams.microsoft.com/event/0d5f80d1-9cb1-42f9-a199-ea0ca6f8fe99@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **Adobe Workfront** | _Workfront Collective_ | Monthly meet-up to share features, brainstorm, and solve challenges. | Jul 17, 2025 - 7:00 AM MT | [Register](https://events.teams.microsoft.com/event/cce5eabe-e2e7-435f-aefb-14956ec192d0@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Adobe Experience Manager Assets** | _Unlock the Power of AEM Content Hub_ | Learn how to reuse, activate, and centralize on-brand content across regions. | July 22, 2025 - 9:00 AM MT | [Register](https://events.teams.microsoft.com/event/04f70202-48dc-4ddb-954b-5b60fad1b693@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **Adobe Workfront** | _Reimagining Content Approvals in Workfront_ | Deep dive into future approval workflows, Frame.io integration, and roadmap. | Jul 22, 2025 - 9:00 AM MT | [Register](https://events.teams.microsoft.com/event/0d5f80d1-9cb1-42f9-a199-ea0ca6f8fe99@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Adobe Experience Manager Forms** | _Modernizing the Payers' Enrollment Journey_ | Automate and enhance member enrollment using AEM Forms. | July 23, 2025 - 11:00 AM MT | [Register](https://events.teams.microsoft.com/event/958401be-1c2c-4e4b-87b0-a3939ff8ff6b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **Adobe Experience Manager Assets** | _Unlock the Power of AEM Content Hub_ | Learn how to reuse, activate, and centralize on-brand content across regions. | Jul 22, 2025 - 9:00 AM MT | [Register](https://events.teams.microsoft.com/event/04f70202-48dc-4ddb-954b-5b60fad1b693@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Adobe Workfront** | _Workfront Planning: The Smart Start_ | Learn base setup best practices from the Workfront Product Management team. | July 31, 2025 - 10:00 AM MT | [Register](https://events.teams.microsoft.com/event/adbabe72-e591-464e-87f8-1f1947d49f38@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **Adobe Experience Manager Forms** | _Modernizing the Payers' Enrollment Journey_ | Automate and enhance member enrollment using AEM Forms. | Jul 23, 2025 - 11:00 AM MT | [Register](https://events.teams.microsoft.com/event/958401be-1c2c-4e4b-87b0-a3939ff8ff6b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Adobe Marketo Engage (Multisolution)** | _Marketo & Mochas: Salesforce Sync_ | Tips and strategy to sync and optimize Salesforce + Marketo. | July 31, 2025 - 10:00 AM MT | [Register](https://adobeevents.adobeconnect.com/eeb0ucvtg1l0/event/registration.html?campaign-id=ExL)
 
-* **Adobe Workfront** | _Workfront Planning: The Smart Start_ | Learn base setup best practices from the Workfront Product Management team. | Jul 31, 2025 - 10:00 AM MT | [Register](https://events.teams.microsoft.com/event/adbabe72-e591-464e-87f8-1f1947d49f38@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **Adobe Marketo Engage (Multisolution)** | _Marketo & Mochas: Salesforce Sync_ | Tips and strategy to sync and optimize Salesforce + Marketo. | Jul 31, 2025 - 10:00 AM MT | [Register](https://adobeevents.adobeconnect.com/eeb0ucvtg1l0/event/registration.html?campaign-id=ExL)
-
-* **Adobe Workfront** | _Designing Simplicity: How Kohler Reimagined Creative Briefs_ | Case study on creative brief process innovation in Workfront. | Aug 6, 2025 - 12:00 PM MT | [Register](https://events.teams.microsoft.com/event/fbfa9ecf-7042-4ed8-b7a5-58351dae561f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Adobe Workfront** | _Designing Simplicity: How Kohler Reimagined Creative Briefs_ | Case study on creative brief process innovation in Workfront. | August 6, 2025 - 12:00 PM MT | [Register](https://events.teams.microsoft.com/event/fbfa9ecf-7042-4ed8-b7a5-58351dae561f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
 
