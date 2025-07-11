@@ -373,12 +373,11 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2025|[New product announcements](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/future-of-commerce/new-product-announcements)| New video |Learn about Adobe Commerce as a Cloud Service and Adobe Commerce Optimizer.|
-|June 2025|[Shared Responsibility](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/commerce-conversations/shared-responsibility)| New video |Learn how Adobe and merchants share the responsibility for keeping Adobe Commerce Cloud secure. |
-|June 2025|[Supercharge conversion rates](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/future-of-commerce/supercharge-conversion-rates)| New video |Learn how Adobe Commerce covers a range of features and tools designed to enhance e-commerce performance.|
-|June 2025|[Drastically cut cost](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/future-of-commerce/drastically-cut-costs)| New video |Learn how Adobe Commerce as a Cloud service can drastically reduce costs.|
-|June 2025|[Fast track expansion](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/future-of-commerce/fast-track-expansion)| New video |Fast-track digital growth with Adobe Commerce's scalable catalog, B2B tools, and multi-channel expansion features.|
-|June 2025|[HIPAA-ready hosting in Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/hippa-ready-hosting)| New video |Learn about HIPPA-ready hosting. The HIPAA-ready solution in Adobe Commerce ensures secure, compliant e-commerce for healthcare businesses.|
+|July 2025|[GraphQL and REST](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/graphql-rest/intro-graphql)| New videos |Get an introduction to GraphQL, the industry standard for how powerful client-side applications talk to a backend. It's an increasingly relevant topic for Adobe Commerce developers, as the platform continues to expand its capabilities in the realm of headless implementations. (Four parts.)|
+|July 2025|[Create a downloadable product](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/create-products/create-downloadable-product)| New video | Learn how to create a downloadable product using the REST API and the Adobe Commerce Admin. |
+|July 2025|[Create a bundle product](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/create-products/create-bundle-product.html)| New video |Learn how to create a bundle product using the REST API and the Commerce Admin.|
+|July 2025|[Create a gift card product](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/create-products/create-gift-card-product.html?lang=en)| New video |Learn how to create a gift card product using the REST API and the Adobe Commerce Admin.|
+|July 2025|[Adobe Commerce Data Connection full demonstration](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/capabilities/data-connection)| New video |Watch a full demonstration on the capabilities of Adobe Commerce Data Connection.|
 
 ### New [!DNL Commerce] support knowledge base{#kb-commerce}
 
