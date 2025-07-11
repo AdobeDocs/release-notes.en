@@ -16,7 +16,7 @@ This page is a central release notes resource for Experience Cloud products. Fin
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
-**Updated July 9, 2025**
+**Updated July 11, 2025**
 
 +++View product links
 
@@ -56,23 +56,23 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 +++Upcoming events
 
-* **Adobe Workfront** | _Connect: Admin Chat for Marketing & Creative_ | Discuss with peers the best practices and tips for Workfront admins. | Jul 11, 2025 - 10:00 AM MT | [Register](https://events.teams.microsoft.com/event/14f0c251-136d-4a61-befc-54673bf58cd6@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Adobe Workfront** | _Connect: Admin Chat for Marketing & Creative_ | Discuss with peers the best practices and tips for Workfront admins. | July 11, 2025 - 10:00 AM MT | [Register](https://events.teams.microsoft.com/event/14f0c251-136d-4a61-befc-54673bf58cd6@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **Adobe Commerce (Multisolution)** | _Behind the Brew: App Builder_ | Covers integrating Adobe Commerce with other platforms using App Builder. | Jul 17, 2025 - 11:00 AM MT | [Register](https://adobeevents.adobeconnect.com/erocxh4d6bbu/event/registration.html?campaign-id=ExL)
+* **Adobe Commerce (Multisolution)** | _Behind the Brew: App Builder_ | Covers integrating Adobe Commerce with other platforms using App Builder. | July 17, 2025 - 11:00 AM MT | [Register](https://adobeevents.adobeconnect.com/erocxh4d6bbu/event/registration.html?campaign-id=ExL)
 
-* **Adobe Workfront** | _Workfront Collective_ | Monthly meet-up to share features, brainstorm, and solve challenges. | Jul 17, 2025 - 7:00 AM MT | [Register](https://events.teams.microsoft.com/event/cce5eabe-e2e7-435f-aefb-14956ec192d0@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Adobe Workfront** | _Workfront Collective_ | Monthly meet-up to share features, brainstorm, and solve challenges. | July 17, 2025 - 7:00 AM MT | [Register](https://events.teams.microsoft.com/event/cce5eabe-e2e7-435f-aefb-14956ec192d0@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **Adobe Workfront** | _Reimagining Content Approvals in Workfront_ | Deep dive into future approval workflows, Frame.io integration, and roadmap. | Jul 22, 2025 - 9:00 AM MT | [Register](https://events.teams.microsoft.com/event/0d5f80d1-9cb1-42f9-a199-ea0ca6f8fe99@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Adobe Workfront** | _Reimagining Content Approvals in Workfront_ | Deep dive into future approval workflows, Frame.io integration, and roadmap. | July 22, 2025 - 9:00 AM MT | [Register](https://events.teams.microsoft.com/event/0d5f80d1-9cb1-42f9-a199-ea0ca6f8fe99@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **Adobe Experience Manager Assets** | _Unlock the Power of AEM Content Hub_ | Learn how to reuse, activate, and centralize on-brand content across regions. | Jul 22, 2025 - 9:00 AM MT | [Register](https://events.teams.microsoft.com/event/04f70202-48dc-4ddb-954b-5b60fad1b693@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Adobe Experience Manager Assets** | _Unlock the Power of AEM Content Hub_ | Learn how to reuse, activate, and centralize on-brand content across regions. | July 22, 2025 - 9:00 AM MT | [Register](https://events.teams.microsoft.com/event/04f70202-48dc-4ddb-954b-5b60fad1b693@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **Adobe Experience Manager Forms** | _Modernizing the Payers' Enrollment Journey_ | Automate and enhance member enrollment using AEM Forms. | Jul 23, 2025 - 11:00 AM MT | [Register](https://events.teams.microsoft.com/event/958401be-1c2c-4e4b-87b0-a3939ff8ff6b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Adobe Experience Manager Forms** | _Modernizing the Payers' Enrollment Journey_ | Automate and enhance member enrollment using AEM Forms. | July 23, 2025 - 11:00 AM MT | [Register](https://events.teams.microsoft.com/event/958401be-1c2c-4e4b-87b0-a3939ff8ff6b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **Adobe Workfront** | _Workfront Planning: The Smart Start_ | Learn base setup best practices from the Workfront Product Management team. | Jul 31, 2025 - 10:00 AM MT | [Register](https://events.teams.microsoft.com/event/adbabe72-e591-464e-87f8-1f1947d49f38@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Adobe Workfront** | _Workfront Planning: The Smart Start_ | Learn base setup best practices from the Workfront Product Management team. | July 31, 2025 - 10:00 AM MT | [Register](https://events.teams.microsoft.com/event/adbabe72-e591-464e-87f8-1f1947d49f38@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **Adobe Marketo Engage (Multisolution)** | _Marketo & Mochas: Salesforce Sync_ | Tips and strategy to sync and optimize Salesforce + Marketo. | Jul 31, 2025 - 10:00 AM MT | [Register](https://adobeevents.adobeconnect.com/eeb0ucvtg1l0/event/registration.html?campaign-id=ExL)
+* **Adobe Marketo Engage (Multisolution)** | _Marketo & Mochas: Salesforce Sync_ | Tips and strategy to sync and optimize Salesforce + Marketo. | July 31, 2025 - 10:00 AM MT | [Register](https://adobeevents.adobeconnect.com/eeb0ucvtg1l0/event/registration.html?campaign-id=ExL)
 
-* **Adobe Workfront** | _Designing Simplicity: How Kohler Reimagined Creative Briefs_ | Case study on creative brief process innovation in Workfront. | Aug 6, 2025 - 12:00 PM MT | [Register](https://events.teams.microsoft.com/event/fbfa9ecf-7042-4ed8-b7a5-58351dae561f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Adobe Workfront** | _Designing Simplicity: How Kohler Reimagined Creative Briefs_ | Case study on creative brief process innovation in Workfront. | August 6, 2025 - 12:00 PM MT | [Register](https://events.teams.microsoft.com/event/fbfa9ecf-7042-4ed8-b7a5-58351dae561f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
 
@@ -177,8 +177,8 @@ Find the latest tutorials for [!DNL Real-Time CDP].
 | July 2025 | [Create a project in Real-Time CDP Collaboration](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/create-a-project) |  New video | Learn the basics of creating projects in Collaboration, including a brief look at discovery, activation, and measurement. |
 | July 2025 | [Real-Time CDP Collaboration introduction](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-intro) |  New video | Get an introduction to Adobe Real-Time CDP Collaboration, a purpose-built data collaboration application that lets you discover and activate high-value audiences and use measurement capabilities to drive tangible results. |
 | July 2025 | [Real-Time CDP overview for agency practitioners](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/rtcdp-overview-for-agency-practitioners) |  New video | Learn how Real-Time CDP works and what it does, with a focus on data sources and audiences that fuel their Real-Time CDP Collaboration use case and workflows. |
-| July 2025 | [Real-Time CDP Collaboration: Process and people](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/rtcdp-collaboration-process-and-people) |  New video | Learn how cross-functional teams can work together across disparate use cases, data sources, audiences, and goals to ensure success and operational efficiencies when adopting Real-Time CDP Collaboration.|
-| July 2025 | [Configure file-based cloud storage or email marketing destinations](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/configuring-file-based-cloud-storage-or-email-marketing-destinations#destinations) |  New video | Get tips during a walkthrough of the configuration of a file-based destination in Adobe's Real-Time CDP. This applies to cloud storage destinations (E.g. S3 or SFTP) and also email marketing destinations. |
+| July 2025 | [Real-Time CDP Collaboration: Process and people](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/rtcdp-collaboration-process-and-people) |  New video | Learn how cross-functional teams can work together across disparate use-cases, data sources, audiences, and goals to ensure success and operational efficiencies when adopting Real-Time CDP Collaboration.|
+| July 2025 | [Configure file-based cloud storage or email marketing destinations](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/configuring-file-based-cloud-storage-or-email-marketing-destinations#destinations) |  New video | Get tips during a walkthrough of the configuration of a file-based destination in Adobe's Real-Time CDP. This applies to cloud storage destinations (for example, S3 or SFTP) and also email marketing destinations. |
 
 For more information, see:
 
@@ -283,18 +283,15 @@ New features, fixes, and updates in [!DNL Experience Manager]. Adobe recommends 
 
 +++Release notes, new tutorials, and support articles
 
-### Experience Manager release information
+### Experience Manager as a Cloud Service release notes
 
-[!DNL Experience Manager as a Cloud Service] maintenance release [2025.6.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current).
+Next planned release: **July 31, 2025**
 
-* Current [maintenance release notes](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)
-* Next planned release: **July 31, 2025**
+* [Release notes home for AEM CS](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
+* [Latest AEM CS release overview video](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview)
 
-[!DNL Experience Manager] release notes are maintained at the following pages:
+Other [!DNL Experience Manager] product release notes are maintained at the following pages:
 
-* [Latest release notes for [!DNL Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
-* [Latest release overview video](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview)
-* [[!DNL Experience Manager] release updates and roadmaps](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/home) 
 * [[!DNL Experience Manager] 6.5 Service Pack release notes](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes)
 * [[!DNL Experience Manager] Cloud Manager release notes](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/release-notes/current)
 * [Automated Forms Conversion Service release notes](https://experienceleague.adobe.com/en/docs/aem-forms-automated-conversion-service/using/release-notes)
@@ -378,8 +375,8 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 | -----------| ---------- | ---------- | ---------- |
 |July 2025|[GraphQL and REST](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/graphql-rest/intro-graphql)| New videos |Get an introduction to GraphQL, the industry standard for how powerful client-side applications talk to a backend. It's an increasingly relevant topic for Adobe Commerce developers, as the platform continues to expand its capabilities in the realm of headless implementations. (Four parts.)|
 |July 2025|[Create a downloadable product](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/create-products/create-downloadable-product)| New video | Learn how to create a downloadable product using the REST API and the Adobe Commerce Admin. |
-|July 2025|[Create a bundle product](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/create-products/create-bundle-product.html)| New video |Learn how to create a bundle product using the REST API and the Commerce Admin.|
-|July 2025|[Create a gift card product](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/getting-started/create-products/create-gift-card-product.html?lang=en)| New video |Learn how to create a gift card product using the REST API and the Adobe Commerce Admin.|
+|July 2025|[Create a bundle product](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/create-products/create-bundle-product)| New video |Learn how to create a bundle product using the REST API and the Commerce Admin.|
+|July 2025|[Create a gift card product](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/create-products/create-gift-card-product)| New video |Learn how to create a gift card product using the REST API and the Adobe Commerce Admin.|
 |July 2025|[Adobe Commerce Data Connection full demonstration](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/capabilities/data-connection)| New video |Watch a full demonstration on the capabilities of Adobe Commerce Data Connection.|
 
 ### New [!DNL Commerce] support knowledge base{#kb-commerce}
@@ -430,7 +427,7 @@ New articles and updates to existing articles for Adobe Commerce.
 |June 2025|[Deployment failed: unable to apply MDVA-43395 patch](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26911)|New articles| Learn about the solutions to the issue where trying to apply the MDVA-43395 patch results in failed deployment.|
 |June 2025|[Deployment fails with "*Error building project: The build hook failed with status code 1*"](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26912)|New articles| Learn about the solutions to the issue where the build phase of the deployment process fails, and the error message is summarized with: *Error building project: The build hook failed with status code 1.*|
 |June 2025|[Deployment errors from enabling early-alpha [!DNL Baler] module](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26914)|New articles| Learn about the solutions to the issue when deployment errors occur when using the [!DNL Baler] module on a Production environment.|
-|June 2025|[Deployment fails with correct access keys in `env:COMPOSER_AUTH` or `auth.json`](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26921)|New articles| Learn about the solutions to the issue when your deployment fails with an *file could not be downloaded (HTTP/1.1 404 Not Found)* error in the deployment log.|
+|June 2025|[Deployment fails with correct access keys in `env:COMPOSER_AUTH` or `auth.json`](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26921)|New articles| Learn about the solutions to the issue when your deployment fails with a *file could not be downloaded (HTTP/1.1 404 Not Found)* error in the deployment log.|
 |June 2025|[[!DNL MySQL] tables are too large](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26945)|New articles| Learn about the solutions to the issue when any [!DNL MySQL] table gets larger than 1 GB.|
 |June 2025|[Understanding queue configuration recommendations in Environment Review Report](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26956)|New articles| Learn about Environment Review Reports recommendations related to queue configuration in Adobe Commerce on Cloud infrastructure.|
 |June 2025|[Drop shipping picks up wrong address](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26962)|New articles| Learn about the solutions to the issue where the shipping solution uses the default store address instead of the product's source address for drop shipping.|
@@ -442,6 +439,8 @@ New articles and updates to existing articles for Adobe Commerce.
 Get access to pre-release notes, current release notes, and new tutorials for [!DNL Adobe Target].
 
 +++Release notes
+
+Released: **July 10, 2025**
 
 <!-- ### New [!DNL Target] support knowledge base{#kb-target}
 
@@ -517,7 +516,7 @@ New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 |July 2025|[!DNL Journey Optimizer]|[Add Rich Text to an Editable Fragment](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/fragments/add-rich-text-to-editable-fragments)|New video |Learn how to make HTML components within a fragment editable, allowing for dynamic updates to both content and styling.   |
 |July 2025|[!DNL Journey Optimizer]|[Using Editable Form Fields in AJO Code-Based Experiences](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/editable-fields)|New article | Learn how to create editable content blocks using inline form fields in Adobe Journey Optimizer's Code-Based Experience templates to empower marketers with dynamic, reusable campaign content. |
 |July 2025|[!DNL Journey Optimizer]|[Deliver personalization with JSON content in Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/json-content-type)|New article | Leverage the JSON content type in Adobe Journey Optimizer (AJO) to build flexible, data-driven personalization experiences. |
-|July 2025|[!DNL Journey Optimizer]|[Add form fields to code-based experience channel templates](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences.html)|New video | Discover how developers can streamline collaboration with marketing teams by enabling editable fields within code-based experience channels.|
+|July 2025|[!DNL Journey Optimizer]|[Add form fields to code-based experience channel templates](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/code-based-experience-channel/form-fields-in-code-based-experiences)|New video | Discover how developers can streamline collaboration with marketing teams by enabling editable fields within code-based experience channels.|
 |July 2025|[!DNL Journey Optimizer]|[Personalize offers with Ranking formulas based on zip code and income](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-ranking-formulas-based-on-user-zip-code-and-income/introduction)|New article |Use Adobe Journey Optimizer's ranking formulas to dynamically serve the most relevant financial offers--tailored to each user's ZIP code and income level--for higher engagement and smarter personalization.  |
 |July 2025|[!DNL Journey Optimizer]|[Capture offer interactions with Adobe Web SDK for AI model training](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/capturing-offer-interactions-with-web-sdk-ai-model)|New article | Learn about capturing user interaction data--such as offer impressions and clicks--using the Adobe Experience Platform Web SDK (alloy.js). This data serves as the foundation for training AI models in Adobe Journey Optimizer (AJO)  intelligently to rank offers based on user behavior and contextual signals. |
 |July 2025|[!DNL Journey Optimizer]|[Validate the journey logic with Journey Dry run](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/journey-dry-run)|New video | Learn how to activate a journey in dry run mode, configure options like disabling wait times and external data sources, and interpret profile flow metrics to validate audience segmentation and conditional logic. Understand how to identify and fix issues--such as typos in condition nodes--and how to access and export dry run reports for further analysis before launching the journey live. |
@@ -545,7 +544,7 @@ Learn about the latest release information for [!DNL Journey Optimizer B2B Editi
 
 +++Release notes and documentation
 
-Latest release: **2025.5**
+Latest release: **June 3, 2025**
 
 * [[!DNL Journey Optimizer B2B Edition]](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b) (All self-help)
 * [Release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes) for [!DNL Journey Optimizer B2B Edition]
@@ -575,10 +574,11 @@ Find out the latest release notes and release schedule for [!DNL Marketo Engage]
 
 ### Core Marketo Engage updates
 
-Release: **May 2025**
+Release: **July 11, 2025**
 
-* See [Current release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current) for the latest information.
-* See [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/release-schedule) for the latest release schedule information and release notes.
+* [Current release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current)
+* [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/release-schedule)
+* Dynamic Chat [release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/dynamic-chat) (**June 30, 2025**)
 
 <!-- ### New Marketo tutorials {#tutorials-marketo}
 
@@ -623,10 +623,10 @@ New [!DNL Workfront] tutorials and events on Experience League.
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |July 2025|[Connect record types](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/connect-record-types)|New video |Learn how to connect record types in Workfront Planning to streamline workflows, boost clarity, and enhance team accountability and efficiency.|
-|July 2025|[Create a custom calendar report](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/creating-custom-calendars.html)|New video |Learn how to create your own custom calendar.|
+|July 2025|[Create a custom calendar report](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/calendar-reports/creating-custom-calendars.html)|New video |Learn how to create your own custom calendar.|
 |July 2025|[Understand the calendar report interface](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/calendar-reports/tour-of-the-interface)|New video |Get to know the calendar interface including calendar groupings, views and actions.|
-|July 2025|[Understand additional calendar report options](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/additional-calendar-options.html)|New video |Learn how to copy, edit, share, and delete a calendar.|
-|July 2025|[Create a task report](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html)|New video |Learn how to create a task report with complex filter, and to find the reports you create in Adobe Workfront.|
+|July 2025|[Understand additional calendar report options](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/calendar-reports/additional-calendar-options.html)|New video |Learn how to copy, edit, share, and delete a calendar.|
+|July 2025|[Create a task report](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report)|New video |Learn how to create a task report with a complex filter, and to find the reports you create in Adobe Workfront.|
 |July 2025|[Create filters with date-based wildcards](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-date-based-wildcards)|New video |Learn how and when to use date-based wildcards and how to build a filter based on the current date.|
 |July 2025|[Create filters with date-based wildcards](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-date-based-wildcards)|New video |Learn how and when to use date-based wildcards and how to build a filter based on the current date.|
 
@@ -661,7 +661,7 @@ Find latest release information and new documentation for [!DNL GenStudio for Pe
 
 See the following pages for the latest information:
 
-* Mix Modeler [May - June 2025 - Release notes](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest)
+* Mix Modeler [May - July 2025 - Release notes](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest)
 * Mix Modeler [product documentation](https://experienceleague.adobe.com/en/docs/mix-modeler)
 
 +++
@@ -676,13 +676,13 @@ To browse Adobe [!DNL Advertising] help, visit [Adobe Advertising Documentation]
 
 ### New features in [!DNL Advertising DSP] {#advertising-dsp}
 
-June 4, 2025
+July 2, 2025
 
 See [What's new in [!DNL Advertising DSP]](https://experienceleague.adobe.com/en/docs/advertising/dsp/home)
   
 ### New features in [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
 
-March 26, 2026
+July 2, 2025
 
 See [What's new in [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/home)
 
