@@ -117,11 +117,13 @@ Previous release notes for [!DNL Adobe System Status]:
 
 Learn about updates to [!DNL Experience Cloud] administration and central interface components. 
 
-+++New features
++++Updates
 
-| Update | Date  | Description  |
+Not updated in July.
+
+<!-- | Update | Date  | Description  |
 | -----------| -----------| ---------- |
-| Support for restricted IP address  | **Planned: August 7, 2025**  | For organizations that have implemented IP address restrictions in Admin Console, Experience Cloud will respect those restrictions on the `experience.adobe.com` domain at login and new page loads in that organization.  |
+| Support for restricted IP address  | **Planned: August 7, 2025**  | For organizations that have implemented IP address restrictions in Admin Console, Experience Cloud will respect those restrictions on the `experience.adobe.com` domain at login and new page loads in that organization.  | -->
 
 See the [Experience Cloud interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) guide for help on:
 
