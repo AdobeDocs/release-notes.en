@@ -16,12 +16,12 @@ This page is a central release notes resource for Experience Cloud products. Fin
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
-**Updated July 11, 2025**
+**Updated July 14, 2025**
 
 +++View product links
 
-* [New learning resources about AI in [!DNL Experience Cloud]](#ai)
-* [Upcoming events](#events)
+* [Event schedule](#events)
+* [Resources for using AI in [!DNL Experience Cloud]](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud) 
 * [[!DNL Adobe Experience Platform]](#platform) 
@@ -50,7 +50,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 +++
 
-## Events on [!DNL Experience League] {#events}
+## Event schedule {#events}
 
 Find [events](https://experienceleague.adobe.com/en/events) and register for the ones that interest you.
 
@@ -78,9 +78,9 @@ View the complete listing of [upcoming](https://experienceleague.adobe.com/en/ev
 
 +++
 
-## New learning resources about AI in [!DNL Experience Cloud] {#ai}
+## Resources for using AI in [!DNL Experience Cloud] {#ai}
 
-Find the latest learning resources published for generative AI (genAI) and agentic AI in Experience Cloud.
+Find the latest learning resources published for generative AI (genAI), AI Assistant, and agentic AI in Experience Cloud.
 
 +++Details
 
