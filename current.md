@@ -136,7 +136,23 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 +++Release notes, tutorials, and support articles
 
-Planned release: **July 29, 2025**
+June 2025 includes updates to:
+
+* Access control
+* Advanced data lifecycle management
+* Catalog Service
+* Dashboards
+* Data Governance
+* Destinations
+* Federated Audience Composition
+* Privacy Service
+* Sandboxes
+* Segmentation
+* Sources
+
+Next planned release: **July 29, 2025**
+
+**AEP release notes**
 
 * [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest)
 
@@ -195,6 +211,14 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 [!DNL Analytics] release date: **July 16, 2025**
 
+Updates include:
+
+* Livestream TNT Fields with algorithms
+* Updated navigation to Customer Attributes UI
+* Streaming Media: Support schedule data
+
+**Analytics release notes**
+
 * [!DNL Analytics] [release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest)
 
 * [!DNL Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/analytics)
@@ -230,10 +254,20 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 +++Release notes and new tutorials
 
+Releases for [!DNL Customer Journey Analytics] occur on a continuing basis. As such, release notes are updated several times a month. Please check them regularly.
+
+July updates:
+
+* Add and view comments in Analysis Workspace projects
+* Projects downloaded as PDFs are downloaded to your workstation
+* Derived fields - Typecast function
+* Derived fields - Date Math function
+* Ares: Derived Fields Depth function
+* Support for Chrome pre-rendering 
+
+**CJA release notes**
+
 * [Release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases)
-
-    Releases for [!DNL Customer Journey Analytics] occur on a continuing basis. As such, release notes are updated several times a month. Please check them regularly.
-
 * [Product documentation and tutorials](https://experienceleague.adobe.com/en/docs/customer-journey-analytics)
 
 ### New [!DNL Customer Journey Analytics] tutorials {#tutorials-cja}
@@ -330,7 +364,7 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 |June 2025|[Resolving skipped or uninstalled packages in Adobe Cloud Manager deployments](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26840)|New article| Learn about the solutions to the issue where certain content or configuration packages are skipped or not installed during Adobe Cloud Manager deployments for AEM (v6.5 or AEM as a Cloud Service).|
 |June 2025|[Resolving deployment errors in AEM as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26557)|New article| Learn about the solutions to the issue when deployment errors occur in Adobe Experience Manager (AEM) as a Cloud Service caused by customizations in the repository initialization script.|
 |June 2025|[Resolving access issues in AEM as a Cloud Service via Single Sign-On](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26626)|New article| Learn about the solutions to the issue where you can't sign in to the AEM as a Cloud Service author instance by using your corporate SSO credentials, even though you have the correct permissions.|
-|June 2025|[Digital Asset Management (DAM) renditions not matching original files in AEM](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26639)|New article| Learn about the solutions to the issue in Adobe Experience Manager as a Cloud Service (AEMaaCS) where some assets in the Digital Asset Management (DAM) system display inconsistent renditions compared to the original file—particularly in web renditions.|
+|June 2025|[Digital Asset Management (DAM) renditions not matching original files in AEM](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26639)|New article| Learn about the solutions to the issue in Adobe Experience Manager as a Cloud Service (AEMaaCS) where some assets in the Digital Asset Management (DAM) system display inconsistent renditions compared to the original file--particularly in web renditions.|
 |June 2025|[Video thumbnail mismatch between Dynamic Media and DAM [!UICONTROL Card View] in AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26677)|New article| Learn about the solutions to the issue where video thumbnails differ between Dynamic Media (For example: [!UICONTROL Asset Details] page) and the Digital Asset Management (DAM) UI (For example: [!UICONTROL Card View] or [!UICONTROL Asset Properties] dialog).|
 |June 2025|[[!UICONTROL Content Fragments] link loads incorrect URL on the AEM start page](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26700)|New article| Learn about the solutions to the issue where the [!UICONTROL Content Fragments] link on the Adobe Experience Manager (AEM) Start page loads incorrect URLs across environments due to outdated [!UICONTROL Externalizer] settings or misconfigured Cloud Manager environment variables.|
 |June 2025|[VPN Advanced Networking configuration challenges in AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26714)|New article| Learn about the solutions to the issue when configuring Advanced Networking with a Virtual Private Network (VPN) in Adobe Experience Manager as a Cloud Service (AEMaaCS), issues occur with address space conflicts, invalid Domain Name System (DNS) resolver settings, and stuck states during setup.|
@@ -498,6 +532,20 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 Latest release: **June 2025**
 
+Updates:
+
+* Adobe Experience Platform datasets in decisioning (beta)
+* RCS Messaging
+* Form fields in code-based experience content
+* Content Decision activity in journeys
+* Journey Dry run
+* Pause and resume journeys
+* Scale your Experimentation winner
+* Conflict & prioritization
+* General improvements
+
+**AJO release notes**
+
 * See [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) for updates and help
 
 **Note:** [Journey Optimizer for B2B Edition](#journey-optimizer-b2b-edition) is a separate product.
@@ -542,6 +590,15 @@ Learn about the latest release information for [!DNL Journey Optimizer B2B Editi
 +++Release notes and documentation
 
 Latest release: **June 3, 2025**
+
+Updates:
+
+* Email testing with Litmus
+* Duplicate email
+* Handlebar token format for email
+* Total count display for lists
+
+**AJO B2B resources**
 
 * [[!DNL Journey Optimizer B2B Edition]](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b) (All self-help)
 * [Release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes) for [!DNL Journey Optimizer B2B Edition]
@@ -645,6 +702,14 @@ Find latest release information and new documentation for [!DNL GenStudio for Pe
 
 +++Release notes and documentation
 
+June updates:
+
+* Starter templates available
+* Generative Expand AI functionality
+* Add videos to ads
+
+**Release notes and resources**
+
 * [2025.06 - Release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest) for GenStudio for Performance Marketing
 * [GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/browse/genstudio-for-performance-marketing) (All self-help)
 * [Product documentation](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home) for GenStudio for Performance Marketing
@@ -656,7 +721,13 @@ Find latest release information and new documentation for [!DNL GenStudio for Pe
 
 +++Release notes and documentation
 
-See the following pages for the latest information:
+July updates:
+
+* Goal based plans
+* Spend pattern config
+* Advanced plan configurations
+
+**Mix Modeler release notes**
 
 * Mix Modeler [May - July 2025 - Release notes](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest)
 * Mix Modeler [product documentation](https://experienceleague.adobe.com/en/docs/mix-modeler)
