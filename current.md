@@ -5,10 +5,9 @@ doc-type: release notes
 last-update: July 2025
 author: mfrei
 mini-toc-levels: 2
-badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
-# Experience Cloud release notes - July 2025
+# Experience Cloud central release notes - July 2025
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -16,7 +15,7 @@ This page is a central release notes resource for Experience Cloud products. Fin
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
-**Updated July 14, 2025**
+**Updated July 16, 2025**
 
 +++View product links
 
@@ -55,8 +54,6 @@ To receive a monthly email notification about updates to this page, subscribe to
 Find [events](https://experienceleague.adobe.com/en/events) and register for the ones that interest you.
 
 +++Upcoming events
-
-* **Adobe Workfront** | _Connect: Admin Chat for Marketing & Creative_ | Discuss with peers the best practices and tips for Workfront admins. | July 11, 2025 - 10:00 AM MT | [Register](https://events.teams.microsoft.com/event/14f0c251-136d-4a61-befc-54673bf58cd6@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **Adobe Commerce (Multisolution)** | _Behind the Brew: App Builder_ | Covers integrating Adobe Commerce with other platforms using App Builder. | July 17, 2025 - 11:00 AM MT | [Register](https://adobeevents.adobeconnect.com/erocxh4d6bbu/event/registration.html?campaign-id=ExL)
 
@@ -198,7 +195,7 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 [!DNL Analytics] release date: **July 16, 2025**
 
-* [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html)
+* [!DNL Analytics] [release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest)
 
 * [!DNL Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/analytics)
 
@@ -233,7 +230,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 +++Release notes and new tutorials
 
-* [Release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html)
+* [Release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases)
 
     Releases for [!DNL Customer Journey Analytics] occur on a continuing basis. As such, release notes are updated several times a month. Please check them regularly.
 
@@ -329,7 +326,7 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 |June 2025|[AEM fails to redirect `/robots.txt` via [!DNL Apache] rewrite rule](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26718)|New article| Learn about the solutions to the issue when [!DNL Apache] is configured to rewrite `/robots.txt` to a DAM (Digital Asset Management) path in AEM, but the request still returns a *404* error.|
 |June 2025|[Incorrect version numbers in [!DNL Windows] "[!UICONTROL Add/Remove Programs]" for AEM Forms Workbench and Designer](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26846)|New article| Learn about the solutions to the issue when installing Adobe Experience Manager (AEM) Forms Workbench and Designer on [!DNL Windows], even after applying service packs or full installers, the version displayed in the [!UICONTROL Control Panel]'s [!UICONTROL Add/Remove Programs] interface remains static as *6.5.0*.|
 |June 2025|[Dynamic Media video player not functioning in lower environments](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26871)|New article| Learn about the solutions to the issue in Adobe Experience Manager (AEM) lower environments when the system generates malformed URLs that break video playback.|
-|June 2025|[AEM Cloud preview shows *It works!* instead of your site homepage](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26745)|New article| Learn about the solutions to the issue when your Adobe Experience Manager (AEM) publish or preview environment shows an *It works!* message instead of your site's homepage.|
+|June 2025|[AEM Cloud preview shows *It works!* instead of your site homepage](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26745)|New article| Learn about the solutions to the issue when your Adobe Experience Manager (AEM) _publish_ or _preview_ environment shows an *It works!* message instead of your site's homepage.|
 |June 2025|[Resolving skipped or uninstalled packages in Adobe Cloud Manager deployments](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26840)|New article| Learn about the solutions to the issue where certain content or configuration packages are skipped or not installed during Adobe Cloud Manager deployments for AEM (v6.5 or AEM as a Cloud Service).|
 |June 2025|[Resolving deployment errors in AEM as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26557)|New article| Learn about the solutions to the issue when deployment errors occur in Adobe Experience Manager (AEM) as a Cloud Service caused by customizations in the repository initialization script.|
 |June 2025|[Resolving access issues in AEM as a Cloud Service via Single Sign-On](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26626)|New article| Learn about the solutions to the issue where you can't sign in to the AEM as a Cloud Service author instance by using your corporate SSO credentials, even though you have the correct permissions.|
