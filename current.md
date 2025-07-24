@@ -15,7 +15,7 @@ This page is a central release notes resource for Experience Cloud products. Fin
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
-**Updated July 16, 2025**
+**Updated July 24, 2025**
 
 +++View product links
 
@@ -54,16 +54,6 @@ To receive a monthly email notification about updates to this page, subscribe to
 Find [events](https://experienceleague.adobe.com/en/events) and register for the ones that interest you.
 
 +++Upcoming events
-
-* **Adobe Commerce (Multisolution)** | _Behind the Brew: App Builder_ | Covers integrating Adobe Commerce with other platforms using App Builder. | July 17, 2025 - 11:00 AM MT | [Register](https://adobeevents.adobeconnect.com/erocxh4d6bbu/event/registration.html?campaign-id=ExL)
-
-* **Adobe Workfront** | _Workfront Collective_ | Monthly meet-up to share features, brainstorm, and solve challenges. | July 17, 2025 - 7:00 AM MT | [Register](https://events.teams.microsoft.com/event/cce5eabe-e2e7-435f-aefb-14956ec192d0@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **Adobe Workfront** | _Reimagining Content Approvals in Workfront_ | Deep dive into future approval workflows, Frame.io integration, and roadmap. | July 22, 2025 - 9:00 AM MT | [Register](https://events.teams.microsoft.com/event/0d5f80d1-9cb1-42f9-a199-ea0ca6f8fe99@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **Adobe Experience Manager Assets** | _Unlock the Power of AEM Content Hub_ | Learn how to reuse, activate, and centralize on-brand content across regions. | July 22, 2025 - 9:00 AM MT | [Register](https://events.teams.microsoft.com/event/04f70202-48dc-4ddb-954b-5b60fad1b693@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **Adobe Experience Manager Forms** | _Modernizing the Payers' Enrollment Journey_ | Automate and enhance member enrollment using AEM Forms. | July 23, 2025 - 11:00 AM MT | [Register](https://events.teams.microsoft.com/event/958401be-1c2c-4e4b-87b0-a3939ff8ff6b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **Adobe Workfront** | _Workfront Planning: The Smart Start_ | Learn base setup best practices from the Workfront Product Management team. | July 31, 2025 - 10:00 AM MT | [Register](https://events.teams.microsoft.com/event/adbabe72-e591-464e-87f8-1f1947d49f38@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
