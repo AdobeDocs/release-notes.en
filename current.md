@@ -15,7 +15,7 @@ This page is a central release notes resource for Experience Cloud products. Fin
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
-**Updated July 24, 2025**
+**Updated July 25, 2025**
 
 +++View product links
 
@@ -55,13 +55,17 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 +++Upcoming events
 
-* **Adobe Workfront** | _Workfront Planning: The Smart Start_ | Learn base setup best practices from the Workfront Product Management team. | July 31, 2025 - 10:00 AM MT | [Register](https://events.teams.microsoft.com/event/adbabe72-e591-464e-87f8-1f1947d49f38@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Adobe Journey Optimizer** | _Adobe Experience League LIVE_ | Fueling Personalized Content in Journey Optimizer with AEM Content Fragments and Dynamic Media | July 31, 2025 | [Register](https://engage.adobe.com/ExpLeagueLive-250731.html?sdid=QLD1P2NL&mv=other)
 
-* **Adobe Marketo Engage (Multisolution)** | _Marketo & Mochas: Salesforce Sync_ | Tips and strategy to sync and optimize Salesforce + Marketo. | July 31, 2025 - 10:00 AM MT | [Register](https://adobeevents.adobeconnect.com/eeb0ucvtg1l0/event/registration.html?campaign-id=ExL)
+* **Adobe Workfront** | _Workfront Planning: The Smart Start_ | Learn base setup best practices from the Workfront Product Management team. | July 31, 2025 | [Register](https://events.teams.microsoft.com/event/adbabe72-e591-464e-87f8-1f1947d49f38@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **Adobe Workfront** | _Designing Simplicity: How Kohler Reimagined Creative Briefs_ | Case study on creative brief process innovation in Workfront. | August 6, 2025 - 12:00 PM MT | [Register](https://events.teams.microsoft.com/event/fbfa9ecf-7042-4ed8-b7a5-58351dae561f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Adobe Marketo Engage (Multisolution)** | _Marketo & Mochas: Salesforce Sync_ | Tips and strategy to sync and optimize Salesforce + Marketo. | July 31, 2025 | [Register](https://adobeevents.adobeconnect.com/eeb0ucvtg1l0/event/registration.html?campaign-id=ExL)
 
-View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
+* **Adobe Workfront** | _Connect: Admin Chat for Marketing & Creative | This interactive discussion is geared towards connecting you with other admins, sharing best practices as well as tips and tricks to help you get the most out of Workfront for you and your users. | July 31, 2025 | [Register](https://events.teams.microsoft.com/event/d0e31c87-215e-4403-8cf0-9627d392aa15@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Adobe Workfront** | _Designing Simplicity: How Kohler Reimagined Creative Briefs_ | Case study on creative brief process innovation in Workfront. | August 7, 2025 | [Register](https://events.teams.microsoft.com/event/fbfa9ecf-7042-4ed8-b7a5-58351dae561f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+**And more!** View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
 
 +++
 
