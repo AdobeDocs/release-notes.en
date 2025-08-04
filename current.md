@@ -63,7 +63,7 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 * **Adobe Journey Optimizer** | _RCS for Business: Unlock the next era of conversation_ | Join us for a morning of exclusive content, inspiration and insights, as industry leaders from Google and Adobe unveil how RCS for Business is the revolution in customer engagement, set to reach 2.1 billion users by 2026. | August 6, 2025 | [Register](https://event.adobe.com/rcsforbusinessadobexgoogle)
 
-
+* **Adobe Journey Optimizer** | _Ask me anything_ | Experts will be logged in to answer your questions related to the topics discussed during the Experience League LIVE session from July 31st: [Fueling Personalized Content in Journey Optimizer with AEM Content Fragments and Dynamic Media](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25) | August 6, 2025 | [Register](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-august-6th-with-journey-optimizer-product/ev-p/763863)
 
 * **Adobe Workfront** | _Designing Simplicity: How Kohler Reimagined Creative Briefs_ | Case study on creative brief process innovation in Workfront. | August 7, 2025 | [Register](https://events.teams.microsoft.com/event/fbfa9ecf-7042-4ed8-b7a5-58351dae561f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
