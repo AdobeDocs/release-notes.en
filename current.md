@@ -806,9 +806,7 @@ See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com
 
 [Digital Experience Blueprints](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/overview) are repeatable implementations that let you address strategy and quickly solve established business problems. Each Blueprint provides a series of artifacts that explain the high-value business problem, architectures, implementation steps, technical considerations, and links to the relevant documentation.
 
-<!-- |Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|January 2025|[Guardrails](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/architecture-overview/deployment/guardrails)|Updated article |Learn about guardrails, the performance expectations and impact for the components and services within Adobe Experience Platform and Applications.| -->
+
 
 <!-- ## ![Icon](/assets/certification-badge.png) Certification{#certification}
 
