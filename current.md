@@ -15,7 +15,7 @@ This page is a central release notes resource for Experience Cloud products. Fin
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
-**Updated July 31, 2025**
+**Updated August 5, 2025**
 
 +++View product links
 
@@ -54,12 +54,6 @@ To receive a monthly email notification about updates to this page, subscribe to
 Find [events](https://experienceleague.adobe.com/en/events) and register for the ones that interest you.
 
 +++Upcoming events
-
-* **Adobe Workfront** | _Workfront Planning: The Smart Start_ | Learn base setup best practices from the Workfront Product Management team. | July 31, 2025 | [Register](https://events.teams.microsoft.com/event/adbabe72-e591-464e-87f8-1f1947d49f38@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **Adobe Marketo Engage (Multisolution)** | _Marketo & Mochas: Salesforce Sync_ | Tips and strategy to sync and optimize Salesforce + Marketo. | July 31, 2025 | [Register](https://adobeevents.adobeconnect.com/eeb0ucvtg1l0/event/registration.html?campaign-id=ExL)
-
-* **Adobe Workfront** | _Connect: Admin Chat for Marketing & Creative_ | This interactive discussion is geared towards connecting you with other admins, sharing best practices as well as tips and tricks to help you get the most out of Workfront for you and your users. | July 31, 2025 | [Register](https://events.teams.microsoft.com/event/d0e31c87-215e-4403-8cf0-9627d392aa15@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **Adobe Journey Optimizer** | _RCS for Business: Unlock the next era of conversation_ | Join us for a morning of exclusive content, inspiration and insights, as industry leaders from Google and Adobe unveil how RCS for Business is the revolution in customer engagement, set to reach 2.1 billion users by 2026. | August 6, 2025 | [Register](https://event.adobe.com/rcsforbusinessadobexgoogle)
 
