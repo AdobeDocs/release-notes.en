@@ -56,14 +56,6 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 +++Upcoming events
 
-* **Adobe Journey Optimizer** | _Ask me anything_ | Experts will be logged in to answer your questions related to the topics discussed during the Experience League LIVE session from July 31st: [Fueling Personalized Content in Journey Optimizer with AEM Content Fragments and Dynamic Media](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25) | August 6, 2025 | [Register](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-august-6th-with-journey-optimizer-product/ev-p/763863)
-
-* **Multisolution** | _AEM Forms_ | Modernizing the Payers' Enrollment Journey with AEM Forms. | August 6, 2025 | [Register](https://events.teams.microsoft.com/event/958401be-1c2c-4e4b-87b0-a3939ff8ff6b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **Adobe Workfront** | _Designing Simplicity: How Kohler Reimagined Creative Briefs_ | Case study on creative brief process innovation in Workfront. | August 7, 2025 | [Register](https://events.teams.microsoft.com/event/fbfa9ecf-7042-4ed8-b7a5-58351dae561f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **Adobe Workfront** | _Admin 101: Getting Users to Use Workfront_ | This series of events provide new admins with an introduction to available resources, a rundown of system navigation, and best practices around initial setup, intake, and basic reporting.  | August 12, 2025 | [Register](https://events.teams.microsoft.com/event/e8ec30fe-bc90-4e16-878f-84f535132d70@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **Multisolution** | _The Skill Exchange_ | Taking place on August 13 - 14 and 20 - 21, this customer focused, digital experience is designed to deepen your expertise across Adobe solutions, including Adobe Analytics, Adobe Customer Journey Analytics, Adobe Experience Platform: Real-Time CDP + Adobe Journey Optimizer, Adobe Experience Manager, Adobe Marketo Engage, and Adobe Workfront.  | August 13, 2025 | [Register](https://reg.adobe.com/flow/adobe/skill/landingpage/page/home?source=exleventspage&cgen=CD9228SB&mv=other)
 
 * **GenStudio for Performance Marketing** | _Inside GenStudio for Performance Marketing: What's Possible & What's New_ | Join us for a fast-paced look inside Adobe GenStudio for Performance Marketing--a Gen AI-first platform built for marketing and creative teams to accelerate content creation, activation, and optimization at scale.  | August 13, 2025 | [Register](https://events.teams.microsoft.com/event/30ae7f84-313d-4808-8239-d0d471d8f676@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
@@ -216,7 +208,7 @@ Updates include:
 
 **Analytics release notes**
 
-* [!DNL Analytics] [release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest)
+* [!DNL Analytics] [release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html)
 
 * [!DNL Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/analytics)
 
@@ -264,7 +256,7 @@ July updates:
 
 **CJA release notes**
 
-* [Release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases)
+* [Release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html)
 * [Product documentation and tutorials](https://experienceleague.adobe.com/en/docs/customer-journey-analytics)
 
 ### New [!DNL Customer Journey Analytics] tutorials {#tutorials-cja}
