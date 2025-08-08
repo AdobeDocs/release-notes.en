@@ -16,7 +16,7 @@ This page is a central release notes resource for Experience Cloud products. Fin
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
-**Updated August 5, 2025**
+**Updated August 8, 2025**
 
 +++View product links
 
