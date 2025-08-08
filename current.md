@@ -86,6 +86,23 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 
 +++Release notes
 
+Release date: **July 16th, 2025**
+
+What's new
+
+* Virtual Assistant general availability
+* Event ID search
+* Slack notification setup update
+* Bug fixes and improvements
+
+| Feature | Description |
+| ------- | ------- |
+| **Virtual Assistant general availability** | <ul><li>Virtual Assistant is a feature that allows Status customers on the web and mobile to get answers to their questions and help perform quick actions without leaving the home page. It serves as one place to get all the queries resolved. </li><li>Virtual assistant is now available to all customers of `status.adobe.com`. It can be accessed by logging in to [status.adobe.com](status.adobe.com) and interacting with the widget **[!UICONTROL Ask our assistant]**.</li></ul>|
+| **Event ID search** | <ul><li>Customers can now search by event ID on Product and Cloud pages as well as on Virtual Assistant.</li></ul> |
+| **Slack notification setup update** | <ul><li>Customers will be asked to enter their slack channel details before they can proceed for set up. This will ensure smooth slack set up with their slack channel handy.</li></ul> |
+| **Bug fixes and improvements** | <ul><li>Missing notifications - Customer facing statement availability notifications were not sent to customers on past CSOs</li><li>Missing notifications - When two events occurred at same time, email communications were missed.</li><li>40 days history for Maintenances - Maintenances were missing historical events due to some of them being older than 40 days.</li><li>Cloud page banner - Banner did not update when filters changed on the Cloud page.</li><li>UI Enhancements - Messages related to Customer facing statement are updated to improve clarity.</li></ul> |
+
+
 Previous release notes for [!DNL Adobe System Status]:
 
 * [April 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2025/04162025#status)
