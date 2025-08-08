@@ -121,11 +121,9 @@ Learn about updates to [!DNL Experience Cloud] administration and central interf
 
 +++Updates
 
-Not updated in July.
-
-<!-- | Update | Date  | Description  |
+| Update | Date  | Description  |
 | -----------| -----------| ---------- |
-| Support for restricted IP address  | **Planned: August 7, 2025**  | For organizations that have implemented IP address restrictions in Admin Console, Experience Cloud will respect those restrictions on the `experience.adobe.com` domain at login and new page loads in that organization.  | -->
+| Support for restricted IP address  | **August 7, 2025**  | For organizations that have implemented IP address restrictions in Admin Console, Experience Cloud will respect those restrictions on the `experience.adobe.com` domain at login and new page loads in that organization.  |
 
 See the [Experience Cloud interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) guide for help on:
 
@@ -169,7 +167,9 @@ New tutorials published for Adobe [!DNL Experience Platform] on Experience Leagu
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|June 2025| [!DNL Experience Platform] | [Identity graph linking rules - Identity settings](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/identities/graph-linking-rules/identity-settings)| New video | Learn how to enable and configure identity graph linking rules in Adobe Experience Platform to build accurate customer profiles. This video covers namespace prioritization, uniqueness settings, and validation, so you can start using these features in your sandboxes effectively. |
+|August 2025| [!DNL Experience Platform] | [Run queries](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/queries/run-queries)| Video | Learn how to use the Adobe Experience Platform Query Editor to create, run, and manage SQL queries efficiently.  |
+|August 2025| [!DNL Experience Platform] | [Connect to Oracle databases in Federated Audience Composition](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/fac/connect-to-oracle)| Video | Learn how to connect Oracle databases within Adobe Experience Platform to discover schemas, build data models, and use the data for audience enrichment.  |
+|August 2025| [!DNL Experience Platform] | [Subscribe to Federated Audience Composition alerts](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/fac/subscribe-to-alerts)| Video | Learn how to subscribe to Federated Audience Composition alerts to receive in-app or email notifications for both successful and failed executions. To enable this, configure their preferences in the Notification Settings under the Experience Platform product. |
 
 ### New [!DNL Experience Platform] support knowledge base{#kb-aep}
 
@@ -332,14 +332,21 @@ Other [!DNL Experience Manager] product release notes are maintained at the foll
 
 ### New [!DNL Experience Manager] tutorials {#tutorials-aem}
 
-New video and written tutorials published for [!DNL Experience Manager as a Cloud Service].
+New video and written tutorials (articles) published for [!DNL Experience Manager as a Cloud Service].
 
-| Published | Applications | Name | Type | Description |
+| Published | Applications | Name | Format | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|June 2025| [!DNL Experience Manager] | [Experience Optimization and Value Realization](https://experienceleague.adobe.com/en/playlists/experience-manager-all-experience-optimization-and-value-realization)| New video | Short clips from Adobe Summit 2025. |
-|June 2025| [!DNL Experience Manager] | [Generative AI and AI-Driven Innovations in Experience Manager](https://experienceleague.adobe.com/en/playlists/experience-manager-all-gen-ai-driven-innovations)| New video | Short clips from Adobe Summit 2025. |
-|June 2025| [!DNL Experience Manager Assets] | [Dynamic Media for transparency and Content Automation batch processing](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/dynamic-media/images/dynamic-media-image-automation)| New video | Learn how to use Dynamic Media in AEM to create virtual renditions, manage transparency, and automate image processing for scalable content reuse. |
-|June 2025| [!DNL Experience Manager Sites] | [Create a live authoring guide in [!DNL Sites]](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/expert-resources/authoring-guide-in-sites)| New video | AEM Champion Brett Birschbach shares best practices for building a live authoring guide within Adobe Experience Manager (AEM) Sites. |
+|August 2025| [!DNL AEM Sites] | [Preview a local Universal Editor extension](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/edge-delivery-services/developing/universal-editor/how-to/local-extension-preview)| Article | Learn how to preview a locally running Universal Editor extension during development. |
+|August 2025| [!DNL AEM CS] | [Blocking DoS, DDoS and sophisticated attacks using traffic filter rules](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/blocking-dos-attack-using-traffic-filter-rules)| Article | Learn how to block Denial of Service (DoS), Distributed Denial of Service (DDoS) and sophisticated attacks using traffic filter rules in the AEM as a Cloud Service (AEMCS) managed CDN. |
+|August 2025| [!DNL AEM CS] | [Webhooks and AEM Events](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/aem-eventing/examples/webhook.html)| Video | Learn how to receive AEM events on a webhook and review the event details such as payload, headers, and metadata. |
+|August 2025| [!DNL AEM CS] | [Best practices for traffic filter rules including WAF rules](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/traffic-filter-and-waf-rules/best-practices)| Article | Learn recommended best practices for configuring traffic filter rules including WAF rules in AEM as a Cloud Service to enhance security and mitigate risks. |
+|August 2025| [!DNL AEM CS] | [Normalizing requests](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/traffic-filter-and-waf-rules/how-to/request-transformation)| Article | Learn how to normalize requests by transforming them using traffic filter rules in AEM as a Cloud Service. |
+|August 2025| [!DNL AEM CS] | [How to set up traffic filter rules including WAF rules](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/traffic-filter-and-waf-rules/setup)| Video | Learn how to set up traffic filter rules including Web Application Firewall (WAF) rules. In this tutorial, we set up the groundwork for subsequent tutorials, where you will configure and deploy rules, followed by testing and analyzing of the results. |
+|August 2025| [!DNL AEM CS] | [Monitoring sensitive requests](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/traffic-filter-and-waf-rules/how-to/request-logging)| Article | Learn how to monitor sensitive requests by logging them using traffic filter rules in AEM as a Cloud Service. |
+|August 2025| [!DNL AEM CS] | [Protecting AEM websites using WAF rules](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/traffic-filter-and-waf-rules/using-waf-rules)| Video | Learn how to protect AEM websites from sophisticated threats including DoS, DDoS, and bot abuse using Adobe-recommended Web Application Firewall (WAF) rules in AEM as a Cloud Service. |
+|August 2025| [!DNL AEM CS] | [Restricting access](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/traffic-filter-and-waf-rules/how-to/request-blocking)| Article | Learn how to restrict access by blocking specific requests using traffic filter rules in AEM as a Cloud Service. |
+|August 2025| [!DNL AEM CS] | [Protecting AEM websites using standard traffic filter rules](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/traffic-filter-and-waf-rules/using-traffic-filter-rules)| Video | Learn how to protect AEM websites from Denial of Service (DoS), Distributed Denial of Service (DDoS), and bot abuse using Adobe-recommended standard traffic filter rules in AEM as a Cloud Service. |
+|August 2025| [!DNL AEM CS] | [Overview - Protecting AEM websites](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/traffic-filter-and-waf-rules/overview)| Video | Learn how to protect your AEM websites from Denial of Service (DoS), Distributed Denial of Service (DDoS), malicious traffic and sophisticated attacks using traffic filter rules, including its subcategory of Web Application Firewall (WAF) rules in AEM as a Cloud Service. |
 
 ### New [!DNL Experience Manager] support knowledge base{#kb-aem}
 
