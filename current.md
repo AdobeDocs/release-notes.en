@@ -88,7 +88,7 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 
 Release date: **July 16th, 2025**
 
-What's new
+**What's new**
 
 * Virtual Assistant general availability
 * Event ID search
