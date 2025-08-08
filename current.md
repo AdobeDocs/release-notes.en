@@ -282,13 +282,7 @@ New tutorials published for [!DNL Customer Journey Analytics].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|June 2025|[Introduction to the Data Insights Agent](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-insights-agent/introduction-to-the-data-insights-agent)| New video |Learn about the Data Insights Agent in Customer Journey Analytics. This AI-driven solution breaks through enterprise bottlenecks by providing instant, transparent insights to marketers.|
-|June 2025|[Use the Data Insights Agent](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-insights-agent/use-the-data-insights-agent)| New video |Analyze data using natural language prompts, generating freeform tables, visualizations, and data comparisons, reducing reliance on data analysts.|
-|June 2025|[Data Insights Agent use cases](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-insights-agent/data-insights-agent-use-cases)| New video |Streamline analysis using natural language queries, real-time visualizations, and freeform tables. Boost efficiency across marketing strategy development, campaign management, and business performance reporting.|
-|June 2025|[Content Analytics - Create configuration](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/create-configuration)| New video |Learn how to use the Content Analytics guided workflow. It simplifies the setup process for Marketers, enabling efficient data collection, processing, and reporting within Customer Journey Analytics.|
-|June 2025|[Add components to the freeform panel](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/panels/add-components-to-the-freeform-panel)| New video |Use freeform panels to explore, compare, and correlate your customer experience data through a flexible, drag-and-drop interface.|
-|June 2025|[Content Analytics - Edit configuration](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/edit-configuration)| New video |Efficiently edit Content Analytics configurations by adjusting names, data views, and experience capture settings. This action automatically updates metrics and performs fine-tuning via the Content Analytics Tags extension for optimized insights.|
-|June 2025|[Set up permissions](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/access-control/set-up-permissions)| New video |Learn to set up role-based permissions in Customer Journey Analytics. Learn to assign users, configure product profiles, and manage access levels. See how to apply granular data controls, such as row-level and metric-level filtering, using segments within data views|
+|August 2025|[Workspace Commenting in CJA](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/workspace-projects/workspace-commenting)| New video |Learn how Workspace commenting in Adobe Customer Journey Analytics lets you and your team collaborate directly on your data. Ask questions, share insights, and build consensus without ever leaving your analysis. |
 
 ### New [!DNL Customer Journey Analytics] support knowledge base{#kb-cja}
 
@@ -392,11 +386,7 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-|July 2025|[GraphQL and REST](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/graphql-rest/intro-graphql)| New videos |Get an introduction to GraphQL, the industry standard for how powerful client-side applications talk to a backend. It's an increasingly relevant topic for Adobe Commerce developers, as the platform continues to expand its capabilities in the realm of headless implementations. (Four parts.)|
-|July 2025|[Create a downloadable product](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/create-products/create-downloadable-product)| New video | Learn how to create a downloadable product using the REST API and the Adobe Commerce Admin. |
-|July 2025|[Create a bundle product](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/create-products/create-bundle-product)| New video |Learn how to create a bundle product using the REST API and the Commerce Admin.|
-|July 2025|[Create a gift card product](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/create-products/create-gift-card-product)| New video |Learn how to create a gift card product using the REST API and the Adobe Commerce Admin.|
-|July 2025|[Adobe Commerce Data Connection full demonstration](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/getting-started/capabilities/data-connection)| New video |Watch a full demonstration on the capabilities of Adobe Commerce Data Connection.|
+|August 2025|[Ingest sample data Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/ingest-sample-data)| New video |Learn how to ingest the sample data for your Adobe Commerce Optimizer instance. This video outlines the entire process from start to finish using the official GitHub repository readme as a guide.|
 
 ### New [!DNL Commerce] support knowledge base{#kb-commerce}
 
@@ -484,7 +474,8 @@ New or updated videos tutorials published for Adobe Campaign.
 
 | Published | Application | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|June 2025| |[Create content using the AI Assistant for content generation](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/messages-and-deliveries/create-content-using-the-ai-assistant)| New video |Learn how to use Adobe's AI Assistant Content Accelerator to generate and customize marketing emails, including subject lines, body text, and images, while integrating brand-approved assets for consistency and compliance.|
+|August 2025|Campaign v8 Web User Interface |[linktext](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content)| New video |Learn how to use the generative AI powered Content Generator to create and enhance the email content, optimizing your email deliveries to better resonate with your audience.|
+|August 2025|Campaign v8 Web User Interface |[linktext](https://experienceleague.adobe.com/docs/campaign-web-learn/tutorials/workflows/configure-java-script-code-activity.html)| New video |Learn how to effectively use the JavaScript Code activity in Adobe Campaign Web v8 to enhance your workflows. This tutorial covers both simple and advanced scripting modes. It explains execution settings and error handling. You will see real-world examples, such as targeting VIP profiles, transforming data, and triggering conditional operations. |
 
 ### New [!DNL Campaign] support knowledge base{#kb-campaign}
 
