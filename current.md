@@ -97,7 +97,7 @@ Release date: **July 16th, 2025**
 
 | Feature | Description |
 | ------- | ------- |
-| **Virtual Assistant general availability** | <ul><li>Virtual Assistant is a feature that allows Status customers on the web and mobile to get answers to their questions and help perform quick actions without leaving the home page. It serves as one place to get all the queries resolved. </li><li>Virtual assistant is now available to all customers of `status.adobe.com`. It can be accessed by logging in to [status.adobe.com](status.adobe.com) and interacting with the widget **[!UICONTROL Ask our assistant]**.</li></ul>|
+| **Virtual Assistant general availability** | <ul><li>Virtual Assistant is a feature that allows Status customers on the web and mobile to get answers to their questions and help perform quick actions without leaving the home page. It serves as one place to get all the queries resolved. </li><li>Virtual assistant is now available to all Adobe Status customers. It can be accessed by logging in to [status.adobe.com](https://status.adobe.com/) and interacting with the widget **[!UICONTROL Ask our assistant]**.</li></ul>|
 | **Event ID search** | <ul><li>Customers can now search by event ID on Product and Cloud pages as well as on Virtual Assistant.</li></ul> |
 | **Slack notification setup update** | <ul><li>Customers will be asked to enter their slack channel details before they can proceed for set up. This will ensure smooth slack set up with their slack channel handy.</li></ul> |
 | **Bug fixes and improvements** | <ul><li>Missing notifications - Customer facing statement availability notifications were not sent to customers on past CSOs</li><li>Missing notifications - When two events occurred at same time, email communications were missed.</li><li>40 days history for Maintenances - Maintenances were missing historical events due to some of them being older than 40 days.</li><li>Cloud page banner - Banner did not update when filters changed on the Cloud page.</li><li>UI Enhancements - Messages related to Customer facing statement are updated to improve clarity.</li></ul> |
@@ -749,11 +749,11 @@ New tutorials published for [!DNL Document Cloud], including [!DNL Acrobat Servi
 
 +++Latest tutorials
 
-<!-- New tutorials published for Adobe Document Cloud.
+New tutorials published for Adobe Document Cloud.
 
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| May 2025 | Applications | [Comment on a PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/comment-on-pdf-files) |  Updated video | Learn how to add comments on a shared PDF using just a web browser. Whether you're collaborating with a team or proofreading a document, Acrobat's commenting tools make it simple to provide clear and actionable feedback.  | -->
+| August 2025 | Acrobat Sign | [Migrate Docusign templates](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/docusign-templates) |  New video | Learn how to seamlessly migrate Docusign templates and workflows to Acrobat Sign in three easy steps. |
 
 To browse [!DNL Document Cloud] tutorials, see:
 
