@@ -15,11 +15,11 @@ This page is a central release notes resource for Experience Cloud products. Fin
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
-**Updated August 5, 2025**
+**Updated August 11, 2025**
 
-+++View product links
++++View section links
 
-* [Event schedule](#events)
+* [Event schedule](#events) (Updated **August 11**)
 * [Resources for using AI in [!DNL Experience Cloud]](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud) 
@@ -55,17 +55,21 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 +++Upcoming events
 
-* **Adobe Journey Optimizer** | _Ask me anything_ | Experts will be logged in to answer your questions related to the topics discussed during the Experience League LIVE session from July 31st: [Fueling Personalized Content in Journey Optimizer with AEM Content Fragments and Dynamic Media](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-07-31-25) | August 6, 2025 | [Register](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-august-6th-with-journey-optimizer-product/ev-p/763863)
-
-* **Multisolution** | _AEM Forms_ | Modernizing the Payers' Enrollment Journey with AEM Forms. | August 6, 2025 | [Register](https://events.teams.microsoft.com/event/958401be-1c2c-4e4b-87b0-a3939ff8ff6b@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **Adobe Workfront** | _Designing Simplicity: How Kohler Reimagined Creative Briefs_ | Case study on creative brief process innovation in Workfront. | August 7, 2025 | [Register](https://events.teams.microsoft.com/event/fbfa9ecf-7042-4ed8-b7a5-58351dae561f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **Adobe Workfront** | _Admin 101: Getting Users to Use Workfront_ | This series of events provide new admins with an introduction to available resources, a rundown of system navigation, and best practices around initial setup, intake, and basic reporting.  | August 12, 2025 | [Register](https://events.teams.microsoft.com/event/e8ec30fe-bc90-4e16-878f-84f535132d70@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **Multisolution** | _The Skill Exchange_ | Taking place on August 13 - 14 and 20 - 21, this customer focused, digital experience is designed to deepen your expertise across Adobe solutions, including Adobe Analytics, Adobe Customer Journey Analytics, Adobe Experience Platform: Real-Time CDP + Adobe Journey Optimizer, Adobe Experience Manager, Adobe Marketo Engage, and Adobe Workfront.  | August 13, 2025 | [Register](https://reg.adobe.com/flow/adobe/skill/landingpage/page/home?source=exleventspage&cgen=CD9228SB&mv=other)
 
-* **GenStudio for Performance Marketing** | _Inside GenStudio for Performance Marketing: What's Possible & What's New_ | Join us for a fast-paced look inside Adobe GenStudio for Performance Marketing--a Gen AI-first platform built for marketing and creative teams to accelerate content creation, activation, and optimization at scale.  | August 13, 2025 | [Register](https://events.teams.microsoft.com/event/30ae7f84-313d-4808-8239-d0d471d8f676@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **GenStudio for Performance Marketing** | _Inside GenStudio for Performance Marketing: What's Possible & What's New_ | August 13, 2025 | [Register](https://events.teams.microsoft.com/event/30ae7f84-313d-4808-8239-d0d471d8f676@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **GenStudio for Performance Marketing** | _Power Templates: How IDEXX Reconfigured Project Templates for Global Success_ | August 14, 2025 | [Register](https://events.teams.microsoft.com/event/e7452055-75f5-4c09-8a53-d96a0dc94b62@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Workfront** | _Power Templates: How IDEXX Reconfigured Project Templates for Global Success_ | August 14, 2025 | [Register](https://events.teams.microsoft.com/event/e7452055-75f5-4c09-8a53-d96a0dc94b62@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Experience Manager** | _Espressos & Experience Manager: Content Hub vs. Brand Portal_ | August 14, 2025 | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5755976181/event_landing.html?sco-id=5755976184&campaign-id=ExL&_charset_=utf-8)
+
+* **Workfront** | _Fast Track Efficiency: Data Imports with Workfront Fusion_ | August 19, 2025 | [Register](https://events.teams.microsoft.com/event/82f76030-d858-4e08-b2d7-b665629bb511@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **General** | _Retail Leaders: AI-Driven Growth & Top Performer Playbooks_ | August 21, 2025 | [Register](https://events.teams.microsoft.com/event/802099b8-646f-43d4-b6ec-2b99eb6883a5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Multisolution** | _Data Drip: Benefits of Migrating from an Old System to Web SDK_ | August 21, 2025 | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5744920297/event_landing.html?sco-id=5743931708&campaign-id=ExL&_charset_=utf-8)
 
 **And more!** View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
 
