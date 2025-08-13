@@ -11,6 +11,8 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
+Updated: **August 13, 2025**
+
 This page helps you:
 
 * Find links to application-specific release notes
@@ -19,8 +21,6 @@ This page helps you:
 * See the latest Support articles 
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
-
-**Updated August 13, 2025**
 
 +++View section links
 
