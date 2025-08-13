@@ -19,7 +19,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 
 +++View section links
 
-* [Event schedule](#events) (Updated **August 11**)
+* [Event schedule](#events)
 * [Resources for using AI in [!DNL Experience Cloud]](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud) 
