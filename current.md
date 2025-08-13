@@ -11,7 +11,12 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
-This page is a central release notes resource for Experience Cloud products. Find links to application-specific release notes, upcoming events, new tutorials, and the latest Support articles on Experience League. Your personalized homepage on Experience League is tailored to your interests.
+This page helps you:
+
+* Find links to application-specific release notes
+* Register for upcoming events
+* View new tutorials
+* See the latest Support articles 
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
