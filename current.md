@@ -5,7 +5,6 @@ doc-type: release notes
 last-update: August 2025
 author: mfrei
 mini-toc-levels: 2
-badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
 # Experience Cloud central release notes - August 2025
@@ -16,7 +15,7 @@ This page is a central release notes resource for Experience Cloud products. Fin
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
-**Updated August 11, 2025**
+**Updated August 13, 2025**
 
 +++View section links
 
@@ -240,7 +239,7 @@ Updates include:
 * Updated navigation to Customer Attributes UI
 * Streaming Media: Support schedule data
 
-See [[!DNL Analytics] release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) for details.
+See [[!DNL Analytics] release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest) for details.
 
 ### AppMeasurement {#appm}
 
@@ -288,7 +287,7 @@ August updates:
 * Platform schema
 * Deleted projects are immediately unavailable by URL and are deleted from scheduled deliveries 
 
-See [Customer Journey Analytics (CJA) release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html)
+See [Customer Journey Analytics (CJA) release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases)
 
 ### New [!DNL Customer Journey Analytics] tutorials {#tutorials-cja}
 
