@@ -240,9 +240,10 @@ Adobe Analytics releases operate on a continuous delivery model, which allows fo
 
 Updates include:
 
-* Livestream TNT Fields with algorithms
-* Updated navigation to Customer Attributes UI
-* Streaming Media: Support schedule data
+* Analyze AI traffic with a new Referrer Type dimension item
+* Projects downloaded as PDFs are downloaded to your workstation
+* Deleted projects are immediately unavailable by URL and are deleted from scheduled deliveries
+* Streaming Media: Updated XDM fields for collecting Streaming Media data into Adobe Experience Platform
 
 See [[!DNL Analytics] release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest) for details.
 
