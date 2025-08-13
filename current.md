@@ -319,8 +319,6 @@ Find the latest release information for [!DNL Streaming Media Analytics]. View n
 
 +++Release notes
 
-Not updated.
-
 * [!DNL Streaming Media Analytics] [release notes](https://experienceleague.adobe.com/en/docs/media-analytics/using/release-notes/release-notes)
 
 * [!DNL Streaming Media Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/media-analytics/using/media-overview)
