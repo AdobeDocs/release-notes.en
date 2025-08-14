@@ -159,13 +159,13 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 **July 29, 2025** updates:
 
-* Capacity
-* Destinations
-* Data Ingestion
-* Real-Time CDP B2B Edition
-* Sandboxes
-* Segmentation Service
-* Sources
+* **Capacity:** Offers visibility into organizational guardrails and provides sandbox-level recommendations to resolve capacity violations, now supporting streaming ingestion and segmentation.
+* **Destinations:** Introduces limited availability for the Google Customer Match + Display & Video 360 integration and upgraded The Trade Desk connector, requiring updates to flow and connection spec IDs for API users.
+* **Data Ingestion:** Support for monitoring streaming profile ingestion.
+* **Real-Time CDP B2B Edition:** Enhances B2B customer data management with unified profiles, advanced audience creation, and cross-channel activation capabilities.
+* **Sandboxes:** Changes to multi-entity audience imports.
+* **Segmentation Service:** You can use the external audiences API to programmatically import externally generated audiences into Adobe Experience Platform. 
+* **Sources:** (Beta) Use the Didomi source to ingest consent and preference management data from Didomi, supporting compliance with privacy regulations and consent-based marketing strategies.
 
 See [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest) for details.
 
