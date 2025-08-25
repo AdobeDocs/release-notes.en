@@ -11,7 +11,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
-Updated: **August 19, 2025**
+Updated: **August 25, 2025**
 
 This page helps you:
 
@@ -25,7 +25,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 +++View section links
 
 * [Event schedule](#events)
-* [Resources for using AI in [!DNL Experience Cloud]](#ai)
+* [Resources for using AI in [!DNL Experience Cloud]](#ai) (Updated: **August 25**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud) 
 * [[!DNL Adobe Experience Platform]](#platform) 
@@ -76,6 +76,7 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 
 | Product | Resource | Description |
 | ------- | ------- | ------- |
+|[!DNL AI Assistant in Marketo Email Designer]|[Email Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant?lang=en)|AI Assistant in Marketo Engage Email Designer helps you create contemporary, performant, and intuitive emails. This is achieved through Adobe's generative AI technology and prompt library along with Firefly for image generation that aids in creating suitable content for a particular persona/buying group, marketing journey stage, communication strategy, tone, etc. Specific brand assets can be also utilized to create content. |
 | [!DNL Experience Cloud] | [Generative AI in [!DNL Experience Cloud]](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai) | Find help on generative AI (GenAI) and AI Assistant in Experience Cloud applications. |
 | [!DNL Experience Cloud] | [Agentic AI](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | Learn about Product Support Agent and Data Insights Agent (agentic AI). |
 | [!DNL Customer Journey Analytics] | [Introduction to [!DNL Content Analytics]](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics) | Learn how Content Analytics uses AI and Experience Platform infrastructure to reveal what makes content effective. Teams can better optimize engagement, drive conversions, and make smarter, data-backed decisions. |
