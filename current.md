@@ -25,7 +25,7 @@ To receive a monthly email notification about updates to this page, subscribe to
 +++View section links
 
 * [Event schedule](#events)
-* [Resources for using AI in [!DNL Experience Cloud]](#ai) (Updated: **August 25**)
+* [Resources for using AI in [!DNL Experience Cloud]](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud) 
 * [[!DNL Adobe Experience Platform]](#platform) 
@@ -60,11 +60,11 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 +++View upcoming events
 
-* **Campaign** | _Adobe Campaign Subdomain and SSL management in the Control Panel_ | August 27, 2025 | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/default_template/event_landing.html?sco-id=5756291254&_charset_=utf-8)
+* **Workfront** | _Admin 101: Getting Workfront Data_ | September 11, 2025 | [Register](https://events.teams.microsoft.com/event/491073ba-1be6-46bb-a864-c9308259eae2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **Journey Optimizer** | _Join us for the Adobe Journey Optimizer Community Ask Me Anything!_ | August 27, 2025 | [Register](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-august-27th-with-journey-optimizer-product/ev-p/767929)
+* **Commerce** | _JCommerce & Coffee: Preparing for Peak Season_ | September 11, 2025 | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5757312223/event_landing.html?sco-id=5757320868&campaign-id=ExL&_charset_=utf-8)
 
-* **Marketo Engage** | _Foundations of Marketo Engage - Nurturing_ | August 27, 2025 | [Register](https://mugs.marketo.com/events/details/marketo-foundational-marketo-user-group-presents-foundations-of-marketo-engage-nurturing/)
+* **Workfront** | _Admin 101: Bring Your Workfront Questions_ | September 16, 2025 | [Register](https://events.teams.microsoft.com/event/08f4e093-af67-403b-95e3-5851ef4d0438@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 And more! View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
 
