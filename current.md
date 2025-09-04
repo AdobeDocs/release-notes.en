@@ -11,7 +11,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
-Updated: **August 25, 2025**
+Updated: **September 4, 2025**
 
 This page helps you:
 
@@ -635,7 +635,7 @@ Learn about the latest release notes for [!DNL Adobe Workfront]. Find new tutori
 
 ### [!DNL Adobe Workfront] updates
 
-* [Second Quarter 2025 release overview](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q2/25-q2-release-overview)
+* [Fourth Quarter 2025 release overview](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q4/25-q4-release-overview)
 
 For all release information:
 
