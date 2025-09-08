@@ -2,7 +2,7 @@
 cloud: Experience Cloud, Experience Platform
 product: experience cloud
 user-guide-title: Adobe Experience Cloud Release Notes
-breadcrumb-title: Release Notes
+breadcrumb-title: Central Release Notes
 user-guide-description: Learn about new features, fixes, and important notices in Adobe Experience Cloud and Experience Platform.
 user-guide-url: https://www.adobe.com
 ---
