@@ -12,6 +12,7 @@ user-guide-url: https://www.adobe.com
 + [Current release notes](current.md)
 + Previous release notes {#previous}
   + 2025 {#2025}
+    + [August 2025](c-legacy-releases/2025/08132025.md)   
     + [July 2025](c-legacy-releases/2025/07162025.md)
     + [June 2025](c-legacy-releases/2025/06182025.md)
     + [May 2025](c-legacy-releases/2025/05142025.md)
@@ -22,7 +23,7 @@ user-guide-url: https://www.adobe.com
   + 2024 {#2024}
     + [November 2024](c-legacy-releases/2024/10232024.md)
     + [September 2024](c-legacy-releases/2024/09122024.md)
-    + [August 2024](c-legacy-releases/2024/09142023.md) 
+    + [August 2024](c-legacy-releases/2024/09142024.md) 
     + [July 2024](c-legacy-releases/2024/07172024.md)
     + [June 2024](c-legacy-releases/2024/06122024.md)
     + [May 2024](c-legacy-releases/2024/05152024.md)
