@@ -5,18 +5,22 @@ doc-type: release notes
 last-update: August 2025
 author: mfrei
 mini-toc-levels: 2
-badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
 # Experience Cloud central release notes - August 2025
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
-This page is a central release notes resource for Experience Cloud products. Find links to application-specific release notes, upcoming events, new tutorials, and the latest Support articles on Experience League. Your personalized homepage on Experience League is tailored to your interests.
+Updated: **September 4, 2025**
+
+This page helps you:
+
+* Find links to application-specific release notes
+* Register for upcoming events
+* View new tutorials
+* See the latest Support articles 
 
 To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
-
-**Updated August 11, 2025**
 
 +++View section links
 
@@ -56,23 +60,13 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 +++View upcoming events
 
-* **Multisolution** | _The Skill Exchange_ | Taking place on August 13 - 14 and 20 - 21, this customer focused, digital experience is designed to deepen your expertise across Adobe solutions, including Adobe Analytics, Adobe Customer Journey Analytics, Adobe Experience Platform: Real-Time CDP + Adobe Journey Optimizer, Adobe Experience Manager, Adobe Marketo Engage, and Adobe Workfront.  | August 13, 2025 | [Register](https://reg.adobe.com/flow/adobe/skill/landingpage/page/home?source=exleventspage&cgen=CD9228SB&mv=other)
+* **Workfront** | _Admin 101: Getting Workfront Data_ | September 11, 2025 | [Register](https://events.teams.microsoft.com/event/491073ba-1be6-46bb-a864-c9308259eae2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **GenStudio for Performance Marketing** | _Inside GenStudio for Performance Marketing: What's Possible & What's New_ | August 13, 2025 | [Register](https://events.teams.microsoft.com/event/30ae7f84-313d-4808-8239-d0d471d8f676@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Commerce** | _JCommerce & Coffee: Preparing for Peak Season_ | September 11, 2025 | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5757312223/event_landing.html?sco-id=5757320868&campaign-id=ExL&_charset_=utf-8)
 
-* **GenStudio for Performance Marketing** | _Power Templates: How IDEXX Reconfigured Project Templates for Global Success_ | August 14, 2025 | [Register](https://events.teams.microsoft.com/event/e7452055-75f5-4c09-8a53-d96a0dc94b62@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **Workfront** | _Admin 101: Bring Your Workfront Questions_ | September 16, 2025 | [Register](https://events.teams.microsoft.com/event/08f4e093-af67-403b-95e3-5851ef4d0438@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **Workfront** | _Power Templates: How IDEXX Reconfigured Project Templates for Global Success_ | August 14, 2025 | [Register](https://events.teams.microsoft.com/event/e7452055-75f5-4c09-8a53-d96a0dc94b62@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **Experience Manager** | _Espressos & Experience Manager: Content Hub vs. Brand Portal_ | August 14, 2025 | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5755976181/event_landing.html?sco-id=5755976184&campaign-id=ExL&_charset_=utf-8)
-
-* **Workfront** | _Fast Track Efficiency: Data Imports with Workfront Fusion_ | August 19, 2025 | [Register](https://events.teams.microsoft.com/event/82f76030-d858-4e08-b2d7-b665629bb511@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **General** | _Retail Leaders: AI-Driven Growth & Top Performer Playbooks_ | August 21, 2025 | [Register](https://events.teams.microsoft.com/event/802099b8-646f-43d4-b6ec-2b99eb6883a5@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **Multisolution** | _Data Drip: Benefits of Migrating from an Old System to Web SDK_ | August 21, 2025 | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5744920297/event_landing.html?sco-id=5743931708&campaign-id=ExL&_charset_=utf-8)
-
-**And more!** View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
+And more! View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
 
 +++
 
@@ -82,13 +76,12 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 
 +++Details
 
-| Product | Resource | Description |
-| ------- | ------- | ------- |
-| [!DNL Experience Cloud] | [Generative AI in [!DNL Experience Cloud]](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai) | Find help on generative AI (GenAI) and AI Assistant in Experience Cloud applications. |
-| [!DNL Experience Cloud] | [Agentic AI](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | Learn about Product Support Agent and Data Insights Agent (agentic AI). |
-| [!DNL Customer Journey Analytics] | [Introduction to [!DNL Content Analytics]](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/introduction-to-content-analytics) | Learn how Content Analytics uses AI and Experience Platform infrastructure to reveal what makes content effective. Teams can better optimize engagement, drive conversions, and make smarter, data-backed decisions. |
-| [!DNL Journey Optimizer] |[Guide to the Formula Builder interface in Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/formula-builder-ui)| Learn how to use the AI Formula Builder in Adobe Journey Optimizer to create custom offer ranking strategies. |
-|[!DNL Journey Optimizer]|[Capture offer interactions with Adobe Web SDK for AI model training](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/personalizing-offers-with-real-time-weather-data/capturing-offer-interactions-with-web-sdk-ai-model)|Learn about capturing user interaction data--such as offer impressions and clicks--using the Adobe Experience Platform Web SDK (alloy.js). This data serves as the foundation for training AI models in Adobe Journey Optimizer (AJO)  intelligently to rank offers based on user behavior and contextual signals. |
+| Product | Resource | Description | Published |
+| ------- | ------- | ------- | ------- |
+|[!DNL AI Assistant in Marketo Email Designer]|[Email Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant?lang=en)|AI Assistant in Marketo Engage Email Designer helps you create contemporary, performant, and intuitive emails. This is achieved through Adobe's generative AI technology and prompt library along with Firefly for image generation that aids in creating suitable content for a particular persona/buying group, marketing journey stage, communication strategy, tone, etc. Specific brand assets can be also utilized to create content. | August 2025 |
+| [!DNL Experience Cloud] | [Generative AI in [!DNL Experience Cloud]](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai) | Find help on generative AI (GenAI) and AI Assistant in Experience Cloud applications. | Updated August 2025 |
+| [!DNL Experience Cloud] | [Agentic AI](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | Learn about Product Support Agent and Data Insights Agent (agentic AI). | June 2025 |
+
 
 +++
 
@@ -155,13 +148,13 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 **July 29, 2025** updates:
 
-* Capacity
-* Destinations
-* Data Ingestion
-* Real-Time CDP B2B Edition
-* Sandboxes
-* Segmentation Service
-* Sources
+* **Capacity:** Offers visibility into organizational guardrails and provides sandbox-level recommendations to resolve capacity violations, now supporting streaming ingestion and segmentation.
+* **Destinations:** Introduces limited availability for the Google Customer Match + Display & Video 360 integration and upgraded The Trade Desk connector, requiring updates to flow and connection spec IDs for API users.
+* **Data Ingestion:** Support for monitoring streaming profile ingestion.
+* **Real-Time CDP B2B Edition:** Enhances B2B customer data management with unified profiles, advanced audience creation, and cross-channel activation capabilities.
+* **Sandboxes:** Changes to multi-entity audience imports.
+* **Segmentation Service:** You can use the external audiences API to programmatically import externally generated audiences into Adobe Experience Platform. 
+* **Sources:** (Beta) Use the Didomi source to ingest consent and preference management data from Didomi, supporting compliance with privacy regulations and consent-based marketing strategies.
 
 See [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest) for details.
 
@@ -183,9 +176,9 @@ New tutorials published for Adobe [!DNL Experience Platform] on Experience Leagu
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|August 2025| [!DNL Experience Platform] | [Run queries](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/queries/run-queries)| Video | Learn how to use the Adobe Experience Platform Query Editor to create, run, and manage SQL queries efficiently.  |
-|August 2025| [!DNL Experience Platform] | [Connect to Oracle databases in Federated Audience Composition](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/fac/connect-to-oracle)| Video | Learn how to connect Oracle databases within Adobe Experience Platform to discover schemas, build data models, and use the data for audience enrichment.  |
-|August 2025| [!DNL Experience Platform] | [Subscribe to Federated Audience Composition alerts](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/fac/subscribe-to-alerts)| Video | Learn how to subscribe to Federated Audience Composition alerts to receive in-app or email notifications for both successful and failed executions. To enable this, configure their preferences in the Notification Settings under the Experience Platform product. |
+|August 2025| [!DNL Experience Platform] | [Run queries](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/queries/run-queries)| Video tutorial | Learn how to use the Adobe Experience Platform Query Editor to create, run, and manage SQL queries efficiently.  |
+|August 2025| [!DNL Experience Platform] | [Connect to Oracle databases in Federated Audience Composition](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/fac/connect-to-oracle)| Video tutorial | Learn how to connect Oracle databases within Adobe Experience Platform to discover schemas, build data models, and use the data for audience enrichment.  |
+|August 2025| [!DNL Experience Platform] | [Subscribe to Federated Audience Composition alerts](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/fac/subscribe-to-alerts)| Video tutorial | Learn how to subscribe to Federated Audience Composition alerts to receive in-app or email notifications for both successful and failed executions. To enable this, configure their preferences in the Notification Settings under the Experience Platform product. |
 
 <!--
 ### New [!DNL Experience Platform] support knowledge base{#kb-aep}
@@ -212,11 +205,11 @@ Find the latest tutorials for [!DNL Real-Time CDP].
 
 | Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
-| July 2025 | [Real-Time CDP Collaboration introduction](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-intro) | Video | Get an introduction to Adobe [!DNL Real-Time CDP Collaboration], a purpose-built data collaboration application that lets you discover and activate high-value audiences and use measurement capabilities to drive tangible results. |
-| July 2025 | [Create a project in Real-Time CDP Collaboration](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/create-a-project) | Video | Learn the basics of creating projects in [!DNL Real-Time CDP Collaboration], including a brief look at discovery, activation, and measurement. |
-| July 2025 | [Real-Time CDP overview for agency practitioners](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/rtcdp-overview-for-agency-practitioners) |  Video | Learn how Real-Time CDP works and what it does, with a focus on data sources and audiences that fuel their Real-Time CDP Collaboration use case and workflows. |
-| July 2025 | [Real-Time CDP Collaboration: Process and people](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/rtcdp-collaboration-process-and-people) |  Video | For agency and paid media teams: a quick look at Real-Time CDP--what it is, how it works, and how data sources and audiences power collaboration workflows.|
-| July 2025 | [Configure file-based cloud storage or email marketing destinations](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/configuring-file-based-cloud-storage-or-email-marketing-destinations#destinations) |  Video | Get tips during a walkthrough of the configuration of a file-based destination in Adobe's Real-Time CDP. This applies to cloud storage destinations (for example, S3 or SFTP) and also email marketing destinations. |
+| July 2025 | [Real-Time CDP Collaboration introduction](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-intro) | Video tutorial | Get an introduction to Adobe [!DNL Real-Time CDP Collaboration], a purpose-built data collaboration application that lets you discover and activate high-value audiences and use measurement capabilities to drive tangible results. |
+| July 2025 | [Create a project in Real-Time CDP Collaboration](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/create-a-project) | Video tutorial | Learn the basics of creating projects in [!DNL Real-Time CDP Collaboration], including a brief look at discovery, activation, and measurement. |
+| July 2025 | [Real-Time CDP overview for agency practitioners](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/rtcdp-overview-for-agency-practitioners) |  Video tutorial | Learn how Real-Time CDP works and what it does, with a focus on data sources and audiences that fuel their Real-Time CDP Collaboration use case and workflows. |
+| July 2025 | [Real-Time CDP Collaboration: Process and people](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/rtcdp-collaboration-process-and-people) |  Video tutorial | For agency and paid media teams: a quick look at Real-Time CDP--what it is, how it works, and how data sources and audiences power collaboration workflows.|
+| July 2025 | [Configure file-based cloud storage or email marketing destinations](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/configuring-file-based-cloud-storage-or-email-marketing-destinations#destinations) |  Video tutorial | Get tips during a walkthrough of the configuration of a file-based destination in Adobe's Real-Time CDP. This applies to cloud storage destinations (for example, S3 or SFTP) and also email marketing destinations. |
 
 For more information, see:
 
@@ -238,11 +231,12 @@ Adobe Analytics releases operate on a continuous delivery model, which allows fo
 
 Updates include:
 
-* Livestream TNT Fields with algorithms
-* Updated navigation to Customer Attributes UI
-* Streaming Media: Support schedule data
+* Analyze AI traffic with a new Referrer Type dimension item
+* Projects downloaded as PDFs are downloaded to your workstation
+* Deleted projects are immediately unavailable by URL and are deleted from scheduled deliveries
+* Streaming Media: Updated XDM fields for collecting Streaming Media data into Adobe Experience Platform
 
-See [[!DNL Analytics] release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) for details.
+See [[!DNL Analytics] release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest) for details.
 
 ### AppMeasurement {#appm}
 
@@ -290,7 +284,7 @@ August updates:
 * Platform schema
 * Deleted projects are immediately unavailable by URL and are deleted from scheduled deliveries 
 
-See [Customer Journey Analytics (CJA) release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html)
+See [Customer Journey Analytics (CJA) release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases)
 
 ### New [!DNL Customer Journey Analytics] tutorials {#tutorials-cja}
 
@@ -298,7 +292,7 @@ New tutorials published for [!DNL Customer Journey Analytics].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|August 2025|[Workspace Commenting in CJA](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/workspace-projects/workspace-commenting)| Video |Learn how Workspace commenting in Adobe Customer Journey Analytics lets you and your team collaborate directly on your data. Ask questions, share insights, and build consensus without ever leaving your analysis. |
+|August 2025|[Workspace Commenting in CJA](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/workspace-projects/workspace-commenting)| Video tutorial |Learn how Workspace commenting in Adobe Customer Journey Analytics lets you and your team collaborate directly on your data. Ask questions, share insights, and build consensus without ever leaving your analysis. |
 
 <!--
 ### New [!DNL Customer Journey Analytics] support knowledge base{#kb-cja}
@@ -317,8 +311,6 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 Find the latest release information for [!DNL Streaming Media Analytics]. View new tutorials on Experience League.
 
 +++Release notes
-
-Not updated.
 
 * [!DNL Streaming Media Analytics] [release notes](https://experienceleague.adobe.com/en/docs/media-analytics/using/release-notes/release-notes)
 
@@ -357,17 +349,17 @@ New video and written tutorials (articles) published for [!DNL Experience Manage
 
 | Published | Applications | Name | Format | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|August 2025| [!DNL AEM Sites] | [Preview a local Universal Editor extension](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/edge-delivery-services/developing/universal-editor/how-to/local-extension-preview)| Article | Learn how to preview a locally running Universal Editor extension during development. |
-|August 2025| [!DNL AEM CS] | [Blocking DoS, DDoS and sophisticated attacks using traffic filter rules](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/blocking-dos-attack-using-traffic-filter-rules)| Article | Learn how to block Denial of Service (DoS), Distributed Denial of Service (DDoS) and sophisticated attacks using traffic filter rules in the AEM as a Cloud Service (AEMCS) managed CDN. |
-|August 2025| [!DNL AEM CS] | [Webhooks and AEM Events](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-eventing/examples/webhook)| Video | Learn how to receive AEM events on a webhook and review the event details, such as payload, headers, and metadata. |
-|August 2025| [!DNL AEM CS] | [Best practices for traffic filter rules including WAF rules](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/traffic-filter-and-waf-rules/best-practices)| Article | Learn recommended best practices for configuring traffic filter rules including WAF rules in AEM as a Cloud Service to enhance security and mitigate risks. |
-|August 2025| [!DNL AEM CS] | [Normalizing requests](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/traffic-filter-and-waf-rules/how-to/request-transformation)| Article | Learn how to normalize requests by transforming them using traffic filter rules in AEM as a Cloud Service. |
-|August 2025| [!DNL AEM CS] | [How to set up traffic filter rules including WAF rules](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/traffic-filter-and-waf-rules/setup)| Video | Learn how to set up traffic filter rules including Web Application Firewall (WAF) rules. In this tutorial, we set up the groundwork for subsequent tutorials, where you will configure and deploy rules, followed by testing and analyzing of the results. |
-|August 2025| [!DNL AEM CS] | [Monitoring sensitive requests](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/traffic-filter-and-waf-rules/how-to/request-logging)| Article | Learn how to monitor sensitive requests by logging them using traffic filter rules in AEM as a Cloud Service. |
-|August 2025| [!DNL AEM CS] | [Protecting AEM websites using WAF rules](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/traffic-filter-and-waf-rules/using-waf-rules)| Video | Learn how to protect AEM websites from sophisticated threats including DoS, DDoS, and bot abuse using Adobe-recommended Web Application Firewall (WAF) rules in AEM as a Cloud Service. |
-|August 2025| [!DNL AEM CS] | [Restricting access](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/traffic-filter-and-waf-rules/how-to/request-blocking)| Article | Learn how to restrict access by blocking specific requests using traffic filter rules in AEM as a Cloud Service. |
-|August 2025| [!DNL AEM CS] | [Protecting AEM websites using standard traffic filter rules](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/traffic-filter-and-waf-rules/using-traffic-filter-rules)| Video | Learn how to protect AEM websites from Denial of Service (DoS), Distributed Denial of Service (DDoS), and bot abuse using Adobe-recommended standard traffic filter rules in AEM as a Cloud Service. |
-|August 2025| [!DNL AEM CS] | [Overview - Protecting AEM websites](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/traffic-filter-and-waf-rules/overview)| Video | Learn how to protect your AEM websites from Denial of Service (DoS), Distributed Denial of Service (DDoS), malicious traffic and sophisticated attacks using traffic filter rules, including its subcategory of Web Application Firewall (WAF) rules in AEM as a Cloud Service. |
+|August 2025| [!DNL AEM Sites] | [Preview a local Universal Editor extension](https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/edge-delivery-services/developing/universal-editor/how-to/local-extension-preview)| Tutorial | Learn how to preview a locally running Universal Editor extension during development. |
+|August 2025| [!DNL AEM CS] | [Blocking DoS, DDoS and sophisticated attacks using traffic filter rules](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/blocking-dos-attack-using-traffic-filter-rules)| Tutorial | Learn how to block Denial of Service (DoS), Distributed Denial of Service (DDoS) and sophisticated attacks using traffic filter rules in the AEM as a Cloud Service (AEMCS) managed CDN. |
+|August 2025| [!DNL AEM CS] | [Webhooks and AEM Events](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-eventing/examples/webhook)| Video tutorial | Learn how to receive AEM events on a webhook and review the event details, such as payload, headers, and metadata. |
+|August 2025| [!DNL AEM CS] | [Best practices for traffic filter rules including WAF rules](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/traffic-filter-and-waf-rules/best-practices)| Tutorial | Learn recommended best practices for configuring traffic filter rules including WAF rules in AEM as a Cloud Service to enhance security and mitigate risks. |
+|August 2025| [!DNL AEM CS] | [Normalizing requests](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/traffic-filter-and-waf-rules/how-to/request-transformation)| Tutorial | Learn how to normalize requests by transforming them using traffic filter rules in AEM as a Cloud Service. |
+|August 2025| [!DNL AEM CS] | [How to set up traffic filter rules including WAF rules](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/traffic-filter-and-waf-rules/setup)| Video tutorial | Learn how to set up traffic filter rules including Web Application Firewall (WAF) rules. In this tutorial, we set up the groundwork for subsequent tutorials, where you will configure and deploy rules, followed by testing and analyzing of the results. |
+|August 2025| [!DNL AEM CS] | [Monitoring sensitive requests](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/traffic-filter-and-waf-rules/how-to/request-logging)| Tutorial | Learn how to monitor sensitive requests by logging them using traffic filter rules in AEM as a Cloud Service. |
+|August 2025| [!DNL AEM CS] | [Protecting AEM websites using WAF rules](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/traffic-filter-and-waf-rules/using-waf-rules)| Video tutorial | Learn how to protect AEM websites from sophisticated threats including DoS, DDoS, and bot abuse using Adobe-recommended Web Application Firewall (WAF) rules in AEM as a Cloud Service. |
+|August 2025| [!DNL AEM CS] | [Restricting access](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/traffic-filter-and-waf-rules/how-to/request-blocking)| Tutorial | Learn how to restrict access by blocking specific requests using traffic filter rules in AEM as a Cloud Service. |
+|August 2025| [!DNL AEM CS] | [Protecting AEM websites using standard traffic filter rules](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/traffic-filter-and-waf-rules/using-traffic-filter-rules)| Video tutorial | Learn how to protect AEM websites from Denial of Service (DoS), Distributed Denial of Service (DDoS), and bot abuse using Adobe-recommended standard traffic filter rules in AEM as a Cloud Service. |
+|August 2025| [!DNL AEM CS] | [Overview - Protecting AEM websites](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/security/traffic-filter-and-waf-rules/overview)| Video tutorial | Learn how to protect your AEM websites from Denial of Service (DoS), Distributed Denial of Service (DDoS), malicious traffic and sophisticated attacks using traffic filter rules, including its subcategory of Web Application Firewall (WAF) rules in AEM as a Cloud Service. |
 
 ### New [!DNL Experience Manager] support knowledge base{#kb-aem}
 
@@ -422,7 +414,7 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-|August 2025|[Ingest sample data Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/ingest-sample-data)| Video |Learn how to ingest the sample data for your Adobe Commerce Optimizer instance. This video outlines the entire process from start to finish using the official GitHub repository readme as a guide.|
+|August 2025|[Ingest sample data Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/ingest-sample-data)| Video tutorial |Learn how to ingest the sample data for your Adobe Commerce Optimizer instance. This video outlines the entire process from start to finish using the official GitHub repository readme as a guide.|
 
 ### New [!DNL Commerce] support knowledge base{#kb-commerce}
 
@@ -479,8 +471,8 @@ New or updated videos tutorials published for Adobe Campaign.
 
 | Published | Application | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|August 2025|Campaign v8 Web User Interface |[Enhance a delivery with dynamic content](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content)| Video |Learn how to use the generative AI powered Content Generator to create and enhance the email content, optimizing your email deliveries to better resonate with your audience.|
-|August 2025|Campaign v8 Web User Interface |[Configure JavaScript code activity](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/workflows/configure-java-script-code-activity)| Video |Learn how to effectively use the JavaScript Code activity in Adobe Campaign Web v8 to enhance your workflows. This tutorial covers both simple and advanced scripting modes. It explains execution settings and error handling. You will see real-world examples, such as targeting VIP profiles, transforming data, and triggering conditional operations. |
+|August 2025|Campaign v8 Web User Interface |[Enhance a delivery with dynamic content](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content)| Video tutorial |Learn how to use the generative AI powered Content Generator to create and enhance the email content, optimizing your email deliveries to better resonate with your audience.|
+|August 2025|Campaign v8 Web User Interface |[Configure JavaScript code activity](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/workflows/configure-java-script-code-activity)| Video tutorial |Learn how to effectively use the JavaScript Code activity in Adobe Campaign Web v8 to enhance your workflows. This tutorial covers both simple and advanced scripting modes. It explains execution settings and error handling. You will see real-world examples, such as targeting VIP profiles, transforming data, and triggering conditional operations. |
 
 ### New [!DNL Campaign] support knowledge base{#kb-campaign}
 
@@ -519,15 +511,15 @@ New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|August 2025|[!DNL Journey Optimizer]|[Track and report Journey Optimizer offers delivered via AJO decisioning](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)| Articles | This use case focuses on enabling reporting and performance analysis for offers delivered through Adobe Journey Optimizer (AJO).  |
-|August 2025|[!DNL Journey Optimizer]|[Introduction to the WhatsApp channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction)| Video | Get an overview of the value of integrating WhatsApp with Adobe Journey Optimizer. It highlights WhatsApp's global reach and engagement benefits, and outlines key prerequisites like setting up a WhatsApp Business Account, generating access tokens, and creating message templates.  |
-|August 2025|[!DNL Journey Optimizer]|[Create a WhatsApp journey](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/whatsapp/create-a-whatsapp-journey)| Video | This tutorial walks you through creating a multi-step WhatsApp journey using Adobe Journey Optimizer. |
-|August 2025|[!DNL Journey Optimizer]|[Get Started with WhatsApp in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/whatsapp/get-started-with-whatsapp-in-ajo)| Video | Learn how to integrate WhatsApp as a native channel in Adobe Journey Optimizer to deliver secure, real-time, personalized messages at scale. |
-|August 2025|[!DNL Journey Optimizer]|[Set up the WhatsApp channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel)| Video | Learn how to set up the WhatsApp channel in Adobe Journey Optimizer to enable real-time business messaging. |
-|August 2025|[!DNL Journey Optimizer]|[Unlock journey reentry with supplemental IDs](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/unlock-journey-reentry-with-supplemental-id)|Video|Learn how to enable and apply a supplemental identifier in Adobe Journey Optimizer.   |
-|August 2025|[!DNL Journey Optimizer]|[Set up RCS in Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs)|Video |Learn how to configure and send branded, interactive RCS messages in Adobe Journey Optimizer using a custom SMS provider.  |
-|August 2025|[!DNL Journey Optimizer]|[Leverage message optimization in a campaign](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/leverage-message-optimization-in-a-campaign)|Video| Learn how to leverage message optimization in action or API triggered campaigns. You'll see how to target sub-audiences, create message variations by location, enable fallback content, and run multiple experiments within a single campaign. |
-|August 2025|[!DNL Journey Optimizer]|[Brand guideline creation and management](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/brand-guideline-creation-and-management)|Video | Learn how to create and customize your own brands to clearly define your visual and verbal identity across communications. Understand how you can receive real-time feedback on how well your content reflects your brand's tone, style, and guidelines, with the Brand alignment score. |
+|August 2025|[!DNL Journey Optimizer]|[Track and report Journey Optimizer offers delivered via AJO decisioning](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)| Tutorials | This use case focuses on enabling reporting and performance analysis for offers delivered through Adobe Journey Optimizer (AJO).  |
+|August 2025|[!DNL Journey Optimizer]|[Introduction to the WhatsApp channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction)| Video tutorial | Get an overview of the value of integrating WhatsApp with Adobe Journey Optimizer. It highlights WhatsApp's global reach and engagement benefits, and outlines key prerequisites like setting up a WhatsApp Business Account, generating access tokens, and creating message templates.  |
+|August 2025|[!DNL Journey Optimizer]|[Create a WhatsApp journey](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/whatsapp/create-a-whatsapp-journey)| Video tutorial | This tutorial walks you through creating a multi-step WhatsApp journey using Adobe Journey Optimizer. |
+|August 2025|[!DNL Journey Optimizer]|[Get Started with WhatsApp in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/whatsapp/get-started-with-whatsapp-in-ajo)| Video tutorial | Learn how to integrate WhatsApp as a native channel in Adobe Journey Optimizer to deliver secure, real-time, personalized messages at scale. |
+|August 2025|[!DNL Journey Optimizer]|[Set up the WhatsApp channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel)| Video tutorial | Learn how to set up the WhatsApp channel in Adobe Journey Optimizer to enable real-time business messaging. |
+|August 2025|[!DNL Journey Optimizer]|[Unlock journey reentry with supplemental IDs](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/unlock-journey-reentry-with-supplemental-id)|Video tutorial|Learn how to enable and apply a supplemental identifier in Adobe Journey Optimizer.   |
+|August 2025|[!DNL Journey Optimizer]|[Set up RCS in Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs)|Video tutorial |Learn how to configure and send branded, interactive RCS messages in Adobe Journey Optimizer using a custom SMS provider.  |
+|August 2025|[!DNL Journey Optimizer]|[Leverage message optimization in a campaign](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/leverage-message-optimization-in-a-campaign)|Video tutorial| Learn how to leverage message optimization in action or API triggered campaigns. You'll see how to target sub-audiences, create message variations by location, enable fallback content, and run multiple experiments within a single campaign. |
+|August 2025|[!DNL Journey Optimizer]|[Brand guideline creation and management](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/brand-guideline-creation-and-management)|Video tutorial | Learn how to create and customize your own brands to clearly define your visual and verbal identity across communications. Understand how you can receive real-time feedback on how well your content reflects your brand's tone, style, and guidelines, with the Brand alignment score. |
 
 ### New [!DNL Journey Optimizer] support knowledge base{#kb-ajo}
 
@@ -627,7 +619,7 @@ Learn about the latest release notes for [!DNL Adobe Workfront]. Find new tutori
 
 ### [!DNL Adobe Workfront] updates
 
-* [Second Quarter 2025 release overview](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q2/25-q2-release-overview)
+* [Fourth Quarter 2025 release overview](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q4/25-q4-release-overview)
 
 For all release information:
 
@@ -641,11 +633,11 @@ New [!DNL Workfront] tutorials and events on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|August 2025|[Understand built-in issue filters](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/open-built-in-issue-filters)|Video |Learn how to review built-in issue filters to see how they're built and create your own issue filter in Workfront.|
-|August 2025|[Understand basic text mode for filters](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-filters)|Video |Learn about text mode, camel case, and a basic text mode that you can use in your report filters. |
-|August 2025|[Understand built-in task filters](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/open-built-in-task-filters)|Video |Learn how to review built-in task filters to see how they're built and create your own task filter in Workfront.|
-|August 2025|[Understand built-in project filters](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/open-built-in-project-filters)|Video |Learn how to review built-in project filters to see how they're built and create your own project filter in Workfront.|
-|August 2025|[Create custom prompts](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts)|Video |Learn about custom prompts, how to create a custom prompt using text mode, and some examples that you can use in reporting in Workfront.|
+|August 2025|[Understand built-in issue filters](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/open-built-in-issue-filters)|Video tutorial |Learn how to review built-in issue filters to see how they're built and create your own issue filter in Workfront.|
+|August 2025|[Understand basic text mode for filters](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-filters)|Video tutorial |Learn about text mode, camel case, and a basic text mode that you can use in your report filters. |
+|August 2025|[Understand built-in task filters](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/open-built-in-task-filters)|Video tutorial |Learn how to review built-in task filters to see how they're built and create your own task filter in Workfront.|
+|August 2025|[Understand built-in project filters](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/open-built-in-project-filters)|Video tutorial |Learn how to review built-in project filters to see how they're built and create your own project filter in Workfront.|
+|August 2025|[Create custom prompts](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts)|Video tutorial |Learn about custom prompts, how to create a custom prompt using text mode, and some examples that you can use in reporting in Workfront.|
 
 ### New [!DNL Workfront] support knowledge base
 
