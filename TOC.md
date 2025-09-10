@@ -23,7 +23,7 @@ user-guide-url: https://www.adobe.com
   + 2024 {#2024}
     + [November 2024](c-legacy-releases/2024/10232024.md)
     + [September 2024](c-legacy-releases/2024/09122024.md)
-    + [August 2024](c-legacy-releases/2024/09142024.md) 
+    + [August 2024](c-legacy-releases/2024/08142024.md) 
     + [July 2024](c-legacy-releases/2024/07172024.md)
     + [June 2024](c-legacy-releases/2024/06122024.md)
     + [May 2024](c-legacy-releases/2024/05152024.md)
