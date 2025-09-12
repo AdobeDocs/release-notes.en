@@ -11,7 +11,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
-Updated: **September 4, 2025**
+Updated: **September 11, 2025**
 
 This page helps you:
 
@@ -30,8 +30,8 @@ To receive a monthly email notification about updates to this page, subscribe to
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud) 
 * [[!DNL Adobe Experience Platform]](#platform) 
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) 
-* [[!DNL Adobe Customer Journey Analytics]](#cja) 
+* [[!DNL Adobe Analytics]](#analytics) (Releasing **September 17**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (Releasing **September 17**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem) 
 * [[!DNL Adobe Commerce]](#commerce)
@@ -225,14 +225,19 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 Adobe Analytics releases operate on a continuous delivery model, which allows for a more scalable, phased approach to feature deployment. Release notes are updated several times a month.
 
-**August 2025**
+Planned release: **September 17, 2025**
 
-Updates include:
+* Improvements when migrating projects and components to Customer Journey Analytics:
+    * Migrate multiple projects at one time.
+    * Update mappings for dimensions and metrics that were already mapped with a previous project migration.
+    * Improved performance for organizations with high numbers of projects.
+
+<!-- Updates include:
 
 * Analyze AI traffic with a new Referrer Type dimension item
 * Projects downloaded as PDFs are downloaded to your workstation
 * Deleted projects are immediately unavailable by URL and are deleted from scheduled deliveries
-* Streaming Media: Updated XDM fields for collecting Streaming Media data into Adobe Experience Platform
+* Streaming Media: Updated XDM fields for collecting Streaming Media data into Adobe Experience Platform -->
 
 See [[!DNL Analytics] release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest) for details.
 
@@ -269,7 +274,14 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 Releases for [!DNL Customer Journey Analytics] occur on a continuing basis. As such, release notes are updated several times a month. Please check them regularly.
 
-August updates:
+Planned release: **September 17, 2025**
+
+* Updates to the Usage interface
+* Improvements when migrating projects and components to Customer Journey Analytics
+* Lookup keys limit increased up to 1 billion
+* Support for ad hoc schemas
+
+<!-- August updates:
 
 * Map visualization
 * Real-time reporting
@@ -280,9 +292,9 @@ August updates:
 * Extending lookup keys limit
 * Create metrics and dimensions based on user-defined map fields from the
 * Platform schema
-* Deleted projects are immediately unavailable by URL and are deleted from scheduled deliveries 
+* Deleted projects are immediately unavailable by URL and are deleted from scheduled deliveries  -->
 
-See [Customer Journey Analytics (CJA) release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases)
+See [Customer Journey Analytics (CJA) release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest) for details.
 
 ### New [!DNL Customer Journey Analytics] tutorials {#tutorials-cja}
 
