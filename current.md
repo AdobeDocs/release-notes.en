@@ -79,6 +79,7 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 
 | Product | Resource | Description | Published |
 | ------- | ------- | ------- | ------- |
+|Customer Journey Analytics|[Use AI Assistant](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/cja-basics/use-ai-assistant)| Video |Discover how AI Assistant in Customer Journey Analytics empowers you to learn concepts, troubleshoot issues, and optimize workflows.| August 2025 |
 |[!DNL AI Assistant in Marketo Email Designer]|[Email Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant?lang=en)|AI Assistant in Marketo Engage Email Designer helps you create contemporary, performant, and intuitive emails. This is achieved through Adobe's generative AI technology and prompt library along with Firefly for image generation that aids in creating suitable content for a particular persona/buying group, marketing journey stage, communication strategy, tone, etc. Specific brand assets can be also utilized to create content. | August 2025 |
 | [!DNL Experience Cloud] | [Generative AI in [!DNL Experience Cloud]](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai) | Find help on generative AI (GenAI) and AI Assistant in Experience Cloud applications. | Updated August 2025 |
 | [!DNL Experience Cloud] | [Agentic AI](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | Learn about Product Support Agent and Data Insights Agent (agentic AI). | June 2025 |
@@ -308,7 +309,14 @@ New tutorials published for [!DNL Customer Journey Analytics].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|August 2025|[Workspace Commenting in CJA](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/workspace-projects/workspace-commenting)| Video tutorial |Learn how Workspace commenting in Adobe Customer Journey Analytics lets you and your team collaborate directly on your data. Ask questions, share insights, and build consensus without ever leaving your analysis. |
+|September 2025|[Create audiences from segments](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/components/filters/create-audiences-from-segments)| Video |Learn how to create and publish audiences from Customer Journey Analytics to the Real-Time Customer Data Platform. |
+|September 2025|[Use Typecasting](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields/use-typecasting-in-derived-fields)| Video |Discover [!UICONTROL Typecasting] in Customer Journey Analytics derived fields. Typecasting adjusts schema field data types, like converting strings to numeric or datetime to strings for advanced analytics. Easily configure and combine fields to unlock powerful insights for your business.|
+|September 2025|[Use [!UICONTROL Date Math] to calculate the time between events](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields/use-date-math-to-calculate-time-between-events)| Video |Learn about Date Math in Customer Journey Analytics derived fields.|
+|September 2025|[Customize Event Depth](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields/customize-event-depth-in-derived-fields)| Video |Learn how to configure [!UICONTROL Event Depth] in Customer Journey Analytics derived fields to customize analytics for page depth, internal search depth, and more. |
+|September 2025|[Configure and use the map visualization](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/configure-and-use-the-map-visualization)| Video |Bring your location data to life with the map visualization! Identify geo clusters and create on-the-fly segments using the selection tool.|
+|September 2025|[Use AI Assistant](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/cja-basics/use-ai-assistant)| Video |Discover how AI Assistant in Customer Journey Analytics empowers you to learn concepts, troubleshoot issues, and optimize workflows.|
+|September 2025|[Create custom templates](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/templates/create-custom-templates)| Video |Learn how to create a custom template in Customer Journey Analytics. |
+|September 2025|[Content Analytics - reporting](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/reporting)| Video |Discover how Content Analytics automates asset tracking and provides detailed reports on website content performance, including views, clicks, and conversions. |
 
 ### New [!DNL Customer Journey Analytics] support knowledge base{#kb-cja}
 
@@ -749,7 +757,10 @@ New tutorials published for Adobe Document Cloud.
 
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| August 2025 | Acrobat Sign | [Migrate Docusign templates](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/docusign-templates) |  New video | Learn how to seamlessly migrate Docusign templates and workflows to Acrobat Sign in three easy steps. |
+| September 2025 | Acrobat | [The what and why of accessible PDF files](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/what-why-accessible-pdf) |  Video | Understand the importance of creating accessible PDFs and how they benefit users with disabilities. |
+| September 2025 | Acrobat | [Create accessible forms](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/create-accessible-forms) |  Video | Learn how to make forms accessible in Acrobat. Following these seven steps can help speed up the processing of making PDF with interactive form fields accessible. |
+| September 2025 | Acrobat | [Set up your workspace](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/set-up-workspace) |  Video | Learn how to put all the accessibility tools right at your fingertip to help streamline making accessible PDF files. |
+| September 2025 | Acrobat | [Create an accessible PDF from Word](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/create-accessible-from-word) |  Video | Learn how to create an accessible PDF file from Microsoft Word. Starting with a well-structured Word file can make a world of difference when creating an accessible PDF. |
 
 To browse [!DNL Document Cloud] tutorials, see:
 
@@ -766,10 +777,9 @@ New tutorials published for applications in [!DNL Adobe Creative Cloud for enter
 
 +++Latest tutorials
 
-<!-- | Published | Application | Name | Type | Description |
-| -----------| ---------- | ---------- | ---------- |---------- |
-| February 2025 | Applications | [Effortless brand consistency with templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/use-templates) | New video | Learn how to create on-brand content quickly and efficiently across your entire organization. This tutorial walks through how to create fresh new on-brand content that can immediately be shared and localized.|
-| February 2025 | Applications | [Maximize efficiency: Create reusable templates](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/create-templates) | New video | Learn how to bring brand consistency, efficiency, professionalism, and cost savings to your organization with Adobe Express templates. | -->
+|Published|Application|Name|Type|Description |
+| -----------| -----------|---------- | ---------- | ---------- |
+| September 2025 | Firefly | [Background removal and replacement](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background) |  Video | Learn how to use Firefly Creative Production to remove and/or replace backgrounds at scale. |
 
 See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) to find the latest tutorials.
 
