@@ -12,7 +12,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
-Updated: **September 8, 2025**
+Updated: **September 12, 2025**
 
 This page helps you:
 
@@ -21,7 +21,7 @@ This page helps you:
 * View new tutorials
 * See the latest Support articles 
 
-To receive a monthly email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
+To receive a periodic email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 
 +++View section links
 
@@ -61,11 +61,13 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 +++View upcoming events
 
-* **Workfront** | _Admin 101: Getting Workfront Data_ | September 11, 2025 | [Register](https://events.teams.microsoft.com/event/491073ba-1be6-46bb-a864-c9308259eae2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **Commerce** | _JCommerce & Coffee: Preparing for Peak Season_ | September 11, 2025 | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5757312223/event_landing.html?sco-id=5757320868&campaign-id=ExL&_charset_=utf-8)
+* **Workfront** | _Admin 101: Bring Your Workfront Questions_ | September 16, 2025 | [Register](https://events.teams.microsoft.com/event/08f4e093-af67-403b-95e3-5851ef4d0438@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **Workfront** | _Admin 101: Bring Your Workfront Questions_ | September 16, 2025 | [Register](https://events.teams.microsoft.com/event/08f4e093-af67-403b-95e3-5851ef4d0438@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **Workfront** | _Making JSON sing with Workfront Fusion + JSONata_ | September 17, 2025 | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5757312223/event_landing.html?sco-id=5757320868&campaign-id=ExL&_charset_=utf-8)
+
+* **Target** | _Leveraging Adobe Target AI for Optimization Excellence and Scale_ | September 18, 2025 | [Register](https://event.adobe.com/leveragingadobetargetai)
 
 And more! View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
 
@@ -79,9 +81,9 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 
 | Product | Resource | Description | Published |
 | ------- | ------- | ------- | ------- |
+| [!DNL Experience Cloud] | [Generative AI in [!DNL Experience Cloud]](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai) | Find help on generative AI (GenAI) and AI Assistant in Experience Cloud applications. | Updated September 2025 |
 |Customer Journey Analytics|[Use AI Assistant](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/cja-basics/use-ai-assistant)| Video |Discover how AI Assistant in Customer Journey Analytics empowers you to learn concepts, troubleshoot issues, and optimize workflows.| August 2025 |
 |[!DNL AI Assistant in Marketo Email Designer]|[Email Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant?lang=en)|AI Assistant in Marketo Engage Email Designer helps you create contemporary, performant, and intuitive emails. This is achieved through Adobe's generative AI technology and prompt library along with Firefly for image generation that aids in creating suitable content for a particular persona/buying group, marketing journey stage, communication strategy, tone, etc. Specific brand assets can be also utilized to create content. | August 2025 |
-| [!DNL Experience Cloud] | [Generative AI in [!DNL Experience Cloud]](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai) | Find help on generative AI (GenAI) and AI Assistant in Experience Cloud applications. | Updated August 2025 |
 | [!DNL Experience Cloud] | [Agentic AI](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | Learn about Product Support Agent and Data Insights Agent (agentic AI). | June 2025 |
 
 
@@ -93,7 +95,7 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 
 +++Release notes
 
-Release date: **July 16, 2025**
+<!-- Release date: **July 16, 2025**
 
 **What's new**
 
@@ -107,10 +109,11 @@ Release date: **July 16, 2025**
 | **Virtual Assistant general availability** | <ul><li>**[!UICONTROL Virtual Assistant]** lets Adobe Status customers on the web or mobile find answers and perform quick actions without leaving the home page. It's a single place for getting help and completing tasks quickly. </li><li>Virtual assistant is now available to all Adobe Status customers. It can be accessed by logging in to [status.adobe.com](https://status.adobe.com/) and interacting with the **[!UICONTROL Ask our assistant]** widget .</li></ul>|
 | **Event ID search** | <ul><li>Customers can now search by event ID on Product and Cloud pages as well as on Virtual Assistant.</li></ul> |
 | **Slack notification setup update** | <ul><li>Customers will be asked to enter their Slack channel details before they can proceed with the setup. This update ensures a smooth Slack setup with their Slack channel handy.</li></ul> |
-| **Bug fixes and improvements** | <ul><li>Missing notifications - Customer-facing statement availability notifications were not sent to customers on past CSOs</li><li>Missing notifications - When two events occurred at same time, email communications were missed.</li><li>40 days history for Maintenances - Maintenances were missing historical events due to some of them being older than 40 days.</li><li>Cloud page banner - The banner did not update when filters changed on the Cloud page.</li><li>UI Enhancements - Messages related to customer-facing statements are updated to improve clarity.</li></ul> |
+| **Bug fixes and improvements** | <ul><li>Missing notifications - Customer-facing statement availability notifications were not sent to customers on past CSOs</li><li>Missing notifications - When two events occurred at same time, email communications were missed.</li><li>40 days history for Maintenances - Maintenances were missing historical events due to some of them being older than 40 days.</li><li>Cloud page banner - The banner did not update when filters changed on the Cloud page.</li><li>UI Enhancements - Messages related to customer-facing statements are updated to improve clarity.</li></ul> | -->
 
 Previous release notes for [!DNL Adobe System Status]:
 
+<!-- * [August 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2025/08132025#status) -->
 * [April 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2025/04162025#status)
 * [August 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/09142023#status)
 * [May 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/05152024#status)
@@ -150,27 +153,21 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 **Experience Platform**
 
-**July 29, 2025** updates:
+**August 19, 2025** updates:
 
-* **Capacity:** Offers visibility into organizational guardrails and provides sandbox-level recommendations to resolve capacity violations, now supporting streaming ingestion and segmentation.
-* **Destinations:** Introduces limited availability for the Google Customer Match + Display & Video 360 integration and upgraded The Trade Desk connector, requiring updates to flow and connection spec IDs for API users.
-* **Data Ingestion:** Support for monitoring streaming profile ingestion.
-* **Real-Time CDP B2B Edition:** Enhances B2B customer data management with unified profiles, advanced audience creation, and cross-channel activation capabilities.
-* **Sandboxes:** Changes to multi-entity audience imports.
-* **Segmentation Service:** You can use the external audiences API to programmatically import externally generated audiences into Adobe Experience Platform. 
-* **Sources:** (Beta) Use the Didomi source to ingest consent and preference management data from Didomi, supporting compliance with privacy regulations and consent-based marketing strategies.
+* **Alerts:** Streaming throughput capacity alerts
+* **Catalog Service:** Data retention for Real-Time Customer Profile.
+* **Destinations:** Acxiom Real ID Audience Connection destination, and more.
+* **Model-Based Schemas:** Simplify your data modeling with Model-Based Schemas.
+* **Sandboxes:** Dependency object de-duplication in importing workflow; Entire sandbox support for across orgs package sharing.
+* **Segmentation Service:** Audience estimates. 
+* **Sources:** General availability of the Oracle NetSuite source, and more.
 
 See [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest) for details.
 
 **Mobile SDK**
 
-**July 24, 2025** updates:
-
-* Android BOM 3.14.0
-* Android Messaging 3.4.0
-* iOS Messaging 5.7.0
-* iOS Core 5.6.0
-* Android Optimize 3.6.1
+Updated: **September 5, 2025**
 
 See [[!DNL Experience Platform] Mobile SDK release notes](https://developer.adobe.com/client-sdks/documentation/release-notes/) for details.
 
@@ -180,9 +177,7 @@ New tutorials published for Adobe [!DNL Experience Platform] on Experience Leagu
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|August 2025| [!DNL Experience Platform] | [Run queries](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/queries/run-queries)| Video tutorial | Learn how to use the Adobe Experience Platform Query Editor to create, run, and manage SQL queries efficiently.  |
-|August 2025| [!DNL Experience Platform] | [Connect to Oracle databases in Federated Audience Composition](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/fac/connect-to-oracle)| Video tutorial | Learn how to connect Oracle databases within Adobe Experience Platform to discover schemas, build data models, and use the data for audience enrichment.  |
-|August 2025| [!DNL Experience Platform] | [Subscribe to Federated Audience Composition alerts](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/audiences/fac/subscribe-to-alerts)| Video tutorial | Learn how to subscribe to Federated Audience Composition alerts to receive in-app or email notifications for both successful and failed executions. To enable this, configure their preferences in the Notification Settings under the Experience Platform product. |
+|September 2025|[!DNL Journey Optimizer]|[Configure the Marketo Engage destination](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/configure-the-marketo-destination)|Video |Learn how the Marketo Engage destination enables seamless real-time synchronization of audience data and profile attributes, empowering unified marketing across your tech stack. |
 
 <!--
 ### New [!DNL Experience Platform] support knowledge base{#kb-aep}
@@ -209,11 +204,11 @@ Find the latest tutorials for [!DNL Real-Time CDP].
 
 | Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
-| July 2025 | [Real-Time CDP Collaboration introduction](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/real-time-cdp-collaboration-intro) | Video tutorial | Get an introduction to Adobe [!DNL Real-Time CDP Collaboration], a purpose-built data collaboration application that lets you discover and activate high-value audiences and use measurement capabilities to drive tangible results. |
-| July 2025 | [Create a project in Real-Time CDP Collaboration](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/create-a-project) | Video tutorial | Learn the basics of creating projects in [!DNL Real-Time CDP Collaboration], including a brief look at discovery, activation, and measurement. |
-| July 2025 | [Real-Time CDP overview for agency practitioners](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/rtcdp-overview-for-agency-practitioners) |  Video tutorial | Learn how Real-Time CDP works and what it does, with a focus on data sources and audiences that fuel their Real-Time CDP Collaboration use case and workflows. |
-| July 2025 | [Real-Time CDP Collaboration: Process and people](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/rtcdp-collaboration-process-and-people) |  Video tutorial | For agency and paid media teams: a quick look at Real-Time CDP--what it is, how it works, and how data sources and audiences power collaboration workflows.|
-| July 2025 | [Configure file-based cloud storage or email marketing destinations](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/configuring-file-based-cloud-storage-or-email-marketing-destinations#destinations) |  Video tutorial | Get tips during a walkthrough of the configuration of a file-based destination in Adobe's Real-Time CDP. This applies to cloud storage destinations (for example, S3 or SFTP) and also email marketing destinations. |
+| September 2025 | [Federated Audience Composition tutorial](https://experienceleague.adobe.com/en/docs/platform-learn/engage-with-audiences-from-your-data-warehouse-using-fac/overview) |  Video | Engage with audiences directly from your data warehouse using Federated Audience Composition (FAC). |
+| September 2025 | [Brand-to-brand collaboration](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/brand-to-brand-collaboration) |  Video | Learn about use cases supported by brand to brand collaboration and specific features introduced to support these workflows. |
+| September 2025 | [Discover audience overlaps inside of Collaboration projects](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/discover-audience-overlaps-in-projects) |  Video | Learn how to compare audience overlaps inside of Real-Time CDP Collaboration projects.  |
+| September 2025 | [Activate audiences in Collaboration projects](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/activate-audiences-in-projects) |  Video | Learn how to activate audiences to your collaboration partners in Real-Time CDP Collaboration projects.  |
+| September 2025 | [Use the Real-Time Customer Data Platform user interface and workflow](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform-user-interface) |  Video | Learn how to navigate the Real-Time Customer Data Platform (CDP) user interface to see how its features come together to provide real-time activation across the digital customer journey.  |
 
 For more information, see:
 
@@ -237,13 +232,6 @@ Planned release: **September 17, 2025**
     * Migrate multiple projects at one time.
     * Update mappings for dimensions and metrics that were already mapped with a previous project migration.
     * Improved performance for organizations with high numbers of projects.
-
-<!-- Updates include:
-
-* Analyze AI traffic with a new Referrer Type dimension item
-* Projects downloaded as PDFs are downloaded to your workstation
-* Deleted projects are immediately unavailable by URL and are deleted from scheduled deliveries
-* Streaming Media: Updated XDM fields for collecting Streaming Media data into Adobe Experience Platform -->
 
 See [[!DNL Analytics] release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest) for details.
 
@@ -287,19 +275,6 @@ Planned release: **September 17, 2025**
 * Improvements when migrating projects and components to Customer Journey Analytics
 * Lookup keys limit increased up to 1 billion
 * Support for ad hoc schemas
-
-<!-- August updates:
-
-* Map visualization
-* Real-time reporting
-* B2B templates
-* Projects downloaded as PDFs are downloaded to your workstation
-* Support for ad-hoc schemas
-* Stitching in connections
-* Extending lookup keys limit
-* Create metrics and dimensions based on user-defined map fields from the
-* Platform schema
-* Deleted projects are immediately unavailable by URL and are deleted from scheduled deliveries  -->
 
 See [Customer Journey Analytics (CJA) release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest) for details.
 
@@ -348,9 +323,7 @@ New features, fixes, and updates in [!DNL Experience Manager]. Adobe recommends 
 
 ### Experience Manager as a Cloud Service release notes
 
-Current release: **2025.7.0 - August 7, 2025**
-
-Next feature release: **2025.8.0 - August 28, 2025**
+Current release: **2025.9.0 - September 25, 2025**
 
 * [Release notes home for AEM CS](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
 * [Latest AEM CS release overview video](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview)
@@ -431,7 +404,7 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-|August 2025|[Ingest sample data Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/ingest-sample-data)| Video tutorial |Learn how to ingest the sample data for your Adobe Commerce Optimizer instance. This video outlines the entire process from start to finish using the official GitHub repository readme as a guide.|
+|September 2025|[Install App Builder apps from Adobe Exchange](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-developer-app-builder/install-app-builder-app)| Video |Discover how to install and validate Adobe Commerce App Builder apps using Adobe Exchange.|
 
 ### New [!DNL Commerce] support knowledge base{#kb-commerce}
 
@@ -452,7 +425,7 @@ Get access to pre-release notes, current release notes, and new tutorials for [!
 
 +++Release notes
 
-Released: **August 1, 2025**
+Released: **September 23, 2025**
 
 <!-- ### New [!DNL Target] support knowledge base{#kb-target}
 
@@ -474,11 +447,11 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials and Knowled
 
 ### Latest Campaign product releases
 
-* [!DNL Web User Interface]: July 2025 - [Release notes](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Web User Interface]: August 2025 - [Release notes](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
 
 * [!DNL Campaign] v8: July 9, 2025 - [Release notes](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
 
-* [!DNL Campaign Standard]: 25.1.2 - [Release notes](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
+* [!DNL Campaign Standard]: 25.2 - Summer 2025 - [Release notes](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
 
 * [!DNL Campaign Classic] 7.4.2: May 12, 2025 - [Release notes](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/campaign-classic-home)
 
@@ -511,12 +484,13 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 ### [!DNL Journey Optimizer] product release updates
 
-Latest release: **August 4, 2025**
+Latest release: **September 2025**
 
 Updates:
 
-* Campaign Orchestration
-* Optimization in campaigns
+* Journey path optimization
+* Custom delegation method for subdomains
+* Use Adobe Experience Platform data for personalization and decisioning
 
 See [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) for details.
 
@@ -528,15 +502,9 @@ New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|August 2025|[!DNL Journey Optimizer]|[Track and report Journey Optimizer offers delivered via AJO decisioning](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/reporting-on-ajo-od/introduction)| Tutorials | This use case focuses on enabling reporting and performance analysis for offers delivered through Adobe Journey Optimizer (AJO).  |
-|August 2025|[!DNL Journey Optimizer]|[Introduction to the WhatsApp channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/whatsapp/whatsapp-introduction)| Video tutorial | Get an overview of the value of integrating WhatsApp with Adobe Journey Optimizer. It highlights WhatsApp's global reach and engagement benefits, and outlines key prerequisites like setting up a WhatsApp Business Account, generating access tokens, and creating message templates.  |
-|August 2025|[!DNL Journey Optimizer]|[Create a WhatsApp journey](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/whatsapp/create-a-whatsapp-journey)| Video tutorial | This tutorial walks you through creating a multi-step WhatsApp journey using Adobe Journey Optimizer. |
-|August 2025|[!DNL Journey Optimizer]|[Get Started with WhatsApp in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/whatsapp/get-started-with-whatsapp-in-ajo)| Video tutorial | Learn how to integrate WhatsApp as a native channel in Adobe Journey Optimizer to deliver secure, real-time, personalized messages at scale. |
-|August 2025|[!DNL Journey Optimizer]|[Set up the WhatsApp channel](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/whatsapp-channel/set-up-whatsapp-channel)| Video tutorial | Learn how to set up the WhatsApp channel in Adobe Journey Optimizer to enable real-time business messaging. |
-|August 2025|[!DNL Journey Optimizer]|[Unlock journey reentry with supplemental IDs](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-journeys/unlock-journey-reentry-with-supplemental-id)|Video tutorial|Learn how to enable and apply a supplemental identifier in Adobe Journey Optimizer.   |
-|August 2025|[!DNL Journey Optimizer]|[Set up RCS in Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/configuration/channel-configuration/sms-mms-channel/set-up-rcs)|Video tutorial |Learn how to configure and send branded, interactive RCS messages in Adobe Journey Optimizer using a custom SMS provider.  |
-|August 2025|[!DNL Journey Optimizer]|[Leverage message optimization in a campaign](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/leverage-message-optimization-in-a-campaign)|Video tutorial| Learn how to leverage message optimization in action or API triggered campaigns. You'll see how to target sub-audiences, create message variations by location, enable fallback content, and run multiple experiments within a single campaign. |
-|August 2025|[!DNL Journey Optimizer]|[Brand guideline creation and management](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/ai-assistant/brand-guideline-creation-and-management)|Video tutorial | Learn how to create and customize your own brands to clearly define your visual and verbal identity across communications. Understand how you can receive real-time feedback on how well your content reflects your brand's tone, style, and guidelines, with the Brand alignment score. |
+|September 2025|[!DNL Journey Optimizer]|[Introduction to Orchestrated Campaigns in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns)|Video | Discover how orchestrated campaigns in Adobe Journey Optimizer empower marketers to manage brand-initiated, audience-based campaigns using advanced data management capabilities. |
+|September 2025|[!DNL Journey Optimizer]|[Monitor and analyze your journey with live reports](https://experienceleague.corp.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.html?lang=en)|Video |Learn how to effectively use Adobe Journey Optimizer's Live Report feature to monitor and analyze the performance of your journeys and messages in real-time. Learn how to customize dashboards, export reports, and interpret journey-specific metrics to optimize your marketing strategies.  |
+|September 2025|[!DNL Journey Optimizer]|[Relational Store basics in Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/orchestrated-campaigns/relational-store-basics)|Video | Learn the foundational concepts of the relational store used in Journey Optimizer's campaign orchestration--covering schema design, data ingestion, supported sources, and key differences from the real-time profile store. |
 
 ### New [!DNL Journey Optimizer] support knowledge base{#kb-ajo}
 
@@ -560,19 +528,16 @@ Learn about the latest release information for [!DNL Journey Optimizer B2B Editi
 
 +++Release notes and documentation
 
-Release: **July 15, 2025**
+2025.8 Release: **August 26, 2025**
 
 Updates:
 
-* Integration with GenStudio for Performance Marketing
-* Spam detection reporting
-* Person details page
-* Account and buying group actions
-* In-CRM access to detail pages
-* Custom CSS support for content design
-* Intent keyword mapping configuration
-* Simulate Content from email summary
-* Total count display for roles templates list
+* Person engagement score filters for roles templates and journeys
+* Buying groups custom roles configuration
+* Engagement score weighting configuration
+* Conditional content for fragments
+* Engagement score updates
+* Active journey observability - accounts at each node
 
 See [AJO B2B Edition release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes) for details.
 
@@ -601,7 +566,7 @@ Find out the latest release notes and release schedule for [!DNL Marketo Engage]
 
 ### Core Marketo Engage updates
 
-Release: **July 11, 2025**
+Release: **September 2025**
 
 * [Current release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current)
 * [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/release-schedule)
@@ -682,14 +647,16 @@ Find latest release information and new documentation for [!DNL GenStudio for Pe
 
 July updates:
 
-* Compatible assets filter
-* Multi-Asset Activation for Meta
-* Rich text formatting in variants
-* Accessibility labels for images and links
-* Non-English content generation
-* Template selection optional for Meta ads
+* Insights for text attributes
+* Insights template improvements
+* Generate multi-language content with brand validation
+* Video asset support on templates
+* Activate experience improvements
+* Use the same role in multiple text fields
+* New Firefly image generation models supported
+* Out-of-the-box translation for email
 
-See [2025.07.25 - Release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest) for GenStudio for Performance Marketing
+See [2025.08.15 - Release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest) for GenStudio for Performance Marketing
 
 **GenStudio for Performance Marketing resources**
 
@@ -703,11 +670,12 @@ See [2025.07.25 - Release notes](https://experienceleague.adobe.com/en/docs/gens
 
 +++Release notes and documentation
 
-July - August 2025 updates:
+September 2025 updates:
 
-* Harmonization updates
+* Dataset mapping validations
+* Context menu on links to model and plans
 
-See Mix Modeler [July - August 2025 - Release notes](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest) for details
+See Mix Modeler [September 2025 - Release notes](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest) for details
 
 +++
 
@@ -721,7 +689,7 @@ To browse Adobe [!DNL Advertising] help, visit [Adobe Advertising Documentation]
 
 ### New features in [!DNL Advertising DSP] {#advertising-dsp}
 
-July 30, 2025
+September 3, 2025
 
 See [What's new in [!DNL Advertising DSP]](https://experienceleague.adobe.com/en/docs/advertising/dsp/home)
   
