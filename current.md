@@ -650,11 +650,12 @@ New [!DNL Workfront] tutorials and events on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|August 2025|[Understand built-in issue filters](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/open-built-in-issue-filters)|Video tutorial |Learn how to review built-in issue filters to see how they're built and create your own issue filter in Workfront.|
-|August 2025|[Understand basic text mode for filters](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-filters)|Video tutorial |Learn about text mode, camel case, and a basic text mode that you can use in your report filters. |
-|August 2025|[Understand built-in task filters](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/open-built-in-task-filters)|Video tutorial |Learn how to review built-in task filters to see how they're built and create your own task filter in Workfront.|
-|August 2025|[Understand built-in project filters](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/open-built-in-project-filters)|Video tutorial |Learn how to review built-in project filters to see how they're built and create your own project filter in Workfront.|
-|August 2025|[Create custom prompts](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts)|Video tutorial |Learn about custom prompts, how to create a custom prompt using text mode, and some examples that you can use in reporting in Workfront.|
+|September 2025|[Create a record type request form](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-record-type-request-form)|Video |Streamline work by learning how to create custom request forms to organize tasks, gather key info, and boost team efficiency.|
+|September 2025|[Update the task status](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/update-the-task-status)|Video |Learn how, why, and how often to update the task status.|
+|September 2025|[Update the issue status](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/update-the-issue-status)|Video |learn about issue statuses and best practices for using them.|
+|September 2025|[Understand EXISTS filters](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/understand-exists-filters)|Video |Learn what an EXISTS filter is, what it can do for you, and how you can build one from scratch. Plus see a lot of useful examples of EXISTS filters.|
+|September 2025|[Introduction to Canvas Dashboards](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/canvas-dashboards/introduction-to-canvas-dashboards)|Video |Learn how to navigate to and within Canvas dashboards and how to create a simple dashboard with existing reports.|
+|September 2025|[Create a KPI report on a Canvas Dashboard](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard)|Video |Learn how to create a KPI report on a Canvas Dashboard.|
 
 ### New [!DNL Workfront] support knowledge base
 
