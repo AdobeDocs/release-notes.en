@@ -82,7 +82,7 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 | Product | Resource | Description | Published |
 | ------- | ------- | ------- | ------- |
 | [!DNL Experience Cloud] | [Generative AI in [!DNL Experience Cloud]](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai) | Find help on generative AI (GenAI) and AI Assistant in Experience Cloud applications. | Updated September 2025 |
-|Customer Journey Analytics|[Use AI Assistant](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/cja-basics/use-ai-assistant)| Video |Discover how AI Assistant in Customer Journey Analytics empowers you to learn concepts, troubleshoot issues, and optimize workflows.| August 2025 |
+|Customer Journey Analytics|[Use AI Assistant](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/cja-basics/use-ai-assistant)| Discover how AI Assistant in Customer Journey Analytics empowers you to learn concepts, troubleshoot issues, and optimize workflows.| August 2025 |
 |[!DNL AI Assistant in Marketo Email Designer]|[Email Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant?lang=en)|AI Assistant in Marketo Engage Email Designer helps you create contemporary, performant, and intuitive emails. This is achieved through Adobe's generative AI technology and prompt library along with Firefly for image generation that aids in creating suitable content for a particular persona/buying group, marketing journey stage, communication strategy, tone, etc. Specific brand assets can be also utilized to create content. | August 2025 |
 | [!DNL Experience Cloud] | [Agentic AI](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | Learn about Product Support Agent and Data Insights Agent (agentic AI). | June 2025 |
 
@@ -133,9 +133,11 @@ Learn about updates to [!DNL Experience Cloud] administration and central interf
 
 Planned release: **September 25, 2025**
 
+(Date subject to change.)
+
 | Date | Update  | Description  |
 | -----------| -----------| ---------- |
-| September 25, 2025 | Support for IP Access Lists | For organizations that have IP Access Lists in Admin Console available and enabled, Experience Cloud will honor those IP restrictions to access applications on the `https://experience.adobe.com` domain. This update affects all web applications accessed via that domain, and checks occur at login and new page loads in that organization.  |
+| Planned: September 25, 2025 | Support for IP Access Lists | For organizations that have IP Access Lists in Admin Console available and enabled, Experience Cloud will honor those IP restrictions to access applications on the `https://experience.adobe.com` domain. This update affects all web applications accessed via that domain, and checks occur at login and new page loads in that organization.  |
 
 See the [Experience Cloud interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) guide for help on:
 
@@ -285,7 +287,7 @@ New tutorials published for [!DNL Customer Journey Analytics].
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |September 2025|[Create audiences from segments](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/components/filters/create-audiences-from-segments)| Video |Learn how to create and publish audiences from Customer Journey Analytics to the Real-Time Customer Data Platform. |
-|September 2025|[Use Typecasting](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields/use-typecasting-in-derived-fields)| Video |Discover [!UICONTROL Typecasting] in Customer Journey Analytics derived fields. Typecasting adjusts schema field data types, like converting strings to numeric or datetime to strings for advanced analytics. Easily configure and combine fields to unlock powerful insights for your business.|
+|September 2025|[Use Typecasting](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields/use-typecasting-in-derived-fields)| Video |Learn about [!UICONTROL Typecasting] in Customer Journey Analytics derived fields. Typecasting adjusts schema field data types, such as converting strings to numeric or datetime to strings for advanced analytics.|
 |September 2025|[Use [!UICONTROL Date Math] to calculate the time between events](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields/use-date-math-to-calculate-time-between-events)| Video |Learn about Date Math in Customer Journey Analytics derived fields.|
 |September 2025|[Customize Event Depth](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields/customize-event-depth-in-derived-fields)| Video |Learn how to configure [!UICONTROL Event Depth] in Customer Journey Analytics derived fields to customize analytics for page depth, internal search depth, and more. |
 |September 2025|[Configure and use the map visualization](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/configure-and-use-the-map-visualization)| Video |Bring your location data to life with the map visualization! Identify geo clusters and create on-the-fly segments using the selection tool.|
@@ -645,7 +647,7 @@ Find latest release information and new documentation for [!DNL GenStudio for Pe
 
 +++Release notes and documentation
 
-July updates:
+2025.08.15 updates:
 
 * Insights for text attributes
 * Insights template improvements
