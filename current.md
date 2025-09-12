@@ -230,14 +230,19 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 Adobe Analytics releases operate on a continuous delivery model, which allows for a more scalable, phased approach to feature deployment. Release notes are updated several times a month.
 
-**August 2025**
+Planned release: **September 17, 2025**
 
-Updates include:
+* Improvements when migrating projects and components to Customer Journey Analytics:
+    * Migrate multiple projects at one time.
+    * Update mappings for dimensions and metrics that were already mapped with a previous project migration.
+    * Improved performance for organizations with high numbers of projects.
+
+<!-- Updates include:
 
 * Analyze AI traffic with a new Referrer Type dimension item
 * Projects downloaded as PDFs are downloaded to your workstation
 * Deleted projects are immediately unavailable by URL and are deleted from scheduled deliveries
-* Streaming Media: Updated XDM fields for collecting Streaming Media data into Adobe Experience Platform
+* Streaming Media: Updated XDM fields for collecting Streaming Media data into Adobe Experience Platform -->
 
 See [[!DNL Analytics] release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest) for details.
 
@@ -264,6 +269,7 @@ New articles and updates to existing articles for [!DNL Analytics].
 |June 2025|[Mobile Device Model Tracking for [!DNL iPhone] in Adobe Analytics and CJA](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26568)|New article| Learn about Mobile Device Model Tracking for [!DNL iPhone] in Adobe Analytics and CJA.|
 |June 2025|[Too many `Contains` operators cause segments working incorrectly](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-25262)|New article| Learn about the solutions to the issue when too many `Contains` operators cause segments to work incorrectly.|
 -->
+
 +++
 
 ## [!DNL Customer Journey Analytics] {#cja}
@@ -274,7 +280,14 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 Releases for [!DNL Customer Journey Analytics] occur on a continuing basis. As such, release notes are updated several times a month. Please check them regularly.
 
-August updates:
+Planned release: **September 17, 2025**
+
+* Updates to the Usage interface
+* Improvements when migrating projects and components to Customer Journey Analytics
+* Lookup keys limit increased up to 1 billion
+* Support for ad hoc schemas
+
+<!-- August updates:
 
 * Map visualization
 * Real-time reporting
@@ -285,9 +298,9 @@ August updates:
 * Extending lookup keys limit
 * Create metrics and dimensions based on user-defined map fields from the
 * Platform schema
-* Deleted projects are immediately unavailable by URL and are deleted from scheduled deliveries 
+* Deleted projects are immediately unavailable by URL and are deleted from scheduled deliveries  -->
 
-See [Customer Journey Analytics (CJA) release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases)
+See [Customer Journey Analytics (CJA) release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest) for details.
 
 ### New [!DNL Customer Journey Analytics] tutorials {#tutorials-cja}
 
@@ -297,7 +310,6 @@ New tutorials published for [!DNL Customer Journey Analytics].
 | -----------| ---------- | ---------- | ---------- |
 |August 2025|[Workspace Commenting in CJA](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/workspace-projects/workspace-commenting)| Video tutorial |Learn how Workspace commenting in Adobe Customer Journey Analytics lets you and your team collaborate directly on your data. Ask questions, share insights, and build consensus without ever leaving your analysis. |
 
-<!--
 ### New [!DNL Customer Journey Analytics] support knowledge base{#kb-cja}
 
 New articles and updates to existing articles for [!DNL Customer Journey Analytics].
@@ -305,7 +317,6 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
 |July 2025|[Access issues with shared metrics and dimensions in CJA](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27020)|New article| Learn about the solutions to the issue in Adobe Customer Journey Analytics where you can't access **[!UICONTROL Shared Metrics and Dimensions]**.|
--->
 
 +++
 
