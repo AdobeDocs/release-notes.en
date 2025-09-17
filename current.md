@@ -5,14 +5,13 @@ doc-type: release notes
 last-update: September 2025
 author: mfrei
 mini-toc-levels: 2
-badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
 # Experience Cloud central release notes - September 2025
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
-Updated: **September 12, 2025**
+Updated: **September 17, 2025**
 
 This page helps you:
 
@@ -61,10 +60,6 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 +++View upcoming events
 
-* **Workfront** | _Admin 101: Bring Your Workfront Questions_ | September 16, 2025 | [Register](https://events.teams.microsoft.com/event/08f4e093-af67-403b-95e3-5851ef4d0438@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **Workfront** | _Admin 101: Bring Your Workfront Questions_ | September 16, 2025 | [Register](https://events.teams.microsoft.com/event/08f4e093-af67-403b-95e3-5851ef4d0438@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **Workfront** | _Making JSON sing with Workfront Fusion + JSONata_ | September 17, 2025 | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5757312223/event_landing.html?sco-id=5757320868&campaign-id=ExL&_charset_=utf-8)
 
 * **Target** | _Leveraging Adobe Target AI for Optimization Excellence and Scale_ | September 18, 2025 | [Register](https://event.adobe.com/leveragingadobetargetai)
@@ -75,7 +70,7 @@ And more! View the complete listing of [upcoming](https://experienceleague.adobe
 
 ## Resources for using AI in [!DNL Experience Cloud] {#ai}
 
-Find the latest learning resources published for generative AI (genAI), AI Assistant, and agentic AI in Experience Cloud.
+Find the latest learning resources published for generative AI (genAI), AI Assistant, and AI agents in Experience Cloud.
 
 +++Details
 
@@ -83,7 +78,7 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 | ------- | ------- | ------- | ------- |
 | [!DNL Experience Cloud] | [Generative AI in [!DNL Experience Cloud]](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai) | Find help on generative AI (GenAI) and AI Assistant in Experience Cloud applications. | Updated September 2025 |
 |Customer Journey Analytics|[Use AI Assistant](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/cja-basics/use-ai-assistant)| Discover how AI Assistant in Customer Journey Analytics empowers you to learn concepts, troubleshoot issues, and optimize workflows.| August 2025 |
-|[!DNL AI Assistant in Marketo Email Designer]|[Email Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant?lang=en)|AI Assistant in Marketo Engage Email Designer helps you create contemporary, performant, and intuitive emails. This is achieved through Adobe's generative AI technology and prompt library along with Firefly for image generation that aids in creating suitable content for a particular persona/buying group, marketing journey stage, communication strategy, tone, etc. Specific brand assets can be also utilized to create content. | August 2025 |
+|[!DNL AI Assistant in Marketo Email Designer]|[Email Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant?lang=en)|The AI Assistant in Marketo Engage Email Designer helps you quickly create modern, effective emails. It uses Adobe's generative AI, prompt library, and Firefly for image generation to tailor content to your audience, journey stage, strategy, or tone. You can also incorporate your own brand assets.| August 2025 |
 | [!DNL Experience Cloud] | [Agentic AI](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | Learn about Product Support Agent and Data Insights Agent (agentic AI). | June 2025 |
 
 
@@ -113,7 +108,7 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 
 Previous release notes for [!DNL Adobe System Status]:
 
-<!-- * [August 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2025/08132025#status) -->
+* [August 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2025/08132025#status)
 * [April 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2025/04162025#status)
 * [August 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/09142023#status)
 * [May 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/05152024#status)
@@ -137,7 +132,7 @@ Planned release: **September 25, 2025**
 
 | Date | Update  | Description  |
 | -----------| -----------| ---------- |
-| Planned: September 25, 2025 | Support for IP Access Lists | For organizations that have IP Access Lists in Admin Console available and enabled, Experience Cloud will honor those IP restrictions to access applications on the `https://experience.adobe.com` domain. This update affects all web applications accessed via that domain, and checks occur at login and new page loads in that organization.  |
+| Planned: **September 25, 2025** | Support for IP Access Lists | For organizations that have IP Access Lists in Admin Console available and enabled, Experience Cloud will honor those IP restrictions to access applications on the `https://experience.adobe.com` domain. This update affects all web applications accessed via that domain, and checks occur at login and new page loads in that organization.  |
 
 See the [Experience Cloud interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) guide for help on:
 
@@ -385,7 +380,7 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 |August 2025|[Content Fragment feature not supported after RDE upgrade in AEM](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27321)|New article| Learn about the solutions to the issue when after upgrading the Rapid Development Environment (RDE) in AEMaaCS, the Content Fragment feature fails to open due to version incompatibility.|
 |August 2025|[Can't move tag back to original location in Adobe Experience Manager](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27364)|New article| Learn about the solutions to the issue when non-administrator users attempt to move a tag back to its original location after moving it, they encounter a *Permissions Denied* error.|
 |August 2025|[On-premise sling mappings fail after migrating to AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27393)|New article| Learn about the solutions to the issue when migrating sling mappings from an on-premise AEM setup to AEMaaCS introduces compatibility issues.|
-|August 2025|[[!UICONTROL Publish Content Tree] workflow stuck on running state on AEMaaCS - Assets](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27369)|New article| Learn about the solutions to the issue when the [!UICONTROL Publish Content Tree] workflow in AEMaaCS - Assets gets stuck during asset publishing from the [!UICONTROL Author] environment.|
+|August 2025|[[!UICONTROL Publishes Content Tree] workflow stuck on running state on AEMaaCS - Assets](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27369)|New article| Learn about the solutions to the issue when the [!UICONTROL Publish Content Tree] workflow in AEMaaCS - Assets gets stuck during asset publishing from the [!UICONTROL Author] environment.|
 |August 2025|[AEM Universal Editor returns 401 error when authentication is *enabled* on preview/live sites](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27451)|New article| Learn about the solutions to the issue when authentication is *enabled* for Adobe Experience Manager (AEM) Edge Delivery Service (EDS) preview and live sites, the Universal Editor fails with a *401 Unauthorized* error.|
 
 +++
@@ -415,7 +410,7 @@ New articles and updates to existing articles for Adobe Commerce.
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
 |August 2025|[[!DNL Quality Patches Tool] (QPT)](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/patches-available-in-qpt/patches-available-in-qpt-tool-overview)|New articles| New articles on how to apply patches available in QPT 1.1.67, QPT 1.1.68, and QPT 1.1.69 were published and can be found in their respective sections.|
-|August 2025|[Adobe Commerce on-premises: multi-store Setup without store codes in URLs](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27235)|New articles| Learn about the solutions to the issue when setting up a new store view in Adobe Commerce with a custom URL structure (For example: *www.example.com/dk*) without enabling the global **[!UICONTROL Add Store Code to URLs]** setting, the content and theme appear as expected, but the page displays a *404 error*.|
+|August 2025|[Adobe Commerce on-premises: multi-store Setup without store codes in URLs](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27235)|New articles| Learn about the solutions to the issue when setting up a new store view in Adobe Commerce with a custom URL structure (For example: `www.example.com/dk`) without enabling the global **[!UICONTROL Add Store Code to URLs]** setting, the content and theme appear as expected, but the page displays a *404 error*.|
 |August 2025|[Adobe Commerce site down troubleshooting diagram](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27301)|New articles| Learn about the solutions to site down issues using the Adobe Commerce site down troubleshooting diagram.|
 |August 2025|[`setup:upgrade` fails due to PHP memory exhaustion on Commerce Cloud](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27387)|New articles| Learn about the solutions to the issue that occurs during [!UICONTROL Production] environment redeployment on Adobe Commerce on Cloud infrastructure, where the `setup:upgrade` command fails because the PHP CLI exceeds the default memory limit of 1 GB.|
 
@@ -464,7 +459,7 @@ New or updated videos tutorials published for Adobe Campaign.
 | Published | Application | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
 |August 2025|Campaign v8 Web User Interface |[Enhance a delivery with dynamic content](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content)| Video tutorial |Learn how to use the generative AI powered Content Generator to create and enhance the email content, optimizing your email deliveries to better resonate with your audience.|
-|August 2025|Campaign v8 Web User Interface |[Configure JavaScript code activity](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/workflows/configure-java-script-code-activity)| Video tutorial |Learn how to effectively use the JavaScript Code activity in Adobe Campaign Web v8 to enhance your workflows. This tutorial covers both simple and advanced scripting modes. It explains execution settings and error handling. You will see real-world examples, such as targeting VIP profiles, transforming data, and triggering conditional operations. |
+|August 2025|Campaign v8 Web User Interface |[Configure JavaScript code activity](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/workflows/configure-java-script-code-activity)| Video tutorial |Learn how to use the JavaScript Code activity in Adobe Campaign Web v8 to enhance your workflows. This tutorial covers both simple and advanced scripting modes. It explains execution settings and error handling. View real-world examples, such as targeting VIP profiles, transforming data, and triggering conditional operations. |
 
 ### New [!DNL Campaign] support knowledge base{#kb-campaign}
 
@@ -505,7 +500,7 @@ New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
 |September 2025|[!DNL Journey Optimizer]|[Introduction to Orchestrated Campaigns in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/orchestrated-campaigns/introduction-to-orchestrated-campaigns)|Video | Discover how orchestrated campaigns in Adobe Journey Optimizer empower marketers to manage brand-initiated, audience-based campaigns using advanced data management capabilities. |
-|September 2025|[!DNL Journey Optimizer]|[Monitor and analyze your journey with live reports](https://experienceleague.corp.adobe.com/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports.html?lang=en)|Video |Learn how to effectively use Adobe Journey Optimizer's Live Report feature to monitor and analyze the performance of your journeys and messages in real-time. Learn how to customize dashboards, export reports, and interpret journey-specific metrics to optimize your marketing strategies.  |
+|September 2025|[!DNL Journey Optimizer]|[Monitor and analyze your journey with live reports](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/monitor-and-analyze-your-journey-with-live-reports)|Video |Learn how to effectively use Adobe Journey Optimizer's Live Report feature to monitor and analyze the performance of your journeys and messages in real-time. Learn how to customize dashboards, export reports, and interpret journey-specific metrics to optimize your marketing strategies.  |
 |September 2025|[!DNL Journey Optimizer]|[Relational Store basics in Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/orchestrated-campaigns/relational-store-basics)|Video | Learn the foundational concepts of the relational store used in Journey Optimizer's campaign orchestration--covering schema design, data ingestion, supported sources, and key differences from the real-time profile store. |
 
 ### New [!DNL Journey Optimizer] support knowledge base{#kb-ajo}
@@ -515,7 +510,7 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].
 |Published|Name|Type|Description|
 |---------|----|----|-----------|
 |August 2025|[Adobe Journey Optimizer: TTL settings for [!UICONTROL Profile] and [!UICONTROL Data Lake] datasets in new sandboxes](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26135)|New article| Learn about how Time-to-Live (TTL) settings apply to [!UICONTROL Profile] and [!UICONTROL Data Lake] datasets when you create a new sandbox in AJO.|
-|August 2025|[Prevent email formatting issues in Adobe Journey Optimizer using themes](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27252)|New article| Learn about the solutions to the issue when modifying the default CSS blocks in the email header can lead to unexpected formatting issues—especially after removing content fragments.|
+|August 2025|[Prevent email formatting issues in Adobe Journey Optimizer using themes](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27252)|New article| Learn about the solutions to the issue when modifying the default CSS blocks in the email header can lead to unexpected formatting issues--especially after removing content fragments.|
 
 ### More resources for [!DNL Journey Optimizer]
 
@@ -728,8 +723,8 @@ New tutorials published for Adobe Document Cloud.
 | September 2025 | Acrobat | [Set up your workspace](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/set-up-workspace) |  Video | Learn how to put all the accessibility tools right at your fingertip to help streamline making accessible PDF files. |
 | September 2025 | Acrobat | [Create an accessible PDF from Word](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/create-accessible-from-word) |  Video | Learn how to create an accessible PDF file from Microsoft Word. Starting with a well-structured Word file can make a world of difference when creating an accessible PDF. |
 | September 2025 | Acrobat Sign | [Migrate Docusign templates](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/docusign-templates) |  Updated video | Learn how to seamlessly migrate Docusign templates and workflows to Acrobat Sign in three easy steps. |
-| September 2025 | Acrobat Sign | [Get started with Acrobat Sign](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/new-sender.html) |  Updated video | Learn how to get started with sending documents for signature as a new sender in Adobe Sign. |
-| September 2025 | Acrobat Sign | [Send a document to a single signer](https://docs.adobe.com/content/help/en/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/send-to-single-recipient.html) |  Updated video | Discover how to send documents to a single recipient for signature using Adobe Sign. |
+| September 2025 | Acrobat Sign | [Get started with Acrobat Sign](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/new-sender) |  Updated video | Learn how to get started with sending documents for signature as a new sender in Adobe Sign. |
+| September 2025 | Acrobat Sign | [Send a document to a single signer](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/send-to-single-recipient.html?lang=en) |  Updated video | Discover how to send documents to a single recipient for signature using Adobe Sign. |
 
 To browse [!DNL Document Cloud] tutorials, see:
 
@@ -742,15 +737,16 @@ To browse [!DNL Document Cloud] tutorials, see:
 
 ## [!DNL Creative Cloud] for enterprise {#creative-cloud}
 
-New tutorials published for applications in [!DNL Adobe Creative Cloud for enterprise].
+New tutorials published for applications in [!DNL Adobe Creative Cloud for enterprise], including Firefly.
 
 +++Latest tutorials
 
 |Published|Application|Name|Type|Description |
 | -----------| -----------|---------- | ---------- | ---------- |
+| September 2025 | Firefly | [Create a Custom Model](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model) |  Video | Learn how to build Custom Models in Firefly to create fresh new imagery for your organization's brand using specific types of styles--such as backgrounds, colors, and hues. |
 | September 2025 | Firefly | [Background removal and replacement](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background) |  Video | Learn how to use Firefly Creative Production to remove and/or replace backgrounds at scale. |
 
-See [Creative Cloud for enterprise tutorials](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) to find the latest tutorials.
+Browse our library of tutorials for [Creative Cloud for enterprise](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) for more.
 
 +++
 
