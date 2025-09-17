@@ -201,7 +201,7 @@ Find the latest tutorials for [!DNL Real-Time CDP].
 
 | Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
-| September 2025 | [Federated Audience Composition tutorial](https://experienceleague.adobe.com/en/docs/platform-learn/engage-with-audiences-from-your-data-warehouse-using-fac/overview) |  Video | Engage with audiences directly from your data warehouse using Federated Audience Composition (FAC). |
+| September 2025 | [Federated Audience Composition tutorial](https://experienceleague.adobe.com/en/docs/platform-learn/engage-with-audiences-from-your-data-warehouse-using-fac/overview) |  Tutorial | Engage with audiences directly from your data warehouse using Federated Audience Composition (FAC). |
 | September 2025 | [Brand-to-brand collaboration](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/brand-to-brand-collaboration) |  Video | Learn about use cases supported by brand to brand collaboration and specific features introduced to support these workflows. |
 | September 2025 | [Discover audience overlaps inside of Collaboration projects](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/discover-audience-overlaps-in-projects) |  Video | Learn how to compare audience overlaps inside of Real-Time CDP Collaboration projects.  |
 | September 2025 | [Activate audiences in Collaboration projects](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/activate-audiences-in-projects) |  Video | Learn how to activate audiences to your collaboration partners in Real-Time CDP Collaboration projects.  |
