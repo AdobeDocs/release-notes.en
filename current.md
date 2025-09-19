@@ -25,13 +25,13 @@ To receive a periodic email notification about updates to this page, subscribe t
 +++View section links
 
 * [Event schedule](#events)
-* [Resources for using AI in [!DNL Experience Cloud]](#ai)
+* [Resources for using AI in [!DNL Experience Cloud]](#ai) (Updated: **September 19**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud) 
 * [[!DNL Adobe Experience Platform]](#platform) 
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (Releasing **September 17**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (Releasing **September 17**)
+* [[!DNL Adobe Analytics]](#analytics) (Released **September 17**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (Released **September 17**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem) 
 * [[!DNL Adobe Commerce]](#commerce)
@@ -60,11 +60,7 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 +++View upcoming events
 
-* **Workfront** | _Making JSON sing with Workfront Fusion + JSONata_ | September 17, 2025 | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5757312223/event_landing.html?sco-id=5757320868&campaign-id=ExL&_charset_=utf-8)
-
-* **Target** | _Leveraging Adobe Target AI for Optimization Excellence and Scale_ | September 18, 2025 | [Register](https://event.adobe.com/leveragingadobetargetai)
-
-And more! View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
+View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
 
 +++
 
@@ -76,11 +72,10 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 
 | Product | Resource | Description | Published |
 | ------- | ------- | ------- | ------- |
+| [!DNL Experience Cloud] | [Agentic AI in [!DNL Experience Cloud]](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | Find help or check availability on AI agents like Experience Platform Agent Orchestrator. | Updated September 2025 |
 | [!DNL Experience Cloud] | [Generative AI in [!DNL Experience Cloud]](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai) | Find help on generative AI (GenAI) and AI Assistant in Experience Cloud applications. | Updated September 2025 |
 |Customer Journey Analytics|[Use AI Assistant](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/cja-basics/use-ai-assistant)| Discover how AI Assistant in Customer Journey Analytics empowers you to learn concepts, troubleshoot issues, and optimize workflows.| August 2025 |
 |[!DNL AI Assistant in Marketo Email Designer]|[Email Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/email-marketing/email-designer/ai-assistant?lang=en)|The AI Assistant in Marketo Engage Email Designer helps you quickly create modern, effective emails. It uses Adobe's generative AI, prompt library, and Firefly for image generation to tailor content to your audience, journey stage, strategy, or tone. You can also incorporate your own brand assets.| August 2025 |
-| [!DNL Experience Cloud] | [Agentic AI](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | Learn about Product Support Agent and Data Insights Agent (agentic AI). | June 2025 |
-
 
 +++
 
