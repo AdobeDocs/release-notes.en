@@ -11,7 +11,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
-Updated: **September 17, 2025**
+Updated: **September 25, 2025**
 
 This page helps you:
 
@@ -85,22 +85,6 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 
 +++Release notes
 
-<!-- Release date: **July 16, 2025**
-
-**What's new**
-
-* Virtual Assistant general availability
-* Event ID search
-* Slack notification setup update
-* Bug fixes and improvements
-
-| Feature | Description |
-| ------- | ------- |
-| **Virtual Assistant general availability** | <ul><li>**[!UICONTROL Virtual Assistant]** lets Adobe Status customers on the web or mobile find answers and perform quick actions without leaving the home page. It's a single place for getting help and completing tasks quickly. </li><li>Virtual assistant is now available to all Adobe Status customers. It can be accessed by logging in to [status.adobe.com](https://status.adobe.com/) and interacting with the **[!UICONTROL Ask our assistant]** widget .</li></ul>|
-| **Event ID search** | <ul><li>Customers can now search by event ID on Product and Cloud pages as well as on Virtual Assistant.</li></ul> |
-| **Slack notification setup update** | <ul><li>Customers will be asked to enter their Slack channel details before they can proceed with the setup. This update ensures a smooth Slack setup with their Slack channel handy.</li></ul> |
-| **Bug fixes and improvements** | <ul><li>Missing notifications - Customer-facing statement availability notifications were not sent to customers on past CSOs</li><li>Missing notifications - When two events occurred at same time, email communications were missed.</li><li>40 days history for Maintenances - Maintenances were missing historical events due to some of them being older than 40 days.</li><li>Cloud page banner - The banner did not update when filters changed on the Cloud page.</li><li>UI Enhancements - Messages related to customer-facing statements are updated to improve clarity.</li></ul> | -->
-
 Previous release notes for [!DNL Adobe System Status]:
 
 * [August 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2025/08132025#status)
@@ -121,13 +105,9 @@ Learn about updates to [!DNL Experience Cloud] administration and central interf
 
 +++View help resources
 
-Planned release: **September 25, 2025**
-
-(Date subject to change.)
-
 | Date | Update  | Description  |
 | -----------| -----------| ---------- |
-| Planned: **September 25, 2025** | Support for IP Access Lists | For organizations that have IP Access Lists in Admin Console available and enabled, Experience Cloud will honor those IP restrictions to access applications on the `https://experience.adobe.com` domain. This update affects all web applications accessed via that domain, and checks occur at login and new page loads in that organization.  |
+| **September 25, 2025** | Support for IP Access Lists | For organizations that have IP Access Lists in Admin Console available and enabled, Experience Cloud will honor those IP restrictions to access applications on the `https://experience.adobe.com` domain. This update affects all web applications accessed via that domain, and checks occur at login and new page loads in that organization.  |
 
 See the [Experience Cloud interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) guide for help on:
 
@@ -145,21 +125,11 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 **Experience Platform**
 
-**August 19, 2025** updates:
-
-* **Alerts:** Streaming throughput capacity alerts
-* **Catalog Service:** Data retention for Real-Time Customer Profile.
-* **Destinations:** Acxiom Real ID Audience Connection destination, and more.
-* **Model-Based Schemas:** Simplify your data modeling with Model-Based Schemas.
-* **Sandboxes:** Dependency object de-duplication in importing workflow; Entire sandbox support for across orgs package sharing.
-* **Segmentation Service:** Audience estimates. 
-* **Sources:** General availability of the Oracle NetSuite source, and more.
-
-See [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest) for details.
+**September 23, 2025** updates: See [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest) for details.
 
 **Mobile SDK**
 
-Updated: **September 5, 2025**
+Updated: **September 22, 2025**
 
 See [[!DNL Experience Platform] Mobile SDK release notes](https://developer.adobe.com/client-sdks/documentation/release-notes/) for details.
 
