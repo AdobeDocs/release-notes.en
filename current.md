@@ -203,7 +203,6 @@ New or updated video tutorials published for Adobe Analytics.
 |October 2025|[Introduction to classification sets](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/classifications/introduction-to-classification-sets)| Video |Learn how classification sets give you additional reports and insights into your data.|
 |October 2025|[Use classification sets in Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/classifications/use-classification-sets)| Video |Learn the steps of using classification sets in Adobe Analytics.| 
 
-
 ### New [!DNL Analytics] support knowledge base{#kb-analytics}
 
 New articles and updates to existing articles for [!DNL Analytics].
@@ -241,14 +240,8 @@ New tutorials published for [!DNL Customer Journey Analytics].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|September 2025|[Create audiences from segments](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/components/filters/create-audiences-from-segments)| Video |Learn how to create and publish audiences from Customer Journey Analytics to the Real-Time Customer Data Platform. |
-|September 2025|[Use Typecasting](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields/use-typecasting-in-derived-fields)| Video |Learn about [!UICONTROL Typecasting] in Customer Journey Analytics derived fields. Typecasting adjusts schema field data types, such as converting strings to numeric or datetime to strings for advanced analytics.|
-|September 2025|[Use [!UICONTROL Date Math] to calculate the time between events](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields/use-date-math-to-calculate-time-between-events)| Video |Learn about Date Math in Customer Journey Analytics derived fields.|
-|September 2025|[Customize Event Depth](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-views/derived-fields/customize-event-depth-in-derived-fields)| Video |Learn how to configure [!UICONTROL Event Depth] in Customer Journey Analytics derived fields to customize analytics for page depth, internal search depth, and more. |
-|September 2025|[Configure and use the map visualization](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/configure-and-use-the-map-visualization)| Video |Bring your location data to life with the map visualization! Identify geo clusters and create on-the-fly segments using the selection tool.|
-|September 2025|[Use AI Assistant](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/cja-basics/use-ai-assistant)| Video |Discover how AI Assistant in Customer Journey Analytics empowers you to learn concepts, troubleshoot issues, and optimize workflows.|
-|September 2025|[Create custom templates](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/templates/create-custom-templates)| Video |Learn how to create a custom template in Customer Journey Analytics. |
-|September 2025|[Content Analytics - reporting](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/content-analytics/reporting)| Video |Discover how Content Analytics automates asset tracking and provides detailed reports on website content performance, including views, clicks, and conversions. |
+|October 2025|[Customer Journey Analytics - B2B Edition overview](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/cja-basics/cja-b2b-overview)| Video |Understand how Customer Journey Analytics B2B Edition solves challenges and gives you an advantage in the B2B landscape.|
+|October 2025|[Use the Data Insights Agent](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-insights-agent/use-the-data-insights-agent)| Video |Analyze data using natural language prompts, generating freeform tables, visualizations, and data comparisons, reducing reliance on data analysts. This AI-powered agent delivers quick insights into trends and performance, enabling actionable insights to share with stakeholders without delays.|
 
 <!--
 ### New [!DNL Customer Journey Analytics] support knowledge base{#kb-cja}
