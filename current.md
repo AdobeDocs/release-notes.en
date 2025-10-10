@@ -194,13 +194,14 @@ See [[!DNL Analytics] release notes](https://experienceleague.adobe.com/en/docs/
 
 See [AppMeasurement for JavaScript release notes](https://github.com/adobe/appmeasurement/releases) for details.
 
-<!-- ### New Analytics tutorials {#tutorials-analytics}
+### New Analytics tutorials {#tutorials-analytics}
 
 New or updated video tutorials published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|April 2025|[Configure variables in Report Suite Manager](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/administration/manage-report-suites/configuring-variables-in-the-admin-console)| New video |Configure variables and events in [!UICONTROL Report Suite Manager], ensuring that the reports, dimensions, and metrics have the right names and behavior.| -->
+|October 2025|[Introduction to classification sets](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/classifications/introduction-to-classification-sets)| Video |Learn how classification sets give you additional reports and insights into your data.|
+|October 2025|[Use classification sets in Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/classifications/use-classification-sets)| Video |Learn the steps of using classification sets in Adobe Analytics.| 
 
 
 ### New [!DNL Analytics] support knowledge base{#kb-analytics}
