@@ -117,7 +117,7 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 **Experience Platform**
 
-**September 23, 2025** updates: See [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest) for details.
+**October 21, 2025** updates: See [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest) for details.
 
 **Mobile SDK**
 
