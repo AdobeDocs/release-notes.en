@@ -160,11 +160,7 @@ Find the latest tutorials for [!DNL Real-Time CDP].
 
 | Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
-| September 2025 | [Federated Audience Composition tutorial](https://experienceleague.adobe.com/en/docs/platform-learn/engage-with-audiences-from-your-data-warehouse-using-fac/overview) |  Tutorial | Engage with audiences directly from your data warehouse using Federated Audience Composition (FAC). |
-| September 2025 | [Brand-to-brand collaboration](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/brand-to-brand-collaboration) |  Video | Learn about use cases supported by brand to brand collaboration and specific features introduced to support these workflows. |
-| September 2025 | [Discover audience overlaps inside of Collaboration projects](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/discover-audience-overlaps-in-projects) |  Video | Learn how to compare audience overlaps inside of Real-Time CDP Collaboration projects.  |
-| September 2025 | [Activate audiences in Collaboration projects](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/activate-audiences-in-projects) |  Video | Learn how to activate audiences to your collaboration partners in Real-Time CDP Collaboration projects.  |
-| September 2025 | [Use the Real-Time Customer Data Platform user interface and workflow](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform-user-interface) |  Video | Learn how to navigate the Real-Time Customer Data Platform (CDP) user interface to see how its features come together to provide real-time activation across the digital customer journey.  |
+| October 2025 | [Configure a social destination](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/configure-a-social-destination#destinations) |  Video | Learn how to connect and activate audiences to a social destination. This video demonstrates the workflow using a LinkedIn Matched Audiences destination in Adobe Real-Time Customer Data Platform.|
 
 For more information, see:
 
