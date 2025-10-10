@@ -662,6 +662,14 @@ Find latest release information and new documentation for [!DNL GenStudio for Pe
 
 See [2025.08.15 - Release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest) for GenStudio for Performance Marketing
 
+### New tutorials for GenStudio for Performance Marketing {#genstudio-tutorials}
+
+Video tutorials for GenStudio for Performance Marketing.
+
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|October 2025|[Assign Brand permissions](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/intro/configure-brand-permissions)| Video |Learn about assigning entitlements for GenStudio for Performance Marketing Brand creators and editors.|
+
 **GenStudio for Performance Marketing resources**
 
 * [GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/browse/genstudio-for-performance-marketing) (All self-help)
