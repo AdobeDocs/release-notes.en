@@ -393,7 +393,7 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-|September 2025|[Install App Builder apps from Adobe Exchange](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-developer-app-builder/install-app-builder-app)| Video |Discover how to install and validate Adobe Commerce App Builder apps using Adobe Exchange.|
+|October 2025|[Adobe Commerce Cloud Project and Environment Management](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/project-environment-management)| Video |Learn about the Adobe Commerce Cloud project and environment management interface. |
 
 ### New [!DNL Commerce] support knowledge base{#kb-commerce}
 
