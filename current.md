@@ -612,12 +612,10 @@ New [!DNL Workfront] tutorials and events on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|September 2025|[Create a record type request form](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/workfront-planning/create-a-record-type-request-form)|Video |Streamline work by learning how to create custom request forms to organize tasks, gather key info, and boost team efficiency.|
-|September 2025|[Update the task status](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/update-the-task-status)|Video |Learn how, why, and how often to update the task status.|
-|September 2025|[Update the issue status](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/update-the-issue-status)|Video |learn about issue statuses and best practices for using them.|
-|September 2025|[Understand EXISTS filters](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/understand-exists-filters)|Video |Learn what an EXISTS filter is, what it can do for you, and how you can build one from scratch. Plus see a lot of useful examples of EXISTS filters.|
-|September 2025|[Introduction to Canvas Dashboards](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/canvas-dashboards/introduction-to-canvas-dashboards)|Video |Learn how to navigate to and within Canvas dashboards and how to create a simple dashboard with existing reports.|
-|September 2025|[Create a KPI report on a Canvas Dashboard](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard)|Video |Learn how to create a KPI report on a Canvas Dashboard.|
+|October 2025|[Create a KPI report on a Canvas Dashboard](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard)|Video |Learn how to create a KPI report on a Canvas Dashboard.|
+|October 2025|[Create a table report on a Canvas Dashboard](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard)|Video |Learn how to create a table report on a Canvas Dashboard.|
+|October 2025|[Add conditional formatting to a Canvas Dashboard report](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report)|Video |Learn how to add conditional formatting to a Canvas Dashboard report.|
+|October 2025|[Use an OR filter in a Canvas Dashboard report](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report)|Video |Learn how to use an OR filter in a Canvas Dashboard report.|
 
 <!--
 ### New [!DNL Workfront] support knowledge base
