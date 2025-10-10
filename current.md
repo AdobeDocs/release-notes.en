@@ -177,13 +177,16 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 Adobe Analytics releases operate on a continuous delivery model, which allows for a more scalable, phased approach to feature deployment. Release notes are updated several times a month.
 
-Planned release: **September 17, 2025**
+Planned release: **October 15, 2025**
 
-<!-- * Improvements when migrating projects and components to Customer Journey Analytics:
-    * Migrate multiple projects at one time.
-    * Update mappings for dimensions and metrics that were already mapped with a previous project migration.
-    * Improved performance for organizations with high numbers of projects.
- -->
+* Filter criteria included in line visualizations and sparklines
+* Generate slide presentations from Workspace reports
+* Real-time reporting
+* Support for data mirror
+* Stitching in connections
+* Streaming media services: Support schedule data
+* Analytics source connector: Search report suites in Experience Platform
+* Streaming Media: Updated XDM fields for collecting Streaming Media data into Adobe Experience Platform
 
 See [[!DNL Analytics] release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest) for details.
 
@@ -218,12 +221,16 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 Releases for [!DNL Customer Journey Analytics] occur on a continuing basis. As such, release notes are updated several times a month. Please check them regularly.
 
-Planned release: **September 17, 2025**
+Planned release: **October 15, 2025**
 
-<!-- * Updates to the Usage interface
-* Improvements when migrating projects and components to Customer Journey Analytics
-* Lookup keys limit increased up to 1 billion
-* Support for ad hoc schemas -->
+* Filter criteria included in line visualizations and sparklines
+* Generate slide presentations from Workspace reports
+* Real-time reporting
+* Support for data mirror
+* Stitching in connections
+* Streaming media services: Support schedule data
+* Analytics source connector: Search report suites in Experience Platform
+* Streaming Media: Updated XDM fields for collecting Streaming Media data into Adobe Experience Platform
 
 See [Customer Journey Analytics (CJA) release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest) for details.
 
