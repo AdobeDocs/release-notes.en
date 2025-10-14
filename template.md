@@ -48,7 +48,7 @@ Features and fixes.
 
 See [Adobe System Status](https://status.adobe.com/).
 
-## ![Icon](/assets/ec_appicon_24.png) Experience Cloud Central UI Components {#ecloud}
+## Experience Cloud Central UI Components {#ecloud}
 
 Experience Cloud Central Interface Components includes updates accessed from the unified product header, such as self-help, search, and user account preferences. Updates to People, Places (Location), and product management are found here.
 
@@ -60,7 +60,7 @@ Features and fixes.
 
 Features and fixes.
 
-## ![Icon](/assets/experience_platform_appicon_24.png) Experience Platform {#platform}
+## Experience Platform {#platform}
 
 Release notes for the [!DNL Experience Platform,] including [!DNL Experience Platform Launch,] [!UICONTROL Journey Orchestration], [!UICONTROL Offers], [!UICONTROL People], [!UICONTROL Places], [!UICONTROL Mobile Services], and security bulletins.
 
