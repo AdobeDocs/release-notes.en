@@ -75,7 +75,7 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 
 | Product | Resource | Description | Published |
 | ------- | ------- | ------- | ------- |
-| AI documentation home | [AI Documentation](help/cloud-service/aem-ai-assisstant.md) | To find the latest information about AI feature in Experience Cloud, visit the new product documentation landing.| October 2025 | 
+| AI documentation home | [AI Documentation](https://experienceleague.adobe.com/en/docs/ai) | To find the latest information about AI feature in Experience Cloud, visit the new product documentation landing.| October 2025 | 
 | [!DNL Experience Cloud] | [AI agents in [!DNL Experience Cloud]](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | Find help or check availability on AI agents like Experience Platform Agent Orchestrator. | Updated October 2025 |
 | Acrobat | [Boost team efficiency with PDF Spaces](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal) |  Turn collections of files and websites into sharable, conversational knowledge hubs with personalized AI Assistants. |October 2025 |
 | [!DNL AEM CS] | [AEM AI Assistant](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-ai-assisstant)| Learn how the AEM AI Assistant simplifies your Adobe Experience Manager workflows. | October 2025 |
