@@ -5,14 +5,13 @@ doc-type: release notes
 last-update: October 2025
 author: mfrei
 mini-toc-levels: 2
-badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
 # Experience Cloud central release notes - October 2025
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
-Updated: **October 10, 2025**
+Updated: **October 14, 2025**
 
 This page helps you:
 
@@ -22,6 +21,8 @@ This page helps you:
 * See the latest Support articles 
 
 To receive a periodic email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
+
+**Products links on this page**
 
 +++View section links
 
@@ -35,6 +36,7 @@ To receive a periodic email notification about updates to this page, subscribe t
 * [[!DNL Adobe Customer Journey Analytics]](#cja)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem) 
+* [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target) 
 * [[!DNL Adobe Campaign]](#ac) 
@@ -73,6 +75,7 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 
 | Product | Resource | Description | Published |
 | ------- | ------- | ------- | ------- |
+| AI documentation home | [AI Documentation](help/cloud-service/aem-ai-assisstant.md) | To find the latest information about AI feature in Experience Cloud, visit the new product documentation landing.| October 2025 | 
 | [!DNL Experience Cloud] | [AI agents in [!DNL Experience Cloud]](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | Find help or check availability on AI agents like Experience Platform Agent Orchestrator. | Updated October 2025 |
 | Acrobat | [Boost team efficiency with PDF Spaces](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal) |  Turn collections of files and websites into sharable, conversational knowledge hubs with personalized AI Assistants. |October 2025 |
 | [!DNL AEM CS] | [AEM AI Assistant](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-ai-assisstant)| Learn how the AEM AI Assistant simplifies your Adobe Experience Manager workflows. | October 2025 |
@@ -355,6 +358,18 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 
 +++
 
+## [!DNL Adobe LLM Optimizer] {#llm-optimizer}
+
+Find help for LLM Optimizer, Adobe's new generative AI-first application for Generative Engine Optimization. 
+
++++New tutorials
+
+|Published|Name|Type|Description |
+| -----------| ---------- | ---------- | ---------- |
+|October 2025|[Adobe LLM Optimizer](https://experienceleague.adobe.com/en/docs/llm-optimizer/using/home)| Tutorial |Boost your brand with Adobe LLM Optimizer. Track mentions, uncover insights, and dominate AI-driven search. Take control of your visibility - start optimizing now!|
+
++++
+
 ## [!DNL Commerce] {#commerce}
 
 Get access to release notes, new tutorials, and Knowledge Base support articles for [!DNL Adobe Commerce].
@@ -535,7 +550,7 @@ Release: **September 2025**
 
 * [Current release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current)
 * [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/release-schedule)
-* Dynamic Chat [release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/dynamic-chat) (**June 30, 2025**)
+* Dynamic Chat [release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/dynamic-chat) (June 30, 2025)
 
 <!-- ### New Marketo tutorials {#tutorials-marketo}
 
