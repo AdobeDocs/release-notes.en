@@ -447,7 +447,7 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials and Knowled
 
 * [!DNL Campaign Classic] 7.4.2: May 12, 2025 - [Release notes](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/campaign-classic-home)
 
-### New [!DNL Campaign] tutorials {#tutorials-campaign}
+<!-- ### New [!DNL Campaign] tutorials {#tutorials-campaign}
 
 New or updated videos tutorials published for Adobe Campaign.
 
@@ -455,6 +455,7 @@ New or updated videos tutorials published for Adobe Campaign.
 | ----------| ---------- | ---------- | ---------- |---------- |
 |August 2025|Campaign v8 Web User Interface |[Enhance a delivery with dynamic content](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/content-management/enhance-a-delivery-with-dynamic-content)| Video tutorial |Learn how to use the generative AI powered Content Generator to create and enhance the email content, optimizing your email deliveries to better resonate with your audience.|
 |August 2025|Campaign v8 Web User Interface |[Configure JavaScript code activity](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/workflows/configure-java-script-code-activity)| Video tutorial |Learn how to use the JavaScript Code activity in Adobe Campaign Web v8 to enhance your workflows. This tutorial covers both simple and advanced scripting modes. It explains execution settings and error handling. View real-world examples, such as targeting VIP profiles, transforming data, and triggering conditional operations. |
+ -->
 
 ### New [!DNL Campaign] support knowledge base{#kb-campaign}
 
