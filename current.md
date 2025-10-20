@@ -11,7 +11,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
-Updated: **October 15, 2025**
+Updated: **October 20, 2025**
 
 This page helps you:
 
@@ -62,10 +62,6 @@ To receive a periodic email notification about updates to this page, subscribe t
 Find [events](https://experienceleague.adobe.com/en/events) and register for the ones that interest you.
 
 +++View upcoming events
-
-* **[!DNL Workfront]** | _Learn from your peers_ | Simplify Resource Planning with Automation | **October 16** | [Register](https://engage.adobe.com/Workfront_Simplify_Resource_Planning.html?utm_source=exl-ac-events)
-
-* **[!DNL Workfront]** | _Webinar_ | Inside Mayo Clinic: How Workfront Fusion helps the Humans | **October 16** | [Register](https://events.teams.microsoft.com/event/45503d08-42a3-46b8-b66b-dcc0f45cb1c1@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | _Workfront Collective_ | Join us for a crowd-sourcing opportunity for all Workfronters! | **October 20** | [Register](https://events.teams.microsoft.com/event/f0066e45-29c5-4d76-9c94-38cd2a5d944d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
