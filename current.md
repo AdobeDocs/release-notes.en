@@ -20,7 +20,13 @@ This page helps you:
 * View new tutorials
 * See the latest Support articles 
 
-To receive a periodic email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
+<!-- To receive a periodic email notification about updates to this page, subscribe to the [Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).  -->
+
+## What's new in Experience Cloud
+
+The October 2025 updates across Experience Cloud introduce new features, learning resources, and AI enhancements to help teams deliver more connected digital experiences. Explore new tutorials covering topics such as Workfront dashboard reporting, Acrobat Sign templates, AEM AI Assistant, and Data Insights and Audience Agents in Experience Platform.
+
+Adobe has also expanded its AI resources with new AI Agent capabilities in Experience Platform, the AEM AI Assistant, and Acrobat PDF Spaces. In addition, the Experience League Community is hosting several October events, including sessions on AEM digital asset management strategies, [!DNL Workfront] automation, and [!DNL Marketo Engage] data best practices.
 
 **Products links on this page**
 
