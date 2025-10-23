@@ -15,7 +15,7 @@ Learn about new features and fixes in the Adobe Marketing Cloud.
 
 >[!NOTE]
 >
->To receive release notes one week prior to the monthly product update, subscribe to the[Adobe Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). Release information in the Priority Product Update comes one week in advance of the release date. Please check back at release time for updates. 
+>Release information comes one week in advance of the release date. Please check back at release time for updates. 
 
 
 
