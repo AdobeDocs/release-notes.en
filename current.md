@@ -11,7 +11,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
-Updated: **October 20, 2025**
+Updated: **October 31, 2025**
 
 This page helps you:
 
@@ -67,17 +67,13 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 +++View upcoming events
 
-* **[!DNL Workfront]** | _Workfront Collective_ | Join us for a crowd-sourcing opportunity for all Workfronters! | **October 20** | [Register](https://events.teams.microsoft.com/event/f0066e45-29c5-4d76-9c94-38cd2a5d944d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Webinar_ | Fusion Decoded: What It Is and Why Every Org Can Use It | **November 5** | [Register](https://events.teams.microsoft.com/event/bbdc2dc7-345e-44d8-9882-0b7a8ea5711f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL AEM Assets]** | _Espressos & Experience Manager_ | Building a Scalable DAM Strategy with AEM. | **October 22** | [Register](https://events-emea5.adobeconnect.com/content/adobeconnect/43/5415868397/en/events/event/shared/5760759104/event_landing.html?sco-id=5760752116&campaign-id=ExL&_charset_=utf-8)
+* **[!DNL Workfront]** | _Webinar_ | From Self-Taught to Success: How Kyndryl Scaled Workfront to Power $7B | **November 6** | [Register](https://events.teams.microsoft.com/event/e296bed1-6b9d-4f66-a20c-9eb727c9e170@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Workfront and AEM]** | _Leveraging the Workfront + AEM Native Integration_ | We'll explore core benefits and use cases, outline critical considerations for setup, and share configuration techniques to help you achieve a seamless and efficient workflow. | **October 23** | [Register](https://events.teams.microsoft.com/event/10b15c2e-9030-499b-a333-2ba0555bb7e7@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Workfront]** | _Webinar_ | Connect: Admin Chat for Marketing & Creative | **November 7** | [Register](https://events.teams.microsoft.com/event/2a782871-00de-4c6f-8d05-d7edc788dc60@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
-* **[!DNL Marketo Engage]** | _Learn from your Peers_ | Clean data, closed deals: Building a data hygiene strategy for Marketo Engage and CRM Sync. | **October 23** | [Register](https://engage.adobe.com/AME_Data_Hygiene_CRMSync.html?promoid=YKHWG2PB&mv=other&mv2=community)
-
-* **[!DNL Workfront]** | _Webinar_ | Your dream Workfront report EXISTS! Two Approaches to Mastering EXISTS Statements.  | **October 28** | [Register](https://events.teams.microsoft.com/event/2699d8d3-233a-4f57-92f1-0e8bfaa01f1f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Ask me Anything_ | Ask Me Anything about Workfront System Smarts & Strategic Starts | **October 29** | [Register](https://experienceleaguecommunities.adobe.com/t5/workfront-events/workfront-ama-ask-me-anything-about-workfront-system-smarts-amp/ev-p/777135)
+* **[!DNL Workfront]** | _Webinar_ | From Vision to Value: Workfront Planning Release & Roadmap | **November 10** | [Register](https://events.teams.microsoft.com/event/2a782871-00de-4c6f-8d05-d7edc788dc60@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 And more! View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
 
