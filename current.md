@@ -75,6 +75,12 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 * **[!DNL Workfront]** | _Webinar_ | From Vision to Value: Workfront Planning Release & Roadmap | **November 10** | [Register](https://events.teams.microsoft.com/event/2a782871-00de-4c6f-8d05-d7edc788dc60@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
+* **[!DNL Experience Manager and Commerce]** | _Developers Live_ | This event unites the Adobe developer community to explore the future of content and commerce, covering Adobe Experience Manager, Adobe Commerce and featuring Edge Delivery Services. | **November 10 - 11** | [Register](https://www.aem.live/developers-live?utm_source=exl&utm_medium=events&utm_campaign=adl2025)
+
+* **[!DNL Commerce]** | _Learn from your peers_ | Adobe Commerce & App Builder Essentials - From Basics to Impact | **November 12** | [Register](https://engage.adobe.com/app-builder-essentials.html)
+
+* **[!DNL Journey Optimizer]** | _Ask Me Anything_ | Experiences and Efficiency with Adobe Experience Platform Agent Orchestrator, and How Agentic AI is Fueling Smarter Testing and Growth | **November 12** | [Register](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252)
+
 And more! View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
 
 +++
