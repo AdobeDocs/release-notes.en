@@ -210,8 +210,8 @@ New or updated video tutorials published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|October 2025|[Introduction to classification sets](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/classifications/introduction-to-classification-sets)| Video |Learn how classification sets give you additional reports and insights into your data.|
-|October 2025|[Use classification sets in Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/classifications/use-classification-sets)| Video |Learn the steps of using classification sets in Adobe Analytics.| 
+|November 2025|[Classification sets job history](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/classifications/classification-sets-job-history)| Video |See your job history of uploading and downloading classification set data.|
+|November 2025|[Classification sets data import methods](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/classifications/classification-sets-data-import-methods)| Video |Learn different methods of importing classification data with classification sets, as well as some associated use cases.|
 
 <!--
 ### New [!DNL Analytics] support knowledge base{#kb-analytics}
@@ -300,15 +300,8 @@ New video and written tutorials (articles) published for [!DNL Experience Manage
 
 | Published | Applications | Name | Format | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|October 2025| [!DNL AEM Assets] | [Accelerating adoption through training and enablement](https://experienceleague.adobe.com/en/perspectives/accelerating-adoption-through-training-and-enablement)| Perspectives | Get recommendations on creating and sharing intuitive, self-service learning tools for users. For Digital Asset managers.  |
-|October 2025| [!DNL AEM Assets] | [AEM Assets and Figma integration](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/creative-workflows/figma)| Video | Learn how to integrate Experience Manager Assets with Figma to streamline design workflows, ensure brand consistency, and give creative teams direct access to approved assets while designing. |
-|October 2025| [!DNL AEM Assets] | [GenAI metadata](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/metadata/genai-metadata)| Video | Learn how AEM Assets as a Cloud Service uses Adobe GenAI to generate and augment asset metadata to aid in content management and discovery. |
-|October 2025| [!DNL AEM Assets] | [Attribute-based Access Control in Content Hub](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/attribute-based-access-control)| Video | Learn how to set up and control access to assets in AEM Assets Content Hub using attribute-based access control (ABAC). |
-|October 2025| [!DNL AEM CS] | [About Experience Hub](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/experience-hub/experience-hub)| Video | Learn about the Adobe Experience Hub page. |
-|October 2025| [!DNL AEM CS] | [Share assets and collections in AEM Assets Content Hub](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/share)| Video | Learn how to share assets and collections with team members in AEM Assets Content Hub, promoting effective teamwork and secure asset sharing. |
-|October 2025| [!DNL AEM CS] | [AEM AI Assistant](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-ai-assisstant)| Video | Learn how the AEM AI Assistant simplifies your Adobe Experience Manager workflows. |
-|October 2025| [!DNL AEM CS] | [Create Salesforce Lead object using API Integration](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/edge-delivery/build-forms/universal-editor/create-lead-object-using-api-integration)| Tutorial | Learn how to create a Salesforce Lead object using the API Integration. |
-|October 2025| [!DNL AEM Forms] | [Cascading drop-down list](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/edge-delivery/build-forms/universal-editor/cascading-drop-down-list/introduction)| Tutorial | Use API Integration to dynamically populate a drop-down list. |
+|November 2025| [!DNL AEM CS] | [Known-user personalization](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)| Video | Learn how to personalize content based on known-user data, such as purchase history, CRM data, or other data that is collected about the user. |
+|November 2025| [!DNL AEM CS] | [Live demonstration of personalization use cases](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/live-demo)| Video | Experience personalization in action on the WKND Enablement website with A/B testing, behavioral targeting, and known-user personalization examples. |
 
 ### New [!DNL Experience Manager] support knowledge base{#kb-aem}
 
