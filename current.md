@@ -533,7 +533,7 @@ Learn about the latest release notes for [!DNL Adobe Workfront]. Find new tutori
 
 ### [!DNL Adobe Workfront] updates
 
-* [First Quarter 2026 release overview](w)
+* [First Quarter 2026 release overview](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q1/26-q1-release-overview)
 
 * [Fourth Quarter 2025 release overview](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q4/25-q4-release-overview)
 
