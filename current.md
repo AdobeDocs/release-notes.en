@@ -20,7 +20,9 @@ This page helps you:
 * View new tutorials
 * See the latest Support articles 
 
-## What's new in Experience Cloud
+## What's new in on this page:
+
+* Updates to events in November, new video tutorials, and updated Support articles.
 
 **Products links on this page**
 
