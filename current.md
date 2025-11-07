@@ -7,11 +7,11 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
-# Experience Cloud central release notes - October 2025
+# Experience Cloud central release notes - November 2025
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
-Updated: **October 31, 2025**
+Updated: **November 7, 2025**
 
 This page helps you:
 
@@ -21,10 +21,6 @@ This page helps you:
 * See the latest Support articles 
 
 ## What's new in Experience Cloud
-
-The October 2025 updates across Experience Cloud introduce new features, learning resources, and AI enhancements to help teams deliver more connected digital experiences. Explore new tutorials covering topics such as Workfront dashboard reporting, Acrobat Sign templates, AEM AI Assistant, and Data Insights and Audience Agents in Experience Platform.
-
-Adobe has also expanded its AI resources with new AI Agent capabilities in Experience Platform, the AEM AI Assistant, and Acrobat PDF Spaces. In addition, the Experience League Community is hosting several October events, including sessions on AEM digital asset management strategies, [!DNL Workfront] automation, and [!DNL Marketo Engage] data best practices.
 
 **Products links on this page**
 
@@ -66,12 +62,6 @@ Adobe has also expanded its AI resources with new AI Agent capabilities in Exper
 Find [events](https://experienceleague.adobe.com/en/events) and register for the ones that interest you.
 
 +++View upcoming events
-
-* **[!DNL Workfront]** | _Webinar_ | Fusion Decoded: What It Is and Why Every Org Can Use It | **November 5** | [Register](https://events.teams.microsoft.com/event/bbdc2dc7-345e-44d8-9882-0b7a8ea5711f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Webinar_ | From Self-Taught to Success: How Kyndryl Scaled Workfront to Power $7B | **November 6** | [Register](https://events.teams.microsoft.com/event/e296bed1-6b9d-4f66-a20c-9eb727c9e170@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Webinar_ | Connect: Admin Chat for Marketing & Creative | **November 7** | [Register](https://events.teams.microsoft.com/event/2a782871-00de-4c6f-8d05-d7edc788dc60@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | _Webinar_ | From Vision to Value: Workfront Planning Release & Roadmap | **November 10** | [Register](https://events.teams.microsoft.com/event/2a782871-00de-4c6f-8d05-d7edc788dc60@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -138,7 +128,7 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 **Experience Platform**
 
-**October 21, 2025** updates: See [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest) for details.
+**October 22, 2025** updates: See [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest) for details.
 
 **Mobile SDK**
 
@@ -275,6 +265,7 @@ New features, fixes, and updates in [!DNL Experience Manager]. Adobe recommends 
 ### Experience Manager as a Cloud Service release notes
 
 Current release: **2025.10.0 - October 30, 2025**
+Next planned release: **2025.11.0 - November 20, 2025**
 
 * [Release notes home for AEM CS](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
 * [Latest AEM CS release overview video](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview)
@@ -331,7 +322,8 @@ Find help for LLM Optimizer, Adobe's new generative AI-first application for Gen
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|October 2025|[Adobe LLM Optimizer](https://experienceleague.adobe.com/en/docs/llm-optimizer/using/home)| Tutorial |Boost your brand with Adobe LLM Optimizer. Track mentions, uncover insights, and dominate AI-driven search. Take control of your visibility - start optimizing now!|
+|November 2025|[LLM Optimizer best practices](https://experienceleague.adobe.com/en/docs/llm-optimizer/using/essentials/best-practices)| Video |Discover best practices for LLM optimization to boost brand visibility in AI search. Insights for benchmarking and optimizing content.|
+|November 2025|[Best practices for configuring categories, topics, prompts, and more](https://experienceleague.adobe.com/en/docs/llm-optimizer/using/essentials/best-practices-topics-prompts)| Video |Optimize LLM insights by configuring categories, topics, prompts, and other brands to track including competitors for tailored brand monitoring and strategic content analysis.|
 
 +++
 
@@ -380,7 +372,7 @@ Get access to pre-release notes, current release notes, and new tutorials for [!
 
 +++Release notes
 
-Released: **October 10, 2025**
+Released: **October 22, 2025**
 
 <!-- ### New [!DNL Target] support knowledge base{#kb-target}
 
@@ -439,7 +431,7 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 ### [!DNL Journey Optimizer] product release updates
 
-Latest release: **October 2025**
+Latest release: **November 5, 2025**
 
 See [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) for details.
 
@@ -506,7 +498,7 @@ Find out the latest release notes and release schedule for [!DNL Marketo Engage]
 
 ### Core Marketo Engage updates
 
-Release: **September 2025**
+Release: **October 2025**
 
 * [Current release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current)
 * [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/release-schedule)
@@ -540,6 +532,8 @@ Learn about the latest release notes for [!DNL Adobe Workfront]. Find new tutori
 +++Release notes and new tutorials
 
 ### [!DNL Adobe Workfront] updates
+
+* [First Quarter 2026 release overview](w)
 
 * [Fourth Quarter 2025 release overview](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q4/25-q4-release-overview)
 
@@ -585,7 +579,7 @@ Find latest release information and new documentation for [!DNL GenStudio for Pe
 
 +++Release notes and documentation
 
-See [2025.09.11 - Release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest) for GenStudio for Performance Marketing
+See [2025.10.16 - Release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest) for GenStudio for Performance Marketing
 
 ### New tutorials for GenStudio for Performance Marketing {#genstudio-tutorials}
 
@@ -621,13 +615,13 @@ To browse Adobe [!DNL Advertising] help, visit [Adobe Advertising Documentation]
 
 ### New features in [!DNL Advertising DSP] {#advertising-dsp}
 
-September 18, 2025
+October 29, 2025
 
 See [What's new in [!DNL Advertising DSP]](https://experienceleague.adobe.com/en/docs/advertising/dsp/home)
   
 ### New features in [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
 
-September 23, 2025
+October 15, 2025
 
 See [What's new in [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/home)
 
@@ -654,7 +648,7 @@ New tutorials published for Adobe Document Cloud.
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
 | November 2025 | Acrobat | [Scanned documents](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/scanned-documents) |  Video | Learn how to make scanned documents accessible in Acrobat Pro. Scanned PDFs can be tricky, but with the right tools and techniques, you can make them readable and accessible. |
-| November 2025 | Acrobat | [Compress and optimize a PDF](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/advanced-tasks/reduce.html) |  Video | Learn how to compress and optimize the size of a PDF file. Compressing a PDF makes it easier to share via email or upload to websites with file size limitations. You can also enhance the viewing experience and save on storage costs by optimizing your PDF. |
+| November 2025 | Acrobat | [Compress and optimize a PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/reduce) |  Video | Learn how to compress and optimize the size of a PDF file. Compressing a PDF makes it easier to share via email or upload to websites with file size limitations. You can also enhance the viewing experience and save on storage costs by optimizing your PDF. |
 | November 2025 | Acrobat | [Remove sensitive information](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/redact) |  Video | Learn how to permanently remove private or sensitive information from your PDF |
 | November 2025 | Acrobat | [Paper to PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) |  Video | Learn how to turn a paper document into a smart, searchable, editable PDF file |
 
@@ -673,10 +667,10 @@ New tutorials published for applications in [!DNL Adobe Creative Cloud for enter
 
 +++Latest tutorials
 
-|Published|Application|Name|Type|Description |
+<!-- |Published|Application|Name|Type|Description |
 | -----------| -----------|---------- | ---------- | ---------- |
 | September 2025 | Firefly | [Create a Custom Model](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model) |  Video | Learn how to build Custom Models in Firefly to create fresh new imagery for your organization's brand using specific types of styles--such as backgrounds, colors, and hues. |
-| September 2025 | Firefly | [Background removal and replacement](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background) |  Video | Learn how to use Firefly Creative Production to remove and/or replace backgrounds at scale. |
+| September 2025 | Firefly | [Background removal and replacement](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background) |  Video | Learn how to use Firefly Creative Production to remove and/or replace backgrounds at scale. | -->
 
 Browse our library of tutorials for [Creative Cloud for enterprise](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) for more.
 
