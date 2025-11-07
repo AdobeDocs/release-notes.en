@@ -363,7 +363,12 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-|October 2025|[Adobe Commerce Cloud Project and Environment Management](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/project-environment-management)| Video |Learn about the Adobe Commerce Cloud project and environment management interface. |
+|November 2025|[Salesforce Commerce cloud starter kit architecture](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/sfcc-starter-kit/architecture-overview)| Video |Learn about the architecture and functionality of the Commerce Optimizer Connector starter kit. The starter kit integrates Salesforce Commerce Cloud (SFCC) and Adobe App Builder. |
+|November 2025|[Install the SFCC cartridge](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/sfcc-starter-kit/installation-sfcc-cartridge)| Video |Learn how to install and configure the Adobe Commerce Optimizer cartridge for a Salesforce Commerce Cloud instance. |
+|November 2025|[Business Growth with Adobe's Vision Forward roadmap](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/business-growth/vision-forward)| Video |Description|
+|November 2025|[Business growth by simplifying new product adoption](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/business-growth/product-adoption)| Video |Learn how Adobe Commerce streamlines cloud migration with AI tools, modular adoption, and faster development for scalable business growth.|
+|November 2025|[Cloud Automation Patching Service](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/cloud-automation-patching-service)| Video |Streamline Adobe Commerce patching with CAPS via SWAT—automated updates for secure, hassle-free site maintenance.|
+|November 2025|[Business Growth with AI Innovation](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/business-growth/ai-innovation)| Video |Explore AI-powered eCommerce growth with Adobe Commerce—boost discoverability, optimize storefronts, and expand globally.|
 
 ### New [!DNL Commerce] support knowledge base{#kb-commerce}
 
