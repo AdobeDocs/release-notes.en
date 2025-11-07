@@ -7,11 +7,11 @@ author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
-# Experience Cloud central release notes - October 2025
+# Experience Cloud central release notes - November 2025
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
-Updated: **October 31, 2025**
+Updated: **November 7, 2025**
 
 This page helps you:
 
@@ -21,10 +21,6 @@ This page helps you:
 * See the latest Support articles 
 
 ## What's new in Experience Cloud
-
-The October 2025 updates across Experience Cloud introduce new features, learning resources, and AI enhancements to help teams deliver more connected digital experiences. Explore new tutorials covering topics such as Workfront dashboard reporting, Acrobat Sign templates, AEM AI Assistant, and Data Insights and Audience Agents in Experience Platform.
-
-Adobe has also expanded its AI resources with new AI Agent capabilities in Experience Platform, the AEM AI Assistant, and Acrobat PDF Spaces. In addition, the Experience League Community is hosting several October events, including sessions on AEM digital asset management strategies, [!DNL Workfront] automation, and [!DNL Marketo Engage] data best practices.
 
 **Products links on this page**
 
@@ -66,12 +62,6 @@ Adobe has also expanded its AI resources with new AI Agent capabilities in Exper
 Find [events](https://experienceleague.adobe.com/en/events) and register for the ones that interest you.
 
 +++View upcoming events
-
-* **[!DNL Workfront]** | _Webinar_ | Fusion Decoded: What It Is and Why Every Org Can Use It | **November 5** | [Register](https://events.teams.microsoft.com/event/bbdc2dc7-345e-44d8-9882-0b7a8ea5711f@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Webinar_ | From Self-Taught to Success: How Kyndryl Scaled Workfront to Power $7B | **November 6** | [Register](https://events.teams.microsoft.com/event/e296bed1-6b9d-4f66-a20c-9eb727c9e170@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Webinar_ | Connect: Admin Chat for Marketing & Creative | **November 7** | [Register](https://events.teams.microsoft.com/event/2a782871-00de-4c6f-8d05-d7edc788dc60@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Workfront]** | _Webinar_ | From Vision to Value: Workfront Planning Release & Roadmap | **November 10** | [Register](https://events.teams.microsoft.com/event/2a782871-00de-4c6f-8d05-d7edc788dc60@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
@@ -138,7 +128,7 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 **Experience Platform**
 
-**October 21, 2025** updates: See [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest) for details.
+**October 22, 2025** updates: See [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest) for details.
 
 **Mobile SDK**
 
@@ -152,12 +142,7 @@ New tutorials published for Adobe [!DNL Experience Platform] on Experience Leagu
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|October 2025| [!DNL Experience Platform] | [Data Insights Agent overview](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/data-insights-agent-overview)| Video | Data Insight Agent taps into event, profile, journey, and offline data, simplifying discovery and enabling personalized dashboards instantly.  |
-|October 2025| [!DNL Experience Platform] | [Journey Agent overview](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/journey-agent-overview)| Video | Journey Agent uses AI to create, analyze, and optimize B2B/B2C journeys through a conversational interface. |
-|October 2025| [!DNL Experience Platform] | [Experimentation Agent overview](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/experimentation-agent-overview)| Video | Experimentation Agent speeds up digital optimization with insights, guided setup, and automated analysis for marketers, analysts, and admins.  |
-|October 2025| [!DNL Experience Platform] | [Audience Agent overview](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/audience-agent-overview)| Video | Audience Agent streamlines audience management with conversational creation, optimization, insights, and secure integration across B2B/B2C apps.  |
-|October 2025| [!DNL Experience Platform] | [Adobe Experience Platform Agent Orchestrator overview](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/agent-orchestrator-overview)| Video | Agent Orchestrator is the agentic layer in Adobe Experience Platform that powers customer experience orchestration with purpose-built agents, an advanced reasoning engine, and a powerful conversational interface. |
-|October 2025| [!DNL Experience Platform] | [Streaming capacity management and transparency](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/monitoring/streaming-management)| Video | The capacity and streaming monitoring dashboards offer enterprises visibility and control over platform usage. They help allocate throughput, detect spikes or underuse, and provide real-time insights into performance, enabling proactive decisions and alerts to prevent overload and ensure critical services remain stable. |
+|November 2025| [!DNL Experience Platform] | [Use the Adobe Experience Platform Agent Orchestrator interface](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/agent-orchestrator-ui)| Video | Learn how to interact with Experience Cloud solutions through contextual prompts, dynamic objects, and multiple specialized agents using Adobe Experience Platform Agent Orchestrator.  |
 
 <!--
 ### New [!DNL Experience Platform] support knowledge base{#kb-aep}
@@ -210,8 +195,8 @@ New or updated video tutorials published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|October 2025|[Introduction to classification sets](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/classifications/introduction-to-classification-sets)| Video |Learn how classification sets give you additional reports and insights into your data.|
-|October 2025|[Use classification sets in Adobe Analytics](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/classifications/use-classification-sets)| Video |Learn the steps of using classification sets in Adobe Analytics.| 
+|November 2025|[Classification sets job history](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/classifications/classification-sets-job-history)| Video |See your job history of uploading and downloading classification set data.|
+|November 2025|[Classification sets data import methods](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/classifications/classification-sets-data-import-methods)| Video |Learn different methods of importing classification data with classification sets, as well as some associated use cases.|
 
 <!--
 ### New [!DNL Analytics] support knowledge base{#kb-analytics}
@@ -280,6 +265,7 @@ New features, fixes, and updates in [!DNL Experience Manager]. Adobe recommends 
 ### Experience Manager as a Cloud Service release notes
 
 Current release: **2025.10.0 - October 30, 2025**
+Next planned release: **2025.11.0 - November 20, 2025**
 
 * [Release notes home for AEM CS](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
 * [Latest AEM CS release overview video](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview)
@@ -300,15 +286,8 @@ New video and written tutorials (articles) published for [!DNL Experience Manage
 
 | Published | Applications | Name | Format | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|October 2025| [!DNL AEM Assets] | [Accelerating adoption through training and enablement](https://experienceleague.adobe.com/en/perspectives/accelerating-adoption-through-training-and-enablement)| Perspectives | Get recommendations on creating and sharing intuitive, self-service learning tools for users. For Digital Asset managers.  |
-|October 2025| [!DNL AEM Assets] | [AEM Assets and Figma integration](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/creative-workflows/figma)| Video | Learn how to integrate Experience Manager Assets with Figma to streamline design workflows, ensure brand consistency, and give creative teams direct access to approved assets while designing. |
-|October 2025| [!DNL AEM Assets] | [GenAI metadata](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/metadata/genai-metadata)| Video | Learn how AEM Assets as a Cloud Service uses Adobe GenAI to generate and augment asset metadata to aid in content management and discovery. |
-|October 2025| [!DNL AEM Assets] | [Attribute-based Access Control in Content Hub](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/attribute-based-access-control)| Video | Learn how to set up and control access to assets in AEM Assets Content Hub using attribute-based access control (ABAC). |
-|October 2025| [!DNL AEM CS] | [About Experience Hub](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/experience-hub/experience-hub)| Video | Learn about the Adobe Experience Hub page. |
-|October 2025| [!DNL AEM CS] | [Share assets and collections in AEM Assets Content Hub](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/share)| Video | Learn how to share assets and collections with team members in AEM Assets Content Hub, promoting effective teamwork and secure asset sharing. |
-|October 2025| [!DNL AEM CS] | [AEM AI Assistant](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-ai-assisstant)| Video | Learn how the AEM AI Assistant simplifies your Adobe Experience Manager workflows. |
-|October 2025| [!DNL AEM CS] | [Create Salesforce Lead object using API Integration](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/edge-delivery/build-forms/universal-editor/create-lead-object-using-api-integration)| Tutorial | Learn how to create a Salesforce Lead object using the API Integration. |
-|October 2025| [!DNL AEM Forms] | [Cascading drop-down list](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/edge-delivery/build-forms/universal-editor/cascading-drop-down-list/introduction)| Tutorial | Use API Integration to dynamically populate a drop-down list. |
+|November 2025| [!DNL AEM CS] | [Known-user personalization](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)| Video | Learn how to personalize content based on known-user data, such as purchase history, CRM data, or other data that is collected about the user. |
+|November 2025| [!DNL AEM CS] | [Live demonstration of personalization use cases](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/live-demo)| Video | Experience personalization in action on the WKND Enablement website with A/B testing, behavioral targeting, and known-user personalization examples. |
 
 ### New [!DNL Experience Manager] support knowledge base{#kb-aem}
 
@@ -343,7 +322,8 @@ Find help for LLM Optimizer, Adobe's new generative AI-first application for Gen
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|October 2025|[Adobe LLM Optimizer](https://experienceleague.adobe.com/en/docs/llm-optimizer/using/home)| Tutorial |Boost your brand with Adobe LLM Optimizer. Track mentions, uncover insights, and dominate AI-driven search. Take control of your visibility - start optimizing now!|
+|November 2025|[LLM Optimizer best practices](https://experienceleague.adobe.com/en/docs/llm-optimizer/using/essentials/best-practices)| Video |Discover best practices for LLM optimization to boost brand visibility in AI search. Insights for benchmarking and optimizing content.|
+|November 2025|[Best practices for configuring categories, topics, prompts, and more](https://experienceleague.adobe.com/en/docs/llm-optimizer/using/essentials/best-practices-topics-prompts)| Video |Optimize LLM insights by configuring categories, topics, prompts, and other brands to track including competitors for tailored brand monitoring and strategic content analysis.|
 
 +++
 
@@ -363,7 +343,12 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
-|October 2025|[Adobe Commerce Cloud Project and Environment Management](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-cloud/project-environment-management)| Video |Learn about the Adobe Commerce Cloud project and environment management interface. |
+|November 2025|[Salesforce Commerce cloud starter kit architecture](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/sfcc-starter-kit/architecture-overview)| Video |Learn about the architecture and functionality of the Commerce Optimizer Connector starter kit. The starter kit integrates Salesforce Commerce Cloud (SFCC) and Adobe App Builder. |
+|November 2025|[Install the SFCC cartridge](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/sfcc-starter-kit/installation-sfcc-cartridge)| Video |Learn how to install and configure the Adobe Commerce Optimizer cartridge for a Salesforce Commerce Cloud instance. |
+|November 2025|[Business Growth with Adobe's Vision Forward roadmap](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/business-growth/vision-forward)| Video |Description|
+|November 2025|[Business growth by simplifying new product adoption](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/business-growth/product-adoption)| Video |Learn how Adobe Commerce streamlines cloud migration with AI tools, modular adoption, and faster development for scalable business growth.|
+|November 2025|[Cloud Automation Patching Service](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/cloud-automation-patching-service)| Video |Streamline Adobe Commerce patching with CAPS via SWAT—automated updates for secure, hassle-free site maintenance.|
+|November 2025|[Business Growth with AI Innovation](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/webinars-and-events/business-growth/ai-innovation)| Video |Explore AI-powered eCommerce growth with Adobe Commerce—boost discoverability, optimize storefronts, and expand globally.|
 
 ### New [!DNL Commerce] support knowledge base{#kb-commerce}
 
@@ -387,7 +372,7 @@ Get access to pre-release notes, current release notes, and new tutorials for [!
 
 +++Release notes
 
-Released: **October 10, 2025**
+Released: **October 22, 2025**
 
 <!-- ### New [!DNL Target] support knowledge base{#kb-target}
 
@@ -446,7 +431,7 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 ### [!DNL Journey Optimizer] product release updates
 
-Latest release: **October 2025**
+Latest release: **November 5, 2025**
 
 See [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) for details.
 
@@ -513,7 +498,7 @@ Find out the latest release notes and release schedule for [!DNL Marketo Engage]
 
 ### Core Marketo Engage updates
 
-Release: **September 2025**
+Release: **October 2025**
 
 * [Current release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current)
 * [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/release-schedule)
@@ -547,6 +532,8 @@ Learn about the latest release notes for [!DNL Adobe Workfront]. Find new tutori
 +++Release notes and new tutorials
 
 ### [!DNL Adobe Workfront] updates
+
+* [First Quarter 2026 release overview](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q1/26-q1-release-overview)
 
 * [Fourth Quarter 2025 release overview](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q4/25-q4-release-overview)
 
@@ -592,7 +579,7 @@ Find latest release information and new documentation for [!DNL GenStudio for Pe
 
 +++Release notes and documentation
 
-See [2025.09.11 - Release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest) for GenStudio for Performance Marketing
+See [2025.10.16 - Release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest) for GenStudio for Performance Marketing
 
 ### New tutorials for GenStudio for Performance Marketing {#genstudio-tutorials}
 
@@ -628,13 +615,13 @@ To browse Adobe [!DNL Advertising] help, visit [Adobe Advertising Documentation]
 
 ### New features in [!DNL Advertising DSP] {#advertising-dsp}
 
-September 18, 2025
+October 29, 2025
 
 See [What's new in [!DNL Advertising DSP]](https://experienceleague.adobe.com/en/docs/advertising/dsp/home)
   
 ### New features in [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
 
-September 23, 2025
+October 15, 2025
 
 See [What's new in [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/home)
 
@@ -660,13 +647,10 @@ New tutorials published for Adobe Document Cloud.
 
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
-| October 2025 | Acrobat | [Boost team efficiency with PDF Spaces](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal) |  Video | Turn collections of files and websites into sharable, conversational knowledge hubs with personalized AI Assistants. In this example, learn how PDF Spaces helps an in-house legal team to quickly and securely update several company wide-policies in response to new regulatory changes. |
-| October 2025 | Acrobat | [What is Acrobat Studio?](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/acrobat-studio) |  Video | Learn how to create brand-safe content, extract insights, and streamline complex work with Acrobat Studio--so your team can move faster. Acrobat Studio is an all-in-one solution that includes Acrobat Pro, AI Assistant, PDF Spaces, plus Adobe Express Premium. |
-| October 2025 | Acrobat Sign | [Create a reusable template](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-managing/create-a-template.html?lang=en) |  Video | Learn how to create a reusable document template and add it to your Acrobat Sign library for future use. Document templates provide speed and consistency in your sign transactions and the ability to manage document revisions and changes. |
-| October 2025 | Acrobat Sign | [Send to multiple signers](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/send-to-multiple-recipients.html?lang=en) |  Video | Do you have more than one person that must sign your document? Learn how to send a document for e-signature to more than one person in exactly the order you want. |
-| October 2025 | Acrobat Sign | [Enable automatic user assignment rules](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/automatic-assignment-rules) |  Video | Learn how to set up automatic assignment rules granting users access to Acrobat Sign in the Admin Console--streamlining provisioning and reducing manual administrative tasks. Users can invite other users to Acrobat Sign via the product access URL generated from the Admin Console. |
-| October 2025 | Acrobat Sign | [Configure send options](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/sending-options) |  Video | Learn how to customize agreement details, attach files, and configure additional settings such as reminders, expiration, and recipient language when sending a document for signature. |
-| October 2025 | Acrobat Sign | [Acrobat Sign Text Tagging](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/advanced-tasks-admins/adobe-sign-text-tagging) |  Video | Learn how to build Acrobat Sign form fields with text tagging. Text tags can be added directly to authoring tools like Microsoft Word, Adobe InDesign, or if you have a PDF — in Acrobat.  |
+| November 2025 | Acrobat | [Scanned documents](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/scanned-documents) |  Video | Learn how to make scanned documents accessible in Acrobat Pro. Scanned PDFs can be tricky, but with the right tools and techniques, you can make them readable and accessible. |
+| November 2025 | Acrobat | [Compress and optimize a PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/reduce) |  Video | Learn how to compress and optimize the size of a PDF file. Compressing a PDF makes it easier to share via email or upload to websites with file size limitations. You can also enhance the viewing experience and save on storage costs by optimizing your PDF. |
+| November 2025 | Acrobat | [Remove sensitive information](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/redact) |  Video | Learn how to permanently remove private or sensitive information from your PDF |
+| November 2025 | Acrobat | [Paper to PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) |  Video | Learn how to turn a paper document into a smart, searchable, editable PDF file |
 
 To browse [!DNL Document Cloud] tutorials, see:
 
@@ -683,10 +667,10 @@ New tutorials published for applications in [!DNL Adobe Creative Cloud for enter
 
 +++Latest tutorials
 
-|Published|Application|Name|Type|Description |
+<!-- |Published|Application|Name|Type|Description |
 | -----------| -----------|---------- | ---------- | ---------- |
 | September 2025 | Firefly | [Create a Custom Model](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/custom-model) |  Video | Learn how to build Custom Models in Firefly to create fresh new imagery for your organization's brand using specific types of styles--such as backgrounds, colors, and hues. |
-| September 2025 | Firefly | [Background removal and replacement](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background) |  Video | Learn how to use Firefly Creative Production to remove and/or replace backgrounds at scale. |
+| September 2025 | Firefly | [Background removal and replacement](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-creative-production/background) |  Video | Learn how to use Firefly Creative Production to remove and/or replace backgrounds at scale. | -->
 
 Browse our library of tutorials for [Creative Cloud for enterprise](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview) for more.
 
