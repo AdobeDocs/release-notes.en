@@ -649,10 +649,11 @@ New tutorials published for Adobe Document Cloud.
 
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
+| November 2025 | Acrobat | [Create fillable forms](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/create-fillable-forms) |  Video |Turn a scanned paper form or document created in InDesign, Microsoft Word, Excel, or other application into a fillable PDF form. |
 | November 2025 | Acrobat | [Scanned documents](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/scanned-documents) |  Video | Learn how to make scanned documents accessible in Acrobat Pro. Scanned PDFs can be tricky, but with the right tools and techniques, you can make them readable and accessible. |
 | November 2025 | Acrobat | [Compress and optimize a PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/reduce) |  Video | Learn how to compress and optimize the size of a PDF file. Compressing a PDF makes it easier to share via email or upload to websites with file size limitations. You can also enhance the viewing experience and save on storage costs by optimizing your PDF. |
-| November 2025 | Acrobat | [Remove sensitive information](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/redact) |  Video | Learn how to permanently remove private or sensitive information from your PDF |
-| November 2025 | Acrobat | [Paper to PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) |  Video | Learn how to turn a paper document into a smart, searchable, editable PDF file |
+| November 2025 | Acrobat | [Remove sensitive information](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/redact) |  Video | Learn how to permanently remove private or sensitive information from your PDF. |
+| November 2025 | Acrobat | [Paper to PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/scan-and-ocr) |  Video | Learn how to turn a paper document into a smart, searchable, editable PDF file. |
 
 To browse [!DNL Document Cloud] tutorials, see:
 
