@@ -11,7 +11,7 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
-Updated: **November 7, 2025**
+Updated: **November 11, 2025**
 
 This page helps you:
 
@@ -50,7 +50,7 @@ This page helps you:
 * [[!DNL Adobe Mix Modeler]](#mix-modeler)
 * [[!DNL Adobe Advertising]](#advertising) 
 * [[!DNL Adobe Pass]](#pass)
-* [[!DNL Adobe Document Cloud]](#doc-cloud)
+* [[!DNL Adobe Document Cloud]](#doc-cloud) (**November 11**)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [Customer Data Management - Voices](#voices)
 * [Digital Experience Blueprints](#blueprints)
@@ -649,6 +649,7 @@ New tutorials published for Adobe Document Cloud.
 
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
+| November 2025 | Acrobat | [Protect a PDF file with a password](https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/password-protect.html) |  Video |Learn how to add a password to your PDF to protect others from opening or editing the PDF file. Protecting your PDF files prevents unauthorized access, protects sensitive information, maintains document integrity, and helps comply with certain industry regulations.|
 | November 2025 | Acrobat | [Create fillable forms](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/create-fillable-forms) |  Video |Turn a scanned paper form or document created in InDesign, Microsoft Word, Excel, or other application into a fillable PDF form. |
 | November 2025 | Acrobat | [Scanned documents](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/scanned-documents) |  Video | Learn how to make scanned documents accessible in Acrobat Pro. Scanned PDFs can be tricky, but with the right tools and techniques, you can make them readable and accessible. |
 | November 2025 | Acrobat | [Compress and optimize a PDF](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/advanced-tasks/reduce) |  Video | Learn how to compress and optimize the size of a PDF file. Compressing a PDF makes it easier to share via email or upload to websites with file size limitations. You can also enhance the viewing experience and save on storage costs by optimizing your PDF. |
