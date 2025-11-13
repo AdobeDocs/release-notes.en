@@ -11,8 +11,6 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
-Updated: **November 11, 2025**
-
 This page helps you:
 
 * Find links to application-specific release notes
@@ -50,7 +48,7 @@ This page helps you:
 * [[!DNL Adobe Mix Modeler]](#mix-modeler)
 * [[!DNL Adobe Advertising]](#advertising) 
 * [[!DNL Adobe Pass]](#pass)
-* [[!DNL Adobe Document Cloud]](#doc-cloud) (**November 11**)
+* [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [Customer Data Management - Voices](#voices)
 * [Digital Experience Blueprints](#blueprints)
@@ -65,34 +63,27 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 +++View upcoming events
 
-* **[!DNL Workfront]** | _Webinar_ | From Vision to Value: Workfront Planning Release & Roadmap | **November 10** | [Register](https://events.teams.microsoft.com/event/2a782871-00de-4c6f-8d05-d7edc788dc60@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Experience Manager and Commerce]** | _Developers Live_ | This event unites the Adobe developer community to explore the future of content and commerce, covering Adobe Experience Manager, Adobe Commerce and featuring Edge Delivery Services. | **November 10 - 11** | [Register](https://www.aem.live/developers-live?utm_source=exl&utm_medium=events&utm_campaign=adl2025)
-
-* **[!DNL Commerce]** | _Learn from your peers_ | Adobe Commerce & App Builder Essentials - From Basics to Impact | **November 12** | [Register](https://engage.adobe.com/app-builder-essentials.html)
-
-* **[!DNL Journey Optimizer]** | _Ask Me Anything_ | Experiences and Efficiency with Adobe Experience Platform Agent Orchestrator, and How Agentic AI is Fueling Smarter Testing and Growth | **November 12** | [Register](https://experienceleaguecommunities.adobe.com/t5/journey-optimizer-events/ask-me-anything-november-12th-with-journey-optimizer-product/ev-p/783252)
-
-And more! View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
+View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
 
 +++
 
-## Resources for using AI in [!DNL Experience Cloud] {#ai}
+## Latest AI resources on Experience League {#ai}
 
 Find the latest learning resources published for generative AI (genAI), AI Assistant, and AI agents in Experience Cloud.
 
 +++Details
 
-| Product | Resource | Description | Published |
+| Product | Resource | Description | Updated |
 | ------- | ------- | ------- | ------- |
+| [!DNL Experience Cloud] | [Experience Platform Agent Orchestrator](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | Find help and check availability of AI agents in Experience Cloud. | November 2025 |
+| [!DNL Experience Cloud] | [Generative AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai)| Learn where AI-powered features are available in Experience Cloud. | November 2025 |
 | AI documentation home | [AI Documentation](https://experienceleague.adobe.com/en/docs/ai) | To find links to information about AI-powered features (generative AI and AI agents) in Experience Cloud, visit the new product documentation landing.| October 2025 | 
-| [!DNL Experience Cloud] | [AI agents in [!DNL Experience Cloud]](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | Find help or check availability of AI agents in Experience Cloud. | Updated October 2025 |
-| Acrobat | [Boost team efficiency with PDF Spaces](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal) |  Turn collections of files and websites into sharable, conversational knowledge hubs with personalized AI Assistants. |October 2025 |
 | [!DNL AEM CS] | [AEM AI Assistant](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-ai-assisstant)| Learn how the Experience Manager AI Assistant simplifies your workflows. | October 2025 |
 |[!DNL Experience Platform] | [Data Insights Agent overview](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/data-insights-agent-overview)|  Data Insight Agent taps into event, profile, journey, and offline data, simplifying discovery and enabling personalized dashboards instantly.  | October 2025 |
 | [!DNL Experience Platform] | [Journey Agent overview](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/journey-agent-overview)| Journey Agent uses AI to create, analyze, and optimize B2B/B2C journeys through a conversational interface. | October 2025 |
 | [!DNL Experience Platform] | [Experimentation Agent overview](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/experimentation-agent-overview)|  Experimentation Agent speeds up digital optimization with insights, guided setup, and automated analysis for marketers, analysts, and admins.  | October 2025 |
 |[!DNL Experience Platform] | [Audience Agent overview](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/audience-agent-overview)| Audience Agent streamlines audience management with conversational creation, optimization, insights, and secure integration across B2B/B2C apps.  | October 2025 |
+| Acrobat | [Boost team efficiency with PDF Spaces](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal) |  Turn collections of files and websites into sharable, conversational knowledge hubs with personalized AI Assistants. |October 2025 |
 
 +++
 
