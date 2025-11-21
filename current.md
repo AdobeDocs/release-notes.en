@@ -20,6 +20,7 @@ This page helps you:
 
 ## What's new in on this page:
 
+* November 21, 2025: [Agentic AI in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/overview?#agentic-ai-in-aem)
 * Updates to events in November, new video tutorials, and updated Support articles.
 
 **Products links on this page**
@@ -27,7 +28,7 @@ This page helps you:
 +++View section links
 
 * [Event schedule](#events)
-* [Resources for using AI in [!DNL Experience Cloud]](#ai)
+* [AI features in [!DNL Experience Cloud]](#ai) (Updated **November 21, 2025**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud) 
 * [[!DNL Adobe Experience Platform]](#platform) 
@@ -75,7 +76,7 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 
 | Product | Resource | Description | Updated |
 | ------- | ------- | ------- | ------- |
-| [!DNL Experience Cloud] | [Experience Platform Agent Orchestrator](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | Find help and check availability of AI agents in Experience Cloud. | November 2025 |
+| [!DNL Experience Cloud] | [Agentic AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | New help on [AEM agents](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai#ai-first-experience-cloud-applications) published. Find help and check availability of AI agents in Experience Cloud. | November 21, 2025 |
 | [!DNL Experience Cloud] | [Generative AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai)| Learn where AI-powered features are available in Experience Cloud. | November 2025 |
 | AI documentation home | [AI Documentation](https://experienceleague.adobe.com/en/docs/ai) | To find links to information about AI-powered features (generative AI and AI agents) in Experience Cloud, visit the new product documentation landing.| October 2025 | 
 | [!DNL AEM CS] | [AEM AI Assistant](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-ai-assisstant)| Learn how the Experience Manager AI Assistant simplifies your workflows. | October 2025 |
@@ -257,8 +258,10 @@ New features, fixes, and updates in [!DNL Experience Manager]. Adobe recommends 
 
 ### Experience Manager as a Cloud Service release notes
 
-Current release: **2025.10.0 - October 30, 2025**
-Next planned release: **2025.11.0 - November 20, 2025**
+New: [Agentic AI in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/overview?#agentic-ai-in-aem)
+
+Current release: **2025.11.0 - November 20, 2025**
+Next planned release: **2025.12.0 - December 11, 2025**
 
 * [Release notes home for AEM CS](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
 * [Latest AEM CS release overview video](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview)
