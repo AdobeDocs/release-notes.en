@@ -18,17 +18,21 @@ This page helps you:
 * View new tutorials
 * See the latest Support articles 
 
-## What's new in on this page:
+## New learning resources
 
-* November 21, 2025: [Agentic AI in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/overview?#agentic-ai-in-aem)
-* Updates to events in November, new video tutorials, and updated Support articles.
+* New [courses](https://experienceleague.adobe.com/en/courses) on Experience League:
+
+  New courses provide structured, expert-created learning designed to help marketers, practitioners, administrators, developers, and others build skills faster, validate expertise, and advance more confidently across Adobe's solutions. Each course concludes with a shareable certificate of completion, giving you a tangible way to highlight your achievements internally or on LinkedIn. 
+
+* [Agentic AI in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/overview?#agentic-ai-in-aem)
+* Updates to events in November, new video tutorials, and updated Support articles on this page.
 
 **Products links on this page**
 
 +++View section links
 
 * [Event schedule](#events)
-* [AI features in [!DNL Experience Cloud]](#ai) (Updated **November 21, 2025**)
+* [AI features in [!DNL Experience Cloud]](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud) 
 * [[!DNL Adobe Experience Platform]](#platform) 
