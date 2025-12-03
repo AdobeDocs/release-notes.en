@@ -2,12 +2,12 @@
 title: Central Release Notes
 description: Find the latest release notes and Knowledge Base issues for Adobe [!DNL Experience Cloud] products and services. Learn about upcoming events and new documentation on Experience League. Discover the latest tutorials and courses for [!DNL Experience Cloud] applications.
 doc-type: release notes
-last-update: October 2025
+last-update: December 2025
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
-# Experience Cloud central release notes - November 2025
+# Experience Cloud central release notes - December 2025
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -18,14 +18,19 @@ This page helps you:
 * View new tutorials
 * See the latest Support articles 
 
-## New learning resources
+## New courses on Experience League
 
-* New [courses](https://experienceleague.adobe.com/en/courses) on Experience League:
+New [courses](https://experienceleague.adobe.com/en/courses) are available on Experience League. They provide structured, expert-created learning that help you build skills faster, validate expertise, and advance more confidently across Adobe's solutions. 
 
-  New courses provide structured, expert-created learning designed to help marketers, practitioners, administrators, developers, and others build skills faster, validate expertise, and advance more confidently across Adobe's solutions. Each course concludes with a shareable certificate of completion, giving you a tangible way to highlight your achievements internally or on LinkedIn. 
+* Available at no cost
+* Bite-sized modules that make complex topics easy to complete
+* Progress tracking that lets you pause and resume anytime
+* Knowledge checks and quizzes reinforce understanding and validate learning at each stage
+* A free, shareable certificate of completion, awarded when you meet the course requirements
 
-* [Agentic AI in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/overview?#agentic-ai-in-aem)
-* Updates to events in November, new video tutorials, and updated Support articles on this page.
+Each course concludes with a shareable certificate of completion, giving you a tangible way to highlight your achievements internally or on LinkedIn. 
+
+[Learn more](https://experienceleague.adobe.com/en/courses)
 
 **Products links on this page**
 
