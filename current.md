@@ -20,7 +20,7 @@ This page helps you:
 
 ## New courses on Experience League
 
-New [courses](https://experienceleague.adobe.com/en/courses) are available on Experience League. They provide structured, expert-created learning that help you build skills faster, validate expertise, and advance more confidently across Adobe's solutions. 
+**December 2025:** New [courses](https://experienceleague.adobe.com/en/courses) are available on Experience League. They provide structured, expert-created learning that help you build skills faster, validate expertise, and advance more confidently across Adobe's solutions. 
 
 * Available at no cost
 * Bite-sized modules that make complex topics easy to complete
@@ -270,7 +270,7 @@ New features, fixes, and updates in [!DNL Experience Manager]. Adobe recommends 
 
 New: [Agentic AI in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/overview?#agentic-ai-in-aem)
 
-Current release: **2025.11.0 - November 20, 2025**
+Current release: **2025.11.0 - November 21, 2025**
 Next planned release: **2025.12.0 - December 11, 2025**
 
 * [Release notes home for AEM CS](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
