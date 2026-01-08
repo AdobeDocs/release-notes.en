@@ -232,8 +232,8 @@ New tutorials published for [!DNL Customer Journey Analytics].
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|October 2025|[Customer Journey Analytics - B2B Edition overview](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/cja-basics/cja-b2b-overview)| Video |Understand how Customer Journey Analytics B2B Edition solves challenges and gives you an advantage in the B2B landscape.|
-|October 2025|[Use the Data Insights Agent](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/data-insights-agent/use-the-data-insights-agent)| Video |Analyze data using natural language prompts, generating freeform tables, visualizations, and data comparisons, reducing reliance on data analysts. This AI-powered agent delivers quick insights into trends and performance, enabling actionable insights to share with stakeholders without delays.|
+|January 2026|[CJA stitching enablement and validation](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/visitor-id/stitching-enablement-and-validation)| Video | Learn about enabling stitching on any event dataset.|
+|January 2026|[Track and analyze AI traffic](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/use-cases/ai/track-and-analyze-ai-traffic)| Video |Learn how to identify and filter AI-generated traffic in Adobe Customer Journey Analytics using derived fields, segments, and Workspace projects to ensure accurate, human-focused customer insights. |
 
 <!--
 ### New [!DNL Customer Journey Analytics] support knowledge base{#kb-cja}
@@ -293,8 +293,9 @@ New video and written tutorials (articles) published for [!DNL Experience Manage
 
 | Published | Applications | Name | Format | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|November 2025| [!DNL AEM CS] | [Known-user personalization](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)| Video | Learn how to personalize content based on known-user data, such as purchase history, CRM data, or other data that is collected about the user. |
-|November 2025| [!DNL AEM CS] | [Live demonstration of personalization use cases](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/live-demo)| Video | Experience personalization in action on the WKND Enablement website with A/B testing, behavioral targeting, and known-user personalization examples. |
+|January 2026| [!DNL AEM Assets] | [Dynamic Media URL syntax and Image Presets best practices](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/dynamic-media/images/dynamic-media-urls-and-image-presets)| Video | Explore the AEM Assets Dynamic Media URL syntax and learn how to maximize your value using Image Presets. Enhance your asset management capabilities and improve your workflow efficiency. |
+|January 2026| [!DNL AEM Assets] | [linktext](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/download-assets)| Video | Learn how to navigate, search, and download assets in Adobe Experience Manager Assets Content Hub. |
+|January 2026| [!DNL AEM CS] | [Agents in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/agents-in-aem)| Video | Discover how AEM Agents streamline workflows by automating tasks in Adobe Experience Manager. |
 
 ### New [!DNL Experience Manager] support knowledge base{#kb-aem}
 
