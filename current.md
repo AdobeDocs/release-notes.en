@@ -115,7 +115,11 @@ Previous release notes for [!DNL Adobe System Status]:
 
 Learn about updates to [!DNL Experience Cloud] administration and central interface components. 
 
-+++View help resources
++++Release notes
+
+| Date | Update  | Description  |
+| -----------| -----------| ---------- |
+| **January 15, 2026** | Customizable Shell Navigation  | The Unified Shell left navigation in Experience Cloud is now customizable. Users can reorder navigation items and control their visibility to quickly access the features that matter most. This update improves efficiency by streamlining workflows, reducing cognitive load, and supporting full keyboard accessibility, while preserving a consistent, modern design across applications and enabling future personalization. |
 
 See the [Experience Cloud interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) guide for help on:
 
@@ -190,9 +194,9 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 Adobe Analytics releases operate on a continuous delivery model, which allows for a more scalable, phased approach to feature deployment. Release notes are updated several times a month.
 
-Planned release: **October 15, 2025**
+Planned release: **January 14, 2026**
 
-See [[!DNL Analytics] release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest) for details.
+See [[!DNL Analytics] release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) for details.
 
 ### AppMeasurement {#appm}
 
@@ -227,9 +231,9 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 Releases for [!DNL Customer Journey Analytics] occur on a continuing basis. As such, release notes are updated several times a month. Please check them regularly.
 
-Planned release: **October 15, 2025**
+Planned release: **January 14, 2026**
 
-See [Customer Journey Analytics (CJA) release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest) for details.
+See [Customer Journey Analytics (CJA) release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html#releases) for details.
 
 ### New [!DNL Customer Journey Analytics] tutorials {#tutorials-cja}
 
@@ -479,9 +483,7 @@ New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|October 2025|[!DNL Journey Optimizer]|[Monitor and analyze your journey with Journey Reports](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/journey-reports)|Video | Understand how to track the performance of individual journey how users interact with different steps in a journey, including entry and exit statistics, errors, and actions executed. |
-|October 2025|[!DNL Journey Optimizer]|[Trigger Adobe Journey Optimizer Journey using Adobe Web SDK](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorial-on-identity-stitching-in-aep/trigger-journey-on-user-login)|Video | Learn to start an Adobe Journey Optimizer journey from site events like user logins by leveraging the AEP Web SDK configured through Adobe Experience Platform Tags |
-
+|January 2026|[!DNL Journey Optimizer]|[Mobile Learning Hub](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview)|Video | Jumpstart or elevate your mobile engagement strategy with Adobe Journey Optimizer. This mobile learning hub equips developers, administrators, marketers, and analysts with everything needed to configure inbound and outbound mobile channels and integrate them seamlessly into powerful cross-channel campaigns and journeys. |
 
 ### New [!DNL Journey Optimizer] support knowledge base{#kb-ajo}
 
