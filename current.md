@@ -19,9 +19,9 @@ This page helps you:
 * View new tutorials
 * See the latest Support articles 
 
-## New courses on Experience League
+## Courses on Experience League
 
-**December 2025:** New [courses](https://experienceleague.adobe.com/en/courses) are available on Experience League. They provide structured, expert-created learning that help you build skills faster, validate expertise, and advance more confidently across Adobe's solutions. 
+[Courses](https://experienceleague.adobe.com/en/courses) are available on Experience League. They provide structured, expert-created learning that help you build skills faster, validate expertise, and advance more confidently across Adobe's solutions. 
 
 * Available at no cost
 * Bite-sized modules that make complex topics easy to complete
@@ -48,6 +48,7 @@ Each course concludes with a shareable certificate of completion, giving you a t
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem) 
 * [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
+* [[!DNL Adobe Brand Concierge]](#brand-concierge)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target) 
 * [[!DNL Adobe Campaign]](#ac) 
@@ -74,8 +75,6 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 +++View upcoming events
 
-* **[!DNL PRODUCT]** | _Tag line_ | Description | **Month, day @ 10:00 AM MT** | [Register](adobe.com)
-
 View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
 
 +++
@@ -89,7 +88,7 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 | Product | Resource | Description | Updated |
 | ------- | ------- | ------- | ------- |
 | [!DNL Experience Manager as a Cloud Service] | [Agentic AI in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/overview?#agentic-ai-in-aem)| Learn about new AI agents in AEM CS. | November 21, 2025 |
-| [!DNL Experience Cloud] | [Agentic AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | New help on [AEM agents](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai#ai-first-experience-cloud-applications) published. Find help and check availability of AI agents in Experience Cloud. | November 21, 2025 |
+| [!DNL Experience Cloud] | [Agentic AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | New help on [AEM agents](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai#ai-first-experience-cloud-applications) published. Find help and check the availability of AI agents in Experience Cloud. | November 21, 2025 |
 | [!DNL Experience Cloud] | [Generative AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai)| Learn where AI-powered features are available in Experience Cloud. | November 2025 |
 | AI documentation home | [AI Documentation](https://experienceleague.adobe.com/en/docs/ai) | To find links to information about AI-powered features (generative AI and AI agents) in Experience Cloud, visit the new product documentation landing.| October 2025 | 
 | [!DNL AEM CS] | [AEM AI Assistant](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-ai-assisstant)| Learn how the Experience Manager AI Assistant simplifies your workflows. | October 2025 |
@@ -121,7 +120,7 @@ Learn about updates to [!DNL Experience Cloud] administration and central interf
 
 | Date | Update  | Description  |
 | -----------| -----------| ---------- |
-| **January 15, 2026** | Customizable Shell Navigation  | The Unified Shell left navigation in Experience Cloud is now customizable. Users can reorder navigation items and control their visibility to quickly access the features that matter most. This update improves efficiency by streamlining workflows, reducing cognitive load, and supporting full keyboard accessibility, while preserving a consistent, modern design across applications and enabling future personalization. |
+| **January 15, 2026** | Customizable left-hand navigation  | You can now customize the left navigation in Experience Cloud. Reorder navigation items and quickly access the features that matter most. This update helps you streamline workflows, reduce cognitive load, and it supports full keyboard accessibility. It preserves a consistent, modern design across applications and enabling future personalization. |
 
 See the [Experience Cloud interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) guide for help on:
 
@@ -143,18 +142,17 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 **Mobile SDK**
 
-Updated: **September 22, 2025**
+Updated: **January 7, 2026**
 
 See [[!DNL Experience Platform] Mobile SDK release notes](https://developer.adobe.com/client-sdks/documentation/release-notes/) for details.
 
-### New [!DNL Experience Platform] tutorials{#tutorials-aep}
+<!-- ### New [!DNL Experience Platform] tutorials{#tutorials-aep}
 
 New tutorials published for Adobe [!DNL Experience Platform] on Experience League.
 
 | Published | Applications | Name | Type | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|November 2025| [!DNL Experience Platform] | [Use the Adobe Experience Platform Agent Orchestrator interface](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/agent-orchestrator-ui)| Video | Learn how to interact with Experience Cloud solutions through contextual prompts, dynamic objects, and multiple specialized agents using Adobe Experience Platform Agent Orchestrator.  |
-
+|November 2025| [!DNL Experience Platform] | [Use the Adobe Experience Platform Agent Orchestrator interface](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/agent-orchestrator-ui)| Video | Learn how to interact with Experience Cloud solutions through contextual prompts, dynamic objects, and multiple specialized agents using Adobe Experience Platform Agent Orchestrator.  | -->
 
 ### New [!DNL Experience Platform] support knowledge base{#kb-aep}
 
@@ -305,7 +303,7 @@ New video and written tutorials (articles) published for [!DNL Experience Manage
 | Published | Applications | Name | Format | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
 |January 2026| [!DNL AEM Assets] | [Dynamic Media URL syntax and Image Presets best practices](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/dynamic-media/images/dynamic-media-urls-and-image-presets)| Video | Explore the AEM Assets Dynamic Media URL syntax and learn how to maximize your value using Image Presets. Enhance your asset management capabilities and improve your workflow efficiency. |
-|January 2026| [!DNL AEM Assets] | [linktext](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/download-assets)| Video | Learn how to navigate, search, and download assets in Adobe Experience Manager Assets Content Hub. |
+|January 2026| [!DNL AEM Assets] | [Download assets in AEM Assets Content Hub](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/download-assets)| Video | Learn how to navigate, search, and download assets in Adobe Experience Manager Assets Content Hub. |
 |January 2026| [!DNL AEM CS] | [Agents in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/agents-in-aem)| Video | Discover how AEM Agents streamline workflows by automating tasks in Adobe Experience Manager. |
 
 ### New [!DNL Experience Manager] support knowledge base{#kb-aem}
@@ -314,8 +312,8 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|December 2025|[DynamicMedia Scene7 cache Time To Live questions](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29687)|New article| Learn about DynamicMedia Scene7 cache Time To Live settings.|
-|December 2025|[DynamicMedia images fail to load for a subset of users in certain region](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29709)|New article| Learn about the solutions to the issue when a certain subset of users can't load certain URLs to Dynamic Media when other users can load them normally.|
+|December 2025|[Dynamic Media Scene7 cache Time To Live questions](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29687)|New article| Learn about Dynamic Media Scene7 cache Time To Live settings.|
+|December 2025|[Dynamic Media images fail to load for a subset of users in certain region](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29709)|New article| Learn about the solutions to the issue when a certain subset of users can't load certain URLs to Dynamic Media when other users can load them normally.|
 |December 2025|[Brand Portal share link shows no assets after collection updates in AEM](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-28072)|New article| Learn about the solutions to the issue in AEM Brand Portal when shared collection links display *No Content to Display* after assets are added or updated.|
 |December 2025|[Configuring [!DNL Microsoft Translator] in AEM 6.5.23 without an endpoint URL field](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-28099)|New article| Learn about the solutions to the issue when integrating [!DNL Microsoft Translator] with Adobe Experience Manager (AEM) 6.5.23, the configuration dialog doesn't provide a field to enter the Microsoft endpoint URL.|
 |December 2025|[Video playback fails due to corrupt encoding in AEM Dynamic Media](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29548)|New article| Learn about the solutions to the issue when video playback stops midway in Adobe Experience Manager (AEM) Dynamic Media due to corruption in the encoding of certain video assets.|
@@ -358,6 +356,20 @@ Find help for LLM Optimizer, Adobe's new generative AI-first application for Gen
 | -----------| ---------- | ---------- | ---------- |
 |November 2025|[LLM Optimizer best practices](https://experienceleague.adobe.com/en/docs/llm-optimizer/using/essentials/best-practices)| Video |Discover best practices for LLM optimization to boost brand visibility in AI search. Insights for benchmarking and optimizing content.|
 |November 2025|[Best practices for configuring categories, topics, prompts, and more](https://experienceleague.adobe.com/en/docs/llm-optimizer/using/essentials/best-practices-topics-prompts)| Video |Optimize LLM insights by configuring categories, topics, prompts, and other brands to track including competitors for tailored brand monitoring and strategic content analysis.|
+
++++
+
+## [!DNL Brand Concierge] {#brand-concierge}
+
+Find the latest tutorials and videos for [!DNL Brand Concierge].
+
++++New tutorials
+
+| Published | Name | Type | Description |
+| -----------| ---------- | ---------- | ---------- |
+|January 2026|[Book a meeting](https://experienceleague.adobe.com/en/docs/brand-concierge/content/getting-started/meeting-booking)| Video |Learn how to book a meeting. See the experience as a customer, configure representatives to use their calendar and view reports|
+
+Visit the [Adobe Brand Concierge](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home) tutorial home page for more information.
 
 +++
 
@@ -412,7 +424,7 @@ Get access to pre-release notes, current release notes, and new tutorials for [!
 
 +++Release notes
 
-Released: **October 22, 2025**
+Released: **November 14, 2025**
 
 <!-- ### New [!DNL Target] support knowledge base{#kb-target}
 
@@ -434,7 +446,7 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials and Knowled
 
 ### Latest Campaign product releases
 
-* [!DNL Web User Interface]: October 9, 2025 - [Release notes](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Web User Interface]: October 25, 2025 - [Release notes](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
 
 * [!DNL Campaign] v8: October 9, 2025 - [Release notes](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
 
@@ -473,7 +485,7 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 ### [!DNL Journey Optimizer] product release updates
 
-Latest release: **November 5, 2025**
+Latest release: **November 24, 2025**
 
 See [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) for details.
 
@@ -509,7 +521,7 @@ Learn about the latest release information for [!DNL Journey Optimizer B2B Editi
 
 +++Release notes and documentation
 
-2025.8 Release: **September 30, 2025**
+Latest release: **2025.10 - October 31, 2025**
 
 See [AJO B2B Edition release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes) for details.
 
@@ -538,7 +550,7 @@ Find out the latest release notes and release schedule for [!DNL Marketo Engage]
 
 ### Core Marketo Engage updates
 
-Release: **October 2025**
+Latest release: **October 2025**
 
 * [Current release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current)
 * [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/release-schedule)
@@ -616,15 +628,15 @@ Find latest release information and new documentation for [!DNL GenStudio for Pe
 
 +++Release notes and documentation
 
-See [2025.10.16 - Release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest) for GenStudio for Performance Marketing
+See [2025.12.12 - Release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest) for GenStudio for Performance Marketing
 
-### New tutorials for GenStudio for Performance Marketing {#genstudio-tutorials}
+<!-- ### New tutorials for GenStudio for Performance Marketing {#genstudio-tutorials}
 
 Video tutorials for GenStudio for Performance Marketing.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|October 2025|[Assign Brand permissions](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/intro/configure-brand-permissions)| Video |Learn about assigning entitlements for GenStudio for Performance Marketing Brand creators and editors.|
+|October 2025|[Assign Brand permissions](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/intro/configure-brand-permissions)| Video |Learn about assigning entitlements for GenStudio for Performance Marketing Brand creators and editors.| -->
 
 **GenStudio for Performance Marketing resources**
 
@@ -638,7 +650,7 @@ Video tutorials for GenStudio for Performance Marketing.
 
 +++Release notes and documentation
 
-See Mix Modeler [September 2025 - Release notes](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest) for details
+See Mix Modeler [November 2025 - Release notes](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest) for details
 
 +++
 
@@ -652,13 +664,13 @@ To browse Adobe [!DNL Advertising] help, visit [Adobe Advertising Documentation]
 
 ### New features in [!DNL Advertising DSP] {#advertising-dsp}
 
-October 29, 2025
+December 17, 2025
 
 See [What's new in [!DNL Advertising DSP]](https://experienceleague.adobe.com/en/docs/advertising/dsp/home)
   
 ### New features in [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
 
-October 15, 2025
+November 12, 2025
 
 See [What's new in [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/home)
 
@@ -676,11 +688,9 @@ See [Adobe Pass Documentation](https://experienceleague.adobe.com/en/docs/pass) 
 
 ## [!DNL Document Cloud] {#doc-cloud}
 
-New tutorials published for [!DNL Document Cloud], including [!DNL Acrobat Services] and [!DNL Acrobat Sign].
+View new tutorials published for [!DNL Document Cloud], including [!DNL Acrobat Services] and [!DNL Acrobat Sign].
 
 +++Latest tutorials
-
-New tutorials published for Adobe Document Cloud.
 
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
@@ -703,7 +713,7 @@ To browse [!DNL Document Cloud] tutorials, see:
 
 ## [!DNL Creative Cloud] for enterprise {#creative-cloud}
 
-New tutorials published for applications in [!DNL Adobe Creative Cloud for enterprise], including Firefly.
+Vew new tutorials published for applications in [!DNL Adobe Creative Cloud for enterprise], including Firefly.
 
 +++Latest tutorials
 
