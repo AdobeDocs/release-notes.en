@@ -174,11 +174,11 @@ Find the latest tutorials for [!DNL Real-Time CDP].
 
 +++View new tutorials
 
-| Published | Name | Type | Description |
+<!-- | Published | Name | Type | Description |
 | ----------| ---------- | ---------- |---------- |
-| October 2025 | [Configure a social destination](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/configure-a-social-destination#destinations) |  Video | Learn how to connect and activate audiences to a social destination. This video demonstrates the workflow using a LinkedIn Matched Audiences destination in Adobe Real-Time Customer Data Platform.|
+| October 2025 | [Configure a social destination](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/destinations/configure-a-social-destination#destinations) |  Video | Learn how to connect and activate audiences to a social destination. This video demonstrates the workflow using a LinkedIn Matched Audiences destination in Adobe Real-Time Customer Data Platform.| -->
 
-For more information, see:
+For help, see:
 
 * Video tutorials: [Understanding Real-Time Customer Data Platform](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform)
 
@@ -202,14 +202,14 @@ See [[!DNL Analytics] release notes](https://experienceleague-review.corp.adobe.
 
 See [AppMeasurement for JavaScript release notes](https://github.com/adobe/appmeasurement/releases) for details.
 
-### New Analytics tutorials {#tutorials-analytics}
+<!-- ### New Analytics tutorials {#tutorials-analytics}
 
 New or updated video tutorials published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
 |November 2025|[Classification sets job history](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/classifications/classification-sets-job-history)| Video |See your job history of uploading and downloading classification set data.|
-|November 2025|[Classification sets data import methods](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/classifications/classification-sets-data-import-methods)| Video |Learn different methods of importing classification data with classification sets, as well as some associated use cases.|
+|November 2025|[Classification sets data import methods](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/classifications/classification-sets-data-import-methods)| Video |Learn different methods of importing classification data with classification sets, as well as some associated use cases.| -->
 
 <!--
 ### New [!DNL Analytics] support knowledge base{#kb-analytics}
@@ -280,8 +280,7 @@ New features, fixes, and updates in [!DNL Experience Manager]. Adobe recommends 
 
 New: [Agentic AI in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/overview?#agentic-ai-in-aem)
 
-Current release: **2025.11.0 - November 21, 2025**
-Next planned release: **2025.12.0 - December 11, 2025**
+Next planned release: **2026.1.0 - January 29, 2026**
 
 * [Release notes home for AEM CS](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
 * [Latest AEM CS release overview video](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview)
@@ -350,7 +349,7 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 
 Find help for LLM Optimizer, Adobe's new generative AI-first application for Generative Engine Optimization. 
 
-+++New tutorials
++++Latest tutorials
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
@@ -487,9 +486,7 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 Latest release: **November 24, 2025**
 
-See [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) for details.
-
-**Note:** [Journey Optimizer for B2B Edition](#journey-optimizer-b2b-edition) is a separate product.
+See [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) for details. (**Note:** [Journey Optimizer for B2B Edition](#journey-optimizer-b2b-edition) is a separate product.)
 
 ### New [!DNL Journey Optimizer] tutorials {#tutorials-ajo}
 
