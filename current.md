@@ -687,10 +687,11 @@ See [Adobe Pass Documentation](https://experienceleague.adobe.com/en/docs/pass) 
 
 View new tutorials published for [!DNL Document Cloud], including [!DNL Acrobat Services] and [!DNL Acrobat Sign].
 
-+++Latest tutorials
++++Latest tutorials and courses
 
 | Published | Application | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |---------- |
+| January 2026 | Acrobat | [PDF accessibility essentials](https://experienceleague.adobe.com/en/courses/acr-pdf-accessibility-essentials) |  Course | Learn how to create, check, and remediate PDFs for accessibility using Acrobat Pro, Premium, and Studio. | 
 | January 2026 | Acrobat | [Complex tables](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/complex-tables) |  Video | Learn how to tag tables for accessibility in Acrobat. |
 | January 2026 | Acrobat | [The basics of tagging](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/basics-tagging) |  Video | Learn the fundamentals of how to tag a PDF file to make it accessible. |
 | January 2026 | Acrobat | [Create an accessible PDF in Acrobat](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/accessibility-tutorials/accessible-acrobat) |  Video | Learn how to create an accessible PDF starting in Acrobat. |
