@@ -74,6 +74,8 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 +++View upcoming events
 
+* **[!DNL PRODUCT]** | _Tag line_ | Description | **Month, day @ 10:00 AM MT** | [Register](adobe.com)
+
 View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
 
 +++
@@ -482,8 +484,8 @@ See [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs
 New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 
 | Published | Applications | Name | Type | Description |
-| ----------| ---------- | ---------- | ---------- |---------- |
-|January 2026|[!DNL Journey Optimizer]|[Mobile Learning Hub](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview)|Video | Jumpstart or elevate your mobile engagement strategy with Adobe Journey Optimizer. This mobile learning hub equips developers, administrators, marketers, and analysts with everything needed to configure inbound and outbound mobile channels and integrate them seamlessly into powerful cross-channel campaigns and journeys. |
+| ---------- | ---------- | ---------- | ---------- |---------- |
+| January 2026 | [!DNL Journey Optimizer] | [Mobile Learning Hub](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview) | Multi-page tutorial | Jumpstart or elevate your mobile engagement strategy with Adobe Journey Optimizer. This mobile learning hub equips developers, administrators, marketers, and analysts with everything needed to configure inbound and outbound mobile channels and integrate them seamlessly into powerful cross-channel campaigns and journeys. |
 
 ### New [!DNL Journey Optimizer] support knowledge base{#kb-ajo}
 
@@ -587,10 +589,7 @@ New [!DNL Workfront] tutorials and events on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|October 2025|[Create a KPI report on a Canvas Dashboard](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard)|Video |Learn how to create a KPI report on a Canvas Dashboard.|
-|October 2025|[Create a table report on a Canvas Dashboard](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard)|Video |Learn how to create a table report on a Canvas Dashboard.|
-|October 2025|[Add conditional formatting to a Canvas Dashboard report](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report)|Video |Learn how to add conditional formatting to a Canvas Dashboard report.|
-|October 2025|[Use an OR filter in a Canvas Dashboard report](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report)|Video |Learn how to use an OR filter in a Canvas Dashboard report.|
+|January 2026|[Create a KPI report on a Canvas Dashboard](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud)|Video | Integrate Workfront with Creative Cloud. You can find and update the work assigned to you in Workfront without leaving Creative Cloud applications (Photoshop, XD, InDesign, Illustrator, Premiere Pro, and After Effects). |
 
 <!--
 ### New [!DNL Workfront] support knowledge base
