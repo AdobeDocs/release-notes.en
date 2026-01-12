@@ -598,7 +598,7 @@ New [!DNL Workfront] tutorials and events on Experience League.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|January 2026|[Create a KPI report on a Canvas Dashboard](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud)|Video | Integrate Workfront with Creative Cloud. You can find and update the work assigned to you in Workfront without leaving Creative Cloud applications (Photoshop, XD, InDesign, Illustrator, Premiere Pro, and After Effects). |
+|January 2026|[Use Adobe Workfront plugins to integrate with Creative Cloud](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud)|Video | Integrate Workfront with Creative Cloud. You can find and update the work assigned to you in Workfront without leaving Creative Cloud applications (Photoshop, XD, InDesign, Illustrator, Premiere Pro, and After Effects). |
 
 <!--
 ### New [!DNL Workfront] support knowledge base
