@@ -120,7 +120,7 @@ Learn about updates to [!DNL Experience Cloud] administration and central interf
 
 | Date | Update  | Description  | Applicable products |
 | -----------| -----------| ---------- | ---------- |
-| **January 14, 2026** | Customizable left navigation menu | You can now customize an application's left navigation menu in Experience Cloud. Reorder navigation items and control their visibility to quickly access the features capabilities that matter most. This update helps you streamline workflows, reduce cognitive load, and it supports full keyboard accessibility.| <ul><li>Experience Platform</li><li>Journey Optimizer</li><li>Journey Optimizer B2B Edition</li><li>Dynamic Chat</li></ul> |
+| **January 14, 2026** | Customizable left navigation menu | You can now customize an application's left navigation menu in Experience Cloud. Reorder navigation items and control their visibility to quickly access the capabilities that matter most. This update helps you streamline workflows, reduce cognitive load, and it supports full keyboard accessibility.| <ul><li>Experience Platform</li><li>Journey Optimizer</li><li>Journey Optimizer B2B Edition</li><li>Dynamic Chat</li></ul> |
 
 See the [Experience Cloud interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud) guide for help on:
 
