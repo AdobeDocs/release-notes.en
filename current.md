@@ -104,6 +104,18 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 
 +++Release notes
 
+Release date: December 8, 2025
+
+**What's new**
+
+* Virtual Assistant enhancements
+* Bug fixes and improvements
+
+| Feature | Description |
+| ------- | ------- |
+| **Virtual Assistant feedback** | <ul><li>_Virtual Assistant_ helps Status customers on the web and mobile perform quick actions and provide feedback. It serves as a single place to resolve all queries.</li><li>Virtual Assistant is available to all logged-in customers of status.adobe.com. It can be accessed by logging in to status.adobe.com and using the _Ask our assistant_ widget.</li><li>With this release, we further enhanced the guided workflow experiences by streamlining workflows, using intuitive icons instead of buttons, and providing as much information as possible either within the Virtual Assistant or on the background page.</li><li>If you would like to participate in the customer beta for the upcoming AI Virtual Assistant, please email [statuscom-adobe-support](mailto:statuscom-adobe-support@adobe.com).</li></ul>|
+| **Bug fixes and improvements** | <ul><li>Announcements were incorrectly labeled as _maintenance_ on the Announcement event banner.</li><li>Some Business Service names were not user-friendly.</li><li>Customers were unable to view CSOs that remain open beyond 40 days, or CSOs closed 40 days ago, after the new updates.</li><li>Adobe notified Slack subscribers with incomplete Slack installations to take action and provided steps to set up their Slack channel.</li><li>Performance improvements for the website header and footer.</li></ul>|
+
 Previous release notes for [!DNL Adobe System Status]:
 
 * [August 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2025/08132025#status)
