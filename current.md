@@ -5,7 +5,6 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
-badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
 # Experience Cloud central release notes - January 2026
@@ -75,6 +74,14 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 +++View upcoming events
 
+* **[!DNL Workfront]** | _Admin 101_ | Designed for beginner system administrators, this series of events will provide new admins with an introduction to available resources, a rundown of system navigation, and best practices around initial setup, intake, and basic reporting. . | **January 15** | [Register](https://events.teams.microsoft.com/event/638a55a5-93ba-4e79-ab7a-4f4e8186e559@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _10 Communication Tips in Adobe Workfront_ | Effective communication is the cornerstone of success and the ability to communicate clearly, listen actively, and respond thoughtfully can make a world of difference. This workshop will offer 10 actionable tips - both in an out of Workfront - that you can start using right away to reduce the risk of unnecessary problems.  | **January 22** | [Register](https://events.teams.microsoft.com/event/925fd550-bbf4-49f7-a3ef-3cb149496a2e@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Workfront Collective_ | This is the Workfront Collective event - a crowdsourcing opportunity for all Workfronters! | **January 26** | [Register](https://events.teams.microsoft.com/event/4035d16b-71b4-4b40-ac52-3f44dd61bf52@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Adobe Summit]** | _See the future of marketing, creativity and AI_ | Discover what's next in marketing, creativity, and AI. | **Las Vegas, April 19-22** | [Register](https://summit.adobe.com/na/)
+
 View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
 
 +++
@@ -106,7 +113,7 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 
 +++Release notes
 
-Release date: December 8, 2025
+Release date: **December 8, 2025**
 
 **What's new**
 
