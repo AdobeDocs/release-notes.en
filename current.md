@@ -14,8 +14,8 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 This page helps you:
 
 * Find links to application-specific release notes
-* Register for upcoming events
-* View new tutorials
+* Locate events and learn what's on Experience League
+* View new video tutorials per application
 * See the latest Support articles 
 
 ## Courses on Experience League
@@ -42,8 +42,8 @@ Each course concludes with a shareable certificate of completion, giving you a t
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud) 
 * [[!DNL Adobe Experience Platform]](#platform) 
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)
+* [[!DNL Adobe Analytics]](#analytics) (January 15)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (January 15)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
 * [[!DNL Adobe Experience Manager]](#aem) 
 * [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
