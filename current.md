@@ -213,7 +213,7 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 Adobe Analytics releases operate on a continuous delivery model, which allows for a more scalable, phased approach to feature deployment. Release notes are updated several times a month.
 
-Planned release: **January 15, 2026**
+Update: **January 15, 2026**
 
 See [[!DNL Analytics] release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) for details.
 
@@ -250,7 +250,7 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 Releases for [!DNL Customer Journey Analytics] occur on a continuing basis. As such, release notes are updated several times a month. Please check them regularly.
 
-Planned release: **January 15, 2026**
+Update: **January 15, 2026**
 
 See [Customer Journey Analytics (CJA) release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html#releases) for details.
 
