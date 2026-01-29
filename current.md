@@ -18,6 +18,8 @@ This page helps you:
 * View new video tutorials per application
 * See the latest Support articles 
 
+Latest update: **January 29, 2026**
+
 ## Courses on Experience League
 
 [Courses](https://experienceleague.adobe.com/en/courses) are available on Experience League. They provide structured, expert-created learning that help you build skills faster, validate expertise, and advance more confidently across Adobe's solutions. 
@@ -37,15 +39,15 @@ Each course concludes with a shareable certificate of completion, giving you a t
 +++View section links
 
 * [Event schedule](#events)
-* [AI features in [!DNL Experience Cloud]](#ai)
+* [AI features in [!DNL Experience Cloud]](#ai) (Updated: **January 29**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud) 
 * [[!DNL Adobe Experience Platform]](#platform) 
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (January 15)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (January 15)
+* [[!DNL Adobe Analytics]](#analytics) (Updated: **January 15**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (Updated: **January 15**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
-* [[!DNL Adobe Experience Manager]](#aem) 
+* [[!DNL Adobe Experience Manager]](#aem) (Updated: **January 29**)
 * [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
 * [[!DNL Adobe Brand Concierge]](#brand-concierge)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -74,12 +76,6 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 +++View upcoming events
 
-* **[!DNL Workfront]** | _Admin 101_ | Designed for beginner system administrators, this series of events will provide new admins with an introduction to available resources, a rundown of system navigation, and best practices around initial setup, intake, and basic reporting. . | **January 15** | [Register](https://events.teams.microsoft.com/event/638a55a5-93ba-4e79-ab7a-4f4e8186e559@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _10 Communication Tips in Adobe Workfront_ | Effective communication is the cornerstone of success and the ability to communicate clearly, listen actively, and respond thoughtfully can make a world of difference. This workshop will offer 10 actionable tips - both in an out of Workfront - that you can start using right away to reduce the risk of unnecessary problems.  | **January 22** | [Register](https://events.teams.microsoft.com/event/925fd550-bbf4-49f7-a3ef-3cb149496a2e@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Workfront Collective_ | This is the Workfront Collective event - a crowdsourcing opportunity for all Workfronters! | **January 26** | [Register](https://events.teams.microsoft.com/event/4035d16b-71b4-4b40-ac52-3f44dd61bf52@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
 * **[!DNL Adobe Summit]** | _See the future of marketing, creativity and AI_ | Discover what's next in marketing, creativity, and AI. | **Las Vegas, April 19-22** | [Register](https://summit.adobe.com/na/)
 
 View the complete listing of [upcoming](https://experienceleague.adobe.com/en/events) and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview) events on Experience League.
@@ -94,16 +90,10 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 
 | Product | Resource | Description | Updated |
 | ------- | ------- | ------- | ------- |
+| [!DNL Experience Cloud] | [Agentic AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | Learn about enabling agentic AI in Experience Cloud. Learn how agent jobs and AI credit consumption works. | **January 29, 2026** |
 | [!DNL Experience Manager as a Cloud Service] | [Agentic AI in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/overview?#agentic-ai-in-aem)| Learn about new AI agents in AEM CS. | November 21, 2025 |
-| [!DNL Experience Cloud] | [Agentic AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | New help on [AEM agents](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai#ai-first-experience-cloud-applications) published. Find help and check the availability of AI agents in Experience Cloud. | November 21, 2025 |
 | [!DNL Experience Cloud] | [Generative AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai)| Learn where AI-powered features are available in Experience Cloud. | November 2025 |
 | AI documentation home | [AI Documentation](https://experienceleague.adobe.com/en/docs/ai) | To find links to information about AI-powered features (generative AI and AI agents) in Experience Cloud, visit the new product documentation landing.| October 2025 | 
-| [!DNL AEM CS] | [AEM AI Assistant](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/aem-ai-assisstant)| Learn how the Experience Manager AI Assistant simplifies your workflows. | October 2025 |
-|[!DNL Experience Platform] | [Data Insights Agent overview](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/data-insights-agent-overview)|  Data Insight Agent taps into event, profile, journey, and offline data, simplifying discovery and enabling personalized dashboards instantly.  | October 2025 |
-| [!DNL Experience Platform] | [Journey Agent overview](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/journey-agent-overview)| Journey Agent uses AI to create, analyze, and optimize B2B/B2C journeys through a conversational interface. | October 2025 |
-| [!DNL Experience Platform] | [Experimentation Agent overview](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/experimentation-agent-overview)|  Experimentation Agent speeds up digital optimization with insights, guided setup, and automated analysis for marketers, analysts, and admins.  | October 2025 |
-|[!DNL Experience Platform] | [Audience Agent overview](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/audience-agent-overview)| Audience Agent streamlines audience management with conversational creation, optimization, insights, and secure integration across B2B/B2C apps.  | October 2025 |
-| Acrobat | [Boost team efficiency with PDF Spaces](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/getting-started/pdf-spaces-legal) |  Turn collections of files and websites into sharable, conversational knowledge hubs with personalized AI Assistants. |October 2025 |
 
 +++
 
@@ -299,7 +289,7 @@ New features, fixes, and updates in [!DNL Experience Manager]. Adobe recommends 
 
 New: [Agentic AI in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/overview?#agentic-ai-in-aem)
 
-Next planned release: **2026.1.0 - January 29, 2026**
+Current release: **2026.1.0 - January 29, 2026**
 
 * [Release notes home for AEM CS](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
 * [Latest AEM CS release overview video](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview)
