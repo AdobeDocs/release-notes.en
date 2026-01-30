@@ -432,7 +432,7 @@ Get access to pre-release notes, current release notes, and new tutorials for [!
 
 +++Release notes
 
-Released: **November 14, 2025**
+Released: **26.1.1 - January 18, 2026**
 
 <!-- ### New [!DNL Target] support knowledge base{#kb-target}
 
