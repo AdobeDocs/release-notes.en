@@ -147,11 +147,11 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 **Experience Platform**
 
-**October 22, 2025** updates: See [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest) for details.
+**January 27, 2026** updates: See [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest) for details.
 
 **Mobile SDK**
 
-Updated: **January 7, 2026**
+Updated: **January 29, 2026**
 
 See [[!DNL Experience Platform] Mobile SDK release notes](https://developer.adobe.com/client-sdks/documentation/release-notes/) for details.
 
@@ -205,7 +205,7 @@ Adobe Analytics releases operate on a continuous delivery model, which allows fo
 
 Update: **January 15, 2026**
 
-See [[!DNL Analytics] release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) for details.
+See [[!DNL Analytics] release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest) for details.
 
 ### AppMeasurement {#appm}
 
@@ -242,7 +242,7 @@ Releases for [!DNL Customer Journey Analytics] occur on a continuing basis. As s
 
 Update: **January 15, 2026**
 
-See [Customer Journey Analytics (CJA) release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html#releases) for details.
+See [Customer Journey Analytics (CJA) release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases) for details.
 
 ### New [!DNL Customer Journey Analytics] tutorials {#tutorials-cja}
 
