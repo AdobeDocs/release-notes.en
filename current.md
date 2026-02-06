@@ -212,14 +212,13 @@ See [[!DNL Analytics] release notes](https://experienceleague.adobe.com/en/docs/
 
 See [AppMeasurement for JavaScript release notes](https://github.com/adobe/appmeasurement/releases) for details.
 
-<!-- ### New Analytics tutorials {#tutorials-analytics}
+### New Analytics tutorials {#tutorials-analytics}
 
 New or updated video tutorials published for Adobe Analytics.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|November 2025|[Classification sets job history](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/classifications/classification-sets-job-history)| Video |See your job history of uploading and downloading classification set data.|
-|November 2025|[Classification sets data import methods](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/components/classifications/classification-sets-data-import-methods)| Video |Learn different methods of importing classification data with classification sets, as well as some associated use cases.| -->
+|February 2026|[Adobe Analytics onboarding](https://experienceleague.adobe.com/en/docs/analytics/analyze/admin-overview/onboard)| Video | Onboard to key Adobe platforms that support Adobe Analytics to help you and your organization succeed.|
 
 <!--
 ### New [!DNL Analytics] support knowledge base{#kb-analytics}
