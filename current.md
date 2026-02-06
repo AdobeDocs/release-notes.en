@@ -204,9 +204,9 @@ Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeas
 
 Adobe Analytics releases operate on a continuous delivery model, which allows for a more scalable, phased approach to feature deployment. Release notes are updated several times a month.
 
-Update: **January 15, 2026**
+**February 2026**
 
-See [[!DNL Analytics] release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest) for details.
+See [[!DNL Analytics] release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) for details.
 
 ### AppMeasurement {#appm}
 
@@ -240,9 +240,9 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 Releases for [!DNL Customer Journey Analytics] occur on a continuing basis. As such, release notes are updated several times a month. Please check them regularly.
 
-Update: **January 15, 2026**
+**February 2026**
 
-See [Customer Journey Analytics (CJA) release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest#releases) for details.
+See [Customer Journey Analytics (CJA) release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html#releases) for details.
 
 ### New [!DNL Customer Journey Analytics] tutorials {#tutorials-cja}
 
@@ -314,7 +314,7 @@ New video and written tutorials (articles) published for [!DNL Experience Manage
 | Published | Applications | Name | Format | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
 |February 2026| [!DNL AEM CS] | [Development Agent overview](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/agents/development/overview)| Video | Learn how the Development Agent in AEM analyzes failed pipelines in Cloud Manager and build logs to suggest code fixes and speed up debugging. |
-|February 2026| [!DNL AEM CS] | [Adobe Snapshot](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-snapshot.html)| Video | Adobe Snapshot is a visual demonstration tool, designed to illustrate the power of Dynamic Media for optimized and dynamic image delivery. |
+|February 2026| [!DNL AEM Assets] | [Adobe Snapshot](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-snapshot.html)| Video | Adobe Snapshot is a visual demonstration tool, designed to illustrate the power of Dynamic Media for optimized and dynamic image delivery. |
 |February 2026| [!DNL AEM CS] | [Content restore in AEM as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/cloud-manager/content-restore)| Video | Learn how to restore content in AEM as a Cloud Service with this step-by-step tutorial. Understand when and how to recover prior content efficiently, ensuring content integrity. |
 
 ### New [!DNL Experience Manager] support knowledge base{#kb-aem}
@@ -505,8 +505,14 @@ See [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs
 New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 
 | Published | Applications | Name | Type | Description |
-| ---------- | ---------- | ---------- | ---------- |---------- |
-| January 2026 | [!DNL Journey Optimizer] | [Mobile Learning Hub](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/mobile-learning-hub/overview) | Multi-page tutorial | Jumpstart or elevate your mobile engagement strategy with Adobe Journey Optimizer. This mobile learning hub equips developers, administrators, marketers, and analysts with everything needed to configure inbound and outbound mobile channels and integrate them seamlessly into powerful cross-channel campaigns and journeys. |
+| ----------| ---------- | ---------- | ---------- |---------- |
+|February 2026|[!DNL Journey Optimizer]|[Send direct mail messages with journeys](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/channels/direct-mail-channel/direct-mail-in-journeys.html)|Video | Explore how to leverage the Direct Mail channel in Adobe Journey Optimizer to automate and schedule direct mail deliveries within your journeys. |
+|February 2026|[!DNL Journey Optimizer]|[Optimize Push Notifications with AJO Decisioning](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-in-push-notifications)|Video | Learn how to use AJO Decisioning to personalize push notifications for your audience. Create compelling offers based on recipient profiles to drive sales.  |
+|February 2026|[!DNL Journey Optimizer]|[Create a lookup dataset](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/trigger-journey-on-form-submission/lookup-dataset)|Video | Create a lookup dataset for use in journey.  |
+|February 2026|[!DNL Journey Optimizer]|[Create web push notifications](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-web-push-notifications.html)|Video | Learn to create web push notifications in Adobe Journey Optimizer. Expand your reach beyond mobile devices to engage users directly on web browsers.  |
+|February 2026|[!DNL Journey Optimizer]|[Monitor your custom actions](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/custom-action-monitoring-report)|Video | Explore how to effectively monitor the operational health and performance of HTTP calls made from your journeys to third-party endpoints via custom actions. Gain visibility into HTTP errors, latency bottlenecks, and capping issues that may affect the delivery. |
+|February 2026|[!DNL Journey Optimizer]|[Use Decisioning in an SMS message](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/use-decisioning-in-an-sms-message)|Video | Learn how to use AJO Decisioning to personalize and optimize SMS content. Enhance your SMS messages to improve engagement and meet business goals. |
+|February 2026|[!DNL Journey Optimizer]|[Book a meeting](https://experienceleague.adobe.com/en/docs/brand-concierge/content/getting-started/meeting-booking)|Video | Learn about the booking a meeting capability found in Adobe Brand Concierge. In this video tutorial topics covered are what the customer facing experience can look like, admin configuration for connecting a calendar, and a look at some dashboards and reports. |
 
 ### New [!DNL Journey Optimizer] support knowledge base{#kb-ajo}
 
@@ -541,13 +547,11 @@ See [AJO B2B Edition release notes](https://experienceleague.adobe.com/en/docs/j
 * [Video overviews and tutorials](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/overview) for [!DNL Journey Optimizer B2B Edition]
 * [Product description and licensing](https://helpx.adobe.com/legal/product-descriptions/adobe-journey-optimizer-b2b.html#_blankl) for [!DNL Journey Optimizer B2B Edition]
 
-<!-- New videos, tutorials, or courses published for Journey Optimizer B2B Edition.
+New videos, tutorials, or courses published for Journey Optimizer B2B Edition.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|February 2025|[Account Journeys](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/account-journeys/introducing-account-journeys)|New videos |Visit the Account Journeys tutorial home. Learn about Account Journeys and how to use them to engage your target audience.|
-|February 2025|[Use Case Playbook - Abandoned shopping cart](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/use-cases/abandoned-cart)|New video |Learn how to implement the abandoned shopping cart use case, using the Playbook feature in Adobe Journey Optimizer.|
-|February 2025|[Import and activate an audience by uploading a CSV file](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/profiles-audiences-subscriptions/import-and-activate-an-audience-by-uploading-a-csv-file)|New video |Discover how to efficiently import and activate an audience by uploading a CSV file. Learn to personalize your content using enrichment attributes from the CSV file, ensuring a more tailored experience for your audience.| -->
+|February 2026|[Using the Account Qualification Agent](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/buying-groups/account-qualification-agent)|Video |Learn how to use the Account Qualification Agent in Journey Optimizer B2B Edition.|
 
 +++
 
@@ -639,13 +643,13 @@ Find latest release information and new documentation for [!DNL GenStudio for Pe
 
 See [2025.12.12 - Release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest) for GenStudio for Performance Marketing
 
-<!-- ### New tutorials for GenStudio for Performance Marketing {#genstudio-tutorials}
+### New tutorials for GenStudio for Performance Marketing {#genstudio-tutorials}
 
 Video tutorials for GenStudio for Performance Marketing.
 
 |Published|Name|Type|Description |
 | -----------| ---------- | ---------- | ---------- |
-|October 2025|[Assign Brand permissions](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/intro/configure-brand-permissions)| Video |Learn about assigning entitlements for GenStudio for Performance Marketing Brand creators and editors.| -->
+|February 2026|[Photoshop plugin for GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/integrations/photoshop-plugin)| Video |Learn how to install, configure, and use the Photoshop plugin for GenStudio for Performance Marketing.|
 
 **GenStudio for Performance Marketing resources**
 
