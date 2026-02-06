@@ -19,7 +19,7 @@ This page helps you:
 * View new video tutorials per application
 * See the latest Support articles 
 
-Latest update: **February 2, 2026**
+Latest update: **February 5, 2026**
 
 ## Courses on Experience League
 
