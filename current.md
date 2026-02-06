@@ -313,9 +313,9 @@ New video and written tutorials (articles) published for [!DNL Experience Manage
 
 | Published | Applications | Name | Format | Description |
 | ----------| ---------- | ---------- | ---------- |---------- |
-|January 2026| [!DNL AEM Assets] | [Dynamic Media URL syntax and Image Presets best practices](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/dynamic-media/images/dynamic-media-urls-and-image-presets)| Video | Explore the AEM Assets Dynamic Media URL syntax and learn how to maximize your value using Image Presets. Enhance your asset management capabilities and improve your workflow efficiency. |
-|January 2026| [!DNL AEM Assets] | [Download assets in AEM Assets Content Hub](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/download-assets)| Video | Learn how to navigate, search, and download assets in Adobe Experience Manager Assets Content Hub. |
-|January 2026| [!DNL AEM CS] | [Agents in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/agents-in-aem)| Video | Discover how AEM Agents streamline workflows by automating tasks in Adobe Experience Manager. |
+|February 2026| [!DNL AEM CS] | [Development Agent overview](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/agents/development/overview)| Video | Learn how the Development Agent in AEM analyzes failed pipelines in Cloud Manager and build logs to suggest code fixes and speed up debugging. |
+|February 2026| [!DNL AEM CS] | [Adobe Snapshot](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-snapshot.html)| Video | Adobe Snapshot is a visual demonstration tool, designed to illustrate the power of Dynamic Media for optimized and dynamic image delivery. |
+|February 2026| [!DNL AEM CS] | [Content restore in AEM as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/cloud-manager/content-restore)| Video | Learn how to restore content in AEM as a Cloud Service with this step-by-step tutorial. Understand when and how to recover prior content efficiently, ensuring content integrity. |
 
 ### New [!DNL Experience Manager] support knowledge base{#kb-aem}
 
