@@ -1,6 +1,6 @@
 ---
 title: Central Release Notes
-description: Find the latest release notes and Knowledge Base issues for Adobe [!DNL Experience Cloud] products and services. Learn about upcoming events and new documentation on Experience League. Discover the latest tutorials and courses for [!DNL Experience Cloud] applications.
+description: Find links to Experience Cloud application release notes. View new tutorial videos, read Support articles, and locate self-help resources on Experience League. 
 doc-type: release notes
 last-update: February 2026
 author: mfrei
@@ -19,7 +19,7 @@ This page helps you:
 * View new video tutorials per application
 * See the latest Support articles 
 
-Latest update: **February 5, 2026**
+Latest update: **February 6, 2026**
 
 ## Courses on Experience League
 
