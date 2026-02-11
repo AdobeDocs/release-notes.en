@@ -47,5 +47,5 @@ user-guide-url: https://www.adobe.com
     + [March 2023](c-legacy-releases/2023/03082023.md)
     + [February 2023](c-legacy-releases/2023/02082023.md)  
     + [January 2023](c-legacy-releases/2023/01112023.md)    
-<!--   + 2022 and earlier {#legacy-rns}
-    + [2022 and earlier](c-legacy-releases/2022-earlier.md) -->
+  + 2022 and earlier {#legacy-rns}
+    + [2022 and earlier](c-legacy-releases/2022-earlier.md)

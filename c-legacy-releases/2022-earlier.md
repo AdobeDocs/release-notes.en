@@ -4,9 +4,8 @@ title: Central Release Notes for 2022 and Earlier
 solution: Experience Cloud,Analytics,Target,Advertising
 seo-title: Central Release Notes for 2021 and Earlier for Adobe Experience Cloud
 uuid: c56a1064-0f2c-4241-93c6-ca4b1f267763
-exl-id: 980a6e5e-a561-4fb5-b1cc-467ddabf0d01
 ---
-# Release Notes for 2022 and earlier
+# Release notes for 2022 and earlier
 
 * [2022 Release Notes PDF](2022-Adobe-Experience-Cloud-Release-Notes.pdf)
 * [2021 Release Notes PDF](2021-Adobe-Experience-Cloud-Release-Notes.pdf)

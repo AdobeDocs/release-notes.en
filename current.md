@@ -5,7 +5,6 @@ doc-type: release notes
 last-update: February 2026
 author: mfrei
 mini-toc-levels: 2
-badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
 # Experience Cloud central release notes - February 2026
@@ -19,7 +18,7 @@ This page helps you:
 * View new video tutorials per application
 * See the latest Support articles 
 
-Latest update: **February 6, 2026**
+Latest update: **February 11, 2026**
 
 ## Courses on Experience League
 
@@ -40,15 +39,15 @@ Each course concludes with a shareable certificate of completion, giving you a t
 +++View section links
 
 * [Event schedule](#events)
-* [AI features in [!DNL Experience Cloud]](#ai) (Updated: **January 29**)
+* [AI features in [!DNL Experience Cloud]](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud) 
 * [[!DNL Adobe Experience Platform]](#platform) 
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics) (Updated: **January 15**)
-* [[!DNL Adobe Customer Journey Analytics]](#cja) (Updated: **January 15**)
+* [[!DNL Adobe Analytics]](#analytics) (Updated: **February 11**)
+* [[!DNL Adobe Customer Journey Analytics]](#cja) (Updated: **February 11**)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
-* [[!DNL Adobe Experience Manager]](#aem) (Updated: **January 29**)
+* [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
 * [[!DNL Adobe Brand Concierge]](#brand-concierge)
 * [[!DNL Adobe Commerce]](#commerce)
@@ -104,21 +103,17 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 
 +++Release notes
 
-Release date: **December 8, 2025**
-
-**What's new**
-
-* Virtual Assistant enhancements
-* Bug fixes and improvements
-
-| Feature | Description |
-| ------- | ------- |
-| **Virtual Assistant feedback** | <ul><li>_Virtual Assistant_ helps Status customers on the web and mobile perform quick actions and provide feedback. It serves as a single place to resolve all queries.</li><li>Virtual Assistant is available to all logged-in customers of status.adobe.com. It can be accessed by logging in to status.adobe.com and using the _Ask our assistant_ widget.</li><li>With this release, we further enhanced the guided workflow experiences by streamlining workflows, using intuitive icons instead of buttons, and providing as much information as possible either within the Virtual Assistant or on the background page.</li><li>If you would like to participate in the customer beta for the upcoming AI Virtual Assistant, please email [statuscom-adobe-support](mailto:statuscom-adobe-support@adobe.com).</li></ul>|
-| **Bug fixes and improvements** | <ul><li>Announcements were incorrectly labeled as _maintenance_ on the Announcement event banner.</li><li>Some Business Service names were not user-friendly.</li><li>Customers were unable to view CSOs that remain open beyond 40 days, or CSOs closed 40 days ago, after the new updates.</li><li>Adobe Status subscribers with incomplete Slack set up were notified and provided steps to complete the installation.</li><li>Performance improvements for the website header and footer.</li></ul>|
-
 Previous release notes for [!DNL Adobe System Status]:
 
-* [August 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2025/08132025#status)
+* [December 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2025/01222025#status) 
+* [April 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2025/04162025#status)
+* [August 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/09122024#status)
+* [May 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/05152024#status)
+* [January 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/02142024#status)
+* [October 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/10042023#status)
+* [August 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/08092023#status)
+* [March 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/03082023#status)
+* [January 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/02082023#status)
 
 +++
 
@@ -212,7 +207,7 @@ Adobe Analytics releases operate on a continuous delivery model, which allows fo
 
 **February 2026**
 
-See [[!DNL Analytics] release notes](https://experienceleague-review.corp.adobe.com/docs/analytics/release-notes/latest.html) for details.
+See [[!DNL Analytics] release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest) for details.
 
 ### AppMeasurement {#appm}
 
@@ -248,7 +243,7 @@ Releases for [!DNL Customer Journey Analytics] occur on a continuing basis. As s
 
 **February 2026**
 
-See [Customer Journey Analytics (CJA) release notes](https://experienceleague-review.corp.adobe.com/docs/analytics-platform/using/releases/latest.html#releases) for details.
+See [Customer Journey Analytics (CJA) release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest?lang=en#releases) for details.
 
 ### New [!DNL Customer Journey Analytics] tutorials {#tutorials-cja}
 
@@ -300,6 +295,8 @@ New: [Agentic AI in AEM](https://experienceleague.adobe.com/en/docs/experience-m
 
 Current release: **2026.1.0 - January 29, 2026**
 
+The next feature release (2026.2.0) is planned for **February 26, 2026**.
+
 * [Release notes home for AEM CS](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
 * [Latest AEM CS release overview video](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview)
 
@@ -348,10 +345,7 @@ Find help for LLM Optimizer, Adobe's new generative AI-first application for Gen
 
 +++Latest tutorials
 
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|November 2025|[LLM Optimizer best practices](https://experienceleague.adobe.com/en/docs/llm-optimizer/using/essentials/best-practices)| Video |Discover best practices for LLM optimization to boost brand visibility in AI search. Insights for benchmarking and optimizing content.|
-|November 2025|[Best practices for configuring categories, topics, prompts, and more](https://experienceleague.adobe.com/en/docs/llm-optimizer/using/essentials/best-practices-topics-prompts)| Video |Optimize LLM insights by configuring categories, topics, prompts, and other brands to track including competitors for tailored brand monitoring and strategic content analysis.|
+See [LLM Optimizer](https://experienceleague.adobe.com/en/docs/llm-optimizer/using/home) documentation home for help.
 
 +++
 
@@ -412,7 +406,7 @@ Get access to pre-release notes, current release notes, and new tutorials for [!
 
 +++Release notes
 
-Released: **26.1.1 - January 18, 2026**
+Released: **26.1.2 - January 30, 2026**
 
 <!-- ### New [!DNL Target] support knowledge base{#kb-target}
 
@@ -421,8 +415,7 @@ Released: **26.1.1 - January 18, 2026**
 |July 2024|[[!DNL Adobe Target] bulk profile update [!DNL API] throws *[!DNL Unexpected Error]* when using [!DNL Postman]](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-24281)|New article| Learn about how to fix the issue when running the [!DNL Target Bulk Profile Update API] throws the *[!DNL Unexpected Error]* message in [!DNL Postman].|
 -->
 
-* For pre-release information, see [[!DNL Adobe Target] prerelease](https://experienceleague.adobe.com/en/docs/target/using/release-notes/target-release-notes)
-* For current information, see [[!DNL Adobe Target] release notes](https://experienceleague.adobe.com/en/docs/target/using/release-notes/release-notes)
+* For the latest release information, see [[!DNL Adobe Target] release notes](https://experienceleague.adobe.com/en/docs/target/using/release-notes/release-notes)
 
 +++
 
@@ -434,7 +427,7 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials and Knowled
 
 ### Latest Campaign product releases
 
-* [!DNL Web User Interface]: January 26, 2026 - [Release notes](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Web User Interface]: January 27, 2026 - [Release notes](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
 
 * [!DNL Campaign] v8: 8.9.1 - January 27, 2026 - [Release notes](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
 
@@ -472,7 +465,7 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 ### [!DNL Journey Optimizer] product release updates
 
-Latest release: **January 2026**
+Latest release: **February 2026**
 
 See [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) for details. (**Note:** [Journey Optimizer for B2B Edition](#journey-optimizer-b2b-edition) is a separate product.)
 
@@ -512,7 +505,7 @@ Learn about the latest release information for [!DNL Journey Optimizer B2B Editi
 
 +++Release notes and documentation
 
-Latest release: **2025.10 - October 31, 2025**
+Latest release: **2026.1 - February 3, 2026**
 
 See [AJO B2B Edition release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes) for details.
 
@@ -539,7 +532,7 @@ Find out the latest release notes and release schedule for [!DNL Marketo Engage]
 
 ### Core Marketo Engage updates
 
-Latest release: **October 2025**
+Latest release: **January 2026**
 
 * [Current release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current)
 * [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/release-schedule)
@@ -617,7 +610,7 @@ Find latest release information and new documentation for [!DNL GenStudio for Pe
 
 +++Release notes and documentation
 
-See [2025.12.12 - Release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest) for GenStudio for Performance Marketing
+See [2026.01 - Release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest) for GenStudio for Performance Marketing
 
 ### New tutorials for GenStudio for Performance Marketing {#genstudio-tutorials}
 
@@ -653,13 +646,13 @@ To browse Adobe [!DNL Advertising] help, visit [Adobe Advertising Documentation]
 
 ### New features in [!DNL Advertising DSP] {#advertising-dsp}
 
-December 17, 2025
+January 21, 2026
 
 See [What's new in [!DNL Advertising DSP]](https://experienceleague.adobe.com/en/docs/advertising/dsp/home)
   
 ### New features in [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
 
-November 12, 2025
+January 21, 2026
 
 See [What's new in [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/home)
 
@@ -716,7 +709,7 @@ Browse our library of tutorials for [Creative Cloud for enterprise](https://expe
 
 ## Customer experience orchestration blueprints {#blueprints}
 
-[Digital Experience Blueprints](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/overview) are repeatable implementations that let you address strategy and quickly solve established business problems. Each Blueprint provides a series of artifacts that explain the high-value business problem, architectures, implementation steps, technical considerations, and links to the relevant documentation.
+[Customer experience orchestration blueprints](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/overview) are repeatable implementations that let you address strategy and quickly solve established business problems. Each Blueprint provides a series of artifacts that explain the high-value business problem, architectures, implementation steps, technical considerations, and links to the relevant documentation.
 
 <!-- ## ![Icon](/assets/certification-badge.png) Certification{#certification}
 
