@@ -93,7 +93,7 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 | [!DNL Experience Cloud] | [Agentic AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | Learn about enabling agentic AI in Experience Cloud. Learn how agent jobs and AI credit consumption works. | **January 29, 2026** |
 | [!DNL Experience Manager as a Cloud Service] | [Agentic AI in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/overview?#agentic-ai-in-aem)| Learn about new AI agents in AEM CS. | November 21, 2025 |
 | [!DNL Experience Cloud] | [Generative AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai)| Learn where AI-powered features are available in Experience Cloud. | November 2025 |
-| AI documentation home | [AI Documentation](https://experienceleague.adobe.com/en/docs/ai) | To find links to information about AI-powered features (generative AI and AI agents) in Experience Cloud, visit the new product documentation landing.| October 2025 | 
+| AI documentation home | [AI Documentation](https://experienceleague.adobe.com/en/docs/ai) | To find links to information about AI-powered features (generative AI and AI agents) in Experience Cloud, visit the new product documentation landing.| October 2025 |
 
 +++
 
@@ -554,7 +554,7 @@ New articles and updates to existing articles for [!DNL Marketo].
 
 |Published|Name|Type|Description|
 | -----------| ---------- | ---------- | ---------- |
-|July 2025|[Marketo Measure touchpoints not syncing to Marketo Engage](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26692)|New article| Learn about the solutions to the issue when Marketo Measure touchpoints don't appear in Marketo Engage person records, even though they sync successfully to [!DNL Salesforce].| 
+|July 2025|[Marketo Measure touchpoints not syncing to Marketo Engage](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-26692)|New article| Learn about the solutions to the issue when Marketo Measure touchpoints don't appear in Marketo Engage person records, even though they sync successfully to [!DNL Salesforce].|
 -->
 
 +++
