@@ -10,7 +10,7 @@ author: mfrei
 
 # TEMPLATE - Adobe Experience Cloud Release Notes - Month 2021
 
-![Banner](/assets/experience-cloud-banner-3.png)
+![Banner](assets/experience-cloud-banner-3.png)
 
 New features and fixes in the Adobe Experience Cloud.
 
