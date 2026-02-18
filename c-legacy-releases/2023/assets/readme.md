@@ -1,1 +1,0 @@
-# Unused readme for assets
