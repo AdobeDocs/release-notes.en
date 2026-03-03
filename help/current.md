@@ -18,7 +18,7 @@ This page helps you:
 * View new video tutorials per application
 * See the latest Support articles 
 
-Latest update: **February 25, 2026**
+Latest update: **March 3, 2026**
 
 ## Courses on Experience League
 
@@ -39,7 +39,7 @@ Each course concludes with a shareable certificate of completion, giving you a t
 +++View section links
 
 * [Event schedule](#events) (Updated: **February 20**)
-* [AI features in [!DNL Experience Cloud]](#ai) (Updated: **February 20**)
+* [AI features in [!DNL Experience Cloud]](#ai) (Updated: **March 3**)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud) 
 * [[!DNL Adobe Experience Platform]](#platform) 
@@ -76,10 +76,6 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 +++View upcoming events
 
-* **[!DNL Workfront]** | _Webinar_ | Enablement That Scales: Turning Workfront Blueprints into Real-World Training Programs. | **February 26** | [Register](https://events.teams.microsoft.com/event/3ebe62c9-48da-4f99-a504-db4d4a05257d@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Adobe Insider Tour]** | _Join us for the Adobe Insider Tour_ | We're excited to bring the Adobe Insider Tour to Seattle on February 26 - and we'd love for you to join us. | **February 26** | [Register](https://event.adobe.com/adobe-insider-tour-seattle)
-
 * **[!DNL Workfront]** | _Connect: Admin Chat for Marketing & Creative_ | We're excited to bring the Adobe Insider Tour to Seattle on February 26 - and we'd love for you to join us. | **March 6** | [Register](https://events.teams.microsoft.com/event/07277b90-bf7a-479c-a302-db2c6bbff3b9@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 * **[!DNL Adobe Summit]** | _See the future of marketing, creativity and AI_ | Discover what's next in marketing, creativity, and AI. | **Las Vegas, April 19-22** | [Register](https://summit.adobe.com/na/)
@@ -96,8 +92,9 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 
 | Product | Resource | Description | Updated |
 | ------- | ------- | ------- | ------- |
-| [!DNL Experience Cloud] | [Agent jobs and AI credits consumption](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption) | Learn about agent jobs and AI credit consumption rates in Experience Cloud applications. | **February 20, 2026** |
-| [!DNL Experience Cloud] | [Agentic AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | Learn about enabling agentic AI in Experience Cloud. Learn how agent jobs and AI credit consumption works. | **January 29, 2026** |
+| [!DNL Experience Cloud] | [Adobe Experience Platform Agents for Improved Marketing Efficiency and Better Business outcomes](https://www.youtube.com/live/VlxHXfEnqjI) | This exclusive session features an insightful Q&A session with Anjul Bhambhri, Senior Vice President of Adobe Experience Cloud. Discover Adobe's journey and bold vision to provide innovative Agentic AI capabilities that empower marketing and creative practitioners to automate complex steps, accelerate decision-making, and expand their teams' capacity without compromising control or oversight. | **March 3, 2026** |
+| [!DNL Experience Cloud] | [Agent jobs and AI credits consumption](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption) | Learn about agent jobs and AI credit consumption rates in Experience Cloud applications. | **March 3, 2026** |
+| [!DNL Experience Cloud] | [Agentic AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | Learn about enabling agentic AI in Experience Cloud. Learn how agent jobs and AI credit consumption works. | **March 3, 2026** |
 | [!DNL Experience Manager as a Cloud Service] | [Agentic AI in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/overview?#agentic-ai-in-aem)| Learn about new AI agents in AEM CS. | November 21, 2025 |
 | [!DNL Experience Cloud] | [Generative AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai)| Learn where AI-powered features are available in Experience Cloud. | November 2025 |
 | AI documentation home | [AI Documentation](https://experienceleague.adobe.com/en/docs/ai) | To find links to information about AI-powered features (generative AI and AI agents) in Experience Cloud, visit the new product documentation landing.| October 2025 |
