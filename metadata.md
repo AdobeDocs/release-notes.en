@@ -7,7 +7,7 @@ feature: Release Notes
 product: Experience Cloud
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/release-notes.en
-index: yes
+index: true
 ---
 
 # Metadata for internal use
