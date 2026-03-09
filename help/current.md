@@ -76,7 +76,13 @@ Find [events](https://experienceleague.adobe.com/en/events) and register for the
 
 +++View upcoming events
 
-* **[!DNL Workfront]** | _Connect: Admin Chat for Marketing & Creative_ | We're excited to bring the Adobe Insider Tour to Seattle on February 26 - and we'd love for you to join us. | **March 6** | [Register](https://events.teams.microsoft.com/event/07277b90-bf7a-479c-a302-db2c6bbff3b9@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Adobe AI - Toronto]** | _Discover new insights and what's next for marketing and AI_ | Get hands-on with the latest Adobe AI innovations, hear from Adobe leaders in an executive keynote, and gain insights from our partners at Accenture and Deloitte, and real customers — all alongside peers shaping what's next. | **March 10** | [Register](https://event.adobe.com/adobe-ai-forum-toronto/il/expleague)
+
+* **[!DNL Adobe Commerce]** | _Learn from your peers webinar: Adobe Commerce_ | Join Adobe Commerce Champions Manav Padhariya and Michael Schenck for an educational session on transforming Adobe Commerce Product Recommendations from a basic feature into a powerful AI-native strategic driver for business growth. | **March 11** | [Register](https://engage.adobe.com/adobe-commerce-product-recommendations.html)
+
+* **[!DNL Experience Cloud]** | _Adobe Insider Tour_ | This free half-day event is packed with expert insights, customer success stories, and opportunities to connect with peers and Adobe product leaders. Discover best practices and learn how to maximize value with Adobe solutions through interactive sessions and discussions. | **March 11** | [Register](https://event.adobe.com/adobe-insider-tour-atlanta)
+
+* **[!DNL Adobe AI - Dallas]** | _Discover new insights and what's next for marketing and AI_ | Get hands-on with the latest Adobe AI innovations, hear from Adobe leaders in an executive keynote, and gain insights from our partners at Accenture and Deloitte, and real customers — all alongside peers shaping what's next. | **March 12** | [Register](https://event.adobe.com/adobe-ai-forum-dallas-il2026/expleague)
 
 * **[!DNL Adobe Summit]** | _See the future of marketing, creativity and AI_ | Discover what's next in marketing, creativity, and AI. | **Las Vegas, April 19-22** | [Register](https://summit.adobe.com/na/)
 
