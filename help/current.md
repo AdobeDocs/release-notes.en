@@ -641,9 +641,9 @@ See [2026.01 - Release notes](https://experienceleague.adobe.com/en/docs/genstud
 
 Video tutorials for GenStudio for Performance Marketing.
 
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|February 2026|[Photoshop plugin for GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/integrations/photoshop-plugin)| Video |Learn how to install, configure, and use the Photoshop plugin for GenStudio for Performance Marketing.|
+| Published | Name | Type | Description |
+| ----------- | ---------- | ---------- | ---------- |
+| March 2026 | [Figma plugin for GenStudio for Performance Marketing](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/integrations/figma-plugin) | Video | Learn how to configure and use the Figma plugin for GenStudio for Performance Marketing. |
 
 **GenStudio for Performance Marketing resources**
 
