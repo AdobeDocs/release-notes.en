@@ -490,7 +490,7 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 ### [!DNL Journey Optimizer] product release updates
 
-Latest release: **February 2026**
+Latest release: **March 2026**
 
 See [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes) for details. (**Note:** [Journey Optimizer for B2B Edition](#journey-optimizer-b2b-edition) is a separate product.)
 
@@ -499,14 +499,10 @@ See [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs
 New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 
 | Published | Applications | Name | Type | Description |
-| ----------| ---------- | ---------- | ---------- |---------- |
-|February 2026|[!DNL Journey Optimizer]|[Send direct mail messages with journeys](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/channels/direct-mail-channel/direct-mail-in-journeys.html)|Video | Explore how to leverage the Direct Mail channel in Adobe Journey Optimizer to automate and schedule direct mail deliveries within your journeys. |
-|February 2026|[!DNL Journey Optimizer]|[Optimize Push Notifications with AJO Decisioning](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/decisioning-in-push-notifications)|Video | Learn how to use AJO Decisioning to personalize push notifications for your audience. Create compelling offers based on recipient profiles to drive sales.  |
-|February 2026|[!DNL Journey Optimizer]|[Create a lookup dataset](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/trigger-journey-on-form-submission/lookup-dataset)|Video | Create a lookup dataset for use in journey.  |
-|February 2026|[!DNL Journey Optimizer]|[Create web push notifications](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/channels/push-channel/create-web-push-notifications.html)|Video | Learn to create web push notifications in Adobe Journey Optimizer. Expand your reach beyond mobile devices to engage users directly on web browsers.  |
-|February 2026|[!DNL Journey Optimizer]|[Monitor your custom actions](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/report-and-monitor/custom-action-monitoring-report)|Video | Explore how to effectively monitor the operational health and performance of HTTP calls made from your journeys to third-party endpoints via custom actions. Gain visibility into HTTP errors, latency bottlenecks, and capping issues that may affect the delivery. |
-|February 2026|[!DNL Journey Optimizer]|[Use Decisioning in an SMS message](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/use-decisioning-in-an-sms-message)|Video | Learn how to use AJO Decisioning to personalize and optimize SMS content. Enhance your SMS messages to improve engagement and meet business goals. |
-|February 2026|[!DNL Journey Optimizer]|[Book a meeting](https://experienceleague.adobe.com/en/docs/brand-concierge/content/getting-started/meeting-booking)|Video | Learn about the booking a meeting capability found in Adobe Brand Concierge. In this video tutorial topics covered are what the customer facing experience can look like, admin configuration for connecting a calendar, and a look at some dashboards and reports. |
+| ---------- | ---------- | ---------- | ---------- | ---------- |
+| March 2026 | [!DNL Journey Optimizer] | [AI model insights](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/ai-model-insights) | Video | Understand how to analyze AI model training status, traffic allocation, and performance to optimize personalized decisioning in Journey Optimizer. Learn how to identify issues, troubleshoot models, and enhance conversion rates using AI capabilities. |
+| March 2026 | [!DNL Journey Optimizer] | [iOS Live Activities](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/channels/live-activities/ios-live-activities) | Video | Discover how to configure iOS Live Activities with Adobe Journey Optimizer to deliver rich, real-time updates on the iPhone Lock Screen and Dynamic Island. |
+| March 2026 | [!DNL Journey Optimizer] | [Content decision activity in the journey canvas](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/content-decision-activity) | Video | Learn how the content decision activity in the Journey Canvas allows users to leverage Adobe Journey Optimizer Decisioning for personalized content offers. |
 
 <!-- 
 ### New [!DNL Journey Optimizer] support knowledge base{#kb-ajo}
