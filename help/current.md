@@ -5,6 +5,7 @@ doc-type: release notes
 last-update: February 2026
 author: mfrei
 mini-toc-levels: 2
+badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
 # Experience Cloud central release notes - February 2026
@@ -14,13 +15,13 @@ exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 This page helps you:
 
 * Find links to application-specific release notes
-* Locate events and learn what's on Experience League
+* Locate events and new resources
 * View new video tutorials per application
 * See the latest Support articles 
 
-Latest update: **March 3, 2026**
+Latest update: **March 7, 2026**
 
-## Courses on Experience League
+## New and updated learning resources
 
 [Courses](https://experienceleague.adobe.com/en/courses) are available on Experience League. They provide structured, expert-created learning that help you build skills faster, validate expertise, and advance more confidently across Adobe's solutions. 
 
@@ -36,10 +37,8 @@ Each course concludes with a shareable certificate of completion, giving you a t
 
 **Products links on this page**
 
-+++View section links
-
-* [Event schedule](#events) (Updated: **February 20**)
-* [AI features in [!DNL Experience Cloud]](#ai) (Updated: **March 3**)
+* [Event schedule](#events) 
+* [AI features in [!DNL Experience Cloud]](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud) 
 * [[!DNL Adobe Experience Platform]](#platform) 
@@ -68,15 +67,19 @@ Each course concludes with a shareable certificate of completion, giving you a t
 * [Certification at Adobe](https://experienceleague.adobe.com/en/certification-home)
 * [Adobe product security vulnerabilities](https://helpx.adobe.com/security.html)
 
-+++
-
 ## Event schedule {#events}
 
 Find [events](https://experienceleague.adobe.com/en/events) and register for the ones that interest you.
 
 +++View upcoming events
 
-* **[!DNL Workfront]** | _Connect: Admin Chat for Marketing & Creative_ | We're excited to bring the Adobe Insider Tour to Seattle on February 26 - and we'd love for you to join us. | **March 6** | [Register](https://events.teams.microsoft.com/event/07277b90-bf7a-479c-a302-db2c6bbff3b9@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+* **[!DNL Adobe AI - Toronto]** | _Discover new insights and what's next for marketing and AI_ | Get hands-on with the latest Adobe AI innovations, hear from Adobe leaders in an executive keynote, and gain insights from our partners at Accenture and Deloitte, and real customers — all alongside peers shaping what's next. | **March 10** | [Register](https://event.adobe.com/adobe-ai-forum-toronto/il/expleague)
+
+* **[!DNL Adobe Commerce]** | _Learn from your peers webinar: Adobe Commerce_ | Join Adobe Commerce Champions Manav Padhariya and Michael Schenck for an educational session on transforming Adobe Commerce Product Recommendations from a basic feature into a powerful AI-native strategic driver for business growth. | **March 11** | [Register](https://engage.adobe.com/adobe-commerce-product-recommendations.html)
+
+* **[!DNL Experience Cloud]** | _Adobe Insider Tour_ | This free half-day event is packed with expert insights, customer success stories, and opportunities to connect with peers and Adobe product leaders. Discover best practices and learn how to maximize value with Adobe solutions through interactive sessions and discussions. | **March 11** | [Register](https://event.adobe.com/adobe-insider-tour-atlanta)
+
+* **[!DNL Adobe AI - Dallas]** | _Discover new insights and what's next for marketing and AI_ | Get hands-on with the latest Adobe AI innovations, hear from Adobe leaders in an executive keynote, and gain insights from our partners at Accenture and Deloitte, and real customers — all alongside peers shaping what's next. | **March 12** | [Register](https://event.adobe.com/adobe-ai-forum-dallas-il2026/expleague)
 
 * **[!DNL Adobe Summit]** | _See the future of marketing, creativity and AI_ | Discover what's next in marketing, creativity, and AI. | **Las Vegas, April 19-22** | [Register](https://summit.adobe.com/na/)
 
@@ -223,9 +226,9 @@ See [AppMeasurement for JavaScript release notes](https://github.com/adobe/appme
 
 New or updated video tutorials published for Adobe Analytics.
 
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|February 2026|[Adobe Analytics onboarding](https://experienceleague.adobe.com/en/docs/analytics/analyze/admin-overview/onboard)| Video | Onboard to key Adobe platforms that support Adobe Analytics to help you and your organization succeed.|
+| Published | Name | Type | Description |
+| ----------- | ---------- | ---------- | ---------- |
+| March 2026 | [Create and manage data feeds](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/exporting/data-feeds/data-feeds-management-ui) | Updated video | Learn how to export raw clickstream data to import and merge with other data sources in an EDW or data lake. You can create and manage your own Data Feeds within Adobe Analytics. |
 
 ### New [!DNL Analytics] support knowledge base{#kb-analytics}
 
@@ -253,13 +256,13 @@ See [Customer Journey Analytics (CJA) release notes](https://experienceleague.ad
 
 New tutorials published for [!DNL Customer Journey Analytics]. 
 
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|February 2026|[Data Storytelling: Generate slide presentations](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/curate-and-share/data-storytelling-generate-slides.html)| Video |Discover the powerful Data Storytelling feature in Adobe Customer Journey Analytics that uses generative AI to transform your Analysis Workspace projects into professional PowerPoint presentations, complete with curated visualizations, key insights, and a compelling narrative. |
-|February 2026|[Line visualization in Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/line-visualization)| Video |Discover how line visualizations can enhance your understanding of metrics over time. Customize the X/Y axes, show min/max labels, and add trend lines to improve your data insights with Customer Journey Analytics.|
-|February 2026|[Why CJA? A strategic review of CJA vs. Adobe Analytics](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/cja-basics/why-cja-modernize-customer-analytics)| Video |Discover how Adobe Customer Journey Analytics (CJA), built on Adobe Experience Platform, overcomes the limitations of traditional Adobe Analytics.|
-|February 2026|[Multiple dimension columns in freeform tables](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/multiple-dimension-columns-in-freeform-tables)| Video |Make your freeform tables even more powerful with the Multiple Dimension Columns feature in CJA.|
-|February 2026|[Add bar visualizations to Analysis Workspace projects in Customer Journey Analytics](https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/add-bar-visualizations.html)| Video |Learn how to add and configure standard bar and stacked bar visualizations in Analysis Workspace projects in Customer Journey Analytics.|
+| Published | Name | Type | Description |
+| ----------- | ---------- | ---------- | ---------- |
+| March 2026 | [Real-time reporting](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/components/real-time-reporting) | Video | Discover how real-time reporting in Adobe Customer Journey Analytics delivers key metrics like revenue, conversions, and visits directly in Analysis Workspace. |
+| March 2026 | [Get started with Audience Analysis](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/connections/get-started-with-audience-analysis) | Video | Discover how Audience Analysis lets marketers ingest audience segments from Experience Platform and analyze real customer behaviors across channels. |
+| March 2026 | [Add donut visualizations to Analysis Workspace projects](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/add-donut-visualizations) | Updated video | Learn how to add and configure donut visualizations to Analysis Workspace projects in Customer Journey Analytics. This visualization is ideal to use when comparing percentages of a total for a few items. |
+| March 2026 | [Add text visualizations to Analysis Workspace projects](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/add-text-visualizations) | Updated video | Learn to add and configure text visualizations in Analysis Workspace for Customer Journey Analytics. This is useful when you want to convey concerns about metrics or add context to other data in a project. |
+| March 2026 | [Add bullet graph visualizations to Analysis Workspace projects](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/add-bullet-graph-visualizations) | Updated video | Learn how bullet graphs are used and how to add them to Analysis Workspace projects in Customer Journey Analytics. This graph shows you how a value of interest compares to or measures against goals. |
 
 ### New [!DNL Customer Journey Analytics] support knowledge base{#kb-cja}
 
@@ -366,14 +369,6 @@ See [LLM Optimizer](https://experienceleague.adobe.com/en/docs/llm-optimizer/usi
 +++
 
 ## [!DNL Brand Concierge] {#brand-concierge}
-
-Find the latest tutorials and videos for [!DNL Brand Concierge].
-
-+++New tutorials
-
-| Published | Name | Type | Description |
-| -----------| ---------- | ---------- | ---------- |
-|January 2026|[Book a meeting](https://experienceleague.adobe.com/en/docs/brand-concierge/content/getting-started/meeting-booking)| Video |Learn how to book a meeting. See the experience as a customer, configure representatives to use their calendar and view reports|
 
 Visit the [Adobe Brand Concierge](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home) tutorial home page for more information.
 
