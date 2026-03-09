@@ -23,7 +23,7 @@ Latest update: **March 9, 2026**
 
 [Learn more](https://experienceleague.adobe.com/en/courses)
 
-**Product links on this page**
+**Section links on this page**
 
 * [Event schedule](#events) 
 * [[!DNL Adobe System Status]](#status)
@@ -133,19 +133,12 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 
 ## [!DNL Adobe Brand Concierge] {#brand-concierge}
 
-Visit the [Adobe Brand Concierge](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home) tutorial home page for more information.
-
-+++
+Visit the [Adobe Brand Concierge](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home) tutorial home page for help.
 
 ## [!DNL Adobe LLM Optimizer] {#llm-optimizer}
 
-Find help for LLM Optimizer, Adobe's new generative AI-first application for Generative Engine Optimization. 
+Visit the [LLM Optimizer](https://experienceleague.adobe.com/en/docs/llm-optimizer/using/home) documentation home for help.
 
-+++Latest tutorials
-
-See [LLM Optimizer](https://experienceleague.adobe.com/en/docs/llm-optimizer/using/home) documentation home for help.
-
-+++
 
 ## [!DNL Adobe Experience Platform] {#platform}
 
@@ -315,7 +308,7 @@ See [What's new in [!DNL Advertising DSP]](https://experienceleague.adobe.com/en
   
 ### New features in [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
 
-January 21, 2026
+February 25, 2026
 
 See [What's new in [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/home)
 
@@ -405,16 +398,16 @@ Get access to release notes, new tutorials, and Knowledge Base support articles 
 * See [Adobe [!DNL Commerce] Services Guides](https://experienceleague.adobe.com/en/docs/commerce/user-guides/home) to see Commerce Services release information and documentation.
 * See [Product Availability](https://experienceleague.adobe.com/en/docs/commerce-operations/release/product-availability) to access individual product release notes and verify availability.
 
-### New tutorials for [!DNL Adobe Commerce] {#tutorials-commerce}
+<!-- ### New tutorials for [!DNL Adobe Commerce] {#tutorials-commerce}
 
 New tutorials for [!DNL Adobe Commerce] on Experience League.
 
 | Published | Name | Type | Description |
-| -----------| ---------- | ---------- | ---------- |
-|January 2026|[Observability overview](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/observability/overview)| Video |Learn why centralized observability is essential for modern Adobe Commerce architectures.|
-|January 2026|[Open telemetry](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/observability/open-telemetry)| Video |Learn how Open Telemetry standardizes observability across logs, traces, and metrics without locking you into a single monitoring tool. |
-|January 2026|[Setup and Configuration](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/observability/demo-setup-configuration)| Video |Learn how to achieve end-to-end observability across Adobe Commerce and custom applications using standardized, correlated telemetry.|
-|January 2026|[Observability demo](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/observability/demo)| Video |Learn how Adobe Commerce uses observability, webhooks, and event correlation for seamless order tracking and debugging.|
+| ----------- | ---------- | ---------- | ---------- |
+| January 2026 | [Observability overview](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/observability/overview) | Video | Learn why centralized observability is essential for modern Adobe Commerce architectures. |
+| January 2026 | [Open telemetry](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/observability/open-telemetry)| Video | Learn how Open Telemetry standardizes observability across logs, traces, and metrics without locking you into a single monitoring tool. |
+| January 2026 | [Setup and Configuration](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/observability/demo-setup-configuration) | Video | Learn how to achieve end-to-end observability across Adobe Commerce and custom applications using standardized, correlated telemetry. |
+| January 2026 |[Observability demo](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/observability/demo) | Video | Learn how Adobe Commerce uses observability, webhooks, and event correlation for seamless order tracking and debugging. | -->
 
 ### New [!DNL Commerce] support knowledge base{#kb-commerce}
 
@@ -466,11 +459,11 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials and Knowled
 
 ### Latest Campaign product releases
 
-* [!DNL Web User Interface]: January 27, 2026 - [Release notes](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
+* [!DNL Web User Interface]: February 2026 - [Release notes](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home)
 
 * [!DNL Campaign] v8: 8.9.1 - January 27, 2026 - [Release notes](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home)
 
-* [!DNL Campaign Standard]: 25.2 - Summer 2025 - [Release notes](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
+* [!DNL Campaign Standard]: 26.1 - [Release notes](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
 
 * [!DNL Campaign Classic] 7.4.2: May 12, 2025 - [Release notes](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/campaign-classic-home)
 
@@ -545,7 +538,7 @@ Learn about the latest release information for [!DNL Journey Optimizer B2B Editi
 
 +++Release notes and documentation
 
-Latest release: **2026.1 - February 3, 2026**
+Latest release: **2026.2 - February 20, 2026**
 
 See [AJO B2B Edition release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes) for details.
 
@@ -559,8 +552,8 @@ See [AJO B2B Edition release notes](https://experienceleague.adobe.com/en/docs/j
 New videos, tutorials, or courses published for Journey Optimizer B2B Edition.
 
 |Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|February 2026|[Using the Account Qualification Agent](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/buying-groups/account-qualification-agent)|Video |Learn how to use the Account Qualification Agent in Journey Optimizer B2B Edition.|
+| ----------- | ---------- | ---------- | ---------- |
+| February 2026 | [Using the Account Qualification Agent](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/buying-groups/account-qualification-agent)|Video | Learn how to use the Account Qualification Agent in Journey Optimizer B2B Edition. |
 
 +++
 
@@ -572,7 +565,7 @@ Find out the latest release notes and release schedule for [!DNL Marketo Engage]
 
 ### Core Marketo Engage updates
 
-Latest release: **January 2026**
+Latest release: **February 2026**
 
 * [Current release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current)
 * [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/release-schedule)
@@ -607,8 +600,6 @@ Learn about the latest release notes for [!DNL Adobe Workfront]. Find new tutori
 ### [!DNL Adobe Workfront] updates
 
 * [First Quarter 2026 release overview](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q1/26-q1-release-overview)
-
-* [Fourth Quarter 2025 release overview](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-25-q4/25-q4-release-overview)
 
 For all release information:
 
