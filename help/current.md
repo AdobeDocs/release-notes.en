@@ -23,20 +23,22 @@ Latest update: **March 9, 2026**
 
 [Learn more](https://experienceleague.adobe.com/en/courses)
 
-**Products links on this page**
+**Product links on this page**
 
 * [Event schedule](#events) 
-* [AI features in [!DNL Experience Cloud]](#ai)
 * [[!DNL Adobe System Status]](#status)
-* [[!DNL Adobe Experience Cloud] - central interface and administration](#ecloud) 
+* [[!DNL Adobe Experience Cloud] administration](#ecloud)
+* [AI in Experience Cloud](#ai)
+* [[!DNL Adobe Brand Concierge]](#brand-concierge)
+* [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
 * [[!DNL Adobe Experience Platform]](#platform) 
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics)
 * [[!DNL Adobe Customer Journey Analytics]](#cja)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
+* [[!DNL Adobe Mix Modeler]](#mix-modeler)
+* [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Experience Manager]](#aem)
-* [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
-* [[!DNL Adobe Brand Concierge]](#brand-concierge)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
 * [[!DNL Adobe Campaign]](#ac)
@@ -45,8 +47,6 @@ Latest update: **March 9, 2026**
 * [[!DNL Adobe Marketo Engage]](#marketo)
 * [[!DNL Adobe Workfront]](#workfront)
 * [[!DNL Adobe GenStudio for Performance Marketing]](#genstudio-marketing)
-* [[!DNL Adobe Mix Modeler]](#mix-modeler)
-* [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Pass]](#pass)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
@@ -75,23 +75,6 @@ And many more! View the complete listing of [upcoming](https://experienceleague.
 
 +++
 
-## Latest AI resources on Experience League {#ai}
-
-Find the latest learning resources published for generative AI (genAI), AI Assistant, and AI agents in Experience Cloud.
-
-+++Details
-
-| Product | Resource | Description | Updated |
-| ------- | ------- | ------- | ------- |
-| [!DNL Experience Cloud] | [Adobe Experience Platform Agents for Improved Marketing Efficiency and Better Business outcomes](https://www.youtube.com/live/VlxHXfEnqjI) | This exclusive session features an insightful Q&A session with Anjul Bhambhri, Senior Vice President of Adobe Experience Cloud. Discover Adobe's journey and bold vision to provide innovative Agentic AI capabilities that empower marketing and creative practitioners to automate complex steps, accelerate decision-making, and expand their teams' capacity without compromising control or oversight. | **March 3, 2026** |
-| [!DNL Experience Cloud] | [Agent jobs and AI credits consumption](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption) | Learn about agent jobs and AI credit consumption rates in Experience Cloud applications. | **March 3, 2026** |
-| [!DNL Experience Cloud] | [Agentic AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | Learn about enabling agentic AI in Experience Cloud. Learn how agent jobs and AI credit consumption works. | **March 3, 2026** |
-| [!DNL Experience Manager as a Cloud Service] | [Agentic AI in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/overview?#agentic-ai-in-aem)| Learn about new AI agents in AEM CS. | November 21, 2025 |
-| [!DNL Experience Cloud] | [Generative AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai)| Learn where AI-powered features are available in Experience Cloud. | November 2025 |
-| AI documentation home | [AI Documentation](https://experienceleague.adobe.com/en/docs/ai) | To find links to information about AI-powered features (generative AI and AI agents) in Experience Cloud, visit the new product documentation landing.| October 2025 |
-
-+++
-
 ## [!DNL Adobe System Status] {#status}
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
@@ -113,7 +96,7 @@ Previous release notes for [!DNL Adobe System Status]:
 
 +++
 
-## [!DNL Experience Cloud] admin and central interface {#ecloud}
+## [!DNL Adobe Experience Cloud] administration {#ecloud}
 
 Learn about updates to [!DNL Experience Cloud] administration and central interface components. 
 
@@ -131,7 +114,40 @@ See the [Experience Cloud interface and administration](https://experienceleague
 
 +++
 
-## [!DNL Experience Platform] {#platform}
+## AI in Experience Cloud {#ai}
+
+Find the latest learning resources published for generative AI (genAI), AI Assistant, and AI agents in Experience Cloud.
+
++++Details
+
+| Product | Resource | Description | Updated |
+| ------- | ------- | ------- | ------- |
+| [!DNL Experience Cloud] | [Adobe Experience Platform Agents for Improved Marketing Efficiency and Better Business outcomes](https://www.youtube.com/live/VlxHXfEnqjI) | This exclusive session features an insightful Q&A session with Anjul Bhambhri, Senior Vice President of Adobe Experience Cloud. Discover Adobe's journey and bold vision to provide innovative Agentic AI capabilities that empower marketing and creative practitioners to automate complex steps, accelerate decision-making, and expand their teams' capacity without compromising control or oversight. | **March 3, 2026** |
+| [!DNL Experience Cloud] | [Agent jobs and AI credits consumption](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption) | Learn about agent jobs and AI credit consumption rates in Experience Cloud applications. | **March 3, 2026** |
+| [!DNL Experience Cloud] | [Agentic AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | Learn about enabling agentic AI in Experience Cloud. Learn how agent jobs and AI credit consumption works. | **March 3, 2026** |
+| [!DNL Experience Manager as a Cloud Service] | [Agentic AI in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/overview?#agentic-ai-in-aem)| Learn about new AI agents in AEM CS. | November 21, 2025 |
+| [!DNL Experience Cloud] | [Generative AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai)| Learn where AI-powered features are available in Experience Cloud. | November 2025 |
+| AI documentation home | [AI Documentation](https://experienceleague.adobe.com/en/docs/ai) | To find links to information about AI-powered features (generative AI and AI agents) in Experience Cloud, visit the new product documentation landing.| October 2025 |
+
++++
+
+## [!DNL Adobe Brand Concierge] {#brand-concierge}
+
+Visit the [Adobe Brand Concierge](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home) tutorial home page for more information.
+
++++
+
+## [!DNL Adobe LLM Optimizer] {#llm-optimizer}
+
+Find help for LLM Optimizer, Adobe's new generative AI-first application for Generative Engine Optimization. 
+
++++Latest tutorials
+
+See [LLM Optimizer](https://experienceleague.adobe.com/en/docs/llm-optimizer/using/home) documentation home for help.
+
++++
+
+## [!DNL Adobe Experience Platform] {#platform}
 
 Find latest release information and new documentation for [!DNL Experience Platform] and [!UICONTROL Mobile SDK]. View new tutorials and Knowledge Base support articles.
 
@@ -174,7 +190,7 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 
 +++
 
-## [!DNL Real-Time CDP] {#rtcdp}
+## [!DNL Adobe Real-Time CDP] {#rtcdp}
 
 Find the latest tutorials for [!DNL Real-Time CDP].
 
@@ -192,7 +208,7 @@ For help, see:
 
 +++
 
-## [!DNL Analytics] {#analytics}
+## [!DNL Adobe Analytics] {#analytics}
 
 Find the latest release information for [!DNL Adobe Analytics] and [!DNL AppMeasurement]. View new tutorials and Support articles.
 
@@ -226,7 +242,7 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 +++
 
-## [!DNL Customer Journey Analytics] {#cja}
+## [!DNL Adobe Customer Journey Analytics] {#cja}
 
 Find the latest release information for [!DNL Customer Journey Analytics]. View new tutorials on Experience League.
 
@@ -261,7 +277,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 
 +++
 
-## [!DNL Streaming Media Analytics] {#sma}
+## [!DNL Adobe Streaming Media Analytics] {#sma}
 
 Find the latest release information for [!DNL Streaming Media Analytics]. View new tutorials on Experience League.
 
@@ -275,7 +291,37 @@ Updated: **October 2025**
 
 +++
 
-## [!DNL Experience Manager] {#aem}
+## [!DNL Adobe Mix Modeler] {#mix-modeler}
+
++++Release notes and documentation
+
+See Mix Modeler [November 2025 - Release notes](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest) for details
+
++++
+
+## [!DNL Adobe Advertising] {#advertising}
+
+Find latest release information and new documentation for [!DNL Adobe Advertising].
+
++++Release notes
+
+To browse Adobe [!DNL Advertising] help, visit [Adobe Advertising Documentation](https://experienceleague.adobe.com/en/docs/advertising).
+
+### New features in [!DNL Advertising DSP] {#advertising-dsp}
+
+January 21, 2026
+
+See [What's new in [!DNL Advertising DSP]](https://experienceleague.adobe.com/en/docs/advertising/dsp/home)
+  
+### New features in [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
+
+January 21, 2026
+
+See [What's new in [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/home)
+
++++
+
+## [!DNL Adobe Experience Manager] {#aem}
 
 New features, fixes, and updates in [!DNL Experience Manager]. Adobe recommends customers with On-Premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
 
@@ -349,23 +395,7 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 
 +++
 
-## [!DNL Adobe LLM Optimizer] {#llm-optimizer}
-
-Find help for LLM Optimizer, Adobe's new generative AI-first application for Generative Engine Optimization. 
-
-+++Latest tutorials
-
-See [LLM Optimizer](https://experienceleague.adobe.com/en/docs/llm-optimizer/using/home) documentation home for help.
-
-+++
-
-## [!DNL Brand Concierge] {#brand-concierge}
-
-Visit the [Adobe Brand Concierge](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home) tutorial home page for more information.
-
-+++
-
-## [!DNL Commerce] {#commerce}
+## [!DNL Adobe Commerce] {#commerce}
 
 Get access to release notes, new tutorials, and Knowledge Base support articles for [!DNL Adobe Commerce].
 
@@ -409,7 +439,7 @@ New articles and updates to existing articles for Adobe Commerce.
 
 +++
 
-## [!DNL Target] {#target}
+## [!DNL Adobe Target] {#target}
 
 Get access to pre-release notes, current release notes, and new tutorials for [!DNL Adobe Target].
 
@@ -428,7 +458,7 @@ Released: **26.1.2 - January 30, 2026**
 
 +++
 
-## [!DNL Campaign] {#ac}
+## [!DNL Adobe Campaign] {#ac}
 
 Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials and Knowledge Base support articles on Experience League. 
 
@@ -470,7 +500,7 @@ New articles and updates to existing articles for [!DNL Campaign].
 
 +++
 
-## [!DNL Journey Optimizer] {#journey-opt}
+## [!DNL Adobe Journey Optimizer] {#journey-opt}
 
 Learn about the latest release information for [!DNL Journey Optimizer]. View the latest tutorials and Knowledge Base support articles on Experience League.
 
@@ -509,7 +539,7 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].
 
 +++
 
-## [!DNL Journey Optimizer B2B Edition] {#ajo-b2b}
+## [!DNL Adobe Journey Optimizer B2B Edition] {#ajo-b2b}
 
 Learn about the latest release information for [!DNL Journey Optimizer B2B Edition]. 
 
@@ -534,7 +564,7 @@ New videos, tutorials, or courses published for Journey Optimizer B2B Edition.
 
 +++
 
-## [!DNL Marketo Engage] {#marketo}
+## [!DNL Adobe Marketo Engage] {#marketo}
 
 Find out the latest release notes and release schedule for [!DNL Marketo Engage].
 
@@ -568,7 +598,7 @@ New articles and updates to existing articles for [!DNL Marketo].
 
 +++
 
-## [!DNL Workfront] {#workfront}
+## [!DNL Adobe Workfront] {#workfront}
 
 Learn about the latest release notes for [!DNL Adobe Workfront]. Find new tutorials on Experience League.
 
@@ -614,7 +644,7 @@ For the latest product documentation, see the [Adobe [!DNL Workfront] documentat
 
 +++
 
-## GenStudio for Performance Marketing {#genstudio-marketing}
+## [!DNL Adobe GenStudio for Performance Marketing] {#genstudio-marketing}
 
 Find latest release information and new documentation for [!DNL GenStudio for Performance Marketing].
 
@@ -638,36 +668,6 @@ Video tutorials for GenStudio for Performance Marketing.
 
 +++
 
-## [!DNL Mix Modeler] {#mix-modeler}
-
-+++Release notes and documentation
-
-See Mix Modeler [November 2025 - Release notes](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest) for details
-
-+++
-
-## Adobe [!DNL Advertising] {#advertising}
-
-Find latest release information and new documentation for [!DNL Adobe Advertising].
-
-+++Release notes
-
-To browse Adobe [!DNL Advertising] help, visit [Adobe Advertising Documentation](https://experienceleague.adobe.com/en/docs/advertising).
-
-### New features in [!DNL Advertising DSP] {#advertising-dsp}
-
-January 21, 2026
-
-See [What's new in [!DNL Advertising DSP]](https://experienceleague.adobe.com/en/docs/advertising/dsp/home)
-  
-### New features in [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
-
-January 21, 2026
-
-See [What's new in [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/home)
-
-+++
-
 ## [!DNL Adobe Pass] {#pass}
 
 [!DNL Adobe Pass] is a multi-screen TV platform that helps broadcasters, cable networks, and service providers create and monetize engaging, personalized viewing experiences.
@@ -678,7 +678,7 @@ See [Adobe Pass Documentation](https://experienceleague.adobe.com/en/docs/pass) 
 
 +++
 
-## [!DNL Document Cloud] {#doc-cloud}
+## [!DNL Adobe Document Cloud] {#doc-cloud}
 
 View new tutorials published for [!DNL Document Cloud], including [!DNL Acrobat Services] and [!DNL Acrobat Sign].
 
@@ -698,7 +698,7 @@ To browse [!DNL Document Cloud] tutorials, see:
 
 +++
 
-## [!DNL Creative Cloud] for enterprise {#creative-cloud}
+## [!DNL Adobe Creative Cloud] for enterprise {#creative-cloud}
 
 Vew new tutorials published for applications in [!DNL Adobe Creative Cloud for enterprise], including Firefly.
 
