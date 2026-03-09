@@ -2,13 +2,13 @@
 title: Central Release Notes
 description: Find links to Experience Cloud application release notes. View new tutorial videos, read Support articles, and locate self-help resources on Experience League. 
 doc-type: release notes
-last-update: February 2026
+last-update: March 2026
 author: mfrei
 mini-toc-levels: 2
 badgeReview: label="Internal Review" type="Negative"
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
-# Experience Cloud central release notes - February 2026
+# Experience Cloud central release notes - March 2026
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -19,7 +19,7 @@ This page helps you:
 * View new video tutorials per application
 * See the latest Support articles 
 
-Latest update: **March 7, 2026**
+Latest update: **March 9, 2026**
 
 ## New and updated learning resources
 
@@ -602,9 +602,10 @@ For all release information:
 
 New [!DNL Workfront] tutorials and events on Experience League.
 
-|Published|Name|Type|Description |
-| -----------| ---------- | ---------- | ---------- |
-|January 2026|[Use Adobe Workfront plugins to integrate with Creative Cloud](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud)|Video | Integrate Workfront with Creative Cloud. You can find and update the work assigned to you in Workfront without leaving Creative Cloud applications (Photoshop, XD, InDesign, Illustrator, Premiere Pro, and After Effects). |
+| Published | Name | Type | Description |
+| ----------- | ---------- | ---------- | ---------- |
+| March 2026 | [Install and use a Blueprint](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/install-and-use-a-blueprint) | Video | Learn how an Administrator installs a blueprint and how a user puts it to use. In this example we will install the "Workfront Training for New Users" blueprint, and use the templates and views it creates as a training checklist to help enable users in Workfront. |
+| March 2026 | [Initial scenario design walkthrough](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough) | Video | Create a new project in Workfront for each row in the Project List CSV file. |
 
 <!--
 ### New [!DNL Workfront] support knowledge base
