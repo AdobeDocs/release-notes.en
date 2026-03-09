@@ -79,11 +79,12 @@ And many more! View the complete listing of [upcoming](https://experienceleague.
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/).
 
-+++Release notes
-
-Previous release notes for [!DNL Adobe System Status]:
+Latest release notes:
 
 * [December 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2026/01142026#status) 
+
++++Previous release notes
+
 * [August 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2025/08132025#status)
 * [April 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2025/04162025#status)
 * [August 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/09122024#status)
