@@ -299,9 +299,9 @@ New features, fixes, and updates in [!DNL Experience Manager]. Adobe recommends 
 
 New: [Agentic AI in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/overview?#agentic-ai-in-aem)
 
-Current release: **2026.1.0 - January 29, 2026**
+Current release: **2026.2.0 - March 3, 2026**
 
-The next feature release (2026.2.0) is planned for **February 26, 2026**.
+The next feature release (2026.3.0) is planned for **March 26, 2026**.
 
 * [Release notes home for AEM CS](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)
 * [Latest AEM CS release overview video](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview)
@@ -321,10 +321,15 @@ Other [!DNL Experience Manager] product release notes are maintained at the foll
 New video and written tutorials (articles) published for [!DNL Experience Manager as a Cloud Service].
 
 | Published | Applications | Name | Format | Description |
-| ----------| ---------- | ---------- | ---------- |---------- |
-|February 2026| [!DNL AEM CS] | [Development Agent overview](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/agents/development/overview)| Video | Learn how the Development Agent in AEM analyzes failed pipelines in Cloud Manager and build logs to suggest code fixes and speed up debugging. |
-|February 2026| [!DNL AEM Assets] | [Adobe Snapshot](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/dynamic-media-snapshot.html)| Video | Adobe Snapshot is a visual demonstration tool, designed to illustrate the power of Dynamic Media for optimized and dynamic image delivery. |
-|February 2026| [!DNL AEM CS] | [Content restore in AEM as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/cloud-manager/content-restore)| Video | Learn how to restore content in AEM as a Cloud Service with this step-by-step tutorial. Understand when and how to recover prior content efficiently, ensuring content integrity. |
+| ---------- | ---------- | ---------- | ---------- | ---------- |
+| March 2026 | [!DNL AEM CS] | [Custom SAML hooks for advanced use cases](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/authentication/saml-2-0#custom-saml-hooks-for-advanced-use-cases) | Video | Learn how the SamlHook enables you to write custom code to modify user profile or assign users to groups. |
+| March 2026 | [!DNL AEM Forms] | [Create Reusable Interactive Communication Fragments](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/interactive-communication-tutorial/create-fragments) | Video | Learn how to develop reusable fragments for interactive communication documents. Optimize layouts and ensure dynamic data binding for customer address and letter body sections. Enhance document design with formatting, positioning, and margin controls. |
+| March 2026 | [!DNL AEM Forms] | [Create IC Document Using Templates](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/interactive-communication-tutorial/create-ic-document) | Video | Create Interactive Communication documents using predefined templates and reusable fragments. |
+| March 2026 | [!DNL AEM Forms] | [Generate IC Document Using API](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/interactive-communication-tutorial/test-document-generation) | Video | Learn how to generate interactive communication documents using the API and Postman. |
+| March 2026 | [!DNL AEM Forms] | [Create Interactive Communication Template](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/interactive-communication-tutorial/create-template) | Video | Discover how to create interactive communication templates to standardize outgoing communications. These templates ensure consistency, governance, and brand alignment in customer communications. Learn the process of template creation, editing, and enabling for future use, using tools like IC Web Designer and Object Library. |
+| March 2026 | [!DNL AEM CS] | [AI Search](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/ai-search) | Video | Discover how AEM Assets AI Search transforms your search experience by intelligently surfacing the most relevant assets every time. Learn how to enable AI Search in both AEM Assets View and Admin View to start benefiting from smarter search right away. |
+| March 2026 | [!DNL AEM Forms] | [Create Form Data Model for IC Document](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/interactive-communication-tutorial/create-form-data-model) | Video | Create a Forms Data Model to integrate external data sources with Interactive Communication in Adobe AEM. This process involves setting up a RESTful service, uploading a Swagger file, and configuring service endpoints to dynamically retrieve and bind data. |
+| March 2026 | [!DNL AEM CS] | [Find and remove deprecated APIs in AEM as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/developing/advanced/deprecated-apis-find-removal) | Video | Learn how to find and remove deprecated APIs in AEM as a Cloud Service. |
 
 ### New [!DNL Experience Manager] support knowledge base{#kb-aem}
 
