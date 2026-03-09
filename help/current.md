@@ -151,21 +151,19 @@ Find latest release information and new documentation for [!DNL Experience Platf
 
 **Experience Platform**
 
-**January 27, 2026** updates: See [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest) for details.
+**February 17, 2026** updates: See [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest) for details.
 
 **Mobile SDK**
 
-Updated: **January 29, 2026**
-
 See [[!DNL Experience Platform] Mobile SDK release notes](https://developer.adobe.com/client-sdks/documentation/release-notes/) for details.
 
-<!-- ### New [!DNL Experience Platform] tutorials{#tutorials-aep}
+### New [!DNL Experience Platform] tutorials{#tutorials-aep}
 
 New tutorials published for Adobe [!DNL Experience Platform] on Experience League.
 
 | Published | Applications | Name | Type | Description |
-| ----------| ---------- | ---------- | ---------- |---------- |
-|November 2025| [!DNL Experience Platform] | [Use the Adobe Experience Platform Agent Orchestrator interface](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/ai-assistant/agent-orchestrator-ui)| Video | Learn how to interact with Experience Cloud solutions through contextual prompts, dynamic objects, and multiple specialized agents using Adobe Experience Platform Agent Orchestrator.  | -->
+| ---------- | ---------- | ---------- | ---------- | ---------- |
+| March 2026 | [!DNL Experience Platform] | [Monitor Experience Platform events in Slack](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/monitoring/monitor-events-in-slack) | Video | Learn how to receive Experience Platform notifications in Slack by integrating with an Adobe App Builder webhook proxy. |
 
 ### New [!DNL Experience Platform] support knowledge base{#kb-aep}
 
