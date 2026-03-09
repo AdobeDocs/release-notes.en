@@ -21,18 +21,6 @@ This page helps you:
 
 Latest update: **March 9, 2026**
 
-## New and updated learning resources
-
-[Courses](https://experienceleague.adobe.com/en/courses) are available on Experience League. They provide structured, expert-created learning that help you build skills faster, validate expertise, and advance more confidently across Adobe's solutions. 
-
-* Available at no cost
-* Bite-sized modules that make complex topics easy to complete
-* Progress tracking that lets you pause and resume anytime
-* Knowledge checks and quizzes reinforce understanding and validate learning at each stage
-* A free, shareable certificate of completion, awarded when you meet the course requirements
-
-Each course concludes with a shareable certificate of completion, giving you a tangible way to highlight your achievements internally or on LinkedIn. 
-
 [Learn more](https://experienceleague.adobe.com/en/courses)
 
 **Products links on this page**
