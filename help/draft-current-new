@@ -109,7 +109,8 @@ See more [upcoming events](https://experienceleague.adobe.com/events/) or browse
 
 See [Content Supply Chain](https://experienceleague.adobe.com/en/docs/content-supply-chain-learn/tutorials/overview) for the latest tutorials on Experience League. 
 
-<!-- +++Details
+<!-- 
++++Details
 
 | Published | Name | Type | Description |
 | -----------| ---------- | ---------- | ---------- |
@@ -117,7 +118,8 @@ See [Content Supply Chain](https://experienceleague.adobe.com/en/docs/content-su
 
 {style="table-layout:auto"}
 
-+++ -->
++++ 
+-->
 
 ## Certification{#certification}
 
@@ -303,7 +305,8 @@ Find the latest release information for [!DNL Customer Journey Analytics]. View 
 
 * [!DNL Customer Journey Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/customer-journey-analytics)
 
-<!-- ### New [!DNL Customer Journey Analytics] tutorials and courses {#tutorials-cja}
+<!-- 
+### New [!DNL Customer Journey Analytics] tutorials and courses {#tutorials-cja}
 
 New videos, tutorials, or courses published for [!DNL Customer Journey Analytics].
 
@@ -314,7 +317,7 @@ New videos, tutorials, or courses published for [!DNL Customer Journey Analytics
 |March 2024|[Add forecasting to your visualization](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/analysis-workspace/visualizations/forecasting)|Video |Learn how to add forecasting numbers to your time series visualization in Customer Journey Analytics.|
 
 {style="table-layout:auto"}
- -->
+-->
 
 +++
 
@@ -485,7 +488,8 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials, courses, a
 
 * [!DNL Campaign Standard]: [Release notes](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes) | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home)
 
-<!-- ### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
+<!-- 
+### New [!DNL Campaign] tutorials and courses {#tutorials-campaign}
 
 New or updated videos tutorials published for Adobe Campaign.
 
@@ -493,7 +497,8 @@ New or updated videos tutorials published for Adobe Campaign.
 | ----------| ---------- | ---------- | ---------- |---------- |
 |March 2024|Control Panel |[Full subdomain delegation](https://experienceleague.adobe.com/en/docs/control-panel-learn/tutorials/subdomains-and-certificates/subdomain-delegation)|Video |Learn how to fully delegate a subdomain to Adobe Campaign.|
 |March 2024|Campaign v8 Web |[Preview and proof an email delivery](https://experienceleague.adobe.com/en/docs/campaign-web-learn/tutorials/messages-and-deliveries/preview-and-proof-an-email-delivery)|Video |Learn how to preview email message content and personalization, send test deliveries (proofs) to specific recipients or subscribers for testing and validation, and check the email rendering in popular desktop, mobile and web-based clients.|
-|March 2024|Campaign v8 |[Leaping ahead with the new Adobe Campaign Web User Interface](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24)|Event video |View this Experience League Live session, where Adobe Campaign product experts showcase how to plan, launch, and measure cross-channel campaigns in the new user experience.| -->
+|March 2024|Campaign v8 |[Leaping ahead with the new Adobe Campaign Web User Interface](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24)|Event video |View this Experience League Live session, where Adobe Campaign product experts showcase how to plan, launch, and measure cross-channel campaigns in the new user experience.| 
+-->
 
 ### New [!DNL Campaign] support knowledge base{#kb-campaign}
 
@@ -576,7 +581,8 @@ Find out the latest release notes and release schedule for [!DNL Marketo Engage]
 * See [June 2024 - current release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current) for the latest information
 * See [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/release-schedule) for the latest release schedule information and release notes.
 
-<!-- ### New Marketo tutorials and courses {#tutorials-marketo}
+<!-- 
+### New Marketo tutorials and courses {#tutorials-marketo}
 
 New videos, tutorials, or courses published for Adobe Marketo.
 
@@ -584,7 +590,8 @@ New videos, tutorials, or courses published for Adobe Marketo.
 | -----------| ---------- | ---------- | ---------- |
 |March 2024|[Executable Campaigns - Learn how executables can drive efficiency and impact](https://experienceleague.adobe.com/en/docs/events/deep-dives-recordings/deep-dives-marketo/executable-campaigns)|Event video |The session is tailored for Marketo admins and campaign operations professionals and focuses on understanding and deploying executable campaigns to add value to campaigns and programs, create efficiencies, and drive growth.|
 
-{style="table-layout:auto"} -->
+{style="table-layout:auto"} 
+-->
 
 For the latest product documentation, see the [Marketo product documentation](https://experienceleague.adobe.com/en/docs/marketo/using/home) home
 
