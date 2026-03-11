@@ -18,7 +18,7 @@ This page helps you:
 * View new video tutorials per application
 * See the latest Support articles 
 
-Latest update: **March 9, 2026**
+Latest update: **March 11, 2026**
 
 [Learn more](https://experienceleague.adobe.com/en/courses)
 
