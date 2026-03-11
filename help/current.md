@@ -124,6 +124,7 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 
 | Product | Resource | Description | Updated |
 | ------- | ------- | ------- | ------- |
+| [!DNL Acrobat Services] | [Acrobat Analyzer](https://experienceleague.adobe.com/en/docs/events/acrobat-analyzer-webinars/overview) | Explore Adobe Acrobat Analyzer webinars to see how Generative AI extracts structured, auditable insights from documents to automate workflows, reduce risk, and accelerate enterprise decision-making at scale. | **March 10, 2026** |
 | [!DNL Experience Cloud] | [Adobe Experience Platform Agents for Improved Marketing Efficiency and Better Business outcomes](https://www.youtube.com/live/VlxHXfEnqjI) | This exclusive session features an insightful Q&A session with Anjul Bhambhri, Senior Vice President of Adobe Experience Cloud. Discover Adobe's journey and bold vision to provide innovative Agentic AI capabilities that empower marketing and creative practitioners to automate complex steps, accelerate decision-making, and expand their teams' capacity without compromising control or oversight. | **March 3, 2026** |
 | [!DNL Experience Cloud] | [Agent jobs and AI credits consumption](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption) | Learn about agent jobs and AI credit consumption rates in Experience Cloud applications. | **March 3, 2026** |
 | [!DNL Experience Cloud] | [Agentic AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai) | Learn about enabling agentic AI in Experience Cloud. Learn how agent jobs and AI credit consumption works. | **March 3, 2026** |
@@ -228,6 +229,7 @@ New or updated video tutorials published for Adobe Analytics.
 | Published | Name | Type | Description |
 | ----------- | ---------- | ---------- | ---------- |
 | March 2026 | [Create and manage data feeds](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/exporting/data-feeds/data-feeds-management-ui) | Updated video | Learn how to export raw clickstream data to import and merge with other data sources in an EDW or data lake. You can create and manage your own Data Feeds within Adobe Analytics. |
+| March 2026 | [Find your Data Feed ID](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/exporting/data-feeds/find-your-data-feed-id#find-your-data-feed-id=open-the-data-feeds-interface) | Slides | At times you may need to contact Adobe regarding a data feed file. It can be convenient for the customer support team to handle any request if the data feed ID is provided them by the customer. |
 
 ### New [!DNL Analytics] support knowledge base{#kb-analytics}
 
