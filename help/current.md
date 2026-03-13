@@ -20,9 +20,7 @@ This page helps you:
 
 Latest update: **March 13, 2026**
 
-[Learn more](https://experienceleague.adobe.com/en/courses){target="_blank"}
-
-**Section links on this page**
+On this page:
 
 * [Event schedule](#events) 
 * [[!DNL Adobe System Status]](#status)
