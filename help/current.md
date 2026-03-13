@@ -109,11 +109,11 @@ View the latest release information, new documentation, and Support articles.
 
 **Experience Platform**
 
-**February 17, 2026** updates: See [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest){target="_blank"} for details.
+* [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest){target="_blank"}
 
 **Mobile SDK**
 
-See [[!DNL Experience Platform] Mobile SDK release notes](https://developer.adobe.com/client-sdks/documentation/release-notes/){target="_blank"} for details.
+* [[!DNL Experience Platform] Mobile SDK release notes](https://developer.adobe.com/client-sdks/documentation/release-notes/){target="_blank"}
 
 ### New [!DNL Experience Platform] tutorials{#tutorials-aep}
 
@@ -216,13 +216,13 @@ Find the latest release information for [!DNL Streaming Media Analytics]. View n
 
 Updated: **October 2025**
 
-* [!DNL Streaming Media Analytics] [release notes](https://experienceleague.adobe.com/en/docs/media-analytics/using/release-notes/release-notes){target="_blank"}
+* [Release notes](https://experienceleague.adobe.com/en/docs/media-analytics/using/release-notes/release-notes){target="_blank"}
 
-* [!DNL Streaming Media Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/media-analytics/using/media-overview){target="_blank"}
+* [Product documentation and tutorials](https://experienceleague.adobe.com/en/docs/media-analytics/using/media-overview){target="_blank"}
 
 ## [!DNL Adobe Mix Modeler] {#mix-modeler}
 
-* Mix Modeler [November 2025 - Release notes](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest){target="_blank"}
+* [February 2026 - Release notes](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest){target="_blank"}
 
 ## [!DNL Adobe Advertising] {#advertising}
 
@@ -356,7 +356,7 @@ New articles and updates to existing articles for Adobe Commerce.
 
 Get access to pre-release notes, current release notes, and new tutorials for [!DNL Adobe Target].
 
-Released: **26.1.2 - January 30, 2026**
+Released: **26.3.2 - March 10, 2026**
 
 <!-- 
 ### New [!DNL Target] support knowledge base{#kb-target}
@@ -374,9 +374,9 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials and Knowled
 
 ### Latest Campaign product releases
 
-* [Web User Interface - February 2026](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home){target="_blank"}
+* [Web User Interface - March 2026](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home){target="_blank"}
 
-* [[!DNL Campaign] v8: 8.9.1 - January 27, 2026](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4){target="_blank"} | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home){target="_blank"}
+* [[!DNL Campaign] v8: 8.9.2 - March 11, 2026](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4){target="_blank"} | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home){target="_blank"}
 
 * [[!DNL Campaign Standard]: 26.1](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes){target="_blank"} | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home){target="_blank"}
 
@@ -450,7 +450,7 @@ Learn about the latest release information for [!DNL Journey Optimizer B2B Editi
 
 Latest release: **2026.2 - February 20, 2026**
 
-See [AJO B2B Edition release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes){target="_blank"} for details.
+* [AJO B2B Edition release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes){target="_blank"}
 
 **AJO B2B resources**
 
