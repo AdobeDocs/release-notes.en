@@ -54,14 +54,14 @@ On this page:
 
 ## Event schedule {#events}
 
-* [Upcoming](https://experienceleague.adobe.com/en/events){target="_blank"}
-* [On-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview){target="_blank"} events on Experience League.
+* [Upcoming](https://experienceleague.adobe.com/en/events){target="_blank"} event schedule
+* [On-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview){target="_blank"} event schedule
 
 ## [!DNL Adobe System Status] {#status}
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/){target="_blank"}.
 
-Latest release notes:
+Release notes history:
 
 * [December 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2026/01142026#status){target="_blank"} 
 * [August 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2025/08132025#status){target="_blank"}
@@ -82,7 +82,7 @@ Learn about updates to [!DNL Experience Cloud] administration and central interf
 | -----------| -----------| ---------- | ---------- |
 | **January 14, 2026** | Customizable left navigation menu | You can now customize an application's left navigation menu in Experience Cloud. Reorder navigation items and control their visibility to quickly access the capabilities that matter most. This update helps you streamline workflows, reduce cognitive load, and it supports full keyboard accessibility.| <ul><li>Experience Platform</li><li>Journey Optimizer</li><li>Journey Optimizer B2B Edition</li><li>Dynamic Chat</li></ul> |
 
-See the [Experience Cloud interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud){target="_blank"} guide for help on:
+See [Experience Cloud interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud){target="_blank"} for documentation.
 
 ## AI in Experience Cloud {#ai}
 
@@ -94,17 +94,14 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 | [!DNL Experience Cloud] | [Adobe Experience Platform Agents for Improved Marketing Efficiency and Better Business outcomes](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | This exclusive session features an insightful Q&A session with Anjul Bhambhri, Senior Vice President of Adobe Experience Cloud. Discover Adobe's journey and bold vision to provide innovative Agentic AI capabilities that empower marketing and creative practitioners to automate complex steps, accelerate decision-making, and expand their teams' capacity without compromising control or oversight. | **March 3, 2026** |
 | [!DNL Experience Cloud] | [Agent jobs and AI credits consumption](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | Learn about agent jobs and AI credit consumption rates in Experience Cloud applications. | **March 3, 2026** |
 | [!DNL Experience Cloud] | [Agentic AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai){target="_blank"} | Learn about enabling agentic AI in Experience Cloud. Learn how agent jobs and AI credit consumption works. | **March 3, 2026** |
-| [!DNL Experience Manager as a Cloud Service] | [Agentic AI in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/overview?#agentic-ai-in-aem){target="_blank"}| Learn about new AI agents in AEM CS. | November 21, 2025 |
-| [!DNL Experience Cloud] | [Generative AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai){target="_blank"}| Learn where AI-powered features are available in Experience Cloud. | November 2025 |
-| AI documentation home | [AI Documentation](https://experienceleague.adobe.com/en/docs/ai){target="_blank"} | To find links to information about AI-powered features (generative AI and AI agents) in Experience Cloud, visit the new product documentation landing.| October 2025 |
 
 ## [!DNL Adobe Brand Concierge] {#brand-concierge}
 
-* [Adobe Brand Concierge](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"} tutorial home
+* [Adobe Brand Concierge](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"} help home
 
 ## [!DNL Adobe LLM Optimizer] {#llm-optimizer}
 
-* [LLM Optimizer](https://experienceleague.adobe.com/en/docs/llm-optimizer/using/home){target="_blank"}
+* [LLM Optimizer](https://experienceleague.adobe.com/en/docs/llm-optimizer/using/home){target="_blank"} help home
 
 ## [!DNL Adobe Experience Platform] {#platform}
 
@@ -112,11 +109,11 @@ View the latest release information, new documentation, and Support articles.
 
 **Experience Platform**
 
-**February 17, 2026** updates: See [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest){target="_blank"} for details.
+* [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest){target="_blank"}
 
 **Mobile SDK**
 
-See [[!DNL Experience Platform] Mobile SDK release notes](https://developer.adobe.com/client-sdks/documentation/release-notes/){target="_blank"} for details.
+* [[!DNL Experience Platform] Mobile SDK release notes](https://developer.adobe.com/client-sdks/documentation/release-notes/){target="_blank"}
 
 ### New [!DNL Experience Platform] tutorials{#tutorials-aep}
 
@@ -219,13 +216,13 @@ Find the latest release information for [!DNL Streaming Media Analytics]. View n
 
 Updated: **October 2025**
 
-* [!DNL Streaming Media Analytics] [release notes](https://experienceleague.adobe.com/en/docs/media-analytics/using/release-notes/release-notes){target="_blank"}
+* [Release notes](https://experienceleague.adobe.com/en/docs/media-analytics/using/release-notes/release-notes){target="_blank"}
 
-* [!DNL Streaming Media Analytics] [product documentation and tutorials](https://experienceleague.adobe.com/en/docs/media-analytics/using/media-overview){target="_blank"}
+* [Product documentation and tutorials](https://experienceleague.adobe.com/en/docs/media-analytics/using/media-overview){target="_blank"}
 
 ## [!DNL Adobe Mix Modeler] {#mix-modeler}
 
-* Mix Modeler [November 2025 - Release notes](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest){target="_blank"}
+* [February 2026 - Release notes](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest){target="_blank"}
 
 ## [!DNL Adobe Advertising] {#advertising}
 
@@ -359,7 +356,7 @@ New articles and updates to existing articles for Adobe Commerce.
 
 Get access to pre-release notes, current release notes, and new tutorials for [!DNL Adobe Target].
 
-Released: **26.1.2 - January 30, 2026**
+Released: **26.3.2 - March 10, 2026**
 
 <!-- 
 ### New [!DNL Target] support knowledge base{#kb-target}
@@ -377,9 +374,9 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials and Knowled
 
 ### Latest Campaign product releases
 
-* [Web User Interface - February 2026](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home){target="_blank"}
+* [Web User Interface - March 2026](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home){target="_blank"}
 
-* [[!DNL Campaign] v8: 8.9.1 - January 27, 2026](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4){target="_blank"} | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home){target="_blank"}
+* [[!DNL Campaign] v8: 8.9.2 - March 11, 2026](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4){target="_blank"} | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home){target="_blank"}
 
 * [[!DNL Campaign Standard]: 26.1](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes){target="_blank"} | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home){target="_blank"}
 
@@ -453,7 +450,7 @@ Learn about the latest release information for [!DNL Journey Optimizer B2B Editi
 
 Latest release: **2026.2 - February 20, 2026**
 
-See [AJO B2B Edition release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes){target="_blank"} for details.
+* [AJO B2B Edition release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes){target="_blank"}
 
 **AJO B2B resources**
 
