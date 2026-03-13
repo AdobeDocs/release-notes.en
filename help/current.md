@@ -61,7 +61,7 @@ On this page:
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/){target="_blank"}.
 
-Latest release notes:
+Release notes history:
 
 * [December 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2026/01142026#status){target="_blank"} 
 * [August 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2025/08132025#status){target="_blank"}
@@ -82,7 +82,7 @@ Learn about updates to [!DNL Experience Cloud] administration and central interf
 | -----------| -----------| ---------- | ---------- |
 | **January 14, 2026** | Customizable left navigation menu | You can now customize an application's left navigation menu in Experience Cloud. Reorder navigation items and control their visibility to quickly access the capabilities that matter most. This update helps you streamline workflows, reduce cognitive load, and it supports full keyboard accessibility.| <ul><li>Experience Platform</li><li>Journey Optimizer</li><li>Journey Optimizer B2B Edition</li><li>Dynamic Chat</li></ul> |
 
-See the [Experience Cloud interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud){target="_blank"} guide for help on:
+See [Experience Cloud interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud){target="_blank"} for documentation.
 
 ## AI in Experience Cloud {#ai}
 
@@ -94,17 +94,14 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 | [!DNL Experience Cloud] | [Adobe Experience Platform Agents for Improved Marketing Efficiency and Better Business outcomes](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | This exclusive session features an insightful Q&A session with Anjul Bhambhri, Senior Vice President of Adobe Experience Cloud. Discover Adobe's journey and bold vision to provide innovative Agentic AI capabilities that empower marketing and creative practitioners to automate complex steps, accelerate decision-making, and expand their teams' capacity without compromising control or oversight. | **March 3, 2026** |
 | [!DNL Experience Cloud] | [Agent jobs and AI credits consumption](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | Learn about agent jobs and AI credit consumption rates in Experience Cloud applications. | **March 3, 2026** |
 | [!DNL Experience Cloud] | [Agentic AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai){target="_blank"} | Learn about enabling agentic AI in Experience Cloud. Learn how agent jobs and AI credit consumption works. | **March 3, 2026** |
-| [!DNL Experience Manager as a Cloud Service] | [Agentic AI in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/overview?#agentic-ai-in-aem){target="_blank"}| Learn about new AI agents in AEM CS. | November 21, 2025 |
-| [!DNL Experience Cloud] | [Generative AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/generative-ai){target="_blank"}| Learn where AI-powered features are available in Experience Cloud. | November 2025 |
-| AI documentation home | [AI Documentation](https://experienceleague.adobe.com/en/docs/ai){target="_blank"} | To find links to information about AI-powered features (generative AI and AI agents) in Experience Cloud, visit the new product documentation landing.| October 2025 |
 
 ## [!DNL Adobe Brand Concierge] {#brand-concierge}
 
-* [Adobe Brand Concierge](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"} tutorial home
+* [Adobe Brand Concierge](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"} help home
 
 ## [!DNL Adobe LLM Optimizer] {#llm-optimizer}
 
-* [LLM Optimizer](https://experienceleague.adobe.com/en/docs/llm-optimizer/using/home){target="_blank"}
+* [LLM Optimizer](https://experienceleague.adobe.com/en/docs/llm-optimizer/using/home){target="_blank"} help home
 
 ## [!DNL Adobe Experience Platform] {#platform}
 
