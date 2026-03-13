@@ -54,8 +54,8 @@ On this page:
 
 ## Event schedule {#events}
 
-* [Upcoming](https://experienceleague.adobe.com/en/events){target="_blank"}
-* [On-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview){target="_blank"} events on Experience League.
+* [Upcoming](https://experienceleague.adobe.com/en/events){target="_blank"} event schedule
+* [On-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview){target="_blank"} event schedule
 
 ## [!DNL Adobe System Status] {#status}
 
