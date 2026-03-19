@@ -18,11 +18,11 @@ This page helps you:
 * View new video tutorials per application
 * See the latest Support articles 
 
-Latest update: **March 13, 2026**
+Latest update: **March 19, 2026**
 
 On this page:
 
-* [Event schedule](#events) 
+* [Webinars and learning events](#events) 
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Experience Cloud] administration](#ecloud)
 * [AI in Experience Cloud](#ai)
@@ -52,10 +52,15 @@ On this page:
 * [Certification at Adobe](https://experienceleague.adobe.com/en/certification-home){target="_blank"}
 * [Adobe product security vulnerabilities](https://helpx.adobe.com/security.html){target="_blank"}
 
-## Event schedule {#events}
+## Webinars and learning events {#events}
 
-* [Upcoming](https://experienceleague.adobe.com/en/events){target="_blank"} event schedule
-* [On-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview){target="_blank"} event schedule
+* **[!DNL Experience Cloud]** | _Adobe Experience Platform Champion Office Hours_ | Let's talk challenges, blockers and wish lists. What do you need to make your system hum? | **March 24, 2026** | [Register](https://aep-augs.adobe.com/events/details/adobe-campaign-adobe-experience-platform-champion-office-hours-presents-lets-talk-challenges-blockers-and-wish-lists-what-do-you-need-to-make-your-system-hum/)
+
+* **[!DNL Workfront]** | _Admin 101: Bring Your Workfront Questions_ | Join us for an hour-long follow-up workshop, where we will quickly share a summary of each session and then open it up to Q&A. | **March 24, 2026** | [Register](https://events.teams.microsoft.com/event/5da27d2b-63c1-4ac4-9d55-9f3148222628@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+* **[!DNL Workfront]** | _Fusion Decoded: Part 2 – Let's Start Building_ | In Part 2 of our Fusion series, we'll dive into ready-to-go templates and show you how to use them to jumpstart your automation journey. | **March 25, 2026** | [Register](https://events.teams.microsoft.com/event/364bd344-09a1-4630-8cfc-0bd694fa74a2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
+
+View the complete schedule of [Upcoming](https://experienceleague.adobe.com/en/events){target="_blank"} and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview){target="_blank"} events.
 
 ## [!DNL Adobe System Status] {#status}
 
