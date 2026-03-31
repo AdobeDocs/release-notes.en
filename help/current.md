@@ -21,7 +21,7 @@ This page helps you:
 * View new video tutorials per application
 * See the latest Support articles 
 
-Latest update: **March 19, 2026**
+Latest update: **March 31, 2026**
 
 On this page:
 
@@ -56,12 +56,6 @@ On this page:
 * [Adobe product security vulnerabilities](https://helpx.adobe.com/security.html){target="_blank"}
 
 ## Webinars and learning events {#events}
-
-* **[!DNL Experience Cloud]** | _Adobe Experience Platform Champion Office Hours_ | Let's talk challenges, blockers and wish lists. What do you need to make your system hum? | **March 24, 2026** | [Register](https://aep-augs.adobe.com/events/details/adobe-campaign-adobe-experience-platform-champion-office-hours-presents-lets-talk-challenges-blockers-and-wish-lists-what-do-you-need-to-make-your-system-hum/)
-
-* **[!DNL Workfront]** | _Admin 101: Bring Your Workfront Questions_ | Join us for an hour-long follow-up workshop, where we will quickly share a summary of each session and then open it up to Q&A. | **March 24, 2026** | [Register](https://events.teams.microsoft.com/event/5da27d2b-63c1-4ac4-9d55-9f3148222628@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
-
-* **[!DNL Workfront]** | _Fusion Decoded: Part 2 – Let's Start Building_ | In Part 2 of our Fusion series, we'll dive into ready-to-go templates and show you how to use them to jumpstart your automation journey. | **March 25, 2026** | [Register](https://events.teams.microsoft.com/event/364bd344-09a1-4630-8cfc-0bd694fa74a2@fa7b1b5a-7b34-4387-94ae-d2c178decee1)
 
 View the complete schedule of [Upcoming](https://experienceleague.adobe.com/en/events){target="_blank"} and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview){target="_blank"} events.
 
@@ -578,7 +572,7 @@ View new tutorials published for [!DNL Document Cloud], including [!DNL Acrobat 
 | Published | Application | Name | Type | Description |
 | ----------- | ---------- | ---------- | ---------- | ---------- |
 | February 2026 | Acrobat | [Acrobat Sign 101 - Getting Started](https://experienceleague.adobe.com/en/docs/events/acrobat-sign-webinars/getstartedusers/getting-started){target="_blank"} |  Video | Learn the basics of Acrobat Sign to start getting documents signed fast. We'll show you how to: Prepare and send your documents for e-signature View what your signers see Manage and track the progress of agreements Create your own signature, and more. |
-| February 2026 | Acrobat | [Using the delegator role](https://docs.adobe.com/content/help/en/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/delegate-signature.html) |  Video | Learn to use the delegator role to send a document to an intermediary who can then route the document for signature. |
+| February 2026 | Acrobat | [Using the delegator role](https://experienceleague.adobe.com/docs/document-cloud-learn/sign-learning-hub/advanced-tasks/advanced-tasks-sending/delegate-signature.html?lang=en) |  Video | Learn to use the delegator role to send a document to an intermediary who can then route the document for signature. |
 
 To browse [!DNL Document Cloud] tutorials, see:
 
