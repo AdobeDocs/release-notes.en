@@ -321,18 +321,13 @@ Get access to release notes, new tutorials, and Knowledge Base support articles 
 * [Adobe [!DNL Commerce] Services Guides](https://experienceleague.adobe.com/en/docs/commerce/user-guides/home){target="_blank"}
 * [Product Availability](https://experienceleague.adobe.com/en/docs/commerce-operations/release/product-availability){target="_blank"}
 
-<!-- 
 ### New tutorials for [!DNL Adobe Commerce] {#tutorials-commerce}
 
 New tutorials for [!DNL Adobe Commerce] on Experience League.
 
 | Published | Name | Type | Description |
 | ----------- | ---------- | ---------- | ---------- |
-| January 2026 | [Observability overview](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/observability/overview){target="_blank"} | Video | Learn why centralized observability is essential for modern Adobe Commerce architectures. |
-| January 2026 | [Open telemetry](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/observability/open-telemetry){target="_blank"}| Video | Learn how Open Telemetry standardizes observability across logs, traces, and metrics without locking you into a single monitoring tool. |
-| January 2026 | [Setup and Configuration](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/observability/demo-setup-configuration){target="_blank"} | Video | Learn how to achieve end-to-end observability across Adobe Commerce and custom applications using standardized, correlated telemetry. |
-| January 2026 |[Observability demo](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/observability/demo){target="_blank"} | Video | Learn how Adobe Commerce uses observability, webhooks, and event correlation for seamless order tracking and debugging. | 
--->
+| April 2026 | [Create custom shipping rates using AI tools](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/extensibility/adobe-developer-app-builder/custom-shipping-rates-ai-tools/introduction-setup) | Multiple videos | Learn to set up AI tools for creating custom shipping rates, including cloning the starter kit, reviewing structures, and preparing your environment. | 
 
 ### New [!DNL Commerce] support knowledge base{#kb-commerce}
 
