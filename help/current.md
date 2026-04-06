@@ -515,8 +515,8 @@ New [!DNL Workfront] tutorials and events on Experience League.
 
 | Published | Name | Type | Description |
 | ----------- | ---------- | ---------- | ---------- |
-| March 2026 | [Install and use a Blueprint](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/install-and-use-a-blueprint){target="_blank"} | Video | Learn how an Administrator installs a blueprint and how a user puts it to use. In this example we will install the "Workfront Training for New Users" blueprint, and use the templates and views it creates as a training checklist to help enable users in Workfront. |
-| March 2026 | [Initial scenario design walkthrough](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/fusion/understand-the-basics/initial-scenario-design-walkthrough){target="_blank"} | Video | Create a new project in Workfront for each row in the Project List CSV file. |
+| April 2026 | [Workfront Fusion training overview](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview){target="_blank"} | Article and videos | Learn about the Adobe Workfront Fusion activity book and how to get a Workfront test drive account. |
+
 
 <!--
 ### New [!DNL Workfront] support knowledge base
