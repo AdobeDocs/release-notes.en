@@ -6,7 +6,7 @@ last-update: April 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
-<!-- badgeReview: label="Internal Review" type="Negative" -->
+badgeReview: label="Internal Review" type="Negative"
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: Experience Cloud
@@ -22,7 +22,7 @@ This page helps you:
 * View new video tutorials per application
 * See the latest Support articles 
 
-Latest update: **April 1, 2026**
+Latest update: **April 6, 2026**
 
 On this page:
 
@@ -79,21 +79,15 @@ Release notes history:
 
 ## [!DNL Adobe Experience Cloud] administration {#ecloud}
 
-Learn about updates to [!DNL Experience Cloud] administration and central interface components. 
-
-| Date | Update  | Description  | Applicable products |
-| -----------| -----------| ---------- | ---------- |
-| **January 14, 2026** | Customizable left navigation menu | You can now customize an application's left navigation menu in Experience Cloud. Reorder navigation items and control their visibility to quickly access the capabilities that matter most. This update helps you streamline workflows, reduce cognitive load, and it supports full keyboard accessibility.| <ul><li>Experience Platform</li><li>Journey Optimizer</li><li>Journey Optimizer B2B Edition</li><li>Dynamic Chat</li></ul> |
-
 See [Experience Cloud interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud){target="_blank"} for documentation.
 
 ## AI in Experience Cloud {#ai}
 
-Find the latest learning resources published for generative AI (genAI), AI Assistant, and AI agents in Experience Cloud.
+Find new and recent learning resources published for AI in Experience Cloud.
 
 | Product | Resource | Description | Updated |
 | ------- | ------- | ------- | ------- |
-| [!DNL Experience Cloud] | [Agentic AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai){target="_blank"} | Learn about enabling agentic AI in Experience Cloud. Learn how agent jobs and AI credit consumption works. | April 6, 2026 |
+| [!DNL Experience Cloud] | [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | Learn how Adobe Marketing Agent for Microsoft 365 Copilot connects Experience Platform directly to Microsoft 365 Copilot. | April 6, 2026 |
 | [!DNL AEM CS] | [Cloud Manager MCP Server](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} | Learn how the Cloud Manager MCP server lets AI tools interact with AEM as a Cloud Service to manage programs, environments, repositories, and pipelines. | April 6, 2026 |
 | [!DNL Acrobat Services] | [Acrobat Analyzer](https://experienceleague.adobe.com/en/docs/events/acrobat-analyzer-webinars/overview){target="_blank"} | Explore Adobe Acrobat Analyzer webinars to see how Generative AI extracts structured, auditable insights from documents to automate workflows, reduce risk, and accelerate enterprise decision-making at scale. | March 10, 2026 |
 | [!DNL Experience Cloud] | [Adobe Experience Platform Agents for Improved Marketing Efficiency and Better Business outcomes](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | This exclusive session features an insightful Q&A session with Anjul Bhambhri, Senior Vice President of Adobe Experience Cloud. Discover Adobe's journey and bold vision to provide innovative Agentic AI capabilities that empower marketing and creative practitioners to automate complex steps, accelerate decision-making, and expand their teams' capacity without compromising control or oversight. | March 3, 2026 |
@@ -112,17 +106,17 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 
 View the latest release information, new documentation, and Support articles.
 
-**Experience Platform**
+**Experience Platform - March 24, 2026**
 
 * [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest){target="_blank"}
 
-**Mobile SDK**
+**Mobile SDK - April 3, 2026**
 
 * [[!DNL Experience Platform] Mobile SDK release notes](https://developer.adobe.com/client-sdks/documentation/release-notes/){target="_blank"}
 
 ### New [!DNL Experience Platform] tutorials{#tutorials-aep}
 
-New tutorials published for Adobe [!DNL Experience Platform] on Experience League.
+Latest tutorials published for Adobe [!DNL Experience Platform].
 
 | Published | Applications | Name | Type | Description |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
@@ -157,11 +151,7 @@ Find the latest tutorials for [!DNL Real-Time CDP].
 
 ## [!DNL Adobe Analytics] {#analytics}
 
-Latest release information for [!DNL Adobe Analytics] and [!DNL AppMeasurement]. View new tutorials and Support articles.
-
 Adobe Analytics releases operate on a continuous delivery model, which allows for a more scalable, phased approach to feature deployment. Release notes are updated several times a month.
-
-**February 2026**
 
 * [[!DNL Analytics] release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest){target="_blank"}
 
@@ -226,7 +216,7 @@ Updated: **October 2025**
 
 ## [!DNL Adobe Mix Modeler] {#mix-modeler}
 
-* [February 2026 - Release notes](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest){target="_blank"}
+* [March 2026 - Release notes](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest){target="_blank"}
 
 ## [!DNL Adobe Advertising] {#advertising}
 
@@ -234,7 +224,7 @@ Updated: **October 2025**
 
 ### New features in [!DNL Advertising DSP] {#advertising-dsp}
 
-January 21, 2026
+March 25, 2026
 
 * [What's new in [!DNL Advertising DSP]](https://experienceleague.adobe.com/en/docs/advertising/dsp/home){target="_blank"}
   
@@ -252,9 +242,9 @@ New features, fixes, and updates in [!DNL Experience Manager]. Adobe recommends 
 
 New: [Agentic AI in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/overview?#agentic-ai-in-aem){target="_blank"}
 
-Current release: **2026.2.0 - March 3, 2026**
+Current release: **2026.3.0 - March 26, 2026**
 
-The next feature release (2026.3.0) is planned for **March 26, 2026**.
+The next feature release (2026.3.0) is planned for **April 30, 2026**.
 
 * [Release notes home for AEM CS](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current){target="_blank"}
 * [Latest AEM CS release overview video](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview){target="_blank"}
@@ -354,7 +344,7 @@ New articles and updates to existing articles for Adobe Commerce.
 
 Get access to pre-release notes, current release notes, and new tutorials for [!DNL Adobe Target].
 
-Released: **26.3.2 - March 10, 2026**
+Released: **26.3.7 - March 26, 2026**
 
 <!-- 
 ### New [!DNL Target] support knowledge base{#kb-target}
@@ -376,9 +366,9 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials and Knowled
 
 * [[!DNL Campaign] v8: 8.9.2 - March 11, 2026](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4){target="_blank"} | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home){target="_blank"}
 
-* [[!DNL Campaign Standard]: 26.1](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes){target="_blank"} | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home){target="_blank"}
+* [[!DNL Campaign Standard]: 26.2](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes){target="_blank"} | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home){target="_blank"}
 
-* [[!DNL Campaign Classic] 7.4.2](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2){target="_blank"} | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/campaign-classic-home){target="_blank"}
+* [[!DNL Campaign Classic] 7.4.3 - March 16, 2026](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2){target="_blank"} | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/campaign-classic-home){target="_blank"}
 
 <!-- 
 ### New [!DNL Campaign] tutorials {#tutorials-campaign}
@@ -411,7 +401,7 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 ### [!DNL Journey Optimizer] product release updates
 
-Latest release: **March 2026**
+Latest release: **April 2026**
 
 * [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"}
 
@@ -446,7 +436,7 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].
 
 Learn about the latest release information for [!DNL Journey Optimizer B2B Edition]. 
 
-Latest release: **2026.2 - February 20, 2026**
+Latest release: **2026.3 - March 27, 2026**
 
 * [AJO B2B Edition release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes){target="_blank"}
 
@@ -473,7 +463,7 @@ Latest release: **February 2026**
 
 * [Current release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current){target="_blank"}
 * [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/release-schedule){target="_blank"}
-* Dynamic Chat [release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/dynamic-chat){target="_blank"} (June 30, 2025)
+* Dynamic Chat [release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/dynamic-chat){target="_blank"} (March 2026)
 
 <!-- 
 ### New Marketo tutorials {#tutorials-marketo}
@@ -539,7 +529,7 @@ For the latest product documentation, see the [Adobe [!DNL Workfront] documentat
 
 Find latest release information and new documentation for [!DNL GenStudio for Performance Marketing].
 
-* [2026.01 - Release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"}
+* [2026.03 - Release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"}
 
 ### New tutorials for GenStudio for Performance Marketing {#genstudio-tutorials}
 
@@ -567,10 +557,10 @@ View new tutorials published for [!DNL Document Cloud], including [!DNL Acrobat 
 
 | Published | Application | Name | Type | Description |
 | ----------- | ---------- | ---------- | ---------- | ---------- |
-| April 2026 | Acrobat | [Prepare executive‑ready financial documents from insight to delivery](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/finance/finance-insights) | Video | Learn how finance teams use Acrobat to manage financial documents from insight to delivery. This use case walks through an end‑to‑end workflow for analyzing information, collaborating with stakeholders, and creating executive‑ready financial materials. |
-| April 2026 | Acrobat | [From insight to impact: Streamline onboarding workflows](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/hr/hr-insights) | Video | Discover how HR teams use Acrobat Studio to streamline employee onboarding from start to finish. |
-| April 2026 | Acrobat | [Turn legal insights into actionable guidance](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/legal/legal-insights) | Video | Learn how legal teams use Acrobat Studio to analyze complex documents, collaborate securely, and turn insights into clear, actionable guidance — faster and with greater confidence. |
-| April 2026 | Acrobat | [Turn customer intelligence into winning sales assets](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/sales/sales-insights) | Video | Learn how sales teams can gather customer insights, collaborate in a shared workspace, and turn validated intelligence into on‑brand presentations and proposals — faster and with greater confidence. |
+| April 2026 | Acrobat | [Prepare executive‑ready financial documents from insight to delivery](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/finance/finance-insights){target="_blank"} | Video | Learn how finance teams use Acrobat to manage financial documents from insight to delivery. This use case walks through an end‑to‑end workflow for analyzing information, collaborating with stakeholders, and creating executive‑ready financial materials. |
+| April 2026 | Acrobat | [From insight to impact: Streamline onboarding workflows](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/hr/hr-insights){target="_blank"} | Video | Discover how HR teams use Acrobat Studio to streamline employee onboarding from start to finish. |
+| April 2026 | Acrobat | [Turn legal insights into actionable guidance](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/legal/legal-insights){target="_blank"} | Video | Learn how legal teams use Acrobat Studio to analyze complex documents, collaborate securely, and turn insights into clear, actionable guidance — faster and with greater confidence. |
+| April 2026 | Acrobat | [Turn customer intelligence into winning sales assets](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/sales/sales-insights){target="_blank"} | Video | Learn how sales teams can gather customer insights, collaborate in a shared workspace, and turn validated intelligence into on‑brand presentations and proposals — faster and with greater confidence. |
 
 To browse [!DNL Document Cloud] tutorials, see:
 
