@@ -93,10 +93,12 @@ Find the latest learning resources published for generative AI (genAI), AI Assis
 
 | Product | Resource | Description | Updated |
 | ------- | ------- | ------- | ------- |
-| [!DNL Acrobat Services] | [Acrobat Analyzer](https://experienceleague.adobe.com/en/docs/events/acrobat-analyzer-webinars/overview){target="_blank"} | Explore Adobe Acrobat Analyzer webinars to see how Generative AI extracts structured, auditable insights from documents to automate workflows, reduce risk, and accelerate enterprise decision-making at scale. | **March 10, 2026** |
-| [!DNL Experience Cloud] | [Adobe Experience Platform Agents for Improved Marketing Efficiency and Better Business outcomes](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | This exclusive session features an insightful Q&A session with Anjul Bhambhri, Senior Vice President of Adobe Experience Cloud. Discover Adobe's journey and bold vision to provide innovative Agentic AI capabilities that empower marketing and creative practitioners to automate complex steps, accelerate decision-making, and expand their teams' capacity without compromising control or oversight. | **March 3, 2026** |
-| [!DNL Experience Cloud] | [Agent jobs and AI credits consumption](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | Learn about agent jobs and AI credit consumption rates in Experience Cloud applications. | **March 3, 2026** |
-| [!DNL Experience Cloud] | [Agentic AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai){target="_blank"} | Learn about enabling agentic AI in Experience Cloud. Learn how agent jobs and AI credit consumption works. | **March 3, 2026** |
+| [!DNL Experience Cloud] | [Agentic AI in Experience Cloud applications](https://experienceleague.adobe.com/en/docs/core-services/interface/features/agentic-ai){target="_blank"} | Learn about enabling agentic AI in Experience Cloud. Learn how agent jobs and AI credit consumption works. | April 6, 2026 |
+| [!DNL AEM CS] | [Cloud Manager MCP Server](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager) | Learn how the Cloud Manager MCP server lets AI tools interact with AEM as a Cloud Service to manage programs, environments, repositories, and pipelines. | April 6, 2026 |
+| [!DNL Acrobat Services] | [Acrobat Analyzer](https://experienceleague.adobe.com/en/docs/events/acrobat-analyzer-webinars/overview){target="_blank"} | Explore Adobe Acrobat Analyzer webinars to see how Generative AI extracts structured, auditable insights from documents to automate workflows, reduce risk, and accelerate enterprise decision-making at scale. | March 10, 2026 |
+| [!DNL Experience Cloud] | [Adobe Experience Platform Agents for Improved Marketing Efficiency and Better Business outcomes](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | This exclusive session features an insightful Q&A session with Anjul Bhambhri, Senior Vice President of Adobe Experience Cloud. Discover Adobe's journey and bold vision to provide innovative Agentic AI capabilities that empower marketing and creative practitioners to automate complex steps, accelerate decision-making, and expand their teams' capacity without compromising control or oversight. | March 3, 2026 |
+| [!DNL Experience Cloud] | [Agent jobs and AI credits consumption](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | Learn about agent jobs and AI credit consumption rates in Experience Cloud applications. | March 3, 2026 |
+
 
 ## [!DNL Adobe Brand Concierge] {#brand-concierge}
 
@@ -580,7 +582,7 @@ To browse [!DNL Document Cloud] tutorials, see:
 
 ## [!DNL Adobe Creative Cloud] for enterprise {#creative-cloud}
 
-Vew new tutorials published for applications in [!DNL Adobe Creative Cloud for enterprise], including Firefly.
+View new tutorials published for applications in [!DNL Adobe Creative Cloud for enterprise], including Firefly.
 
 <!-- 
 |Published|Application|Name|Type|Description |
