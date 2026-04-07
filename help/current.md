@@ -64,6 +64,15 @@ View the complete schedule of [Upcoming](https://experienceleague.adobe.com/en/e
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/){target="_blank"}.
 
+* AI Virtual Assistant beta
+* Bug fixes and improvements
+
+| Feature | Description |
+| ------- | ------- |
+| **AI Virtual Assistant beta** | <ul><li>Virtual Assistant is a feature that helps Status customers on the web and mobile perform quick actions and provide feedback. It serves as a single point of contact for resolving all queries.</li><li>We are adding AI capabilities to the Virtual Assistant, enabling faster, conversational access to event and subscription information.</li><li>Customer beta is ongoing. If you would like to participate, please email [statuscom-adobe-support](mailto:statuscom-adobe-support@adobe.com).</li></ul>|
+| **Bug fixes and improvements** | <ul><li>Enable dates at the history level for the Events API.</li><li>Accessibility bug fixes.</li><li>Marketo subscriptions - Environments were not rolling up to data centers, causing missed notifications.</li><li>The header and footer were unlocalized on the Status page.</li><li>Scheduled Maintenance was not showing the earliest maintenance.</li><li>Status API was not returning the same information as the Status web with Dismissed events.</li><li>When maintenance was closed after the actual end date, it was not displayed correctly on the Status UI.</li></ul>|
+
+
 Release notes history:
 
 * [December 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2026/01142026#status){target="_blank"} 
