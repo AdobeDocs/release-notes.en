@@ -326,7 +326,7 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 
 | Published | Name | Type | Description |
 | ----------- | ---------- | ---------- | ---------- |
-| April 2026 | [Create custom shipping rates using AI tools](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/extensibility/adobe-developer-app-builder/custom-shipping-rates-ai-tools/introduction-setup) | Multiple videos | Learn to set up AI tools for creating custom shipping rates, including cloning the starter kit, reviewing structures, and preparing your environment. | 
+| April 2026 | [Create custom shipping rates using AI tools](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/extensibility/adobe-developer-app-builder/custom-shipping-rates-ai-tools/introduction-setup) | Multiple videos | Learn to set up AI tools for creating custom shipping rates, including cloning the starter kit, reviewing structures, and preparing your environment. |
 
 ### New [!DNL Commerce] support knowledge base{#kb-commerce}
 
