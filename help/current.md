@@ -63,7 +63,7 @@ View the complete schedule of [Upcoming](https://experienceleague.adobe.com/en/e
 
 | Feature | Release date | Description |
 | ------- | ------- | ------- |
-| Refreshed home page | April 20, 2026 | A refreshed look and feel of the home page at `https://experience.adobe.com/home`. With this release, all functionality remains the same, with refreshed UI, support for full _dark mode_ and improved accessibility. | 
+| Refreshed home page | April 20, 2026 | A refreshed look and feel of the home page at `https://experience.adobe.com/home`. With this release, all functionality remains the same, with refreshed UI, support for full _dark mode_ and improved accessibility. |
 
 See [Experience Cloud interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud){target="_blank"} for documentation.
 
