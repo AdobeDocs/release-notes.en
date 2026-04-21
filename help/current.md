@@ -21,7 +21,7 @@ This page helps you:
 * View new video tutorials per application
 * See the latest Support articles 
 
-**Announcing Adobe CX Enterprise:** Adobe Experience Cloud is now [Adobe CX Enterprise](https://business.adobe.com/). You may continue to see _Experience Cloud_ in product documentation and videos on Experience League as we shift to the new brand.
+**Announcing Adobe CX Enterprise:** Adobe Experience Cloud is now [Adobe CX Enterprise](https://business.adobe.com/). You will continue to see _Experience Cloud_ in product documentation and videos on Experience League until we complete the updates.
 
 Latest update: **April 21, 2026**
 
