@@ -1,6 +1,6 @@
----
+﻿---
 title: Central Release Notes
-description: Find links to Experience Cloud application release notes. View new tutorial videos, read Support articles, and locate self-help resources on Experience League.
+description: Find links to CX Enterprise application release notes. View new tutorial videos, read Support articles, and locate self-help resources on Experience League.
 doc-type: release notes
 last-update: April 2026
 author: mfrei
@@ -8,9 +8,9 @@ mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-    internal-label: Experience Cloud
+    internal-label: CX Enterprise
 ---
-# Experience Cloud central release notes - April 2026
+# CX Enterprise central release notes - April 2026
 
 <!-- badgeReview: label="Internal Review" type="Negative" -->
 
@@ -21,13 +21,15 @@ This page helps you:
 * View new video tutorials per application
 * See the latest Support articles 
 
-Latest update: **April 15, 2026**
+**Announcing Adobe CX Enterprise:** Adobe Experience Cloud is now [Adobe CX Enterprise](https://business.adobe.com/). You will continue to see _Experience Cloud_ in product documentation and videos on Experience League until we complete the updates.
+
+Latest update: **April 21, 2026**
 
 On this page:
 
 * [Webinars and learning events](#events) 
-* [[!DNL Adobe Experience Cloud] central UI & administration](#ecloud)
-* [AI in Experience Cloud](#ai)
+* [CX Enterprise central UI & administration](#ecloud)
+* [AI in CX Enterprise](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Brand Concierge]](#brand-concierge)
 * [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
@@ -59,17 +61,17 @@ On this page:
 
 View the complete schedule of [Upcoming](https://experienceleague.adobe.com/en/events){target="_blank"} and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview){target="_blank"} events.
 
-## [!DNL Adobe Experience Cloud] central UI & administration {#ecloud}
+## CX Enterprise central UI & administration {#ecloud}
 
 | Feature | Release date | Description |
 | ------- | ------- | ------- |
 | Refreshed home page | April 20, 2026 | A refreshed look and feel of the home page at `https://experience.adobe.com/home`. With this release, all functionality remains the same, with refreshed UI, support for full _dark mode_ and improved accessibility. |
 
-See [Experience Cloud interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud){target="_blank"} for documentation.
+See [CX Enterprise interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud){target="_blank"} for documentation.
 
-## AI in Experience Cloud {#ai}
+## AI in CX Enterprise {#ai}
 
-Find new and recent learning resources published for AI in Experience Cloud.
+Find new and recent learning resources published for AI in CX Enterprise.
 
 | Product | Resource | Description | Updated |
 | ------- | ------- | ------- | ------- |
@@ -78,7 +80,7 @@ Find new and recent learning resources published for AI in Experience Cloud.
 | [!DNL AEM CS] | [Cloud Manager MCP Server](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} | Learn how the Cloud Manager MCP server lets AI tools interact with AEM as a Cloud Service to manage programs, environments, repositories, and pipelines. | April 6, 2026 |
 | [!DNL Acrobat Services] | [Acrobat Analyzer](https://experienceleague.adobe.com/en/docs/events/acrobat-analyzer-webinars/overview){target="_blank"} | Explore Adobe Acrobat Analyzer webinars to see how Generative AI extracts structured, auditable insights from documents to automate workflows, reduce risk, and accelerate enterprise decision-making at scale. | March 10, 2026 |
 | [!DNL Experience Cloud] | [Adobe Experience Platform Agents for Improved Marketing Efficiency and Better Business outcomes](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | This exclusive session features an insightful Q&A session with Anjul Bhambhri, Senior Vice President of Adobe Experience Cloud. Discover Adobe's journey and bold vision to provide innovative Agentic AI capabilities that empower marketing and creative practitioners to automate complex steps, accelerate decision-making, and expand their teams' capacity without compromising control or oversight. | March 3, 2026 |
-| [!DNL Experience Cloud] | [Agent jobs and AI credits consumption](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | Learn about agent jobs and AI credit consumption rates in Experience Cloud applications. | March 3, 2026 |
+| [!DNL Experience Cloud] | [Agent jobs and AI credits consumption](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | Learn about agent jobs and AI credit consumption rates in CX Enterprise applications. | March 3, 2026 |
 
 ## [!DNL Adobe System Status] {#status}
 
