@@ -1,20 +1,18 @@
 ﻿---
 title: Central Release Notes
-description: Find links to CX Enterprise application release notes. View new tutorial videos, read Support articles, and locate self-help resources on Experience League.
+description: Find links to Experience Cloud application release notes. View new tutorial videos, read Support articles, and locate self-help resources on Experience League.
 doc-type: release notes
 last-update: April 2026
 author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
----
-# CX Enterprise central release notes - April 2026
-
-<!-- 
-badgeReview: label="Internal Review" type="Negative" 
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-    internal-label: CX Enterprise
--->
+    internal-label: Experience Cloud
+---
+# Experience Cloud central release notes - April 2026
+
+<!-- badgeReview: label="Internal Review" type="Negative" -->
 
 This page helps you:
 
