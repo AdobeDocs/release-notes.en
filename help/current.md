@@ -164,13 +164,15 @@ View the latest release information, new documentation, and Support articles.
 
 * [[!DNL Experience Platform] Mobile SDK release notes](https://developer.adobe.com/client-sdks/documentation/release-notes/){target="_blank"}
 
-<!-- ### New [!DNL Experience Platform] tutorials{#tutorials-aep}
+<!-- 
+### New [!DNL Experience Platform] tutorials{#tutorials-aep}
 
 Latest tutorials published for Adobe [!DNL Experience Platform].
 
 | Published | Applications | Name | Type | Description |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| March 2026 | [!DNL Experience Platform] | [Monitor Experience Platform events in Slack](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/monitoring/monitor-events-in-slack){target="_blank"} | Video | Learn how to receive Experience Platform notifications in Slack by integrating with an Adobe App Builder webhook proxy. | -->
+| March 2026 | [!DNL Experience Platform] | [Monitor Experience Platform events in Slack](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/monitoring/monitor-events-in-slack){target="_blank"} | Video | Learn how to receive Experience Platform notifications in Slack by integrating with an Adobe App Builder webhook proxy. | 
+-->
 
 ### New [!DNL Experience Platform] support knowledge base{#kb-aep}
 
