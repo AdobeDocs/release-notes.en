@@ -264,7 +264,7 @@ Updated: **October 2025**
 
 ### New features in [!DNL Advertising DSP] {#advertising-dsp}
 
-March 25, 2026
+May 11, 2026
 
 * [What's new in [!DNL Advertising DSP]](https://experienceleague.adobe.com/en/docs/advertising/dsp/home){target="_blank"}
   
@@ -282,9 +282,9 @@ New features, fixes, and updates in [!DNL Experience Manager]. Adobe recommends 
 
 New: [Agentic AI in AEM](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/ai-in-aem/overview?#agentic-ai-in-aem){target="_blank"}
 
-Current release: **2026.3.0 - March 26, 2026**
+Current release: **2026.4.0 - April 30, 2026**
 
-The next feature release (2026.3.0) is planned for **April 30, 2026**.
+The next feature release (2026.5.0) is planned for **May 28, 2026**.
 
 * [Release notes home for AEM CS](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current){target="_blank"}
 * [Latest AEM CS release overview video](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview){target="_blank"}
@@ -368,8 +368,7 @@ New articles and updates to existing articles for Adobe Commerce.
 
 Get access to pre-release notes, current release notes, and new tutorials for [!DNL Adobe Target].
 
-Released: **26.3.7 - March 26, 2026**
-
+Released: **26.5.1 - May 12, 2026**
 
 ### New [!DNL Target] support knowledge base{#kb-target}
 
@@ -385,13 +384,13 @@ Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials and Knowled
 
 ### Latest Campaign product releases
 
-* [Web User Interface - March 2026](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home){target="_blank"}
+* [Web User Interface - April 29, 2026](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home){target="_blank"}
 
-* [[!DNL Campaign] v8: 8.9.2 - March 11, 2026](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4){target="_blank"} | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home){target="_blank"}
+* [[!DNL Campaign] v8: 8.9.2 - May 3, 2026](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4){target="_blank"} | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home){target="_blank"}
 
 * [[!DNL Campaign Standard]: 26.2](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes){target="_blank"} | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home){target="_blank"}
 
-* [[!DNL Campaign Classic] 7.4.3 - March 16, 2026](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2){target="_blank"} | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/campaign-classic-home){target="_blank"}
+* [[!DNL Campaign Classic] 7.4.3 - March 31, 2026](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2){target="_blank"} | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/campaign-classic-home){target="_blank"}
 
 <!-- 
 ### New [!DNL Campaign] tutorials {#tutorials-campaign}
