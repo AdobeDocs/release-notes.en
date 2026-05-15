@@ -12,8 +12,6 @@ product_v2:
 ---
 # Adobe CX Enterprise central release notes
 
-<!-- badgeReview: label="Internal Review" type="Negative" -->
-
 This page helps you:
 
 * Find all links to application-specific release notes
@@ -21,7 +19,7 @@ This page helps you:
 * Get informed about new events
 * See the latest Support articles 
 
-Latest update: **May 13, 2026**
+Latest update: **May 15, 2026**
 
 **Announcing Adobe CX Enterprise:** Experience Cloud is now [Adobe CX Enterprise](https://business.adobe.com/). You will continue to see _Experience Cloud_ in product documentation, courses, and videos until we complete the updates throughout Experience League.
 
