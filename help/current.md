@@ -63,6 +63,7 @@ The following links open each application's own release notes (or the closest eq
 
 | Application | Release date | Release notes |
 | ------------- | ------------- | ------------- |
+| [!DNL CX Enterprise] | April 2026 | [CX Enterprise central UI & administration](https://experienceleague.adobe.com/en/docs/core-services/interface/more-resources/release-notes){target="_blank"} |
 | [!DNL Adobe System Status] | May 15, 2026 | [Adobe System Status (in this guide)](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/current#status){target="_blank"} |
 | [!DNL Adobe LLM Optimizer] | May 8, 2026 | [LLM Optimizer release notes](https://llmo.now/articles/release-notes){target="_blank"} |
 | [!DNL Adobe Experience Platform] | April 28, 2026 | [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest){target="_blank"} |
