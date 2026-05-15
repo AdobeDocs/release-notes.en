@@ -3,7 +3,6 @@ title: Central Release Notes
 description: Find release note links for all Adobe CX Enterprise applications (formerly, Experience Cloud). Learn about new videos, events, and locate self-help resources.
 doc-type: release notes
 last-update: April 2026
-author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 product_v2:
@@ -12,8 +11,6 @@ product_v2:
 ---
 # Adobe CX Enterprise central release notes
 
-<!-- badgeReview: label="Internal Review" type="Negative" -->
-
 This page helps you:
 
 * Find all links to application-specific release notes
@@ -21,7 +18,7 @@ This page helps you:
 * Get informed about new events
 * See the latest Support articles 
 
-Latest update: **May 13, 2026**
+Latest update: **May 15, 2026**
 
 **Announcing Adobe CX Enterprise:** Experience Cloud is now [Adobe CX Enterprise](https://business.adobe.com/). You will continue to see _Experience Cloud_ in product documentation, courses, and videos until we complete the updates throughout Experience League.
 
