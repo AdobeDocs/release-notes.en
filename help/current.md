@@ -3,7 +3,6 @@ title: Central Release Notes
 description: Find release note links for all Adobe CX Enterprise applications (formerly, Experience Cloud). Learn about new videos, events, and locate self-help resources.
 doc-type: release notes
 last-update: April 2026
-author: mfrei
 mini-toc-levels: 2
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 product_v2:
