@@ -605,3 +605,4 @@ Browse our library of tutorials for [Creative Cloud for enterprise](https://expe
 ## Customer experience orchestration blueprints {#blueprints}
 
 [Customer experience orchestration blueprints](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/overview){target="_blank"} are repeatable implementations that let you address strategy and quickly solve established business problems. Each Blueprint provides a series of artifacts that explain the high-value business problem, architectures, implementation steps, technical considerations, and links to the relevant documentation.
+
