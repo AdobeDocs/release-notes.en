@@ -28,7 +28,7 @@ Latest update: **May 13, 2026**
 On this page:
 
 * [Webinars and events](#events) 
-* [New video resources on Experience League](#video-tutorials)
+* [New video tutorials](#video-tutorials)
 * [[!DNL Adobe CX Enterprise] central UI & administration](#ecloud)
 * [AI in CX Enterprise](#ai)
 * [[!DNL Adobe System Status]](#status)
@@ -62,7 +62,7 @@ On this page:
 
 View the complete schedule of [Upcoming](https://experienceleague.adobe.com/en/events){target="_blank"} and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview){target="_blank"} events.
 
-## New video resources on Experience League {#video-tutorials}
+## New video tutorials {#video-tutorials}
 
 | Application | Published | Name | Type | Description |
 | ----------- | ----------- | ---------- | ---------- | ---------- |
@@ -164,13 +164,13 @@ View the latest release information, new documentation, and Support articles.
 
 * [[!DNL Experience Platform] Mobile SDK release notes](https://developer.adobe.com/client-sdks/documentation/release-notes/){target="_blank"}
 
-### New [!DNL Experience Platform] tutorials{#tutorials-aep}
+<!-- ### New [!DNL Experience Platform] tutorials{#tutorials-aep}
 
 Latest tutorials published for Adobe [!DNL Experience Platform].
 
 | Published | Applications | Name | Type | Description |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| March 2026 | [!DNL Experience Platform] | [Monitor Experience Platform events in Slack](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/monitoring/monitor-events-in-slack){target="_blank"} | Video | Learn how to receive Experience Platform notifications in Slack by integrating with an Adobe App Builder webhook proxy. |
+| March 2026 | [!DNL Experience Platform] | [Monitor Experience Platform events in Slack](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/monitoring/monitor-events-in-slack){target="_blank"} | Video | Learn how to receive Experience Platform notifications in Slack by integrating with an Adobe App Builder webhook proxy. | -->
 
 ### New [!DNL Experience Platform] support knowledge base{#kb-aep}
 
@@ -183,8 +183,6 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 |April 2026|[Multiple runs of scheduled queries in AEP Query Service](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30428)|New article| Learn about the solutions to the issue when multiple executions of the same scheduled query appear within a single scheduled interval, because of internal task-level retries when a query fails.|
 
 ## [!DNL Adobe Real-Time CDP] {#rtcdp}
-
-Find the latest tutorials for [!DNL Real-Time CDP].
 
 * Video tutorials: [Understanding Real-Time Customer Data Platform](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform){target="_blank"}
 
