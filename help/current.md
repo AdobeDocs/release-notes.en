@@ -4,11 +4,12 @@ description: Find release note links for all Adobe CX Enterprise applications (f
 doc-type: release notes
 last-update: April 2026
 mini-toc-levels: 2
-exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
     internal-label: Experience Cloud
+exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
 ---
+
 # Adobe CX Enterprise central release notes
 
 This page helps you:
@@ -604,3 +605,4 @@ Browse our library of tutorials for [Creative Cloud for enterprise](https://expe
 ## Customer experience orchestration blueprints {#blueprints}
 
 [Customer experience orchestration blueprints](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/overview){target="_blank"} are repeatable implementations that let you address strategy and quickly solve established business problems. Each Blueprint provides a series of artifacts that explain the high-value business problem, architectures, implementation steps, technical considerations, and links to the relevant documentation.
+
