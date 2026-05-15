@@ -1,4 +1,4 @@
----
+﻿---
 title: Central Release Notes
 description: Find release note links for all Adobe CX Enterprise applications (formerly, Experience Cloud). Learn about new videos, events, and locate self-help resources.
 doc-type: release notes
@@ -21,13 +21,14 @@ This page helps you:
 * Get informed about new events
 * See the latest Support articles 
 
-Latest update: **April 23, 2026**
+Latest update: **May 13, 2026**
 
 **Announcing Adobe CX Enterprise:** Experience Cloud is now [Adobe CX Enterprise](https://business.adobe.com/). You will continue to see _Experience Cloud_ in product documentation, courses, and videos until we complete the updates throughout Experience League.
 
 On this page:
 
-* [Webinars and learning events](#events) 
+* [Webinars and events](#events) 
+* [New video tutorials](#video-tutorials)
 * [[!DNL Adobe CX Enterprise] central UI & administration](#ecloud)
 * [AI in CX Enterprise](#ai)
 * [[!DNL Adobe System Status]](#status)
@@ -57,9 +58,44 @@ On this page:
 * [Certification at Adobe](https://experienceleague.adobe.com/en/certification-home){target="_blank"}
 * [Adobe product security vulnerabilities](https://helpx.adobe.com/security.html){target="_blank"}
 
-## Webinars and learning events {#events}
+## Webinars and events {#events}
 
 View the complete schedule of [Upcoming](https://experienceleague.adobe.com/en/events){target="_blank"} and [on-demand](https://experienceleague.adobe.com/en/docs/events/experience-league-recorded-events/overview){target="_blank"} events.
+
+## New video tutorials {#video-tutorials}
+
+| Application | Published | Name | Type | Description |
+| ----------- | ----------- | ---------- | ---------- | ---------- |
+| Acrobat Sign | Apr 2026 | [Configure and govern Modify Agreement](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/configure-modify-agreement){target="_blank"} | Video | Learn how to configure and govern Modify Agreement in Acrobat Sign. Set policies so post-send changes stay controlled and auditable. |
+| Acrobat Sign | Apr 2026 | [Guide required selections with checkbox groups](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/checkbox-groups){target="_blank"} | Video | Learn how to use checkbox groups in Acrobat Sign forms. Control minimum and maximum selections so signers meet your required option rules. |
+| Acrobat Sign | Apr 2026 | [Modify a document after sending](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/modify-in-flight){target="_blank"} | Video | Learn how to correct a sent agreement in Acrobat Sign without canceling the transaction. Fix mistakes and keep signatures and audit trails intact. |
+| Adobe Commerce | May 2026 | [Create a split payment POC: App Builder and AI tools](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/extensibility/adobe-developer-app-builder/create-a-split-payment-poc/overview){target="_blank"} | Video | Learn about a split payment proof of concept for Adobe Commerce using App Builder and AI tools. Explore goals, architecture, and what the first session covers. |
+| Adobe Customer Journey Analytics | May 2026 | [Remote MCP server for CJA & AA overview](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/remote-mcp-server/remote-mcp-server-for-cja-overview){target="_blank"} | Video | Learn how the Remote MCP server connects Adobe Analytics and Customer Journey Analytics to AI tools. Govern access and stream real-time data to assistants. |
+| Adobe Customer Journey Analytics | May 2026 | [Validate dataset quality with the Data Engineering Agent](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/use-cases/ai/validate-dataset-quality-data-engineering-agent){target="_blank"} | Video | Learn how to use the Data Validation Skill in the Data Engineering Agent. Profile Customer Journey Analytics datasets and catch problems before you publish. |
+| Adobe Customer Journey Analytics | Apr 2026 | [Architecture and integrations of Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/architecture/architecture-and-integrations-of-cja){target="_blank"} | Video | Learn about Customer Journey Analytics architecture on Adobe Experience Platform. Review how connections, views, stitching, and integrations work together. |
+| AEM Sites Optimizer | Apr 2026 | [Sites Optimizer trial](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/documentation/trial){target="_blank"} | Video | Learn about the AEM Sites Optimizer trial for existing AEM Sites customers. See how to turn on the trial and start reviewing site optimization opportunities. |
+| AEM Sites Optimizer | Apr 2026 | [Missing alt text opportunity](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/documentation/opportunities/missing-alt-text){target="_blank"} | Video | Learn how to find missing image alt text in Page Editor-based AEM Sites. Improve accessibility and engagement using Sites Optimizer recommendations and fixes. |
+| AEM Sites Optimizer | Apr 2026 | [Core Web Vitals opportunities](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/documentation/opportunities/core-web-vitals){target="_blank"} | Video | Learn how to identify Core Web Vitals issues in Page Editor-based AEM Sites. Apply Sites Optimizer guidance to tune performance and protect UX scores. |
+| AEM Sites Optimizer | Apr 2026 | [Broken backlinks opportunities](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/documentation/opportunities/broken-backlinks){target="_blank"} | Video | Learn how to detect broken backlinks in Page Editor-based AEM Sites. Resolve inbound link issues to protect SEO, traffic, and visitor navigation paths. |
+| Adobe Experience Manager | May 2026 | [AEM Release Notes video - AEM Agent Skills](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current#foundation){target="_blank"} | Video | Learn about AEM Agent Skills updates covered in the Experience Manager release notes video. Hear what changed in this release and where to learn more next. |
+| Adobe Experience Manager | May 2026 | [Set up AEM Agent Skills](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/ai-assisted-development/setup/agent-skills){target="_blank"} | Video | Learn how to set up AEM Agent Skills for AI-assisted development in Experience Manager. Follow prerequisites, configuration, and checks to enable the workflow. |
+| Adobe Experience Manager | May 2026 | [AEM Component development using AEM Agent Skills](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/ai-assisted-development/use-cases/component-development){target="_blank"} | Video | Learn how to develop an AEM component using AEM Agent Skills in Experience Manager. Walk through prompts, files, and validation for an AI-assisted build. |
+| Adobe Experience Manager | Apr 2026 | [Set up AEM Agent Skills](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/ai-assisted-development/setup/agent-skills){target="_blank"} | Tutorial | Learn how to set up AEM Agent Skills for AI-assisted local development. Complete prerequisites, load skill files, and verify agents before building components. |
+| Adobe Experience Manager | Apr 2026 | [Overview of AI-assisted development](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/ai-assisted-development/overview){target="_blank"} | Article | Learn about AI-assisted AEM development using an AI IDE, agents, AGENTS.md, Agent Skills, and MCP. Ship production-ready code on AEM as a Cloud Service. |
+| Adobe Experience Manager | Apr 2026 | [Component development using AEM Agent Skills](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/ai-assisted-development/use-cases/component-development){target="_blank"} | Tutorial | Learn how to develop an AEM component with AEM Agent Skills during AI-assisted local development. Follow the end-to-end workflow from prompt to tested code. |
+| Adobe Journey Optimizer | Apr 2026 | [Enable external data integrations in channel authoring](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/content-management/external-data-integrations-in-channel-authoring){target="_blank"} | Video | Learn how to bring external data into Adobe Journey Optimizer during channel authoring. Enrich journeys and outbound messages with trusted, connected sources. |
+| Adobe Journey Optimizer | Apr 2026 | [Web push in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/ajo-web-push/introduction){target="_blank"} | Tutorial | Learn how to implement web push in Adobe Journey Optimizer. Configure permissions, surfaces, journeys, and tests so notifications reach the right audience. |
+| Adobe Journey Optimizer | May 2026 | [Build an orchestrated campaign](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/orchestrated-campaigns/build-an-orchestrated-campaign){target="_blank"} | Video | Learn how to build orchestrated campaigns in Adobe Journey Optimizer. Combine audiences, data preparation, and multi-channel delivery in one guided workflow. |
+| Adobe Journey Optimizer | May 2026 | [Introduction to email decisioning](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/use-decisioning/introduction-to-decisioning-in-emails){target="_blank"} | Video | Learn how to personalize email with decisioning in Adobe Journey Optimizer. Connect offers, eligibility rules, and ranking so recipients see relevant content. |
+| Adobe Real-Time CDP Collaboration | May 2026 | [Real-Time CDP Collaboration in-product invitations](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/rtcdp-collaboration-in-product-invitations){target="_blank"} | Video | Learn how in-product invitations work in Real-Time CDP Collaboration. Invite partners inside the product, share context securely, and shorten onboarding time. |
+| Adobe Real-Time CDP Collaboration | May 2026 | [Collaboration measurement - setup and report creation](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/collaboration-measurement-setup-and-report-creation){target="_blank"} | Video | Learn how to set up measurement in Real-Time CDP Collaboration by onboarding event data, allowing you to create reports tied to publisher campaign data. |
+| Adobe Workfront | Apr 2026 | [Master Project Tracking with Baselines, Snapshots, and Automated Reports](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/baselines-snapshots-and-automated-reports){target="_blank"} | Video | Learn about historical Workfront tracking beyond real-time views. Compare work over time with baselines, snapshots, and automated task-report emails. |
+| Adobe Workfront | May 2026 | [Create job roles and rate cards](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/create-job-roles-and-rate-cards){target="_blank"} | Video | Learn how to create job roles and rate cards in Workfront. Attach, update, or remove rate cards on a project so finances reflect the right billing rules. |
+| Adobe Workfront | Apr 2026 | [Understand financial access](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-financial-access){target="_blank"} | Video | Learn how financial access works in Workfront. See how administrators grant view or edit rights to financial fields, tasks, and projects for each user group. |
+| Adobe Workfront | Apr 2026 | [Update finances for client projects](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-finances/update-and-review-finances){target="_blank"} | Video | Learn how to review and update project finances in Adobe Workfront. Validate costs, revenue, billing, and currencies before you distribute reports. |
+| Adobe Workfront | Apr 2026 | [Set up exchange rates](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-exchange-rates){target="_blank"} | Video | Learn how to configure Workfront exchange rates for global and project reporting. Keep currency conversions accurate for costs, revenue, and dashboards. |
+| Adobe Workfront | Apr 2026 | [Set up task revenue & cost defaults](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-task-revenue-and-cost-defaults){target="_blank"} | Video | Learn how revenue type and cost type drive task finances in Workfront. Set system defaults so new tasks inherit the right calculations for planned and actuals. |
+| Adobe Workfront | May 2026 | [Customize billing rates for job roles](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/project-finances-users/multiple-billing-rates){target="_blank"} | Video | Learn how to override Workfront billing rates for job roles in one project. Add multiple rates per role by date range so invoices match the work performed. |
 
 ## [!DNL Adobe CX Enterprise] central UI & administration {#ecloud}
 
@@ -113,27 +149,30 @@ Release notes history:
 
 ## [!DNL Adobe LLM Optimizer] {#llm-optimizer}
 
-* [LLM Optimizer](https://experienceleague.adobe.com/en/docs/llm-optimizer/using/home){target="_blank"} help home
+* [LLM Optimizer release notes](https://llmo.now/articles/release-notes){target="_blank"}
+* [LLM Optimizer help home](https://experienceleague.adobe.com/en/docs/llm-optimizer/using/home){target="_blank"}
 
 ## [!DNL Adobe Experience Platform] {#platform}
 
 View the latest release information, new documentation, and Support articles.
 
-**Experience Platform - March 24, 2026**
+**Experience Platform - April 28, 2026**
 
 * [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest){target="_blank"}
 
-**Mobile SDK - April 3, 2026**
+**Mobile SDK - April 21, 2026**
 
 * [[!DNL Experience Platform] Mobile SDK release notes](https://developer.adobe.com/client-sdks/documentation/release-notes/){target="_blank"}
 
+<!-- 
 ### New [!DNL Experience Platform] tutorials{#tutorials-aep}
 
 Latest tutorials published for Adobe [!DNL Experience Platform].
 
 | Published | Applications | Name | Type | Description |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| March 2026 | [!DNL Experience Platform] | [Monitor Experience Platform events in Slack](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/monitoring/monitor-events-in-slack){target="_blank"} | Video | Learn how to receive Experience Platform notifications in Slack by integrating with an Adobe App Builder webhook proxy. |
+| March 2026 | [!DNL Experience Platform] | [Monitor Experience Platform events in Slack](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/monitoring/monitor-events-in-slack){target="_blank"} | Video | Learn how to receive Experience Platform notifications in Slack by integrating with an Adobe App Builder webhook proxy. | 
+-->
 
 ### New [!DNL Experience Platform] support knowledge base{#kb-aep}
 
@@ -146,8 +185,6 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 |April 2026|[Multiple runs of scheduled queries in AEP Query Service](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30428)|New article| Learn about the solutions to the issue when multiple executions of the same scheduled query appear within a single scheduled interval, because of internal task-level retries when a query fails.|
 
 ## [!DNL Adobe Real-Time CDP] {#rtcdp}
-
-Find the latest tutorials for [!DNL Real-Time CDP].
 
 * Video tutorials: [Understanding Real-Time Customer Data Platform](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform){target="_blank"}
 
@@ -418,7 +455,7 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].
 
 ### More resources for [!DNL Journey Optimizer]
 
-* [[!DNL Journey Optimizer] documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/ajo-home){target="_blank"} - [Release rotes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} - [How-to videos](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/overview){target="_blank"}
+* [[!DNL Journey Optimizer] documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/ajo-home){target="_blank"} - [Release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} - [How-to videos](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/overview){target="_blank"}
 * [Decision Management documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning){target="_blank"} - [Release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} - [How-to videos](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decision-management/introduction-to-decision-management){target="_blank"} - [Latest documentation updates](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/documentation-updates){target="_blank"}
 
 ## [!DNL Adobe Journey Optimizer B2B Edition] {#ajo-b2b}
