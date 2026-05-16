@@ -4,10 +4,12 @@ description: Find release note links for all Adobe CX Enterprise applications (f
 doc-type: release notes
 last-update: May 2026
 mini-toc-levels: 2
-product_v2:
-  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
-    internal-label: Experience Cloud
 exl-id: 091f0168-21b0-4f48-a02b-d70e96b84e27
+product_v2:
+  - id: e1971122-7081-4556-9222-8a31bd71800c
+    internal-label: Experience Cloud Services
+  - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
+    internal-label: CX Enterprise
 ---
 
 # Adobe CX Enterprise central release notes
@@ -17,7 +19,7 @@ This page helps you:
 * Find all links to application-specific release notes
 * Find the latest learning opportunities available on Experience League (Adobe's CX Enterprise help site)
 * Get informed about new events
-* See the latest Support articles 
+* See the latest Support articles
 
 Latest update: **May 15, 2026**
 
