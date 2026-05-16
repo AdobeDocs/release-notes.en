@@ -2,7 +2,7 @@
 title: Central Release Notes
 description: Find release note links for all Adobe CX Enterprise applications (formerly, Experience Cloud). Learn about new videos, events, and locate self-help resources.
 doc-type: release notes
-last-update: April 2026
+last-update: May 2026
 mini-toc-levels: 2
 product_v2:
   - id: d0a3eab4-7b10-4d96-a71e-6c0f8e7b7c87
@@ -202,7 +202,6 @@ View the latest release information, new documentation, and Support articles.
 
 * [[!DNL Experience Platform] Mobile SDK release notes](https://developer.adobe.com/client-sdks/documentation/release-notes/){target="_blank"}
 
-<!-- 
 ### New [!DNL Experience Platform] tutorials{#tutorials-aep}
 
 Latest tutorials published for Adobe [!DNL Experience Platform].
@@ -210,7 +209,6 @@ Latest tutorials published for Adobe [!DNL Experience Platform].
 | Published | Applications | Name | Type | Description |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
 | March 2026 | [!DNL Experience Platform] | [Monitor Experience Platform events in Slack](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/monitoring/monitor-events-in-slack){target="_blank"} | Video | Learn how to receive Experience Platform notifications in Slack by integrating with an Adobe App Builder webhook proxy. | 
--->
 
 ### New [!DNL Experience Platform] support knowledge base{#kb-aep}
 
@@ -360,7 +358,7 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 
 |Published|Name|Type|Description|
 |---------|--------|---------|---------|
-|April 2026|[AEM Assets performance issues when processing large CSV files](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30307)|New article| Learn about the solutions to the issue when uploading very large CSV files with millions of records in Adobe Experience Manager as a Cloud Service – Assets can result in slow processing and delayed data access.|
+|April 2026|[AEM Assets performance issues when processing large CSV files](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30307)|New article| Learn about the solutions to the issue when uploading very large CSV files with millions of records in AEM Assets result in slow processing and delayed data access.|
 |April 2026|[Sling Models with `jakarta.annotation.PostConstruct` fail on AEM 6.5 LTS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30339)|New article| Learn about the solutions to the issue when Sling Models on AEM 6.5 LTS fail to initialize when they use `jakarta.annotation.PostConstruct` and post-construct logic doesn't execute.|
 |April 2026|[Product functional test failure in Cloud Manager pipeline](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30122)|New article| Learn about the solutions to the issue when product functional tests fail during Cloud Manager pipeline deployments because required permissions are missing or when a hidden `.cqactions.html` node affects access control.|
 |April 2026|[Uploading `.CR3` files to AEM Assets fails due to MIME type configuration](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30270)|New article| Learn about the solutions to the issue when uploading [!DNL Canon RAW] (`.CR3`) files to Adobe Experience Manager Assets fails because the upload client performs a case-sensitive MIME type check based on what the browser sends and the backend requires a correctly formatted global MIME mapping.|
@@ -572,7 +570,6 @@ New [!DNL Workfront] tutorials and events on Experience League.
 | ----------- | ---------- | ---------- | ---------- |
 | April 2026 | [Workfront Fusion training overview](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/fusion/welcome-to-workfront-fusion/workfront-fusion-overview){target="_blank"} | Article and videos | Learn about the Adobe Workfront Fusion activity book and how to get a Workfront test drive account. |
 
-
 <!--
 ### New [!DNL Workfront] support knowledge base
 
@@ -586,9 +583,9 @@ New articles and updates to existing articles for [!DNL Workfront].
 |August 2025|[Duplicate folders auto-created in Workfront via [!DNL Fusion] scenarios](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27287){target="_blank"}|New article| Learn about the solutions to the issue when duplicate folders are automatically created in certain Adobe Workfront projects due to active [!DNL Fusion] connections.|
 |August 2025|[Unable to report on specific approver actions in Adobe Workfront](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27298){target="_blank"}|New article| Learn about the solutions to the issue when Adobe Workfront reports don't natively support isolating actions taken by specific approvers in multi-stage approval workflows.|
 |August 2025|[Unable to attach template to an existing project in Workfront](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-27305){target="_blank"}|New article| Learn about the solutions to the issue when an error occurs when attaching a template to an existing project in Adobe Workfront related to system-wide sharing permissions settings.|
+-->
 
 For the latest product documentation, see the [Adobe [!DNL Workfront] documentation home page](https://experienceleague.adobe.com/en/docs/workfront/using/home){target="_blank"}.
--->
 
 ## [!DNL Adobe GenStudio for Performance Marketing] {#genstudio-marketing}
 
@@ -645,4 +642,3 @@ Browse our library of tutorials for [Creative Cloud for enterprise](https://expe
 ## Customer experience orchestration blueprints {#blueprints}
 
 [Customer experience orchestration blueprints](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/overview){target="_blank"} are repeatable implementations that let you address strategy and quickly solve established business problems. Each Blueprint provides a series of artifacts that explain the high-value business problem, architectures, implementation steps, technical considerations, and links to the relevant documentation.
-
