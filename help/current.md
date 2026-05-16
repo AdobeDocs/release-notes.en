@@ -8,4 +8,11 @@ mini-toc-levels: 2
 ---
 # CX Enterprise central release notes - May 2026
 
-Content forthcoming
+This page helps you:
+
+* Find all links to application-specific release notes
+* Find the latest learning opportunities available on Experience League (Adobe's CX Enterprise help site)
+* Get informed about new events
+* See the latest Support articles
+
+Latest update: **May 16, 2026**
