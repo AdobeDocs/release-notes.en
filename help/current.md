@@ -26,14 +26,10 @@ Latest update: **June 9, 2026**
 
 ## What's new
 
-* As _Experience Cloud_ is updated to _CX Enterprise_, you may see mentions of _Experience Cloud_ in documentation as we make this update throughout the next few weeks.
-
-What's new:
-
 * [New release notes - all applications](#application-release-notes)
 * [New AI features in CX Enterprise](#ai)
 * [Upcoming webinars and events](#events) 
-* [New video tutorials](#video-tutorials)
+* [New tutorials and Support articles](#articles)
 
 ## New release notes - all applications {#application-release-notes}
 
@@ -89,6 +85,10 @@ Find new and recent learning resources published for generative and agentic AI i
 | [!DNL Acrobat Services] | [Acrobat Analyzer](https://experienceleague.adobe.com/en/docs/events/acrobat-analyzer-webinars/overview){target="_blank"} | Explore Adobe Acrobat Analyzer webinars to see how Generative AI extracts structured, auditable insights from documents to automate workflows, reduce risk, and accelerate enterprise decision-making at scale. | March 10, 2026 |
 | [!DNL CX Enterprise] | [Adobe Experience Platform Agents for Improved Marketing Efficiency and Better Business outcomes](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | This exclusive session features an insightful Q&A session with Anjul Bhambhri, Senior Vice President of Adobe CX Enterprise. Discover Adobe's journey and bold vision to provide innovative Agentic AI capabilities that empower marketing and creative practitioners to automate complex steps, accelerate decision-making, and expand their teams' capacity without compromising control or oversight. | March 3, 2026 |
 | [!DNL CX Enterprise] | [Agent jobs and AI credits consumption](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | Learn about agent jobs and AI credit consumption rates in CX Enterprise applications. | March 3, 2026 |
+
+## Upcoming webinars and events {#events}
+
+To view all events, visit [Experience League Events](https://experienceleague.adobe.com/en/events).
 
 ## New tutorials and Support articles {#articles}
 
