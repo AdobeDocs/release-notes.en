@@ -173,8 +173,6 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 
 Adobe Analytics releases operate on a continuous delivery model, which allows for a more scalable, phased approach to feature deployment. Release notes are updated several times a month.
 
-* [[!DNL Analytics] release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest){target="_blank"}
-
 ### AppMeasurement {#appm}
 
 * [AppMeasurement for JavaScript release notes](https://github.com/adobe/appmeasurement/releases){target="_blank"}
@@ -202,10 +200,6 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 Find the latest release information for [!DNL Customer Journey Analytics]. View new tutorials on Experience League.
 
-**February 2026**
-
-* [Customer Journey Analytics (CJA) release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest?lang=en#releases){target="_blank"}
-
 ### New [!DNL Customer Journey Analytics] tutorials {#tutorials-cja}
 
 New tutorials published for [!DNL Customer Journey Analytics]. 
@@ -232,13 +226,9 @@ Find the latest release information for [!DNL Streaming Media Analytics]. View n
 
 Updated: **October 2025**
 
-* [Release notes](https://experienceleague.adobe.com/en/docs/media-analytics/using/release-notes/release-notes){target="_blank"}
-
 * [Product documentation and tutorials](https://experienceleague.adobe.com/en/docs/media-analytics/using/media-overview){target="_blank"}
 
 ## [!DNL Adobe Mix Modeler] {#mix-modeler}
-
-* [March 2026 - Release notes](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest){target="_blank"}
 
 ## [!DNL Adobe Advertising] {#advertising}
 
@@ -250,12 +240,6 @@ May 11, 2026
 
 * [What's new in [!DNL Advertising DSP]](https://experienceleague.adobe.com/en/docs/advertising/dsp/home){target="_blank"}
   
-### New features in [!DNL Advertising Search, Social, & Commerce] {#advertising-search}
-
-February 25, 2026
-
-* [What's new in [!DNL Advertising Search, Social, & Commerce]](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/home){target="_blank"}
-
 ## [!DNL Adobe Experience Manager] {#aem}
 
 New features, fixes, and updates in [!DNL Experience Manager]. Adobe recommends customers with On-Premise deployments to deploy the latest patches to ensure higher stability, security, and performance.
@@ -268,18 +252,13 @@ Current release: **2026.4.0 - April 30, 2026**
 
 The next feature release (2026.5.0) is planned for **May 28, 2026**.
 
-* [Release notes home for AEM CS](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current){target="_blank"}
 * [Latest AEM CS release overview video](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview){target="_blank"}
 
 Other [!DNL Experience Manager] product release notes are maintained at the following pages:
 
-* [[!DNL Experience Manager] 6.5 Service Pack release notes](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes){target="_blank"}
-* [[!DNL Experience Manager] Cloud Manager release notes](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/release-notes/current){target="_blank"}
 * [Automated Forms Conversion Service release notes](https://experienceleague.adobe.com/en/docs/aem-forms-automated-conversion-service/using/release-notes){target="_blank"}
 * [[!DNL Experience Manager] Assets Dynamic Media release notes](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/release-notes/s7rn2017){target="_blank"}
-* [[!DNL Experience Manager] Brand Portal release notes](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes){target="_blank"}
 * [[!DNL Experience Manager] Desktop App release notes](https://experienceleague.adobe.com/en/docs/experience-manager-desktop-app/using/release-notes){target="_blank"}
-* [[!DNL Experience Manager] Dispatcher release notes](https://experienceleague.adobe.com/en/docs/experience-manager-dispatcher/using/getting-started/release-notes){target="_blank"}
 
 ### New [!DNL Experience Manager] tutorials {#tutorials-aem}
 
@@ -321,7 +300,6 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 
 Get access to release notes, new tutorials, and Knowledge Base support articles for [!DNL Adobe Commerce].
 
-* [Release notes for [!DNL Adobe Commerce] and [!DNL Magento Open Source]](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview){target="_blank"}
 * [Adobe [!DNL Commerce] Services Guides](https://experienceleague.adobe.com/en/docs/commerce/user-guides/home){target="_blank"}
 * [Product Availability](https://experienceleague.adobe.com/en/docs/commerce-operations/release/product-availability){target="_blank"}
 
@@ -358,21 +336,19 @@ Released: **26.5.1 - May 12, 2026**
 | --------- | ---- | ---- | ----------- |
 | April 2026 | [Adobe Target Edge interact calls return 207 with *TGT-12201-403 Unauthorized Mbox host - localhost* error](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30331) | New article | Learn about the solutions to the issue when Adobe Target Edge interact calls return HTTP 207 with *TGT-12201-403 Unauthorized Mbox host - localhost* error when Host Authentication is enabled. |
 
-* [[!DNL Adobe Target] release notes](https://experienceleague.adobe.com/en/docs/target/using/release-notes/release-notes){target="_blank"}
-
 ## [!DNL Adobe Campaign] {#ac}
 
 Get the latest updates for [!DNL Adobe Campaign]. Find new tutorials and Knowledge Base support articles on Experience League. 
 
 ### Latest Campaign product releases
 
-* [Web User Interface - April 29, 2026](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home){target="_blank"}
+* Web User Interface - April 29, 2026 | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/campaign-web-home){target="_blank"}
 
-* [[!DNL Campaign] v8: 8.9.2 - May 3, 2026](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes#release-8-7-4){target="_blank"} | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home){target="_blank"}
+* [!DNL Campaign] v8: 8.9.2 - May 3, 2026 | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/campaign-home){target="_blank"}
 
-* [[!DNL Campaign Standard]: 26.2](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes){target="_blank"} | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home){target="_blank"}
+* [!DNL Campaign Standard]: 26.2 | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/campaign-standard-home){target="_blank"}
 
-* [[!DNL Campaign Classic] 7.4.3 - March 31, 2026](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release#release-7-4-2){target="_blank"} | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/campaign-classic-home){target="_blank"}
+* [!DNL Campaign Classic] 7.4.3 - March 31, 2026 | [Product documentation](https://experienceleague.adobe.com/en/docs/campaign-classic/using/campaign-classic-home){target="_blank"}
 
 <!-- 
 ### New [!DNL Campaign] tutorials {#tutorials-campaign}
@@ -407,8 +383,6 @@ Learn about the latest release information for [!DNL Journey Optimizer]. View th
 
 Latest release: **May 2026**
 
-* [Journey Optimizer Release Notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"}
-
 (**Note:** [Journey Optimizer for B2B Edition](#journey-optimizer-b2b-edition) is a separate product.)
 
 ### New [!DNL Journey Optimizer] tutorials {#tutorials-ajo}
@@ -433,16 +407,14 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].
 
 ### More resources for [!DNL Journey Optimizer]
 
-* [[!DNL Journey Optimizer] documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/ajo-home){target="_blank"} - [Release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} - [How-to videos](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/overview){target="_blank"}
-* [Decision Management documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning){target="_blank"} - [Release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} - [How-to videos](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decision-management/introduction-to-decision-management){target="_blank"} - [Latest documentation updates](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/documentation-updates){target="_blank"}
+* [[!DNL Journey Optimizer] documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/ajo-home){target="_blank"} - [How-to videos](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/overview){target="_blank"}
+* [Decision Management documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning){target="_blank"} - [How-to videos](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decision-management/introduction-to-decision-management){target="_blank"} - [Latest documentation updates](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/documentation-updates){target="_blank"}
 
 ## [!DNL Adobe Journey Optimizer B2B Edition] {#ajo-b2b}
 
 Learn about the latest release information for [!DNL Journey Optimizer B2B Edition]. 
 
 Latest release: **2026.3 - March 27, 2026**
-
-* [AJO B2B Edition release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes){target="_blank"}
 
 **AJO B2B resources**
 
@@ -465,9 +437,7 @@ Find out the latest release notes and release schedule for [!DNL Marketo Engage]
 
 Latest release: **May 2026**
 
-* [Current release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current){target="_blank"}
 * [!DNL Marketo Engage] [release schedule](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/release-schedule){target="_blank"}
-* Dynamic Chat [release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/dynamic-chat){target="_blank"} (March 2026)
 
 <!-- 
 ### New Marketo tutorials {#tutorials-marketo}
@@ -499,12 +469,6 @@ Learn about the latest release notes for [!DNL Adobe Workfront]. Find new tutori
 
 * [First Quarter 2026 release overview](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q1/26-q1-release-overview){target="_blank"}
 
-For all release information:
-
-* [Adobe [!DNL Workfront] product releases](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"}
-
-* [Adobe [!DNL Workfront] Fusion release activity overview](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity){target="_blank"}
-
 ### New Adobe [!DNL Workfront] tutorials {#tutorials-workfront}
 
 New [!DNL Workfront] tutorials and events on Experience League.
@@ -533,8 +497,6 @@ For the latest product documentation, see the [Adobe [!DNL Workfront] documentat
 ## [!DNL Adobe GenStudio for Performance Marketing] {#genstudio-marketing}
 
 Find latest release information and new documentation for [!DNL GenStudio for Performance Marketing].
-
-* [2026.05.15 - Release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"}
 
 ### New tutorials for GenStudio for Performance Marketing {#genstudio-tutorials}
 
