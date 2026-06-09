@@ -16,9 +16,11 @@ This page helps you:
 * Get informed about new events
 * See the latest Support articles
 
+<!--
 >[!TIP]
 >
->To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
+>To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
+-->
 
 Latest update: **June 9, 2026**
 
