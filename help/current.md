@@ -10,10 +10,16 @@ mini-toc-levels: 2
 
 This page helps you:
 
+* Learn about new generative AI and agentic AI feature in CX Enterprise
 * Find all links to application-specific release notes
 * Find the latest learning opportunities available on Experience League (Adobe's CX Enterprise help site)
 * Get informed about new events
 * See the latest Support articles
+
+>[!TIP]
+>
+>To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
+
 
 Latest update: **June 2, 2026**
 
@@ -21,13 +27,16 @@ Latest update: **June 2, 2026**
 
 * _Experience Cloud_ is _CX Enterprise_. You may see mentions of _Experience Cloud_ in documentation as we make this update throughout the next few weeks.
 
-On this page:
+What's new:
 
 * [Release notes links - all applications](#application-release-notes)
-* [Webinars and events](#events) 
+* [New AI features in CX Enterprise](#ai)
+* [Upcoming webinars and events](#events) 
 * [New video tutorials](#video-tutorials)
+
+Product 
+
 * [[!DNL Adobe CX Enterprise] central UI & administration](#ecloud)
-* [AI in CX Enterprise](#ai)
 * [[!DNL Adobe System Status]](#status)
 * [[!DNL Adobe Brand Concierge]](#brand-concierge)
 * [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
@@ -55,7 +64,7 @@ On this page:
 * [Certification at Adobe](https://experienceleague.adobe.com/en/certification-home){target="_blank"}
 * [Adobe product security vulnerabilities](https://helpx.adobe.com/security.html){target="_blank"}
 
-## Release notes links - all applications {#application-release-notes}
+## Release notes - quick links - all applications {#application-release-notes}
 
 The following links open each application's own release notes (or the closest equivalent maintained in that product's documentation).
 
@@ -63,78 +72,35 @@ The following links open each application's own release notes (or the closest eq
 | ------------- | ------------- | ------------- | ------------- |
 | [!DNL CX Enterprise] | April 2026 | [CX Enterprise central UI & administration](https://experienceleague.adobe.com/en/docs/core-services/interface/more-resources/release-notes){target="_blank"} | <ul><li>Dashboards to monitor AI Assistant usage</li></ul> |
 | [!DNL Adobe System Status] | May 15, 2026 | [Adobe System Status (on this page)](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/current#status){target="_blank"} | <ul><li>AI Virtual Assistant beta</li><li>Bug fixes and improvements</li></ul> |
+| [!DNL Adobe Brand Concierge] | May 8, 2026 | [Brand Concierge release notes](https://experienceleague.adobe.com/en/docs/brand-concierge/content/release-notes/current){target="_blank"} |  |
 | [!DNL Adobe LLM Optimizer] | May 8, 2026 | [LLM Optimizer release notes](https://llmo.now/articles/release-notes){target="_blank"} | <ul><li>Google Analytics Integration</li><li>Brand Presence Enhancements</li><li>Opportunities: CSV Export</li></ul> |
 | [!DNL Adobe Experience Platform and Real-Time CDP] | May 19, 2026 | [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest){target="_blank"} | <ul><li>Alerts</li><li>Computed attributes</li><li>Destinations</li><li>Real-Time Customer Profile</li><li>Segmentation Service</li><li>Sources</li></ul> |
 | [!DNL Experience Platform] Mobile SDK | April 21, 2026 | [[!DNL Experience Platform] Mobile SDK release notes](https://developer.adobe.com/client-sdks/documentation/release-notes/){target="_blank"} | <ul><li>Added UI components for Journey Optimizer Inbox</li><li>Added UI components for Content Cards</li><li>Updated Messaging APIs to load inbox and content card data for use with the new UI.</li></ul> |
-| [!DNL Adobe Analytics] | May 5, 2026 | [[!DNL Analytics] release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest){target="_blank"} | <ul><li></li><li></li><li></li><li></li><li></li></ul> |
-| [!DNL Adobe Customer Journey Analytics] | May 1, 2026 | [Customer Journey Analytics release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest?lang=en#releases){target="_blank"} | <ul><li></li><li></li><li></li><li></li><li></li></ul> |
-| [!DNL Adobe Streaming Media Analytics] | October 7, 2025 | [Streaming Media Analytics release notes](https://experienceleague.adobe.com/en/docs/media-analytics/using/release-notes/release-notes){target="_blank"} | <ul><li></li><li></li><li></li><li></li><li></li></ul> |
-| [!DNL Adobe Mix Modeler] | March 30, 2026 | [Mix Modeler release notes](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest){target="_blank"} | <ul><li></li><li></li><li></li><li></li><li></li></ul> |
-| [!DNL Adobe Advertising DSP] | May 20, 2026 | [What's new in Advertising DSP](https://experienceleague.adobe.com/en/docs/advertising/dsp/home){target="_blank"} | <ul><li></li><li></li><li></li><li></li><li></li></ul> |
-| [!DNL Adobe Advertising Search, Social, & Commerce] | February 25, 2026 | [What's new in Advertising Search, Social, & Commerce](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/home){target="_blank"} | <ul><li></li><li></li><li></li><li></li><li></li></ul> |
-| [!DNL Adobe Experience Manager] as a Cloud Service | April 30, 2026 | [Release notes home for AEM as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/home){target="_blank"} | <ul><li></li><li></li><li></li><li></li><li></li></ul> |
-| [!DNL Adobe Experience Manager] 6.5 | May 21, 2025 | [[!DNL Experience Manager] 6.5 Service Pack release notes](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes){target="_blank"} | <ul><li></li><li></li><li></li><li></li><li></li></ul> |
-| [!DNL Adobe Experience Manager] [!DNL Cloud Manager] | May 7, 2026 | [Experience Manager Cloud Manager release notes](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/release-notes/current){target="_blank"} | <ul><li></li><li></li><li></li><li></li><li></li></ul> |
-| [!DNL Experience Manager] [!DNL Assets Essentials] | July 25, 2024 | [Experience Manager Assets Dynamic Media release notes](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/release-notes){target="_blank"} | <ul><li></li><li></li><li></li><li></li><li></li></ul> |
-| [!DNL Experience Manager] [!DNL Brand Portal] | January 1, 2026 | [Experience Manager Brand Portal release notes](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes){target="_blank"} | <ul><li></li><li></li><li></li><li></li><li></li></ul> |
-| [!DNL Experience Manager] [!DNL Dispatcher] | November 20, 2025 | [Experience Manager Dispatcher release notes](https://experienceleague.adobe.com/en/docs/experience-manager-dispatcher/using/getting-started/release-notes){target="_blank"} | <ul><li></li><li></li><li></li><li></li><li></li></ul> |
-| [!DNL Adobe Commerce] | Ongoing | [Release notes for Adobe Commerce and Magento Open Source](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview){target="_blank"} | <ul><li></li><li></li><li></li><li></li><li></li></ul> |
-| [!DNL Adobe Target] | May 21, 2026 | [[!DNL Adobe Target] release notes](https://experienceleague.adobe.com/en/docs/target/using/release-notes/release-notes){target="_blank"} | <ul><li></li><li></li><li></li><li></li><li></li></ul> |
-| [!DNL Adobe Campaign] Web user interface | April 29, 2026 | [Campaign Web UI release notes](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | <ul><li></li><li></li><li></li><li></li><li></li></ul> |
-| [!DNL Adobe Campaign] v8 | May 3, 2026 | [[!DNL Campaign] v8 release notes](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes){target="_blank"} | <ul><li></li><li></li><li></li><li></li><li></li></ul> |
-| [!DNL Adobe Campaign Standard] | February 2026 (26.2) | [[!DNL Campaign Standard] release notes](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes){target="_blank"} | <ul><li></li><li></li><li></li><li></li><li></li></ul> |
-| [!DNL Adobe Campaign Classic] v7 | March 31, 2026 | [[!DNL Campaign Classic] release notes](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release){target="_blank"} | <ul><li></li><li></li><li></li><li></li><li></li></ul> |
-| [!DNL Adobe Journey Optimizer] | May 2026 | [[!DNL Journey Optimizer] release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li></li><li></li><li></li><li></li><li></li></ul> |
-| [!DNL Adobe Journey Optimizer B2B Edition] | May 22, 2026 | [Journey Optimizer B2B Edition release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes){target="_blank"} | <ul><li></li><li></li><li></li><li></li><li></li></ul> |
-| [!DNL Adobe Marketo Engage] | May 2026 | [Marketo Engage current release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current){target="_blank"} | <ul><li></li><li></li><li></li><li></li><li></li></ul> |
-| [!DNL Marketo Engage] [!DNL Dynamic Chat] | March 2026 | [Dynamic Chat release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/dynamic-chat){target="_blank"} | <ul><li></li><li></li><li></li><li></li><li></li></ul> |
-| [!DNL Adobe Workfront] | Q1 2026 | [Adobe Workfront product releases](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"} | <ul><li></li><li></li><li></li><li></li><li></li></ul> |
-| [!DNL Adobe Workfront Fusion] | May 2026 | [Adobe Workfront Fusion release activity](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/fusion-release-activity/fusion-release-activity){target="_blank"} | <ul><li></li><li></li><li></li><li></li><li></li></ul> |
-| [!DNL Adobe GenStudio for Performance Marketing] | May 15, 2026 | [GenStudio for Performance Marketing release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"} | <ul><li></li><li></li><li></li><li></li><li></li></ul> |
-| [!DNL Adobe Pass] | May 2026 (3.7.0.2) | [Adobe Pass 3.7.0 release notes](https://experienceleague.adobe.com/en/docs/pass/authentication/product-releases/2026/auth-rn-370){target="_blank"} | <ul><li></li><li></li><li></li><li></li><li></li></ul> |
-
-## New video tutorials {#video-tutorials}
-
-| Application | Published | Name | Type | Description |
-| ----------- | ----------- | ---------- | ---------- | ---------- |
-| Acrobat Sign | Apr 2026 | [Configure and govern Modify Agreement](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/admin-set-up/getting-started-admin/configure-modify-agreement){target="_blank"} | Video | Learn how to configure and govern Modify Agreement in Acrobat Sign. Set policies so post-send changes stay controlled and auditable. |
-| Acrobat Sign | Apr 2026 | [Guide required selections with checkbox groups](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/checkbox-groups){target="_blank"} | Video | Learn how to use checkbox groups in Acrobat Sign forms. Control minimum and maximum selections so signers meet your required option rules. |
-| Acrobat Sign | Apr 2026 | [Modify a document after sending](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/modify-in-flight){target="_blank"} | Video | Learn how to correct a sent agreement in Acrobat Sign without canceling the transaction. Fix mistakes and keep signatures and audit trails intact. |
-| Adobe Commerce | May 2026 | [Create a split payment POC: App Builder and AI tools](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/extensibility/adobe-developer-app-builder/create-a-split-payment-poc/overview){target="_blank"} | Video | Learn about a split payment proof of concept for Adobe Commerce using App Builder and AI tools. Explore goals, architecture, and what the first session covers. |
-| Adobe Customer Journey Analytics | May 2026 | [Remote MCP server for CJA & AA overview](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/remote-mcp-server/remote-mcp-server-for-cja-overview){target="_blank"} | Video | Learn how the Remote MCP server connects Adobe Analytics and Customer Journey Analytics to AI tools. Govern access and stream real-time data to assistants. |
-| Adobe Customer Journey Analytics | May 2026 | [Validate dataset quality with the Data Engineering Agent](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/use-cases/ai/validate-dataset-quality-data-engineering-agent){target="_blank"} | Video | Learn how to use the Data Validation Skill in the Data Engineering Agent. Profile Customer Journey Analytics datasets and catch problems before you publish. |
-| Adobe Customer Journey Analytics | Apr 2026 | [Architecture and integrations of Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/customer-journey-analytics-learn/tutorials/architecture/architecture-and-integrations-of-cja){target="_blank"} | Video | Learn about Customer Journey Analytics architecture on Adobe Experience Platform. Review how connections, views, stitching, and integrations work together. |
-| AEM Sites Optimizer | Apr 2026 | [Sites Optimizer trial](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/documentation/trial){target="_blank"} | Video | Learn about the AEM Sites Optimizer trial for existing AEM Sites customers. See how to turn on the trial and start reviewing site optimization opportunities. |
-| AEM Sites Optimizer | Apr 2026 | [Missing alt text opportunity](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/documentation/opportunities/missing-alt-text){target="_blank"} | Video | Learn how to find missing image alt text in Page Editor-based AEM Sites. Improve accessibility and engagement using Sites Optimizer recommendations and fixes. |
-| AEM Sites Optimizer | Apr 2026 | [Core Web Vitals opportunities](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/documentation/opportunities/core-web-vitals){target="_blank"} | Video | Learn how to identify Core Web Vitals issues in Page Editor-based AEM Sites. Apply Sites Optimizer guidance to tune performance and protect UX scores. |
-| AEM Sites Optimizer | Apr 2026 | [Broken backlinks opportunities](https://experienceleague.adobe.com/en/docs/experience-manager-sites-optimizer/content/documentation/opportunities/broken-backlinks){target="_blank"} | Video | Learn how to detect broken backlinks in Page Editor-based AEM Sites. Resolve inbound link issues to protect SEO, traffic, and visitor navigation paths. |
-| Adobe Experience Manager | May 2026 | [AEM Release Notes video - AEM Agent Skills](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current#foundation){target="_blank"} | Video | Learn about AEM Agent Skills updates covered in the Experience Manager release notes video. Hear what changed in this release and where to learn more next. |
-| Adobe Experience Manager | May 2026 | [Set up AEM Agent Skills](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/ai-assisted-development/setup/agent-skills){target="_blank"} | Video | Learn how to set up AEM Agent Skills for AI-assisted development in Experience Manager. Follow prerequisites, configuration, and checks to enable the workflow. |
-| Adobe Experience Manager | May 2026 | [AEM Component development using AEM Agent Skills](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/ai-assisted-development/use-cases/component-development){target="_blank"} | Video | Learn how to develop an AEM component using AEM Agent Skills in Experience Manager. Walk through prompts, files, and validation for an AI-assisted build. |
-| Adobe Experience Manager | Apr 2026 | [Set up AEM Agent Skills](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/ai-assisted-development/setup/agent-skills){target="_blank"} | Tutorial | Learn how to set up AEM Agent Skills for AI-assisted local development. Complete prerequisites, load skill files, and verify agents before building components. |
-| Adobe Experience Manager | Apr 2026 | [Overview of AI-assisted development](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/ai-assisted-development/overview){target="_blank"} | Article | Learn about AI-assisted AEM development using an AI IDE, agents, AGENTS.md, Agent Skills, and MCP. Ship production-ready code on AEM as a Cloud Service. |
-| Adobe Experience Manager | Apr 2026 | [Component development using AEM Agent Skills](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/ai-assisted-development/use-cases/component-development){target="_blank"} | Tutorial | Learn how to develop an AEM component with AEM Agent Skills during AI-assisted local development. Follow the end-to-end workflow from prompt to tested code. |
-| Adobe Journey Optimizer | Apr 2026 | [Enable external data integrations in channel authoring](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/content-management/external-data-integrations-in-channel-authoring){target="_blank"} | Video | Learn how to bring external data into Adobe Journey Optimizer during channel authoring. Enrich journeys and outbound messages with trusted, connected sources. |
-| Adobe Journey Optimizer | Apr 2026 | [Web push in Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/ajo-web-push/introduction){target="_blank"} | Tutorial | Learn how to implement web push in Adobe Journey Optimizer. Configure permissions, surfaces, journeys, and tests so notifications reach the right audience. |
-| Adobe Journey Optimizer | May 2026 | [Build an orchestrated campaign](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/orchestrated-campaigns/build-an-orchestrated-campaign){target="_blank"} | Video | Learn how to build orchestrated campaigns in Adobe Journey Optimizer. Combine audiences, data preparation, and multi-channel delivery in one guided workflow. |
-| Adobe Journey Optimizer | May 2026 | [Introduction to email decisioning](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/use-decisioning/introduction-to-decisioning-in-emails){target="_blank"} | Video | Learn how to personalize email with decisioning in Adobe Journey Optimizer. Connect offers, eligibility rules, and ranking so recipients see relevant content. |
-| Adobe Real-Time CDP Collaboration | May 2026 | [Real-Time CDP Collaboration in-product invitations](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/rtcdp-collaboration-in-product-invitations){target="_blank"} | Video | Learn how in-product invitations work in Real-Time CDP Collaboration. Invite partners inside the product, share context securely, and shorten onboarding time. |
-| Adobe Real-Time CDP Collaboration | May 2026 | [Collaboration measurement - setup and report creation](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/collaboration-measurement-setup-and-report-creation){target="_blank"} | Video | Learn how to set up measurement in Real-Time CDP Collaboration by onboarding event data, allowing you to create reports tied to publisher campaign data. |
-| Adobe Workfront | Apr 2026 | [Master Project Tracking with Baselines, Snapshots, and Automated Reports](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/baselines-snapshots-and-automated-reports){target="_blank"} | Video | Learn about historical Workfront tracking beyond real-time views. Compare work over time with baselines, snapshots, and automated task-report emails. |
-| Adobe Workfront | May 2026 | [Create job roles and rate cards](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/create-job-roles-and-rate-cards){target="_blank"} | Video | Learn how to create job roles and rate cards in Workfront. Attach, update, or remove rate cards on a project so finances reflect the right billing rules. |
-| Adobe Workfront | Apr 2026 | [Understand financial access](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-financial-access){target="_blank"} | Video | Learn how financial access works in Workfront. See how administrators grant view or edit rights to financial fields, tasks, and projects for each user group. |
-| Adobe Workfront | Apr 2026 | [Update finances for client projects](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/project-finances/update-and-review-finances){target="_blank"} | Video | Learn how to review and update project finances in Adobe Workfront. Validate costs, revenue, billing, and currencies before you distribute reports. |
-| Adobe Workfront | Apr 2026 | [Set up exchange rates](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-exchange-rates){target="_blank"} | Video | Learn how to configure Workfront exchange rates for global and project reporting. Keep currency conversions accurate for costs, revenue, and dashboards. |
-| Adobe Workfront | Apr 2026 | [Set up task revenue & cost defaults](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-task-revenue-and-cost-defaults){target="_blank"} | Video | Learn how revenue type and cost type drive task finances in Workfront. Set system defaults so new tasks inherit the right calculations for planned and actuals. |
-| Adobe Workfront | May 2026 | [Customize billing rates for job roles](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/project-finances-users/multiple-billing-rates){target="_blank"} | Video | Learn how to override Workfront billing rates for job roles in one project. Add multiple rates per role by date range so invoices match the work performed. |
-
-## [!DNL Adobe CX Enterprise] central UI & administration {#ecloud}
-
-| Feature | Release date | Description |
-| ------- | ------- | ------- |
-| Refreshed home page | April 20, 2026 | A refreshed look and feel of the home page at `https://experience.adobe.com/home`. With this release, all functionality remains the same, with refreshed UI, support for full _dark mode_ and improved accessibility. |
-
-See [CX Enterprise interface and administration](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud){target="_blank"} for documentation.
+| [!DNL Adobe Analytics] | May 5, 2026 | [[!DNL Analytics] release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest){target="_blank"} | <ul><li>MCP servers for Adobe Analytics</li><li>Journey canvas in Adobe Analytics</li><li>Attribution model API reporting guide</li><li>Streaming media services: Support schedule data</li></ul> |
+| [!DNL Adobe Customer Journey Analytics] | May 1, 2026 | [Customer Journey Analytics release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest?lang=en#releases){target="_blank"} | <ul><li>CJA API Postman Collections</li><li>MCP servers for Customer Journey Analytics</li><li>Content Analytics support for native mobile app experiences</li><li>Journey canvas enhancements</li><li>Data validation in the Adobe Engineering Agent</li></ul> |
+| [!DNL Adobe Streaming Media Analytics] | October 7, 2025 | [Streaming Media Analytics release notes](https://experienceleague.adobe.com/en/docs/media-analytics/using/release-notes/release-notes){target="_blank"} | <ul><li>Support schedule data</li></ul> |
+| [!DNL Adobe Mix Modeler] | March 30, 2026 | [Mix Modeler release notes](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest){target="_blank"} | <ul><li>Channel adstock</li></ul> |
+| [What's new in Advertising Search, Social, & Commerce](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/home){target="_blank"} | Ongoing | <ul><li>Google AI Max Search Term Combination Report</li><li>Set Campaign Spend Allocation Limits</li><li>Model Accuracy report</li><li>Performance details downloads for campaigns and ad groups</li><li>Manage ad network accounts in the new UI</li><li>Label classifications</li></ul> |
+| [!DNL Adobe Experience Manager] as a Cloud Service | April 30, 2026 | [Release notes home for AEM as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/home){target="_blank"} | <ul><li>AI Search</li><li>Custom Sorting options</li><li>Asset Search and Download Event Support for Delivery APIs</li><li>Asset Delivery URL</li><li>Versioning support in Forms Manager</li></ul> |
+| [!DNL Adobe Experience Manager] 6.5 | May 21, 2025 | [[!DNL Experience Manager] 6.5 Service Pack release notes](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes){target="_blank"} | <ul><li>Crosswalk available by default</li><li>Accessibility improvements</li><li>Content Fragments and GraphQL API reliability improvements</li><li>Security back-ports</li><li>275 back-ports across Sites, Assets, and Foundation</li></ul> |
+| [!DNL Adobe Experience Manager] [!DNL Cloud Manager] | May 7, 2026 | [Experience Manager Cloud Manager release notes](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/release-notes/current){target="_blank"} | <ul><li>Web Tier Pipelines for AEM Managed Services</li><li>Faster builds with module caching</li></ul> |
+| [!DNL Experience Manager] [!DNL Assets Essentials] | July 25, 2024 | [Experience Manager Assets Dynamic Media release notes](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/release-notes){target="_blank"} | <ul><li>Content credentials integration</li><li>Visual previews of folder contents</li><li>Contextual Search</li><li>In-place rename for assets and folders</li><li>Express video quick actions</li></ul> |
+| [!DNL Experience Manager] [!DNL Brand Portal] | January 1, 2026 | [Experience Manager Brand Portal release notes](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes){target="_blank"} | <ul><li>Reset button for Dynamic Media Configuration</li><li>Sourcing folder validation before publish</li><li>Critical issues fixed</li></ul> |
+| [!DNL Experience Manager] [!DNL Dispatcher] | November 20, 2025 | [Experience Manager Dispatcher release notes](https://experienceleague.adobe.com/en/docs/experience-manager-dispatcher/using/getting-started/release-notes){target="_blank"} | <ul><li>/allowedClients control in dispatcher configuration</li><li>stale-while-error handling for 429 responses</li><li>Vanity URL loading optimization</li></ul> |
+| [!DNL Adobe Commerce] | Ongoing | [Release notes for Adobe Commerce and Magento Open Source](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/adobe-commerce/2-4-9){target="_blank"} | <ul><li>REST API product gallery inheritance control at store view level</li><li>clearCart GraphQL mutation</li><li>Improved applyGiftCardToCart GraphQL error messaging</li><li>clearWishlist GraphQL mutation</li><li>exchangeExternalCustomerToken GraphQL mutation</li></ul> |
+| [!DNL Adobe Target] | May 21, 2026 | [[!DNL Adobe Target] release notes](https://experienceleague.adobe.com/en/docs/target/using/release-notes/release-notes){target="_blank"} | <ul><li>Incomplete activity URL on Activity Overview</li><li>Unlocalized date format in Activity reports</li><li>Unable to save Form-based Activity with certain GB18030 characters in Location</li><li>Unlocalized calendar in Create Audience flow</li></ul> |
+| [!DNL Adobe Campaign] Web user interface | April 29, 2026 | [Campaign Web UI release notes](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | <ul><li>Enrichment data in Build audience workflow activity</li><li>Schema authoring</li><li>Themes in the Email Designer</li><li>Integration of custom Firefly models and third-party image generation models</li><li>Automated delivery activity</li></ul> |
+| [!DNL Adobe Campaign] v8 | May 3, 2026 | [[!DNL Campaign] v8 release notes](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes){target="_blank"} | <ul><li>Security improvements</li><li>Fixes</li></ul> |
+| [!DNL Adobe Campaign Standard] | February 2026 (26.2) | [[!DNL Campaign Standard] release notes](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes){target="_blank"} | <ul><li>Security fixes</li><li>Other fixes</li></ul> |
+| [!DNL Adobe Campaign Classic] v7 | March 31, 2026 | [[!DNL Campaign Classic] release notes](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release){target="_blank"} | <ul><li>Security improvements</li><li>Fixes</li></ul> |
+| [!DNL Adobe Journey Optimizer] | May 2026 | [[!DNL Journey Optimizer] release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>Journey Simulation</li><li>Journey Fragments</li></ul> |
+| [!DNL Adobe Journey Optimizer B2B Edition] | May 22, 2026 | [Journey Optimizer B2B Edition release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes){target="_blank"} | <ul><li>Landing pages</li><li>Forms</li><li>Member of Account List filter</li><li>Experience event history filtering</li><li>Next best path journey nodes</li></ul> |
+| [!DNL Adobe Marketo Engage] | May 2026 | [Marketo Engage current release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current){target="_blank"} | <ul><li>Marketo AI</li><li>Marketo Engage MCP Server</li><li>Email Designer conditional content for email fragments</li><li>Picklist Management</li></ul> |
+| [!DNL Marketo Engage] [!DNL Dynamic Chat] | March 2026 | [Dynamic Chat release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/dynamic-chat){target="_blank"} | <ul><li>Visitor wait time limit</li><li>Download transcript</li><li>Routing Logic Revamp</li></ul> |
+| [!DNL Adobe Workfront] | Q1 2026 | [Adobe Workfront product releases](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview){target="_blank"} | <ul><li>Rich Text replacing Text with Formatting field type</li><li>Native financial fields supported in custom forms</li><li>Custom forms can be shared system-wide with access to attach</li><li>New system preference to enforce required fields in bulk edit</li><li>Print summary for documents in the new Documents area</li></ul> |
+| [!DNL Adobe Workfront Fusion] | June 2026 | [Adobe Workfront Fusion release activity](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/fusion-release-activity/fusion-releases-2026/fusion-2026-6-1){target="_blank"} | <ul><li>Retrigger specific scenario executions</li><li>Updates to Run Once functionality</li></ul> |
+| [!DNL Adobe GenStudio for Performance Marketing] | May 15, 2026 | [GenStudio for Performance Marketing release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"} | <ul><li>Collaborative editing on the Horizon canvas</li><li>Refreshed card layout on the Create Content page</li><li>AEM Content Fragments swap in email experiences on the HTML canvas</li></ul> |
+| [!DNL Adobe Pass] | May 2026 (3.7.0.2) | [Adobe Pass 3.7.0 release notes](https://experienceleague.adobe.com/en/docs/pass/authentication/product-releases/2026/auth-rn-370){target="_blank"} | <ul><li>PKCE support for OAuth2-based MVPD authentication</li><li>TVE Dashboard 1.5.1</li><li>Apple SSO configuration mismatch fix</li><li>HTTP 500 authorization-deny fix</li></ul> |
 
 ## AI in CX Enterprise {#ai}
 
@@ -142,7 +108,8 @@ Find new and recent learning resources published for AI in CX Enterprise.
 
 | Product | Resource | Description | Updated |
 | ------- | ------- | ------- | ------- |
-| [!DNL CX Enterprise] | [AI Hub](https://experienceleague.adobe.com/en/ai-training){target="_blank"} | Experience League's AI hub helps marketers build practical AI skills for everyday marketing work. Learn from peers navigating the same challenges and discover what's actually working. | **April 15, 2026** |
+| [!DNL CX Enterprise] | [AI Monitoring dashboards](https://experienceleague.adobe.com/en/docs/core-services/interface/features/monitoring){target="_blank"} | CX Enterprise now provides dashboards to monitor agentic AI usage in existing applications. Track adoption, review conversations and feedback, and manage AI credit consumption for Experience Platform Agents accessed through AI Assistant and other conversational surfaces. Overview, Users, Feedback, and AI Credits views help governance stakeholders guide adoption with data. | **June 2, 2026** |
+| [!DNL CX Enterprise] - Experience League | [AI Hub](https://experienceleague.adobe.com/en/ai-training){target="_blank"} | Experience League's AI hub helps marketers build practical AI skills for everyday marketing work. Learn from peers navigating the same challenges and discover what's actually working. | **April 15, 2026** |
 | [!DNL CX Enterprise] | [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | Learn how Adobe Marketing Agent for Microsoft 365 Copilot connects Experience Platform directly to Microsoft 365 Copilot. | April 6, 2026 |
 | [!DNL AEM CS] | [Cloud Manager MCP Server](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} | Learn how the Cloud Manager MCP server lets AI tools interact with AEM as a Cloud Service to manage programs, environments, repositories, and pipelines. | April 6, 2026 |
 | [!DNL Acrobat Services] | [Acrobat Analyzer](https://experienceleague.adobe.com/en/docs/events/acrobat-analyzer-webinars/overview){target="_blank"} | Explore Adobe Acrobat Analyzer webinars to see how Generative AI extracts structured, auditable insights from documents to automate workflows, reduce risk, and accelerate enterprise decision-making at scale. | March 10, 2026 |
@@ -174,26 +141,9 @@ Release notes history:
 * [March 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/03082023#status){target="_blank"}
 * [January 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/02082023#status){target="_blank"}
 
-## [!DNL Adobe Brand Concierge] {#brand-concierge}
-
-* [Adobe Brand Concierge](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"} help home
-
-## [!DNL Adobe LLM Optimizer] {#llm-optimizer}
-
-* [LLM Optimizer release notes](https://llmo.now/articles/release-notes){target="_blank"}
-* [LLM Optimizer help home](https://experienceleague.adobe.com/en/docs/llm-optimizer/using/home){target="_blank"}
-
 ## [!DNL Adobe Experience Platform] {#platform}
 
 View the latest release information, new documentation, and Support articles.
-
-**Experience Platform - April 28, 2026**
-
-* [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest){target="_blank"}
-
-**Mobile SDK - April 21, 2026**
-
-* [[!DNL Experience Platform] Mobile SDK release notes](https://developer.adobe.com/client-sdks/documentation/release-notes/){target="_blank"}
 
 ### New [!DNL Experience Platform] tutorials{#tutorials-aep}
 
