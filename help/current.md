@@ -154,7 +154,7 @@ Latest tutorials published for Adobe [!DNL Experience Platform].
 
 | Published | Applications | Name | Type | Description |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| March 2026 | [!DNL Experience Platform] | [Monitor Experience Platform events in Slack](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/monitoring/monitor-events-in-slack){target="_blank"} | Video | Learn how to receive Experience Platform notifications in Slack by integrating with an Adobe App Builder webhook proxy. | 
+| March 2026 | [!DNL Experience Platform] | [Monitor Experience Platform events in Slack](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/monitoring/monitor-events-in-slack){target="_blank"} | Video | Learn how to receive Experience Platform notifications in Slack by integrating with an Adobe App Builder webhook proxy. |
 
 ### New [!DNL Experience Platform] support knowledge base{#kb-aep}
 
@@ -391,7 +391,7 @@ New tutorials published for Adobe Marketo.
 
 | Published | Name | Type | Description |
 | ----------- | ---------- | ---------- | ---------- |
-| April 2026 | [Marketo Engage tutorials](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/overview){target="_blank"} | New video | Browse our tutorial library and get the most out of Marketo Engage. | 
+| April 2026 | [Marketo Engage tutorials](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/overview){target="_blank"} | New video | Browse our tutorial library and get the most out of Marketo Engage. |
 
 For the latest product documentation, see the [Marketo product documentation](https://experienceleague.adobe.com/en/docs/marketo/using/home){target="_blank"} home
 
