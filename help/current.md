@@ -20,7 +20,6 @@ This page helps you:
 >
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
-
 Latest update: **June 2, 2026**
 
 ## What's new
@@ -34,7 +33,7 @@ What's new:
 * [Upcoming webinars and events](#events) 
 * [New video tutorials](#video-tutorials)
 
-Product 
+Links to product tutorials and Support articles:
 
 * [[!DNL Adobe CX Enterprise] central UI & administration](#ecloud)
 * [[!DNL Adobe System Status]](#status)
