@@ -20,11 +20,11 @@ This page helps you:
 >
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
 
-Latest update: **June 2, 2026**
+Latest update: **June 9, 2026**
 
 ## What's new
 
-* _Experience Cloud_ is _CX Enterprise_. You may see mentions of _Experience Cloud_ in documentation as we make this update throughout the next few weeks.
+* As _Experience Cloud_ is updated to _CX Enterprise_, you may see mentions of _Experience Cloud_ in documentation as we make this update throughout the next few weeks.
 
 What's new:
 
