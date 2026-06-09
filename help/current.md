@@ -90,10 +90,9 @@ Find new and recent learning resources published for generative and agentic AI i
 
 ## New tutorials and Support articles {#articles}
 
-Links to product tutorials and Support articles:
+Links to the latest tutorials and Support articles. Adobe System Status release notes are found below:
 
-* [[!DNL Adobe CX Enterprise] central UI & administration](#ecloud)
-* [[!DNL Adobe System Status]](#status)
+* [[!DNL Adobe System Status]](#status) release notes
 * [[!DNL Adobe Brand Concierge]](#brand-concierge)
 * [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
 * [[!DNL Adobe Experience Platform]](#platform) 
