@@ -95,15 +95,11 @@ To view all events, visit [Experience League Events](https://experienceleague.ad
 Links to the latest tutorials and Support articles. Adobe System Status release notes are found below:
 
 * [[!DNL Adobe System Status]](#status) release notes
-* [[!DNL Adobe Brand Concierge]](#brand-concierge)
-* [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
 * [[!DNL Adobe Experience Platform]](#platform) 
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics)
 * [[!DNL Adobe Customer Journey Analytics]](#cja)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
-* [[!DNL Adobe Mix Modeler]](#mix-modeler)
-* [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
@@ -376,7 +372,6 @@ Find learning resources for Journey Optimizer B2B Edition.
 * [[!DNL Journey Optimizer B2B Edition]](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b){target="_blank"} (All self-help)
 * [Product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/guide-overview){target="_blank"} for [!DNL Journey Optimizer B2B Edition]
 * [Video overviews and tutorials](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/overview){target="_blank"} for [!DNL Journey Optimizer B2B Edition]
-* [Product description and licensing](https://helpx.adobe.com/legal/product-descriptions/adobe-journey-optimizer-b2b.html#_blankl) for [!DNL Journey Optimizer B2B Edition]
 
 New videos, tutorials, or courses published for Journey Optimizer B2B Edition.
 
@@ -460,8 +455,6 @@ View new tutorials published for [!DNL Document Cloud], including [!DNL Acrobat 
 | ----------- | ---------- | ---------- | ---------- | ---------- |
 | April 2026 | Acrobat | [Prepare executive‑ready financial documents from insight to delivery](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/finance/finance-insights){target="_blank"} | Video | Learn how finance teams use Acrobat to manage financial documents from insight to delivery. This use case walks through an end‑to‑end workflow for analyzing information, collaborating with stakeholders, and creating executive‑ready financial materials. |
 | April 2026 | Acrobat | [From insight to impact: Streamline onboarding workflows](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/hr/hr-insights){target="_blank"} | Video | Discover how HR teams use Acrobat Studio to streamline employee onboarding from start to finish. |
-| April 2026 | Acrobat | [Turn legal insights into actionable guidance](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/legal/legal-insights){target="_blank"} | Video | Learn how legal teams use Acrobat Studio to analyze complex documents, collaborate securely, and turn insights into clear, actionable guidance — faster and with greater confidence. |
-| April 2026 | Acrobat | [Turn customer intelligence into winning sales assets](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/sales/sales-insights){target="_blank"} | Video | Learn how sales teams can gather customer insights, collaborate in a shared workspace, and turn validated intelligence into on‑brand presentations and proposals — faster and with greater confidence. |
 
 To browse [!DNL Document Cloud] tutorials, see:
 
