@@ -64,9 +64,9 @@ Product
 * [Certification at Adobe](https://experienceleague.adobe.com/en/certification-home){target="_blank"}
 * [Adobe product security vulnerabilities](https://helpx.adobe.com/security.html){target="_blank"}
 
-## Release notes - quick links - all applications {#application-release-notes}
+## Release notes - all applications {#application-release-notes}
 
-The following links open each application's own release notes (or the closest equivalent maintained in that product's documentation).
+Use this table to find release notes for CX Enterprise applications in one place. Each row lists the application, its latest release date, a link to that product's official release notes (on Experience League or in the product's own documentation), and highlights from the current release.
 
 | Application | Release date | Release notes URL | Description |
 | ------------- | ------------- | ------------- | ------------- |
