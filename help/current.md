@@ -13,7 +13,7 @@ This page helps you:
 * Learn about new generative AI and agentic AI feature in CX Enterprise
 * Find all links to application-specific release notes
 * Find the latest learning opportunities available on Experience League (Adobe's CX Enterprise help site)
-* Get informed about new events
+* Get informed about new events on Experience League
 * See the latest Support articles
 
 <!--
@@ -22,7 +22,7 @@ This page helps you:
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 -->
 
-Latest update: **June 9, 2026**
+Latest update: **June 10, 2026**
 
 ## What's new
 
