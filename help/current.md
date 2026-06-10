@@ -1,4 +1,4 @@
-﻿---
+---
 title: Central Release Notes
 description: Find links to Experience Cloud application release notes. View new tutorial videos, read Support articles, and locate self-help resources on Experience League. 
 doc-type: release notes
@@ -26,14 +26,10 @@ Latest update: **June 9, 2026**
 
 ## What's new
 
-* As _Experience Cloud_ is updated to _CX Enterprise_, you may see mentions of _Experience Cloud_ in documentation as we make this update throughout the next few weeks.
-
-What's new:
-
 * [New release notes - all applications](#application-release-notes)
 * [New AI features in CX Enterprise](#ai)
 * [Upcoming webinars and events](#events) 
-* [New video tutorials](#video-tutorials)
+* [New tutorials and Support articles](#articles)
 
 ## New release notes - all applications {#application-release-notes}
 
@@ -90,20 +86,20 @@ Find new and recent learning resources published for generative and agentic AI i
 | [!DNL CX Enterprise] | [Adobe Experience Platform Agents for Improved Marketing Efficiency and Better Business outcomes](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | This exclusive session features an insightful Q&A session with Anjul Bhambhri, Senior Vice President of Adobe CX Enterprise. Discover Adobe's journey and bold vision to provide innovative Agentic AI capabilities that empower marketing and creative practitioners to automate complex steps, accelerate decision-making, and expand their teams' capacity without compromising control or oversight. | March 3, 2026 |
 | [!DNL CX Enterprise] | [Agent jobs and AI credits consumption](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | Learn about agent jobs and AI credit consumption rates in CX Enterprise applications. | March 3, 2026 |
 
+## Upcoming webinars and events {#events}
+
+To view all events, visit [Experience League Events](https://experienceleague.adobe.com/en/events).
+
 ## New tutorials and Support articles {#articles}
 
 Links to the latest tutorials and Support articles. Adobe System Status release notes are found below:
 
 * [[!DNL Adobe System Status]](#status) release notes
-* [[!DNL Adobe Brand Concierge]](#brand-concierge)
-* [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
 * [[!DNL Adobe Experience Platform]](#platform) 
 * [[!DNL Adobe Real-Time CDP]](#rtcdp)
 * [[!DNL Adobe Analytics]](#analytics)
 * [[!DNL Adobe Customer Journey Analytics]](#cja)
 * [[!DNL Adobe Streaming Media Analytics]](#sma)
-* [[!DNL Adobe Mix Modeler]](#mix-modeler)
-* [[!DNL Adobe Advertising]](#advertising)
 * [[!DNL Adobe Experience Manager]](#aem)
 * [[!DNL Adobe Commerce]](#commerce)
 * [[!DNL Adobe Target]](#target)
@@ -376,7 +372,6 @@ Find learning resources for Journey Optimizer B2B Edition.
 * [[!DNL Journey Optimizer B2B Edition]](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b){target="_blank"} (All self-help)
 * [Product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/guide-overview){target="_blank"} for [!DNL Journey Optimizer B2B Edition]
 * [Video overviews and tutorials](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/overview){target="_blank"} for [!DNL Journey Optimizer B2B Edition]
-* [Product description and licensing](https://helpx.adobe.com/legal/product-descriptions/adobe-journey-optimizer-b2b.html#_blankl) for [!DNL Journey Optimizer B2B Edition]
 
 New videos, tutorials, or courses published for Journey Optimizer B2B Edition.
 
@@ -460,8 +455,6 @@ View new tutorials published for [!DNL Document Cloud], including [!DNL Acrobat 
 | ----------- | ---------- | ---------- | ---------- | ---------- |
 | April 2026 | Acrobat | [Prepare executive‑ready financial documents from insight to delivery](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/finance/finance-insights){target="_blank"} | Video | Learn how finance teams use Acrobat to manage financial documents from insight to delivery. This use case walks through an end‑to‑end workflow for analyzing information, collaborating with stakeholders, and creating executive‑ready financial materials. |
 | April 2026 | Acrobat | [From insight to impact: Streamline onboarding workflows](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/hr/hr-insights){target="_blank"} | Video | Discover how HR teams use Acrobat Studio to streamline employee onboarding from start to finish. |
-| April 2026 | Acrobat | [Turn legal insights into actionable guidance](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/legal/legal-insights){target="_blank"} | Video | Learn how legal teams use Acrobat Studio to analyze complex documents, collaborate securely, and turn insights into clear, actionable guidance — faster and with greater confidence. |
-| April 2026 | Acrobat | [Turn customer intelligence into winning sales assets](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/sales/sales-insights){target="_blank"} | Video | Learn how sales teams can gather customer insights, collaborate in a shared workspace, and turn validated intelligence into on‑brand presentations and proposals — faster and with greater confidence. |
 
 To browse [!DNL Document Cloud] tutorials, see:
 
@@ -481,4 +474,3 @@ Browse our library of tutorials for [Creative Cloud for enterprise](https://expe
 ### Customer experience orchestration blueprints {#blueprints}
 
 [Customer experience orchestration blueprints](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/overview){target="_blank"} are repeatable implementations that let you address strategy and quickly solve established business problems. Each Blueprint provides a series of artifacts that explain the high-value business problem, architectures, implementation steps, technical considerations, and links to the relevant documentation.
-
