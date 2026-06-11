@@ -22,7 +22,7 @@ This page helps you:
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 -->
 
-Latest update: **June 10, 2026**
+Latest update: **June 11, 2026**
 
 ## What's new
 
@@ -78,6 +78,7 @@ Find new and recent learning resources published for generative and agentic AI i
 
 | Product | Resource | Description | Updated |
 | ------- | ------- | ------- | ------- |
+| CX Enterprise | [CX Enterprise Agentic AI Capability Catalog](https://agentic-capability-explorer.entapp.adproto.com/) | Discover which agentic AI jobs are available in your licensed CX Enterprise apps. See [Adobe Experience Platform agent jobs and AI credits consumption](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption) for more information. | **June 11, 2026** |
 | [!DNL CX Enterprise] | [AI Monitoring dashboards](https://experienceleague.adobe.com/en/docs/core-services/interface/features/monitoring){target="_blank"} | CX Enterprise now provides dashboards to monitor agentic AI usage in existing applications. Track adoption, review conversations and feedback, and manage AI credit consumption for Experience Platform Agents accessed through AI Assistant and other conversational surfaces. Overview, Users, Feedback, and AI Credits views help governance stakeholders guide adoption with data. | **June 2, 2026** |
 | [!DNL CX Enterprise] - Experience League | [AI Hub](https://experienceleague.adobe.com/en/ai-training){target="_blank"} | Experience League's AI hub helps marketers build practical AI skills for everyday marketing work. Learn from peers navigating the same challenges and discover what's actually working. | April 15, 2026 |
 | [!DNL CX Enterprise] | [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | Learn how Adobe Marketing Agent for Microsoft 365 Copilot connects Experience Platform directly to Microsoft 365 Copilot. | April 6, 2026 |
