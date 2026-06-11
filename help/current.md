@@ -483,7 +483,7 @@ View new tutorials published for [!DNL Document Cloud], including [!DNL Acrobat 
 | June 2026 | Acrobat | [Use case: IT enablement without the bottleneck](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/it/it-enablement){target="_blank"} | Video | Learn how IT teams use Acrobat Studio's AI Assistant, PDF Spaces, and Adobe Express to automate document workflows. Complete three real-world IT use cases — from PII removal to interactive policy resources. |
 | May 2026 | Acrobat | [Use case: Accelerate product launches with Acrobat Studio](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/use-cases/lob/marketing/marketing-product-launch){target="_blank"} | Video | Learn how marketing teams use Acrobat Studio to centralize product launch assets, streamline stakeholder reviews, and scale organizational readiness from a single PDF space. |
 | May 2026 | Acrobat Sign | [When to use Create a copy](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/getting-started/getting-started-sending/create-a-copy){target="_blank"} | Video | Learn when and how to use the Create a copy feature in Acrobat Sign. Duplicate any existing agreement, adjust what needs changing, and resend it in seconds without rebuilding from scratch. |
-****
+
 To browse [!DNL Document Cloud] tutorials, see:
 
 * [Adobe Acrobat](https://experienceleague.adobe.com/en/docs/document-cloud-learn/acrobat-learning/overview){target="_blank"}
