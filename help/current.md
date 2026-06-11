@@ -35,6 +35,8 @@ Latest update: **June 11, 2026**
 
 Use this table to learn about highlighted updates to CX Enterprise applications. Links are provided to application-specific release notes.
 
+**Note:** Several CX Enterprise applications release weekly. Visit your application release notes pages frequently to stay updated.
+
 | Application | Release date | Release notes URL | Updates |
 | ------------- | ------------- | ------------- | ------------- |
 | [!DNL CX Enterprise] | June 1, 2026 | [CX Enterprise central UI & administration](https://experienceleague.adobe.com/en/docs/core-services/interface/more-resources/release-notes){target="_blank"} | <ul><li>Agentic AI usage monitoring</li><li>Adobe CX Enterprise interface refresh (dark mode, improved accessibility)</li></ul> |
@@ -491,11 +493,11 @@ To browse [!DNL Document Cloud] tutorials, see:
 
 ### [!DNL Adobe Creative Cloud] for enterprise {#creative-cloud}
 
-Browse our library of tutorials for [Creative Cloud for enterprise](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview){target="_blank"} for more.
+Browse the library of tutorials for [Creative Cloud for enterprise](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview){target="_blank"} for more.
 
 ### Customer Data Management - Voices {#voices}
 
-[Customer Data Management Voices](https://experienceleague.adobe.com/en/docs/events/customer-data-management-voices-recordings/overview){target="_blank"} is your destination as a customer data management technical and marketing practice leader and specialist. This collection of tutorials is your one-stop-shop to hear from your peers, get inspired, and learn about developments in MarTech. No registration required, simply click and watch.
+[Customer Data Management Voices](https://experienceleague.adobe.com/en/docs/events/customer-data-management-voices-recordings/overview){target="_blank"} is your destination as a customer data management technical and marketing practice leader and specialist. This collection of tutorials is a comprehensive resource to hear from your peers, get inspired, and learn about developments in MarTech. No registration required, simply click and watch.
 
 ### Customer experience orchestration blueprints {#blueprints}
 
