@@ -22,14 +22,27 @@ This page helps you:
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 -->
 
-Latest update: **June 11, 2026**
+Latest update: **June 16, 2026**
 
 ## What's new
 
-* [New release notes - all applications](#application-release-notes)
 * [New AI features in CX Enterprise](#ai)
+* [New release notes - all applications](#application-release-notes)
 * [Upcoming webinars and events](#events) 
 * [New tutorials and Support articles](#articles)
+
+## New AI features in CX Enterprise {#ai}
+
+Find the latest learning resources published for generative and agentic AI in CX Enterprise.
+
+| Application | Update | Description | Updated |
+| ------- | ------- | ------- | ------- |
+| CX Enterprise | **[!DNL Coworker]** | CX Enterprise Coworker is an agentic AI application that automates end-to-end customer experience workflows. It detects signals, builds audiences, and launches campaigns with built-in governance in hours. | June 11, 2026 |
+| CX Enterprise | **Agentic AI Capability Catalog** | Discover which agentic AI jobs are available in your licensed CX Enterprise apps. Find the link on [Adobe Experience Platform agent jobs and AI credits consumption](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption). | June 11, 2026 |
+| [!DNL CX Enterprise] | **[!UICONTROL Monitoring]** | CX Enterprise now provides [AI Monitoring dashboards](https://experienceleague.adobe.com/en/docs/core-services/interface/features/monitoring){target="_blank"} to monitor agentic AI usage in existing applications. Track adoption, review conversations and feedback, and manage AI credit consumption for Experience Platform Agents accessed through AI Assistant and other conversational surfaces. Overview, Users, Feedback, and AI Credits views help governance stakeholders guide adoption with data. | June 2, 2026 |
+| [!DNL CX Enterprise] - Experience League | **AI Training** | Experience League's [AI Hub](https://experienceleague.adobe.com/en/ai-training){target="_blank"} helps marketers build practical AI skills for everyday marketing work. Learn from peers navigating the same challenges and discover what's actually working. | April 15, 2026 |
+| [!DNL CX Enterprise] | **Marketing Agent for Microsoft 365 Copilot** | Learn how [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} connects Experience Platform directly to Microsoft 365 Copilot. | April 6, 2026 |
+| [!DNL AEM CS] | **Cloud Manager MCP Server** | Learn how the [Cloud Manager MCP Server](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} lets AI tools interact with AEM as a Cloud Service to manage programs, environments, repositories, and pipelines. | April 6, 2026 |
 
 ## New release notes - all applications {#application-release-notes}
 
@@ -73,22 +86,6 @@ Use this table to learn about highlighted updates to CX Enterprise applications.
 | [!DNL Adobe Workfront Fusion] | June 2026 | [Adobe Workfront Fusion release activity](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/fusion-release-activity/fusion-releases-2026/fusion-2026-6-1){target="_blank"} | <ul><li>Retrigger specific scenario executions</li><li>Updates to Run Once functionality</li></ul> |
 | [!DNL Adobe GenStudio for Performance Marketing] | March 2026 | [GenStudio for Performance Marketing release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"} | <ul><li>Express templates for Meta, LinkedIn, and Display on Horizon Canvas</li><li>TikTok in-feed video ad creation, approval, and activation</li></ul> |
 | [!DNL Adobe Pass] | May 2026 (3.7.0.2) | [Adobe Pass 3.7.0 release notes](https://experienceleague.adobe.com/en/docs/pass/authentication/product-releases/2026/auth-rn-370){target="_blank"} | <ul><li>PKCE support for OAuth2-based MVPD authentication</li><li>TVE Dashboard 1.5.1</li><li>Apple SSO configuration mismatch fix</li><li>HTTP 500 authorization-deny fix</li></ul> |
-
-## New AI features in CX Enterprise {#ai}
-
-Find new and recent learning resources published for generative and agentic AI in CX Enterprise.
-
-| Product | Resource | Description | Updated |
-| ------- | ------- | ------- | ------- |
-| CX Enterprise Coworker (General Availability) | Coming soon | CX Enterprise Coworker is an agentic AI application that automates end-to-end customer experience workflows. It detects signals, builds audiences, and launches campaigns with built-in governance in hours. | **June 11, 2026** |
-| CX Enterprise | CX Enterprise Agentic AI Capability Catalog | Discover which agentic AI jobs are available in your licensed CX Enterprise apps. Find the link on [Adobe Experience Platform agent jobs and AI credits consumption](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption). | **June 11, 2026** |
-| [!DNL CX Enterprise] | [AI Monitoring dashboards](https://experienceleague.adobe.com/en/docs/core-services/interface/features/monitoring){target="_blank"} | CX Enterprise now provides dashboards to monitor agentic AI usage in existing applications. Track adoption, review conversations and feedback, and manage AI credit consumption for Experience Platform Agents accessed through AI Assistant and other conversational surfaces. Overview, Users, Feedback, and AI Credits views help governance stakeholders guide adoption with data. | **June 2, 2026** |
-| [!DNL CX Enterprise] - Experience League | [AI Hub](https://experienceleague.adobe.com/en/ai-training){target="_blank"} | Experience League's AI hub helps marketers build practical AI skills for everyday marketing work. Learn from peers navigating the same challenges and discover what's actually working. | April 15, 2026 |
-| [!DNL CX Enterprise] | [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} | Learn how Adobe Marketing Agent for Microsoft 365 Copilot connects Experience Platform directly to Microsoft 365 Copilot. | April 6, 2026 |
-| [!DNL AEM CS] | [Cloud Manager MCP Server](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} | Learn how the Cloud Manager MCP server lets AI tools interact with AEM as a Cloud Service to manage programs, environments, repositories, and pipelines. | April 6, 2026 |
-| [!DNL Acrobat Services] | [Acrobat Analyzer](https://experienceleague.adobe.com/en/docs/events/acrobat-analyzer-webinars/overview){target="_blank"} | Explore Adobe Acrobat Analyzer webinars to see how Generative AI extracts structured, auditable insights from documents to automate workflows, reduce risk, and accelerate enterprise decision-making at scale. | March 10, 2026 |
-| [!DNL CX Enterprise] | [Adobe Experience Platform Agents for Improved Marketing Efficiency and Better Business outcomes](https://www.youtube.com/live/VlxHXfEnqjI){target="_blank"} | This exclusive session features an insightful Q&A session with Anjul Bhambhri, Senior Vice President of Adobe CX Enterprise. Discover Adobe's journey and bold vision to provide innovative Agentic AI capabilities that empower marketing and creative practitioners to automate complex steps, accelerate decision-making, and expand their teams' capacity without compromising control or oversight. | March 3, 2026 |
-| [!DNL CX Enterprise] | [Agent jobs and AI credits consumption](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption){target="_blank"} | Learn about agent jobs and AI credit consumption rates in CX Enterprise applications. | March 3, 2026 |
 
 ## Upcoming webinars and events {#events}
 
