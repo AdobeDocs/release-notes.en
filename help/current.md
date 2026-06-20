@@ -26,10 +26,17 @@ Latest update: **June 16, 2026**
 
 ## What's new
 
+* [New events and webinars](#events)
 * [New AI features in CX Enterprise](#ai)
 * [New release notes - all applications](#application-release-notes)
 * [Upcoming webinars and events](#events) 
 * [New tutorials and Support articles](#articles)
+
+## New events and webinars {#events}
+
+| Date | Event | Description |
+| ------- | ------- | ------- |
+| June 17, 2026 | [Experience League LIVE - Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26#how-to-efficiently-test-simulate-and-validate-journeys-before-going-live) | Test and validate your journeys before launch and learn how to take it further with the brand-new Journey Simulation. |
 
 ## New AI features in CX Enterprise {#ai}
 
