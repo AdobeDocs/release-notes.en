@@ -29,7 +29,6 @@ Latest update: **June 19, 2026**
 * [New events and webinars](#events)
 * [New AI features in CX Enterprise](#ai)
 * [New release notes - all applications](#application-release-notes)
-* [Upcoming webinars and events](#events) 
 * [New tutorials and Support articles](#articles)
 
 ## New events and webinars {#events}
@@ -37,6 +36,8 @@ Latest update: **June 19, 2026**
 | Date | Event | Description |
 | ------- | ------- | ------- |
 | June 17, 2026 | [Experience League LIVE - Adobe Journey Optimizer](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-06-17-26#how-to-efficiently-test-simulate-and-validate-journeys-before-going-live) | Test and validate your journeys before launch and learn how to take it further with the brand-new Journey Simulation. |
+
+To view all events, visit [Experience League Events](https://experienceleague.adobe.com/en/events).
 
 ## New AI features in CX Enterprise {#ai}
 
@@ -93,10 +94,6 @@ Use this table to learn about highlighted updates to CX Enterprise applications.
 | [!DNL Adobe Workfront Fusion] | June 2026 | [Adobe Workfront Fusion release activity](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/fusion-release-activity/fusion-releases-2026/fusion-2026-6-1){target="_blank"} | <ul><li>Retrigger specific scenario executions</li><li>Updates to Run Once functionality</li></ul> |
 | [!DNL Adobe GenStudio for Performance Marketing] | March 2026 | [GenStudio for Performance Marketing release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"} | <ul><li>Express templates for Meta, LinkedIn, and Display on Horizon Canvas</li><li>TikTok in-feed video ad creation, approval, and activation</li></ul> |
 | [!DNL Adobe Pass] | May 2026 (3.7.0.2) | [Adobe Pass 3.7.0 release notes](https://experienceleague.adobe.com/en/docs/pass/authentication/product-releases/2026/auth-rn-370){target="_blank"} | <ul><li>PKCE support for OAuth2-based MVPD authentication</li><li>TVE Dashboard 1.5.1</li><li>Apple SSO configuration mismatch fix</li><li>HTTP 500 authorization-deny fix</li></ul> |
-
-## Upcoming webinars and events {#events}
-
-To view all events, visit [Experience League Events](https://experienceleague.adobe.com/en/events).
 
 ## New tutorials and Support articles {#articles}
 
