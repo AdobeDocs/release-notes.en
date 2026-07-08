@@ -6,7 +6,7 @@ last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
 ---
-# CX Enterprise central release notes - June 2026
+# CX Enterprise central release notes - July 2026
 
 This page helps you:
 
@@ -22,7 +22,7 @@ This page helps you:
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 -->
 
-Latest update: **June 19, 2026**
+Latest update: **July 8, 2026**
 
 ## What's new
 
@@ -116,6 +116,8 @@ Links to the latest tutorials and Support articles. Adobe System Status release 
 * [[!DNL Adobe GenStudio for Performance Marketing]](#genstudio-marketing)
 * [[!DNL Adobe Pass]](#pass)
 * [[!DNL Adobe Document Cloud]](#doc-cloud)
+* [[!DNL Adobe Brand Concierge]](#brand-concierge)
+* [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
 * [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
 * [Customer Data Management - Voices](#voices)
 * [Customer experience orchestration blueprints](#blueprints)
@@ -247,16 +249,17 @@ New video and written tutorials (articles) published for [!DNL Experience Manage
 
 | Published | Applications | Name | Format | Description |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| June 2026 | [!DNL AEM CS] | [Experience Governance MCP Server](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/mcp-servers/experience-governance-mcp-server){target="_blank"} | Video | Learn how the Experience Governance MCP server lets AI tools interact with AEM as a Cloud Service to enforce brand integrity and compliance requirements. |
-| June 2026 | [!DNL AEM CS] | [Transforming AEM with AI Agents & Intelligent Assistants](https://experienceleague.adobe.com/en/docs/events/adobe-customer-success-webinar-recordings/2026/aem2026/transform-aem-with-ai-agents-and-assistants){target="_blank"} | Video | Explore how AI agents and intelligent assistants are transforming the AEM content lifecycle. Learn how these capabilities automate and enhance experience delivery at scale. |
-| June 2026 | [!DNL AEM Assets] | [Assets governance](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/governance/governance){target="_blank"} | Video | Learn about asset governance capabilities in AEM Assets. Discover how governance policies help maintain brand consistency and control across your asset library. |
-| June 2026 | [!DNL AEM Assets] | [Asset discovery](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/search-and-discovery/discovery){target="_blank"} | Video | Learn how asset discovery works in AEM Assets. Explore the search and browsing tools that help teams find the right content quickly. |
-| June 2026 | [!DNL AEM Assets] | [Asset activation](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/activation){target="_blank"} | Video | Learn how to activate assets in AEM Assets for use across your channels. Discover the steps required to publish and distribute assets to downstream systems. |
-| May 2026 | [!DNL AEM CS] | [Brand Experience Agent](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/agents/brand-experience-agent){target="_blank"} | Video | Learn how the Brand Experience Agent in AEM as a Cloud Service helps enforce brand standards. Discover the value and use cases this AI agent addresses. |
-| May 2026 | [!DNL AEM CS] | [Content Advisor Agent](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/agents/content-advisor-agent){target="_blank"} | Video | Learn how the Content Advisor Agent in AEM as a Cloud Service guides content decisions. Explore the value and use cases this AI agent unlocks for content teams. |
-| May 2026 | [!DNL AEM CS] | [Governance Agent](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/agents/governance-agent){target="_blank"} | Video | Learn the basics of the Governance Agent in Adobe Experience Manager. Understand how it helps apply governance rules across your AEM environment. |
-| May 2026 | [!DNL AEM Forms], [!DNL AJO] | [User re-engagement for unsubmitted forms](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/form-completion-reminder/introduction){target="_blank"} | Video | Learn how to trigger automated reminder emails when users abandon an AEM Form before submission. Reduce form abandonment by re-engaging users who showed initial intent. |
-| May 2026 | [!DNL Forms CS] | [Adding Forms theme to an existing Sites theme](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/developing-for-cloud-service/integrate-adaptive-forms-styling-into-an-aem-sites-theme){target="_blank"} | Article | Learn how to integrate Adaptive Forms styling into an AEM Sites theme using the front-end pipeline. Fix missing form styles when embedding Adaptive Forms in AEM Sites pages. |
+| July 2026 | [!DNL AEM CS] | [Overview of AEM Edge Functions](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/edge-functions/overview){target="_blank"} | Article | Get an overview of AEM Edge Functions — what they are, why and when to use them, and how they work. |
+| July 2026 | [!DNL AEM CS] | [Set up AEM Edge Functions on AEM as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/edge-functions/edge-functions-setup/setup-aemcs){target="_blank"} | Article | Learn how to set up AEM Edge Functions on AEM as a Cloud Service, covering CLI installation, site deployment, project setup, and CDN configuration. |
+| July 2026 | [!DNL AEM CS] | [Set up AEM Edge Functions on Edge Delivery Services](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/edge-functions/edge-functions-setup/setup-eds){target="_blank"} | Article | Learn how to set up AEM Edge Functions on an Edge Delivery Services site, covering onboarding, CLI installation, project setup, and CDN configuration. |
+| July 2026 | [!DNL AEM Forms] | [Create Interactive Communication Template and base a document on it](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/generate-documents-on-form-submission/create-interactive-communication-template){target="_blank"} | Video | Learn how to create an Interactive Communication template with a subform for body content, then base a document on that template. |
+| July 2026 | [!DNL AEM Forms] | [Create Fragments](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/generate-documents-on-form-submission/create-interactive-communication-fragments){target="_blank"} | Video | Learn how to create fragments for each cloud solution so the right content is included in interactive communication documents based on user preference. |
+| July 2026 | [!DNL AEM Forms] | [Add fragments and image to the document](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/generate-documents-on-form-submission/add-fragments-to-documents){target="_blank"} | Video | Learn how to add fragments and a logo to the master page of a document in AEM Forms. |
+| July 2026 | [!DNL AEM Forms] | [Create Form Data Model for fetching profile data](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/generate-documents-on-form-submission/create-form-data-model){target="_blank"} | Video | Learn how to create a Form Data Model in AEM Forms to populate interactive communications using profile data. |
+| July 2026 | [!DNL AEM Forms] | [Create cloud configuration for integrating Forms with AEP](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/generate-documents-on-form-submission/create-cloud-configuration){target="_blank"} | Video | Learn how to create a cloud configuration to integrate AEM Forms with Adobe Experience Platform for retrieving profile data. |
+| July 2026 | [!DNL AEM Forms] | [Creating custom actions in AJO](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/generate-documents-on-form-submission/create-custom-action-ajo){target="_blank"} | Video | Learn how to create custom actions in Adobe Journey Optimizer using an endpoint exposed by a Node.js application deployed on Render. |
+| July 2026 | [!DNL AEM Forms] | [Create journey to send interactive communications documents](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/generate-documents-on-form-submission/create-journey-to-send-documents){target="_blank"} | Video | Learn how to create a journey using custom actions to send interactive communication documents. |
+| July 2026 | [!DNL AEM Forms] | [Deploy and test the solution](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/forms/generate-documents-on-form-submission/test-solution){target="_blank"} | Video | Learn how to deploy and test a complete AEM Forms solution to confirm a personalized PDF is delivered to your inbox. |
 
 #### New [!DNL Experience Manager] support knowledge base{#kb-aem}
 
@@ -300,9 +303,11 @@ New tutorials for [!DNL Adobe Commerce] on Experience League.
 
 | Published | Name | Type | Description |
 | ----------- | ---------- | ---------- | ---------- |
-| May 2026 | [Why CCDM exists](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/why-ccdm-exists){target="_blank"} | Video | Learn why the Composable Catalog Data Model (CCDM) is the foundation of Adobe Commerce Optimizer. Understand the business problems it solves before exploring its features. |
-| May 2026 | [Learn about CCDM Catalog Views](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/learn-about-the-ccdm-feature-catalog-views){target="_blank"} | Video | Learn how Catalog Views work within the Adobe Composable Catalog Data Model. Discover how they act as configurable lenses for presenting product data to different audiences. |
-| May 2026 | [Learn about CCDM Policies](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/composable-catalog-data-model/learn-about-ccdm-policies){target="_blank"} | Video | Learn how Policies function as data access filters within the Adobe Composable Catalog Data Model. Understand how they control which product attributes each Catalog View exposes. |
+| July 2026 | [Brand Concierge and Commerce AI overview](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/brand-concierge/brand-concierge-and-commerce-ai-overview){target="_blank"} | Video | Get an overview of Brand Concierge and Commerce AI in Adobe Commerce. Learn how these AI capabilities help shoppers discover products and get personalized answers. |
+| July 2026 | [Semantic Search](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/semantic-search){target="_blank"} | Video | Learn how Semantic Search in Adobe Commerce helps shoppers find relevant products using natural language queries instead of exact keyword matches. |
+| July 2026 | [Brand Concierge and Commerce AI product discovery](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/brand-concierge/brand-concierge-and-commerce-ai-product-discovery){target="_blank"} | Video | See how Brand Concierge and Commerce AI power product discovery in Adobe Commerce, helping shoppers find what they need through natural conversation. |
+| July 2026 | [Agentic Development](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/agentic-commerce/agentic-development){target="_blank"} | Video | Learn how agentic development capabilities in Adobe Commerce help teams build and extend storefronts faster using AI-assisted workflows. |
+| July 2026 | [Agentic Authoring](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/agentic-commerce/agentic-authoring){target="_blank"} | Video | Discover how agentic authoring in Adobe Commerce uses AI to help teams create and manage content more efficiently. |
 
 #### New [!DNL Commerce] support knowledge base{#kb-commerce}
 
@@ -362,12 +367,12 @@ New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 
 | Published | Applications | Name | Type | Description |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
-| June 2026 | [!DNL Journey Optimizer] | [Save journey nodes as fragments](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/journeys/journey-fragments){target="_blank"} | Video | Learn how to save journey nodes as reusable fragments in Adobe Journey Optimizer. Streamline workflows and ensure consistency by reusing complex patterns across multiple journeys. |
-| May 2026 | [!DNL Journey Optimizer] | [Lecture 2 - Understand ranking methods](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/ai-powered-decisioning-for-web-experiences/lecture-2-understand-ranking-methods){target="_blank"} | Video | Learn about the different ranking methods available in Adobe Journey Optimizer Decisioning. Explore AI optimization models and rule-based ranking formulas to improve personalized offers. |
-| May 2026 | [!DNL Journey Optimizer] | [Exercise 2 - Under the hood: offers, collections, and decision rules](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/ai-powered-decisioning-for-web-experiences/exercise-2-under-the-hood){target="_blank"} | Video | Explore how offers, collections, and eligibility rules are configured in Adobe Journey Optimizer Decisioning. Learn how these elements control which customers qualify for which product offers. |
-| June 2026 | [!DNL Journey Optimizer] | [Create a web campaign](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/web-channel/create-a-web-campaign.html?lang=en){target="_blank"} | Video | Learn what a web campaign is and how to configure its properties in Adobe Journey Optimizer. Discover how to review and publish a web campaign to deliver personalized web experiences. |
-| May 2026 | [!DNL Journey Optimizer] | [Create an in-app campaign](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/create-campaigns/action-campaigns/in-app){target="_blank"} | Video | Learn what an in-app message is and how it differs from other message types in Adobe Journey Optimizer. Discover how to create, configure, and publish in-app messages in campaigns. |
-| May 2026 | [!DNL Journey Optimizer] | [Configure and send a push notification campaign](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/push-channel/create-a-push-campaign.html){target="_blank"} | Video | Learn how to configure and send a push notification campaign in Adobe Journey Optimizer. Reach your mobile audience with targeted, timely push messages. |
+| July 2026 | [!DNL Journey Optimizer] | [AJO - Claude Design Demo video](https://video.tv.adobe.com/v/3492418){target="_blank"} | Video | Watch a demo of sending designs created in Claude directly to Adobe Journey Optimizer. |
+| July 2026 | [!DNL Journey Optimizer] | [Optimize channels based on profile preference or propensity scores](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/channel-optimization){target="_blank"} | Video | Learn how Journey Optimizer's channel optimization feature reaches customers on the most effective channel — using manual priority, profile attributes, or Adobe's AI model — to ensure messages are delivered where each customer is most likely to engage. |
+| July 2026 | [!DNL Journey Optimizer] | [How to use Experience Manager Content Fragments with Journey Optimizer Decisioning](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decisioning/use-decisioning/use-aem-content-fragments-with-ajo-decisioning){target="_blank"} | Video | Learn how to use Adobe Experience Manager Content Fragments with Adobe Journey Optimizer Decisioning to personalize and optimize content in your offers. |
+| July 2026 | [!DNL Journey Optimizer] | [Trigger campaigns using APIs](https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/create-campaigns/api-triggered-campaigns.html){target="_blank"} | Video | Learn how to create a campaign and trigger it from an external system based on user interactions using the Interactive Message Execution REST API. |
+| July 2026 | [!DNL Journey Optimizer] | [Use Adobe Experience Manager Content Fragments](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/fragments/aem-content-fragments){target="_blank"} | Video | Discover how AEM integrates with Adobe Journey Optimizer to streamline content management and ensure brand consistency. Learn to create, approve, and render content fragments, and swap and simulate new content. |
+| July 2026 | [!DNL Journey Optimizer] | [Use AEM Content Fragments (Managed Services) in Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/content-management/fragments/aem-content-fragments-managed-services){target="_blank"} | Video | Learn how to configure and use AEM Managed Services integrations in Journey Optimizer to bring content fragments into your authoring workflows, including repository connections and Content Advisor validation. |
 
 <!-- 
 #### New [!DNL Journey Optimizer] support knowledge base{#kb-ajo}
@@ -396,12 +401,9 @@ New videos, tutorials, or courses published for Journey Optimizer B2B Edition.
 
 | Published | Name | Type | Description |
 | ----------- | ---------- | ---------- | ---------- |
-| February 2026 | [Using the Account Qualification Agent](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b-learn/tutorials/buying-groups/account-qualification-agent){target="_blank"} | Video | Learn how to use the Account Qualification Agent in Journey Optimizer B2B Edition. |
+| July 2026 | [Project Falco Summit announcements](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/join-the-project-falco-beta-program-251090){target="_blank"} | Video | Watch the Project Falco beta demo highlighting all announcements made at Summit 2026. |
 
 ### [!DNL Adobe Marketo Engage] {#marketo}
-
-Find tutorials for [!DNL Marketo Engage].
-
 
 New tutorials published for Adobe Marketo.
 
@@ -427,9 +429,12 @@ New [!DNL Workfront] tutorials and events on Experience League.
 
 | Published | Name | Type | Description |
 | ----------- | ---------- | ---------- | ---------- |
-| June 2026 | [Create dashboards in Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en){target="_blank"} | Video | Learn how to organize and display project data using Workfront dashboards. Discover how to customize, share, and print dashboards for efficient project management. |
-| June 2026 | [Use the Calculation Editor](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/calculated-expressions/use-the-calculation-editor.html?lang=en){target="_blank"} | Video | Learn how to use the Calculation Editor in Workfront to create calculated custom fields. Simplify building expressions with the guided editor interface. |
-| June 2026 | [Update task status for accurate reporting](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/update-the-task-status){target="_blank"} | Video | Learn how, why, and how often to update task status in Workfront. Keep your project data accurate to support reliable reporting and team visibility. |
+| July 2026 | [Manage a project with current status](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.html?lang=en){target="_blank"} | Video | Learn how to monitor project progress, drill down into task details, and communicate with stakeholders in Adobe Workfront. |
+| July 2026 | [Plan a project effectively in Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-plan-a-project.html?lang=en){target="_blank"} | Video | Learn the five main components of a project, what status signifies, how a View helps you see relevant information, and how to set start or due dates. |
+| July 2026 | [Explore four methods to create a project](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects.html?lang=en){target="_blank"} | Video | Explore four different ways to create a project in Adobe Workfront. |
+| July 2026 | [Create and manage a project from scratch](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation.html?lang=en){target="_blank"} | Video | Learn the four steps to get a project up and running, what defines a project, and the most common ways to create one in Workfront. |
+| July 2026 | [Take a project live](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/take-a-project-live.html?lang=en){target="_blank"} | Video | Learn how to take a project live in Adobe Workfront. |
+| July 2026 | [Share projects effectively in Workfront](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.html?lang=en){target="_blank"} | Video | Learn how to share a project in Adobe Workfront so stakeholders have visibility into the work being done. |
 
 <!--
 #### New [!DNL Workfront] support knowledge base
@@ -454,7 +459,7 @@ Video tutorials for GenStudio for Performance Marketing.
 
 | Published | Name | Type | Description |
 | ----------- | ---------- | ---------- | ---------- |
-| May 2026 | [Experience Selector MFE in Salesforce demo](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/ext-guide/third-party-extensions/experience-selector-salesforce){target="_blank"} | Video | Watch a demo of the Experience Selector micro-frontend in Salesforce for GenStudio for Performance Marketing. See how it enables marketers to select and deliver on-brand experiences directly within Salesforce. |
+| July 2026 | [GenStudio Figma Integration demo](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/integrations/figma-plugin#convert-figma-frames-to-photoshop){target="_blank"} | Video | Watch a demo of the Figma integration in GenStudio for Performance Marketing, including how to convert Figma frames to Photoshop. |
 
 **GenStudio for Performance Marketing resources**
 
@@ -484,6 +489,22 @@ To browse [!DNL Document Cloud] tutorials, see:
 * [Adobe Acrobat Sign](https://experienceleague.adobe.com/en/docs/document-cloud-learn/sign-learning-hub/overview){target="_blank"}
 * [Adobe Acrobat Services API tutorials](https://experienceleague.adobe.com/en/docs/acrobat-services-learn/tutorials/overview){target="_blank"}
 * [Document Cloud Learn & Support](https://helpx.adobe.com/support/document-cloud.html)
+
+### [!DNL Adobe Brand Concierge] {#brand-concierge}
+
+View new tutorials for [!DNL Adobe Brand Concierge].
+
+| Published | Name | Type | Description |
+| ----------- | ---------- | ---------- | ---------- |
+| July 2026 | [Integration with Marketo](https://experienceleague.adobe.com/en/docs/brand-concierge/content/getting-started/integration-with-marketo){target="_blank"} | Video | Learn how Brand Concierge integrates with Marketo Engage. See how leads captured through Concierge conversations flow automatically into Marketo as native activities you can use in Smart Campaigns. |
+
+### [!DNL Adobe LLM Optimizer] {#llm-optimizer}
+
+View new tutorials for [!DNL Adobe LLM Optimizer].
+
+| Published | Name | Type | Description |
+| ----------- | ---------- | ---------- | ---------- |
+| July 2026 | [Adobe LLM Optimizer in Action](https://experienceleague.adobe.com/en/docs/llm-optimizer/using/essentials/overview){target="_blank"} | Video | Discover how Adobe LLM Optimizer helps marketers and SEO teams measure and improve brand visibility across AI-powered search experiences like ChatGPT and Gemini, using the Brand Presence, URL Inspector, Agentic Traffic, Referral Traffic, and Opportunities dashboards. |
 
 ### [!DNL Adobe Creative Cloud] for enterprise {#creative-cloud}
 
