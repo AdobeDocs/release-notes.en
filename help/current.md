@@ -5,6 +5,7 @@ doc-type: release notes
 last-update: January 2026
 author: mfrei
 mini-toc-levels: 2
+badgeReview: label="Internal Review" type="Negative"
 ---
 # CX Enterprise central release notes - July 2026
 
