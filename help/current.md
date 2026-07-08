@@ -42,7 +42,7 @@ To view all events, visit [Experience League Events](https://experienceleague.ad
 
 ## New AI features in CX Enterprise {#ai}
 
-Find the latest learning resources published for generative and agentic AI in CX Enterprise.
+Find the latest learning resources published for generative and agentic AI in CX Enterprise. 
 
 | Application | Update | Description | Updated |
 | ------- | ------- | ------- | ------- |
