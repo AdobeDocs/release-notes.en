@@ -2,7 +2,7 @@
 title: Central Release Notes
 description: Find links to Experience Cloud application release notes. View new tutorial videos, read Support articles, and locate self-help resources on Experience League. 
 doc-type: release notes
-last-update: January 2026
+last-update: July 2026
 author: mfrei
 mini-toc-levels: 2
 badgeReview: label="Internal Review" type="Negative"
@@ -23,7 +23,7 @@ This page helps you:
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 -->
 
-Latest update: **July 8, 2026**
+Latest update: **July 9, 2026**
 
 ## What's new
 
