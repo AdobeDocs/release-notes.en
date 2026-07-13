@@ -5,6 +5,7 @@ user-guide-title: Adobe Experience Cloud Release Notes
 breadcrumb-title: Central Release Notes
 user-guide-description: Learn about new features, fixes, and important notices in Adobe Experience Cloud and Experience Platform.
 user-guide-url: https://www.adobe.com
+color: red
 ---
 
 # What's New in Adobe Experience Cloud {#experience-cloud}
@@ -12,6 +13,7 @@ user-guide-url: https://www.adobe.com
 + [Current release notes](current.md)
 + Previous release notes {#previous}
   + 2026 {#2026}
+    + [June 2026](c-legacy-releases/2026/06112026.md)
     + [April 2026](c-legacy-releases/2026/04152026.md)
     + [March 2026](c-legacy-releases/2026/03112026.md) 
     + [February 2026](c-legacy-releases/2026/02112026.md)
