@@ -5,13 +5,12 @@ doc-type: release notes
 last-update: July 2026
 author: mfrei
 mini-toc-levels: 2
-badgeReview: label="Internal Review" type="Negative"
 ---
 # CX Enterprise central release notes - July 2026
 
 This page helps you:
 
-* Learn about new generative AI and agentic AI feature in CX Enterprise
+* Learn about new generative AI and agentic AI features in CX Enterprise
 * Find all links to application-specific release notes
 * Find the latest learning opportunities available on Experience League (Adobe's CX Enterprise help site)
 * Get informed about new events on Experience League
@@ -23,7 +22,7 @@ This page helps you:
 >To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
 -->
 
-Latest update: **July 10, 2026**
+Latest update: **July 13, 2026**
 
 ## What's new
 
@@ -129,16 +128,13 @@ Links to the latest tutorials and Support articles. Adobe System Status release 
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. Check it out at [status.adobe.com](https://status.adobe.com/){target="_blank"}.
 
-* AI Virtual Assistant beta
-* Bug fixes and improvements
-
-| Feature | Description |
-| ------- | ------- |
-| **AI Virtual Assistant beta** | <ul><li>Virtual Assistant is a feature that helps Status customers on the web and mobile perform quick actions and provide feedback. It serves as a single point of contact for resolving all queries.</li><li>We are adding AI capabilities to the Virtual Assistant, enabling faster, conversational access to event and subscription information.</li><li>Customer beta is ongoing. If you would like to participate, please email [statuscom-adobe-support](mailto:statuscom-adobe-support@adobe.com).</li></ul> |
-| **Bug fixes and improvements** | <ul><li>Enable dates at the history level for the Events API.</li><li>Accessibility bug fixes.</li><li>Marketo subscriptions - Environments were not rolling up to data centers, causing missed notifications.</li><li>The header and footer were unlocalized on the Status page.</li><li>Scheduled Maintenance was not showing the earliest maintenance.</li><li>Status API was not returning the same information as the Status web with Dismissed events.</li><li>When maintenance was closed after the actual end date, it was not displayed correctly on the Status UI.</li></ul> |
+<!-- 
+[internal](https://wiki.corp.adobe.com/spaces/AdobeStatus/pages/2821708019/Product+priority+update+-+release+notes) 
+-->
 
 Release notes history:
 
+* [March 2026](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2026/04152026#status){target="_blank"}
 * [December 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2026/01142026#status){target="_blank"} 
 * [August 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2025/08132025#status){target="_blank"}
 * [April 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2025/04162025#status){target="_blank"}
@@ -622,7 +618,7 @@ Browse the library of tutorials for [Creative Cloud for enterprise](https://expe
 
 ### Customer Data Management - Voices {#voices}
 
-[Customer Data Management Voices](https://experienceleague.adobe.com/en/docs/events/customer-data-management-voices-recordings/overview){target="_blank"} is your destination as a customer data management technical and marketing practice leader and specialist. This collection of tutorials is a comprehensive resource to hear from your peers, get inspired, and learn about developments in MarTech. No registration required, simply click and watch.
+[Customer Data Management Voices](https://experienceleague.adobe.com/en/docs/events/customer-data-management-voices-recordings/overview){target="_blank"} is your destination as a customer data management technical and marketing practice leader and specialist. This collection of tutorials is a comprehensive resource to hear from your peers, get inspired, and learn about developments in MarTech. No registration required.
 
 ### Customer experience orchestration blueprints {#blueprints}
 
