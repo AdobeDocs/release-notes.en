@@ -461,11 +461,7 @@ New articles and updates to existing articles for [!DNL Campaign].
 
 ### [!DNL Adobe Journey Optimizer] {#journey-opt}
 
-View the latest tutorials and Knowledge Base support articles on Experience League.
-
-#### [!DNL Journey Optimizer] product release updates
-
-Find the latest tutorials and Support articles for Journey Optimizer.
+View the latest tutorials and support articles on Experience League.
 
 #### New [!DNL Journey Optimizer] tutorials {#tutorials-ajo}
 
