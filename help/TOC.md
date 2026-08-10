@@ -13,6 +13,7 @@ color: red
 + [Current release notes](current.md)
 + Previous release notes {#previous}
   + 2026 {#2026}
+    + [July 2026](c-legacy-releases/2026/07152026.md)  
     + [June 2026](c-legacy-releases/2026/06112026.md)
     + [April 2026](c-legacy-releases/2026/04152026.md)
     + [March 2026](c-legacy-releases/2026/03112026.md) 
