@@ -104,27 +104,27 @@ Last update: **August 10, 2026**
 Links to the latest tutorials and Support articles. Adobe System Status release notes are found below:
 
 * [[!DNL Adobe System Status]](#status) release notes
-* [[!DNL Adobe Experience Platform]](#platform) 
-* [[!DNL Adobe Real-Time CDP]](#rtcdp)
-* [[!DNL Adobe Analytics]](#analytics)
-* [[!DNL Adobe Customer Journey Analytics]](#cja)
-* [[!DNL Adobe Streaming Media Analytics]](#sma)
-* [[!DNL Adobe Experience Manager]](#aem)
-* [[!DNL Adobe Commerce]](#commerce)
-* [[!DNL Adobe Target]](#target)
-* [[!DNL Adobe Campaign]](#ac)
-* [[!DNL Adobe Journey Optimizer]](#journey-opt)
-* [[!DNL Adobe Journey Optimizer B2B Edition]](#ajo-b2b)
-* [[!DNL Adobe Marketo Engage]](#marketo)
-* [[!DNL Adobe Workfront]](#workfront)
-* [[!DNL Adobe GenStudio for Performance Marketing]](#genstudio-marketing)
-* [[!DNL Adobe Pass]](#pass)
-* [[!DNL Adobe Document Cloud]](#doc-cloud)
-* [[!DNL Adobe Brand Concierge]](#brand-concierge)
-* [[!DNL Adobe LLM Optimizer]](#llm-optimizer)
-* [[!DNL Adobe Creative Cloud for enterprise]](#creative-cloud)
-* [Customer Data Management - Voices](#voices)
-* [Customer experience orchestration blueprints](#blueprints)
+* [[!DNL Adobe Experience Platform]](#tutorials-aep) 
+* [[!DNL Adobe Real-Time CDP]](#tutorials-rtcdp)
+* [[!DNL Adobe Analytics]](#tutorials-analytics)
+* [[!DNL Adobe Customer Journey Analytics]](#tutorials-cja)
+* [[!DNL Adobe Streaming Media Analytics]](#tutorials-sma)
+* [[!DNL Adobe Experience Manager]](#tutorials-aem)
+* [[!DNL Adobe Commerce]](#tutorials-commerce)
+* [[!DNL Adobe Target]](#tutorials-target)
+* [[!DNL Adobe Campaign]](#tutorials-campaign)
+* [[!DNL Adobe Journey Optimizer]](#tutorials-ajo)
+* [[!DNL Adobe Journey Optimizer B2B Edition]](#tutorials-ajo-b2b)
+* [[!DNL Adobe Marketo Engage]](#tutorials-marketo)
+* [[!DNL Adobe Workfront]](#tutorials-workfront)
+* [[!DNL Adobe GenStudio for Performance Marketing]](#tutorials-genstudio-marketing)
+* [[!DNL Adobe Pass]](#tutorials-pass)
+* [[!DNL Adobe Document Cloud]](#tutorials-document-cloud)
+* [[!DNL Adobe Brand Concierge]](#tutorials-brand-concierge)
+* [[!DNL Adobe LLM Optimizer]](#tutorials-llm-optimizer)
+* [[!DNL Adobe Creative Cloud for enterprise]](#tutorials-creative-cloud)
+* [Customer Data Management - Voices](#tutorials-voices)
+* [Customer experience orchestration blueprints](#tutorials-blueprints)
 * [Certification at Adobe](https://experienceleague.adobe.com/en/certification-home){target="_blank"}
 * [Adobe product security vulnerabilities](https://helpx.adobe.com/security.html){target="_blank"}
 
@@ -150,11 +150,9 @@ Release notes history:
 * [March 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/03082023#status){target="_blank"}
 * [January 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/02082023#status){target="_blank"}
 
-### [!DNL Adobe Experience Platform] {#platform}
+### [!DNL Adobe Experience Platform] {#tutorials-aep}
 
 View the latest video tutorials and Support articles for Experience Platform.
-
-#### New [!DNL Experience Platform] tutorials{#tutorials-aep}
 
 Latest tutorials published for Adobe [!DNL Experience Platform].
 
@@ -173,7 +171,7 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 | June 2026 | [SFTP destination connection fails in Adobe Experience Platform](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-33771) | New article | Learn about the solutions to the issue when the SFTP destination connection fails in Adobe Experience Platform even when all required IP addresses are allow-listed and the credentials are correct because the SFTP server supports only outdated SSH key exchange algorithms that are incompatible with the validator. |
 
 
-### [!DNL Adobe Real-Time CDP] {#rtcdp}
+### [!DNL Adobe Real-Time CDP] {#tutorials-rtcdp}
 
 View the latest video tutorials and Support articles for Real-Time CDP.
 
@@ -181,15 +179,13 @@ View the latest video tutorials and Support articles for Real-Time CDP.
 
 * Product documentation: [Real-Time Customer Data Platform](https://experienceleague.adobe.com/en/docs/real-time-customer-data-platform){target="_blank"}
 
-### [!DNL Adobe Analytics] {#analytics}
+### [!DNL Adobe Analytics] {#tutorials-analytics}
 
 Adobe Analytics releases operate on a continuous delivery model, which allows for a more scalable, phased approach to feature deployment. Release notes are updated several times a month.
 
 #### AppMeasurement {#appm}
 
 * [AppMeasurement for JavaScript release notes](https://github.com/adobe/appmeasurement/releases){target="_blank"}
-
-#### New Analytics tutorials {#tutorials-analytics}
 
 New or updated video tutorials published for Adobe Analytics.
 
@@ -208,11 +204,7 @@ New articles and updates to existing articles for [!DNL Analytics].
 | February 2026 | [Data Warehouse export contains values exceeding 255 bytes due to escape sequences](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29977){target="_blank"} | New article | Learn about the solutions to the issue when Data Warehouse export contains field values that exceed the 255-byte limit because special characters are escaped with additional backslashes. |
 -->
 
-### [!DNL Adobe Customer Journey Analytics] {#cja}
-
-View new tutorials and Support articles for Customer Journey Analytics.
-
-#### New [!DNL Customer Journey Analytics] tutorials {#tutorials-cja}
+### [!DNL Adobe Customer Journey Analytics] {#tutorials-cja}
 
 New tutorials published for [!DNL Customer Journey Analytics]. 
 
@@ -234,13 +226,11 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 | June 2026 | [Deleted connections appear in the Customer Journey Analytics usage dashboard](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30470) | New article | Learn about the solutions to the issue when deleted connections continue appearing in the Customer Journey Analytics [!UICONTROL Usage] dashboard and the dashboard shows only connection IDs without names after deletion. |
 
 
-### [!DNL Adobe Experience Manager] {#aem}
+### [!DNL Adobe Experience Manager] {#tutorials-aem}
 
 Latest video tutorials and Support articles for Experience Manager as a Cloud Service
 
 * [Latest AEM CS release overview video](https://experienceleague.adobe.com/en/docs/events/aemcs-release-update-recordings/overview){target="_blank"}
-
-#### New [!DNL Experience Manager] tutorials {#tutorials-aem}
 
 New video and written tutorials (articles) published for [!DNL Experience Manager as a Cloud Service].
 
@@ -388,14 +378,12 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 | June 2026 | [**[!UICONTROL Restore previous code deployed]** option not visible in Cloud Manager](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-32405) | New article | Learn about the solutions to the issue when the **[!UICONTROL Restore previous code deployed]** option doesn't appear in Cloud Manager for a system administrator in Adobe Experience Manager as a Cloud Service when required permissions remain disabled in a custom product profile. |
 | June 2026 | [Dynamic Media video assets fail to process and are unusable in Sites components in AEMaaCS](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-33968) | New article | Learn about the solutions to the issue when Dynamic Media video assets aren't processed correctly and can't be used in AEM Sites components in Adobe Experience Manager as a Cloud Service after enabling immediate publishing at the global level. |
 
-### [!DNL Adobe Commerce] {#commerce}
+### [!DNL Adobe Commerce] {#tutorials-commerce}
 
 Get access to new tutorials and Knowledge Base support articles for [!DNL Adobe Commerce].
 
 * [Adobe [!DNL Commerce] Services Guides](https://experienceleague.adobe.com/en/docs/commerce/user-guides/home){target="_blank"}
 * [Product Availability](https://experienceleague.adobe.com/en/docs/commerce-operations/release/product-availability){target="_blank"}
-
-#### New tutorials for [!DNL Adobe Commerce] {#tutorials-commerce}
 
 New tutorials for [!DNL Adobe Commerce] on Experience League.
 
@@ -422,17 +410,15 @@ New articles and updates to existing articles for Adobe Commerce.
 | June 2026 | [Intermittent login failures on first attempt with [!DNL reCAPTCHA] v3 enabled in Commerce](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-34392) | New article | Learn about the solutions to the issue when intermittent login failures occur on the first attempt with [!DNL reCAPTCHA] v3 enabled on the customer login form in Adobe Commerce and valid credentials are rejected initially but succeed upon retry. |
 | June 2026 | [Prices not updated after catalog price rule activation](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-35368) | New article | Learn about the solutions to the issue when prices don't update after activating a catalog price rule using the [!UICONTROL Scheduled Update] feature in Adobe Commerce due to a race condition between cron groups. |
 
-### [!DNL Adobe Target] {#target}
+### [!DNL Adobe Target] {#tutorials-target}
 
 Visit [!DNL Adobe Target] [tutorials](https://experienceleague.adobe.com/en/docs/target-learn/tutorials/overview) for the latest content.
 
-### [!DNL Adobe Campaign] {#ac}
+### [!DNL Adobe Campaign] {#tutorials-campaign}
 
 Find the latest video tutorials and Support articles for Adobe Campaign.
 
 <!-- 
-#### New [!DNL Campaign] tutorials {#tutorials-campaign}
-
 New or updated videos tutorials published for Adobe Campaign.
 
 | Published | Application | Name | Type | Description |
@@ -463,11 +449,9 @@ New articles and updates to existing articles for [!DNL Campaign].
 | June 2026 | [Campaign: Slow data transfers from Adobe Campaign to [!DNL Databricks] (DBX)](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-36250) | New article | Learn about the solutions to the issue when data transfers from Adobe Campaign to [!DNL Databricks] are significantly slower than expected, because Campaign can't use its bulk-load mechanism and instead falls back to a slower row-by-row insertion strategy. |
 | June 2026 | [Campaign: Push deliveries remain in *In Progress* status after upgrade](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-36256) | New article | Learn about the solutions to the issue when push deliveries using a TPNS connector remain stuck in *In Progress* status after an Adobe Campaign Classic upgrade, because the mobile service is configured to use the FCM HTTP v1 API instead of the legacy HTTP mode required by the TPNS connector. |
 
-### [!DNL Adobe Journey Optimizer] {#journey-opt}
+### [!DNL Adobe Journey Optimizer] {#tutorials-ajo}
 
 View the latest tutorials and support articles on Experience League.
-
-#### New [!DNL Journey Optimizer] tutorials {#tutorials-ajo}
 
 New tutorials published for Adobe [!DNL Journey Optimizer] on Experience League.
 
@@ -495,7 +479,7 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].
 * [[!DNL Journey Optimizer] documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/ajo-home){target="_blank"} - [How-to videos](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/overview){target="_blank"}
 * [Decision Management documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/decisioning/offer-decisioning/get-started-decision/starting-offer-decisioning){target="_blank"} - [How-to videos](https://experienceleague.adobe.com/en/docs/journey-optimizer-learn/tutorials/decision-capabilities/decision-management/introduction-to-decision-management){target="_blank"} - [Latest documentation updates](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/documentation-updates){target="_blank"}
 
-### [!DNL Adobe Journey Optimizer B2B Edition] {#ajo-b2b}
+### [!DNL Adobe Journey Optimizer B2B Edition] {#tutorials-ajo-b2b}
 
 Find learning resources for Journey Optimizer B2B Edition. 
 
@@ -509,7 +493,7 @@ New videos, tutorials, or courses published for Journey Optimizer B2B Edition.
 | ----------- | ---------- | ---------- | ---------- |
 | July 2026 | [Project Falco Summit announcements](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/join-the-project-falco-beta-program-251090){target="_blank"} | Video | Watch the Project Falco beta demo highlighting all announcements made at Summit 2026. |
 
-### [!DNL Adobe Marketo Engage] {#marketo}
+### [!DNL Adobe Marketo Engage] {#tutorials-marketo}
 
 New tutorials published for Adobe Marketo.
 
@@ -529,7 +513,7 @@ New articles and updates to existing articles for [!DNL Marketo].
 | February 2026 | [Understanding persistent report subscriptions for standard analytics reports](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-29909){target="_blank"} | New article | Learn about the solutions to the issue when Marketo Engage continues sending scheduled subscription emails for standard workspace-level analytics reports even when the report isn't a custom or standalone report. |
 -->
 
-### [!DNL Adobe Workfront] {#workfront}
+### [!DNL Adobe Workfront] {#tutorials-workfront}
 
 New [!DNL Workfront] tutorials and events on Experience League.
 
@@ -559,7 +543,7 @@ New articles and updates to existing articles for [!DNL Workfront].
 
 For the latest product documentation, see the [Adobe [!DNL Workfront] documentation home page](https://experienceleague.adobe.com/en/docs/workfront/using/home){target="_blank"}.
 
-### [!DNL Adobe GenStudio for Performance Marketing] {#genstudio-marketing}
+### [!DNL Adobe GenStudio for Performance Marketing] {#tutorials-genstudio-marketing}
 
 Video tutorials for GenStudio for Performance Marketing.
 
@@ -573,13 +557,13 @@ Video tutorials for GenStudio for Performance Marketing.
 * [Product documentation](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home){target="_blank"} for GenStudio for Performance Marketing
 * [GenStudio for Performance Marketing](https://business.adobe.com/products/genstudio-for-performance-marketing.html) product information
 
-### [!DNL Adobe Pass] {#pass}
+### [!DNL Adobe Pass] {#tutorials-pass}
 
 [!DNL Adobe Pass] is a multi-screen TV platform that helps broadcasters, cable networks, and service providers create and monetize engaging, personalized viewing experiences.
 
 * [Adobe Pass Documentation](https://experienceleague.adobe.com/en/docs/pass){target="_blank"} to find release-specific information, system requirements, limitations, fixed issues, and known issues.
 
-### [!DNL Adobe Document Cloud] {#doc-cloud}
+### [!DNL Adobe Document Cloud] {#tutorials-document-cloud}
 
 View new tutorials published for [!DNL Document Cloud], including [!DNL Acrobat Services] and [!DNL Acrobat Sign].
 
@@ -596,7 +580,7 @@ To browse [!DNL Document Cloud] tutorials, see:
 * [Adobe Acrobat Services API tutorials](https://experienceleague.adobe.com/en/docs/acrobat-services-learn/tutorials/overview){target="_blank"}
 * [Document Cloud Learn & Support](https://helpx.adobe.com/support/document-cloud.html)
 
-### [!DNL Adobe Brand Concierge] {#brand-concierge}
+### [!DNL Adobe Brand Concierge] {#tutorials-brand-concierge}
 
 View new tutorials for [!DNL Adobe Brand Concierge].
 
@@ -604,7 +588,7 @@ View new tutorials for [!DNL Adobe Brand Concierge].
 | ----------- | ---------- | ---------- | ---------- |
 | July 2026 | [Integration with Marketo](https://experienceleague.adobe.com/en/docs/brand-concierge/content/getting-started/integration-with-marketo){target="_blank"} | Video | Learn how Brand Concierge integrates with Marketo Engage. See how leads captured through Concierge conversations flow automatically into Marketo as native activities you can use in Smart Campaigns. |
 
-### [!DNL Adobe LLM Optimizer] {#llm-optimizer}
+### [!DNL Adobe LLM Optimizer] {#tutorials-llm-optimizer}
 
 View new tutorials for [!DNL Adobe LLM Optimizer].
 
@@ -612,14 +596,14 @@ View new tutorials for [!DNL Adobe LLM Optimizer].
 | ----------- | ---------- | ---------- | ---------- |
 | July 2026 | [Adobe LLM Optimizer in Action](https://experienceleague.adobe.com/en/docs/llm-optimizer/using/essentials/overview){target="_blank"} | Video | Discover how Adobe LLM Optimizer helps marketers and SEO teams measure and improve brand visibility across AI-powered search experiences like ChatGPT and Gemini, using the Brand Presence, URL Inspector, Agentic Traffic, Referral Traffic, and Opportunities dashboards. |
 
-### [!DNL Adobe Creative Cloud] for enterprise {#creative-cloud}
+### [!DNL Adobe Creative Cloud] for enterprise {#tutorials-creative-cloud}
 
 Browse the library of tutorials for [Creative Cloud for enterprise](https://experienceleague.adobe.com/en/docs/creative-cloud-enterprise-learn/cce-learning-hub/overview){target="_blank"} for more.
 
-### Customer Data Management - Voices {#voices}
+### Customer Data Management - Voices {#tutorials-voices}
 
 [Customer Data Management Voices](https://experienceleague.adobe.com/en/docs/events/customer-data-management-voices-recordings/overview){target="_blank"} is your destination as a customer data management technical and marketing practice leader and specialist. This collection of tutorials is a comprehensive resource to hear from your peers, get inspired, and learn about developments in MarTech. No registration required.
 
-### Customer experience orchestration blueprints {#blueprints}
+### Customer experience orchestration blueprints {#tutorials-blueprints}
 
 [Customer experience orchestration blueprints](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/overview){target="_blank"} are repeatable implementations that let you address strategy and quickly solve established business problems. Each Blueprint provides a series of artifacts that explain the high-value business problem, architectures, implementation steps, technical considerations, and links to the relevant documentation.
