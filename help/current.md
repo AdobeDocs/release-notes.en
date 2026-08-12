@@ -13,7 +13,7 @@ This page helps you:
 * Learn about new generative AI and agentic AI features in CX Enterprise
 * Find all links to application-specific release notes
 * Find the latest learning opportunities available on Experience League (Adobe's CX Enterprise help site)
-* Get informed about new events on Experience League
+* Get informed about new events on Experience League 
 * See the latest Support articles
 
 <!--
