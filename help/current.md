@@ -26,7 +26,7 @@ This page helps you:
 >
 >To receive an email notification about updates to this page, enable the [[!UICONTROL Priority Product Update]](https://account.adobe.com/magazines) on the [!UICONTROL Newsletters] page. 
 
-Latest update: **August 10, 2026**
+Latest update: **August 12, 2026**
 
 ## What's new
 
