@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/mfrei/Downloads/**)",
+      "Read(//c/Users/mfrei/AppData/Local/Temp/**)"
+    ]
+  }
+}
