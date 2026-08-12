@@ -40,14 +40,14 @@ Latest update: **August 10, 2026**
 
 To view all events, visit [Experience League Events](https://experienceleague.adobe.com/en/events).
 
-## New AI features in CX Enterprise {#ai}
+## Latest CX Enterprise [!DNL Coworker] and AI resources {#ai}
 
-Find the latest learning resources published for generative and agentic AI in CX Enterprise. 
+Find the latest learning resources published for [!DNL Coworkder] and AI features in CX Enterprise applications. 
 
 | Application | Update | Description | Updated |
 | ------- | ------- | ------- | ------- |
-| CX Enterprise Coworker | **[!DNL Coworker use cases]** | [Use cases for CX Enterprise Coworker](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/overview) provide sample prompts that practitioners are using in CX Enterprise Coworker Chat, organized by work area. Each prompt is built to be copied, adapted with your own data and context, and refined through conversation. | August 10, 2026 |
-| CX Enterprise | **[!DNL Coworker]** | [CX Enterprise Coworker](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/overview) is an agentic AI application that automates end-to-end customer experience workflows. It detects signals, builds audiences, and launches campaigns with built-in governance in hours. | June 11, 2026 |
+| CX Enterprise Coworker | **[!DNL Coworker use cases]** | [New use cases for CX Enterprise Coworker](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/overview) provide sample prompts that practitioners are using in CX Enterprise Coworker Chat, organized by work area. Each prompt is built to be copied, adapted with your own data and context, and refined through conversation. | August 10, 2026 |
+| CX Enterprise | **[!DNL Coworker documentation]** | [CX Enterprise Coworker](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/overview) is an agentic AI application that automates end-to-end customer experience workflows. It detects signals, builds audiences, and launches campaigns with built-in governance in hours. | June 11, 2026 |
 | CX Enterprise | **Agentic AI Capability Catalog** | Discover which agentic AI jobs are available in your licensed CX Enterprise apps. Find the link on [Adobe Experience Platform agent jobs and AI credits consumption](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption). | June 11, 2026 |
 | [!DNL CX Enterprise] | **[!UICONTROL Monitoring]** | CX Enterprise now provides [AI Monitoring dashboards](https://experienceleague.adobe.com/en/docs/core-services/interface/features/monitoring){target="_blank"} to monitor agentic AI usage in existing applications. Track adoption, review conversations and feedback, and manage AI credit consumption for Experience Platform Agents accessed through AI Assistant and other conversational surfaces. Overview, Users, Feedback, and AI Credits views help governance stakeholders guide adoption with data. | June 2, 2026 |
 | [!DNL CX Enterprise] - Experience League | **AI Training** | Experience League's [AI Hub](https://experienceleague.adobe.com/en/ai-training){target="_blank"} helps marketers build practical AI skills for everyday marketing work. Learn from peers navigating the same challenges and discover what's actually working. | April 15, 2026 |
@@ -56,11 +56,11 @@ Find the latest learning resources published for generative and agentic AI in CX
 
 ## New release notes - all applications {#application-release-notes}
 
-Use this table to learn about highlighted updates to CX Enterprise applications. Links are provided to application-specific release notes.
+Learn about highlighted updates to CX Enterprise applications. Links are provided to application-specific release notes.
 
 **Note:** Several CX Enterprise applications release weekly. Visit your application release notes pages frequently to stay updated.
 
-Last update: **August 10, 2026**
+Last update: **August 12, 2026**
 
 | Application | Release date | Release notes URL | Updates |
 | ------------- | ------------- | ------------- | ------------- |
@@ -84,7 +84,6 @@ Last update: **August 10, 2026**
 | [!DNL Adobe Workfront] | Q3 2026 | [Adobe Workfront product releases](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview){target="_blank"} | <ul><li>Standalone Adobe Workfront Planning product for new customers</li><li>Adobe Cloud Drive desktop app (Workflow Ultimate)</li><li>Parallel approval paths for documents (up to 30 tracks)</li><li>Workfront MCP Server for AI agent integration</li><li>Rate card template integration (Workflow Ultimate)</li></ul> |
 | [!DNL Adobe Workfront Fusion] | June 2026 | [Adobe Workfront Fusion release activity](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/fusion-release-activity/fusion-releases-2026/fusion-2026-6-1){target="_blank"} | <ul><li>Retrigger specific scenario executions</li><li>Updates to Run Once functionality</li></ul> |
 | [!DNL Adobe Experience Manager] 6.5 | May 21, 2026 | [[!DNL Experience Manager] 6.5 Service Pack release notes](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes){target="_blank"} | <ul><li>6.5.25.0: 275 back-ports across Sites, Assets, and Foundation</li><li>Crosswalk available by default</li><li>Extensive keyboard navigation, focus management, and other accessibility improvements</li><li>Content Fragments and GraphQL API reliability improvements</li><li>Security back-ports</li></ul> |
-| [!DNL Adobe System Status] | May 15, 2026 | [Adobe System Status (on this page)](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/current#status){target="_blank"} | <ul><li>AI Virtual Assistant beta</li><li>Bug fixes and improvements</li></ul> |
 | [!DNL Experience Manager] Desktop App | May 13, 2026 | [[!DNL Experience Manager] Desktop App release notes](https://experienceleague.adobe.com/en/docs/experience-manager-desktop-app/using/release-notes){target="_blank"} | <ul><li>Bug fixes for overall stability and performance (v3.0.2)</li></ul> |
 | [!DNL Adobe Pass] | May 2026 (3.7.0.2) | [Adobe Pass 3.7.0 release notes](https://experienceleague.adobe.com/en/docs/pass/authentication/product-releases/2026/auth-rn-370){target="_blank"} | <ul><li>PKCE support for OAuth2-based MVPD authentication</li><li>TVE Dashboard 1.5.1</li><li>Apple SSO configuration mismatch fix</li><li>HTTP 500 authorization-deny fix</li></ul> |
 | [!DNL Experience Manager] Assets Dynamic Media | May 9, 2026 | [[!DNL Experience Manager] Assets Dynamic Media release notes](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/release-notes/s7rn2017){target="_blank"} | <ul><li>HTTP/2 delivery of content</li><li>Authentication added to Scene7 servlets</li><li>FTP WebAdmin OKTA authentication support</li><li>Experience Cloud Org ID support for Viewer Analytics</li><li>Keyboard accessibility in HTML5 viewers (Image Serving 5.8.1)</li></ul> |
@@ -92,6 +91,7 @@ Last update: **August 10, 2026**
 | [!DNL Adobe Campaign] v8 | May 3, 2026 | [[!DNL Campaign] v8 release notes](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes){target="_blank"} | <ul><li>Debian 13 and PostgreSQL 17 upgrades</li><li>Fixed server crash and email pipeline memory issues</li><li>Resolved tracking workflow and typology rule failures</li><li>30+ stability and security fixes</li></ul> |
 | [!DNL Adobe Campaign Standard] | April 24, 2026 (26.2) | [[!DNL Campaign Standard] release notes](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes){target="_blank"} | <ul><li>Debian 13 and PostgreSQL 17 upgrades</li><li>Enhanced Dynamic Reporting reliability</li><li>Strengthened IMS authentication</li><li>Encrypted password-type fields in Options</li><li>Fixed AEM content retrieval errors</li></ul> |
 | [!DNL Adobe Mix Modeler] | March 30, 2026 | [Mix Modeler release notes](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest){target="_blank"} | <ul><li>Channel adstock</li></ul> |
+| [!DNL Adobe System Status] | March 2026 | [Adobe System Status release notes](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2026/04152026#status){target="_blank"} | <ul><li>AI Virtual Assistant beta</li><li>Bug fixes and improvements</li></ul> |
 | [!DNL Marketo Engage] [!DNL Dynamic Chat] | March 2026 | [Dynamic Chat release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/dynamic-chat){target="_blank"} | <ul><li>Visitor wait time limit</li><li>Download transcript</li><li>Routing Logic Revamp</li></ul> |
 | [!DNL Experience Manager] [!DNL Brand Portal] | January 1, 2026 | [Experience Manager Brand Portal release notes](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes){target="_blank"} | <ul><li>Reset button for Dynamic Media Configuration</li><li>Sourcing folder validation before publish</li></ul> |
 | [!DNL Experience Manager] [!DNL Dispatcher] | November 20, 2025 | [Experience Manager Dispatcher release notes](https://experienceleague.adobe.com/en/docs/experience-manager-dispatcher/using/getting-started/release-notes){target="_blank"} | <ul><li>/allowedClients control in dispatcher configuration</li><li>stale-while-error handling for 429 responses</li><li>Vanity URL loading optimization</li></ul> |
@@ -136,6 +136,7 @@ Links to the latest tutorials and Support articles. Adobe System Status release 
 [internal](https://wiki.corp.adobe.com/spaces/AdobeStatus/pages/2821708019/Product+priority+update+-+release+notes) 
 -->
 
+<!-- 
 Release notes history:
 
 * [March 2026](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2026/04152026#status){target="_blank"}
@@ -148,19 +149,20 @@ Release notes history:
 * [October 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/10042023#status){target="_blank"}
 * [August 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/08092023#status){target="_blank"}
 * [March 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/03082023#status){target="_blank"}
-* [January 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/02082023#status){target="_blank"}
+* [January 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/02082023#status){target="_blank"} 
+-->
 
-### [!DNL Adobe Experience Platform] {#tutorials-aep}
+### [!DNL Adobe Experience Platform] - latest resources {#tutorials-aep}
 
-View the latest video tutorials and Support articles for Experience Platform.
+View the latest video tutorials and Support articles for [!DNL Experience Platform].
 
-Latest tutorials published for Adobe [!DNL Experience Platform].
+### New AEP tutorials
 
 | Published | Applications | Name | Type | Description |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
 | August 2026 | CX Enterprise Coworker | [Assess Experience Platform health and build audiences from natural language](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/audiences/create-audience-from-natural-language){target="_blank"} | Video | Learn how CX Enterprise Coworker helps you assess your Experience Platform environment and generate audiences through conversational, natural-language commands, eliminating manual configuration tasks. |
 
-#### New [!DNL Experience Platform] support knowledge base{#kb-aep}
+#### New [!DNL Experience Platform] support knowledge base articles{#kb-aep}
 
 New articles and updates to existing articles for [!DNL Experience Platform].
 
@@ -173,17 +175,19 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 
 View the latest video tutorials and Support articles for Real-Time CDP.
 
-* Video tutorials: [Understanding Real-Time Customer Data Platform](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform){target="_blank"}
-
-* Product documentation: [Real-Time Customer Data Platform](https://experienceleague.adobe.com/en/docs/real-time-customer-data-platform){target="_blank"}
-
-New tutorials published for [!DNL Real-Time CDP].
+#### Real-Time CDP tutorials
 
 | Published | Name | Type | Description |
 | ----------- | ---------- | ---------- | ---------- |
 | August 2026 | [Understand your audiences and where they're activated](https://experienceleague.adobe.com/en/docs/cx-enterprise-agentic-tools/using/in-action/query-audiences){target="_blank"} | Article | Learn how to use an AI client connected to Real-Time CDP through the CX Coworker Gateway to assess audience health, spot activation gaps, and get strategic recommendations for your segments without navigating multiple platform screens. |
 | July 2026 | [Source Audience Manager segments for Real-Time CDP Collaboration Audiences](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/source-audience-manager-segments-for-collaboration){target="_blank"} | Video | Learn how to reference Adobe Audience Manager segments inside Real-Time CDP Collaboration so you can use them in projects with partners. |
 | July 2026 | [Real-Time CDP Collaboration Starter: Initial access and permissions setup](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/collaboration/rtcdp-collaboration-starter-initial-access-and-permissions-setup){target="_blank"} | Video | Learn how to add the Collaboration Starter product profile to your account and configure the permissions users need to access Collaboration features. |
+
+**More help**
+
+* Video tutorials: [Real-Time CDP tutorials](https://experienceleague.adobe.com/en/docs/platform-learn/tutorials/rtcdp/understanding-the-real-time-customer-data-platform){target="_blank"}
+
+* Product documentation: [Real-Time CDP](https://experienceleague.adobe.com/en/docs/real-time-customer-data-platform){target="_blank"}
 
 ### [!DNL Adobe Analytics] {#tutorials-analytics}
 
@@ -228,7 +232,6 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 | Published | Name | Type | Description |
 | --------- | ---- | ---- | ----------- |
 | June 2026 | [Deleted connections appear in the Customer Journey Analytics usage dashboard](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-30470) | New article | Learn about the solutions to the issue when deleted connections continue appearing in the Customer Journey Analytics [!UICONTROL Usage] dashboard and the dashboard shows only connection IDs without names after deletion. |
-
 
 ### [!DNL Adobe Experience Manager] {#tutorials-aem}
 
