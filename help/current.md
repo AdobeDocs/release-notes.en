@@ -28,28 +28,25 @@ This page helps you find:
 
 Latest update: **August 14, 2026**
 
-## Updates to Experience League{#events}
+## What's new on Experience League{#events}
 
-* [Experience League Events v2](https://experienceleague.adobe.com/en/events) has launched, bringing upcoming and on-demand events together in a centralized discovery experience and improving event findability and engagement.
-* [AI Training](https://experienceleague.adobe.com/en/ai-training) Experience League's AI hub helps marketers build practical AI skills for everyday marketing work. Learn from peers navigating the same challenges and discover what's actually working.
+* [Experience League Events v2](https://experienceleague.adobe.com/en/events): The new Events page combines upcoming and on-demand events in a centralized search.
+* [AI Training](https://experienceleague.adobe.com/en/ai-training): Experience League's AI hub helps you build practical AI skills for everyday marketing work.
 
-## Latest CX Enterprise [!DNL Coworker] and AI resources {#ai}
+## New [!DNL CX Enterprise Coworker] and AI resources {#ai}
 
 Find the latest learning resources published for [!DNL Coworker] and AI features in [!DNL CX Enterprise] applications. 
 
 | Application | Update | Description | Updated |
 | ------- | ------- | ------- | ------- |
-| CX Enterprise [!DNL Coworker] | **[!DNL Coworker use cases]** | [New use cases for CX Enterprise [!DNL Coworker]](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/overview) provide sample prompts that practitioners are using in CX Enterprise [!DNL Coworker] Chat, organized by work area. Each prompt is built to be copied, adapted with your own data and context, and refined through conversation. | August 10, 2026 |
-| CX Enterprise | **[!DNL Coworker documentation]** | [CX Enterprise [!DNL Coworker]](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/overview) is an agentic AI application that automates end-to-end customer experience workflows. It detects signals, builds audiences, and launches campaigns with built-in governance in hours. | June 11, 2026 |
-| CX Enterprise | **Agentic AI Capability Catalog** | Discover which agentic AI jobs are available in your licensed CX Enterprise apps. Find the link on [Adobe Experience Platform agent jobs and AI credits consumption](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption). | June 11, 2026 |
-| [!DNL CX Enterprise] | **[!UICONTROL Monitoring]** | CX Enterprise now provides [AI Monitoring dashboards](https://experienceleague.adobe.com/en/docs/core-services/interface/features/monitoring){target="_blank"} to monitor agentic AI usage in existing applications. Track adoption, review conversations and feedback, and manage AI credit consumption for Experience Platform Agents accessed through AI Assistant and other conversational surfaces. Overview, Users, Feedback, and AI Credits views help governance stakeholders guide adoption with data. | June 2, 2026 |
+| CX Enterprise [!DNL Coworker Chat] | **Use-case resources** | Find sample prompts that you can use in [!DNL Coworker Chat]. Each prompt is built to be copied, adapted with your own data and context, and refined through conversation. [Learn more...](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/overview). | August 10, 2026 |
+| CX Enterprise | **Agentic AI Capability Catalog** | Discover which agentic AI jobs are available in your licensed CX Enterprise apps. Find the link on [AI credits consumption](https://experienceleague.adobe.com/en/docs/core-services/interface/features/ai-credit-consumption). | June 11, 2026 |
+| [!DNL CX Enterprise] | **[!UICONTROL Monitoring]** | CX Enterprise now provides [AI Monitoring dashboards](https://experienceleague.adobe.com/en/docs/core-services/interface/features/monitoring){target="_blank"} to monitor agentic AI usage in existing applications. | June 2, 2026 |
 | [!DNL CX Enterprise] - Experience League | **AI Training** | Experience League's [AI Hub](https://experienceleague.adobe.com/en/ai-training){target="_blank"} helps marketers build practical AI skills for everyday marketing work. Learn from peers navigating the same challenges and discover what's actually working. | April 15, 2026 |
-| [!DNL CX Enterprise] | **Marketing Agent for Microsoft 365 Copilot** | Learn how [Adobe Marketing Agent for Microsoft 365 Copilot](https://experienceleague.adobe.com/en/docs/experience-cloud-ai/experience-cloud-ai/agents/ama-ms){target="_blank"} connects Experience Platform directly to Microsoft 365 Copilot. | April 6, 2026 |
-| [!DNL AEM CS] | **Cloud Manager MCP Server** | Learn how the [Cloud Manager MCP Server](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/ai/mcp-servers/cloud-manager){target="_blank"} lets AI tools interact with AEM as a Cloud Service to manage programs, environments, repositories, and pipelines. | April 6, 2026 |
 
-## New release notes — all applications {#application-release-notes}
+## CX Enterprise release notes {#application-release-notes}
 
-Learn about highlighted updates to CX Enterprise applications. Links are provided to application-specific release notes.
+Learn about highlighted updates to all CX Enterprise applications. Links are provided to application-specific release notes.
 
 **Note:** Several CX Enterprise applications release weekly. Visit your application release notes pages frequently to stay updated.
 
