@@ -8,11 +8,11 @@ mini-toc-levels: 2
 ---
 # CX Enterprise central release notes — August 2026
 
-This page helps you:
+This page helps you find:
 
-* Learn about new [AI resources and features](#ai) in CX Enterprise
-* Find [release notes](#application-release-notes) for all CX Enterprise applications
-* Find the latest [tutorials and Support articles](#articles) available on Experience League
+* New [AI resources and features](#ai) in CX Enterprise
+* New [release notes](#application-release-notes) for all CX Enterprise applications
+* New [tutorials and Support articles](#articles) available on Experience League
 
 <!--
 >[!TIP]
@@ -26,20 +26,13 @@ This page helps you:
 
 Latest update: **August 14, 2026**
 
-## What's new
-
-* [New events and webinars](#events)
-* [New AI features in CX Enterprise](#ai)
-* [New release notes — all applications](#application-release-notes) (Updated **August 10, 2026**)
-* [New tutorials and Support articles](#articles)
-
 ## New events and webinars {#events}
 
-To view all events, visit [Experience League Events](https://experienceleague.adobe.com/en/events).
+* [Events Hub V2](https://experienceleague.adobe.com/en/events) has launched, bringing upcoming and on-demand events together in a centralized discovery experience and improving event findability and engagement.
 
 ## Latest CX Enterprise [!DNL Coworker] and AI resources {#ai}
 
-Find the latest learning resources published for [!DNL Coworker] and AI features in CX Enterprise applications. 
+Find the latest learning resources published for [!DNL Coworker] and AI features in [!DNL CX Enterprise] applications. 
 
 | Application | Update | Description | Updated |
 | ------- | ------- | ------- | ------- |
