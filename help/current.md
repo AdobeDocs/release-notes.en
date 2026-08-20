@@ -15,16 +15,9 @@ This page helps you find:
 * New product [release notes](#application-release-notes) for all CX Enterprise applications
 * New [tutorials and Support articles](#articles) available on Experience League
 
-<!--
 >[!TIP]
 >
->To receive an email notification about updates to this page, subscribe to the [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html). 
--->
-<!--
->[!TIP]
->
->To receive an email notification about updates to this page, enable the [[!UICONTROL Priority Product Update]](https://account.adobe.com/magazines) on the [!UICONTROL Newsletters] page.  
--->
+>To receive a monthly email about new CX Enterprise features and updates to this page, enable **[!UICONTROL Priority Product Update]** on the [[!UICONTROL Newsletters]](https://account.adobe.com/magazines) page.  
 
 Latest update: **August 14, 2026**
 
