@@ -3,7 +3,7 @@ description: Learn about new features and fixes in the Adobe Marketing Cloud.
 keywords: release notes
 seo-description: Learn about new features and fixes in the Adobe Marketing Cloud.
 seo-title: Central Release Notes - March 2017
-solution: Experience Cloud
+solution: CX Enterprise
 title: Central Release Notes - March 2017
 uuid: 76239568-1f28-4882-a326-9d29a54212cf
 ---

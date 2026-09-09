@@ -1,7 +1,7 @@
 ---
 cloud: Experience Cloud
 type: Documentation
-solution: Experience Cloud
+solution: CX Enterprise
 feature-set: Experience Cloud
 feature: Release Notes
 product: Experience Cloud
