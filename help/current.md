@@ -6,7 +6,7 @@ last-update: September 2026
 author: mfrei
 mini-toc-levels: 2
 ---
-# [!DNL CX Enterprise] central release notes — September 2026
+# [!DNL CX Enterprise] central release notes — September 2026 {#top}
 
 This page helps you find the latest:
 
@@ -66,7 +66,9 @@ Last update: **September 14, 2026**
 | [!DNL Experience Manager] [!DNL Assets Essentials] | July 25, 2024 | [Experience Manager Assets Dynamic Media release notes](https://experienceleague.adobe.com/en/docs/experience-manager-assets-essentials/help/release-notes){target="_blank"} | <ul><li>Content credentials integration</li><li>Visual previews of folder contents</li><li>Contextual Search</li><li>In-place rename for assets and folders</li><li>Express video quick actions</li></ul> |
 | [!DNL Experience Manager] Automated Forms Conversion Service | February 24, 2022 | [Automated Forms Conversion Service release notes](https://experienceleague.adobe.com/en/docs/aem-forms-automated-conversion-service/using/release-notes){target="_blank"} | <ul><li>Automatic conversion of sections to fragments to improve rendering speed</li></ul> |
 
-## Events and what's new{#events}
+[Top](#top)
+
+## Events and what's new on Experience League{#events}
 
 * [Experience League Events v2](https://experienceleague.adobe.com/en/events): The new Events page combines upcoming and on-demand events in a centralized search.
 * [AI Training](https://experienceleague.adobe.com/en/ai-training): Experience League's AI hub helps you build practical AI skills for everyday marketing work.
@@ -98,6 +100,8 @@ Find the latest learning resources published for [!DNL Coworker] and AI features
 | [!DNL CX Enterprise Coworker] | **Chat** | [Chat UI overview](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/ui-guide){target="_blank"} — get an overview of the [!DNL Coworker Chat] interface. | August 20, 2026 |
 | [!DNL CX Enterprise Coworker] | **Chat** | [Get started with [!DNL CX Enterprise Coworker Chat]](https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat){target="_blank"} — a playlist to help you get started with [!DNL Coworker Chat]. | August 20, 2026 |
 | [!DNL CX Enterprise Coworker Chat] | **Use-case resources** | Find sample prompts that you can use in [!DNL Coworker Chat]. Each prompt is built to be copied, adapted with your own data and context, and refined through conversation. [Learn more...](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/overview). | August 10, 2026 |
+
+[Top](#top)
 
 ## Tutorials and Support articles {#articles}
 
@@ -709,3 +713,5 @@ View new tutorials for [!DNL Adobe Brand Visibility].
 ### Customer experience orchestration blueprints {#tutorials-blueprints}
 
 [Customer experience orchestration blueprints](https://experienceleague.adobe.com/en/docs/blueprints-learn/architecture/overview){target="_blank"} are repeatable implementations that let you address strategy and quickly solve established business problems. Each Blueprint provides a series of artifacts that explain the high-value business problem, architectures, implementation steps, technical considerations, and links to the relevant documentation.
+
+[Top](#top)
