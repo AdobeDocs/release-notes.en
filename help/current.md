@@ -108,7 +108,6 @@ Find the latest learning resources published for [!DNL Coworker] and AI features
 Links to the latest tutorials and [Support](https://experienceleague.adobe.com/support/v2/en/) articles by application. Adobe System Status release notes cumulative release notes are included:
 
 * [Adobe [!DNL CX Enterprise Coworker]](#ai)
-* [[!DNL Adobe System Status]](#status) release notes
 * [[!DNL Adobe Experience Platform]](#tutorials-aep) 
 * [[!DNL Adobe Real-Time CDP]](#tutorials-rtcdp)
 * [[!DNL Adobe Analytics]](#tutorials-analytics)
@@ -140,8 +139,6 @@ Links to the latest tutorials and [Support](https://experienceleague.adobe.com/s
 <!-- 
 [internal](https://wiki.corp.adobe.com/spaces/AdobeStatus/pages/2821708019/Product+priority+update+-+release+notes) 
 -->
-
-See the [[!DNL Adobe System Status] release notes](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/system-status-release-notes){target="_blank"} for release history.
 
 ### [!DNL Adobe Experience Platform] - latest resources {#tutorials-aep}
 
