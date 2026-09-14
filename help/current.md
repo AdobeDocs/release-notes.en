@@ -58,7 +58,7 @@ Last update: **September 14, 2026**
 | [!DNL Adobe Campaign] v8 | May 3, 2026 | [[!DNL Campaign] v8 release notes](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes){target="_blank"} | <ul><li>Debian 13 and PostgreSQL 17 upgrades</li><li>Fixed server crash and email pipeline memory issues</li><li>Resolved tracking workflow and typology rule failures</li><li>30+ stability and security fixes</li></ul> |
 | [!DNL Adobe Campaign Standard] | April 24, 2026 (26.2) | [[!DNL Campaign Standard] release notes](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes){target="_blank"} | <ul><li>Debian 13 and PostgreSQL 17 upgrades</li><li>Enhanced Dynamic Reporting reliability</li><li>Strengthened IMS authentication</li><li>Encrypted password-type fields in Options</li><li>Fixed AEM content retrieval errors</li></ul> |
 | [!DNL Adobe Mix Modeler] | March 30, 2026 | [Mix Modeler release notes](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest){target="_blank"} | <ul><li>Channel adstock</li></ul> |
-| [!DNL Adobe System Status] | March 2026 | [Adobe System Status release notes](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2026/04152026#status){target="_blank"} | <ul><li>AI Virtual Assistant beta</li><li>Bug fixes and improvements</li></ul> |
+| [!DNL Adobe System Status] | March 2026 | [Adobe System Status release notes](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/system-status-release-notes){target="_blank"} | <ul><li>AI Virtual Assistant beta</li><li>Bug fixes and improvements</li></ul> |
 | [!DNL Marketo Engage] [!DNL Dynamic Chat] | March 2026 | [Dynamic Chat release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/dynamic-chat){target="_blank"} | <ul><li>Visitor wait time limit</li><li>Download transcript</li><li>Routing Logic Revamp</li></ul> |
 | [!DNL Experience Manager] [!DNL Brand Portal] | January 1, 2026 | [Experience Manager Brand Portal release notes](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes){target="_blank"} | <ul><li>Reset button for Dynamic Media Configuration</li><li>Sourcing folder validation before publish</li></ul> |
 | [!DNL Experience Manager] [!DNL Dispatcher] | November 20, 2025 | [Experience Manager Dispatcher release notes](https://experienceleague.adobe.com/en/docs/experience-manager-dispatcher/using/getting-started/release-notes){target="_blank"} | <ul><li>/allowedClients control in dispatcher configuration</li><li>stale-while-error handling for 429 responses</li><li>Vanity URL loading optimization</li></ul> |
@@ -103,10 +103,11 @@ Find the latest learning resources published for [!DNL Coworker] and AI features
 
 [Top](#top)
 
-## Tutorials and Support articles {#articles}
+## New tutorials and Support articles {#articles}
 
-Links to the latest tutorials and Support articles. Adobe System Status release notes are found below:
+Links to the latest tutorials and [Support](https://experienceleague.adobe.com/support/v2/en/) articles by application. Adobe System Status release notes cumulative release notes are included:
 
+* [Adobe [!DNL CX Enterprise Coworker]](#ai)
 * [[!DNL Adobe System Status]](#status) release notes
 * [[!DNL Adobe Experience Platform]](#tutorials-aep) 
 * [[!DNL Adobe Real-Time CDP]](#tutorials-rtcdp)
@@ -140,21 +141,7 @@ Links to the latest tutorials and Support articles. Adobe System Status release 
 [internal](https://wiki.corp.adobe.com/spaces/AdobeStatus/pages/2821708019/Product+priority+update+-+release+notes) 
 -->
 
-<!-- 
-Release notes history:
-
-* [March 2026](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2026/04152026#status){target="_blank"}
-* [December 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2026/01142026#status){target="_blank"} 
-* [August 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2025/08132025#status){target="_blank"}
-* [April 2025](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2025/04162025#status){target="_blank"}
-* [August 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/09122024#status){target="_blank"}
-* [May 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/05152024#status){target="_blank"}
-* [January 2024](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2024/02142024#status){target="_blank"}
-* [October 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/10042023#status){target="_blank"}
-* [August 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/08092023#status){target="_blank"}
-* [March 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/03082023#status){target="_blank"}
-* [January 2023](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/previous/2023/02082023#status){target="_blank"} 
--->
+See the [[!DNL Adobe System Status] release notes](https://experienceleague.adobe.com/en/docs/release-notes/experience-cloud/system-status-release-notes){target="_blank"} for release history.
 
 ### [!DNL Adobe Experience Platform] - latest resources {#tutorials-aep}
 
