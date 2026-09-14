@@ -11,6 +11,7 @@ color: red
 # What's New in Adobe Experience Cloud {#experience-cloud}
 
 + [Current release notes](current.md)
++ {hide-from-toc} [Adobe System Status release notes](system-status-release-notes.md)
 + Previous release notes {#previous}
   + 2026 {#2026}
     + [August 2025](c-legacy-releases/2026/08142026.md) 
