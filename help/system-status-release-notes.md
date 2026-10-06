@@ -14,7 +14,6 @@ This page tracks [!DNL Adobe System Status] updates over time. It's updated only
 
 | Date | Updates |
 | ------- | ------- |
-| October 1, 2026 | <ul><li>Fixed empty Cloud section when you have no subscriptions or entitlements and **My Events** is turned on</li><li>Improved availability with Akamai origin failover</li><li>Updated profile retrieval to use the required identity scope</li></ul> |
 | March 2026 | <ul><li>AI Virtual Assistant beta</li><li>Bug fixes and improvements</li></ul> |
 | December 8, 2025 | <ul><li>Virtual Assistant feedback enhancements (streamlined guided workflows, intuitive icons)</li><li>Bug fixes and improvements</li></ul> |
 | July 16, 2025 | <ul><li>Virtual Assistant general availability</li><li>Event ID search on Product and Cloud pages, and in Virtual Assistant</li><li>Slack notification setup update</li><li>Bug fixes and improvements</li></ul> |
