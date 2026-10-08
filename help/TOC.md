@@ -14,6 +14,7 @@ color: red
 + {hide-from-toc} [Adobe System Status release notes](system-status-release-notes.md)
 + Previous release notes {#previous}
   + 2026 {#2026}
+    + [September 2026](c-legacy-releases/2026/09112026.md)
     + [August 2026](c-legacy-releases/2026/08142026.md) 
     + [July 2026](c-legacy-releases/2026/07152026.md)  
     + [June 2026](c-legacy-releases/2026/06112026.md)
