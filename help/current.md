@@ -88,6 +88,7 @@ Find the latest learning resources published for [!DNL Coworker] and AI features
 
 | Application | Update | Description | Updated |
 | ------- | ------- | ------- | ------- |
+| [!DNL Coworker] | **Experience League LIVE** | [Coworker Unlocked](https://www.youtube.com/live/hrNuDVQFtLA){target="_blank"}: Audience & Journey B2C capabilities in Coworker | October 8, 2026 |
 | [!DNL Coworker] | **Experience League LIVE** | [Coworker Unlocked](https://www.youtube.com/live/hrNuDVQFtLA){target="_blank"}: Transforming Workflows with Adobe CX Enterprise [!DNL Coworker] | September 24, 2026 |
 | [!DNL Coworker] | **Content Advisor** | [Generate marketing assets using natural language](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/content-advisor/generate-assets){target="_blank"} — learn how [!DNL Coworker] creates brand assets for your channels in minutes. | September 11, 2026 |
 | [!DNL Coworker] | **Content Advisor** | [Brand governance in action](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/coworker/chat/use-cases/content-advisor/brand-compliance){target="_blank"} — see how [!DNL Coworker] integrates brand checks directly into your marketing workflows. | September 11, 2026 |
