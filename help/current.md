@@ -10,9 +10,9 @@ mini-toc-levels: 2
 
 This page helps you find the latest:
 
-* [Release notes](#application-release-notes) for all [!DNL CX Enterprise] applications (updated **October 8**)
+* [Release notes](#application-release-notes) for all [!DNL CX Enterprise] applications (updated **October 14**)
 * [Events and what's new](#events) on Experience League
-* [[!DNL CX Enterprise Coworker] and AI](#ai) learning resources
+* [[!DNL CX Enterprise Coworker] and AI](#ai) learning resources (updated **October 14**)
 * [Tutorials and Support articles](#articles) available on [!DNL Experience League]
 
 >[!TIP]
@@ -88,6 +88,7 @@ Find the latest learning resources published for [[!DNL Coworker]](https://exper
 
 | Application | Update | Description | Updated |
 | ------- | ------- | ------- | ------- |
+| [!DNL Coworker] | **Data insights** | [Accelerate data insights with Coworker, AEM and CJA](https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/data-insights/accelerate-data-insights){target="_blank"} — see how [!DNL Coworker] connects [!DNL Experience Manager], [!DNL Experience Platform], Web SDK, and [!DNL Customer Journey Analytics] to plan and carry out an implementation, so website engagement data is ready for analysis. | October 14, 2026 |
 | [!DNL Coworker] | **Experience League LIVE** | [Coworker Unlocked](https://www.youtube.com/live/hrNuDVQFtLA){target="_blank"}: Audience & Journey B2C capabilities in Coworker | October 8, 2026 |
 | [!DNL Coworker] | **Campaigns** | [Plan a digital campaign launch with Coworker](https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/workflow-and-planning/plan-digital-campaign-launch){target="_blank"} — learn how to plan and launch a B2C marketing campaign by building audiences, journeys, content, and landing pages in one chat. | October 8, 2026 |
 | [!DNL Adobe Target] | **Optimization** | [Accelerate experimentation with Coworker, AEM and Target](https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/optimization/accelerate-experimentation){target="_blank"} — see a cross-product workflow that creates an experiment on the WKND Magazine page, letting Coworker coordinate the Adobe capabilities needed to get there. | October 8, 2026 |
