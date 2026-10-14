@@ -25,11 +25,11 @@ Learn about new (and planned) updates to all [!DNL CX Enterprise] applications.
 
 **Important:** Certain applications release weekly. To stay updated, visit these pages frequently.
 
-Last update: **October 12, 2026**
+Last update: **October 14, 2026**
 
 | Application | Release date | Release notes URL | Updates |
 | ------------- | ------------- | ------------- | ------------- |
-| [!DNL Adobe Journey Optimizer] | October 9, 2026 | [[!DNL Journey Optimizer] release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>On-demand journey validation (October 9)</li><li>Business Performance Analysis skill in [!DNL CX Enterprise Coworker] (October 7)</li><li>Custom Outbound Channel (GA): integrate HTTP-based messaging channels like WeChat or Kakao Talk, with Decisioning, business rules, and API-triggered campaign support</li><li>LINE now available as a native outbound channel in orchestrated campaigns</li><li>Jump activities in Audience Qualification journeys (jump from batch audiences to event-based journeys)</li></ul> |
+| [!DNL Adobe Journey Optimizer] | October 12, 2026 | [[!DNL Journey Optimizer] release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>Stop action journey activity: remove a profile from up to five inbound activities or experiences without ending its journey (October 12)</li><li>On-demand journey validation (October 9)</li><li>Business Performance Analysis skill in [!DNL CX Enterprise Coworker] (October 7)</li><li>Custom Outbound Channel (GA): integrate HTTP-based messaging channels like WeChat or Kakao Talk, with Decisioning, business rules, and API-triggered campaign support</li><li>Performance settings in Loyalty configurations: select loyalty datasets and a priority KPI (October 1)</li></ul> |
 | [!DNL Adobe Customer Journey Analytics] | October 8, 2026 | [Customer Journey Analytics release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest?lang=en#releases){target="_blank"} | <ul><li>Conversation Insights for analyzing LLM customer experiences in Analysis Workspace</li><li>Read-only permission for the Customer Journey Analytics MCP server</li><li>Upgrade and implementation skills now available in [!DNL CX Enterprise Coworker]</li><li>Consent policy filtering and reporting on visitors matching Experience Platform consent policies</li><li>Sub-event analysis (segment on individual containers within an event)</li></ul> |
 | [!DNL Adobe Commerce] as a Cloud Service | October 7, 2026 | [Adobe Commerce as a Cloud Service release notes](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes){target="_blank"} | <ul><li>Company details now available in the shipping rates webhook to determine shipping eligibility</li><li>New REST API endpoints for managing catalog price rules</li><li>reCAPTCHA protection for presigned file uploads</li><li>REST API support for custom attributes on return items</li><li>Option to prevent unauthenticated guests from registering companies</li><li>Scheduled activation and expiration times for catalog price rules</li><li>Order audit: filter orders by original_number via GraphQL</li></ul> |
 | [!DNL Adobe Analytics] | October 6, 2026 | [[!DNL Analytics] release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest){target="_blank"} | <ul><li>Read-only permission for the [!DNL Adobe Analytics] MCP server</li><li>Open a visualization in Analysis Workspace directly from [!DNL Coworker Chat]</li><li>[!DNL Coworker Chat] root-cause analysis explains why a metric changed, not just what changed</li><li>Analyze [!DNL Adobe Analytics] data in [!DNL Coworker Chat] using natural-language prompts</li><li>Limit segments to the reporting date range (for Visitor top-level containers)</li></ul> |
@@ -84,7 +84,7 @@ Last update: **October 12, 2026**
 
 ## [!DNL CX Enterprise Coworker] and AI resources {#ai}
 
-Find the latest learning resources published for [!DNL Coworker] and AI features in [!DNL CX Enterprise] applications. 
+Find the latest learning resources published for [[!DNL Coworker]](https://experienceleague.adobe.com/en/docs/coworker/content/home) and AI features in [!DNL CX Enterprise] applications. 
 
 | Application | Update | Description | Updated |
 | ------- | ------- | ------- | ------- |
