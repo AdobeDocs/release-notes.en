@@ -2,7 +2,7 @@
 title: Adobe System Status Release Notes
 description: Release history for Adobe System Status (status.adobe.com).
 doc-type: release notes
-last-update: October 2026
+last-update: November 2026
 author: mfrei
 ---
 
@@ -14,6 +14,8 @@ This page tracks [!DNL Adobe System Status] updates over time. It's updated only
 
 | Date | Updates |
 | ------- | ------- |
+| September 16, 2026 | <ul><li>Context in AI Virtual Assistant: supports context between consecutive prompts for more efficient conversations</li><li>Default Home, Cloud, and Product pages: events are now defaulted based on your entitlements and subscriptions; toggle between **All** and **My Events** to see other events</li><li>Status MCP (beta): connect Status APIs directly to AI agents and LLMs through Model Context Protocol (MCP); to join the customer beta, email statuscom-adobe-support@adobe.com</li></ul> |
+| June 4, 2026 | <ul><li>AI Virtual Assistant general availability: faster, conversational access to event and subscription information on web and mobile</li><li>Microsoft Teams notifications: post ongoing events for a subscription to a Teams channel when you create or edit the subscription</li><li>Add to calendar from subscription emails (Outlook and other calendars) for upcoming maintenance and events</li><li>Accessibility fixes and other improvements</li></ul> |
 | March 2026 | <ul><li>AI Virtual Assistant beta</li><li>Bug fixes and improvements</li></ul> |
 | December 8, 2025 | <ul><li>Virtual Assistant feedback enhancements (streamlined guided workflows, intuitive icons)</li><li>Bug fixes and improvements</li></ul> |
 | July 16, 2025 | <ul><li>Virtual Assistant general availability</li><li>Event ID search on Product and Cloud pages, and in Virtual Assistant</li><li>Slack notification setup update</li><li>Bug fixes and improvements</li></ul> |
