@@ -140,9 +140,7 @@ Links to the latest tutorials and [Support](https://experienceleague.adobe.com/s
 
 [!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. View status updates at [status.adobe.com](https://status.adobe.com/){target="_blank"}.
 
-<!-- 
-[internal](https://wiki.corp.adobe.com/spaces/AdobeStatus/pages/2821708019/Product+priority+update+-+release+notes) 
--->
+For cumulative release notes, see [Adobe System Status release notes](system-status-release-notes.md).
 
 ### [!DNL Adobe Experience Platform] - latest resources {#tutorials-aep}
 

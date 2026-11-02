@@ -12,6 +12,10 @@ author: mfrei
 
 This page tracks [!DNL Adobe System Status] updates over time. It's updated only when there's a new release to report.
 
+<!-- 
+[internal](https://wiki.corp.adobe.com/pages/viewpage.action?pageId=2821708019&spaceKey=AdobeStatus&title=Product%2Bpriority%2Bupdate%2B-%2Brelease%2Bnotes) 
+-->
+
 | Date | Updates |
 | ------- | ------- |
 | September 16, 2026 | <ul><li>Context in AI Virtual Assistant: supports context between consecutive prompts for more efficient conversations</li><li>Default Home, Cloud, and Product pages: events are now defaulted based on your entitlements and subscriptions; toggle between **All** and **My Events** to see other events</li><li>Status MCP (beta): connect Status APIs directly to AI agents and LLMs through Model Context Protocol (MCP); to join the customer beta, email statuscom-adobe-support@adobe.com</li></ul> |
