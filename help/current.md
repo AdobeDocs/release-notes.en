@@ -29,38 +29,38 @@ Last update: **November 2, 2026**
 
 | Application | Release date | Release notes URL | Updates |
 | ------------- | ------------- | ------------- | ------------- |
-| [!DNL Adobe Journey Optimizer] | October 29, 2026 | [[!DNL Journey Optimizer] release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>Unified calendar for Campaigns, Journeys, and Orchestrated campaigns (Limited Availability) (October 29)</li><li>Custom metadata for campaigns and journeys: up to 10 custom business fields per entity type (Limited Availability) (October 29)</li><li>New journey alerts for bounce and delivery error rates, Read Audience exports, and event delays (Limited Availability) (October 29)</li><li>Override email channel configuration settings (From name, Reply-To) at the journey or campaign action level; self-serve setup for High throughput email (October 28)</li><li>Journey Execution Timeline skill in [!DNL CX Enterprise Coworker] (October 26)</li></ul> |
-| [!DNL Adobe Customer Journey Analytics] | October 29, 2026 | [Customer Journey Analytics release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest?lang=en#releases){target="_blank"} | <ul><li>In-product experience for Coworker: chat panel in Analysis Workspace that uses the open project as context (October 29)</li><li>Automatically generate descriptions for components and projects (October 29; GA November 18)</li><li>Adobe Brand Visibility integration to measure how AI-driven discovery drives site engagement (October 29)</li><li>Journey canvas: Compare percentages option shows percentage-point changes for nodes, arrows, and fallout versus a prior period (October 19)</li><li>Conversation Insights for analyzing LLM customer experiences in Analysis Workspace</li></ul> |
-| [!DNL Adobe Analytics] | October 29, 2026 | [[!DNL Analytics] release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest){target="_blank"} | <ul><li>Concise legend labels in visualizations (October 29)</li><li>Automatically generate descriptions for components and projects (October 29; GA November 18)</li><li>[!DNL Coworker Chat]: advanced analysis, root-cause analysis for metric changes, and opening visualizations in Analysis Workspace (October 29)</li><li>[!DNL CX Enterprise Coworker] can migrate [!DNL Adobe Analytics] projects and components to Customer Journey Analytics (October 26)</li><li>Classification data improvements in Data Warehouse reports, including blanks for deleted values (October 14)</li></ul> |
-| [!DNL Adobe Experience Manager] as a Cloud Service | October 29, 2026 | [Current Release Notes for Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current){target="_blank"} | <ul><li>Feature release 2026.10.0 now current; 2026.11.0 planned for November 19, 2026</li><li>AEM Cloud Service SDK supports the Java 25 runtime for local development (October 29)</li><li>Assets: multilingual captions and audio tracks, AI-generated captions, branded video viewer; Content Hub gains AI Search and Smart Collections</li><li>AEM Governance Agent prioritizes vulnerability findings; [!DNL CX Enterprise Coworker] can inspect workflows and investigate Dispatcher behavior</li><li>Forms: Table component for Adaptive Forms, new document conversion APIs, and virus scanning for file attachments</li><li>OpenTelemetry for APM in Limited Availability (October 19)</li></ul> |
-| [!DNL Adobe Commerce] as a Cloud Service | October 28, 2026 | [Adobe Commerce as a Cloud Service release notes](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes){target="_blank"} | <ul><li>Webhook to add or change template variables in order comment emails before they render (October 28)</li><li>Export approved product review counts and average ratings to Catalog Service as system attributes (October 28)</li><li>Optional refund of credit memos to store credit through the REST endpoint, with two new Admin permissions (October 28)</li><li>Adobe I/O Events to send transactional emails from a third-party platform (company assignment, in-store pickup readiness, purchase order rejection) (October 28)</li><li>REST endpoints to manage custom country regions, and new stockAvailability GraphQL query for up to 100 SKUs (October 20)</li><li>Subscribe to customer address create, update, and delete events through Adobe I/O Events (October 20)</li></ul> |
+| [!DNL Adobe Journey Optimizer]<br>[Tutorials and articles](#tutorials-ajo) | October 29, 2026 | [[!DNL Journey Optimizer] release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>Unified calendar for Campaigns, Journeys, and Orchestrated campaigns (Limited Availability) (October 29)</li><li>Custom metadata for campaigns and journeys: up to 10 custom business fields per entity type (Limited Availability) (October 29)</li><li>New journey alerts for bounce and delivery error rates, Read Audience exports, and event delays (Limited Availability) (October 29)</li><li>Override email channel configuration settings (From name, Reply-To) at the journey or campaign action level; self-serve setup for High throughput email (October 28)</li><li>Journey Execution Timeline skill in [!DNL CX Enterprise Coworker] (October 26)</li></ul> |
+| [!DNL Adobe Customer Journey Analytics]<br>[Tutorials and articles](#tutorials-cja) | October 29, 2026 | [Customer Journey Analytics release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest?lang=en#releases){target="_blank"} | <ul><li>In-product experience for Coworker: chat panel in Analysis Workspace that uses the open project as context (October 29)</li><li>Automatically generate descriptions for components and projects (October 29; GA November 18)</li><li>Adobe Brand Visibility integration to measure how AI-driven discovery drives site engagement (October 29)</li><li>Journey canvas: Compare percentages option shows percentage-point changes for nodes, arrows, and fallout versus a prior period (October 19)</li><li>Conversation Insights for analyzing LLM customer experiences in Analysis Workspace</li></ul> |
+| [!DNL Adobe Analytics]<br>[Tutorials and articles](#tutorials-analytics) | October 29, 2026 | [[!DNL Analytics] release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest){target="_blank"} | <ul><li>Concise legend labels in visualizations (October 29)</li><li>Automatically generate descriptions for components and projects (October 29; GA November 18)</li><li>[!DNL Coworker Chat]: advanced analysis, root-cause analysis for metric changes, and opening visualizations in Analysis Workspace (October 29)</li><li>[!DNL CX Enterprise Coworker] can migrate [!DNL Adobe Analytics] projects and components to Customer Journey Analytics (October 26)</li><li>Classification data improvements in Data Warehouse reports, including blanks for deleted values (October 14)</li></ul> |
+| [!DNL Adobe Experience Manager] as a Cloud Service<br>[Tutorials and articles](#tutorials-aem) | October 29, 2026 | [Current Release Notes for Adobe Experience Manager as a Cloud Service](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current){target="_blank"} | <ul><li>Feature release 2026.10.0 now current; 2026.11.0 planned for November 19, 2026</li><li>AEM Cloud Service SDK supports the Java 25 runtime for local development (October 29)</li><li>Assets: multilingual captions and audio tracks, AI-generated captions, branded video viewer; Content Hub gains AI Search and Smart Collections</li><li>AEM Governance Agent prioritizes vulnerability findings; [!DNL CX Enterprise Coworker] can inspect workflows and investigate Dispatcher behavior</li><li>Forms: Table component for Adaptive Forms, new document conversion APIs, and virus scanning for file attachments</li><li>OpenTelemetry for APM in Limited Availability (October 19)</li></ul> |
+| [!DNL Adobe Commerce] as a Cloud Service<br>[Tutorials and articles](#tutorials-commerce) | October 28, 2026 | [Adobe Commerce as a Cloud Service release notes](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes){target="_blank"} | <ul><li>Webhook to add or change template variables in order comment emails before they render (October 28)</li><li>Export approved product review counts and average ratings to Catalog Service as system attributes (October 28)</li><li>Optional refund of credit memos to store credit through the REST endpoint, with two new Admin permissions (October 28)</li><li>Adobe I/O Events to send transactional emails from a third-party platform (company assignment, in-store pickup readiness, purchase order rejection) (October 28)</li><li>REST endpoints to manage custom country regions, and new stockAvailability GraphQL query for up to 100 SKUs (October 20)</li><li>Subscribe to customer address create, update, and delete events through Adobe I/O Events (October 20)</li></ul> |
 | [!DNL CX Enterprise Coworker] | October 28, 2026 | [[!DNL CX Enterprise Coworker] release notes](https://experienceleague.adobe.com/en/docs/coworker/content/more-resources/release-notes){target="_blank"} | <ul><li>[!DNL Coworker Chat]: feature enhancements and fixes, listed in the [!DNL Experience Platform] release notes</li><li>[!DNL Coworker] for teams: feature enhancements and fixes, delivered continuously</li><li>Links to the [!DNL CX Enterprise] central release notes</li></ul> |
-| [!DNL Adobe Experience Platform and Real-Time CDP] | October 27, 2026 | [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest){target="_blank"} | <ul><li>[!DNL CX Enterprise Coworker]: anomaly detection skills (limited availability) and notification skills; Coworker available in Microsoft 365 Copilot, ChatGPT, and Claude</li><li>Destinations: 6sense Account (beta), The Trade Desk Third-Party Audiences, new UID2 conversion namespaces for The Trade Desk - CRM, and When to activate generally available</li><li>Real-Time Customer Profile: support for unstructured data (beta)</li><li>Destinations: Data Landing Zone supports manual deletion of exported files for Azure and AWS</li><li>Sources: Azure Event Hubs virtual network allowlisting deprecated</li></ul> |
+| [!DNL Adobe Experience Platform and Real-Time CDP]<br>[Tutorials and articles](#tutorials-aep) | October 27, 2026 | [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest){target="_blank"} | <ul><li>[!DNL CX Enterprise Coworker]: anomaly detection skills (limited availability) and notification skills; Coworker available in Microsoft 365 Copilot, ChatGPT, and Claude</li><li>Destinations: 6sense Account (beta), The Trade Desk Third-Party Audiences, new UID2 conversion namespaces for The Trade Desk - CRM, and When to activate generally available</li><li>Real-Time Customer Profile: support for unstructured data (beta)</li><li>Destinations: Data Landing Zone supports manual deletion of exported files for Azure and AWS</li><li>Sources: Azure Event Hubs virtual network allowlisting deprecated</li></ul> |
 | Adobe Advertising | Search, Social, &amp; Commerce: October 26, 2026<br>DSP: August 14, 2026<br>Creative: July 1, 2026 | <ul><li>[What's new in Search, Social, & Commerce](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/home){target="_blank"}</li><li>[What's new in DSP](https://experienceleague.adobe.com/en/docs/advertising/dsp/home){target="_blank"}</li><li>[What's new in Creative](https://experienceleague.adobe.com/en/docs/advertising/creative/home){target="_blank"}</li></ul> | <ul><li>Search, Social, &amp; Commerce: campaign-level brand inclusions, brand exclusions, and URL inclusions (and ad group-level URL inclusions) for Google Ads campaigns with AI Max, with bulksheet support</li><li>Search, Social, &amp; Commerce: ChatGPT Ads support (Beta)</li><li>Search, Social, &amp; Commerce: Google AI Max Search Term Combination Report adds conversions by conversion action</li><li>DSP: Self-Attributed Conversions report</li><li>DSP: Creative Studio with generative AI (Beta) and Brand Profiles; postal code targeting lists</li><li>Creative: Creative Studio with AI and Brand Profiles for generating display ads</li><li>Creative: variant and branch-level performance in Adobe Analytics; VAST-compliant video ads from feed-based templates</li></ul> |
-| [!DNL Adobe Brand Visibility] (formerly [!DNL Adobe LLM Optimizer]) | October 24, 2026 | [Brand Visibility release notes](https://abv.adobe.com/articles/release-notes){target="_blank"} | <ul><li>Prompt Library: custom tags (paying customers) to sort large prompt libraries by your own categories</li><li>Opportunity Workspace: notification with a link to results when an experiment finishes</li><li>AI Visibility: choose individual prompts to add when tracking a topic</li><li>Brand Claims: search claim text in the All Claims list</li><li>Prompt Library: more reliable status for imports, writes, and deletions</li><li>General availability: AI visibility measurement, optimization, and impact tracking unified in Brand Visibility (rebranded from LLM Optimizer)</li></ul> |
-| [!DNL Adobe Target] | October 15, 2026 | [[!DNL Adobe Target] release notes](https://experienceleague.adobe.com/en/docs/target/using/release-notes/release-notes){target="_blank"} | <ul><li>26.10.2: fixed goal settings shown incorrectly in the Activity Overview, backup recommendations created after promotion edits, and reporting presets deleted after about two weeks; added Safari support (not supported in the Visual Experience Composer or Enhanced Experience Composer)</li><li>26.10.1: fixed A4T reporting error with newly added report suites and raw HTML appearing instead of the offer name for Experience Fragments in the Visual Experience Composer</li><li>26.9.8: Sample Size Calculator (beta) to plan experiments by estimating traffic, duration, and minimum detectable effect</li><li>26.9.8: AI Insights (beta) for A/B Test (Manual) activities</li><li>26.9.8: fixed issue preventing users from granting AI permissions</li></ul> |
-| [!DNL Adobe Campaign Classic] v7 | October 15, 2026 | [[!DNL Campaign Classic] release notes](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release){target="_blank"} | <ul><li>7.4.5 (build 9420, October 15): fixes for Analytics external account "Gone" error, deliveries stuck in personalization pending, high CPU from a locking loop, false "Spam check failed" error, and recipients not quarantined after soft bounces</li><li>Security updates for critical vulnerabilities (7.4.4, build 9403, October 15; restart of nlserver required)</li><li>Security updates for critical vulnerabilities (v7.4.3, build 9401, August 25)</li><li>Adobe Analytics connector migrated to the Analytics 2.0 API (build 9400, August 11)</li></ul> |
-| [!DNL Adobe Experience Manager] [!DNL Cloud Manager] | October 1, 2026 | [Experience Manager Cloud Manager release notes](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/release-notes/current){target="_blank"} | <ul><li>2026.10.0: stabilized the intermittently failing SSL configuration check in the post-deployment security test</li><li>Web Tier Pipelines for AEM Managed Services (Beta)</li><li>Improved build performance with Smart Build module-level caching</li><li>Customer-managed keys (CMK) self-service</li></ul> |
-| [!DNL Adobe Marketo Engage] | September 25, 2026 | [Marketo Engage current release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current){target="_blank"} | <ul><li>[!DNL Marketo Engage] new UI: refreshed menus, icons, and layout</li><li>Select Partition on Import for workspace-enabled environments</li><li>Instant alert on CRM sync status changes for subscribed admins</li><li>Self-Service Flow Steps callback timeout increased from 1 hour to 4 hours</li><li>Email Designer: drag-and-drop table content type</li></ul> |
-| [!DNL Adobe Campaign] Web user interface | September 22, 2026 | [Campaign Web UI release notes](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | <ul><li>LINE channel support: create and send LINE messages in standalone deliveries or workflows</li><li>Budget and delivery-start approval types</li><li>SMS deliveries now support visitor-based targeting</li><li>External database enrichment in Enrichment and Build audience activities</li><li>Administrators can restrict specific side navigation menu entries</li></ul> |
-| [!DNL Adobe System Status] | September 16, 2026 | [Adobe System Status release notes](system-status-release-notes.md) | <ul><li>Context in AI Virtual Assistant for consecutive prompts</li><li>Default Home, Cloud, and Product pages based on your entitlements and subscriptions (toggle between **All** and **My Events**)</li><li>Status MCP (beta): connect Status APIs to AI agents and LLMs through Model Context Protocol</li><li>AI Virtual Assistant general availability (June 4)</li><li>Microsoft Teams notifications for Status subscriptions (June 4)</li></ul> |
-| [!DNL Adobe GenStudio for Performance Marketing] | September 15, 2026 | [GenStudio for Performance Marketing release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"} | <ul><li>Bulk activation: publish multiple approved experiences across paid ad channels ([!DNL Meta], [!DNL LinkedIn], Google Campaign Manager 360, Amazon Ads, Innovid, [!DNL TikTok], [!DNL YouTube], ChatGPT, The Trade Desk) from a single activation table</li><li>Bulk editing on the Horizon canvas (linked text/image fields propagate edits across sizes and pages)</li><li>Display ad activation to The Trade Desk</li><li>Content fragment swap: replace text blocks with pre-approved, reusable content fragments from AEM</li></ul> |
-| [!DNL Adobe Commerce Optimizer] | September 9, 2026 | [Adobe Commerce Optimizer release notes](https://experienceleague.adobe.com/en/docs/commerce/optimizer/release-notes){target="_blank"} | <ul><li>Multi-value HTTP header trigger policies (match multiple comma-separated values in a single header)</li><li>Attribute Ranking (Beta): automatically Boost, Bury, or Hide every product that matches attribute conditions</li><li>New [!DNL externalIds] field in Catalog Service GraphQL exposing a product's originating external data source</li><li>Semantic search (AI-powered) in the Advanced search tab, enabled by default for eligible English catalogs</li><li>Recommendation price filters (beta) for product recommendation units</li></ul> |
+| [!DNL Adobe Brand Visibility] (formerly [!DNL Adobe LLM Optimizer])<br>[Tutorials and articles](#tutorials-llm-optimizer) | October 24, 2026 | [Brand Visibility release notes](https://abv.adobe.com/articles/release-notes){target="_blank"} | <ul><li>Prompt Library: custom tags (paying customers) to sort large prompt libraries by your own categories</li><li>Opportunity Workspace: notification with a link to results when an experiment finishes</li><li>AI Visibility: choose individual prompts to add when tracking a topic</li><li>Brand Claims: search claim text in the All Claims list</li><li>Prompt Library: more reliable status for imports, writes, and deletions</li><li>General availability: AI visibility measurement, optimization, and impact tracking unified in Brand Visibility (rebranded from LLM Optimizer)</li></ul> |
+| [!DNL Adobe Workfront]<br>[Tutorials and articles](#tutorials-workfront) | October 22, 2026 (Q4 2026) | [Adobe Workfront product releases](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"} | <ul><li>[!DNL CX Enterprise Coworker] replaces the AI Assistant as the conversational interface for working in [!DNL Workfront] and connected Adobe systems (phased rollout from October 22)</li><li>Group multiple documents into a single approval workflow</li><li>Workfront MCP server toolsets: limit the MCP catalog to specific toolsets and filter by product entitlement</li><li>Canvas Dashboards open beta for instances on Google Cloud Platform and Azure</li><li>Rate attribute hierarchies stay connected automatically (Workflow Ultimate)</li></ul> |
+| [!DNL Adobe Target]<br>[Tutorials and articles](#tutorials-target) | October 15, 2026 | [[!DNL Adobe Target] release notes](https://experienceleague.adobe.com/en/docs/target/using/release-notes/release-notes){target="_blank"} | <ul><li>26.10.2: fixed goal settings shown incorrectly in the Activity Overview, backup recommendations created after promotion edits, and reporting presets deleted after about two weeks; added Safari support (not supported in the Visual Experience Composer or Enhanced Experience Composer)</li><li>26.10.1: fixed A4T reporting error with newly added report suites and raw HTML appearing instead of the offer name for Experience Fragments in the Visual Experience Composer</li><li>26.9.8: Sample Size Calculator (beta) to plan experiments by estimating traffic, duration, and minimum detectable effect</li><li>26.9.8: AI Insights (beta) for A/B Test (Manual) activities</li><li>26.9.8: fixed issue preventing users from granting AI permissions</li></ul> |
+| [!DNL Adobe Campaign Classic] v7<br>[Tutorials and articles](#tutorials-campaign) | October 15, 2026 | [[!DNL Campaign Classic] release notes](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release){target="_blank"} | <ul><li>7.4.5 (build 9420, October 15): fixes for Analytics external account "Gone" error, deliveries stuck in personalization pending, high CPU from a locking loop, false "Spam check failed" error, and recipients not quarantined after soft bounces</li><li>Security updates for critical vulnerabilities (7.4.4, build 9403, October 15; restart of nlserver required)</li><li>Security updates for critical vulnerabilities (v7.4.3, build 9401, August 25)</li><li>Adobe Analytics connector migrated to the Analytics 2.0 API (build 9400, August 11)</li></ul> |
+| [!DNL Adobe Experience Manager] [!DNL Cloud Manager]<br>[Tutorials and articles](#tutorials-aem) | October 1, 2026 | [Experience Manager Cloud Manager release notes](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-manager/content/release-notes/current){target="_blank"} | <ul><li>2026.10.0: stabilized the intermittently failing SSL configuration check in the post-deployment security test</li><li>Web Tier Pipelines for AEM Managed Services (Beta)</li><li>Improved build performance with Smart Build module-level caching</li><li>Customer-managed keys (CMK) self-service</li></ul> |
+| [!DNL Adobe Marketo Engage]<br>[Tutorials and articles](#tutorials-marketo) | September 25, 2026 | [Marketo Engage current release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current){target="_blank"} | <ul><li>[!DNL Marketo Engage] new UI: refreshed menus, icons, and layout</li><li>Select Partition on Import for workspace-enabled environments</li><li>Instant alert on CRM sync status changes for subscribed admins</li><li>Self-Service Flow Steps callback timeout increased from 1 hour to 4 hours</li><li>Email Designer: drag-and-drop table content type</li></ul> |
+| [!DNL Adobe Campaign] Web user interface<br>[Tutorials and articles](#tutorials-campaign) | September 22, 2026 | [Campaign Web UI release notes](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes){target="_blank"} | <ul><li>LINE channel support: create and send LINE messages in standalone deliveries or workflows</li><li>Budget and delivery-start approval types</li><li>SMS deliveries now support visitor-based targeting</li><li>External database enrichment in Enrichment and Build audience activities</li><li>Administrators can restrict specific side navigation menu entries</li></ul> |
+| [!DNL Adobe System Status]<br>[Tutorials and articles](#status) | September 16, 2026 | [Adobe System Status release notes](system-status-release-notes.md) | <ul><li>Context in AI Virtual Assistant for consecutive prompts</li><li>Default Home, Cloud, and Product pages based on your entitlements and subscriptions (toggle between **All** and **My Events**)</li><li>Status MCP (beta): connect Status APIs to AI agents and LLMs through Model Context Protocol</li><li>AI Virtual Assistant general availability (June 4)</li><li>Microsoft Teams notifications for Status subscriptions (June 4)</li></ul> |
+| [!DNL Adobe GenStudio for Performance Marketing]<br>[Tutorials and articles](#tutorials-genstudio-marketing) | September 15, 2026 | [GenStudio for Performance Marketing release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"} | <ul><li>Bulk activation: publish multiple approved experiences across paid ad channels ([!DNL Meta], [!DNL LinkedIn], Google Campaign Manager 360, Amazon Ads, Innovid, [!DNL TikTok], [!DNL YouTube], ChatGPT, The Trade Desk) from a single activation table</li><li>Bulk editing on the Horizon canvas (linked text/image fields propagate edits across sizes and pages)</li><li>Display ad activation to The Trade Desk</li><li>Content fragment swap: replace text blocks with pre-approved, reusable content fragments from AEM</li></ul> |
+| [!DNL Adobe Commerce Optimizer]<br>[Tutorials and articles](#tutorials-commerce) | September 9, 2026 | [Adobe Commerce Optimizer release notes](https://experienceleague.adobe.com/en/docs/commerce/optimizer/release-notes){target="_blank"} | <ul><li>Multi-value HTTP header trigger policies (match multiple comma-separated values in a single header)</li><li>Attribute Ranking (Beta): automatically Boost, Bury, or Hide every product that matches attribute conditions</li><li>New [!DNL externalIds] field in Catalog Service GraphQL exposing a product's originating external data source</li><li>Semantic search (AI-powered) in the Advanced search tab, enabled by default for eligible English catalogs</li><li>Recommendation price filters (beta) for product recommendation units</li></ul> |
 | [!DNL Experience Platform] Mobile SDK | July 16, 2026 | [[!DNL Experience Platform] Mobile SDK release notes](https://developer.adobe.com/client-sdks/home/release-notes/){target="_blank"} | <ul><li>React Native Optimize 7.2.0: React Native Turbo Module support</li><li>iOS EdgeIdentity 5.1.0: sync timeZone profile attribute to Edge (requires AEPCore 5.10.0+)</li><li>iOS Core 5.10.0: new updateProfileAttributes API</li><li>Android Core 3.8.0: Update Profile Attributes API for timeZone sync</li><li>Android BOM 3.20.0: updated Core, EdgeIdentity, and Optimize extensions</li></ul> |
 | [!DNL CX Enterprise] | July 10, 2026 | [[!DNL CX Enterprise] central UI & administration](https://experienceleague.adobe.com/en/docs/core-services/interface/more-resources/release-notes){target="_blank"} | <ul><li>[!DNL CX Enterprise] support for Federated Guest accounts (July 10)</li><li>[!DNL CX Enterprise Coworker]: agentic AI application for CX workflows (June 11)</li><li>Agentic AI usage monitoring dashboards (June 1)</li><li>Adobe [!DNL CX Enterprise] interface refresh (dark mode, improved accessibility) (April 20)</li></ul> |
-| [!DNL Adobe Journey Optimizer B2B Edition] | July 10, 2026 | [Journey Optimizer B2B Edition release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes){target="_blank"} | <ul><li>Split path journey nodes with variants (Beta) for A/B testing</li><li>Enhanced "Listen for an event" nodes supporting multiple triggers</li><li>New people actions: add to/remove from Person journey</li><li>Landing pages and forms for journeys (General Availability)</li><li>Email performance dashboard launch</li></ul> |
-| [!DNL Adobe Commerce] | Ongoing releases | [Release notes for Adobe Commerce and Magento Open Source](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/adobe-commerce/2-4-9){target="_blank"} | <ul><li>REST API product gallery inheritance control at store view level</li><li>clearCart GraphQL mutation now available to Open Source</li><li>PHP 8.5 support added; PHP 8.2 support removed</li><li>CAPTCHA validation enforced for REST and GraphQL APIs</li><li>USPS integration migrated to RESTful APIs with OAuth 2.0</li><li>MariaDB 11.8/12.x and OpenSearch 3.x support</li></ul> |
-| [!DNL Adobe Workfront] | Q3 2026 | [Adobe Workfront product releases](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/release-26-q3/26-q3-release-overview){target="_blank"} | <ul><li>Standalone Adobe Workfront Planning product for new customers</li><li>Adobe Cloud Drive desktop app (Workflow Ultimate)</li><li>Parallel approval paths for documents (up to 30 tracks)</li><li>Workfront MCP Server for AI agent integration</li><li>Rate card template integration (Workflow Ultimate)</li></ul> |
-| [!DNL Adobe Workfront Fusion] | June 2026 | [Adobe Workfront Fusion release activity](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/fusion-release-activity/fusion-releases-2026/fusion-2026-6-1){target="_blank"} | <ul><li>Retrigger specific scenario executions</li><li>Updates to Run Once functionality</li></ul> |
-| [!DNL Adobe Experience Manager] 6.5 | May 21, 2026 | [[!DNL Experience Manager] 6.5 Service Pack release notes](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes){target="_blank"} | <ul><li>6.5.25.0: 275 back-ports across Sites, Assets, and Foundation</li><li>Crosswalk available by default</li><li>Extensive keyboard navigation, focus management, and other accessibility improvements</li><li>Content Fragments and GraphQL API reliability improvements</li><li>Security back-ports</li></ul> |
+| [!DNL Adobe Journey Optimizer B2B Edition]<br>[Tutorials and articles](#tutorials-ajo-b2b) | July 10, 2026 | [Journey Optimizer B2B Edition release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes){target="_blank"} | <ul><li>Split path journey nodes with variants (Beta) for A/B testing</li><li>Enhanced "Listen for an event" nodes supporting multiple triggers</li><li>New people actions: add to/remove from Person journey</li><li>Landing pages and forms for journeys (General Availability)</li><li>Email performance dashboard launch</li></ul> |
+| [!DNL Adobe Commerce]<br>[Tutorials and articles](#tutorials-commerce) | Ongoing releases | [Release notes for Adobe Commerce and Magento Open Source](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/adobe-commerce/2-4-9){target="_blank"} | <ul><li>REST API product gallery inheritance control at store view level</li><li>clearCart GraphQL mutation now available to Open Source</li><li>PHP 8.5 support added; PHP 8.2 support removed</li><li>CAPTCHA validation enforced for REST and GraphQL APIs</li><li>USPS integration migrated to RESTful APIs with OAuth 2.0</li><li>MariaDB 11.8/12.x and OpenSearch 3.x support</li></ul> |
+| [!DNL Adobe Workfront Fusion]<br>[Tutorials and articles](#tutorials-workfront) | June 2026 | [Adobe Workfront Fusion release activity](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/fusion-release-activity/fusion-releases-2026/fusion-2026-6-1){target="_blank"} | <ul><li>Retrigger specific scenario executions</li><li>Updates to Run Once functionality</li></ul> |
+| [!DNL Adobe Experience Manager] 6.5<br>[Tutorials and articles](#tutorials-aem) | May 21, 2026 | [[!DNL Experience Manager] 6.5 Service Pack release notes](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes){target="_blank"} | <ul><li>6.5.25.0: 275 back-ports across Sites, Assets, and Foundation</li><li>Crosswalk available by default</li><li>Extensive keyboard navigation, focus management, and other accessibility improvements</li><li>Content Fragments and GraphQL API reliability improvements</li><li>Security back-ports</li></ul> |
 | [!DNL Experience Manager] Desktop App | May 13, 2026 | [[!DNL Experience Manager] Desktop App release notes](https://experienceleague.adobe.com/en/docs/experience-manager-desktop-app/using/release-notes){target="_blank"} | <ul><li>Bug fixes for overall stability and performance (v3.0.2)</li></ul> |
-| [!DNL Adobe Pass] | May 2026 (3.7.0.2) | [Adobe Pass 3.7.0 release notes](https://experienceleague.adobe.com/en/docs/pass/authentication/product-releases/2026/auth-rn-370){target="_blank"} | <ul><li>PKCE support for OAuth2-based MVPD authentication</li><li>TVE Dashboard 1.5.1</li><li>Apple SSO configuration mismatch fix</li><li>HTTP 500 authorization-deny fix</li></ul> |
+| [!DNL Adobe Pass]<br>[Tutorials and articles](#tutorials-pass) | May 2026 (3.7.0.2) | [Adobe Pass 3.7.0 release notes](https://experienceleague.adobe.com/en/docs/pass/authentication/product-releases/2026/auth-rn-370){target="_blank"} | <ul><li>PKCE support for OAuth2-based MVPD authentication</li><li>TVE Dashboard 1.5.1</li><li>Apple SSO configuration mismatch fix</li><li>HTTP 500 authorization-deny fix</li></ul> |
 | [!DNL Experience Manager] Assets Dynamic Media | May 9, 2026 | [[!DNL Experience Manager] Assets Dynamic Media release notes](https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/release-notes/s7rn2017){target="_blank"} | <ul><li>HTTP/2 delivery of content</li><li>Authentication added to Scene7 servlets</li><li>FTP WebAdmin OKTA authentication support</li><li>Experience Cloud Org ID support for Viewer Analytics</li><li>Keyboard accessibility in HTML5 viewers (Image Serving 5.8.1)</li></ul> |
-| [!DNL Adobe Brand Concierge] | May 8, 2026 | [Brand Concierge release notes](https://experienceleague.adobe.com/en/docs/brand-concierge/content/release-notes/current){target="_blank"} | <ul><li>Brand Concierge Integration with Real-Time CDP</li><li>Self-Serve Tuning Enhancement</li><li>Context-Aware Product Recommendation</li><li>Side-by-Side Comparison</li><li>Support Agent (Troubleshooting and How-To Guidance)</li></ul> |
-| [!DNL Adobe Campaign] v8 | May 3, 2026 | [[!DNL Campaign] v8 release notes](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes){target="_blank"} | <ul><li>Debian 13 and PostgreSQL 17 upgrades</li><li>Fixed server crash and email pipeline memory issues</li><li>Resolved tracking workflow and typology rule failures</li><li>30+ stability and security fixes</li></ul> |
-| [!DNL Adobe Campaign Standard] | April 24, 2026 (26.2) | [[!DNL Campaign Standard] release notes](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes){target="_blank"} | <ul><li>Debian 13 and PostgreSQL 17 upgrades</li><li>Enhanced Dynamic Reporting reliability</li><li>Strengthened IMS authentication</li><li>Encrypted password-type fields in Options</li><li>Fixed AEM content retrieval errors</li></ul> |
+| [!DNL Adobe Brand Concierge]<br>[Tutorials and articles](#tutorials-brand-concierge) | May 8, 2026 | [Brand Concierge release notes](https://experienceleague.adobe.com/en/docs/brand-concierge/content/release-notes/current){target="_blank"} | <ul><li>Brand Concierge Integration with Real-Time CDP</li><li>Self-Serve Tuning Enhancement</li><li>Context-Aware Product Recommendation</li><li>Side-by-Side Comparison</li><li>Support Agent (Troubleshooting and How-To Guidance)</li></ul> |
+| [!DNL Adobe Campaign] v8<br>[Tutorials and articles](#tutorials-campaign) | May 3, 2026 | [[!DNL Campaign] v8 release notes](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes){target="_blank"} | <ul><li>Debian 13 and PostgreSQL 17 upgrades</li><li>Fixed server crash and email pipeline memory issues</li><li>Resolved tracking workflow and typology rule failures</li><li>30+ stability and security fixes</li></ul> |
+| [!DNL Adobe Campaign Standard]<br>[Tutorials and articles](#tutorials-campaign) | April 24, 2026 (26.2) | [[!DNL Campaign Standard] release notes](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes){target="_blank"} | <ul><li>Debian 13 and PostgreSQL 17 upgrades</li><li>Enhanced Dynamic Reporting reliability</li><li>Strengthened IMS authentication</li><li>Encrypted password-type fields in Options</li><li>Fixed AEM content retrieval errors</li></ul> |
 | [!DNL Adobe Mix Modeler] | March 30, 2026 | [Mix Modeler release notes](https://experienceleague.adobe.com/en/docs/mix-modeler/using/releases/latest){target="_blank"} | <ul><li>Channel adstock</li></ul> |
-| [!DNL Marketo Engage] [!DNL Dynamic Chat] | March 2026 | [Dynamic Chat release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/dynamic-chat){target="_blank"} | <ul><li>Visitor wait time limit</li><li>Download transcript</li><li>Routing Logic Revamp</li></ul> |
+| [!DNL Marketo Engage] [!DNL Dynamic Chat]<br>[Tutorials and articles](#tutorials-marketo) | March 2026 | [Dynamic Chat release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/dynamic-chat){target="_blank"} | <ul><li>Visitor wait time limit</li><li>Download transcript</li><li>Routing Logic Revamp</li></ul> |
 | [!DNL Experience Manager] [!DNL Brand Portal] | January 1, 2026 | [Experience Manager Brand Portal release notes](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes){target="_blank"} | <ul><li>Reset button for Dynamic Media Configuration</li><li>Sourcing folder validation before publish</li></ul> |
 | [!DNL Experience Manager] [!DNL Dispatcher] | November 20, 2025 | [Experience Manager Dispatcher release notes](https://experienceleague.adobe.com/en/docs/experience-manager-dispatcher/using/getting-started/release-notes){target="_blank"} | <ul><li>/allowedClients control in dispatcher configuration</li><li>stale-while-error handling for 429 responses</li><li>Vanity URL loading optimization</li></ul> |
 | [!DNL Adobe Streaming Media Analytics] | October 7, 2025 | [Streaming Media Analytics release notes](https://experienceleague.adobe.com/en/docs/media-analytics/using/release-notes/release-notes){target="_blank"} | <ul><li>Support schedule data</li></ul> |
@@ -109,7 +109,7 @@ Find the latest learning resources published for [[!DNL Coworker]](https://exper
 
 ## New tutorials and Support articles {#articles}
 
-Links to the latest tutorials and [Support](https://experienceleague.adobe.com/support/v2/en/) articles by application:
+Links to the latest tutorials and [Support](https://experienceleague.adobe.com/support/v2/en/) articles by application. These sections list learning resources. For new features and fixes, go to the [release notes by application](#application-release-notes) or use the release notes link in each section.
 
 * [Adobe [!DNL CX Enterprise Coworker]](#ai)
 * [[!DNL Adobe Experience Platform]](#tutorials-aep) 
@@ -138,15 +138,17 @@ Links to the latest tutorials and [Support](https://experienceleague.adobe.com/s
 
 ### [!DNL Adobe System Status] {#status}
 
-[!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. View status updates at [status.adobe.com](https://status.adobe.com/){target="_blank"}.
+[!DNL Adobe System Status] provides detailed information, status updates, and email notifications about Adobe products and services. Get notified about outages, disruptions, and maintenance events. View status updates at [status.adobe.com](https://status.adobe.com/){target="_blank"}. For new features and fixes, see the [[!DNL Adobe System Status] release notes](system-status-release-notes.md).
 
 For cumulative release notes, see [Adobe System Status release notes](system-status-release-notes.md).
 
 ### [!DNL Adobe Experience Platform] - latest resources {#tutorials-aep}
 
-View the latest video tutorials and Support articles for [!DNL Experience Platform].
+For new features and fixes, see the [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest){target="_blank"}.
 
 ### New AEP tutorials
+
+View the latest video tutorials for [!DNL Experience Platform]. 
 
 | Published | Applications | Name | Type | Description |
 | ---------- | ---------- | ---------- | ---------- | ---------- |
@@ -168,9 +170,11 @@ New articles and updates to existing articles for [!DNL Experience Platform].
 
 ### [!DNL Adobe Real-Time CDP] {#tutorials-rtcdp}
 
-View the latest video tutorials and Support articles for Real-Time CDP.
+For new features and fixes, see the [[!DNL Experience Platform] release notes](https://experienceleague.adobe.com/en/docs/experience-platform/release-notes/latest){target="_blank"}, which also cover [!DNL Real-Time CDP].
 
 #### Real-Time CDP tutorials
+
+View the latest video tutorials and Support articles for Real-Time CDP.
 
 | Published | Name | Type | Description |
 | ----------- | ---------- | ---------- | ---------- |
@@ -184,7 +188,7 @@ View the latest video tutorials and Support articles for Real-Time CDP.
 
 ### [!DNL Adobe Analytics] {#tutorials-analytics}
 
-Adobe Analytics releases operate on a continuous delivery model, which allows for a more scalable, phased approach to feature deployment. Release notes are updated several times a month.
+Adobe Analytics releases operate on a continuous delivery model, which allows for a more scalable, phased approach to feature deployment. Release notes are updated several times a month. For new features and fixes, see the [[!DNL Analytics] release notes](https://experienceleague.adobe.com/en/docs/analytics/release-notes/latest){target="_blank"}.
 
 #### AppMeasurement {#appm}
 
@@ -202,7 +206,11 @@ New articles and updates to existing articles for [!DNL Analytics].
 
 ### [!DNL Adobe Customer Journey Analytics] {#tutorials-cja}
 
-New tutorials published for [!DNL Customer Journey Analytics]. 
+For new features and fixes, see the [[!DNL Customer Journey Analytics] release notes](https://experienceleague.adobe.com/en/docs/analytics-platform/using/releases/latest?lang=en#releases){target="_blank"}.
+
+#### New [!DNL Customer Journey Analytics] tutorials
+
+New tutorials published for [!DNL Customer Journey Analytics].
 
 | Published | Name | Type | Description |
 | ----------- | ---------- | ---------- | ---------- |
@@ -223,7 +231,11 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 
 ### [!DNL Adobe Experience Manager] {#tutorials-aem}
 
-Latest video tutorials and Support articles for Experience Manager as a Cloud Service
+For new features and fixes, see the [[!DNL Experience Manager] as a Cloud Service release notes](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current){target="_blank"}.
+
+#### New [!DNL Experience Manager] tutorials
+
+Latest video tutorials and Support articles for Experience Manager as a Cloud Service.
 
 * [Latest AEM CS release overview video](https://experienceleague.adobe.com/en/events#f-el_product=Experience%20Manager%20as%20a%20Cloud%20Service){target="_blank"}
 
@@ -417,6 +429,10 @@ New articles and updates to existing articles for [!DNL Experience Manager].
 
 ### [!DNL Adobe Commerce] {#tutorials-commerce}
 
+For new features and fixes, see the [[!DNL Adobe Commerce] as a Cloud Service release notes](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes){target="_blank"} or the [release notes for [!DNL Adobe Commerce] and [!DNL Magento Open Source]](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/adobe-commerce/2-4-9){target="_blank"}.
+
+#### New [!DNL Commerce] tutorials
+
 Get access to new tutorials and Knowledge Base support articles for [!DNL Adobe Commerce].
 
 * [Adobe [!DNL Commerce] Services Guides](https://experienceleague.adobe.com/en/docs/commerce/user-guides/home){target="_blank"}
@@ -474,6 +490,10 @@ New articles and updates to existing articles for Adobe Commerce.
 
 ### [!DNL Adobe Target] {#tutorials-target}
 
+For new features and fixes, see the [[!DNL Adobe Target] release notes](https://experienceleague.adobe.com/en/docs/target/using/release-notes/release-notes){target="_blank"}.
+
+#### New [!DNL Target] tutorials
+
 Visit [!DNL Adobe Target] [tutorials](https://experienceleague.adobe.com/en/docs/target-learn/tutorials/overview) for the latest content.
 
 | Published | Name | Type | Description |
@@ -481,6 +501,10 @@ Visit [!DNL Adobe Target] [tutorials](https://experienceleague.adobe.com/en/docs
 | October 2026 | [Profile Attribute Based Recommendations](https://experienceleague.adobe.com/en/docs/target-learn/tutorials/recommendations/most-viewed-by-profile-attribute){target="_blank"} | Video | Learn how to use Adobe Target's Most Viewed by Profile Attribute feature to deliver localized, segment-specific recommendations instead of a one-size-fits-all popularity list. |
 
 ### [!DNL Adobe Campaign] {#tutorials-campaign}
+
+For new features and fixes, see the release notes for [[!DNL Campaign] v8](https://experienceleague.adobe.com/en/docs/campaign/campaign-v8/releases/release-notes){target="_blank"}, [[!DNL Campaign Classic] v7](https://experienceleague.adobe.com/en/docs/campaign-classic/using/release-notes/latest-release){target="_blank"}, [[!DNL Campaign] Web user interface](https://experienceleague.adobe.com/en/docs/campaign-web/v8/release-notes/release-notes){target="_blank"}, and [[!DNL Campaign Standard]](https://experienceleague.adobe.com/en/docs/campaign-standard/using/release-notes/release-notes){target="_blank"}.
+
+#### New [!DNL Campaign] tutorials
 
 Find the latest video tutorials and Support articles for Adobe Campaign.
 
@@ -507,6 +531,10 @@ New articles and updates to existing articles for [!DNL Campaign].
 
 ### [!DNL Adobe Journey Optimizer] {#tutorials-ajo}
 
+For new features and fixes, see the [[!DNL Journey Optimizer] release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"}.
+
+#### New [!DNL Journey Optimizer] tutorials
+
 View the latest tutorials and support articles on Experience League.
 
 | Published | Applications | Name | Type | Description |
@@ -532,7 +560,11 @@ New articles and updates to existing articles for [!DNL Journey Optimizer].
 
 ### [!DNL Adobe Journey Optimizer B2B Edition] {#tutorials-ajo-b2b}
 
-Find learning resources for Journey Optimizer B2B Edition. 
+For new features and fixes, see the [[!DNL Journey Optimizer B2B Edition] release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/release-notes){target="_blank"}.
+
+#### New [!DNL Journey Optimizer B2B Edition] tutorials
+
+Find learning resources for Journey Optimizer B2B Edition.
 
 * [[!DNL Journey Optimizer B2B Edition]](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b){target="_blank"} (All self-help)
 * [Product documentation](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/guide-overview){target="_blank"} for [!DNL Journey Optimizer B2B Edition]
@@ -545,6 +577,10 @@ New videos, tutorials, or courses published for Journey Optimizer B2B Edition.
 | July 2026 | [Project Falco Summit announcements](https://experienceleaguecommunities.adobe.com/adobe-marketo-engage-27/join-the-project-falco-beta-program-251090){target="_blank"} | Video | Watch the Project Falco beta demo highlighting all announcements made at Summit 2026. |
 
 ### [!DNL Adobe Marketo Engage] {#tutorials-marketo}
+
+For new features and fixes, see the [[!DNL Marketo Engage] release notes](https://experienceleague.adobe.com/en/docs/marketo/using/release-notes/current){target="_blank"}.
+
+#### New [!DNL Marketo] tutorials
 
 New tutorials published for Adobe Marketo.
 
@@ -568,6 +604,10 @@ New articles and updates to existing articles for [!DNL Marketo].
 -->
 
 ### [!DNL Adobe Workfront] {#tutorials-workfront}
+
+For new features and fixes, see the [[!DNL Workfront] product releases](https://experienceleague.adobe.com/en/docs/workfront/using/product-announcements/product-releases/product-releases){target="_blank"} or the [[!DNL Workfront Fusion] release activity](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/fusion-release-activity/fusion-releases-2026/fusion-2026-6-1){target="_blank"}.
+
+#### New [!DNL Workfront] tutorials
 
 New [!DNL Workfront] tutorials and events on Experience League.
 
@@ -594,6 +634,10 @@ For the latest product documentation, see the [Adobe [!DNL Workfront] documentat
 
 ### [!DNL Adobe GenStudio for Performance Marketing] {#tutorials-genstudio-marketing}
 
+For new features and fixes, see the [[!DNL GenStudio for Performance Marketing] release notes](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/release-notes#latest){target="_blank"}.
+
+#### New [!DNL GenStudio] tutorials
+
 Video tutorials for GenStudio for Performance Marketing.
 
 | Published | Name | Type | Description |
@@ -608,7 +652,7 @@ Video tutorials for GenStudio for Performance Marketing.
 
 ### [!DNL Adobe Pass] {#tutorials-pass}
 
-[!DNL Adobe Pass] is a multi-screen TV platform that helps broadcasters, cable networks, and service providers create and monetize engaging, personalized viewing experiences.
+[!DNL Adobe Pass] is a multi-screen TV platform that helps broadcasters, cable networks, and service providers create and monetize engaging, personalized viewing experiences. For new features and fixes, see the [[!DNL Adobe Pass] release notes](https://experienceleague.adobe.com/en/docs/pass/authentication/product-releases/2026/auth-rn-370){target="_blank"}.
 
 * [Adobe Pass Documentation](https://experienceleague.adobe.com/en/docs/pass){target="_blank"} to find release-specific information, system requirements, limitations, fixed issues, and known issues.
 
@@ -641,6 +685,10 @@ New tutorials for [!DNL Firefly Graph], Adobe's node-based creative automation t
 
 ### [!DNL Adobe Brand Concierge] {#tutorials-brand-concierge}
 
+For new features and fixes, see the [[!DNL Brand Concierge] release notes](https://experienceleague.adobe.com/en/docs/brand-concierge/content/release-notes/current){target="_blank"}.
+
+#### New [!DNL Brand Concierge] tutorials
+
 View new tutorials for [!DNL Adobe Brand Concierge].
 
 | Published | Name | Type | Description |
@@ -652,6 +700,10 @@ View new tutorials for [!DNL Adobe Brand Concierge].
 | October 2026 | [Your Pre-Go-Live Checklist and Rollout Plan](https://experienceleague.adobe.com/en/docs/brand-concierge/content/go-live-guide/your-pre-go-live-checklist-and-rollout-plan){target="_blank"} | Tutorial | Walk through the pre-go-live checklist for Brand Concierge and learn how to roll out gradually, from internal testing to full traffic, while monitoring quality along the way. |
 
 ### [!DNL Adobe Brand Visibility] (formerly [!DNL Adobe LLM Optimizer]) {#tutorials-llm-optimizer}
+
+For new features and fixes, see the [[!DNL Brand Visibility] release notes](https://abv.adobe.com/articles/release-notes){target="_blank"}.
+
+#### New [!DNL Brand Visibility] tutorials
 
 View new tutorials for [!DNL Adobe Brand Visibility].
 
