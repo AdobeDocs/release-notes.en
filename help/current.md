@@ -10,7 +10,7 @@ mini-toc-levels: 2
 
 This page helps you find the latest:
 
-* [Release notes](#application-release-notes) for all [!DNL CX Enterprise] applications (updated **November 2**)
+* [Release notes](#application-release-notes) for all [!DNL CX Enterprise] applications (updated **November 3**)
 * [Events and what's new](#events) on Experience League
 * [[!DNL CX Enterprise Coworker] and AI](#ai) learning resources (updated **November 3**)
 * [Tutorials and Support articles](#articles) available on [!DNL Experience League]
