@@ -10,10 +10,10 @@ mini-toc-levels: 2
 
 This page helps you find the latest:
 
-* [Release notes](#application-release-notes) for all [!DNL CX Enterprise] applications (updated **November 6**)
-* [Events and what's new](#events) on Experience League
-* [[!DNL CX Enterprise Coworker] and AI](#ai) learning resources (updated **November 3**)
-* [Tutorials and Support articles](#articles) available on [!DNL Experience League]
+* [Release notes](#application-release-notes) round-up for all [!DNL CX Enterprise] applications (updated **November 6**)
+* [New videos and support articles](#articles) per application
+
+To find and register for events, visit [Experience League Events](https://experienceleague.adobe.com/en/events)
 
 >[!TIP]
 >
@@ -69,22 +69,37 @@ Last update: **November 6, 2026**
 
 [Top](#top)
 
-## Events and what's new on Experience League{#events}
+## New videos and support articles {#articles}
 
-* [Experience League Events v2](https://experienceleague.adobe.com/en/events): The new Events page combines upcoming and on-demand events in a centralized search.
-* [AI Training](https://experienceleague.adobe.com/en/ai-training): Experience League's AI hub helps you build practical AI skills for everyday marketing work.
+Links to the latest video tutorials and [Support](https://experienceleague.adobe.com/support/v2/en/) articles by application. (For product documentation for features and fixes, go to [release notes by application](#application-release-notes) or use the release notes link in each section.)
 
-<!-- 
-### Upcoming events
+* [Adobe [!DNL CX Enterprise Coworker]](#ai)
+* [[!DNL Adobe Experience Platform]](#tutorials-aep) 
+* [[!DNL Adobe Real-Time CDP]](#tutorials-rtcdp)
+* [[!DNL Adobe Analytics]](#tutorials-analytics)
+* [[!DNL Adobe Customer Journey Analytics]](#tutorials-cja)
+* [[!DNL Adobe Streaming Media Analytics]](#tutorials-sma)
+* [[!DNL Adobe Marketing Campaign Analytics]](#tutorials-mca)
+* [[!DNL Adobe Experience Manager]](#tutorials-aem)
+* [[!DNL Adobe Commerce]](#tutorials-commerce)
+* [[!DNL Adobe Target]](#tutorials-target)
+* [[!DNL Adobe Campaign]](#tutorials-campaign)
+* [[!DNL Adobe Journey Optimizer]](#tutorials-ajo)
+* [[!DNL Adobe Journey Optimizer B2B Edition]](#tutorials-ajo-b2b)
+* [[!DNL Adobe Marketo Engage]](#tutorials-marketo)
+* [[!DNL Adobe Workfront]](#tutorials-workfront)
+* [[!DNL Adobe GenStudio for Performance Marketing]](#tutorials-genstudio-marketing)
+* [[!DNL Adobe Pass]](#tutorials-pass)
+* [[!DNL Adobe Document Cloud]](#tutorials-document-cloud)
+* [[!DNL Adobe Creative Cloud for enterprise]](#tutorials-creative-cloud)
+* [[!DNL Adobe Brand Concierge]](#tutorials-brand-concierge)
+* [[!DNL Adobe LLM Optimizer]](#tutorials-llm-optimizer)
+* [Customer Data Management — Voices](#tutorials-voices)
+* [Customer experience orchestration blueprints](#tutorials-blueprints)
+* [Certification at Adobe](https://experienceleague.adobe.com/en/certification-home){target="_blank"}
+* [Adobe product security vulnerabilities](https://helpx.adobe.com/security.html){target="_blank"}
 
-| Application | Date | Description | Details |
-| ------- | ------- | ------- | ------- |
-| [!DNL Coworker] | September 24, 2026 | **Experience League LIVE: [!DNL Coworker] Unlocked:** Transforming Workflows with Adobe CX Enterprise [!DNL Coworker] | [YouTube](https://www.youtube.com/live/hrNuDVQFtLA){target="_blank"} |
-| General | September 29, 2026 | **Experience Maker Awards Community AMA \| Advice from Award Winners** — Learn why Adobe celebrates Experience Makers, the work and impact we're looking to recognize, and how to tell a story that stands out. | [Register](https://events.teams.microsoft.com/event/005ef4f0-4f57-4f70-94bb-33c092cc91f4@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} |
-| [!DNL Adobe Experience Manager], [!DNL Experience Manager Assets] | September 30, 2026 | **From Approved to Activated: Powering Omnichannel Marketing with AEM Assets** — Part 4 of the AEM series: learn how [!DNL AEM Assets] helps deliver approved content across channels faster while maintaining consistency, governance, and control. | [Register](https://events.teams.microsoft.com/event/adcc686d-d687-4d20-ae4e-ab57c8a36d0e@fa7b1b5a-7b34-4387-94ae-d2c178decee1){target="_blank"} | 
--->
-
-## [!DNL CX Enterprise Coworker] and AI resources {#ai}
+### [!DNL CX Enterprise Coworker] and AI resources {#ai}
 
 Find the latest learning resources published for [[!DNL Coworker]](https://experienceleague.adobe.com/en/docs/coworker/content/home) and AI features in [!DNL CX Enterprise] applications. 
 
@@ -109,35 +124,6 @@ Find the latest learning resources published for [[!DNL Coworker]](https://exper
 | [!DNL Coworker] | **Plugins** | [Managing Plugins for Your Org](https://experienceleague.adobe.com/en/docs/coworker/content/customizations/plugins/manage-plugins-for-your-org){target="_blank"} — learn how administrators can extend Coworker Chat with approved plugins and govern access to skills and connected tools. | October 8, 2026 |
 
 [Top](#top)
-
-## New tutorials and Support articles {#articles}
-
-Links to the latest tutorials and [Support](https://experienceleague.adobe.com/support/v2/en/) articles by application. These sections list learning resources. For new features and fixes, go to the [release notes by application](#application-release-notes) or use the release notes link in each section.
-
-* [Adobe [!DNL CX Enterprise Coworker]](#ai)
-* [[!DNL Adobe Experience Platform]](#tutorials-aep) 
-* [[!DNL Adobe Real-Time CDP]](#tutorials-rtcdp)
-* [[!DNL Adobe Analytics]](#tutorials-analytics)
-* [[!DNL Adobe Customer Journey Analytics]](#tutorials-cja)
-* [[!DNL Adobe Streaming Media Analytics]](#tutorials-sma)
-* [[!DNL Adobe Experience Manager]](#tutorials-aem)
-* [[!DNL Adobe Commerce]](#tutorials-commerce)
-* [[!DNL Adobe Target]](#tutorials-target)
-* [[!DNL Adobe Campaign]](#tutorials-campaign)
-* [[!DNL Adobe Journey Optimizer]](#tutorials-ajo)
-* [[!DNL Adobe Journey Optimizer B2B Edition]](#tutorials-ajo-b2b)
-* [[!DNL Adobe Marketo Engage]](#tutorials-marketo)
-* [[!DNL Adobe Workfront]](#tutorials-workfront)
-* [[!DNL Adobe GenStudio for Performance Marketing]](#tutorials-genstudio-marketing)
-* [[!DNL Adobe Pass]](#tutorials-pass)
-* [[!DNL Adobe Document Cloud]](#tutorials-document-cloud)
-* [[!DNL Adobe Creative Cloud for enterprise]](#tutorials-creative-cloud)
-* [[!DNL Adobe Brand Concierge]](#tutorials-brand-concierge)
-* [[!DNL Adobe LLM Optimizer]](#tutorials-llm-optimizer)
-* [Customer Data Management — Voices](#tutorials-voices)
-* [Customer experience orchestration blueprints](#tutorials-blueprints)
-* [Certification at Adobe](https://experienceleague.adobe.com/en/certification-home){target="_blank"}
-* [Adobe product security vulnerabilities](https://helpx.adobe.com/security.html){target="_blank"}
 
 ### [!DNL Adobe System Status] {#status}
 
@@ -231,6 +217,12 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 | --------- | ---- | ---- | ----------- |
 | August 2026 | [Transformed lookup dataset dimensions don't appear in Workspace in Customer Journey Analytics](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-40231) | New article | Learn about the solutions to the issue when dimensions from a transformed lookup dataset don't appear in Customer Journey Analytics [!UICONTROL Workspace], even though the matching key data exists in Adobe Experience Platform, and Customer Journey Analytics. |
 | August 2026 | [Make CJA derived fields and calculated metrics show in BI tools](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-40987) | New article | Learn about the solutions to the issue when derived fields, and calculated metrics created in Customer Journey Analytics (CJA) don't appear in BI tools, such as [!DNL Tableau], or [!DNL Power BI], because those tools identify components by their IDs instead of display names, and calculated metrics stay hidden until shared with the authenticated user. |
+
+### [!DNL Marketing Campaign Analytics] (formerly [!DNL Mix Modeler]) {#tutorials-mca}
+
+[!DNL Marketing Campaign Analytics] is built on [!DNL Adobe Experience Platform] and measures campaign performance and helps optimize marketing planning across paid, earned, and owned channels. For new features and fixes, see the [[!DNL Marketing Campaign Analytics] release notes](https://experienceleague.adobe.com/en/docs/marketing-campaign-analytics/using/releases/latest){target="_blank"}.
+
+* [Marketing Campaign Analytics documentation](https://experienceleague.adobe.com/en/docs/marketing-campaign-analytics/using/overview){target="_blank"} to find product overviews, how-to guides, and release information.
 
 ### [!DNL Adobe Experience Manager] {#tutorials-aem}
 
