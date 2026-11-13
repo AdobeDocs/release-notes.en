@@ -3,6 +3,7 @@ title: Central Release Notes
 description: Find links to Experience Cloud application release notes. View new tutorial videos, read Support articles, and locate self-help resources on Experience League. 
 doc-type: release notes
 last-update: November 2026
+last-substantial-update: 2026-13-2026
 author: mfrei
 mini-toc-levels: 2
 ---
@@ -11,9 +12,9 @@ mini-toc-levels: 2
 This page helps you find the latest:
 
 * [Release notes](#application-release-notes) round-up for all [!DNL CX Enterprise] applications (updated **November 13**)
-* [New videos and support articles](#articles) per application
+* [Latest videos and support articles](#articles) by application
 
-To find and register for events, visit [Experience League Events](https://experienceleague.adobe.com/en/events)
+To find and register for events, visit [Experience League Events](https://experienceleague.adobe.com/en/events).
 
 >[!TIP]
 >
@@ -27,7 +28,7 @@ Learn about new (and planned) updates to all [!DNL CX Enterprise] applications.
 
 Last update: **November 13, 2026**
 
-| Application | Release date | Release notes URL | Updates |
+| Application | Date added | Release notes URL | What's new |
 | ------------- | ------------- | ------------- | ------------- |
 | **[!DNL Adobe Journey Optimizer]** | November 13, 2026 | [[!DNL Journey Optimizer] release notes](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/whats-new/release-notes){target="_blank"} | <ul><li>Migrate transactional email campaigns: the migration workspace now supports Campaigns, so you can convert transactional emails from your existing marketing platform into API-triggered campaigns (Limited Availability) (November 13)</li><li>Dynamic token substitution for Experience Manager fragments: use profile attribute paths directly in Content Fragments, no token map needed (Limited Availability) (November 5)</li><li>Profile and context features for Personalized optimization models to improve offer relevance (Limited Availability) (November 3)</li><li>Orchestrated campaigns skills in [!DNL CX Enterprise Coworker]: list and filter campaigns, retrieve details and history, and render workflow graphs (November 3)</li><li>Custom metadata for campaigns and journeys: up to 10 custom business fields per entity type (Limited Availability) (October 29)</li></ul>[Tutorials and support articles](#tutorials-ajo) |
 | **[!DNL Adobe Target]** | November 12, 2026 | [[!DNL Adobe Target] release notes](https://experienceleague.adobe.com/en/docs/target/using/release-notes/release-notes){target="_blank"} | <ul><li>26.11.1: [!DNL Coworker] entry points in the Activities list: a Review my live tests button and an Ask [!DNL Coworker] menu on each activity</li><li>26.10.2: fixed goal settings shown incorrectly in the Activity Overview, backup recommendations created after promotion edits, and reporting presets deleted after about two weeks; added Safari support (not supported in the Visual Experience Composer or Enhanced Experience Composer)</li><li>26.10.1: fixed A4T reporting error with newly added report suites and raw HTML appearing instead of the offer name for Experience Fragments in the Visual Experience Composer</li><li>26.9.8: Sample Size Calculator (beta) to plan experiments by estimating traffic, duration, and minimum detectable effect</li></ul>[Tutorials and support articles](#tutorials-target) |
@@ -69,7 +70,7 @@ Last update: **November 13, 2026**
 
 [Top](#top)
 
-## New videos and support articles {#articles}
+## Latest videos and support articles {#articles}
 
 Links to the latest video tutorials and [Support](https://experienceleague.adobe.com/support/v2/en/) articles by application. (For product documentation for features and fixes, go to [release notes by application](#application-release-notes) or use the release notes link in each section.)
 
@@ -108,6 +109,7 @@ Find the latest learning resources published for [!DNL Coworker] and AI features
 | [!DNL Coworker] | **Journeys** | [Accelerate customer journey orchestration with Coworker](https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/accelerate-personalized-customer-engagement){target="_blank"} — see how [!DNL Coworker] turns a marketing goal into a personalized engagement journey by identifying visitor audiences, creating a journey in [!DNL Journey Optimizer], and preparing promotional messaging. | November 5, 2026 |
 | [!DNL Coworker] | **Audiences** | [Why did my audience size spike or drop?](https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/audiences/why-your-audience-size-changed){target="_blank"} — learn how to use plain-language prompts in [!DNL Coworker] to investigate an unexpected audience-size change, using causal analysis to connect it with operational data and rule out configuration changes. | November 5, 2026 |
 | [!DNL Coworker] | **Journeys** | [Compare journey versions using Coworker](https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/journey-version-comparison){target="_blank"} — learn how to compare versions of a [!DNL Journey Optimizer] journey with visual comparisons and detailed summaries of changes to activities, branches, and journey properties. | November 4, 2026 |
+| [!DNL Coworker] | **AI platforms** | [[!DNL Adobe CX Enterprise Coworker] for AI platforms](https://experienceleague.adobe.com/en/docs/coworker/content/ai-platforms){target="_blank"} — learn how to use [!DNL Coworker] inside Microsoft 365 Copilot, ChatGPT, Claude, and other AI platforms, including prerequisites, setup steps, sample prompts, and known limitations. | November 4, 2026 |
 | [!DNL Coworker] | **Journeys** | [Simulate a journey using Coworker](https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/journeys/simulate-journey-using-coworker){target="_blank"} — learn how to simulate [!DNL Journey Optimizer] journeys to test paths, receive proof messages, and review path coverage before publishing. | November 3, 2026 |
 | [!DNL Coworker] | **Workflows** | [Coworker Chat workflows](https://experienceleague.adobe.com/en/docs/coworker/content/chat/use-cases/workflows){target="_blank"} — now lists skills for inspecting [!DNL Experience Manager] workflows and exploring Dispatcher insights, plus new audience skills for inventory distribution, inventory health, lineage, and duplicate detection. | November 2, 2026 |
 | [!DNL Coworker] | **Get started** | [Get started with Coworker Chat](https://experienceleague.adobe.com/en/docs/coworker/content/chat/ui-guide){target="_blank"} — rewritten to match the current interface, including the account menu, navigation rail, **Artifacts**, **Experience Context**, and how to choose an organization and sandbox. | October 26, 2026 |
