@@ -14,15 +14,17 @@ This page helps you find the latest:
 * [Release notes](#application-release-notes) round-up for all [!DNL CX Enterprise] applications (updated **November 17**)
 * [Latest videos and support articles](#articles) by application
 
-To find and register for events, visit [Experience League Events](https://experienceleague.adobe.com/en/events).
-
 >[!TIP]
 >
 >To receive a monthly email about new [!DNL CX Enterprise] features and updates to this page, enable **[!UICONTROL Priority Product Update]** on the [[!UICONTROL Newsletters]](https://account.adobe.com/magazines) page.  
 
 ## Events {#events}
 
-* **[!DNL Experience League LIVE]** | _Scale Faster, Evolve Flexibly: Meet Adobe Experience Platform Growth Credits_ | Join us for an introduction to **[!DNL Adobe Experience Platform]** Growth Credits, a new, flexible way to add capacity to your **[!DNL Real-Time CDP]** or **[!DNL Adobe Journey Optimizer]** investment as your needs change. | **December 2 @ 8:30 AM PT** | [Register](https://engage.adobe.com/ExpLeagueLive-261202.html)
+| Applications | Event | Description | Date | Registration |
+| ---------- | ---------- | ---------- | ---------- | ---------- |
+| [!DNL Adobe Experience Platform], [!DNL Real-Time CDP], [!DNL Adobe Journey Optimizer] | _Experience League LIVE_ | Scale faster, evolve flexibly: Meet Adobe Experience Platform Growth Credits. | December 2 @ 8:30 AM PT | [Register](https://engage.adobe.com/ExpLeagueLive-261202.html){target="_blank"} |
+
+To find and register for events, visit [Experience League Events](https://experienceleague.adobe.com/en/events).
 
 ## [!DNL CX Enterprise] release notes {#application-release-notes}
 
