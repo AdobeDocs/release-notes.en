@@ -228,7 +228,7 @@ New articles and updates to existing articles for [!DNL Customer Journey Analyti
 | --------- | ---- | ---- | ----------- |
 | October 2026 | [Derived field containers are limited to event, session, and person scope](https://experienceleague.adobe.com/en/docs/experience-cloud-kcs/kbarticles/ka-50143) | New article | Learn about the solutions to the issue when derived field functions in Customer Journey Analytics support only event, session, and person scope containers and don't allow a dimension to act as a container. |
 
-### [!DNL Marketing Campaign Analytics] (formerly [!DNL Mix Modeler]) videos and support articles {#tutorials-mca}
+### [!DNL Marketing Campaign Analytics] videos and support articles {#tutorials-mca}
 
 [!DNL Marketing Campaign Analytics] is built on [!DNL Adobe Experience Platform] and measures campaign performance and helps optimize marketing planning across paid, earned, and owned channels. For new features and fixes, see the [[!DNL Marketing Campaign Analytics] release notes](https://experienceleague.adobe.com/en/docs/marketing-campaign-analytics/using/releases/latest){target="_blank"}.
 
